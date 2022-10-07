@@ -14,6 +14,7 @@ class Project:
 		self.doc_link = ''
 		self.has_pres_report = False
 
+
 	def print_data(self):
 		print("Title: " + self.title)
 		print("Country: " + self.country)
@@ -27,26 +28,25 @@ class Project:
 		else:
 			print("Project Design Report link: " + self.doc_link)
 
+
 	def get_filename(self):
 		filename = self.country + "_" + self.year + "_" + self.id
 		return filename.replace(" ", "-").lower()
+
 
 	def get_report_link(self):
 		response = requests.get(self.url)
 		content = BeautifulSoup(response.text, 'lxml')
 
 		a_tags = content.find_all('a')
-
 		for tag in a_tags:
 			try:
 				http_match = re.findall('https://www\.ifad\.org.+', tag['href'])
 				if len(http_match) == 0:
 					continue
-				#print(tag)
 				link_texts = tag.find_all('strong')
 				if len(link_texts) == 0:
 					continue
-				#print(link_texts)
 
 				for text in link_texts:
 					cmp_text = str(text).replace("’","'").lower()
@@ -59,6 +59,28 @@ class Project:
 							self.doc_link = http_match[0]
 			except:
 				pass
+		if len(self.doc_link) > 0:
+			return
+
+		# if any specific link doesn't contain the doc description the div above might
+		div_tags = content.find_all('div')
+		for tag in div_tags:
+			try:
+				if tag['class'][0] == 'col-lg-7' and tag['class'][1] == 'col-md-12':
+					http_match = re.findall('https://www\.ifad\.org[^\"]+', str(tag))
+					if len(http_match) == 0:
+						continue
+					cmp_text = str(tag).replace("’","'").lower()
+					if "president's report" in cmp_text:
+						self.doc_link = http_match[0]
+						self.has_pres_report = True
+						return
+					elif "design" in cmp_text:
+						if self.doc_link == '':
+							self.doc_link = http_match[0]
+			except:
+				pass
+
 
 	def download_txt(self):
 		if self.doc_link == '':
@@ -87,17 +109,26 @@ class Project:
 			except:
 				pass
 
+
 		if len(pdf_link) > 0:
 			pdf_response = requests.get(pdf_link)
 			filename = str(self.get_filename())
 			pdf_filename = filename + ".pdf"
 			txt_filename = filename + ".txt"
-			with open('./pdf/' + pdf_filename, 'wb') as f:
-				f.write(pdf_response.content)
-			print("PDF generated: " + pdf_filename)
-			os.system("pdf2txt.py ./pdf/" + pdf_filename + " > ./txt_files/" + txt_filename)
-			print("txt generated: " + txt_filename)
-			os.system("rm ./pdf/" + pdf_filename) # saves space by deleting the pdf
+			try:
+				with open('./' + pdf_filename, 'wb') as f:
+					f.write(pdf_response.content)
+				print("PDF generated: " + pdf_filename)
+				os.system("pdf2txt.py ./" + pdf_filename + " > ./txt_files/" + txt_filename)
+				os.system("sed '/^\s*$/d' -i txt_files/" + txt_filename) # removes blank lines
+				print("txt generated: " + txt_filename)
+				os.system("rm ./" + pdf_filename) # saves space by deleting the pdf
+				print("PDF deleted")
+				return 0
+			except:
+				print("Encountered issue downloading PDF and extracting txt")
+				pass
+		return 1
 
 
 def get_valid_project_urls(oldest_year):
@@ -135,13 +166,13 @@ current_projects = get_valid_project_urls(2015)
 print("Number of projects: " + str(len(current_projects)))
 print()
 
-'''report_projects = []
+report_projects = []
 no_report_projects = []
 
 num_pres = 0
 num_dsgn = 0
 
-for i, project in enumerate(current_projects):
+'''for i, project in enumerate(current_projects):
 	project.get_report_link()
 	if project.doc_link == '':
 		no_report_projects.append(project)
@@ -155,12 +186,17 @@ for i, project in enumerate(current_projects):
 			print(str(i) + "\tproject design report")
 			num_dsgn += 1
 print()
-print(str(num_pres) + " projects have a president's report")								#102
-print(str(num_dsgn) + " projects have a project design report but no president's reprot")	#61
-print(str(len(no_report_projects)) + " projects don't have a president's report")			#40
-'''
+print(str(num_pres) + " projects have a president's report")								#103
+print(str(num_dsgn) + " projects have a project design report but no president's reprot")	#74
+print(str(len(no_report_projects)) + " projects don't have a president's report")			#26
+print()'''
 
-test_project = current_projects[199] # [3] is an example with both presidents report and project design report
+'''print("Projects w/o reports:")
+for project in no_report_projects:
+	print(project.url)'''
+
+
+test_project = current_projects[83] # [3] is an example with both presidents report and project design report
 # using 35 causes an error
 test_project.get_report_link()
 print()
@@ -171,9 +207,10 @@ test_project.download_txt()
 
 '''
 Issues:
-- some president's reports don't have the phrase "President's report" in their link
-- ex: current_projects[199]
+- there are supervision/implementation docs and mid-term docs
+- ex: [108] https://www.ifad.org/en/web/operations/-/project/2000001184
 
-
+Todo:
+- seperate folders for pres report and design report
 
 '''
