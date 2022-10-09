@@ -1,0 +1,3581 @@
+Document:
+Date:
+Distribution:
+Original:
+EB 2015/LOT/P.15
+July 30 2015
+Public
+English
+E
+President’s report
+Proposed loan to the People’s Republic of
+Bangladesh for the National Agricultural
+Technology Programme – Phase II Project
+Note to Executive Board representatives
+Focal points:
+Technical questions:
+Dispatch of documentation:
+Hubert Boirard
+Country Programme Manager
+Tel.: +39 06 5459 2298
+e-mail: h.boirard@ifad.org
+For: Approval
+Alessandra Zusi Bergés
+Officer-in-Charge
+Governing Bodies Office
+Tel.: +39 06 5459 2092
+e-mail: gb_office@ifad.org
+EB 2015/LOT/P.15
+ii
+iii
+iv
+1
+1
+1
+1
+2
+2
+2
+2
+4
+4
+4
+5
+5
+7
+7
+7
+7
+8
+8
+9
+9
+9
+9
+10
+10
+10
+10
+Contents
+Abbreviations and acronyms
+Map of Bangladesh
+Financing summary
+Recommendation for approval
+I.
+Strategic context and rationale
+A. Country and rural development and poverty context
+B. Rationale and alignment with government priorities and RB-
+COSOP
+II. Programme description
+A. Project area and target group
+B. Programme development objective
+C. Components/outcomes
+III. Programme implementation
+A. Approach
+B. Organizational framework
+C. Planning, monitoring and evaluation, and learning and
+knowledge management
+D. Financial management, procurement and governance
+E. Supervision
+IV. Programme costs, financing, benefits
+A. Programme costs
+B. Programme financing
+C. Summary benefit and economic analysis
+D. Sustainability
+E. Risk identification and mitigation
+V.
+Corporate considerations
+A. Compliance with IFAD policies
+B. Alignment and harmonization
+C. Innovations and scaling up
+D. Policy engagement
+VI. Legal instruments and authority
+VII. Recommendation
+Appendices
+I. Negotiated financing agreement
+II. Logical framework
+i
+EB 2015/LOT/P.15
+Abbreviations and acronyms
+AIF
+BARC
+CIG
+COSOP
+DAE
+DLS
+DoF
+EMF
+FM
+GAAP
+HOPE
+ICT
+IDA
+MoA
+MoFL
+NAEP
+NARS
+NATP
+PACE
+PDO
+PIM
+PIU
+POs
+PMU
+SDR
+USAID
+agricultural innovation fund
+Bangladesh Agricultural Research Council
+common interest group
+country strategic opportunities programme
+Department of Agricultural Extension (MoA)
+Department of Livestock Services (under the Ministry of Fisheries and
+Livestock)
+Department of Fisheries (under the Ministry of Fisheries and Livestock)
+environmental management framework
+financial management
+Governance and Accountability Action Plan
+Head of Procurement Entities
+information and communication technology
+International Development Association (WB Group)
+Ministry of Agriculture
+Ministry of Fisheries and Livestock
+National Agricultural Extension Policy
+National Agricultural Research System
+National Agricultural Technology Programme
+Promoting Agricultural Commercialization and Enterprises Project
+project development objective
+project implementation manual
+project implementation unit
+partner organizations
+project management unit
+special drawing rights (for IMF)
+United States Agency for International Development
+ii
+EB 2015/LOT/P.15
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+iii
+EB 2015/LOT/P.15
+People’s Republic of Bangladesh
+National Agricultural Technology Programme – Phase II
+Project
+Financing summary
+Initiating institution:
+World Bank
+Borrower:
+Ministry of Finance
+Executing agency:
+Ministry of Agriculture
+Total programme cost:
+US$214 million (net of beneficiary contributions)
+Amount of IFAD loan:
+Terms of IFAD loan:
+Cofinancier(s):
+Amount of cofinancing:
+SDR 17 million  (equivalent  to  approximately  US$23.8
+million)
+Highly  concessional: Maturity  period  of  40  years,
+including  a  grace  period  of  10  years,  with  a  service
+charge of 0.75 per cent per annum
+Government of Bangladesh, World Bank, United States
+Agency for International Development (USAID)
+World Bank loan: US$176 million
+USAID grant: US$7.4 million
+Contribution of borrower:
+US$6.7 million
+Contribution of beneficiaries:
+US$6.5 million
+Appraising institution:
+Cooperating institution:
+World Bank
+World Bank
+iv
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2015/LOT/P.15
+Recommendation for approval
+The  Executive  Board  is  invited  to  approve  the  recommendation  for  the  proposed
+loan to the People’s Republic of Bangladesh for the National Agricultural Technology
+Programme – Phase II Project, as contained in paragraph 55.
+Proposed loan to the National Agricultural Technology
+Programme – Phase II Project for the People’s Republic
+of Bangladesh
+I. Strategic context and rationale
+A. Country and rural development and poverty context
+1.
+Building on its remarkable social and economic performance over the past 20
+years, the People’s Republic of Bangladesh aims to become a middle-income
+country by 2021; achieving this will require that the Government of Bangladesh
+overcome considerable challenges in agricultural development and rural economic
+growth. The country’s annual GDP growth averaged about 6 per cent between 2000
+and 2013, accompanied by a decline in the national poverty headcount rate from
+48.9 to 31.5 per cent over the first decade of the century, effectively lifting some
+16 million people out of poverty.
+2.
+3.
+4.
+Bangladesh, a country of over 160 million inhabitants, has also made noteworthy
+gains in education and health, and is well set to achieve most of the Millennium
+Development Goals. Despite these gains, it remains a poor country, with a 2013
+GDP per capita of about US$1,000. Bangladesh is regularly hit by natural disasters
+that severely impact the economy, disproportionally affecting the infrastructure
+and agriculture sectors, as well as vulnerable groups. Nutrition outcomes have not
+kept pace with the progress achieved with most social and economic indicators.
+Agriculture covers about three quarters of the country’s scarce land and supports
+the majority of the population’s livelihoods. While overall poverty has significantly
+declined over the last decade, the poverty headcount in rural areas (still around 35
+per cent) has not declined as fast as in urban settings; and the proportion of
+people living in extreme poverty in rural areas is still three times higher than in
+urban areas.
+Agriculture’s contribution to the country’s economic output has declined over the
+past decade, but crops, livestock, forestry and fisheries still account for 17 per cent
+of GDP. Some 67 per cent of the population live in rural areas and over 43 per cent
+of the country’s total labour force are engaged in agriculture. Therefore, achieving
+further socially and environmentally sustainable economic growth and poverty
+reduction will require policies and investments conducive to lasting
+transformational changes in rural areas – including through technological
+innovation in agriculture.
+B. Rationale and alignment with government priorities and RB-
+COSOP
+5. While the performance of the National Agricultural Research System (NARS) has
+been impressive in contributing to food security (particularly with rice), research in
+some key subsectors (e.g. livestock, fisheries) has yet to reach its potential
+productivity in terms of releasing a sufficient stream of useful innovations
+(including a range of new climate-smart technologies for production and post-
+harvest). The proposed National Agricultural Technology Programme (NATP) – the
+second phase of three projects initially planned – will seek to overcome some of
+1
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2015/LOT/P.15
+6.
+7.
+the key constraints still holding back the NARS, and to add greater value to the
+output of the agricultural sector.
+The NATP phase two (NATP-II) project is fully aligned with the government’s
+priorities, in particular with: (i) the Perspective Plan 2010-2021 outlining the
+strategy for achieving food security, making adequate infrastructure available and
+pursuing environmentally friendly development; (ii) the Sixth Five-Year Plan (6th
+FYP) identifying focal sectors for pro-poor growth, including agriculture, livestock,
+community-based fisheries and rural finance; (iii) the policy framework of the
+National Agricultural Extension Policy (NAEP, 2012); and (iv) the Bangladesh
+Agricultural Research Council (BARC, 2011).
+Being agriculture-centric, the NATP-II project will complement the ongoing IFAD-
+funded portfolio in Bangladesh and is fully aligned with the country strategic
+opportunities programme’s (COSOP) objectives of achieving: (i) better adapted
+livelihoods of poor people in vulnerable areas to climate change; (ii) greater
+market access and improved value chains for small producers and entrepreneurs;
+and (iii) economic and social empowerment for marginalized groups, including poor
+rural women.
+II. Programme description
+A. Project area and target group
+8.
+Project area. The three-phase programme will cover all of the 64 districts by the
+third phase. In this context, NATP-II will cover 57 districts (including the 25
+covered by NATP-I) and span a broad range of agroecological zones across
+Bangladesh. The project will be implemented over a six-year period in up to 270
+subdistricts (or upazillas); this includes 120 already covered under NATP-I, plus up
+to 150 new upazillas. New upazillas will be selected following the multicriteria
+approach successfully applied under NATP-I (including poverty incidence, high
+prevalence of marginal farmers and agroecologically stressed areas).
+9.
+Target group. In compliance with government policies and strategies, the primary
+target group for NATP-II will be smallholder farmers: particularly small, marginal
+and landless farmers. Special emphasis will be placed on targeting women.
+B. Programme development objective
+10. The development objective of this project is to increase agricultural productivity of
+smallholder farms and improve smallholder farmers’ access to markets in selected
+districts. This will be achieved by: (i) strengthening the capacity of the NARS and
+the extension services to generate and diffuse agricultural technologies aimed at
+increasing farm productivity and reducing post-harvest losses; and (ii) promoting
+the sustainability of existing and newly created farmer groups and producer
+organizations by facilitating their linkages with markets.
+C. Components/outcomes
+11. Component 1: Enhancing agricultural technology generation. Component 1
+will improve the performance of NARS through the support to agricultural
+technology development, and the strengthening of agricultural research institutions
+(institutional and human capacity). Research will be funded through competitive
+grants. The component will also finance a number of activities (including specific
+studies, policy notes, training, research-extension linkages, and others) in support
+of the implementation of the 2012 BARC Act approved under NATP.
+12. To scale up NATP achievements, the project design includes – embedded in the
+different project components – an agricultural innovation fund (AIF). The AIF is at
+the core of the NATP-II scale-up strategy; it aims to provide grant funding for
+eligible research and microproject proposals to be implemented by potential project
+beneficiaries. The AIF is fully aligned with the holistic approach to agricultural
+innovation promoted by the project. In order to effectively contribute to achieving
+2
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2015/LOT/P.15
+the project development objective, the AIF includes the following three funding
+windows: (i) AIF-1 (US$26.2 million) will promote agricultural technology
+generation through a programme-based research initiative (AIF-1 PBRG) and a
+competitive research grant programme (AIF-1 CRG); (ii) AIF-2 (US$17 million),
+through matching grants, will promote farmers’ adoption of innovative technologies
+generated by the research community; and (iii) AIF-3 (US$4.6 million),
+through matching grants, will support private operators in developing business and
+market opportunities for farmers, as well as in providing relevant private services
+to farmers. NATP-II will use calls for proposals, scientific and technical peer-
+reviewing and transparent selection mechanisms for the allocation of all grants
+under the AIF; disbursement against the AIF is subject to the Bank’s approval of an
+AIF Manual of Operational Guidelines and Procedures. NATP-II will explore
+synergies between its AIF and the access to rural financial services promoted under
+IFAD’s new project for Promoting Agricultural Commercialization and Enterprises
+(PACE).1
+13. Component 2: Supporting crop development. Component 2 will increase farm
+yields, diversify agricultural production, and improve market linkages for
+smallholder farmers by: (i) improving the outreach and quality of crop extension
+and advisory services by strengthening the skills of public extension workers from
+the Department of Agricultural Extension; (ii) promoting information and
+communication technology (ICT) in agricultural extension services and supporting
+farmer-to-farmer extension; (iii) developing farmers’ skills to scale up the
+dissemination of good agricultural practices including those developed under NATP,
+as well as identifying technologies for a sustainable production of safer food;
+(iv) promoting farm and off-farm mechanization to increase crop productivity, farm
+output and diversification, as well as to increase efficiency in crop handling, reduce
+post-harvest losses and support processing; (v) facilitating stronger collaboration
+with the private sector for agribusiness development on agroprocessing, market
+access for smallholders, as well as for the establishment of machinery hire-
+services; and (vi) strengthening institutions involved in the crop sector, through
+capacity development and selected investments in infrastructure.
+14. Component 3: Supporting fisheries development. Component 3 will promote
+productivity, quality and output increases through technology transfer, as well as a
+better access to market opportunities for fish farmers. NATP-II will provide support
+for the sustainable development of inland culture fisheries (small-scale aquaculture
+ponds) and inland capture fisheries (open water fisheries in beels [a lake-like
+wetland with static water] and haors [a hoar may host several beels]) by (i) scaling
+up NATP good aquaculture practices for the production systems prevailing in the
+project area; (ii) promoting community-based fisheries management; (iii)
+supporting the participation of fisheries common interest groups (CIGs) and
+partner organizations (POs) in value chains; (iv) reinforcing research-extension-
+farmer linkages; and (v) strengthening the capacity of fisheries institutions. NATP-
+II will explore linkages with fishery activities under the ongoing IFAD-supported
+operations in the haors.
+15. Component 4: Supporting livestock development. Component 4 will promote
+productivity and output increases through enhanced technology transfer, service
+delivery, as well as better access for livestock farmers to markets. Activities under
+this component will cover dairy farming, goat rearing, beef fattening, and poultry
+farming, and focus on: (i) strengthening livestock institutions, improving livestock
+extension services, and reinforcing the linkages between research, extension and
+livestock farmers; (ii) scaling up outreach programmes to a larger number of
+1 PACE aims to enhance the livelihoods of rural women and men by improving profitable business opportunities for
+microentrepreneurs, and creating wage employment for extreme and moderatly poor people. PACE will provide NATP-II
+finance groups with business planning/development services to prepare business plans for funding through PACE's
+microenterprise loan programme. In addition, crop, fisheries and livestock farmers unable to access NATP-II matching
+grants could be referred to PACE loan schemes.
+3
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2015/LOT/P.15
+farmers; and (iii) facilitating the participation of smallholder farmers in selected
+livestock markets.
+16. Component 5: Project management. Activities under this component will:
+(i) ensure that the project is carried out in line with the provisions in the official
+project documents, in particular all fiduciary and governance aspects; (ii) establish
+liaison mechanisms between the World Bank and the project, and between the
+project and the Government of Bangladesh, and (iii) coordinate the implementation
+of selected overarching project activities with the support of external technical
+assistance.
+III. Programme implementation
+A. Approach
+17. NATP-II will build on and scale up successful interventions and address important
+lessons learned from NATP-I. The integrated approach to reaching the project
+development objectives will include a foundational component that contributes
+towards decentralized, demand-driven agricultural research, as the basis for an
+enhanced agricultural technology system. The project will include a further three
+subsector components (crops, livestock and fisheries) to address a range of
+constraints to technology generation, technology transfer and adoption at farm
+level, and farmers’ access to markets. This approach is expected to lead to an
+enhanced linkage between agricultural research, extension, and production – an
+area regularly reported under NATP as requiring further improvement.
+B. Organizational framework
+18. The representative of the borrower is the Ministry of Finance. NATP-II will be
+implemented under the responsibility of the Ministry of Agriculture (lead
+implementing agency) and the Ministry of Fisheries and Livestock. It will be fully
+integrated into the Government of Bangladesh administration, and project
+implementation is designed to promote the use of existing government structures
+at the central level and, when available, at decentralized levels.
+19. A joint steering committee, composed of senior representatives from the
+agencies under the Ministry of Agriculture and Ministry of Fisheries and Livestock
+involved in project implementation, as well as representatives from the farmers
+and private sector, who will provide strategic guidance, approve annual budget and
+activity plans, monitor overall implementation progress, facilitate interagency
+coordination and resolve any outstanding issues requiring high-level decisions.
+20. Project management unit. A small project management unit (PMU) will be set up
+to oversee implementation of project activities, carry out day-to-day project
+management functions, facilitate coordination among components, and liaise with
+the World Bank on all project implementation-related aspects. The PMU will also be
+in charge of project monitoring and evaluation, producing a project implementation
+manual (PIM) that is acceptable to the development partners, detailing the
+operational, financial and administrative procedures of NATP-II. The PMU will also
+be responsible for the implementation of component 5.
+21. Project implementation units. All other project components will be integrated in
+the corresponding line department (or agency); each department/agency will set
+up a component-specific project implementation unit (PIU). Under the Ministry of
+Agriculture, BARC and the Department of Agricultural Extension will each set up a
+PIU; BARC for the implementation of component 1 (agricultural technology
+generation) and the Department of Agricultural Extension for component 2 (crops).
+Under the Ministry of Fisheries and Livestock, the Department of Fisheries will set
+up a PIU for the implementation of component 3 (fisheries) and the Department of
+Livestock Services will set up a PIU for component 4 (livestock). Using project
+funds, the Department of Fisheries, Department of Livestock Services and BARC
+will recruit service providers (e.g. international institutions, agro-consulting firms,
+4
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2015/LOT/P.15
+academia or others) to deliver the technical assistance needed for strengthening
+their institutional capacity and supporting their PIUs with the implementation of
+component-specific activities.
+C. Planning, monitoring and evaluation, and learning and
+knowledge management
+22. Planning. The PMU will be responsible for preparing the annual work plan and
+budget, getting it approved by the Ministry of Finance and cleared by the World
+Bank. The plan will include planned activities along with targets and expenditures
+and will reflect the general project targets and activities.
+23. Monitoring and evaluation. NATP-II will have a multi-tier results monitoring and
+impact evaluation system that will inform on the progress made towards achieving
+the development objective. Results will be sex-disaggregated reported as much as
+possible to capture the gender dimension of NATP-II.
+24. Learning and knowledge management. Knowledge sharing and learning is a
+key activity throughout all of NATP-II’s components. The project will utilize ICT for
+extension and capacity-building purposes, and further aims to build an agriculture
+knowledge repository and a knowledge platform under its ICT initiative. Another
+important tool will be the farmers information and advisory centres that will serve
+as fully equipped agricultural technology and knowledge-sharing centres.
+D. Financial management, procurement and governance
+25. A fiduciary assessment of NATP-II was carried out during design, and follows World
+Bank procedures. The fiduciary assessment rated the risk in financial management
+(FM) as “substantial”, due to (i) the involvement of multiple PIUs and accounting
+centres; (ii) the timeliness of consolidation of FM reports; and (iii) compliance with
+the requirements of multiple donors. Risk-mitigating measures have been
+incorporated into the design of the FM implementation arrangements, and a
+number of additional measures will be taken to ensure overall FM capacity and
+performance.
+26. NATP-II will hire an experienced consultant for the PMU (a senior financial
+management specialist), with qualifications acceptable to the Bank and IFAD, to
+lead and coordinate FM activities. The consultant will support the project in
+strengthening budgeting practices, internal controls, fund reconciliations, and other
+relevant financial functions, including coordination with the FM staff at the PIUs.
+The current manual system of accounting will be enhanced within 12 months of
+project effectiveness by a computerized FM information system to facilitate easy
+and timely access to financial information and its consolidation. In order to ensure
+that clear practices are harmonized across the project, the PIM will include all the
+relevant parts of FM operations, donors’ compliance and financial disclosure. Prior
+to effectiveness, the project will also adopt an online, off-the-shelf, web-enabled
+accounting software. Annual external audits of all project components will be
+conducted by the Foreign Aided Project Audit Directorate and will be supplemented
+by additional internal audits from an independent audit firm (twice in the project
+lifetime).
+27. Flow of funds. Financing from the International Development Association (IDA),
+IFAD and a USAID trust fund will be disbursed through three separate designated
+accounts. These will be opened and operated by the PMU. All PIUs will maintain a
+designated operating account to receive funds from the PMU. The IFAD loan will be
+administered by the World Bank under a cooperation agreement with IFAD. An
+initial advance will be provided and will be replenished based on regular statements
+of expenditure. The same method will be applied between the PMU and PIUs. After
+the first year of implementation, the Bank will review the FM performance and, in
+consultation with IFAD, may recommend converting the disbursement modality to
+5
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2015/LOT/P.15
+28.
+one based on interim unaudited financial reports, including a six-monthly forecast
+of fund requirements.
+Project-related transactions relating to all funding sources (IDA, USAID, IFAD and
+the Government of Bangladesh) will be accounted for separately in the PMU
+following double-entry bookkeeping principles and on a cash basis. The key project
+accounting functions for which the PMU will be responsible are as follows:
+(i) budget preparation and monitoring; (ii) payments for eligible project
+expenditure to third parties; (iii) disbursement of project funds to various agencies,
+as per approved work plan; (iv) maintenance of books and bank accounts; (v) cash
+flow management; (vi) financial reporting to the Government of Bangladesh, the
+World Bank, IFAD and other stakeholders; (vii) preparation of withdrawal
+applications to claim funds from the World Bank and IFAD; and (viii) assistance to
+the external auditor and ensuring appropriate follow-up of audit. Details on the
+proposed FM and disbursement arrangements can be found in annex 3 of the World
+Bank’s Project Appraisal Document.
+29. Procurement. Procurement financed under the project will be carried out in
+30.
+accordance with the World Bank’s “Guidelines: Procurement of Goods, Works and
+Non-Consulting Services under IBRD Loans and IDA Credits and Grants by World
+Bank Borrowers” dated July 2014 (Procurement Guidelines) and “Guidelines:
+Selection and Employment of Consulting Services under IBRD Loans and IDA
+Credits and Grants by World Bank Borrowers” dated July 2014 (Consultant
+Guidelines), and the provisions stipulated in the financing agreement. The
+procurement method will depend on the nature of the expenditure and the value of
+the contract. The PMU and all PIUs will preserve all procurement records and
+documents in accordance with provisions of the Public Procurement Act 2006 (PPA
+2006).
+Procurement under NATP-II will be guided by the World Bank-approved
+procurement plan and processed through pooled procurement by the PMU for
+selected goods and services (e.g. ICT equipment and peripherals, furniture and
+office equipment, consultant services to be provided across various components,
+and others) under component 5, and by the four PIUs and the PMU for all other
+component-specific goods, works and services. To mitigate procurement risks from
+low in-house capacity, the project will contract six procurement specialists
+(consultants): two for the PMU and one for each PIU. An acceptable procurement
+plan covering the first 18 months of project implementation is available.
+Institutional procurement approval will be provided by the respective Head of
+Procurement Entities (HOPE) or his/her delegate as per delegation of financial
+powers of the four agencies (departments’ Director General and BARC Chairman);
+the HOPE for the PMU is the Secretary of the Ministry of Agriculture (lead
+implementing agency).
+31. Audit. The Foreign Aided Projects Audit Directorate of the Comptroller and Auditor
+General will conduct an audit of the project’s annual financial statements within six
+months from the end of the fiscal year. The project director will be responsible for
+audit follow-up and taking remedial actions. Internal audits will include prepayment
+audits and independent appraisals of the financial, operational and control activities
+in the sector. The responsibilities of the internal auditors will further include
+reporting on the adequacy of internal controls, the accuracy and propriety of
+transactions, the extent to which assets are accounted for and safeguarded, and
+the level of compliance with financial procedures and government laws and
+regulations. The first audit will be due by the end of the second year of
+implementation.
+32. Governance. Lessons learned over the last five years to improve project
+implementation and safeguard against potential governance issues have been
+incorporated in the project design, implementation arrangements and monitoring
+6
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2015/LOT/P.15
+procedures. The project design allows for full and distinct accountability with a
+single line agency (BARC, Department of Fisheries and Department of Livestock
+Services) for each component. Project monitoring and impact evaluation will be
+carried out in collaboration with the PMU and the PIUs by an independent entity
+recruited competitively and operating with national and international consultants.
+An independent assessment (technical and financial audit) of the AIF will be carried
+out for project midterm review to improve the grant system’s performance
+accordingly. Beneficiaries’ feedback will be obtained through IT apps tailored to the
+project’s needs and channelled directly to the NATP-II management information
+system’s area coordinated by the third-party monitoring firm. The project will also
+set up project-level grievance redress mechanisms with local communities being
+consulted early in the process. In addition, in line with the Bank’s Disclosure Policy
+and the country’s Right to Information Act, all information in the project shall be
+made public.
+33. Several risks and risks mitigation measures related to procurement, financial
+management, and environmental and social safeguards compliance have already
+been described in the corresponding parts of the project appraisal document. In
+order to further minimize governance and corruption risks, NATP-II will follow a
+Governance and Accountability Action Plan (GAAP). This plan outlines a framework
+for action, institutional arrangements, specific responsibilities, and additional
+measures to facilitate effective and appropriate use of project funds. It is based on
+the Bank’s and IFAD’s experiences in addressing governance and anticorruption
+issues. The GAAP will be adjusted as necessary during implementation to reflect
+governance issues that may emerge and/or to strengthen or add actions.
+E. Supervision
+34. The IFAD loan will be administered and supervised by the World Bank.
+IV. Programme costs, financing, benefits
+A. Programme costs
+35. The total estimated cost of NATP-II amounts to US$214 million (net of beneficiary
+contribution), inclusive of contingencies and taxes.
+B. Programme financing
+36. Of the total cost of US$214 million, US$23.8 million will be financed through an
+IFAD loan on highly concessional terms. The World Bank will be providing a loan of
+US$176 million and USAID will contribute a grant of US$7.4 million. The
+contribution of the Government of Bangladesh, in the form of parallel cofinancing,
+will cover all vehicles purchased for NATP-II, as well as the salaries of civil servants
+assigned to work full-time on the project, and other expenses.2 The financing of
+taxes on eligible expenditures will be permitted with IFAD funds, to harmonize with
+IDA practice and simplify the project’s accounting and disbursement procedures.
+2 As per the table, the Government of Bangladesh contribution reported amounts to US$6.65 million (or 3 per cent of
+project costs). This is likely to be underestimated, as it does not include the hiring by DOF and DLS of upazilla-level
+extension staff. However, since this process is underway and has not yet been submitted to the Manpower Committee
+(Finance Division/Ministry of Finance), the final number of staff that actually will be recruited is not yet known. Hence, the
+exact amount to be added to the reported government contribution is not yet available.
+7
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2015/LOT/P.15
+Table
+Programme/project costs by expenditure category and financier
+(Millions of United States dollars)
+Expenditure
+category
+1. Goods, works,
+services and
+operating costs
+2. AIF-13
+3. AIF-2
+4. AIF-3
+5. Project
+preparation
+advance (World
+Bank)
+Total
+IFAD loan
+World Bank loan
+USAID
+Gov't of
+Bangladesh
+Amount
+%
+Amount
+%
+Amount
+%
+Amount
+19.0
+11.5
+140.0
+84.5
+6.7
+%
+4.0
+2.3
+2.0
+0.5
+8.8
+11.8
+10.9
+16.5
+15.0
+4.0
+0.5
+63.0
+88.2
+87.0
+100.0
+7.4
+28.2
+Total
+Amount
+165.7
+26.2
+17.0
+4.6
+0.5
+23.8
+11.1
+176.0
+82.2
+7.4
+3.5
+6.7
+3.1
+214
+37.
+In addition, beneficiaries will be required to provide cash contributions towards the
+matching grants. Beneficiary contribution is expected to amount to US$6.5 million.
+C. Summary benefit and economic analysis
+38. Project benefits. It is estimated that over one million farming households will
+directly benefit from project activities, including from improved extension services,
+stronger linkages with research, on-farm demonstrations of new technologies,
+capacity enhancement through training and skills development, as well as
+cofunding productive assets. Based on previous experience, significant spillover
+effects and knowledge transfer to farmers who are not members of groups
+supported by NATP (the CIGs) can be anticipated. Therefore, all members of the
+supported farming communities will potentially benefit from the technologies
+generated, the improved extension services provided, as well as from the market
+linkages developed. Up to three million farmers in the project area are expected to
+benefit from NATP-II. The project will promote gender mainstreaming and women’s
+empowerment to ensure that a significant proportion of direct beneficiaries is
+female.
+39. Economic analysis. The parameters used in making these projections were based
+on the NATP-I experience and impact. On this basis, the NATP-II internal rate of
+return is calculated at 28 per cent, the project’s economic rate of return (ERR) at
+31 per cent, and the corresponding net present value at US$49.9 million. This ERR
+remains robust under hypothetical scenarios of a 10 per cent decrease in expected
+net revenues and/or a 10 per cent increase in project costs.
+D. Sustainability
+40. To ensure the durability of the model for technology transfer and delivery of
+advisory services to farmers, NATP-II will promote a pluralistic extension system
+that supports various complementary elements (e.g. public extension staff, local
+private extension agents, lead farmers, Farmers’ Information and Advice Centres,
+ICT connectivity, gender focus).
+41.
+Improved access to knowledge, markets, market and price information and
+financial services will help contribute to the sustainability of CIGs and POs
+supported by the project. To further increase smallholders’ voices and economic
+strength in the selected value chains, NATP-II will establish producer organizations
+for farmers. In addition, bankable CIGs and POs will be linked up with financing
+institutions involved in other programmes/projects supporting access to finances.
+3 For explanation of AIF-1, AIF-2 and AIF-3 see para. 12.
+8
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2015/LOT/P.15
+42. The sustainability of NATP-II outcomes will further be supported by the institutional
+capacity and skills development agenda of the project.
+E. Risk identification and mitigation
+43. The overall risks of NATP-II not achieving the project development objectives and
+targets, and for NATP-II activities to have a negative impact on the people and the
+environment are considered substantial.
+44. The substantial risks identified with regard to policies and sector strategies refer to
+the potential for lack of operationalization of the Bangladesh Agricultural Research
+Council Act; delays in hiring public extension workers by the Ministry of Fisheries
+and Livestock; and the lengthy approval process for the validation of the NAEP.
+Under NATP-II, these will be addressed through: (i) strengthening the BARC
+institutional capacity in the area of research management by hiring an international
+service provider; (ii) expanding the use of private community-based extension
+agents for livestock and fisheries with the aim of developing sustainable models for
+private extension (e.g. scaling up fee-based services for livestock, promoting
+additional sources of revenues for local extension agents for fisheries; and
+(iii) adopting in NATP-II some of the core pillars of the NAEP (e.g. promoting a
+group approach, complementary farmer-to-farmer extension; promoting private
+extension services, etc.).
+45. The substantial risk identified with respect to institutional capacity for
+implementation refers to the challenges in coordinating four line agencies from two
+different ministries and their capacity to implement the respective components. As
+shown in the previous project, the coordination challenge can be adequately
+addressed through a neutral PMU that has strong leadership. The recruitment of a
+senior project director and a team of technical experts (consultants only, no civil
+servants) at the PMU level will be a key factor for the successful coordination
+across line agencies. An important mitigation measure in the implementation
+arrangements for NATP-II (different from the previous project) is the support from
+service providers recruited internationally for each line agency.
+V. Corporate considerations
+A. Compliance with IFAD policies
+46. NATP-2 is fully aligned with the IFAD Strategic Framework 2011-2015 and with the
+current RB-COSOP for Bangladesh, focusing on market access and value chains,
+and on the economic empowerment of marginalized people. The project design
+adheres to IFAD policies on private sector participation, environment, targeting and
+gender. It further complies with the World Bank’s safeguards on indigenous people.
+In terms of environmental impacts, the project is classified as “B”.
+B. Alignment and harmonization
+47. The project, whose design has seen the close involvement of the Government of
+Bangladesh, will support the Government’s strategic priorities in agriculture, i.e.
+increasing production, achieving food security, supporting adaptation to climate
+change, and enhancing nutrition through safer and more diversified food. NATP-II
+will support the decentralization process already under way for agricultural
+research and extension services.
+48.
+Project implementation will be done through existing government structures at
+central level and, when available, at decentralized levels.
+49. NATP-II will be cofinanced by the World Bank and USAID. It benefits from the
+experience of all three partners and will link up with existing and relevant projects,
+such as the IFAD-supported PACE project and the Haor Infrastructure and
+Livelihood Improvement Project.
+9
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2015/LOT/P.15
+Innovations and scaling up
+C.
+50. With the Agricultural Innovation Fund, NATP-II offers a tool to promote research
+efforts for new and innovative technologies. The AIF is at the core of the NATP-II
+scaling-up strategy; it aims at providing grant funding for eligible research and
+microproject proposals to be implemented by potential project beneficiaries. The
+AIF promotes a competitive research grant programme; farmers’ adoption of
+innovative technologies generated by the research community; and will support
+private operators in developing business and market opportunities for farmers and
+by providing relevant private services to farmers (through matching grants).
+D. Policy engagement
+51. With its contributions to the agricultural technology development, NATP-II is
+expected to support policies that create an enabling environment for smallholder
+farmers. This work will include commodity-specific market and value chain
+analyses, and the preparation of sector policy notes for senior decision makers.
+VI. Legal instruments and authority
+52. A programme financing agreement between the People’s Republic of Bangladesh
+and IFAD will constitute the legal instrument for extending the proposed financing
+to the borrower. A copy of the negotiated financing agreement is attached as
+appendix I.
+53. The People’s Republic of Bangladesh is empowered under its laws to receive
+financing from IFAD.
+54.
+I am satisfied that the proposed financing will comply with the Agreement
+Establishing IFAD and the Policies and Criteria for IFAD Financing.
+VII. Recommendation
+55.
+I recommend that the Executive Board approve the proposed financing in terms of
+the following resolution:
+RESOLVED: that the Fund shall provide a loan on highly concessional terms
+to the People’s Republic of Bangladesh in an amount equivalent to seventeen
+million special drawing rights (SDR 17,000,000) and upon such terms and
+conditions as shall be substantially in accordance with the terms and
+conditions presented herein.
+Kanayo F. Nwanze
+President
+10
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+Appendix I
+EB 2015/LOT/P.15
+Negotiated Financing Agreement:
+"National Agricultural Technology Programme – Phase II
+Project (NATP-II)"
+(Negotiations concluded on 29 June 2015)
+Loan Number: [______]
+Project Title: National Agricultural Technology Programme – Phase II Project (the
+“Project”)
+The People’s Republic of Bangladesh (the “Borrower”)
+and
+the International Fund for Agricultural Development (the “Fund” or “IFAD”)
+(each a “Party” and both of them collectively the “Parties”)
+Whereas the Borrower and the International Development Association (“IDA”) have
+entered into a Financing Agreement dated [______] (the “IDA Financing Agreement”) to
+provide financing for the Project; and
+Whereas the Borrower has requested the Fund to provide additional financing for the
+Project,
+The Parties hereby agree as follows:
+Section A
+The following documents collectively form this Agreement: this document, the
+1.
+Project Description and Implementation Arrangements (Schedule 1) and the Allocation
+Table (Schedule 2).
+The Fund’s General Conditions for Agricultural Development Financing dated
+2.
+29 April 2009, as may be amended from time to time (the “General Conditions”) are
+annexed to this Agreement, and all provisions thereof shall apply to this Agreement
+except for the provisions identified in Section D paragraph 3 below. For the purposes of
+this Agreement the terms defined in the General Conditions shall have the meanings set
+forth therein.
+3.
+The Fund shall provide a loan to the Borrower (the “Loan”), which the Borrower
+shall use to implement the Project in accordance with the terms and conditions of this
+Agreement.
+Section B
+The amount of the Loan is seventeen million special drawing rights
+1.
+(SDR 17 000 000).
+The Loan is granted on highly concessional terms, shall be free of interest but bear
+2.
+a service charge of three fourths of one percent (0.75%) per annum and have a maturity
+period of forty (40) years including a grace period of ten (10) years.
+1
+Appendix I
+EB 2015/LOT/P.15
+3.
+4.
+The Loan Service Payment Currency shall be the United States dollar.
+The first day of the applicable Fiscal Year shall be 1 July.
+Payments of the principal amount of the Loan and service charge shall be payable
+5.
+on each 15 February and 15 August.
+There shall be one (1) Designated Account, for the Loan and for the exclusive use
+6.
+of the Project, in the Bangladesh Bank (the “Central Bank of the Borrower”).
+There shall be one (1) Project Account, denominated in Bangladeshi Taka, for the
+7.
+Loan and for the exclusive use of the Project, in a commercial bank acceptable to the
+Fund.
+Section C
+The Loan shall be administered and the Project supervised by IDA as the Cooperating
+Institution appointed by the Fund in accordance with Article III of the General
+Conditions, without prejudice to the rights of the Fund as provided in this Agreement.
+Section D
+The following is designated as an additional ground for the suspension of the right
+1.
+of the Borrower to request withdrawals from the Loan Account: the Borrower’s right to
+withdrawals under the IDA Financing Agreement has been suspended.
+2.
+The following is designated as an additional ground for the cancellation of the
+Loan: the financing under the IDA Financing Agreement has been cancelled in whole or
+in part.
+The following provision of the General Conditions shall not apply to this Agreement:
+3.
+Section 7.05 (Procurement).
+The following are the designated representatives and addresses to be used for any
+4.
+communication related to this Agreement:
+For the Borrower/Recipient:
+Senior Secretary
+Economic Relations Division
+Ministry of Finance,
+Government of the People’s
+Republic of Bangladesh
+Sher-e-Bangla Nagar
+Dhaka 1207, Bangladesh
+For the Fund:
+President
+International Fund for Agricultural Development
+Via Paolo di Dono, 44
+00142 Rome, Italy
+This Agreement, dated [______], has been prepared in the English language in two (2)
+original copies, one (1) for the Fund and one (1) for the Borrower.
+2
+Appendix I
+EB 2015/LOT/P.15
+PEOPLE’S REPUBLIC OF BANGLADESH
+Authorized Representative
+INTERNATIONAL FUND FOR AGRICULTURAL DEVELOPMENT
+Kanayo F. Nwanze
+President
+3
+Appendix I
+EB 2015/LOT/P.15
+Schedule 1
+Project Description and Implementation Arrangements
+The Project shall be the same as described in Schedule 1 of the IDA Financing
+Agreement in Annex 1, as such may be amended by the Parties thereto from time to
+time. The Project shall be implemented in accordance with the provisions of Schedule 2
+of the IDA Financing Agreement, as such may be amended by the Parties thereto from
+time to time.
+4
+Appendix I
+EB 2015/LOT/P.15
+Schedule 2
+Allocation Table
+Allocation of Loan Proceeds. The Table below sets forth the Categories of Eligible
+1.
+Expenditures to be financed by the Loan and the allocation of the amounts of the Loan to
+each Category and the percentages of expenditures for items to be financed in each
+Category:
+Category
+(1) Goods (except vehicles), works, non-consulting
+services, consultants’ services, training and
+Incremental Operating Costs under the Project
+Amount of the
+loan allocated
+(expressed in
+SDR)
+Percentage of
+Expenditures
+to be
+Financed
+Inclusive of
+Taxes
+13 570 000
+12%
+(2) Grants under Part 1(b)(i) of the Project (AIF-
+1 600 000
+12%
+1/PBRG)
+(3) Matching Grants under Parts 2(i)(A), 3(o)(A)
+1 440 000
+12%
+and 4(i)(A) of the Project (AIF-2)
+(4) Matching Grants under Parts 2(i)(B), 3(o)(B)
+390 000
+12%
+and 4(i)(B) of the Project (AIF-3)
+TOTAL
+17 000 000
+5
+Appendix I
+EB 2015/LOT/P.15
+Annex 1
+Financing Agreement
+(National Agricultural Technology Program – Phase II Project)
+between
+PEOPLE’S REPUBLIC OF BANGLADESH
+and
+INTERNATIONAL DEVELOPMENT ASSOCIATION
+Dated, 2015
+6
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+1
+5
+Appendix I
+EB 2015/LOT/P.15
+FINANCING AGREEMENT
+AGREEMENT  dated  ,  2015,  entered  into  between PEOPLE’S  REPUBLIC  OF
+BANGLADESH  (“Recipient”)  and  INTERNATIONAL  DEVELOPMENT  ASSOCIATION
+(“Association”). The Recipient and the Association hereby agree as follows:
+CONSIDERING  THAT  (A)  the  Recipient,  having  satisfied  itself  as  to  the
+feasibility  and  priority  of  the  Project  described  in  Schedule  1  to  this  Agreement
+(“Project”),  has  requested  the  Association  to  extend  a  credit  in  an  amount
+equivalent to SDR 125,200,000, as provided in Section 2.01 of this Agreement,
+to assist in the financing of the Project;
+(B)  the  Recipient  has  also  requested  the  Association,  acting  as
+administrator  of  the  United  States  Agency  for  International  Development  Trust
+Fund  (“USAID  Trust  Fund”),  to  provide  assistance  towards  the  financing  of  the
+Project,  and  the  Association  has agreed  to  make  available  a  grant  to  the
+Recipient  from  the  USAID  Trust  Fund  in  an  amount  equal  to  seven  million  four
+hundred  thirty  thousand  Dollars  ($7,430,000)  to  assist  in  the  financing  of  Part
+1(b)(ii) of the Project (“USAID Co-financing Grant Agreement); and
+(C)  the  Recipient  has  also  requested  the  International  Fund  for
+Agricultural Development (“IFAD”) to provide assistance towards the financing of
+the Project, and IFAD has agreed to make available a loan to the Recipient in an
+amount  equal  to  twenty  three  million  eight  hundred  sixty  thousand  Dollars
+($23,860,000) to assist in the financing of all the Parts of the Project (except for
+Parts 1(b) (ii) (“IFAD Co-financing Loan Agreement”);
+NOW  THEREFORE,  the  Recipient  and  the  Association  hereby  agree  as
+follows:
+ARTICLE I — GENERAL CONDITIONS; DEFINITIONS
+1.01. The  General  Conditions  (as  defined  in  the  Appendix  to  this  Agreement)
+constitute an integral part of this Agreement.
+1.02. Unless  the  context  requires  otherwise,  the  capitalized  terms  used  in  this
+Agreement have the meanings ascribed to them in the General Conditions
+or in the Appendix to this Agreement.
+ARTICLE II — FINANCING
+2.01. The  Association  agrees  to  extend  to  the  Recipient,  on  the  terms  and
+conditions set forth or referred to in this Agreement, a credit in an amount
+equivalent  to one hundred and twenty  five million two hundred thousand
+Special  Drawing  Rights  (SDR  125,200,000)  (variously,  “Credit”  and
+“Financing”), to assist in financing the Project.
+2.02. The Recipient  may withdraw the proceeds of the Financing  in accordance
+with Section IV of Schedule 2 to this Agreement.
+7
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+1
+5
+Appendix I
+EB 2015/LOT/P.15
+2.03. The Maximum Commitment Charge Rate payable by the Recipient on the
+Unwithdrawn  Financing  Balance  shall  be  one-half  of  one  percent  (1/2  of
+1%) per annum.
+2.04. The  Service  Charge  payable  by  the Recipient  on  the  Withdrawn  Credit
+Balance shall be equal to three-fourths of one percent (3/4 of 1%).
+2.05. The Payment Dates are February 15 and August 15 in each year.
+2.06. The principal amount of the Credit shall be repaid in accordance with the
+repayment schedule set forth in Schedule 3 to this Agreement.
+2.07. The Payment Currency is Dollar.
+ARTICLE III — PROJECT
+3.01. The Recipient declares its commitment to the objectives of the Project. To
+this  end,  the  Recipient  shall  carry  out  the  Project  in  accordance  with  the
+provisions of Article IV of the General Conditions.
+3.02. Without  limitation  upon  the  provisions  of  Section  3.01  of  this  Agreement
+and  except  as  the  Association  shall  otherwise  agree,  the  Recipient  shall
+ensure  that  the  Project  is  carried  through its  Implementing  Agencies  in
+accordance  with  the  provisions  of  Schedule  2  to  this  Agreement.
+Specifically, the Recipient shall:
+(a)
+(b)
+through MOA, cause: (i) BARC to carry out Part 1 of the Project; and
+(ii) DAE to carry out Part 2 of the Project;
+through MOFL, cause: (i) DOF to carry out Part 3 of the Project, and
+(ii) DLS to carry out Part 4 of the Project; and
+(c) through MOA cause the PMU to carry out Part 5 of the Project.
+ARTICLE IV — EFFECTIVENESS, TERMINATION
+4.01. The Additional Conditions of Effectiveness consist of the following:
+(a)
+the  USAID  Co-financing  Grant  Agreement  has  been  executed  and
+delivered on behalf of the Recipient and all conditions precedent to
+its  effectiveness  or  to  the  right  of  the  Recipient  to  make
+withdrawals  under 
+(other  than  the  effectiveness  of  this
+Agreement) have been fulfilled;
+it
+(b)
+the  IFAD  Co-financing  Loan  Agreement  has  been  executed  and
+delivered  on  behalf  of  the  Recipient  and  IFAD  and  all  conditions
+precedent  to  its  effectiveness  or  to  the  right  of  the  Recipient  to
+8
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+1
+5
+Appendix I
+EB 2015/LOT/P.15
+make  withdrawals  under  it  (other  than  the  effectiveness  of  this
+Agreement) have been fulfilled; and
+(c)
+the  Project  Implementation  Manual  has  been  adopted  by  all  the
+Implementing Agencies in a manner satisfactory to the Association.
+4.02. The  Effectiveness  Deadline  is  the  date  ninety  (90)  days  after  the  date  of
+the signing of this Agreement.
+4.03. For  purposes  of  Section  8.05  (b)  of  the  General  Conditions,  the  date  on
+which  the  obligations  of  the  Recipient  under  this  Agreement  (other  than
+those  providing  for  payment  obligations)  shall  terminate  is  twenty  (20)
+years after the date of this Agreement.
+ARTICLE V — REPRESENTATIVE; ADDRESSES
+5.01. The  Recipient’s  Representative  is  the  Senior  Secretary/Secretary,  or  the
+Additional  Secretary,  or  any  Joint Secretary,  or  Deputy  Secretary,  or
+Senior  Assistant  Secretary,  or  Assistant  Secretary,  or  Joint  Chief,  or
+Deputy Chief, or Senior Assistant Chief, or Assistant Chief of the Economic
+Relations Division of the Recipient’s Ministry of Finance.
+5.02. The Recipient’s Address is:
+Economic Relations Division
+Ministry of Finance
+Government of the People’s Republic of Bangladesh
+Sher-e-Bangla Nagar
+Dhaka 1207, Bangladesh
+Facsimile:
+88029180671
+5.03. The Association’s Address is:
+International Development Association
+1818 H Street, N.W.
+Washington, D.C. 20433
+United States of America
+Cable:
+Telex:
+Facsimile:
+INDEVAS
+248423 (MCI)
+1-202-477-6391
+Washington, D.C.
+AGREED  at  ______,  People’s  Republic  of  Bangladesh,  as  of  the  day  and
+year first above written.
+9
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+1
+5
+Appendix I
+EB 2015/LOT/P.15
+PEOPLE’S REPUBLIC OF BANGLADESH
+By
+By
+_____________________________________
+Authorized Representative
+Name: __________________________
+Title: __________________________
+INTERNATIONAL DEVELOPMENT ASSOCIATION
+_____________________________________
+Authorized Representative
+Name: __________________________
+Title: __________________________
+10
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+1
+5
+Appendix I
+EB 2015/LOT/P.15
+SCHEDULE 1
+Project Description
+The  objective  of  the  Project  is  to  increase  agricultural  productivity  of
+smallholder  farms and  improve  smallholder  farmers’ access  to  markets  in
+Selected Districts.
+The Project consists of the following Parts:
+Part 1: Enhancing Agricultural Technology Generation
+Helping improve the performance of the NARS by:
+(a)
+(b)
+research 
+including 
+institutes, 
+institutions  by,
+strengthening  agricultural  research 
+inter  alia:  (i)
+strengthening  the  institutional  capacity  of  BARC  and  selected  national
+research
+agricultural 
+management,  institutional  coordination,  policy  formulation  activities;  (ii)
+supporting  the  carrying  out  of  doctoral  studies  of  eligibled  staff  from  the
+Implementing  Agencies;  (iii)  building,  updating  and  renovating  research
+institutes,
+infrastructure  of  selected  national  agricultural  research 
+including  the  construction  of  laboratory  infrastructure  and  the  acquisition
+of  associated  research  equipment;  and  (iv)  developing  a  web-based
+agricultural  research  platform  to  serve  as  a  research  database  and
+knowledge center; and
+to  carry  out 
+Supporting  the  development  of  innovative  agricultural  technologies,
+mobilization  of  available  research  capacity  and  stimulation  of  scientific
+creativity  by:  (i)  establishing  and  operating  a  program-based  research
+initiative,  including  the  provision  of  Grants  to  be  funded  out  of  AIF-
+1/PBRG;  and  (ii)  establishing  and  operating  a  competitive  research  grant
+program aimed at promoting agricultural technology generation, including
+the  provision  of  Grants,  to  be  funded  out  of  AIF-1/CRG,  to  in-country
+research providers.
+Part 2: Supporting Crop Development
+Supporting  DAE  to  carry  out  an  integrated  approach  to  increase  crop
+productivity,  quality  and  output  and  facilitate  crop  farmers’ access  to  markets
+by, inter alia: (a) enhancing skills, mobility and connectivity of public extension
+workers;  (b)  supporting  the  development  of  farmers  information  and  advise
+centers;  (c)  promoting  the  use  of  information-and-communication-technology-
+based  extension  methods;  (d)  developing  skills  of  farmers  to  scale  up  the
+dissemination  of  good  agricultural  practices  and identify  technologies  for  a
+sustainable  production  of  safer  food;  (e)  promoting  farm  and  off-farm
+mechanization  processes  to  increase  crop  productivity  and  efficiency  in  crop
+handling  and  reduce  post-harvest  losses;  (f)  facilitating  collaboration  with  the
+private  sector  in  areas  such  as  agro-processing,  value-chain  integration  and
+machinery hire-services; (g) strengthening the institutional capacities of entities
+involved  in  the  crop  sector  through  the  carrying  out  of  capacity-building
+activities  and  building  of  selected  associated  infrastructure  in  the  crop  sector
+such  as  seed  testing  laboratories;  (h)  improving  smallholders’ marketing
+activities through the setting up of run collection points for washing, sorting, the
+11
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+1
+5
+Appendix I
+EB 2015/LOT/P.15
+upgrading  of  specific  commodities  and the  building  of  commodity  collection
+points  and  other  marketing  facilities;  and  (i)  establishing  and  operating  a
+matching grant  scheme  aimed  at  supporting  the  adoption  of  new  crop
+technologies  and  the  carrying  out  of  rural  services  and  value-chain  activities
+beneficial to crop farmers, including: (A) the provision of Matching Grants to be
+funded  out  of  AIF-2  to  eligible  crop  farmer  groups;  and  (B)  the  provision  of
+Matching Grants to be funded out of AIF-3 to eligible rural entrepreneurs.
+Part 3: Supporting Fisheries Development
+Supporting  DOF  to  carry  out  of  an  integrated  approach  to  increase  fish
+productivity, quality and output and facilitate fish farmers’ access to markets by,
+inter  alia:  (a)  providing  support  for  the  sustainable  development  of  inland
+culture  fisheries  and  inland  capture  fisheries;  (b)  promoting  selected  fish
+production  models  involving  improved  fish  varieties;  (c)  supporting  the
+production  of  better  quality  fish  seed;  (d)  supporting  the  introduction  of
+appropriate fish feed; (e) applying relevant fisheries management tools including
+community-based 
+fisheries  management  activities;  (f)  restoring  aquatic
+habitats; (g) creating suitable market linkages for better access to markets; (h)
+supporting  institutional  capacity  enhancement  for  quality control  in  fish  feed
+development  including  the  improvement  of  associated  facilities;  (i)  promoting
+climate-resilient  and  innovative  aquaculture  technologies;  (j)  strengthening
+existing  and  recruiting  new  local  extension  agents  for  fisheries  aimed  at
+expanding the delivery of extension services, and improving their skills, mobility
+and  connectivity;  (k)  promoting  information-and-communication-technology-
+based  extension  methods;  (l)  carrying  out  of  activities  to  strengthen  linkages
+with  fisheries  research;  (m)  facilitating  the  participation  of  smallholder  fish
+farmers in selected commodity markets; (n) improving fish market infrastructure
+and  management  of  such  infrastructure;  and  (o)  establishing  and  operating  a
+matching grant  scheme  aimed  at  supporting  the adoption  of  new  fish
+technologies  and  the  carrying  out  of  rural  services  and  value-chain  activities
+beneficial to fish farmer groups, including: (A) the provision of Matching Grants
+to be funded out of AIF-2 to eligible fish farmer groups; and (B) the provision of
+Matching Grants to be funded out of AIF-3 to eligible rural entrepreneurs.
+Part 4: Supporting Livestock Development
+Supporting  DLS  to  carry  out  of  an  integrated  approach  to  increase  livestock
+productivity,  quality  and  output  and  facilitate  livestock  farmers’ access  to
+markets  by, inter  alia:  (a)  strengthening  and  building  capacities  of  livestock
+institutions; (b) strengthening existing and recruiting new community extension
+agents  for  livestock  aimed  at  expanding  the  delivery  of  extension  services, and
+improving their skills, mobility and connectivity; (c) reinforcing linkages between
+research,  extension  and  livestock  farmers;  (d)  scaling  up  outreach  programs
+such  as  fodder  development,  primary  animal  health  care,  artificial  insemination
+and  reproductive  management  services;  (e)  demonstrating  improved  and
+climate-resilient animal husbandry practices; (f) facilitating a close collaboration
+with the private sector; (g) supporting the development of livestock food safety
+and  food  quality  standards;  (h) piloting  community  level  market  interventions
+aimed  at  increasing  farmer’s  participation  in  selected  commodity  markets;  and
+(i) establishing and operating a matching grant scheme aimed at supporting the
+adoption of new livestock technologies and the carrying out of rural services and
+12
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+1
+5
+Appendix I
+EB 2015/LOT/P.15
+value-chain activities beneficial to livestock farmers, including: (A) the provision
+of Matching Grants to be funded out of AIF-2 to eligible livestock farmer groups;
+and  (B)  the  provision  of  Matching  Grants  to  be  funded  out  of AIF-3  to  eligible
+rural entrepreneurs.
+Part 5: Project Management
+Supporting  the  implementation,  management  and  coordination  of  the  Project
+activities  including:  (a)  the  carrying  out  communication,  public  awareness  and
+outreach activities; (b) the coordination of Project monitoring, progress reporting,
+impact  evaluation,  and  GAAP’s  implementation  activities;  and  (c)  the  preparation
+of  analytical  studies  and  policy  notes  on  areas  such  as  agricultural  research,
+extension, and production.
+13
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+1
+5
+Appendix I
+EB 2015/LOT/P.15
+SCHEDULE 2
+Project Execution
+Section I.
+Implementation Arrangements
+A.
+1.
+2.
+Institutional Arrangements
+The Recipient shall establish, by the date which is no later than one month
+after  the  Effective  Date,  and  thereafter  maintain  throughout  the
+implementation of the Project:
+(a)
+(b)
+a  Joint  Project  Steering  Committee,  with  a  mandate,  terms  of
+reference and resources satisfactory to the Association, which shall
+be:  (i)  co-chaired  by  MoA  and  MoFL  on  an  alternate  basis;  (ii)
+composed  of  senior  representatives  from  relevant  Ministries,  the
+Planning  Commission  and each  Implementing  Agency,  as  well  as
+from farmers’ groups and rural entrepreneurs; and (iii) responsible
+for, inter  alia:  (A)  providing  strategic  and  policy  direction  on  all
+activities  under  the  Project;  (B)  approving  Project  annual  budgets
+and  activities’ plans;  and  (C)  addressing  any  obstacle  during  the
+implementation of the Project; and
+financial  management, 
+a  Project  Management  Unit  with  mandate,  terms  of  reference  and
+resources satisfactory to the Association, which shall be: (i) headed
+by a full-time Project director with terms of reference, qualifications
+and  experience  satisfactory  to  the  Association;  (ii)  composed  of
+inter  alia,
+relevant  technical  experts,  and  senior  specialists  in,
+procurement, 
+gender,  marketing,
+information-technology,  communication  and  public  awareness,
+coordination,  producer
+research-extension 
+organizations, monitoring and evaluation and reporting matters, all
+with terms  of  reference  and  qualifications  and  experience
+satisfactory  to the  Association;  and  (iii) responsible  for, inter  alia,
+and
+overseeing 
+management of the Project, including the activities to be carried out
+by the Project Implementation Units.
+implementation 
+coordination, 
+the  overall 
+linkages, 
+sector 
+The  Recipient  shall establish,  by the  date  which  is  no  later  than  two
+months  after  the  Effective  Date,  and  thereafter  maintain  throughout  the
+implementation  of  the  Project  in  each  of  the  Implementing  Agencies,  a
+Project  Implementation  Unit,  with  mandate,  terms  of  reference  and
+resources satisfactory to the Association,  which shall be: (i) headed by a
+full-time  director  with  terms  of  reference, qualifications  and  experience
+satisfactory to the Association; (ii) composed of relevant technical experts
+and  senior  specialists  in, inter  alia,  procurement,  financial  management,
+environment and social safeguards, and monitoring and reporting, all with
+terms  of  reference, qualifications  and  experience  satisfactory  to  the
+Association;  and  (iii)
+inter  alia,  carrying  out  the
+procurement, financial management, environment, social, monitoring and
+reporting  activities  of  its  respective  part  under  the  Project,  including
+responsible  for,
+14
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+1
+5
+Appendix I
+EB 2015/LOT/P.15
+coordinating  the  implementation  of  its  respective  Part  of  the  Project  in
+accordance with the Project Implementation Manual.
+3.
+The  Recipient,  through  DAE,  shall  enter  into  a  strategic  partnership
+agreement  with  HORTEX,  under  terms  and  conditions  satisfactory  to  the
+Association,  whereby,
+inter  alia,  HORTEX  agrees  to  provide  technical
+assistance to support DAE in the carrying out of Part 2(f) of the Project.
+B. Project Implementation Manual
+1.
+The  Recipient  shall  maintain  the  Project  Implementation  Manual,  in  form
+and  substance  satisfactory  to  the  Association,  which  shall  include, inter
+alia:
+2.
+3.
+C.
+1.
+(a)
+the Project administrative, accounting, auditing, reporting, financial
+(including  cash  flow  aspects  in  relation  thereto),  procurement  and
+disbursement procedures of the Project; and
+(b)
+the  Project  monitoring  and  evaluation  framework,  including  all  the
+Project monitoring indicators and targets.
+The  Recipient  shall,  through  each  Implementing  Agency,  ensure  that  the
+Project is carried out in accordance with the arrangements and procedures
+set out in the Project Implementation Manual, provided, however, that in
+the case of any conflict between the arrangements and procedures set out
+in  the  Project  Implementation  Manual  and  the  provisions  of  this
+Agreement, the provisions of this Agreement shall prevail.
+Except  as  the  Association  shall  otherwise  agree  in  writing,  the  Recipient
+shall  not  amend,  abrogate  or  waive  any  provision  of  the  Project
+Implementation Manual.
+Agricultural 
+Procedures
+Innovation  Fund  Operational  Guidelines  and
+Prior  to  starting  the  carrying  out  of Parts  1(b),  2(i),  3(o)  and  4(i)  of  the
+Project,  the  Recipient, shall  cause  each  Implementing  Agency  to adopt,
+and thereafter maintain, throughout the implementation of the Project and
+in  form  and  substance  satisfactory  to  the  Association,  operational
+guidelines  and  procedures  for  the  management and  operation  of  an
+agricultural  innovation  fund  (“Agricultural  Innovation  Fund  Operational
+Guidelines and Procedures”), which shall include, inter alia:
+(a)
+AIF-1/PBRG Operational Guidelines and Procedures;
+(b)
+AIF-1/CRG Operational Guidelines and Procedures;
+(c)
+AIF-2 Operational Guidelines and Procedures;
+(d)
+AIF-3 Operational Guidelines and Procedures; and
+(e)
+the  terms  and  conditions  of  each  Subproject  Financing
+Agreement  to  be  entered  into  between  an  Implementing
+15
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+1
+5
+Appendix I
+EB 2015/LOT/P.15
+Agency  and  an  Eligible  Beneficiary  to  access  to  one  of  the
+funds referred to  in paragraph (a), which shall  include, inter
+alia:
+(i)
+the  Eligible  Beneficiary’s  obligations  to:  (A)  carry  out
+the Subproject with due diligence and efficiency and in
+accordance with sound technical, economical, financial,
+managerial,  environmental  and  social  standards  and
+practices  set  out  in  the Agricultural  Innovation  Fund
+Operational  Guidelines  and  Procedures;  (B)  provide  in
+cash contributions of thirty percent (30%) of the total
+cost of the Matching Grant to be financed out of AIF-2,
+cash  contributions  of  fifty  percent  (50%)  of  the  total
+cost of the Matching Grant to be financed out of AIF-3
+or any other percentages approved by the Association;
+(C)  procure  the  goods,  works  and  services  to  be
+financed  out  of  the  Grants  or  Matching  Grants  in
+accordance with the provisions of this Agreement; (D)
+maintain  policies  and  procedures  to enable  to  monitor
+the progress of the Subproject and the achievement of
+its  objectives;  (E)  comply  with,  the  terms  and
+conditions of the EMF, SMF and PMP and each relevant
+Safeguards  Assessment  and  Plan,  as  applicable;  and
+(F)  to  accept  physical  or  documentary  inspection  by
+the  Implementing  Agency  and/or  the  Association,  in
+relation to the carrying out of the Subproject; and
+(ii)
+the  Implementing  Agency’s  right  to  suspend  or
+terminate  the  right  of  the  beneficiary  to  use  the
+proceeds of Subproject Financing, as  the case maybe,
+or  obtain  a  refund  of  all  or  any  part  of  the  amount  of
+Grants  or  Matching  Grants  then  withdraw,  upon  the
+beneficiary’s  failure  to  perform  any  obligations  under
+the Subproject Financing Agreement.
+2.
+3.
+4.
+The Recipient shall ensure that the Project and each Subproject is carried
+out  in  accordance  with  the Agricultural  Innovation  Fund  Operational
+Guidelines  and  Procedures,  provided,  however,  that  in  the  case  of  any
+conflict between the arrangements and procedures set out in Agricultural
+Innovation Fund Operational Guidelines and Procedures and the provisions
+of this Agreement, the provisions of this Agreement shall prevail.
+Except  as  the  Association  shall  otherwise  agree,  the  Recipient  shall  not
+amend,  abrogate  or  waive  any  provision  of  the Agricultural  Innovation
+Fund Operational Guidelines and Procedures.
+The Recipient shall:(a) engage,  not  later  than  September  30,  2017  or
+such  later  date  as  the  Association  shall  otherwise  agree,  an  independent
+third party entity under terms of reference satisfactory to the Association,
+to carry out two (2) technical and financial assessments (one assessment
+to be carried out prior to the Project’s mid-term review established by the
+Association and the other prior to the Project’s Closing Date) for purposes
+16
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+1
+5
+Appendix I
+EB 2015/LOT/P.15
+of evaluating the management and operation of the agricultural innovation
+fund referred to in the above-mentioned Section I.C.1; and
+(b)
+review  with  the  Association,  by  July  31,  2018,  or  such  other  date  as  the
+Association shall request, the results of the assessment report referred to
+in  (a)  above,  and  thereafter,  take  all  measures  required  to  ensure  the
+efficient  completion  of  the  Project  and  the  achievement  of  the  objectives
+thereof, based on the conclusions and recommendations of the said report
+and the Association’s views on the matter.
+D.
+Environmental and Social Safeguards
+1.
+2.
+3.
+4.
+The  Recipient  shall  ensure  that  the  Project  is  carried  out  in  accordance
+with  the  provisions  of  the  EMF,  SMF,  PMP  and  the  relevant  Safeguard
+Assessments and Plans.
+Whenever  an  additional  or  revised Safeguard  Assessment  and  Plan shall
+be required for any proposed Project activity, including any Subproject, in
+accordance with the provisions of the EMF and SMF, as the case may be,
+the Recipient shall:
+(a)
+(b)
+(c)
+prior  to the commencement of such activity, proceed to have such
+Safeguard  Assessment  and  Plan:  (i)  prepared  in  accordance  with
+the  provisions  of  the  EMF  and  SMF,  as  the  case  may  be;  (ii)
+furnished  to  the  Association  for  review  and  approval;  and  (iii)
+thereafter adopted and disclosed as approved by the Association, in
+a manner acceptable to the Association;
+thereafter take such measures as shall be necessary or appropriate
+to  ensure  compliance  with  the  requirements  of  such  Safeguard
+Assessment and Plan; and
+in the case of any resettlement activity under the Project involving
+Affected  Persons,  ensure  that  no  displacement  shall  occur  before
+necessary 
+the  RAP
+resettlement  measures  consistent  with 
+applicable  to  such  activity  have  been  executed,  including,  in  the
+case of  displacement,  full  payment  to  Affected  Persons  of
+compensation and of  other assistance required for relocation, prior
+to displacement.
+The  Recipient  shall  not  amend,  abrogate  or  waive,  or  permit  to  be
+amended,  abrogated  or  waived,  the  EMF,  SMF,  PMP  or  any Safeguard
+Assessments  and  Plans,  unless  the  Association  has  provided  its prior
+approval thereof in writing, and the Recipient has complied with the same
+consultation  and  disclosure  requirements  as  applicable  to  the  original
+adoption of the said instruments.
+Without limitation on its other reporting obligations under this Agreement,
+the Recipient shall collect, compile and submit to the Association on a bi-
+annual  basis  (or  such  other  frequency  as  may  be  agreed  with  the
+Association)  consolidated  reports  on  the  status  of  compliance  with  the
+EMF,  SMF,  PMP  and  the  Safeguard  Assessments  and  Plans,  giving  details
+17
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+1
+5
+Appendix I
+EB 2015/LOT/P.15
+of:  (a)  measures  taken  in  furtherance  of  the  said  instruments;  (b)
+conditions, if any, which interfere or threaten to interfere with the smooth
+implementation of the said measures; and (c) remedial measures taken or
+required to be taken to address such conditions.
+In  the  event  of  any  conflict  between  the  provisions  of  any  of  the  EMF,
+SMF, PMP or any Safeguard Assessments and Plan, and the provisions of
+this Agreement, the provisions of this Agreement shall prevail.
+Anti-Corruption
+The  Recipient  shall  ensure  that  the  Project  is  carried  out  in  accordance
+with the provisions of the Anti-Corruption Guidelines.
+Without limitation on the provisions of paragraph 1 above, the Recipient
+shall:
+5.
+E.
+1.
+2.
+(a) carry out the Governance and Accountability Action Plan in accordance
+with its terms; and
+(b) submit reports on the status of the implementation of said plan as part
+of each Project Report (or such other frequency as may be agreed with
+the Association).
+Section II.
+Project Monitoring, Reporting and Evaluation
+A.
+1.
+2.
+B.
+1.
+Project Reports
+The  Recipient  shall  monitor  and  evaluate  the  progress  of  the  Project  and
+prepare Project Reports in accordance with the provisions of Section 4.08
+of the General Conditions and on the basis of the indicators acceptable to
+the Association and set forth in the Project Implementation Manual. Each
+Project Report shall cover the period of one (1) calendar quarter, and shall
+be furnished to the Association not later than forty-five (45) days after the
+end of the period covered by such report.
+Without  limitation  on  the  provisions  of  paragraph  1  above,  the  Recipient
+shall  engage,  not  later  than  four  months  after  the  Effective Date,  an
+independent  third  party  entity,  under  terms  of  reference  satisfactory  to
+the  Association,  to  carry  out  a  Project  baseline  survey  and  stakeholders
+analysis,  mid-term  and  end-of-project  surveys,  an  impact  evaluation,
+draft  implementation  progress  reports  and  any  other  work  pertaining  to
+the monitoring and evaluation aspects of the Project.
+Financial Management, Financial Reports and Audits
+The  Recipient  shall  maintain  or  cause  to  be  maintained  a  financial
+management system in accordance with the provisions of Section 4.09 of
+the General Conditions.
+18
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+1
+5
+Appendix I
+EB 2015/LOT/P.15
+2.
+3.
+Without limitation on the provisions of Part A of this Section, the Recipient
+shall prepare and furnish to the Association as part of the Project Report,
+not later than forty-five (45) days after the end of each calendar quarter,
+interim unaudited financial reports for the Project covering the quarter, in
+form and substance satisfactory to the Association.
+The  Recipient  shall  have  its  Financial  Statements  audited  in  accordance
+with  the  provisions  of  Section  4.09  (b)  of  the  General  Conditions.  Each
+audit  of  the  Financial  Statements  shall  cover  the  period  of  one  (1)  fiscal
+year  of  the  Recipient.  The  audited  Financial  Statements  for  each  such
+period shall be furnished to the Association not later than six (6) months
+after the end of such period.
+Section III. Procurement
+A.
+1.
+General
+Goods, Works and Non-consulting Services
+All goods, works and non-consulting services required for the Project and
+to  be  financed  out  of  the  proceeds  of  the  Financing shall  be  procured  in
+accordance  with  the  requirements  set  forth  or  referred  to  in  Section  I  of
+the Procurement Guidelines, and with the provisions of this Section.
+2.
+Consultants’ Services
+All consultants’ services required for the Project and to be financed out of
+the  proceeds  of  the  Financing  shall  be  procured  in  accordance  with  the
+requirements set forth or referred to in Sections I and IV of the Consultant
+Guidelines, and with the provisions of this Section.
+3.
+Definitions
+The  capitalized  terms  used  below in  this  Section  to  describe  particular
+procurement  methods  or  methods  of  review  by  the  Association  of
+particular  contracts,  refer  to  the  corresponding  method  described  in
+Sections  II  and  III  of  the  Procurement  Guidelines,  or  Sections  II,  III,  IV
+and V of the Consultant Guidelines, as the case may be.
+B.
+1.
+2.
+Particular  Methods  of  Procurement  of  Goods,  Works  and  Non-
+consulting Services
+International  Competitive  Bidding.  Except  as  otherwise  provided  in
+paragraph 2  below,  goods,  works  and  non-consulting  services shall  be
+procured  under  contracts  awarded  on  the  basis  of  International
+Competitive Bidding.
+Other  Methods  of  Procurement  of  Goods,  Works  and  Non-
+consulting  Services. The  following  methods,  other  than  International
+Competitive  Bidding,  may  be  used  for procurement  of  goods,  works  and
+non-consulting  services  for  those  contracts  specified  in  the  Procurement
+Plan:  (a)  National  Competitive  Bidding,  following  the  procedures  of  the
+Procurement  Laws  subject  to  the  additional  provisions  set  forth  in
+paragraph  3 below;  (b)  Shopping;  (c)  Direct  Contracting;  and  (d)  Well-
+19
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+1
+5
+Appendix I
+EB 2015/LOT/P.15
+established  Private  Sector  Procurement  Methods  or  Commercial  Practices
+which have been found to be acceptable to the Association.
+3.
+National  Competitive  Bidding  Procedures.  The  following  provisions
+apply  for  the  contracting  of  goods,  works  and  non-consulting  services
+under  National  Competitive  Bidding,  using  bidding  documents  acceptable
+to the Association:
+(a)
+(b)
+post  bidding  negotiations  shall  not  be  allowed  with  the  lowest
+evaluated or any other bidder;
+bids  should  be  submitted  and  opened  in  public  in  one  (1)  location
+immediately after the deadline for submission;
+(c)
+lottery in award of contracts shall not be allowed;
+(d)
+bidders’ qualification/experience requirement shall be mandatory;
+bids shall not be invited on the basis of percentage above or below
+the estimated cost and contract award shall be based on the lowest
+evaluated  bid  price  of  compliant  bid  from  eligible  and  qualified
+bidder; and
+(e)
+single  stage  two  (2)  envelope  procurement  system  shall  not  be
+allowed.
+C.
+1.
+Particular Methods of Procurement of Consultants’ Services
+Quality- and  Cost-based  Selection. Except  as  otherwise  provided  in
+paragraph  2  below,  consultants’ services  shall  be  procured  under
+contracts awarded on the basis of Quality and Cost-based Selection.
+2. Other  Methods  of  Procurement  of  Consultants’ Services. The  following
+methods,  other  than  Quality  and  Cost-based  Selection,  may  be  used  for
+procurement  of consultants’ services  for  those  contracts  which  are  specified
+in  the  Procurement  Plan:  (a)  Quality-based  Selection;  (b)  Selection  under  a
+Fixed  Budget;  (c)  Least  Cost  Selection;  (d)  Selection  based  on  Consultants’
+Qualifications; (e) Single-source Selection of consulting firms; (f) Procedures
+set  forth  in  paragraphs  5.2  and  5.3  of  the  Consultant  Guidelines  for  the
+Selection  of  Individual  Consultants;  (g)  Single-source  procedures  for  the
+Selection  of  Individual  Consultants;  and  (f)  Well-established  Private Sector
+Procurement Methods or Commercial Practices acceptable to the Association.
+D. Pooled Procurement of Selected Goods and Services
+Notwithstanding  the  provisions  of  Section  III  of  this  Schedule,  the
+procurement  of  Selected  Goods  and  Services  will  be pooled  following  the
+procedures set forth in the Project Implementation Manual.
+20
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+1
+5
+Appendix I
+EB 2015/LOT/P.15
+E. Review by the Association of Procurement Decisions
+The  Procurement  Plan  shall  set  forth  those  contracts  which  shall  be
+subject  to  the  Association’s  Prior  Review.  All  other  contracts  shall  be
+subject to Post Review by the Association.
+Section IV. Withdrawal of the Proceeds of the Financing
+A.
+1.
+2.
+General
+The Recipient  may withdraw the proceeds of the Financing  in accordance
+with  the  provisions  of  Article  II  of  the  General Conditions,  this  Section,
+and such additional  instructions as the Association shall specify by notice
+to  the  Recipient  (including  the  “World  Bank  Disbursement  Guidelines  for
+Projects” dated May 2006, as revised from time to time by the Association
+and as made applicable to this Agreement pursuant to such instructions),
+to  finance  Eligible  Expenditures  as  set  forth  in  the  table  in  paragraph  2
+below.
+The  following  table  specifies  the  categories  of  Eligible  Expenditures  that
+may  be  financed  out  of  the  proceeds  of  the  Financing  (“Category”),  the
+allocations  of  the  amounts  of  the  Financing  to  each  Category,  and  the
+percentage  of  expenditures  to  be  financed  for  Eligible  Expenditures  in
+each Category:
+Category
+(1) Goods (except vehicles),
+works, non-consulting services,
+consultants’ services Training and
+Incremental Operating Costs
+under the Project
+(2) Grants under Part 1(b)(i) of
+the Project (AIF-1/PBRG)
+(3) Matching Grants under Parts
+2(i)(A), 3(o)(A) and 4(i)(A) of the
+Project (AIF-2)
+(4) Matching Grants under Parts
+2(i)(B), 3(o)(B) and 4(i)(B) of the
+Project (AIF-3)
+Amount of the
+Credit Allocated
+(expressed in
+SDR)
+Percentage of
+Expenditures to be
+Financed
+(inclusive of Taxes)
+99,550,000
+88%
+11,750,000
+10,650,000
+2,850,000
+88% of the amount
+disbursed for a Grant
+88% of the amount
+disbursed for a Matching
+Grant
+88% of the amount
+disbursed for a Matching
+Grant
+Amount payable pursuant
+to Section 2.07 of the
+General Conditions
+(5) Refund of Project Preparation
+Advance
+400,000
+TOTAL AMOUNT
+125,200,000
+21
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+1
+5
+Appendix I
+EB 2015/LOT/P.15
+B. Withdrawal Conditions; Withdrawal Period
+1.
+Notwithstanding  the  provisions  of  Part  A  of  this  Section,  no  withdrawal
+shall be made:
+(a)
+for payments made prior to the date of this Agreement;
+(b)
+(c)
+(d)
+(e)
+under  Category  (2)  unless  the  AIF-1/PBRG  Operational Guidelines
+and  Procedures  have  been  submitted  by  the  Recipient  to  the
+Association, in a manner satisfactory to the Association;
+under  Category  (3)  unless  the  AIF-2  Operational  Guidelines  and
+Procedures  have  been  submitted  by  the  Recipient  to  the
+Association, in a manner satisfactory to the Association;
+under  Category  (4)  unless  the  AIF-3  Operational  Guidelines  and
+Procedures  have  been  submitted  by  the  Recipient  to  the
+Association, in a manner satisfactory to the Association; and
+for Eligible Expenditures under a contract financed or agreed to be
+financed  by  any  other  international  institution  or  agency,  or  the
+Association, under any other agreement.
+2.
+C.
+The Closing Date is September 30, 2021.
+Other Commitment
+By no later than twelve (12) months after the Effective Date, the Recipient
+shall enhance its current manual system of accounting by a computerized
+financial management information system, in a manner satisfactory to the
+Association,  to  facilitate  easy  and  timely  access  to  Project  financial
+information and its consolidation.
+22
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+1
+5
+Appendix I
+EB 2015/LOT/P.15
+SCHEDULE 3
+Repayment Schedule
+Date Payment Due
+Principal Amount of
+the Credit repayable
+(expressed as a
+percentage)*
+On each February 15 and August 15, commencing
+August 15, 2021 to and including February 15, 2053
+1.5625%
+*  The  percentages  represent  the  percentage  of  the  principal  amount  of  the
+Credit to be repaid, except as the Association may otherwise specify pursuant to
+Section 3.03 (b) of the General Conditions.
+23
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+1
+5
+Appendix I
+EB 2015/LOT/P.15
+Section I.
+Definitions
+APPENDIX
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+“AIF-1/CRG” means  Agriculture 
+Competitive Research Grant.
+Innovation  Fund  Window  1 
+for
+“AIF-1/PBRG”  means  Agriculture  Innovation  Fund  Window  1 
+Performance Based Research.
+for
+“AIF-2” means Agriculture Innovation Fund Window 2.
+“AIF-3” means Agriculture Innovation Fund Window 3.
+“AIF-1/CRG  Operational  Guidelines  and  Procedures”  means  the rules,
+procedures and eligibility criteria for managing the AIF-1/CRG referred to
+in  Section  I.C.1(b)  of  Schedule  2  to  this  Agreement  to  promote
+agricultural  technology  generation through  Grants  for  research  providers
+under Part 1(b)(ii) of the Project.
+“AIF-1/PBRG  Operational  Guidelines  and  Procedures”  means  the rules,
+procedures  and  eligibility  criteria  for  managing  the AIF-1/PBR  referred  to
+in  Section  I.C.1(a)  of  Schedule  2  to  this  Agreement  to  promote
+agricultural  technology  generation  through  Grants  for  research  providers
+under Part 1(b)(i) of the Project.
+“AIF-2  Operational  Guidelines  and  Procedures”  means  the rules,
+procedures  and  eligibility  criteria  for  managing  the AIF-2 referred  to  in
+Section I.C.1(c) of Schedule 2 to this Agreement to promote the adoption
+of  innovative  technologies  through  Matching  Grants  for  CIGs  under  Parts
+2(i)(A),  Part  3(o)(A)  and  4(i)(A)  of  the  Project;  including  rules  and
+procedures
+that  AIF-2  shall  only  co-finance  capital
+establishing 
+investments and technical assistance.
+“AIF-3  Operational  Guidelines  and  Procedures”  means  the rules,
+procedures  and  eligibility  criteria  for  managing  the AIF-3  referred  to  in
+Section I.C.1(d) of Schedule 2 to this Agreement to support private sector
+operators  through  Matching  Grants  for  rural  entrepreneurs  under  Part
+2(i)(B), Part 3(o)(B) and 4(i)(B) referred to in Section I.C.1(a) and (b) of
+Schedule 2 to this Agreement; including rules and procedures establishing
+that  AIF-3  shall  only  co-finance  capital  investments  and  technical
+assistance.
+“Affected Person” means a person who, on account of the execution of the
+Project,  experienced  or  would  experience  direct  economic  and  social
+impacts  caused  by:  (a)  the  involuntary  taking  of  land,  resulting  in  (i)
+relocation or loss of shelter; (ii) loss of assets or access to assets; or (iii)
+loss of income sources or means of livelihood, whether or not such person
+must move to another location; or (b) the involuntary restriction to access
+to  legally  designated  parks  and  protected  areas,  resulting  in  adverse
+24
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+1
+5
+Appendix I
+EB 2015/LOT/P.15
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+impacts  on  the  livelihood  of  such  person;  and  “Affected  Persons”  means,
+collectively, all such Affected Persons.
+“Agricultural  Innovation  Fund  Operational  Guidelines  and Procedures”
+means  the  set  of  operational  guidelines  and  procedures  referred  to  in
+Section I.C.1.(a),(b), (c) and (d) of Schedule 2 of this Agreement; as such
+guidelines may be amended, abrogated or waived from time to time with
+the prior agreement of the Association
+“Anti-Corruption  Guidelines”  means  the  “Guidelines  on  Preventing  and
+Combating Fraud and Corruption in Projects Financed by IBRD Loans and
+IDA  Credits  and  Grants”,  dated  October  15,  2006  and  revised  in  January
+2011.
+“BARC”  means  the  Bangladesh  Agricultural  Research  Council,  established
+in  1973  by  the  Recipient’s  Presidential  Order  32  of  1973,  as  amended  in
+2012 through the BARC Act of 2012.
+“Category”  means  a  category  set  forth  in  the  table  in  Section  IV  of
+Schedule 2 to this Agreement.
+“Consultant Guidelines” means the “Guidelines: Selection and Employment
+of  Consultants  under  IBRD  Loans  and  IDA  Credits  and  Grants  by  World
+Bank Borrowers” dated January 2011(revised July 2014).
+“DAE”  means  the  Department  of  Agricultural  Extension  within  MOA  and
+any successor thereto acceptable to the Association.
+“DLS”  means  the  Department  of  Livestock  Services  within  MOFL  and  any
+successor thereto acceptable to the Association.
+“DOF” means the Department of Fisheries within MOFL, and any successor
+thereto acceptable to the Association.
+“EIA” mean each of the environmental impact assessments to be prepared
+under the Project in accordance with the EMF, pursuant to Section I.D of
+Schedule  2  to  this  Agreement,  each  such  assessment  in  form  and
+substance satisfactory to the Association, and defining details of potential
+the
+environmental 
+implementation  of  Project  activities,  together  with  an  environmental
+management plan defining measures to manage such risks and impacts; as
+each EIA may be revised, supplemented or updated from time to time with
+the prior agreement between the Recipient and the Association.
+risks  and  adverse 
+associated  with 
+impacts
+19.
+“Eligible  Beneficiary”  means  an  entity  which  meets  the  requirements  of
+and  has  been  selected  by  the  relevant  Implementing  Agency  in
+accordance  with  the Agricultural  Innovation  Fund  Operational  Guidelines
+and  Procedures,  and  which  has  entered  into  a  Subproject  Financing
+Agreement with the relevant Implementing Agency.
+20.
+“EMF” means the environmental management framework of the Recipient
+dated  November  5,  2014  and  disclosed  on  November  18,  2014, setting
+framework,  principles,  standards,  processes  and
+forth the  policy 
+25
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+1
+5
+Appendix I
+EB 2015/LOT/P.15
+institutional  arrangements  to  be  applied  to  assess  potential  adverse
+environmental  impacts  associated  with  Project  activities  and  the  ways  to
+avoid,  minimize,  mitigate  or  offset  them,  including  public  consultation,
+disclosure  and 
+revised,
+supplemented  or  updated  from  time  to  time  with  the  prior  agreement
+between the Recipient and the Association.
+framework  may  be 
+reporting;
+as  such 
+21.
+22.
+23.
+“EMP” mean each environmental management plan to be prepared under
+the  Project  in  accordance  with  the  EMF,  pursuant  to  Section  I.D  of
+Schedule  2  to  this  Agreement, each  such  plan  in  form  and  substance
+satisfactory to the Association, and defining details of measures to manage
+potential  environmental  risks  and  mitigate,  reduce  and/or  offset  adverse
+environmental  impacts  associated  with  the  implementation  of  Project
+activities,  together  with  adequate  budget,  institutional,  monitoring  and
+reporting arrangements capable of ensuring proper implementation of, and
+regular  feedback  on  compliance  with,  its  terms;  as  each  EMP  may  be
+revised,  supplemented  or  updated  from  time  to  time  with  the  prior
+agreement between the Recipient and the Association.
+“General  Conditions”  means  the  “International  Development  Association
+General Conditions for Credits and Grants”, dated July 31, 2010.
+“Governance  and  Accountability  Action  Plan”  and  “GAAP”  mean  the  plan
+agreed  between  the  Association  and  the  Recipient,  dated  May  10,  2015,
+setting forth actions and measures to be taken by the Recipient to ensure
+integrity,  transparency  and  accountability in  the  implementation  of  the
+Project  and  the  use  of  the  proceeds of  the  Financing; as each GAAP may
+be  revised,  supplemented  or  updated  from  time  to  time  with  the  prior
+agreement between the Recipient and the Association.
+24.
+“Grant”  means  the  amount  allocated for  each  Subproject  in  accordance
+with  the  rules  set  forth  in  the  Agricultural  Innovation  Fund  Operational
+Guidelines  and  Procedures;  and  “Grants”  means  collectively,  all  such
+Grants.
+25.
+“HORTEX” means the Horticulture Export Development Foundation; or any
+other successor thereto acceptable to the Association.
+26.
+“IFAD” means the International Fund for Agricultural Development.
+27.
+28.
+29.
+“IFAD Co-financing Loan Agreement” means the agreement to be entered
+into between the Recipient and IFAD, providing a loan in an approximate
+amount  of  $23,860,000  for  purposes  of  financing  of  all  the  Parts  of  the
+Project (except for Parts 1(b), 2(i), 3(o) and 4(i)).
+“Implementing  Agencies”  means:  (a)  BARC;  (b) DAE;  (c)  DLS;  and  (d)
+DOF;  and  “Implementing  Agency”  means  any  of  the  aforementioned
+entities.
+“Incremental  Operating  Costs”  means  the  reasonable  required  costs  for
+the  day-to-day  coordination,  administration  and  supervision  of  Project
+activities,  including  leasing  and/or  routine  repair  and  maintenance  of
+vehicles,  equipment,  facilities  and  office  premises,  fuel,  office  supplies,
+26
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+1
+5
+Appendix I
+EB 2015/LOT/P.15
+forwarding, 
+utilities,  consumables,  communication  expenses,  translation,  printing,
+photocopying  and  postal  expenses,  bank  charges,  advertising  expenses,
+insurance,  costs  of  clearing, 
+inspection,  survey  and
+transportation  of  goods,  Project-related  meeting  expenses  eligible  under
+the  PIM,  and  Project-related  travel  allowances,  subsistence  and  lodging
+expenses  for  civil  servants  from  the  Project  Implementation  Units,  and
+Project  districts  and  upazillas  only  for  Project  supervision  and  monitoring
+activities, but excluding salaries, allowances and honorarium of officials of
+the  Recipient’s  civil  service  and/or  other  sitting  allowances  and
+honorarium.
+“Joint  Project  Steering  Committee”  means  the  committee  referred  to in
+Section I.A.1(a) of Schedule 2 to this Agreement.
+“Matching  Grant”  means  the  amount  allocated  for  each  Subproject  in
+accordance  with  the  rules  set  forth  in  the  Agricultural  Innovation  Fund
+Operational  Guidelines  and  Procedures;  and  “Matching  Grants”  means
+collectively, all such Matching Grants.
+“MOA”  means  the  Recipient’s  Ministry  of  Agriculture  and  any  successor
+thereto acceptable to the Association.
+“MOFL” means the Recipient’s Ministry of Fisheries and Livestock, and any
+successor thereto acceptable to the Association.
+“NARS”  means  the  Recipient’s  National  Agricultural  Research  System,
+consisting of twelve  agricultural research institutes under the umbrella of
+BARC.
+“PMP” means the pest management plan of the Recipient dated November
+5,  2014  and  disclosed  on  November  18,  2014,  setting  for  an  integrated
+approach  to  pest  management  practices  under  the  Project; as  such  plan
+may be revised, supplemented or updated from time to time with the prior
+agreement between the Recipient and the Association.
+“Procurement  Guidelines”  means  the  “Guidelines:  Procurement  of  Goods,
+Works  and  Non-consulting  Services  under  IBRD  Loans  and  IDA  Credits
+and  Grants  by  World  Bank  Borrowers”  dated  January  2011  (revised  July
+2014).
+“Procurement  Laws”  means  collectively,  the  Recipient’s  Procurement  Act
+2006  (Act  No.  24  of  2006),  Public  Procurement  Rules  2008  (as  amended
+in August 2009) and Public Procurement Act (1st Amendment) 2009.
+“Procurement  Plan”  means  the  Recipient’s  procurement  plan  for  the
+Project,  dated  May  9,  2015  and referred  to  in  paragraph  1.18  of  the
+Procurement Guidelines and paragraph 1.25 of the Consultant Guidelines,
+as  the  same  shall  be  updated  from  time  to  time  in  accordance  with  the
+provisions of said paragraphs.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+“Project  Implementation  Manual”  or  “PIM”  the  manual  referred  to  in
+Section I.B.1 of Schedule 2 to this Agreement.
+27
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+1
+5
+Appendix I
+EB 2015/LOT/P.15
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+“Project Implementation Unit” means the united to be maintained by each
+of the Implementing Agencies in accordance with the provision of Section
+I.A.2 of Schedule 2 to this Agreement, and “Project Implementation Units”
+means, collectively, all such Project Implementation Units.
+“Project  Management  Unit”  means  the  unit  to  be  maintained  by  the
+Recipient  in  accordance  with  the  provisions  of  Section  1.A.1(b)  of
+Schedule 2 to this Agreement.
+“Project  Preparation  Advance”  means  the  advance  referred  to  in  Section
+2.07  of  the  General  Conditions,  granted  by  the  Association  to  the
+Recipient  pursuant  to  the  letter  agreement  signed  on  behalf  of  the
+Association on February 16, 2015, and on behalf of the Recipient on March
+3, 2015.
+“RAP”  mean  each  resettlement  action  plan  to  be  prepared  under  the
+Project in accordance with the SMF, pursuant to Section I.D of Schedule 2
+to  this  Agreement, each  such  plan  in  form  and  substance  satisfactory  to
+the  Association,  and  containing, a  program  of actions,  measures  and
+policies  for  compensation  and  resettlement  of  Affected  Persons, including
+the  magnitude  of  displacement,  compensation  and 
+resettlement
+arrangements,  budget  and  cost  estimates,  and  sources  of  funding,
+together  with  adequate 
+reporting
+arrangements  capable  of  ensuring  proper  implementation  of,  and  regular
+feedback  on  compliance  with  its  terms;  as  each  RAP  may  be  revised,
+supplemented  or  updated  from  time  to  time  with  the  prior agreement
+between the Recipient and the Association.
+institutional,  monitoring  and 
+“Safeguard  Assessment  and  Plan”  means  any EIA,  SIA,  EMP,  SMP,  RAP,
+SEVCDP  and/or  TPDP  prepared  or  to  be  prepared  by  the  Recipient  in
+accordance with the EMF and/or SMF and the provisions of Section I.D of
+Schedule  2  to  this  Agreement; and  “Safeguard  Assessments  and  Plans”
+means, collectively, all such assessments and plans.
+“Selected  Districts”  means  a  total  of  fifty-seven  (57)  districts  of  the
+Recipient duly selected between the Recipient and the Association and set
+out in the Project Implementation Manual and any other district agreed to
+in writing between the Recipient and the Association.
+“Selected  Goods  and  Services”  means  goods  and  services  that  for
+purposes  of  improving  competitiveness  in  the  contracting  that  would
+otherwise have been procured by each Implementing Agency and the PMU
+separately have been selected for pooled procurement as set forth in the
+Procurement Plan.
+“SEVCDP”  mean  each small  ethnic  and  vulnerable  communities
+development Plan acceptable to the Association and prepared on the basis
+of the SMF, detailing the specific actions, measures and policies designed
+to  address  any  impact  on  Small  Ethnic  Communities  and  facilitate  the
+achievement  of  the  objectives  of  the SMF;  as  said  plan  and any  annexes
+or schedules to such plan, may be revised from time to time with the prior
+written approval of the Association.
+28
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+1
+5
+Appendix I
+EB 2015/LOT/P.15
+48.
+49.
+50.
+51.
+“SIA”  means  each  social  impact  assessment  to  be  prepared  under  the
+Project in accordance with the SMF, pursuant to Section I.D of Schedule 2
+to  this  Agreement,  each  such  assessment  in  form  and  substance
+satisfactory to the Association, and defining details of potential social risks
+and  adverse  impacts associated  with  the  implementation  of  Project
+activities,  together  with  measures  to manage  such  risks  and  impacts;  as
+each SIA may be revised, supplemented or updated from time to time with
+the prior agreement between the Recipient and the Association.
+“Small Ethnic Communities” means, for purposes of the Project, the social
+groups  (including  tribes,  minor  races,  ethnic  sects  and  communities)
+residing  or  engaged  in  livelihood  activities  in  specific  areas  (or  where  a
+concentration of ethnic people are present) under the Project from time to
+time;  each  of  which  possesses  a  distinct  social  and  cultural  identity  that
+makes  it  vulnerable  to  being  disadvantaged  in  the  development  process,
+including the presence in varying degrees of the following characteristics:
+(a)  close  attachment  to  ancestral  territories  and  to  the  natural  resources
+in  these areas;  (b)  self-identification  and  identification  by  others  as
+members of a distinct cultural group; (c) a language, often different from
+the  Bangla  language;  (d)  presence  of  customary  social  and  political
+institutions; and (e) primarily subsistence-oriented production.
+framework,  a 
+resettlement  policy 
+“SMF”  means  the  social  management  framework  of  the  Recipient  dated
+November 5, 2014 and disclosed on November 18, 2014, including a land
+acquisition  and 
+tribal  peoples
+development framework and a gender and inclusion framework; together
+setting  forth  social  impact  assessment  and  mitigation  procedures  and
+arrangements and grievance redress procedures, including guidelines and
+procedures  for  assessing  and  addressing  any  Project  impacts  on  women
+and  other  vulnerable  groups,  resettlement  procedures,  institutional
+arrangements,  eligibility  criteria,  entitlements  and  compensation,
+including  valuation  procedures,  budget,  public  consultation  and
+participation,  monitoring  and  evaluation  and  disclosure; as  such
+framework  may  be  revised,  supplemented  or  updated  from  time  to  time
+with the prior agreement between the Recipient and the Association.
+“SMP”  mean  any  social  management  plan  to  be  prepared  in  accordance
+with  the  SMF,  pursuant  to  Section  I.D  of  Schedule  2  to  this  Agreement,
+each  such  plan  in  form  and  substance  satisfactory  to  the  Association,
+defining details  of  measures  to  manage  potential  social  risks  and  avoid,
+minimize  and/or  mitigate  any  adverse  social  impacts  associated  with
+Project  activities,  together  with  adequate  budget,  institutional,  monitoring
+and reporting arrangements capable of ensuring proper implementation of,
+and  regular  feedback  on  compliance  with,  its  terms; as  said  plan  may  be
+modified  from  time  to  time  with  the  prior  written  no-objection  of  the
+Association,  and  such  term  includes  any  schedules  or  annexes  to  such
+plan; as each SMP may be revised, supplemented or updated from time to
+time with the prior agreement between the Recipient and the Association.
+29
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+1
+5
+Appendix I
+EB 2015/LOT/P.15
+52.
+53.
+54.
+“Subproject”  means  a  set  of  activities  to be  supported  under  Parts  1(b),
+2(i),  3(o)  and  4(i)  of  the  Project  and  in  respect  of  which  a  Grant  or
+Matching  Grant,  as  the  case  may  be,  will  be  provided  pursuant  to  a
+Subproject Financing Agreement.
+“Subproject  Financing  Agreement”  means  the  agreement  to be  entered
+between  the  Implementing  Agency  and  an  eligible  beneficiary  for  the
+financing of a Subproject in accordance with the terms and conditions set
+forth  in.  the  Agricultural  Innovation  Fund  Operational  Guidelines  and
+Procedures.
+“Training” means the reasonable costs of goods and services required for
+the  participation  of  personnel  involved  in  training  activities,  workshops
+and  study  tours  under  the  Project  which  have  been  approved  by  the
+Association  in  writing  on  annual  basis,  including:  (a)  allowances  (i.e.  per
+diem,  honoraria,  travel  and  subsistence  costs  and  others)  for  training,
+workshop  and  study  tour  participants  provided  that  such  allowances  are
+paid  via  bank’s  wire  into  the  personal  bank’s  account  of  the  eligible
+recipient;  (b)  costs  associated with  securing  the  services  of  trainers,
+rental of training and workshop facilities, preparation and reproduction of
+training  and  workshop  materials,  costs  of  academic  degree  studies,  and
+other  costs  directly  related  to  training  course,  workshop  or  study  tour
+preparation and implementation, but excluding salaries of consultants.
+55.
+“USAID” means the United States Agency for International Development.
+56.
+“USAID  Co-financing  Grant  Agreement”  means  the  agreement  to  be
+entered into between the Recipient and the Association, acting as trustee
+of USAID, providing a grant in an approximate amount of $7,430,000 for
+purposes of financing Part 1(b)(ii) of the Project.
+30
+Logical framework (World Bank Results Framework and Monitoring)
+Project Development Objective: To increase agricultural productivity of smallholder farms and improve smallholder farmers’ access to markets in selected districts
+Baseline
+value
+(2014)
+PDO Level Indicators
+Cumulative or Annual values (targets and actuals)
+Year 1
+Year 2
+Year 3
+mid term
+Year 4
+Year 5
+Year 6
+project end
+Frequency
+of data
+collection
+Data source
+Comments
+1. Farm Productivity: Increase in the yield of selected agricultural commodities
+3
+1
+Crops:
+Rice (paddy): 4.7 t/ha
+Tomato: 30.0 t/ha
+Livestock:
+Dairy: 3.0 ltr
+milk/day/cow
+Beef: 160 kg live weight
+Fish:
+Culture (ponds): 3.0 t/ha
+Capture (beel): 0.7 t/ha
+Target
+Actual
+2.
+Rice: 4.7
+Tomato: 30.0
+Dairy: 3.0
+Beef: 160
+Culture: 3.0
+Capture: 0.7
+Rice:
+Tomato:
+Dairy:
+Beef:
+Culture:
+Capture:
+Rice: 4.8
+Tomato: 31.2
+Dairy: 3.2
+Beef: 175
+Culture: 3.4
+Capture: 0.8
+Rice:
+Tomato:
+Dairy:
+Beef:
+Culture:
+Capture:
+Rice: 5.0
+Tomato: 32.4
+Dairy: 3.4
+Beef: 185
+Culture: 3.7
+Capture: 1.0
+Rice:
+Tomato:
+Dairy:
+Beef:
+Culture:
+Capture:
+Rice: 5.1
+Tomato: 33.6
+Dairy: 3.5
+Beef: 200
+Culture: 4.1
+Capture: 1.1
+Rice:
+Tomato:
+Dairy:
+Beef:
+Culture:
+Capture:
+Rice: 5.2
+Tomato: 34.8
+Dairy: 3.7
+Beef: 215
+Culture: 4.4
+Capture: 1.3
+Rice:
+Tomato:
+Dairy:
+Beef:
+Culture:
+Capture:
+Rice: 5.4
+Tomato: 36.0
+Dairy: 3.9
+Beef: 225
+Culture: 4.8
+Capture: 1.4
+Rice:
+Tomato:
+Dairy:
+Beef:
+Culture:
+Capture:
+Annually
+DAE, DLS and
+DOF district
+& Upazila
+statistics
+Crops
+Rice: +14% overall increase
+Tomato: +20%
+Livestock
+Dairy: +30%
+Beef: +40%
+Fisheries
+Culture (ponds): +60%
+Capture (beel): +100%
+0
+200
+Target
+Market Access: Volume
+(in tons) of agricultural
+commodities sold
+annually through new
+marketing
+structures/arrangements
+promoted by the project
+3. Project beneficiaries: Direct project beneficiaries, of which female [CORE INDICATOR]
+Cumulative number of members in farmers groups (CIG) supported by the project (percentage of female members)
+Actual
+4,000
+2,000
+6,800
+8,400
+Semi-annually
+PIUs at DAE,
+DOF and DLS
+CIG members: 397,600
+(of which female: 29%)
+Target
+Actual
+600,000
+(35%)
+800,000
+(35%)
+1,000,000
+(35%)
+1,000,000
+(35%)
+1,000,000
+(35%)
+1,000,000
+(35%)
+Semi-annual
+PIUs at DAE,
+DOF and DLS
+Most new CIG will be formed
+in YR1 (others are 1st gen.
+CIG already formed)
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+1
+5
+Project Development Objective: To increase agricultural productivity of smallholder farms and improve smallholder farmers’ access to markets in selected districts
+Baseline
+value
+(2014)
+Intermediary Indicators
+Cumulative or Annual values (targets and actuals)
+Year 1
+Year 2
+Year 3
+mid term
+Year 4
+Year 5
+Year 6
+project end
+Frequency
+of data
+collection
+Data source
+Comments
+4. Research: Technologies demonstrated in the project area [CORE INDICATOR]
+Technologies
+demonstrated: 0
+Target
+Actual
+5
+10
+15
+30
+40
+0
+Semi-annual
+PIU BARC
+Only on-farm, i.e., informing
+also about research-
+extension-farmer linkages
+5. Research: Research sub-projects under implementation or completed [CORE INDICATOR]
+Target
+15
+70
+100
+130
+130
+130
+AIF-1 grants: 0
+Actual
+Semi-annual
+PIU BARC
+Total of at least:
+30 PBRG
+100 CRG
+3
+2
+6. Extension: Targeted clients satisfied with agricultural and rural advisory services [CORE INDICATOR]
+Percentage
+(percentage female satisfied)
+Farmers satisfied: %
+(tbd %)
+Target
+Actual
+66%
+(64%)
+74%
+(68%)
+79%
+(77%)
+85%
+(84%)
+89%
+(89%)
+93%
+(93%)
+Annual
+PIU DAE,
+DOF, and DLS
+7. Extension: Clients who have adopted an improved agricultural technology promoted by the project [CORE INDICATOR]
+Cumulative number of CIG members adopting at least 1 technology (percentage female)
+Adopters: 0
+(female: 0)
+Target
+Actual
+0
+(0%)
+226,000
+(35%)
+396,000
+(35%)
+529,000
+(35%)
+602,000
+(35%)
+640,000
+(35%)
+8. Market access: Marketing solutions implemented by the project (cumulative)
+Marketing solutions:
+0
+Target
+Actual
+15
+30
+65
+95
+120
+140
+Semi-annual
+PIU DAE,
+DOF, and DLS
+Annual
+PIU DAE,
+DOF, and DLS
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+1
+5
+Project Development Objective: To increase agricultural productivity of smallholder farms and improve smallholder farmers’ access to markets in selected districts
+Baseline
+value
+(2014)
+Cumulative or Annual values (targets and actuals)
+Year 1
+Year 2
+Year 3
+mid term
+Year 4
+Year 5
+Year 6
+project end
+Frequency
+of data
+collection
+Data source
+Comments
+9. Agricultural Innovation Fund: Technology adoption and marketing sub-projects under implementation or completed
+Cumulative number
+AIF-2&3 grants: 0
+Target
+Actual
+0
+500
+1,000
+2,000
+2,800
+3,500
+Semi-annual
+PMU
+Total of at least:
+3,000 AIF-2 grants and
+500 AIF-3 grants
+10. Client-days of training provided [CORE INDICATOR]
+(percentage female)
+0
+(0%)
+Target
+Actual
+3
+3
+500,000
+(35%)
+1,000,000
+(35%)
+1,000,000
+(35%)
+700,000
+(35%)
+600,000
+(35%)
+500,000
+(35%)
+Semi-annual
+PMU and
+PIUs at DAE,
+DOF and DLS
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+1
+5

@@ -1,0 +1,1950 @@
+Document:
+Agenda:
+Date:
+Distribution:
+Original:
+EB 2016/119/R.23/Rev.1
+14(b)(i)
+14 December 2016
+Public
+English
+E
+President’s report
+Proposed loan to the Kingdom of Cambodia
+for the Accelerating Inclusive Markets for
+Smallholders Project
+Note to Executive Board representatives
+Focal points:
+Technical questions:
+Dispatch of documentation:
+Benoit Thierry
+Asia and the Pacific Division
+Country Programme Manager
+Tel.: +39 06 5459 2234
+e-mail: b.thierry@ifad.org
+William Skinner
+Chief
+Governing Bodies Office
+Tel.: +39 06 5459 2974
+e-mail: gb_office@ifad.org
+Executive Board — 119th Session
+Rome, 14-15 December 2016
+For: Approval
+EB 2016/119/R.23/Rev.1
+ii
+iii
+iv
+1
+1
+1
+1
+2
+2
+2
+2
+3
+3
+3
+4
+4
+5
+5
+5
+6
+6
+7
+7
+7
+7
+7
+8
+8
+8
+8
+Contents
+Abbreviations and acronyms
+Map of the project area
+Financing summary
+Recommendation for approval
+I.
+Strategic context and rationale
+A. Country and rural development and poverty context
+B. Rationale and alignment with government priorities and
+RB-COSOP
+II. Project description
+A. Project area and target group
+B. Project development objective
+C. Components/outcomes
+III. Project implementation
+Approach
+A.
+B. Organizational framework
+C. Planning, M&E, and learning and knowledge management
+D. Financial management, procurement and governance
+E. Supervision
+IV. Project costs, financing and benefits
+A. Project costs
+B. Project financing
+C. Summary benefit and economic analysis
+D. Sustainability
+E. Risk identification and mitigation
+V.
+Corporate considerations
+A.
+B.
+C.
+D.
+Compliance with IFAD policies
+Alignment and harmonization
+Innovations and scaling up
+Policy engagement
+VI. Legal instruments and authority
+VII. Recommendation
+Appendices
+I. Negotiated financing agreement
+II. Logical framework
+i
+EB 2016/119/R.23/Rev.1
+Abbreviations and acronyms
+AIMS
+M&E
+MEF
+MOC
+PMO
+RIMS
+SME
+VCIF
+Accelerating Inclusive Markets for Smallholders
+monitoring and evaluation
+Ministry of Economy and Finance
+Ministry of Commerce
+project management office
+IFAD's Results and Impact Management System
+small and medium-sized enterprises
+value chain innovation fund
+ii
+Kingdom of Cambodia
+Map of the project area
+EB 2016/119/R.23/Rev.1
+iii
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2016/119/R.23/Rev.1
+Kingdom of Cambodia
+Accelerating Inclusive Markets for Smallholders Project
+Financing summary
+Initiating institution:
+IFAD
+Borrower:
+Executing agency:
+Total project cost:
+Amount of IFAD loan:
+Terms of IFAD loan
+Kingdom of Cambodia
+Ministry of Commerce
+US$61.6 million
+US$36.3 million
+Highly concessional: Maturity period of 40 years,
+including a grace period of 10 years, with a service
+charge of 0.75 per cent per annum
+Cofinanciers:
+Private businesses
+Amount of cofinancing:
+US$8.6 million
+Terms of cofinancing:
+Private investment through value chain innovation fund
+Contribution of borrower:
+US$8.65 million
+Contribution of beneficiaries:
+US$8.1 million
+Appraising institution:
+IFAD
+Cooperating institution:
+Directly supervised by IFAD
+iv
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2016/119/R.23/Rev.1
+Recommendation for approval
+The Executive Board is invited to approve the recommendation for the proposed
+loan to the Kingdom of Cambodia for the Accelerating Inclusive Markets for
+Smallholders Project as contained in paragraph 39.
+Proposed loan to the Kingdom of Cambodia for the
+Accelerating Inclusive Markets for Smallholders Project
+I. Strategic context and rationale
+A. Country and rural development and poverty context
+1.
+Cambodia has made dramatic progress in reducing poverty over the last decade.
+Between 2004 and 2012, poverty was reduced from 53 per cent to 17.5 per cent,
+surpassing all expectations and exceeding the Millennium Development Goal
+poverty target. More than 4.3 million people have moved out of poverty during this
+period – mostly in rural areas – with the number of poor people dropping from
+almost 7 million in 2004 to below 2.5 million in 2012 (World Bank, 2015). The
+country’s vibrant and pro-poor agricultural growth was the key driver of this
+dramatic reduction in poverty. More than 60 per cent of Cambodia’s poverty
+reduction was attributed to the agriculture sector: higher rice prices stimulated
+greater rice production, which helped to increase farm wages (World Bank, 2013).
+Between 2004 and 2012, the annual growth in gross agricultural production was
+8.7 per cent and agricultural value added grew by 5.3 per cent during this period.
+2.
+3.
+Despite this significant reduction in poverty, many of the 4.3 million people that
+have moved out of poverty are still vulnerable. This is because the majority of
+them are still "near-poor" and are therefore extremely susceptible to slipping back
+into poverty if shocks occur. Indeed, almost all of the gains of the last decade
+could be reversed by an average loss of KHR 1,200 per day (US$0.30), which
+would return 3 million near-poor people into poverty and raise Cambodia’s poverty
+rate to 40 per cent (based on 2011 poverty data; World Bank, 2013).
+Additional poverty reduction will depend on the success of agriculture in the
+coming years since this sector involves a large share of the labour force and has a
+major role in exports. Farmers are among the country’s poorest and most
+vulnerable people, and the factors that drove Cambodia’s growth – especially
+higher rice prices and expansion of production – are unlikely to drive significant
+further growth. Continued poverty reduction will depend on finding new ways to
+expand Cambodia's agricultural sector in terms of overall agricultural growth,
+higher returns (especially returns on labour) and inclusiveness of growth.
+B. Rationale and alignment with government priorities and
+4.
+5.
+RB-COSOP
+Since Cambodia’s dramatic poverty reduction was largely driven by agriculture,
+most poverty reduction occurred in rural areas. Given the importance of agriculture
+in the rural economy, continued agricultural growth is crucial to promote further
+poverty reduction and economic growth in rural communities. If farm incomes are
+to keep pace with non-farm wages, returns on agricultural labour need to rise
+dramatically; however agricultural growth has stalled. In order to continue
+Cambodia’s poverty reduction and inclusive growth, there is a need to restart
+agricultural growth through intensification, diversification and commercialization.
+Fortunately, there are currently market opportunities for higher-return agricultural
+growth and a number of important developments are enabling Cambodian farmers
+and agribusinesses to capitalize on these opportunities. These include a rapidly
+improving rural finance sector, promising market-support and production
+1
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2016/119/R.23/Rev.1
+initiatives, and farmers’ increasing interest in market opportunities for
+agribusiness. However: many smallholders still cannot access financing for
+investments in their farms; value chains are highly fragmented, leading to high
+transaction costs; many small and medium-sized enterprises (SMEs) are informal,
+which limits their capacity to invest and their understanding of new markets; many
+agribusinesses struggle to aggregate supply from several smallholder farmers; and
+major capacity gaps exist in competitive on-farm production and post-harvest
+management. Tackling these challenges is vital if Cambodian agriculture is to
+compete in both export markets and against imports from neighbouring countries.
+The rationale for the Accelerating Inclusive Markets for Smallholders (AIMS) Project
+is to: (i) identify a portfolio of promising growth opportunities; and (ii) work with
+actors in the value chain to identify and address bottlenecks to faster growth. This
+requires filling gaps in networks, skills and resources to forge a practical pathway
+to growth.
+The project design is consistent with the strategic objectives of the 2013-2018
+country strategic opportunities programme (COSOP), specifically its first strategic
+objective to enable poor smallholders to take advantage of market opportunities. It
+is closely aligned with the Government’s policies for rural development, including
+the Rectangular Strategy’s resolve to make agriculture a leading sector in the
+nation’s economy and source of sustainable economic growth, and to increase food
+security and reduce poverty. The project is also aligned with the Cambodia Trade
+Integration Strategy 2014-2018, which addresses issues of trade-sector
+competitiveness, job and income creation, and sustainable human development.
+6.
+7.
+II. Project description
+A. Project area and target group
+8.
+Project area. The project will be implemented in all parts of the country, with
+actual locations determined by the selection of priority value chains. AIMS will
+initially work in 15 provinces based on the section of five flagship commodities to
+be supported by five multistakeholder platforms and three inter-regional technical
+hubs.
+9.
+The project’s primary beneficiaries will be smallholder farm households, including
+poor and near-poor farmers, and women-headed households participating in the
+supported value chains and voluntarily collaborating in project activities. Secondary
+target groups include other value-chain actors such as agricultural cooperatives,
+farmer organizations, SMEs, agribusinesses, service enterprises and industry
+associations. The project will aim to make agriculture and value-chain integration
+more attractive to the younger generation as a profitable business.
+B. Project development objective
+10. The project’s development objective is to increase returns from farming for
+smallholders, including poor farmers and youth, through efficient public-sector
+investment. There are expected to be 75,000 direct household beneficiaries of the
+project with increased assets of at least 25 per cent.
+C. Components/outcomes
+11. The project will have two technical components and one project management
+component:
+Component 1: Value chain development will focus on brokering,
+facilitation, innovation and capacity-building to support the inclusive growth
+of five high-value product value chains covering crops and livestock. Value
+chain brokering and facilitation through a cluster approach will form the core
+of the component’s approach. This cluster approach will geographically group
+key actors along the value chain in the same geographic areas. For AIMS,
+value-chain actors will typically be defined by zones of production, which form
+discrete buying zones that include a number of competing buyers and
+traders.
+2
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+
+EB 2016/119/R.23/Rev.1
+IFAD’s public-private-producer partnership models will be drawn upon for the
+supported contract farming arrangements. Building on both existing and
+emerging production clusters, the project will: (i) follow a consistent process
+to develop and promote links between buyers, producers and service
+providers through multistakeholder platforms and contract farming
+mechanisms; (ii) give priority to innovation in local value chains, especially
+through a value chain innovation fund (VCIF) and; (iii) promote the
+development of local markets for private-sector support services.
+Component 2: Value chain financing will aim to increase private
+investment in priority value chains by farmers, SMEs, agricultural
+cooperatives, agribusinesses, service providers and others. Priorities for the
+investment agenda in each value chain will be driven by the private
+value-chain actors via the brokerage and facilitation process supported
+through component 1. The value chain financing component will employ a
+two-pronged approach to stimulate private investment in priority value
+chains. This approach will be implemented through two sub-components:
+(i) 2.1 Value chain investment support. AIMS will provide direct financial
+support to stimulate private investment through the VCIF and a credit
+line for policy-based financing to be administered by the Rural
+Development Bank or a third-party fund administrator. The total value of
+investment support will be approximately US$18 million. The total value
+of support grants and loans available to each value chain through the
+VCIF and line of credit should be broadly proportionate to the expected
+development outcomes of that value chain (including the number of
+farmers benefiting and each farmer’s increased profit). Only investments
+assessed as commercially feasible will be eligible.
+(ii) 2.2 Financial service provider partnerships. Private investment in
+high-value agriculture can only be accelerated with significantly increased
+financing from banks and microfinance institutions to farmers,
+agricultural cooperatives, SMEs, agribusinesses and service providers.
+AIMS will initially partner with three major microfinance institutions with
+substantial agricultural portfolios and the internal capacity to lend for
+agriculture (for example having dedicated agricultural finance officers).
+III. Project implementation
+Approach
+A.
+12. The project design is based on the following principles:
+(a) Only commercially viable value chains and investments will be supported.
+This is essential for supported value chains to sustain long-term
+competitiveness and self-sufficiency after project implementation without
+public subsidies.
+(b)
+(c)
+To attract IFAD support, value chains must have real potential for inclusive
+growth and involve significant numbers of poor farmers who are able to earn
+profits from the growing value chains along with other enterprises.
+From the start, AIMS will promote the development of critical business-
+support services and input markets, which are a vital to sustaining a
+competitive industry that strengthens the primary value chain.
+(d) AIMS will build the capacity of individuals, institutions, networks and systems
+while delivering project results.
+(e)
+The project will promote learning from best practices elsewhere, refining and
+adapting approaches that work well in the Cambodian context.
+B. Organizational framework
+13.
+Project implementation will be primarily decentralized, with overall project
+coordination provided by the Ministry of Commerce (MOC) as lead implementation
+3
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+
+EB 2016/119/R.23/Rev.1
+agency (LIA). MOC will support project activities through three regional hubs and
+the Ministry of Economy and Finance (MEF) will collaborate with the contracted
+fund administrator for the VCIF and the Rural Development Bank or a qualified
+private bank for the line of credit.
+14. MOC will be the lead executing agency for the project and will lead component 1,
+with the responsibility of coordinating business development and agriculture
+marketing. This ministry will host a project management office (PMO), which will
+include the component 1 management team led by the AIMS project director. The
+PMO will be responsible for overall financial management, reporting and
+administration in collaboration with the MOC Directorate General for Domestic
+Trade. The Department for International Cooperation of MOC will be responsible for
+financial management, procurement, monitoring and evaluation (M&E),
+communication and reporting.
+15. MEF will be the implementing agency for component 2 (value chain financing). The
+component 2 team will establish a management office within this ministry, which
+will supervise the appointed VCIF fund administrator and Rural Development Bank
+or a qualified private bank in relation to the line of credit. Overall, as per its
+borrower’s representative role, MEF will also be responsible for: (i) inter-agency
+coordination; (ii) providing government fiduciary oversight and management;
+(iii) providing sufficient and timely counterpart contributions to finance project
+activities, including payment of government staff salaries; and (iv) timely
+processing of withdrawal applications, procurement approvals and other necessary
+documents according to standard operating procedures.
+C. Planning, M&E, and learning and knowledge management
+16. Planning and M&E. Planning processes and schedules within AIMS will be
+harmonized with the regular planning processes of MEF and MOC. A major focus for
+M&E will be the establishment of a highly effective management information
+system (including online and offline, Internet and mobile devices) to provide
+project managers and value chain teams with timely and reliable information on
+developments in each priority value chain. This will allow intervention plans to be
+assessed and information and networks from neighboring provinces and countries
+to be integrated.
+17. The M&E system will utilize regularly updated results chains and M&E frameworks
+for each priority value chain to compliment IFAD’s Results and Impact Management
+System (RIMS), and the project logframe. The use of results chains for individual
+value chains will enable the identification and tracking of change indicators for each
+value chain and cluster. The results chains will also be powerful tools for
+communication among value-chain stakeholders regarding opportunities,
+bottlenecks and joint action
+18. Learning and knowledge management. Effective and efficient learning,
+knowledge management and communication are central to meeting the project’s
+objective through communities of practice, social networks and online systems.
+AIMS will invest in high-quality, evidence-based knowledge management in order
+to contribute to policy development. The project will also seek to strengthen
+institutional capacity related to policy-based financing for sector development,
+trade research and facilitation. In this context, AIMS will support targeted
+institutional strengthening activities and project management will integrate
+effective knowledge management and communication. The knowledge
+management and communication strategy will play an important role in ensuring
+that the project achieves its indented outcomes. This strategy will be coordinated
+by the Department for International Cooperation on behalf of the PMO and will
+include a full-time knowledge management and communications officer from this
+department.
+D. Financial management, procurement and governance
+19. Financial management. The project’s financial management will be in line with
+the standard operating procedures for externally funded projects (used by all
+4
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2016/119/R.23/Rev.1
+donor-funded programmes in Cambodia) and supervised by IFAD to ensure that:
+(i) funds are used efficiently and for intended purposes; (ii) disbursements of
+project funds facilitate rapid implementation; (iii) funds are well managed and flow
+smoothly; (iv) accurate financial reports are issued in a timely manner; (v) a
+robust flow of reliable information on project activities ensures accountability; and
+(vi) project assets and resources are safeguarded. The Ministries of Commerce and
+Economy and Finance will be authorized to manage all project-related bank
+accounts, including those utilized for government counterpart funding.
+20. Flow of funds. As lead executing agency, MOC shall open and maintain a
+designated account in United States dollars at the National Bank of Cambodia to
+receive the loan proceeds from the account maintained by IFAD and an account in
+United States dollars to receive and manage the government counterpart funds for
+the project. MOC shall open a project bank account for the implementation of
+component 1. MEF shall open a project bank account for the implementation of
+component 2 and coordination activities.
+21. Procurement. Procurement shall be carried out in accordance with the updated
+standard operating procedures promulgated under the law on public procurement
+for implementing all externally funded projects. The standard operating procedures
+detail the procedures, processes, good governance framework and controls as
+established in the procurement manual. Government rules and procedures will be
+applied and as long they are consistent with IFAD’s procurement guidelines.
+22.
+Internal control and external audit. All procedures for project implementation
+and management will be documented in the project implementation manual and
+consistently applied. The manual shall include provisions regulating the
+establishment of internal controls, monitoring and review of transactions, and
+accounting software requirements. An independent private auditor will be hired for
+the annual audit of consolidated financial statements (including those prepared by
+both MEF and MOC). Proper terms of reference for audits will be an important
+safeguard for all stakeholders. These terms of reference will include visits to
+implementing partners and service providers, and field visits when appropriate. The
+audited financial statements and audit reports will be submitted to IFAD within the
+six months following the close of each fiscal year.
+23. Governance. A project level good governance framework will cover procurement,
+financial management, disclosure, civil society participation, ethical conduct,
+sanctions and project-specific issues. The project will support the strengthening of
+national financial management and procurement capacity.
+E. Supervision
+24. AIMS will be jointly supervised by the Government and IFAD. Joint supervision
+missions will be conducted at least once per financial year with additional
+implementation support missions mobilized as necessary. A mid-term review shall
+be conducted jointly by the borrower and IFAD at the end of the third project year
+to: assess the progress, achievements, constraints, emerging impacts and
+sustainability of the project, and make recommendations and necessary
+adjustments for the remainder of the disbursement period.
+IV. Project costs, financing, and benefits
+A. Project costs
+25. The total project cost is estimated at US$62.1 million. Indicative costs for each
+component are detailed in table 1. Indicative project costs by expenditure category
+and financier are provided in table 2.
+5
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2016/119/R.23/Rev.1
+Table 1
+Project costs by component and financier
+(Thousands of United States dollars)
+Component
+1. Value Chain
+development
+2. Value Chain financing
+3. Project Coordination
+and knowledge
+management
+Total
+IFAD loan
+Other
+cofinanciers
+Beneficiaries
+Borrower/
+counterpart
+Total
+Amount
+%
+Amount
+%
+Amount
+%
+Amount
+%
+Amount
+13 994
+20 721
+66.4
+54.9
+-
+-
+273
+1.3
+6 810
+32.3
+8 586
+22.7
+7 843
+20.8
+602
+1.6
+21 077
+37 751
+1 542
+36 257
+55.4
+58.8
+-
+-
+-
+-
+1 243
+44.6
+2 785
+8 586
+13.9
+8 116
+13.2
+8 654
+14
+61 613
+B. Project financing
+26. AIMS is to be financed by an IFAD loan, a private-sector contribution (by
+beneficiaries and businesses) and the Government. IFAD will finance
+US$36.3 million (58.8 per cent) of project costs as a loan to the Government. The
+Government will finance US$8.65 million (14 per cent of total costs). Project
+beneficiaries are expected to contribute US$8.1 million (13.2 per cent) and private
+businesses are expected to contribute US$8.6 million (13.9 per cent).
+Table 2
+Project costs by expenditure category and financier
+(Thousands of United States dollars)
+IFAD loan
+Other
+cofinanciers
+Beneficiaries
+Government
+counterpart
+Total
+Expenditure category
+Amount
+%
+Amount
+%
+Amount
+%
+Amount
+%
+Amount
+1. Consultancies
+2. Equipment and
+material
+3. Training
+4. Credit and guarantee
+funds
+2 284
+-
+3 544
+60
+0
+50
+8 967
+100
+-
+-
+-
+-
+0
+0
+0
+0
+-
+-
+-
+-
+0
+0
+0
+0
+5. Grants and subsidies
+18 594
+52.7
+8 586
+24.3
+8 116
+23
+6. Salaries and
+allowances
+Total
+2 867
+50
+-
+0
+-
+0
+36 257
+58.8
+8 586
+13.9
+8 116
+13.2
+1 522
+40
+3 806
+721
+3 544
+100
+50
+721
+7 088
+-
+-
+2 867
+8 654
+0
+0
+50
+14
+8 967
+35 296
+5 734
+61 613
+C. Summary benefit and economic analysis
+27. AIMS will generate financial and social benefits by introducing improved
+agricultural practices, commercial farming of high-value crops and improved post-
+harvest management in rain-fed and irrigated crop and livestock production.
+Financial benefits will include greater incomes for households targeted by the
+project. Social benefits will include reduced poverty in the targeted project areas as
+a result of increased household income and improved employment opportunities in
+the agriculture sector.
+28. The economic rationale for AIMS is based on: (i) improved agricultural productivity
+and reduction of post-harvest losses as a result of the introduction of improved
+technologies; and (ii) increased cropping intensity and cultivation of high-value
+crop varieties and livestock with drip irrigation to expand dry-season production.
+With a potential increase in yields of between 50 per cent and 100 per cent from
+drip-irrigation, these improved production practices and integrated soil fertility
+measures are expected to significantly improve household incomes.
+29. The economic analysis of the project indicates that AIMS is robust in economic
+terms. The overall economic internal rate of return is estimated at 31.9 per cent,
+which is above the opportunity cost of capital in Cambodia. The economic internal
+rate of return was estimated based on the assumption that 70 per cent of target
+6
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2016/119/R.23/Rev.1
+farmers will adopt the improved technology promoted by the project, and will
+expand the use of drip-irrigation cultivation.
+D. Sustainability
+30.
+Financial sustainability is at the core of the AIMS approach, which seeks to catalyze
+profitable private-led investments by farmers and businesses into value chains and
+associated private service enterprises. The project is expected to facilitate the
+successful operation of farmer groups, agribusinesses and other enterprises in each
+value chain. Institutional sustainability of critical value-chain facilitation activities
+will be achieved by building strong and mutually beneficial relationships among
+farmers, private businesses and government agencies, especially via
+multistakeholder platforms and regional hub teams.
+E. Risk identification and mitigation
+31. The main identified risks include: (i) ineffective targeting of poor smallholders;
+(ii) a lack of market opportunities, which may limit the scale of impact;
+(iii) unfamiliar approaches to market-oriented agriculture development;
+(iv) insufficient flexibility in resource allocation and action plans; and (v) a lack of
+coordination between national and sub-national agencies, and the private sector.
+To mitigate these risks, the project will: (i) ensure rigorous and objective value
+chain assessment and selection; (ii) select and screen five initial products targeted
+to the domestic and export markets for market demand and profitability;
+(iii) provide intensive and sustained technical assistance (including social
+mobilization) and mainstream value chain activities, taking into account previous
+experiences in the region; and (iv) ensure that managers have up-to-date
+information on each value chain through M&E systems based on current best
+practices (e.g. the Donor Committee for Enterprise Development Standard). In
+addition, MEF will: (i) ensure overall coordination; (ii) implement the project
+through field-based hub offices; and (iii) directly involve stakeholders in project
+delivery as members of regional hub teams and in project governance via the
+project steering committee.
+V. Corporate considerations
+A.
+Compliance with IFAD policies
+32. The design of AIMS complies with IFAD policies and strategies on targeting,
+gender, indigenous peoples, environmental and natural resource management, and
+private-sector engagement. Consideration has been given in project design to
+gender in the division of labour within selected value chains and to the barriers
+women face in project participation. Most of the activities related to environmental
+impact fall under category B.
+Alignment and harmonization
+B.
+33. The multistakeholder platform that will be implemented by AIMS in each value
+chain cluster will provide a sub-national forum for all stakeholders to harmonize
+their support of local value chains, including other development actors. AIMS will
+be harmonized with other major projects including the Agriculture Services
+Programme for Innovation, Resilience and Extension implemented by the Ministry
+of Agriculture, Forestry and Fisheries, which will strengthen public and private
+extension services and decentralize investment budgets through programme-based
+budgeting. This will enable provincial departments of agriculture to respond to local
+priorities identified through multistakeholder platforms. AIMS will also be
+harmonized with the Boosting Food Production Project, implemented by the
+Ministry of Agriculture, Forestry and Fisheries General Directorate of Agriculture,
+which will complement AIMS activities in the rice sector and share joint
+multistakeholder platforms for vegetables in common provinces. In addition, AIMS
+will build on the progress of a project supported by the French Development
+Agency in the rice sector and planned value chain infrastructure investments in the
+forthcoming Asian Development Bank Value Chain Project, which will also support
+value chains and provinces targeted by AIMS.
+7
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2016/119/R.23/Rev.1
+Innovations and scaling up
+C.
+34. The review of the 2008-2012 COSOP identified the need for a more pragmatic
+approach to maximize synergies between projects, improve knowledge
+management, harmonize with development partners and ensure sustained
+improvements in the capacity of public extension services. The scaling up study
+also emphasized the importance of improved knowledge management and the
+identification of opportunities. AIMS responds to the recommendation of this study
+that IFAD [in Cambodia] rebalance its operational goals with more of an emphasis
+on becoming truly a learning and scaling-up organization. This will be
+operationalized through the project’s multistakeholder value chain initiatives and
+its explicit focus on learning, knowledge management and communication.
+Policy engagement
+D.
+35. AIMS will invest in high-quality, evidence-based knowledge management in order
+to contribute to policy development. The project also seeks to strengthen
+institutional capacity related to policy-based financing for sector development and
+trade research and facilitation. In this context, AIMS will support targeted
+institutional strengthening activities. The knowledge management and
+communication strategy will ensure that evidence-based policy analysis reaches
+key decision makers in a useable form while facilitating broad-based stakeholder
+engagement policy dialogue.
+VI. Legal instruments and authority
+36. A project financing agreement between the Kingdom of Cambodia and IFAD will
+constitute the legal instrument for extending the proposed financing to the
+borrower. A copy of the negotiated financing agreement is attached as appendix I.
+37. The Kingdom of Cambodia is empowered under its laws to receive financing from
+IFAD.
+38.
+I am satisfied that the proposed financing will comply with the Agreement
+Establishing IFAD and the Policies and Criteria for IFAD Financing.
+VII. Recommendation
+39.
+I recommend that the Executive Board approve the proposed financing in terms of
+the following resolution:
+RESOLVED: that the Fund shall provide a loan on highly concessional terms
+to the Kingdom of Cambodia in the amount of thirty-six million three hundred
+thousand United States Dollars (US$36,300,000) and upon such terms and
+conditions as shall be substantially in accordance with the terms and
+conditions presented herein.
+Kanayo F. Nwanze
+President
+8
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+Appendix I
+EB 2016/119/R.23/Rev.1
+Negotiated financing agreement
+Accelerating Inclusive Markets for Smallholders (AIMS)
+(Negotiations concluded on 1 December 2016)
+Loan Number: __________
+Project Title: Accelerating Inclusive Markets for Smallholders (AIMS) (the “Project”)
+The Kingdom of Cambodia (the “Borrower”)
+and
+The International Fund for Agricultural Development (the “Fund” or “IFAD”)
+(each a “Party” and both of them collectively the “Parties”)
+hereby agree as follows:
+Section A
+1.
+The  following documents  collectively  form  this  Agreement:  this  document,  the
+Programme  Description  and  Implementation  Arrangements  (Schedule  1)  and  the
+Allocation Table (Schedule 2).
+2.
+The  Fund’s  General  Conditions  for  Agricultural  Development  Financing  dated  29
+April 2009,  amended  as  of  April  2014,  and  as  may  be  amended  hereafter  from  time  to
+time (the “General Conditions”) are annexed to this Agreement, and all provisions thereof
+shall  apply  to  this  Agreement.  For  the  purposes  of  this  Agreement  the  terms  defined  in
+the General Conditions shall have the meanings set forth therein.
+3.
+The  Fund  shall  provide  a  Loan  to  the  Borrower  (the  “Financing”),  which  the
+Borrower shall use to implement the Project in accordance with the terms and conditions
+of this Agreement.
+Section B
+The amount of the Loan is thirty six million three hundred thousand  United States
+1.
+dollars (USD 36 300 000).
+2.
+The Loan shall be free of interest but bear a service charge of three fourths of one
+per  cent  (0.75%)  per  annum  payable  semi-annually in  the  Loan  Service  Payment
+Currency, and shall have a maturity period of forty (40) years, including a grace period of
+ten  (10)  years  starting  from  the  date  of  approval  of  the  Loan  by  the  Fund’s  Executive
+Board.
+3.
+4.
+5.
+The Loan Service Payment Currency shall be the US Dollar.
+The first day of the applicable Fiscal Year shall be 1st of January.
+Principal and service charge shall be payable on each 1st of April and 1st of October.
+6.
+There shall be two bank accounts denominated in USD (referred to as the
+“Designated Accounts”) opened by the Borrower in the National Bank of Cambodia,
+1
+Appendix I
+EB 2016/119/R.23/Rev.1
+through which the proceeds of the IFAD Financing shall be channelled. One opened for
+Ministry of Commerce (MOC) and the other one opened for Ministry of Economy and
+Finance (MEF). The Borrower shall inform the Fund of the officials authorized to operate
+the Designated Account. The Borrower shall open a bank account denominated in USD
+(referred as the “RGC Counterpart Account”) in the National Bank of Cambodia, through
+which the proceeds of the RGC Counterpart Financing shall be channelled.
+7.
+There  shall  be  one  Project  Account  denominated  in  USD  (the  “Project  Account”),
+opened by MOC. The Project Account shall receive and hold the proceeds of the Financing
+transferred  from  the  MoC  Designated  and  RGC  Counterpart  Account.  The  MOC  Project
+Account financial resources shall be used for the implementation of component 1 and the
+overall  project’s  coordination  activities.  The  Designated  Account  managed  by  MEF  shall
+be  used  for  the  implementation  and  coordination  activities  related  to  component  2  and
+shall  transfer  funds  to  two  additional  Sub-Project  Accounts  for  the  management  of  the
+credit line  and  the  Value  Chain  Innovation  Fund  (VCIF)  by  the  Rural Development  Bank
+(RDB)  or  a  qualified  private  bank.  The  Borrower  shall  inform  the  Fund  of  the  officials
+authorized to operate the Project and Sub-Projects Accounts.
+8.
+The Borrower shall provide counterpart financing for the Project in an approximate
+amount of eight million six hundred and fifty thousand US dollars (USD 8 650 000). The
+counterpart  financing provided  by  the  Borrower  shall include  the  payment  of  duties  and
+taxes related to the Financing.
+Section C
+1.
+2.
+The Lead Project Agency shall be the Borrower's MOC.
+The following are designated as additional Project Party: MEF.
+The  Project  Completion  Date  shall  be  the  sixth anniversary  of  the  date  of  entry
+3.
+into force of this Agreement.
+Section D
+The Loan will be administered and the Project supervised by the Fund.
+Section E
+1. The following are designated as additional conditions precedent to withdrawal:
+(a)
+(b)
+(c)
+The Project  Management  Office  (PMO)  and  the  Project  Steering  Committee
+(PSC)  shall  have  been  duly  established  and  staffed  in  accordance with
+Section II, Schedule 1 to this Agreement;
+The  Project  key  staff  ,  including  a  Project  director  and  a  Finance  Officer  at
+MOC, acceptable to the Fund have been duly appointed;
+By MOC Ministerial order the Department of International Cooperation (DICO)
+has been entrusted as financial administrator for component 1 and the overall
+project for coordination purposes;
+(d) A  computerized  accounting  system  acceptable  to  the  Fund  shall  have  been
+procured at PMO;
+(e) A Project Implementation Manual (PIM) shall have been prepared in form and
+substance satisfactory to the Fund, and
+2
+Appendix I
+EB 2016/119/R.23/Rev.1
+(f)
+For  disbursements  related  to  component  2.1,  a  Subsidiary  Agreement
+between  the  Borrower  and RDB  or  a  qualified  private  bank as  outlined  in
+section  I  of  Schedule  1  to  this  Agreement  has  been signed,  in  form  and
+substance satisfactory to the Fund.
+2.
+The following is designated as additional condition for suspension:
+The PIM, or any provision thereof, has been waived, suspended, terminated, amended or
+modified without the prior consent of the Fund, and the Fund has determined that such
+waiver, suspension, termination, amendment or modification has had, or is likely to have,
+a material adverse effect on the Project.
+The following are the designated representatives and addresses to be used for any
+3.
+communication related to this Agreement:
+For the Borrower:
+Senior Minister, Minister of Economy and Finance
+Ministry of Economy and Finance
+392 Sangkat Wat Phnom, Khan Daun Penh,
+Phnom Penh, Cambodia
+Facsimile Numbers:
+(855 23) 427-798
+For the Fund:
+President
+International Fund for Agricultural Development
+Via Paolo di Dono, 44
+00142 Rome, Italy
+Fax: (+39) 06 5043463
+This Agreement, dated 1 December 2016, has been prepared in the English language in
+two (2) original copies, one (1) for the Fund and one (1) for the Borrower.
+KINGDOM OF CAMBODIA
+_____________________
+Authorized Representative
+(name and title)
+INTERNATIONAL FUND FOR AGRICULTURAL DEVELOPMENT
+_____________________
+Kanayo F. Nwanze
+President
+3
+Appendix I
+EB 2016/119/R.23/Rev.1
+Schedule 1
+Project Description and Implementation Arrangements
+I.
+Project Description
+40. Target  Population. The  Project  shall  benefit  to  smallholder  farm  households,
+including  poor  and  near  poor  farmers,  participating  in  the  supported  value  chains  who
+voluntarily  collaborate  in project  activities,  including  as  well, agricultural  cooperatives;
+farmer  organisations,  Micro  Small  and  Medium  Enterprises  (MSMEs),  agribusinesses,
+service enterprises, and industry associations. The project shall operate in all parts of the
+country, with actual locations determined by the selection of priority value chains and the
+associated areas engaged in the value chains from production to the market. The Project
+will  initially  work  in  around  15  provinces  based  on  the  5  flagship  commodities  selected
+supported  by  the  same  number  of  multi-stakeholder  platforms  and  3 inter-regional
+technical hubs (the “Project Area”).
+Goal. The  Project  goal  is  to  enhance  prosperity  of  Cambodian  smallholder  farmers
+2.
+through increasingly profitable links to agri-businesses and markets.
+3.
+Objective.  The  objective  of  the  Project  is to  increase  returns  from  farming  for
+smallholders,  including  poorer  farmers  and  youth,  through  efficient  public  sector
+investment.  There  are  expected  to  be  75,000  direct  household  beneficiaries  from  the
+Project within increased household assets of at least 25 per cent.
+4.
+Components. The Programme shall consist of the following two components:
+Value Chains Development (VCs). The objective of this component
+4.1. Component 1.
+is  to  focus  on  brokering,  facilitation,  innovations  development  and  capacity  building
+support  to  inclusive  growth  initially  of  five  higher  value  product  value  chains - covering
+food and non-food crops and livestock through (i) Clusters grouping the key actors along
+the  value  chain  in  the  same  areas,  (ii)  Multi  Stakeholder  Platforms  (MSP) bringing
+together  all  the  actors  and  stakeholders  in  the  VCs  for  shared  understanding  and  joint
+actions  to  address  constraints  and  maximize opportunities  in  VCs  for  mutual  benefits,
+market,  processing  and  business  linkages (iii) Market-oriented  social  mobilizers  working
+with  the  Regional  Hubs  Offices  to  mobilize  farmers  and  youth  into  the  local  VCDs
+(vi) Sector  Development  Facility  (SDF) focusing  on  public  goods  addressing  specific
+bottlenecks to the VCs development identified by the VCs actors themselves through the
+MSP dialogue processes at the regional hub and cluster levels.
+Value  Chain  Financing.
+4.2. Component 2.
+The  objective  of  this component  is  to
+stimulate  increased  private  investment  into  the  priority  VCs  by  farmers,  MSMEs,
+agricultural cooperatives, agribusinesses, services providers and others, and by providing
+them  better  knowledge  to  take  on  their  own  investment  decision,  through  the  following
+sub-components:
+4.2.1. Sub-component 2.1. Value  chain  investment  support. The  Project  will  provide
+direct financial support to stimulate private investment through the following two
+instruments for policy-based financing:
+(i)
+a  Value  Chain  Innovation  Fund  (VCIF)  providing  targeted  investment
+incentives  to  first  mover  private  investors  (farmers,  agricultural  co-
+operatives, MSMEs, agribusinesses) along the selected value chains in order
+to  foster  potential  adopters  of  new  technologies  or  business  models  with
+unknown risks and  economic benefits to actually adopt these  and test their
+validity.  This  VCIF  will initially  operate  three  Windows  targeting  a  particular
+4
+Appendix I
+EB 2016/119/R.23/Rev.1
+(ii)
+scale  of  investment  (Smallholder  farm  investments,  Small  enterprise
+investments  and  Medium  business  investments) and  linked  to  the  function
+along the value chain. Investment incentives will be implemented via partial
+matching  grants  to  private  investors,  based  on  selected  investment  plans
+through  a  competitive  process  targeted  specifically  at  the  identified
+bottlenecks in each VC that emerge through the multi-stakeholder platforms.
+a  Credit  Line providing RDB  or  qualified  private  bank  with  liquidity  for
+lending  along  the  VCs  supported  under  the  Project, and  to  refinance  up  to
+80%  of the loans granted by the  Partner Financial Institutions (PFIs) linked
+to  the  VCIF  to  permit  PFIs  respect  asset-liability  matching  in  the  case  of
+term loans with a duration of more than 2 years. To this end, MEF and RDB
+or  qualified  private  bank  will  sign  a  subsidiary  agreement  in  the  form  and
+substance  provided  in  the  PIM. The  draft  subsidiary  agreement  shall  be
+approved by the Fund and the Lead Project Implementation Agency prior to
+its  signature. RDB  or  qualified  private  bank will  require  targeted Technical
+Assistance  (TA)  in  strategy  development  and  capacity  development.  Loans
+provided  through  this  credit  line  will  be  targeted  towards  investments
+addressing specific bottlenecks in the VC.
+4.2.2. Sub-component 2.2.
+Financial  service  provider  partnerships. The  objectives
+of this sub-component are mainly to create, test and widen partnerships between
+investors  in  the  agricultural  sector,  in  particular  into  commodities  and  VCs
+selected  under  the  Project,  and  the  financial  sector,  with  a  view  to  increase  the
+volume of finance flowing into the sector, and to create sustainable and profitable
+models  for  financial  service  delivery  to  the  agricultural  sector.  The  Project  will
+initially  start  partnering  with  three  mainstream  Micro  Finance  Institutions  (MFIs)
+having: (i) substantial existing portfolios in agriculture (ii) taken specific steps to
+strengthen  their  internal  capacity  to  lend  to  agriculture.  These  three  MFIs  will
+require some additional TA during the second half of the Project in both strategy
+development and overall building of capacity.
+II.
+Implementation Arrangements
+A.
+Organization and Management
+1.
+Project Steering Committee (“PSC”)
+1.1. Establishment and Composition. The PSC shall be co-chaired by MEF and MOC and
+will  be  composed  of  members  representative  of  MAFF,  MIH,  MOE,  MOWA  ,  partner
+institutions such as, Provincial Chambers of Commerce from Regional Hubs ,  PFIs (MFIs
+plus RDB or qualified private bank), National network of Farmer Organizations, Technical
+Working  Group  on  Agriculture  and  Water - Development  Partner  Lead  Facilitator.
+Representatives  of  other  major  related  projects  and  donors  in  agriculture  value  chains
+will be invited to attend Steering Committee meetings as observers.
+1.2.
+Responsibilities. The PSC is responsible for Project oversight and strategic
+guidance, as detailed in the PIM, including inter alia: (i) provision of strategic guidance
+to  Programme  management;  (ii) be  informed  of  the  approved  Annual  Work  Plan  and
+Budget (iii) be informed on the progress of the implementation of supervision and audit
+recommendations.
+5
+Appendix I
+EB 2016/119/R.23/Rev.1
+2.
+Lead Executing Agency (“LEA”).
+The LEA shall be MOC, who  shall  have  the  overall  responsibility  for the
+2.1.
+Programme 
+implementation  on  behalf  of  the  Steering  Committee.  Since  the
+implementation of the Project is on a decentralized basis, MOC shall coordinate activity
+in  the  field.  MEF  shall  support in  coordination  at  institutional  level  between  other
+Ministries and DPs.
+3.
+Project Management Office (“PMO”)
+3.1.
+Establishment and Composition. A PMO  shall be established within  the  MOC,
+with structure, functions and responsibilities in accordance with the PIM and acceptable
+to  the  Fund.  The  PMO  will  be  led  by  a Project  Director  (PD),  expected  to  be  at  the
+Director  General  of  Domestic  Trade  of  MOC.  The  PMO  team  will  be  composed  of  staff
+from  Directorate  General  of  Domestic  Trade  (DGDT)  and  Directorate  General  of
+International Trade (DGIT) with additional externally recruited project staff as required.
+The finance unit of PMO will be headed by a Finance Officer.
+3.2. Responsibilities. PMO  will  be  responsible  for  overall  project  financial  management,
+reporting  and  project  administration  activities.  DICO  (under  DGIT)  as  part  of  the  MOC
+will  provide  project  administration  services,  financial  management,  procurement,  M&E,
+communication  and reporting. PMO  will  manage  the  agreements  and  coordinate  the
+relationships  with  the  Farmers  Organizations,  Chambers  of  Commerce  and  Social
+Mobilizer service providers.
+4.
+Implementing Agency (IA)
+4.1
+Establishment  and  Composition. Within  MEF,  a  Project  Implementation  Unit
+(MEF-PIU will be established within the General Department of International Cooperation
+and  Debt  Management  (GDICDM)  as  the  Management  Team  of  Component 2.  The
+composition  will  be  in  line  with  the  provision  of  the  Standard  Operation  Procedures
+(SOP) adopted by RGC for the administration of the externally funded projects.
+4.2 Responsibilities. MEF through the PIU will (i) be responsible for the implementation
+of activities under Component 2 and (ii) supervise the performance of the appointed VCIF
+Fund  Administrator and  RDB  or  qualified  private  bank  in  relation  with  the  line  of  credit.
+Administration of the Line of Credit under RDB or a qualified private bank and the VCIF
+will  be  done  strictly  in  accordance  with  the  relevant  guidelines  for  the VCIF  and  Line  of
+Credit that will be finalized as part of the PIM.
+5.
+Project Implementing partners (IPs).
+Establishment and Composition. In addition to government agencies, IPs will be
+5.1
+(i) the  national  network  of  Farmer  Organizations,  (ii)  the Provincial  Chambers  of
+Commerce  (PCC)  in  the  three  provinces  hosting  the  hub  offices,  the  social  mobilization
+(SM) service provider organizations and the PFIs (3 MFIs and RDB or a qualified private
+bank). The IPs relationships and agreements will be managed by the PMO for the most
+relevant components.
+5.2 Responsibilities.
+legitimate
+representation  of  key  stakeholders  into  the  Project,  and  will  have  broader  roles  in  the
+Project, including in the Steering Committee (except the SM service providers).
+IPs  will  bring  specialist  expertise  as  well  as 
+6
+Appendix I
+EB 2016/119/R.23/Rev.1
+B.
+6.
+Implementation of Components
+Component 1:
+Value Chain Development
+6.1 Project  Director:  Project  activities  will  be  led  by  MOC.  The PD  will lead  the  overall
+component  delivery,  supported  by  a  team  focusing  on  all  technical  and  project
+management  issues  and  on  the  delivery  and  performance  of  the  three  Regional  Hub
+offices.
+6.2 Regional Technical Hub Offices. Three Regional Technical Hub Offices, hosted in the
+Provincial  Department  of  Commerce  (PDC)  with  staff  from  PDC,  Provincial  Chambers  of
+Commerce, Farmers Organizations, SM service providers and contract technical advisors
+on  value  chain  development  and  organized  into  VCs  teams,  will  be  composed  of
+representatives  from  government,  private  businesses  (Chamber  of  Commerce)  and
+farmers  (farmer  associations)  plus  necessary  TA  and  other  contracted  staff  to  ensure
+wide  acceptance  as  honest  brokers  among  VC  actors. These  Hubs  will  coordinate  field
+activities  in the  selected  VCs  and  will  have  market-oriented  social  mobilization  teams  in
+order to mobilize and support farmers to successfully participate in the expanding value
+chains.
+6.3 Technical and business development services to agribusinesses and farmers. Will be
+primarily delivered by private service providers with costs paid by service users in order
+to move toward self-sufficiency within market-oriented VCs.
+7.
+Component 2:
+Value Chain Financing
+7.1 Management  Team.  Under  MEF  the  Management  Team  will  be  composed  of  the
+following staff:
+(a) A  Financial  Relationship  Manager  (FRM),  (senior  government  officer)
+appointed  by  MEF  will:  (i)  coordinate  activities,  including  managing  the
+relationships  with  Rural  Development  Bank  (RDB)  or  qualified  private  bank
+and the partner financial institutions and supervising the PIAs, and (ii) act as
+Secretary  Member  of  the  Central  Investment  Committee for  VCIF  grant
+appraisal  and  award  decisions.  The  FRM  will  be  assisted  by  a  recruited
+National VC finance Specialist. The FRM will be responsible for the preparation
+of all financial reports to be submitted to MoC on a regular basis.
+(b) An appointed Financial Investment Officer (FIO) to analyse and document the
+financial and  commercial performance  of  the different  investments  supported
+under  the  VCIF  and  credit  line  in  order  to  communicate  to  other  potential
+investors  and  FIs  as  to  the  actual  returns  and  risk from  the  different
+investments  prioritised  by  MSPs.  FIO  will  be  assisted  by  a  recruited  National
+Financial Investment Specialist.
+(c ) Six Private Investment Advisors (PIAs), reporting to the FRM will be assigned
+by two to each hub and hosted by the Provincial Department of Economy and
+Finance  (PDEF).  The  PIAs  will:  (i) have  the  responsibility  for  managing  the
+grant  application  process  under  the  VCIF,  (ii) be  available  to  provide  pre-
+investment  advice  to  potential  grant  applicants,  (iii) carry  out  field  validation
+visits  to  all  grant  applicants  as  part  of  the  initial  application  review  process,
+and (iv) be responsible for communicating directly with the grant applicants to
+keep them informed of the progress of their application and award.
+7
+Appendix I
+EB 2016/119/R.23/Rev.1
+C.
+Programme Implementation Manual (“PIM”)
+8.
+Preparation.  The  Borrower  shall  prepare,  in  accordance  with  terms  of  reference
+acceptable  to  the  Fund,  a  PIM,  which  shall  include,  among  other  arrangements:
+(i) institutional coordination and day-to-day execution of the Programme; (ii) Programme
+budgeting,  disbursement,  financial  management,  procurement  monitoring,  evaluation,
+reporting  and 
+implementation
+arrangements  for  each  Programme  component;  and  (iv) such  other  administrative,
+financial, technical and organizational arrangements and procedures as shall be required
+for the Programme.
+(iii) detailed  description  of 
+related  procedures; 
+9.
+Approval  and  Adoption.  The  LPA  shall  forward  the  draft  PIM  to  the  Fund  for
+comments and approval. The LPA shall adopt the PIM, substantially in the form approved
+by  the  Fund,  and  the  LPA  shall  promptly  provide  copies  thereof  to  the  Fund.  The
+Recipient shall carry out the Programme in accordance with the PIM and shall not amend,
+abrogate,  waive  or  permit  to  be  amended,  abrogated,  or  waived,  the  aforementioned
+manual, or any provision thereof, without the prior written consent of the Fund.
+D. Monitoring and Evaluation
+10. The  Project  will  focus  on  the  set  up of  a  highly  effective  management  information
+system providing project managers and VC teams with timely and reliable information on
+developments  in  each  of  the  priority  VCs.  The  Project  will  follow  a  system  of  rolling
+baselines in which baseline data on each cluster is collected at the time that interventions
+begin in the particular value chain in each cluster area.
+E. Supervision
+11. Annual joint supervision by the Borrower and the Fund will be conducted.
+12. A first MTR shall be conducted at the end of the second Project Year and a second
+one  in  fourth  Project  Year,  to  assess  the  progress,  achievements,  constraints  and
+emerging  impact  and  likely  sustainability  of  the  Project  and  make  recommendation  and
+necessary  adjustments  for  the  remaining  period  of  disbursement.  The  MTR  shall  be
+carried out jointly by the Borrower and the Fund.
+8
+Appendix I
+EB 2016/119/R.23/Rev.1
+Schedule 2
+Allocation Table
+1.
+Allocation of Loan Proceeds. (a) The Table below sets forth the Categories of Eligible
+Expenditures to be financed by the Loan and the allocation of the amounts of the Loan to
+each  Category  and  the  percentages  of expenditures  for  items  to  be  financed  in  each
+Category:
+Category
+Loan Amount Allocated
+(expressed in USD)
+Percentage of eligible
+expenditures to be financed
+I.
+Consultancies
+II. Training
+III. Credit
+IV. Grants
+V. Operating Costs
+Unallocated
+TOTAL
+2 100 000
+3 200 000
+8 100 000
+16 800 000
+2 600 000
+3 500 000
+36 300 000
+60%
+50%
+100%
+50%
+50%
+(b)
+The terms used in the table above are defined as follows:
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+“Consultancies”  financed  by  IFAD    includes  studies,  national  and
+international technical assistance;
+“Training”  financed  by  IFAD  includes  facilitation,  workshops,  training
+material, training services;
+“Credit” financed by IFAD includes loans channelled through a third party
+fund administrator;
+“Grants”  financed  by  IFAD  includes  grants  channelled  through  a  third
+party fund administrator;
+“Operating cost” financed by IFAD includes cost of project staff and DSA.
+Excludes any other operating costs financed by RGC.
+2.
+Start-up  Costs.  Withdrawals  in  respect  of  expenditures  for  start-up  costs  in
+Categories  I,  II,  and  V  incurred  before  the  satisfaction  of  the  general  conditions
+precedent to withdrawal shall not exceed an aggregate amount of USD 500 000.
+9
+Appendix I
+EB 2016/119/R.23/Rev.1
+Schedule 3
+Special Covenants
+In  accordance  with  Section  12.01(a)(xxiii)  of  the  General  Conditions,  the  Fund  may
+suspend,  in  whole  or  in  part,  the  right  of  the Borrower  to  request  withdrawals from  the
+Financing Account if the Borrower has defaulted in the performance of any covenant set
+forth below, and the Fund has determined that such default has had, or is likely to have,
+a material adverse effect on the Project:
+1.
+Gender. The  Borrower  shall develop  a  gender  strategy  for  the  Programme  to
+ensure  that  gender  concerns  shall  be  reflected  in  all  Project  activities  throughout  the
+implementation  period,  in  order  to  offer  equal  opportunities  under  the  Project  to  men,
+women, women headed households and youths.
+2.
+Project  audits. The  external  audit  will  be  carried  out  by  private  audit  firms  hired
+among  those  already  preselected  by  others  international  IFIs.  Only  these  firms  will  be
+invited  to  submit  expression  of  interest  and  selected  through  a  competitive  process
+acceptable to the Fund.
+10
+Logical framework
+Results Hierarchy
+Indicators1
+Means of Verification
+Assumptions
+Base-
+line
+0
+Mid-
+Term
+20,000
+End
+Target
+60,000
+Source
+Frequency Responsibility
+RIMS+
+Survey
+PMO
+Baseline
+Mid-term
+End line
+Assumes continued social, political
+and economic stability in the country
+and neighbouring ASEAN region.
+Goal::
+Enhance prosperity of
+Cambodian smallholder
+farmers through
+increasingly profitable links
+to agri-businesses and
+markets
+Development Objective:
+To increase returns from
+agriculture value chains for
+smallholders, including
+poorer farmers and youth,
+through efficient public
+sector investment
+Outcome 1:
+Profits to farmers and
+businesses from Inclusive
+value chains increased for
+multiple higher value
+products.
+Outcome 2:
+Private investment
+increased in priority value
+chains from smallholders
+Name
+1. 80% of total of 75,000 direct beneficiaries
+increased real net farming income by
+>30%
+(Unit = No. of households)
+2. Number of beneficiaries' increased return
+on labour in farming by 50%
+(Unit = No. of households)
+3. Public return on investment (ROI)
+(Unit = Percentage)
+4. Aggregate value of products sold in target
+locations in AIMS priority value chains in
+real terms3
+(Unit = Percentage increase)
+5. Adoption rate of production and
+postharvest technologies4of participating
+farmers
+(Unit = Percentage)
+6. Agri-business investment in priority value
+chains and production clusters
+(Unit = Percentage increase)
+7. Smallholder investment in priority value
+chains and production clusters
+(Unit = Percentage increase)
+1
+1
+0
+0
+0
+0
+0
+0
+-
+20%
+10%
+30%
+40%
+60%
+10%
+30%
+10%
+30%
+13,500
+40,000
+RIMS+
+Survey
+PMO
+Baseline
+Mid-term
+End 
+line
+Annual  VC
+Tracking
+Survey
+PCR
+Annual
+End of
+project
+PMO
+80% (60,000 smallholders) of direct
+beneficiaries including poor and near
+poor2, in priority value chains will
+increase their real net farming
+income through project interventions
+Annual  VC
+Tracking
+Survey
+RIMS+
+Survey;
+Annual VC
+Tracking
+Annual VC
+Tracking
+Survey
+Annual
+PMO
+There are no prolonged collapses in
+export/local demand or prices for
+agricultural products.
+PMO
+Base/Mid/
+End line;
+Annual
+Annual
+PMO
+For AIMS value chains substantial
+improvements in production and
+post-harvest are necessary and
+feasible as foundations of growth.
+Sufficient  numbers  of  banks  and
+MFIs  continue  to  show  commercial
+interest 
+to
+lending
+expanding 
+commitment 
+agricultural 
+and 
+1 Data for all household related indicators to be disaggregated by poverty status, ethnicity and gender of household head.
+2"near poor" defined as living on <USD3.10 (2011 PPP) per capita per day
+3 calculation of "real terms" should include correction for changes in wider reference market prices for the particular product so that any gain/loss from general market price fluctuations are
+discounted.
+4"Adoption Rate" in the production/post-harvest practices to be defined for each target product by the M&E team with technology experts at the start of the project. At the farm level, this is
+typically expected to include farmers adopting at least 2/3 of the components of an improved technology package for production a specific crop/livestock. Each of the technology components
+will be clearly defined and objectively verifiable, similar to what is already practiced in PADEE and ASPIRE projects
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+6
+/
+1
+1
+9
+/
+R
+.
+2
+3
+/
+R
+e
+v
+.
+1
+Results Hierarchy
+Indicators1
+Means of Verification
+Assumptions
+Name
+8. Participating smallholder farmers with
+increased financial literacy (FL) levels
+(Unit = percentage)
+9. Partner Financial Institutions (PFIs)
+continue financing VCs after end of project
+(Unit = FIs)
+Base-
+line
+0
+Mid-
+Term
+50%
+End
+Target
+50%
+0
+4
+5
+Source
+Frequency Responsibility
+Pre-/post
+FL training
+assessment
+Project
+reports
+Annual
+PMO
+Annually
+PMO
+10. MSPs that are active, well attended and
+0
+90%
+90%
+positively regarded by participants of target
+VC cluster locations
+(Unit = percentage)
+and agri-businesses
+Outcome 3:.
+Substantially increased
+capacity of national and
+sub-national institutions to
+design and deliver
+inclusive agriculture market
+development initiatives
+11. Farmers receive training or advice on
+0
+45,000
+improved technologies for production or
+post-harvest practices
+(Unit = people)
+60,000
+Project
+reports;
+MSP
+Participant
+surveys
+50,000 Project
+reports
+Annual
+PMO
+Annual
+Annual
+PMO
+PMO
+35,000
+100
+250
+Project
+reports
+Annual
+PMO
+1
+2
+Outputs:
+12. Farmers receiving financial and business
+literacy training
+(Unit = people)
+13. PPPs or similar partnerships with large and
+small agri-businesses and service
+enterprises
+(Unit = No. of partner and/or supported
+agri-businesses)
+0
+0
+portfolio 
+agribusiness sectors.
+to 
+smallholder 
+and
+smallholders 
+Participating 
+have
+sufficient  interest  to  improve  their
+financial literacy.
+Positive framework conditions for
+investment into agriculture
+External socio-political factors do not
+disrupt MSPs.
+Sufficient interest from Private sector
+in  MSPs  across  all  priority  VCs  of
+AIMS.
+Assumes  80%  of  total  direct  project
+beneficiaries.
+Assumes 66% of total direct project
+beneficiaries.
+Sufficient interest and involvement of
+Private 
+partnering
+government.
+Sector 
+in 
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+6
+/
+1
+1
+9
+/
+R
+.
+2
+3
+/
+R
+e
+v
+.
+1

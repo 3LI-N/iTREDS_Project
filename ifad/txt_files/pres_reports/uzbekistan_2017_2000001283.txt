@@ -1,0 +1,1880 @@
+Document:
+Agenda:
+Date:
+Distribution:
+Original:
+EB 2017/122/R.27/Rev.1
+6(e)(v)
+11 December 2017
+Public
+English
+E
+President’s report
+Proposed loan and grant to the Republic of
+Uzbekistan for the Agriculture Diversification
+and Modernization Project
+Note to Executive Board representatives
+Focal points:
+Technical questions:
+Dispatch of documentation:
+Mohamed Abdelgadir
+Country Programme Manager
+Near East, North Africa and Europe Division
+Tel.: +39 06 5459 2627
+e-mail: m.abdelgadir@ifad.org
+William Skinner
+Chief
+Governing Bodies
+Tel.: +39 06 5459 2974
+e-mail: gb@ifad.org
+Executive Board — 122nd Session
+Rome, 11-12 December 2017
+For: Approval
+EB 2017/122/R.27/Rev.1
+Contents
+Abbreviations and acronyms
+Map of the project area
+Financing summary
+Recommendation for approval
+I.
+Strategic context and rationale
+A. Country and rural development and poverty context
+B. Rationale and alignment with government priorities and RB-
+COSOP
+II. Project description
+A. Project area and target group
+B. Project development objective
+C. Components/outcomes
+III. Project implementation
+Approach
+A.
+B. Organizational framework
+C. Planning, monitoring and evaluation, and learning and
+knowledge management
+D. Financial management, procurement and governance
+E. Supervision
+IV. Project costs, financing and benefits
+A. Project costs
+B. Project financing
+C. Summary benefit and economic analysis
+D. Sustainability
+E. Risk identification and mitigation
+V.
+Corporate considerations
+A.
+B.
+C.
+D.
+Compliance with IFAD policies
+Alignment and harmonization
+Innovations and scaling up
+Policy engagement
+VI. Legal instruments and authority
+VII. Recommendation
+Appendices
+I. Negotiated financing agreement
+II. Logical framework
+ii
+iii
+iv
+1
+1
+1
+1
+2
+2
+2
+3
+3
+3
+4
+4
+5
+6
+6
+6
+7
+8
+8
+8
+9
+9
+9
+10
+10
+10
+10
+i
+EB 2017/122/R.27/Rev.1
+Abbreviations and acronyms
+ADB
+M&E
+PFI
+PMU
+RRA
+UZS
+WCA
+Asian Development Bank
+monitoring and evaluation
+participating financial institution
+project management unit
+Rural Restructuring Agency
+Uzbek sum
+water consumer association
+ii
+i
+i
+i
+M
+a
+p
+o
+f
+t
+h
+e
+p
+r
+o
+j
+e
+c
+t
+a
+r
+e
+a
+E
+B
+2
+0
+1
+7
+/
+1
+2
+2
+/
+R
+.
+2
+7
+/
+R
+e
+v
+.
+1
+EB 2017/122/R.27/Rev.1
+Republic of Uzbekistan
+Agriculture Diversification and Modernization Project
+Financing summary
+Initiating institution:
+Borrower:
+Executing agency:
+Total project cost:
+Amount of IFAD loan:
+IFAD
+Uzbekistan
+Rural Restructuring Agency (RRA)
+US$159.6 million
+US$46.2 million
+Amount of IFAD grant:
+US$300,000
+Terms of IFAD loan:
+Blend: 25 years, including a grace period of 5 years
+starting from the date of approval by the Executive
+Board, with a fixed interest rate equal to 1.25 per cent
+per annum and a service charge of 0.75 per cent per
+annum
+Financing gap:
+Cofinanciers:
+US$47 million
+Beneficiaries, Government and PFIs
+Contribution of borrower:
+US$27.0 million
+Contribution of beneficiaries:
+US$19.5 million
+Contribution of participating financial
+institutions (PFIs):
+US$19.5 million
+Appraising institution:
+IFAD
+Cooperating institution:
+Directly supervised by IFAD
+iv
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2017/122/R.27/Rev.1
+Recommendation for approval
+The Executive Board is invited to approve the recommendation for the proposed
+financing to the Republic of Uzbekistan for the Agriculture Diversification and
+Modernization Project, as contained in paragraph 42.
+Proposed loan and grant to the Republic of Uzbekistan
+for the Agriculture Diversification and Modernization
+Project
+I. Strategic context and rationale
+A. Country and rural development and poverty context
+1.
+Uzbekistan is a 447,400 km2 landlocked country in Central Asia bordering
+Kazakhstan, Tajikistan, Kyrgyzstan, Afghanistan and Turkmenistan. It had a
+population of 31.8 million in 2016, of which approximately 60 per cent is rural.
+With a per capita gross domestic product of US$2,130 in 2015, Uzbekistan is a
+lower-middle-income country. Data suggest that its economic growth has been
+broad based and inclusive.
+2.
+3.
+Agriculture provides approximately 25 per cent of the country’s employment and
+its share of the gross domestic product was estimated at 17.6 per cent in 2014.
+Approximately 40 per cent of Uzbekistan’s rural population is directly engaged in
+agriculture-related activities. Food imports meet the country’s growing demand and
+the population’s enhanced purchasing capacity is increasingly applied to high-value
+goods, particularly meat and dairy products. In 2015, Uzbekistan’s agricultural
+imports totalled 11.5 per cent of the country’s total imports (US$1.3 billion)
+according to the Economist Intelligence Unit.
+Poverty declined from 27.5 per cent in 2001 to 14 per cent in 2015. This was
+attributed to rapid economic growth, creation of new small businesses and
+employment, public investments in education, health and infrastructure, increases
+in public-sector salaries and increased remittances. In 2015, the poverty rate in
+rural areas was 17 per cent compared with 11 per cent among the urban
+population. The country’s low agricultural productivity, high tax burden among the
+rural population, high dependency within households, regional disparities and lack
+of formal rural labour markets are drivers of rural poverty. A lack of access to
+productive assets, infrastructure, energy, land and water, technical and financial
+services contribute to poverty and limited productivity, especially among rural
+women and young people. Other vulnerable groups include families with many
+children, people with disabilities, unemployed people and those with lower
+education levels.
+B. Rationale and alignment with government priorities and
+4.
+RB-COSOP
+Diversification, modernization and import substitution of agricultural production is a
+government policy priority as stipulated in Presidential Decree No.2460 on
+agriculture sector reforms and development for 2016-2020, and the Welfare
+Improvement Strategy (2013-2015). Diversification of products, particularly
+horticultural crops, livestock and related sub-sectors is expected to enhance rural
+families’ incomes and reduce the number of low-income households. IFAD’s
+experience with the value chain approach in the region suggests that private-sector
+actors are crucial for smallholder producers to participate in value chains. Traders,
+buyers, aggregators, processors, exporters and other private players shape how
+1
+EB 2017/122/R.27/Rev.1
+value chains perform. From the viewpoint of smallholder producers (Dekhan and
+small private farmers), conducive partnerships with the private sector present a
+major opportunity for sustained income generation. The project integrates
+private-sector operators willing to invest time and resources to increase value
+chain competitiveness in a way that enhances the benefits for smallholder
+producers and supports their efforts to strengthen their businesses. This also
+makes value chains more inclusive of smallholder producers.
+5.
+The project will work with selected value chains, providing holistic and coordinated
+support to all actors in order to improve their performance. Agribusinesses and
+other qualified entities will be invited to take the role of leading entity, with a focus
+on those willing to develop sound business models through productive partnerships
+with their suppliers. Smallholder producers, who are the project’s primary target
+group, will be targeted in each selected value chain in order to enhance their
+inclusiveness and improve their returns from agriculture. The project’s targeting
+strategy will therefore incorporate the principles of smallholder inclusiveness.
+II. Project description
+A. Project area and target group
+6.
+Geographical target. The project will be implemented in the Fergana Valley in the
+regions of Andijan, Fergana and Namangan. The country strategic opportunities
+programme highlights the challenges experienced in the Fergana Valley due to high
+population density; Namangan registers the second lowest per capita gross
+domestic product in the country. Women make up half the population, with
+women-headed households comprising 18 per cent of the total. Approximately
+20 per cent of youth are unemployed.
+7.
+8.
+Target groups. The project’s main target groups are: (i) rural low-income
+households on Dekhan farms, who are striving to increase income from agriculture
+through active participation in project-supported value chains; (ii) small private
+horticulture and livestock farmers with a farm size of up to 5 hectares; (iii)
+agribusinesses with existing or potential linkages with groups (i) and (ii); and
+(iv) rural youth. Special attention will be paid to ensure the participation of
+women-headed Dekhan and private farming households, and young women.
+Beneficiaries. The project is expected to directly reach 75,000 households and
+approximately 21,000 indirect beneficiaries. These include 11,000 households
+benefitting of loans and training, and approximately 54,000 incremental suppliers
+of the leading entities benefitting from project loans. In addition, 10,000 full-time
+jobs will be created by the leading entities’ incremental economic activities. In its
+first phase, the project is expected to reach out directly to 30,000 households, and
+about 10,000 indirect beneficiaries. These include 5,000, households benefitting
+from loans and training, plus approximately 20,000 incremental suppliers of the
+leading entities (LEs) benefitting from ADMP loans, and some 4,000 ful-time
+equivalent incremental jobs created by the LEs’ incremental economic activities.
+B. Project development objective
+9.
+The project’s goal is to improve the incomes and livelihoods of rural people in the
+target area. Its development objective is to increase the inclusiveness and
+profitability of selected value chains through enhanced productivity, market access
+and improved natural resource management.
+2
+EB 2017/122/R.27/Rev.1
+C. Components/outcomes
+10. The project will have three interrelated components; a fourth component will
+support project management and implementation. The components are:
+(i) inclusive value chain development; (ii) inclusive rural finance; (iii) climate-
+resilient rural infrastructure; and (iv) project management.
+11. Component 1: Inclusive value chain development. The outcome of this
+component will be enhanced capacity for sustainable and efficient performance of
+targeted stakeholders, and an enabling business environment for agribusinesses in
+selected value chains, with strong backward linkages with smallholder producers.
+This component aims to strengthen the capacities of farmers and other
+stakeholders in targeted value chains. Three activities will be implemented to
+create an enabling business environment for agribusinesses: (i) value chain
+mapping exercises based on rapid market assessment results for small ruminants,
+fisheries, sericulture and honey prepared during the design; (ii) rapid market
+assessments of additional sub-sectors; and (iii) preparation of value chain
+development plans, which will be roadmaps for LEs.
+12. Component 2: Inclusive rural finance. The outcome of this component will be
+increased productivity and efficiency among targeted smallholders, enabling value
+chain actors to increase their investments in profitable value chains. The project
+will support the State Fund for Support of the Development of Entrepreneurial
+Activity in providing credit guarantees to smallholders and rural entrepreneurs who
+lack acceptable collateral by offering partial coverage of lending risks. It will also
+work with banks interested in lending to farmers in the target regions (and that
+meet the project’s eligibility criteria) to facilitate farmers’ and agricultural
+businesses’ access to financing. Finally, this component will establish a credit
+window for youth who lack access to affordable and flexible lending products.
+Banks will be free to set their own interest rates, allowing them to serve project
+beneficiaries in a sustainable manner. These banks will be selected through a
+competitive process to ensure that those offering the best conditions are chosen.
+The outcome will be measured by the following indicator: PFIs’ portfolio risk is
+below 5 per cent.
+13. Component 3: Climate-resilient rural infrastructure. This component aims to
+remove bottlenecks to a reliable irrigation water supply, which inhibit Dekhans and
+small farmers from enhancing the diversification and efficiency of agriculture in the
+selected value chains. This will be achieved through modernization of the inter-
+farm irrigation network operated by water consumer associations (WCAs). It will
+enable targeted farmers’ groups to: (i) diversify agricultural production from low-
+value to high-value crops; (ii) increase land productivity; (iii) address the
+challenges of drought due to climate change; and (iv) increase the capacity of
+WCAs and the Basin Irrigation System Administration in efficient water resource
+management and irrigation system operation and maintenance. The outcome of
+this component will be improved farmland productivity resulting from modernized
+irrigation infrastructure, as measured by the following indicator: at least 1,000
+farmers report improved supply of irrigation water and increased productivity.
+III. Project implementation
+Approach
+A.
+14. The project will promote a demand-driven value chain approach. This approach will
+focus on analysing each step of the value chain and investing in those needs that
+have the potential to improve the productivity, profitability and competitiveness of
+value chain players, especially Dekhan farmers.
+15. The project will promote the upgrading of selected value chains and will include
+actions taken by producers, processors, input suppliers and traders at various
+points in the value chain to increase future productive capacity and
+3
+EB 2017/122/R.27/Rev.1
+competitiveness. The leading entities with successful value chain development
+plans prepared through component 1 will be considered for receiving loans from
+PFIs through component 2. While loan applications will be assessed individually,
+the project will provide support to their business operations through the provision
+of technical assistance and training to farmer suppliers and other actors, and
+access to improved infrastructure under component 3 to enhance value chains’
+competitiveness and efficiency. The project will also promote coordination with
+projects funded by other donors, especially those managed by the Rural
+Restructuring Agency (RRA) – based on smooth information flow and open dialogue
+– in order to ensure synergies and avoid duplication of efforts.
+B. Organizational framework
+16. The Ministry of Agriculture and Water Resources will have overall responsibility for
+managing the project on behalf of the Government. Daily oversight will rest with a
+project management unit (PMU) under the RRA, a state entity within the Ministry of
+Agriculture and Water Resources. Overall management oversight will rest with an
+inter-agency council for cooperation with international financial institutions, foreign
+governments and donor countries implementing large-scale investment projects.
+This council will provide guidance and direction to the project implementing
+agency; the project manager will act as secretary to the council.
+17. The PMU will be led by a project manager and be composed of: a chief accountant;
+procurement officer; rural finance/youth officer; administrative
+assistant/translator; and driver. The project will utilize legal staff from the Dairy
+Value Chains Development Project. In addition, the project will rely on the services
+of national and international specialists in various fields. A project implementation
+team will be established in one of the project regions in year 1 (the region will be
+determined by the Government, but will most likely be Namangan). The team will
+comprise a: regional coordinator (value chain and business specialist); three rural
+finance and youth officers; engineer; a monitoring and evaluation (M&E) specialist
+and a driver. Regional coordinators will be recruited to coordinate project activities
+in the remaining regions. The project implementation team will be responsible for
+daily implementation of all aspects of the project, except for financial
+administration and procurement, which will be managed by the PMU within RRA.
+C. Planning, monitoring and evaluation, and learning and
+knowledge management
+18. The project results framework will form the basis for the results-based M&E
+system, including performance monitoring and impact assessment. The PMU/M&E
+officer will be responsible for all internal M&E of the project. The PMU will submit
+progress reports in English to the Ministry of Agriculture and Water Resources, the
+Ministry of Finance and IFAD. A mid-term review will be carried out towards the
+end of the project’s third year. During the final year of project implementation, as
+part of the preparation of the project completion report and impact assessment
+required by IFAD, the M&E data collected over the project implementation period
+will be used in a thorough assessment of project achievements. This assessment
+will focus on changes in beneficiaries’ livelihoods as a result of project activities,
+and the sharing of lessons learned and experiences.
+19. Learning and knowledge management. To ensure that the experiences gained
+are captured, comprehensive provisions have been made for M&E. The project’s
+knowledge management programme will be an essential tool for meeting project
+objectives. Two approaches will be used: (i) a knowledge management programme
+for supporting within- and between-project learning; and (ii) support for a broader
+knowledge management programme aimed at informing government decision
+makers and influencing policies. The project will also support efforts to broaden
+information dissemination through: development of farmer networks (to share
+knowledge on successful adaptation); farmer-to-farmer extension approaches
+4
+EB 2017/122/R.27/Rev.1
+(to facilitate technology transfer); development of private technical services
+(e.g. private veterinarians); and strengthening linkages among universities,
+research and development institutions, and farmer networks to ensure the
+relevance of the technology.
+D. Financial management, procurement and governance
+20.
+In accordance with IFAD guidelines, a financial management assessment was
+undertaken. The inherent risk was assessed as high. In order to mitigate this risk,
+a stand-alone PMU will be established within RRA with separate financial
+management arrangements. This system is already in place for ongoing IFAD
+projects and some World Bank projects, and the quality of financial management
+has been largely assessed as satisfactory. As a result, the new project will be able
+to draw on the capacities already established and working satisfactorily as part of
+the ongoing IFAD projects. The ongoing IFAD project, the Horticultural Support
+Project, has also shown strong disbursement rates with regards to credit lines.
+21. Financial Management. The PMU, with support from the RRA finance unit, will be
+responsible for the financial management of the project, including budgeting,
+accounting, preparing withdrawal applications, monitoring implementing partners,
+preparing consolidated financial reports and internal and external audit
+arrangements.
+22. Accounting and financial reporting arrangements. The accounting, financial
+reporting and audit arrangements have already been established under the ongoing
+IFAD projects. Accordingly, all project transactions will be recorded in customized
+accounting and financial software on a cash basis in accordance with International
+Public Sector Accounting Standards, and quarterly financial reports will be prepared
+in formats agreed with IFAD. The project's consolidated financial statements will be
+audited annually by an independent audit firm in accordance with internationally
+accepted auditing standards and IFAD’s Guidelines on Project Audits.
+23. Disbursement arrangements and flow of funds. IFAD financing will be
+disbursed in accordance with IFAD disbursement procedures to be specified in the
+programme implementation manual and letter to the borrower. Two separate
+designated accounts denominated in United States dollars (US$) will be opened for
+the IFAD loan and grant in a commercial bank, and will not be mingled with other
+funds. From the designated accounts, the funds will flow to the project account
+denominated in Uzbek sum (UZS) to finance eligible project expenditures. From the
+designated loan account and the project loan account, funds (US$ or UZS) will be
+transferred to incremental credit accounts (one account in US$ and one in UZS)
+maintained by the PFIs in the form of credit to finance sub-projects undertaken by
+beneficiaries. Transfers to the rural guarantee facility will be made using the direct-
+payment method to a separate account maintained in US$ in a commercial bank,
+and IFAD funds will not be mingled with other funds. Specific conditions for
+disbursement will be included in the financing agreement to ensure that proper
+safeguards are in place before transferring any funds to the PFIs and the
+Guarantee Facility and remedies will be applied in case of non-compliance.
+24. Procurement. As part of the detailed project design, IFAD assessed the public
+procurement systems and institutions in Uzbekistan for the purpose of identifying
+an entity to handle procurement. Despite recent efforts to modernize and
+strengthen Uzbekistan’s public procurement system, there are critical gaps in
+compatibility with IFAD’s procurement guidelines and procedures. However, the
+capacity of RRA to conduct procurement was found to be in line with IFAD
+procurement regulations and procedures.
+25. Anti-corruption policy. IFAD applies a zero-tolerance policy towards fraudulent,
+corrupt, collusive or coercive actions in all projects financed through its loans and
+grants. IFAD’s anticorruption policy and whistleblowing procedures will be included
+in the project implementation manual.
+5
+EB 2017/122/R.27/Rev.1
+E. Supervision
+26. Supervision and implementation support. A supervision plan covering the
+period until the mid-term review will be agreed at project start-up. The project will
+be supervised directly by IFAD. This will include annual risk-based financial
+management supervision by a financial management specialist and operational
+reviews covering a random sample of project activities, to be carried out in project
+years 2 and 4 by independent auditors and under terms of reference acceptable to
+IFAD. Details of financial management supervision are provided in appendix 7 of
+the project design document. The timely completion of a baseline survey in line
+with the project’s outcome and output indicators is fundamental to effective project
+supervision.
+IV. Project costs, financing, and benefits
+A. Project costs
+27. The main assumptions underlying the derivation of project costs, estimated project
+costs and financing plan are that: (i) project costs are based on September 2017
+prices; (ii) the project will be financed over a six-year period; and (iii) the official
+annual inflation rate of 5.7 per cent is taken as constant for the duration of the
+project period (2018-2023). The international inflation rate is set at 2 per cent per
+year in line with medium- to long-term projections of the Economist Intelligence
+Unit and the World Bank Group (Commodity Market Outlook, January 2017) for the
+United States dollars. Further to the devaluation of the UZS on 5 September 2017,
+the base exchange rate for this analysis was set at UZS 8,092 to US$1 as the
+official exchange rate prevailing at the end of the final design mission. Project costs
+are presented in both UZS and US$; conversions from current US$ values into UZS
+use constant purchasing power exchange rates. A 20 per cent value-added tax will
+be levied on all imported and locally procured goods and services. For directly
+recruited local staff, the project will cover the social insurance rate of 25 per cent.
+28. Project costs. The total investment and incremental recurrent project costs,
+including physical and price contingencies, are estimated at approximately
+US$159.6 million (UZS 1,291 billion). Physical and price contingencies are 1 per
+cent of the total project cost. This is largely due to the fact that investments
+associated with rural finance (lump sum with no contingency) comprise
+approximately 88 per cent of the total project costs. The foreign-exchange
+component is estimated at US$112.4 million or 70 per cent of the total project
+cost. This is due to the fact that most of the project financing is in the form of
+credit lines which will be used by the beneficiaries to purchase assets for local
+production and also for financing the export of their produce. The Government's
+contribution, mainly in the form of taxes, represents 17 per cent of the total cost,
+or US$27.0 million. The project management cost is approximately 1.4 per cent of
+the total project cost (US$2.2 million). Table 1 provides a summary of the project
+financing plan by component.
+6
+Table 1
+Project costs by component and financier
+(Thousands of United States dollars)
+Component
+Amount % Amount % Amount % Amount % Amount % Amount % Amount %
+IFAD loan
+IFAD grant
+Financing gap Government
+PFIs
+Beneficiaries
+Total
+EB 2017/122/R.27/Rev.1
+1. Inclusive Value Chains
+Development
+1.1 Enabling business
+environment for inclusive value
+chains
+1.2 Capacity development for
+value chain stakeholders
+Subtotal 1. Inclusive value chain
+development
+2. Inclusive rural finance
+2.1 Rural guarantee facility
+2.2 Agriculture diversification and
+modernization credit lines
+2.3 Credit line for youth
+Subtotal 2. Inclusive rural finance
+3. Climate-resilient rural
+infrastructure
+3.1 Modernization of irrigation
+systems
+3.2 Increasing capacities of WCAs
+Subtotal 3. Climate-resilient rural
+infrastructure
+4. Project management
+4.1 Project management unit
+4.2 Project implementation team
+Subtotal 4. Project management
+Total
+52 14.8
+82 23.3
+159 45.2
+59 16.7
+3 918 37.4
+125
+1.2
+4 519 43.1
+1 911 18.2
+3 970 36.7
+207
+1.9
+4 678 43.2
+1 969 18.2
+1 000 10.1
+-
+-
+6 935 69.8
+2 000 20.1
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7
+7
+-
+-
+352
+0.2
+0.1 10 480
+6.6
+0.1 10 831
+0.1
+-
+9 935
+6.2
+33 712 28.3
+5 000 41.7
+39 712 28.1
+93
+-
+93
+0.1
+-
+0.1
+26 538 22.3
+5 000 41.7
+38 473 27.3
+19 869 16.7 19 543 16.4 19 466 16.3 119 214 74.7
+7.5
+23 869 16.9 19 543 13.8 19 466 13.8 141 149 88.5
+2 000 16.7
+- 12 000
+-
+-
+-
+1 109 21.2
+37 37.3
+1 146 21.5
+800 62.9
+572 59.9
+1 372 61.6
+46 200 29.0
+-
+-
+-
+-
+-
+-
+3 260 62.2
+46 46.0
+874 16.7
+17 16.7
+3 305 61.9
+890 16.7
+-
+-
+-
+-
+-
+-
+-
+-
+5 243
+100
+3.3
+0.1
+5 342
+3.3
+-
+-
+-
+300
+-
+-
+-
+0.2
+275 21.6
+269 28.2
+544 24.4
+47 000 29.1
+198 15.5
+114 11.9
+312 14.0
+0.8
+0.6
+1.4
+27 041 16.9 19 543 12.2 19 466 12.2 159 550 100.0
+1 273
+955
+2 228
+B. Project financing
+29. The project will be financed through multiple sources, including an IFAD loan, an
+IFAD grant, the Government, beneficiaries and PFIs. The IFAD loan from the
+2016-2018 performance-based allocation system (PBAS) totalling US$46.2 million
+will cover 29 per cent of project costs, contributing to: 37 per cent of the inclusive
+value chains development component (component 1, totalling US$10.8 million);
+28 per cent of the inclusive rural finance component (component 2,
+US$141.8 million); 21 per cent of the climate-resilient rural infrastructure
+component (component 3, US$5.3 million); and 62 per cent of the project
+management component (component 4, US$ 2.2 million). In addition, IFAD will
+provide a grant of US$300,000 to cover part of the international technical
+assistance and training provided under component 1, and technical assistance to
+Ministry of Agriculture and Water Resources under component 2. The Government
+will waive all taxes related to project expenditures, including all those associated
+with goods and services procured with the loans generated by the project’s funded
+credit lines, and the social fund associated with personnel. The Government's
+contribution,  mainly in the form of taxes, represents 17 per cent of the total cost
+or US$27.0 million. PFIs are expected to contribute US$19.5 million to match the
+funds made available by the project. Beneficiaries will contribute at least
+US$19.5 million. The financing gap of US$47 million may be sourced by
+subsequent PBAS cycles (under financing terms to be determined and subject to
+internal procedures and subsequent Executive Board approval), or by cofinancing
+identified during implementation.
+7
+EB 2017/122/R.27/Rev.1
+Table 2
+Project costs by expenditure category and financier
+(Thousands of United States dollars)
+IFAD loan
+IFAD grant
+Financing gap
+Government
+PFIs
+Beneficiaries
+Total
+Category
+Amount % Amount % Amount % Amount % Amount
+%
+Amount % Amount %
+1. Equipment and goods
+2 448
+39.4
+-
+-
+2 718
+43.8
+1 035 16.7
+2. Civil works
+3. Vehicles
+4. Technical assistance
+International TA
+National TA
+1 513
+26.0
+82
+75.0
+3 192
+54.8
+1 123 19.3
+27 25.0
+494
+43.0
+46 4.0
+418
+36.4
+192 16.7
+600
+20.5
+254 8.7
+1 486
+50.8
+500 17.1
+Subtotal Technical Assistance
+and Studies
+1 094
+26.8
+300 7.4
+1 904
+46.7
+692 17.0
+5. Training
+251
+36.8
+317
+46.5
+114 16.7
+6. Inclusive value chain financing
+-
+-
+85
+85
+2.9
+2.1
+7
+-
+-
+0.1
+-
+-
+6 208
+5 828
+109
+1 150
+2 925
+4 075
+682
+3.9
+3.7
+0.1
+0.7
+1.8
+2.6
+0.4
+Guarantee Finance
+1 000
+10.1
+6 935
+69.8
+2 000 20.1
+9 935
+6.2
+Credit Line for AMD
+33 712
+28.4
+26 444
+22.2
+19 815 16.7
+19 458
+16.4
+19 458 16.4 118 888
+74.5
+Credit Line for Youth
+Subtotal Inclusive Value Chain
+Financing
+5 000
+41.7
+5 000
+41.7
+2 000 16.7
+12 000
+7.5
+39 712
+28.2
+38 379
+27.3
+23 815 16.9
+19458
+13.8
+19458 13.8 140 823
+88.3
+Total Investment Costs
+45 100
+28.6
+300 0.2
+46 510
+29.5
+26 805 17.0
+19 543
+12.4
+19458 12.3 157 725
+98.9
+7. Salaries
+Operations & Maintenance
+Operating Costs
+746
+68.9
+111
+54.8
+243
+45.0
+337
+31.1
+58
+95
+28.6
+17.6
+34 16.7
+202 37.4
+Total Recurrent Costs
+1 100
+60.3
+490
+26.8
+235 12.9
+1 084
+203
+539
+1825
+0.7
+0.1
+0.3
+1.1
+Total
+46 200
+29.0
+300 0.2
+47 000
+29
+27 041 16.9
+19 543
+12.2
+19 465 12.2 159 550 100.0
+C. Summary benefit and economic analysis
+30. The project is expected to generate substantial net incremental benefits for farming
+households, Dekhan farmers, commercial farmers, agri-firms and rural
+entrepreneurs. These include: (i) at least 80 per cent of project beneficiaries
+reporting at least a 20 per cent increase in income; (ii) at least 75,000 households
+receiving services promoted or supported by the project; (iii) at least 10,000
+full-time jobs (or equivalent) created; and (iv) at least 70 per cent of supported
+smallholder producers, including Dekhans, reporting a 20 per cent increase in sales
+along their value chains
+31. Economic rate of return. On the basis of the above assumptions, the economic
+analysis of the project indicates that the total investment gains are significant and
+robust in economic terms. The analysis results in an internal economic rate of
+return of 16.5 per cent and a net present value of US$33.7 million over 20 years
+based on quantifiable benefits that relate directly to the activities undertaken by
+the project.
+D. Sustainability
+32. The sustainability of the project’s results is based on: (i) the value chain-champion
+business and technical capacity-building activities to be promoted; (ii) the
+demand-driven nature of the intervention; and (iii) the preparation of value chain
+development plans as the basis for all investments, which should lead to inclusive
+and more equitable and profitable value chains. The project’s sustainability is also
+based on an exit strategy that comprises: (i) ensuring the ownership by
+beneficiaries of the financed activities; (ii) the participatory development of
+demand-driven technology; (iii) integration along value chains, including input
+8
+EB 2017/122/R.27/Rev.1
+suppliers and service providers; and (iv) limited project operational, staff and
+recurrent costs.
+E. Risk identification and mitigation
+33. The major risks are: (i) a distortive policy environment; (ii) a lack of stakeholder
+participation; (iii) market-related risks including potential exchange rate
+fluctuations; (iv) a failure of communication; (v) deteriorating financial
+performance of some PFIs; and (vi) the outbreak of transboundary animal disease,
+(vii) complex flow of funds, as well as (viii) relatively large financing gap. Mitigation
+measures include: regular supervision, and preparation of a detailed project
+implementation manual; separate US$ accounts for IFAD financing and procedures
+to manage foreign exchange risks, in-depth, participatory analysis of production
+and business opportunities; intensive training for farmers on how to position their
+products; establishment of proper contracts; training on business management;
+regular project monitoring; annual assessment of banks against minimum eligibility
+requirements; upgrading critical competencies in active disease surveillance and
+reporting from the field; and ensuring that there are veterinary field staff capable
+of sharing information and specimens with the Government’s veterinary disease
+diagnostic laboratories. Moreover, specific conditions related to disbursement and
+audit will be included in the financing agreement to ensure that proper safeguards
+are in place with regards to funds being transferred to the PFIs and the guarantee
+facility. The PFIs also will also be subject to strict monitoring measures, as well as
+compliance based disbursement procedures. As the financing gap will mainly
+finance credit lines, the project will still be able to function, even if the additional
+financing does not materialize.
+V. Corporate considerations
+A.
+Compliance with IFAD policies
+34. The project design is aligned with all relevant IFAD strategies and policies,
+including the: (i) Strategic Framework (2016-2025); (ii) Policy on Targeting;
+(iii) Policy on Gender Equality and Women’s Empowerment; (iv) Rural Finance
+Policy; (v) Private-Sector Development and Partnership Strategy; (vi) Rural
+Enterprise Policy; (vii) Environment and Natural Resource Management Policy; and
+(viii) Social, Environmental and Climate Assessment Procedures. Given the nature
+and extent of the likely environmental impacts, the project is classified as a
+category B in line with IFAD’s environmental assessment procedures. The potential
+negative environmental impacts are assessed to be within controllable limits.
+Alignment and harmonization
+B.
+35. The project is closely aligned with and supports the Government’s priorities for
+diversification and modernization of the agriculture sector, as expressed in the
+Welfare Improvement Strategy (2013-2015) and Presidential Decree No.2460 on
+agriculture sector reforms and development for 2016-2020, which stresses the
+need to gradually shift from cotton and wheat to value-added commodities, and
+introduce resource-saving technologies.
+36. Seeking to avoid the duplication of efforts and foster complementarities while
+taking advantage of business-related best practices and technological innovations,
+the intervention strategy will be based on: (i) building partnerships with the
+country’s private commercial sector, and related stakeholders; (ii) local research
+institutions and industry associations, particularly for expanding technical
+assistance services and market channels; (iii) harmonization with the initiatives of
+development partners present in the country such as ADB, the Food and
+Agriculture Organization of the United Nations and the World Bank; and (iv) the
+principles of the Paris Declaration on Aid Effectiveness.
+9
+EB 2017/122/R.27/Rev.1
+Innovations and scaling up
+C.
+37. The project has two main innovative features. First, it will introduce a rural
+guarantee facility that will leverage up to five times the value of the facility; the
+US$9.9 million invested will help to attract US$49.5 million into Uzbekistan’s
+agricultural sector. IFAD will be a pioneer among international financial institutions
+by investing in the State Fund, and will document and disseminate its experiences
+among other funders to attract more resources to the State Fund. In addition, the
+adoption of the specialized automated Cash-flow Linked Agri-Risk Assessment tool
+for loan analysis and management will build the capacity of participating banks to
+lend to the agricultural sector and manage their agricultural loan portfolios more
+efficiently.
+Policy engagement
+D.
+38. Successful policy engagement will depend on the capacity to generate analytical
+evidence at the outcome and impact levels. To capture experience gained, two
+approaches are envisaged: (i) a knowledge management programme within the
+project to support within- and between-project learning; and (ii) support for a
+broader programme of knowledge management aimed at informing government
+decision-makers and influencing policy. Considering the relatively recent IFAD
+experience in the country and collaboration with the ADB and the World Bank, IFAD
+is transitioning to a more integrated, strategic, and programmatic dialogue to
+identify barriers to a conducive business environment.
+VI. Legal instruments and authority
+39. A project financing agreement between the Republic of Uzbekistan and IFAD will
+constitute the legal instrument for extending the proposed financing to the
+borrower. A copy of the negotiated financing agreement is attached as appendix I.
+40. The Republic of Uzbekistan is empowered under its laws to receive financing from
+IFAD.
+41.
+I am satisfied that the proposed financing will comply with the Agreement
+Establishing IFAD and the Policies and Criteria for IFAD Financing.
+VII. Recommendation
+42.
+I recommend that the Executive Board approve the proposed financing in terms of
+the following resolution:
+RESOLVED: that the Fund shall provide a loan on blend terms to the Republic
+of Uzbekistan in an amount equivalent to of forty-six million two hundred
+thousand United States dollars (US$46,200,000) and upon such terms and
+conditions as shall be substantially in accordance with the terms and
+conditions presented herein.
+RESOLVED FURTHER: that the Fund shall provide a grant to the Republic of
+Uzbekistan in an amount equivalent to three hundred thousand United States
+dollars (US$300,000) and upon such terms and conditions as shall be
+substantially in accordance with the terms and conditions presented herein.
+Gilbert F. Houngbo
+President
+10
+Appendix I
+EB 2017/122/R.27/Rev.1
+Negotiated financing agreement
+Agriculture Diversification and Modernization Project
+(Negotiations concluded on 22 November 2017)
+Loan Number: _______
+Grant Number: _______
+Project  Title:  Agriculture  Diversification  and  Modernization  Project  (“ADMP”  or  “the
+Project”)
+The Republic of Uzbekistan (the “Borrower/Recipient”)
+and
+The International Fund for Agricultural Development (the “Fund” or “IFAD”)
+(each a “Party” and both of them collectively the “Parties”)
+hereby agree as follows:
+Section A
+1.
+The  following  documents  collectively  form  this  Agreement:  this  document,  the
+Project  Description  and  Implementation  Arrangements  (Schedule 1),  and  the  Allocation
+Table (Schedule 2), and the Special Covenants (Schedule 3).
+2.
+The  Fund’s  General  Conditions  for  Agricultural  Development  Financing  dated
+29 April 2009, amended as of April 2014, and as may be amended hereafter from time to
+time (the “General Conditions”) are annexed to this Agreement, and all provisions thereof
+shall  apply  to  this  Agreement.  For  the  purposes  of  this  Agreement  the  terms  defined  in
+the General Conditions shall have the meanings set forth therein.
+The  Fund  shall  provide  a  Loan  and  a  Grant  to  the  Borrower/Recipient  (the
+3.
+“Financing”),  which  the  Borrower/Recipient  shall  use  to  implement  the  Project  in
+accordance with the terms and conditions of this Agreement.
+Section B
+1.
+A.
+The amount of the Loan is forty-six million and two hundred thousand United
+States dollars (USD 46 200 000).
+B.
+The amount of the Grant is three hundred thousand dollars (USD 300 000).
+2.
+The Loan is granted on blend terms, and shall be subject to interest on the principal
+amount  outstanding  at a  fixed  rate  of  1.25  per  cent  and in  addition  a service  charge  of
+0.75  per  cent  per  annum  payable  semiannually  in  the  Loan  Service  Payment  Currency
+and  shall  have  a  maturity  period  of  twenty  five  (25)  years,  including  a  grace  period  of
+five (5) years, starting from the date of approval by the Executive Board.
+3.
+4.
+The Loan Service Payment Currency shall be the United States dollar (USD).
+The first day of the applicable Fiscal Year shall be 1 January.
+1
+Appendix I
+EB 2017/122/R.27/Rev.1
+Payments of principal, interest and service charge shall be payable on each 15 May
+5.
+and 15 November.
+6.
+There  shall  be  two  Designed  Accounts  in  USD,  one  for  the  IFAD  loan  and  one  for
+the IFAD grant for the benefit of the Project in a commercial bank. The IFAD funds shall
+not be mingled with other funds. In addition, there shall be two project accounts in UZS
+to receive the Financing from the respective Designated Accounts in a commercial bank.
+The Borrower/Recipient shall provide as its contribution to the Project counterpart
+7.
+financing  in  sufficient  amount  to  cover  taxes  and  custom  duties  associated  with  the
+implementation of the Project.
+Section C
+The  Lead  Project  Agency  shall  be  the  Ministry  of  Agriculture  and  Water  Resources
+1.
+(MAWR).
+The  following  are  designated  an  additional  Project  Party:  Rural  Restructuring
+2.
+Agency (RRA).
+The Project Completion Date shall be the sixth anniversary of the date of entry into
+3.
+force of this Agreement.
+Section D
+The Financing will be administered and the Project supervised by the Fund.
+Section E
+The  following  are  designated  as  additional  grounds  for  suspension  of  this
+1.
+Agreement:
+(a)
+The  Project  Implementation  Manual  ("PIM")  referred  to  in  Paragraph  19,
+Section  II  of  Schedule  1  hereto,  or  any  provision  thereof,  has  been  waived,
+suspended, terminated, amended or modified without the prior consent of the
+Fund,  and  the  Fund  has  determined  that  such  waiver,  suspension,
+termination,  amendment  or  modification  has  had,  or  is  likely  to  have,  a
+material adverse effect on the Project.
+The  following  are  designated  as  additional  general  conditions  precedent  to
+2.
+withdrawal:
+(a) A  Presidential  Decree  confirming  the  Rural  Restructuring  Agency  as  the
+agency responsible for the management of the Project shall have been issued;
+(b) Key Staff, including a Project Manager, a Chief Accountant and a Procurement
+Officer with  qualifications  and  experience  acceptable  to  the  Fund have  been
+duly appointed;
+(c)
+A  Project 
+Administration and Accounting procedures, has been cleared by the Fund;
+Implementation  Manual 
+containing 
+(PIM) 
+the  Financial
+2
+Appendix I
+EB 2017/122/R.27/Rev.1
+The following are the designated representatives and addresses to be used for any
+3.
+communication related to this Agreement:
+For the Borrower/Recipient:
+Batir Asadillaevich Khodjaev
+Minister for Finance of the Republic of Uzbekistan
+Ministry of Finance
+5, Mustaqillik Square
+10000-8 Tashkent
+For the Fund:
+The President
+International Fund for Agricultural Development
+Via Paolo di Dono 44
+00142 Rome, Italy
+This  Agreement,  dated _______,  has  been  prepared  in  the  English  language  in two  (2)
+original copies, one (1) for the Fund and one (1) for the Borrower/Recipient.
+REPUBLIC OF UZBEKISTAN
+____________________
+(Authorized Representative)
+(Name and title)
+INTERNATIONAL FUND FOR
+AGRICULTURAL DEVELOPMENT
+___________________
+Gilbert F. Houngbo
+President
+3
+Appendix I
+EB 2017/122/R.27/Rev.1
+Schedule 1
+Project Description and Implementation Arrangements
+I.
+Project Description
+Project Area. The Project will be implemented in Fergana Valley, in the regions of
+1.
+Andijan, Fergana and Namangan.
+2.
+Target Population. The main target groups of the Project are: (i) rural households
+of dehkan farms,  who  strive  to  increase  income  from  agriculture  through  active
+participation in the Project supported value chains; (ii) small farmers engaged/interested
+in  horticulture  and  livestock  (with  farm  size  of  up  to  5  ha);  (iii) agribusinesses  with
+existing or potential linkages with (i) and (ii); and (iv) youth living in the Project regions.
+Special  attention  will  be  paid  to  ensure  the  participation  of  female-headed households
+both in dehkan and small farmers, as well as to reach out female youth.
+In  its  first  phase,  the  Project  is  expected  to  reach  out  directly  to  30,000
+3.
+households,  and  about  10 000  indirect  beneficiaries.  These  include  5  000,  households
+benefitting from  loans  and  training,  plus  approximately  20  000  incremental  suppliers  of
+the Leading Entities (LEs) benefitting of ADMP loans, and some 4 000 full time equivalent
+incremental jobs created by the LEs’ incremental economic activities.
+Goal. The development goal of the Project to improve the incomes and livelihoods of
+4.
+rural people in the Project area.
+Objective. The Project’s  Development  Objective  is  to  increase  inclusiveness  and
+5.
+profitability  of  selected  value  chains  through  enhanced  productivity,  market access  and
+improved natural resources.
+Components. The Project will have three principal inter-related components as well
+6.
+as another one to support Project management and implementation:
+7.
+this
+Component 1: Inclusive  Value  Chains  Development:  The  outcome  of
+component  is  enhanced  capacity  for  sustainable  and  efficient  performance  of  targeted
+stakeholders and aimed to create an enabling business  environment for agribusinesses in
+selected value chains (VC) with strong backward linkages with smallholder producers; and
+to  strengthen  the  capacities  of  the  farmers  and  other  stakeholders  of  those  VCs.  Three
+activities  will  be  implemented  under  this  component:  (i)  Value  Chain  Mapping  exercises
+based  on  Rapid  Market  Assessment  results  for  small  ruminants,  fisheries,  sericulture  and
+honey  prepared  during  the  design;  (ii)  Rapid  Market  Assessments  of  additional
+sub-sectors; and (iii) Preparation of VC development Roadmaps for LEs.
+8.
+Component 2: Inclusive  Rural  Finance:  The  outcome  of  this  component  is
+increased  productivity  and  efficiency  along  targeted  smallholder-inclusive  value  chains  to
+enable  value  chain  actors  to increase investment  in  profitable  value  chains  through  the
+provision of credit and a guarantee facility. The Project will support (i) the State Fund for
+the  Support  of  the  Development  of  Entrepreneurial  Activity  (SFSDEA)  to  render  credit
+guarantees  to  smallholders  and  other  rural enterprises  who  lack  acceptable  collateral  by
+offering the partial coverage of lending risks; (ii) work with banks interested in lending to
+agriculture  in  the  target  regions  and  meeting  the  Project’s  eligibility  criteria  to  facilitate
+farmers and agricultural businesses’ access to finance; and (iii) establish credit window for
+youth  who  are  underserved  by  financial  services  with  affordable  lending  products.  Banks
+will  be  free  to  set  their  own  interest  rates  allowing  serving  the  Project  beneficiaries  in  a
+sustainable manner; however the banks will be selected through a competitive process to
+ensure that those offering the best conditions are chosen.
+Component 3: Climate-resilient  Rural  Infrastructure: This  component  aims  at
+9.
+removing  bottlenecks  for  reliable  irrigation  water  supply,  which  inhibit  increasing
+participation  for dehkans and  small  farmers  in  enhanced  diversification  and efficiency  of
+4
+Appendix I
+EB 2017/122/R.27/Rev.1
+agriculture  for  the  selected  value  chains.  This  will  be  achieved  through  modernization  of
+inter-farm  irrigation  network  operated  by  Water  Consumer  Associations  (WCAs)  and  will
+provide conditions for targeted farmers’ group to: (i) diversify agricultural production from
+low to high value crops; (ii) increase land productivity; (iii) address challenges of drought
+due  to  climate  change;  and  (iv)  increase  capacity  of  WCAs  and  Basin  Administration  of
+Irrigation  System  (BAIS)  in  efficient  water  resource  management  and  irrigation  system
+operation and maintenance.
+II.
+Implementation Arrangements
+10.
+Approach. The  Project  will  promote  a  demand  driven  value  chain  approach.  The
+value chain approach will focus on analyzing each step of the value chain and investment
+on  those  needs  which  have  the  potential  for  improving  productivity,  profitability  and
+competitiveness of the value chain players, particularly focusing on dehkan farmers.
+11.
+The  Project  will  promote  upgrading  of  selected  value  chains  and  will  include
+actions  taken  by  producers,  processors,  input  suppliers  and  traders  at  various  points  in
+the value chain to increase future productive capacity and competitiveness. The LEs with
+successful  Value  Chain  Roadmaps  prepared  under  Component  1  will  be  favourably
+considered for receiving loans from PFIs under Component 2. While loan applications will
+be assessed individually, the Project will provide complementary support to enhance their
+business  operations  through  provision  of  technical  assistance  and  training to  farmer
+suppliers and other actors as well as access to improved infrastructure under Component
+3  to  enhance  overall  competitiveness  and  efficiency  of  the  value  chains.  The  ADMP  will
+promote close coordination with projects funded by other donors organizations especially
+with those projects also under the Rural Restructuring Agency (RRA).
+12.
+Organizational  framework. The  MAWR  will  have  the  overall  responsibility  for
+management of the Project on behalf of the Borrower/Recipient. Day-to-day oversight of
+the ADMP’s management will rest with a Project Management Unit (PMU) under the RRA.
+The  overall  management  oversight  of  the  Project  will  rest  with  an  Inter-agency  Council
+(IC).  The  IC  is  an  inter-governmental  institutions  agency  for  Cooperation  with
+International Financial Institutions, Foreign Government Agencies and Donor Countries in
+Implementation of Large-scale and Strategically Important Investment Projects.
+13.
+The PMU for the ADMP  will be headed by a Project Manager and be composed of
+(preliminary):  a  Chief  Accountant;  Procurement  Officer;  Rural  Finance  /Youth  Officer;
+Administrative  Assistant;  and  a  Driver.  The  ADMP  will  use  Horticultural  Support  Project
+/Dairy Value Chains Development Project legal staff. In addition, the Project will count on
+the  services  of  national  and  international  specialists  in  various  fields.  A  Project
+Implementation Team (PIT, RRA regional representation) will be established in one of the
+regions  of  the  Project  area  in  PY1.  The  PIT  would  comprise  a:  Regional  Coordinator
+(Value  Chain  and  Business  Specialist),  three  Rural  Finance  Officer/gender/youth,
+Engineer,  Monitoring  and  Evaluation  (M&E  Specialist)  and  a  driver.  The  PIT  will  be
+responsible for day-to-day implementation in the field of all aspects  of the Project, with
+the  exception  of  financial  administration  and  procurement,  which  will  be  managed
+entirely by the relevant personnel of the RRA/ADMP PMU at central level.
+The PMU/PIT  shall  coordinate  the  work  of  consultants  and  participating  financial
+14.
+institutions (PFIs) that will interact with VC actors on planning and financial matters.
+The  MOF  shall  make  the  Subsidiary  Loans  available  to  the  PFIs  under  Subsidiary
+15.
+Loan  Agreements  (SLAs)  to  be  entered  into  between  the  Borrower/Recipient,  the  RRA
+and each PFI. The SLAs shall be under terms and conditions cleared by the Fund and in
+adherence  with  the  Investment  Guidelines. Except  as  the  Fund  shall  otherwise  agree,
+the MOF shall not assign, amend, abrogate or waive any SLA or any of its provisions. The
+project monitoring and evaluation system and processes will be established and managed
+in accordance with established IFAD procedures by the PMU with support from IFAD. The
+5
+Appendix I
+EB 2017/122/R.27/Rev.1
+Logical Framework provides indicators for implementation along with their corresponding
+means of verification. These will form the basis on which the M&E system will be built.
+16.
+At  the  start  of  the  Project  and  no  later  than  90  days  after  the  date  of  entry  into
+force  of  this  Agreement,  the  PMU  shall  manage  a  comprehensive  baseline  survey  which
+will  be  updated  on  annual  basis  to  track  the  different  Project  indicators  over  time,
+including  for  the  mid-term  review.  During  the  Project’s  final  year,  a  completion  survey
+will be conducted. Results will be compared against the baseline survey results to assess
+project impact.
+17.
+Supervision. The  Project  will  be  directly  supervised  by  IFAD.  The  IFAD  country
+team shall provide continuous implementation support to the Project and shall undertake
+supervision  missions  on  an  annual  basis  to  assess  overall  management  arrangements
+and  performance  including  financial  and  procurement  aspects  and  monitoring  and
+evaluation. The supervision shall be carried out jointly with the Borrower  representatives
+and IFAD.
+18.
+Mid-Term Review. A mid-term review shall be carried out towards the end of third
+Project year. The review shall be undertaken in accordance with IFAD-MTR guidelines in
+consultation with the Borrower  representatives.
+19.
+Project  Implementation  Manual  (PIM). The  RRA/PMU  shall  prepare  a  draft  PIM
+acceptable to  the  Fund  and  submit  it  to  the  Fund  for  no  objection.  The  PIM  may  be
+amended when necessary with the approval of the Fund in order to introduce clarification
+in  procedures,  eliminating  constraints  for  project  implementation  and  for  facilitating
+access of producers to the project services.
+6
+Appendix I
+EB 2017/122/R.27/Rev.1
+Schedule 2
+Allocation Table
+Allocation of Loan and Grant Proceeds. (a) The Table below sets forth the Categories
+1.
+of Eligible Expenditures to be financed by the Loan and the Grant and the allocation of the
+amounts of the Loan and the Grant to each Category and the percentages of expenditures
+for items to be financed in each Category:
+Category
+I.
+Civil Works
+II. Equipment and Materials (including
+Vehicles)
+III. Consultancies (including Technical
+Assistance and training)
+IV. Credit and Guarantee Funds:
+(a) Guarantee Finance
+(b) Credit line for AMD
+(c) Credit line for Youth
+V. Operating cost (Salaries and
+recurrent cost)
+Unallocated (1%)
+TOTAL
+Loan Amount
+Allocated
+(expressed in
+USD)
+1 490 000
+2 420 000
+Grant
+Amount
+Allocated
+(expressed
+in USD)
+Percentage net of
+Taxes, Government
+contribution,
+Co-financing and
+beneficiary
+contribution
+100%
+100%
+1 170 000
+300 000
+100%
+1 000 000
+33 710 000
+5 000 000
+1 040 000
+370 000
+46 200 000
+300 000
+100%
+100%
+100%
+100%
+(b)
+The terms used in the Table above are defined as follows:
+Category II "Equipment and Materials" means Eligible Expenditures related to
+Goods, Equipment and Materials as well as Vehicles.
+Category  III  "Consultancies"  means  Eligible  Expenditures  related 
+Consultancies, Technical Assistance, Trainings and Workshops.
+to
+Category  V  "Operating  cost"  means  Eligible  Expenditures  related  to  Salaries
+and Allowances, operating cost of the PMU/PIU and other recurrent cost.
+7
+Appendix I
+EB 2017/122/R.27/Rev.1
+Start-up  Costs. To  facilitate  a  prompt  start-up,  a withdrawal  up  to  USD 200 000
+2.
+may  be  made  to  incur  expenditures  related  to  the  Project  start-up  activities  before  the
+satisfaction of the general conditions precedent to withdrawal. The start-up activities may
+include inter alia: (i) establishment of the PMU and salaries of key staff, (ii) Formulating
+of  the  Project  Implementation  Manual;  (iii) Preparation  of  the  first  AWPB  and
+procurement plan; (iv) Organization of a start-up workshop, (v) Prepare specifications for
+the  accounting  software;  (vi) Finalization  of  Investment  Guidelines, Value  Chain
+Development Roadmaps, and templates for Subsidiary loan agreements.
+3.
+Specific Conditions of withdrawal. In addition to the general conditions precedent to
+withdrawal listed  in  Section  E,  the  following  specific  conditions  for  first  withdrawal  will
+apply.
+I.
+No  funds  will  be  transferred  to  the  Participating  Financial  Institutions  (PFIs)
+before the following conditions have been fulfilled:
+(a)
+(b)
+(c)
+(d)
+The  first  three  Value  Chain  Roadmaps  have  been  prepared  and  received
+the Fund's no-objection.
+The  Investment  Guidelines  (or  equivalent)  for  the  use  of  PFI  loan
+proceeds,  including  the  operating  modalities  including  the  eligibility
+criteria  for  the  PFIs  and  end-borrowers  for  each  credit  window
+(agricultural  diversification  and  modernization  window  or  youth  window)
+has received the Fund's no-objection.
+The Subsidiary Loan agreements (SLA) for providing credit to PFI received
+the Fund's no-objection
+The PFI has opened an account to receive IFAD loan funds and a revolving
+account for credit reflows.
+II. No funds will be transferred as part of the guarantee finance before the following
+conditions have been fulfilled:
+(a)
+(b)
+(c)
+(d)
+(e)
+The  SFSDEA  has  become  operational  and  a  due  diligence  assessment
+including  an  assessment  of  its  Financial  Management  capacity  has  been
+conducted and shared with the Fund.
+An  agreement,  specifying  all  the  necessary  modalities  for  the  guarantee
+finance,  between  the  RRA    (or  other  entity  as  agreed  with  the  Fund)  and
+the  SFSDEA  has  been  duly  formalized  and  received  the  Fund’s  no-
+objection.
+The  Investment  Guidelines  (or  equivalent)  and  operating  modalities
+including the eligibility criteria for issuing guarantee finance have received
+IFAD's no-objection.
+A  separate  account  for  the IFAD  loan  funds  in  the  SFSDEA  has  been  duly
+opened.
+The  template  for  a  sub  agreement  for  providing  guarantees  to  financial
+institution/smallholder/rural business has received IFAD's no-objection.
+8
+Appendix I
+EB 2017/122/R.27/Rev.1
+Schedule 3
+Special Covenants
+In  accordance  with  Section  12.01(a)(xxiii)  of  the  General  Conditions,  the  Fund  may
+suspend, in whole or in part, the right of the Borrower/Recipient to request withdrawals
+from the Loan Account and the Grant Account if the Borrower/Recipient has defaulted in
+the performance of any covenant set forth below, and the Fund has determined that such
+default has had, or is likely to have, a material adverse effect on the Project:
+1.
+Guarantee Financing. The Borrower/Recipient shall ensure that funds transferred for
+the guarantee financing are deposited in a separate bank account and will not be mingled
+with other funds. At all times the Borrower/Recipient shall ensure that the funds are used
+for the intended purpose and made available in a timely manner in order not to adversely
+affect  the  development  impact  of  the  activity.  In  addition  the  Borrower/Recipient  shall
+ensure that the SFSDEA (i) keeps records of all the transactions related to the Project in
+accordance  with  international  accounting  standards,  and  (ii) issues  timely  periodic
+financial  reports  on  the  use  of  the  Project  funds  to  the  PMU  to  satisfy  their  reporting
+requirements.
+Audit  arrangements. The  Borrower/Recipient,  through  the  RRA,  will  appoint
+2.
+independent auditors acceptable to IFAD, under the terms of reference cleared by IFAD,
+and  in  line  with  the  IFAD  Guidelines  for  Project  Audits.  An  audited  annual  financial
+statement  for  the  entire  Project,  together  with  a  management  letter  on  audit
+observations on internal controls, shall be submitted to the Fund within six (6) months of
+the  fiscal  year  end.  Moreover,  the  Borrower/Recipient  shall  ensure  that the  IFAD  funds
+transferred  to  the  SFSDEA  are  part  of  the  audit  and  that  the  auditors  are  granted  full
+access to all documentation as may be required.
+9
+Logical framework
+Results hierarchy
+Indicators
+Means of Verification
+Assumptions
+Hierarchy
+Goal
+Improved incomes and
+livelihoods of rural people in the
+Project area
+Project development objective
+Increased inclusiveness and
+profitability of selected value
+chains through enhanced
+productivity and market access
+and improved natural resources
+Indicator
+C.I.
+Baseline
+Mid-term
+Percentage of project beneficiaries
+reporting at least 20% increase in
+income1
+Impact2
+0%
+30%
+Number of HHs receiving services
+promoted or supported by the project
+Outreach
+Number of full-time job (or equivalent)
+created3
+2.2.1
+Percentage of supported smallholder
+producers including dekhans reporting
+20% increase in sales along the value
+chains
+2.2.5
+0
+0
+0
+End
+Target
+80% (30%
+women)
+75,000
+(30%
+women)
+10,000
+(30%
+women)
+15,000
+2,000
+30%
+70% (30%
+women)
+Component 1. Inclusive Value Chains Development
+1
+0
+Outcome 1: Enhanced capacity
+for sustainable and efficient
+performance of targeted
+stakeholder
+Percentage of supported
+smallholder/dekhan farmers engaged
+in partnerships/ commercial
+agreements5 with LEs
+Percentage of smallholder producers
+reporting adoption of new / improved
+technologies or practices6
+0%
+30%
+1.2.2
+0%
+30%
+Output 1.1
+Enabled business environment
+for inclusive value chains
+Number of LEs supported in the
+preparation of a Value Chain
+Development Plan
+Output 1.2
+Strengthened value chains
+stakeholders
+Number of value chain stakeholders
+receiving training on better agronomic,
+0
+0
+800
+6,500
+70%
+(30%
+women)
+80%
+(30%
+women)
+1,200
+(30%
+women)
+10,000
+(30%
+Source
+Frequency
+Responsibi
+lity
+Baseline, mid-term and impact
+surveys
+Specialized (qualitative /
+quantitative) thematic studies
+Household income surveys
+Baseline,
+Mid-term,
+Completion
+Annually
+PMU M&E
+unit
+Overall political
+and economic
+situation remains
+stable
+Stability of prices
+in agricultural
+commodities
+Baseline,
+Mid-term,
+Completion
+PMU M&E
+unit
+Macro-economic
+conditions remains
+stable
+Baseline, mid-term and impact
+surveys
+Annual outcome surveys
+Project baseline study and mid-
+term review and implementation
+completion report
+Uzagroexport,4 plus reports from
+participating agri-firms
+(processor/aggregator) on access
+to foreign markets
+Annual surveys
+Project’s M&E records and report
+Government
+policies and rural
+economic reforms
+supporting
+smallholders,
+private sector
+development and
+the agriculture
+sector are
+implemented
+Government’s national, regional
+and local production data
+Annually
+PMU M&E
+unit
+Targeted field studies and surveys
+Project records
+Project records
+Continuousl
+y
+PMU M&E
+unit
+Continuousl
+y
+PMU M&E
+unit
+1
+This indicator is inspired by the RIMS Impact-level indicator “Number of people experiencing economic mobility”, corresponding to SDG target 1.1 and 1.2, but taking into account the specific aspect of income, where ADMP is expected to generate an impact. These
+project’s direct beneficiaries are estimated around 75,000 households. These include stakeholders benefitting of credit lines supported by the ADMP, as well as of trainings/other supports provided by the project and by the project’s supported LEs, or from FFS
+curricula and guided exposure to technological demonstration plots.
+2 RIMS impact level indicator, corresponding to SDG target 1.1 and 1.2.
+3 The target corresponding to some 80% of the number of full-time equivalent jobs created through ADMP interventions (see Appendix 10, Economic and Financial Analysis).
+4 Uzagroexport is a state enterprise that monitors the export. There is a branch in each region of Fergana Valley.
+5 Including, but not limited to, formal contracts with traders / aggregators / processors. LEs will specify those linkages in their Strategic Plans / Roadmaps, developed by LEs within sub-comp. 1.1.
+6
+The outreach is mostly determined by sub-component 1.2’s interventions. Beneficiaries include 1,200 LE representatives (also benefitting of support under sub-component 1.1 for their roadmap; about 5,000 LE suppliers,
+benefitting from inclusive workshops/ trainings; about 600 Mahalla leaders (community mobilization and TOT); about 1,000 additional Mahalla members; 3,200 producers benefitting of demo plots (10 farmers at least for each demo
+plot established); 2,250 FFS members. Adoption rate is about 80%.
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+7
+/
+1
+2
+2
+/
+R
+.
+2
+7
+/
+R
+e
+v
+.
+1
+Results hierarchy
+Indicators
+Means of Verification
+Assumptions
+Hierarchy
+Indicator
+C.I.
+Baseline
+Mid-term
+Component 2. Inclusive Rural Finance
+livestock and business practices7
+Outcome 2: Productivity and
+efficiency along targeted
+smallholder-inclusive value
+chains increased
+Output 2.1
+Operational Rural Guarantee
+Facility
+Output 2.2
+Increased access to credits by
+rural residents
+Output 2.3
+Increased access to credits by
+youth
+Number of incremental suppliers
+generated by investment along the
+selected value chains
+Value of loans guaranteed by the Rural
+Guarantee Facility8
+Number of value chain stakeholders
+(Leading Entities) in the project areas
+accessing financial services9
+1.1.5
+Number of youth involved in the
+selected value chains accessing to the
+financial services10
+Component 3. Climate-resilient Rural Infrastructure
+0
+0
+0
+0
+10,000
+15.0 m US$
+500
+250
+Outcome 3: Improved farmland
+productivity resulting from
+modernized irrigation
+infrastructure
+Number of HHs reporting increase in
+production as a result of the adoption
+of modern irrigation techniques11
+1
+1
+1.2.4
+0
+200
+End
+Target
+women)
+50,000
+(40%
+women)
+49.5 m
+US$
+1,200
+(30%
+women)
+1,000
+(50%
+women)
+1,000
+(30%
+women)
+Output 3.1
+Enhanced access by smallholder
+farmers to modernized irrigation
+systems
+Output 3.2
+Strengthened WCAs
+Number of hectares under upgraded
+irrigation
+Number of WCA representatives
+trained
+0
+0
+2,000
+3,500
+Project records
+20
+30
+Project records
+Source
+Frequency
+Responsibi
+lity
+Project baseline study and mid-
+term review and implementation
+completion report;
+Participating Financial Institutions
+and Central Bank
+Project M&E records and report
+Annually
+PMU M&E
+unit
+Micro-economic
+conditions are
+supportive for
+doing business
+Project records
+Project records
+Project records
+Annual outcome surveys
+Project’s M&E records and report
+Government’s national, regional
+and local production data
+Targeted field studies and surveys
+Continuousl
+y
+PMU M&E
+unit
+Continuousl
+y
+PMU M&E
+unit
+Continuousl
+y
+PMU M&E
+unit
+Annually
+PMU M&E
+unit
+Continuousl
+y
+PMU M&E
+unit
+Continuousl
+y
+PMU M&E
+unit
+Government
+policies and rural
+economic reforms
+supporting
+smallholders,
+private sector
+development and
+the agriculture
+sector are
+implemented
+7 Adapted from the RIMS CI 1.1.4: “Number of persons trained in production practices and/or technologies”.
+8 The Rural Guarantee Facility (US$ 9.9m) would allow mobilizing a five-fold amount of loans. With an average loan size of US$ 20,000 (assumed also for other credit lines within ADMP’s scope, this implies some 2,475 loans.
+9 ADMP’s funded credit lines (US$ 54.8m) would generate some 1,200 loans with average size of US$ 45,000. The target is expected to be achieved faster than the Rural Guarantee Facility as the credit lines are expected to be
+immediately operational.
+10 Under the assumption that youth would borrow an average of U$$ 10,000, the Youth Fund (US$ 10.0m) would be able to generate some 1,000 loans, one fourth by mid-term.
+11 The modernization of the tertiary irrigation would benefit some 3,500 ha in the three regions, with 3.5 ha average land size / farm it implies some 1,000 households.
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+7
+/
+1
+2
+2
+/
+R
+.
+2
+7
+/
+R
+e
+v
+.
+1

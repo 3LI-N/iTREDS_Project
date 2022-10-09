@@ -1,0 +1,2127 @@
+Document:
+Date:
+Distribution:
+Original:
+EB 2018/LOT/P.25
+28 December 2018
+Public
+French
+E
+President’s Report
+Proposed Loan and Grant under the Debt
+Sustainability Framework to the Togolese
+Republic for the Shared-risk Agricultural
+Financing Incentive Mechanism Support
+Project
+Note to Executive Board representatives
+Focal points:
+Technical questions:
+Dispatch of documentation:
+Lisandro Martin
+Director
+West and Central Africa Division
+Tel: +39 06 5459 2388
+e-mail: lisandro.martin@ifad.org
+Deirdre McGrenra
+Chief
+Governing Bodies
+Tel: +39 06 5459 2374
+e-mail: gb@ifad.org
+For: Approval
+EB 2018/LOT/P.25
+ii
+iii
+iv
+1
+1
+1
+1
+2
+2
+2
+3
+4
+4
+4
+5
+5
+6
+6
+7
+7
+7
+9
+11
+11
+11
+12
+12
+12
+12
+12
+12
+13
+Contents
+Abbreviations and acronyms
+Map of the project area
+Financing summary
+Recommendation for approval
+I.
+Strategic context and rationale
+A. Country and rural development and poverty context
+B. Rationale and alignment with government priorities and the
+results-based country strategic opportunities programme
+II.
+Project description
+A. Objectives, project area and target group
+B. Components/outcomes
+C. Theory of change
+D. Alignment, ownership and partnership
+III. Project implementation
+A. Approach
+B. Organizational framework
+C. Planning, monitoring/evaluation, learning and knowledge
+management
+D. Administrative and financial management
+E. Procurement
+F. Supervision
+IV.
+Project costs, financing, and benefits
+A. Project costs
+B. Project financing
+C. Summary of the benefits and economic analysis
+D. Sustainability
+E. Risk identification and mitigation
+V.
+Corporate considerations
+A. Compliance with IFAD policies
+B. Alignment and harmonization
+C. Innovations and scaling up
+D. Policy engagement
+VI.
+Legal instruments and authority
+VII. Recommendation
+Appendices
+I. Negotiated financing agreement
+II. Logical framework
+i
+EB 2018/LOT/P.25
+Abbreviations and acronyms
+CPES
+AW/B
+CFAF
+CI
+M&E
+MIFA
+Presidential Delivery Unit
+annual workplan and budget
+African Financial Community franc
+core indicator
+monitoring and evaluation
+Agricultural Financing Incentive Mechanism
+PADAT
+Togo Support to Agricultural Development Project
+PCMU
+PND
+PNIASAN
+project coordination and management unit
+Five-year National Development Plan
+National Plan for Agricultural Investment and Food and Nutritional
+Security
+PNPER
+National Programme for the Promotion of Rural Entrepreneurship
+POs
+Producer organizations
+ProMIFA
+Shared-risk Agricultural Financing Incentive Mechanism Support Project
+PSCU
+RFI
+RMP
+SDGs
+project supervision and control unit
+rural financial institution
+Resource Mobilization and Partnership Office
+Sustainable Development Goals
+ii
+EB 2018/LOT/P.25
+Map of the project area
+Togolese Republic
+Shared-risk Agricultural Financing Incentive Mechanism Support Project
+President's Report
+iii
+EB 2018/LOT/P.25
+Togolese Republic
+Shared-risk Agricultural Financing Incentive Mechanism
+Support Project
+Financing summary
+Initiating institution:
+IFAD
+Borrower/recipient:
+Togolese Republic
+Executing agency:
+Total project cost:
+Ministry of Economy and Finance
+US$35.07 million
+Amount of IFAD loan:
+EUR 3.3 million (US$3.75 million)
+Amount of IFAD grant (under the Debt
+Sustainability Framework):
+EUR 3.3 million (US$3.75 million)
+Terms of IFAD loan:
+Highly concessional terms, interest-free but coupled
+with a service fee of 0.75 per cent per year, and a
+repayment period of 40 years (unless a shorter period is
+requested by the borrower), including a grace period of
+10 years. Amortization of the loan principal shall be at
+the rate of 4.5 per cent for the first 20 years (11 to 30),
+followed by 1 per cent for the subsequent years
+(31 to 40)
+Cofinancier:
+Private sector (financial institutions)
+Cofinancing amount:
+US$6.31 million
+Contribution of borrower/recipient:
+US$3.80 million
+Contribution of beneficiaries:
+US$1.80 million
+Financing gap:
+US$15.66 million
+Appraising institution:
+Cooperating institution:
+IFAD
+IFAD
+iv
+EB 2018/LOT/P.25
+Recommendation for approval
+The Executive Board is invited to approve the recommendation for proposed
+financing to the Togolese Republic for the Shared-risk Agricultural Financing
+Incentive Mechanism Support Project (ProMIFA), as set forth in paragraph 55.
+Proposed Loan and Grant under the Debt Sustainability
+Framework to the Togolese Republic for the Shared-risk
+Agricultural Financing Incentive Mechanism Support
+Project (ProMIFA)
+I. Strategic context and rationale
+A. Country and rural development and poverty context
+1.
+The West African country of Togo had approximately 7.6 million inhabitants in
+2016, 77 per cent of them living below the poverty line and 75 per cent aged under
+35. The country's economy is highly dependent on exports of phosphates and
+agricultural products. The agriculture sector provides 60 per cent of employment
+and contributes 41 per cent of GDP. Agriculture consists essentially of subsistence
+family farms – with an average size of four hectares per household – with low levels
+of producer integration into value chains and the market economy.
+2.
+Although agriculture is the main sector of employment for thousands of young
+people and women, financial sector operators hesitate to lend to them because of
+perceived high risk. Investments and promotion of initiatives in the sector are
+therefore limited. Just 0.2 per cent of financial sector resources go to agriculture,
+and only 32 per cent of rural people have access to financial services. Use of
+banking and financial services is very limited, with only 18 per cent of the country’s
+population nationwide having a bank account. In 2017, the International Monetary
+Fund indicated that the banking system lacked liquidity to provide financing to
+private lenders, since the latter were funding public deficits.
+3.
+B. Rationale and alignment with government priorities and the
+results-based country strategic opportunities programme
+The Government of Togo has just adopted a new Five-year National Development
+Plan (PND) for the 2018-2022 period, with the objective of achieving strong,
+sustainable and resilient growth that will provide decent livelihoods and generate
+social progress and well-being. The PND also aims to achieve the Sustainable
+Development Goals, in particular SDG1 (no poverty), SDG2 (no hunger),
+SDG8 (good jobs and economic growth) and SDG17 (partnerships for the goals).
+4.
+5.
+Development of the agriculture sector has a central role within the PND, and the
+Government has adopted specific sectoral strategies and policies, based on a
+sustainable increase in productivity of organized agropastoral value chains, the
+organization and professionalizing of value chain stakeholders, and facilitating
+access to financial and non-financial services tailored to the needs of the small
+producers and small and medium-sized enterprises in the value chains. To that end,
+the Government introduced the Agricultural Financing Incentive Mechanism (MIFA)
+and requested technical and financial support for it from IFAD.
+Lessons learned. Togo is classified among the countries experiencing conditions of
+fragility, particularly with regard to issues of governance, accountability and
+institutional organization. The Shared-risk Agricultural Financing Incentive
+Mechanism Support Project (ProMIFA) will capitalize on lessons learned from other
+rural development projects in Togo and the subregion, in particular with regard to
+1
+EB 2018/LOT/P.25
+the implementation of projects in countries with fragile situations. Performance of
+the IFAD portfolio in Togo – and in particular its fiduciary aspects – have posed
+challenges due to the weak capacities for implementation and results-based
+management on the part of the participating parties. Greater attention to the
+fiduciary aspects will be ensured, in particular through sustained capacity-building
+and close monitoring through project oversight and the IFAD country team in Accra.
+II. Project description
+A. Objectives, project area and target group
+6.
+The overall objective of ProMIFA is to contribute to poverty reduction, sustainable
+and inclusive rural economic growth, and the creation of sustainable and decent
+employment in rural areas, through organized and well-functioning value chains in
+Togo.
+7.
+8.
+9.
+10.
+Its development objective is to facilitate sustainable access to financial and non-
+financial services tailored to stakeholders in organized, successful value chains.
+Project area. ProMIFA will be aligned with the nationwide coverage adopted by the
+Government’s incentive mechanism for agricultural financing (MIFA). Nevertheless,
+its roll out in each region will be undertaken on a differentiated basis depending on
+demand. For greater impact on the target group, namely women and youth,
+ProMIFA will first support a limited number of key agropastoral value chains
+(rice, market gardening, maize and poultry raising), which will be selected taking
+into account: (i) their contribution to improving food and nutritional security of the
+rural communities; (ii) the existence of demand for grains, vegetables and poultry
+products from urban markets; (iii) the outlook for financial and economic cost-
+effectiveness; and (iv) their potential for job creation – particularly for youth and
+women – and for income generation.
+Target group. ProMIFA will target: (i) smallholder farmers and their organizations
+(cooperatives, unions and federations); (ii) vulnerable farm households; (iii) rural
+small businesses and microenterprises and other actors upstream and downstream
+involved in the production and distribution of inputs, marketing, processing,
+handicrafts, the setting up and maintenance of farm equipment, and the provision
+of other services.
+ProMIFA seeks to reach at least 300,000 direct beneficiaries, or around 50,000 rural
+households, especially rural young people (18 to 40 years of age), employed or
+unemployed; and women who are producers or are active in the other segments of
+the targeted value chains. Targeting and gender equality strategies will ensure that
+young people of both sexes represent at least 40 per cent of the beneficiaries, and
+adult women at least 30 per cent. Thus girls and adult women will account for
+nearly half of ProMIFA beneficiaries.
+B. Components/outcomes
+11.
+ProMIFA’s activities will be organized into three components, namely:
+Component 1: Technical support for value chain development and market
+access
+a)
+b)
+Technical support to the producers and other actors in the agropastoral value
+chains: (i) overview of the selected value chains and inventory of service
+providers; (ii) building of the technical/technological capacities of producers
+and their organizations and of other value chain actors; and (iii) capacity-
+building in financial literacy and business development services.
+Support to the structuring of the value chains and market access:
+(i) partnership strengthening within the links in the value chains; (ii) support
+to interprofessional organizations; and (iii) support to the quality approach to
+market access.
+2
+EB 2018/LOT/P.25
+Component 2: Support for the development of financial products and
+services
+12.
+In order to meet the demand generated by the ongoing support under component
+1, ProMIFA will help facilitate access to financial services for rural communities by
+increasing loans to smallholder farmers – individually or in groups – and to small
+and medium-sized rural enterprises; and by improving the quality of the
+agricultural credit portfolio of ProMIFA’s partner financial institutions and the
+operational and financial sustainability of these institutions.
+13. These results will be achieved through the following measures: (i) technical
+assistance to support establishment of a financing and risk mitigation mechanism,
+and the development of new products; (ii) improvement in the quality of financial
+services through capacity-building of the financial institutions and development of
+tailored products; and (iii) effective establishment of the financing and risk
+mitigation arrangements.
+14.
+Component 3: Institutional support to MIFA; coordination and
+management of ProMIFA
+a)
+b)
+Institutional support to MIFA, with a view to its consolidation: the project will
+finance the support needed (technical assistance, training programmes, study
+tours, learning routes, monitoring and evaluation, etc.) for the
+operationalization and consolidation of MIFA and its strategic planning within
+the agricultural finance environment;
+Coordination and management of ProMIFA will be undertaken by a simplified
+project coordination and management unit (PCMU) working alongside MIFA –
+and closely linked to it and to the MIFA Board of Directors (BoD).
+Strategy for project implementation and phasing
+ProMIFA will be implemented in two phases, following a staggered implementation
+plan. Phase 1, with a duration of two years, is the preliminary phase of preparation
+for implementation and phase 2, with a four-year duration, constitutes the
+implementation and consolidation phase. The midterm review will make it possible
+to review progress made, as a condition for passing from phase 1 to phase 2, which
+will be launched subject to confirmation of the following six performance indicators:
+(i) four key need and market studies finalized; (ii) at least two financial products
+pre-identified in the studies, ready to be implemented; (iii) at least five financial
+institutions having signed a partnership agreement with MIFA looking to finance the
+actors in the selected value chains, with a multiplier effect; (iv) at least one
+cofinancier committed to joining the Government and IFAD in support of MIFA;
+(v) MIFA’s decision-making bodies in place and operational, in accordance with
+Presidential Decree No. 2018-090 dated 25 April 2018 or any subsequent
+amendments to it, the members of the BoD have been identified, the Director
+General has been named and the key personnel have been put in place and trained;
+and (vi) the financial management system is in place and MIFA’s capacity is in line
+with the parameters defined by IFAD.
+15. Confirmation of these indicators will occur at the time of the midterm review, which
+is foreseen from the end of the second year. Unless all of the above-mentioned
+performance indicators are confirmed, the project may not move forward to the
+next phase, and suspension or even early closure of the project and withdrawal of
+support to MIFA could be envisaged by IFAD.
+C. Theory of change
+16. The change envisaged by ProMIFA will make it possible to solve two major
+problems for agricultural and rural development in Togo: (i) suboptimal value
+chains with bottlenecks, poorly structured producers’ organizations and other issues
+that discourage risk-taking by the financial sector; and (ii) very poor access on the
+3
+EB 2018/LOT/P.25
+part of the rural population and micro-, small and medium-sized agricultural
+enterprises to the financing needed for the development of their economic
+activities.
+17. The project rationale lies in strengthening the resilience and productivity of family
+farms. The holistic and inclusive approach adopted – that of enabling family farms
+to perform better and increase resilience and become true market-oriented
+enterprises – will generate economic growth. Indeed, all categories of relevant
+public and private stakeholders will participate in the project. ProMIFA’s activities
+will address all links in the value chain, from production to marketing, while
+integrating measures for sustainable natural resource management and climate
+change adaptation.
+D. Alignment, ownership and partnership
+18. Alignment. ProMIFA is aligned with IFAD’s Strategic Framework 2016-2025, which
+encourages inclusive and sustainable rural transformation and with the strategic
+commitments of the Eleventh Replenishment of IFAD’s Resources (IFAD11), while
+taking into account the priority themes of nutrition, gender equality, youth and
+climate change. ProMIFA is also aligned with IFAD engagement in Togo, as
+described in the country strategy note 2018-2019, which focuses on two strategic
+objectives, to: (i) facilitate access to employment and improve incomes for rural
+youth and women through their greater inclusion in agropastoral value chains
+within the structured framework of “agro-hubs”; and (ii) improve sustainable
+access for the rural population (young people and women) to financial services
+tailored to the development of agropastoral value chains and rural small businesses
+and microenterprises.
+19. Ownership. The Government is fully committed to MIFA; the latter is in fact a
+central mechanism for implementation of its economic development strategy. There
+is high demand for financial and in-kind support among producers, their
+organizations and rural small businesses and microenterprises, which explains their
+readiness to contribute payment for such services. The financial institutions are also
+committed to MIFA, since it will contribute to mitigation of the risks associated with
+financing the value chains.
+20. Partnerships. By promoting the financial literacy of small producers and of other
+actors in the agropastoral value chains and their access to short-term seasonal
+loans, ProMIFA will encourage partnership-building between their organizations and
+private sector actors operating upstream and downstream of production. ProMIFA
+will focus on the capacity-building of the various parties involved (MIFA, the
+financial institutions, the private banks and other institutions), assisting
+beneficiaries in drafting business plans, and supporting financial institutions in
+providing financial products that meet the needs of agropastoral value chain
+stakeholders, thus enabling their access to financing over the medium term.
+21.
+ProMIFA will also collaborate with the other initiatives under way in support of the
+agricultural sector, within the framework of the National Plan for Agricultural
+Investment and Food and Nutritional Security and entrepreneurship for women and
+young people. A special partnership will be instituted with the National Programme
+for the Promotion of Rural Entrepreneurship (PNPER), cofinanced by IFAD, which
+targets young rural entrepreneurs. Other partners will also be sought, notably in
+the private sector.
+III. Project implementation
+A. Approach
+22.
+ProMIFA’s will follow a “faire-faire” and “faire-avec” approach which places the
+beneficiaries at the centre of activities and gives them responsibility, particularly for
+forming financial relationships with the financial institutions. Once the business plan
+4
+EB 2018/LOT/P.25
+is drawn up and completed, with the support of the service provider, ProMIFA will
+leave the project sponsor with responsibility for submitting and justifying the
+project with the financial institutions. Once the funds have been obtained, ProMIFA
+will provide the project sponsor with support to mobilize consultancy services for
+project management within a contractual framework with the support provider,
+based on a memorandum of understanding with ProMIFA.
+23. To ensure that stakeholders have access to quality agricultural consultancy support,
+business management services will be promoted by creating a network of skilled
+rural young people interested in investing in business consultancy activities,
+including keeping accounts and producing financial statements.
+24. A key part of the project exit strategy will be the establishment of interprofessional
+frameworks for dialogue and a mechanism to build organizational and institutional
+capacity to provide quality services to members.
+B. Organizational framework
+25.
+ProMIFA will be implemented by a PCMU, which will be set up on the premises of
+MIFA and will be linked to its BoD. This unit will have administrative and financial
+management autonomy; it will be composed of a coordinator, an administrative and
+financial manager and bookkeeper, a procurement specialist, a manager for
+targeting/women/youth issues, a monitoring and evaluation specialist, a secretary
+and two drivers.
+26. Eventually the PCMU should close, with its functions absorbed within MIFA. The
+midterm review, to be held towards the end of the second year of ProMIFA
+implementation, will make it possible to assess the situation and propose a plan for
+the transfer of functions to MIFA, based on: (i) MIFA’s charter and composition;
+(ii) its level of organizational and operational maturity; (iii) its performance in
+implementation of its workplan and the level of achievement of the expected
+outcomes; and (iv) its management capacity, in particular in relation to fiduciary
+management, and the quality of the human resources and management
+instruments (manual of administrative, financial and accounting procedures manual
+and integrated management system).
+C. Planning, monitoring/evaluation, learning and knowledge
+management
+27. Planning. The preparation of the annual workplan and budget (AWP/B) will be
+carried out with the MIFA team on the basis of a critical review of the previous year
+and of the progress made. All stakeholders, in particular those in the Presidential
+Delivery Unit (CPES), will participate in the preparation, thereby translating it into
+coherent activities that are allocated the needed resources and linked to the
+objectives of the logical framework and its performance measurement framework.
+The AWP/B will be approved by the Board of Directors of MIFA not later than
+30 November of each year, before being submitted to IFAD for its no objection
+before 31 December. The project’s progress over the course of the year will be
+assessed based on the rate of progress, outputs achieved and the disbursement
+rate of the activities set out in the AWP/B.
+28. Monitoring/evaluation. The system will draw on internal monitoring and on
+periodic internal and external evaluations, which will be carried out with the
+participation of the stakeholders. Information will be collected and analysed on:
+(i) progress towards the expected outcomes, as described in the project’s logical
+framework, and in the performance of all the actors involved in implementing the
+activities set out in the AWP/B; (ii) assessment of the relevance of implementation
+approaches and strategies and specific mechanisms for coordination and monitoring
+of the various components and activities; (iii) assessment of the participation of the
+beneficiaries at the various stages of implementation; (iv) the relevance and
+effectiveness of the targeting and the attention given to cross-cutting aspects
+5
+EB 2018/LOT/P.25
+(nutrition, gender, youth and climate change); and (v) annual surveys to assess
+impact on the beneficiaries since the midterm review. A baseline survey will be
+carried out at project inception and an impact assessment is planned at completion.
+29. The PCMU of ProMIFA will work closely with the MIFA monitoring/evaluation unit
+and the CPES in support of periodic analyses and documentation of the dashboard
+indicators, which will serve as learning and decision support tools. The teams will
+benefit from IFAD’s training programmes (AVANTI and Prime).
+30. Learning and knowledge management. Knowledge management is an essential
+function in the continuous improvement of performance and results; it aims to
+capitalize on the knowledge and lessons derived from implementation experience,
+so as to generate corrective measures in planning and implementation. It will be
+based on (i) identification, documentation, building on and dissemination of
+knowledge and (ii) networking among the practitioners, knowledge holders and
+other participating parties. The monitoring and evaluation database, activity reports
+and self-assessment sessions will all provide opportunities to pool the innovations
+and good practices and disseminate them. Knowledge exchanges relating to
+FIDAFRIQUE, recently given a new boost, will be actively promoted.
+D. Administrative and financial management
+31.
+ProMIFA’s financial management risk is deemed high prior to the establishment of
+mitigation measures. The project will focus on the competitive recruitment of
+qualified staff to set up an organizational, accounting and financial management
+framework, accompanied by a control process and tools for transparent operational
+management of the funds. In functional terms, the PMCU will have administrative
+and financial autonomy, and the fact that it will initially be separate from MIFA, will
+make it possible to hold it increasingly accountable, in line with the governance
+principles agreed.
+32. The management system described in the procedures manual will specify the
+reporting and functional relationships between the officials on the administrative
+and financial team. At project inception, an operational management tool will be
+put in place in line with: (i) the regulatory accounting rules of the revised
+SYSCOHADA accounting system; (ii) IFAD procedures with regard to project
+management; and (iii) the national procedures in relation to awarding of contracts
+and to personnel management. The manual will contain the management support
+needed for implementation.
+33. Flow of funds. A designated account will be opened to receive the loan and grant
+resources. Three operational accounts will be opened respectively for the
+expenditures of the PCMU, the agricultural development financing facility and the
+risk mitigation fund.
+34. An annual external audit of the financial statements will be carried out, in
+accordance with international auditing standards and in observance of the IFAD
+guidelines. The audited financial statements will be made public on the official IFAD
+site.
+35. Although the closing date has passed, the advances provided to the Support to
+Agricultural Development Project still need to be accounted for or reimbursed to
+IFAD. Definitive resolution of this issue will constitute a prerequisite for
+disbursement of ProMIFA funding.
+E. Procurement
+36. Procurement. Procurement will respect national procedures, and will comply with
+standards acceptable to IFAD.
+6
+EB 2018/LOT/P.25
+F. Supervision
+37.
+IFAD and the Government will undertake joint supervision of the project and will
+organize at least one mission per year, plus thematic monitoring missions as
+needed, so as to formulate recommendations for effective project implementation.
+IV. Project costs, financing, and benefits
+A. Project costs
+38. The total cost of ProMIFA over a six-year period, including provisions for price rises,
+comes to US$35.07 million. Its base cost is US$34.032 million. The provisions for
+physical and financial contingencies come to US$1.037 million.
+39.
+Project costs by component are as follows: (i) component 1: technical support for
+value chain development and market access, US$13.4 million, or 38.3 per cent;
+(ii) component 2: support for the development of financial products and services,
+US$15.2 million or 43.4 per cent; and (iii) component 3; institutional support to
+MIFA; coordination and management of ProMIFA, US$6.4 million or 18.2 per cent.
+7
+Table 1
+Project costs by funding source and component
+(Thousands of United States dollars)
+Component
+Amount
+%
+Amount
+%
+Amount
+%
+Amount
+%
+Amount
+%
+Amount
+%
+Amount
+%
+IFAD loan
+IFAD grant
+Financing gap
+Beneficiaries
+Government
+Private sector
+Total
+1. Technical support for value chain development and market access
+1.1: Technical support to the producers
+and other agropastoral value chain
+actors
+1.2: Support for the structuring of the
+agricultural value chains and market
+access
+Subtotal
+2 745
+22.1
+2 745
+22.1
+4 141
+33.4
+550
+4.4
+2 235
+18.0
+36
+3.5
+36
+3.5
+2 781
+20.7
+2 781
+20.7
+713
+4 854
+69.5
+36.1
+-
+550
+-
+4.1
+185
+2 420
+18.0
+18.0
+2. Support for the development of financial products and services
+2.1: Technical assistance in support to
+development and establishment of the
+mechanisms for financing, risk coverage
+and new products
+8
+2.2: Improvement in the quality of
+financial services
+2.3: Mechanisms for financing and risk
+mitigation
+Subtotal
+110
+28.0
+110
+28.0
+102
+25.9
+13
+1.0
+13
+1.0
+1 071
+80.1
+-
+-
+-
+-
+-
+123
+-
+0.8
+-
+123
+-
+0.8
+6 000
+7 172
+44.4
+47.1
+1 250
+1 250
+9.3
+8.2
+71
+18.0
+241
+18.0
+-
+311
+-
+2.0
+3. Institutional support to MIFA; coordination and management of ProMIFA
+-
+56
+56
+-
+-
+-
+-
+6 250
+6 250
+46.3
+41.0
+-
+12 416
+35.4
+5.5
+0.4
+1 027
+13 443
+2.9
+38.3
+392
+1 337
+13 500
+15 230
+3 373
+3 024
+6 397
+1.1
+3.8
+38.5
+43.4
+9.6
+8.6
+18.2
+3.1: Institutional support to MIFA
+3.2: Coordination and management
+Subtotal
+Total
+438
+407
+846
+13.0
+13.5
+13.2
+438
+407
+846
+13.0
+13.5
+13.2
+1.770
+1 869
+3 638
+52.5
+61.8
+56.9
+-
+-
+-
+-
+-
+-
+727
+341
+1 068
+21.5
+11.3
+16.7
+-
+-
+-
+-
+-
+-
+3 750
+10.7
+3 750
+10.7
+15 665
+44.7
+1 800
+5.1
+3 799
+10.8
+6 306
+18.0
+35 070
+100
+E
+B
+2
+0
+1
+8
+/
+L
+O
+T
+/
+P
+.
+2
+5
+EB 2018/LOT/P.25
+B. Project financing
+40.
+IFAD will provide EUR 6.6 million (US$7.5 million), or 21.5 per cent of the total
+cost, apportioned between a loan (50 per cent) and a grant (50 per cent); the
+Government (including through duties) will contribute US$3.8 million (10.8 per cent
+of the total cost); the beneficiaries, US$1.8 million (5.1 per cent of the total cost);
+and the private sector, US$6.2 million (18 per cent of the total cost). The financing
+gap, amounting to US$15.6 million or 44.7 per cent of the total cost, will be
+covered by other sources of financing, or by the next IFAD resource allocation cycle
+for Togo, over the period 2019 to 2021 (IFAD11).
+9
+Table 2
+Project costs by expenditure category and financing source
+(Thousands of United States dollars)
+IFAD loan
+IFAD grant
+Financing gap
+Beneficiaries
+Government
+Private sector
+Total
+Amount
+%
+Amount
+%
+Amount
+%
+Amount
+%
+Amount
+%
+Amount
+%
+Amount
+%
+Expenditure category
+Capital expenditure
+1. Goods, services, vehicles and
+equipment
+2. Technical assistance and
+studies
+3. Training
+4. Loans
+173
+33.2
+173
+33.2
+81
+15.6
+1 333
+1 999
+-
+18.6
+16.7
+-
+1 333
+1 999
+-
+18.6
+16.7
+-
+3 168
+5 119
+6 000
+Total capital expenditure
+3 505
+10.6
+3 505
+10.6
+14 368
+Current expenditure
+1. Salaries and allowances
+2. Operating expenses
+Total current expenditure
+152
+93
+245
+12.3
+13.5
+12.7
+152
+93
+245
+12.3
+13.5
+12.7
+935
+362
+1 297
+-
+-
+550
+1 250
+1 800
+-
+-
+-
+-
+-
+4.6
+9.3
+5.4
+-
+-
+-
+94
+18.0
+1 293
+2 268
+-
+18.0
+19.0
+-
+3 655
+11.0
+-
+144
+144
+-
+20.8
+7.5
+-
+56
+-
+6 250
+6 306
+-
+-
+-
+-
+521
+1.5
+0.8
+-
+46.3
+19.0
+-
+-
+-
+7 183
+11 934
+13 500
+33 138
+1 239
+692
+1 932
+20.5
+34.0
+38.5
+94.5
+3.5
+2.0
+5.5
+44.1
+42.9
+44.4
+43.4
+75.5
+52.3
+67.1
+1
+0
+Total
+3 750
+10.7
+3 750
+10.7
+15 665
+44.7
+1 800
+5.1
+3 799
+10.8
+6 306
+18.0
+35 070
+100
+E
+B
+2
+0
+1
+8
+/
+L
+O
+T
+/
+P
+.
+2
+5
+EB 2018/LOT/P.25
+C. Summary of the benefits and economic analysis
+41. The economic analysis. Calculation of the financial return from the different
+models shows that all of the models chosen (mixed market gardening, upland rice,
+lowland rice and free range chickens) show a very attractive financial return. The
+financial internal rate of return is positive for all of the models, with indicators of
+between 17 per cent and 139 per cent. The net present value is also very positive,
+between CFAF 119,000 and CFAF 8.7 million. The project’s internal economic rate of
+return stands at 20.3 per cent and the net present value (at the economic
+opportunity cost of capital of 6.5 per cent) comes to US$32.26 million. This result is
+very satisfactory. The sensitivity analysis indicates that the results obtained are
+robust. Even in the event of a decline in revenue of 30 per cent, a rise in costs of
+30 per cent or a two-year delay in the appearance of profits, the rate of return
+remains greater than the opportunity cost of capital (6.5 per cent), and the
+minimum net present value is greater than US$17.4 million.
+D. Sustainability
+42.
+Project sustainability will be promoted first by the decision to empower actors in the
+agropastoral value chains to be accountable for project activities. The second
+measure to guarantee sustainability is the phasing approach that will
+simultaneously make ProMIFA a tool to operationalize, consolidate and maintain
+MIFA beyond project completion.
+43. Among the effective mechanisms developed by ProMIFA are: making beneficiaries
+accountable for the activities in which they are involved through their systematic
+participation in decisions on the technical support needed to implement their action
+plans. This will be realized through a tripartite partnership agreement established
+between ProMIFA, the support provider and the beneficiary.
+44. The cost-sharing system between the project and the beneficiaries will enable the
+producers to contribute to the direct financing of their economically viable activities.
+Similarly, with respect to the agricultural development financing facility, a
+mechanism will make it possible to provide liquidity to MIFA’s partner financial
+institutions for the financing of beneficiaries’ projects. This process will involve the
+participation of the three sets of stakeholders: the farmers, ProMIFA and the
+partner financial institutions.
+45. The differentiated and calibrated support to the producers’ cooperatives and
+organizations – by means of action plans that they themselves have designed – will
+strengthen their institutional and economic capacity. The establishment of a
+commercial relationship between the cooperatives and the market operators, along
+with financial intermediation on the part of ProMIFA, will provide the producers with
+autonomy. The specific and multifaceted support envisaged for building the
+economic capacity of women and youth will contribute to the emergence of strong,
+credible and economically promising entreprises led by women and young people.
+E. Risk identification and mitigation
+46. The project’s main risks are inherent to activities in the agricultural sector and rural
+finance, and to markets, climate change and the country’s social and political
+situation, in particular: (i) weak technical and management capacity of the
+beneficiaries for ensuring the productivity and economic return of their activities;
+(ii) low participation of women, due to cultural barriers and to men’s
+monopolization of the most profitable links in the value chain; (iii) fluctuation in
+prices of staples and the distortion caused by the parallel markets; (iv) disruption
+of the markets by government policies to subsidize inputs and foodstuffs; (v) poor
+quality of records, entailing drawn-out loan provision processes; (vi) delays in
+establishing financing mechanisms, mitigating risks and conducting surveys;
+(vii) fiduciary risks; and (viii) climate events that may place a strain on production
+and repayment capacities. The project is classified as having moderate climate risk.
+11
+EB 2018/LOT/P.25
+However, it will have many positive effects and is thus classified in environmental
+category B.
+V. Corporate considerations
+A. Compliance with IFAD policies
+47.
+ProMIFA is in line with IFAD’s Strategic Framework 2016-2025, which aims to
+promote inclusive and sustainable rural transformation, and with IFAD’s rural
+finance policy. ProMIFA will implement activities aimed at achieving IFAD’s three
+strategic objectives: (i) improving the productive capacity of poor rural people in a
+sustainable and resilient manner; (ii) adding to the benefits that these communities
+draw from their inclusion/participation in the market; and (iii) strengthening
+environmental sustainability and increasing the climate resilience of their economic
+activities. It is also strongly aligned with IFAD’s planned country engagement as set
+forth in the country strategy note for 2018-2019. ProMIFA is also in line with IFAD’s
+rural finance policy, which calls for providing financial institutions with capital and
+developing financial products tailored to the rural poor, including risk management
+mechanisms, without creating distortion within the financial market.
+B. Alignment and harmonization
+48.
+ProMIFA will support the implementation of MIFA, a key instrument of the new five-
+year PND (2018-2022), which will make it possible to facilitate the funding needed
+for rural activities, so as to address the weak performance of agropastoral value
+chains and poverty.
+C.
+49.
+Innovations and scaling up
+ProMIFA represents an innovative approach for mitigating risks linked to agricultural
+financing, which is based on the scaling up of successful experiences from other
+regions within the framework of a South-South partnership with Nigeria. MIFA is a
+priority initiative of the President and plays a major role in the country’s
+development strategy. It will be the gateway for the private sector, donors and
+other partners. Since the beginning of the pilot phase of MIFA, IFAD, by supporting
+ProMIFA, has been the only partner that has committed itself alongside the
+Government and will benefit from a high level of visibility. IFAD’s direct
+participation by providing a grant to strengthen the CPES – a service mechanism of
+the Office of the President of the Republic of which MIFA is a priority project – is
+also a major innovation whose results are eagerly awaited.
+50.
+ProMIFA will build on and harness the experiences of projects with similar activities,
+such as PEA Youth in Cameroon, NIRSAL in Nigeria, the Agribusiness Initiative Trust
+in Uganda and the Private Agricultural Support Services Trust in the United Republic
+of Tanzania.
+D. Policy engagement
+51. Since MIFA is a key implementation instrument for the Government’s development
+strategy, ProMIFA – in support of MIFA – will contribute to strategic planning on the
+key topics of: agropastoral value chains, professionalization of stakeholders and
+rural finance. This contribution will be undertaken through mobilization of
+specialized technical assistance, the financing of thematic studies, learning from
+monitoring and evaluation, and building on and sharing good practices.
+VI. Legal instruments and authority
+52. The financing agreement between the Togolese Republic and IFAD constitutes the
+legal instrument whereby the proposed financing will be granted to the
+borrower/beneficiary. A copy of the negotiated financing agreement is attached as
+appendix I.
+53. The Togolese Republic is empowered under its laws to receive funding from IFAD.
+12
+EB 2018/LOT/P.25
+54.
+I am satisfied that the proposed financing will comply with the Agreement
+Establishing IFAD and the Policies and Criteria for IFAD Financing.
+VII. Recommendation
+55.
+I recommend that the Executive Board approve the proposed financing in terms of
+the following resolutions:
+RESOLVED: that the Fund shall provide a loan to the Togolese Republic on
+highly concessional terms in the amount of three million three hundred
+thousand euros (EUR 3,300,000), upon such terms and conditions as shall be
+substantially in accordance with the terms and conditions presented herein.
+FURTHER RESOLVED: that the Fund shall provide a grant to the Togolese
+Republic under the Debt Sustainability Framework in the amount of
+three million three hundred thousand euros (EUR 3,300,000), upon such
+terms and conditions as shall be substantially in accordance with the terms
+and conditions presented herein.
+Gilbert F. Houngbo
+President
+13
+Appendix I
+EB 2018/LOT/P.25
+Accord de financement négocié
+PRÊT NO. [numéro]
+DON NO. []
+ACCORD DE FINANCEMENT
+Projet d'appui au mécanisme incitatif de financement agricole fondé sur le partage de
+risques
+(ProMIFA)
+entre la
+REPUBLIQUE TOGOLAISE
+et le
+FONDS INTERNATIONAL DE DEVELOPPEMENT AGRICOLE
+Signé à [ville, pays]
+en date du [date]
+1
+Appendix I
+EB 2018/LOT/P.25
+ACCORD DE FINANCEMENT
+Numéro du prêt: [introduire le numéro]
+Numéro du don: [introduire le numéro])
+Nom du projet: Projet d'appui au mécanisme incitatif de financement agricole fondé
+sur le partage de risques (ProMIFA) (“le projet”)
+République togolaise (“l’Emprunteur/Bénéficiaire”)
+et
+Le Fonds international de développement agricole (“le Fonds’’ ou “le FIDA”)
+(désigné individuellement par “la Partie’’ et collectivement par “les Parties”)
+conviennent par les présentes de ce qui suit:
+Préambule
+ATTENDU que l’Emprunteur/Bénéficiaire a sollicité auprès du Fonds un prêt et
+un don pour le financement du Projet décrit à l’annexe 1 du présent Accord;
+ATTENDU que sur la base de ce qui précède, le Fonds a accepté d’accorder un
+prêt  et  un  don  à  l’Emprunteur/Bénéficiaire  conformément  aux  modalités  et
+conditions établies dans le présent Accord.
+Section A
+1.
+Le  présent  Accord  comprend  l’ensemble  des  documents  suivants:  le  présent
+document,  la  description  du  Projet  et  les  dispositions  relatives  à  l’exécution
+(annexe 1), le tableau d’affectation des fonds (annexe 2) et les clauses particulières
+(annexe 3).
+2.
+Les  Conditions  générales  applicables  au  financement  du  développement
+agricole en date du 29 avril 2009, telles qu’amendées en décembre 2018, et leurs
+éventuelles  modifications  postérieures  (“les  Conditions  générales”)  sont  annexées
+au  présent  document,  et 
+l’ensemble  des  dispositions  qu’elles  contiennent
+s’appliquent  au  présent  Accord.  Aux  fins  du  présent  Accord,  les  termes  dont  la
+définition figure dans les Conditions générales ont la signification qui y est indiquée.
+3.
+Le  Fonds  accorde  à  l’Emprunteur/Bénéficiaire  un  prêt  et  un  don  (“le
+financement”),  que  l’Emprunteur/Bénéficiaire  utilise  aux  fins  de  l’exécution  du
+projet, conformément aux modalités et conditions énoncées dans le présent accord.
+Section B
+1.
+Le  montant  du  prêt  est  de  trois  millions  trois  cent  mille  Euros  (3  300
+A.
+000 Euros).
+Le  montant  du  don  est  de  trois  millions  trois  cent  mille  Euros
+B.
+(3 300 000 Euros).
+2.
+Le  prêt  consenti  à  des  conditions  particulièrement  favorables  est  exempt
+d’intérêts  mais  est  assorti  d’une  commission  de  service  de  trois  quarts  de  point
+2
+Appendix I
+EB 2018/LOT/P.25
+(0,75%)  l’an  exigible  chaque  semestre  dans  la  monnaie  de  paiement  des  frais  de
+service du prêt; et est assorti d’un délai de remboursement de quarante (40) ans
+(à  moins  qu’un  délai  plus  court  ne  soit  demandé  par  l’Emprunteur/Bénéficiaire),  y
+compris  un  différé  d’amortissement  de  dix  (10)  ans,  à  compter  de  la  date
+d'approbation du prêt par le Conseil d'administration du Fonds. L’amortissement du
+principal du prêt sera au taux de 4.5% pour les premières années (11 à 30), puis
+de 1% pour les années (31 à 40).
+3.
+4.
+La monnaie de paiement au titre du service du prêt est l'Euro.
+L’exercice financier débute le 1er janvier et se termine le 31 décembre.
+Le  remboursement  du  principal  et  le  paiement  de  la  commission  de  service
+5.
+sont exigibles le 1er mars et le 1erseptembre.
+Un  compte  désigné  sera  ouvert  au  nom  du  Projet  dans  une  banque
+6.
+commerciale de Lomé afin de recevoir les ressources provenant du prêt et du don.
+7.
+L’Emprunteur/Bénéficiaire fournira des fonds de contrepartie pour un montant
+estimé  à  environ  trois  millions  trois  cent  cinquante  mille  Euros  (3 350 000 Euros).
+Cette  contrepartie  inclura  notamment  l'exonération  des  taxes  afférentes  aux
+dépenses  du  projet  ainsi  que  des  charges  locatives  et  de  fonctionnement  des
+structures de gestion du projet.
+Section C
+L’agent  principal  du  projet  est  le  Ministère  de  l'Economie  et  des  Finances
+1.
+(MEF).
+La  date  d’achèvement  du  projet  est  fixée  au 6ème anniversaire  de  la  date
+2.
+d’entrée en vigueur du présent accord.
+Section D
+Le Fonds assure l’administration du financement et la supervision du Projet.
+Section E
+1.
+Les  éléments  ci-dessous  constituent  des  conditions  préalables  au  premier
+décaissement et s'ajoutent à la condition prévue à la Section 4.02 b) des Conditions
+générales.
+i)
+ii)
+iii)
+iv)
+Le  personnel  clé  de  l'Unité  de  Coordination  et  de  Gestion  (UCG)  tel
+qu'énuméré  dans  l'annexe  1  section  II  paragraphe  A.7  du  présent
+accord a été recruté et les membres du Conseil d'administration (CA) du
+MIFA désignés;
+Un  manuel  des  procédures  administratives,  financières  et  comptables
+("le Manuel") est préparé et approuvé par le FIDA;
+Le premier programme de travail et budget annuel (PTBA) accompagné
+d'un plan de passation des marchés a été approuvé par le Fonds;
+Les  avances  accordées  au  titre  du  Projet  d'appui  au  développement
+agricole au Togo (PADAT) ont été justifiées ou remboursées.
+Les  éléments  suivants  constituent  des  motifs  supplémentaires  de  suspension
+2.
+du présent accord:
+3
+Appendix I
+EB 2018/LOT/P.25
+i)
+ii)
+Le  Manuel,  ou  l’une  de  ses  dispositions,  a  été  suspendu,  résilié  en  tout
+ou partie, a fait l’objet d’une renonciation ou de toute autre modification
+sans le consentement préalable du Fonds, et le Fonds considère que ces
+évènements ont eu ou auront, vraisemblablement, un effet préjudiciable
+grave sur le Projet;
+tout  personnel  clé  du  Projet  tel  que  décrit  dans  le  Manuel  et  dans
+l'annexe  1  section  II  paragraphe  A.7  du  présent  accord  a  été  nommé,
+transféré ou retiré de ses fonctions sans l'accord préalable du FIDA.
+Toutes  les  communications  ayant  trait  au  présent  accord  doivent  être
+3.
+adressées aux représentants dont le titre et l’adresse figurent ci-dessous:
+Pour l’Emprunteur/Bénéficiaire:
+Ministre de l'Economie et des Finances
+Ministère de l'Economie et des Finances
+B.P.387
+Lomé, République Togolaise
+Email: secretariat.ministre@economie.gouv.tg
+4
+Appendix I
+Pour le Fonds:
+Président
+Fonds international de développement agricole
+Via Paolo di Dono 44
+00142 Rome, Italie
+EB 2018/LOT/P.25
+Le  présent  accord,  en  date  du [introduire  date],  a  été  établi  en langue  (française)
+en  deux  (2)  exemplaires  originaux,  un  (1)  pour  le  Fonds  et  un  (1)  pour
+l’Emprunteur/Bénéficiaire.
+REPUBLIQUE TOGOLAISE
+____________________
+[Introduire le nom du représentant autorisé]
+[Introduire son titre]
+FONDS INTERNATIONAL
+DE DEVELOPPEMENT AGRICOLE
+___________________
+Gilbert F. Houngbo
+Président
+5
+Appendix I
+EB 2018/LOT/P.25
+Annexe 1
+Description du projet et Dispositions relatives à l’exécution
+I.
+Description du projet
+Zone du Projet. Le projet aura une couverture nationale afin de s'aligner sur la
+1.
+couverture géographique prévue pour le MIFA ("Zone du Projet").
+2.
+Population  cible. Le  projet  bénéficiera  aux  petits  exploitants  agricoles  des
+filières  retenues  (riz,  maraîchage,  maïs  et  aviculture  tout  en  restant  ouvert  à
+d’autres  filières  porteuses  dans  le  futur  dont  le  sésame,  le  manioc)  et  à  leurs
+organisations  professionnelles  (coopératives,  unions,  fédérations);  aux  ménages
+agricoles  vulnérables  désirant  accroître  et  développer  leurs  exploitations  agricoles;
+aux micro et petites entreprises rurales et autres acteurs en amont et en aval de la
+production. Dans cette population les jeunes et les femmes constitueront des cibles
+privilégiées notamment les jeunes hommes et femmes (18 à 40 ans) et les femmes
+actives dans les filières retenues. Une stratégie de ciblage sera mise en œuvre à cet
+égard. Le Projet a pour objectif d’atteindre 50 000 bénéficiaires directs (soit environ
+300 000 membres des ménages), dont les jeunes ruraux (18-40 ans) en activité ou
+sans  emploi  et  les  femmes  productrices  et  celles  impliquées  dans  les  autres
+maillons des filières ciblées.
+Finalité. Le projet a pour finalité de contribuer à la réduction de la pauvreté, à
+3.
+la  croissance  économique  rurale  durable  et  inclusive,  et  à  la  création  d’emplois
+décents durables en milieu rural.
+Objectif. L'objectif  de  développement  est  d'offrir  aux  acteurs  des  chaînes  de
+4
+valeur agricoles organisées et performantes, un accès durable aux marchés et à des
+services financiers et non financiers adaptés.
+5.
+Composantes. Le projet comprend les composantes suivantes
+5.1 Composante  I:  appui  technique  au  développement  des  chaînes  de
+valeur  agricoles. Cette  composante  a  pour  objectif  l'amélioration  de  la
+productivité  et  la  qualité  des  produits  et  services  des  petits  producteurs,  de  leurs
+organisations  et  des  autres  acteurs  des  chaînes  de  valeur  agricoles  ainsi  que  leur
+l'accès  aux  marchés,  à  travers  la  mise  en  œuvre  des  deux  sous-composantes
+suivantes:
+5.1.1 Sous-composante  1.1:  appui  technique  aux  producteurs  et  autres
+acteurs des chaînes de valeur agricoles. A travers cette sous-composante, les
+activités  suivantes  seront  mises  en  œuvre  pour  une  meilleure  connaissance
+des filières retenues:
+i)
+ii)
+les  difficultés  et  proposer 
+état  des  lieux  des  filières  agro-sylvo-pastorales  retenues  afin  de
+comprendre 
+les  appuis  requis  pour
+accompagner les acteurs des filières dans la réalisation de leurs projets.
+Des  campagnes  de  sensibilisation  pour  toucher  les  bénéficiaires  seront
+menées via les radios de masse et autres technologies d'information.
+techniques
+renforcement  des  capacités 
+technologiques  des
+producteurs,  leurs  organisations  et  les  acteurs  des  filières  agro- sylvo-
+pastorales  à  travers  notamment  des  formations  techniques  (utilisation
+formations
+des 
+thématiques),  la promotion  et diffusion  des  itinéraires  techniques  et
+innovation auprès des acteurs des filières, notamment l'élaboration d'un
+entreprise  performants, 
+fermes/exploitants 
+et 
+et 
+6
+Appendix I
+EB 2018/LOT/P.25
+iii)
+plan  d'action  nutrition,  et  enfin,  le  renforcement  des  capacités  et  la
+structuration  des  Organisations  de  Producteurs  (OP)  et  des  autres
+acteurs des chaînes de valeur par le biais de formations spécifiques.
+renforcement  des  capacités  des  acteurs  en  éducation  financière  (EF)  et
+"Business  développement  services"  (BDS)  afin  de  développer  l'esprit
+entrepreneurial des producteurs et autres acteurs des filières en priorité
+des  femmes  et  jeunes  porteurs  d'initiatives  par  le  biais  de  formation,
+d'un appui à l'élaboration des plans d'affaires ainsi qu'au développement
+des services de gestion d'entreprise pour les entreprises rurales et agro-
+sylvo-pastorales.
+5.1.2 Sous  composante  1.2:  appui  à  la  structuration  des  chaînes  de  valeur
+agricoles. A  travers  cette  sous-composante,  les  activités  suivantes  seront
+notamment mises en œuvre:
+i)
+ii)
+renforcement des partenariats entre les maillons des chaînes de valeur à
+travers  la  mise  en  place  et  animation  de  solutions  d’information  et
+et
+d’appui 
+agroalimentaires ainsi  que  l'organisation  de  foires  et  de  journées  de
+promotion  commerciales  afin  de  faciliter  la  rencontre  entre  les  acteurs
+du marché et,
+commercialisation 
+agricoles 
+produits 
+des 
+la 
+à 
+appui  à  l'organisation  interprofessionnelle  pour  appuyer  leur  mise  en
+place dans les filières ciblées et apporter un soutien à leurs activités de
+concertation.
+5.2
+Composante  2:  appui  au  développement  des  produits  et  services
+financiers. Cette  composante  vise  à  faciliter  l'accès  aux  services  financiers  des
+populations  rurales  à  faibles  revenus  à  travers  la  mise  en  œuvre  des  deux  sous-
+composantes suivantes:
+5.2.1 Sous-composante  2.1:  assistance  technique  d’appui  au  développement
+et  à  la  mise  en  place  des  dispositifs  de  financement,  de  couverture  des
+risques  et  des  nouveaux  produits. Cette  sous-composante  a  pour  objectif  de
+permettre le déploiement d'une Assistance Technique (AT) ponctuelle et ciblée
+pour supporter les activités suivantes:
+i)
+ii)
+les études techniques sectorielles et sur le développement des outils et
+des  procédures  pour  la  gestion  du  dispositif  de  financement  et  du
+mécanisme de couverture des risques telles que: une étude sur l’offre et
+la  demande  des  produits et  services  financiers  dans  le  secteur  agricole
+ou  encore  une  étude  sur  le  développement  de  nouveaux  produits
+financiers; et
+le rodage des dispositifs de gestion mis en place. A l'issue de ces études,
+l'AT aidera à définir les modalités de soutien des Institutions Financières
+(IF) du MIFA après analyse de leurs capacités tenant compte de certains
+critères tels que  le respect des règlements prudentiels, de la qualité de
+la gouvernance, la couverture géographique;
+5.2.2 Sous-composante 2.2: amélioration de la qualité des services financiers.
+Cette sous-composante a pour objectif de permettre l’adoption des meilleures
+pratiques  afin  d’augmenter  et  de  pérenniser  l’accès  des  exploitants  agricoles
+au financement adapté à leurs activités à travers:
+i)
+le  développement  de  nouveaux  produits  fondés  sur  le  résultat  des
+études menées pour la mise en place de produits innovants;
+7
+Appendix I
+EB 2018/LOT/P.25
+ii)
+le  renforcement  des  capacités  des  IF  partenaires  afin  de  leur  permettre
+d’acquérir  les  compétences  spécifiques  nécessaires  à  la  maîtrise  des
+pratiques  de  crédit  agricole  mais  aussi  de  permettre  le  développement
+d'outils  de  gestion  du  crédit  agricole  y  compris  des  mesures  de
+sauvegarde environnementales, sociales et climatiques.
+5.2.3 Sous-composante  2.3:  dispositif  de  financement  et  d'atténuation  des
+risques. Cette  sous-composante  a  pour  objectif  i)  la  mise  en  œuvre  d'une
+facilité  de  financement  pour  le  développement  agricole  (FFDA)  afin  de
+contribuer au financement des projets en partenariat avec des IF partenaires
+selon  les  besoins  exprimés  par  les  bénéficiaires.  Ce  mécanisme  de
+financement  impliquera  en  outre  une  participation  des  bénéficiaires  au
+financement, ii) la mise en œuvre de mesures d'atténuation des risques pour
+les IF partenaires à déterminer en fonction des études qui seront menées sur
+le  terrain  et  de  vérifier  quels  sont  les  mécanismes  déjà  en  place  tel  que
+l'Agence  Nationale  de  Promotion  de  Garantie  de  Financement  des  PME/PMI
+(ANPGF).
+5.3 Composante  3:  appui  institutionnel  au  MIFA,  coordination  et  gestion
+du  projet. Cette  composante  a  pour  objectif  d'appuyer  le  déploiement  du  MIFA  à
+travers i)  un  appui  institutionnel  pour  le  renforcement  des  capacités  par  des
+formations modulaires du MIFA ; ii) un appui institutionnel par la mise à disposition
+d'une  assistance  technique  pour  le renforcement  du  MIFA  dans  la  mise  en  œuvre
+des différentes composantes et iii) la coordination et gestion du projet par la mise
+en place d'une UCG allégée au sein du MIFA.
+II. Dispositions relatives à l’exécution
+A-
+Arrangements institutionnels
+6. Agent responsable du Projet. Le projet sera placé sous la tutelle du Ministère de
+l'Economie et des Finances.
+7.
+Unité de Coordination et de Gestion (UCG). L'UCG basée au MIFA et rattachée
+à  son  Conseil  d’Administration  (CA),  assurera  la  gestion  courante  du  projet.  Elle
+bénéficiera  d'une  autonomie  de  gestion  administrative  et  financière  dans  l'attente
+du  transfert  de  ses  fonctions  au  MIFA  dès  qu'il  sera  jugé  opérationnel.  L'UCG  sera
+composée  notamment  du  personnel  clé  suivant:  i)  d'un  coordonnateur,  ii)  d'un
+responsable  administratif  et  financier  et  d'un  comptable,  iii)  d'un  spécialiste  en
+passation des marchés, iv) d’un spécialiste suivi-évaluation, v) d'un responsable du
+ciblage/genre/jeunes. L’UCG  participera  en  outre  à  des  travaux  du  CA  pour
+présenter l’état d’avancement de ses activités.
+8.
+Conseil d'administration  du  MIFA  (CA).  Le  CA,  qui  exercera  la  maîtrise
+d'ouvrage  déléguée  du  MIFA,  selon  le  Décret  Présidentiel  n  2018-090  en  date  du
+25 avril 2018  portant  création  du  MIFA  (ou  de  ses  éventuelles  modifications
+ultérieures),  sera  composé  notamment  de  représentants  des  secteurs  public  et
+privé, des producteurs et des partenaires techniques et financiers.
+B
+Mise en œuvre des composantes
+9.
+Approche.  La  mise  en  œuvre  du  projet  reposera  principalement  sur  une
+approche  «faire-faire»  et  "faire  avec"  en  privilégiant  autant  que  faire  se  peut  des
+prestataires  de  services  existants  et  sur  des  opérateurs  privés  nationaux  ou  des
+organismes  nationaux,  régionaux  voire  internationaux  spécialisés,  ayant  fait  leurs
+preuves  ou  recrutés  sur  une  base  compétitive,  ayant  déjà  établis  des  relations  ou
+8
+Appendix I
+EB 2018/LOT/P.25
+des  modèles  d’accompagnement  dans  le  domaine  de  la  finance  rurale  et  de
+l’organisation des chaînes de valeur agricoles.
+10. Assistance Technique (AT). Une AT sera requise pour appuyer le projet dans le
+développement et la mise en place des dispositifs de financement et de couverture
+des risques. Cette AT qui aura un haut niveau d'expertise aidera notamment i) à la
+définition des critères de sélection des IF partenaires et des conditions d'octroi des
+crédits  et  ii)  assurera  la  gestion  de  ces  dispositifs  avec  ces  institutions  financières
+participantes.
+11.
+Partenariats.  Le  projet  favorisera  le  développement  de  partenariats  entre  les
+organisations  de  petits  producteurs  et  les  acteurs  du  secteur  privé  et  appuiera
+notamment  les  partenariats  visant  le  renforcement  des  capacités  des  différents
+acteurs,  l'accompagnement  des  bénéficiaires  à  l’élaboration  de  plans  d’affaires  et
+l'appui des institutions de financement permettant ainsi l’accès à des financements
+à  moyen  terme  aux  acteurs  des  chaînes  de  valeur.  Différents  partenariats  seront
+mis en œuvre afin de supporter les activités des composantes dont entre autres:
+i)
+ii)
+iii)
+iv)
+v)
+vi)
+Recours  à  des  partenaires  techniques  et  financiers  (PTF)  sélectionnés
+pour  favoriser la  mobilisation  des  ressources  financières  additionnelles
+et de l’expertise spécialisée pour l’AT,
+Recours  au  partenariat  FAO/Ministère  chargé  de  l'agriculture  pour
+l'analyse  des  filières  et  le  transfert  des  compétences  grâce  à  la
+constitution  d'un  pool  d'experts  nationaux  avec  la  possibilité  de
+mobilisation des universités et structures spécialisées de recherche,
+Recours  à  des  prestataires  de  services  non-financiers  (ONG,  structures
+d'appui,  cabinets  d’expertise,  organisations  paysannes)  qui  mettront  à
+disposition  du  projet  des  conseillers  et  animateurs  ayant  pour
+responsabilité  de  déployer  le  programme  de  formation  auprès  de
+populations cibles du projet,
+Recours en tant que de besoins aux dispositifs d’appui à l’entreprenariat
+et  au  financement  rural  tels  que  le  Fonds  National  de  la  Finance
+Inclusive (FNFI), le Projet national de promotion de l’entreprenariat rural
+(PNPER) co-financé  par  le  FIDA;  le  Projet  d’appui  à  l’employabilité  et  à
+l’insertion  des  jeunes  dans  les  secteurs  porteurs  (PAEIJ  SP),  le  Fonds
+d’appui  aux  initiatives  économiques  des  jeunes  (FAIEJ),  l'ANPGF  pour
+capitaliser leurs réalisations,
+Partenariat avec la Chambre de Commerce pour envisager les synergies
+avec le centre de gestion agrée des  entreprises (CGA),  et le Bureau de
+restructuration  et  de  mise  à  niveau  pour  l’accompagnement  des
+entreprises (BRMN),
+Partenariat avec la Direction de la formation, diffusion des techniques et
+de  l’organisation  paysanne  (DFDTOPA)  pour  les  facilitations  d’obtention
+d’agrément aux OP.
+C
+Supervision
+12.
+La  supervision  du  Projet  sera  assurée  par  le  FIDA  conjointement  avec
+l'Emprunteur/Bénéficiaire  et  en  étroite collaboration avec le  MIFA, les  bénéficiaires
+et  les  partenaires  institutionnels  sous  la  coordination  du  MEF  et  de  la  Cellule
+Présidentielle  d'Exécution  et  de  suivi  des  projets  prioritaires  (CPES).  Le  FIDA  et
+l'Emprunteur/Bénéficiaire  conduiront  deux  missions  conjointes  de  supervision  par
+an  durant  toute  la  durée  du  projet.  Des  missions  d'appui  seront  par  ailleurs
+9
+Appendix I
+EB 2018/LOT/P.25
+conduites par le FIDA selon les besoins. Ces missions de supervision porteront une
+attention  particulière  à  la  performance  du  projet  et  aux  progrès  réalisés  vers
+l’atteinte des résultats et des impacts, aux éléments déterminants de la réussite du
+Projet et aux contraintes rencontrées.
+D
+Revue à mi-parcours
+13. Une  revue  à  mi-parcours  sera  effectuée  conjointement  par  le  FIDA  et  le
+Gouvernement durant la deuxième année afin d’apprécier la pertinence du projet et
+de  son  approche  de  mise  en  œuvre,  la  réalisation  des  objectifs  et  les  difficultés
+rencontrées.  Cette  revue  émettra  également  des  recommandations  quant  aux
+mesures  et  dispositions  qui  s'imposeront  jusqu'à  la  fin  du  projet  et  le  cas  échéant
+réorienter  la  mise  en  œuvre,  afin  d’améliorer  l’exécution  et  la  performance  du
+Projet. Cette revue à mi-parcours, durant la 2ème année de mise en œuvre du projet
+permettra notamment d'évaluer la situation et de proposer un plan de transfert des
+fonctions  de  l'UCG  au  MIFA,  sous  réserve  que  les  indicateurs  suivants  soient
+vérifiés:
+i)
+ii)
+iii)
+iv)
+v)
+vi)
+les 4 études clés de besoins et marchés sont finalisées,
+au moins 2 produits financiers pré-identifiés dans les études sont prêts à
+être mis en place,
+au moins 5 IF ont signé une convention de partenariat avec le MIFA afin
+de  financer,  avec  un  effet  multiplicateur,  les  acteurs  des  filières
+sélectionnées;
+au moins un co-financier s'est engagé à se joindre au Gouvernement et
+au FIDA en appui au MIFA,
+les  organes  du  MIFA  sont  en  place  et  opérationnels  conformément  au
+décret  présidentiel  N°  2018-090  en  date  du  25  avril  2018 ou  à  ses
+éventuelles modifications ultérieures: les membres du CA sont désignés,
+le  Directeur  Général  est  nommé  et  le  personnel  clé  est  mis  en  place  et
+formé,
+le  système  de  gestion  financière  mis  en  place  et  les  capacités  du  MIFA
+sont  conformes  aux  paramètres  définis  par  le  FIDA  notamment:  a)
+qualification  et  formation  du  personnel  financier,  b)  utilisation  et
+maîtrise  du  logiciel  comptable,  c)  soumission  de  rapports  financiers  de
+qualité dans le respect des délais, d) respect des dispositions du Manuel
+des  procédures  du  MIFA,  e)  cadre  de  contrôle  interne  satisfaisant,  f)
+régularité  dans  la  soumission  des  audits  annuels  du  MIFA  en  l'absence
+de réserves significatives.
+E
+Manuel des procédures administratives financières et comptables ("Manuel")
+14.
+Préparation.  Un  Manuel  acceptable  pour  le  FIDA  sera  préparer  et  inclura
+notamment i) la coordination institutionnelle quotidienne du projet, ii) le budget, les
+procédures  de  décaissement,  de  passation  des  marchés,  de  surveillance  et
+d'évaluation,  de  gestion  financière  et  de  reporting,  iii) les  procédures  de
+recrutement  du  personnel  clé  du  projet  ou  de  toute  assistance  technique,  iv) une
+description détaillée des modalités de mise en œuvre du Projet, et v) toutes autres
+procédures  ou modalités administratives, financières ou techniques requises par le
+Projet.
+10
+Appendix I
+EB 2018/LOT/P.25
+15.  Approbation  et  Adoption.  Ce  projet  de  Manuel  sera  adressé  au  FIDA  pour
+commentaire  et  approbation  et  sera  mis  en  œuvre  par  l'Agent  principal  tel
+qu'approuvé par le FIDA. Une copie sera communiquée au FIDA dans les meilleurs
+délais.  L'Agent  principal  devra  exécuter  le  Projet  conformément  au  Manuel  et  ne
+pourra le modifier, l'abroger, y déroger sans l'accord écrit préalable du FIDA.
+11
+Appendix I
+EB 2018/LOT/P.25
+Annexe 2
+Tableau d’affectation des fonds
+Affectation du produit du prêt et du don. a)
+1.
+Le tableau  ci-dessous indique les
+catégories de dépenses admissibles à un financement sur le produit du prêt et du don
+ainsi que le montant du prêt et du don affecté à chaque catégorie et la répartition en
+pourcentage  des  dépenses  à  financer  pour  chacun  des  postes  des  différentes
+catégories:
+Catégorie
+Montant alloué au
+titre du prêt
+(exprimé en
+Euros)
+Montant alloué au
+titre du don
+(exprimé en
+Euros)
+Pourcentage
+(HT et hors contribution
+autres co-financiers)
+Biens et services
+140 000
+140 000
+Assistance technique
+1 060 000
+1 060 000
+Formation
+Crédit et garanties
+Salaires et indemnités
+Coûts de
+fonctionnement
+Non alloué
+TOTAL
+1 580 000
+1 580 000
+0
+120 000
+70 000
+0
+120 000
+70 000
+330 000
+330 000
+3 300 000
+3 300 000
+100%
+100%
+100%
+100%
+100%
+b)
+Les termes utilisés dans le tableau ci-dessus se définissent comme suit:
+"Biens et services": inclut le coût des véhicules et équipement.
+"Assistance technique'': inclut le coût des études.
+Avance de démarrage:  Les  retraits  effectués  afin  de  couvrir  les  coûts  de
+c)
+démarrage  afférents  aux  activités  de:  i)  sélection  du  personnel  clé  de  l'UCG,  ii)
+préparation  de  l'arrêté  portant  création  de  l'UCG  rattaché  au  CA  du  MIFA  et  sous
+tutelle du MEF, iii) finalisation du Manuel et la fourniture du logiciel comptable et de
+suivi-évaluation,  iv)  mise  à  disposition  des  locaux  pour  le  Projet  dans  le  bâtiment
+du  MIFA,  v)  préparation  des  termes  de  référence/cahiers  des  charges  et  des
+dossiers  d'appels  d'offres  prioritaires  et  vi)  préparation  de  l'atelier  de  démarrage,
+encourus  avant  la  satisfaction  des  conditions  générales  préalables  au  premier
+décaissement,  ne  doivent  pas  dépasser  un  montant  total  équivalant  à  200 000
+Euros.
+12
+Appendix I
+EB 2018/LOT/P.25
+Annexe 3
+Clauses particulières
+Conformément  aux  dispositions  de  la section  12.01  a)  xxiii)  des  Conditions
+générales,  le  Fonds  peut  suspendre,  en  totalité  ou  en  partie,  le  droit  de
+l’Emprunteur/Bénéficiaire de solliciter des retraits du compte de prêt et du compte
+du  don  si  l’Emprunteur/Bénéficiaire  n’a  pas  respecté  l'une quelconque  des  clauses
+énoncées  ci-dessous,  et  si  le  FIDA  a  établi  que  ladite  défaillance  a  eu,  ou  risque
+d'avoir, un effet préjudiciable important sur le projet:
+Plan  de  transfert.  Au  cours  de  la  revue  à  mi-parcours  prévue  au  cours  de  la
+1.
+2ème année, conformément aux termes de la section D susvisée du présent accord,
+une  évaluation  des  indicateurs  de  performance,  tels  que  définis  dans  cette  même
+section,  sera  réalisée.  Dans  l'hypothèse  où  ces  indicateurs  ne  seraient  pas  vérifiés
+le transfert de la gestion du projet au MIFA sera réévalué.
+2.
+Sélection du personnel  du Projet. La sélection du personnel du Projet  se fera
+de  manière  compétitive  par  voie  d’appel  à  candidatures  selon  une  procédure
+préalablement approuvée par le Fonds. A compétences égales les candidatures des
+jeunes  et  des  femmes  seront  privilégiées.  Le  recrutement  du  personnel  clé,  le
+renouvellement  de  leur  contrat  et  le  cas  échéant,  la  décision  de  rompre  leur
+contrat, seront soumis à l’approbation préalable du Fonds. Des contrats d’une durée
+d’un  an  renouvelable  seront  offerts  au  personnel  clé  sélectionné  et  tout
+renouvellement sera fondé sur la performance. Il pourra être mis fin à leur contrat
+en  fonction  des  résultats  de  ces  évaluations.  Tout  fonctionnaire  sélectionné  devra
+obtenir  une  mise  à  disposition  de  son  employeur  avant  qu’un  contrat  ne  lui  soit
+proposé.  Le  recrutement  et  la  gestion  du  personnel  d’appui  seront  soumis  aux
+procédures décrites dans les Manuels du Projet.
+3.
+Logiciels  comptable  et  suivi-évaluation. Des  logiciels  comptable  et  de  suivi-
+évaluation paramétrés aux besoins du projet seront installés dans les trois mois de
+l'entrée  en  vigueur  de  l'accord  de  financement  et  le  personnel  formé  à  leur
+utilisation.
+13
+Synthèse/Résultats
+Portée
+Objectif général
+Contribuer à la réduction de
+la pauvreté, à la croissance
+économique durable et
+inclusive et à la création
+d'emplois décents en milieu
+rural
+Objectif de
+développement du projet:
+Faciliter aux acteurs des
+chaines de valeurs
+agropastorales organisées
+et performantes un accès
+durable à des services
+financiers et non financiers
+adaptés
+Effet 1: La productivité et
+la qualité des produits et
+services des petits
+producteurs organisés et
+des autres acteurs des
+chaines de valeur
+agropastorale sont
+améliorées et leur accès
+aux marchés est accrue
+Produit 1.1: Accès aux
+technologies agricoles et
+aux services de production
+durables
+1
+4
+Indicateurs clés de vérification1&2
+Moyens de vérification
+Hypothèses
+Noms
+Références
+RMP
+Fin
+Sources
+Fréquence
+Responsabilité
+Nombre de personnes recevant des services
+promus ou soutenus par le projet (CI.1.)
+Nombre correspondant de ménages touchés
+(CI. 1a)
+Nombre de personnes bénéficiaires d’une
+mobilité économique3
+Nombre d'emplois nouveaux créés (CI 2.2.1)
+0
+0
+0
+0
+120 000
+300 000
+SSE du projet
+Bi-annuelle
+UCG & MIFA
+20 000
+50 000
+SSE du projet
+Bi-annuelle
+UCG & MIFA
+120 000
+215 000
+6 000
+15 350
+Evaluation
+d'Impact
+SSE du projet
+et MIFA
+Statistiques
+nationales
+Année 6
+Annuelle
+UCG&MIFA
+&CPES
+UCG&MIFA
+&CPES
+Part du financement allant au secteur agricole
+0,2%
+0,5 %
+2,5%
+Statistiques
+nationales
+Annuelles
+UCG&MIFA
+&CPES
+Pourcentage des personnes appuyées
+déclarant l'adoption de technologies, de
+pratiques ou d'intrants nouveaux/améliorés(CI
+1.2.3)
+Part des organisations de producteurs ruraux
+ayant conclu des partenariats/accords formels
+ou des contrats avec des organismes publics ou
+privés (CI 2.2.3)
+Hectares de terres agricoles bénéficiant de
+nouveaux technologies comme systèmes
+complémentaires de micro-irrigation (pour la
+production maraîchères), serres, SRI, couvoirs,
+séchoirs etc. (CI 1.1.2)
+0
+0
+0
+25 000
+40 000
+Enquête d'effet
+700
+1 500
+Enquête d'effet
+Annuelle à
+partir de la
+3eme année
+Annuelle à
+partir de la
+3eme année
+UCG & MIFA
+UCG & MIFA
+3 000
+ha
+10 000ha
+SSE du projet
+Semestrielle
+USCP & MIFA
+Environnement
+socioéconomique
+stable, climat de
+confiance et
+engagement des
+acteurs
+Stabilité;
+politiques et
+stratégies du
+gouvernement
+effectivement
+mises en œuvre
+ Environnement
+des affaires
+favorables au
+partenariat OP-
+Privé
+ Demande
+croissante en
+produits
+agricoles;
+1
+Tous les indicateurs de base (CI) sont désagrégés par sexe et âge (hommes, femmes; jeunes entre 18 et 40 ans et non jeunes), et par filière
+2 Indicateurs de base du Système de Mesure des Résultats Opérationnels (CI)
+3 Projection, fondée sur les évaluations de l’impact du FIDA, du nombre de ruraux dont la situation économique a évolué́ (10% ou plus), notamment du point de vue des revenus, de la consommation, de la richesse, de la diversité́
+alimentaire ou de la nutrition (Porter le Système de gestion des résultats et de l'impact à l'étape suivante, FIDA, Avril 2017)
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+8
+/
+L
+O
+T
+/
+P
+.
+2
+5
+Synthèse/Résultats
+Indicateurs clés de vérification1&2
+Moyens de vérification
+Hypothèses
+Noms
+Références
+RMP
+Fin
+Sources
+Fréquence
+Responsabilité
+Nombre de producteurs ruraux ayant accès à
+des facteurs de production et/ou à des paquets
+technologiques (CI 1.1.3)
+Nombre de personnes formées aux pratiques
+et/ou technologies de production (CI 1.1.4) et
+l'agriculture climato résiliente
+Nombre d'entreprises rurales ayant accès à des
+services de développement des entreprises (CI
+2.1.1)
+Nombre de personnes formées à des activités
+génératrices de revenus ou de gestion
+d'entreprise/relation d'affaire (CI 2.1.2)
+Nombre d'installations de marché, de
+transformation ou de stockage construites ou
+remises en état (CI 2.1.6)
+0
+0
+0
+0
+0
+15 000
+45 000
+SSE du projet
+Semestrielle
+USCP & MIFA
+20 000
+50 000
+SSE du projet
+Trimestrielle
+USCP & MIFA
+50
+120
+SSE du projet
+Trimestrielle
+UCG & MIFA
+4 000
+10 000
+SSE du projet
+Trimestrielle
+UCG & MIFA
+15
+40
+SSE du projet
+Semestrielle
+UCG & MIFA
+Pourcentage de personnes/ménages
+faisant état de l'utilisation de services
+financiers ruraux (CI 1.2.5)
+20%
+25%
+35%
+SSE, IFR
+Annuel
+après RMP
+UCG, MIFA, IF
+Nombre de personnes vivant dans les
+zones rurales et ayant reçu une formation
+d'initiation aux questions financières et/ou
+à l'utilisation des produits et services
+financiers (CI 1.1.7)
+Pourcentage de prestataires de services
+financiers partenaires ayant une
+autonomie opérationnelle supérieure à
+100%
+0
+0
+15 000
+50 000
+SSE du projet
+Trimestrielle
+UCG & MIFA
+30%
+75%
+IFR, MIFA
+Annuelle
+UCG, MIFA, IF
+Produit 1.2
+Développement et
+diversification des
+entreprises rurales
+1
+5
+Effet 2: L’accès des petits
+producteurs, de leurs
+organisations et des
+autres acteurs des
+chaines de valeur
+agropastorales à des
+services financiers
+adaptés est amélioré
+Produit 2.1: Services
+financiers ruraux inclusifs et
+durables
+Produit 2.2 Mise en place
+de dispositifs de
+financements, de
+Pourcentage du portefeuille de crédit agricole
+accordé au bénéficiaires par les institutions
+financières
+0,2%
+3%
+10%
+SSE du projet,
+IFR
+Annuelle
+UCG, MIFA, IF
+solvabilité des
+petits
+producteurs
+ Disponibilité de
+prestataires
+techniques
+pour l’appui du
+développement
+de partenariats
+productifs
+ Volonté des
+acteurs de
+collaborer de
+façon
+transparente et
+sur le
+moyen/long
+terme
+ Solvabilité des
+petits
+producteurs
+ Réseau IFR
+élargi et taux
+de
+pénétration
+accru
+ Capacités des
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+8
+/
+L
+O
+T
+/
+P
+.
+2
+5
+Synthèse/Résultats
+couverture de risques et de
+nouveaux produits
+Indicateurs clés de vérification1&2
+Moyens de vérification
+Hypothèses
+Noms
+Références
+RMP
+Fin
+Sources
+Fréquence
+Responsabilité
+Nombre de prestataires de services financiers
+soutenus dans la mise en place de stratégies
+d'approche, de services et de produits financiers
+en zone rurale (CI 1.1.6)
+Effet 3: le MIFA est
+consolidé et performant
+et il contribue à la mise
+en œuvre de la stratégie
+de développement
+agricole togolaise
+Produit 3.1 Le MIFA
+contribue à la gestion des
+connaissances et à la
+concertation entre acteurs
+Nombre de lois, réglementations, politiques ou
+stratégies existantes/nouvelles présentées aux
+décideurs politiques pour approbation,
+ratification ou modification
+Nombre de produits de savoirs pertinents
+élaborés et largement partagés
+Nombre de plateformes multipartites/
+interprofession soutenues
+1
+6
+0
+0
+0
+0
+4
+1
+3
+1
+7
+SSE du projet
+Annuel
+UCG, MIFA, IF
+Semestrielle
+SSE du projet et
+MIFA
+UCG&MIFA
+&CPES
+SSE du projet et
+MIFA
+Semestrielle
+UCG & MIFA
+SSE du projet et
+MIFA
+Semestrielle
+UCG & MIFA
+3
+6
+4
+bénéficiaires à
+présenter des
+plans d'affaires
+bancables
+ Environnement
+favorable à
+l'accès à
+l'information et
+à la
+transparence
+ Engagement
+continu de
+l’Etat
+ Volonté des
+acteurs de
+collaborer de
+façon
+transparente et
+sur le
+moyen/long
+terme
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+8
+/
+L
+O
+T
+/
+P
+.
+2
+5

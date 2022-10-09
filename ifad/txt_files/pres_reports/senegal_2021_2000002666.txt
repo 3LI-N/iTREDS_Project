@@ -1,0 +1,2724 @@
+Document: 
+Agenda: 
+Date: 
+Distribution: 
+Original: 
+EB 2021/134/R.47/Rev.1 
+19(b)(iv)(c) 
+30 December 2021 
+Public 
+English 
+E 
+President’s report 
+Republic of Senegal 
+Agriculture and Livestock Competitiveness 
+Programme for Results 
+Project ID: 2000002666 
+Note to Executive Board representatives 
+Focal points: 
+Dispatch of documentation: 
+Deirdre Mc Grenra 
+Chief 
+Institutional  Governance  and 
+Member Relations 
+Tel.: +39 06 5459 2374 
+e-mail: gb@ifad.org 
+Technical questions: 
+Sana F.K. Jatta 
+Regional Director ad interim 
+West and Central Africa Division  
+Tel.: +39 06 5459 2333 
+e-mail: s.jatta@ifad.org 
+Benoit Thierry 
+Head of Hub/Country Director 
+Tel.: +221 77 450 9458 
+e-mail: b.thierry@ifad.org 
+Executive Board — 134th Session 
+Rome, 13-16 December 2021 
+For: Approval 
+EB 2021/134/R.47/Rev.1 
+ii 
+iii 
+iv 
+1 
+1 
+2 
+3 
+3 
+3 
+3 
+4 
+5 
+6 
+6 
+7 
+7 
+7 
+8 
+8 
+8 
+8 
+9 
+9 
+10 
+10 
+Contents 
+Abbreviations and acronyms 
+Map of the programme area 
+Financing summary 
+I. 
+Context 
+A.  National context and rationale for IFAD involvement 
+B.  Lessons learned 
+II.  Programme description 
+A.  Government programme 
+B.  World Bank PforR scope 
+C.  Objectives, geographical area of intervention and target groups 
+D. Result areas and disbursement-linked indicators 
+E.  Theory of change 
+F.  Alignment, ownership and partnerships 
+G. Costs, benefits and financing 
+III.  Risks 
+A.  Risks and mitigation measures 
+B.  Environment and social category 
+C.  Climate risk classification 
+D. Debt sustainability 
+IV.  Implementation 
+A.  Organizational framework 
+B.  Planning, monitoring and evaluation, learning, knowledge 
+management and communications 
+C.  Implementation plans 
+Legal instruments and authority 
+V. 
+VI.  Recommendation 
+Appendices 
+I.  Negotiated financing agreement 
+II.  Logical framework 
+III.  Integrated programme risk matrix 
+IV.  Disbursement-linked indicators 
+Programme delivery team 
+Regional Director: 
+Country Director: 
+Technical Lead: 
+Finance Officer: 
+Climate and Environment Specialist: 
+Legal Officer: 
+Nadine Gbossa/Sana F.K. Jatta 
+Benoit Thierry 
+Jean Philippe Audinet 
+Radu Damianov 
+Pathe Amath Sene 
+Aspasia Tsekeri 
+i 
+EB 2021/134/R.47/Rev.1 
+Abbreviations and acronyms 
+COSOP 
+country strategic opportunities programme 
+CPM 
+CSA 
+DLI 
+ESSA 
+IDA 
+IPL 
+KM 
+M&E 
+MAER 
+MEPA 
+PADAER 
+PAFA 
+PAFA-E 
+country programme manager 
+climate-smart agriculture 
+disbursement-linked indicator 
+Environment and Social Systems Assessment 
+International Development Association 
+investment project lending 
+knowledge management 
+monitoring and evaluation 
+Ministry of Agriculture and Rural Equipment 
+Ministry of Livestock and Animal Production 
+Support to Agricultural Development and Rural Entrepreneurship 
+Programme 
+Agricultural Value Chains Support Project 
+Agricultural Value Chains Support Project – Extension 
+PCAE-PforR 
+Agriculture and Livestock Competitiveness Programme for Results 
+PDO 
+PforR 
+PNDE 
+PPA 
+programme development objective 
+programme for results 
+National Livestock Development Plan 
+programme preparation advance 
+PRACAS 
+Programme for Accelerated Pace of Agriculture 
+PSE 
+RBL 
+SDG 
+TCT 
+WBG 
+Emerging Senegal Plan 
+results-based lending 
+Sustainable Development Goal 
+technical coordination team 
+World Bank Group 
+ii 
+Map of the programme area 
+EB 2021/134/R.47/Rev.1 
+Agriculture and Livestock Competitiveness Programme for 
+Results (PCAE-PforR) 
+Agropastoral areas 
+Extended groundnut basin 
+iii 
+EB 2021/134/R.47/Rev.1 
+Financing summary 
+Initiating institution: 
+World Bank 
+Borrower/recipient: 
+Ministry of Finance and Budget 
+Executing agency: 
+Ministry of Agriculture and Rural Equipment 
+Ministry of Livestock and Animal Production 
+Total programme cost: 
+US$233 million 
+Amount of IFAD loans: 
+EUR 17.32 million (equivalent to approximately 
+US$20 million) under the programme for results 
+modality 
+EUR 2.50 million (equivalent to approximately 
+US$3 million) as additional financing for the ongoing 
+Support to Agricultural Development and Rural 
+Entrepreneurship Programme – Phase II 
+Terms of IFAD loan:  
+Highly concessional loans 
+Cofinancier[s]:  
+International Development Association 
+Amount of cofinancing: 
+International Development Association: US$150 million 
+Contribution of borrower/recipient: 
+US$60 million 
+Cooperating institution: 
+World Bank 
+iv 
+EB 2021/134/R.47/Rev.1 
+Recommendation for approval 
+The Executive Board is invited to approve the recommendation contained in 
+paragraph 58. 
+I.  Context 
+A.  National context and rationale for IFAD involvement 
+1. 
+2. 
+3. 
+4. 
+5. 
+National context 
+Senegal’s structural reforms and favourable exogenous conditions have enabled 
+the country to achieve one of the world’s highest rates of economic growth in 
+2015–2019 – more than 6 per cent. Due to the COVID-19 pandemic, this rate fell 
+sharply to 0.7 per cent in 2020 and to 3.0 per cent in 2021, but is expected to gain 
+momentum from 2022 onwards. Offshore oil and gas discoveries will come into 
+production in 2022–2023, easing the country’s fiscal and development challenges, 
+and laying the foundation for broad-based economic growth. The share of people 
+living in poverty (on less than US$1.90 per day) fell from 47 per cent in 2011 to 
+38 per cent in 2018, with agriculture as the main driver. 
+The Government of Senegal aims to achieve middle-income status by 2035. The 
+Emerging Senegal Plan (PSE) 2035 details how this vision is to be achieved 
+through strategies such as: (i) the Programme for Accelerated Pace of Agriculture, 
+phase II (PRACAS-II); and (ii) and the National Livestock Development Plan 
+(PNDE). The proposed modality of programme for results (PforR), to be financed by 
+the World Bank and IFAD, supports the PSE through its focus on promoting 
+competitive agriculture and livestock value chains for resilient and inclusive growth. 
+Agriculture has grown at the robust rate of 3.2 per cent in the past two decades. 
+Under PRACAS-I and PNDE,1 crop and livestock production have grown strongly in 
+recent years. The development of sedentary, mixed crop/livestock farming systems 
+has diversified revenues and provided a critical asset and safety net for farmers. 
+This progress occurred through a combination of financial and pricing incentives 
+(subsidized inputs – seeds, fertilizer and farm equipment – as well as crop  
+price-setting) and production enhancement measures (technology transfer). 
+Expanded agricultural credit also contributed, as did subsidies to agricultural 
+insurance. Rural people, who account for 62 per cent of Senegal’s population, have 
+benefited significantly from this progress given that agriculture employs 69 per 
+cent of rural dwellers and 36 per cent of the national labour force.2 However, rural 
+poverty remains high in the groundnut basin and agropastoral areas. 
+Rationale for IFAD involvement and choice of instrument 
+Given IFAD’s comparative advantage in diversifying smallholder farming and 
+introducing climate-smart agriculture (CSA) in Senegal’s groundnut basin and 
+agropastoral areas, the Government asked IFAD on 12 February 2019 to cofinance 
+its flagship Agriculture and Livestock Competitiveness Programme for Results 
+(PCAE-PforR), which is also being funded by the World Bank. For the Senegalese 
+agriculture and livestock sectors, it marks the first results-based lending (RBL) 
+operation, making it a significant milestone for the Government, IFAD and the 
+World Bank Group (WBG).  
+Participating in the PCAE-PforR with the WBG will help work towards the strategic 
+objectives of IFAD’s country strategic opportunities programme (COSOP)  
+2019-2024 in Senegal. Given the size and outreach of the programme, joining 
+forces with the WBG in supporting sustainable rural livelihoods, food security and 
+1 PRACAS concluded its first phase (2014–2017) and a second is underway (2018–2023); PNDE (2014–2017) will be 
+extended to 2023. 
+2 International Labour Organization Labour Force Survey (2015) and https://gfc.ucdavis.edu/profiles/rst/sen.html. 
+1 
+EB 2021/134/R.47/Rev.1 
+6. 
+7. 
+8. 
+9. 
+nutrition in the Sahel is a strategic investment for IFAD at a time when the country 
+is moving from classic project implementation towards national programmes. Since 
+January 2020, all ministries involved have used a budget programme approach. In 
+addition, participating in an innovative undertaking like PforR makes it possible to 
+scale up IFAD’s experience in the region, where it has helped strengthen the 
+resilience of smallholder farmers by diversifying their production systems and 
+promoted increased rural employment and revenues. These expected outcomes are 
+key at a time when climate change and the COVID-19 pandemic are threatening 
+the livelihoods of the rural poor in the Sahel.  
+The PCAE-PforR will address all IFAD’s core commitments, with a strong focus on 
+climate change and food and nutrition security, while building on good practices 
+identified in the Agricultural Value Chains Support Project (PAFA) and the 
+Agricultural Value Chains Support Project – Extension (PAFA-E). CSA is at the core 
+of the strategies of the Ministry of Agriculture and Rural Equipment (MAER) and the 
+Ministry of Livestock and Animal Production (MEPA), as climate poses the main 
+risks to livelihoods in the targeted areas. CSA practices for sustainable productivity 
+growth, together with adaptation strategies for resilient production and livelihoods, 
+as well as climate change mitigation strategies were integrated into the PCAE-PforR 
+design.  
+As MAER and MEPA will implement the PCAE-PforR, focus will also be on the 
+availability of healthy and varied food. Rural households will benefit from better 
+food security and greater access to nutritious foods, leading to improved overall 
+health. The focus on nutrition will be reinforced in the programme through: 
+(i) diversification of farming systems to promote increased consumption of fruit, 
+dairy products, meat and pulses; and (ii) reduction of risks that contribute to food 
+insecurity and seasonal hunger (e.g. storage, warehouse receipt systems, 
+agricultural insurance). Improving food security through more nutrition-sensitive 
+food production systems lies at the heart of IFAD’s work. The Fund can contribute 
+to improving rural households’ diets by using its experience with past programmes 
+(PAFA, PAFA-E and the Support to Agricultural Development and Rural 
+Entrepreneurship Programme [PADAER]) and ongoing ones (PADAER-II and the 
+Rural Youth Agripreneur Support Project [Agrijeunes Tekki Ndawñi]) in Senegal. 
+IFAD’s financial contribution to the operation is also an opportunity to improve 
+further IFAD’s visibility through policy dialogue in partnership with the WBG. 
+IFAD's participation in the design of the PCAE-PforR also enabled a reframing of the 
+targeting strategy to enhance inclusion of poor rural people and ensure gender and 
+youth sensitivity. These are also among the Government’s priorities, as reflected in 
+PRACAS-II and PNDE. Given the marginalization of women and youth in agriculture 
+and livestock systems, the programme will pay close attention to the inclusion of 
+these two groups through a specific strategy that is being developed with technical 
+assistance provided by PADAER-II. Thanks to its extensive experience and 
+expertise in women’s economic empowerment and in the inclusion of youth in 
+agrifood value chains, IFAD will make a valuable contribution to involving more 
+women and youth during programme implementation. 
+B.  Lessons learned 
+10.  The 2019-2024 COSOP highlighted that IFAD project outcomes are not sufficiently 
+scaled up or used to inform government policy reforms. Participating in the  
+PCAE-PforR allows IFAD to join forces with the WBG and provide the required 
+leverage to scale up innovations developed through IFAD initiatives.  
+11.  The IFAD country programme has contributed to increasing the incomes of the 
+rural poor, reducing gender inequality and empowering rural women and youth. In 
+addition, the programme has contributed to increasing crop yields and agricultural 
+production, as well as marketing surpluses, through agribusiness linkages. As a 
+partner in the design and financing of the PCAE-PforR, IFAD drew on its experience 
+2 
+EB 2021/134/R.47/Rev.1 
+with projects and programmes including: (i) PAFA (2010–2016, US$37.51 million); 
+(ii) PADAER (2011-2019, US$59.12 million); (iii) PAFA-E (2014-2020, US$47.48 
+million); and (iv) PADAER-II (2018–2024, US$84.7 million). These investments 
+contributed to transforming traditional subsistence agriculture into market-oriented 
+agropastoral farming systems with significant help from the private sector. 
+Important too was the promotion of a structured dialogue between all value chain 
+stakeholders (so-called interprofessional organizations).  
+12.  Finally, experience gained in the following partnerships helped inform the design 
+stage. IFAD has established a transparent and graduation grant mechanism with 
+emphasis on building relationships between farmers’ organizations and financial 
+service providers. In response to environmental and climate challenges, and in 
+partnership with the Global Environment Facility, IFAD established the Agricultural 
+Value Chains Resilience Support Project grant (2017–2021) to strengthen the 
+resilience of vulnerable households. Furthermore, IFAD in partnership with the 
+World Food Programme and the National Agricultural Insurance Company of 
+Senegal developed agricultural insurance programmes for rainfed crops and small 
+ruminants. 
+II.  Programme description 
+A.  Government programme 
+13.  The PCAE-PforR supports investments and policy reforms embedded in two national 
+programmes, namely the PRACAS-II under MAER, and the PNDE under MEPA. Both 
+programmes are promoting sustainable, resilient and inclusive growth as set out in 
+the PSE.  
+B.  World Bank PforR scope 
+14.  The PCAE-PforR was designed by the WBG, IFAD and the Government to reduce 
+rural poverty and improve food and nutrition security for smallholder farmers, 
+women and young people alike in the poorest regions of Senegal. At the design 
+stage, an expenditure framework review of PRACAS-II and PNDE helped select 
+those budget lines that contribute to achieving the programme development 
+objective (PDO) and the outcomes/outputs of the PCAE-PforR. Consequently,  
+10 disbursement-linked indicators (DLIs) were defined to capture the required 
+investments and policy reforms. 
+C.  Objectives, geographical area of intervention and target 
+groups 
+15.  The PDO is to enhance productivity and market access of priority commodity value 
+chains and livestock in the extended groundnut basin and agropastoral areas.  
+16.  The beneficiaries are a broad range of stakeholders (smallholders, cooperatives, 
+research and development agencies, traders, processors and exporters) involved in 
+priority crop and livestock value chains. This target group is essentially the same 
+as that of IFAD-supported projects like PAFA, PAFA-E and PADAER. 
+17.  The targeting strategy of the programme, in line with IFAD guidelines, is based on 
+geographical and self-targeting mechanisms. It is estimated that approximately 
+950,000 farmers will benefit from one or more activities, with women and youth 
+respectively accounting for 50 per cent and 30 per cent of total beneficiaries.  
+18. 
+IFAD’s cofinancing will enhance the focus on diversifying smallholder farming 
+systems and on women and young farmers. An additional 50,000 farmers will be 
+provided with more assets, 50,000 more will adopt improved agricultural 
+technology and a further 450,000 will benefit from the vaccination of their horses 
+and small ruminants. IFAD funding will also give 72,000 more farmers access to 
+agricultural insurance. The indicators in the results framework will be 
+3 
+EB 2021/134/R.47/Rev.1 
+disaggregated by gender and age in the monitoring and evaluation (M&E) system, 
+while the capacity of MAER and MEPA to monitor these indicators will be improved.  
+D.  Result areas and disbursement-linked indicators 
+19.  The PCAE-PforR has three results areas, or components, namely: (i) improved crop 
+and livestock productivity and resilience; (ii) improved business environment and 
+market integration; and (iii) improved sector governance, coordination and 
+programme management. Table 1 below presents the 10 DLIs. 
+20.  Contribution to the disbursement-linked indicators. US$20 million of IFAD’s 
+contribution to the PCAE-PforR will be allocated strategically to further enhance 
+sustainable diversification of farming and livestock systems, and inclusiveness in 
+line with the IFAD core commitments and the 2019-2024 COSOP. The core 
+investments (DLIs 2, 3, 7 and 10) were identified in the expenditure framework of 
+PRACAS-II and PNDE as follows: 
+(i)  Under results area 1, DLI 2 and DLI 4 will be cofinanced, with a focus on 
+diversification and productivity increases in crop and livestock systems. Under 
+DLI 2, IFAD will contribute to the multiplication of quality seeds for crop 
+diversification (millet, sorghum, maize, cowpea, Irish potato, vegetables, 
+sweet potato and fonio). Under DLI 4, vaccination for small ruminants and 
+horses will be promoted.  
+(ii)  Under results area 2, DLI 7 was prioritized. IFAD support will help provide 
+insurance coverage for smallholder farmers. This DLI is under the 
+responsibility of the Ministry of Finance and Budget.  
+(iii)  Under results area 3, DLI 10 will be cofinanced. IFAD support will be used to 
+further digitalize and decentralize the MAER and MEPA M&E system, and 
+promote policy dialogue and knowledge management (KM), in particular the 
+consolidation of the crop diversification measures established under PAFA and 
+PAFA-E.  
+21.  As part of IFAD’s contribution to the PCAE-PforR, US$3 million will be earmarked 
+for institutional support and capacity-building, using an investment project lending 
+(IPL) approach. As this institutional capacity-building support is considered 
+essential, the Government and the WBG strongly insisted on including an 
+“Institutional support and capacity-building component” to mitigate implementation 
+risks. This support will build on the initial US$3.5 million already provided by 
+PADAER, a sum that proved fundamental in starting up the programme. This 
+support contributes to the Programme Action Plan (PAP),3 defining the 
+accompanying measures undertaken by the Government to mitigate 
+implementation risks. The plan includes actions aimed at strengthening 
+implementing agencies (mainly MAER and MEPA at national and local levels) in four 
+areas: (i) technical implementation capacity; (ii) programme management, M&E 
+and KM; (iii) fiduciary systems; and (iv) environmental and social management. 
+Furthermore, this support will help improve the core IFAD mandate with respect to 
+farmers’ organizations, gender and youth empowerment. 
+22.  Despite its relatively small financial contribution to the operation, IFAD will gain in 
+overall visibility and weight in policy dialogue due to its partnership with the WBG. 
+The ambitious policy conversation under the PCAE-PforR is designed to address the 
+needs of small- and medium-scale farms. This dialogue is essential to IFAD’s core 
+target group and consists of the following elements:  
+(i)  DLIs 1, 2, 3 and 5 aim to fundamentally change MAER and MEPA’s budget 
+allocation so as to ensure that smallholders have more equitable access to 
+3 World Bank. PCAE. Programme Appraisal Report. Annex 6. 
+4 
+EB 2021/134/R.47/Rev.1 
+certified seeds (groundnuts, diversification crops) and quality CSA inputs and 
+vaccination.  
+(ii)  DLIs 6 and 10 include policy measures to support multi-stakeholder 
+platforms, including the recognition and organization of interprofessional 
+bodies for groundnuts and diversification crops (maize, sorghum/millet, 
+cowpea). 
+(iii)  DLIs 5 and 10 support preparation of laws, regulations, policies and 
+strategies, including a strategy to control Newcastle disease and fowlpox, a 
+national genetic improvement strategy and plan, an animal health and 
+veterinary public health code, and a livestock masterplan. 
+Table 1 
+Disbursement-linked indicators and allocation of International Development Association (IDA) and 
+IFAD financing 
+(Millions of United States dollars) 
+DLI4 
+IDA 
+IFAD  
+Results area 1. Improved crop and livestock productivity and resilience 
+1  Quantity of certified groundnut seeds acquired annually (tons) 
+2  Cumulative quantity of certified seeds acquired for diversification crops 
+(tons) 
+3 
+Percentage of subsidy targeted to smallholder producers and climate -
+smart technologies (% of subsidy amount)  
+4 
+Vaccination coverage rates for small ruminant plague (% coverage) 
+5  Cumulative quantity of certified fodder seeds acquired by the producers 
+(tons) 
+Results area 2. Improved business environment and market integration 
+6  National Interprofessional Committee for Groundnut restructured  
+7  Number of producers with access to agricultural insurance for crops and 
+livestock (per year) 
+8  Operationalization of the warehouse receipt system in the extended 
+groundnut basin  
+9  Number of milk collection centres supported and/or equipped and 
+operational  
+Results area 3. Improved sector governance, coordination and programme management 
+10   M&E system at both MAER and MEPA for agriculture and livestock 
+performance in place and functioning 
+Total allocation – DLIs 
+Programme preparation advance (PPA) (not DLI) 
+Institutional support and capacity-building (IPL, not DLI) 
+Total 
+35.0 
+15.0 
+20.0 
+30.0 
+10.0 
+10.0 
+10.0 
+4.01 
+5.0 
+10.0 
+149.01 
+0.99 
+- 
+150.0 
+- 
+6.0 
+7.0 
+- 
+- 
+5.0 
+- 
+- 
+2.0 
+20.0 
+- 
+3.0 
+23.0 
+E.  Theory of change 
+23.  The PCAE-PforR is positioned as a rural transformation initiative aimed at 
+enhancing food security, rural incomes, equity and economic growth. In order to 
+achieve this long-term outcome, the programme is structured around twin 
+complementary areas: (i) increased productivity, agriculture resilience and 
+livestock productivity (results area 1); and (ii) improved business environment and 
+market integration for groundnuts, diversification crops and dairy products (results 
+area 2). In parallel, the institutional capacity of the main implementing entities 
+(MAER and MEPA) will be enhanced (results area 3). 
+24.  At the outcome and output levels, the DLIs will monitor the required changes 
+(access to inputs, technologies, investments and policy measures) to achieve the 
+PDO. 
+4 All DLIs except DLI 10 are scalable; in other words, funds will be disbursed annually in line with progress made. 
+5 
+EB 2021/134/R.47/Rev.1 
+F.  Alignment, ownership and partnerships 
+25.  The PCAE-PforR will contribute to the achievement of Sustainable Development 
+Goal (SDG) 1 through a sustainable increase in the incomes of poor family farmers 
+and young rural entrepreneurs. It will also help achieve SDG 2 (zero hunger) as it 
+addresses the food and nutrition of beneficiary families. The programme will 
+further contribute to SDG 5 (gender equality) and 10 (reduced inequalities) as well 
+as SDG 13 on climate change.  
+26.  Within the United Nations system, IFAD has the sole mandate for investing in 
+agriculture development. The Fund has a unique approach to supporting 
+smallholders, organizing their value chains and making them more competitive and 
+resilient. As indicated in its 2019-2024 COSOP, IFAD’s comparative advantage in 
+Senegal and the subregion is its expertise in: (i) agriculture value chain 
+development; (ii) support for rural entrepreneurship, especially for women and 
+young people; and (iii) empowerment of farmers’ organizations. IFAD will use this 
+expertise to make sure those activities are reflected and scaled up in the  
+PCAE-PforR. 
+G.  Costs, benefits and financing 
+Programme costs 
+27.  The RBL approach calls for all activities to be prefinanced by the Government under 
+its annual sector budgets and reimbursed by WBG and IFAD up to an agreed 
+amount once the DLIs are achieved. The total programme cost is estimated at 
+US$233 million. The WBG has allocated US$150 million to the PCAE-PforR, of which 
+US$149.01 million as RBL and US$0.99 million as a PPA. IFAD will contribute 
+US$23 million (reallocation of the Eleventh Replenishment of IFAD's Resources), of 
+which US$20 million will be in the form of RBL and US$3 million in the form of IPL 
+through PADAER-II. The Government will contribute US$60 million. 
+Table 2 
+Programme cost by financier and by type of lending 
+(Millions of United States dollars) 
+Type of lending 
+Financing source 
+Amount 
+Percentage 
+PPA 
+RBL 
+IPL 
+Total 
+IDA 
+IDA 
+IFAD 
+Government 
+IFAD 
+0.99 
+149.01 
+20.00 
+60.00 
+3.00 
+233.00 
+0.4 
+64.0 
+8.6 
+25.8 
+1.3 
+100.0 
+Disbursement arrangements 
+28.  The table below presents IFAD disbursements by DLI and by year. 
+Table 3  
+Programme costs by DLI and by year 
+(Millions of United States dollars) 
+DLI 2 
+DLI 4 
+DLI 7 
+DLI 10 
+Institutional support and capacity-building 
+Total 
+2022 
+2023 
+2024 
+2025 
+2026 
+Total 
+0.00 
+0.00 
+0.00 
+0.00 
+2.10 
+2.10 
+1.58 
+1.76 
+1.16 
+1.00 
+0.51 
+6.01 
+1.58 
+1.76 
+1.16 
+1.00 
+0.35 
+5.85 
+1.58 
+1.76 
+1.16 
+0.00 
+0.04 
+4.54 
+1.58 
+1.76 
+1.16 
+0.00 
+0.00 
+4.50 
+6.35 
+7.00 
+4.64 
+2.00 
+3.00 
+23.00 
+Summary of benefits and economic analysis 
+29.  An ex ante economic and financial analysis was prepared to demonstrate the 
+financial and economic soundness of the PCAE-PforR. The economic net present 
+6 
+EB 2021/134/R.47/Rev.1 
+value of the programme is estimated at US$374 million, and the economic rate of 
+return at 24.2 per cent. Sensitivity analysis shows that the results are robust under 
+most scenarios.  
+30.  A greenhouse gas analysis was performed using the EX-Ante Carbon Balance Tool. 
+Results show that the PCAE-PforR can constitute a sizeable net carbon sink of  
+-3.3 million tCO2eq over 20 years, thus -167,000 tCO2eq annually, due to the 
+introduction of improved crop and grassland management practices and 
+technologies. The cropping activities constitute a carbon balance of  
+-266,864 tCO2eq per annum in the with-programme scenario, which would largely 
+compensate the increase in the livestock sector (81,436 tCO2eq per annum). 
+Increased transportation, processing and use of fertilizer and agrochemicals would 
+lead to an annual increase of 18,493 tCO2eq.  
+31. 
+Exit strategy and sustainability 
+In a PforR, initial funding comes from national-sector budgets, which ensures the 
+availability of funds. Regular missions and a system of checks and balances are 
+being put in place to ensure that public budget allocations and incurred 
+expenditures are in line with the ambition of the PCAE-PforR.  
+III.  Risks 
+A.  Risks and mitigation measures 
+32.  As per IFAD’s design policy of January 2020, risk for type C projects is addressed 
+by the programme initiator, the WBG in this case.  
+33.  The overall risk of the PCAE-PforR is considered substantial when assessed with the 
+World Bank’s Systematic Operations Risk-rating Tool, driven mostly by political and 
+governance issues, sector policies, weak institutional capacity for implementation, 
+and sustainability and fiduciary aspects. This is exacerbated by the uncertainty 
+surrounding the COVID-19 pandemic.  
+34.  Fiduciary risk is considered high by the WBG and many mitigation measures have 
+been put in place, including: (i) agreement on the multi-year programme 
+expenditures framework with the Government,; (ii) limiting the programme 
+expenditures framework annual budget variation to +/-3 per cent: (iii) formal 
+approval of the PRACAS-II and Livestock Sector Development Policy; 
+(iv) appointment of programme managers and filling a vacant internal inspection 
+position; (v) opening a separate and dedicated account with the National Treasury 
+to receive funds that will flow from the World Bank; (vi) National Treasury to 
+appoint dedicated accountants to handle and report on payments made at the 
+request of the line ministries on the dedicated account; (vii) roll-out of an 
+integrated financial management information system and procurement system; 
+and (viii) development of a multi-year contract framework. 
+35.  The institutional capacity for implementation and sustainability risk is substantial, 
+reflecting the need for close collaboration between the entities involved in 
+implementation. This risk will be mitigated by establishing dedicated technical 
+coordination teams (TCTs) at MAER and MEPA to ensure coordination, and through 
+capacity-building incorporated into programme design, DLIs and PAP. 
+36.  Regarding the Social, Environmental and Climate Assessment Procedures, the 
+World Bank procedures were followed and an IFAD integrated programme risk 
+matrix was prepared. 
+B.  Environment and social category 
+37.  An Environment and Social Systems Assessment (ESSA) was prepared to gauge 
+Senegal’s authority and organizational capacity to achieve environmental and social 
+objectives against the environmental and social impacts that may be associated 
+with the programme. Although the investments are unlikely to have substantial 
+7 
+EB 2021/134/R.47/Rev.1 
+adverse impacts, the cumulative effect of the intensification of groundnuts, 
+livestock and horticultural production, paired with weak environment and social 
+management systems at national and regional levels, raises the risk classification 
+to substantial. The programme design and PAP mitigate many of these risks. 
+C.  Climate risk classification 
+38.  The IFAD climate risk classification does not apply as the Fund will align with ESSA 
+procedures. The climate risk is assessed by the World Bank as high. 
+D.  Debt sustainability  
+39.  The debt sustainability analysis from January 2021 indicates that Senegal’s debt 
+remains sustainable with a moderate risk, but with limited scope to absorb shocks 
+in the near term. This is in line with the previous debt sustainability analysis  
+update of April 2020, which accompanied Senegal’s rapid credit facility/rapid 
+financial instrument request. The moderate risk of debt distress is predicated on a 
+gradual recovery from the pandemic-induced shock, continued adherence to a 
+prudent fiscal path (in line with regional convergence criteria) and sound debt 
+management. The outlook for Senegal remains highly uncertain and subject to 
+significant downside risks, primarily a reflection of broader global risks related to 
+COVID-19. A prudent borrowing strategy that prioritizes concessional external 
+borrowing and domestic regional financing in line with programmed financing 
+needs, combined with continued efforts to strengthen debt management and 
+contain fiscal risks, will be the anchor for continued debt sustainability. The public 
+debt-to-GDP ratio stood at 65.81 per cent in 2020 and is projected to peak at 
+around 68 per cent in 2021–2022 before gradually declining over the medium term 
+as oil and gas investments come online. Debt service is projected to be about 
+21 per cent of total revenues and grants in 2020, before gradually rising to about 
+24 per cent on average over the medium term due to borrowing related to the 
+hydrocarbon sector. 
+IV.  Implementation 
+A.  Organizational framework 
+Programme management and coordination 
+40.  The programme has a three-tiered governance structure with a steering 
+committee, two technical committees and two TCTs as well as two technical focal 
+points, within MAER and MEPA. The teams are operational already. The steering 
+committee held its first meeting in March 2021, when it approved the first annual 
+workplan and budget. In March 2021, the first supervision mission, held with IFAD 
+participation, assessed progress realized thus far. 
+41.  Achievement of the DLIs will be verified by the independent verification agent 
+(IVA). The demand for non-objection for the recruitment of the IFAD IVA is 
+expected soon. A DLI verification protocol has been defined. 
+42.  The PCAE-PforR is a PforR operation, which means that no COSTAB cost analysis or 
+expenditure categories were prepared. The PCAE-PforR will be implemented 
+through the national systems and no programme implementation manual was 
+prepared. 
+Financial management, procurement and governance  
+43.  The RBL approach calls for all activities to be prefinanced by the Government under 
+its annual budgets for agriculture and livestock programmes, and reimbursed by 
+the World Bank and IFAD up to an agreed amount once the DLIs are achieved.  
+44.  Under a letter of appointment negotiated between the parties, the World Bank will 
+be appointed as a cooperating institution within the meaning of article III of the 
+General Conditions of Agricultural Development Financing dated 29 April 2009, and 
+last amended in December 2020. 
+8 
+EB 2021/134/R.47/Rev.1 
+45.  Financial reporting and auditing will be the responsibility of the programme 
+management unit and the public expenditure authorization directorate at the 
+Ministry of Finance and Budget. The PADAER-II project implementation financial 
+and administrative manual will be updated to include specific procedures applicable 
+for the PCAE-PforR. A designated account will be opened at the National Treasury 
+to receive funds from IFAD. A separate designated account will be opened by 
+PADAER-II for PCAE-related funds once the first disbursement criteria are met. 
+46.  An assessment of the national fiduciary systems was undertaken by the World 
+Bank during design and concluded that the fiduciary risk is “substantial”, as 
+detailed in the fiduciary summary. The PADAER-II’s inherent financial management 
+risk is thus substantial also. As per the aide-memoire5 of the midterm review, the 
+financial management quality rating is 3, or moderately unsatisfactory. The funds 
+will be made available to PADAER-II only once the financial management quality is 
+rated 4, or satisfactory as a disbursement condition. Given the RBL approach, the 
+Government will be responsible for procurement, using its own mechanisms and no 
+classic procurement plan was prepared. However, the World Bank has specific 
+guidelines for procurement in RBL projects.  
+Project/programme target group engagement and feedback, and 
+grievance redress6 
+47.  A preparatory study to establish a grievances mechanism has been made. 
+Comments from the WBG are being taken into account. 
+48. 
+Grievance redress 
+In line with its procedures, the World Bank supported the establishment of a 
+grievance redress service. The service ensures that complaints received from 
+communities and individuals are promptly reviewed in order to address pertinent 
+concerns.7  
+B.  Planning, monitoring and evaluation, learning, knowledge 
+management and communications 
+49.  The results framework (appendix II), developed by MAER, MEPA, the WBG and 
+IFAD, will be used for M&E purposes. To monitor IFAD’s cofinancing, six indicators 
+were added, while for other indicators the quantitative targets (DLIs 2, 4, 7) were 
+increased.  
+50.  The programme has a strong focus on M&E and KM. IFAD will be at the forefront of 
+M&E and KM activities through the provision of capacity-building and technical 
+assistance (mainly mobilized by the IPL through PADAER-II). To encourage the 
+Government to invest in digitalization and decentralize the MAER and MEPA M&E 
+system, the PCAE-PforR includes DLI 10, associated with a disbursement of 
+US$10 million from IDA and US$2 million from IFAD, conditional to the setting up 
+of M&E systems able not only to track performance and results, but also to develop 
+related policy documents and knowledge products. IFAD will further contribute to 
+this area through the use of global capacity-building grants, while the IFAD 
+Regional Hub in Dakar will ensure the quality of KM, a key element for IFAD. 
+C.  Implementation plans 
+Implementation readiness and start-up plans 
+51.  The WBG provided a PPA to ensure implementation readiness, while the 
+Government and IFAD mobilized technical assistance through PADAER-II.  
+Supervision, midterm review and completion plans 
+5 World Bank. PCAE virtual implementation support mission. 8-15 March 2021. Aide-memoire. 
+6 See Framework for Operational Feedback from Stakeholders https://webapps.ifad.org/members/eb/128/docs/EB-
+2019-128-R-13.pdf?attach=1. 
+7 For details: http://www.worldbank.org/GRS. 
+9 
+EB 2021/134/R.47/Rev.1 
+52. 
+In light of the letter of agreement, the World Bank will be formally responsible for 
+supervising the PCAE-PforR, administering the loan and authorizing payments. In 
+practice, supervision will be carried out jointly by the WBG, IFAD and the 
+Government. In conformity with IFAD’s policy on supervision and implementation 
+support, at least one supervision mission will be held annually, with regular  
+follow-up on progress and results. The presence of the World Bank office and IFAD 
+Regional Hub in Dakar will facilitate close monitoring of progress and provide 
+implementation support. IFAD’s long-standing strategic partnership with MAER and 
+MEPA will ensure efficient targeting of women and youth. In addition, all partners 
+will work together to strengthen M&E systems. 
+53.  The midterm review will be organized at the beginning of year 3 of programme 
+implementation. It will be led by MAER and MEPA through their TCTs and will be 
+conducted jointly with IFAD and the WBG. 
+54.  The programme completion review will be initiated by the Government according to 
+guidelines issued by IFAD and the WBG, and reviewed by the three parties. It will 
+document the achievement of the overall targets and PDO as well as lessons 
+learned during implementation and possibilities for scaling up. 
+V.  Legal instruments and authority 
+55.  A project financing agreement between the Government of Senegal and IFAD will 
+constitute the legal instrument for extending the proposed financing to the 
+borrower/recipient, under the new PforR modality (EUR 17.3 million). The second 
+loan (EUR 2.5 million) will be incorporated as additional financing to the PADAER-II 
+and for which an amendment to the already existing financing agreement between 
+the Government of Senegal and IFAD will constitute the legal instrument for 
+extending the proposed financing to the borrower/recipient. A copy of the 
+negotiated financing agreement is attached as appendix I. 
+56.  The Government of Senegal is empowered under its laws to receive financing from 
+IFAD. 
+57. 
+I am satisfied that the proposed financings will comply with the Agreement 
+Establishing IFAD and the Policies and Criteria for IFAD Financing. 
+VI.  Recommendation 
+58. 
+I recommend that the Executive Board approve the proposed financing in terms of 
+the following resolution:  
+RESOLVED: that the Fund shall provide a loan on highly concessional terms 
+to the Republic of Senegal in an amount of seventeen million three hundred 
+twenty thousand euros (EUR 17.32 million) in order to finance the 
+programme for results modality and upon such terms and conditions as shall 
+be substantially in accordance with the terms and conditions presented 
+herein. 
+RESOLVED FURTHER: that the Fund shall provide a loan on highly 
+concessional terms to the Republic of Senegal in an amount of two million 
+five hundred thousand euros (EUR 2.5 million) as additional financing to the 
+already existing Support to Agricultural Development and Rural 
+Entrepreneurship Programme – Phase II and upon such terms and conditions 
+as shall be substantially in accordance with the terms and conditions 
+presented herein. 
+Gilbert F. Houngbo 
+President 
+10 
+Appendix I 
+EB 2021/134/R.47/Rev.1 
+Accord de financement négocié: 
+Programme de compétitivité pour l’agriculture et 
+l’élevage au Sénégal (PCAE-PforR) 
+(Négociations conclues le 17 novembre 2021) 
+Prêt No.: __________ 
+Nom  du  Projet:  Programme  de  compétitivité  pour  l'agriculture  et  l'élevage  au  Sénégal 
+(PCAE-PforR) (le "Programme") 
+ENTRE 
+La République de Sénégal (l’"Emprunteur") 
+Et  
+Le Fonds international de développement agricole (le "Fonds" ou le "FIDA") 
+(désignés individuellement par une "Partie" et collectivement par les "Parties") 
+ATTENDU QUE: 
+A. 
+Le Programme est une opération de prêt basée sur les résultats (le "RBL") qui a pour 
+objectif d’améliorer la productivité et l'accès au marché des chaînes de valeur des produits 
+de  base  prioritaires  et  de  l'élevage,  dans  le  bassin  arachidier  élargi  et  les  zones 
+agropastorales, comme définies dans l’Annexe 1 de cet accord de financement; 
+Le 12 Février 2019, l‘Emprunteur a  officiellement demandé au FIDA  de  financer le 
+B. 
+Programme; 
+Ainsi, l’Emprunteur a sollicité du Fonds un prêt pour le financement du Programme 
+C. 
+décrit à l’Annexe 1 du présent accord de financement; 
+D.  Dans le cadre de la contribution du FIDA pour le Programme, un financement sera 
+aussi mobilisé pour l'appui institutionnel et le renforcement des capacités via le Projet FIDA 
+PADAER II; 
+E. 
+Le Programme sera cofinancé par la Banque Mondiale (la "BM"). Le 12 mai 2020, le 
+Conseil d'administration (le "CE de la BM") de la BM a approuvé un crédit de 150 millions 
+de  dollars  pour  le  financent  du  Programme.  L'accord  de  financement  de  la  BM  pour  le 
+Programme est entré en vigueur le 2 septembre 2020 et sera clôturé le 31 décembre 2025; 
+et 
+L’Emprunteur  s’est  engagé  à  fournir  un  soutien  supplémentaire,  financier  ou  en 
+F. 
+nature, qui pourrait être nécessaire au Programme. 
+Considérant que le Fonds a accepté de financer le Programme, 
+1 
+Appendix I 
+EB 2021/134/R.47/Rev.1 
+Par conséquent, les Parties conviennent de ce qui suit: 
+Section A 
+Le présent accord de financement (l’"Accord") comprend l’ensemble des documents 
+1. 
+suivants: le présent document, la description du Programme et les dispositions relatives à 
+l’exécution  (Annexe  1),  le  tableau  d’affectation  des  fonds  (Annexe  2)  et  les  clauses 
+particulières (Annexe 3). 
+2. 
+Les Conditions générales applicables au financement du développement agricole en 
+date  du  29  avril  2009,  telles  que  modifiées  en  décembre  2020  et  toutes  éventuelles 
+modifications  postérieures  (les  "Conditions  générales")  sont  annexées  au  présent 
+document,  et  l’ensemble  des  dispositions  qu’elles  contiennent  s’appliquent  au  présent 
+Accord à l’exception des dispositions indiquées à la section E, paragraphe 4 ci-dessous, les 
+cas  échéants.  Aux  fins  du  présent  Accord,  les  termes  dont  la  définition  figure  dans  les 
+Conditions générales ont la signification qui y est indiquée. 
+Le  Fonds  accorde  à  l’Emprunteur  un  prêt  (le  "Prêt"  ou  le  "Financement"),  que 
+3. 
+l’Emprunteur utilise aux fins de l’exécution du Programme, conformément aux modalités 
+et conditions énoncées dans le présent Accord. 
+4. 
+Aux fins du présent Accord: 
+i)  l’"Indicateur  lié  au  décaissement"  ou  l’"ILD"  désigne,  pour  une  catégorie  donnée, 
+l'indicateur lié à ladite catégorie qui sera utilisé pour déclencher le décaissement des fonds, 
+et comme indiqué dans le tableau de l'Annexe 2 du présent Accord; 
+ii)  le  "Résultat  lié  au  décaissement"  ou  le  "DLR"  désigne  pour  une  catégorie  donnée,  le 
+résultat au titre de ladite catégorie tel qu'il est indiqué dans le tableau de l'Annexe 2 du 
+présent Accord, sur la base de l'atteinte de laquelle, le montant du Financement affecté 
+audit résultat pourra être retiré. 
+5.1.  Les exceptions suivantes à la section 4.02 a) et à la section 4.03 d) des Conditions 
+générales s'appliquent: 
+i) le décaissement sera déclenché par des DLI vérifiables au lieu de dépenses éligibles; 
+ii)  le  Fonds  n'exigera  pas  de  l'Emprunteur  qu'il  fournisse  la  preuve  que  les  retraits 
+antérieurs  ont  été  correctement  dépensés  pour  des  dépenses  éligibles,  mais  plutôt  la 
+preuve que les DLR convenus ont été respectés; 
+iii)  les  dépenses  seront  considérées  comme  éligibles  lorsque  les  DLR  convenus  seront 
+atteints; 
+iv) l'Emprunteur peut retirer le produit du Financement afin de financer des dépenses sur 
+la  base  des  résultats  (les  "Résultats  liés  au  décaissement"  ou  le  "DLR")  obtenus  par 
+l'Emprunteur,  mesurés  par  rapport  aux  indicateurs  spécifiques  (les  "Indicateurs  liés  au 
+décaissement" ou l’"ILD") dans le montant alloué par rapport à la catégorie du tableau de 
+l'Annexe 2; 
+5.2.  Les  exceptions  suivantes  au  Cadre  conceptuel  pour  l'établissement  de  rapports 
+financiers et l'audit des projets financés par le FIDA et le Manuel relative mentionnés à la 
+section 9.03  des  Conditions  générales,  sont  applicables,  conformément  aux  lois  et 
+réglementations applicables de l'Emprunteur; 
+i) les audits ne sont pas nécessaires pour retracer les fonds du FIDA jusqu'aux bénéficiaires 
+finaux; et 
+2 
+Appendix I 
+EB 2021/134/R.47/Rev.1 
+ii) le contenu minimum prescrit, tel que prévu au tableau 3 du Manuel, des états financiers 
+annuels du Programme n'a pas à être soumis au FIDA. 
+Section B 
+Le  montant  du  Prêt  est  de  dix-sept  millions  trois  cent  vingt  mille  Euro 
+1. 
+(17 320 000 EUR). 
+Le  Prêt  est  accordé  à  des  conditions  particulièrement  favorables  exempt  d'intérêt 
+2. 
+mais assorti d'une commission de service de 0,75% l’an et un délai de remboursement de 
+quarante (40) ans dont un différé d’amortissement de dix (10) ans, à compter de la date 
+d'approbation du Prêt par le Conseil d'administration du Fonds. Le Principal du Prêt sera 
+remboursé à un taux de 4,5 % du montant total du Principal per annum à partir de l'année 
+onze (11) et jusqu’à l'année trente (30), et à un taux de 1 % du montant total du Principal 
+à partir de l'année trente-et-un (31) et jusqu'à l'année quarante (40). 
+3. 
+La monnaie de paiement au titre du service du Prêt est l’euro (EUR). 
+4. 
+L’exercice financier débute 1er janvier et clôture le 31 décembre. 
+Le remboursement du principal et le paiement de la commission de service du Prêt 
+5. 
+sont exigibles le 15 avril et le 15 octobre. 
+Il  y  aura  un  compte  désigné  libellé  en  euro  (EUR),  pour  l’utilisation  exclusive  du 
+6. 
+Programme ouvert à la Banque Centrale au nom du Trésor Public du Sénégal. 
+Section C 
+1. 
+L'agent principal du Programme est le Ministère en charge des finances (le "MFB") 
+avec le Ministère en charge de l’agriculture (le "MAER") responsable des activités agricoles 
+et le Ministère en charge de l’élevage (le "MEPA") responsable des activités de l’élevage. 
+2.  Des  supervisions  annuelles  conjointes  seront  organisées  desquelles  le  FIDA  fera 
+partie intégrante. 
+3. 
+Un examen à mi-parcours sera effectué conformément aux dispositions des alinéas 
+8.03 b) et c) des Conditions générales. Toutefois, les Parties peuvent convenir d'une date 
+différente pour l'examen à mi-parcours de la mise en œuvre du Programme. 
+4. 
+La date d’achèvement du Programme est fixée au 31 décembre 2025 et la date de 
+clôture du financement sera 6 mois plus tard, ou toute autre date désignée par le Fonds 
+par notification à l'Emprunteur. 
+5. 
+L'acquisition de biens, travaux et services financés par le Financement est effectuée 
+conformément  aux  dispositions  de  la  réglementation  de  l'Emprunteur  en  matière  de 
+passation  des  marchés,  dans  la  mesure  où  elles  sont  conformes  aux  directives  pour  la 
+passation des marchés relatifs aux projets du FIDA. 
+Section D 
+1. 
+Le  Financement  sera  administré  et  le  Programme  sera  supervisé  par  la  Banque 
+Mondiale (la "BM"), en tant qu'institution coopérante, au sens de l'Article III des Conditions 
+générales en vertu d'une lettre de nomination (la "LdN") qui sera conclue entre le FIDA et 
+la BM. 
+3 
+Appendix I 
+Section E 
+EB 2021/134/R.47/Rev.1 
+Les  éléments  suivants  constituent  des  conditions  additionnelles  préalables  aux 
+1. 
+décaissements:  
+a) 
+Le personnel clé du Programme a été nommé. 
+b) 
+c) 
+d) 
+e) 
+La  LdN entre le FIDA et la BM  comme décrit plus en détail dans la section D 
+ci-dessus, est conclue et est entrée en vigueur.  
+L'accord de financement entre l’Emprunteur et la BM pour le Programme n’est 
+pas  entré  pleinement  en  vigueur  dans  les  180  jours  suivant  la  date  de  la 
+signature du présent Accord, et les fonds de remplacement ne sont pas mis à 
+la disposition de l’Emprunteur selon des modalités acceptables pour le Fonds. 
+Le droit de l’Emprunteur de retirer le montant du financement de la BM n’a pas 
+été suspendu, annulé ou résilié, en tout ou en partie, ou le financement de la 
+BM est devenu exigible et payable avant l’échéance convenue de  celui-ci; ou 
+aucun  événement  n’est  survenu  qui,  avec  le  passage  du  temps  pourrait 
+entraîner l’une ou l’autre de ces situations. 
+Aucun  décaissement  ne  sera  effectué  tant  que  et  à  moins  que  l'Emprunteur, 
+par l'intermédiaire de l'agence principal du Programme, n'ait fourni des preuves 
+satisfaisantes pour le FIDA (rapport de vérification) que les DLR ont été atteints 
+et confirmés par un organisme de vérification tiers indépendant conformément 
+au protocole de la vérification, tel que prévu entre les Parties. 
+Toutes les communications ayant trait au présent Accord doivent être adressées aux 
+2. 
+représentants dont le titre et l’adresse figurent ci-dessous: 
+Pour l’Emprunteur: 
+[cliquez et tapez le titre du représentant] 
+[cliquez et tapez le nom et l'adresse du ministère] 
+Pour le Fonds: 
+[Cliquez et tapez le titre] 
+Fonds international de développement agricole 
+Via Paolo di Dono 44 
+00142 Rome, Italie 
+[Copie à:]8 
+8 Le cas échéant. Lorsqu’un Prêt ou un Don est lié à un autre projet du FIDA, il est recommandé de toujours copier le pays du 
+FIDA/ou le chargé de projet du FIDA afin d'assurer une bonne coordination. 
+4 
+Appendix I 
+EB 2021/134/R.47/Rev.1 
+Le  présent  Accord,  [en  date  du  ___________] 9,  a  été  établi  en  langue  française  en 
+deux (2) exemplaires originaux, un (1) pour le Fonds et un (1) pour l’Emprunteur. 
+NOM OFFICIEL DU PAYS 
+____________________ 
+[(Nom du Représentant autorisé)] 
+[(Titre du Représentant autorisé)] 
+Date: _______________10 
+FONDS INTERNATIONAL 
+DE DEVELOPPEMENT AGRICOLE 
+____________________ 
+Gilbert F. Houngbo 
+Président 
+Date: _______________ 
+9 À conserver uniquement si l'Accord de Financement est signé par les deux parties à la même date et au même endroit. 
+10 Dans le cas où l'Accord de Financement n’est pas signé au siège du FIDA. 
+5 
+Appendix I 
+EB 2021/134/R.47/Rev.1 
+Annexe 1 
+Description du Programme et dispositions relatives à l’exécution 
+I.  Description du Programme 
+1. 
+Population cible. 
+Le PCAE est un programme basé sur les résultats (RBL) dans l’agriculture et l’élevage, qui 
+a  été  conçu  comme  un  outil  pour  réduire  la  pauvreté  rurale  et  améliorer  la  sécurité 
+alimentaire  et  nutritionnelle  des  petits  exploitants  agricoles,  des  femmes  et  des  jeunes 
+dans  les  régions  les  plus  pauvres  du  Sénégal.  Les  bénéficiaires  sont  un  large  éventail 
+d'acteurs (petits exploitants, coopératives, agences de R&D, commerçants, transporteurs, 
+exportateurs) impliqués dans les chaînes de valeur prioritaires des cultures et de l'élevage. 
+Le groupe cible du Programme est essentiellement le même que celui des projets soutenus 
+par le FIDA (PAFA, PAFA-E et PADAER). 
+2. 
+Zone d'intervention du Programme. 
+Le  Programme  pourra  intervenir  sur  tout  le  territoire  national,  principalement  dans  le 
+bassin arachidier élargi et les zones agro-pastorales11, qui ont la plus forte incidence de 
+pauvreté et de malnutrition dans le pays, qui sont également les plus vulnérables à l'impact 
+de la variabilité et du changement climatique et de la dégradation des sols. 
+3. 
+Finalité. 
+La finalité du Programme est de soutenir les éléments de transformation, comme indiqué 
+dans  le  Programme  de  relance  et  d'accélération  de  la  cadence  de  l’agriculture,  phase  II 
+(PRACAS  II)  et  le  Plan  National  de  Développement  de  l'Elevage  (PNDE).  Deux  points 
+d'entrée stratégiques pour s'attaquer à la faible productivité du secteur agricole du Sénégal 
+et améliorer le bien-être des ménages ruraux pauvres dans le cadre du PforR sont i) les 
+systèmes à base d'arachide et ii) les systèmes d'élevage. 
+4.  Objectif. 
+L'objectif du Programme est d'améliorer la productivité et l'accès au marché des chaînes 
+de valeur des produits de base prioritaires et de l'élevage, dans le bassin arachidier étendu 
+et les zones agropastorales. 
+5. 
+Composantes. 
+Le Programme étant un programme basé sur les résultats ne comprend pas de composante 
+au sens strict, mais des domaines de résultats comme suit: 
+- 
+- 
+- 
+- 
+- 
+Amélioration de la productivité et de la résilience des cultures et de l'élevage; 
+Amélioration de l'environnement des affaires et intégration des marchés; 
+Gestion du programme et la gouvernance sectorielle; 
+L’appui institutionnel et le renforcement des capacités; 
+Dialogue Politique. 
+11 Le bassin arachidier élargi signifie les départements avec des activités de production arachidière dans les régions de Kaffrin, 
+Kaolack, Sedhiou, Fatick, Tambacounda, Kolda et Diourbel et toute autre zone agrée entre les Parties. 
+6 
+Appendix I 
+EB 2021/134/R.47/Rev.1 
+II.  Dispositions relatives à l'exécution 
+6. 
+Les agents techniques du Programme. 
+Les ministères MAER et MEPA, chargés de la mise en œuvre, préfinanceront et exécuteront 
+le programme par le biais de leurs budgets annuels de programme sectoriel. Lorsque les 
+DLI seront atteints et que la preuve de réalisation sera partagée à la suite d'une série de 
+vérifications approfondies et convenues, le GBM et le FIDA autoriseront le décaissement 
+du montant encouru conformément à l'accord de financement PCAE/P4R et convenu pour 
+chaque DLI. 
+7. 
+Comité de surveillance du programme. 
+Il  est  prévu  que  la  Banque  mondiale  soit  désignée  en  tant  qu'institution  coopérante,  au 
+sens de l'article III des Conditions générales applicables au financement du développement 
+agricole en date du 29 avril 2009, telles que modifiées en dernier lieu en décembre 2020, 
+en vertu d'une lettre de nomination (la "LdN") qui est actuellement en cours de rédaction 
+et de négociations entre les parties. Au regard de la LoA, la BM sera donc formellement 
+chargée  de  l’administration  du  prêt  et  de  la  supervision  du  PCAE.  En  pratique,  la 
+supervision sera effectuée conjointement par le GBM, le FIDA et le GoS. 
+8. 
+Unité de gestion du Programme. 
+Le Programme a une structure de gouvernance à trois niveaux avec un Comité de Pilotage 
+(SC), deux Comités Techniques (TC), des Comités régionaux de coordination et de suivi, 
+et deux Equipes Techniques de Coordination (TCT), ainsi que des points focaux techniques, 
+au  sein  du  MAER  et  du  MEPA,  qui  ont  été  mis  en  place  et  sont  opérationnels.12 Le  CP  a 
+organisé  sa première  réunion en mars 2021  et a approuvé le premier plan de travail et 
+budget annuels (PTBA). L’Unité de Gestion se partage entre le MAER et le MEPA. 
+9. 
+Partenaires stratégiques. 
+Les partenaires Stratégiques du FIDA dans le cadre de ce programme sont le Groupe de la 
+Banque mondiale (GBM), le Ministère de l'agriculture et de l'équipement rural (MAER), du 
+Ministère de l'élevage et de la production animale (MEPA) et le Ministère des finances  et 
+du budget (MFB).  
+10.  Suivi et évaluation. 
+Le Programme est fortement axé sur le S&E, et le FIDA sera en première ligne des activités 
+de  suivi  et  d'évaluation  grâce  à  l’appui  au  renforcement  des  capacités  et  d'assistance 
+technique à la mise en place de systèmes de suivi et d'évaluation capables de suivre les 
+performances et les résultats, d'élaborer des documents d'orientation connexes. Le FIDA 
+aura  la  possibilité  de  contribuer  davantage  à  ce  domaine  grâce  à  l'utilisation  de  dons 
+mondiaux pour le renforcement des capacités. 
+11.  Gestion des connaissances. 
+La  préparation  d'une  stratégie  de  gestion  des  savoirs  et  les  activités  seront  également 
+financées  grâce  au  volet  "appui  institutionnel  et  renforcement  des  capacités".  Les 
+approches et pratiques de mise en œuvre sont développées/adaptées en fonction des défis 
+et/ou des risques identifiés. Ils s'appuieront sur le renforcement des systèmes de S&E pour 
+documenter les meilleures pratiques et analyses. 
+12 Banque mondiale. Mission virtuelle d’appui à l’exécution du PCAE du 8 au 15 mars 2021. Aide-mémoire. 
+7 
+Appendix I 
+EB 2021/134/R.47/Rev.1 
+III.  Indicateurs liés aux décaissements et allocation des financements IDA et 
+FIDA 
+ILD[1] 
+IDA 
+millions de 
+dollars US 
+FIDA 
+millions de 
+dollars US 
+Domaine de résultats 1: amélioration de la productivité et de la résilience des cultures et du 
+bétail 
+1 
+2 
+3 
+4 
+5 
+Quantité de graines d'arachide certifiées acquises annuellement 
+(tonnes) 
+Quantité cumulée de semences certifiées acquises pour les cultures 
+de diversification (tonnes) 
+Pourcentage de la subvention destiné aux petits producteurs et aux 
+technologies intelligentes du point de vue climatique (% du montant 
+de la subvention) 
+Taux de couverture vaccinale contre la peste des petits ruminants 
+(PPR) (% de couverture) 
+Quantité cumulée de semences certifiées fourragères acquises par 
+les producteurs (tonnes) 
+35.0 
+15.0 
+20.0 
+30.0 
+10.0 
+0.0 
+6.0 
+0.0 
+7.0 
+0.0 
+Domaine de résultats 2: amélioration de l'environnement des entreprises et de l'intégration 
+des marches 
+6 
+7 
+8 
+9 
+Restructuration de l'interprofession de l'arachide (CNIA) 
+Nombre de producteurs ayant accès à une assurance agricole pour 
+les cultures et le bétail (par an) 
+Opérationnalisation du système de réception des entrepôts (WRS) 
+dans le bassin arachidier étendu 
+Nombre de centres de collecte de lait soutenus et/ou équipés et 
+opérationnels 
+10.0 
+10.0 
+4.01 
+5.0 
+0.0 
+5.0 
+0.0 
+0.0 
+Domaine de résultats 3: amélioration de la gouvernance, de la coordination et de la gestion  
+des programmes dans le secteur 
+10 
+Mise en place et fonctionnement d'un système de suivi et 
+d'évaluation (S&E) au MAER et au MEPA pour les performances en 
+matière d'agriculture et d'élevage 
+Allocation totale DLIs 
+Avance sur la préparation du programme (pas de DLI) 
+Soutien institutionnel et renforcement des capacités (IPL, pas DLI) 
+TOTAL GÉNÉRAL 
+10.0 
+2.0 
+149.01 
+0.99 
+150.0 
+20.0 
+- 
+3.0 
+23.0 
+[1] Tous les DLI sauf le DLI 10 sont extensibles, ce qui implique que les fonds seront déboursés annuellement en fonction des 
+progrès réalisés. 
+8 
+Appendix I 
+EB 2021/134/R.47/Rev.1 
+Annexe 2 
+Tableau d’affectation des fonds 
+1. 
+Affectation du produit du Prêt FIDA. 
+a) 
+Le tableau ci-dessous indique les ILDs de dépenses admissibles à un financement 
+sur le paiement du Prêt ainsi que le montant du prêt affecté à chaque ILD: 
+Programme de compétitivité de l'agriculture et de l'élevage axé sur les résultats 
+Retrait du produit du Prêt FIDA 
+Cofinancement de la Banque mondiale (IDA) et du 
+FIDA 
+Résultat lié au 
+déboursement 
+(le cas échéant) 
+Montant du crédit total alloué 
+(exprimé en EUR) 
+Catégorie (y 
+compris 
+l'indicateur lié 
+au 
+déboursement, 
+le cas échéant) 
+(2) DLI #2: 
+Quantité cumulée 
+de semences 
+certifiées 
+acquises pour les 
+cultures de 
+diversification 
+DLR #2: 53.000 
+tonnes métriques 
+de semences 
+certifiées, 
+comprenant entre 
+autres le fonio, le 
+maïs et le sésame, 
+acquises par les 
+producteurs du 
+bassin arachidier 
+étendu, à partir 
+d'une base de 0 
+tonne métrique. 
+(4) DLI #4: Taux 
+de couverture 
+vaccinale contre 
+la peste des 
+petits ruminants 
+(PPR) 
+DLR #4: 80% de 
+ruminants 
+vaccinés dans les 
+zones 
+agropastorales à 
+partir d'une base 
+de 30%. 
+(7) DLI #7: 
+Nombre de 
+producteurs 
+ayant accès à 
+l'assurance 
+agricole pour les 
+cultures et le 
+bétail 
+DLR #7.1: Les 
+arriérés de primes 
+d'assurance dus 
+par le bénéficiaire 
+au CNAAS ont été 
+entièrement 
+réglés. 
+13 700 000 (de l'IDA) + 5 480 000 
+(du FIDA) = 19 180 000 
+Formule: pour chaque tranche 
+supplémentaire de 10 600 tonnes 
+métriques par rapport à la situation 
+de référence, 2 740 000 (de l'IDA) 
++ 1 096 000 (du FIDA) = 
+3 836 000 peuvent être mis à 
+disposition pour être retirés par le 
+bénéficiaire, jusqu'à concurrence 
+de 13 700 000 + 5 480 000 = 
+19 180 000. 
+Pour chaque tranche de 10 600 
+tonnes, les proportions de 
+décaissement de l'IDA et du FIDA 
+sont respectivement de 71% et 
+29%. 
+27 400 000 (de l'IDA) + 6 120 000 
+(du FIDA) = 33 520 000 
+Formule: Pour chaque 
+augmentation supplémentaire de 
+10 points de pourcentage par 
+rapport à la situation de référence, 
+5 480 000 (de l'IDA) + 1 224 000 
+(du FIDA) = 6 704 000 peuvent 
+être mis à disposition pour être 
+retirés par le bénéficiaire, jusqu'à 
+concurrence de 33 520 000. 
+Pour chaque tranche 
+supplémentaire de 10%, les 
+proportions de décaissement de 
+l'IDA et du FIDA sont 
+respectivement de 82% et 18%. 
+DLR #7.1: 1 825 000 
+Les proportions de décaissement 
+de l'IDA et du FIDA sont 
+respectivement de 100% et 0%. 
+9 
+Montant du 
+crédit alloué 
+par le FIDA 
+(exprimé en 
+EUR) 
+5 480 000 
+6 120 000 
+0 
+Appendix I 
+EB 2021/134/R.47/Rev.1 
+DLR #7.2: 400 
+000 + 75 000 = 
+475 000 
+agriculteurs et 
+éleveurs des zones 
+agropastorales 
+couverts par le 
+régime 
+d'assurance du 
+CNAAS, à partir 
+d'une base de 
+269 000. 
+DLR #10a Un 
+système de suivi 
+et d'évaluation 
+adéquat est en 
+place et fonctionne 
+dans chaque MAER 
+et MEPA pour 
+suivre les 
+performances du 
+programme. 
+DLR10b: 
+Finalisation de la 
+restructuration des 
+interprofessions. 
+DLR #7.2: 7 300 000 (de l'IDA) + 
+4 020 000 (du FIDA) = 11 320 000 
+Formule: Pour chaque tranche 
+supplémentaire de 41 200 
+agriculteurs et éleveurs couverts 
+par rapport à la situation de 
+référence, 1 460 000 (de l'IDA) + 
+804 000 (du FIDA) = 2 264 000 
+peuvent être mis à disposition pour 
+être retirés par le bénéficiaire, 
+jusqu'à concurrence de 7 300 000 
+(de l'IDA) + 4 020 000 (du FIDA) = 
+11 320 000 
+Pour chaque tranche 
+supplémentaire de 41 200 
+agriculteurs, les proportions de 
+décaissement de l'IDA et du FIDA 
+sont respectivement de 64% et 
+36%. 
+9 130 000 (de l'IDA) + 850 000 
+(du FIDA) = 9 980 000  
+DLR10a: Formule: Par système de 
+suivi et d'évaluation mis en place et 
+fonctionnant dans chaque MAER ou 
+MEPA,  
+4 565 000 (de l'IDA) + 425 000 
+(du FIDA) = 4 990 000 peuvent 
+être mis à disposition pour être 
+retirés par le bénéficiaire, jusqu'à 9 
+130 000 + 850 000 = 9 980 000 
+EUR 
+Les proportions de décaissement 
+de l'IDA et du FIDA sont 
+respectivement de 91% et 9 %. 
+DLR10b: Formule: pour la 
+restructuration interprofessionnelle 
+finalisée au MAER et au MEPA, 850 
+000 peuvent être mis à disposition 
+pour être retirés par le bénéficiaire, 
+jusqu'à concurrence de 850 000 
+(425 000 pour chaque ministère). 
+Les proportions de décaissement 
+de l'IDA et du FIDA sont 
+respectivement de 0% et 100% 
+4 020 000 
+850 000 
+850 000 
+17 320 000 
+(10) DLI #10: 
+Système de suivi 
+et d'évaluation 
+des performances 
+de l'agriculture et 
+de l'élevage 
+MONTANT 
+TOTAL FIDA 
+(EUR) 
+10 
+Appendix I 
+EB 2021/134/R.47/Rev.1 
+Annexe 3 
+Clauses particulières 
+Conformément aux dispositions de la section 12.01 a) xxiii) des Conditions générales, le 
+Fonds peut suspendre, en tout ou partie, le droit de l'Emprunteur de solliciter des retraits 
+du compte du prêt du Fonds si l'Emprunteur n’a pas respecté l'une quelconque des clauses 
+énoncées ci-dessous, et si le FIDA a établi que ladite défaillance a eu, ou risque d'avoir, un 
+effet préjudiciable important sur le Programme: 
+1.  Dans les six mois suivant l'entrée en vigueur de l'Accord, le Programme achètera et 
+installera un logiciel de comptabilité personnalisé, conformément aux pratiques en vigueur 
+dans  les  projets  soutenus  par  le  FIDA,  afin  de  satisfaire  aux  normes  comptables 
+internationales et aux exigences du FIDA. 
+Planification,  suivi  et  évaluation.  L'Emprunteur  veillera  à  ce  qu’un  système  de 
+2. 
+Planification, de Suivi et d'Evaluation (PM&E) soit mis en place dans les douze (12) mois à 
+compter de la date d'entrée en vigueur du présent Accord. 
+3.  Genre. La stratégie pour l'inclusion et l'autonomisation des femmes tiendra compte 
+des  principales  contraintes  auxquelles  elles  sont  confrontées  selon  les  cinq  dimensions 
+d'autonomisation des femmes: i) dimension production: faible participation aux décisions 
+sur la conduite de l'exploitation familiale et/ou autonomie limitée à des petites parcelles 
+de  terre  et/ou  à  des  terres  exploitées  en  groupements,  et/ou  à  certains  activités  de 
+post-récolte (transformation); ii) dimension ressources: faible accès et pouvoir de décision 
+sur  les  ressources  et  facteurs  de  production:  terre,  matériel  agricole,  nouvelles 
+technologies de production et transformation, formation/information, financement/crédit, 
+etc.;  iii)  dimension  revenus:  faible  accès  et  décisions  sur  les  revenus  des  exploitations 
+familiales dirigées par les hommes; iv) dimension leadership: faible capacité de prise de 
+parole  en  public  et  de  manifestation  de  leurs  besoins  au  sein  des  ménages,  des 
+communautés,  des  OP  et  autres  structures  associatives  dont  elles  sont  membres; 
+v) dimension temps: charges de travail agricole et domestiques occupant la totalité de la 
+journée et répartition non équilibrée par rapport aux hommes.  
+4.  Mesures  anticorruption.  L'Emprunteur  doit  se  conformer  à  politique  du  FIDA  en 
+matière  de  prévention  de  la  fraude  et  de  la  corruption  dans  le  cadre  de  ses  activités  et 
+opérations. 
+5.  Harcèlement  sexuel,  exploitation  sexuelle  et  abus.  L’Emprunteur  et  les  Parties  au 
+Programme  doivent  s’assurer  que  le  Programme  est  exécuté  conformément  aux 
+dispositions de la politique du FIDA en matière de prévention du harcèlement sexuel, de 
+l’exploitation sexuelle et des abus sexuels, qui peut être modifiée de temps à autre. 
+6. 
+Conformité  aux  procédures  d'évaluation  sociale  environnementale  et  climatique 
+(SECAP). L'Emprunteur veillera à ce que le Programme soit mis en œuvre conformément 
+au SECAP de la banque mondiale (la "BM") et plus précisément aux mesures suivantes:  
+L’Emprunteur veille à ce que: a) toutes les activités du Programme soient mises en œuvre 
+dans  le  strict  respect  des  lois/réglementations  pertinentes  de  l’Emprunteur;  b) les 
+propositions de travaux de génie civil incluent la confirmation qu'aucune acquisition forcée 
+de terres ou réinstallation involontaire n'est requise dans le cadre du Programme. En cas 
+d’acquisition  de  terres  non  prévue  ou  de  réinstallation  involontaire  dans  le  cadre  du 
+Programme,  l’Emprunteur  devra  immédiatement  informer  le  Fonds  et  préparer  les 
+documents  de  planification  nécessaires  conformément  à  la  déclaration  de  politique  de 
+sauvegarde;  c)  les  hommes  et  les  femmes  reçoivent  une  rémunération  égale  pour  un 
+travail de valeur égale au titre du Programme; d) le recours au travail des enfants n’est 
+11 
+Appendix I 
+EB 2021/134/R.47/Rev.1 
+pas prévu dans le Programme; e) les mesures incluses dans le plan d'action pour l'égalité 
+des sexes préparé pour le Programme sont entreprises et les ressources nécessaires à leur 
+mise en œuvre sont mises à disposition en temps utile; et f) toutes les mesures nécessaires 
+et appropriées pour mettre en œuvre le plan d'action en faveur de l'égalité des sexes afin 
+de garantir que les femmes puissent participer et bénéficier équitablement du Programme 
+sont dûment prises. 
+7. 
+Evaluation des systèmes environnementaux et sociaux. Une évaluation des systèmes 
+environnementaux et sociaux a été réalisée par la BM dans le cadre de ce Programme, et 
+qui comprend une liste des investissements exclus du financement. Ainsi, le Programme 
+ne devrait pas financer de grandes infrastructures, l'extension des terres agricoles ou toute 
+expansion  des  réseaux  d'irrigation.  Toute  activité  ayant  un  risque  environnemental  et 
+social  élevé  sera  exclu  du  Programme.  Selon  cette  évaluation,  les  systèmes  de  gestion 
+environnementale  et  sociale  applicables  au  Sénégal  sont  généralement  appropriés  et 
+complets.  
+12 
+IFAD Logical framework 
+Results hierarchy 
+Outreach 
+Name 
+Baseline 
+Mid-term 
+WB Target 
+End target 
+Source 
+Frequency 
+Respon
+sibility 
+Indicators13 
+Means of verification 
+Assumptions 
+1.Estimated corresponding total 
+number of households members - 
+C.I.-1.b 
+2.Corresponding number of 
+households reached - C.I.-1.a 
+of which women 
+of which young farmers 
+Project development objective 
+Number of households reporting 
+adoption of new or improved 
+inputs, technologies or practices 
+of which women 
+of which young farmers 
+Yield increase (metric ton)        of 
+diversification crops 
+2,152,000 
+4,800,000 
+7,200,000 
+7,800,000 
+269,000 
+600,000 
+900,000 
+975,000 
+0 
+0 
+0 
+0 
+0 
+115,000 
+100,000 
+90,000 
+n/a 
+357,500 
+130,000 
+100,000 
+150,000 
+200,000 
+40,000 
+12,500 
+60,000 
+n/a 
+85,000 
+25,000 
+M&E 
+Survey 
+Baseline 
+Midterm 
+Endline 
+TCTs 
+MAER 
+MEPA 
+Appropriate women 
+and young farmers 
+targeting and 
+inclusion 
+mechanism (based 
+on IFAD funded 
+projects’ 
+experience) 
+Survey 
+Baseline 
+Midterm 
+Endline 
+TCTs 
+MAER 
+MEPA 
+Better MAER and 
+MEPA Financial 
+Management and 
+staffing  
+Maize 
+Millet 
+Cowpea 
+Irish potato 
+Onion 
+Sweet potato 
+2.50 
+1.00 
+0.80 
+25.00 
+23.00 
+38.00 
+2.70 
+1.20 
+1.10 
+29.00 
+26.00 
+42.00 
+n/a 
+3.00 
+1.50 
+1.50 
+30.00 
+27.00 
+45.00 
+1
+3
+To enhance 
+productivity and 
+market access of 
+priority 
+commodity value 
+chains and 
+livestock, in the 
+extended 
+groundnut basin 
+and agro-pastoral 
+areas 
+Results Area 1: Improved crop and livestock productivity and resilience 
+Sub-Results Area 
+1.1.a: Increased 
+crop productivity 
+Metric ton of cumulative quantity 
+of certified seeds acquired for 
+diversification crops (DLI 2) 
+Sub-Results Area 
+1.1.b:  
+Vaccination coverage rates for 
+African horse sickness 
+(percentage) 
+0 
+40 
+53 
+70 
+M&E 
+Annually 
+MAER 
+35 
+55 
+n/a 
+65 
+M&E 
+Annually 
+MEPA 
+Environmental 
+safeguards plan 
+13 To be disaggregated by gender and youth for all “people related” indicators. 
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+2
+1
+/
+1
+3
+4
+/
+R
+.
+4
+7
+/
+R
+e
+v
+.
+1
+Results hierarchy 
+Name 
+Baseline 
+Mid-term 
+WB Target 
+End target 
+Source 
+Frequency 
+Increased 
+livestock 
+productivity 
+Vaccination coverage rates for 
+pasteurellosis of small ruminants 
+(percentage) 
+4 
+25 
+n/a 
+30 
+Annually 
+Respon
+sibility 
+MEPA 
+properly 
+implemented 
+Indicators13 
+Means of verification 
+Assumptions 
+Results Area 2: Improved business environment and market integration 
+Sub-Results Area 
+2.3: increased 
+access to 
+financial services 
+Number of persons in rural areas 
+accessing financial services (DLI 
+7: agriculture insurance for crops 
+and livestock) 
+269,000 
+346,000 
+400,000 
+472,000 
+of which women 
+of which young farmers 
+0 
+0 
+115,000 
+100,000 
+120,000 
+n/a 
+145,000 
+130,000 
+Results Area 3: Improved sector governance, coordination, and Program management 
+M&E 
+Annually 
+Ministry 
+of 
+finance 
+Continuation of 
+related policy 
+reforms  
+1
+4
+Output 3.1.: policy 
+dialogue on 
+agriculture and 
+livestock 
+strengthened 
+Output 3.2.: 
+capacity at MAER 
+and MEPA for 
+program planning, 
+statistics, and 
+M&E enhanced 
+Coordination platforms of 
+diversification value chains 
+organized by MAER/MEPA 
+Number of existing/new laws, 
+regulations, policies or strategies 
+proposed to policy makers for 
+approval, ratification, amendment 
+Monitoring and evaluation system 
+for agriculture and livestock 
+performance (DLI 10) 
+Share of targeted beneficiaries 
+with rating ‘satisfied’ or above on 
+project interventions / support 
+(Percentage) 
+No 
+Set-up 
+n/a 
+Efficient 
+0 
+5 
+5 
+8 
+Reportin
+g 
+Annually 
+Draft M&E 
+system at 
+MAER 
+and MEPA 
+Adequate M&E system to 
+track Program performance 
+Adopted by 
+central/ 
+decentralized 
+services 
+Efficient technical 
+assistance 
+TCTs 
+MAER 
+MEPA 
+0 
+n/a 
+85 
+Survey 
+Endline 
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+2
+1
+/
+1
+3
+4
+/
+R
+.
+4
+7
+/
+R
+e
+v
+.
+1
+ORIGINAL WB RESULTS FRAMEWORK
+1
+5
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+2
+1
+/
+1
+3
+4
+/
+R
+.
+4
+7
+/
+R
+e
+v
+.
+1
+1
+6
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+2
+1
+/
+1
+3
+4
+/
+R
+.
+4
+7
+/
+R
+e
+v
+.
+1
+1
+7
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+2
+1
+/
+1
+3
+4
+/
+R
+.
+4
+7
+/
+R
+e
+v
+.
+1
+1
+8
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+2
+1
+/
+1
+3
+4
+/
+R
+.
+4
+7
+/
+R
+e
+v
+.
+1
+Appendix III 
+EB 2021/134/R.47/Rev.1 
+Integrated programme risk matrix 
+Risk Category / Subcategory  
+Country Context 
+Political Commitment 
+Governance 
+Macroeconomic 
+Fragility and Security 
+Sector Strategies and Policies 
+Policy alignment 
+Policy Development and Implementation 
+Environment and Climate Context 
+Project vulnerability to environmental conditions 
+Project vulnerability to climate change impacts 
+Project Scope 
+Project Relevance 
+Technical Soundness 
+Institutional Capacity for Implementation and Sustainability 
+Implementation Arrangements 
+Monitoring and Evaluation Arrangements 
+Project Financial Management 
+Project Organization and Staffing 
+Project Budgeting 
+Project Funds Flow/Disbursement Arrangements 
+Project Internal Controls 
+Project Accounting and Financial Reporting 
+Project External Audit 
+Project Procurement 
+Legal and Regulatory Framework 
+Accountability and Transparency 
+Capability in Public Procurement 
+Public Procurement Processes 
+Environment, Social and Climate Impact 
+Biodiversity Conservation 
+Resource Efficiency and Pollution Prevention 
+Cultural Heritage 
+Indigenous People 
+Labour and Working Conditions 
+Community Health and Safety 
+Physical and Economic Resettlement 
+Greenhouse Gas Emissions 
+Vulnerability of target populations and ecosystems to climate variability and 
+hazards 
+Stakeholders 
+Stakeholder Engagement/Coordination 
+Stakeholder Grievances 
+Overall 
+Country Context 
+Political Commitment 
+Risk:  
+Inherent 
+risk 
+Residual 
+risk 
+High 
+High 
+Substantial 
+Moderate 
+Moderate 
+Moderate 
+High 
+High 
+Low 
+Low 
+Low 
+High 
+Moderate 
+Low 
+Low 
+Low 
+Substantial  Moderate 
+High 
+Moderate 
+Moderate 
+Moderate 
+Low 
+Low 
+Low 
+Moderate 
+Moderate 
+Moderate 
+Low 
+Low 
+Low 
+Low 
+Low 
+Low 
+Substantial  Moderate 
+Substantial  Moderate 
+Substantial  Moderate 
+Moderate 
+Low 
+Substantial  Moderate 
+Substantial  Moderate 
+Substantial  Moderate 
+Low 
+Low 
+Low 
+Moderate 
+Low 
+Low 
+Low 
+Low 
+Low 
+Low 
+Substantial  Moderate 
+Low 
+Low 
+Low 
+Low 
+Moderate 
+Moderate 
+High 
+Moderate 
+Substantial  Moderate 
+High 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+High 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Low 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+High 
+High 
+Substantial 
+Moderate 
+High 
+Moderate 
+Lack of political will, resistance from vested interests, and well-grounded practices in 
+the administration may hinder the implementation of reforms that would lead to more 
+19 
+Appendix III 
+EB 2021/134/R.47/Rev.1 
+transparency in systems of subsidies and oligopolies, in particular in the groundnut 
+value chain and in the current system of seed multiplication and input supply.  
+Mitigations:  
+Continuous support for these key Program elements through the policy dialogue with 
+the GoS will help mitigate this risk.  
+The World Bank Group is experienced in coordinating a PforR, in addition to the policy 
+dialogue with Government. In addition, several DLIs have been developed that focus 
+on policy reforms and that put pressure on vested interests in the current system of 
+subsidizing and elite capturing, including: (a) DLI1 and DLI2 that encourages Ministry 
+of Agriculture to subsidized only certified seed;(b) DLI3 that obliges channeling 
+support to small producers; (c) DLI6 that pushes for restructuring of the Groundnut 
+inter-profession; (d) DLI7 that encourages making agriculture insurance available for 
+small farmers; (e) DLI8 and DLI9 that push for support to small farmers (warehouse 
+receipt system and dairy cooperatives). 
+Governance 
+Risk:  
+Government may underfinance implementation of PRACAS II and PNDE. 
+Mitigations:  
+The Program Action Plan (PAP), adopted by Government, the WBG and IFAD, includes 
+a Sector Expenditures Review in order to monitor financing of the agriculture and 
+livestock sector. In addition, first assessments have been made during the design 
+mission. In addition, the implementation support mission in March 2021 discussed the 
+issue of the updating of agriculture strategies and financing of the sector with 
+Government. Two recommendations were made: (1) finalizing and adopting the 
+PASAE of the Ministry of Agriculture; (7) linking the PforR proposals to existing 
+budgetary programmes for agriculture and livestock.  
+The Technical Coordination Teams (TCT) will receive the required backstopping and 
+capacity building.  
+Macroeconomic 
+Risk:  
+The expected positive economic growth in Senegal (expected at 6,3 percent for 2020 
+(AfDB, 2020) may severely be affected by the measures of restrictions to fight the 
+COVID-19 pandemic. The closure of borders may severely affect the vital trade of 
+agricultural and animal products in the region.  
+Mitigations:  
+Existing economic, crucial for the local economies are and will be used to develop sane 
+and safe trade behaviors to keep them functioning and supplying both rural and urban 
+areas.  
+Moderate  Moderate 
+Moderate  Moderate 
+High 
+High 
+High 
+High 
+Fragility and Security 
+Risk:  
+High 
+Moderate 
+Senegal is not directly confronted with a war situation, however it shares borders with 
+Mali in its eastern regions. Senegal host refugees camps and population fleeing Mali 
+whose extreme economic vulnerability is even exacerbated with the COVID-19 
+pandemic.  
+High 
+Moderate 
+Mitigations:  
+The overall approach favours a shift of support from the Ministries of Agriculture and 
+Livestock towards smallholder farmers and livestock owners, and rural poor.  
+Sector Strategies and Policies 
+Policy alignment 
+Risk:  
+Internal discussions within the MAER on the modernization and streamlining of Sector 
+Strategies and Policies. 
+Mitigations:  
+Low 
+Low 
+Low 
+Low 
+Low 
+Low 
+20 
+Appendix III 
+EB 2021/134/R.47/Rev.1 
+The instrument used—the PforR—is designed to ensure full ownership by the 
+Government. The DLIs will be linked to the implementation of the selected critical 
+sector reforms, providing a strong incentive for their implementation. 
+Policy Development and Implementation 
+Risk:  
+The sector strategies and policies risk is substantial and also relates to the 
+implementation of key reforms as discussed above. 
+Mitigations:  
+Low 
+Low 
+Low 
+Low 
+Continuous support for these key Program elements through the WBG and IFAD policy 
+dialogue with the GoS will help mitigate this risk. In addition, the PCAE/PforR pushes 
+for updating and implementing national agriculture and livestock policies, as starting 
+point and precondition of the design of a PforR.  
+Environment and Climate Context 
+Project vulnerability to environmental conditions 
+Risk:  
+The environmental issues associated with the Program are related to the potential 
+increase of water, fertilizer and pesticide use resulting from the intensification of the 
+targeted value chains (groundnuts, horticultural crops and milk production). The ESSA 
+found that the applicable Environmental and Social Management systems in Senegal 
+are generally appropriate and comprehensive  
+Mitigations:  
+Substantial Moderate 
+High 
+Moderate 
+High 
+Moderate 
+An Environmental safeguards plan will be implemented, as agreed. Monitoring was 
+already undertaken by the Implementation Support Mission in March 2021.  
+Project vulnerability to climate change impacts 
+Moderate  Moderate 
+Risk:  
+Climate risk is high in Senegal. So they are exposed to climate change effects on 
+agriculture and natural resources. The high risk in the Groundnut Basin and pastoral 
+areas can lead to:  
+i)Decrease in crops productivity because of heat stress due to high temperature  
+iii) Decrease of rainfall pattern in the Groundnut Basin  
+Mitigations:  
+Moderate  Moderate 
+The PCAE/PforR has developed a comprehensive ESSA that propose some mitigation 
+measures like:  
+i) use of certified drought-tolerant seeds and crops shifting to be used to cope with 
+heat stress impacts on crops.  
+ii) improve the capacity of storage facilities and promotion of cultivation practices that 
+reduce water loss;  
+iii) promotion of climate-smart agriculture and adapted technology packages.  
+Project Scope 
+Project Relevance 
+Risk:  
+The programme scope is rather broad with regards to the actual needs and fully 
+aligned with national priorities. 
+Mitigations:  
+The programme is complementing and up scaling existing interventions implemented 
+by the development partners. The programme activities were discussed in detail with 
+the national stakeholders, including relevant public services (research, agriculture and 
+livestock services) and farmers’ organizations. 
+Technical Soundness 
+Risk:  
+Capacity to implement the proposed technical solutions.  
+Low 
+Low 
+Low 
+Low 
+Low 
+Low 
+Low 
+Low 
+Low 
+Low 
+21 
+Appendix III 
+Mitigations:  
+EB 2021/134/R.47/Rev.1 
+The Programme supports and up-scales existing and proven technical interventions 
+whose the main implementing partners are familiar with. The programme activities 
+were discussed in detail with the national stakeholders, including relevant public 
+services (research, agriculture and livestock services) and farmers’ organizations.  
+Institutional Capacity for Implementation and Sustainability 
+Implementation Arrangements 
+Risk:  
+Areas of intervention may induce heavy governance processes and delay actual 
+implementation 
+Mitigations:  
+Moderate  Low 
+Moderate  Low 
+Moderate  Low 
+The Programme will be implemented in Senegal within existing programmes and 
+directly supervised by WBG and GoS in collaboration with IFAD. The approach of the 
+PCAE/PforR in new in the Ministries of Agriculture and Livestock, but is at the same 
+time an opportunity. In order to mitigate risks, technical assistance was mobilized by 
+IFAD through the PADAER2 as well as through an additional financing (3 million USD), 
+mainly to build the internal capacity of the implementing entities.  
+Monitoring and Evaluation Arrangements 
+Risk:  
+M/E tools may differ from the one used by existing IFAD and WBG projects 
+Mitigations:  
+TCTs will be put in place and capacity building will be supported. Technical assistance 
+was mobilized by IFAD through the PADAER2 as well as through an additional 
+financing (3 million USD), mainly to build the internal capacity of the implementing 
+entities.  
+Project Financial Management 
+Project Organization and Staffing 
+Risk:  
+The Program is implemented by MAER, MEPA, and their affiliates, such as their central 
+and regional departments, ISRA, ANCAR, and ANIDA. The roles and functions are not 
+clearly defined and the Procedures Manual is still under development. The accounting 
+function needs additional staff. The personnel while experienced in implementing IFAD 
+projects needs additional capacity building on IFAD procedures and accounting.  
+Financial management will be the responsibility of DAGE as head of the ministerial 
+financial function (RFFIM cf. decree on State budget management). This management 
+will be carried out with the assistance of the heads of the administrative and financial 
+offices (BAF) of the national and regional departments, as well as the administrative 
+and financial departments (DAF) or accounting officers (AC) of the autonomous 
+structures. However, the DAGE does not have visibility and regular monitoring of the 
+financial execution of autonomous structures (Agencies, public establishments, 
+national companies and other similar structures).  
+Mitigations:  
+Roles and functions to be clarified in the Procedures manual and additional trainings to 
+be performed on IFAD policies and procedures and accounting. The minister to recruit 
+additional accounting agents.  
+Have a reporting framework and regular monitoring (monthly or quarterly) of the 
+execution of the transfer expenses of autonomous structures, as well as expenses on 
+external financing. Systematize quarterly budget execution reports by program and 
+structure. 
+Moderate  Low 
+Moderate  Low 
+High 
+Substantial 
+Substantial Moderate 
+High 
+Substantial 
+Project Budgeting 
+Risk:  
+Substantial Moderate 
+The 2020 budgets of all line ministries, including MAER and MEPA, have been prepared 
+in a program-based format. This major change aims to increase the links between 
+public policy objectives and resource allocation and institutionalize the results-based 
+approach in public resource management. All RAs and result indicators supported by 
+Substantial Moderate 
+22 
+Appendix III 
+EB 2021/134/R.47/Rev.1 
+the Program and the corresponding resource allocations are not yet comprehensively 
+included in the 2020 budget approved by Parliament in December 2019 and the three-
+year Medium-Term Expenditure Framework (DPPD, 2020–22). 
+There is a need to further improve the credibility of the budget. The World Bank 
+analysis suggests that multiple factors require attention, such as inadequate costing, 
+shortcomings in procurement planning and implementation, changes in priorities, and 
+lack of capacity to plan for complex projects. 
+The execution of budget credits is subject to modulation and authorization from the 
+services of the Ministry of Finance (mainly Budget Directorate) with cuts and 
+cancellations. 
+Mitigations:  
+Adjustments to the DPPD will be undertaken during the budget revision process, since 
+the planning process is dynamic. In future years of Program implementation, to 
+further enhance the policy alignment of the budget, technical assistance should be 
+provided to MAER and MEPA. In addition, the year n+1 draft program budget, PAP, 
+and DPPD shall be shared with the World Bank and IFAD for discussion and technical 
+advice to ensure with the government that the planning and budgeting document 
+includes RAs, results indicators, and budget allocation for the World Bank and IFAD 
+financed portion of the Program . 
+The Program has embedded actions to enhance the realism of the multiyear 
+expenditure plans, such as: (i) approval of the PRACAS II and LPDE to signal high-
+level commitment to deliver the strategic objectives for the sector; (ii) Government’s 
+commitment to allocate resources at a level consistent with the delivery of Program 
+results over the five years of the Program as reflected in the Program expenditure 
+framework; and (iii) the PAP stipulating that the initially approved annual Program 
+budget should not to deviate by more or less than 3 percent to comply with best 
+international practice. 
+The ministry of Finance should notify the MAER and MEPA of the monthly or quarterly 
+commitment ceilings.  
+Clearly identify in the SYSBUDGEP the budget lines of P4R activities so that they are 
+carried out without constraints.  
+Ensure that the credits necessary for the implementation of the project will not be 
+blocked or cancelled. 
+Project Funds Flow/Disbursement Arrangements 
+Moderate  Low 
+Risk:  
+The MAER and MEPA staff is experienced in using and managing temporary advances 
+and statement of expenditures and disbursements for with various financing 
+institutions. The counterpart funds of the State are entered in the State finance laws 
+(initial, amended) or by amending acts (orders or decrees of transfer or transfer of 
+credits) signed by the Ministry in charge of Finance or the president of the Republic. 
+Moderate  Low 
+Mitigations:  
+Disbursement will be processed as per World Bank instructions and into a distinct 
+dedicated account with the State Treasury. 
+Project Internal Controls 
+Risk:  
+Substantial Moderate 
+The texts governing public finances establish the principle of the separation of the 
+functions of authorizing officer of expenditure and of accountant.  
+The P4R with the World Bank has an operations manual that clearly defines the role of 
+each stakeholder.  
+The update should be done whenever necessary and with the approval of the Program 
+Steering Committee.  
+Reconciliation is not yet a frequent operation. 
+Substantial Moderate 
+The principle separation exists on the texts. But in practice, the same department and 
+the same actors can exercise ordering and receiving functions, as a member of the 
+procurement commission and the materials receiving commission. 
+23 
+Appendix III 
+EB 2021/134/R.47/Rev.1 
+The Ministry does not yet have an internal audit service. It is necessary to study the 
+content of the new decree on internal inspections adopted by the Council of Ministers 
+of June 16, 2021 to assess whether it takes into account the functions assigned to an 
+internal audit service.  
+Mitigations:  
+The segregation of duties should be enforced by differentiating between agents who 
+are members of procurement committees and those of reception committees. 
+MAER and MEPA need to create dedicated internal audit functions if the new decree on 
+internal inspections adopted by the Council of Ministers of June 16, 2021 does not 
+takes into account the functions assigned to an internal audit service.  
+Project Accounting and Financial Reporting 
+Substantial Moderate 
+Risk:  
+For the execution of the budget, the DAGE works on the SYSBUDGEP software 
+developed by the Information Systems Department (DSI) of the DGB of the MFB.  
+This software only allows monitoring of operating expenses and investment on internal 
+resources. Thus, the monitoring of staff costs (category 2) and expenditure on 
+external resources is not possible as well as the transfer expenditure of autonomous 
+structures. 
+There are internal shortcomings in the archiving and the original documents of the 
+expenditure files are always sent to the Treasury. 
+Substantial Moderate 
+The decree on the preparation of the state budget requires the MAER to produce an 
+annual performance report (RAP) which details the technical and financial results by 
+budget program. 
+An Independent Verification Agent (AVI) is also recruited within the framework of P4R 
+to measure the results of the Program being financed.  
+Mitigations:  
+If proved to be needed, acquire software that supports all the specifics and necessary 
+reports while awaiting the commissioning of SIGIF, a new application dedicated to the 
+financial management of the State. 
+Ensure sufficient archiving conditions for supporting documents.  
+Project External Audit 
+Risk:  
+Substantial Moderate 
+Since the line ministries are not required to prepare a full set of financial statements, 
+including statements of revenue and expenditures, financial position, statement of 
+cash flow, and notes to the financial statement, for the purposes of the proposed 
+Program, a fit-for-purpose annual financial statement format that will be subject to 
+external audit has been agreed upon during negotiations. Each line ministry (MEPA, 
+MAER, Ministry of Finance and Ministry in charge of Trade) will prepare its fit-for-
+purpose financial statement under the responsibility of DAGE. Other line ministries will 
+submit their financial statement to the MAER DAGE not later than two months after 
+the end of the period for consolidation. The fit-for-purpose financial statement will be 
+prepared each semester and will feed the program progress report.  
+Mitigations:  
+The annual fit-for-purpose financial statement will be subject to external audit by the 
+Supreme Audit Institution (SAI) with the support of a private audit firm. The 
+information to prepare the fit-for-purpose financial statement will be extracted from 
+the new IFMIS. 
+Project Procurement 
+Legal and Regulatory Framework 
+Risk:  
+Inexperience of staff in the MAER and MEPA with the PforR tool. 
+Mitigations:  
+Substantial Moderate 
+Low 
+Low 
+Low 
+Low 
+Low 
+Low 
+24 
+Appendix III 
+EB 2021/134/R.47/Rev.1 
+An assessment was made during design and measures proposed. The WBG in Dakar 
+has a dedicated team and will provide backstopping to the implementing entities. The 
+implementation support mission of World Bank in collaboration with IFAD that was 
+undertaken in March 2021, monitored the progress that was made with respect to 
+procurement and formulated recommendations. The Autorité de Régulation des 
+Marchés Publics du Sénégal did an audit of the system. 
+Accountability and Transparency 
+Risk:  
+The risk that accountability, transparency and oversight arrangements (including the 
+handling of complaints regarding, for example, SH/SEA and fraud and corruption) are 
+inadequate to safeguard the integrity of project procurement and contract execution, 
+leading to the unintended use of funds, misprocurement, SH/SEA, and/or execution of 
+project procurements outside of the required time, cost and quality requirements. 
+Mitigations:  
+The WBG in Dakar has a dedicated team and will provide backstopping. 
+Capability in Public Procurement 
+Risk:  
+Inexperience of staff in the MAER and MEPA with the PforR tool. 
+Mitigations:  
+Training sessions with the main implementing agencies will be organized to ensure 
+that their dedicated staff is well acquainted to the requirements.  
+An assessment was made during design and measures proposed.  
+Public Procurement Processes 
+Risk:  
+Inexperience of staff in the MAER and MEPA with the PforR tool. 
+Mitigations:  
+An assessment was made during design and measures proposed In addition to the 
+alignment on their respective procurement manuals, TA short-term support missions 
+will be planned. The WBG in Dakar has a dedicated team and will provide 
+backstopping. 
+Low 
+Low 
+Low 
+Low 
+Moderate  Low 
+Moderate  Low 
+Low 
+Low 
+Low 
+Low 
+Environment, Social and Climate Impact 
+Biodiversity Conservation 
+Risk:  
+Substantial Moderate 
+Low 
+Low 
+The ESSA notes that the promotion of water resource efficiency and increased land 
+productivity is not expected to have substantial downstream impacts in terms of water 
+quantity and quality.  
+Low 
+Low 
+Mitigations:  
+The proposed Program can be used strategically to strengthen Senegal’s 
+Environmental and Social Management Systems by reinforcing the human, financial 
+and logistical capacities of the key institutions to promote best practices, provide 
+quality assurance and monitor for compliance.  
+Training on sustainable use of pesticides and introduction to organic pesticides like 
+Neem oil. 
+Resource Efficiency and Pollution Prevention 
+Low 
+Low 
+Risk:  
+The intensification of the groundnuts, horticultural crops and livestock value chains 
+may result in increased use of fertilizers and pesticides. 
+Mitigations:  
+Low 
+Low 
+Guidelines on FAO norms, as well as training and awareness was included in the 
+mitigation plan. 
+25 
+EB 2021/134/R.47/Rev.1 
+Moderate  Moderate 
+Moderate  Moderate 
+High 
+Moderate 
+High 
+Moderate 
+Substantial Moderate 
+Substantial Moderate 
+High 
+Moderate 
+High 
+Moderate 
+Appendix III 
+Cultural Heritage 
+Risk:  
+Cultural heritage are under threat in the region because of the presence of armed 
+groups and terrorist groups and desire to migrate 
+Mitigations:  
+Programme itself provide opportunities and working towards peace and development 
+nexus 
+Indigenous People 
+Risk:  
+Social exclusion of women and youth due to limited access to land, elite capture. 
+Mitigations:  
+Technical assistance has been provided to prepare a gender action plan and youth 
+action plan to address such risks. 
+Labour and Working Conditions 
+Risk:  
+Child labor and poor labor conditions 
+Mitigations:  
+Integration of labor and decent working conditions into the ESSA 
+Community Health and Safety 
+Risk:  
+The COVID- 19 is a real threat for human health and people in the region. Unsafe and 
+non-healthy working conditions 
+Mitigations:  
+Activities to be considered are: remote sensing tools to better understand immediate 
+impacts of COVID 19 on food security and agricultural productivity, trainings on safe 
+labor practices, access to more protective equipment such as masks and gloves, 
+restrictions on workers on producer’s field, use of drones and other digital extension 
+tools for labor and input saving practices, shared mechanization. Additionally, risk 
+sharing mechanism such as insurance including pandemic insurance, digital marketing 
+platforms and logistics, sanitary and phyto-sanitary controls and good practices 
+gender dimension to COVID-19 to reduce women exposure. 
+Physical and Economic Resettlement 
+Moderate  Moderate 
+Risk:  
+It is not expected that populations could be physically or economically resettled 
+according to the assessment that was made during the design. 
+Moderate  Moderate 
+Mitigations:  
+An ESSA has been prepared 
+Greenhouse Gas Emissions 
+Risk:  
+CO2 emission from the investment is limited and would contribute to the climate 
+change 
+Mitigations:  
+FAO Exact tool was used to assess the volume of CO2 reduced or avoided and 
+adaptation activities under this programme are the response to this risk. The 
+environmental impact was quantified and included in the economic analysis of the 
+Programme. In addition, the CSA technologies and certified seeds that would be 
+promoted, lead to a better soil coverage and lower greenhouse gas emissions. 
+Moderate  Moderate 
+Moderate  Moderate 
+Vulnerability of target populations and ecosystems to climate variability and hazards  High 
+Moderate 
+26 
+Appendix III 
+Risk:  
+EB 2021/134/R.47/Rev.1 
+Rural Communities/ ecosystems, which they depend on, are extremely vulnerable to 
+natural hazards, which are, frequents in the region. Droughts, floods, sand storms, 
+locusts and pandemic 
+High 
+Moderate 
+Mitigations:  
+The program itself is a response to climate variability and natural hazards. Adaptation 
+and mitigation activities are identified to enhance the resilience of communities and 
+their ecosystems to climate variability and hazards  
+Stakeholders 
+Stakeholder Engagement/Coordination 
+Risk:  
+Various national initiatives differ and lack regional cohesiveness.  
+Mitigations:  
+All stakeholders- government, implementing entities, farmers’ organizations, etc., 
+expressed their commitment and are involved in the project design. Coordination 
+mechanisms at national and regional levels will allow decision makers to grasp mutual 
+challenges and achievements and act on them accordingly. 
+Stakeholder Grievances 
+Risk:  
+In terms of information, public consultations and grievance management, the 
+mechanisms set up for citizen participation at the local level, are moderately effective. 
+Mitigations:  
+The project governance is combined with a grievances set-up that will allow the 
+feedback from beneficiaries facilitated by the first line implementation partners (local 
+NGOs, CSOs as women and youth organisations, FOs that all strengthen social bounds 
+within communities) to be aired and reach out the coordination mechanisms. The 
+implementation support mission of World Bank in collaboration with IFAD that was 
+undertaken in March 2021, monitored the progress that was made with respect to the 
+setting up of a grievances mechanism. The mission was informed that a draft 
+document was prepared regarding the establishment of a grievance mechanism. 
+Moderate  Moderate 
+Moderate  Low 
+Moderate  Low 
+Moderate  Moderate 
+Moderate  Moderate 
+27 
+Disbursement-linked indicators  
+ILD[1] 
+IDA 
+millions de dollars 
+US 
+FIDA  
+millions de dollars 
+US 
+Domaine de résultats 1 : amélioration de la productivité et de la résilience des cultures et du bétail  
+1 
+2 
+3 
+4 
+5 
+Quantité de graines d'arachide certifiées acquises annuellement (tonnes) 
+Quantité cumulée de semences certifiées acquises pour les cultures de diversification (tonnes)  
+Pourcentage de la subvention destiné aux petits producteurs et aux technologies intelligentes 
+du point de vue climatique (% du montant de la subvention)  
+Taux de couverture vaccinale contre la peste des petits ruminants (PPR) (% de couverture)  
+Quantité cumulée de semences certifiées fourragères acquises par les producteurs (tonnes)  
+Domaine de résultats 2 : amélioration de l'environnement des entreprises et de l'intégration des marches  
+6 
+7 
+8 
+9 
+2
+8
+Restructuration de l'interprofession de l'arachide (CNIA)  
+Nombre de producteurs ayant accès à une assurance agricole pour les cultures et le bétail (par 
+an) 
+Opérationnalisation du système de réception des entrepôts (WRS) dans le bassin arachidier 
+étendu  
+Nombre de centres de collecte de lait soutenus et/ou équipés et opérationnels   
+35.0 
+15.0 
+20.0 
+30.0 
+10.0 
+10.0 
+10.0 
+4.01 
+5.0 
+Domaine de résultats 3 : Amélioration de la gouvernance, de la coordination et de la gestion des programmes dans le secteur. 
+10  
+Mise en place et fonctionnement d'un système de suivi et d'évaluation (S&E) au MAER et au 
+MEPA pour les performances en matière d'agriculture et d'élevage. 
+Allocation totale DLIs 
+Avance sur la préparation du programme (pas de DLI) 
+Soutien institutionnel et renforcement des capacités (IPL, pas DLI) 
+TOTAL GÉNÉRAL 
+10.0 
+149.01 
+0.99 
+150.0 
+0.0 
+6.0 
+0.0 
+7.0 
+0.0 
+0.0 
+5.0 
+0.0 
+0.0 
+2.0 
+20.0 
+- 
+3.0 
+23.0 
+[1] Tous les DLI sauf le DLI 10 sont extensibles, ce qui implique que les fonds seront déboursés annuellement en fonction des progrès réalisés. 
+A
+p
+p
+e
+n
+d
+x
+i
+I
+V
+E
+B
+2
+0
+2
+1
+/
+1
+3
+4
+/
+R
+.
+4
+7
+/
+R
+e
+v
+.
+1

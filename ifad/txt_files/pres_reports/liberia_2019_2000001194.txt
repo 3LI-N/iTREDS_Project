@@ -1,0 +1,2049 @@
+Document:
+Agenda:
+Date:
+Distribution:
+Original:
+EB 2019/127/R.32
+8(d)(iv)(b)
+13 August 2019
+Public
+English
+E
+President’s report
+Proposed financing
+Republic of Liberia
+Smallholder Agriculture Transformation and
+Agribusiness Revitalization Project
+Project ID: 2000001194
+Note to Executive Board representatives
+Focal points:
+Technical questions:
+Dispatch of documentation:
+Deirdre McGrenra
+Chief
+Institutional Governance and Member
+Relations
+Tel.: +39 06 5459 2374
+e-mail: gb@ifad.org
+Lisandro Martin
+Director
+West and Central Africa Division
+Tel.: +39 06 5459 2388
+e-mail: lisandro.martin@ifad.org
+Jakob Tuborgh
+Country Programme Manager
+Tel.: +225 88 81 21 37
+e-mail: j.tuborgh@ifad.org
+Executive Board — 127th Session
+Rome, 10-12 September 2019
+For: Approval
+EB 2019/127/R.32
+ii
+iii
+iv
+1
+1
+3
+3
+3
+3
+4
+5
+5
+9
+9
+9
+9
+9
+9
+9
+10
+11
+11
+11
+Contents
+Abbreviations and acronyms
+Map of the project area
+Financing summary
+I.
+Context
+A. National context and rationale for IFAD involvement
+B. Lessons learned
+II. Project description
+A. Project objectives, geographic area of intervention and target
+groups
+B. Components/outcomes and activities
+C. Theory of change
+D. Alignment, ownership, and partnerships
+E. Costs, benefits and financing
+III. Risks
+A. Project risks and mitigation measures
+B. Environment and social category
+C. Climate risk classification
+D. Debt sustainability
+IV.
+Implementation
+A. Organizational framework
+B. Planning, monitoring and evaluation, learning, knowledge
+management and communication
+C. Implementation plans
+V.
+Legal instruments and authority
+VI. Recommendation
+Appendices
+I. Negotiated financing agreement
+II. Logical framework
+Project delivery team
+Regional Director:
+Country Programme Manager:
+Project Technical Lead:
+Financial Management Officer:
+Climate and Environment Specialist:
+Legal Officer:
+Lisandro Martin
+Jakob Tuborgh
+Jonathan Agwe
+Radu Damianov
+Amath Pathe Sene
+Itziar Garcia Villanueva
+i
+EB 2019/127/R.32
+Abbreviations and acronyms
+FBO
+IBRD
+IDA
+IFAD11
+LACF
+M&E
+PAPD
+PIU
+SDGs
+SO
+STAR-P
+farmer-based organization
+International Bank for Reconstruction and Development
+International Development Association (of the World Bank Group)
+Eleventh Replenishment of IFAD's Resources
+Liberia Agriculture Commercialization Fund
+monitoring and evaluation
+Pro-Poor Agenda for Prosperity and Development
+project implementation unit
+Sustainable Development Goals
+strategic objective
+Smallholder Agriculture Transformation and Agribusiness Revitalization Project
+ii
+EB 2019/127/R.32
+Map of the project area
+Smallholder Agriculture Transformation and Agribusiness Revitalization Project
+Smallholder Agriculture Transformation and
+Agribusiness Revitalization Project
+iii
+EB 2019/127/R.32
+Financing summary
+Initiating institution:
+World Bank
+Borrower:
+Grant recipient:
+Executing agency:
+Total project cost:
+Amount of IFAD loan:
+Amount of IFAD Debt Sustainability
+Framework grant:
+Republic of Liberia
+Republic of Liberia
+Ministry of Agriculture
+US$61.9 million
+US$16.79 million
+US$6.21 million
+Amount of IFAD climate finance:*
+US$6.5 million
+Terms of IFAD loan:
+Highly concessional: Maturity period of 40 years,
+including a grace period of 10 years, with a service
+charge of 1.46 per cent per annum. Principal is to be
+repaid at 4.5 per cent of the total per annum for years
+11 to 30, and 1 per cent of the total per annum for years
+31 to 40. Principal repayments are payable
+semi-annually.
+Cofinancier:
+Amount of cofinancing:
+World Bank
+US$25 million
+Terms of cofinancing:
+Loan
+Contribution of beneficiaries and private
+sector partners:
+US$13.9 million
+Appraising institution:
+Cooperating institution:
+World Bank
+World Bank
+* As per the MDB Methodologies for Tracking Climate Adaptation and Mitigation Finance.
+iv
+EB 2019/127/R.32
+Recommendation for approval
+The Executive Board is invited to approve the recommendation contained in
+paragraph 55.
+I. Context
+A. National context and rationale for IFAD involvement
+1.
+2.
+3.
+4.
+National context
+The Republic of Liberia is home to approximately 4.2 million people, of which
+47 per cent live in rural areas. Ninety per cent of the population is under 35 years
+of age and 52.6 per cent is in the economically active age range (15 to 64 years).
+Agriculture remains the mainstay of the country’s economy. In addition to large
+commercial operations in the rubber and palm oil sector, Liberia’s family farms
+produce rice, cassava and horticultural crops, mostly on a small, near-subsistence
+scale. The sector employs around 70 per cent of the country’s labour force and
+contributes 44.7 per cent of its GDP. A large proportion of the 600,000 hectares of
+arable land available is unused. A range of structural challenges inhibit the sector’s
+effective development, including a weak regulatory framework, poor infrastructure
+and suboptimal performance of most agricultural value chains, reflected in low
+yields and a lack of investment.
+Liberia is among the countries with the lowest human development, ranked 181st
+out of 189 countries in the world. In spite of significant GDP growth in the years
+after the civil war, the economy is now stagnating, with 1.7 per cent growth in
+2018 and a projected growth of only 0.4 per cent in 2019. The poverty rate
+nationally is 50.9 per cent, while it stands at 71.6 per cent in the rural areas. Food
+insecurity in the rural areas is 58.8 per cent, compared to the national average of
+51.2 per cent. Thirty-five per cent of children under five years of age are stunted
+and 69 per cent are anaemic.
+Liberia is on the World Bank Group’s Harmonized List of Fragile Situations. It
+remains a fragile country, due primarily to the prolonged civil war (1989 to 2003),
+an epidemic of Ebola virus disease (2014 to 2015) and the limited capacity of
+public administration.
+Special aspects relating to IFAD’s corporate mainstreaming priorities
+The Smallholder Agriculture Transformation and Agribusiness Revitalization Project
+(STAR-P) proactively addresses the aspects of gender, youth, nutrition and
+environment/climate change, and is consequently aligned with the Eleventh
+Replenishment of IFAD's Resources (IFAD11) mainstreaming agenda and
+transformational framework. Key project activities under each area include:
+(a) Nutrition. Child undernutrition in all its forms (wasting, stunting and
+underweight) is a major concern for Liberia, where 30 per cent of children
+under five suffer from stunting and more than 500,000 are underweight. The
+project will therefore promote nutrition through a variety of activities,
+including the establishment of kitchen gardens for a subset of beneficiaries,
+support to horticulture value chains to expand the supply of nutritious food in
+the country, capacity-building in the Ministry of Agriculture and other
+institutions, and information campaigns for rural families to grow and
+purchase more nutritious food and increase dietary diversity.
+(b) Gender. Women in Liberia suffer from low access to productive assets –
+including land – and from uneven workloads at the household level. In
+addition, the primary school completion rate for girls is only 47 per cent,
+compared to 62 per cent for boys. The project will address key issues related
+1
+EB 2019/127/R.32
+to gender imbalances, through capacity-building in communities and in the
+public sector, in order to provide services to the rural poor with due
+consideration for gender aspects. The value chains to be supported by the
+project, particularly horticulture, have also been selected with a view to the
+participation rate of women. The beneficiary groups will include at least
+30 per cent women among their members.
+(c) Youth. Youth, defined to be between the ages of 18 and 35, is
+disproportionally affected by unemployment or informal employment,
+especially in rural areas. The project will address this issue through the
+establishment of quotas of at least 30 per cent for youth participation in
+beneficiary groups, and priority access to matching grants for rural youth
+entrepreneurs. In addition, the project will engage with the Government to
+improve the overall business environment in agriculture, which is expected to
+make the sector more attractive to youth.
+(d) Climate change. Liberia is one of the countries in the world that is most
+vulnerable to the adverse impacts of climate change and variability. The
+project will promote adaptation to climate change through a number of
+measures such as: intercropping along the selected value chain, which will
+increase crop diversification; the use of climate-resilient seeds; methods to
+retain soil nutrients/prevent soil erosion; improved water management; and
+integrated pest management.
+Rationale for IFAD involvement
+The project was approved by the World Bank in January. The financing agreement
+for the International Development Association (IDA) credit entered into force in
+late June 2019. The project will therefore be scaled up with IFAD financing.
+The project is fully aligned with the IFAD Strategic Framework 2016-2025 and the
+priorities established in the IFAD11 Consultation, such as targeting the poorest
+countries and fragile situations. It is also an example of IFAD’s renewed focus on
+partnerships to achieve the Sustainable Development Goals (SDGs) and the
+broader 2030 Agenda for Sustainable Development.
+In addition to overall alignment with IFAD’s strategic vision, there is a strong
+substantive rationale for engaging in the project: (i) the choices of vegetables, rice
+and oil palm as targeted value chains have good poverty reduction potential and
+are easy for smallholder farmers to adopt; (ii) the project helps ensure a concerted
+approach to the full value chain, which is needed in the Liberian context; and
+(iii) in a fragile situation like Liberia where IFAD has no country office, it is
+particularly relevant to partner with other development institutions that have an
+in-country presence, such as the World Bank.
+IFAD’s value addition, which was agreed upon in the joint IFAD–World Bank
+appraisal mission that took place in late 2018, includes the following: (i) the
+vegetable value chain being reintroduced in the project; (ii) emphasis on support
+to oil palm production being aligned with the Roundtable on Sustainable Palm Oil;
+and (iii) sharpening of the poverty focus through a better definition of the target
+group.
+The World Bank's project appraisal document mentions the potential cofinancing
+from IFAD and states that if it materializes in 2019, the Government is expected to
+submit a restructuring request to reflect IFAD’s joint cofinancing of the total project
+cost, which will lead to the issuance of a restructuring paper by the World Bank.
+5.
+6.
+7.
+8.
+9.
+10. However, the World Bank's project appraisal document does not reflect IFAD
+cofinancing in the cost tables, economic and financial analysis, geographic
+coverage and results framework targets – including in the number of beneficiaries
+reached. Upon approval of the IFAD financing and on the formal request of the
+Government, the World Bank will issue a restructuring paper that will indicate the
+2
+EB 2019/127/R.32
+changes to the project with the inclusion of IFAD cofinancing. It has been agreed
+that the restructuring paper will include, among other aspects: (i) updated cost
+tables; (ii) increased geographic coverage from five to nine counties; (iii) an
+update of the results framework to reflect increased outreach and nutritional focus;
+and (iv) references to the kitchen garden pilot that was introduced for a subset of
+the beneficiaries with the IFAD financing.
+11.
+Further refinements of technical details will be included in the project
+implementation manual, which will be jointly validated to ensure that best practices
+from both institutions are taken into consideration, particularly with regards to
+targeting, smallholder focus, nutrition and land rights for youth and women.
+12. An exchange of letters with the World Bank has been tabled at the session to
+present the agreed way forward.
+B. Lessons learned
+13.
+In fragile situations, proximity matters. Projects in the IFAD portfolio have
+historically faced lengthy time lags from approval to first disbursement. The lesson
+is that close follow-up and continuous support are needed after approval. One way
+to address the issue is to work with a development partner such as the World Bank
+with an in-country presence, able to provide close follow-up.
+14. Value chains facilitating smallholder market linkages. While well-performing
+tree crop value chains have traditionally benefited agribusiness firms, smallholder
+farmers can also benefit. However, for smallholders to participate and obtain
+higher value or a larger portion of the chain’s profits, the project will support them
+in meeting the demands of other value chain actors such as processors, retailers
+and exporters.
+15. Without explicit targeting measures, woman-headed households and
+youth may end up being left out of development processes. The integration
+of youth and women in the economy is fundamental for Liberia’s development.
+Without explicit efforts, youth and woman-headed households have limited access
+to opportunities in areas in which adult men control community-level processes.
+II. Project description
+A. Project objectives, geographic area of intervention and target
+groups
+Project development objective
+16. The project development objective is to increase agricultural productivity and
+commercialization on the part of smallholder farmers for the vegetable, rice and oil
+palm value chains in selected counties of Liberia. The geographic area will
+indicatively consist of the following counties: Bomi, Gbarpolu, Grand Cape Mount,
+Grand Gedeh, Lofa, Margibi, Maryland, Nimba and Sinoe.1
+17. The direct beneficiaries of the project are approximately 38,000 smallholder
+farmers, of whom at least 30 per cent will be women and young farmers.
+Intermediate beneficiaries will include agribusinesses and business development
+services enterprises that have business links to smallholder farmers in the targeted
+value chains. Indirect beneficiaries include government staff in targeted ministries,
+agencies, and commissions, and the private sector and other non-state institutions.
+B. Components/outcomes and activities
+18. The STAR-P will have three components: (i) institutional capacity-building and
+strengthening the enabling environment for farmers and state and non-state
+1 The original World Bank design only included Bomi, Grand Cape Mount, Lofa, Margibi and Nimba counties.
+3
+EB 2019/127/R.32
+actors; (ii) enhancing productivity and competitiveness; and (iii) efficient project
+management, monitoring and evaluation (M&E), and citizen engagement.
+19. Component 1: Institutional capacity-building and strengthening the
+enabling environment for farmers and state and non-state actors. This
+component aims to provide training and strengthen the capacity of farmer-based
+organizations (FBOs), and the institutional capacity of key public agencies and the
+private sector to deliver the priority services necessary to promote competitive
+commercial agriculture in Liberia. It will also finance studies with a view to
+addressing selected policies or regulations that currently constrain growth in the
+agrifood sector and particularly within the targeted value chains. The component
+will have the following subcomponents:
+Subcomponent 1.1: Strengthening market-oriented smallholder farmer
+groups for selected commodity value chains;
+Subcomponent 1.2: Institutional strengthening for selected government
+ministries, agencies, and commissions;
+Subcomponent 1.3: Capacity-building for selected private sector and non-
+state institutions; and
+Subcomponent 1.4: Strengthening the enabling environment, policy,
+regulations and administrative procedures for agribusiness development.
+20. Component 2: Enhancing productivity and competitiveness: This component
+aims at improving smallholders’ integration into the value chains targeted by the
+project. The project will finance matching grants for smallholder farmers,
+agribusinesses, business development service providers and financial institutions,
+through establishment of the Liberia Agricultural Commercialization Fund (LACF) to
+contribute to the costs of investment for the subprojects. Eligible expenditures will
+include productive infrastructure, equipment, technical assistance and incremental
+working capital. It will be implemented through the following subcomponents:
+Subcomponent 2.1: Investment support for productive links between
+smallholder farmers and agribusinesses;
+Subcomponent 2.2: Support to agribusinesses and business development
+service enterprises; and
+Subcomponent 2.3: Support to financial institutions.
+21. Component 3: Efficient project management, monitoring and evaluation,
+and citizen engagement. This component is about management of the project,
+including M&E and citizen engagement. It has the following subcomponents:
+Subcomponent 3.1: Efficient project management and M&E;
+Subcomponent 3.2: Effective communication and citizen engagement; and
+Subcomponent 3.3: Contingency emergency response.2
+C. Theory of change
+22. The STAR-P will increase agricultural productivity and commercialization on the
+part of smallholder farmers for selected value chains and counties in Liberia. It will
+contribute to the higher-level objectives of making selected value chains more
+efficient, commercialized and climate-resilient, which will contribute to improving
+household and national food security and nutrition, reducing rural poverty and
+improving shared prosperity.
+2 This subcomponent will be financed solely by the World Bank.
+4
+
+
+
+
+
+
+
+
+
+
+EB 2019/127/R.32
+23. To achieve higher productivity and increased sales of quality and climate-resilient
+products by smallholder farmers, the project will implement activities that lead to
+outcomes such as: (i) improved capacity of FBOs; (ii) the adoption by beneficiaries
+of improved agricultural technologies; (iii) the establishment and improvement of
+productive market links; and (iv) improved business environment, which will
+enhance efficiency and performance along the value chain.
+24. To achieve these outcomes, the project will: improve the capacities of FBOs, public
+institutions, and non-state organizations; build awareness on constraints to an
+enabling environment; support commercial partnerships between off-takers or
+processors and FBOs; support proposals by agribusiness and small and
+medium-sized enterprises for the delivery of upstream and downstream services –
+such as for aggregation, warehousing, packaging, distribution or information and
+communications technology; and support financial institutions through market
+research and assessments.
+D. Alignment, ownership, and partnerships
+25. Within the context of the 2030 Agenda, the project aims to contribute substantively
+to SDG 1 (No poverty) and SDG 2 (Zero hunger), through its focus on increasing
+incomes and improving food security for smallholder producers.
+26. The project is aligned with the Government’s development strategy, the Pro-Poor
+Agenda for Prosperity and Development (PAPD) 2018-2023, which identifies the
+agriculture sector as a major driver of economic growth and development. The
+PAPD recognizes the importance of investing in the agriculture sector in order to
+promote a structural transformation of the economy.
+27.
+Finally, the project is aligned with the IFAD country strategy note 2017-2019 for
+the Republic of Liberia, which has two strategic objectives (SOs):
+SO1: Smallholder farmers’ access to finance, inputs, skills and markets is
+improved; and
+SO2: Smallholders’ organizational capacities and access to Ministry of
+Agriculture extension services are improved.
+E. Costs, benefits and financing
+28.
+Project components 1 and 2 are partially counted as climate finance. The total
+amount of IFAD climate finance for this project is preliminarily calculated at
+US$6,519,575, which represents 28.4 per cent of the total IFAD project amount.
+Project costs
+29. Total combined project costs, including contingencies, are estimated at
+US$61.9 million. Table 1 presents a breakdown of the costs by component and
+subcomponent. It shows that component 1 (Institutional capacity-building and
+strengthening the enabling environment for farmers and state and non-state
+actors) represents US$9.3 million (15.1 per cent of total costs), while
+component 2 (Enhancing productivity and competitiveness) accounts for
+US$44.9 million (72.5 per cent of total costs), with US$7.7 million for component 3
+(Efficient project management, monitoring and evaluation, and citizen
+engagement) (12.4 per cent of total costs).
+5
+
+
+Table 1
+Project costs by component and subcomponent and financier
+(Thousands of United States dollars)
+Component/subcomponent
+Amount % Amount
+% Amount % Cash In-kind
+% Cash
+In-kind % Amount
+IFAD loan
+IFAD grant
+World Bank
+Beneficiaries
+and private sector
+Borrower/counterpart
+Total
+1. Institutional capacity-building and strengthening the enabling environment for farmers
+and state and non-state actors
+1.1 Strengthening market-oriented smallholder farmer groups for selected commodity
+value chains
+3 104
+33
+1 148
+12
+5 075
+54
+2 462
+46
+911
+17
+1 981
+37
+1.2 Institutional strengthening for selected government ministries, agencies, and
+commissions
+291
+18
+108
+1.3 Capacity-building for selected private sector and non-state institutions
+1.4 Strengthening the enabling environment, policy, regulations and administrative
+procedures for agribusiness development
+2. Enhancing productivity and competitiveness
+2.1 Investment support for productive links between smallholder farmers and
+agribusinesses
+2.2. Support to agribusinesses and business development service enterprises
+6
+2.3 Support to financial institutions
+3. Efficient project management, monitoring and evaluation, and citizen engagement
+3.1 Efficient project management and M&E
+3.2 Effective communication and citizen engagement
+3.3. Contingency emergency response
+Total
+108
+242
+10 988
+10 224
+764
+-
+2 691
+2 326
+365
+-
+16 789
+7
+33
+24
+26
+15
+-
+35
+35
+37
+-
+27
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+7
+2
+1 197
+1 502
+12
+395
+75
+91
+54
+40
+90
+4 064
+9
+15 959
+36 8 308
+5 580
+3 782
+10
+13 487
+34 6 554
+5 141
+283
+-
+995
+860
+135
+-
+6
+-
+13
+13
+13
+-
+2 141
+42 1 523
+330
+3 975
+3 475
+500
+-
+53
+53
+50
+50
+-
+231
+-
+-
+-
+-
+381
+58
+-
+-
+-
+-
+6 210
+10
+25 000
+40 8 308
+5 580
+23
+-
+-
+-
+-
+-
+31
+30
+38
+47
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+9 327
+5 354
+1 597
+1 650
+727
+44 899
+39 188
+5 091
+619
+7 661
+6 662
+1 000
+-
+61 888
+E
+B
+2
+0
+1
+9
+/
+1
+2
+7
+/
+R
+.
+3
+2
+Table 2
+Project costs by expenditure category and financier
+(Thousands of United States dollars)
+IFAD loan
+IFAD grant
+World Bank
+Expenditure category
+Amount
+% Amount
+1. Vehicles
+2. Equipment and materials
+3. Consultancies
+4. Training
+5. Workshops
+6. Grants and subsidies
+7. Salaries/allowances
+8. Operating costs
+Total
+145
+394
+1 644
+1 513
+723
+9 579
+1 421
+1 371
+16 789
+25
+55
+36
+39
+32
+23
+31
+33
+27
+53
+146
+608
+560
+267
+3 543
+526
+507
+6 201
+%
+10
+20
+13
+14
+12
+9
+12
+12
+10
+Amount
+374
+182
+2 365
+1 806
+1 285
+14 172
+2 565
+2 252
+25 000
+%
+65
+25
+51
+47
+57
+34
+57
+55
+40
+Beneficiaries
+and private sector
+Borrower /counterpart
+Total
+Cash
+In-kind
+% Cash
+In-kind
+%
+Amount
+-
+-
+-
+-
+-
+8 308
+-
+-
+8 308
+-
+-
+-
+-
+-
+5 580
+-
+-
+5 580
+-
+-
+-
+-
+-
+34
+-
+-
+23
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+572
+721
+4 617
+3 879
+2 275
+41 182
+4 512
+4 129
+61 888
+Table 3
+Project costs by component and subcomponent and project year (PY)
+(Thousands of United States dollars)
+7
+Component/subcomponent
+1. Institutional capacity-building and strengthening the enabling environment for farmers and state and
+non-state actors
+1.1 Strengthening market-oriented smallholder farmer groups for selected commodity value chains
+1.2 Institutional strengthening for selected government ministries, agencies, and commissions
+1.3 Capacity-building for selected private sector and non-state institutions
+1.4 Strengthening the enabling environment, policy, regulations and administrative procedures for
+agribusiness development
+2. Enhancing productivity and competitiveness
+2.1 Investment support for productive links between smallholder farmers and agribusinesses
+2.2 Support to agribusinesses and business development service enterprises
+2.3 Support to financial institutions
+3. Efficient project management, monitoring and evaluation, and citizen engagement
+3.1 Efficient project management and M&E
+3.2 Effective communication and citizen engagement
+3.3 Contingency emergency response
+Total
+PY1
+PY 2
+PY3
+PY4
+PY5
+Total
+Amount % Amount % Amount
+% Amount
+% Amount
+% Amount
+2 854
+1 316
+886
+439
+213
+6 387
+5 200
+984
+203
+2 739
+2 547
+192
+-
+11 981
+31
+25
+56
+27
+29
+14
+13
+19
+33
+36
+38
+19
+-
+19
+2 264
+1 342
+418
+307
+197
+10 831
+9 622
+1 003
+206
+1 191
+995
+196
+-
+14 286
+24
+25
+26
+19
+27
+24
+25
+20
+33
+16
+15
+20
+-
+23
+2 033
+1 362
+132
+397
+143
+10 920
+9 688
+1 022
+210
+1 249
+1 049
+200
+-
+14 201
+22
+25
+8
+24
+20
+24
+25
+20
+34
+16
+16
+20
+-
+23
+1 785
+1 334
+102
+251
+97
+10 138
+9 098
+1 041
+-
+1 189
+985
+204
+-
+13 112
+19
+25
+6
+15
+13
+23
+23
+20
+-
+16
+15
+20
+-
+21
+392
+-
+59
+256
+77
+6 622
+5 580
+1 042
+-
+1 294
+1 086
+208
+-
+8 307
+4
+-
+4
+16
+11
+15
+14
+20
+-
+17
+16
+21
+-
+13
+9 327
+5 354
+1 597
+1 650
+727
+44 899
+39 188
+5 091
+619
+7 661
+6 662
+1 000
+-
+61 888
+E
+B
+2
+0
+1
+9
+/
+1
+2
+7
+/
+R
+.
+3
+2
+EB 2019/127/R.32
+Project financing and cofinancing strategy and plan
+30. STAR-P will be financed by an IDA credit of US$25 million, an IFAD financing
+envelope of US$23 million (comprised of a highly concessional loan and a Debt
+Sustainability Framework grant) and contributions of US$4.5 million from the
+private sector and US$9.3 million from the direct beneficiaries. In accordance with
+the World Bank’s country financing parameters and as an exception to the IFAD
+General Conditions for Agricultural Development Financing, taxes can be financed
+under the project, with no counterpart funds expected from the Government.
+Disbursement
+31. The funds will flow into a designated account denominated in US dollars in a
+commercial bank in Liberia acceptable to the Fund. Separate designated accounts
+will be opened for each financier to avoid co-mingling of funds as well as ease bank
+reconciliations. With regards to the LACF, the Fund’s manager will be allowed to
+operate an operational account to manage the matching grant scheme. STAR-P will
+use the traditional methods of disbursement, which depend on the submission of
+statements of expenditure to the World Bank and replenishment of project
+accounts accordingly. The maximum authorized allocation will be determined for
+the designated account so as to avoid liquidity problems.
+32. Given that the World Bank will be designated as the cooperating institution, review
+and authorization of withdrawal applications from the IFAD accounts will be
+undertaken by it.
+Summary of benefits and economic analysis
+33. The project’s incremental benefits are estimated for a 20-year period by applying a
+discount rate of 6 per cent to reflect the opportunity cost of capital. Under these
+assumptions, the overall economic internal rate of return is 23 per cent. The net
+present value is US$51.5 million. A sensitivity analysis was conducted to test the
+robustness of these indicators against changes in key parameters.
+Exit strategy and sustainability
+34. STAR-P project formulation aims at ensuring the sustainability of activities and
+benefits after project completion. The project’s exit strategy is therefore built into
+the project design and is also reflected in the theory of change. Key elements of
+the exit strategy include that:
+(a)
+(b)
+(c)
+The project aims at strengthening FBOs to enable them to collectively plan
+production, purchase inputs and sell their goods through stable private sector
+engagement;
+The public sector will be strengthened with improved capacities to support
+smallholder farmers and other value chain players. These improved capacities
+will help enable the public sector to continue the support after project
+closure; and
+Through policy engagement, an improved policy framework more favourable
+towards smallholder producers will enhance the sector’s opportunities in the
+future and enable smallholders to continue to improve their socio-economic
+situation after project closure.
+8
+EB 2019/127/R.32
+III. Risks
+A. Project risks and mitigation measures
+35. The main risks and mitigation measures are as following:
+Table 4
+Risk
+Risk
+rating
+Mitigation measures
+Political/governance
+High
+Liberia is characterized as being fragile. A key political challenge is to eliminate
+entrenched patterns of elite capture. Mitigation measures include independent
+management of the LACF to ensure impartiality in financing matching grants.
+Institutional capacity
+Medium
+Liberia’s weak institutional capacities limit the quality of its public service delivery.
+The project will provide institutional capacity-building under subcomponent 1.2.
+Fiduciary: financial
+management
+Fiduciary:
+procurement
+Environment and
+climate
+Medium
+Medium
+Medium
+The capacity and implementation readiness for financial planning are recognized
+as significant weaknesses in Liberia and need to be closely monitored.
+Procurement officers will be competitively recruited, with capacity-building and
+support provided upon request, and supervision and checks undertaken regularly.
+Mainstreaming of climate change mitigation and adaptation practices will be
+undertaken. No large-scale oil palm plantations will be established.
+B. Environment and social category
+36. World Bank safeguards procedures will apply to the project. The following
+documents have been developed: (i) Environmental and Social Management
+Framework; (ii) Pest Management Plan; and (iii) Resettlement Policy Framework.
+37. Some large-scale oil palm plantations have received criticism for unsustainable
+practices. The STAR-P will only finance smallholder plantations; no subproject with
+any potential adverse environmental or social impacts will be financed. It should
+also be noted that the oil palm is native to West Africa and that palm oil is an
+integral part of the local cuisine. The project is identified as category B.
+C. Climate risk classification
+38. Safeguards against climate vulnerabilities are built into the project activities,
+notably in the rice value chain – including the introduction of improved production
+techniques and lowland rehabilitation – and in the oil palm value chain, including a
+focus on the rehabilitation/replanting of plantations rather than expanding to new,
+currently forested areas. A climate risk assessment has been undertaken by the
+World Bank.
+D. Debt sustainability
+39. The risk of debt distress for Liberia is considered to be moderate, with total debt
+stock accounting for 25 per cent of GDP, composed mostly of multilateral loans.
+However, Liberia remains a fragile country, vulnerable to external shocks.
+Moreover, the outcomes of the last consultation and surveillance mission from the
+International Monetary Fund in 2019 noted negative economic and financial trends
+that could eventually impact Liberia’s ability to meet its external obligations.
+IV. Implementation
+A. Organizational framework
+Project management and coordination
+40. A project implementation unit (PIU) will be established within the existing project
+management unit under the Ministry of Agriculture, to implement the project in
+partnership with this ministry and its county officials.
+41. The responsibilities of the PIU will include: project planning and management;
+financial management; procurement; M&E; communication and knowledge
+management; supervision of project activities; facilitating linkage with
+9
+EB 2019/127/R.32
+governmental, private sector and development partner institutions; and integrating
+project experience into policy engagement.
+Financial management, procurement and governance
+42. Financial management. A financial management assessment was conducted for
+the project, in accordance with the World Bank directive. Given that the project
+management unit is currently managing the fiduciary functions for World Bank- and
+IFAD-financed projects, the project will build on past financial management
+arrangements in World Bank-financed projects, which are assessed as adequate for
+ensuring: (i) that the funds are used only for the intended purposes and in an
+efficient and economical way; (ii) the preparation of accurate, reliable, and timely
+periodic financial reports; (iii) the safeguarding of the project's assets; and
+(iv) that fiduciary assurances are provided through an independent audit of the
+project. The control risk is assessed as moderate. The overall residual financial
+management risk for the project is assessed as high, but is reduced to moderate
+because of the articulated measures for risk mitigation and external auditing by the
+Government's General Auditing Commission.
+43. World Bank and IFAD funds will be executed according to a pari passu arrangement
+that will be established in the restructured IDA financing agreement and the IFAD
+financing agreement. The pari passu shall tentatively be 48 per cent for IFAD and
+52 per cent for the World Bank.
+44. Procurement. The recipient will carry out procurement under the project in
+accordance with the World Bank’s procurement regulations, and will adhere to the
+Guidelines on Preventing and Combating Fraud and Corruption in Projects Financed
+by IBRD Loans and IDA Credits and Grants, and to other provisions stipulated in
+the financing agreements. The project will use the World Bank’s Systematic
+Tracking of Exchanges in Procurement, an online tool for the planning and tracking
+of all procurement transactions.
+45. Governance. A steering committee will be established, and will include
+representatives of the relevant ministries and agencies, public and private sector
+institutions, non-state actors, and youth and women’s organizations. It will be
+chaired by the Ministry of Agriculture.
+B. Planning, monitoring and evaluation, learning, knowledge
+management and communication
+46. The project will build on the PIU M&E systems set up under past World Bank
+projects. An initial assessment of the PIU M&E capacities highlighted the need for
+staff training and the use of software packages to improve M&E efficiency. Among
+other capacity-building initiatives, staff will be trained through the IFAD-initiated
+Programme in Rural M&E, which aims to enhance staff capacity to monitor and
+report on project results.
+47. The project’s logical framework will be the main tool for supporting results-based
+monitoring, reporting and learning. While the World Bank results framework will be
+used, parallel reporting will be undertaken to IFAD’s Operational Results
+Management System. Knowledge management will be integrated into the M&E
+system.
+48.
+Innovation and scaling up
+Innovation. The project will facilitate the provision of services by oil palm
+concessions to neighbouring communities, by including these communities in
+outgrower schemes. In addition, in order to mitigate the risk of outside
+interference in the decisions of the matching grant scheme, the project aims to
+provide matching grants through a professionally managed fund – a novelty in the
+country.
+10
+EB 2019/127/R.32
+49. Scaling up. The project builds on and will bring to scale the approaches of
+previous World Bank and IFAD projects,3 which supported smallholder FBOs in
+productivity growth and market linkages in the tree crop and rice value chains. The
+STAR-P will work with existing FBOs established under these projects. There will be
+ample opportunity to scale up the project at a later stage, by using the LACF model
+for matching grants in other geographic areas or in other value chains.
+C.
+Implementation plans
+Implementation readiness and start-up plans
+50. The IDA credit financing agreement became effective in late June; the recruitment
+of staff for the PIU is under way. Project start-up is therefore imminent. Execution
+of IFAD funds is not expected to encounter delays once the IFAD financing has
+become effective. The restructuring of the project following the approval of IFAD
+funds is expected to take place in the fourth quarter of 2019, in the context of
+which IFAD and the World Bank will jointly update the project implementation
+manual.
+Supervision, midterm review and completion plans
+51. The World Bank and IFAD will conduct joint supervision and implementation
+support to enhance the project’s impact. A midterm review will be conducted
+halfway into the project implementation period, with a completion report to be
+prepared after the project completion date.
+V. Legal instruments and authority
+52. A STAR-P financing agreement between the Republic of Liberia and IFAD will
+constitute the legal instrument for extending the proposed financing to the
+recipient.
+53. The Republic of Liberia is empowered under its laws to receive financing from IFAD.
+54.
+I am satisfied that the proposed financing will comply with the Agreement
+Establishing IFAD and the Policies and Criteria for IFAD Financing.
+VI. Recommendation
+55.
+I recommend that the Executive Board approve the proposed financing in terms of
+the following resolution:
+RESOLVED: that the Fund shall provide a loan for an amount of sixteen
+million seven hundred ninety thousand United States dollars
+(US$16,790,000) and a Debt Sustainability Framework grant for an amount
+of six million two hundred and ten thousand United States dollars
+(US$6,210,000) to the Republic of Liberia and upon such terms and
+conditions as shall be substantially in accordance with the terms and
+conditions presented herein.
+Gilbert F. Houngbo
+President
+3 Including the West Africa Agricultural Productivity Programme, the Smallholder Tree Crop Revitalization Support
+Project and the Agriculture Sector Rehabilitation Project.
+11
+Appendix I
+EB 2019/127/R.32
+Negotiated financing agreement
+(Negotiations concluded on 22 July 2019)
+DSF Grant No: __________
+Loan No:______________
+Project  name:  Smallholder  Agriculture  Transformation  and  Agribusiness  Revitalization
+Project (STAR-P) (“the Project”)
+The International Fund for Agricultural Development (the “Fund” or “IFAD”)
+and
+Republic of Liberia (the "Borrower/Recipient")
+(each a “Party” and both of them collectively the “Parties”)
+WHEREAS the Borrower/Recipient has requested a loan and a grant from the Fund for the
+purpose of financing the Project described in Schedule 1 to this Agreement;
+WHEREAS the  International  Development  Association  (herein  referred  to  as  “IDA”)  has
+agreed  to  extend  financing  (the  “IDA  Financing”)  to  the  Borrower/Recipient  in  the
+amount  of  twenty  five  million  United  States  dollars  (USD  25  million)  to  assist  in  co-
+financing the Project on terms and conditions to be set forth in an Agreement (the “IDA
+Financing Agreement”) between the Borrower/Recipient and IDA.
+Section A
+The  following  documents  collectively  form  this  Agreement:  this  document,  the
+1.
+Programme  Description  and  Implementation  Arrangements  (Schedule  1),  the  Allocation
+Table (Schedule 2) and the Special Covenants (Schedule 3).
+2.
+The  Fund’s  General  Conditions  for  Agricultural  Development  Financing  dated  29
+April 2009, amended as of December 2018, and as may be amended hereafter from time
+to  time  (the “General  Conditions”)  are  annexed  to  this  Agreement,  and  all  provisions
+thereof  shall  apply  to  this  Agreement,  except  for  the  provisions  identified  in  Section  E
+paragraph 4 below. For the purposes of this Agreement the terms defined in the General
+Conditions shall have the meanings set forth therein.
+3.
+The Fund  shall  provide  a  Debt  Sustainability  Framework  (DSF)  Grant  and  a  Loan
+(the  “Financing”  )  to  the  Borrower/Recipient  which  the  Borrower/Recipient  shall  use  to
+implement  the  Programme  in  accordance  with  the  terms  and  conditions  of  this
+Agreement.
+Section B
+(a) The amount of the DSF Grant is six million two hundred and ten thousand USD
+1.
+(USD 6 210 000)
+(b) The amount of the loan is sixteen million seven hundred ninety thousand USD
+(USD 16 790 000).
+2.
+The  loan  shall  be  free  of  interests  but  bear  a  service  charge  of  one  point  forty  six
+per  cent  (1.46%)  per  annum  payable  semi-annually  in  the  Loan  Service  Payment
+Currency, and shall have a maturity period of forty (40) years, including a grace period of
+ten  (10)  years  starting  from  the  date  of  approval  of  the  Loan  by  the  Fund's  Executive
+Board. Principal is to be repaid at four point five per cent (4.5%) of the total principal per
+annum  for  years  11  to  30,  and  one per  cent  (1%)  of  the  total  principal  per  annum  for
+1
+Appendix I
+EB 2019/127/R.32
+years 31 to 40. Principal repayments are payable semi-annually. The rate is fixed for the
+life of the loan based on the related charge in force at the time of approval of the loan.
+3.
+4.
+The Loan Service Payment Currency shall be in US dollar.
+The first day of the applicable Fiscal Year shall be July 1 of each year.
+Payments  of  principal  and  service  shall  be  payable  on  each  15  February  and  15
+5.
+August.
+6.
+The  arrangements  for  the  Designated  Accounts  denominated  in  USD  (the
+“Designated Accounts”) opened by the Borrower/Recipient through which the proceeds of
+the  IFAD  Financing  shall  be  channelled  and  the  operational  bank  accounts  shall  be
+detailed in the IDA Disbursement Letter.
+Section C
+1.
+The Lead Project Agency shall be the Ministry of Agriculture (MoA).
+The Project Completion Date shall be the fifth anniversary of the date of entry into
+2.
+force of this Agreement.
+Section D
+1. The Loan shall be administered by the IDA as the Cooperating Institution and
+the  Project  shall  be  supervised  jointly  by  the  IDA  and  the  Fund  until  the
+Closing Date of the IDA Financing currently set at 30 November 2024 or such
+later  date  as  the  Fund  may  designate  by  notice  to  the  Borrower/Recipient.
+Thereafter, the Loan shall be administered and the Project shall be supervised
+by the Fund.
+2.  A  Mid-Term  Review  shall  be  conducted  by  IFAD  and  IDA  as  specified  in  Section  8.03
+(b) and (c) of the General Conditions.
+Section E
+The  following  are  designated  as  additional  grounds  for  suspension  of  this
+1.
+Agreement: The IDA Financing Agreement shall have been suspended.
+The  following  are  designated  as  additional  grounds  for  cancellation  of  this
+2.
+Agreement: the IDA Financing Agreement shall have been cancelled.
+3.
+The following are designated as additional conditions precedent to withdrawal:
+(a) the Project Implementation Manual (PIM) has been prepared to the satisfaction of
+the Fund;
+(b) the Borrower has signed up to IFAD's Client Portal;
+(c) The Project accounting software has been installed and duly set-up;
+(d) The key Project staff has been duly appointed;
+(e) The entry into force of a cooperation agreement (Letter of Appointment) between
+the World Bank and IFAD.
+The  following  provisions  of  the General  Conditions  shall  be  replaced  to  read  as
+4.
+follows:
+2
+Appendix I
+EB 2019/127/R.32
+(a) Sections  7.05  (Procurement):  all  goods,  works  and  consultants  services
+required  for  the  Project  and  to  be  financed  out  of  the  proceeds  of  the
+financing shall be procured in accordance with the World Bank’s “Guidelines:
+Procurement  under  IBRD  Loans  and  IDA  Credits”  (May  2004,  revised  in
+October 2006), the “Guidelines: Selection and Employment of Consultants by
+World  Bank  Borrowers”  (May  2004)  and  the  provisions  stipulated  in  Section
+III, Schedule 2 of the IDA Financing Agreement.
+(b) Section  7.01  (b)  (ii)  and  Article  8  (Implementation  Reporting  and
+Information): the Borrower/Recipient, shall monitor and evaluate the progress
+of the Project and prepare Reports, as well as Annual Workplans and Budgets
+(AWPBs), in accordance with Section II (A), Schedule 2 of the IDA Financing
+Agreement.
+5.
+This Agreement is subject to ratification by the Borrower/Recipient.
+The following are the designated representatives and addresses to be used for any
+6.
+communication related to this Agreement:
+For the Borrower/Recipient:
+Minister for Finance and Development Planning
+Ministry of Finance and Development Planning
+Broad Street
+P.O. Box 10-9013
+Monrovia, Liberia
+For the Fund:
+The President
+International Fund for Agricultural Development
+Via Paolo di Dono 44
+00142 Rome, Italy
+3
+Appendix I
+EB 2019/127/R.32
+This Agreement, [dated [click and type]], has been prepared in the English language in two
+(2) original copies, one (1) for the Fund and one (1) for the Borrower/Recipient and shall
+enter into force on the date of countersignature.
+THE REPUBLIC OF LIBERIA
+____________________
+Samuel D. Tweah, Jr
+Minister for Finance and Development Planning
+Date: ____________
+INTERNATIONAL FUND FOR
+AGRICULTURAL DEVELOPMENT
+___________________
+Gilbert F. Houngbo
+President
+Date: ______________
+4
+Appendix I
+EB 2019/127/R.32
+Schedule 1
+Project Description and Implementation Arrangements
+I.
+Programme Description
+1.
+The Project development objectives and activities shall be the same as described in
+Schedule 1 to the IDA Financing Agreement, as such agreement may be amended by the
+parties thereto from time to time. The IFAD funds co-finance Components 1, 2 and 3 of
+the Project  with  the  exception  of  Subcomponent  3.3. Contingency  emergency  response.
+In  addition,  the  IFAD  funds  will  finance  a  pilot  on  kitchen  gardens  for  a  subset  of
+beneficiaries.
+2. The Project shall be implemented in accordance with the provisions of Section
+I (Institutional Arrangements) of Schedule 2 to the IDA Financing Agreement,
+as such agreement may be amended by the parties thereto from time to time,
+and Article V of the “International Development Association General Conditions
+for IDA Financing, Investment Project Financing”, dated December 14, 2018.
+5
+Appendix I
+EB 2019/127/R.32
+Schedule 2
+Allocation Table
+1. (a)  Allocation  of  Loan  and  Grant  Proceeds.
+The  Table  below  sets  forth  the
+Categories of Eligible Expenditures to be financed by the Loan and the Grant and
+the  allocation  of  the  amounts  of  the  Loan  and  the  Grant  to  each  Category. All
+eligible  expenditures  belonging  to  the  categories  below  will  be  apportioned  on  a
+73:27 pari passu basis between the Loan Financing and the Grant Financing.
+Loan Amount
+Allocated in
+USD
+Grant Amount
+Allocated in
+USD
+Category
+Percentage
+(inclusive of
+taxes)
+Note A, Note B
+I.
+works, 
+non-
+Goods, 
+services,
+consulting 
+services,
+consulting 
+Training 
+and
+Incremental operating costs
+under  parts  1,  3.1  and  3.2
+of the Project;
+Costs 
+7 210 000
+2 670 000
+Note A, Note B
+Matching funds under part
+two of the project;
+II.
+Total
+9 580 000
+16 790 000
+3 540 000
+6 210 000
+Note  A:  the  proportion  of  IFAD  to  WB  financing  is  48%  to  52%  on  a  cumulative
+disbursement  basis  taking  into  account  the  eligibility of  expenditures  in  the  Project
+implementation period and the 6 month winding down period to IFAD closure date.
+Note  B:  taxes  are  eligible  for  IFAD  financing  in  accordance  with  Article  11.01.(c)  of  the
+General Conditions for Agricultural Development Financing.
+(b) The terms used in the Table above are defined as follows:
+I)  Category  I.  includes  expenditures  related  to  Vehicles,  Equipment  and
+Materials,  Consultancies,  Training,  Workshops,  Salaries  and  Allowances  and
+Operating Costs.
+II) Category II. includes expenditures related to grant and subsidies.
+6
+Appendix I
+EB 2019/127/R.32
+Schedule 3
+Special Covenants
+In  accordance  with  Section  12.01(a)(xxiii)  of  the  General  Conditions,  the  Fund  may
+suspend, in whole or in part, the right of the Borrower/Recipient to request withdrawals
+from  the  Grant  Account  if  the  Borrower/Recipient  has  defaulted  in  the  performance  of
+any covenant set forth below, and the Fund has determined that such default has had, or
+is likely to have, a material adverse effect on the Programme:
+1.
+Accounting software. The Project will use a customized accounting software as it
+is  the  practice  in  IFAD  on-going  supported  projects, to  satisfy  International
+Accounting Standards and IFAD's requirements.
+2.
+Memorandum of Understandings (MoUs).Within six (6) months of entry into force of
+the  Financing  Agreement,  the  project  will  enter  into  MoUs  with  implementing  partners
+that will structure the collaboration, define roles, responsibilities and duties with regards
+to implementation, financial management, accounting and reporting.
+3.
+Planning,  Monitoring  and  Evaluation.  The  Borrower/Recipient  shall  ensure  that  a
+Planning,  Monitoring  and  Evaluation  (PM&E)  system  shall  be  established  within  twelve
+(12) months from the date of entry into force of this Agreement.
+4.
+Gender and youth. The Borrower/Recipient shall ensure that the concerns of women
+and  youth  are given  due  consideration  in implementing  the  Project  and  that  the  quotas
+for women and youth participation established in the Project Implementation Manual are
+met.
+Indigenous People Concerns. The Borrower/Recipient shall ensure that the concerns
+5.
+of Indigenous Peoples (IPs) are given due consideration in implementing the Project and,
+to this end, shall ensure that:
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+the Project is carried out in accordance with the applicable provisions of
+the relevant IP national legislation;
+indigenous  people  are  adequately  and  fairly  represented  in  all  local
+planning for Project activities;
+IP rights are duly respected;
+IP communities, participate in policy dialogue and local governance;
+The terms of Declarations, Covenants and/or Conventions ratified by the
+Borrower/Recipient on the subject are respected;
+The Project will not involve encroachment on traditional territories used
+or occupied by indigenous communities.
+6.
+Environment  and  Social  Safeguards. The  Borrower/Recipient  shall  ensure  that  the
+Project will be implemented in compliance with the safeguards provisions specified in the
+IDA  agreement  and shall  ensure  that:  (a) all Project  activities  are  implemented  in  strict
+conformity  with  the  Borrower/Recipient's  relevant  laws/regulations (b) all  Project
+activities  give  special  consideration  to  the  participation  and  practices  of  ethnic  minority
+population  in  compliance  with  IFAD’s Policy  on  Indigenous  Peoples (2009),  as
+appropriate;  (c) proposals  for  civil  works  include  confirmation  that  no  involuntary  land
+acquisition or resettlement is required under the Project. In the event of unforeseen land
+acquisition  or  involuntary  resettlement  under  the  Project,  the  Borrower/Recipient  shall
+immediately inform IDA and the Fund and prepare the necessary planning documents, to
+be disclosed on IFAD website and at local level; (d) women and men shall be paid equal
+remuneration  for  work  of  equal  value  under  the  Project;  (e) recourse  to  child  labour  is
+not made under the Project; (f) fair treatment, non-discrimination, and equal opportunity
+of project workers (g) the measures included in the Gender Action Plan prepared for the
+7
+Appendix I
+EB 2019/127/R.32
+Project  are  undertaken,  and  the  resources  needed  for  their  implementation  are  made
+available, in a timely manner; (h) all necessary and appropriate measures to implement
+the Gender Action Plan to ensure that women can participate and benefit equitably under
+the  Project  are  duly  taken;  and  (i) easily  accessible  and  responsive  project-level
+grievance redress mechanism is established and operates effectively.
+7. Fraud  and  Corruption.  The  Borrower/Recipient  shall  ensure  that  the  Project  is
+carried out in accordance with the provisions of the “Guidelines on Preventing and
+Combating  Fraud  and  Corruption  in  Projects  Financed  by  IBRD  Loans  and  IDA
+Credits  and  Grants”,  dated  October  15  2006  (“Anti-Corruption  Guidelines”).  For
+the purposes of this Agreement, a finding of corruption pursuant to the provisions
+of the “Guidelines on Preventing and Combating Fraud and Corruption in Projects
+Financed by IBRD Loans and IDA Credits and Grants” shall be deemed a finding of
+corruption  under  the  “IFAD  Policy  on  Preventing  Fraud  and  Corruption  in  its
+activities and operations"as may be amended from time to time.
+8.
+Sexual Harassment, Sexual Exploitation and Abuse. The Borrower/Recipient and the
+Project  Parties  shall  ensure  that  the  Project  is  carried  out  in  accordance  with  the
+provisions  of  the  IFAD  Policy  on  Preventing  and  Responding  to  Sexual  Harassment,
+Sexual Exploitation and Abuse, as may be amended from time to time.
+Use of Project Vehicles and Other Equipment. The Borrower/Recipient shall ensure
+9.
+that:
+(a)
+(b)
+(c)
+all  vehicles  and  equipment  procured  under  the  Project  are  used  only  for
+Project implementation;
+the  types  of  vehicles and  equipment  procured  under  the  Project  are
+appropriate to the needs of the Project; and
+all vehicles and other equipment transferred to or procured under the Project
+are dedicated solely to Project use.
+8
+Logical framework
+Narrative Summary
+Key Performance
+Indicators
+Name
+Baseline
+(Y0)
+Mid-Term
+(Y3)
+Outreach
+Number of direct project beneficiaries
+Number of women beneficiaries reached
+Project Development Objective
+0
+0
+End
+Target
+(Y5)
+38,350
+20,000
+7,000
+12,356
+Means of Verification
+Source
+Frequency
+Responsibility
+Assumptions
+Baseline, MTR,
+Completion
+Survey, PCR
+PY1, PY3,
+PY5,
+Annually
+Baseline, MTR,
+Completion
+Survey, PCR
+PY1, PY3,
+PY5,
+Annually
+WB/IFAD-PIU Commitment of
+all stakeholders to
+participate in
+poverty reduction
+efforts
+WB/IFAD-PIU
+Increase
+agricultural
+productivity and
+promote
+commercialization
+of smallholder
+farmers
+9
+Increase in yield per targeted Value-
+Chain: Rice; disaggregated by gender
+(Percentage)
+Increase in yield per targeted Value-
+Chain: Oil-Palm; disaggregated by gender
+(Percentage)
+Increase in yield per targeted Value-
+Chain: Vegetables; disaggregated by
+gender (Percentage)
+Volume of annual sales (Mt) of rice
+produced by the beneficiary farmers'
+group disaggregated by gender (MT/year)
+Volume of annual sales (Mt) of oil palm
+produced by the beneficiary farmers'
+group disaggregated by gender (MT/year)
+Volume of annual sales (Mt) of vegetables
+produced by the farmers' group
+disaggregated by gender (MT/year)
+0
+10.00
+20.00
+0
+0
+0
+0.28
+0.20
+10.00
+20.00
+10.00
+20.00
+0.50
+2.0
+1.0
+0.75
+4.10
+1.60
+Baseline,
+MTR,
+Completion
+Survey
+Baseline, MTR,
+Completion
+Survey
+Baseline, MTR,
+Completion
+Survey
+PY1, PY3,
+PY5,
+PY1, PY3,
+PY5
+PY1, PY3,
+PY5
+WB/IFAD-PIU,
+survey
+providers
+WB/IFAD-PIU,
+survey
+providers
+WB/IFAD-PIU,
+survey
+providers
+Baseline, MTR,
+Completion
+Survey
+PY1, PY3,
+PY5
+WB/IFAD-PIU,
+survey
+providers
+Baseline, MTR,
+Completion
+Survey
+PY1, PY3,
+PY5
+Annually
+WB/IFAD-PIU,
+survey
+providers
+Baseline, MTR,
+Completion
+Survey,
+PY1, PY3,
+PY5
+Annually
+WB/IFAD-PIU,
+survey
+providers
+Government
+policies are stable,
+global demand for
+selected value
+chains and their
+commodity prices
+stay attractive.
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+9
+/
+1
+2
+7
+/
+R
+.
+3
+2
+Narrative Summary
+Key Performance
+Indicators
+Name
+Baseline
+(Y0)
+Mid-Term
+(Y3)
+End
+Target
+(Y5)
+Means of Verification
+Source
+Frequency
+Responsibility
+Assumptions
+Component 1: Institutional Capacity Building and Strengthening Enabling environment for farmers/state/non state
+Outcome: 1
+Strengthened market-
+oriented smallholder
+farmer groups for
+selected commodity
+value chains
+Output
+Number of Business Development Plans
+(BDPs) developed
+Number of Business Development Plans
+developed for women and youth
+Number of beneficiaries receiving capacity
+building training (disaggregated by
+gender)
+1
+0
+Number of agribusiness capacity
+strengthened (SMEs and large) during
+matching grant implementation
+0
+0
+80
+30
+750
+300
+1090
+400
+30,000
+42,640
+Project MIS,
+PIU progress
+report
+Project MIS,
+PIU progress
+report
+Project MIS,
+PIU progress
+report
+Quarterly, Bi-
+annual,
+Annually
+Quarterly, Bi-
+annual,
+Annually
+Quarterly, Bi-
+annual,
+Annually
+WB/IFAD-PIU Communities
+are involved
+and responsive to
+interventions
+made
+WB/IFAD-PIU
+WB/IFAD-PIU
+110
+190
+Project MIS,
+PIU progress
+report
+Quarterly, Bi-
+annual,
+Annually
+WB/IFAD-PIU
+Client days of training provided
+(disaggregated by gender)
+400
+30,000
+40,000
+Baseline, MTR,
+Completion
+Survey,
+FY1, PY3,
+PY5, Annually
+WB/FAD-PIU
+Component 2: Financial and Technical Assistance for Enhancing Productivity and Competitiveness
+Outcome 2:
+Improved smallholders’
+integration in the value
+chains targeted by the
+project.
+Percentage of capacity utilization rate of
+post-harvest processing facilities
+10.00
+30.00
+50.00
+Number of off-take arrangements
+delivered and sustained between FBOs
+and Buyers (by value chain)
+Number of productive market linkages
+sustained after one year of approval
+0
+0
+100
+90
+200
+160
+Baseline, MTR,
+Completion
+Survey, PIU
+progress report
+Baseline, MTR,
+Completion
+Survey, PIU
+progress report
+Baseline, MTR,
+Completion
+Survey, PIU
+progress report
+FY1, PY3,
+PY5,
+Annually
+WB/FAD-PIU Stakeholders
+including
+agribusinesses
+keep interest in
+integrating
+smallholders in
+value chains.
+Annually
+WB/IFAD-PIU
+Annually
+WB/FAD-PIU
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+9
+/
+1
+2
+7
+/
+R
+.
+3
+2
+Narrative Summary
+Key Performance
+Indicators
+1
+1
+Output
+Name
+Baseline
+(Y0)
+Mid-Term
+(Y3)
+End
+Target
+(Y5)
+Farmers adopting improved agricultural
+technology (CRI, Number)
+Farmers adopting improved agricultural
+technology - Female (CRI, Number)
+Farmers adopting improved agricultural
+technology - male (CRI, Number)
+0
+0
+0
+25,000
+35,000
+7,000
+11,550
+15,000
+23,100
+Percentage of farmers using market
+information (Percentage)
+0.00
+30.00
+50.00
+Farmers reached with agricultural assets
+or services (CRI, Number)
+Farmers reached with agricultural assets
+or services - Female (CRI, Number)
+Number of Matching Grants approved
+Number of Agrifinance products and
+services (credit lines, risk guarantees)
+developed by Financial Institutions
+0
+0
+0
+0
+25,000
+35,000
+7,000
+11,550
+750
+1,062
+5
+9
+Means of Verification
+Source
+Frequency
+Responsibility
+Assumptions
+FY1,  PY3,
+PY5,
+Annually
+FY1,  PY3,
+PY5,
+Annually
+FY1,  PY3,
+PY5,
+Annually
+FY1,  PY3,
+PY5,
+Annually
+Quarterly, Bi-
+annual,
+Annually
+Quarterly, Bi-
+annual,
+Annually
+Quarterly,
+Bi-annual,
+Annually
+WB/FAD-PIU
+WB/IFAD-PIU
+WB/FAD-PIU
+WB/IFAD-PIU
+WB/IFAD-PIU
+WB/FAD-PIU
+WB/IFAD-PIU
+Annually
+WB/IFAD-PIU
+Baseline, MTR,
+Completion
+Survey, PIU
+progress report
+Baseline, MTR,
+Completion
+Survey, PIU
+progress report
+Baseline, MTR,
+Completion
+Survey, PIU
+progress report
+Baseline, MTR,
+Completion
+Survey, PIU
+progress report
+Project MIS,
+PIU Project
+report
+Project M&E
+system, PIU
+progress
+report
+Project MIS,
+PIU progress
+report
+Baseline, MTR,
+Completion
+Survey, PIU
+progress report
+* Relevant indicators will be mapped to IFAD's Core Indicators and be reported regularly through ORMS.
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+9
+/
+1
+2
+7
+/
+R
+.
+3
+2

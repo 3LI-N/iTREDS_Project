@@ -1,0 +1,2955 @@
+Document: 
+Date: 
+Distribution: 
+Original: 
+EB 2021/LOT/P.12 
+8 December 2021 
+Public 
+English 
+E 
+President’s report 
+Proposed loan 
+United Mexican States 
+Balsas Basin – Reducing Climate Vulnerability 
+and Emissions through Sustainable 
+Livelihoods  
+Project ID: 2000002249 
+Note to Executive Board representatives 
+Focal points: 
+Technical questions: 
+Rossana Polastri 
+Regional Director 
+Latin America and the Caribbean Division 
+Tel.: +39 06 5459 2291 
+e-mail: r.polastri@ifad.org 
+Dispatch of documentation: 
+Deirdre Mc Grenra 
+Chief 
+Institutional  Governance  and 
+Member Relations 
+Tel.: +39 06 5459 2374 
+e-mail: gb@ifad.org 
+Francisco Pichon 
+Country Director 
+Tel.: +84 945 146 305 
+e-mail: f.pichon@ifad.org 
+For: Approval 
+EB 2021/LOT/P.12 
+Contents 
+Abbreviations and acronyms 
+Map of the project area 
+Financing summary 
+I. 
+Context 
+A. National context and rationale for IFAD involvement 
+B. Lessons learned 
+II.  Project description 
+A. Objectives, geographical area of intervention and target groups 
+B. Components, outcomes and activities 
+C. Theory of change  
+D. Alignment, ownership and partnerships 
+E. Costs, benefits and financing 
+III.  Risks 
+A.  Risks and mitigation measures 
+B.  Environment and social category 
+C.  Climate risk classification 
+D. Debt sustainability 
+IV.  Implementation 
+A.  Organizational framework 
+B.  Planning, monitoring and evaluation, learning, knowledge 
+management and communication 
+C.  Implementation plans 
+Legal instruments and authority 
+V. 
+VI.  Recommendation 
+ii 
+iii 
+iv 
+1 
+1 
+3 
+3 
+3 
+4 
+5 
+6 
+6 
+9 
+9 
+10 
+10 
+10 
+10 
+10 
+11 
+12 
+12 
+12 
+Appendices 
+I.  Negotiated financing agreement  
+II.  Logical framework 
+III.  Integrated project risk matrix 
+Project delivery team 
+Regional Director: 
+Country Director: 
+Technical Lead: 
+Finance Officer: 
+Climate and Environment Specialist: 
+Legal Officer: 
+Rossana Polastri 
+Francisco Pichon 
+Oliver Page 
+Dario Rimedio 
+Oliver Page  
+Adriana Jauregui Zabalaga 
+i 
+EB 2021/LOT/P.12 
+Abbreviations and acronyms 
+CAP  
+Office of Coordination of the Advisers to the Presidency  
+CONAFOR  
+National Forestry Commission 
+COSOP 
+country strategic opportunities programme 
+GCF 
+GHG 
+NA  
+PCU 
+PDI 
+Green Climate Fund 
+greenhouse gas 
+agrarian unit 
+project coordination unit 
+agrarian unit-level integrated development plan  
+POEM 
+micro-basin-level ecological zoning plan  
+ROP 
+SDGs 
+SEMARNAT 
+rules of operation 
+Sustainable Development Goals 
+Secretariat of Environment and Natural Resources 
+SHCP 
+SSTC 
+Secretariat for Finance and Public Credit 
+South-South and Triangular Cooperation 
+ii 
+Map of the project area 
+i
+i
+i
+E
+B
+2
+0
+2
+1
+/
+L
+O
+T
+/
+P
+.
+1
+2
+EB 2021/LOT/P.12 
+Financing summary  
+Initiating institution: 
+IFAD 
+Borrower: 
+United Mexican States 
+Executing agency: 
+National Forestry Commission  
+Total project cost: 
+US$55.00 million 
+Amount of IFAD loan: 
+US$38.45 million 
+Terms of IFAD loan:  
+Ordinary with a maturity period of 24.5 years, a 
+grace period of 5 years and a variable spread 
+Contribution of borrower: 
+US$13.35 million 
+Financing gap 
+US$3.2 million 
+Amount of IFAD climate finance: 
+US$22.42 million 
+Cooperating institution: 
+Directly supervised by IFAD 
+iv 
+EB 2021/LOT/P.12 
+Recommendation for approval 
+The Executive Board is invited to approve the recommendation contained in 
+paragraph 62. 
+I.  Context 
+A.  National context and rationale for IFAD involvement 
+National context 
+1.  With a population of 126 million, the United Mexican States is an upper-middle-
+income country with an average per capita income of US$9,860. Despite being the 
+second largest economy in Latin America and the Caribbean, and ranking high on 
+the Human Development Index, Mexico continues to face structural barriers to 
+inclusive rural growth, which are further aggravated by gender, age, ethnic and 
+territorial inequalities. 
+2. 
+In 2018, poverty and extreme poverty affected 41.9 per cent (52.4 million) and 
+7.4 per cent (9.3 million) of the population, respectively. The COVID-19 crisis 
+unveiled large vulnerabilities in the country and pushed 9.5 million people into 
+poverty and 7.9 million into extreme poverty. Primarily a rural phenomenon, 
+extreme poverty is concentrated in the southern and south-eastern regions, which 
+have high proportions of indigenous peoples.  
+3.  While the agricultural sector employs 14 per cent of Mexico’s workforce, its 
+contribution to the country’s GDP is just under 4 per cent. More than half of 
+Mexico’s rural land is held collectively in núcleos agrarios (agrarian units) (NAs), 
+ejidos and agrarian communities. Most producers are therefore smallholders 
+involved in rainfed semi-subsistence production and lack access to services and 
+infrastructure.   
+4. 
+Community forestry is an important activity in NAs. Of the 11 million people who 
+live in forest areas, 88 per cent are in highly marginalized areas. Forestry 
+production accounted for 0.6 per cent of the country’s 2015 GDP. Forest 
+management and ecosystem conservation are supported by the National 
+Programme for Sustainable Forest Development [Programa Apoyos para el 
+Desarrollo Forestal Sustentable] (PADFS) implemented by the National Forestry 
+Commission [Comisión Nacional Forestal] (CONAFOR). 
+5.  Mexico was the first developing country to define its nationally determined 
+contribution (NDC) to the United Nations Framework Convention on Climate 
+Change, which were updated in 2020 to include climate change mitigation and 
+adaptation. The Secretariat of Environment and Natural Resources [Secretaría de 
+Medio Ambiente y Recursos Naturales] (SEMARNAT) is responsible for coordinating 
+implementation of the country’s climate change policy. The Secretariat for Finance 
+and Public Credit [Secretaría de Hacienda y Crédito Público] (SHCP) is the focal 
+point for international climate finance agencies and administers the federal budget 
+for public programmes.  
+6. 
+The Government has promoted a range of pro-poor programmes towards greater 
+food self-sufficiency and targeting vulnerable groups in rural areas. The 
+Government’s new reformist approach has driven considerable changes in public 
+investment policy through the 2019-2024 National Development Plan, prioritizing 
+highly marginalized areas and economically and socially fragile populations.   
+7.  One of the key public policy challenges in Mexico is achieving greater efficiency 
+through priority programmes in rural areas. As of December 2020, 
+63 billion Mexican peso had been delivered to the Balsas region through various 
+national programmes. However, most of these initiatives are working 
+1 
+EB 2021/LOT/P.12 
+8. 
+9. 
+independently, with a low level of harmonization and based on rules of operation 
+(ROP) that do not integrate climate change criteria.  
+Special aspects relating to IFAD’s corporate mainstreaming priorities 
+The project is aligned with all cross-cutting commitments of the Eleventh 
+Replenishment of IFAD’s Resources (IFAD11) – climate, gender, youth and 
+nutrition – and has been validated as: 
+☒ Including climate finance; 
+☒ Gender transformational; and 
+☒ Youth-sensitive. 
+According to the National Institute of Ecology and Climate Change, the Balsas Basin 
+is one of the two regions in Mexico with the highest climate vulnerability. Future 
+climate change scenarios predict greater variability in temperatures, a 10-
+20 per cent decrease in precipitation and an average sea level rise of 1-2 meters. 
+This is expected to reduce agricultural productivity and forest and mangrove cover; 
+adversely impact the availability of ecosystem services; increase coastal flooding; 
+and impact tourism infrastructure. In terms of greenhouse gas (GHG) emissions, 
+total deforestation-related CO2 emissions from 2001 to 2018 were 76.1 MtCO2e. 
+Emissions from the Balsas Basin account for 17.3 per cent of that total.   
+10.  In 2020, Mexico scored 0.75 on the Global Gender Gap Index, indicating that 
+women in Mexico experience higher levels of deprivation than men in terms of food, 
+healthcare, education and employment. Among poor women, 80 per cent live in 
+rural areas and speak an indigenous language. Rural inequality and gender gaps for 
+women translate into: less access to productive assets and labour markets; a lack 
+of awareness of women’s productive roles; unpaid household work; and few 
+opportunities for civic participation and public representation.  
+11.  Indigenous and Afro-Mexican peoples (accounting for 6.6 per cent of Mexico’s 
+population over age 3) have traditionally engaged in agriculture, forestry and 
+handicraft activity. They have also historically had the highest rates of poverty in 
+the country. In 2016, 72 per cent (8.2 million) of them lived in poverty.   
+12.  Approximately 15.6 million young people (four out of every ten people) live in rural 
+areas. Of these youth, 25.2 per cent of young women and 7.6 per cent of young 
+men neither study nor have paid work. The proportion of young people involved in 
+agriculture has been falling. Multidimensional poverty among rural youth (at 
+60 per cent) is higher than among urban youth (36 per cent).  
+13.  Mexico faces significant food security and nutrition challenges, with 24.6 million 
+people in the country lacking access to sufficient, safe and nutritious food. In 2019, 
+22.6 per cent of households faced moderate to severe food insecurity – with a 
+higher share in rural areas (24.7 per cent) and among people with disabilities 
+(27.9 per cent) and indigenous peoples (30.5 per cent). Due to the COVID-19 
+pandemic, 44 per cent of households in Mexico need food assistance. Guerrero and 
+Oaxaca, both in the Balsas Basin, have some of the most severe limitations in food 
+access among Mexican states. Malnutrition is a major health burden, both in terms 
+of stunting (which affects 12.8 per cent of children in rural areas) and obesity 
+(affecting 32.8 per cent of women nationwide). 
+Rationale for IFAD involvement 
+14.  The 2020-2025 country strategic opportunities programme (COSOP) sets a new 
+benchmark for defining IFAD’s partnership with Mexico as an upper-middle-income 
+country. It centers IFAD’s role in policy engagement on the economic inclusion of 
+rural poor people through innovative approaches that can be mainstreamed on a 
+larger scale in the context of national policies and programmes. The Fund’s goal in 
+Mexico is thus to effectively complement the country’s efforts to reduce poverty 
+2 
+EB 2021/LOT/P.12 
+and inequality by offering innovative solutions that improve the quality and 
+targeting of public spending, with a focus on vulnerable rural people. 
+15.  IFAD’s comparative advantage in Mexico lies in its ability to build rural peoples’ 
+capacity, productivity and market participation using approaches and instruments 
+that encourage the Government to support economic inclusion – particularly of 
+women, youth, indigenous and Afro-Mexican peoples. The project will also promote 
+climate change adaptation and mitigation strategies adapted to the family-farming 
+context and vulnerable rural populations, while mainstreaming climate at the 
+institutional and community levels.  
+16.  In line with the COSOP, the project will contribute to greater convergence among 
+priority nationally-funded programmes in the Balsas Basin. It foresees actions to 
+strengthen institutional capacities and facilitate a programmatic-budgetary platform 
+that harmonizes actions and public investments in the Basin, and mainstreams 
+climate change resilience into public policy.  
+B.  Lessons learned  
+17.  Several challenges related to the normative budgetary framework that regulates 
+Mexico’s collaboration with international financial institutions have been analysed in 
+the recent country strategy and programme evaluation. Issues such as the principle 
+of non-additionality, exclusive annual budgeting, restrictions on the functioning of 
+project coordination units (PCUs) and lack of flexibility in the ROP1 have affected 
+the performance of IFAD’s portfolio in the country. While these challenges are not 
+unique to Mexico, they exemplify the evolving nature of IFAD’s partnership with 
+upper-middle-income countries and at the same time challenge IFAD to excel in 
+credibility and quality of results. In response, IFAD has deepened its policy 
+engagement with the federal entities that authorize and manage the annual budget 
+and will work closely with SHCP and the Office of Coordination of the Advisers to 
+the Presidency (CAP) to facilitate the institutional arrangements driving programme 
+and budget coordination in the Balsas Basin. 
+18.  IFAD-funded projects implemented by CONAFOR, including the Sustainable 
+Development Project for Rural and Indigenous Communities of the Semi-Arid 
+North-West (PRODESNOS), Community-based Forestry Development Project in the 
+Southern States (DECOFOS) of Campeche, Chiapas and Oaxaca, and Sustainable 
+Development Project for Communities in Semi-arid Areas in the Northern and 
+Mixteca Regions (PRODEZSA) provide important lessons on operations, institutional 
+coordination and policy that are relevant to this project. The proposed project 
+draws upon the experience of IFAD and CONAFOR in introducing innovations with 
+the ROP, intervention methodologies and institutional alliances in large territories. 
+This will enable the project to expand incentives for ecosystem conservation and 
+recovery through existing national mechanisms of payment for ecosystem services, 
+incorporating climate change mitigation and adaptation priorities for the project’s 
+target groups.  
+II.  Project description 
+A.  Objectives, geographical area of intervention and target 
+groups 
+19.  The project’s goal is to contribute to reducing the vulnerability of the poor rural 
+people to climate change, recover and conserve ecosystems and their services, and 
+strengthen the production systems of the Balsas Basin. The development objective 
+is to increase the productive capacities and market participation of poor rural and 
+indigenous families – especially women and youth – as well as to reduce 
+1 ROP are legal tools emitted by SHCP to ensure transparent allocation of public resources which establish the geographic 
+areas where support is to be allocated, eligibility criteria of beneficiaries, selection procedures, and characteristics of the 
+support provided. 
+3 
+EB 2021/LOT/P.12 
+GHG emissions by promoting resilient and sustainable production systems for more 
+resilient livelihoods in the Balsas Basin. 
+20.  The Balsas Basin covers 18 million ha in eight states: México, Guerrero, Jalisco, 
+Michoacán, Morelos, Oaxaca, Puebla and Tlaxcala. The geographic targeting 
+strategy prioritizes municipalities and sub-basins based on the following criteria: 
+(i) the Government's interest in serving the population of the Balsas Basin, 
+characterized by its high levels of poverty and a deterioration in its natural resource 
+base; (ii) the degree of marginalization and rurality; (iii) the high levels of climate 
+vulnerability; and (iv) the significant presence of indigenous peoples and other 
+vulnerable rural populations. 
+21.  The target population is primarily comprised of small producers living in poverty 
+and indigenous peoples, including: (i) ejidos and NAs that are owned by indigenous 
+peoples; (ii) farmer organizations within NAs; (iii) women, youth and other 
+vulnerable groups with limited access to productive resources, including Afro-
+Mexican peoples; and (iv) some small private owners interested in participating in 
+forestry and agroforestry development programmes. The estimated number of 
+direct project beneficiaries is 58,905, or 39,270 households. The participation of 
+women and youth is estimated at 40 per cent and 30 per cent respectively, with 
+indigenous peoples comprising 60 per cent of all beneficiaries. An expected 
+cofinancing from the Green Climate Fund (GCF) is estimated to increase the 
+project’s outreach to 162,282 beneficiaries and 389,478 household members.2  
+B.  Components, outcomes and activities 
+22.  The project is structured in three components: 
+23.  Component 1: Strengthening capacities through participatory formulation 
+of micro-basin-level ecological zoning plans (POEM) and agrarian unit-
+level integrated development (PDI) for territorial governance, mitigation, 
+and adaptation to climate change. This component will assist in building climate 
+governance mechanisms and integrating related processes into the government 
+programmes and policies in the Balsas Basin. It will strengthen multi-sector 
+coordination at the state and basin levels to guide pro-poor public and private 
+investments in the project area. The project will use micro-watersheds as the lower 
+participatory planning units while the needs and challenges that require higher level 
+coordinated interventions will be addressed at the sub- and macro-basin levels as 
+needed. It will also strengthen existing extension systems to incorporate a climate 
+approach. 
+24.  Component 1 will support the participatory formulation of POEM and PDI. These 
+plans will incorporate traditional knowledge and guarantee consultation with 
+indigenous and Afro-Mexican communities, and the participation of women and 
+youth. They will identify the investments and technical assistance (supported by 
+component 2) needed to restore and sustainably manage forest ecosystems and 
+reduce GHG emissions. 
+25.  Expected outcomes include: (i) development of land-use plans at different levels of 
+the Basin that integrate instruments for mitigation and adaptation to climate 
+change; and (ii) institutional coordination mechanisms and extension and 
+technology transfer systems that integrate mitigation and adaptation strategies and 
+promote inclusion of vulnerable populations.   
+26.  Component 2: Investment for the adaptive management of ecosystems, 
+strengthening of productive systems and development of resilient value 
+chains. Component 2 seeks to strengthen ecosystem services by increasing their 
+capacity for resilience and the sustainability of the productive systems of small 
+2 The goals indicated in the logical framework and the estimates included in the economic and financial analysis reflect IFAD 
+and national-counterpart financing, which confirms that the project remains viable without GCF cofinancing. 
+4 
+EB 2021/LOT/P.12 
+rural producers and indigenous and Afro-Mexican peoples, as well as enhancing 
+their market participation. It comprises: (i) investments and technical assistance 
+for the implementation of POEM and PDI, towards the conservation, restoration and 
+sustainable management of ecosystems through an ecosystem-based adaptation 
+approach; (ii) the strengthening of productive forestry, agroforestry and 
+silvopastoral systems; and (iii) the development of value chains, with a focus on 
+diversification and resilience to climate change.  
+27.  This component will also assist producer groups in developing business plans 
+(particularly indigenous and Afro-Mexican peoples, women and youth), and will 
+support community enterprises in gaining access to resilient value chains. It will 
+also target: (i) direct productive investments in indigenous food systems based on 
+their traditional knowledge and products; (ii) integrated homestead backyard food 
+production (traspatio), and improved access to water; (iii) processing and valuation 
+of timber and non-timber forest products and recovery of emblematic traditional 
+indigenous products; and (iv) certification and market access based on the target 
+groups’ needs and maturity levels.   
+28.  Component 2 will also facilitate access to financial services through existing 
+partnerships between CONAFOR and Fideicomisos Instituidos en Relación con la 
+Agricultura (FIRA) and the Financiera Nacional para el Desarrollo Agropecuario 
+Rural Forestal y Pesquero (FND). FIRA will support private-sector engagement in 
+project activities through its Supplier Development Programme, which employs a 
+public-private-producer partnership modality in value chains with productive and 
+market potential in the Basin. 
+29.  Finally, based on POEM, the project will strengthen the existing national 
+mechanisms of payment for ecosystem services, incorporating target groups’ 
+climate change mitigation and adaptation priorities. This includes the creation of 
+concurrent funds for mobilizing resources from private initiatives and service users 
+to ensure the sustainability of payment for ecosystem services.  
+30.  Expected outcomes include: (i) restored forest ecosystems for the conservation of 
+ecosystem services and protection of water resources and biodiversity; and 
+(ii) increases in NAs’ resilient production, value addition and commercialization 
+based on silvicultural, agroforestry, silvopastoral systems, and backyard 
+production. 
+31.  Component 3: Development of a climate information system, knowledge 
+management, South-South and Triangular Cooperation (SSTC) and 
+monitoring and evaluation. Component 3 seeks to operationalize a climate 
+information system and knowledge generation for decision-making and climate risk 
+management in the Basin. It will support strengthening and integration of different 
+information systems related to climate, agricultural production, natural resource 
+management, as well as early warning systems to anticipate, prevent and adapt to 
+climate risks in the implementation of components 1 and 2. This component aims 
+to contribute to the adoption and scaling up of good practices and innovations 
+derived from the project to strengthen the capacity of local actors and institutions 
+for reducing vulnerability to climate change. The component also integrates 
+knowledge management, SSTC, project management, and monitoring and 
+evaluation. 
+32.  Expected outcomes include: (i) producers, inhabitants and authorities of the Balsas 
+Basin have timely and actionable climate information for climate risk management, 
+disaster prevention and knowledge management; and (ii) the project activities are 
+managed and evaluated in an appropriate manner, aligned with national regulations 
+and the policies of IFAD and GCF.   
+5 
+EB 2021/LOT/P.12 
+C.  Theory of change 
+33.  Small producers in the Balsas Basin belong to the most vulnerable population 
+groups in Mexico, facing poverty, inequality and exposure to the impacts of climate 
+change. Their vulnerability is caused by: (i) limited coordination of policies and 
+strategies for rural development, which do not incorporate social inclusion and 
+climate change resilience; (ii) degradation, deforestation, pressure on water 
+resources and inappropriate land use, leading to the deterioration of the sub-
+basins, GHG emissions, and loss of ecosystem services – aggravated by climate 
+change; (iii) limited access to technical assistance and low productivity and 
+diversification of production systems; and (v) low economic inclusion of women and 
+youth in the Basin. 
+34.  The project is designed to overcome these challenges and seize opportunities for 
+improving production systems and GHG capture. This will: (i) improve the living 
+conditions of poor rural, indigenous and Afro-Mexican families, particularly women 
+and youth; (ii) decrease their vulnerability; and (iii) increase their resilience to the 
+impacts of climate change. To this end, the project will establish an integrated 
+strategy around its three interconnected components. While component 1 will 
+develop and strengthen climate governance and participatory planning (through the 
+POEM and PDI), component 2 will deliver investments, capacity building and 
+technical assistance derived from those plans to strengthen production systems, 
+reduce GHG emissions and develop resilient value chains. Component 3 will 
+promote evidence-based planning and management of climate risks, while fostering 
+knowledge management, SSTC, effective project management and monitoring and 
+evaluation. 
+D.  Alignment, ownership and partnerships 
+35.  The project contributes to Sustainable Development Goals (SDGs): SDG 1 (no 
+poverty), SDG 2 (zero hunger), SDG 5 (gender equality), SDG 8 (decent work and 
+economic growth), SDG 10 (reduced inequalities), SDG 13 (climate action) and 
+SDG 17 (partnership for the goals). It is also aligned with the 2020-2025 United 
+Nations Sustainable Development Cooperation Framework. Building on the 
+IFAD12 business model and financial framework, the project will contribute to the 
+three strategic objectives of the 2020-2025 COSOP and support the Government’s 
+capacity as an effective SSTC actor. 
+36.  The project is also aligned with the: (i) 2019-2024 National Development Plan; 
+(ii) NDC; (iii) 2017-2030 National Strategy to Reduce Emissions from Deforestation 
+and Forest Degradation; and (iv) government priorities for post-COVID-19 
+recovery, which include protecting the most vulnerable people and supporting 
+sustainable local food production systems. 
+E.  Costs, benefits and financing 
+Project costs 
+37.  The project cost is US$55 million for a period of eight years with an additional 
+US$54 million expected from GCF. Component 1 is estimated at US$2.50 million; 
+component 2 at US$41.9 million; and component 3 at US$8.24 million. An 
+additional US$2.36 million in management costs will be financed by the 
+Government. The financing plan includes an IFAD loan of US$38.45 million 
+(70 per cent of the total cost), a government contribution of US$13.35 million 
+(24 per cent) and a grant financing gap of US$3.2 million (6 per cent). The project 
+will cover investment costs (US$49.69 million or 90 per cent of the total) and 
+recurring costs (US$5.3 million or 10 per cent). 
+Financing and cofinancing strategy and plan 
+38.  The project’s financing plan includes a US$54 million contribution by GCF. These 
+additional funds will: increase investment in climate resilience (particularly to 
+ensure water access); strengthen regional climate information systems; and 
+6 
+EB 2021/LOT/P.12 
+enhance inter-institutional coordination. They will also allow the project to have a 
+greater geographic impact and population outreach.  
+Climate financing 
+39.  Of the total IFAD financing, US$22,427,000 is considered climate finance, of which 
+US$21,491,000 is for mitigation and US$936,000 is for adaptation. 
+Table 1 
+Project costs by component and financier 
+(Thousands of United States dollars) 
+Component 
+Amount  %  Amount  %  Cash   In-kind  %  Amount 
+IFAD loan  Financing gap 
+Borrower 
+Total 
+1. Strengthening capacities through participatory 
+formulation of POEM and PDI for territorial 
+governance, mitigation, and adaptation to climate 
+change 
+2. Investment for the adaptive management of 
+ecosystems, strengthening of productive systems 
+and development of resilient value chains 
+3. Development of a climate information system, 
+knowledge management, SSTC and monitoring 
+and evaluation  
+Project management 
+Total 
+1 863 
+5 
+485  
+15 
+- 
+147  
+1 
+2 495  
+36 590  
+95 
+- 
+- 
+-  5 310  
+40  41 900  
+- 
+- 
+-  2 715  
+- 
+- 
+85 
+- 
+- 
+5 528  
+-  2 362  
+41 
+8 243  
+18 
+2 362  
+38 453  100 
+3 200   100 
+-   13 347   100  55 000  
+7 
+Table 2 
+Project costs by expenditure category and financier 
+(Thousands of United States dollars) 
+Expenditure category  
+Amount 
+% 
+Amount 
+% 
+Cash  
+In-kind 
+%  Amount 
+IFAD loan 
+Financing gap 
+Borrower 
+Total 
+Investment costs 
+Subsidies 
+Total investment costs 
+Recurrent costs 
+Salaries and operating costs 
+Total recurrent costs 
+38 453  
+38 453  
+- 
+- 
+100 
+- 
+- 
+2 306 
+2 306 
+894 
+894 
+72 
+28 
+Total 
+38 453  
+100 
+3 200   100 
+8 935 
+8 935 
+4 412 
+4 412 
+49 694 
+67 
+49 694 
+33 
+5 306 
+5 306 
+13 347  
+100 
+55 000  
+- 
+- 
+- 
+- 
+Table 3 
+Project costs by component and project year (PY) 
+(Thousands of United States dollars) 
+8
+PY1 
+PY2 
+PY3 
+PY4 
+PY5 
+PY6 
+PY7 
+PY8 
+Total 
+Component 
+Amount t  %  Amount  %  Amount  %  Amount  %  Amount  %  Amount  %  Amount  %  Amount t  %  Amount 
+1. Strengthening capacities through 
+participatory formulation of POEM 
+and PDI for territorial governance, 
+mitigation, and adaptation to climate 
+change 
+2. Investment for the adaptive 
+management of ecosystems, 
+strengthening of productive systems 
+and development of resilient value 
+chains  
+3. Development of a climate 
+information system, knowledge 
+management, SSTC and monitoring 
+and evaluation 
+Project management 
+919  
+37 
+796 
+32 
+580 
+23 
+75 
+3 
+50 
+2 
+25 
+1 
+25 
+1 
+25 
+1 
+2 495  
+4 655  
+11 
+6 125 
+15 
+6 620 
+16 
+7 115 
+17 
+5210 
+12 
+5150 
+12 
+3700 
+9 
+3325 
+8 
+41 900  
+1 194  
+14 
+913 
+11 
+1 233 
+15 
+1 001 
+12 
+943 
+11 
+943 
+11 
+943 
+11 
+1073 
+13 
+8 243  
+296  
+13 
+296 
+13 
+295 
+12 
+295 
+12 
+295 
+12 
+295 
+13 
+295 
+13 
+295 
+12 
+2 362  
+Total 
+7 064  
+13 
+8 130  
+15 
+8 728  
+16 
+8 486 
+15 
+6 498 
+12 
+6 413 
+12 
+4 963 
+9 
+4 718 
+9 
+55 000 
+E
+B
+2
+0
+2
+1
+/
+L
+O
+T
+/
+P
+.
+1
+2
+EB 2021/LOT/P.12 
+Disbursement 
+40.  Most disbursements will be made using the reimbursement method based on the 
+annual budgetary allocation of external resources to CONAFOR, and amounts 
+executed and pre-financed both for the loan and grant. Loan resources will be 
+disbursed by IFAD to the Federation Treasury through a financial agent, and grant 
+resources will be transferred from IFAD to the financial agent and then to the 
+accounts of CONAFOR. Disbursements will be made based on the letter to the 
+borrower and IFAD disbursement manual, and will be submitted through the IFAD 
+Client Portal. 
+Summary of benefits and economic analysis 
+41.  Without factoring-in the benefits of reduced GHG emissions, the project will have an 
+economic rate of return of approximately 14.2 per cent and result in an economic net 
+present value of US$26 million with a 10 per cent discount rate. In the scenario that 
+includes GHG market prices, the internal rate of return is 15.5 per cent and the net 
+present value, updated to 10 per cent, is US$33.9 million. Using the shadow prices 
+proposed in the World Bank methodology, the project's internal rate of return ranges 
+from 25.7 per cent to 39.3 per cent, and the net present value, at 10 per cent for the 
+high-social-cost scenario, reaches US$159.6 million. Sensitivity analysis shows that 
+the project is robust to up to a 20 per cent decrease in benefits and a 20 per cent 
+increase in costs, reflecting an economic internal rate of return consistently higher 
+than 10 per cent. 
+Exit strategy and sustainability  
+42.  The project’s intervention strategy is geared towards ensuring the sustainability of 
+results through the: (i) establishment of climate governance mechanisms and a 
+federal inter-institutional coordination platform, with budgetary and planning 
+mechanisms that have binding power; (ii) integration of participatory instruments for 
+territorial planning into institutional mechanisms beyond the project cycle; 
+(iii) development of new guidelines for the ROP; and (iv) access to financial services 
+and engagement with the private sector to facilitate sustainable access to credit, 
+guarantees, insurance and savings.   
+III.  Risks 
+A.  Risks and mitigation measures 
+43.  Risks and mitigation measures are presented in the integrated project risk matrix. 
+These include policy and institutional changes due to federal elections in 2024, which 
+will be mitigated by the design of binding instruments to facilitate articulation 
+between the federal institutions involved in implementation and a high-level steering 
+committee led by CAP to facilitate the coordination.3 The risk of coordination failures 
+among different government agencies will be mitigated by capacity-strengthening 
+and establishment of multi-sector consultation platforms. To mitigate climate risks, 
+the project will deploy adaptation strategies tailored to each community’s geographic 
+and social context. The risk of low annual budget allocations will be mitigated by 
+promoting a multi-annual budget approach for IFAD operations. Finally, in the event 
+of delays or cancellation of GCF cofinancing, project implementation remains viable, 
+serving a smaller number of direct beneficiaries as demonstrated in the economic and 
+financial analysis. 
+3 By 2024, the project will have achieved a significant level of institutionalization, with its components fully operating based on 
+CONAFOR budget resources. 
+9 
+EB 2021/LOT/P.12 
+Table 4 
+Risks and mitigation measures 
+Risks 
+Country context 
+Sector strategies and policies 
+Environment and climate context 
+Project scope 
+Inherent risk rating  Residual risk rating 
+Substantial 
+Substantial 
+High 
+Moderate 
+Moderate 
+Substantial 
+Moderate 
+Low 
+Institutional capacity for implementation and sustainability 
+Substantial  
+Moderate 
+Financial management 
+Project procurement 
+Environment, social and climate impact 
+Stakeholders 
+Overall 
+Low 
+Low 
+Moderate 
+Moderate 
+Moderate  
+Low 
+Low 
+Low 
+Moderate 
+Moderate 
+B.  Environment and social category 
+44.  The project’s social and environmental category is B. Project activities will not cause 
+a degradation of natural resources or biodiversity loss in the sub-basins. Project 
+investments are aimed at strengthening ecosystem services and building the 
+resilience and sustainability of small-scale rural producers’, indigenous peoples’ and 
+Afro-Mexican communities’ production systems. 
+C.  Climate risk classification 
+45.  The project’s climate risk is high based on the climatic threats in the Balsas Basin 
+during the past two decades. Most of the project’s investments to reduce climate 
+vulnerability are expected to be supported by GCF resources, to be managed in 
+parallel with IFAD financing. In the event that GCF resources are delayed, the project 
+design identifies priority investments for IFAD financing based on a detailed climate 
+risk analysis. 
+D.  Debt sustainability  
+46.  According to the November 2020 World Bank–International Monetary Fund (IMF) 
+Debt Sustainability Analysis, Mexico’s public debt is sustainable, but subject to risks. 
+If the Government meets its fiscal targets over the medium term, public debt should 
+stabilize at approximately 65 per cent of GDP. An updated analysis of the country’s 
+debt sustainability will be published by the IMF following the completion of its 
+2021 Article IV Mission. 
+IV.  Implementation 
+A.  Organizational framework 
+Project management and coordination 
+47.  SEMARNAT will delegate responsibility for project execution to CONAFOR, which has 
+extensive experience in implementing projects with international financing and broad 
+field representation in the Balsas Basin. A high-level steering committee will be 
+coordinated by the Presidency of the Republic through CAP, with the participation of 
+SHCP, SEMARNAT, the Ministry of Welfare, the Secretariat for Agriculture and Rural 
+Development, and CONAFOR. 
+48.  A technical project team in CONAFOR will carry out technical, administrative, and 
+fiduciary management. This unit will be supported by a PCU administered by 
+CONAFOR or an international organization with expertise and administrative 
+experience to bolster project implementation. In addition to its central unit, the 
+PCU will have three regional units in the project area. 
+10 
+EB 2021/LOT/P.12 
+Financial management, procurement and governance  
+49.  Financial Management. CONAFOR’s International Affairs and Financial 
+Development Unit, in coordination with the financial agent appointed by the 
+Secretariat for the Public Function, will be responsible for financial management. Its 
+main functions will include: preparing annual workplans and budgets, and submitting 
+them to IFAD; ensuring updated internal control measures and comprehensive 
+financial manuals; maintaining an adequate accounting system; interim financial 
+reporting; preparing annual financial statements; coordinating audits; and 
+procurement.  
+50.  Audit and governance. The project’s accounts will be audited annually by a private 
+audit firm. The audit will be conducted in accordance with international auditing 
+standards and the IFAD Handbook for Financial Reporting and Auditing of 
+IFAD-financed Projects. The consolidated audit report will be submitted to IFAD no 
+later than six months after the end of the previous fiscal year.  
+51.  Procurement. Procurement arrangements will be the responsibility of 
+CONAFOR based on national regulations and procedures. IFAD reserves the right of 
+prior review of selected procurement processes. Procurement plans will be 
+formulated according to IFAD’s standard templates. Requests for no objections will 
+be processed through IFAD’s No Objection Tracking and Utility System, and contracts 
+will be registered on the IFAD Client Portal. 
+52.  Governance measures will include adherence to the IFAD Policy on Preventing Fraud 
+and Corruption in its Activities and Operations. The project’s fiduciary compliance will 
+be reviewed during IFAD direct supervision missions. 
+Beneficiary engagement and grievance redress 
+53.  The process of free, prior and informed consent with rural indigenous and 
+Afro-Mexican communities in NAs will guarantee full and effective participation of 
+indigenous and Afro-Mexican communities in the design, development and 
+implementation of project activities. In line with IFAD’s Beneficiary Feedback 
+Framework, the project will promote good governance, accountability and informed 
+participation by beneficiaries throughout the project cycle, supported by 
+implementation of its free, prior and informed consent plan. 
+Grievance redress   
+54.  A grievance-resolution mechanism will be adopted to ensure that beneficiaries do not 
+suffer any adverse impacts from project activities. The CONAFOR citizen service 
+mechanism, supported by the national legal framework, provides the instrument for 
+addressing and resolving potential grievances. 
+B.  Planning, monitoring and evaluation, learning, knowledge 
+management and communication   
+55.  The project will have a planning, monitoring and evaluation system based on a 
+results-oriented management approach. The logical framework will be used to 
+monitor achievement of the expected results and foster communication. Knowledge 
+management and sharing, and SSTC are central to the intervention strategy.   
+Innovation and scaling up  
+56.  The project’s key innovative features for scaling up include: (i) adoption of the 
+climate-resilience approach through PADFS, implemented by CONAFOR; 
+(ii) technology transfer to improve productive systems and natural resource 
+management; (iii) creation and capitalization of concurrent funds to mobilize funding 
+from private actors; (iv) the definition of “model micro-basins” as benchmarks for 
+sub-basin-level scaling up; (v) development of new ROP guidelines in CONAFOR and 
+other government entities/programmes in the Basin; and (vi) the inclusion of 
+smallholders in the development of resilient production systems and remunerative 
+value chains.   
+11 
+EB 2021/LOT/P.12 
+C.  Implementation plans 
+Implementation readiness and start-up plans 
+57.  The project is expected to start in early 2022, once the financing agreement is signed 
+(Parliament ratification is not required). To facilitate start up, CONAFOR will ensure 
+budgetary space for the first year and establish the PCU.  
+Supervision, midterm review and completion plans 
+58.  IFAD will supervise the project directly in coordination with participating government 
+entities. IFAD-led missions will review progress in achieving project objectives, 
+implementation performance and compliance with contractual conditions. At least one 
+supervision and one implementation support mission will be conducted annually, and 
+a midterm review mission will be undertaken in the third year of execution. A 
+project-completion mission will be conducted to prepare for technical and 
+administrative closure, and plan for the project completion report. This report will be 
+preceded by an end-line survey and be complemented by stakeholder consultations. 
+V.  Legal instruments and authority  
+59.  A project financing agreement between the United Mexican States and IFAD will 
+constitute the legal instrument for extending the proposed financing to the borrower. 
+A copy of the negotiated financing agreement is attached as appendix I.  
+60.  The United Mexican States is empowered under its laws to receive financing from 
+IFAD. 
+61.  I am satisfied that the proposed financing will comply with the Agreement 
+Establishing IFAD and the Policies and Criteria for IFAD Financing. 
+VI.  Recommendation 
+62.  I recommend that the Executive Board approve the proposed financing in terms of 
+the following resolution:  
+RESOLVED: that the Fund shall provide a loan on ordinary terms to the United 
+Mexican States in an amount of thirty-eight million four hundred fifty-three 
+thousand United States dollars (US$38,453,000) and upon such terms and 
+conditions as shall be substantially in accordance with the terms and conditions 
+presented herein. 
+Gilbert F. Houngbo 
+President 
+12 
+Appendix I 
+EB 2021/LOT/P.12 
+Negotiated financing agreement 
+(Negociaciones concluidas el 23 de noviembre 2021) 
+Número del Préstamo: [Insertar número] 
+Proyecto Cuenca Balsas: Reduciendo la vulnerabilidad climática y las emisiones mediante 
+medios de vida sostenibles (el “Proyecto”) 
+celebrado entre 
+Los Estados Unidos Mexicanos, por conducto de la Secretaría de Hacienda y Crédito Público 
+(SHCP) (el “Prestatario”) 
+y 
+El Fondo Internacional de Desarrollo Agrícola (el “Fondo” o el “FIDA”) 
+(cada uno de ellos por separado la “Parte” y los dos colectivamente las “Partes”). 
+PREÁMBULO 
+CONSIDERANDO  que  el  Prestatario  ha  solicitado  al  Fondo  contribuir  al 
+financiamiento del Proyecto y el Fondo ha aceptado proporcionar un préstamo para apoyar 
+en la financiación del mismo; 
+CONSIDERANDO que  el Prestatario acepta que las actividades del Proyecto sean 
+financiadas de conformidad con el presente Convenio; 
+El FIDA ACUERDA conceder un préstamo de sus propios recursos al Prestatario por 
+la  cantidad  de  treinta  y  ocho  millones  cuatrocientos  cincuenta  y  tres  mil  dólares  de  los 
+Estados Unidos de América (USD 38 453,000) para apoyar la financiación del Proyecto de 
+acuerdo con los términos y condiciones establecidos en el presente Convenio; y 
+las Partes acuerdan lo siguiente: 
+Sección A 
+1. 
+Los  siguientes  documentos  en  su  conjunto  conforman  colectivamente  este 
+Convenio:  el  presente  documento,  la  Descripción  y  las  Disposiciones  de  ejecución  del 
+Proyecto  (Anexo  1)  el  Cuadro  de  asignaciones  (Anexo  2),  los  Compromisos  especiales 
+(Anexo 3) y las Condiciones Generales para la Financiación del Desarrollo Agrícola de fecha 
+29 de abril de 2009 y modificadas en diciembre de 2020 (las “Condiciones Generales”). 
+2. 
+Las Condiciones Generales en sus sucesivas versiones enmendadas y cualquiera de 
+las  disposiciones  en  ellas  contempladas  serán  aplicables  al  presente  Convenio,  previa 
+notificación  al  Prestatario,  salvo  que  se  indique  lo  contrario.  A  los  efectos  del  presente 
+Convenio, los términos definidos en las Condiciones  Generales tendrán el significado en 
+ellas indicado. 
+A raíz del presente Convenio, el Fondo proporcionará al Prestatario un préstamo (la 
+3. 
+“Financiación” o “Préstamo”), que éste utilizará para ejecutar el Proyecto de conformidad 
+con los términos y condiciones del presente Convenio. 
+1 
+Appendix I 
+Sección B 
+EB 2021/LOT/P.12 
+El monto del Préstamo es de treinta y ocho millones cuatrocientos cincuenta y tres 
+1. 
+mil dólares de los Estados Unidos de América (USD 38 453,000). 
+2. 
+La Moneda de Pago del Servicio del Préstamo será el USD. 
+3. 
+El Préstamo se concede en condiciones ordinarias y tiene un plazo de reembolso de 
+24.5 años, incluido un periodo de gracia de 5 años que comenzará a partir de la fecha de 
+cumplimiento de las condiciones previas para el retiro de los fondos. 
+4. 
+El Préstamo estará sujeto a pagos de interés sobre el capital del Préstamo pendiente 
+de reembolso al tipo de interés variable de referencia de FIDA con un diferencial variable. 
+El Ejercicio Financiero o Fiscal del Prestatario aplicable será del 1º de enero al 31 de 
+5. 
+diciembre de cada año.  
+6. 
+Los  pagos  del  capital  y  los  intereses  del  Préstamo  serán  pagaderos  cada  15  de 
+febrero y 15 de agosto. El capital será pagadero en 39 plazos semestrales comenzando 
+5 años  después  de  la  fecha  de  cumplimiento de  las  condiciones  generales  y  adicionales 
+previas para el retiro de fondos. En dicho momento el FIDA comunicará al Prestatario el 
+calendario de amortización correspondiente. 
+7. 
+El  Prestatario,  a  través  del  Organismo  Responsable  del  Proyecto  y  otras 
+dependencias y entidades integrantes del gobierno de México tales como la Secretaría de 
+Medio Ambiente y Recursos Naturales (SEMARNAT), Secretaría de Agricultura y Desarrollo 
+Rural  (SADER),  Comisión  Nacional  del  Agua  (CONAGUA),  Secretaría  de  Bienestar 
+(BIENESTAR)  y  gobiernos  locales,  destinarán  un  monto  estimado  de  trece  millones 
+trescientos cuarenta y siete mil dólares de Estados Unidos de América (USD 13 347,000) 
+(aporte local) para apoyar el logro de los objetivos del Proyecto. 
+El monto del Préstamo se desembolsará al Prestatario siguiendo los procedimientos 
+8. 
+del FIDA.  
+Sección C 
+El  Organismo  Responsable  del  Proyecto  será  la  Comisión  Nacional  Forestal 
+1. 
+(CONAFOR),  Organismo  Público  Descentralizado  del  Gobierno  Federal  sectorizado  a  la 
+SEMARNAT.  
+El  agente  financiero  mandatado  por  el  Prestatario,  que  llevará  a  cabo  la 
+2. 
+administración del Préstamo y la supervisión del Proyecto junto con el FIDA, será Nacional 
+Financiera, S.N.C., I.B.D. (“NAFIN” o “Agente Financiero”).  
+El  Organismo  Responsable  del  Proyecto  conjuntamente  con  el  Fondo  y  NAFIN, 
+3. 
+llevarán a cabo la Revisión a Mitad de Periodo como se especifica en la Sección 8.03 b) y 
+c) de las Condiciones Generales, pudiendo las Partes acordar otra fecha para llevar a cabo 
+la Revisión a Mitad de Periodo de la ejecución del Proyecto. 
+4. 
+La  Fecha  de  Terminación  del  Proyecto  será  el  octavo  aniversario  de  la  fecha  de 
+entrada  en  vigor  del  presente  Convenio  y  la  Fecha  de  Cierre  de  la  Financiación  será 
+6 meses  después,  o  cualquier  otra  fecha  que  el  Fondo  pueda  designar  mediante 
+notificación  al  Prestatario.  La  Fecha  de  Cierre  del  Financiación  se  establecerá  según  lo 
+especificado en las Condiciones Generales. 
+2 
+Appendix I 
+EB 2021/LOT/P.12 
+5. 
+La adquisición de bienes, obras y servicios financiados por los recursos del Préstamo 
+se realizará de conformidad con las disposiciones de los reglamentos de adquisiciones del 
+Prestatario, en la medida en que sean compatibles con las Directrices de adquisiciones del 
+FIDA. 
+Sección D 
+1. 
+El Fondo gestionará la contabilidad interna de la cuenta del Préstamo, así como la 
+elegibilidad  del  gasto  y  los  desembolsos  correspondientes;  asimismo  supervisará  el 
+Proyecto junto con el Prestatario. 
+2. 
+El  Prestatario,  a  través  del  Organismo  Responsable  del  Proyecto,  utilizará  de 
+conformidad con la normatividad vigente aplicable en los Estados Unidos Mexicanos, los 
+procedimientos en materia de adquisiciones y auditorías establecidos para dichos efectos 
+por la Secretaría de la Función Pública (SFP), o por la instancia facultada para estos efectos 
+por el Gobierno Federal y en cumplimiento con los requisitos de auditoría del FIDA. 
+Sección E 
+Adicionalmente a los motivos previstos en las Condiciones Generales, se considera 
+1. 
+motivo para la suspensión del derecho del Prestatario a solicitar desembolsos conforme al 
+presente Convenio que: 
+a) 
+cualquiera de las disposiciones del Manual de Operaciones del Proyecto (MOP) 
+haya sido objeto de cesión, renuncia, suspensión, revocación, enmienda u otra 
+modificación, sin el acuerdo previo de las Partes, y el FIDA haya determinado, 
+previa  consulta  con  el  Prestatario,  que  tal  cesión,  renuncia,  suspensión, 
+revocación,  enmienda  o  modificación  ha  tenido  consecuencias  adversas 
+sustanciales para el Proyecto. 
+Adicionalmente  a  las  Condiciones  Generales  previstas,  se  considera  que  son 
+2. 
+condiciones específicas adicionales para el retiro de fondos de la cuenta del Préstamo: 
+a)  Que el MOP haya sido aprobado por el Fondo;  
+b)  Que  se  haya  designado  al  personal  del  Equipo  Técnico  del  Proyecto  (ETP), 
+incluyendo el responsable administrativo y financiero; 
+c) 
+Que el Prestatario, a través del Agente Financiero, haya entregado al Fondo un 
+ejemplar  debidamente  firmado  del  Contrato  de  Mandato  y  Ejecución  del 
+Proyecto. 
+a) Las siguientes disposiciones de las Condiciones Generales no se aplicarán a este 
+3. 
+Convenio: i) Sección 7.05 b); y ii) Sección 8.05. 
+b) 
+Las  siguientes  disposiciones  constituyen  excepciones  a  las  Condiciones 
+Generales:  i)  el  Plan  Operativo  Anual  (POA)  será  presentado  a  más  tardar 
+treinta  (30)  días  naturales  después  del  inicio  de  cada  ejercicio  fiscal  del 
+Prestatario (Sección 7.01 b); ii) el Informe Final se presentará a más tardar 
+noventa (90) días naturales después de la Fecha de Cierre de la Financiación 
+(Sección  8.04);  iii)  el  Prestatario,  a  través  del  Organismo  Responsable  del 
+Proyecto  mantendrá  registros  y  documentación  durante  al  menos  cinco 
+(5) años siguientes a la Fecha de Terminación del Proyecto (Sección 8.01); y 
+iv) el Prestatario, a través del Organismo Responsable del Proyecto, conservará 
+las cuentas y registros  por al menos cinco (5) años siguientes a la Fecha de 
+Cierre de la Financiación (Sección 9.01);  
+3 
+Appendix I 
+EB 2021/LOT/P.12 
+c) 
+Conforme a lo que establece la Sección 8.03 a) de las Condiciones Generales, 
+los informes de avance del Proyecto serán presentados dentro de los sesenta 
+(60) días naturales posteriores a la conclusión de cada semestre calendario. 
+4. 
+El  Prestatario  designa  a  NAFIN  como  su  representante  a  los  efectos  de  la  Sección 
+15.03 de las Condiciones Generales para desempeñar las siguientes funciones: tramitar 
+ante  el  FIDA  las  solicitudes  de  desembolsos  del  Préstamo,  presentar  cualquier 
+documentación  relacionada  con  el  Proyecto  que  requiera  su  autorización;  solicitar 
+modificaciones al Convenio de Financiación.  
+5. 
+Se indican a continuación los representantes designados: 
+Por el FIDA:  
+Por el Prestatario: 
+Presidente  
+Fondo Internacional  
+de Desarrollo Agrícola  
+Titular de la Unidad de Crédito Público 
+Secretaría de Hacienda y Crédito Público  
+Se  indican  a  continuación  las  direcciones  que  han  de  utilizarse  para  cualquier 
+6. 
+intercambio de comunicaciones relacionados con el presente Convenio: 
+Por el Prestatario: 
+Titular de la Unidad de Crédito Público 
+Secretaría de Hacienda y Crédito Público  
+Insurgentes Sur No. 1971, Torre III, Piso 7, Plaza Inn. 
+Col. Guadalupe Inn, C.P. 01020, Demarcación Territorial Álvaro Obregón.  
+Ciudad de México, México. 
+Por el Fondo: 
+Fondo Internacional de Desarrollo Agrícola 
+Via Paolo di Dono 44 
+00142 Roma, Italia 
+4 
+Appendix I 
+EB 2021/LOT/P.12 
+El presente Convenio, ha sido preparado en idioma español en tres (3) copias originales, 
+una  (1)  para  el  Fondo  y  dos  (2)  para  el  Prestatario  y  entrará  en  vigor  conforme  a  la 
+Sección 13.01 de las Condiciones Generales.  
+ESTADOS UNIDOS MEXICANOS 
+___________________ 
+María del Carmen Bonilla Rodríguez  
+Titular de la Unidad de Crédito Público 
+Fecha: ______________ 
+FONDO INTERNACIONAL PARA EL DESARROLLO AGRÍCOLA 
+_____________________  
+Gilbert F. Houngbo 
+Presidente 
+Fecha: _______________ 
+5 
+Appendix I 
+EB 2021/LOT/P.12 
+Anexo 1 
+Descripción del Proyecto y disposiciones de ejecución 
+1.  Descripción del Proyecto 
+1. 
+Área del Proyecto. El Proyecto se implementará en la Cuenca del Balsas, que abarca 
+los estados de Guerrero, Jalisco, México, Michoacán, Morelos, Oaxaca, Puebla y Tlaxcala, 
+y algunas microrregiones de otros estados colindantes como la Ciudad de México, siendo 
+elegibles 356 municipios por tener altos niveles de pobreza y vulnerabilidad climática, así 
+como  presencia  de  población  indígena  y  afro-mexicana.  Del  universo  de  municipios 
+elegibles, el Proyecto focalizará sus acciones en los 112 municipios que se identificaron de 
+muy  alta  prioridad,  los  cuales  en  su  mayor  proporción  están  situados  en  Guerrero  y 
+Oaxaca, mismas que se incluyen en el MOP.   
+2. 
+Población-objetivo y beneficiarios del Proyecto. La población objetivo comprende a 
+pequeños  productores  rurales  en  situación  de  pobreza,  indígenas  y  afro-mexicanos 
+presentes en el área de intervención. Los grupos objetivos están compuestos por población 
+de: (i) comunidades y ejidos (NA) que realizan sus actividades productivas en torno a las 
+actividades agropecuarias y forestales, así  como sus pobladores con y sin certificado de 
+posesión de la tierra; (ii) organizaciones formales o informales de los pobladores de los 
+NA, que realizan actividades económicas, principalmente las relacionadas con las cadenas 
+de valor forestales (maderables y no maderables); (iii) mujeres y jóvenes, en particular 
+que  no  son  ejidatarias  ni  avecindadas;  y  (iv)  algunos  pequeños  propietarios  privados, 
+interesados  en  participar  en  las  actividades  elegibles  de  acuerdo  con  las  Reglas  de 
+Operación del Programa de Apoyos para el Desarrollo Forestal Sustentable (PADFS) de la 
+CONAFOR.  
+3.  Meta. La meta del Proyecto es contribuir a reducir la vulnerabilidad de la población 
+rural pobre ante el cambio climático, recuperar o conservar los ecosistemas y sus servicios, 
+y fortalecer los sistemas de producción de la Cuenca del Balsas. 
+4.  Objetivo  de  desarrollo.  El  objetivo  de  desarrollo  del  Proyecto  es  aumentar  la 
+capacidad  productiva,  así  como  la  participación  en  el  mercado  de  las  familias  rurales  e 
+indígenas pobres, en particular las mujeres y los jóvenes, así como reducir la emisión de 
+gases de invernadero (GEI), mediante la promoción de sistemas productivos resilientes y 
+sostenibles, con el fin de mejorar sus medios de vida. 
+5. 
+Componentes.  El  Proyecto  se  estructura  en  torno  a  tres  componentes: 
+1) Fortalecimiento  de  capacidades  para  la  gobernanza  territorial  y  la  mitigación  y 
+adaptación al cambio climático; 2) Inversión para el manejo adaptativo de ecosistemas, 
+fortalecimiento de los sistemas productivos y desarrollo de cadenas de valor resilientes; y 
+3)  Desarrollo  del  sistema  de  información  climática,  gestión  del  conocimiento  y  CSST, 
+seguimiento y evaluación.  
+5.1  Componente 1: Fortalecimiento de capacidades, a través de la formulación 
+participativa  de  Planes  de  Ordenamiento  Ecológico  a  nivel  de  Microcuenca 
+(POEM) y Planes de Desarrollo Integral (PDI) para la gobernanza territorial y la 
+mitigación y adaptación al cambio climático. 
+El  objetivo  de  este  componente  es  generar  las  condiciones  necesarias  en  los  Núcleos 
+Agrarios (NA) y en las instituciones (estatales y federales) y sus políticas para promover 
+el incremento de la productividad y el valor agregado de los sistemas productivos de los 
+NA y su acceso al mercado e integración en cadenas de valor, mediante el ordenamiento 
+y  desarrollo  territorial  que  responda  a  las  condiciones  de  marginación  y  vulnerabilidad 
+climática en las microcuencas priorizadas. Consiste en la priorización de NA y microcuencas 
+en cada subcuenca y la formulación participativa de Planes de Ordenamiento Ecológico a 
+6 
+Appendix I 
+EB 2021/LOT/P.12 
+nivel de Microcuenca (POEM) y Planes de Desarrollo Integral (PDI)a nivel de los NA. Estos 
+instrumentos  de  planificación  tendrán  un  enfoque  de  manejo  integrado  del  territorio  y 
+establecerán las acciones para reducir las emisiones de GEI, aumentar los almacenes de 
+carbono  e  incrementar  la  resiliencia  de  los  ecosistemas  y  los  sistemas  productivos  al 
+cambio climático, lo que permitirá a su vez mejorar los medios de vida de la población en 
+condiciones de vulnerabilidad. Además, se fortalecerá la gobernanza territorial local para 
+la  implementación  de  dichos  planes,  incorporando  los  conocimientos  tradicionales  y 
+garantizando  la  consulta  a  las  comunidades  indígenas  y  afro-mexicanas,  así  como  la 
+participación  de  las  mujeres  y  los  jóvenes.  En  paralelo,  y  a  nivel  institucional,  el 
+componente apoyará la coordinación multisectorial y la integración del enfoque climático 
+en las políticas públicas y programas que intervienen en las microcuencas. Finalmente, a 
+través  del  componente  se  fortalecerán  las  capacidades  de  los  sistemas  de  extensión  y 
+transferencia de tecnología (SETC) para contribuir a la mitigación y adaptación al cambio 
+climático. 
+5.2  Componente  2:  Inversión  para  el  manejo  adaptativo  de  ecosistemas, 
+fortalecimiento  de  los  sistemas  productivos  y  desarrollo  de  cadenas  de  valor 
+resilientes. 
+El objetivo de este componente es fortalecer la sostenibilidad de los sistemas productivos 
+de  los  pequeños  productores  forestales  (de  los  sistemas  adaptativos  de  silvicultura/ 
+agroforestería/silvopastoril)  y  de  los  pueblos  indígenas  y  afro-mexicanos,  y  mejorar  su 
+participación  en  el  mercado.  Lo  anterior,  a  través  de  mejorar  los  servicios  de  los 
+ecosistemas,  incrementando  su  capacidad  de  resiliencia.  El  componente  consiste  en 
+inversión  y  asistencia  especializada,  el  desarrollo  de  proyectos  orientados  al  
+de 
+fortalecimiento 
+silvicultura/agroforestería/silvopastoril)  y  el  desarrollo  de  las  cadenas  de  valor,  con  un 
+enfoque  de  diversificación  productiva  y  resiliencia  al  cambio  climático,  a  través  para  la 
+implementación de los POEM y PDI orientada hacia la conservación, restauración y manejo 
+sustentable  de  los  ecosistemas  bajo  el  enfoque  de  adaptación  basada  en  ecosistemas 
+(AbE). Esto permitirá que los NA y sus sistemas productivos sean más resilientes y mejor 
+articulados  a  las  cadenas  de  valor  en  que  participan,  así  como  fortalecer  las  funciones 
+hidrológicas y otros servicios ecosistémicos de las microcuencas y subcuencas priorizadas, 
+y las capacidades de adaptación de las comunidades en condiciones de vulnerabilidad.  
+adaptativos 
+productivos 
+(sistemas 
+sistemas 
+los 
+de 
+El  financiamiento  de  los  POEM  y  PDI  tendrá  dos  fuentes  principales,  de  una  parte,  los 
+recursos del Programa de Apoyo para el Desarrollo Forestal Sustentable, previstos en sus 
+Reglas de  Operación de la CONAFOR, y, por  otra parte, el acceso a recursos de  crédito 
+para la operación de los proyectos productivos generadores de empleo e ingreso para la 
+población objetivo del Proyecto. 
+El componente consiste en inversión y asistencia especializada para la implementación de 
+los POEM y PDI orientada hacia la ejecución de proyectos de: 
+  Conservación  activa  de  áreas  forestales  (pago  por  servicios  ambientales), 
+restauración de áreas forestales degradadas (conservación y restauración de suelos 
+y  reforestación)  y  manejo  sustentable  de  los  ecosistemas  (Manejo  forestal 
+comunitario); 
+  El  fortalecimiento  de  los  sistemas  productivos  (sistemas  adaptativos  de 
+silvicultura/agroforestería/silvopastoril); 
+  El  desarrollo  de  las  cadenas  locales  de  valor,  con  un  enfoque  de  diversificación 
+productiva y resiliencia al cambio climático.  
+Dichos proyectos serán ejecutados y conforme a los términos establecidos  en las Reglas 
+de Operación de la CONAFOR, y serán monitoreados y se les dará seguimiento conforme 
+a los sistemas con los que cuenta la CONAFOR. 
+7 
+Appendix I 
+EB 2021/LOT/P.12 
+5.3  Componente 3: Desarrollo del sistema de información climática, gestión del 
+conocimiento y CSST, seguimiento y evaluación  
+El  objetivo  de  este  componente  es  contribuir  al  fortalecimiento  de  la  capacidad  de  los 
+actores locales e instituciones, para reducir la vulnerabilidad de los habitantes de la Cuenca 
+ante  el  cambio  climático,  contribuyendo  de  esa  manera  a  la  eficiencia  de  los  sistemas 
+productivos  de  los  NA  y  su  acceso  al  mercado  e  integración  en  cadenas  de  valor.  Lo 
+anterior,  a  través  de  la  adopción  y  escalamiento  de  buenas  prácticas  e  innovaciones 
+derivadas  del  Proyecto.  El  componente  consiste  en  el  fortalecimiento  e  integración  de 
+diferentes sistemas de información relativos a temas climáticos, productivos y de manejo 
+de los recursos naturales, con su aplicación en términos prácticos, así como los sistemas 
+de alerta temprana, para apoyar las acciones y capacidades de los NA de anticipar, prevenir 
+y adaptación a los riesgos climáticos en la implementación de los componentes 1 y 2 del 
+Proyecto. También incluye la evaluación y seguimiento, la gestión de conocimientos y la 
+administración del Proyecto. 
+Estos sistemas ayudarán al seguimiento y ejecución de los proyectos desarrollados en el 
+componente 2.  
+6. 
+Considerando  que,  el  plan  de  financiamiento  del  Proyecto  se  completa  con  un 
+donativo a ser cubierto para la operatividad del Proyecto (estimado en un monto total de 
+US$ 3.2 millones), las actividades a ser financiadas con dicho donativo, las cuales están 
+vinculadas con la planificación del componente 1 y las de coordinación e implementación 
+del componente 3, se realizarán siempre y cuando se cuente con los recursos de donación 
+necesarios. 
+2.  Disposiciones de ejecución 
+1.  Organismo Responsable del Proyecto. La CONAFOR será el organismo ejecutor, con 
+base en su estructura central en Zapopan (Jalisco). La Unidad de Asuntos Internacionales 
+de  Hacienda  (UAIH),  será  responsable  del  seguimiento  a  la  administración  del 
+financiamiento del FIDA, a través del Agente Financiero que sea definido por la SHCP, para 
+el  seguimiento  y  administración  del  Proyecto.  A  nivel  estatal,  el  Proyecto  operará  con 
+apoyo de las representaciones de la CONAFOR en las entidades federativas que considera 
+el  Proyecto.  Esto  asegurará  la  participación  de  las  instituciones  federales  activas  en  la 
+Cuenca y facilitará la participación a nivel municipal. 
+2. 
+Comité directivo de alto nivel: Coordinado por la Presidencia de la República a través 
+de  la  Coordinación  de  Asesores  (CAP).  Con  la  participación  de  los  titulares  de  SHCP, 
+SEMARNAT,  BIENESTAR,  SADER  y  del  titular  de  la  CONAFOR.  Con  responsabilidad  de 
+coordinación  y  dirección  entre  las  entidades  participantes  para  asegurar  la  orientación 
+estratégica del Proyecto. 
+3. 
+Comité  técnico  operativo:  Este  comité  será  responsable  de  la  coordinación  y 
+orientación técnica y operativa del Proyecto entre los programas prioritarios y entidades 
+que lo conforman; para la programación de apoyos/inversiones en  el área de influencia 
+del  Proyecto  y  en  coordinación  con  la  CONAFOR.  Su  integración  y  funcionamiento  se 
+detallará en el Manual Operativo del Proyecto. 
+4. 
+Equipo Técnico del Proyecto. Se creará un Equipo Técnico del Proyecto (ETP) dentro 
+de  la  CONAFOR,  el  cual  llevará  a  cabo  la  gestión  integral  de  los  aspectos  técnicos, 
+administrativos, fiduciarios y de adquisiciones de la implementación del préstamo bajo las 
+regulaciones  establecidas  por  el  Gobierno,  el  FIDA  y  otros  financiadores.  Para  la 
+conformación  del  ETP,  la  CONAFOR  designará  personal  de  estructura  que  asumirá  las 
+funciones del Proyecto en roles de: Coordinación General del Proyecto; Coordinación de 
+Planeación,  Evaluación  y  Monitoreo;  Coordinación  del  Ordenamiento  territorial  y 
+coordinación  interinstitucional;  Coordinación  de  los  planes  de  inversión  y  otros  que 
+considere necesarios. La conformación del ETP será comunicada a FIDA. 
+8 
+Appendix I 
+EB 2021/LOT/P.12 
+La  gestión  financiera  estará  a  cargo  de  la  CONAFOR  a  través  de  la  Gerencia  de 
+5. 
+Financiamiento  adscrita  a  la  Unidad  de  Asuntos  Internacionales  y  Fomento  Financiero 
+(UAIFF),  en  coordinación  con  la  Gerencia  de  Programación  y  Presupuesto  adscrita  a  la 
+Unidad de Administración y Finanzas. 
+6. 
+Unidad Técnica y Administrativa Coordinadora del Proyecto.  Se creará una Unidad 
+para la coordinación y apoyo a la implementación de Proyecto (UCP), en el caso de que se 
+cuente con los recursos de donación previstos en el plan de financiamiento del Proyecto, 
+que pudiera ser administrada por la misma CONAFOR  o por una entidad u organización 
+internacional con experiencia en la gestión de proyectos (lo cual se definirá conforme se 
+cuente  con  recursos  de  la  donación).  La  función  de  esta  Unidad  sería  facilitar  la 
+coordinación  interinstitucional  en  la  región  de  intervención,  reforzar  la  capacidad  de 
+planificación  y  focalización  de  las  inversiones  del  Proyecto  y  de  otros  programas  de 
+Gobierno  en  las  áreas  más  sensibles  (pobreza  y  riesgos  climáticos)  y  fortalecer  los 
+sistemas de extensión existentes. La UCP contaría con tres unidades regionales: una para 
+Oaxaca, Puebla y Tlaxcala. Otra para Guerrero, Morelos, Ciudad de México, y Estado de 
+México y, otra para Michoacán y Jalisco.  
+7. 
+Agente  Financiero.  NAFIN  actuará  como  Agente  Financiero  designado  por  el 
+Prestatario, como responsable de la administración de los recursos del Préstamo para los 
+propósitos de este Convenio, llevará a cabo actividades de coordinación con el Fondo. Sus 
+funciones  específicas  estarán  definidas  en  el  “Contrato  de  Mandato  y  de  Ejecución  del 
+Proyecto”, que incluirá, entre otras, solicitar el retiro de fondos de la Cuenta del Préstamo.  
+El Contrato de Mandato y de Ejecución de Proyecto. Será formalizado entre la SHCP, 
+8. 
+NAFIN y CONAFOR. En él se especificarán las responsabilidades y atribuciones de las partes 
+con respecto a la ejecución y supervisión del Proyecto y la administración del Préstamo.  
+9.  Manual  de  Operaciones  del  Proyecto  (MOP).  La  CONAFOR  ejecutará  el  Proyecto 
+conforme al presente Convenio, sus Reglas de Operación, las de los Programas prioritarios 
+integrados al Proyecto y al Manual de Operaciones (MOP). El manual debe establecer las 
+reglas  operativas  y  administrativas,  procedimientos  y  formatos  para  la  ejecución  del 
+Proyecto por parte del Prestatario, a través de la CONAFOR, y debe contener, entre otros 
+los  siguientes  temas:  i)  contexto  legal  y  organizativo;  ii) descripción  del  Proyecto,  sus 
+componentes  y  cobertura;  iii)  organización  para  la  ejecución  y  funciones  por  nivel; 
+iv) mecanismo de implementación de los componentes y ciclo de planes y sub-proyectos; 
+v) administración de recursos financieros; vi) adquisiciones y contrataciones; vii) sistema 
+de planificación, seguimiento y evaluación. 
+10.  Si  fuera  necesario,  la  CONAFOR,  a  través  del  Agente  Financiero,  podrá  proponer 
+modificaciones al Manual de Operaciones del Proyecto que serán efectivas solamente tras 
+su aprobación y previa no objeción del Fondo. 
+9 
+Appendix I 
+EB 2021/LOT/P.12 
+Anexo 2 
+Cuadro de asignaciones 
+1. 
+Asignación de los recursos del Préstamo. En el cuadro que figura a continuación se 
+presentan las Categoría de Gastos Admisibles que se financiarán con cargo a los recursos 
+del Préstamo y la asignación de los montos por categoría, así como los porcentajes de los 
+gastos correspondientes a los rubros que se financiarán en la Categoría: 
+Categoría 
+Apoyos  
+Total 
+Monto del Préstamo 
+asignado 
+(expresado en USD) 
+38 453,000 
+38 453,000 
+Porcentaje 
+100%, excluyendo el 
+aporte local y el de 
+los beneficiarios 
+2. 
+La categoría en el cuadro de asignaciones considera el concepto Apoyos, como aquel 
+recurso  utilizado  para  la  ejecución  de  proyectos  productivos  a  favor  de  la  población 
+objetivo del Proyecto, conforme a las Reglas de Operación de los programas ejercidos por 
+la CONAFOR. 
+El detalle de esta definición se incluirá en el MOP. 
+10 
+Appendix I 
+EB 2021/LOT/P.12 
+Anexo 3 
+Compromisos especiales 
+1. 
+Planificación, seguimiento y evaluación. La CONAFOR fortalecerá desde el inicio de 
+su  operación,  un  sistema  de  planeación,  seguimiento,  evaluación  y  gestión  del 
+conocimiento (PSEGC) que tenga como finalidad el uso de información para gestionar y 
+mejorar  la  operación  del  mismo  Proyecto,  disponer  de  recursos  que  permitan  escalar  y 
+replicar las innovaciones y aprendizajes en otros planes de trabajo similares en la entidad 
+y el país. 
+2. 
+Cumplimiento  con  los  Procedimientos  de  Evaluación  Ambiental  y  Climática  Social 
+(PESAC).  El  Prestatario,  a  través  de  la  CONAFOR  con  el  apoyo  de  otras  instituciones 
+involucradas, se asegurará de que el Proyecto se implemente de conformidad con el PESAC 
+del FIDA y el marco jurídico nacional, más específicamente, de que se tomen las siguientes 
+medidas:  :  (a)  Implementación  y  monitoreo  del  “Plan  de  Gestión  Ambiental  y  Social 
+(PGAS)” a ser mutuamente acordado con FIDA en los primeros seis (6) meses de ejecución 
+de  Proyecto,  en  alineamiento  con  las  salvaguardas  ambientales  y  sociales  de  FIDA 
+(Borrador inicial: Apéndice 2 de PESAC) y (b)  Implementación y monitoreo de  “Plan de 
+Implementación del Consentimiento, Libre, Previo e Informado (CLPI)” a ser mutuamente 
+acordado  con  FIDA  en  los  primeros  seis  (6)  meses  de  ejecución  del  Proyecto,  en 
+alineamiento con la  Política de FIDA de actuación en relación con los pueblos indígenas 
+(Borrador inicial Anexo11 de PDR). 
+3.  Medidas anticorrupción. El Prestatario, a través de la CONAFOR, deberá cumplir con 
+la Política del FIDA en materia de Prevención del Fraude y la Corrupción en sus Actividades 
+y  Operaciones,  tomando  las  medidas  adecuadas  para  prevenir,  mitigar  y  combatir  las 
+prácticas prohibidas.   
+4. 
+Procedimiento  de  reclamaciones  del  FIDA  por  presunto  incumplimiento  de  sus 
+políticas  sociales  y  ambientales  y  aspectos  obligatorios  de  sus  procedimientos  de 
+evaluación  social,  ambiental  y  climática.  El  MOP  incluirá  referencia  al  Procedimiento  de 
+quejas  del  FIDA  cuyo  objetivo  es  permitir  que  las  personas  y  las  comunidades  se 
+comuniquen directamente con el FIDA y presenten quejas si creen que el Proyecto no está 
+cumpliendo con las normas SECAP. 
+Acoso sexual, explotación sexual y abuso. El Prestatario, a través de la CONAFOR, y 
+5. 
+las Partes del Proyecto se asegurarán de que el Proyecto se lleve a cabo de conformidad 
+con las disposiciones de la Política del FIDA sobre prevención y respuesta al acoso sexual, 
+la explotación sexual y el abuso, según se modifique periódicamente. 
+6. 
+El Personal Clave del Proyecto es: El Coordinador General del Proyecto; Responsable 
+de  Planeación,  Evaluación  y  Monitoreo;  Responsable  de  ordenamiento  territorial  y 
+coordinación interinstitucional; Responsable de planes de inversión para el fortalecimiento 
+de  los  sistemas  productivos  y  el  desarrollo  de  las  cadenas  de  valor;  Responsable  de  la 
+Gestión  Financiera  del  Proyecto;  Enlaces  Técnicos  Operativos  en  las  Promotorías  de 
+Desarrollo Forestal. 
+7. 
+En el caso de que se constituya la UCP, por haberse recibido los recursos de donación 
+para la ejecución del Proyecto, y que la CONAFOR administre dicha UCP, se utilizarán los 
+recursos de donación para  contratar al personal requerido. FIDA y CONAFOR acordarán 
+los  perfiles  del  equipo  de  la  UCP,  los  cuales  formarán  parte  integral  del  MOP.  La 
+contratación del equipo de la UCP se realizará bajo procesos competitivos y la continuidad 
+de los contratos considerará el buen desempeño de los mismos.  
+11 
+Logical framework 
+Jerarquía de los resultados 
+Alcance 
+1
+2
+Meta 
+Contribuir a reducir la 
+vulnerabilidad al cambio 
+climático de la población, los 
+ecosistemas y de los sistemas 
+productivos en la Cuenca Balsas 
+Objetivo de desarrollo 
+Aumentar la capacidad 
+productiva, así como la 
+participación en el mercado de 
+las familias rurales e indígenas 
+pobres, en particular las mujeres 
+y los jóvenes, así como reducir 
+la emisión de gases de 
+invernadero, mediante la 
+promoción de sistemas 
+productivos resilientes y 
+Indicadores 
+Nombre 
+Linea de 
+base 
+Medio 
+término 
+Meta final 
+1.b  Estimación correspondiente del número total de miembros del hogar 
+Miembros de los hogares - Número de 
+personas 
+1.a  Número correspondiente de hogares beneficiarios a los que se ha 
+prestado apoyo 
+Hogares - Hogares 
+1  Número de personas que reciben los servicios promovidos o apoyados por 
+el proyecto 
+Hombres - Hombres 
+12370 
+13744 
+49480 
+0 
+0 
+0 
+141372 
+39270 
+35343 
+Fuente de verificación 
+Fuent
+e 
+SyE 
+Frecuencia 
+Anual 
+Respon-  
+sabilidad 
+CONAFOR 
+SyE 
+Anual 
+CONAFOR 
+SyE 
+Anual 
+CONAFOR 
+Supuestos 
+Buena capacidad de ejecución y 
+recolección de información. El tamaño 
+de hogar es de 3.6 personas/hogar (S) 
+de acuerdo con el Censo 2020 
+Mujeres - Mujeres 
+Jóvenes - Jóvenes 
+Población indígena  PI 
+Número total de personas que reciben 
+servicios  - Número de personas 
+0 
+0 
+0 
+0 
+8246 
+6184 
+12370 
+20616 
+23562 
+17672 
+35343 
+58905 
+Hogares que incrementan su índice de activos en el hogar  
+Hogares - Porcentaje (%) 
+0 
+8 
+15 
+SyE 
+COI 
+Evaluación 
+de medio 
+término y 
+final 
+CONAFOR 
+3.2.1 Toneladas de emisiones de gases de efecto invernadero (tCO2e) evitadas 
+y/o secuestradas 
+Hectares of land - Superficie (ha) 
+129267 
+0 
+tCO2e/20 años - Número 
+tCO2e/ha - Número 
+tCO2e/ha/año - Número 
+0 
+0 
+0 
+3526711 
+27.28 
+1.36 
+Las prioridades de gobierno siguen 
+alineadas al proyecto. Fuerte apoyo 
+político a la concurrencia institucional 
+para reducir la pobreza e incrementar 
+la resiliencia de la población 
+vulnerable en la Cuenca. El ejecutor 
+cuenta con recursos presupuestarios 
+para la ejecución de proyecto y para la 
+medición de indicadores climáticos y 
+de género. El levantamiento de 
+información en tiempo y forma 
+Las prioridades de gobierno siguen 
+alineadas al proyecto. El ejecutor 
+cuenta con recursos presupuestarios 
+para la ejecución de proyecto y para la 
+medición de indicadores climáticos, de 
+género y nutrición. El levantamiento 
+de información en tiempo y forma. 
+Porcentaje de hogares beneficiarios del proyecto con mayor resiliencia 
+hogares beneficiarios con mayor 
+resiliencia - Porcentaje (%) 
+30 
+0 
+60 
+SyE/ 
+Score 
+card 
+de 
+Evaluación 
+de medio 
+término y 
+final 
+CONAFOR 
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+2
+1
+/
+L
+O
+T
+/
+P
+.
+1
+2
+Jerarquía de los resultados 
+sostenibles, con el fin de 
+mejorar sus medios de vida 
+Indicadores 
+Nombre 
+Linea de 
+base 
+Medio 
+término 
+Meta final 
+SF.2.1 Hogares satisfechos con los servicios apoyados por el proyecto 
+Miembros de los hogares - Número de 
+personas 
+Hogares (%) - Porcentaje (%) 
+21156 
+30 
+0 
+0 
+127234 
+90 
+Hogares (número) - Hogares 
+0 
+5876 
+35343 
+2.2.5  Organizaciones de productores rurales que señalan un aumento de las 
+ventas 
+Porcentaje de organizaciones de 
+productores rurales - Porcentaje (%) 
+SF.2.2 Hogares que declaran que pueden influir en la toma de decisiones de 
+las autoridades locales y de los proveedores de servicios apoyados por el 
+proyecto 
+Miembros de los hogares - Número de 
+personas 
+Hogares (%) - Porcentaje (%) 
+7421 
+30 
+15 
+0 
+0 
+0 
+42411 
+30 
+60 
+Hogares (número) - Hogares 
+0 
+2061 
+11781 
+3.2.2  Hogares que declaran haber adoptado prácticas y tecnologías 
+sostenibles desde el punto de vista ambiental y resilientes al cambio climático 
+81252 
+Miembros de los hogares - Número de 
+personas 
+Hogares - Porcentaje (%) 
+36000 
+20 
+60 
+0 
+0 
+Hogares - Hogares 
+0 
+7800 
+23560 
+Fuente de verificación 
+Fuent
+e 
+resilie
+ncia 
+SyE 
+COI 
+SyE 
+COI 
+SyE 
+COI 
+Frecuencia 
+Respon-  
+sabilidad 
+Supuestos 
+CONAFOR 
+CONAFOR 
+CONAFOR 
+Evaluación 
+de medio 
+término y 
+final 
+Evaluación 
+de medio 
+término y 
+final 
+Evaluación 
+de medio 
+término y 
+final 
+Estructura comunitaria sólida de 
+comunidades rurales establecidas en 
+NA 
+Experiencia de la CONAFOR como 
+ejecutor de proyectos FIDA y de otros 
+socios, con enfoques innovadores 
+para incluir grupos vulnerables 
+SyE 
+COI 
+Evaluación 
+de medio 
+término y 
+final 
+CONAFOR 
+Política 3  Leyes, reglamentos, políticas o estrategias existentes o nuevas 
+propuestas a los encargados de formular las políticas para su aprobación, 
+ratificación o modificación 
+Número - Número 
+0 
+1 
+SyE 
+Anual 
+CONAFOR 
+3 
+Estructura comunitaria sólida de 
+comunidades rurales establecidas en 
+NA 
+Experiencia de la CONAFOR como 
+ejecutor de proyectos FIDA y de otros 
+socios, con enfoques innovadores 
+para incluir grupos vulnerables 
+Áreas de recuperación ambiental con un incremento en el Índice de 
+Vegetación de Diferencia Normalizada (NDVI) [Número de hectáreas] 
+Áreas de tierra - Superficie (ha) 
+20000 
+0 
+Fondos Concurrentes nuevos y/o fortalecidos 
+SyE 
+COI 
+Evaluación 
+de medio 
+término y 
+final 
+46159 
+CONAFOR 
+El Gobierno, el sector privado y las 
+organizaciones civiles, logran niveles 
+de organización por subcuencas 
+CONAFOR 
+1
+3
+Efecto directo 
+Efecto 1.1 Planes de 
+Ordenamiento Ecológico de 
+Microcuencas y Planes de 
+Desarrollo Integral son 
+aprobados e integran 
+instrumentos de mitigación y 
+adaptación al cambio climático y 
+su ejecución genera la adopción 
+de prácticas sostenibles y 
+resilientes por las 
+personas/hogares 
+Efecto directo 
+Efecto 1.2 Mecanismos de 
+coordinación institucional y 
+sistemas de extensión y 
+transferencia de tecnologías 
+integran estrategias de 
+mitigación y adaptación e 
+inclusión de las poblaciones 
+vulnerables 
+Efecto directo 
+Efecto 2.1 Ecosistemas 
+forestales restaurados para la 
+conservación de servicios 
+ambientales y protección de 
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+2
+1
+/
+L
+O
+T
+/
+P
+.
+1
+2
+Jerarquía de los resultados 
+recursos hídricos y de la 
+biodiversidad 
+Indicadores 
+Nombre 
+fondos - Número 
+Linea de 
+base 
+Medio 
+término 
+0 
+1 
+Fuente de verificación 
+Meta final 
+Fuent
+e 
+3  SyE 
+COI 
+SyE 
+Supuestos 
+Frecuencia 
+Evaluación 
+de MT y final 
+Anual 
+Respon-  
+sabilidad 
+CONAFOR 
+Organizaciones locales (NA + otros) que cumplen con más de 80% de las 
+metas físicas establecidas en los PDI 
+Número - Organización 
+60 
+0 
+135 
+Efecto directo 
+Efecto 2.2 Los núcleos agrarios 
+incrementan su producción 
+resiliente, agregación de valor y 
+comercialización en base a 
+sistemas silvícolas, 
+agroforestales, silvopastoriles y 
+producción de traspatio 
+1
+4
+Efecto directo 
+Efecto 3.1  Los productores, 
+habitantes y autoridades de la 
+Cuenca del Balsas disponen de 
+información climática oportuna y 
+pertinente para la gestión de los 
+riesgos climáticos, la prevención 
+1.2.4  Hogares que señalan haber logrado un aumento en la producción 
+Miembros del hogar - Núm. personas 
+42000 
+0 
+Hogares - Porcentaje (%) 
+Hogares - Hogares 
+0 
+0 
+84823 
+60 
+30 
+11000 
+23562 
+1.2.3  Hogares que señalan sufrir menos escasez de agua en relación con las 
+necesidades para la producción 
+Hogares - Porcentaje (%) 
+Hogares - Hogares 
+Miembros de los hogares - Número de 
+personas 
+0 
+0 
+100 
+360 
+IE.2.1 Individuos que presentan una mejora de empoderamiento 
+Población indígena - Porcentaje (%) 
+0 
+20 
+200 
+720 
+35 
+Población indígena - Población 
+indígena 
+Jóvenes - Porcentaje (%) 
+Jóvenes - Jóvenes 
+Número total personas-Porcentaje (%) 
+Número total de personas - Número 
+Mujeres - Porcentaje (%) 
+Mujeres - Mujeres 
+Hombres - Porcentaje (%) 
+Hombres - Hombres 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+2474 
+12370 
+5 
+310 
+43% 
+8968 
+15 
+1237 
+40 
+4948 
+10 
+1767 
+70% 
+41233 
+25 
+5890 
+60 
+21205 
+Productores, habitantes y autoridades que reportan haber usado información 
+de sistemas agroclimáticos y alerta temprana para la toma de decisiones 
+(desagregado por usuario) 
+Productores - Número de personas 
+3000 
+0 
+7000 
+SyE 
+COI 
+SyE 
+COI 
+SyE 
+COI 
+Evaluación 
+de medio 
+término y 
+final 
+Evaluación 
+de medio 
+término y 
+final 
+Evaluación 
+de medio 
+término y 
+final 
+CONAFOR 
+El Gobierno, el sector privado y las 
+organizaciones civiles, logran niveles 
+de organización por subcuencas 
+CONAFOR 
+CONAFOR 
+SyE 
+COI 
+Anual a 
+partir de año 
+2 
+CONAFOR 
+La información del tipo climática y de 
+emergencia está disponible a nivel de 
+cada subcuenca. Existe coordinación 
+gubernamental e institucional a nivel 
+de cuenca. 
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+2
+1
+/
+L
+O
+T
+/
+P
+.
+1
+2
+Jerarquía de los resultados 
+de desastres y la gestión de los 
+conocimientos 
+Indicadores 
+Nombre 
+Linea de 
+base 
+Medio 
+término 
+Meta final 
+Fuent
+e 
+Frecuencia 
+Respon-  
+sabilidad 
+Supuestos 
+Fuente de verificación 
+1
+5
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+2
+1
+/
+L
+O
+T
+/
+P
+.
+1
+2
+Appendix III 
+EB 2021/LOT/P.12 
+Integrated project risk matrix 
+Contexto nacional 
+Compromiso político 
+Riesgo: 
+Substancial  Moderado 
+Substancial  Moderado 
+Substancial  Moderado 
+La situación política del país representa un riesgo substantial en relación con un posible 
+retraso o reversión de los compromisos políticos (en particular, la entrega de la 
+financiación de la contraparte en los plazos previstos) necesarios para el éxito del 
+proyecto. Si bien el proyecto contará con un amplio respaldo político en sus primeros 
+años de implementación, en el año 2024, durante la implementación del proyecto, habrá 
+elecciones federales (Presidencia de la República y Congreso Federal), que podrían 
+llevar a cambios en las prioridades expresadas en el Plan Nacional de Desarrollo 2019-
+2024, así como en los arreglos institucionales y en el respaldo de alto nivel que hoy día 
+el proyecto tiene de la Oficina de Coordinación de Asesores de la Presidencia de la 
+República (CAP) como actor clave en el diálogo político entre las distintas entidades 
+públicas involucradas en la implementación del proyecto. Cuando ocurra el cambio de 
+gobierno, el proyecto se habrá institucionalizado y, en lo fundamental, podrá operar con 
+los mecanismos financieros y operativos del organismo ejecutor (CONAFOR). 
+Medidas de mitigación: 
+Las medidas de mitigación incluyen la flexibilidad del proyecto para ajustarse a los 
+posibles cambios político-institucionales a lo largo de su período de implementación, ello 
+se hará a través del diálogo continuo de alto nivel para aportar información y evidencias 
+suficientes que permitan a los tomadores de decisiones priorizar y orientar en conjunto 
+el gasto público en el área del proyecto. El proyecto fortalecerá las instancias locales y 
+federales de concertación y toma de decisión, generando acciones de sostenibilidad de 
+la intervención bottom up desde las comunidades y ejidos, municipios y gobiernos 
+estatales. Durante la formulación del proyecto, el FIDA ha puesto especial énfasis en el 
+diseño de instrumentos vinculantes que faciliten la articulación entre las instituciones 
+federales involucradas en la implementación del proyecto, apoyando al ente ejecutor en 
+el diseño de convenios interinstitucionales y planes de trabajo específicos para cada 
+territorio. La conformación de un Comité de alto nivel permitirá también mantener un 
+diálogo con la CAP, el cual facilitará la articulación entre las diferentes entidades y 
+programas prioritarios del PND y la conducción estratégica del proyecto en el arranque y 
+sus primeros años de implementación. El proyecto además se ha identificado como uno 
+de los instrumentos para dar cumplimiento al trigger/disposición 6.4: mechanism to 
+coordinate, guide, and prioritize binding climate-smart development actions in the most 
+vulnerable municipalities, asociado a un nuevo crédito de Política del Banco Mundial de 
+USD750 millones. Además, en una reciente reunión entre los Presidentes Biden y 
+AMLO, el Gobierno de México ha identificado al proyecto como un elemento en la 
+negociación de un potencial acuerdo sobre la agenda de reducción de emisiones en la 
+Cuenca del Balsas, que además es una zona expulsora de migrantes. Ambos aspectos 
+aportan un fundamento importante para la sostenibilidad del proyecto pues enlazan la 
+implementación del programa a compromisos de política al más alto nivel. 
+Gobernanza 
+Riesgo: 
+Substancial 
+Substancial 
+Bajo 
+Bajo 
+Aunque México se caracteriza por un nivel de gobernanza relativamente avanzada en la 
+región de LAC, al contar con una bien definida separación de poderes, sistemas 
+públicos de fiscalización, transparencia de la información sobre normas administrativas, 
+reglamentos de programas de apoyo y procedimientos para la toma de decisiones 
+gubernamentales, el proyecto trabajará con diferentes niveles institucionales, incluidos 
+gobiernos estatales y municipales con diferentes capacidades, lo que significa un riesgo 
+16 
+Appendix III 
+EB 2021/LOT/P.12 
+substancial para la implementación efectiva de los arreglos institucionales previstos en 
+el diseño del proyecto. 
+Medidas de mitigación: 
+Las medidas de mitigación incluyen el fortalecimiento de capacidades institucionales en 
+los distintos niveles de gobierno, sistemas de control y plataformas de coordinación y 
+convergencia interinstitucional. Además, se enfatizará el diálogo de políticas para 
+asegurar flujos de información y evidencia suficiente que permitan a los tomadores de 
+decisiones priorizar y orientar en conjunto el gasto público en el área del proyecto. De 
+igual manera, el apoyo de la CAP será relevante para impulsar acciones con la 
+Secretaría de Hacienda y Crédito Público (Subsecretaría de Egresos, Unidad de Crédito 
+Público y Unidad de Asuntos Internacionales), para propiciar la asignación de los 
+recursos necesarios en los presupuestos anuales de la CONAFOR y dependencias que 
+concurrirán en la Cuenca del Balsas. Al mismo tiempo, la CONAFOR cuenta con una 
+experiencia consolidada en la operación de proyectos con financiamiento internacional, 
+como el PRODEZSA y en el pasado reciente el DECOFOS y el PRODESNOS, con 
+financiación del FIDA, así como en la gestión de otras operaciones financiadas por el 
+Banco Mundial y el GEF. 
+Factores macroeconómicos 
+Riesgo: 
+Substancial  Moderado 
+Substancial  Moderado 
+Puede enfrentarse un riesgo de debilidad de las finanzas públicas para hacer frente a la 
+recuperación post-pandemia y no disponer de suficientes recursos presupuestales para 
+la financiación de los programas de inversión pública, incluido el proyecto en la Cuenca 
+del Balsas, especialmente en un contexto post-pandemia. 
+Medidas de mitigación: 
+A nivel de proyecto se seguirá dialogando muy estrechamente con las entidades 
+gubernamentales, en específico con la SHCP, CONAFOR, CONAGUA, SEMARNAT y 
+SADER, para que el proyecto cuente con el nivel adecuado de fondos de contrapartida. 
+Fragilidad y seguridad 
+Riesgo: 
+Alto  Substancial 
+Alto  Substancial 
+México ha estado sufriendo violencia e inseguridad durante los últimos 12 años, 
+principalmente debido a la lucha contra el crimen organizado contribuyendo a un 
+contexto de fragilidad en las áreas rurales. Durante los últimos años, el Gobierno ha 
+transferido un rol más importante a las fuerzas armadas para el mantenimiento de la 
+seguridad pública. Algunas micro-regiones dentro de los estados de Morelos, Guerrero, 
+Michoacán y Jalisco en la Cuenca del Balsas están experimentando situaciones severas 
+de fragilidad social y violencia, y sus tasas de homicidio estuvieron por encima del 
+promedio nacional en 2019 y 2020. Este riesgo podría tener un efecto a nivel de la 
+focalización porque ciertas áreas de alta prioridad para el proyecto (Marginación+riesgo 
+climático+indígena) podrían no ser accesibles. 
+Medidas de mitigación: 
+Las instituciones de Gobierno involucradas en el proyecto reconocen esta situación y se 
+han establecido medidas que permiten evitar la intervención en zonas altamente 
+inseguras y mecanismos de comunicación con la población que permiten prevenir 
+situaciones de alto riesgo. Además, las medidas de mitigación considerarán criterios 
+flexibles para definir los municipios elegibles de intervención del proyecto. 
+Estrategias y políticas sectoriales 
+Armonización de políticas 
+Riesgo: 
+Substancial  Moderado 
+Substancial  Moderado 
+Substancial  Moderado 
+17 
+Appendix III 
+EB 2021/LOT/P.12 
+En la actualidad y hasta el 2024, el riesgo derivado de la falta de armonización de 
+políticas es bajo. El proyecto está plenamente alineado con las prioridades nacionales 
+establecidas en el PND y en la NDC y responde a la necesidad de implementación del 
+Programa Regional de Desarrollo y Bienestar de la Cuenca Balsas-Pacífico Sur. No 
+obstante, si bien el proyecto cuenta con un amplio respaldo político en sus primeros 
+años de implementación, en el año 2024 habrá elecciones federales que podrían llevar a 
+cambios en las prioridades expresadas en el PND 2019-2024, así como en los arreglos 
+institucionales y en el respaldo de alto nivel que hoy día el proyecto tiene de la Oficina 
+de Coordinación de Asesores de la Presidencia de la República (CAP) como actor clave 
+en el diálogo político entre las distintas entidades públicas involucradas en la 
+implementación del proyecto. 
+Medidas de mitigación: 
+Aunque el apoyo de esta Oficina puede variar cuando ocurra un cambio en la 
+Presidencia de la República al finalizar el 2024, para ese tiempo el proyecto habrá 
+logrado un nivel significativo de institucionalización, por lo que podrá operar la mayor 
+parte de sus componentes con base en los recursos de la CONAFOR, como organismo 
+ejecutor. La conformación de un Comité de alto nivel permitirá también mantener el 
+diálogo con la CAP facilitará la articulación entre las diferentes entidades y programas 
+prioritarios del PND y la conducción estratégica del proyecto en el arranque y sus 
+primeros años de implementación. También estará a favor de la continuidad del proyecto 
+la trayectoria de CONAFOR por más de 20 años impulsando la concurrencia de 
+acciones y recursos con los gobiernos estatales y municipales en el marco de 
+operaciones financiadas por otros organismos financieros y de cooperación 
+internacional, como el Banco Mundial, Fondos Noruegos, GEF y el propio FIDA. Otra 
+medida de mitigación en respuesta a los posibles cambios político-institucionales a partir 
+del 2025 es el establecimiento de instrumentos vinculantes facilitando la articulación 
+entre las instituciones federales y los gobiernos estatales y municipales interviniendo en 
+el proyecto en los años subsiguientes. Los mecanismos de coordinación inter-
+institucional para la convergencia de programas gubernamentales y las acciones de 
+gestión de conocimiento y escalamiento del proyecto contribuirán a este fin 
+aprovechando la cobertura de la CONAFOR a nivel nacional. Este tipo de sinergia ya se 
+ha alcanzado en la implementación del PRODEZSA. 
+Formulación y aplicación de políticas 
+Riesgo: 
+Substancial  Moderado 
+Substancial  Moderado 
+La justificación de la intervención del proyecto se fundamenta en el hecho de que 
+actualmente no hay una articulación efectiva de las políticas y programas de las 
+dependencias federales que convergen en la Cuenca del Balsas. Los incentivos para el 
+desarrollo rural y forestal no están alineados con las necesidades de adaptación y 
+mitigación al cambio climático. 
+Medidas de mitigación: 
+El proyecto tiene respaldo de la CAP y de la CONAFOR para instrumentalizar desde el 
+ámbito normativo, presupuestal y operativo iniciativas que faciliten la convergencia y 
+sinergia del proyecto con 7 de los 11 programas prioritarios del Gobierno en el territorio 
+de la Cuenca. Dado el contexto, el proyecto prevé acciones específicas para fortalecer 
+las capacidades institucionales de los actores involucrados para conformar una 
+plataforma programático-presupuestal que ordene la concurrencia de acciones en el 
+territorio y la integración de criterios de cambio climático en la política pública. Esto se 
+hará a través de mecanismos y convenios de coordinación interinstitucional a nivel 
+federal y con gobiernos estatales y municipales. La formulación y aplicación de políticas 
+también tendrá un sentido amplio de participación de actores públicos y privados, ello se 
+sustentará en organismos ya existentes, como los Consejos de Cuenca, los Consejos 
+Forestales Estatales y los Consejos Estatales para el Desarrollo Rural Sustentable. El 
+instrumento central para asegurar la participación y ordenar las acciones e implementar 
+18 
+Appendix III 
+EB 2021/LOT/P.12 
+las políticas para la restauración ambiental y el desarrollo de actividades productivas 
+resilientes serán los Planes de Ordenamiento Ecológico de Microcuencas (POEM). 
+Contexto ambiental y climático 
+Vulnerabilidad del proyecto a las condiciones ambientales 
+Riesgo: 
+Alto  Substancial 
+Substancial  Moderado 
+Substancial  Moderado 
+Las amenazas ambientales del proyecto son las siguientes: expansión de la frontera 
+agrícola provocando deforestación; malas prácticas ocasionan incendios forestales; y 
+prácticas no sostenibles agrícolas y forestales intensifican la degradación de los suelos y 
+fuentes de agua. Además, el área del proyecto está en una zona sísmica lo que puede 
+provocar daños a la infraestructura productiva y generar deslizamientos del terreno. En 
+su conjunto, estas amenazas pueden generar impactos negativos en la provisión de 
+servicios ecosistémicos de los bosques (reducción en la producción agrícola, pecuaria 
+y/o forestal, infiltración del agua, la captura de carbono) así como provocar daños 
+parciales o totales en la infraestructura productiva (centros de almacenamiento o de 
+transformación) por efecto de los sismos (en promedio son menores a 5.0 en la escala 
+de Richter). 
+Medidas de mitigación: 
+Para gestionar los riesgos ambientales identificados, se realizarán acciones para: (i) 
+Reducir las causas que provocan la deforestación como es el fortalecimiento de las 
+cadenas de valor existentes (inversiones para mantener e incrementar la producción y 
+productividad agropecuaria y forestal para que limite la necesidad de abrir nuevos 
+espacios en los bosques para la producción); (ii) impulsar el modelo de silvicultura 
+comunitaria (desarrollo colectivo en los procesos integrales de manejo del bosque y 
+valor agregado a la producción); (iii) realizar la planeación y manejo de los recursos 
+naturales y restauración de paisaje bajo el enfoque de cuenca hidrográfica que permitan 
+fortalecer su funcionalidad hídrica; y (iv) mejorar las prácticas para la conservación de 
+suelos (obras retenedoras y estabilizadoras de áreas erosionadas), reforestaciones con 
+especies nativas, prevención y combate de plagas, enfermedades del bosque así como 
+de combate de incendios forestales. Estas acciones se respaldarán con una 
+convergencia de servicios de extensionismo, capacitación y asistencia técnica, que ya 
+operan varios de los programas prioritarios del Gobierno (Programa de Apoyos para el 
+Desarrollo Forestal Sustentable, Programa de Producción para el Bienestar, y Programa 
+Sembrando Vida). El Manual Operativo del Proyecto (MOP) indicará el tipo de 
+restricciones y acciones prohibidas para no incentivar la degradación ambiental de las 
+cuencas hidrográficas donde intervenga el proyecto. Algunas acciones de referencia 
+son: (i) no deforestar bosques naturales para ampliar o crear nuevas áreas de cultivo, 
+áreas de pastoreo o plantaciones forestales y (ii) no se financiarán sub-proyectos que 
+incluyan adquisición y aplicación de agroquímicos prohibidos por la OMS y la 
+normatividad nacional vigente, entre otras acciones prohibidas. El proyecto se orientará 
+para la gestión de los recursos naturales en base a las recomendaciones establecidas 
+en las Declaraciones de Orientación No. 1 (Biodiversidad), 5 (Bosques) y 11 (Desarrollo 
+de cadenas de valor, micro-empresas y pequeñas empresas) establecidos en el SECAP 
+(Edición 2017), así como recomendaciones para prevenir desastres asociados a sismos, 
+utilizando métodos de construcción acordes a la escala del tipo de infraestructuras 
+productivas a financiar, y al código civil mexicano relacionado con la construcción de 
+edificios y uso del sistema de alerta temprana ante sismos. 
+Vulnerabilidad del proyecto a los efectos del cambio climático 
+Riesgo: 
+El área de intervención del proyecto está en una de las zonas más vulnerables al 
+cambio climático de México. Las principales amenazas a los cuales están expuestos la 
+población objetivo y sus medios de vida son: lluvias intensas, sequías, inundaciones, 
+ciclones tropicales y altas temperaturas, los cuales pueden generar efectos adversos en: 
+(i) disminución de la producción de servicios ecosistemicos, (ii) pérdidas parciales o 
+totales en la producción agropecuaria y forestal, (iii) disminución en la productividad 
+19 
+Alto  Substancial 
+Alto  Substancial 
+Appendix III 
+EB 2021/LOT/P.12 
+primaria agropecuaria y forestal, (iv) daños parciales o totales a la infraestructura 
+productiva y de comunicación; y (v) mayor frecuencia y afectación por plagas y 
+enfermedades en cultivos, producción ganadera y forestal. Estos riesgos en su conjunto 
+son factores que inciden en la vulnerabilidad climática del proyecto aunado a las bajas 
+capacidades de la población objetivo para hacer frente a los riesgos. 
+Medidas de mitigación: 
+La estrategia del proyecto para reducir la vulnerabilidad climática de la Cuenca del 
+Balsas es implementar acciones para conservar y mejorar los servicios ecosistémicos y 
+las capacidades de resiliencia de las familias de los NA y sus sistemas productivos que 
+serán identificadas en forma participativa en los POEM y los PDI: (i) incrementar la 
+capacidad adaptativa de los sistemas de producción agrícola, pecuaria y forestal; (ii) 
+generar modelos de aprovechamiento sustentable de los recursos naturales (agua, 
+suelo y vegetación) mediante acciones de conservación, protección y restauración 
+ecológica para reducir los procesos de degradación que se puedan presentar por las 
+amenazas climáticas; (iii) fortalecer las capacidades institucionales y comunitarias para 
+la adaptación y gestión del riesgo climático; (iv) realizar inversiones y asistencia técnica 
+en bosques comunitarios y silvicultura adaptativa para medidas de conservación, 
+protección y restauración que conlleven a mantener e incrementar la provisión de 
+servicios ambientales; (v) promover el manejo y prevención de plagas y enfermedades 
+forestales en bosques naturales; (vi) desarrollar sistemas de captación y 
+almacenamiento de agua de lluvia y obras para aumentar la infiltración del agua de lluvia 
+en las partes medias y altas de las cuencas; (vii) implementar prácticas agroecológicas 
+para los sistemas de producción agrícolas y pecuarios; e (vii) implementar planes para la 
+gestión de riesgos comunitarios de origen climático basado en la normatividad nacional 
+en materia de gestión del riesgo y prevención ante desastres naturales (incluyendo el 
+desarrollo y difusión de sistemas de información climática). 
+Alcance del proyecto 
+Pertinencia del proyecto 
+Riesgo: 
+Moderado 
+Bajo 
+Bajo 
+Bajo 
+Bajo 
+Bajo 
+El riesgo de que los objetivos y las intervenciones del proyecto no estén en total 
+consonancia con las prioridades del FIDA o de desarrollo del país, o no sean lo 
+suficientemente pertinentes o adecuadas a las necesidades y prioridades del grupo 
+objetivo en toda la duración del proyecto es muy bajo. Los objetivos y las intervenciones 
+del proyecto están en total consonancia con las prioridades del FIDA y de desarrollo del 
+país, basándose en el PND y los programas prioritarios del Gobierno Federal. En efecto, 
+el proyecto focaliza su intervención en los municipios rurales con altos y muy altos 
+niveles de marginación en la Cuenca, incluyendo a las comunidades indígenas. 
+Medidas de mitigación: 
+Como posible medida de mitigación se identifica un adecuado soporte técnico a través 
+de misiones del FIDA, tanto de supervisión como de apoyo a la implementación, para 
+garantizar que el proyecto mantenga su estrategia de focalización y su pertinencia. Los 
+tres componentes del proyecto impulsarán acciones dedicadas al consentimiento previo, 
+libre e informado, al fortalecimiento de la gobernanza y organización local y la 
+participación activa por parte de las comunidades beneficiarias en la toma de decisión 
+sobre las inversiones a realizar. Estas acciones contribuirán a que las estrategias y 
+acciones se mantengan alineadas a las necesidades de la población atendida. 
+Solidez técnica 
+Riesgo: 
+Substancial 
+Substancial 
+Bajo 
+Bajo 
+La implementación de los objetivos y actividades del proyecto requerirán capacidades 
+técnicas en materia de transferencia tecnológica para la producción agropecuaria, 
+forestal o el manejo de recursos naturales con enfoque de resiliencia al cambio 
+climático. Los programas de apoyo de gobierno, bajo los cuales se canalizarán los 
+20 
+Appendix III 
+EB 2021/LOT/P.12 
+recursos del proyecto carecen aún de una coordinación efectiva, sistemas de extensión 
+sólidos y no integran aspectos relacionados a la mitigación y adaptación al cambio 
+climático. 
+Medidas de mitigación: 
+El proyecto promueve una intervención bajo un enfoque de Cuenca que considera los 
+aspectos socio-culturales del territorio y las necesidades de fortalecer la resiliencia de la 
+población frente al cambio climático con soluciones que permiten restaurar paisaje y 
+desarrollar las cadenas de valor para responder a la problemática identificada. Ello 
+contempla un componente (componente 1) dedicado a asegurar las condiciones 
+necesarias para propiciar un ordenamiento y desarrollo territorial adaptado a las 
+condiciones de marginación y los desafíos del cambio climático en las micro-cuencas. 
+Esto incluye: (i) el fortalecimiento de las organizaciones comunitarias para la gestión, 
+planeación y toma de decisiones para la adaptación y gestión de riesgos climáticos 
+(incluyendo la capacitación de líderes jóvenes y mujeres) y la utilización de la 
+herramienta participativa de POEM; (ii) la promoción de la coordinación intersectorial y la 
+integración del enfoque climático en los programas de apoyo de gobierno relevantes a la 
+intervención del proyecto; y (iii) el fortalecimiento de los sistemas locales de extensión, 
+capacitación y transferencia de tecnologías para mejorar la oferta adecuada de servicios 
+para incrementar las capacidades técnicas y organizativas de los pequeños productores. 
+El componente 2 proveerá a los diferentes grupos priorizados apoyos financieros y 
+asistencia técnica para la implementación de sistemas de manejo adaptativo de 
+ecosistemas (recursos forestales e hídricos) y el desarrollo de microempresas e 
+iniciativas de producción sustentable. La inversión será acompañada del fortalecimiento 
+de capacidades organizativas, administrativas, de producción y comercialización de los 
+pequeños productores, comunidades indígenas, grupos de mujeres y jóvenes de 
+acuerdo con sus grados de desarrollo. Finalmente, se van a desarrollar sistemas de 
+información climática y se generarán conocimientos para apoyar la toma de decisiones y 
+la gestión del riesgo climático, así como el escalamiento y adopción de las innovaciones 
+del proyecto (componente 3). 
+Capacidad institucional de ejecución y sostenibilidad 
+Mecanismos de ejecución 
+Riesgo: 
+El riesgo de que el organismo ejecutor del proyecto no posea los recursos, procesos o 
+sistemas apropiados para gestionar el proyecto con eficacia (de conformidad con el 
+convenio de financiación y todos los documentos jurídicos del FIDA pertinentes) y 
+garantizar la consecución de los objetivos de desarrollo del proyecto es bajo. La 
+CONAFOR tiene una larga experiencia ejecutando proyectos financiados por el FIDA y 
+tiene mucha experiencia en los procedimientos de organismos multilaterales, como el 
+Banco Mundial o el GEF. No obstante, los desafíos existentes en materia de 
+coordinación inter-institucional son significativos. 
+En caso de que durante el diseño se opte por delegar la coordinación del proyecto a una 
+entidad internacional, se evaluarán sus capacidades y experiencia con base a los 
+procedimientos FIDA. En cuanto a la financiación para la ejecución del proyecto, tanto el 
+FIDA como el Fondo Verde para el Clima (FVC) tienen procesos de aprobación que no 
+están alineados en el tiempo, por lo cual se prevé que los recursos del FVC no estarán 
+disponibles cuando inicien las operaciones del proyecto. Esto afectaría la realización de 
+algunas actividades que no pueden ser financiadas con el presupuesto de la CONAFOR 
+o ser realizadas usando la capacidad instalada de la institución. Por ello, se anticipa que 
+existirá una brecha financiera para el primer año de implementación, la cual ha sido 
+incluida en el Plan de Operaciones del primer año. 
+Medidas de mitigación: 
+El proyecto involucra, y en gran parte centra su objetivo, en promover la coordinación 
+entre diversas instituciones del nivel central y sub-nacional. Las medidas de mitigación 
+incluyen el fortalecimiento de capacidades institucionales en los distintos niveles de 
+21 
+Substancial  Moderado 
+Substancial  Moderado 
+Substancial  Moderado 
+Appendix III 
+EB 2021/LOT/P.12 
+gobierno, sistemas de control y plataformas de coordinación y convergencia 
+interinstitucional. El proyecto está siendo promovido y tiene el soporte de la Presidencia 
+de la República, con lo cual hay un mandato claro para incentivar la voluntad de 
+coordinación. Además, el FIDA, independientemente del arreglo final para la 
+implementación, seguirá proveyendo asesoría y acompañamiento al personal de 
+CONAFOR sobre las condiciones y procedimientos para la gestión de recursos 
+externos. Esto se hará tanto por FIDA como por el agente financiero designado por la 
+Secretaria de Hacienda y Crédito Público. 
+Además de apresurar en lo posible la última fase del diseño para la financiación del 
+FVC, en acuerdo con la CONAFOR, el FIDA ha identificado las acciones que podrían 
+realizarse en términos administrativos y operativos para minimizar los efectos del retraso 
+en el flujo de fondos. En este sentido, en CONAFOR se conformará un ETP con 
+personal de estructura, inicialmente no se prevé la contratación de personal adicional 
+para la ejecución del préstamo FIDA. Los costos para operar esta unidad serán 
+asumidos por CONAFOR, durante el período previo a que se formalice la donación. Por 
+otra parte, el FIDA está dialogando con otras entidades internacionales que, conforme a 
+su mandato, podrían cubrir la brecha de donativo en el financiamiento del proyecto. 
+Mecanismos de seguimiento y evaluación 
+Riesgo: 
+Substancial  Moderado 
+Substancial  Moderado 
+Existe el riesgo de que los procesos y sistemas de seguimiento y evaluación de la 
+entidad ejecutora sean débiles o ineficientes, lo cual puede traducirse en una capacidad 
+limitada para supervisar, validar, analizar y comunicar los resultados, extraer 
+enseñanzas y ajustar la ejecución con el fin de aprovechar las oportunidades y adoptar 
+medidas correctivas oportunas es moderado. Con base en la experiencia obtenida en la 
+implementación de proyectos financiados por el FIDA en el país, los riesgos que se han 
+enfrentado en planeación, seguimiento, evaluación y gestión del conocimiento son los 
+siguientes: (i) Falta de personal en UCP específico para planeación, seguimiento, 
+evaluación y gestión del conocimiento; (ii) planeación y ejecución de línea base tardía; 
+(iii) costo alto de la medición de indicadores climáticos, de género y nutrición; y (iv) falta 
+de coordinación entre instituciones para realizar el seguimiento y evaluación 
+correspondiente. 
+Medidas de mitigación: 
+Las acciones de mitigación para los riesgos relacionados con planeación, seguimiento, 
+evaluación y gestión del conocimiento consisten en: (i) Contar con una persona 
+responsable de las actividades específicas que incluya la definición de medición de 
+indicadores, recolección y manejo de la información necesaria, que sea responsable de 
+impulsar y realizar los levantamientos de información necesarios; (ii) establecer en el 
+presupuesto del proyecto un presupuesto para medir los distintos indicadores climáticos, 
+de género y nutrición; (iii) otorgar capacitaciones continuas a la UCP respecto a 
+lineamientos de SyE de FIDA, así como de aspectos técnicos con apoyo de entidades 
+relacionadas con la evaluación como CONEVAL, CIDE, universidades, y CLEAR; (iv) 
+llevar a cabo la planeación, seguimiento, evaluación y gestión de conocimientos de 
+manera participativa, llegando a acuerdos entre instituciones; y (v) apoyar la UCP en el 
+manejo de las fichas de cálculo de los indicadores CORE (CI de ORMS) para que desde 
+el arranque del proyecto, exista claridad sobre los métodos y forma de reporte de estos 
+indicadores. Las actividades de seguimiento y evaluación que permiten el monitoreo de 
+los servicios ambientales generados por el proyecto con un enfoque de Cuenca 
+requerirá de las contribuciones de especialistas en diferente materia (vegetación, suelo, 
+agua) y de establecimiento de investigaciones aplicadas. Para ello, el proyecto 
+establecerá vínculos con universidades y centros de Investigación. 
+Gestión financiera del proyecto 
+Organización y dotación de personal del proyecto 
+Riesgo: 
+Bajo 
+Bajo 
+Bajo 
+Bajo 
+Bajo 
+Bajo 
+22 
+Appendix III 
+EB 2021/LOT/P.12 
+La gestión financiera de los proyectos está a cargo de la UAIFF y su gerencia de 
+financiamiento. Para tareas administrativas usualmente se cuenta con apoyo 
+administrativo desde la Gerencia Operativa responsable de la ejecución del proyecto y 
+desde las oficinas estatales que gestionan los pagos de los subsidios. Se cuenta con el 
+soporte de NAFIN como Agente Financiero designado por la Secretaria de Hacienda y 
+Crédito Público SHCP. 
+Este esquema ha dado buenos resultados y con el mismo se han mejorado 
+sustancialmente los procesos administrativos, respecto a la experiencia con proyectos 
+anteriores ejecutados por CONAFOR. 
+Su funcionamiento ha sido satisfactorio y se refleja en la eficiencia de las operaciones 
+administrativas y financieras del proyecto, así como en la calidad de la de la información 
+generada por esta área. 
+El personal de la UAIFF es preparado y tiene experiencia con otros proyectos del Banco 
+Mundial y del mismo FIDA. En su mayoría tienen formación profesional de economistas, 
+contadores, financieros, sistemas de información. 
+El equipo de la Unidad esta conformado por personal de estructura complementado con 
+Prestadores de Servicios Profesionales (PSPs), con contratos temporales que se 
+renuevan anualmente. Este personal tiene limitado acceso a capacitaciones formales 
+por normativa institucional, sin embargo, se han capacitado en los cursos del FIDA en 
+línea. 
+Medidas de mitigación: 
+NA 
+Elaboración de presupuestos del proyecto 
+Riesgo: 
+Los proyectos en CONAFOR dependen de la asignación presupuestaria a la institución y 
+las áreas que intervienen en la ejecución. Que usualmente ha sido inferior al promedio 
+anual requerido para ejecutar el financiamiento a un rimo apropiado. 
+Sin embargo en PRODEZSA se ha recurrido a las adecuaciones presupuestales para 
+etiquetar recursos en el dígito 2 (créditos externos), con el apoyo de áreas operativas de 
+CONAFOR y de la SHCP. 
+Medidas de mitigación: 
+El FIDA dará seguimiento continuo a las asignaciones presupuestarias, con el 
+acompañamiento de la Oficina de Coordinación de Asesores de la Presidencia (CAP) y 
+con Unidad de Asuntos Internacionales de la SHCP y su Subsecretaría de Egresos). 
+El FIDA acompañará a CONAFOR en la revisión periódica de espacios ( en los 
+programas y gerencias operativas de CONAFOR asociadas al proyecto y de focalización 
+geográfica) para lograr una mayor asignación y etiquetar recursos con dígito 2. 
+Utilizando como referencia el plan de desembolsos, que se revise y sobre el cual se 
+establezcan acuerdos desde la negociación del convenio de financiamiento 
+Compromiso desde negociación. 
+Moderado 
+Moderado 
+Bajo 
+Bajo 
+Flujo de fondos y desembolsos del proyecto 
+Riesgo: 
+Substancial  Moderado 
+Substancial  Moderado 
+Según la experiencia del FIDA en el país, ll flujo de fondos desde al FIDA hasta el 
+proyecto y los beneficiarios no presenta riesgos relevantes. El flujo de fondos hacia los 
+beneficiarios es eficiente y se controla con Sistema Integral de apoyos de la CONAFOR 
+(SIIAC) para apoyos a los beneficiarios y con SAI Sistema de Administración Integral 
+para gastos directos de la CONAFOR. 
+Sin embargo, como mencionado anteriormente, el FIDA y el Fondo Verde para el Clima 
+(FVC) tienen procesos de aprobación que no están alineados en el tiempo, por lo cual 
+se prevé que los recursos del FVC no estarán disponibles a la fecha de entrada en vigor 
+del proyecto. Esto afectaría la realización de algunas actividades que no pueden ser 
+financiadas con el presupuesto de la CONAFOR o ser realizadas usando la capacidad 
+23 
+Appendix III 
+EB 2021/LOT/P.12 
+instalada de la institución. Por ello, se anticipa que existirá una brecha financiera para el 
+primer año de implementación. 
+Medidas de mitigación: 
+La falta de disponibilidad de fondos FVC se ha tomado en cuenta durante la elaboración 
+del Plan de Operaciones del primer año. Las actividades previstas durante el primer año 
+serán aquellas que se financiarán con recursos del FIDA o de CONAFOR. A partir del 
+segundo año se implementarán también actividades financiadas por el FVC. 
+Controles internos del proyecto 
+Riesgo: 
+Bajo 
+Bajo 
+Bajo 
+Bajo 
+Se utilizan los sistemas de la institución. Para lo cual se aplican los manuales aprobados 
+y normados por la Secretaría de la Función Pública-SFP. También se cuenta con 
+manuales internos generados por la institución, los cuales son aprobados por el Comité 
+de Mejora de Regulación Interna de CONAFOR. 
+Los controles internos y control de pago son eficientes. El pago no se puede realizar si 
+previamente no se tiene la documentación soporte conforme a lo establecido en las 
+ROP (en el caso de los pagos iniciales se trata de los documentos de aprobación de las 
+propuestas y los pagos finales por informes de avance y liquidaciones) y si no fue 
+programado en los sistemas (SIIAC, y SAI) y es coherente con el POA y la matriz de 
+desembolsos. 
+Hay separación de funciones, según lo establecido en los manuales y en los sistemas 
+(SIIAC y SAI) se establecen diferentes niveles de aprobación y con autorizaciones 
+controladas para el ingreso de los datos en los sistemas. 
+Los niveles de aprobación están definidos y pasan por diferentes jerarquías de las 
+Gerencias (Áreas requirentes, la Gerencia de Recursos Materiales, la Gerencia de 
+Programación y Presupuesto, y en su caso las Promotorías de Desarrollo Forestal 
+Sustentable, entre otras). Se manejan módulos separados para el registro del apoyos, 
+registro y control del pago al beneficiario y registro del gasto. 
+El riesgo en la transferencia a los beneficiarios usualmente está en la no ejecución de 
+los apoyos, a lo cuál se da seguimiento desde las Gerencia Estatales con personal de 
+campo y principalmente los promotores. Como se menciona este personal debe 
+autorizar y documentar los pagos en los Sistemas. 
+Medidas de mitigación: 
+NA 
+Presentación de información contable y financiera del proyecto 
+Riesgo: 
+Bajo 
+Bajo 
+Bajo 
+Bajo 
+Se aplican los sistemas institucionales y normas de contabilidad de la administración 
+pública con base en la ley de contabilidad gubernamental. 
+Para gastos del proyecto se aplica el Sistema de Administración Integral (SAI) 
+Los gastos generados por el SAI se organizan para reportar por categorías, fuentes y 
+componentes. 
+Debe ser así por tratarse de gastos pre financiados por el Gobierno y definidos en el 
+presupuesto de la institución, lo que aplica para préstamo y donación 
+Medidas de mitigación: 
+NA 
+Auditoría externa del proyecto 
+Riesgo: 
+Las auditorías externas son realizadas por firmas independientes asignadas por la SFP. 
+Los alcances de las auditorias se definen en TDR acordados entre la SFP y los OFIs 
+24 
+Bajo 
+Bajo 
+Bajo 
+Bajo 
+Appendix III 
+EB 2021/LOT/P.12 
+(BM y BID) en MET firmado por las parte, cuyas condiciones han sido aceptables para el 
+FIDA. 
+Bajo 
+Bajo 
+Bajo 
+Bajo 
+Bajo 
+Bajo 
+Bajo 
+Bajo 
+Bajo 
+Bajo 
+Medidas de mitigación: 
+NA 
+Adquisiciones y contrataciones 
+Marco jurídico y reglamentario 
+Riesgo: 
+No se identifica ningún riesgo relacionado con la capacidad reglamentaria e institucional 
+del prestatario y las prácticas correspondientes (incluido el cumplimiento de la 
+legislación) para realizar las adquisiciones y contrataciones en un modo que garantice el 
+uso óptimo de los recursos con integridad. 
+El país cuenta con un estamento jurídico y reglamentario sólido compuesto por la ley de 
+adquisiciones y su reglamento; el manual administrativo que contiene los formatos 
+estandarizados para los procedimientos de compras; las políticas, bases y lineamientos 
+en materia de adquisiciones interno de la unidad ejecutora; y demás lineamientos 
+emitidos por las Secretarías de la Función Pública y de Hacienda y Crédito Público del 
+país. 
+Este marco jurídico es apoyado por el sistema electrónico de contrataciones públicas 
+COMPRANET, de acceso libre y en donde se publica la información clave relacionada 
+con adquisiciones, entre ella: marco legal y regulatorio; programas de adquisiciones; 
+convocatorias; adjudicación de contratos; y datos sobre la resolución de reclamaciones 
+o quejas sobre las adquisiciones 
+Medidas de mitigación: 
+N/A 
+Rendición de cuentas y transparencia 
+Riesgo: 
+No se identifican riesgos relevantes relacionados con que las disposiciones en materia 
+de rendición de cuentas, transparencia y supervisión (incluidas las relativas a la 
+recepción de quejas, por ejemplo, sobre casos de acoso, explotación y abusos sexuales 
+y de corrupción y fraude) no sean las adecuadas para salvaguardar la integridad de las 
+adquisiciones y contrataciones y el cumplimiento de los contratos en el ámbito del 
+proyecto. 
+Las reclamaciones sobre adquisiciones son presentadas a través del sistema 
+COMPRANET. Además, se pueden presentar inconformidades o quejas ante el Órgano 
+Interno de Control que es independiente de la entidad compradora, o directamente ante 
+la Secretaría de la Función Pública (SFP). Se establece la posibilidad de la participación 
+de un testigo social como veedor en los procesos. La normativa contempla un sistema 
+de diferentes niveles para gestionar las reclamaciones que incluye al Órgano de Control 
+Interno; a la SFP y a los 
+Tribunales de Justicia Administrativa. Adicionalmente, la SFP lidera un sistema de 
+proveedores y contratistas sancionados que mantiene un registro de los proveedores 
+que no cumplen los contratos, ya sea en tiempo o en calidad, o cuando se rescinden los 
+contratos por cualquier motivo. Este sistema también aplica para servidores públicos. 
+El único aspecto a considerar es la puntuación del índice de la percepción sobre la 
+corrupción en el país que se basa en los reportes anuales de Transparencia 
+Internacional, mismo que no depende exclusivamente de las instituciones involucradas 
+25 
+Appendix III 
+EB 2021/LOT/P.12 
+en las compras. En lo que respecta a la CONAFOR en años anteriores y en 2021 no se 
+recibieron reclamos sobre los procesos de adquisición ejecutados. 
+Medidas de mitigación: 
+Este indicador no depende del proyecto, por lo tanto se mantiene la recomendación de 
+continuar con las buenas prácticas que la CONAFOR aplica en los procesos, entre las 
+que se incluye la publicación de los contratos en el sistema COMPRANET. 
+Capacidad en adquisiciones y contrataciones públicas 
+Riesgo: 
+Bajo 
+Bajo 
+Bajo 
+Bajo 
+Bajo 
+Bajo 
+Bajo 
+Bajo 
+No se identifica ningún riesgo relacionado a que el organismo de ejecución (CONAFOR) 
+no cuente con procesos, procedimientos y sistemas sólidos ni con personal bien 
+formado para la administración, supervisión y gestión de los contratos. 
+Las adquisiciones del proyecto se llevarán a cabo desde la Gerencia de Recursos 
+Materiales de la CONAFOR, que cuenta con el personal suficiente (un Subgerente, un 
+Jefe Adquisiciones y analistas) y con experiencia en adquisiciones públicas superior a 7 
+años. También se cuenta con acceso libre, físico y electrónico, a toda la normativa 
+referente a adquisiciones, incluyendo sitios externos donde se encuentran guías y 
+orientaciones sobre los procesos en materia de adquisiciones. Además, por práctica se 
+tiene acceso a los registros de la Cámara de Diputados manteniéndose, así, al tanto de 
+cualquier cambio en la legislación. Los profesionales de compras, en su mayoría, tienen 
+las principales leyes impresas y el área jurídica de la CONAFOR retroalimenta a los 
+funcionarios conforme sus revisiones periódicas de la normativa y su actualización. 
+Medidas de mitigación: 
+N/A 
+Procesos de adquisición y contratación pública 
+Riesgo: 
+No se identifica ningún riesgo relacionado con que los procesos de adquisición y 
+contratación y las estructuras de mercado (métodos, planificación, licitación, 
+adjudicación de contratos y gestión de contratos) no sean eficientes y competitivos. 
+Conforme a las experiencias recientes con la CONAFOR, los planes de adquisiciones se 
+derivan de los POA y se preparan con la anticipación acordada en el convenio de 
+financiación; en su formulación participa el personal de adquisiciones, siguiendo los 
+procedimientos institucionales. El modelo de PAC utilizado es el estándar vigente del 
+FIDA. 
+El número de ofertas mínimo requerido por cada método de compra, los plazos para la 
+presentación de ofertas, consultas, respuestas, evaluaciones y demás son los 
+establecidos en la legislación nacional. Se sigue lo reglamentado referente a la 
+recepción, apertura, custodia de documentos, registros de reclamos, adjudicaciones y 
+demás aspectos del proceso de compras Los documentos como actas, resoluciones, 
+fallos, contratos, inconformidades y demás relacionados con todo el proceso, son 
+publicados y quedan registrados en el sistema COMPRANET, al que todos los 
+participantes o interesados en el proceso tienen acceso. 
+La responsabilidad de la administración y gestión de los contratos está regulada por ley. 
+Los expedientes documentarios de los contratos contienen la documentación suficiente 
+que respalda las incidencias y decisiones del proceso, atendiendo lo establecido en la 
+normativa correspondiente 
+Medidas de mitigación: 
+26 
+Appendix III 
+EB 2021/LOT/P.12 
+N/A 
+Impacto ambiental, social y climático 
+Conservación de la biodiversidad 
+Riesgo: 
+Substancial 
+Bajo 
+Substancial  Moderado 
+Substancial  Moderado 
+El área geográfica del proyecto incluye 31 áreas protegidas en la zona norte y centro del 
+área del proyecto, así como ecosistemas frágiles de manglares localizados en la franja 
+costera de Michoacán, Guerrero y Oaxaca, los cuales contienen valores y atributos 
+biológicos de importancia para su protección y conservación. Las actividades 
+contempladas en el Componente 2 del proyecto relacionadas al fortalecimiento de 
+cadenas de valor y microempresas pueden generar residuos sólidos y líquidos 
+provenientes de los procesos de transformación de productos maderables y no 
+maderables, mismos que pueden generar impactos colaterales de mediano a bajo 
+impacto en el área de la Cuenca del Balsas. Otro riesgo es la extensión de cultivos 
+agroforestales (sobre todo con agaves o aguacates) o agrosilvopartorial que podrían 
+convertirse en una amenaza para los ecosistemas forestales. 
+Medidas de mitigación: 
+Las actividades que se financiarán por el proyecto en comunidades y ejidos que se 
+encuentren en áreas naturales protegidas, deberán ajustarse a lo que es permitido y 
+prohibido conforme a los programas de manejo de estas áreas, así como a la 
+normatividad nacional y estatal vigentes, debiendo contar con los permisos necesarios. 
+La formulación de los POEM y PDI cumplirán en este sentido con todas las regulaciones 
+y marco normativo. Para la protección y conservación de las especies de fauna y flora 
+presentes en hábitats naturales de bosques y manglares, se financiarán sub-proyectos 
+para el pago de servicios ambientales, lo cual requerirá elaborar planes de manejo para 
+la protección y conservación de los servicios del bosque, los cuales incluyen la 
+diversidad biológica. Adicionalmente, en el MOP se establecerá el listado de acciones 
+prohibidas y de restricciones para el financiamiento con los recursos del proyecto 
+(actividades no elegibles), tales como: no realizar acciones ni inversiones para hacer 
+conversiones de bosques naturales, alteración de hábitats o modificaciones a los 
+ecosistemas para el desarrollo de las actividades productivas (contribuir a la tasa 0% 
+deforestación en las actividades a ser financiadas); no realizar inversiones productivas o 
+de conservación que no estén aprobadas en los programas de manejo de las áreas 
+protegidas, entre otras medidas que serán detalladas en el MOP. 
+Eficiencia del uso de los recursos y prevención de la contaminación 
+Riesgo: 
+La mayor parte de las actividades del proyecto están enfocadas en la protección, 
+conservación y uso de los recursos naturales a nivel de cuenca hidrológica para 
+mantener o incrementar los servicios ecosistémicos, siendo la mayoría de nulo o bajo 
+impacto (debido a que dichas actividades están enfocadas a reducir riesgos y 
+vulnerabilidades sociales, ambientales y climáticas). Por lo tanto, el único riesgo 
+identificado es la posible contaminación de suelos, atmósfera y fuentes de agua por 
+residuos provenientes de las actividades de producción, transformación y agregación de 
+valor a los productos agrícolas, pecuarios y forestales (con inversiones establecidas en 
+el Componente 2). 
+Medidas de mitigación: 
+En la elaboración de las propuestas técnicas de los proyectos, principalmente los 
+relacionados con el fortalecimiento de las cadenas de valor, se requerirá la identificación 
+de los riesgos de contaminación y las medidas correspondientes para disminuirlos o 
+eliminarlos. En el MOP se establecerán directrices para la identificación de estos 
+riesgos, y se indicarán las acciones restringidas o prohibidas para evitar o reducir la 
+contaminación. Las acciones del proyecto para promover en la eficiencia en el uso de 
+27 
+Moderado 
+Moderado 
+Bajo 
+Bajo 
+Appendix III 
+EB 2021/LOT/P.12 
+los recursos se orientarán por las recomendaciones establecidas en las Declaraciones 
+de Orientación No. 1 (Biodiversidad), 2 (Agroquímicos), 5 (Bosques) y 11 (Desarrollo de 
+cadenas de valor, microempresas y pequeñas empresas) establecidos en el SECAP 
+(Edición 2017). 
+Patrimonio cultural 
+Riesgo: 
+Moderado 
+Moderado 
+Bajo 
+Bajo 
+En el área del proyecto, principalmente en los Estados de Oaxaca, Guerrero, 
+Michoacán, Puebla y el Estado de México, existen zonas con valor cultural e histórico, 
+donde se desarrollaron las culturas prehispánicas Olmeca, Mexica, Teotihuacana y 
+Zapoteca, principalmente. En alguna medida, estas culturas siguen presentes. En 
+algunos puntos, dentro del área del proyecto, existen vestigios de las culturas 
+prehispánicas con valor arqueológico, tales como centros culturales y ceremoniales, o 
+restos de antiguos asentamientos. El Instituto Nacional de Antropología e Historia 
+(INAH), es el organismo del gobierno federal responsable de la investigación, 
+preservación y difusión del patrimonio arqueológico, antropológico e histórico de la 
+nación mexicana. 
+Medidas de mitigación: 
+El proyecto no va a realizar actividades o inversiones en áreas donde se encuentren 
+sitios arqueológicos, antropológicos e históricos reconocidos y protegidos por el INAH. 
+En las áreas fuera de estas zonas reconocidas, si derivado de las actividades del 
+proyecto se realizan descubrimientos arqueológicos, serán notificados al INHA y se 
+actuará con estricto apego a los protocolos y procedimientos establecidos en la 
+normatividad vigente del país (Ley Federal sobre Monumentos y Zonas Arqueológicas). 
+Pueblos indígenas 
+Riesgo: 
+Substancial 
+Substancial 
+Bajo 
+Bajo 
+El proyecto trabajará en una zona con una alta concentración de población indígena, la 
+cual tendrá un enfoque prioritario en la estrategia del proyecto. Al ser un proyecto 
+diseñado para mejorar las condiciones de la población indígena y afrodescendiente, se 
+han tomado todos los recaudos necesarios en el diseño para asegurar su participación 
+plena y efectiva y evitar impactos negativos. 
+Medidas de mitigación: 
+El proyecto se ha diseñado y será implementado asegurando la participación inclusiva 
+de los pueblos indígenas y del pueblo afro-mexicano. Para ello, se aplicará la política del 
+FIDA sobre pueblos indígenas, la cual incluye el principio de consentimiento libre, previo 
+e informado (CLPI), también promovido por el Instituto Nacional de los Pueblos 
+Indígenas (INPI). La CONAFOR, agencia implementadora de las actividades del 
+proyecto, incluye al CLPI entre sus Reglas de Operación, lo cual asegurará un proceso 
+de participación voluntaria de las comunidades y ejidos. Esta voluntariedad quedará 
+expresada desde que esas comunidades y ejidos soliciten los apoyos del proyecto. 
+Además, la implementación del proceso de consulta se enmarcará en el proceso de 
+construcción de los POEM y de los PDI. El Plan de Implementación del CLPI, que 
+integra el documento de diseño del proyecto, proporciona informaciones claras sobre el 
+proceso de planificación e implementación del proceso de consulta y de obtención del 
+CLPI, y esclarece el papel de los diferentes actores institucionales a lo largo del mismo. 
+Condiciones laborales y de trabajo 
+Riesgo: 
+Substancial  Moderado 
+Substancial  Moderado 
+El proyecto se desarrollará en áreas geográficas de alto rezago social, en las cuales las 
+condiciones laborales, principalmente de mujeres, jóvenes, y poblaciones indígenas, no 
+son óptimas. El proyecto incorpora un enfoque proactivo para equiparar condiciones 
+laborales en este contexto. 
+28 
+Appendix III 
+EB 2021/LOT/P.12 
+Medidas de mitigación: 
+El proyecto aplicará las normativas internacionales y nacionales de trabajo, tanto para 
+los beneficiarios directos como para cualquier contratista, organización, o empresa 
+contratada por el mismo. El proyecto incorpora medidas de promoción del empleo digno 
+y la generación de ingresos para mujeres, jóvenes, y poblaciones indígenas y 
+afrodescendientes. En relación al trabajo infantil, el proyecto cumplirá las directrices 
+establecidas en la Ley Federal del Trabajo vigente, mismas que estarán establecidas en 
+el MOP. 
+Salud y seguridad comunitarias 
+Riesgo: 
+Moderado 
+Moderado 
+Bajo 
+Bajo 
+El proyecto trabajará en zonas de alta vulnerabilidad y marginalización social, donde 
+existen carencias en las condiciones de salud y seguridad comunitarias. El proyecto ha 
+sido diseñado con la intención de reducir estas carencias, tomando en consideración las 
+condiciones culturales y sociales de las comunidades beneficiarias, sin embargo, existe 
+el riesgo de que una parte de la población no observe beneficios derivados de su 
+ejecución. 
+Medidas de mitigación: 
+Para asegurar que el proyecto sea percibido por los beneficiarios como una contribución 
+positiva a sus medios de vida, se promoverá la participación activa y los diálogos 
+constantes con las comunidades participantes. De particular relevancia será asegurar la 
+participación activa de mujeres y jóvenes, quienes pueden estar rezagados en la 
+comunidad. Con respecto a la intervención del proyecto con pueblos indígenas y con el 
+pueblo afro-mexicano, el proyecto será sensible a sus particularidades culturales para 
+asegurar una visión de desarrollo en común con los beneficiarios. 
+Reasentamiento físico y económico 
+El proyecto no contempla ningún reasentamiento físico ni económico. 
+Emisiones de gases de efecto invernadero 
+Ningún 
+riesgo 
+previsto - 
+no aplica 
+Ningún 
+riesgo 
+previsto - 
+no aplica 
+El proyecto está diseñado para reducir GEI al implementar medidas para el uso 
+sustentable de los bosques, evitar la deforestación, evitar el cambio de uso del suelo e 
+implementar tecnologías para generar energía limpia (eficiencia energética y bajas 
+emisiones) y renovable. Por lo tanto, no existe riesgo de que el proyecto contribuya a 
+incrementar las emisiones de GEI. 
+Vulnerabilidad de las poblaciones objetivo y los ecosistemas a la variabilidad y las 
+amenazas climáticas 
+Substancial  Moderado 
+Riesgo: 
+Substancial  Moderado 
+El proyecto ha sido calificado como de alto riesgo climático conforme a los criterios 
+establecidos en el SECAP. Los riesgos identificados son en dos niveles que tienen una 
+incidencia directa en la vulnerabilidad de la población objetivo y de los recursos 
+naturales: (i) baja capacidad de la población y personal técnico de las instituciones para 
+realizar diagnósticos climáticos, gestionar los riesgos e identificar las medidas para 
+incrementar la capacidad de resiliencia; y (ii) la mayor parte de los centros productivos 
+de la cuenca (97.7%) presentan una vulnerabilidad climática de nivel medio a alto y son 
+afectados por cuestiones hídricas, especialmente por problemas relacionados con la 
+disposición y distribución del agua, así como por la baja capacidad de captación de 
+29 
+Appendix III 
+EB 2021/LOT/P.12 
+agua, así como problemas de conservación de suelos, en las áreas con mayor deterioro 
+en su cobertura vegetal. 
+Medidas de mitigación: 
+El 100% de las actividades definidas en los tres componentes del proyecto están 
+enfocadas a reducir la vulnerabilidad climática de la población objetivo, de sus unidades 
+de producción y de los recursos naturales bajo el enfoque de manejo de cuencas 
+hidrográficas. Además, los riesgos climáticos serán gestionados a través del Plan de 
+Gestión Ambiental y Social del proyecto y se implementará una metodología basada en 
+una “tarjeta de puntuación” para medir si se está incrementando la capacidad de 
+resiliencia con la implementación de las actividades impulsadas por el proyecto. Esta 
+metodología se aplicará en tres momentos: línea base, medio término y cierre de 
+proyecto. 
+Partes interesadas 
+Participación y coordinación de las partes interesadas 
+Riesgo: 
+Moderado  Moderado 
+Moderado  Moderado 
+Moderado  Moderado 
+El proyecto trabaja en un área de alta marginación social y diversidad cultural, 
+incluyendo a pueblos indígenas. En ese contexto, es esencial que la participación y 
+empoderamiento por parte de las comunidades beneficiarias, así como la comunicación 
+entre el proyecto y los beneficiarios sea clara, asegurando que las expectativas de todas 
+las partes involucradas estén claramente comprendidas. 
+Medidas de mitigación: 
+El proyecto incorpora como elemento fundamental la participación activa de las 
+comunidades beneficiarias, tanto en el fortalecimiento de capacidades como en la fase 
+de inversión. Se incorporan lecciones aprendidas, tanto del Gobierno Mexicano como de 
+FIDA, para incorporar a comunidades y asegurar el empoderamiento y la apropiación de 
+las actividades del proyecto. Además, el proyecto incorpora al CLPI como instrumento 
+clave para la participación plena, efectiva e informada de la población indígena y 
+afromexicana en las actividades del mismo. 
+Reclamaciones de las partes 
+Riesgo: 
+Moderado 
+Moderado 
+Bajo 
+Bajo 
+Es posible que algún beneficiario del proyecto u observador del mismo tenga reclamos 
+sobre la ejecución del proyecto, o sobre el comportamiento de personal asociado al 
+mismo. Se debe prestar particular atención a la dimensión multicultural del proyecto, así 
+como a las condiciones sociales prevalentes, para asegurar que existan mecanismos de 
+reclamo accesibles y entendibles. 
+Medidas de mitigación: 
+Se asegurará que el proyecto tenga un mecanismo de quejas y reclamos, a nivel de 
+proyecto, a nivel nacional, y a nivel FIDA. Se asegurará que todo reclamo tenga el 
+seguimiento acorde, vía el plan de gestión ambiental y social. Con relación a este último, 
+el Plan de Implementación del CLPI incorpora recomendaciones para el desarrollo del 
+proceso de reclamación. En este marco, el instrumento de referencia para enfrentar y 
+resolver potenciales quejas y reclamaciones de manera adecuada, es el Mecanismo de 
+Atención Ciudadana de la CONAFOR (MAC) desarrollado por la CONAFOR, que opera 
+a nivel nacional incluyendo el área de la Cuenca del Balsas.Todo el personal asociado 
+con el proyecto será entrenado sobre la política de FIDA sobre acoso sexual y la 
+explotación y los abusos sexuales. 
+30 

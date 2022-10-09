@@ -1,0 +1,1987 @@
+Document:
+Agenda:
+Date:
+Distribution:
+Original:
+EB 2018/123/R.11/Rev.1
+5(b)(ii)
+17 April 2018
+Public
+English
+E
+President’s report
+Proposed loan and grant to the Republic of
+Mali for the Inclusive Finance in Agricultural
+Value Chain Project
+Note to Executive Board representatives
+Focal points:
+Technical questions:
+Dispatch of documentation:
+Alessandra Zusi Bergés
+Senior Governing Bodies Officer
+Governing Bodies
+Tel.: +39 06 5459 2092
+e-mail: gb@ifad.org
+Philippe Remy
+Country Programme Manager
+West and Central Africa Division
+Tel.: +39 06 5459 2629
+e-mail: p.remy@ifad.org
+Karim Sissoko
+Country Programme Officer
+IFAD Country Office, Mali
+Tel.: +223 645 035 66
+e-mail: k.sissoko@ifad.org
+Executive Board — 123rd Session
+Rome, 16-17 April 2018
+For: Approval
+EB 2018/123/R.11/Rev.1
+ii
+iii
+iv
+1
+1
+1
+2
+3
+3
+3
+3
+4
+4
+5
+5
+6
+6
+6
+6
+7
+8
+8
+9
+9
+9
+9
+9
+10
+10
+10
+Contents
+Abbreviations and acronyms
+Map of the project area
+Financing summary
+Recommendation for approval
+I.
+Strategic context and rationale
+A. Country and rural development and poverty context
+B. Rationale and alignment with government priorities and  RB-COSOP
+II. Project description
+A. Project area and target group
+B. INCLUSIF development objective
+C. Components/outcomes
+III. Project implementation
+A.
+B.
+C.
+D.
+E.
+Approach
+Organizational framework
+Planning, monitoring and evaluation, and learning and knowledge
+management
+Financial management, procurement and governance
+Supervision
+IV. Project costs, financing, and benefits
+A. Project costs
+B. Project financing
+C. Summary benefit and economic analysis
+D. Sustainability
+E. Risk identification and mitigation
+V.
+Corporate considerations
+A.
+B.
+C.
+D.
+Compliance with IFAD policies
+Alignment and harmonization
+Innovations and scaling up
+Policy engagement
+VI. Legal instruments and authority
+VII. Recommendation
+Appendices
+I. Negotiated financing agreement
+II. Logical framework and theory of change
+i
+EB 2018/123/R.11/Rev.1
+Abbreviations and acronyms
+AWPB
+CCS-SFD
+CFAF
+CPA-SFD
+DANIDA
+FIER
+INCLUSIF
+ORMS
+PACEPEP
+PBAS
+PNMF
+PO
+M&E
+MFIs
+RFIs
+RMP
+SME
+annual workplan and budget
+Control and Surveillance Unit for Microfinance
+Institutions
+CFA franc
+Promotion and Support Centre for Microfinance
+Institutions
+Danish International Development Agency
+Rural Youth Vocational Training, Employment and
+Entrepreneurship Support Project
+Inclusive Finance in Agricultural Value Chain Project
+Operational Results Management System
+Support Programme for Private Sector-Driven Economic
+Growth and Employment Promotion
+performance-based allocation system
+National Microfinance Policy
+producers’ organization
+monitoring and evaluation
+microfinance institutions
+rural finance institutions
+Rural Microfinance Programme
+medium-sized enterprise
+ii
+EB 2018/123/R.11/Rev.1
+Map of the project area
+Republic of Mali
+iii
+EB 2018/123/R.11/Rev.1
+Republic of Mali
+Inclusive Finance in Agricultural Value Chain Project
+Financing summary
+Initiating institution:
+IFAD
+Borrower:
+Executing agency:
+Total project cost:
+Amount of IFAD loan:
+Republic of Mali
+Ministry of Agriculture
+US$105.5 million
+SDR 15.75 million (equivalent to approximately
+US$22.9 million)
+Amount of IFAD Debt Sustainability
+Framework grant:
+SDR 15.75 million (equivalent to approximately
+US$22.9 million)
+Terms of IFAD loan:
+Financing gap:
+Cofinancier(s):
+Amount of cofinancing:
+Highly concessional: free of interest but bearing a
+service charge of three fourths of one per cent
+(0.75 per cent) per annum and with a maturity period of
+forty (40) years, including a grace period of ten (10)
+years
+US$10.4 million
+Government of Denmark; rural finance institutions, ABC
+Microfinance-Babyloan,
+the private sector
+Government of Denmark: US$21.6 million
+Rural finance institutions: US$15.5 million
+ABC Microfinance-Babyloan: US$ 0.4 million
+Private sector: US$ 5.4 million
+Contribution of borrower:
+US$4.6 million
+Contribution of beneficiaries:
+US$1.9 million
+Appraising institution:
+Cooperating institution:
+IFAD
+IFAD
+iv
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2018/123/R.11/Rev.1
+Recommendation for approval
+The Executive Board is invited to approve the recommendation for the proposed
+financing to the Republic of Mali for the Inclusive Finance in Agricultural Value Chain
+Project, as contained in paragraph 56.
+Proposed loan and grant to the Republic of Mali for the
+Inclusive Finance in Agricultural Value Chain Project
+1.
+The Inclusive Finance in Agricultural Value Chain Project (INCLUSIF), cofinanced by
+IFAD and the Kingdom of Denmark, scales up the achievements of the IFAD-funded
+Rural Microfinance Programme (RMP) and the Support Programme for Private
+Sector-Driven Economic Growth and Employment Promotion (PACEPEP) funded by
+the Danish International Development Agency (DANIDA).
+I. Strategic context and rationale
+A. Country and rural development and poverty context
+2.
+Despite posting economic growth of 5.4 per cent in 2016, Mali ranks 137th out of
+162 countries on the Human Development Index. The country faces major
+development challenges that can only be addressed by stepping up domestic
+wealth production and the fight against poverty.
+3.
+4.
+5.
+Since 2012, Mali has also faced the threat of territorial partition owing to an armed
+rebellion and situations of insecurity. Despite this situation, both IFAD and
+Denmark have maintained an active portfolio, relocating their operations to the
+central and southern regions of the country.1 Under the auspices of the
+Multidimensional Integrated United Nations Mission for the Stabilization of Mali, an
+agenda to follow up on the peace agreement is being implemented and provides
+grounds for hope that the socio-political situation will improve – although such an
+improvement is taking time to emerge.
+The agriculture sector contributes 40 per cent of GDP and employs 80 per cent of
+the population, mainly on poorly equipped family farms of less than 5 hectares.
+The sector has significant unrealized potential. Constraints on development
+include: (i) climate hazards and poor natural resource management; (ii) limited
+intensification of farming, inadequate use of fertilizer and improved seed, problems
+with land tenure, little mechanization and limited access to financial services;
+(iii) inadequate and obsolete infrastructure; and (iv) a need for capacity-building,
+particularly for producers’ organizations (POs).
+Mali’s Agricultural Development Policy, adopted in 2013, promotes agricultural
+transformation through the sustainable intensification of farming systems and
+optimization of value addition in the form of storage, processing and marketing.
+The policy focuses on: (i) promoting the modernization of family farming and
+agricultural enterprises to favour the emergence of a structured, competitive
+agro-industrial sector integrated with the subregional economy; and (ii) developing
+value chains by improving the organization of production, storage, processing and
+marketing. Climate change is a cross-cutting priority under the policy.
+1 IFAD had to suspend interventions under the RMP in the Timbuktu region following acts of vandalism that affected
+partner microfinance institutions, causing  estimated  financial  damage  of  US$4 million;  and  in  areas of  Mopti  with the
+rise of insecurity, making it impossible to deploy any activities or carry out field supervision.
+1
+EB 2018/123/R.11/Rev.1
+6.
+7.
+8.
+9.
+In this context, access to finance for agricultural sector actors is a key success
+factor for the transformation of family farming. Such access is still too limited, with
+financial inclusion in rural areas standing at just 20 per cent. Small and
+medium-sized enterprises (SMEs) also experience major difficulties in accessing
+finance: in 2016, 60 per cent of bank credit was mobilized for tertiary activities and
+less than 1 per cent for agriculture. Available financing is often limited to short-
+term credit, which does not allow for structuring investment in areas such as
+equipment and infrastructure.
+As shown in the theory of change (see appendix), this situation is attributable
+mainly to the crisis in the microfinance sector, which was exacerbated by the
+political crisis that began in 2012. Other contributing factors are difficulties with
+accessing lending for microfinance institutions (MFIs), the banking sector’s
+reluctance to support agriculture and agrifood projects in an insecure business
+climate, and the growing effects of climate change. The result is increased
+marginalization of disadvantaged groups, including women and young people, and
+an exodus by many rural young people towards an informal sector with no future.
+SMEs face difficulties in developing within this context, and performance by
+agricultural and agrifood value chains is insufficient to bring about the desired
+transformation and modernization of Mali’s agricultural sector.
+Transformation of the agricultural sector and achievement of the Sustainable
+Development Goals (SDGs) – particularly SDGs 1, 2, 5,10 and 13 – will therefore
+require intervention to bring about the financial inclusion for rural people and
+agrifood SMEs to help them access the financial resources needed for their
+development and consequently the sector’s modernization. To this end, INCLUSIF
+will scale up lessons learned under the IFAD-funded RMP in terms of financial
+inclusion and support for the National Microfinance Policy (PNMF), as well as
+lessons learned under PACEPEP.
+RMP showed that the methodology of supporting disadvantaged groups coupled
+with restructuring the microfinance sector increased financial inclusion for rural
+people living in the project area by close to 40 per cent. PACEPEP developed tools
+to support SMEs, particularly agrifood SMEs, to better process and add value to
+agricultural products. It supported more than 200 agricultural SMEs with access to
+bank credit and equipment subsidies. PACEPEP innovated by facilitating the
+structuring and financing of projects focused on integrating several different value
+chain actors.
+10. At the confluence of the RMP and PACEPEP projects, INCLUSIF can make a
+paradigm shift by combining their approaches. While supporting financial education
+of small-scale producers and their access to short-term agricultural credit,
+INCLUSIF promotes partnerships between their organizations and private sector
+actors operating upstream and downstream of production. The project will support
+capacity-building of the various actors – POs and SMEs, for instance – and the
+development of joint business plans and access to medium-term finance to
+stimulate a genuine transformation of Mali’s agriculture and agrifood sector.
+Integrating dedicated finance for adaptation to climate change will enable the
+actors to take climate risks into account and make responsible and sustainable
+investments.
+B. Rationale and alignment with government priorities and
+11.
+RB-COSOP
+INCLUSIF is aligned with pillar 2 of IFAD’s country strategic note for Mali, which
+calls for improving rural financial inclusion by supporting access by smallholders
+and microentrepreneurs to financial services adapted to their needs to start up or
+develop their economic activities.
+2
+EB 2018/123/R.11/Rev.1
+12.
+It is also aligned with the Mali-Denmark private sector programme 2019–2022,
+which has the objective of promoting private sector-led inclusive economic growth
+and job creation in the agriculture and agro-industrial sector.
+II. Project description
+A. Project area and target group
+13.
+INCLUSIF will adopt two approaches to geographical targeting: the first, under
+component 1, will scale up RMP gains to five regions (Koulikoro, Sikasso, Kayes,
+Ségou and Mopti) starting in year one; and the second, under component 2, will
+promote partnerships within value chains. A phased approach will begin with an
+18-month pilot to try out the approach and financial instruments in two regions
+(Koulikoro and Sikasso) before expanding to the remaining three regions.
+14.
+INCLUSIF will reach 440,000 direct beneficiaries from disadvantaged groups, rural
+family farms, professional organizations (cooperatives, unions and federations) and
+private sector agricultural enterprises. The approach will favour women and young
+people aged 18 to 40, with each of these groups representing at least 50 per cent
+of the project beneficiaries.
+INCLUSIF development objective
+B.
+15. The project’s development objective is to increase financial inclusion of
+smallholders and agrifood SMEs in Mali. There are two expected outcomes:
+(i) access by smallholders and their organizations to suitable financial services is
+improved; and (ii) producers’ organizations develop profitable and sustainable
+productive partnerships with the private sector and financial systems.
+16.
+In terms of impact, INCLUSIF will contribute to: (i) bringing 440,000 smallholders
+and 360 agricultural professional organizations into the banking system within the
+project area; (ii) developing five permanent financial products in the areas of
+savings, credit and micro-insurance; (iii) developing, together with rural finance
+institutions (RFIs), a rural credit portfolio of at least 20 billion CFA francs (CFAF) in
+lending by the end of the project; (iv) mobilizing CFAF 5 billion in lending by the
+end of the project; (v) mobilizing CFAF 5 billion in savings from small-scale
+depositors; (vi) building the capacity of 36,000 smallholders in partnership with the
+private sector and increasing the incomes of at least 22,000 smallholders in
+organizations and 4,500 rural young people in income-generating activities and
+rural microenterprises; and (vii) achieving operational autonomy for six RFIs.
+17. More than 40,000 producers will have access to financing for climate change
+adaptation under the project. The other purpose of the climate change financing is
+to increase attention to climate risks in national microfinance policy and support
+the creation of national arrangements in the form of a green charter that responds
+to climate risks and the environmental, social and governance concerns of Malian
+MFIs.
+C. Components/outcomes
+18.
+Project activities will be structured into three components:
+19. Component 1 - Development of rural financial services. The expected
+outcome is that access by smallholders and their organizations to adapted financial
+services is improved. Implementation of this component will contribute to
+increasing financial inclusion from 20 per cent currently to 35 per cent in 2024. It
+will also have an impact on financial education for target groups and SMEs, which
+will have a direct effect on portfolio quality and the viability of supply.
+20. To this end, the project will continue to work on restructuring the microfinance
+sector through institutional support for implementation of the PNMF, increased
+lending to MFIs through capitalization and support for the operation of an MFI
+refinancing fund, support for new product development (micro-leasing, insurance
+3
+EB 2018/123/R.11/Rev.1
+and green finance products) and modernization of MFIs by automating their
+operations, including with the use of mobile telephony.
+21. Component 2 - productive investment in value chains will bring about the
+paradigm shift advocated by INCLUSIF with the following outcome: POs, mainly
+composed of the smallholders supported under component 1, develop profitable
+and sustainable productive partnerships with the private sector and the financial
+system.
+22. The project interventions will consist of capacity-building for POs and SMEs to
+undertake partnerships, and will put in place (a) technical assistance for
+contracting between actors, and the structuring, financing and monitoring of
+business plans; and (b) an investment finance mechanism. The project will provide
+facilitation to encourage actors to undertake more resilient and sustainable
+investments.
+23. Component 3 - coordination, monitoring and evaluation, and knowledge
+management. This component will include all arrangements for technical
+planning, operational coordination, administrative and fiduciary management,
+monitoring and evaluation (M&E), communication and capitalization. This
+component will be implemented through a programme approach, using the
+arrangements in place for the other projects in the portfolio.
+III. Project implementation
+A.
+24.
+Approach
+INCLUSIF was designed to start up activities upon completion of the RMP in
+September 2018. The intention is to scale up gains under RMP and PACEPEP, while
+promoting an innovative approach to rural entrepreneurship and financial inclusion
+for smallholder farmers, as well as partnership and contracting between POs and
+SMEs. In this way INCLUSIF will: (i) scale up the financial inclusion approach for
+disadvantaged groups and the refinancing mechanism to enable rural MFIs to
+distribute credit to a larger number of smallholder farmers, particularly women and
+young people; (ii) strengthen the governance and management capacities of
+agricultural professional organizations and SMEs, their ability to take on debt and
+their creditworthiness in productive partnerships and vis-à-vis financial institutions;
+(iii) facilitate access to opportunities for business alliances in co-investment and
+co-enterprise with the private sector in all agricultural value chains; and
+(iv) facilitate SME capitalization and access to bank credit. Implementation of the
+project, particularly component 2, will also be based on business plans
+guaranteeing returns on investment. From this perspective, the project is intended
+to take a teaching/learning approach whereby, in the longer term, POs and SMEs
+will acquire best practices in planning and investment management with a view to
+growth and financial autonomy, and sustainable integration into value chains.
+25. Components 1 and 2 will be linked by financial instruments structured in such a
+way as to ensure sustainable access by smallholder POs to financing from RFIs.
+The financial incentives provided for under component 2 will enable POs and their
+private partners to overcome the constraints on access to productive financial
+services and to become creditworthy RFI clients over the long term.
+26.
+INCLUSIF will also take into account climate considerations on a cross-cutting basis
+by facilitating the target group’s access to specific finance for investments in
+climate change adaptation. The project will build in environmental, social and
+governance criteria into strategies on private partnerships with SMEs and MFIs to
+create a responsible investment philosophy, in line with the recommendations
+included in IFAD’s note on environmental, social and climate procedures.
+4
+EB 2018/123/R.11/Rev.1
+27.
+B.
+28.
+In view of its scope, and by engaging all actors concerned in agricultural finance,
+INCLUSIF will provide support for the transition in the agriculture sector called for
+by Mali’s Agricultural Development Policy.
+Organizational framework
+INCLUSIF will be placed under: (i) the administrative and operational oversight of
+the Ministry of Agriculture, as executing agency; and (ii) the institutional oversight
+of the Ministry of Investment and Private Sector Promotion, which will chair the
+steering committee. A focal point will be set up at the Ministry of Economy and
+Finance to monitor support for restructuring the microfinance sector and
+strengthening sector controls and supervision.
+29. The project will adopt a programme approach for the management of the country
+portfolio to improve the effectiveness of project allocations, performance and
+impact. This approach will start with: (i) setting up permanent project engineering
+functions at the country programme level; and (ii) targeted sharing activities with
+the Rural Youth Vocational Training, Employment and Entrepreneurship Support
+Project (FIER) of competencies and resources as part of implementation
+arrangements in the field. The two projects will share a headquarters in Bamako
+and will have shared branch offices in the regions, located at regional councils.
+30. The implementation of INCLUSIF will be based largely on external service providers
+such as: (i) national NGOs for socio-economic training and climate risk sensitization
+for disadvantaged groups, capacity-building for POs within the framework of
+productive partnerships, support for preparation of business plans by rural young
+entrepreneurs and partnerships based on simple contracting; (ii) national
+consulting firms to facilitate co-investment and co-enterprise partnerships, and
+support business plan preparation and implementation for public-private-producer
+partnerships (4Ps) and co-enterprises; and (iii) international consulting firms
+providing technical assistance to implement component 2, support for automating
+financial services and developing methodologies for financial products, and support
+for MFIs, POs and SMEs to conduct their own analyses of climate change
+vulnerability and identify adaptation opportunities.
+C.
+Planning, monitoring and evaluation, and learning and
+knowledge management
+31. Activities will be planned on the basis of annual workplans and budgets (AWPBs).
+This will ensure that activities are sequenced on an annual basis and are allocated
+the appropriate resources to achieve results. AWPBs will be prepared in a
+participatory manner involving all stakeholders to ensure that: (i) the objectives
+set are shared by all actors concerned; (ii) the operational activities and strategies
+implemented contribute to achieving such objectives; and (iii) all actors are aware
+of their roles in implementing AWPBs.
+32. The M&E system will be developed in line with the programme approach in liaison
+with FIER and with links to the M&E system of the portfolio. It will be configured in
+such a way as to provide useful information and analysis for project steering,
+review and evaluation, and will be a results-based management tool.
+33. Knowledge management. INCLUSIF is a large-scale project that proposes both
+to scale up the gains of RMP and PACEPEP and to develop innovative approaches to
+rural financial inclusion, while taking account of climate risks and environmental,
+social and governance criteria. M&E of project activities, outputs, outcomes and
+impact will make it possible to identify successes, limitations and drivers, thus
+providing a foundation for learning. By linking implementation, M&E, knowledge
+management (KM) and communication, INCLUSIF will create ways to maximize
+learning for the benefit of all those involved in implementation.
+5
+EB 2018/123/R.11/Rev.1
+Financial management, procurement and governance
+D.
+34. The country’s inherent risk is medium. In 2017, Mali scored 31 out of 100 and was
+ranked 122 out of 180 countries on Transparency International’s Corruption
+Perceptions Index. This was a 6-point drop from the previous year's score.
+However, the country has maintained its medium risk categorization for the past
+four years. A financial management assessment was undertaken as part of the
+design phase in accordance with IFAD requirements. The INCLUSIF risk at design is
+medium and this will decline to low once the recommended mitigating measures
+and controls have been implemented (see paragraph 48). Financial management
+will be performed by an administrative, financial and accounting structure
+coordinated by qualified staff. At the regional level, such staff will be shared with
+FIER according to the specifications and modalities set forth in the procedures
+manual.
+35. Accounting. The project’s expenditures will be based on the AWPBs that have
+been approved by IFAD. The INCLUSIF accounting system will be based on the
+principles of the new SYSCOHADA accounting system. Automated accounting
+software will be installed at national and at regional levels and will ensure, in
+addition to general accounting functions, budget monitoring and financial reporting
+as per IFAD standards. All financial management procedures will be included in the
+project manual validated by IFAD.
+36.
+Internal audit. In addition to the national authorities responsible for internal
+audits of projects, an ad hoc internal audit unit dedicated to IFAD-funded
+operations will be put in place to ensure a risk-based approach through which to
+identify strengths and weaknesses and mitigate risks.
+37. External audit. External audit in Mali is generally carried out by internationally
+recruited private companies and using international audit standards. The audited
+financial report will be publicly disclosed in line with IFAD's revised project audit
+guidelines.
+38. Tax. Taxes will be financed by IFAD funds. This arrangement was approved by
+IFAD on the request of Government of Mali. Consistent with the General Conditions
+for Agricultural Development Financing and an IFAD assessment confirming that
+the taxes associated with the project are not excessive, discriminatory, or
+otherwise unreasonable, IFAD financing will be used to finance taxes for an
+estimated amount of approximately US$3 million. In this specific case, the
+financing of taxes is expected to improve the efficiency of funds flow and support
+project implementation more effectively.
+Supervision
+E.
+39. Supervision of INCLUSIF will be governed by the new Operational Results
+Management System (ORMS).
+IV. Project costs, financing, and benefits
+A. Project costs
+40. Total project costs over a six-year period, including provisions for cost escalation,
+are CFAF 58 billion, equivalent to US$105.5 million. Provisions for cost escalation
+are about CFAF 3 billion (US$5 million). Taxes are included in the amount of
+US$3 million.
+6
+Table 1
+Project costs by component and financier
+(Millions of United States Dollars)
+Components*
+Amount Amount
+Amount Amount
+Amount Amount
+Amount
+Amount Amount
+%
+IFAD loan
+and grant Danida
+Financing
+gap
+RFI
+Babyloan
+Private
+sector
+Beneficiaries Government
+Total
+EB 2018/123/R.11/Rev.1
+1. Development of rural financial services
+Institutional support for PNMF
+implementation
+Strengthening rural finance inclusion
+3.3
+20.4
+0.1
+3.1
+2. Productive investment in value chains
+Technical support for partnerships
+emergence and development
+Financial support for partnerships
+implementation
+3. Coordination, M&E, and KM
+Coordination and project
+management
+M&E, KM and communication
+Total
+4.0
+3.1
+3.6
+15.1
+13.3
+1.1
+45.7
+0.3
+-
+21.6
+0.8
+4.6
+1.0
+0.4
+3.3
+0.3
+-
+1.4
+-
+14
+-
+-
+-
+0.4
+-
+-
+-
+-
+-
+-
+-
+5.4
+-
+-
+10.4
+15.5
+0.4
+5.4
+-
+0.9
+-
+1.0
+-
+-
+1.9
+*Components will be financed on a pari passu basis by the loan and grant.
+0.2
+4.4
+4.2
+-
+-
+30.8
+29.2
+8.0
+7.6
+4.4
+44.0
+41.7
+-
+-
+16.9
+16.1
+1.4
+1.3
+100
+4.6
+105.5
+B. Project financing
+41. The project financing plan is as follows: (i) IFAD contribution of US$45.7 million
+(43 per cent of total costs) including taxes; (ii) Danish cooperation contribution of
+US$21.6 million (21 per cent), of which US$5.6 million is allocated to climate
+change adaptation; (iii) RFI contribution of US$15.5 million (15 per cent);
+(iv) contribution from private partners of US$5.4 million (5 per cent);
+(v) contribution from ABC-Babyloan of US$0.4 million (0.4 per cent);
+(vi) contribution from the Government of Mali of US$4.6 million (4 per cent); and
+(vii) contribution from the beneficiaries of US$1.9 million (2 per cent).
+42. The financing gap of US$10.4 million, or 10 per cent of the total, may be sourced
+under subsequent PBAS cycles (on financing terms to be determined and subject to
+internal procedures and subsequent Executive Board approval) or by cofinancing
+identified during implementation.2 The funding from the Government of Mali will be
+in the form of a cash contribution for the construction and/or rehabilitation of road
+infrastructure and the gradual takeover of operations by the Control and
+Surveillance Unit for Microfinance Institutions (CCS-SFD) and Promotion and
+Support Centre for Microfinance Institutions (CPA-SFD) in the context of their
+institutional transformation.
+2 Disaggregated by gender and age (men, women and young people agres 15-40) and by value chain, to the extent
+possible.
+7
+Table 2
+Project costs by expenditure category and financier
+(Millions of United States dollars)
+EB 2018/123/R.11/Rev.1
+IFAD loan
+and grant
+Danida
+Financing
+gap
+RFI
+Babyloan
+Private
+sector
+Beneficiaries
+Borrower/
+counterpart
+Total
+Amount % Amount % Amount % Amount % Amount % Amount % Amount % Amount % Amount %
+Expenditure
+category
+I. Investment costs
+A. Equipment and
+material
+B. Goods,
+services and
+inputs
+C. Training
+D. Consultancies
+i. Studies
+ii. Technical
+assistance
+Subtotal
+consultancies
+E. Grants and
+subsidies
+Total
+investment
+costs
+II. Recurrent costs
+A. Salaries and
+indemnities
+B. Operating
+costs
+Total recurrent
+costs
+1.5 78
+-
+2
+0.4 19
+7.1 64
+1.5 70
+1.0
+9
+0.3 12
+2.8 25
+0.4 18
+0.9 62
+0.3 23
+0.2 15
+7.4 42
+3.1 25
+1.8 15
+8.3 60
+3.5 25
+2.1 15
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+15.5 25
+16.6 27
+1.9
+3
+15.5 25
+0.4
+1
+5.4
+9
+1.9
+33.9 37
+21.4 24
+7.4
+8
+15.5 17
+0.4
+11.2 79
+0.2
+0.7 77
+-
+11.9 79
+0.3
+2
+4
+2
+2.8 20
+0.2 19
+3.0 20
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5.4
+6
+1.9
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3
+2
+-
+-
+-
+-
+-
+1.9
+2
+0.2
+-
+-
+-
+-
+2
+-
+-
+-
+-
+11.1
+2.1
+11
+2
+1.5
+1
+12.4
+12
+13.8
+13
+4.4
+7
+61.5
+58
+4.6
+5
+90.5
+86
+-
+-
+-
+-
+-
+-
+14.2
+13
+0.9
+1
+15.1
+14
+Total
+45.7 43
+21.6 20
+10.4 10
+15.5 15
+0.4
+5.4
+5
+1.9
+2
+4.6
+4
+105.5 100
+C. Summary benefit and economic analysis
+43. The results of the economic and financial analysis show that the project activities
+are profitable. For the various models developed, the internal financial rates of
+return range from 13 per cent to 71 per cent and are consistently higher than the
+opportunity cost of capital. The economic internal rate of return of the project is
+17.9 per cent and the net present value, at the economic opportunity cost of
+capital of 6 per cent, amounts to CFAF 50.7 billion or US$87.8 million. The project
+will therefore have positive effects on the economy as a whole, especially for
+women and young people, INCLUSIF’s main target groups.
+D. Sustainability
+44. The implementation arrangements for INCLUSIF are intended to ensure that the
+major institutional mechanisms for financial inclusion of smallholders and their
+organizations become permanent. Under component 1, INCLUSIF will contribute to:
+(i) sustainably stabilizing the situation in the microfinance sector in terms of
+regulation by strengthening the supervision and oversight capacities of CCS-SFD;
+(ii) consolidating the institutional and financial viability of the refinancing
+mechanism; (iii) developing innovative practices within rural finance institutions for
+promoting digital financial services; and (iv) sustainably strengthening the
+leadership of CPA-SFD in coordinating sector interventions, in dialogue with
+technical and financial partners. Under component 2, the project will: (i) develop
+technical competencies for promoting economic and commercial partnerships;
+(ii) strengthen the institutional viability of POs; (iii) professionalize POs in business
+8
+EB 2018/123/R.11/Rev.1
+management and reporting standards; and (iv) facilitate sustainable business
+relations among POs, the private sector and financial institutions.
+45. By including climate-specific financing and related capacity-building for all actors as
+cross-cutting issues, INCLUSIF will enable private sector and microfinance actors in
+Mali to better evaluate their exposure to climate risk and manage such risk, thus
+making for more resilient and sustainable investments.
+E. Risk identification and mitigation
+46. Risk factors that could affect the implementation of INCLUSIF relate in particular to
+the country situation and certain sensitive issues. These risks have been clearly
+identified and mitigation measures are in place. The project is classified as a
+category B operation from an environmental and social point of view, and falls
+under the “moderate” climate risk category.
+47.
+In terms of financial management, the main risks are linked to the recruitment and
+the capacity of the staff and to a weak internal audit system. The main mitigation
+measures to be put in place are: (i) nomination by IFAD of an observer for the
+recruitment of staff to ensure quality and transparency; (ii) participation in
+supervision missions by IFAD, the Government and DANIDA; (iii) creation of an
+internal audit unit; and (iv) capacity-building, in particular for the staff
+decentralized at regional level.
+V. Corporate considerations
+A.
+Compliance with IFAD policies
+48. The design and implementation of INCLUSIF are consistent with (i) IFAD’s Strategic
+Framework 2016-2025, which calls for supporting inclusive and sustainable rural
+transformation, and (ii) IFAD’s guidelines on rural finance, the agricultural private
+sector and promotion of 4Ps, gender, nutrition, resilience to climate change, and
+social and environmental procedures.
+B.
+49.
+Alignment and harmonization
+INCLUSIF is aligned with the National Microfinance Plan objectives of: (i) building a
+professional microfinance sector that can contribute effectively to improving living
+conditions for households; (ii) prioritizing the sectors of production that generate
+income and employment for women and young people; and (iii) restructuring the
+sector. INCLUSIF is also consistent with the sector orientations set forth in the
+Strategic Framework for Economic Recovery and Sustainable Development
+2016-2018. This framework provides, inter alia, for consolidating and supporting
+the financial sector, including microfinance, and improving the public finance
+management system in the framework of macroeconomic stability. The INCLUSIF
+project, under component 2, also follows the private sector development policy,
+including the support for the development of SMEs. By integrating climate change
+resilience, INCLUSIF is also aligned with the intention of the nationally determined
+contribution to promote the green economy with sustainable natural resource
+management and effectively combat global warming.
+Innovations and scaling up
+C.
+50. Based on the gains generated by RMP and in synergy with the FIER project,
+INCLUSIF will scale up:
+(i)
+The approach of providing socio-economic training for disadvantaged groups,
+which enabled more than 100,000 low-income people, mainly women, to be
+brought into the banking system. The project will contribute to optimizing this
+approach by making use of financial education tools and facilitating their
+ownership by local operators. The methodology will be harmonized with that
+of FIER for supporting entrepreneurship among rural young people, in order
+9
+EB 2018/123/R.11/Rev.1
+(ii)
+(iii)
+(iv)
+to achieve greater rural financial inclusion. By scaling up this approach,
+INCLUSIF will reach an additional 300,000 rural poor people;
+The supply of medium-term credit available to RMP in the region of Ségou,
+which demonstrated its relevance with regard to equipment needs of
+smallholders and processors;
+Access by RFIs to loanable resources to expand access to credit for
+smallholders; and
+The use of a crowdfunding platform to mobilize migrant remittances
+(Babyloan) to financeincome-generating activities and Rural Micro Enterprises
+supported by FIER.
+51.
+D.
+52.
+In addition, INCLUSIF is the first project in Mali to propose a coherent financial
+services approach, involving all sector actors, to invest in adaptation to climate
+change in rural areas.
+Policy engagement
+INCLUSIF will continue the institutional support provided by the Projet de
+Microfinance Rurale, and particularly the implementation of the National Action Plan
+of Inclusive Finance; it will contribute to harmonization among the structures in
+charge of the financial sector and will promote systematic policy dialogue among
+the different value chain actors and Government representatives on themes related
+to improving the economic environment for agricultural activities (e.g. microfinance
+policies, promotion of private sector investment, trade and tariff policy).
+VI. Legal instruments and authority
+53. A financing agreement between the Republic of Mali and IFAD will constitute the
+legal instrument for extending the proposed financing to the borrower/recipient.
+A copy of the negotiated financing agreement is attached as appendix I.
+54. The Republic of Mali is empowered under its laws to receive financing from IFAD.
+55.
+I am satisfied that the proposed financing will comply with the Agreement
+Establishing IFAD and the Policies and Criteria for IFAD Financing.
+VII. Recommendation
+56.
+I recommend that the Executive Board approve the proposed financing in terms of
+the following resolution:
+RESOLVED: that the Fund shall provide a loan on highly concessional terms to
+the Republic of Mali in an amount of fifteen million seven hundred and fifty
+thousand special drawing rights (SDR 15,750,000), and upon such terms and
+conditions as shall be substantially in accordance with the terms and
+conditions presented herein.
+RESOLVED FURTHER: that the Fund shall provide a grant under the Debt
+Sustainability Framework to the Republic of Mali in an amount of fifteen
+million seven hundred and fifty thousand special drawing rights
+(SDR 15,750,000), and upon such terms and conditions as shall be
+substantially in accordance with the terms and conditions presented herein.
+Gilbert F. Houngbo
+President
+10
+Appendix I
+EB 2018/123/R.11/Rev.1
+Negotiated financing agreement
+Projet de financement inclusif des filières agricoles
+(Négociations conclues le 5 avril 2018)
+Numéro du prêt: _____
+Numéro du don DSF: _____
+Nom  du  projet:  Projet  de  financement  inclusif  des  filières agricoles  (INCLUSIF)  (“le
+projet”)
+La République du Mali (“l’Emprunteur/Bénéficiaire”)
+et
+Le Fonds International de Développement Agricole (“le Fonds’’ ou “le FIDA”)
+(désignés individuellement par “la Partie’’ et collectivement par “les Parties”)
+conviennent par les présentes de ce qui suit:
+PREAMBULE
+ATTENDU QUE le projet est conçu sur une durée de six ans;
+ATTENDU  QUE le  Fonds  a  accepté  d'accorder  un  prêt  et  un  don  au  titre  du cadre  de
+soutenabilité  de  la  dette à  l'Emprunteur/Bénéficiaire  pour contribuer  au  financement  du
+projet, conformément aux modalités et conditions établies dans le présent Accord;
+ATTENDU  QUE l'Agence  Danoise  pour  le  Développement  International  (DANIDA)  a
+accepté  de  contribuer  au  financement  du  projet  pour  un  montant  de  21,6  millions  de
+dollars  des  Etats  Unis  (USD),  conformément  aux  modalités  et  conditions  qui  seront
+précisées dans l'accord entre l'Emprunteur/Bénéficiaire et DANIDA;
+EN FOI DE QUOI, les Parties conviennent par les présentes de ce qui suit:
+Section A
+Le  présent  Accord  comprend  l’ensemble  des  documents  suivants:  le  présent
+1.
+document, la description du projet et les dispositions relatives à l’exécution (annexe 1) et
+le tableau d’affectation des fonds (annexe 2).
+Les Conditions générales applicables au financement du développement agricole en
+2.
+date  du  29  avril  2009,  amendées  en  avril  2014  et  toutes  éventuelles  modifications
+postérieures  (“les  Conditions  générales”)  sont  annexées  au  présent  document,  et
+l’ensemble des dispositions qu’elles contiennent s’appliquent au présent Accord. Aux fins
+du présent Accord, les termes dont la définition figure dans les Conditions générales ont
+la signification qui y est indiquée.
+3.
+Le Fonds accorde à l’Emprunteur/Bénéficiaire un prêt et un don au titre du cadre de
+soutenabilité de la dette (“le financement”), que l’Emprunteur/Bénéficiaire utilise aux fins
+de  l’exécution  du  projet,  conformément  aux  modalités  et  conditions  énoncées  dans  le
+présent Accord.
+Section B
+1
+Appendix I
+EB 2018/123/R.11/Rev.1
+1.
+A.
+Le montant du prêt est de quinze millions sept cent cinquante mille droits de
+tirage spéciaux (15 750 000 DTS).
+B.
+Le montant du don au titre du cadre de soutenabilité de la dette est de quinze
+millions sept cent cinquante mille droits de tirage spéciaux (15 750 000 DTS).
+2.
+Le  prêt  est  accordé  à  des conditions  particulièrement  favorables,  est  exempt
+d’intérêts mais est assorti d’une commission de service de trois quarts de point (0,75%)
+l’an exigible chaque semestre dans la monnaie de paiement des frais de service du prêt;
+et  est  assorti  d’un  délai  de remboursement  de quarante  (40)  ans,  dont  un  différé
+d’amortissement  de  dix  (10)  ans,  à  compter  de  la  date  d'approbation  du  prêt  par  le
+Conseil d'administration du Fonds.
+3.
+4.
+La monnaie de paiement au titre du service du prêt est l’Euro.
+L’exercice financier débute le 1er janvier et se termine le 31 décembre.
+Le  remboursement  du  principal  et  le  paiement  des  intérêts  de  la  commission  de
+5.
+service sont exigibles le 1er avril et le 1er octobre de chaque année.
+Un  compte  désigné  est  ouvert  par
+6.
+établissement bancaire de bonne réputation.
+l’Emprunteur/Bénéficiaire  auprès  d’un
+7.
+L’Emprunteur/Bénéficiaire fournit des fonds de contrepartie en numéraires aux fins
+du projet pour un montant d’environ quatre millions six cent mille dollars des Etats Unis
+(USD 4 600 000), étalé sur la durée du projet comme suit:
+i)
+ii)
+iii)
+iv)
+v)
+vi)
+première année 460 000 USD soit 10%;
+deuxième année 763 000 USD soit 16,6%;
+troisième année 1 127 600 USD soit 24,6%;
+quatrième année 1 251 200 USD soit 27,2%;
+cinquième année 621 000 USD soit 13,5%; et
+sixième année 377 200 USD soit 8,1%.
+Un  compte  est  ouvert  par  l’Emprunteur/Bénéficiaire  pour  recevoir  les  fonds  de
+8.
+contrepartie dans un établissement bancaire de bonne réputation.
+Section C
+1.
+L’agent principal du projet est le Ministère en charge de l’Agriculture.
+La  date  d’achèvement  du  projet  est  fixée  au sixième anniversaire  de  la  date
+2.
+d’entrée en vigueur du présent Accord.
+Section D
+Le Fonds assure l’administration du financement et la supervision du projet.
+2
+Appendix I
+Section E
+EB 2018/123/R.11/Rev.1
+1.
+Le Fonds  permet  au  projet  d'effectuer  des  retraits  afin  de  couvrir  les  coûts  de
+démarrage  afférents  aux  catégories  1,  3,  4  et  6  du  tableau  d’affectation  des  fonds  de
+l’Annexe 2 au présent Accord, encourus avant la satisfaction des conditions générales et
+spécifiques  préalables  aux  retraits,  qui  ne  doivent  pas  dépasser  un  montant  total
+équivalant à 200 000 DTS.
+Les  éléments  suivants  constituent  des  conditions  spécifiques  additionnelles
+2.
+préalables aux retraits supplémentaires:
+i)
+ii)
+iii)
+iv)
+v)
+le manuel des procédures administratives et financières du projet ainsi que le
+manuel d' opérations sont préparés par le projet et validés par le FIDA;
+le personnel clé a été  recruté  soit un expert  en finance inclusive, une expert
+secteur  privé  rural,  un  expert  en  adaptation  au  changement climatique,  un
+responsable suivi-évaluation et un responsable administratif et financier;
+le compte désigné, le compte réceptacle des fonds de contrepartie ainsi que le
+compte réceptacle des fonds de démarrage ont été ouverts;
+le  changement  de  statut  de la  Cellule  de  Contrôle  et  de  Surveillance  des
+Systèmes  Financiers  Décentralisés  (CCS/SFD)  est  inscrit  dans  le  Programme
+de Travail du Gouvernement (PTG) au titre du second semestre 2018; et
+le mécanisme de refinancement des Institutions de finance rurale (IFRs) a été
+institutionnalisé, par décret ou par arrêté.
+2.
+Le présent Accord est soumis à la ratification de l’Emprunteur/Bénéficiaire.
+Toutes  les  communications  ayant  trait  au  présent  Accord  doivent  être  adressées
+3.
+aux représentants dont le titre et l’adresse figurent ci-dessous:
+Pour l’Emprunteur/Bénéficiaire:
+Ministre de l’Economie et des Finances de la République du Mali
+Ministère de l’Economie et des Finances
+Hamdallaye ACI 2000
+BP 234
+Bamako, Mali
+Tel:(+223) 20 22 58 58 / 20 22 58 06
+Fax: (+223) 20 22 19 14 / 20 22 16 54
+Pour le Fonds:
+Le Président
+Fonds international de développement agricole
+Via Paolo di Dono 44
+00142 Rome, Italie
+3
+Appendix I
+EB 2018/123/R.11/Rev.1
+Le  présent  accord,  en  date  du ________,  a  été  établi  en  langue  française  en  deux  (2)
+exemplaires originaux, un (1) pour le Fonds et un (1) pour l’Emprunteur/Bénéficiaire.
+LA REPUBLIQUE DU MALI
+____________________
+(Nom du représentant autorisé)
+(titre du représentant autorisé)
+FONDS INTERNATIONAL
+POUR LE DEVELOPPEMENT AGRICOLE
+___________________
+Gilbert F. Houngbo
+Président
+4
+Appendix I
+EB 2018/123/R.11/Rev.1
+Annexe 1
+Description du projet et Dispositions relatives à l’exécution
+I.
+Description du projet
+Population  cible.  Le  projet  touchera  440 000  bénéficiaires  directs  issus  des  groupes
+1.
+familiales  rurales,  des  organisations  professionnelles
+démunis,  des exploitations 
+(coopératives, unions, fédérations) et des entreprises du secteur privé agricole. L’approche
+sera favorable aux femmes et aux jeunes (18 à 40 ans) qui représenteront respectivement
+au moins 50% de l’effectif touché.
+le  projet  contribuera  à: 
+2.
+Finalité.  Le  projet  a  pour  finalité  l’accroissement  de  l'inclusion  financière  des  petits
+producteurs  et  des  petites  et  moyennes  entreprises  (PME)  agro-alimentaires  au  Mali.  A
+terme, 
+i) bancariser  440 000  petits  producteurs  et
+360 organisations  professionnelles  agricoles  à  l’échelle  de  la  zone  d’intervention;
+financiers  en  épargne,  crédit  et
+ii) développer  et  pérenniser  cinq  produits 
+micro-assurance;  iii) développer  avec  les  institutions  financières  rurales  (IFR)  un
+portefeuille  de  crédit  rural  d’au  moins  20  milliards  de  francs  CFA  d’encours  à  la  fin  du
+projet;  iv) mobiliser  5 milliards  de  francs  CFA  d’épargne  auprès  des  petits  déposants;
+v) renforcer  les  capacités  de  36 000 petits  producteurs  dans  les partenariats  avec  le
+secteur  privé  et  augmenter  les  revenus  d’au  moins  22 000  petits  producteurs  dans  les
+organisations et de 4 500 jeunes ruraux dans les activités génératrices de revenus et les
+microentreprises rurales; et vi) réaliser l’autonomie opérationnelle de 6 IFR.
+L’intégration  d’un  financement  dédié  à  l’adaptation  au  changement  climatique  permettra
+par ailleurs l’accès à des financements pour l’adaptation à plus de 40 000 producteurs; la
+meilleure  prise  en  compte  des  risques  climatiques  dans  le plan  d’actions  de  la  politique
+nationale de développement de microfinance et la création d’un dispositif national (charte
+verte)  pour  la  prise  en  compte  des  critères  climatiques,  mais  aussi  environnementaux,
+sociaux et de gouvernance par les systèmes financiers décentralisés (SFD) maliens.
+Objectifs. L’objectif de développement du projet est d’accroître l'inclusion financière
+3.
+des  petits  producteurs,  de  leurs  organisations  et  des  petites  et  moyennes  entreprises
+agroalimentaires au Mali.
+4.
+Composantes. Le projet comprend les composantes suivantes:
+4.1 Composante A. Développement  des  services  financiers  ruraux.    L’objectif  de  cette
+composante est d’améliorer l’accès des petits producteurs et de leurs organisations à des
+services  financiers  adaptés.  Sa  mise  en  œuvre  aura  un  impact  en  zone  rurale  où  elle
+contribuera  à  porter  l’inclusion  financière  de  20%  actuellement  à  35%  en  2024.  Elle
+impactera également la qualité de la demande dans le cadre de l’éducation financière des
+groupes-cibles  et  des  PME  avec  un effet  direct  sur  la  qualité  des  portefeuilles  et  la
+viabilité de l’offre.
+Pour  ce  faire,  le  projet  continuera  à  intervenir  pour  l’assainissement  du  secteur  de  la
+microfinance  par  un  appui  institutionnel  à  la  mise  en  œuvre  du  plan  d’actions  de  la
+politique nationale de développement de la microfinance (PNMF), dans l’augmentation de
+la  ressource  prêtable  aux  SFD  par  la  capitalisation  et  l’appui  au  fonctionnement  d’un
+mécanisme  de  refinancement  durable  des  SFD,  dans  l’appui  au  développement  de
+nouveaux produits (micro-leasing, assurance, produits financiers verts), à la mobilisation
+de  la  petite  épargne  rurale,  et  dans  la  modernisation  des  SFD  par  la  digitalisation  des
+opérations et l’utilisation de la téléphonie mobile.
+5
+Appendix I
+EB 2018/123/R.11/Rev.1
+Investissements  productifs  dans  les  filières.    L’objectif  de  cette
+4.2 Composante B.
+composante est de développer des partenariats productifs rentables et durables entre le
+secteur  privé  composé  majoritairement  d’organisations  de  producteurs  (OP)  soutenus
+dans la composante A, et les systèmes financiers.
+Les  interventions  du  projet  consisteront  à  renforcer  les  capacités  des  OP  et  des  PME  à
+s’engager dans des partenariats, et à mettre en place: a) un dispositif d’appui technique
+pour la contractualisation entre acteurs et le montage, le financement et le suivi de plans
+d’affaires; et b) un dispositif de financement des investissements. Des facilitations seront
+prévues pour encourager les acteurs à s’engager dans des investissements plus résilients
+et durables.
+suivi-évaluation  et  gestion  des  savoirs. Cette
+4.3 Composante C. Coordination,
+composante  portera  l’ensemble  des  dispositifs  de  planification  technique  et  de
+coordination  opérationnelle,  de  gestion  administrative  et  fiduciaire,  de  suivi-évaluation,
+communication  et  capitalisation.  Son  fonctionnement  sera  régi  par  les  arrangements
+définis dans le cadre d’une approche-programme avec les autres projets du portefeuille,
+et se réfèrera aux manuels et supports de mise en œuvre développés à cet effet.
+II. Dispositions relatives à l’exécution
+A.
+Approche de mise en œuvre
+5.
+Le  projet  a  été  préparé  pour  un  démarrage  de  ses  activités  dès  l’achèvement  du
+Programme  de  Microfinance  Rurale  (PMR)  en  septembre  2018.  Sa  mise  en  œuvre
+reposera  sur  des  principes  permettant  de  mettre  à  l’échelle  les  acquis du  PMR  et  du
+Programme d'appui à la croissance économique et promotion de l'emploi stimulées par le
+secteur  privé  (PACEPEP)  financé  par  la  coopération  danoise,  qui  cofinancera  également
+INCLUSIF.
+INCLUSIF  promouvra  une  approche  innovante  d’entrepreneuriat  rural  et  d’inclusion
+financière  pour  les  petits  producteurs  ainsi  que  de  partenariat  et  de  contractualisation
+entre  OP  et  PME.  Ainsi,  il:  i)  mettra  à  l’échelle  l’approche  d’inclusion  économique  et
+financière  des  groupes  démunis  et le  mécanisme  de  refinancement  permettant  aux  SFD
+ruraux de distribuer du crédit au plus grand nombre des petits producteurs, en particulier
+les femmes et les jeunes tout en encourageant la mobilisation de l’épargne auprès de ces
+derniers; ii) renforcera la gouvernance des organisations professionnelles agricoles et des
+PME,  leur  capacité  de  gestion,  ainsi  que  leur  capacité  d’endettement  et  de  solvabilité
+dans  les  partenariats  productifs  et  vis-à-vis  des  institutions  financières;  iii) facilitera
+l’accès  aux  opportunités  d’alliances  commerciales,  de  co-investissement  et  de  co-
+entreprise  avec  le  secteur  privé,  quelle  que  soit  la  filière  agricole;  et  iv)  facilitera  la
+capitalisation des PME et leurs accès aux crédits bancaires.
+La mise  en œuvre du projet notamment dans  sa composante B reposera également  sur
+des plans d’affaires garantissant le retour sur investissement. Sous cet angle, l’approche
+du projet se veut pédagogique et vise à terme l’appropriation par les OP et les PME des
+bonnes  pratiques  de  planification  et  de  gestion  d’investissement  dans  une  vision  de
+croissance  et  d’autonomie  financière  ainsi  qu’une  intégration  durable  des  acteurs  des
+filières.
+Les  composantes  A  et  B  seront  reliées  par  des  instruments  financiers  dont  le  montage
+vise  à  garantir  l’accès  durable  des  OP  composées  de  petits  producteurs  au  financement
+des IFR. Les incitations financières prévues dans la composante B permettront aux OP et
+à  leurs  partenaires  privés  de  lever  les  contraintes  d’accès  aux  services  financiers
+productifs, et de devenir sur le long terme des clients solvables des IFR.
+6
+Appendix I
+EB 2018/123/R.11/Rev.1
+INCLUSIF prévoit de plus la prise en compte transversale des préoccupations climatiques,
+en facilitant à ses cibles l’accès à des investissements liés à l’adaptation au changement
+climatique.  Le  projet 
+facteurs  environnementaux,  sociaux  et  de
+gouvernance (critères ESG) de façon concrète dans les stratégies des partenaires privés
+du  projet  (PME  et  SFD),  en  permettant  de  les  orienter  vers  une  philosophie
+d’investissement  responsable,  en  ligne  avec  les  recommandations  de  la  note  sur  les
+procédures environnementales, sociales et climatiques du FIDA.
+intègrera 
+les 
+De  par  son  envergure,  et  à  travers  l’engagement  de  l’ensemble  des  acteurs  impliqués
+dans  le  financement  agricole,  INCLUSIF  va  permettre  d’accompagner  la  transition du
+secteur agricole attendue par le Programme de Développement Agricole (PDA) au Mali.
+B.
+Cadre organisationnel
+6.
+Le projet sera placé: i) sous la tutelle administrative et opérationnelle du Ministère
+de  l’agriculture  qui  sera  maître  d’ouvrage,  et  ii)  sous  la  tutelle  institutionnelle  du
+Ministère de la promotion de l’investissement et du secteur privé (MPISP) qui présidera le
+Comité  de  pilotage  (CP).  Un  point  focal  sera  établi  au  Ministère  de  l’économie  et  des
+finances  pour  le  suivi  des  actions  d’appui  à l’assainissement  et  au  renforcement  du
+contrôle et de la surveillance du secteur de la microfinance.
+Le  projet  amorcera  la  mise  en  place  d’une  gestion  programmatique  du  portefeuille  du
+FIDA  au  Mali  afin  d’améliorer  l’efficacité  des  allocations,  la  performance  et  l’impact  des
+projets.  Cette  approche-programme  débutera  par: 
+fonctions
+permanentes d’ingénierie de projet à l’échelle du Programme-pays; et ii) la mutualisation
+ciblée  avec 
+formation  professionnelle,  d’insertion  et d’appui  à
+l’entrepreneuriat  des  jeunes  ruraux (FIER)  de  compétences  et  de  moyens  dans  les
+dispositifs de mise en œuvre des activités sur le terrain. Les deux projets emménageront
+ensemble dans un siège commun à Bamako et auront des antennes  conjointes dans les
+régions. Ces antennes seront domiciliées au sein des conseils régionaux.
+i) l’instauration  de 
+le Projet  de 
+La  mise  en  œuvre  du  projet  reposera  pour  une  large  part  sur  des  prestations  externes
+qui  seront  exécutées  par:  i)  des  organisations  non-gouvernementales  (ONG)  nationales
+pour  la  capacitation  socioéconomique  et  la  sensibilisation  au  risque  climatique    des
+groupes  démunis,  le  renforcement  des  capacités  des  OP  dans  le  cadre  des  partenariats
+productifs,  l’appui  à  la  préparation  des  plans  d’affaires  pour  les  jeunes  entrepreneurs
+ruraux  et  les  partenariats  axés  sur  la  contractualisation  simple;  ii)  des  bureaux  d’étude
+nationaux  pour  la  facilitation  des  partenariats  de  co-investissement  et  de  coentreprise,
+l’appui à la préparation et à la mise en  œuvre des plans d’affaires pour les partenariats
+publics-privés-producteurs  (4P)  et  les  co-entreprises;  et  iii) des  bureaux  d’étude
+internationaux  pour  l’Assistance  technique  à  la  mise  en  œuvre  de  la  composante  B,
+l’appui  à  la  digitalisation  des  services  financiers  et  au  développement  de  méthodologies
+pour les produits financiers, ainsi que l’appui aux SFD, OP et PME à conduire leur propre
+analyse  de  vulnérabilité  au  changement  climatique  et  à  identifier  les  opportunités
+d’adaptation permettant d’y répondre.
+C.
+Planification, suivi-évaluation, apprentissage et gestion des savoirs.
+7.
+Planification. La  planification  des  activités  se  fera  à  travers  l’élaboration  de
+Programmes  de  travail  et  de  budgets  annuels  (PTBA).  Elle  permettra  d’effectuer  un
+séquençage des activités sur une base annuelle et d’assurer une allocation adéquate des
+ressources  financières  pour  atteindre  les  résultats.  L’élaboration  des  PTBA  se  fera  de
+manière  participative,  impliquant  l’ensemble  des  parties  prenantes  afin  de  s’assurer:
+i) que  les  objectifs  fixés  soient  partagés  par  tous  les  acteurs  concernés;  ii) que  les
+activités et stratégies opérationnelles mises en œuvre concourent bien à l’atteinte desdits
+7
+Appendix I
+EB 2018/123/R.11/Rev.1
+objectifs;  et  iii) que  chaque  acteur  prenne  conscience  des  rôles  qu’il  doit  jouer  dans  la
+mise en œuvre des PTBA.
+8.
+Système de suivi-évaluation (SSE). Le SSE du projet sera développé conformément
+à l’approche-programme en lien avec le projet FIER et relié au SSE du portefeuille. Il sera
+configuré pour fournir les informations et analyses utiles pour le pilotage de l'exécution,
+les  revues  et  l’évaluation  du  projet.  Il  constituera  un  outil  pour  la  gestion  axée  sur  les
+résultats (GAR).
+9.
+Gestion des savoirs. INCLUSIF est un projet d’envergure, qui se propose à la fois de
+mettre  à  l’échelle  les  acquis  du  PMR  et  du  PACEPEP,  et de  développer  des  approches
+innovantes d’inclusion financière en milieu rural, tout en promouvant la prise en compte
+des  risques  climatiques  et  le  respect  des  critères  environnementaux,  sociaux  et  de
+gouvernance.  Le  suivi  et  l’évaluation  des  activités,  produits,  effets  et  impacts  des
+interventions du projet permettront d’identifier ses succès et limites, et leurs moteurs, et
+constitueront ainsi la base du processus d’apprentissage du projet. En articulant la mise
+en  œuvre  des  activités, le  suivi-évaluation, la gestion  des  savoirs,  et  la  communication,
+INCLUSIF  mettra  en  place  les  mécanismes  permettant  de  capitaliser  et  valoriser  les
+connaissances  et  enseignements  issus  de  ses  expériences,  au  profit  de  l’ensemble  des
+acteurs impliqués dans sa mise en œuvre.
+D.
+Gestion financière, passation des marchés et gouvernance.
+Le  dispositif  de  gestion  s'appuiera  sur  une  organisation  administrative,  financière  et
+comptable  animée  par  un  service  doté  d’un  personnel  qualifié.  Au  niveau  régional  ce
+personnel  sera  mutualisé  avec  celui  du  projet  FIER  au  sein  des  Conseils  régionaux
+suivant les spécifications et modalités définies dans le manuel de procédures. Le manuel
+de  procédures  du  projet  FIER  sera  alors  révisé  pour  y  intégrer  les  fonctions  et
+responsabilités partagées au niveau national.
+10. Gestion financière. La gestion financière du projet reposera sur un système de suivi
+financier  à  quatre  piliers:  i)  le  suivi  des  ressources  financières;  ii)  le  suivi  budgétaire;
+iii) le suivi comptable; et iv) le suivi physique et financier. Le risque de gestion financière
+du  projet  est  jugé  modéré  à  la  conception.  Ce  risque  sera  atténué  par  le  respect  des
+procédures  prévues  par  le  FIDA  en  matière  de  suivi,  avec  la  fourniture  régulières
+d’informations  précises  sur  l’état  du  financement.    Les  éléments  d’atténuation  seront
+assurés par: i) le suivi conjoint du Gouvernement (Ministère de l’agriculture) et du FIDA;
+ii) l’audit  interne  assuré  par  l’auditeur  du  Programme-pays;  iii)  les  audits  annuels
+externes; iv) le suivi et le contrôle des finances publiques assurés par les autorités dans
+le  cadre  de  leurs  prérogatives,  et  suivant  le  planning  annuel  de  leurs  activités;  v) le
+processus de réajustement et de renforcement des capacités des antennes régionales.
+11.
+Passation  des  marchés. Les  travaux  et  fournitures  ainsi  que  les  services  de
+consultants  nécessaires  au  projet  et  financés  sur  ses  ressources  seront  livrés
+conformément au code de passation des marchés en vigueur au Mali, dans la mesure de
+son alignement sur les dispositions de passation de marché prévues par le FIDA. Dans le
+cadre des partenariats productifs et de la promotion des activités génératrices de revenus
+(AGR)  et  micro  entreprises  rurales  (MER),  les  bénéficiaires  (OP,  jeunes  promoteurs
+d’entreprises  rurales)  seront  impliqués dans  la  passation  des  marchés  selon  des
+modalités spécifiques définies dans les manuels.
+12. Gouvernance. Le  projet  appliquera  les  principes  de  bonne  gouvernance  et  de
+transparence:  i)  dans  le  cadre  de  l’appui  à  la  Cellule  de  contrôle  et  de  surveillance  des
+SFD  pour  l’assainissement  du  secteur  de  la  microfinance  et  le  respect  de  la
+règlementation;  ii) par  l’implication  des  collectivités  territoriales  décentralisées  dans  la
+réalisation des infrastructures de désenclavement pour la mise en œuvre des partenariats
+8
+Appendix I
+EB 2018/123/R.11/Rev.1
+productifs;  iii) à  travers  la  participation  des  élus  locaux  dans  les  processus  de
+planification  et  d’évaluation  des  investissements  du  projet;  iv)  par  l’exercice  de  la
+maîtrise  d’ouvrage  des  OP  et  des  jeunes  ruraux  pour  la  mise  en  œuvre  des  plans
+d’affaires des partenariats productifs, des AGR et MER; v) à travers le dispositif de suivi
+du  respect  par  les  OP  de  leurs  statuts  et  règlements  intérieurs,  notamment  en  ce  qui
+concerne  le  renouvellement  des  organes  élus;  et  vi)  le  respect  strict  des  procédures  en
+matière de gestion financière et de passation des marchés.
+13. Supervision. La supervision du projet sera régie par le nouveau système de gestion
+des résultats opérationnels (ORMS). Ce système informatisé et connecté facilitera la mise
+à  jour  des  données  et  informations  sur  l’état  d’avancement  du  projet  qui  sera
+systématiquement disponible en ligne.
+9
+Appendix I
+EB 2018/123/R.11/Rev.1
+Annexe 2
+Tableau d’affectation des fonds
+Affectation  des  produits  du prêt  et  du  don au  titre  du  cadre  de  soutenabilité  de  la
+1.
+dette. a) Le tableau ci-dessous  indique  les  catégories  de  dépenses  admissibles  à  un
+financement  sur  les  produits  du  prêt  et  du  don au  titre  du  cadre  de  soutenabilité  de  la
+dette  ainsi  que  les  montants  du  prêt  et  du  don au  titre  du  cadre  de  soutenabilité  de  la
+dette affectés à chaque catégorie et la répartition en pourcentage des dépenses à financer
+pour chacun des postes des différentes catégories:
+Montant alloué
+au titre du prêt
+du Fonds
+(exprimé
+en DTS)
+Montant alloué
+au titre du don
+au titre du cadre
+de soutenabilité
+de la dette du
+Fonds (exprimé
+en DTS)
+Pourcentage
+450 000
+450 000
+100% TTC
+2 220 000
+2 220 000
+100% TTC
+Catégorie
+Equipement et
+1.
+matériels
+Biens, services et
+2.
+intrants
+3.
+Formations
+460 000
+460 000
+100% TTC
+4.
+Consultations
+2 570 000
+2 570 000
+100% TTC
+5.
+Dons et subventions
+4 800 000
+4 800 000
+100% TTC et Hors Contribution
+des Bénéficiaires et du
+Gouvernement
+Salaires et
+6.
+indemnités
+Non alloué
+TOTAL
+3 670 000
+3 670 000
+100%
+1 580 000
+1 580 000
+15 750 000
+15 750 000
+b)
+Les termes utilisés dans le tableau ci-dessus se définissent comme suit:
+i)
+ii)
+la catégorie Equipement et matériels inclut les véhicules;
+la catégorie Formations inclut les ateliers;
+iii) la catégorie Salaires et indemnités inclut les couts de fonctionnement; et
+iv) la catégorie Dons et subventions est destinée à cofinancer les projets des
+jeunes  et  les  plans  d’affaires  des  organisations  professionnelles  et  des
+petites et moyennes entreprises.
+2.
+Coûts  de  démarrage.  Les  retraits  effectués  afin  de  couvrir  les  coûts  de  démarrage
+afférents  aux  catégories 1,  3,  4  et  6 encourus  avant  la  satisfaction  des  conditions
+générales préalables aux retraits ne doivent pas dépasser un montant total équivalant à
+200 000 DTS.
+10
+Logical framework and theory of change
+Summary/ Results
+Overall objective
+Key indicators3&4
+Means of verification
+Assumptions
+Item
+Baseline
+Midterm
+Completion
+Sources
+Frequency
+Responsibilities
+Contribute to poverty reduction
+and rural economic growth
+1. Number of people experiencing
+economic mobility *5
+Project development objective
+0
+0
+200 000
+320 000
+Impact
+evaluation
+Years 1, 3
+and 6
+IFAD &
+Government
+2. Number of beneficiaries receiving
+services promoted by the project *6
+(ORMS 1)
+3. Volume of credit obtained by
+smallholders
+250 000
+440 000
+Project M&E
+Quarterly
+XOF 8 billion
+XOF 14
+billion
+XOF 20
+billion
+M&E and RFI
+reporting
+Annually
+Project
+coordination unit
+(PCU)
+RFI, RFS and
+PCU
+4. Volume of savings mobilized from
+small-scale depositors
+XOF 120
+million
+XOF 2
+billion
+XOF 5
+billion
+M&E and RFI
+reporting
+Annually
+RFI, RFS and
+PCU
+Increase financial inclusion for
+smallholders and their
+organizations
+1
+1
+Outcome 1: Access by
+smallholders and their
+organizations to adapted
+financial services is improved
+Output 1.1: Institutional
+environment for DFS operations
+is improved
+Output 1.2: Diversified,
+permanent and inclusive
+5. Increase in smallholders within
+the portfolio of partner MFIs (% and
+number) (ORMS 1.2.5)
+6. Number of partner rural MFIs
+having achieved operational viability
+(OSS ≥130%) (ORMS 1.2.7)
+7. Number of IGAs and RMEs
+accessing support services and
+financial services (ORMS 2.1.1)
+8. Number of partner rural MFIs up
+to date on new regulatory directives
+(ORMS 1.1.6)
+9. Number of partners with portfolio
+at risk >30 days less than 5%
+(ORMS 1.2.6)
+10. Number of new financial
+products developed
+25%
+30%
+35%
+0
+0
+5
+3
+0
+2
+6
+2 000
+4 500
+12
+5
+3
+12
+10
+5
+M&E and RFI
+reporting
+M&E and
+MFIs
+M&E FIER
+and M&E
+INCLUSIF
+CCS-SFD
+Annually
+MFIs and PCU
+Annually
+CCS-SFD and
+PCU
+Annually
+M&E
+Semi-
+annually
+CCS, DFS and
+PCU
+CCS-SFD
+Quarterly
+CCS, MFIs and
+PCU
+MFI partners
+Annually
+MFIs and PCU
+Implementation of
+microfinance
+policy and
+smallholder
+financial inclusion
+strategy
+ Smallholder
+creditworthiness
+ Savings capacity
+of smallholders
+ Matching supply
+to demand for
+financial products
+Interest by RFI to
+take on the rural
+market and
+strengthen their
+presence
+ Ongoing sector
+restructuring
+ Regulatory
+compliance by
+MFIs
+3 Disaggregated by gender and age (men, women and young people ages 15-40) and by value chain, to the extent possible.
+4 * Core indicators from the Operational Results Management System (ORMS, previously RIMS)
+5 Projection from IFAD impact assessments of the number of rural people experiencing changes in economic status (10% or more) including income, consumption, wealth, food diversity or nutrition
+(Taking IFAD’s Results and Impact Management System (RIMS) to the Next Level, IFAD, April 2017)
+6 Of which men, women and young people; beneficiaries of sustainable environmental actions and beneficiaries of nutrition actions
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+8
+/
+1
+2
+3
+/
+R
+.
+1
+1
+/
+R
+e
+v
+.
+1
+
+
+Summary/ Results
+Item
+Baseline
+Midterm
+Completion
+Sources
+Frequency
+Responsibilities
+Key indicators3&4
+Means of verification
+Assumptions
+financial services and products
+are developed
+11. Percentage of users of rural
+MFIs adopting new products
+0%
+30%
+50%
+12. Number of users resilient to
+climate change
+13. Number of users receiving
+financial education (ORMS 1.1.6)
+14. Number of POs supported and
+engaged in partnerships with private
+entities* (ORMS 2.1.1 and 2.2.3)
+15. Number of producers reporting
+an increase in sales
+16. Increase in the turnover of the
+SMEs benefiting from the project
+17. Number of producers trained in
+partnerships
+Outcome 2: Producers
+organizations (POs) develop
+profitable and sustainable
+productive partnerships with
+the private sector and
+financial systems
+1
+2
+Output 2.1: Organizational and
+business capacities of POs and
+SMEs are strengthened
+18. Number of POs with an
+accounting and operational
+management system
+Output 2.2: POs et SMEs
+benefit from private sector
+financing and facilitated access
+to credit
+19.Number of SMEs strengthened
+20. Number of POs with access to
+credit under productive partnerships
+21. Number of business plans
+having mobilized private sector
+financing
+22. Financial amount brought by the
+private sector
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+25.000
+40.000
+M&E and
+MFI partners
+M&E and
+project
+reports
+Annually
+MFIs and PCU
+Annually
+Service providers
+and PCU
+150.000
+300 000
+Project
+Annually
+150
+360
+7 000
+22 000
+50%
+150%
+20 000
+36 000
+30
+40
+150
+30
+50
+110
+310
+60
+2 USD M
+5.4 USD M
+M&E and
+project
+reports
+Specific
+survey
+M&E and
+project
+reports
+M&E and
+project
+reports
+Service
+providers
+M&E
+M&E and
+project
+reports
+M&E and
+project
+reports
+M&E and
+project
+reports
+M&E and
+project
+reports
+Service providers
+and PCU
+Service providers
+and PCU
+Service providers
+and PCU
+Service providers
+and PCU
+Semi-
+annually
+Annually
+Annually
+Quarterly
+Service providers
+and PCU
+Semi-
+annually
+Service providers
+and PCU
+Annually
+Service providers
+and PCU
+Quarterly
+Service providers
+and PCU
+Quarterly
+Service providers
+and PCU
+Annually
+Service providers
+and PCU
+ Enabling business
+environment for
+PO-private sector
+partnerships
+ Availability of
+technical service
+providers to
+support
+development of
+productive
+partnerships
+ Market
+opportunities
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+8
+/
+1
+2
+3
+/
+R
+.
+1
+1
+/
+R
+e
+v
+.
+1
+1
+3
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+8
+/
+1
+2
+3
+/
+R
+.
+1
+1
+/
+R
+e
+v
+.
+1

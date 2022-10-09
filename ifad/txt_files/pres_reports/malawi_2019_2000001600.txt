@@ -1,0 +1,2026 @@
+Document: 
+Agenda: 
+Date: 
+Distribution: 
+Original: 
+EB 2019/128/R.25/Rev.1 
+7(d)(ii)(a) 
+11 December 2019 
+Public 
+English 
+E 
+President’s report 
+Proposed loan and Debt Sustainability 
+Framework grant  
+Republic of Malawi 
+Transforming Agriculture through 
+Diversification and Entrepreneurship 
+Programme 
+Project ID: 2000001600 
+Note to Executive Board representatives 
+Focal points: 
+Technical questions: 
+Dispatch of documentation: 
+Deirdre Mc Grenra 
+Chief 
+Institutional Governance and 
+Member Relations 
+Tel.: +39 06 5459 2374 
+e-mail: gb@ifad.org 
+Sara Mbago-Bhunu 
+East and Southern Africa Division 
+Regional Director 
+Tel.: +39 06 5459 2838 
+e-mail: s.mbago-bhunu@ifad.org 
+Ambrosio Barros 
+Country Director 
+Tel.: +27 11 517 1661 
+e-mail: a.nsinguibarros@ifad.org 
+Executive Board — 128th Session 
+Rome, 10-12 December 2019 
+For: Approval 
+EB 2019/128/R.25/Rev.1 
+Contents 
+Abbreviations and acronyms 
+Map of the programme area 
+Financing summary 
+I. 
+Context 
+A.  National context and rationale for IFAD involvement 
+B.  Lessons learned 
+II.  Programme description 
+A.  Programme objectives, geographic area of intervention and 
+target groups 
+B.  Components/outcomes and activities 
+C. Theory of change 
+D. Alignment, ownership, and partnerships 
+E.  Costs, benefits and financing 
+III.  Risks 
+A.  Programme risks and mitigation measures 
+B.  Environment and social category 
+C. Climate risk classification 
+D. Debt sustainability 
+IV.  Implementation 
+A.  Organizational framework 
+B.  Planning, monitoring and evaluation, learning, knowledge 
+management and communications 
+C. Implementation plans 
+Legal instruments and authority 
+V. 
+VI.  Recommendation 
+Appendices 
+I.  Negotiated financing agreement  
+II.  Logical framework 
+Programme delivery team 
+Regional Director: 
+Country Director: 
+Programme Technical Lead: 
+Financial Management Officer: 
+Climate and Environment Specialist: 
+Legal Officer: 
+Sara Mbago-Bhunu 
+Ambrosio Barros 
+Zainab Semgalawe 
+Claudio Mainella 
+Paxina Chileshe 
+Paul Edouard Clos 
+ii 
+iii 
+iv 
+1 
+1 
+2 
+2 
+2 
+3 
+3 
+3 
+4 
+7 
+7 
+7 
+8 
+8 
+8 
+8 
+9 
+10 
+10 
+11 
+i 
+EB 2019/128/R.25/Rev.1 
+Abbreviations and acronyms 
+4Ps 
+ACIF 
+AWP/B 
+COSOP 
+EFA 
+EIRR 
+ENPV 
+ESIA 
+ESMF 
+ESMP 
+FARMSE 
+FBO 
+FBS 
+M&E 
+NAIP 
+NAP 
+OFID 
+PMU 
+RLEEP 
+SDG 
+SDR 
+SECAP 
+TRADE 
+VC 
+VSLA 
+public-private-producer partnerships 
+Agricultural Commercialization and Innovation Fund 
+annual workplan and budget 
+country strategic opportunities programme 
+Economic and Financial Analysis 
+economic internal rate of return 
+economic net present value 
+environmental and social impact assessment 
+Environmental and Social Management Framework 
+Environmental and Social Management Plan 
+Financial Access for Rural Markets, Smallholders and Enterprise Programme 
+farmer-based organization  
+farm business school 
+monitoring and evaluation 
+National Agriculture Investment Plan 
+National Agriculture Policy 
+OPEC Fund for International Development 
+programme management unit 
+Rural Livelihoods and Economic Enhancement Programme 
+Sustainable Development Goal 
+social discount rate 
+Social Environment and Climate Assessment Procedures 
+Transforming Agriculture through Diversification and Entrepreneurship Programme 
+value chain 
+village savings and loan associations 
+ii 
+Map of the programme area 
+EB 2019/128/R.25/Rev.1 
+iii 
+EB 2019/128/R.25/Rev.1 
+Financing summary 
+Initiating institution: 
+IFAD 
+Borrower/recipient: 
+Republic of Malawi 
+Executing agency: 
+Ministry of Local Government and Rural Development 
+Total programme cost: 
+US$125.4 million 
+Amount of IFAD loan: 
+SDR 37,050,000 (equivalent to US$51.1 million) 
+Terms of IFAD loan:  
+Highly concessional: Maturity period of 40 years, 
+including a grace period of 10 years, with a fixed 
+service charge  
+Amount of IFAD Debt Sustainability 
+Framework grant: 
+SDR 13,700,000 (equivalent to US$18.9 million) 
+Cofinanciers:  
+Amount of cofinancing: 
+OPEC Fund for International Development (OFID);  
+Private sector 
+OFID: US$20.0 million 
+Private sector: US$11.7 million 
+Terms of cofinancing:  
+Loan 
+Contribution of borrower/recipient: 
+US$15.3 million 
+Contribution of beneficiaries: 
+US$8.3 million 
+Amount of IFAD climate finance: 
+US$14.8 million  
+Cooperating institution: 
+IFAD 
+iv 
+EB 2019/128/R.25/Rev.1 
+Recommendation for approval 
+The Executive Board is invited to approve the recommendation contained in  
+paragraph 61. 
+I.  Context 
+A.  National context and rationale for IFAD involvement 
+1. 
+2. 
+National context 
+The Republic of Malawi is a low-income country, with a per capita GDP of US$338 
+in 2017. In that year the agricultural sector contributed about 30 per cent of GDP, 
+80 per cent of Malawi's foreign earnings and 77 per cent of total employment. 
+Climate-related and political and governance shocks have contributed to economic 
+stagnation and a low pace of poverty reduction. Public debt has doubled over the 
+last decade, reaching 55 per cent of GDP in 2017. 
+The agricultural sector, largely rainfed and dominated by subsistence smallholder 
+farmers, supports the livelihoods of the majority of its population, involving 
+78 per cent of total households. Crop production accounts for 74 per cent of all 
+rural incomes. Productivity is low, exacerbated by a low uptake of improved farm 
+inputs/technologies. About 55 per cent of farmers cultivate less than 1 hectare, 
+making it difficult for them to produce a surplus for marketing.  
+3. 
+Special aspects relating to IFAD’s corporate mainstreaming priorities 
+In line with IFAD's mainstreaming commitments for the Eleventh Replenishment of 
+IFAD's Resources, the programme has been classified as: 
+☒ Climate-focused; 
+☒ Gender-transformational; 
+☒ Nutrition-sensitive; and  
+☒ Youth-sensitive. 
+4. 
+5. 
+Environmental degradation and climate change are major development issues that 
+have adversely impacted on food security, water quality and energy security.  
+The 2017 Gender Inequality Index for Malawi was 0.619, ranking it 148th out of 
+160 countries. Youth constitutes 51 per cent of the population, with the youth 
+unemployment rate exceeding 40 per cent in 2017. The agriculture sector offers 
+many opportunities for job creation for youth, but their participation is constrained 
+by challenges that include limited access to finance, land and inputs, limited 
+capacity, and perceptions that farming is not a profitable business.  
+6.  Malawi ranked 87th out of 119 countries on the 2018 Global Hunger Index and 
+suffers from serious levels of hunger and malnutrition. 
+7. 
+Rationale for IFAD involvement 
+IFAD has contributed to improving the livelihoods of 1.88 million rural poor 
+households in Malawi, through investments totalling US$226.9 million. In recent 
+years there has been a strategic shift by the Government to commercialization of 
+smallholder agriculture, through strengthening access to markets and financial 
+services, as well as a focus on adaptation to climate change, as the key drivers for 
+poverty reduction. In this regard, IFAD also realigned its support to the 
+Government by supporting commodity development through the Rural Livelihoods 
+and Economic Enhancement Programme (RLEEP, 2009-2017). RLEEP is the first 
+value chain (VC) programme in Malawi to have piloted commercial partnerships, 
+under the  
+public-private-producer partnerships (4Ps) model. 
+1 
+EB 2019/128/R.25/Rev.1 
+8. 
+The Transforming Agriculture through Diversification and Entrepreneurship 
+Programme (TRADE) builds on RLEEP’s results and responds to the 2017-2022 
+Malawi Growth and Development Strategy and the Government's priority areas as 
+set out in the National Agriculture Policy (NAP) and the National Agriculture 
+Investment Plan (NAIP). TRADE also contributes to strategic objective 2 (SO2) and 
+SO3 of IFAD’s Strategic Framework 2016-2025. 
+B.  Lessons learned 
+9. 
+TRADE builds on lessons from previous IFAD programmes in Malawi, the 2017 
+country programme evaluation of the Independent Office of Evaluation and its 
+2019 evaluation synthesis on “Inclusive Financial Services for the Rural Poor”.  
+10.  The country programme evaluation's recommendations were that future IFAD 
+investments should: (i) diagnose the capacity of national and local government 
+institutions; (ii) support and build on collective institutions for beneficiaries; 
+(iii) enhance the resilience and climate change adaptability of smallholders’ farming 
+systems; and (iv) have a marketing development focus. TRADE has incorporated 
+these recommendations, with its focus on strengthening farmers’ organizations, 
+agribusiness development and supporting smallholder farmers to enhance their 
+productivity, while addressing climate change. 
+11.  Access to financial services. RLEEP supported the establishment of 637 village 
+savings and loan associations (VSLAs), linking formal financial institutions and 
+savings and credit cooperatives. VSLAs increased smallholders’ access to finance, 
+through direct access to loans or through financial institutions. TRADE will 
+strengthen access to finance through VSLAs and financial institutions. 
+12.  Farm business schools (FBSs). Under RLEEP, 20,974 lead farmers graduated 
+from FBSs. These have been a useful tool for transforming participants’ mindsets 
+from subsistence farming to agribusiness. TRADE will thus scale up and strengthen 
+the FBS curriculum to equip smallholder producers and non-farmer actors with 
+business skills.  
+13.  The agricultural commercialization grants allowed RLEEP to reach 37,500 
+households, against its target of 24,000. Good results were achieved due to robust 
+intervention systems, competitive selection processes and stringent performance 
+evaluation of grant recipients. These lessons are reflected in the design of TRADE’s 
+Agricultural Commercialization and Innovation Fund (ACIF).  
+II.  Programme description 
+A.  Programme objectives, geographic area of intervention and 
+target groups 
+14.  TRADE focuses on promoting climate-smart agriculture and nutrition 
+mainstreaming in all programme activities, in line with SO1 of the 2016-2022 
+country strategic opportunities programme (COSOP): “smallholder households 
+become resilient to natural shocks and enhance food and nutrition security”. It also 
+responds to the COSOP’s SO2: “smallholder households access remunerative 
+markets and services” by focusing on commercial value chains. 
+15.  Programme objectives. TRADE’s overall goal is to contribute to improving the 
+sustainable livelihoods of rural people in Malawi. The programme’s development 
+objective is increased VC commercialization and the resilience of rural poor and 
+smallholder producers. This objective will be achieved by supporting: climate-smart 
+interventions; access to commodity markets; access to improved rural financial 
+services, market and business development services; and enhanced private sector 
+partnerships.  
+2 
+EB 2019/128/R.25/Rev.1 
+16.  Geographic areas of intervention. TRADE will initially cover 11 districts1 and 
+seven commodities (groundnuts, soybean, sunflower, Irish potato, dairy, beef and 
+honey). The aim is to optimize RLEEP’s impact and consolidate and scale up 
+successes and good practices in the 11 districts, while bringing in additional 
+commodities, which may lead to expansion to new districts. 
+17.  Targeting and target groups. TRADE is expected to reach about 300,000 
+households (1.32 million people), of which 127,000 households will be direct 
+beneficiaries and 173,000 households will benefit indirectly from access to roads 
+and employment opportunities. It will target very poor households, women and 
+youth. TRADE will focus on rural households, with the potential to improve their 
+participation in the commercialization of selected commodities, and to graduate 
+from poverty. TRADE will target at least 55 per cent women and 50 per cent youth. 
+TRADE’s targeting strategy is focused on nutritionally vulnerable people. 
+B.  Components/outcomes and activities 
+18.  The programme will have three components:  
+(i)  Component 1 – sustainable producer-private partnerships. The 
+objective is to support smallholder farmers organized in producer 
+organizations/groups to improve their productivity and market linkages, in 
+partnerships with small and medium-sized enterprises, in the form of 4Ps or 
+similar partnerships.  
+(ii)  Component 2 – enabling environment for smallholder 
+commercialization. The objective is to improve the enabling environment 
+for commercial agriculture, including policies, regulatory framework and 
+infrastructure development.  
+(iii)  Component 3 – institutional support, programme management and 
+coordination. The aim is to strengthen the capacity of smallholder farmers 
+to participate in commercial relationships, by developing an ecosystem of 
+services, creating inclusive and equitable arrangements.  
+C.  Theory of change 
+19.  TRADE’s theory of change is based on the hypothesis that by increasing the 
+integration and participation of smallholder producers in commercially profitable 
+VCs and enhancing their resilience to climate change, combined with improving 
+nutrition outcomes, the programme will sustainably improve rural people’s 
+livelihoods. This will be achieved through the following outcomes: (i) increased 
+sales and revenue for smallholder producers, increased productivity and quality of 
+products and adoption of climate-smart agriculture technologies/practices; (ii) a 
+conducive environment created for the commercialization of smallholder 
+agriculture; and (iii) an enhanced institutional performance and knowledge base for 
+VC programming.  
+D.  Alignment, ownership, and partnerships 
+20.  Alignment. TRADE is aligned with: Sustainable Development Goal (SDG) 1 and 
+SDG 2, through its overall goal of improving the sustainable rural livelihoods ; SDG 
+5 and SDG 8, by promoting gender equality and youth inclusion; SDG 13, by 
+strengthening environmental sustainability and the climate resilience of selected 
+VCs and infrastructure; and SDG 17, by supporting 4Ps. 
+21.  Alignment with IFAD policies is also ensured with regard to mainstreaming gender, 
+youth and climate, including through IFAD’s Gender Action Plan 2019-2025 and 
+contribution to the IFAD Rural Youth Action Plan 2019-2021. 
+1 Mchinji, Ntchisi, Dedza, Blantyre, Kasungu, Nkhata Bay, Rumphi, Karonga, Lilongwe, Thyolo and Chitipa. 
+3 
+EB 2019/128/R.25/Rev.1 
+22.  Country ownership and alignment with national priorities. TRADE will 
+contribute to Malawi’s NAP (2016-2020) and NAIP (2018-2023), its Vision 2020 
+and the Malawi Growth and Development Strategy 2017-2022. The NAP targets 
+profitable commercial farming through specialization of smallholder farm 
+production, output diversification and value addition in downstream VCs to which 
+TRADE is aligned.  
+23.  Partnerships. Partnership opportunities include the World Food Programme’s 
+“Food Assistance for Assets” and “Purchase for Progress” and its goat VC 
+programmes, which focus on youth and women. Synergies will also be built, in 
+component 1, with the African Development Bank-financed Climate Adaptation for 
+Rural Livelihoods and Agriculture and the United Nations Development 
+Programme’s Malawi Innovation Challenge Fund. 
+E.  Costs, benefits and financing 
+Programme costs 
+24.  Total programme costs, including price and physical contingencies, duties and 
+taxes are estimated at US$125.4 million for a six-year implementation period. The 
+cost breakdown by component is as follows: component 1 – US$60.2 million; 
+component 2 – US$53.4 million; and component 3 – US$11.8 million.  
+25.  Subcomponents 1.2 and 2.2 are partially counted as climate change adaptation 
+finance. The total amount of IFAD climate finance for TRADE is preliminarily 
+calculated as US$14.8 million, representing 21 per cent of IFAD programme costs. 
+26.  A summary breakdown of programme costs, by component and financier, is 
+presented below. 
+Table 1 
+Programme costs by component and subcomponent and financier 
+(Thousands of United States dollars) 
+IFAD loan 
+IFAD grant 
+OFID Loan  Private sector  Beneficiaries  Government 
+Total 
+Amount  %  Amount  %  Amount  %  Amount  %  Amount  %  Amount  %  Amount 
+% 
+1. Sustainable producer-private partnerships 
+1.1. Sustainable intensification 
+and value chain 
+commercialization 
+1.2. Capacity development of 
+farmers and farmer-based 
+organizations 
+18 596  43.6 
+6 878  16.1 
+10 770  61.4 
+3 983  22.7 
+Subtotal 
+29 366  48.8  10 861  18.1 
+2. Enabling environment for smallholder commercialization 
+2.1. Enabling environment for 
+commercial agriculture 
+1 794  61.0 
+664  22.5 
+- 
+- 
+- 
+- 
+- 
+2.2. Enabling infrastructure 
+12 232  24.3 
+4 524  9.0  20 013  39.7 
+Subtotal 
+14 026  26.3 
+5 188  9.7  20 013  37.5 
+3. Institutional support, programme management and coordination 
+3.1. Capacity-building and 
+value chain governance 
+3.2. Programme management 
+and knowledge management 
+Subtotal 
+Total 
+2 096  61.0 
+775  22.5 
+5 620  67.1 
+2 079  24.8 
+7 716  65.3 
+2 854  24.2 
+- 
+- 
+- 
+- 
+- 
+- 
+-  11 665  27.4 
+4 005  9.4 
+1 477  3.5  42 620  34.0 
+- 
+- 
+- 
+- 
+- 
+2 795  15.9  17 547  14.0 
+-  11 665  19.4 
+4 005  6.7 
+4 271  7.1  60 167  48.0 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+486  16.5 
+2 944 
+2.3 
+4 337  8.6 
+9 328  18.5  50 433  40.2 
+4 337  8.1 
+9 813  18.4  53 377  42.6 
+- 
+- 
+- 
+- 
+- 
+- 
+567  16.5 
+3 438 
+2.7 
+677  8.1 
+8 376 
+6.7 
+1 245  10.5  11 814 
+9.4 
+51 108  40.8  18 903  15.1  20 013  16.0  11 665  9.3 
+8 341  6.7  15 329  12.2  125 358  100.0 
+4 
+Table 2 
+Programme costs by expenditure category and financier 
+(Thousands of United States dollars) 
+IFAD loan 
+IFAD grant 
+OFID loan 
+Private sector 
+Beneficiaries 
+Government 
+Total 
+Amount 
+%  Amount 
+%  Amount 
+%  Amount 
+%  Amount 
+%  Amount  %  Amount 
+% 
+I. Investment costs 
+A. Funds 
+B. Works 
+C. Consulting services 
+D. Studies 
+E. Training 
+F. Equipment and materials 
+G. Workshops 
+H. Meetings 
+I. Vehicles 
+J. Technical assistance 
+Total investment costs 
+II. Recurrent costs 
+A. Travel costs 
+B. Operation and maintenance 
+C. Salaries 
+D. Allowances and benefits 
+E. Office & general expenses 
+5
+Total recurrent costs 
+Total 
+14 617 
+11 827 
+116 
+2 025 
+5 322 
+643 
+831 
+448 
+880 
+8 645 
+45 355 
+403 
+691 
+4 033 
+527 
+99 
+5 752 
+51 108 
+43.8 
+25.1 
+61.0 
+61.0 
+61.0 
+41.6 
+61.0 
+61.0 
+61.0 
+45.4 
+38.8 
+61.0 
+61.0 
+68.9 
+73.0 
+61.0 
+67.4 
+40.8 
+5 406 
+4 374 
+43 
+749 
+1 969 
+238 
+307 
+166 
+326 
+3 198 
+16 775 
+149 
+256 
+1 492 
+195 
+37 
+2 128 
+18 903 
+16.2 
+9.3 
+22.5 
+22.5 
+22.5 
+15.4 
+22.5 
+22.5 
+22.5 
+16.8 
+14.4 
+22.5 
+22.5 
+25.5 
+27.0 
+22.5 
+24.9 
+15.1 
+- 
+18 285 
+- 
+- 
+- 
+371 
+- 
+- 
+- 
+1 356 
+20 013 
+- 
+- 
+- 
+- 
+- 
+- 
+20 013 
+- 
+38.8 
+- 
+- 
+- 
+24.0 
+- 
+- 
+- 
+7.1 
+17.1 
+- 
+- 
+- 
+- 
+- 
+- 
+16.0 
+9 344 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+2 321 
+11 665 
+- 
+- 
+- 
+- 
+- 
+- 
+11 665 
+28.0 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+12.2 
+10.0 
+- 
+- 
+- 
+- 
+- 
+- 
+9.3 
+4 005 
+4 072 
+- 
+- 
+- 
+37 
+- 
+- 
+- 
+228 
+8 341 
+- 
+- 
+- 
+- 
+- 
+- 
+8 341 
+12.0 
+8.6 
+- 
+- 
+- 
+2.4 
+- 
+- 
+- 
+1.2 
+7.1 
+- 
+- 
+- 
+- 
+- 
+- 
+6.7 
+Table 3 
+Programme costs by component and subcomponent, by programme year 
+(Thousands of United States dollars) 
+2020 
+2021 
+2022 
+2023 
+  Amount  %  Amount 
+%  Amount 
+%  Amount 
+- 
+- 
+8 518  18.1 
+31  16.5 
+548  16.5 
+1 441  16.5 
+256  16.5 
+225  16.5 
+121  16.5 
+238  16.5 
+3 295  17.3 
+33 372 
+47 077 
+191 
+3 322 
+8 732 
+1 544 
+1 363 
+736 
+1 444 
+19 043 
+14 674  12.6  116 823 
+26.6 
+37.6 
+0.2 
+2.7 
+7.0 
+1.2 
+1.1 
+0.6 
+1.2 
+15.2 
+93.2 
+109  16.5 
+187  16.5 
+333  5.7 
+- 
+27  16.5 
+655  7.7 
+0.5 
+0.9 
+4.7 
+0.6 
+0.1 
+6.8 
+15 329  12.2  125 358  100.0 
+662 
+1 134 
+5 857 
+721 
+162 
+8 535 
+0 
+2024 
+Total 
+%  Amount  %  Amount  %  Amount 
+2025 
+1. Sustainable producer-private partnerships 
+1.1. Sustainable intensification and value chain commercialization 
+1.2. Capacity development of farmers and farmer-based organizations 
+Subtotal 
+2. Enabling environment for smallholder commercialization 
+2.1. Enabling environment for commercial agriculture 
+2.2. Enabling infrastructure 
+Subtotal 
+3. Institutional support and programme management and coordination 
+3.1. Capacity-building and value chain governance 
+3.2. Programme management and knowledge management 
+Subtotal 
+Total 
+501  1.2 
+2 384  13.6 
+2 885  4.8 
+762 
+3 362 
+4 124 
+1.8  10 581 
+3 744 
+19.2 
+24.8  10 522 
+3 441 
+21.3 
+24.6  10 633  24.9 
+2 729  15.6 
+19.3 
+9 620  22.6  42 620 
+1 888  10.8  17 547 
+6.9  14 324 
+23.8  13 964 
+23.2  13 362  22.2  11 508  19.1  60 167 
+505  17.2 
+3 373  6.7 
+3 878  7.3 
+847 
+7 018 
+7 865 
+28.8 
+13.9 
+14.7 
+747 
+8 175 
+25.3 
+618 
+16.2  11 892 
+21.0 
+206  7.0 
+23.6  11 073  22.0 
+20  0.7 
+2 944 
+8 902  17.7  50 433 
+8 922 
+16.7  12 510 
+23.4  11 279  21.1 
+8 923  16.7  53 377 
+857 
+440  12.8 
+1 352 
+1 904  22.7 
+2 344  19.8 
+2 210 
+9 107  7.4  14 199 
+738 
+24.9 
+1 336 
+16.1 
+18.7 
+2 075 
+11.5  25 321 
+466 
+21.5 
+1 427 
+16.0 
+17.6 
+1 892 
+20.2  28 366 
+393  11.4 
+1 307  15.6 
+1 700  14.4 
+3 438 
+544  15.8 
+13.6 
+1 049  12.5 
+8 376 
+17.0 
+16.0 
+1 593  13.5  11 814 
+22.6  26 341  21.0  22 024  17.5  125 358 
+E
+B
+2
+0
+1
+9
+/
+1
+2
+8
+/
+R
+.
+2
+5
+/
+R
+e
+v
+.
+1
+EB 2019/128/R.25/Rev.1 
+Project financing and cofinancing strategy and plan 
+27.  TRADE will be financed by: an IFAD loan (US$51.1 million, on highly concessional 
+terms); an IFAD grant (US$18.9 million); the Government of Malawi 
+(US$15.3 million); an OPEC Fund for International Development (OFID) loan of 
+US$20.0 million; the private sector (US$11.7 million); and programme 
+beneficiaries (US$8.3 million). 
+Disbursement 
+28.  The programme management unit (PMU) will manage TRADE special accounts (in 
+United States dollars) for external financing, and will prepare all disbursement 
+requests and justifications. Local currency accounts will be maintained at 
+commercial banks and will be subject to Credit Ceiling Authority arrangements. 
+Counterpart funding will finance the government portion of expenditure in cash and 
+in respect to taxes and duties. 
+Summary of benefits and economic analysis 
+29.  TRADE is expected to reach 1.32 million people. The programme will initially 
+support investments in the groundnuts, soybean, sunflower, dairy, red meat, Irish 
+potato and honey VCs. The programme may later support the cassava, red 
+sorghum and goat VCs, and provide some support to the legume VCs, covered 
+under the recently closed RLEEP.  
+30.  Programme profitability indicators. TRADE’s overall economic internal rate of 
+return (EIRR) is estimated at 18.9 per cent. The economic net present value 
+(ENPV) is 62.4 billion Malawian kwacha (US$84.4 million). As the ENPV is positive 
+and EIRR is above the social discount rate (SDR), the project is deemed 
+economically viable and acceptable for investment. 
+31.  Sensitivity analysis. The sensitivity analysis assessed the robustness of proposed 
+interventions. The proxies analysed were: reduction of programme benefits; 
+increase in programme costs; and delays in the accrual of programme benefits by 
+one and two years. The results show that a reduction of programme benefits of up 
+to 20 per cent does not jeopardize TRADE’s economic viability. However, were 
+benefits to be reduced by 30 per cent, the EIRR of the project would fall below the 
+SDR, and net present value would fall below zero, rendering programme 
+interventions no longer worthy of investment. An increase of programme costs of a 
+maximum of 30 per cent would not seriously jeopardize TRADE, as its ENPV would 
+remain positive and its EIRR would continue well above the SDR. Finally, a delay in 
+accrual of programme benefits of two years would not compromise TRADE’s 
+economic profitability.  
+Exit strategy and sustainability 
+32.  Exit strategy mechanisms are largely embedded in the design of each of TRADE's 
+(sub)components, as follows:  
+(i) 
+Sustained outcomes, through establishment of commercial partnerships – 
+such as the market-led producer-private partnerships – are likely to continue 
+to exist and provide benefits to both private sector and smallholder 
+producers. District-level commodity platforms will continue to foster 
+relationships between farmers, private businesses and local government. 
+Interventions to strengthen resilience to environmental conditions and 
+climate change will support viable VCs.  
+(ii) 
+In terms of policies, advanced trade and export policies and stakeholder 
+dialogue – through national VC platforms – will enable a positive impact in 
+commercialization. A regulatory framework for supply contracts will enhance 
+trust between VC actors and ultimately safeguard programme investments.  
+6 
+EB 2019/128/R.25/Rev.1 
+(iii)  Institutional capacity will be built for implementing and monitoring VC 
+development activities, which is critical for the continuity of technical support 
+to beneficiaries and partnerships upon programme completion. 
+III.  Risks 
+A.  Programme risks and mitigation measures 
+33.  At country level, the following risks have been identified that could potentially 
+impact smooth start-up, implementation and achievement of intended development 
+objectives and long-term impacts. 
+Table 4 
+Risks and mitigation measures  
+Risks 
+Risk rating 
+Mitigation measures 
+Political/ 
+governance 
+Medium 
+Submission of programme for Executive Board approval in December 2019, 
+several months after local elections. 
+Macroeconomic 
+Medium 
+Community-based implementation and mobilization of cofinancing to address 
+potential exchange rate deterioration and inflation. 
+Sector strategies 
+and policies 
+Low 
+IFAD engagement in several donor committees, such as the Donor Committee on 
+Agriculture and Food Security, and the Development Partners for Social 
+Protection coordination group. 
+Institutional 
+capacity 
+Medium 
+Portfolio 
+Medium 
+Fiduciary 
+Financial 
+management 
+Medium 
+Procurement 
+High 
+Environment 
+and climate  
+Social 
+High 
+High 
+Other specific 
+risks 
+Medium 
+Overall 
+Medium 
+TRADE will support capacity-building and will equip districts with resources. It will 
+also tap into the available pool of service providers who participated in RLEEP's 
+Agricultural Commercialization Fund and those trained by other development 
+partners. 
+Implementation of the Sustainable Agricultural Production Programme is 
+satisfactory; the Financial Access for Rural Markets, Smallholders and Enterprise 
+Programme and the Programme for Rural Irrigation Development are moderately 
+satisfactory. IFAD supervision improves the performance and participation of 
+programmes in in-country policy dialogue. 
+TRADE’s financial management arrangements incorporate several measures to 
+reduce financial management risks to acceptable levels. In particular, payments 
+for interventions implemented by decentralized government staff will be 
+centralized at the PMU. A grant manager will be appointed to coordinate and 
+manage all TRADE contracts with grant recipients, based on a grant manual. 
+Development of standard bidding documents; training of the Ministry of Local 
+Government and Rural Development’s procurement officer; ensure that the 
+procurement officer and the Ministry’s Internal Procurement Committee are part of 
+the annual workplan and budget (AWP/B) process. 
+Investment in climate-smart technologies; training to increase smallholder and 
+public/private sector capacities to adapt to climate change effects. 
+Climate change fact sheets for VCs to provide climate change adaptation options 
+that will complement the Environmental and Social Management Plan (ESMP). 
+Mapping of VC interventions and potential partnerships; transparent management 
+of project activities, especially procurement activities and grant administration; 
+due diligence for grant recipients. 
+B.  Environment and social category 
+34.  Environment and social sustainability and climate resilience. Intensification 
+and expansion of VCs comes with environmental, social and climate risks. The risks 
+have been analysed within the framework of the Social Environment and Climate 
+Assessment Procedures (SECAP) review note, and mitigation measures have been 
+identified and mainstreamed into design. An Environmental and Social 
+Management Framework (ESMF) has been developed and relevant environmental 
+and social impact assessments (ESIAs) will be undertaken during implementation 
+for selected infrastructure investments, in compliance with both national and 
+SECAP requirements. 
+35.  The programme is classified as category A. Potential negative impacts will be  
+site-specific, and adequate mitigation measures and opportunities are identified 
+7 
+EB 2019/128/R.25/Rev.1 
+within the SECAP review note, the draft ESMP and the ESMF. Particular attention is 
+given to promotion of greener technologies, together with good environmental and 
+social management practices along all VC segments from pre-production to  
+post-harvest solutions. A number of features aimed at addressing social and 
+environmental opportunities in each VC are foreseen in subcomponent 1.2. 
+C.  Climate risk classification 
+36.  The climate risk category is high. Climate projections indicate an increase in 
+drought, exacerbating ongoing degradation processes and resulting in increased 
+erosion, as well as changes in pasture and feed availability for livestock. Malawi is 
+highly exposed and vulnerable to climate change, with the intended programme 
+outcomes having a high risk of being negatively affected by climate change. 
+Primary risks relate to increasing temperatures and more erratic rainfall, leading to 
+changes in pasture and feed availability for livestock. The increasing occurrence of 
+extreme events poses an erosion risk to productive lands and public infrastructure, 
+with prolonged dry spells adversely affecting productivity.  
+37.  A basic climate risk analysis is provided within the SECAP review note to inform the 
+programme on best mitigation measures, including measures to reduce greenhouse 
+gas emissions in the dairy and beef VCs. Climate factsheets for each VC will be 
+drawn up under the Adaptation for Smallholder Agriculture Programme. 
+D.  Debt sustainability  
+38.  Malawi’s external debt is assessed to be at moderate risk of distress, with some 
+absorption space. Fiscal discipline should be strengthened to avoid accumulation of 
+domestic debt at high interest rates. To enhance resilience, efforts should be made 
+to further diversify the economy, broaden the revenue base and strengthen public 
+financial management.2 
+IV.  Implementation 
+A.  Organizational framework 
+Programme management and coordination 
+39.  The lead implementing agency for TRADE is the Ministry of Local Government and 
+Rural Development, which will work closely with a wide range of stakeholders from 
+public institutions and the private sector to commodity platforms, commodity up-
+takers and other institutions supporting agribusiness in Malawi.  
+40.  Programme oversight will be provided by a programme steering committee 
+comprising both public and private sector members, chaired by the Ministry’s 
+permanent secretary. The programme steering committee's multisectoral 
+composition will ensure harmonization and integration of support in government 
+programmes and ensure its contribution to the Government’s strategic priorities 
+and sectoral development objectives. 
+41. 
+Implementation and coordination of the programme will be undertaken by the 
+PMU, headed by a national programme coordinator reporting to the Ministry’s 
+permanent secretary. The PMU will be granted authority to undertake all financial 
+and procurement management activities, lead and supervise programme 
+implementation, and provide specialist technical inputs. The PMU staff will be 
+recruited competitively under performance-based contracts. Its recruitment and 
+contracting will require IFAD approval. The programme will ensure that activities at 
+district level are fully owned by the district councils. 
+2 International Development Association and the International Monetary Fund. Malawi: Joint Debt Sustainability Analysis 
+– 2018 Update. 
+8 
+EB 2019/128/R.25/Rev.1 
+Financial management, procurement and governance  
+42.  Financial management. The Ministry of Local Government and Rural 
+Development has prior experience in the implementation of IFAD-funded 
+programmes, including RLEEP. IFAD will provide comprehensive training to the 
+finance team in the PMU on IFAD’s financial management requirements and 
+disbursement procedures, as well as providing coaching during supervision 
+missions.  
+43.  Budgeting. The programme will be implemented based on approved AWP/Bs. The 
+budgeting process will be undertaken jointly between the PMU, participating 
+programme partners and implementing agencies.  
+44.  Internal controls. At programme level, internal controls will be established to 
+ensure that programme resources are utilized for their intended purposes and are 
+reaching the intended beneficiaries. Procedures and record maintenance at all 
+levels will be documented in the programme implementation manual and 
+consistently applied. The programme implementation manual also includes specific 
+provisions regulating set-up of internal controls, effective monitoring and review of 
+transactions, accounting software requirements, and all other financial 
+management practices, with guidance notes.  
+45.  Accounting and reporting. The PMU will be the financial management and 
+reporting hub, responsible for posting, reconciling and reporting on programme 
+finances. Accounting of TRADE will be done through an off-the-shelf computerized 
+accounting software package, to be customized to generate financial reports for 
+government and IFAD. The programme will use cash basis of accounting standards. 
+46.  Internal audit. As part of the Ministry of Local Government and Rural 
+Development, the PMU will be subject to its internal audit procedures. In the event 
+that the department is unable to include TRADE in its annual internal audit 
+programme, TRADE may contract a private internal audit firm to provide more 
+specific support for internal review of controls, proposed improvements and 
+issuance of recommendations. 
+47.  External audit. TRADE will be audited by the National Audit Office and subject to 
+compliance with the audit submission deadlines, so as to avoid potential sanctions, 
+including the suspension of disbursements. In accordance with IFAD’s financial 
+reporting and audit requirements, TRADE will prepare and submit annual financial 
+statements to IFAD, audited by the National Audit Office, together with the 
+auditor’s opinion and management letter, no later than six months following 
+financial year-end.  
+48.  Procurement. Procurement of goods and services to be financed from the loan will 
+be subject to Government of Malawi procedures. A procurement specialist will be 
+recruited to support the PMU and the Ministry of Local Government and Rural 
+Development, and to advise on the conformity of government procedures with 
+IFAD procurement guidelines. 
+B.  Planning, monitoring and evaluation, learning, knowledge 
+management and communications 
+49.  Planning. The results-based AWP/B will guide programme implementation, 
+including in defining programme activities and outputs (linked to the logical 
+framework), defining funding requirements and setting targets. The previous year’s 
+performance and challenges will guide development of the AWP/B for the 
+subsequent year. The annual planning and implementation cycle will be aligned 
+with the Government’s planning cycle. 
+50.  The PMU will be responsible for the preparation of AWP/Bs, in collaboration with VC 
+specialists, field coordinators and district councils. Planning at district and 
+9 
+EB 2019/128/R.25/Rev.1 
+community levels will be through participatory processes engaging farmer-based 
+organizations and beneficiaries, thus including disadvantaged groups. 
+51.  Monitoring and evaluation (M&E). TRADE’s M&E system will be guided by the 
+theory of change and logical framework. The system will support data collection, 
+collation and analysis at different levels, enabling programme managers to identify 
+implementation bottlenecks, make informed decisions and take timely corrective 
+actions to improve programme performance. An M&E plan will be developed during 
+start-up to define concepts, roles and responsibilities. The indicator targets values 
+– estimated at design, based on the economic and financial analysis and RLEEP 
+results – will be confirmed during the start-up phase, based on baseline survey 
+results. M&E functions will be supported by a management information system. An 
+information and communications technology-based system will be developed to 
+ensure real-time access to information in areas where internet access is unreliable. 
+A geographical information system will be integrated. Beneficiaries will be able to 
+provide feedback through an SMS (text messaging) platform. 
+52.  Reporting. Field coordinators will prepare monthly reports based on the 
+information collected. Quarterly reports will be prepared by service providers. 
+Reporting on key programme indicators and disaggregation by sex and age will be 
+required and clearly set out in the service providers’ contracts. The PMU will 
+prepare biannual and annual reports capturing physical progress (outputs and 
+outcomes), as well as expenditure against budget. 
+Innovation and scaling up 
+53.  TRADE’s activities aim at the commercialization of the selected VCs, piloting 
+partnership opportunities to evaluate their effectiveness and profitability before 
+scaling up. The ACIF will give priority to investments by VC actors that will bring 
+innovations to VC development and create sustainable market linkages for 
+smallholder producers. Once these innovations prove profitable in specific VCs, 
+extension planning areas and districts, they will be replicated in other areas. 
+Likewise, the successful VC development and innovations implemented under 
+RLEEP will be scaled up by TRADE to other extension planning areas and districts. 
+C.  Implementation plans 
+Implementation readiness and start-up plans 
+54.  To enhance implementation readiness, implementation in the initial 11 districts in 
+year 1 and 2 will be built on the existing VC gap analysis performed upon closure 
+of RLEEP.  
+55.  SECAP compliance. Due to the scope of roads rehabilitation, the programme has 
+been assigned environmental and social category “A”, calling for preparation and 
+dissemination of an ESMF, identifying potential risks and mitigation measures and 
+specifying selection criteria for the siting of subprojects. The ESMF also provides 
+the relevant guidance to the PMU for site-specific ESMPs/ESIAs, in compliance with 
+IFAD’s SECAP requirements. 
+Supervision, midterm review and completion plans 
+56.  The project will be directly supervised by IFAD. 
+57.  TRADE shall conduct an end-of-programme evaluation to assess its impact on the 
+targeted beneficiaries. This will provide valuable information in preparing the 
+programme completion report and lessons for future programming. 
+V.  Legal instruments and authority 
+58.  A programme financing agreement between the Republic of Malawi and IFAD will 
+constitute the legal instrument for extending the proposed financing to the 
+borrower/recipient. A copy of the negotiated financing agreement is attached as 
+appendix I.  
+10 
+EB 2019/128/R.25/Rev.1 
+59.  The Republic of Malawi is empowered under its laws to receive financing from 
+IFAD. 
+60. 
+I am satisfied that the proposed financing will comply with the Agreement 
+Establishing IFAD and the Policies and Criteria for IFAD Financing. 
+VI.  Recommendation 
+61. 
+I recommend that the Executive Board approve the proposed financing in terms of 
+the following resolution:  
+RESOLVED: that the Fund shall provide a loan on highly concessional terms 
+to the Republic of Malawi in an amount of thirty seven million fifty thousand 
+special drawing rights (SDR 37,050,000) and upon such terms and conditions 
+as shall be substantially in accordance with the terms and conditions 
+presented herein. 
+RESOLVED FURTHER: that the Fund shall provide a Debt Sustainability 
+Framework grant to the Republic of Malawi in an amount of thirteen million 
+seven hundred thousand special drawing rights (SDR 13,700,000) and upon 
+such terms and conditions as shall be substantially in accordance with the 
+terms and conditions presented herein. 
+Gilbert F. Houngbo 
+President 
+11 
+Appendix I 
+EB 2019/128/R.25/Rev.1 
+Negotiated financing agreement: "Transforming 
+Agriculture through Diversification and Entrepreneurship 
+Programme" 
+(Negotiations concluded on 26 November 2019) 
+__________ 
+IFAD Loan No:    
+IFAD DSF Grant No:   __________ 
+Programme name: Transforming Agriculture through Diversification and Entrepreneurship 
+(TRADE) (“the Programme”) 
+The Republic of Malawi (the “Borrower/Recipient”) 
+and 
+The International Fund for Agricultural Development (the “Fund” or “IFAD”) 
+(each a “Party” and both of them collectively the “Parties”) 
+WHEREAS the Borrower/Recipient has requested a loan and a grant from the Fund for the 
+purpose of financing the Programme described in Schedule 1 to this Agreement;  
+WHEREAS,  the  Programme  shall  be  co-financed  by  the  OPEC  Fund  for  International 
+Development;  
+WHEREAS, the Fund has agreed to provide financing for the Programme; 
+NOW THEREFORE, the Parties hereby agree as follows: 
+Section A 
+1. 
+The  following  documents  collectively  form  this  Agreement:  this  document,  the 
+Programme  Description  and  Implementation  Arrangements  (Schedule  1),  the  Allocation 
+Table (Schedule 2) and the Special Covenants (Schedule 3). 
+2. 
+The Fund’s General Conditions for Agricultural Development Financing dated 29 April 
+2009,  amended  as  of  December  2018,  and  as  may  be  amended  hereafter  from  time  to 
+time (the “General Conditions”) are annexed to this Agreement, and all provisions thereof 
+shall apply to this Agreement. For the purposes of this Agreement the terms defined in the 
+General  Conditions  shall  have  the  meanings  set  forth  therein,  unless  the  Parties  shall 
+otherwise agree in this Agreement. 
+The Fund shall provide a Loan and Grant (the “Financing”) to the Borrower/Recipient, 
+3. 
+which the Borrower/Recipient shall use to implement the Programme in accordance with 
+the terms and conditions of this Agreement. 
+Section B 
+1. 
+A. 
+The amount of the Loan is thirty seven million fifty thousand Special Drawing 
+Rights (SDR 37 050 000). 
+B.   The amount of the Grant is thirteen million seven hundred thousand Special 
+Drawing Rights (SDR 13 700 000). 
+1 
+Appendix I 
+EB 2019/128/R.25/Rev.1 
+2.  The  Loan is granted  on highly concessional terms and  shall be free  of interest but 
+shall  bear  a  fixed  service  charge  of  three  fourths  of  one  percent  (0.75%)  per  annum 
+payable semi-annually in the Loan Service Payment Currency and shall have a maturity 
+period of forty (40) years, including a grace period of ten (10) years starting from the 
+date of approval of the Loan by the Fund’s Executive Board.  
+3. 
+The Loan Service Payment Currency shall be in United States dollars. 
+4. 
+The first day of the applicable Fiscal Year shall be 1st July. 
+5. 
+Principal and service charge shall be payable on each 1st May and 1st November. 
+6. 
+There  shall  be  one  Designated  Account  (DA)  in  USD,  for  the  exclusive  use  of  the 
+Programme  opened in the Reserve Bank  of Malawi managed by the  Ministry of Finance, 
+Economic Planning and Development of the Borrower/Recipient. Corresponding operating 
+accounts in Malawian Kwacha (MWK) will be opened in commercial banks. 
+7. 
+The Borrower/Recipient shall provide counterpart financing for the Programme in the 
+amount of approximately fifteen million three hundred thirty thousand United States dollars 
+(USD 15 330 000)  equivalent.  These  funds  will  finance  the  Borrower/Recipient  cash 
+contribution, and taxes and duties.  
+Section C 
+1. 
+The  Lead  Programme  Agency  shall  be  the  Ministry  of  Local  Government  and  Rural 
+Development (MLGRD) under the overall leadership of the Secretary for Local Government 
+and Rural Development supported by the Directorate of Rural Development. 
+2. 
+The Additional Programme Parties are described in Schedule 1 paragraph 9.  
+3. 
+A Mid-Term Review will be conducted as specified in Section 8.03 (b) and (c) of the 
+General Conditions; however, the Parties may agree on a different date for the Mid-Term 
+Review of the duly implementation of the Programme. 
+The Programme Completion Date shall be the sixth (6th) anniversary of the date of 
+4. 
+entry into force of this Agreement and the Financing Closing Date shall be six (6) months 
+later, or such other date as the Fund in consultation the Borrower/Recipient may designate 
+by notice to the Borrower/Recipient. 
+5. 
+Procurement of goods, works and services financed by the Financing shall be carried 
+out in accordance with the Borrower/Recipient’s procurement procedures as per the Public 
+Procurement  and  Disposal  of  Assets  Act  Number  27,  2017,  to  the  extent  of  their 
+consistency  with  IFAD  Procurement  Guidelines  and  Procurement  Handbook.  The  Malawi 
+Government Public Procurement Regulations of 2004 shall be applicable up until the new 
+Regulations compliant with the new Public Procurement Act and Disposal of Assets go into 
+effect. TRADE shall employ the Desk Instructions for Public Procurement as published by 
+the Public Procurement and Disposal Authority (PPDA) as part of its operational manuals 
+on procurement.  
+6.  MLGRD  will  procure  an  independent  third  party  to  supervise  works  under  the 
+Programme. 
+2 
+Appendix I 
+Section D 
+EB 2019/128/R.25/Rev.1 
+The Fund will administer the Loan and Grant and the Fund and the Borrower/Recipient 
+1. 
+jointly supervise the Programme. 
+Section E 
+The  following  are  designated  as  additional  general  conditions  precedent  to 
+1. 
+withdrawal: 
+(a)  Key Programme staff positions shall have been filled by personnel acceptable 
+to  IFAD  in  accordance  with  Section  II  paragraph  8  of  Schedule  1  to  this 
+Agreement;  
+(b)  The  Borrower/Recipient  shall  have  established  a  Programme  Steering 
+Committee (PSC) as referred to under section II paragraph 7 of Schedule 1 to 
+this Agreement; and 
+(c)  The IFAD No Objection to the Programme Implementation Manual (PIM) shall 
+have been obtained; 
+2. 
+The following are designated as additional grounds for suspension of this Agreement: 
+(a)  The  Programme  Implementation  Manual  (PIM)  or  any  provision  thereof,  has 
+been waived, suspended, terminated, amended or modified without the prior 
+agreement  of  the  Fund  and  the  Fund,  after  consultation  with  the 
+Borrower/Recipient, has determined that this waiver, suspension, termination, 
+amendment  or  modification  has  had,  or  is  likely  to  have,  a  material  adverse 
+effect on the Programme; and 
+(b)  The Programme Management Unit (PMU) staff has been appointed, transferred 
+or  removed  from  the  Programme  without  the  prior  consent  of  the  Fund  as 
+referred to Schedule 1. 
+3. 
+In accordance with the Borrower/Recipient's Public Finance Management Act 2003, 
+the Financing Agreement will be signed by the Minister responsible for Finance and which 
+will be followed by the ratification by the Parliament of the Borrower/Recipient. 
+The following are the designated representatives and addresses to be used for any 
+4. 
+communication related to this Agreement: 
+For the Borrower/Recipient: 
+Minister of Finance, Economic Planning and Development 
+Ministry of Finance, Economic Planning and Development 
+P.O. Box 30049 
+Capital Hill 
+Lilongwe  3 
+Malawi  
+For the Fund: 
+The President 
+International Fund for Agricultural Development 
+Via Paolo di Dono 44 
+00142 Rome, Italy 
+3 
+Appendix I 
+EB 2019/128/R.25/Rev.1 
+This  Agreement,  [dated  _____],  has  been  prepared  in  the  English  language  in  two  (2) 
+original copies, one (1) for the Fund and one (1) for the Borrower/Recipient and shall enter 
+into force upon its signature of both Parties on the date of countersignature. 
+REPUBLIC OF MALAWI 
+____________________  
+Authorised Representative name 
+Authorised Representative title 
+Date: ____________ 
+INTERNATIONAL FUND FOR 
+AGRICULTURAL DEVELOPMENT  
+___________________ 
+Gilbert F. Houngbo  
+President 
+Date: ______________ 
+4 
+Appendix I 
+EB 2019/128/R.25/Rev.1 
+Schedule 1 
+Programme Description and Implementation Arrangements 
+I. 
+Programme Description 
+1.   Goal.  The  goal  of  the  Programme  is  is  to  improve  sustainable  livelihoods  of  rural 
+people in Malawi. 
+2.  Objectives. The development objective is “Increased value chain commercialisation and 
+resilience  of  rural  poor  and  smallholder  producers”.  The  development  objective  will  be 
+achieved  through  a  holistic  approach  to  addressing  the  agriculture  commercialisation 
+challenge.  TRADE  will  seek  to:  (i)  increase  production  and  productivity  by  smallholder 
+farmers, (ii) functionally upgrade smallholder farmers and the rural poor to undertake new 
+functions  such  as  processing,  storage,  packaging  to  capture  more  value,  (iii)  improving 
+horizontal linkages by strengthening the capacities of cooperatives to provide market access 
+functions to smallholder farmers, and (iv) improve vertical linkages between stakeholders at 
+different functional levels of the commodity chain, including private sector. TRADE will also 
+support  rural  entrepreneurs,  focusing  on  youths  and  women  to  develop  and  sustain  their 
+agribusiness enterprise opportunities and ensuring that commodities are nutrition sensitive.  
+3. 
+Components.  TRADE  will  be  implemented  through  three  inter-linked  components: 
+(1) Sustainable  producer–private  partnerships;  (2)  Enabling  environment  for  smallholder 
+commercialisation (3) Institutional support and Programme management and coordination.  
+Component 1: Sustainable Producer-Private Partnerships. The objective of this component 
+is  to  support  smallholder  farmers  to  improve  productivity  and  commercialisation,  and  to 
+strengthen private sector engagement in the target commodities. The component foresees 
+significant  efforts  to  strengthen  smallholder  farmers'  productive  capacity  to  be  able  to 
+participate in the commercialization of targeted commodities. Through this component state 
+and on-state service providers will be contracted to strengthen producer organizations and 
+farmer groups and develop smallholders’ skills to run farming as business. The Agricultural 
+Commercialization Innovation Fund (ACIF) will be set up to support viable investments to 
+enhance  productivity  and  strengthen  commercial  activities  through  4P  or  similar 
+arrangements.  In  this  regard  ACIF  will  finance  business  plans  of  producer  organizations. 
+TRADE  support  in  this  component  will  be  through  two  sub-components:  (i) Sustainable 
+intensification and commercialization; and (ii) Capacity development of farmers and Farmer 
+Based Organizations (FBOs).  
+Component  2:  Enabling  Environment  for  Smallholder  Commercialization.  This  component 
+seeks  to  improve  commercial  environment  for  TRADE  supported  commodities.  It  is 
+comprised  of  two  sub-components:  (i) Enabling  environment  for  commercial  agriculture 
+which  will  focus  on  three  activities:  (a)  support  to  commodity  platforms  to  improve  their 
+skills  in  negotiation,  policy  lobbying  and  advocacy  (b)  legal  and  regulatory  support  to 
+strengthen  commercial  partnerships  between  smallholders  and  private  sector,  and 
+(c) market  information  and  market  intelligence;  and  (ii)  construction  and  rehabilitation  of 
+basic, need-based public infrastructure essential for promotion of commercial agriculture for 
+the TRADE supported commodities.  
+Component  3:  Institutional  Support  and  Programme  management.  The  objective  of  this 
+component is to strengthen the capacity of smallholder farmers to participate in commercial 
+relationships under component 1 by developing an eco-system of services that will create 
+inclusive and equitable arrangements. This will be achieved through two sub-components: 
+(i) Capacity  building  and  value  chain  governance;  and  (ii)  Programme  management  and 
+knowledge management. Activities include: (a) capacity building for public sector and non-
+state actors; and (b) programme management and knowledge management. 
+5 
+Appendix I 
+EB 2019/128/R.25/Rev.1 
+Target  Population. TRADE is  expected to  reach a total of  about 300,000 households 
+4. 
+(approximately  1.3  million  people),  of  which  about  127,000  households  will  be  direct 
+beneficiaries of TRADE support. About 173,000 households will benefit indirectly from access 
+road  construction  and  employment  opportunities  generated  by  commercial  activities  and 
+infrastructure construction. The programme will focus on rural households with potential to 
+improve their participation in the commercialisation of selected commodities and graduate 
+from  poverty.  TRADE  will  target  at  least  55%  women  and  50%  youth  between  18  and 
+35 years.  
+Programme area. TRADE  will initially cover  eleven (11) districts during the  first and 
+5. 
+second year of implementation, building on the achievements of RLEEP Project. The aim is 
+to optimize RLEEP’s impacts, consolidate and scale up successes and good practices in the 
+eleven districts while bringing in additional commodities, which  may lead to  expansion to 
+additional districts. The interventions for the seven (7) commodities will be based on the gap 
+analysis  conducted  at  completion  of  RLEEP  which  identified  critical  gaps  to  realization  of 
+optimum impacts and sustainability of RLEEP investments. The selection of new commodities 
+in the third year will be guided by domestic and export market opportunities and potential 
+for  commercial  partnerships  between  smallholder  producers  and  private  sector.  The  new 
+districts  will  be  selected  based  on  the  following  criteria:  (i)  concentration  of  households 
+engaged in production of selected commodities; (ii) potential for reaching critical mass of 
+ultra-poor  and  transient  poor  smallholders  in  the  respective  commodity;  (iii)  social  and 
+demographic  trends,  including  poverty  levels;  (iv)  suitability  of  the  particular  production 
+systems  and  local  conditions,  labour  availability,  and  (v)  connectivity  to  market  and 
+existence of commercial partners. The scope of expansion will be determined by available 
+financial resources, implementation capacity and programme timeframe of six (6) years.  
+II. 
+Implementation Arrangements 
+6.  
+Lead Programme Agency. The lead implementing agency for TRADE is MLGRD. 
+7.   Programme  Steering  Committee.  The  Programme  oversight  will  be  provided  by  a 
+Programme  Steering  Committee  (PSC)  comprising  both  the  public  and  private  sector, 
+chaired by the Secretary for Local Government and Rural Development. Members of PSC 
+will be the (1) Secretary for Local Government and Rural Development; (2) Secretary to 
+the  Treasury;  (3)  Secretary  for  Agriculture,  Irrigation  and  Water  Development; 
+(4) Secretary for Industry, Trade and Tourism; (5) Secretary for Youth, Sports and Culture; 
+(6)  Secretary  for  Gender,  Children,  Disability  and  Social  Welfare;  (7)  Secretary  for 
+Transport and Infrastructure; (8) Malawi Bureau of Standards; (9) Civil Society Agriculture 
+Network  (CISANET);  (10)  Malawi  Union  of  Savings  and  and  Credit  (MUSSCO); 
+(11) National Smallholder Farmers Association of Malawi. The PSC will be supported by a 
+Technical Committee of which membership will be drawn from the technical professionals 
+from  institutions  that  form  the  PSC.  The  structure,  operational  modalities  and  Terms  of 
+Reference for the Technical Committee will be defined in the ACIF manual to be approved 
+by IFAD. 
+8.   Programme Management Unit. The day-to-day implementation and coordination of 
+the  programme  will  be  undertaken  by  a  dedicated  Programme  Management  Unit  (PMU) 
+headed by a National Programme Coordinator (NPC) reporting to the Secretary for Local 
+Government and Rural Development. The PMU will be granted authority to undertake all 
+financial  and  procurement  management  activities,  lead  and  supervise  programme 
+implementation  and  provide  specialist  technical  inputs.  The  recruitment  and  contract 
+renewal of key PMU staff will require prior consent from IFAD. Key PMU staff includes the 
+NPC, Finance Manager, and Procurement Manager. 
+9.  
+Implementing partners. MLGRD will work closely with a wide range of stakeholders 
+from public institutions and the private sector, such as Ministry of Agriculture, Irrigation 
+6 
+Appendix I 
+EB 2019/128/R.25/Rev.1 
+and  Water  Development  (MoAIWD);  Ministry  of  Industry,  Trade  and  Tourism  (MITT); 
+Ministry of Gender, Children and Community Development; Ministry of Information, Civic 
+Education  and  Technology;  Ministry  of  Gender,  Children,  Disability  and  Social  Welfare; 
+Ministry  of  Transport  and  Public  Infrastructure;  Ministry  of  Youth,  Sports  and  Culture; 
+Ministry of Finance, Economic Planning and Development; Farmers Union of Malawi; Malawi 
+Investment  and  Trade  Centre;  Malawi  Bureau  of  Standards;  CISANET;  commodity 
+platforms, commodity up takers and other institutions supporting agri-business in Malawi. 
+10.   ACIF Review Committee. A committee of experienced experts in agribusiness will bet 
+set up to review the proposals or business plans for ACIF (matching grants) eligibility. The 
+structure, operational modalities and ToRs for the committee will be defined in the ACIF 
+manual to be approved by IFAD 
+11.   Monitoring and Evaluation (M&E). M&E: The Programme Monitoring and Evaluation 
+(M&E)  system  will  support  data  collection,  collation  and  data  analysis  at  different  levels 
+This  will  allow  programme  managers  to  identify  implementation  bottlenecks,  make 
+informed decisions and take timely corrective actions to improve programme performance. 
+An M&E plan will be developed during the start-up workshop to define M&E concepts, roles 
+and responsibilities.  
+12.   Knowledge  Management  (KM).  The  Programme  will  support  KM  interventions  to 
+improve generation of knowledge/innovations, sharing and learning. The Programme will 
+develop  a  knowledge  management  and  communication  strategy  to  outline  systems, 
+processes  and  responsibilities  to  ensure  that  the  Programme  will  generate,  capture, 
+analyse,  document,  package  and  disseminate  knowledge  and  lessons  learnt  through 
+various KM activities. 
+13.   Programme  Implementation  Manual.  The  Programme  shall  be  implemented  in 
+accordance  with  the  approved  Annual  Work  Plan  and  Budget  (AWPB),  and  Procurement 
+Plan and the PIM, the terms of which shall be adopted subject to the Fund's prior approval. 
+The  PIM  shall  include,  among  other  things:  (i)  terms  of  reference,  implementation 
+responsibilities  and  appointment  modalities  of  all  Programme  staff  and  consultants; 
+(ii) Programme operating manuals and procedures; (iii) monitoring and evaluation systems 
+and  procedures;  (iv)  a  detailed  description  of  implementation  arrangements  for  each 
+Programme component; (v) modalities for the selection of service providers to be based 
+on  transparent  and  competitive  processes;  (vi)  financial  management  and  reporting 
+arrangements  including  accounting,  approval  of  payments,  financial  reporting,  internal 
+controls, fixed asset management, as well as internal and external audit; and (vii) the good 
+governance and anti-corruption framework. 
+7 
+Appendix I 
+EB 2019/128/R.25/Rev.1 
+Schedule 2 
+Allocation Table 
+Allocation of IFAD Loan and DSF Grant Proceeds. (a) The Table below sets forth the 
+1. 
+Categories of Eligible Expenditures to be financed by the IFAD Loan and the DSF Grant and 
+the  allocation  of  the  amounts  to  each  category  of  the  Financing  and  the  percentages  of 
+expenditures for items to be financed in each Category: 
+Category 
+IFAD Loan Amount 
+Allocated 
+(expressed  
+in SDR) 
+IFAD DSF Grant 
+Amount 
+Allocated 
+(expressed 
+in SDR)  
+1.   Works 
+7 700 000 
+2 900 000 
+2.   Equipment and 
+Materials 
+1 000 000 
+400 000 
+3.   Consultancies 
+7 900 000 
+2 900 000 
+4.   Training 
+3 500 000 
+1 300 000 
+5.   Credit, Guarantee 
+Funds 
+6.   Salaries and 
+Allowances 
+9 500 000 
+3 500 000 
+3 700 000 
+1 400 000 
+Unallocated 
+3 750 000 
+1 300 000  
+TOTAL 
+37 050 000 
+13 700 000 
+Percentage  
+100% net of OFID, 
+Beneficiaries and 
+Government Contribution 
+100% net of OFID, 
+Beneficiaries and 
+Government Contribution 
+100% net of Government 
+and other co-financiers 
+contribution 
+100% net of Government 
+contribution 
+100% net of Private Sector 
+and Beneficiaries 
+contribution 
+100% net of Government 
+contribution 
+(b)  The terms used in the Table above are defined as follows: 
+(i) 
+“Consultancies”  includes  studies,  workshops,  meetings,  technical 
+assistance; 
+(ii) 
+“Equipment and Material” includes vehicles; 
+(iii) 
+“Salaries and Allowances” includes operating expenditures.  
+8 
+Appendix I 
+EB 2019/128/R.25/Rev.1 
+2.  Disbursement arrangements  
+(a)  Retroactive  financing.  As  an  exception  to  section  4.08(a)  (ii)  of  the  General 
+Conditions, specific eligible expenditures incurred as of 1st November 2019 until 
+the date of entry into force of this Agreement shall be considered eligible up to 
+an  amount  equivalent  to  two  hundred  thousand  United  States  dollars 
+(USD 200 000)  for  activities  relating  the  selection  and  contracting  of  a 
+specialized agency to facilitate the recruitment of TRADE key staff. Activities to 
+be  financed  by  retroactive  financing  and  their  respective  category  of 
+expenditures and source of financing will require prior no objection from IFAD 
+to be considered eligible. Pre-financed eligible expenditures shall be reimbursed 
+to the Borrower once additional conditions precedent to the first disbursement 
+of funds specified in Section E.1 are fulfilled. 
+9 
+Appendix I 
+EB 2019/128/R.25/Rev.1 
+Schedule 3 
+Special Covenants 
+In  accordance  with  Section  12.01(a)(xxiii)  of  the  General  Conditions,  the  Fund  may 
+suspend, in whole or in part, the right of the Borrower/Recipient to request withdrawals 
+from the Financing Accounts if the Borrower/Recipient has defaulted in the performance of 
+any covenant set forth below, and the Fund has determined that such default has had, or 
+is likely to have, a material adverse effect on the Programme:  
+1.  Within six (6) months of entry into force of the Financing Agreement, the Programme 
+will procure and install a customized accounting software as it is the practice in IFAD 
+on-going  supported  projects,  to  satisfy  International  Accounting  Standards  and 
+IFAD's requirements. 
+2.  Within  six  (6)  months  of  entry  into  force  of  the  Financing  Agreement,  the  Lead 
+Programme  Agency  will  enter  into  Memorandum  of  Understandings  (MoU)  with 
+implementing  partners  that  will  structure  the  collaboration,  define  roles, 
+responsibilities  and  duties  with  regards  to  implementation,  financial  management, 
+accounting and reporting.  
+3. 
+Planning,  Monitoring  and  Evaluation.  The  Borrower/Recipient  shall  ensure  that a 
+Planning, Monitoring and Evaluation (PM&E) system shall be established within twelve 
+(12) months from the date of entry into force of this Agreement. 
+4.   Targeting and Social Inclusion Plan. The Lead Programme Agency shall develop a social 
+inclusion  plan  for  the  Programme  to  ensure  that  gender  concerns  shall  be 
+mainstreamed  in  all  Programme  activities  throughout  the  implementation  period,  in 
+order  to  offer  equal  opportunities  under  the  Programme  to  men,  women,  women 
+headed households, youth and other disadvantaged groups. 
+5. 
+Compliance  with  the  Social  Environmental  and  Climate  Assessment  Procedures 
+(SECAP). The Borrower/Recipient through the Lead Programme Agency shall ensure 
+that the Programme will be implemented in compliance with IFAD's SECAP. 
+in 
+strict 
+conformity  with 
+6.   Environment and Social Safeguards. The Borrower/Recipient shall ensure that: (a) all 
+the 
+implemented 
+Programme  activities  are 
+Borrower/Recipient’s  relevant  laws/regulations;  (b) all  Programme  activities  give 
+special consideration to the participation and practices of ethnic minority population 
+in  compliance  with  IFAD’s  Policy  on  Indigenous  Peoples  (2009),  as  appropriate; 
+(c) proposals for civil works include confirmation that no involuntary land acquisition 
+or resettlement is required under the Programme. In the event of unforeseen land 
+acquisition 
+the 
+Borrower/Recipient  shall  immediately  inform  the  Fund  and  prepare  the  necessary 
+planning documents; (d) women and men shall be paid equal remuneration for work 
+of equal value under the Programme; (e) recourse to child labour is not made under 
+the Programme; (f) the measures included in the Targeting and Social Inclusion Plan 
+prepared  for  the  Programme  are  undertaken,  and  the  resources  needed  for  their 
+implementation are made available, in a timely manner; and (g) all necessary and 
+appropriate measures to implement the Targeting and Social Inclusion Plan to ensure 
+that  women  can  participate  and  benefit  equitably  under  the  Programme  are  duly 
+taken. 
+resettlement 
+Programme, 
+involuntary 
+under 
+the 
+or 
+7.   Anticorruption  Measures.  The  Borrower/Recipient  shall comply  with  IFAD  Policy  on 
+Preventing  Fraud  and  Corruption  in  its  Activities  and  Operations  and  the  Corrupt 
+Practises Act of the Borrower/Recipient. 
+10 
+Appendix I 
+EB 2019/128/R.25/Rev.1 
+8. 
+Sexual Harassment, Sexual Exploitation and Abuse. The Borrower/Recipient and the 
+Programme Parties shall ensure that the Programme is carried out in accordance with 
+the  provisions  of  the  IFAD  Policy  on  Preventing  and  Responding  to  Sexual 
+Harassment, Sexual Exploitation and Abuse, as may be amended from time to time.  
+11 
+Logical framework3 
+Results Hierarchy 
+Indicators 
+Outreach 
+Project Goal  
+Improved sustainable livelihoods of rural 
+people in Malawi 
+Development Objective  
+Increased value chain commercialisation 
+and resilience of rural poor and 
+smallholders producers 
+Mid-Term 
+Name 
+Project End Target 
+Baseline 
+1Persons receiving services promoted or supported by the project (by gender, age) 
+Total 
+1a Number of households (HHs) reached5 
+Households 
+1b Estimated corresponding total 
+number of households members 
+Households members  
+Number of women reporting improved quality of their diets - COSOP 6 
+Number of women  
+Percentage of participating households with increase properties and assets  
+1,320,0004 
+1,320,000 
+100,0007 
+300,000 
+Source  
+Project records 
+Means of Verification 
+Frequency  
+Annually 
+Responsibility  
+PMU 
+Assumptions 
+Project records (based on the 
+average of 4.4 members per 
+HHs census 2018) 
+Baseline, mid & end line 
+survey  
+PMU 
+Baseline, mid-
+term and 
+completion  
+Economic and political stability; 
+Partnership created will continues after 
+programme closure 
+% household  
+Average increase in production of targeted commodities 
+% increase 
+80% 
+96.57%8 
+Baseline, mid & end line 
+survey 
+PMU 
+Baseline, mid-
+term and 
+completion 
+Smallholders producers income level increase, derived from targeted commodities 
+% increase 
+Percentage of women reporting improved empowerment index at project level 
+Percentage of women 
+79,88%9 
+70% 
+1
+2
+Component 1: Sustainable Producer-Private Partnerships 
+Outcome 1  Smallholder producers 
+increased access to market 
+Number of small holder producers with improved access to markets (by gender, age) 
+No. small holders producers  
+Pro- Women’s Empowerment in Agriculture Index 
+Number 
+100,00010 
+0 
+Output 1.1 Win-win partnerships between 
+smallholder producers and public and 
+private entities supported 
+Output 1.2 Strengthened business skills 
+of smallholder producers to engage in 
+commercial agriculture 
+Number of formal partnerships/agreements or contracts with public or private entities 
+No. of agreements  
+25 
+50 
+Data from service 
+providers/Project records  
+Number of persons trained in income-generating activities or business management (CI 
+2.1.211) COSOP (by gender, age) 
+Total 
+93,000 
+0 
+Data from service 
+providers/Project records 
+Yearly/Mid-term  PMU 
+Pro-WEAI assessments 
+Outcome surveys  
+Baseline and 
+completion  
+PMU 
+PMU 
+Yearly/Mid-term 
+and completion 
+Baseline, mid- 
+term, 
+completion 
+Yearly/Mid-term  PMU 
+Availability and interest of service providers 
+with experience in VC and facilitating market 
+linkages;  
+Sufficient demand of the products for the 
+selected VCs 
+Agribusinesses are willing to engage with 
+smallholder farmers 
+Smallholder farmers willingness to allocate 
+time for training; 
+Existence of FBOs 
+3 Poverty data to be disaggregated by the categorization of the poor by the Malawi National Support Policy 
+4 55% female, 50% youth 
+5 20% women-headed households 
+6 This indicator will contribute to the COSOP indicator “smallholder households reporting decreased incidence of hunger, measured by the number of meals per day”. The survey will be 
+complemented by questions on food items consumed following the Minimum Dietary Diversity for Women questionnaire and on the number of meals per day 
+7 About 80% of total households targeted (including RLEEP HHs) 
+8 Average production increase based on EFA Production Analysis (G) Improved production 
+9 Average income increase based on EFA Income Analysis (F) 
+10 55% female, 50% youth 
+11 55% female 50% youth 
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+9
+/
+1
+2
+8
+/
+R
+.
+2
+5
+/
+R
+e
+v
+.
+1
+Results Hierarchy 
+Indicators 
+Output 1.3 Strengthened FBOs skills for 
+collective services and market linkages  
+Output 1.4 Smallholder producers’ and 
+FBOs access to financial services 
+increased 
+Baseline 
+Name 
+Number of rural producers’ organizations supported (CI 2.1.3)12 
+171 
+No. of FBOs13 
+Number of people  and FBOs linked/accessing financial services though FARMSE  
+FBOs 
+Total 
+25% 
+62,000 
+Mid-Term 
+582 
+411 
+Project End Target 
+0 
+Source  
+Data from service 
+providers/Project records 
+Means of Verification 
+Frequency  
+Yearly/Mid-term  PMU 
+Responsibility  
+Data from FARMSE 
+Yearly 
+PMU and 
+FARMSE PMU 
+Outcome 2 Smallholder producers’ 
+increased  productivity and product quality    
+Number of persons/households reporting an increase in production (CI 1.2.4) COSOP 14  Data from service 
+No. of households  
+62,300 15 
+providers/Project records 
+0 
+Yearly/Mid-term  PMU 
+Output 2.1 Strengthened production skills 
+of smallholder producers to engage in 
+commercial agriculture 
+Outcome 3 Smallholder producers’ 
+adoption of climate smart agriculture 
+enhanced 
+Output 3.1 Increased knowledge and 
+access to CSA technologies/practices 
+0 
+Number of persons trained in production practices and/or technologies (CI 1.1.4) crop 
+and livestock COSOP16 
+Total 
+Percentage of households reporting adoption of sustainable and climate resilient 
+technologies and practices (CI 3. 2. 2) 
+% of HHs  
+Number of groups supported to sustainably manage natural resources and climate-
+related risks (CI 3.1.1) COSOP 
+Total No. groups  
+Total members of groups 
+5,00017 
+127,00018 
+89,000  
+70% 
+0 
+0 
+Data from service 
+providers/Project records 
+Yearly/Mid-term  PMU 
+Outcome surveys 
+Mid-term 
+PMU 
+Project Data from service 
+providers/Project records 
+Mid-term 
+PMU 
+Assumptions 
+FARMSE is successful in increasing the 
+outreach of financial service providers in 
+rural areas; Rural financial services access 
+and usage improved through ACIF 
+Smallholder farmers willingness to adopt 
+technologies 
+Programme is able to mainstream 
+commercial Climate change resilience 
+technologies, in part based on SAPP and 
+PRIDE experiences 
+Component 2: Enabling Environment for Smallholder Commercialization   
+Outcome 4 Enabling environment 
+improved for commercialisation of 
+smallholder agriculture 
+Output 4.1 Increased policy Influencing 
+capacity and formal business 
+arrangements 
+Output 4.2 Infrastructure to support VCs 
+development build/rehabilitated 
+1
+3
+Percentage of small holders producers reporting improved agri- business environment19     
+% of HHs 
+75% 
+Number of functioning multi-stakeholder platforms supported (CI policy 2) COSOP 
+Total No. of platforms  
+4 
+3 
+Project records/Routine M&E 
+activities  
+Yearly/Mid-term  PMU 
+Number of market, processing or storage facilities constructed or rehabilitated (CI 2.1.6)  Project records/Routine M&E 
+Total storage  
+0 
+Number of kilometres of roads constructed, rehabilitated or upgraded (CI 2.1.5) 
+0 
+Total Kilometre 
+activities  
+1,000 
+68 
+Yearly/Mid-term  PMU 
+Delivery mechanisms available to ensure 
+capacity of GoM to construct 1000 km of 
+roads and the infrastructure 
+Component 3: Institutional Support and Programme management and coordination 
+Outcome 5 Institutional performance and 
+knowledge management is improved 
+Percentage of government officials and staff reporting increased ability20 in knowledge on 
+VC development  
+0 
+% of government officials and staff 
+Number of government officials and staff trained in value chain development  
+0 
+No. of staff 
+400 
+300 
+Project records/Routine M&E 
+activities  
+Yearly/Mid-term  PMU 
+Project records/Routine M&E 
+activities  
+Yearly/Mid-term  PMU 
+Local government and support 
+organisations' commitment to sustain value 
+chain development  
+Output 5.1 Strengthened institutional 
+capacity and knowledge mgt. for VC 
+development   
+12 171 total FBOs in RLEEP 
+13 30% women in leadership position, 55% female and 50% youth 
+14 Calculated on the 89000 new HHs beneficiaries and 70% adoption rate based on RLEEP achievements   
+15 80% of new beneficiaries 
+16 55% female and 50% youth 
+17 55% female and 50% youth 
+18 RLEEP 4 VCs beneficiaries + new beneficiaries  
+19 Policies, regulations, MoUs, contracts and market information  
+20 Will be assessed through a questionnaire to staff to check VC development skills increased. 
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+9
+/
+1
+2
+8
+/
+R
+.
+2
+5
+/
+R
+e
+v
+.
+1

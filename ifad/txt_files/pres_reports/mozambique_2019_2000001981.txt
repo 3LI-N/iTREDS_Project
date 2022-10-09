@@ -1,0 +1,1967 @@
+Document: 
+Agenda: 
+Date: 
+Distribution: 
+Original: 
+EB 2019/128/R.26/Rev.1 
+7(d)(ii)(b) 
+11 December 2019 
+Public 
+English 
+E 
+President’s report 
+Proposed loan and Debt Sustainability 
+Framework grant 
+Republic of Mozambique 
+Inclusive Agrifood Value Chain Development 
+Programme 
+Project ID: 2000001981 
+Note to Executive Board representatives 
+Focal points: 
+Technical questions: 
+Dispatch of documentation: 
+Deirdre Mc Grenra 
+Chief 
+Institutional Governance and 
+Member Relations 
+Tel.: +39 06 5459 2374 
+e-mail: gb@ifad.org 
+Sara Mbago-Bhunu 
+Regional Director 
+East and Southern Africa Division 
+Tel.: +39 06 5459 2838 
+e-mail: s.mbago-bhunu@ifad.org 
+Robson Mutandi 
+Country Director 
+Tel.: +27 115171679 
+e-mail: r.mutandi@ifad.org 
+Executive Board — 128th Session 
+Rome, 10-12 December 2019 
+For: Approval 
+EB 2019/128/R.26/Rev.1 
+ii 
+iii 
+iv 
+1 
+1 
+2 
+3 
+3 
+3 
+4 
+4 
+5 
+7 
+7 
+8 
+8 
+9 
+9 
+9 
+10 
+10 
+10 
+11 
+Contents 
+Abbreviations and acronyms 
+Map of the programme area 
+Financing summary 
+I. 
+Context 
+A.  National context and rationale for IFAD involvement 
+B.  Lessons learned 
+II.  Programme description 
+A.  Objectives, geographical area of intervention and target groups 
+B.  Components/outcomes and activities 
+C.  Theory of change 
+D. Alignment, ownership, and partnerships 
+E.  Costs, benefits and financing 
+III.  Risks 
+A.  Risks and mitigation measures 
+B.  Environment and social category 
+C.  Climate risk classification 
+D. Debt sustainability 
+IV.  Implementation 
+A.  Organizational framework 
+B.  Planning, monitoring and evaluation, learning, knowledge 
+management and communication 
+C.  Implementation plans 
+Legal instruments and authority 
+V. 
+VI.  Recommendation 
+Appendices 
+I.  Negotiated financing agreement  
+II.  Logical framework 
+Programme delivery team 
+Regional Director: 
+Country Director: 
+Programme Technical Lead: 
+Financial Management Officer: 
+Climate and Environment Specialist: 
+Legal Officer: 
+Sara Mbago-Bhunu 
+Robson Mutandi 
+Mawira Chitima 
+Caroline Alupo 
+Paxina Chileshe 
+Paul-Edouard Clos 
+i 
+EB 2019/128/R.26/Rev.1 
+Abbreviations and acronyms 
+e-SISTAFE 
+GCF 
+LIA 
+MASA 
+M&E 
+MITADER 
+PROCAVA 
+PROSUL 
+Financial Administration System (Sistema de Administração 
+Financeira do Estado) 
+Green Climate Fund 
+lead implementing agency 
+Ministry of Agriculture and Food Security 
+monitoring and evaluation 
+Ministry of Land, Environment and Rural Development 
+Inclusive Agrifood Value Chain Development Programme 
+Pro-Poor Value Chain Development Project in the Maputo and 
+Limpopo Corridors 
+ii 
+Map of the programme area 
+EB 2019/128/R.26/Rev.1 
+iii 
+EB 2019/128/R.26/Rev.1 
+Financing summary 
+Initiating institution: 
+IFAD 
+Borrower/Recipient: 
+Republic of Mozambique 
+Executing agency: 
+Ministry of Agriculture and Food Security 
+Total programme cost: 
+US$72.5 million 
+Amount of IFAD loan: 
+US$8.4 million 
+Terms of IFAD loan:  
+Highly concessional (maturity period of 40 years, 
+grace period of 10 years and fixed service charge as 
+determined at the date of approval of the financing) 
+Amount of IFAD Debt Sustainability 
+Framework grant: 
+US$33.6 million 
+Cofinancier:  
+Green Climate Fund (GCF) 
+Amount of cofinancing: 
+GCF: US$20.0 million 
+Terms of cofinancing:  
+Grant 
+Contribution of borrower/recipient: 
+US$4.9 million 
+Contribution of beneficiaries: 
+US$5.6 million 
+Amount of IFAD climate finance: 
+US$19.6 million  
+Cooperating institution: 
+IFAD 
+iv 
+EB 2019/128/R.26/Rev.1 
+Recommendation for approval 
+The Executive Board is invited to approve the recommendation contained in 
+paragraph 60. 
+I.  Context 
+A.  National context and rationale for IFAD involvement 
+1. 
+National context 
+The Republic of Mozambique’s landscape bears scars from the 16-year civil war 
+(1977-1992), which left the country and its economy in ruins. Owing to the 
+impressive economic performance from 1993 to 2014, Mozambique’s poverty level 
+fell from 69.7 per cent in 1996 to 46.1 per cent in 2015. Poverty remains higher in 
+rural areas, however, and significant inequalities persist.  
+2.  Mozambique’s total population is estimated at 28.9 million, with 70 per cent living 
+in rural areas. The country has a rapidly growing young population (45 per cent of 
+children were under 14 in 2017). Malnutrition is a concern, with a 43 per cent 
+prevalence of child stunting.  
+3.  Mozambique experienced annual economic growth of over 7 per cent until 2014, 
+sustained largely by public investment in infrastructure. The country’s economic 
+growth has, however, been negatively impacted, mainly by the debt crisis. By 
+2016, debt represented over 90 per cent of Mozambique’s GDP and the country 
+continues to struggle with the debt burden.  
+4.  Mozambique is highly vulnerable to the impact of climate change – it is ranked the 
+third most vulnerable country in Africa, with climate change impacting 58 per cent 
+of the population. This was evidenced in March-May 2019 when the country was hit 
+by tropical cyclones Idai and Kenneth, which destroyed hundreds of thousands of 
+hectares of cropland in central and northern Mozambique. 
+5.  Only 10 per cent of Mozambique’s 36 million hectares of arable land and 2 per cent 
+of its irrigation potential is currently being utilized. There are several national 
+plans/strategies/policies in place that aim to facilitate gains or improvement in 
+smallholder agriculture performance, rural poverty reduction and enhanced food 
+security. The most important one is the National Agricultural Investment Plan. 
+6. 
+Special aspects relating to IFAD’s corporate mainstreaming priorities 
+Climate change. Mozambique is highly vulnerable to extreme weather events. 
+The country’s vulnerability is exacerbated by its limited adaptive capacity, growing 
+population and dependence on the natural resource base. Droughts and floods are 
+common extreme events and pose the highest threat to smallholder farmers’ 
+natural resource base. The Inclusive Agrifood Value Chain Development 
+Programme (PROCAVA) has been designed and will be implemented in compliance 
+with IFAD’s Climate Change Strategy; Environment and Natural Resources 
+Management Policy; and Social, Environmental and Climate Assessment 
+Procedures.  
+7.  Gender and Social Inclusion. Mozambique’s Gender Development Index of 
+0.904 is low. Women have lower literacy levels and female heads of household are 
+more likely to have no formal education. PROCAVA is aligned with IFAD’s Policy on 
+Gender Equality and Women’s Empowerment and its Gender Action Plan  
+2019-2025. 
+8. 
+Youth. While the youth labour force is increasing by almost 40 per cent per annum, 
+the rate at which new formal sector jobs are being created remains static. 
+PROCAVA will address rural youth issues, in line with IFAD’s Rural Youth Action 
+Plan 2019-2021. 
+1 
+EB 2019/128/R.26/Rev.1 
+9.  Nutrition. Mozambique continues to depend on food imports to satisfy a large 
+portion of its domestic needs, particularly for edible oils and staple food crops. In 
+2017, food imports accounted for 29 per cent of the country’s import bill. From a 
+nutrition perspective, PROCAVA is aligned with the Mainstreaming Nutrition in IFAD 
+Action Plan 2019-2025.  
+10. 
+In line with Eleventh Replenishment of IFAD’s Resources (IFAD11) mainstreaming 
+commitments, the programme has been classified as:  
+☒ Climate-focused; 
+☒ Youth-sensitive. 
+Rationale for IFAD involvement 
+11.  Mozambique’s demand for agricultural products is expanding, but current 
+production is inadequate to meet prevailing demand levels. Measures are thus 
+required to replace widespread unsustainable land management and agricultural 
+practices with climate-resilient land management and agricultural production 
+systems. The IFAD-funded Pro-Poor Value Chain Development Project in the 
+Maputo and Limpopo Corridors (PROSUL) already initiated this process in selected 
+districts in the southern region, wherein there have been achievements in 
+developing select value chains and promoting good agricultural and livestock 
+practices. These successful interventions will be scaled up in the PROCAVA target 
+areas. With new agricultural technologies, there is also need to prepare rural areas 
+for more off-farm entrepreneurship. Hence, PROCAVA will build locally based value-
+adding into the target value chains, using appropriate climate-smart and 
+environmentally sustainable technologies and practices.  
+B.  Lessons learned 
+12.  A number of relevant lessons have been learned either from IFAD’s country 
+portfolio of ongoing and completed projects or from the Government’s and other 
+development partners’ interventions. PROCAVA’s design is also informed by lessons 
+and recommendations from the Independent Office of Evaluation of IFAD.1 A 
+summary of selected lessons is provided below. 
+13.  Participatory approach. A participatory design process is considered to be 
+important for ensuring ownership of the programme by the beneficiary 
+stakeholders from the very beginning. For PROCAVA, the Ministry of Agriculture 
+and Food Security (MASA) ensured a comprehensive consultative process that 
+involved various stakeholders at local, district and provincial levels. 
+14.  Economic infrastructure. Economic infrastructure developed within a value chain 
+programme should address bottlenecks that have been identified as limiting along 
+the value chain. For PROCAVA, the target economic infrastructure should be 
+established in a timely manner. 
+15.  Nutrition education. Experience from the nutrition promotion component of the 
+IFAD/European Union-funded Millennium Development Goal 1.C (MDG1c) 
+programme demonstrated that nutrition education as a stand-alone activity has 
+limited impact, since improving nutrition requires multisectoral action. Under 
+PROCAVA, nutrition-related interventions will address issues related to awareness, 
+access, availability and affordability of nutrient-rich foods. 
+16.  Capacity-building for target group. Implementation experience has 
+demonstrated that it is beneficial for capacity-building and training activities for 
+household groups to be conducted within communities in order to encourage 
+participation. 
+17.  Capacity-building for project staff and lead implementing agency (LIA). 
+PROSUL faced challenges in recruitment of adequate staff, interpretation of 
+important documents, preparation of a bottom-up annual work plan and budget, 
+1See the Mozambique Country Strategy and Programme Evaluation (CSPE), February 2017. 
+2 
+EB 2019/128/R.26/Rev.1 
+and appropriate procurement processes. A well-structured introductory training 
+programme will be developed and given to the PROCAVA management and LIA 
+staff. 
+18.  Use of private sector service providers. PROSUL’s experience with the use of 
+private sector service providers yielded both positive and negative results. Some of 
+the positives included: (i) provision of expertise that is lacking or not readily 
+available in the public sector and (ii) more time available to project management 
+and the LIA to focus on overseeing project implementation and guidance.  
+19.  Monitoring and evaluation (M&E) system. An effective M&E function requires a 
+simple but practical M&E system and the provision of training to all concerned 
+stakeholders. This experience has been taken into account in planning for 
+PROCAVA monitoring and evaluation. 
+20.  Enabling environment for agricultural commercialization. Implementation of 
+the Smallholder Agribusiness Promotion Programme in Zambia demonstrated that 
+promotion of agriculture commercialization without an enabling environment leads 
+to limited achievement of desired outcomes. 
+II.  Programme description 
+A.  Objectives, geographical area of intervention and target 
+groups 
+21.  Programme goal and objective. PROCAVA, with a financing approach of five 
+years, will be implemented within a 10-year programmatic framework to provide 
+the necessary instruments to attract other development partners to work with IFAD 
+as and when they are ready. This approach will also provide potential cofinanciers 
+with an opportunity to pick geographical areas for their focus or investment. The 
+programme’s goal is to contribute to poverty reduction, improved food and 
+nutrition security and resilient livelihoods for inclusive rural transformation. The 
+development objective is to increase net incomes from climate-resilient agrifood 
+value chains for rural women, men and youth. The programme will target the 
+following value chains: (i) selected horticulture commodities under irrigation; 
+(ii) red meat (cattle and goats); (iii) poultry; (iv) cassava; and (v) legumes.  
+22.  Geographical area of intervention. PROCAVA will be implemented in 
+75 districts, selected from all 10 provinces of Mozambique, in two phases over the 
+10-year framework. To enhance effectiveness, value chains will be prioritized in 
+those provinces where they have a clear comparative advantage. Activity 
+implementation will follow a phased approach. 
+23.  Target groups. PROCAVA will target a total of 180,500 households 
+(902,500 beneficiaries); 50 per cent of that target number will be women and 
+30 per cent youth. The quotas for women and youth are based on national 
+demographics and poverty lines for those two categories of population and on 
+lessons learned from PROSUL. 
+24. 
+In order to reach the intended beneficiaries and guard against elite capture, 
+PROCAVA will use selected targeting mechanisms, including direct targeting and 
+self-targeting, supported by empowering and enabling measures. 
+B.  Components, outcomes and activities 
+25.  The programme will have the following components: 
+ 
+Component 1: Production improvement and market linkages. This 
+component is intended to improve the production and productivity of target 
+crop and livestock commodities. It will improve backward and forward 
+linkages of farmers to different stakeholders in the target value chains. 
+Strengthening climate resilience and enhancing natural resource management 
+and environmental sustainability, through promotion of appropriate 
+3 
+EB 2019/128/R.26/Rev.1 
+ 
+ 
+ 
+technologies and best practices, will also be an integral part of this 
+component.  
+Component 2: Market-related climate-resilient infrastructure. This 
+component aims to ensure that the appropriate infrastructure is in place to 
+support the effectiveness of market-led production interventions and to more 
+efficiently deliver the surplus production to different markets. Planned 
+interventions will focus on addressing constraints faced by relevant actors 
+operating within target value chains. This will include supporting rural 
+infrastructure investments that can add value at the location, upgrade the 
+performance of enterprises and enable associated agricultural producers to 
+become competitive and environmentally and profitably sustainable. 
+Infrastructure will be prioritized according to business plans and linkages 
+along the value chain. 
+Component 3: Institutional and policy strengthening and 
+implementation support. This is a cross-cutting component supporting the 
+technical components and facilitating pathways for the effective functioning of 
+the target value chains. 
+Component 4: Disaster risk reduction and management. This 
+component has been included as mechanism for enabling IFAD to respond 
+urgently in the event of weather-related calamities (droughts, floods or 
+cyclones) in the country. The work under this component is expected to 
+facilitate and expedite the implementation of level-2 project restructuring in 
+the event of an emergency or disaster.  
+26.  There are three expected outcomes: (i) productivity, production and quality of 
+targeted value chains improved – PROCAVA is expected to increase the productivity 
+and production of the five targeted value chains; (ii) market access and 
+performance of targeted value chains improved – the implementation of PROCAVA 
+interventions is expected to link the target beneficiaries’ increased production to 
+different marketing channels and result in improved returns to the beneficiaries; 
+and (iii) institutional capacity to deliver services enhanced. 
+C.  Theory of change 
+27.  PROCAVA’s theory of change envisages a three-pillar approach contributing to the 
+target beneficiaries’ food, nutrition and income security by improving the economic 
+surplus generated by the value chains. The first pillar presents market 
+opportunities for target beneficiaries to engage in more efficient production and 
+processing activities. However, the beneficiaries are faced with a number of 
+constraints at different points along the value chains. These constraints limit the 
+effectiveness of the targeted value chains. The second pillar (de-risking/risk-
+sharing) will seek to address the most constraining factors to enable the target 
+beneficiaries to participate more effectively at different points on the value chain 
+and in a manner that rewards them (returns to investment). While PROCAVA may 
+have the means to directly contribute to addressing some of the limiting factors, 
+other factors will require collaboration with other stakeholders. The third pillar will 
+therefore aim to promote such collaboration. 
+D.  Alignment, ownership, and partnerships 
+28.  PROCAVA will contribute to several of the Sustainable Development Goals linked to 
+IFAD results: SDG1, on poverty; SDG2, on hunger and food; SDG5, on gender 
+inequality; and SDG14, on conservation and sustainable use of aquatic resources.  
+29.  PROCAVA’s design is aligned with national priorities for strengthening the 
+agricultural sector to move towards a commercial orientation, underpinned by the 
+strong involvement of smallholder farmers.  
+30.  PROCAVA’s design and implementation arrangements will contribute to the 
+achievement of the three core objectives of IFAD’s Strategic Framework 2016-
+2025. The programme will also contribute to the fulfilment of key IFAD11 
+4 
+EB 2019/128/R.26/Rev.1 
+commitments: 2.2, increase focus on the poorest and most vulnerable people 
+within each country; 3.3, mainstream the key cross-cutting themes of nutrition, 
+gender, youth and climate; and 3.5, make strategic partnerships for financing, 
+knowledge, advocacy and global influence a cornerstone of IFAD operations. The 
+programme is in compliance with the Social, Environmental and Climate 
+Assessment Procedures approved in 2017. IFAD’s policy to preventing and 
+responding to sexual harassment, sexual exploitation and abuse will be taken into 
+account during implementation. 
+31.  The programme will coordinate, harmonize and establish partnerships with projects 
+financed by IFAD, the Government and various development partners that support 
+PROCAVA-related thematic areas. 
+E.  Costs, benefits and financing 
+32.  Programme component 2 (market-related climate-resilient infrastructure) is 
+partially counted as climate finance. The total amount of IFAD climate finance for 
+this programme is preliminarily calculated as US$19.6 million, representing 
+47 per cent of IFAD’s total investment.  
+Programme costs 
+33.  Total programme costs, including price and physical contingencies, duties and 
+taxes, are estimated at US$72.5 million. Of this amount, US$30.8 million is foreign 
+exchange content and around US$7.2 million relates to duties and taxes. 
+Programme costs by component are as follows: (i) component 1: production 
+improvement and market linkages – US$26.4 million); (ii) component 2: market-
+related climate-resilient infrastructure – US$29.2 million; and (iii) component 3: 
+institutional and policy strengthening and implementation support – 
+US$16.9 million. 
+Table 1 
+Programme costs by component and subcomponent and financier 
+(Thousands of United States dollars) 
+Component/subcomponent 
+A. Production 
+improvement and market 
+linkages 
+1. Production and 
+productivity improvement of 
+selected commodities 
+2. Market linkage 
+investments 
+Subtotal 
+B. Market-related climate-
+resilient infrastructure 
+1. Water-related 
+infrastructure 
+2. Market-led infrastructure 
+Subtotal 
+C. Institutional and policy 
+strengthening and 
+implementation support 
+1. Institutional strengthening 
+and policy support 
+2. Programme coordination 
+and implementation support 
+services 
+Subtotal 
+D. Disaster risk reduction 
+and management 
+Total  
+IFAD grant 
+IFAD loan 
+Amount  %  Amount  %  Amount  % 
+GCF 
+Beneficiaries  Government 
+In-kind  %  Amount  %  Amount 
+Total 
+8 863  42 
+2 235 
+11 
+5 260 
+25 
+3 544  17 
+1 359 
+2 540  50 
+11 402  43 
+633 
+2 868 
+12 
+11 
+1 513 
+6 773 
+30 
+26 
+417 
+8 
+3 961  15 
+- 
+1 359 
+9 353  53 
+5 198  46 
+14 552  50 
+2 330 
+1 295 
+3 624 
+13 
+11 
+12 
+5 574 
+3 098 
+8 672 
+31 
+27 
+30 
+- 
+- 
+1 638  14 
+6 
+1 638 
+539 
+181 
+720 
+6 
+- 
+5 
+3 
+2 
+3 
+21 260 
+5 102 
+26 363 
+17 795 
+11 410 
+29 205 
+1 296  50 
+323 
+12 
+773 
+30 
+- 
+- 
+210 
+8 
+2 602 
+6 354  45 
+7 650  45 
+1 583 
+1 905 
+- 
+- 
+33 604  46 
+- 
+8 398 
+11 
+11 
+- 
+12 
+3 786 
+4 559 
+- 
+20 004 
+27 
+27 
+- 
+28 
+- 
+- 
+- 
+5 599 
+- 
+- 
+- 
+7 
+2 560 
+2 770 
+18 
+16 
+14 282 
+16 884 
+- 
+4 848 
+- 
+7 
+- 
+72 452 
+5 
+EB 2019/128/R.26/Rev.1 
+Table 2 
+Programme costs by expenditure category and financier 
+(Thousands of United States dollars) 
+Expenditure 
+category 
+Equipment and 
+materials 
+Works 
+Consultancies 
+Credit, 
+guarantee 
+funds 
+Training 
+Workshop 
+Salaries and 
+allowances 
+Operating 
+costs 
+Total  
+IFAD grant 
+IFAD loan 
+GCF 
+Beneficiaries 
+Government 
+Total 
+Amount  % 
+Amount  % 
+Amount  % 
+In-kind  % 
+Amount  %  Amount 
+6 976  51 
+12 990  51 
+5 859  47 
+1 765  13 
+3 236  13 
+1 459  12 
+4 135  30 
+7 741  30 
+3 492  28 
+875 
+1 716 
+- 
+226  27 
+1 701  54 
+197  54 
+56 
+7 
+424  14 
+49  14 
+135  16 
+1 013  32 
+117  32 
+417 
+- 
+- 
+6 
+7 
+- 
+50 
+- 
+- 
+44 
+- 
+1 770 
+- 
+14 
+13 795 
+25 683 
+12 580 
+- 
+- 
+- 
+- 
+- 
+- 
+833 
+3 137 
+364 
+5 324  46 
+1 326  11 
+3 173  27 
+- 
+- 
+1 867 
+16 
+11 691 
+331 
+8 
+33 604  46 
+82 
+2 
+8 398  12 
+197 
+5 
+20 004  28 
+2 591 
+5 599 
+59 
+7 
+1 167 
+4 848 
+27 
+7 
+4 369 
+72 452 
+Table 3 
+Programme costs by component and subcomponent and programme year (PY) 
+(Thousands of United States dollars) 
+2020 
+2021 
+2022 
+2023 
+2024 
+Total 
+Amount  %  Amount  %  Amount  %  Amount  %  Amount  %  Amount 
+A. Production 
+improvement and market 
+linkages 
+1. Production and 
+productivity improvement of 
+selected commodities 
+2. Market linkage 
+investments 
+Subtotal 
+B. Market-related climate-
+resilient infrastructure 
+1. Water-related 
+infrastructure 
+2. Market-led infrastructure 
+Subtotal 
+C. Institutional and policy 
+strengthening and 
+implementation support 
+1. Institutional strengthening 
+and policy support 
+2. Programme coordination 
+and implementation support 
+services 
+Subtotal 
+D. Disaster risk reduction 
+and management 
+Total  
+2 707  13 
+5 161 
+24 
+5 076 
+24 
+4 747 
+22 
+3 570 
+17 
+21 260 
+970  19 
+3 677  14 
+1 081 
+6 242 
+21 
+24 
+994 
+6 070 
+19 
+23 
+1 006 
+5 753 
+20 
+22 
+1 051 
+4 620 
+21 
+18 
+5 102 
+26 363 
+1 169 
+399 
+1 568 
+7 
+3 
+5 
+3 953 
+4 004 
+7 957 
+22 
+35 
+27 
+5 127 
+3 950 
+9 077 
+29 
+35 
+31 
+4 642 
+2 534 
+7 176 
+26 
+22 
+25 
+2 904 
+523 
+3 427 
+16 
+5 
+12 
+17 795 
+11 410 
+29 205 
+479  18 
+792 
+30 
+597 
+23 
+403 
+15 
+332 
+13 
+2 602 
+3 343  23 
+3 822  23 
+2 658 
+3 450 
+19 
+20 
+2 762 
+3 359 
+19 
+20 
+2 655 
+3 058 
+19 
+18 
+2 864 
+3 196 
+20 
+19 
+14 282 
+16 884 
+- 
+9 067  13 
+- 
+17 649 
+- 
+18 505 
+- 
+15 987 
+26 
+- 
+11 243 
+- 
+72 452 
+16 
+22 
+24 
+Financing and cofinancing strategy and plan 
+34.  PROCAVA will be financed by an IFAD loan (US$8.4 million) on highly concessional 
+terms and an IFAD grant (US$33.6 million) under IFAD11. The project will also be 
+financed by the Government of Mozambique (US$4.9 million) and project 
+beneficiaries (US$5.6 million). The GCF has also expressed an interest in financing 
+PROCAVA (US$20 million grant). The IFAD financing is provided in United States 
+dollars. The IFAD loan and grant will finance expenses inclusive of taxes. 
+6 
+EB 2019/128/R.26/Rev.1 
+35.  The Government will cover the salaries of its own staff, who will support project 
+implementation on a prorated basis.  
+Disbursement 
+36.  The IFAD financing is envisaged to cover 58 per cent of the total programme costs, 
+of which civil works will account for 39 per cent and equipment and materials for 
+21 per cent. Operating expenses have been calculated at 10 per cent, while 
+salaries will absorb 15.8 per cent of the total funds. Although the use of 
+government systems that meet the minimum standards will be encouraged, 
+PROCAVA will be required to use an accounting package to facilitate reporting in 
+the formats required, an area not yet supported by the government Financial 
+Administration System [Sistema de Administração Financeira do Estado]  
+(e-SISTAFE). A designated account will be opened with the Bank of Mozambique to 
+receive funds, which will flow through e-SISTAFE to the government line ministry 
+and then be allocated to the PMU. At provincial level, funds will be disbursed to the 
+MASA single treasury account for the programme. Start-up funds will flow out of e-
+SISTAFE to get the programme off the ground quickly. All major programme 
+payments will be centralized at the PMU level. The funds will be disbursed to the 
+programme under the imprest account replenishment procedure. 
+Summary of benefits and economic analysis 
+37.  PROCAVA’s overall economic internal rate of return (EIRR) is estimated at 
+16.7 per cent. The economic net present value (ENPV) is 7,372.9 million 
+Mozambican meticals, or US$122.9 million, at a 10 per cent social discount rate. As 
+the ENPV is positive and the EIRR is higher than the social discount rate, PROCAVA 
+is deemed economically viable and acceptable for investment. 
+38.  Financial benefits will be seen in terms of increased farm productivity and 
+increased financial returns to the households targeted by PROCAVA. Social benefits 
+will include a reduction in poverty rates in the targeted PROCAVA areas, with 
+special measures taken to ensure the inclusion of disadvantaged groups. This will 
+be an effect of the increased financial returns to households as a result of 
+participation in the various programme interventions. 
+39.  The sensitivity analysis shows that a reduction of programme benefits of up to 
+20 per cent would not jeopardize PROCAVA’s economic viability. An increase of 
+programme costs of up to 30 per cent would not seriously affect the programme’s 
+economic viability, since the ENPV would remain positive and the EIRR well above 
+the social discount rate. 
+Exit strategy and sustainability 
+40.  PROCAVA implementation is to be completely immersed within the Government’s 
+institutional, strategy and policy framework; this integration will continue to exist 
+after programme completion, and institutional capacity will have been considerably 
+strengthened. In addition, the participatory design process will ensure that 
+PROCAVA responds directly to target beneficiaries’ concerns. This will provide the 
+foundation and necessary commitment for post-PROCAVA continuity. In addition, 
+qualifying stakeholders will be linked to available financing options, including the 
+IFAD-funded Rural Enterprise and Financing Project, to enable them to access 
+different financial products on offer. 
+III.  Risks 
+A.  Programme risks and mitigation measures 
+41.  The following institutional, economic, social and environmental risks and relevant 
+mitigation measures were identified in the PROCAVA design process. 
+7 
+Table 4 
+Risks and mitigation measures  
+Risks 
+Risk rating 
+Mitigation measures 
+EB 2019/128/R.26/Rev.1 
+Political/governance 
+Medium 
+Macroeconomic 
+Medium 
+Sector strategies and policies 
+Low 
+Institutional capacity 
+High 
+Portfolio 
+Fiduciary 
+Financial management 
+Medium 
+Medium 
+Peace deal signed between the Government and the 
+Mozambican National Resistance (RENAMO) in August 
+2019. Presidential, parliamentary and provincial 
+elections should take place in October 2019. 
+Economy is still under stress notably due to high level of 
+public debt. Government is implementing robust 
+measures to ensure economic stabilization, which is 
+already showing positive results. 
+Several existing national strategies and policies aim to 
+facilitate improvement in smallholder agriculture 
+performance, rural poverty reduction and enhanced food 
+security. The most important one is the National 
+Agricultural Investment Plan. 
+A significant portion of the PROCAVA budget is targeted 
+at institutional strengthening. 
+PROCAVA will focus on ensuring effective 
+implementation progress to minimize this risk. 
+  Constant monitoring of the macroeconomic 
+environment to ascertain whether foreign currency 
+rates and devaluation of local currency (inflation) will 
+affect purchasing power and in turn implementation. 
+  A stand-alone accounting package to be procured to 
+ensure timely accounting and financial reporting.  
+  Payments to be centralized through the PMU account 
+for large purchases. 
+Procurement 
+Medium 
+  PROCAVA’s design incorporates careful planning, 
+Environment and climate  
+Social 
+Other risks 
+Risk of extreme weather 
+conditions 
+Underestimation of some 
+investment costs 
+Programme Implementation 
+delays  
+High 
+Low 
+High 
+Medium 
+Medium 
+through its procurement plan. 
+PROCAVA’s climate risk mitigation strategy is guided by 
+its Environmental and Social Management Framework. 
+Extensive stakeholder consultations took place 
+throughout the design of PROCAVA in the targeted ten 
+provinces. 
+  Awareness-raising on weather-indexed insurance 
+policy. 
+Implementation of disaster risk reduction measures. 
+ 
+  Capacity-building in climate risk management and 
+climate vulnerability analysis. 
+  Built-in flexibility to reallocate resources. 
+  Seamless transition between PROSUL and 
+PROCAVA. 
+  Prequalification and registration system for service 
+providers. 
+B.  Environment and social category 
+42.  PROCAVA’s environmental and social categorization is A. PROCAVA will develop 
+and/or rehabilitate irrigation schemes, some of which will be larger than 100 ha per 
+scheme. These schemes are likely to pose a risk of significant and/or adverse 
+environmental and social impacts. Environmental and social impact assessments 
+will therefore be carried out and environmental and social management plans and 
+monitoring plans will be developed to mitigate risks associated with these category 
+A schemes. The rest of the proposed programme interventions are expected to 
+pose medium-level risks to the environment and social system. These risks will be 
+localized, manageable and/or reversible through recommended mitigation 
+measures.  
+C.  Climate risk classification 
+43.  PROCAVA’s climate risk classification is “high”, and a detailed climate risk analysis 
+was therefore carried out, as required. Programme investments will focus on crops 
+8 
+EB 2019/128/R.26/Rev.1 
+and livestock systems that are sensitive to climate change and project measures 
+will be required to reduce vulnerability. 
+D.  Debt sustainability  
+44.  Mozambique’s public debt continues to be at high distress levels, as noted in the 
+International Monetary Fund’s country report of May 2019. The authorities are 
+pursuing a strategy to bring this level down to moderate. The public and publicly 
+guaranteed debt, including domestic debt, amounted to about 110.5 per cent of 
+GDP as of the end of 2018. The exchange rate for imported items could pose 
+potential risks for the programme, but this risk is mitigated by the fact that 
+PROCAVA will be able to maintain and transact for imports in the currency in which 
+it will receive the loan and grant – either United States dollars or Euros. The 
+situation will, however, need to be monitored closely for any local currency 
+inflationary effects on local prices that could affect the level of programme 
+implementation.  
+IV.  Implementation 
+A.  Organizational framework 
+Programme management and coordination 
+45.  MASA will be the lead executing agency and will be responsible for overseeing 
+PROCAVA implementation.  
+46.  A national project management unit (NPMU), based in Maputo, will be established 
+under the direct supervision of FDA’s Director-General. The NPMU will be 
+responsible for PROCAVA’s day-to-day management and supervision under the 
+leadership of a national programme coordinator. Given PROCAVA’s geographical 
+spread, programme management will be organized into sub-units, with 
+responsibilities delegated to regional programme management units and provincial 
+programme management units in order to adequately cover PROCAVA’s target 
+geographical regions. 
+Financial management, procurement and governance  
+47.  Financial Management (FM). Although, given the country context, the project is 
+assessed with a high inherent risk, the anticipated FM risk is deemed to be medium 
+thanks to the mitigation measures to be implemented. FM will be mainstreamed 
+within government systems, as with other, ongoing projects. The assessment 
+undertaken established that these systems have the potential to provide adequate 
+controls and ensure proper management of programme funds; this will be 
+continuously reviewed during implementation. The programme will, however, adopt 
+the use of an off-the-shelf accounting package to mitigate the reporting challenges 
+envisaged with the government system, while at the same time continuous 
+discussions will take place on possible improvements to e-SISTAFE. Project 
+planning and budgeting will be aligned with the government calendar.  
+48.  Audit. PROCAVA will be audited by the Office of the Auditor General of 
+Mozambique. The audit will be conducted in accordance with the International 
+Standards of Supreme Audit Institutions and will be in compliance with the IFAD 
+requirements for project audits.  
+49.  Procurement. The existing legal framework for public procurement in Mozambique 
+is currently governed by decree 5/2016, which establishes the principles and 
+procedures to be applied in any procurement by public authorities and institutions 
+governed by public law, under public control or using public funds. 
+50.  Governance. Programme governance will be led by the national programme 
+steering committee as the programme’s governing body. While primary 
+responsibility for the enforcement of good governance rests with the Government 
+of Mozambique, all project stakeholders will be made aware that IFAD applies a 
+zero-tolerance policy towards fraudulent, corrupt, collusive or coercive actions in 
+IFAD-financed programmes. 
+9 
+EB 2019/128/R.26/Rev.1 
+B.  Planning, monitoring and evaluation, learning, knowledge 
+management and communications 
+51.  PROCAVA’s results-based logical framework will be the foundation for the 
+programme’s M&E system. The NPMU will be responsible for M&E, which will be 
+undertaken at various levels to support effective implementation, maintain the 
+programme’s focus and direction, provide information for addressing constraints 
+and ensuring delivery of outputs and outcomes. PROCAVA’s M&E system will be 
+supported by an online Open Data Kit-based monitoring system, to be developed 
+and installed at the regional and national levels. 
+Innovation and scaling up 
+52.  PROCAVA will demonstrate basic processing and value addition for selected 
+horticulture commodities through the construction of small-scale vegetable 
+packaging houses at selected irrigation schemes. Similarly, PROCAVA will facilitate 
+the setting-up of pen fattening centres for cattle and goats close to abattoirs, and 
+various pen fattening management models will be piloted and scaled up. The 
+programme will also focus on scaling up successful results and technologies 
+developed, tested and proven under PROSUL. 
+C.  Implementation plans 
+Implementation readiness and start-up plans 
+53.  To ensure implementation readiness at start-up, a draft annual work plan and 
+budget, procurement plan and project implementation manual have been prepared 
+as part of the design for PROCAVA. In addition, part of the PROSUL staff will be 
+integrated into PROCAVA’s PMUs, based on satisfactory performance evaluation. 
+Supervision, midterm review and completion plans 
+54.  Supervision. IFAD and the Government will jointly supervise PROCAVA.  
+55.  Midterm review. A joint IFAD-Government midterm review will be undertaken in 
+year three. 
+56.  Programme completion review. A review will be carried out to evaluate 
+relevance, effectiveness, efficiency, impact, sustainability and potential for scaling 
+up PROCAVA. The findings will inform the design of the next phase of programme 
+interventions. 
+V.  Legal instruments and authority 
+57.  A programme financing agreement between the Republic of Mozambique and IFAD 
+will constitute the legal instrument for extending the proposed financing to the 
+borrower/recipient. A copy of the negotiated financing agreement is attached as 
+appendix I.  
+58.  The Republic of Mozambique is empowered under its laws to receive financing from 
+IFAD. 
+59. 
+I am satisfied that the proposed financing will comply with the Agreement 
+Establishing IFAD and the Policies and Criteria for IFAD Financing. 
+10 
+EB 2019/128/R.26/Rev.1 
+VI.  Recommendation 
+60. 
+I recommend that the Executive Board approve the proposed financing in terms of 
+the following resolution:  
+RESOLVED: that the Fund shall provide a loan on highly concessional terms 
+to the Republic of Mozambique in an amount of eight million four hundred 
+thousand United States dollars (US$8,400,000) and upon such terms and 
+conditions as shall be substantially in accordance with the terms and 
+conditions presented herein. 
+RESOLVED FURTHER: that the Fund shall provide a Debt Sustainability 
+Framework grant to the Republic of Mozambique in an amount equivalent to 
+thirty three million six hundred thousand United States dollars 
+(US$ 33,600,000) and upon such terms and conditions as shall be 
+substantially in accordance with the terms and conditions presented herein. 
+Gilbert F. Houngbo 
+President 
+11 
+Appendix I 
+EB 2019/128/R.26/Rev.1 
+Negotiated financing agreement: "Inclusive Agri-food 
+Value-Chain Development Programme (PROCAVA)" 
+(Negotiations concluded on 13 November 2019) 
+Loan No: __________ 
+Grant No: __________ 
+Programme name: Inclusive Agri-food Value-Chain Development Programme (PROCAVA) 
+(the “Programme”) 
+The Republic of Mozambique (The “Borrower/Recipient”) 
+and 
+The International Fund for Agricultural Development (the “Fund” or “IFAD”) 
+(each a “Party” and both of them collectively the “Parties”) 
+WHEREAS the Borrower/Recipient has requested a loan and a grant from the Fund for 
+the purpose of financing the Programme described in Schedule 1 to this Agreement;  
+WHEREAS, the Green Climate Fund (GCF) has expressed interest in co-financing the 
+Programme; 
+WHEREAS, the Fund has agreed to provide financing for the Programme; 
+NOW THEREFORE, the Parties hereby agree as follows: 
+Section A 
+1. 
+The  following  documents  collectively  form  this  Agreement:  this  document,  the 
+Programme  Description  and  Implementation  Arrangements  (Schedule  1),  the  Allocation 
+Table (Schedule 2) and the Special Covenants (Schedule 3). 
+2. 
+The Fund’s General Conditions for Agricultural Development Financing dated 29 April 
+2009,  amended  as  of  December  2018,  and  as  may  be  amended  hereafter  from  time  to 
+time (the “General Conditions”) are annexed to this Agreement, and all provisions thereof 
+shall apply to this Agreement. For the purposes of this Agreement the terms defined in the 
+General  Conditions  shall  have  the  meanings  set  forth  therein,  unless  the  Parties  shall 
+otherwise agree in this Agreement. 
+The Fund shall provide a Loan and Grant (the “Financing”) to the Borrower/Recipient, 
+3. 
+which the Borrower/Recipient shall use to implement the  Programme in accordance with 
+the terms and conditions of this Agreement. 
+1 
+Appendix I 
+Section B 
+EB 2019/128/R.26/Rev.1 
+1. 
+A. 
+The amount of the loan is eight million four hundred thousand United States 
+dollars (USD 8 400 000). 
+B.   The amount of the Debt Sustainability Framework (DSF) grant is thirty three 
+million six hundred thousand United States dollars (USD 33 600 000). 
+2. 
+The  Loan is granted  on  highly concessional terms and  shall be free  of interest but 
+shall bear a fixed service charge as determined by the Fund at the date of approval of the 
+Financing by the Fund’s Executive Board. The rate is fixed for the life of the loan based on 
+the  related  service  charge  in  force  at  the  time  of  approval  of  the  Loan.  The  Loan  is 
+repayable semi-annually in the Loan Service Payment Currency. The Financing shall have 
+a maturity period of forty (40) years, including a grace period of ten (10) years starting 
+from the date of approval of the Financing by the Fund’s Executive Board. 
+3. 
+The Loan Service Payment Currency is provided in USD.  
+4. 
+The first day of the applicable Fiscal Year shall be 1st January. 
+Payments of principal and service charge shall be payable on each 15 February and 
+5. 
+15 August. 
+6. 
+There shall be a Designated Account in United States dollars, for the exclusive use of 
+the Programme opened in the Bank of Mozambique. The Borrower/Recipient shall inform 
+the Fund of the officials authorized to operate the Designated Account. 
+7. 
+The  detailed  arrangements  for  the  operational  accounts  to  be  opened  by  the 
+Programme to receive funds from the Designated Account for day to day operations will be 
+detailed in the Letter to the Borrower/Recipient. 
+8 
+The Borrower/Recipient shall provide counterpart financing for the Programme in the 
+amount of four million eight hundred forty seven thousand and nine hundred United States 
+dollars  (USD  4 847 900)  in  the  form  of  salaries  of  its  own  staff  who  will  support  the 
+implementation of the Programme, on a pro-rata basis, costs of the PMU offices. 
+Section C 
+The Lead Programme Agency shall be the Ministry of Agriculture and Food Security (MASA) or 
+1. 
+the Ministry that will be in charge of Agriculture during the implementation of the Programme.  
+2. 
+A Mid-Term Review will be conducted as specified in Section 8.03 (b) and (c) of the 
+General Conditions; however, PROCAVA will have three reviews with a 2.5 years interval 
+between  them.  The  first  review  will  be  undertaken  after  about  2.5  years  of  Programme 
+implementation.  The  second  review  will  be  undertaken  after  5  years  of  implementation. 
+The last review will be after 7.5 years of implementation. 
+3. 
+The Programme Completion Date shall be the tenth anniversary of the date of entry 
+into  force  of  this  Agreement  and  the  Financing  Closing  Date  shall  be 6  months  later,  or 
+such other date as the Fund may designate by notice to the Borrower/Recipient.  
+4. 
+Procurement of goods, works and services financed by the Financing shall be carried 
+out in accordance with the provisions of the Borrower/Recipient's procurement regulations, 
+to the extent that they are consistent with the IFAD Procurement Guidelines. 
+Section D 
+2 
+Appendix I 
+EB 2019/128/R.26/Rev.1 
+1. 
+The Fund will administer the Loan and Grant and supervise the Programme. 
+Section E 
+1. 
+The following are designated as additional grounds for suspension of this Agreement:  
+a) 
+The  PIM  or  any  provision  thereof,  has  been  waived,  suspended,  terminated, 
+amended or modified without the prior agreement of the Fund and the Fund, 
+after consultation with the Borrower/Recipient, has determined that it has had, 
+or is likely to have, a material adverse effect on the Programme. 
+2. 
+The following are designated as additional conditions precedent to withdrawal: 
+a)  The IFAD no objection to the Programme Implementation Manual (PIM) shall have 
+been obtained. 
+3. 
+The following provisions of the General Conditions shall not apply to this Agreement: 
+a)  As an exception to section 11.01 (a) of the General Conditions, the proceeds of 
+the  Financing  shall  cover  taxes  and  duties  under  the  Programme  to  the  extent 
+that compliance with the Fund’s policy of requiring economy and efficiency in the 
+use  of  its  financing  is  ensured.  Should  the  amount  of  any  such  taxes  being 
+excessive, discriminatory or unreasonable, the Fund may notify the Recipient to 
+reduce the percentage of eligible expenditures to be financed under this Financing 
+Agreement. 
+4. 
+This Agreement is subject to ratification by the Borrower/Recipient. 
+The following are the designated representatives and addresses to be used for any 
+5. 
+communication related to this Agreement: 
+For the Borrower/Recipient: 
+Minister of Finance  
+Ministry of Finance 
+  of the Republic of Mozambique 
+Parce da Marinha Popular 272 
+Maputo 
+For the Fund: 
+The President 
+International Fund for  
+  Agricultural Development 
+Via Paolo di Dono 44 
+00142 Rome, Italy 
+3 
+Appendix I 
+EB 2019/128/R.26/Rev.1 
+This Agreement, [dated _____], has been prepared in the English language in two (2) 
+original copies, one (1) for the Fund and one (1) for the Borrower/Recipient.  
+REPUBLIC OF MOZAMBIQUE 
+____________________  
+Authorised Representative name  
+Authorised Representative title 
+Date: ____________ 
+INTERNATIONAL FUND FOR 
+ AGRICULTURAL DEVELOPMENT  
+___________________ 
+Gilbert F. Houngbo  
+President 
+Date: ______________ 
+4 
+Appendix I 
+EB 2019/128/R.26/Rev.1 
+Schedule 1 
+Programme Description and Implementation Arrangements 
+I. 
+Programme Description 
+1. 
+Target Population. PROCAVA will target a total of around 180,500 households: 50% of 
+that  target  will  be  women,  and  30%  youth.  PROCAVA's  primary  target  group  will  be 
+smallholder  farmers  comprising  the  poor,  vulnerable  and  disadvantaged  rural  households 
+involved  in  the  selected  value  chains.  PROCAVA  will  pay  particular  attention  to  women 
+heading households while ensuring that women in men headed households are not left out. 
+Programme area. PROCAVA will be implemented in 75 districts selected from all ten 
+2. 
+provinces of the country over the entire ten-year period and in two phases. 
+3.   Goal.  PROCAVA’s  Goal  is  to  contribute  to  poverty  reduction,  improved  food  and 
+nutrition security and resilient livelihoods for inclusive rural transformation. 
+4.  Objectives.  The  Objective  is  to  increase  the  net  incomes  from  Climate-Resilient 
+Agri-Food value chains by rural women, men and youth. 
+5. 
+Components.  
+Component  1.  Production  Improvement  and  Market  Linkages:  This  component  aims  at 
+contributing  to  improve  production  and  productivity  of  target  crop  and  livestock 
+commodities.  It  will  also  improve  backward  and  forward  linkages  of  farmers  to  different 
+stakeholders of the target value chains. Proposed interventions will seek to address some of 
+the identified constraints to increased productivity and production of the target value chains 
+and the associated market linkages. Strengthening climate resilience and enhancing natural 
+resource management and  environmental sustainability through promotion of appropriate 
+technologies and best practices will be an integral part of this component. 
+Component  2.  Market-Related  Climate  Resilient  Infrastructure:  The  objective  of  this 
+component  is  to  avail  the  appropriate  infrastructure  to  support  the  effectiveness  of  the 
+market-led production interventions and to more efficiently deliver the surplus production to 
+different  markets.  Planned  interventions  will  focus  on  addressing  constraints  faced  by 
+relevant  actors  operating  within  target  value  chains.  This  will  include  supporting  rural 
+infrastructure  investments  that  can  add  value  at  the  location,  upgrade  performance  of 
+enterprises  and  support  associated  agricultural  producers  to  become  competitive, 
+environmentally  and  profitably  sustainable.  Infrastructure  will  be  prioritized  according  to 
+business plans and linkages along the value chain. 
+Component 3. Institutional and Policy Strengthening and Implementation Support: This will 
+be a cross-cutting component servicing the technical components and facilitating pathways 
+for  the  effective  functioning  of  the  target  value  chains.  Accordingly,  it  will  aim  at:  (a) 
+augmenting  the  capacity  of  the  institutions  that  will  be  responsible  for  overseeing  and/or 
+implementing  the  different  PROCAVA  activities;  (b)  facilitating  the  development  and/or 
+review  and update  of policies and  strategies  of selected  subsectors for their effective and 
+structured development; and (c) managing PROCAVA in an efficient and effective manner by 
+providing  overall  coordination, 
+financial 
+management  and  control,  procurement  support,  monitoring  and  evaluation,  knowledge 
+management, and progress reporting. It will also ensure liaison and linkage with all other 
+relevant  programmes  being  implemented  in  the  country  that  seek  to  address  similar  or 
+related constraints. 
+including  planning  and 
+implementation, 
+5 
+Appendix I 
+EB 2019/128/R.26/Rev.1 
+II. 
+Implementation Arrangements 
+6.  
+Lead Programme Agency. The Ministry of Agriculture and Food Security (MASA) or 
+the  Ministry  that  will  be  in  charge  of  Agriculture  during  the  implementation  of  the 
+Programme, will be the lead executing agency.  
+7.   Programme  Oversight  Committee.  MASA  will  establish  a  National  Programme 
+Steering Committee (NPSC) to serve as the governing body of the Programme. The PSC 
+shall be chaired by the Minister of MASA and composed of members from institutions with 
+direct relevance to the achievement of PROCAVA’s goal and development objective. 
+8. 
+Regional Programme Consultative Groups. Regional Programme Consultative Groups 
+(RPCGs)  would  be  progressively  set  up  in  each  of  the  three  regions  of  the  country 
+(Southern, Central and Northern) following PROCAVA’s phasing approach. 
+9. 
+Provincial  Programme  Consultative  Group.  In  addition  to  the  three  RPCGs,  a 
+Provincial Programme Consultative Group (PPCG) will be set up in Niassa Province since it 
+will be having a separate Programme Management Unit. 
+10.   Programme  Management  Unit  (PMU).  A  National  Programme  Management  Unit 
+(NPMU)  will  be  established  under  the  direct  supervision  of  Fundo  de  Desenvolvimento 
+Agrário  (FDA)  Director  General;  it  will  be  based  in  Maputo.  NPMU  will  be  charged  with 
+responsibility of the day to day management and supervision of the Programme, under the 
+leadership of a National Programme Coordinator (NPC); the NPC will report to the Director 
+General  of  FDA.  Given  the  geographical  spread  of  the  Programme,  Programme 
+management  will  be  organised  into  sub-units  (Regional  Programme  Management  Units 
+(RPMUs))  and  Provincial  Programme  Management  Unit  (PPMU)  to  adequately  cover 
+PROCAVA’s target geographical regions. Three RPMUs and one PPMU will be, progressively, 
+established following the Programme’s implementation phasing approach.  
+11.   Implementing  partners.  MASA  will  also  liaise  and  work  with  other  Ministries  and 
+partners whose mandates have a direct bearing on the achievement of the PROCAVA goal 
+and development objective.  
+12.   Monitoring  and  Evaluation  (M&E).  The  NPMU  will  be  responsible  for  the  overall 
+Programme  monitoring  and  evaluation.  M&E  will  be  undertaken  at  different  levels  to 
+support effective implementation, maintain the Programme’s focus and direction, provide 
+information for addressing constraints as well as ensure delivery of outputs and outcomes. 
+IFAD will undertake periodic monitoring, evaluation and supervision Missions to assess the 
+status of Programme implementation and evaluate the Programme’s direction with respect 
+to its objectives, outputs and Outcomes. A baseline study will be undertaken during the 
+first year of Programme implementation to provide a benchmark for assessment of future 
+outcomes and impact of the Programme. The PROCAVA M&E strategy will be to establish 
+an  iterative  process  for  identifying  issues  and  problems  to  ensure  that  the  Programme 
+focus is maintained and expected outcomes are achieved. 
+13.   Knowledge  Management  (KM).  Knowledge  Management  will  be  an  integral  part  of 
+PROCAVA to ensure that Programme implementation is a continuous learning process in 
+which  quantitative  and  qualitative  data  will  be  compiled,  analysed  and  disseminated  as 
+lessons  learned.  PROCAVA’s  M&E  system  will  form  the  foundation  of  KM  and  learning 
+system and will, thus, be a primary instrument of information capture and storage, based 
+on  the  indicators  detailed  in  the  results  framework.  The  Knowledge  Management  and 
+Learning Officer at the NPMU will lead and coordinate all KM activities in close liaison with 
+the M&E Officer, Regional M&E Officer, Provincial M&E Assistant and the value chain leads. 
+Collaboration with relevant universities, research and learning institutions to design and 
+undertake studies and analyses as well as communicate lessons learnt will be encouraged. 
+14.   Programme  Implementation  Manual  (PIM).  The  PMU  shall  prepare  a  PIM  to  be 
+approved  by  the  Fund.  The  Implementation  Manual  shall  include,  among  other  things: 
+for  communities,  economic  organizations  and  beneficiaries; 
+(i) eligibility  criteria 
+6 
+Appendix I 
+EB 2019/128/R.26/Rev.1 
+(ii) mechanisms for selecting communities and economic organizations; (iii) guidelines for 
+the design of development plans and working and business plans; (iv) detailed procedures 
+regarding formulation, assessment and approval of development plans and  working and 
+businesses plans; (v) rules for accessing to  financial support for productive investment; 
+(vi)  monitoring  and  accounting  of  funds  transferred  to  organizations  for  productive 
+investments;  (vii)  management  and  procurement  procedures;  (viii)  guidance  for 
+implementation of each component, and (ix) composition of TMU and PMU. The PMU shall 
+adopt the PIM substantially in the form agreed with the Fund and may make amendments 
+thereto  from  time  to  time,  in  agreement  with  the  Fund.  The  Borrower  shall  cause  the 
+Programme  to  be  carried  out  in  accordance  with  the  PIM.  In  case  of  any  discrepancies 
+between  the  provisions  of  the  PIM  and  those  of  this  Agreement,  the  provisions  of  this 
+Agreement shall prevail. 
+7 
+Appendix I 
+EB 2019/128/R.26/Rev.1 
+Schedule II 
+Allocation Table 
+Allocation  of  Loan/Grant  Proceeds. (a)  The  Table  below  sets  forth  the  Categories  of 
+1. 
+Eligible Expenditures to be financed by the Loan/Grant and the allocation of the amounts to 
+each category of the Financing and the percentages of expenditures for items to be financed 
+in each Category: 
+Category 
+Grant Amount 
+Allocated 
+(expressed 
+in USD)  
+Loan Amount 
+Allocated 
+(expressed 
+in USD) 
+Percentage  
+Equipment, Materials  
+6 300 000 
+1 600 000 
+Works 
+11 700 000 
+2 900 000 
+Consultancies, Training & workshops 
+7 000 000 
+1 740 000 
+Credit, Guarantee Funds 
+Salaries & Allowances 
+Operating Costs 
+Unallocated 
+Total 
+200 000 
+50 000 
+4 800 000 
+1 200 000 
+300 000 
+3 300 000 
+70 000 
+840 000 
+33 600 000 
+8 400 000 
+100% 
+100% 
+100% 
+100% 
+100% 
+100% 
+100% 
+100% 
+(b)  The terms used in the Table above are defined as follows: 
+(i) 
+(ii) 
+Credit, Guarantee funds are meant to cover linkage activities between the 
+PROCAVA Programme and the Rural Enterprise Finance Project  
+Start  up  funds will  amounting  to an  equivalent of  five  hundred  thousand  United 
+States dollars (USD 500 000) shall be provided to cover the following categories; 
+Equipment and material, works, workshops, salaries and operating costs 
+8 
+Appendix I 
+EB 2019/128/R.26/Rev.1 
+Schedule 3 
+Special Covenants 
+In  accordance  with  Section  12.01(a)(xxiii)  of  the  General  Conditions,  the  Fund  may 
+suspend, in whole or in part, the right of the Borrower/Recipient to request withdrawals 
+from the Loan or Grant Account if the Borrower/Recipient has defaulted in the performance 
+of any covenant set forth below, and the Fund has determined that such default has had, 
+or is likely to have, a material adverse effect on the Programme: 
+1. 
+Planning, Monitoring and Evaluation. The Borrower/Recipient shall ensure that (i) a 
+Planning, Monitoring and Evaluation (PM&E) system shall be established within twelve (12) 
+months from the date of entry into force of this Agreement. 
+2. 
+Compliance  with  the  Social  Environmental  and  Climate  Assessment  Procedures 
+(SECAP). The Borrower/Recipient shall ensure that the Programme will be implemented in 
+compliance with IFAD's SECAP. 
+Anticorruption  Measures.  The  Borrower/Recipient  shall comply  with  IFAD  Policy  on 
+3. 
+Preventing Fraud and Corruption in its Activities and Operations. 
+4. 
+Sexual Harassment, Sexual Exploitation and Abuse. The Borrower/Recipient and the 
+Programme Parties shall ensure that the Programme is carried out in accordance with the 
+provisions of the IFAD Policy on Preventing and Responding to Sexual Harassment, Sexual 
+Exploitation and Abuse, as may be amended from time to time.  
+5.   Environment and Social Safeguards. The Borrower/Recipient shall ensure that: (a) all 
+Programme activities are implemented in strict conformity with the Borrower/Recipient’s 
+relevant  laws/regulations;  (b)  proposals  for  civil  works  include  confirmation  that  no 
+involuntary land acquisition or resettlement is required under the Programme. In the event 
+of  unforeseen  land  acquisition  or  involuntary  resettlement  under  the  Programme,  the 
+Borrower/Recipient shall immediately inform the Fund and prepare the necessary planning 
+documents; (c) women and men shall be paid equal remuneration for work of equal value 
+under the Programme; and (d) recourse to child labour is not made under the Programme.  
+9 
+Logical framework 
+Results Hierarchy 
+Outreach 
+Project Goal 
+To contribute to poverty reduction, 
+improved food and nutrition security 
+and resilient livelihoods for inclusive 
+rural transformation 
+1
+0
+Development Objective 
+To increase net income from climate 
+resilient Agrifood value chains by 
+rural women, men and youth 
+Outcome 1.1 Smallholders 
+productivity, production and quality 
+of targeted value chains improved 
+Indicators 
+Name 
+Base 
+line 
+Midter
+m 
+End 
+Target 
+Source 
+Means of Verification 
+1.b Estimated corresponding total number of households 
+members 
+Household members - Number of people 
+0  45125
+0 
+9025002 
+Project records, national 
+statistics 
+Frequenc
+y 
+Bi-annually PMU 
+Responsibili
+ty 
+1.a Corresponding number of households reached 
+Households - Number 
+1 Persons receiving services promoted or supported by the 
+project 
+Females - Number 
+0  90250  1805003 
+451250 
+Project records, national 
+statistics 
+Project records, national 
+statistics 
+Bi-annually PMU 
+Bi-annually PMU 
+Assumptions 
+PMU and Implementing 
+partners have Reliable M&E 
+with a coding system to track 
+beneficiaries at individual and 
+household levels 
+Males - Number 
+Young - Number 
+0  22562
+5 
+0  22562
+5 
+0  13537
+5 
+0  45125
+0 
+451250 
+270750 
+902500 
+Total number of persons receiving services - 
+Number 
+Percentage (Number) of rural people experiencing changes in 
+economic status (10% or more) including income, food diversity 
+or nutrition 
+People - Percentage (%) 
+Number of people with strengthened resilience (20% or more) 
+People - Number 
+ TBD 
+Percentage of increased household farm incomes 
+Young - Number 
+Women-headed households - Number 
+Increase in income - Percentage (%) 
+ 203063 
+TBD 
+150 
+15 
+50 
+74 
+National Poverty 
+Evaluation Report; 
+Household surveys; 
+Demographic Surveys; 
+Vulnerability Assessment  
+reports/Survey 
+Outcome surveys; 
+household surveys 
+Percentage of persons/households reporting an increase in 
+productivity 
+Households - Percentage (%) 
+3.2.2  Households reporting adoption of environmentally 
+sustainable and climate-resilient technologies and practices 
+Households - Percentage (%) 
+Total number of household members - 
+Number 
+Males - Number 
+ TBD 
+405 
+0 
+756 
+676875 
+338438 
+40 
+36100
+0 
+18050
+0 
+Annual Production 
+Surveys, MASA Annual 
+Reports, thematic studies 
+Production surveys 
+75 
+Completio
+n 
+MASA/DCPI, 
+INE, MEF, 
+UNICEF, 
+WFP, PMU 
+Stable political, social and 
+macro-economic environment 
+prevails 
+Baseline, 
+MTR, 
+completion 
+MASA/DCPI, 
+INE, MEF 
+Baseline, 
+MTR, 
+Completio
+n  
+The ongoing political and 
+economic commitment in 
+investing in the agricultural 
+sector by government 
+maintained  
+Communities participate 
+actively in interventions made; 
+Farmers have adequate 
+resources to acquire 
+productive inputs; Stable 
+weather conditions 
+2 Average household size in Mozambique is 5 persons per household; 50 per cent women; 30 per cent youth 
+3 9200 HH in Horticulture VC; 38,500HH in Cassava VC; 47,000 HH in Legumes VC; 85,800 HH in Livestock VC (79,000 Red Meat and 6,800 poultry) 
+4 Poverty levels in the rural areas reduced by 7 per cent between 2008 and 2014, ref National Poverty Evaluation report IOF2014/2015 
+5 Assuming an adoption rate of 40 per cent and 100 per cent by end of project   
+6 50 per cent women, 30 per cent youth and 20 per cent women-headed households 
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+9
+/
+1
+2
+8
+/
+R
+.
+2
+6
+/
+R
+e
+v
+.
+1
+Results Hierarchy 
+Indicators 
+Name 
+Females - Number 
+Young - Number 
+Base 
+line 
+338438 
+End 
+Target 
+Midter
+m 
+18050
+0 
+10830
+0 
+14440 
+27075 
+72200  135375 
+203063 
+Output 1.1.1 Production and 
+productivity-enhancing inputs and 
+climate-smart technological 
+packages are made available to 
+smallholder producers of selected 
+crops and livestock commodities 
+Output 1.1.2 Livestock production 
+related infrastructure established 
+Output 1.1.3 Community-based 
+natural resources management 
+plans (CBNRM) prepared and 
+established in Meat VC 
+Outcome 1.2 Value chain linkages 
+have improved between smallholder 
+farmers and other value chain actors 
+Output 1.2.1 Smallholder farmers 
+organizational, technical and 
+business management skills are 
+strengthened  
+Output 1.2.2 Climate, weather and 
+market information system is 
+developed and operational  
+Output 1.2.3 Value chain platforms 
+are established and strengthened 
+1
+1
+Women-headed households - Number 
+Households - Number 
+1.1.3 Rural producers accessing production inputs and/or 
+technological packages  
+Females - Number 
+Males - Number 
+Young - Number 
+Total rural producers - Number 
+0  76160  108800 
+0  76160  108800 
+65280 
+0  45696 
+2176007 
+0  15232
+0 
+Number of livestock production infrastructures constructed or 
+rehabilitated 
+36 
+Livestock production infrastructure - Number 
+3.1.1 Groups supported to sustainably manage natural 
+resources and climate-related risks  
+Groups supported - Number 
+17 
+0 
+72 
+43 
+2.2.3 Rural producers’ organizations engaged in formal 
+partnerships/agreements or contracts with public or private 
+entities 
+Percentage of POs  - Percentage (%) 
+2.1.3 Rural producers’ organizations supported 
+Rural POs supported - Number 
+20 
+50 
+3.1.2 Persons provided with climate information services  
+Females - Number 
+Males - Number 
+Persons provided with climate information 
+services - Number 
+Policy 2 Functioning multi-stakeholder platforms supported 
+Number - Number 
+29920 
+38 
+ 37400 
+ 37400 
+74800 
+Means of Verification 
+Source 
+Frequenc
+y 
+Responsibili
+ty 
+Assumptions 
+Project progress reports 
+Annual 
+PMU 
+Improved Land tenure 
+agreement in place 
+Project progress reports   Semi-
+PMU 
+Project progress reports 
+Project reports, 
+Outcome/household  
+surveys, Market surveys  
+Annual  
+Semi-
+Annual  
+Baseline, 
+MTR, 
+Completio
+n 
+PMU 
+PMU 
+Project progress reports   Semi-
+PMU 
+Annual  
+Project progress reports   Semi-
+PMU 
+Annual  
+Communities participate 
+actively in interventions made 
+Project progress reports   Semi-
+PMU 
+75 
+Annual  
+Conducive regulatory 
+framework for contract 
+enforcement; Trust among 
+smallholder farmers and 
+different stakeholders in the 
+targeted value chains; 
+Balanced negotiation power for 
+win-win partnerships 
+Outcome 2. Market-related climate-
+resilient infrastructure has improved  
+2.2.6 Households reporting improved physical access to 
+markets, processing and storage facilities8 
+Project progress reports 
+Baseline, 
+MTR, 
+MASA/DPCI, 
+PMU 
+7 6800 producers (6000 open fields and 800 under drip kits/shade cloths) , 45,000 CVC producers  + 80000 Legume Producers (54000 VC and 26,000NVC) + 85800 LVC(79,000redmeat and 6800 
+poultry producers) 
+8 50 per cent women, 30 per cent youth and 20 per cent women-headed households 
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+9
+/
+1
+2
+8
+/
+R
+.
+2
+6
+/
+R
+e
+v
+.
+1
+Results Hierarchy 
+Indicators 
+Name 
+Households reporting improved physical 
+access to markets - Number 
+Means of Verification 
+Base 
+line 
+Midter
+m 
+End 
+Target 
+Source 
+   36100 
+90250 
+Responsibili
+ty 
+Assumptions 
+Frequenc
+y 
+Completio
+n 
+Output 2.1 Water-related 
+infrastructure rehabilitated or 
+Constructed  
+Output 2.2 Market-led value chain 
+infrastructure rehabilitated or 
+constructed 
+1
+2
+Outcome 3. Institutional and policy 
+framework for inclusive and climate-
+resilient value chain development 
+has improved 
+Output 3.1 Institutional capacities 
+(public, private and PO) 
+strengthened for effective 
+functioning of the targeted value 
+chains  
+Output 3.2 Policies and strategies 
+developed for the effective and 
+structure development of targeted 
+VC 
+3000 
+90250 
+14440 
+7220 
+36100 
+0  1500 
+Households reporting improved physical 
+access to processing facilities - Number 
+Households reporting improved physical 
+access to storage facilities - Number 
+1.1.2  Farmland under water-related infrastructure 
+constructed/rehabilitated  
+Hectares of land - Area (ha) 
+2.1.6  Market, processing or storage facilities constructed or 
+rehabilitated 
+Market facilities constructed/rehabilitated - 
+Number 
+Processing facilities constructed/rehabilitated 
+- Number 
+Storage facilities constructed/rehabilitated - 
+Number 
+Policy 3  Existing/new laws, regulations, policies or strategies 
+proposed to policy makers for approval, ratification or 
+amendment 
+Number - Number 
+Number of staff of public and private entities trained on project 
+implementation, gender and land tenure security 
+0 
+Staff of public and private entities - Number 
+350 
+2 
+0 
+2 
+2 
+8 
+5 
+700 
+5 
+16 
+4 
+Project progress reports   Simi-
+PMU 
+annual 
+Project progress reports   Semi-
+annual  
+Project reports, outcome 
+surveys 
+PMU 
+Baseline, 
+MTR, 
+Completio
+n 
+Favourable regulatory 
+framework and enabling 
+environment 
+Project progress reports   Annual 
+PMU 
+Policy 1  Policy-relevant knowledge products completed 
+Number - Number 
+0 
+2 
+Project progress reports 
+5 
+Semi-
+annual 
+PMU 
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+9
+/
+1
+2
+8
+/
+R
+.
+2
+6
+/
+R
+e
+v
+.
+1

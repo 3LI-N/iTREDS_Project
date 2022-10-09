@@ -1,8 +1,16 @@
+'''
+Issues:
+- there are supervision/implementation docs and mid-term docs
+- ex: [108] https://www.ifad.org/en/web/operations/-/project/2000001184
+
+'''
+
 import requests
 from bs4 import BeautifulSoup
 import re
 from urllib.request import unquote
 import os
+
 
 class Project:
 	def __init__(self, title, country, year, id, url):
@@ -115,16 +123,24 @@ class Project:
 			filename = str(self.get_filename())
 			pdf_filename = filename + ".pdf"
 			txt_filename = filename + ".txt"
+			if self.has_pres_report:
+				txt_filename = "pres_reports/" + txt_filename
+			else:
+				txt_filename = "dsgn_reports/" + txt_filename
+
 			try:
 				with open('./' + pdf_filename, 'wb') as f:
 					f.write(pdf_response.content)
 				print("PDF generated: " + pdf_filename)
-				os.system("pdf2txt.py ./" + pdf_filename + " > ./txt_files/" + txt_filename)
+				txt_gen_return = os.system("pdf2txt.py ./" + pdf_filename + " > ./txt_files/" + txt_filename) #256 for error, 0 for okay
 				os.system("sed '/^\s*$/d' -i txt_files/" + txt_filename) # removes blank lines
 				print("txt generated: " + txt_filename)
 				os.system("rm ./" + pdf_filename) # saves space by deleting the pdf
 				print("PDF deleted")
-				return 0
+				if int(txt_gen_return) != 0:
+					os.system("rm ./" + txt_filename)
+					print("Error in generating txt: faulty txt deleted")
+				return int(txt_gen_return)
 			except:
 				print("Encountered issue downloading PDF and extracting txt")
 				pass
@@ -156,61 +172,76 @@ def get_valid_project_urls(oldest_year):
 		except:
 			pass
 
-	'''for project in projects:
-		project.printData()
-		print()'''
 	return projects
 
-current_projects = get_valid_project_urls(2015)
 
-print("Number of projects: " + str(len(current_projects)))
-print()
 
-report_projects = []
-no_report_projects = []
+def main():
 
-num_pres = 0
-num_dsgn = 0
+	current_projects = get_valid_project_urls(2015)
 
-'''for i, project in enumerate(current_projects):
-	project.get_report_link()
-	if project.doc_link == '':
-		no_report_projects.append(project)
-		print(str(i) + "\tno report")
-	else:
-		report_projects.append(project)
-		if project.has_pres_report:
-			print(str(i) + "\tpresident's report")
-			num_pres += 1
+	print("Number of projects: " + str(len(current_projects)))
+	print()
+
+	report_projects = []
+	no_report_projects = []
+
+	num_pres = 0
+	num_dsgn = 0
+
+	for i, project in enumerate(current_projects):
+		project.get_report_link()
+		if project.doc_link == '':
+			no_report_projects.append(project)
+			print(str(i) + "\tno report")
 		else:
-			print(str(i) + "\tproject design report")
-			num_dsgn += 1
-print()
-print(str(num_pres) + " projects have a president's report")								#103
-print(str(num_dsgn) + " projects have a project design report but no president's reprot")	#74
-print(str(len(no_report_projects)) + " projects don't have a president's report")			#26
-print()'''
+			report_projects.append(project)
+			if project.has_pres_report:
+				print(str(i) + "\tpresident's report")
+				num_pres += 1
+			else:
+				print(str(i) + "\tproject design report")
+				num_dsgn += 1
+	print()
 
-'''print("Projects w/o reports:")
-for project in no_report_projects:
-	print(project.url)'''
+	num_failed = 0
+	for project in report_projects:
+		download_outcome = project.download_txt()
+		if download_outcome != 0:
+			num_failed += 1
+			no_report_projects.append(project)
+			if project.has_pres_report:
+				num_pres -= 1
+			else:
+				num_dsgn -= 1
+
+	print()
+	print(str(num_pres) + " projects have a president's report")									#103
+	print(str(num_dsgn) + " projects have a project design report but no president's report")		#74
+	print(str(len(no_report_projects)) + " projects don't have a report that could be extracted")	#26
+
+	file_out = open("results.txt", "w")
+
+	file_out.write("There are " + str(len(current_projects)) + " total projects approved since 2015\n")
+	file_out.write(str(num_pres) + " projects have a president's report\n")
+	file_out.write(str(num_dsgn) + " projects have a project design report but no president's report\n")
+	file_out.write(str(len(no_report_projects)) + " projects don't have a report that could be extracted\n")
+
+	file_out.write("\nNo report could be extracted from the following projects:\n")
+	for project in no_report_projects:
+		file_out.write(project.url + "\n")
+
+	file_out.close()
 
 
-test_project = current_projects[83] # [3] is an example with both presidents report and project design report
-# using 35 causes an error
-test_project.get_report_link()
-print()
-test_project.print_data()
-print()
-test_project.download_txt()
+	'''test_project = current_projects[37] # [3] is an example with both presidents report and project design report
+	# using 35 causes an error
+	test_project.get_report_link()
+	print()
+	test_project.print_data()
+	print()
+	test_project.download_txt()'''
 
+if __name__=="__main__":
+    main()
 
-'''
-Issues:
-- there are supervision/implementation docs and mid-term docs
-- ex: [108] https://www.ifad.org/en/web/operations/-/project/2000001184
-
-Todo:
-- seperate folders for pres report and design report
-
-'''

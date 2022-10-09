@@ -1,0 +1,3583 @@
+Document: 
+Agenda: 
+Date: 
+Distribution: 
+Original: 
+EB 2021/134/R.46/Rev.1 
+19(b)(iv)(b) 
+30 December 2021  
+Public 
+English 
+E 
+President’s report 
+Proposed loan 
+Federal Republic of Nigeria 
+Special Agro-Industrial Processing Zones 
+(SAPZ) Programme  
+Project ID: 2000003342 
+Note to Executive Board representatives 
+Focal points: 
+Dispatch of documentation: 
+Deirdre Mc Grenra 
+Chief 
+Institutional Governance and 
+Member Relations 
+Tel.: +39 06 5459 2374 
+e-mail: gb@ifad.org 
+Technical questions: 
+Sana Jatta  
+Regional Director a.i.  
+West and Central Africa Division  
+Tel.:+39 06 5459 2333 
+e-mail: s.jatta@ifad.org  
+Hani Abdelkader Elsadani Salem 
+Country Director 
+Tel.: + 233 (0) 302610945 
+e-mail: h.elsadani@ifad.org 
+Executive Board — 134th Session 
+Rome, 13-16 December 2021 
+For: Approval 
+EB 2021/134/R.46/Rev.1 
+ii 
+iii 
+iv 
+1 
+1 
+2 
+3 
+3 
+3 
+4 
+4 
+5 
+9 
+9 
+9 
+9 
+10 
+10 
+10 
+11 
+12 
+12 
+12 
+Contents 
+Abbreviations and acronyms 
+Map of the programme area 
+Financing summary 
+I. 
+Context 
+A.  National context and rationale for IFAD involvement 
+B.  Lessons learned 
+II.  Programme description 
+A.  Objectives, geographical area of intervention and target groups 
+B.  Components, outcomes and activities 
+C.  Theory of change 
+D. Alignment, ownership and partnerships 
+E.  Costs, benefits and financing 
+III.  Risks 
+A.  Risks and mitigation measures 
+B.  Environment and social category 
+C.  Climate risk classification 
+D. Debt sustainability 
+IV.  Implementation 
+A.  Organizational framework 
+B.  Planning, monitoring and evaluation, learning, knowledge  
+management and communications 
+C.  Implementation plans 
+Legal instruments and authority 
+V. 
+VI.  Recommendation 
+Appendices 
+I.  Negotiated financing agreement  
+II.  Logical framework 
+III.  Integrated programme risk matrix 
+Programme delivery team 
+Regional Director a.i.: 
+Nigeria ICO officer-in-charge: 
+Technical Lead: 
+Finance Officer: 
+Climate and Environment Specialist: 
+Legal Officer: 
+Sana Jatta  
+Patrick Habamenshi  
+Jonathan Agwe 
+Radu Damianov  
+Amath Pathe Sene 
+Charles Etonde  
+i 
+EB 2021/134/R.46/Rev.1 
+Abbreviations and acronyms 
+AfDB 
+AIH 
+AWP/B 
+FMARD 
+FMF 
+FPCU 
+GCF 
+IGREENFIN 
+IsDB 
+M&E 
+PSIU 
+SAPZ 
+SDG 
+VCDP 
+African Development Bank 
+Agricultural industrial hub 
+annual work plan and budget 
+Federal Ministry of Agriculture and Rural Development 
+Federal Ministry of Finance, Budget and National Planning 
+Federal Programme Coordination Unit 
+Green Climate Fund 
+Inclusive Green Financing for Low Emission and Climate 
+Resilient Agriculture  
+Islamic Development Bank 
+monitoring and evaluation 
+participating states implementation unit  
+special agro-industrial processing zones 
+Sustainable Development Goal 
+Value Chain Development Programme 
+ii 
+Map of the programme area 
+EB 2021/134/R.46/Rev.1 
+iii 
+EB 2021/134/R.46/Rev.1 
+Financing summary  
+Initiating institution: 
+IFAD  
+Borrower/recipient: 
+Federal Republic of Nigeria 
+Executing agency: 
+Federal Ministry of Agriculture and Rural Development 
+Total programme cost: 
+US$541 million 
+Amount of IFAD loan: 
+US$49.97 million  
+Terms of IFAD loan:  
+Cofinancier[s]:  
+Amount of cofinancing: 
+The loan is granted on blend terms, and shall be 
+subject to interest on the principal amount outstanding 
+and a service charge as determined by the Fund at the 
+date of approval of the loan by the Executive Board. 
+The interest rate and service charge determined will 
+be fixed for the life cycle of the loan and payable  
+semi-annually in the loan service payment currency, 
+and shall have a maturity period of 25 years, including 
+a grace period of five years starting from the date of 
+approval of the loan by the Executive Board. 
+The principal of the loan granted on blend terms will 
+be repaid in equal instalments. 
+African Development Bank (AfDB), Africa Growing 
+Together Fund (AGTF), Islamic Development Bank 
+(IsDB) and the Green Climate Fund (GCF) 
+AfDB: US$160 million 
+IsDB: US$150 million 
+GCF: US$60 million  
+AGTF: US$50 million 
+Terms of cofinancing:  
+AfDB: loan, IsDB: loan, GCF: loan and grant,  
+AGTF: loan 
+Contribution of borrower/recipient: 
+US$19.14 million 
+Contribution of beneficiaries: 
+US$2.89 million 
+Financing gap: 
+US$50.03 million 
+Amount of IFAD climate finance: 
+US$16.35 million 
+Cooperating institution: 
+Direct supervision by IFAD 
+iv 
+EB 2021/134/R.46/Rev.1 
+Recommendation for approval 
+The Executive Board is invited to approve the recommendation contained in 
+paragraph 57. 
+I.  Context 
+A.  National context and rationale for IFAD involvement 
+National context 
+1.  With a population of over 200 million people, Nigeria is the most populous country 
+in Africa and the largest economy of the region. Like other middle-income 
+countries, the country faces significant poverty and inequality challenges. Nigeria is 
+home to the largest number of poor in the world, and over 50 per cent of country’s 
+poor live in rural areas. The majority of rural poor are women. Of the Nigerian 
+farming population, 70 per cent are poor smallholders with limited ability to cope 
+with shocks particularly related to climate change; 44.1 per cent suffer from food 
+insecurity; 12.6 per cent are undernourished; and 37 per cent of children under 5 
+years of age are stunted.1 To feed its growing population, Nigeria has reached a 
+critical level of food importation, spending over US$6 billion a year on agricultural 
+imports.2 Disruption of farming activities and disturbances in the food supply 
+caused by COVID-19 are increasingly threatening the lives of about 100 million 
+rural Nigerians and have contributed to perpetuating poverty. 
+The key priority of Nigeria’s Medium-Term National Development Plan 2021-2025 is 
+agricultural transformation to eliminate poverty, spur job creation and achieve food 
+security. In addition, the National Agricultural Technology and Innovation Plan 
+(NATIP) 2021-2025 guides Nigeria’s post-COVID-19 economic recovery.  
+Special aspects relating to IFAD's corporate mainstreaming priorities 
+In line with Eleventh Replenishment of IFAD's Resources (IFAD11) mainstreaming 
+commitments, the Special Agro-Industrial Processing Zones (SAPZ) programme is: 
+☒ Youth-sensitive 
+☒ Nutrition-sensitive 
+☒ Including climate finance 
+Youth. The programme will provide youth with opportunities to engage in 
+commercially oriented value chains, increase their skills base, improve their 
+incomes and, in so doing, enable them to acquire assets. Youth (people aged  
+18-29)3 will make up 40 per cent of the direct beneficiaries.  
+Food security and nutrition. In Nigeria, 44.1 per cent of the population suffer 
+from food insecurity and 12.6 per cent are undernourished.4 Leveraging the key 
+role played by women within the food system, the programme will implement 
+nutrition interventions that build on increases in incomes and empowerment of 
+women.  
+Climate. The programme will enhance the resilience of smallholder farmers to 
+climate change, supporting the adoption of climate change adaptation and 
+mitigation solutions, including through access to green agricultural investments 
+facilitated through the Inclusive Green Financing for Low Emission and Climate 
+Resilient Agriculture (IGREENFIN) Programme.  
+2. 
+3. 
+4. 
+5. 
+6. 
+7.  Gender. Women represent over 60 per cent of Nigeria’s rural workforce. The 
+1 FAO, 2019: http://www.fao.org/faostat/en/#data/FS. 
+2 CBN and National Bureau of Statistics, Annual Report, 2013. 
+3 Federal Ministry of Youth and Sports Development, 2019. National Youth Policy Nigeria, 2019 Edition.  
+4 FAO, 2019: http://www.fao.org/faostat/en/#data/FS. 
+1 
+EB 2021/134/R.46/Rev.1 
+programme will leverage the women-focused land development model and 
+matching grant scheme developed under the Value Chain Development Programme 
+(VCDP) to enhance their access to land and inputs and increase their participation 
+in decision-making.  
+8. 
+Rationale for IFAD involvement 
+The Federal Government of Nigeria requested the support of the African 
+Development Bank (AfDB), Islamic Development Bank (IsDB) and IFAD to set up 
+inclusive special agro-industrial processing zones (SAPZs) in the country. AfDB and 
+IsDB will support the Government in setting up enabling fiscal policies, incentives, 
+and infrastructure for private sector engagement in the zones. IFAD will leverage 
+its know-how to help Nigerian smallholders and small operators, youth and women 
+to take advantage of the SAPZ market outlets and overcome key challenges such 
+as low marketing capacity, poor yields, limited value addition and deficits in access 
+to infrastructure, inputs and financial backing.  
+B.  Lessons learned 
+9. 
+The SAPZ programme will leverage best practices and lessons learned from IFAD’s 
+experience in Nigeria and elsewhere, as well as key lessons learned relating to 
+SAPZs.  
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+The VCDP has shown that linking farmers, ahead of production, to 
+guaranteed private off-takers is mutually beneficial as smallholders secure 
+profitable outlets for the sale of their produce while off-takers secure a supply 
+of produce in the required quantity and quality. 
+IFAD-supported commodity alliance forums provide public-private-producer 
+networks at the local level where farmers, local authorities and private off-
+takers meet on equal footing to negotiate quantities and quality standards, 
+competitive prices and means of production, and to manage/prevent 
+conflicts.  
+Private sector extension service providers through farmer field schools have 
+proved instrumental in enhancing smallholder productivity and production in 
+the IFAD country programme.  
+Evidence shows that special economic zones must be built on strong demand 
+from the business sector, and there is a need for a solid legal, regulatory and 
+institutional framework.5 This is the foundation of the proposed programme.  
+The experience with IFAD-supported agripreneur schemes and the youth 
+business incubator model in Nigeria has shown that youth engagement in 
+agribusiness is driven by their interest in private enterprises rather than 
+group enterprises.  
+Concessional resources for green finance support smallholders/small 
+operators in starting up climate-resilient agribusinesses, as demonstrated by 
+the IGREENFIN experience in Niger, which is stimulating a shift in the 
+country’s financial system.  
+The monitoring and evaluation (M&E) system of the proposed programme 
+should leverage IFAD’s impact assessment methodology, and allocate 
+adequate budget for capacity-building, leveraging the PRiME training.6 
+Nigeria’s context requires adapted country programme management 
+modalities, including: (i) a country programme advisory team funded from 
+loan proceeds to provide implementation support; (ii) a financial 
+5 Zeng, Douglas Zhihua. 2015. Global Experiences with Special Economic Zones: Focus on China and Africa. Policy Research 
+Working Paper; No. 7240. World Bank, Washington, D.C. 
+6 The Program in Rural Monitoring and Evaluation (PRiME) is a global training framework in M&E that seeks to achieve better 
+results in rural development projects. PRiME is a joint initiative developed and implemented by IFAD and the Centers for 
+Learning on Evaluation and Results. 
+2 
+EB 2021/134/R.46/Rev.1 
+management expert providing oversight to projects on compliance with 
+financial requirements; and (iii) a procurement expert to strengthen the 
+review of procurement no-objection requests from the borrower.  
+II.  Programme description 
+A.  Objectives, geographical area of intervention and target 
+groups 
+10.  The overall objectives of the programme are twofold: 
+-  Supporting the development of SAPZs in high food production areas to supply 
+the domestic food market and create exportable surpluses (AfDB-led); 
+-  Empowering smallholders and small operators, including women and youth, to 
+take advantage of the markets created by the SAPZs to sustainably enhance 
+their income and access to employment, household food security and nutrition, 
+and resilience to climate change (IFAD-led).  
+11.  Implementation period. The SAPZ programme will follow a two-phased 
+programme approach. Under phase I (2022-2028), the Government and AfDB, 
+over a period of 5 years, will set up enabling infrastructure and investment policies 
+in targeted states. IFAD will operate over a period of seven years. This slightly 
+longer period will allow IFAD to empower smallholders to take advantage of the 
+SAPZs when they are fully operational. The programme will be expanded into 
+additional states in subsequent phases, based on lessons learned and availability of 
+funding.  
+12.  Programme area. In phase I, the programme will support the set-up of SAPZs in 
+the Federal Capital Territory and seven states, namely Kano, Kaduna, Oyo, Kwara, 
+Ogun, Imo and Cross River. IFAD will focus on Kano and Ogun states, leveraging 
+its ongoing programmes.  
+13.  Value chains. Through a participatory selection process involving local authorities 
+and communities at start-up, each participating local government area will select 
+two focus commodities from among high-potential value chains that have been 
+pre-identified in site-specific feasibility studies conducted during appraisal: 
+cassava, rice, poultry and fisheries for Ogun state – and rice, tomatoes, 
+groundnuts and sesame for Kano state. 
+14.  Target groups. Phase I will directly benefit 1.5 million households, including 
+private sector agribusinesses and agro-processors, smallholder farmers, 
+agroentrepreneurs and agro-dealers. IFAD investments, including through the 
+Green Climate Fund (GCF), will target a total of 100,000 direct beneficiaries (and 
+500,000 indirect beneficiaries).7 Rural women and youth are core target groups. 
+Opportunities for participation will be created for internally displaced persons and 
+persons with disabilities. 
+B.  Components, outcomes and activities 
+15.  The programme will have three operational components: (i) infrastructure 
+development and management for agro-industrial hubs; (ii) agricultural 
+productivity, production, market linkages and value addition in SAPZ catchment 
+areas; (iii) policy and institutional development support. 
+Component 1: Infrastructure development and management for agro-
+industrial hubs 
+16.  AfDB and IsDB will support the Government in setting up SAPZs in selected high-
+potential areas/states. Each SAPZ will comprise an agricultural industrial hub (AIH) 
+and agricultural transformation centre (ATCs), strategically located within the 
+production area to aggregate products from the community, transfer them to AIHs 
+7 Calculated on the assumption that a beneficiary household has five members.  
+3 
+EB 2021/134/R.46/Rev.1 
+for value addition and supply centres for distribution and retail to consumers. This 
+AfDB and IsDB-led component is fully developed in their respective programme 
+appraisal reports. 
+Component 2: Agricultural productivity, production, market linkages and 
+value addition in SAPZ catchment areas 
+17. 
+IFAD will lead this component, which has three objectives: (i) support smallholder 
+farmers and small operators in increasing their productivity/production and 
+capacity to add value to raw materials on a profitable and environmentally 
+sustainable basis; (ii) link smallholder farmers and small operators to the additional 
+market outlets offered by the SAPZs, and to small processors/traders supplying the 
+local markets; and (iii) enhance the resilience and adaptive capacity of 
+smallholders to climate change. Activities will be organized around three 
+subcomponents: agricultural market linkages and value addition; smallholder 
+productivity/production enhancement; and access to finance and financial 
+inclusion, including access to green agricultural investments facilitated through 
+IGREENFIN. 
+Component 3: Policy and institutional development support 
+18.  AfDB and IsDB will support the Government and target states in setting up 
+enabling policies, legislation and regulation for SAPZs to create a conducive 
+business environment for private sector investment and address inefficiencies in 
+agricultural value chains. Through the set-up of commodity alliance forums, IFAD 
+will focus on: (i) facilitating local policy dialogue and influencing local investments 
+for inclusive and conducive market linkages; (ii) strengthening quality control, 
+grading and standardization systems; and (iii) strengthening community conflict 
+management mechanisms. IGREENFIN funding will also promote policy dialogue for 
+an adequate policy framework for green agriculture projects. 
+C.  Theory of change 
+19.  Through the SAPZ programme, the Government is tackling two interrelated 
+challenges: (i) meet domestic food requirements and step up local sourcing to 
+reduce its food importation bill, and (ii) modernize its farming model to reduce 
+rural poverty levels while addressing the impact of climate change on farming 
+systems. 
+20.  The programme leverages the results of the IFAD-supported VCDP, which has 
+demonstrated the feasibility of empowering Nigerian smallholders to enter into 
+profitable contract farming with leading agri-business companies on a “win-win” 
+basis. IFAD’s support will ensure inclusiveness, namely that vulnerable rural 
+households can benefit from these new market outlets by linking 
+smallholders/small operators to the SAPZ commercialized system.  
+21.  The following outcomes are envisaged: (i) enabling infrastructure, policies and 
+regulatory framework for SAPZ; (ii) demand-driven and climate-resilient 
+infrastructure; (iii) remunerative and sustainable markets and employment for 
+target groups; (iv) access of target groups to formal financial services, including 
+for green investments; (v) increase in smallholders’ production and productivity; 
+and (vi) improvements in the diets of the targeted population.  
+D.  Alignment, ownership and partnerships 
+22.  The programme is aligned with key government policies, including the National 
+Industrial Revolution Plan, Economic Recovery and Growth Plan, the Medium-Term 
+National Development Plan 2021-2025, the Federal Ministry of Agriculture and 
+Rural Development (FMARD) Green Imperatives Programme and NATIP 2021-2025. 
+23.  The programme will contribute to the achievement of the following Sustainable 
+Development Goals (SDGs): no poverty (SDG 1); zero hunger (SDG 2); 
+empowerment of women and gender equality (SDG 5); sustained, inclusive and 
+4 
+EB 2021/134/R.46/Rev.1 
+sustainable economic growth, full and productive employment (SDG 8); resilient 
+infrastructure, promotion of sustainable industrialization and innovation (SDG 9); 
+sustainable production (SDG 12); adaptation to climate change (SDG 13); and 
+leveraging partnerships with the private sector (SDG 17). The programme is in line 
+with the United Nations Sustainable Development Partnership Framework  
+(2018-2022) for Nigeria, IFAD’s strategic objectives, the Nigeria country strategic 
+opportunities programme and its goal to support a rural economy in which the 
+targeted population can achieve prosperity and benefit from economic growth, 
+youth in particular. 
+24.  The SAPZ programme is unique in that it brings the Government together with key 
+international financial institutions operating in the region – AfDB, IFAD and the 
+Islamic Development Bank (IsDB) – and also the GCF. The World Bank is already 
+considering engaging in phase II. The programme is one of the largest operations 
+designed in IFAD11, with total cofinancing envisaged at over US$500 million.  
+E.  Costs, benefits and financing 
+Programme costs 
+25.  The programme costs, including contingencies, are estimated at US$541 million 
+over seven years of implementation (2022-2028). 
+26. 
+IFAD will provide a loan of US$49.97 million. AfDB financing will finance 
+29.6 per cent of programme costs, or US$160 million, and US$50 million through 
+the Africa Growing Together Fund, or 9.2 per cent of programme costs. A total of 
+US$60 million will be mobilized through the GCF IGREENFIN programme. 
+Cofinancing from IsDB is projected at 27.7 per cent of programme costs, 
+amounting to US$150 million. Domestic cofinancing constitutes 4 per cent of 
+programme costs, and amounts to US$21.21 million. The US$50.03 million 
+financing gap may be filled through subsequent cycles of the performance-based 
+allocation system (under financing terms to be determined and subject to 
+applicable procedures) or by cofinancing arrangements to be identified during 
+implementation. 
+27.  Component 1 accounts for 46 per cent of total baseline costs equivalent to 
+US$247.58 million, mainly due to the heavy infrastructure to be established. 
+Component 2 accounts for 44 per cent of total baseline costs amounting to 
+US$236.47 million. Component 3 accounts for 1.6 per cent of total baseline costs 
+equivalent to US$8.83 million. Component 4 accounts for 9 per cent of total 
+programme baseline costs amounting to US$48.31 million.  
+28.  Subcomponent 2.2 – smallholder production/productivity enhancement – is fully 
+counted as climate finance. As per the multilateral development banks’ 
+methodologies for tracking climate change adaptation and mitigation finance, the 
+total amount of IFAD climate finance for this programme is preliminarily calculated 
+as US$16,351,000, representing 33 per cent of the total IFAD contribution.  
+5 
+Table 1 
+Programme costs by component and subcomponent and financier  
+(Thousands of United States dollars) 
+Component/subcomponent 
+Amount  %  Amount  %  Amount  % 
+Amount  % 
+Amount  % 
+ADB 
+IsDB 
+IFAD loan 
+Financing gap 
+AGTF 
+Government of 
+Nigeria  
+Beneficiary 
+contribution and 
+Member States 
+IGREENFIN 
+Total 
+Amount 
+in kind 
+% 
+Amount 
+% 
+Amount 
+% 
+Amount  % 
+100 895  41 
+91 058 
+37 
+- 
+- 
+- 
+- 
+37 990  15 
+-  
+- 
+17 646 
+7 
+- 
+-  247 589 
+46 
+1. Infrastructure development and 
+management for agro-industrial 
+hubs 
+2. Agricultural productivity, 
+production, market linkages and 
+value addition in SAPZ catchment 
+areas 
+Agricultural market linkages and 
+value addition 
+Smallholder 
+production/productivity 
+enhancement 
+3 069 
+8 
+30 637  76 
+- 
+- 
+- 
+- 
+6 827 
+17 
+20 646  15 
+12 536 
+9 
+47 873  35 
+48 541 
+36 
+3 457 
+6
+Access to finance and financial 
+inclusion 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Subtotal 
+23 715  10 
+43 173  18 
+47 873  20 
+48 541 
+21 
+10 284 
+3. Policy and institutional 
+development support 
+4. Programme coordination and 
+management 
+6 029  68 
+1 111  13 
+409 
+29 361  61 
+14 658  30 
+1 689 
+Total programme costs 
+160 000  30  150 000  28 
+49 970 
+5 
+4 
+9 
+690 
+799 
+50 030 
+8 
+2 
+9 
+- 
+1 725 
+50 000 
+3 
+- 
+4 
+- 
+4 
+9 
+- 
+- 
+2 891 
+2 
+- 
+- 
+- 
+40 534 
+8 
+-  135 944 
+25 
+- 
+2 891 
+- 
+1 
+60 000  100 
+60 000 
+60 000 
+25  236 478 
+- 
+84 
+-  
+84 
+-  
+- 
+- 
+- 
+- 
+- 
+593 
+7 
+-   0.2 
+- 
+84 
+- 
+21 130 
+- 
+4 
+11 
+44 
+2 
+9 
+- 
+- 
+- 
+- 
+8 832 
+48 316 
+60 000 
+11  541 214  100 
+E
+B
+2
+0
+2
+1
+/
+1
+3
+4
+/
+R
+.
+4
+6
+/
+R
+e
+v
+.
+1
+Table 2 
+Programme costs by expenditure category and financier 
+(Thousands of United States dollars) 
+ADB 
+IsDB 
+IFAD loan 
+Financing gap 
+AGTF 
+Government of 
+Nigeria  
+in kind  
+Beneficiary 
+contribution and 
+Member States 
+IGREENFIN 
+Total 
+Expenditure category 
+Amount  % 
+Amount  % 
+Amount  % 
+Amount  % 
+Amount  % 
+Amount  % 
+Amount 
+% 
+Amount  % 
+Amount 
+% 
+I. Investment costs 
+A. Civil works 
+Constructions and 
+rehabilitation 
+B. Services 
+Training 
+Technical assistance 
+Studies 
+Contractual services 
+Audit 
+7
+Goods, services and inputs 
+Grants and subsidies 
+Subtotal 
+C. Goods 
+93 037 
+31 
+104 644 
+35 
+14 437 
+5 
+36 183 
+12 
+34 549 
+12 
+84 
+17 646 
+1 
+  300 496 
+56 
+7 341 
+33 
+596 
+3 
+3 148 
+12 
+593 
+0.1 
+3 941 
+13 298 
+3 488 
+10 328 
+985 
+18 
+52 
+46 
+52 
+67 
+2 709 
+5 102 
+41 
+7 528 
+492 
+12 
+20 
+1 
+38 
+33 
+6 654 
+2 695 
+2 049 
+262 
+8 419 
+13 230 
+32 040 
+20 
+15 873 
+10 
+33 310 
+30 
+11 
+27 
+1 
+12 
+82 
+21 
+1 956 
+26 
+19 
+280 
+1 
+1 513 
+0 
+8 
+3 237 
+5 
+12 814 
+8 
+5 275 
+3 
+Equipment and materials 
+11 506 
+33 
+15 377 
+Furniture 
+Vehicle 
+Subtotal 
+- 
+998 
+12 504 
+Total investment costs 
+137 580 
+II. Recurrent costs 
+A. Personnel 
+B. General operating costs 
+C. Operation and 
+maintenance 
+D. Salaries and allowances 
+Total recurrent costs 
+10 893 
+8 003 
+2 025 
+1 500 
+22 420 
+- 
+67 
+33 
+28 
+55 
+58 
+65 
+46 
+56 
+730 
+499 
+16 606 
+137 123 
+6 147 
+4 796 
+1 035 
+900 
+12 878 
+44 
+41 
+33 
+43 
+27 
+31 
+35 
+33 
+28 
+32 
+369 
+1 
+369 
+1 
+7 727 
+1 069 
+8 795 
+48 116 
+10 
+48 996 
+10 
+48 620 
+1 854 
+9 
+1 034 
+5 
+22 
+59 
+23 
+10 
+1 080 
+8 
+300 
+1 380 
+50 000 
+9 
+3 
+9 
+5 
+9 
+1 034 
+50 030 
+3 
+9 
+1 854 
+Total programme costs 
+160 000 
+30 
+150 000 
+28 
+49 970 
+895 
+740 
+4 
+3 
+22 136 
+25 575 
+7 552 
+19 912 
+1 477 
+2 891 
+21 130 
+0.2 
+0.1 
+57 789 
+83 
+69 446 
+16 121 
+59 424 
+37  162 219 
+34 978 
+1 799 
+1 497 
+38 274 
+4 
+5 
+1 
+4 
+0 
+13 
+3 
+30 
+7 
+0 
+0 
+7 
+84 
+- 
+21 130 
+0.0 
+59 424 
+12  500 989 
+93 
+0.1 
+2.4 
+0.2 
+19 927 
+13 887 
+3 135 
+3 276 
+576 
+18 
+576 
+1 
+40 225 
+4 
+3 
+1 
+1 
+7 
+84 
+21 130 
+0.0 
+60 000 
+11  541 214 
+100 
+E
+B
+2
+0
+2
+1
+/
+1
+3
+4
+/
+R
+.
+4
+6
+/
+R
+e
+v
+.
+1
+Table 3 
+Programme costs by component, subcomponent and programme year 
+(Thousands of United States dollars) 
+Component/subcomponent 
+2022 
+2023 
+2024 
+2025 
+2026 
+2027 
+2028 
+Total 
+EB 2021/134/R.46/Rev.1 
+22 326 
+62 397 
+68 680 
+70 094 
+24 092 
+247 589 
+1. Infrastructure development and 
+management for agro-industrial hubs 
+2. Agricultural productivity, production, 
+market linkages and value addition in SAPZ 
+catchment areas 
+Agricultural market linkages and value 
+addition 
+Smallholder production/productivity 
+enhancement 
+- 
+17 218 
+14 640 
+4 932 
+3 744 
+14 139 
+23 291 
+25 740 
+34 185 
+28 658 
+7 027 
+40 534 
+135 944 
+60 000 
+Access to finance and financial inclusion 
+679 
+55 797 
+1 312 
+1 033 
+749 
+430 
+Subtotal 
+14 818 
+96 307 
+41 692 
+40 150 
+33 151 
+7 457 
+2 902  
+236 478 
+3. Policy and institutional development 
+support 
+4. Programme coordination and 
+management 
+4 663 
+877 
+891 
+1 128 
+920 
+59 
+293 
+8 832 
+12 835 
+8 695 
+8 643 
+8 798 
+8 884 
+228 
+233 
+48 316 
+Total programme costs 
+54 642 
+168 276 
+119 906 
+120 169 
+67 047 
+7 745 
+3 428 
+541 214 
+29.  The SAPZ programme has been designed and structured in a manner that any 
+delays or non-accrual of activities financed by one partner will have either no or 
+minimal impact on other partners’ activities and outcomes. 
+Disbursement 
+30.  The designated account for the IFAD financing will be operated and replenished 
+following imprest account arrangements. Other methods of disbursement may 
+include direct payments and reimbursements. After IFAD financing has entered into 
+force and the conditions for first disbursement have been duly complied with, and 
+upon the request of the borrower, IFAD will make an initial deposit to the 
+designated account equal to the requirements for six months’ implementation. The 
+proposed thresholds for the statements of expenditures and authorized allocation 
+will be outlined in the letter to the borrower. 
+Summary of benefits and economic analysis 
+31.  The estimated cost per beneficiary is US$320. The programme will replicate the 
+VCDP approach in other value chains that have been used in the economic and 
+financial analysis and the overall programme design approach. The results of the 
+economic analysis justify the SAPZ investments. The analysis shows that the 
+programme has the capacity to generate an economic internal rate of return (EIRR) 
+of 23 per cent. The estimated economic net present value at a 12 per cent discount 
+rate is US$47 million, equivalent to Naira 19.5 billion over a seven-year 
+implementation period. The benefit-cost ratio of 3.2 indicates a return of US$2.38 
+for every dollar invested. These results indicate that the programme is a sound 
+investment yielding a positive rate of return as the EIRR is greater than the hurdle 
+rate (12 per cent) and the estimated economic net present value is greater than 
+zero. 
+8 
+EB 2021/134/R.46/Rev.1 
+Exit strategy and sustainability 
+32.  The exit strategy is built into the programme’s market-driven and resilience-
+building approach that focuses on profitable value chains, knowledge transfer, 
+time-bound support, improved access to services, infrastructure development and 
+the institutionalization of lasting value chain mechanisms, which ensure the 
+sustainability of outcomes and results beyond programme completion. The  
+AfDB-funded infrastructure aims to crowd in private sector investments and AIHs 
+and ATCs will have private sector-led management and revenues to maintain and 
+further develop the support infrastructure. IFAD’s extended implementation period 
+will ensure support to beneficiaries in taking advantage of the additional markets 
+created.  
+III.  Risks 
+A.  Risks and mitigation measures 
+33.  Key risks to programme implementation and proposed mitigation measures are 
+summarized in the table below (further details are provided in the integrated 
+programme risk matrix).  
+Table 4 
+Risks and mitigation measures  
+Risk  
+Country context 
+Risk rating 
+Mitigation measures 
+High  
+High  
+Sector strategies and policies 
+Substantial  
+Moderate  
+Environment and climate context 
+High  
+Substantial  
+Programme scope 
+Moderate  
+Moderate  
+Institutional capacity for implementation and 
+sustainability 
+Substantial  
+Moderate  
+Financial management 
+Substantial 
+Moderate  
+Programme procurement 
+Moderate  
+Moderate  
+Environment, social and climate impact 
+Substantial  
+Moderate  
+Stakeholders 
+Overall 
+Moderate  
+Moderate  
+Substantial  
+Moderate  
+B.  Environment and social category 
+34.  As the lead agency, AfDB’s environmental and social safeguards apply to the 
+operation. Given the emphasis on infrastructure financing, the AfDB has classified 
+the operation as category 1, equivalent to IFAD’s category A. In accordance with 
+its procedures, AfDB has disclosed the relevant documentation to the public for a 
+period of 120 days.  
+35. 
+IFAD has provided additional information on both the IFAD and the Government’s 
+websites to complement the AfDB environmental and social assessments. IFAD’s 
+background documentation provides more details of the activities it will finance, 
+with an emphasis on productive activities and capacity-building. 
+36.  The programme interventions entail the following possible environment and social 
+risks: (i) deforestation and unsustainable energy sources; (ii) waste management 
+and pollution in production and processing; (iii) health and safety in the field; 
+(iv) need for eco-friendly land development; (v) land degradation and 
+unsustainable land management; (vi) limited land access and social exclusion; and 
+(vii) resource conflicts. 
+C.  Climate risk classification 
+37.  The overall programme has a high climate risk. The main climate change-related 
+9 
+EB 2021/134/R.46/Rev.1 
+risks include: flooding, dry spells and drought, resilience and adaptation to climate 
+change. Mitigation measures are detailed in the integrated project risk matrix, and 
+include climate resilience measures in production and processing through 
+awareness campaigns and capacity-building interventions, good agronomic 
+practices and improved seedlings, and resource efficiency. These will be further 
+strengthened through access to IGREENFIN II funding and climate-resilient and 
+low-emission agricultural practices/technologies. 
+D.  Debt sustainability  
+38.  Nigeria’s public debt remains relatively sustainable but vulnerable to income and 
+interest rate shocks. The International Monetary Fund states that despite Nigeria’s 
+relatively low debt level, liquidity-based indicators – driven by low revenue 
+mobilization – remain a cause for concern, with the interest bill representing a high 
+share of government revenue. This makes Nigeria’s low debt-to-GDP ratio highly 
+vulnerable to shocks. The interest-to-revenue ratio is particularly vulnerable to a 
+real interest rate shock.  
+IV.  Implementation 
+A.  Organizational framework 
+Programme management and coordination 
+39.  The programme will establish a common implementation management framework 
+involving all cofinanciers. The Federal Ministry of Finance, Budget and National 
+Planning (FMFBNP) is the designated representative of the borrower and will ensure 
+compliance with the loan covenants. FMARD is the lead implementation agency 
+working with state Ministries of Agriculture. Oversight and strategic direction for 
+implementation of the SAPZ programme will be provided by an Inter-Agency 
+Steering Committee. Inter-Agency Technical Committees will be established at the 
+national level and in each participating state for review of progress implementation 
+and approval of the annual workplan and budget AWP/B. The implementation of 
+the programme is delegated by the lead agency to a Federal Programme 
+Coordination Unit (FPCU) managing AfDB, IFAD, IsDB and government counterpart 
+funds. In line with Nigeria’s federal structure, the FPCU will establish Participating 
+States Implementation Units (PSIUs) in each target state.  
+Financial management, procurement and governance  
+40.  Programme funds will be managed pursuant to the procedures of the Government 
+and each cofinancier. These procedures will be detailed in the letter to the 
+borrower and the manual of administrative, financial and management procedures. 
+41.  The programme will be implemented by jointly funded programme management 
+units. Cofinanciers will use the available country systems to the extent possible, 
+while ensuring that financial management risks are minimized. IFAD will directly 
+disburse funds to the FPCU through the treasury single account of the Federal 
+Government and to the PSIUs through the acceptable private commercial banks. 
+IFAD will use the Office of the Auditor General for the Federation (OAuGF) for the 
+annual programme audit. AfDB will disburse both through the treasury single 
+account and through private commercial banks and will explore the use of the 
+OAuGF at the federal level and in IFAD.  
+42.  Dedicated finance teams at FPCU and PSIU level will be appointed or seconded 
+through competitive process. IFAD’s no objection will be required before their 
+engagement, as well as to any change in status of key programme staff. 
+43.  A joint annual workplan and budget (AWP/B) will be developed by the FPCU and 
+PSIUs. This will be approved by the steering committees at the federal and state 
+levels and subject to no objection by the cofinanciers. At FPCU and PSIU level, joint 
+financial reports will be prepared and submitted to the cofinanciers. Quarterly 
+reports will be submitted 45 days after the end of the quarter and annual audited 
+10 
+EB 2021/134/R.46/Rev.1 
+reports will be submitted 6 months after year-end at the latest. 
+44.  From a country perspective, public access to procurement information and the 
+management of procurement complaints are high risk according to the Public 
+Expenditure and Financial Accountability Framework. Therefore, IFAD’s 
+Procurement Guidelines (and by extension the IFAD Procurement Handbook) will 
+apply to all procurement actions, activities and frameworks, with allowances to use 
+national systems as long as they are not in conflict with IFAD procurement 
+guidelines.  
+45.  The FPCU and the PSIUs (in Ogun and Kano) shall each have two procurement 
+officers, respectively dedicated to AfDB and IFAD funding. The SAPZ programme 
+will have an initial 18-month procurement plan at start-up. Following that, as part 
+of the AWP/Bs, each PSIU will prepare and submit annually for approval a 
+procurement plan for a 12-month period. 
+Target group engagement and feedback and grievance redress 
+46.  The SAPZ programme follows a participatory approach at all levels of 
+implementation. At the community level, farmers’ organizations will be the entry 
+point. Commodity alliance forums will serve as a platform to broker agreements 
+between value chain stakeholders, for dispute resolution and grievance redressal 
+and to influence policies related to agricultural value chain development. Results 
+and plans related to the programme will be widely disseminated among all 
+stakeholders.  
+Grievance redress 
+47.  As soon as programme operations start, a grievance redress mechanism and 
+procedures will be made operational through local government channels, in public 
+spaces in communities and on local radio reaching target communities. The system 
+will be gender and youth sensitive.  
+B.  Planning, monitoring and evaluation, learning, knowledge 
+management and communications 
+48.  Planning. The FPCU will develop a standardized format for the AWP/B. Each PSIU 
+will prepare its AWP/B accordingly, planning the activities and investments in its 
+state in a participatory manner involving all stakeholders. The FPCU will prepare 
+the consolidated AWP/B for the programme based on states’ submissions, to be 
+submitted to the Inter-Agency Technical Committee for approval and to AfDB, IsDB 
+and IFAD for no objection.  
+49.  Monitoring and evaluation. The programme's M&E system will guide  
+decision-makers and stakeholders on programme performance and will assess and 
+document outcomes and impact. The FPCU will put in place M&E tools and 
+procedures according to the Government’s monitoring framework and responding 
+to respective cofinanciers monitoring requirements.  
+50.  Knowledge management and communication. At inception, the programme 
+will elaborate and implement a knowledge management and communication 
+strategy including: (i) the documentation of experiences and the capitalization of 
+lesson learned on inclusive and pro-smallholder programme approaches in key 
+major markets; (ii) the organization of knowledge fairs and learning events; 
+(iii) the production and dissemination of educational and communication materials; 
+and (iv) the establishment of an electronic library.  
+Innovation and scaling up 
+51.  The programme is scaling up the IFAD-supported VCDP with key innovative 
+features: (i) the piloting of inclusive SAPZs; (ii) the institutionalization of 
+commodity alliance forums based on public-private-producer partnerships to 
+engage smallholders and other stakeholders in targeted value chains on equal 
+footing and a win-win basis; (iii) the expansion of digital extension services; 
+11 
+EB 2021/134/R.46/Rev.1 
+(iv) the introduction of blended Green Financing in Nigeria through partnership with 
+the GCF; and (v) the mainstreaming of innovative indicators leveraging geospatial 
+technology and innovative data analysis tools. 
+C.  Implementation plans 
+Implementation readiness and start-up plans 
+52.  Start-up is slated for 2022. The following pre-start-up activities are expected from 
+national and state governments in Kano and Ogun to ensure that programme  
+start-up is not delayed: (i) AWP/B approval for year 1 from state and national 
+steering committees; (ii) recruitment of key staff for FPCU and PSIU; (iii) 
+programme implementation manual; and (iv) establishment of FPCU and PSIU 
+offices.  
+Supervision, midterm review and completion plans 
+53.  Two joint supervision missions (AfDB, IsDB, IFAD and Government) will be 
+undertaken annually to review progress and improve programme implementation. 
+The FMFBNP, FMARD, AfDB, IsDB and IFAD will jointly carry out a midterm review 
+of programme implementation based on terms of reference prepared by FMARD 
+and approved by AfDB, IsDB and IFAD. At programme completion, the Government 
+will provide IFAD, IsDB and AfDB with a report on the overall implementation of 
+the programme. 
+V.  Legal instruments and authority 
+54.  A programme financing agreement between the Federal Republic of Nigeria and 
+IFAD will constitute the legal instrument for extending the proposed financing to 
+the borrower/recipient. A copy of the negotiated financing is attached as  
+appendix I. 
+55.  The Federal Republic of Nigeria is empowered under its laws to receive financing 
+from IFAD. 
+56. 
+I am satisfied that the proposed financing will comply with the Agreement 
+Establishing IFAD and the Policies and Criteria for IFAD Financing. 
+VI.  Recommendation 
+57. 
+I recommend that the Executive Board approves the proposed financing in terms of 
+the following resolution:  
+RESOLVED: that the Fund shall provide a loan on blend terms to the Federal 
+Government of Nigeria in an amount of forty-nine million, nine hundred and 
+seventy thousand dollars (US$49,970,000) and upon such terms and conditions as 
+shall be substantially in accordance with the terms and conditions presented 
+herein. 
+Gilbert F. Houngbo 
+President 
+12 
+Appendix I 
+EB 2021/134/R.46/Rev.1 
+Negotiated financing agreement 
+"Special Agro-Industrial Processing Zones Programme 
+(SAPZ)" 
+(Negotiations concluded on 07 December 2021) 
+Loan No: __________ 
+Programme  name:  Special  Agro-Industrial  Processing  Zones  Programme  (“SAPZ”/  “the 
+Programme”) 
+Federal Republic of Nigeria, represented by the Federal Ministry of Finance, Budget and 
+National Planning (the “Borrower”) 
+and 
+The International Fund for Agricultural Development (the “Fund” or “IFAD”) 
+(each a “Party” and both of them collectively the “Parties”) 
+WHEREAS the Borrower has requested a loan from the Fund for the purpose of financing 
+the Programme described in Schedule 1 to this Agreement;  
+WHEREAS the African Development Bank (AfDB) is co-financing the Programme with a 
+loan of USD 160 million (“AFDB Loan”).  
+WHEREAS the Islamic Development Bank (IsDB) is co-financing the Programme with a 
+loan of USD 150 million (“IsDB Loan”). 
+NOW THEREFORE, the Parties hereby agree as follows: 
+Section A 
+The  following  documents  collectively  form  this  Agreement:  this  document,  the 
+1. 
+Programme  Description  and  Implementation  Arrangements  (Schedule  1),  the  Allocation 
+Table (Schedule 2) and the Special Covenants (Schedule 3). 
+The  Fund’s  General  Conditions  for  Agricultural  Development  Financing  dated 
+2. 
+29 April 2009,  amended  as  of  December  2020,  and  as  may  be  amended  hereafter  from 
+time to time (the “General Conditions”) are annexed to this Agreement, and all provisions 
+thereof shall apply to this Agreement, except for the provisions that refer to Loan financing 
+which  shall  not  apply  to  this  Agreement.  For  the  purposes  of  this  Agreement  the  terms 
+defined  in  the  General  Conditions  shall  have  the  meanings  set  forth  therein,  unless  the 
+Parties shall otherwise agree in this Agreement. 
+The Fund shall provide a Loan (the “Financing”) to the Borrower, which the Borrower 
+3. 
+shall use to implement the Programme in accordance with the terms and conditions of this 
+Agreement. 
+1 
+Appendix I 
+Section B 
+EB 2021/134/R.46/Rev.1 
+The  amount  of  the  loan  is  forty-nine  million,  nine  hundred  and  seventy  thousand 
+1. 
+dollars (US$ 49,970,000). 
+2. 
+The Loan is granted on blend terms, and shall be subject to interest on the principal 
+amount  outstanding  and  a  service  charge  as  determined  by  the  Fund  at  the  date  of 
+approval of the Loan by the Fund’s Executive Board. The interest rate and service charge 
+determined  will  be  fixed  for  the  life  cycle  of  the  Loan  and  payable  semi-annually  in  the 
+Loan Service Payment Currency, and shall have a maturity period of twenty five (25) years, 
+including a grace period of five (5) years starting from the date of approval of the Loan by 
+the Fund’s Executive Board. 
+3. 
+The Loan Service Payment Currency shall be in US Dollars. 
+4. 
+The first day of the applicable Fiscal Year shall be 1 January. 
+Payments of principal, interest and service charge shall be payable on each 15 May 
+5. 
+and 15 November. 
+6. 
+There  shall  be  Designated  Accounts  in  US  Dollar,  for  the  exclusive  use  of  the 
+Programme  opened  in  the  Central  Bank  of  Nigeria  for  the  Federal  Government  and 
+commercial banks acceptable to IFAD for Ogun and Kano states. The Borrower shall inform 
+the Fund of the officials authorized to operate the Designated Account. The IFAD funds will 
+not be mingled with other funds. 
+7. 
+The Borrower shall open and thereafter maintain a draw down accounts in Naira to 
+receive  Financing  from  the  Designated  Account.  The  draw  down  account  at  Federal 
+Government level will be opened in the Central Bank of Nigeria. The National Programme 
+Coordinator will be authorized to manage both the designated and draw down accounts. 
+Each state will operate two accounts in Naira: (i) a state programme account (Programme 
+Account A) to receive IFAD loan funds from the State Designated Accounts; (ii) and a state 
+counterpart  funds  account  to  receive  state  counterpart  funds.  Each  State  Programme 
+Coordinator  will  be  authorized  to  manage  the  Programme  Account  A  and  the  state 
+counterpart funds account. 
+8. 
+The Borrower shall provide counterpart financing for the Programme in the amount 
+of  USD  18.85  million.  This  includes  the  Federal  Government  of  Nigeria  contribution  of 
+USD 85 thousand which will be exclusively in the form of taxes and duties and Participating 
+States8’ contribution of USD 18 million. 
+Section C 
+1. 
+The Lead Programme Agency shall be the Federal Ministry of Agriculture and Rural 
+Development. The implementation of the Programme is delegated by the lead agency to a 
+Federal Programme Coordination Unit (FPCU). The FPCU will establish Participating States 
+Implementation Units (PSIUs) in each participating state. 
+A Mid-Term Review will be conducted as specified in Section 8.03 (b) and (c) of the 
+2. 
+General Conditions; however, the Parties may agree on a different date for the Mid-Term 
+Review of the implementation of the Programme. 
+The Programme Completion Date shall be the seventh (7th) anniversary of the date 
+3. 
+of entry into force of this Agreement and the Financing Closing Date shall be six (6) months 
+8 Ogun State and Kano State 
+2 
+Appendix I 
+EB 2021/134/R.46/Rev.1 
+later,  or  such  other  date  as  the  Fund  may  designate  by  notice  to  the  Borrower.  The 
+Financing Closing Date will be established as specified in the General Conditions. 
+Section D 
+1. 
+The Fund will administer the Loan and supervise the Programme. 
+Section E 
+1. 
+The following are designated as additional grounds for suspension of this Agreement:  
+(a)  The  Programme  Implementation  Manual  (PIM)  and/or  any  provision  thereof, 
+has  been  waived,  suspended,  terminated,  amended  or  modified  without  the 
+prior agreement of the Fund and the Fund, after consultation with the Borrower, 
+has determined that it has had, or is likely to have, a material adverse effect 
+on the Programme. 
+The  following  are  designated  as  additional  general  conditions  precedent  to 
+2. 
+withdrawal:  
+(a)  The  IFAD  No-Objection  to  the  PIM  including  the  Financial  and  Administrative 
+Manual and Procurement Guidelines, shall have been obtained. 
+(b)  Key  Programme  staff  has  been  appointed  or  seconded  as  per  section  10  of 
+Schedule 3 of this Agreement. 
+(c)  An appropriate and functional accounting software shall have been deployed at 
+the  Federal  Programme  Coordinating  Unit  and  Participating  States 
+Implementation Units. 
+(d)  The  Borrower  shall  provide  adequate  counterpart  contribution  for  the  first 
+programme year as specified in the first 18 months AWPB. 
+(e)  The  Subsidiary  Loan  Agreements  (SLA)  is  signed  between  the  Federal 
+Government  and  Participating  States  and  the  Legal  Opinion  shall  have  been 
+issued by the Federal Ministry of Justice.  
+3. 
+The following provisions of the General Conditions shall not apply to this Agreement:  
+(a)  Section 7.05 (Procurement): the procurement of goods, works and services to 
+be  financed  out  of  the  proceeds  of  the  financing  shall  be  subject  to  and 
+governed by: (i) AfDB’s Procurement Guidelines (2007, as amended from time 
+to time); (ii) AfDB’s Guidelines on the Use of Consultants (2007, as amended 
+from time to time). 
+(b)  Section  9.03  (Audit  of  Accounts):  programme  accounts,  financial  statements 
+and  statements  of  expenditure  shall  be  audited  by  independent  auditors 
+acceptable  to  the  Fund  and  the  AfDB,  in  accordance  with  auditing  standards 
+acceptable to the AfDB. 
+4. 
+This Agreement is subject to ratification by the Borrower. 
+The following are the designated representatives and addresses to be used for any 
+5. 
+communication related to this Agreement: 
+3 
+Appendix I 
+EB 2021/134/R.46/Rev.1 
+For the Borrower: 
+[click and type title of the representative] 
+[click and type the name and address of the ministry] 
+For the Fund: 
+The President 
+International Fund for Agricultural Development 
+Via Paolo di Dono 44 
+00142 Rome, Italy 
+Copy to: 
+This Agreement has been prepared in the English language in two (2) original copies, one 
+(1) for the Fund and one (1) for the Borrower. 
+FEDERAL REPUBLIC OF NIGERIA 
+____________________  
+"[Authorised Representative Name]"  
+"[Authorised Representative title]"  
+Date: ____________ 
+INTERNATIONAL FUND FOR 
+AGRICULTURAL DEVELOPMENT  
+___________________ 
+Gilbert F. Houngbo  
+President 
+Date: ______________ 
+4 
+Appendix I 
+EB 2021/134/R.46/Rev.1 
+Schedule 1 
+Programme Description and Implementation Arrangements 
+I. 
+Programme Description 
+1. 
+Target  Population.  The  Programme  shall,  in  Phase  I,  directly  benefit  1.5  million 
+households  including  private  sector  agribusinesses  and  agro-processors,  smallholder 
+farmers,  agri-preneurs  and  agro-dealers.  IFAD  investments,  including  through  the  Green 
+Climate  Fund  (GCF),  will  target  a  total  of  100,000  direct  beneficiaries  (500,000  indirect 
+beneficiaries). Rural women and youth are core target groups. Opportunities for participation 
+will be created for Internally Displaced Persons and Persons with Disabilities. The Programme 
+will benefit a total of 100,000 direct beneficiaries and 500,000 indirect beneficiaries.  
+2. 
+Programme  Area.  The  Programme  will  support  the  setup  of  SAPZ  in  Kano,  Kaduna, 
+Oyo, Kwara, Ogun, Imo, Cross River and the Federal Capital Territory (FCT). IFAD will focus 
+on Kano and Ogun states, leveraging its ongoing programmes. (the “Programme Area”).  
+3.  Objectives. The overall objective of the Programme is twofold: 
+-  Supporting the development of SAPZs in high food production areas to supply the domestic 
+food market and create exportable surpluses (AfDB/IsDB-led). 
+-  Empowering smallholders and small operators including women and youth to take advantage 
+of  the  markets  created  by  the  SAPZs  to  sustainably  enhance  their  income  and  access  to 
+employment, household food security and nutrition, and resilience to climate change (IFAD-
+led).  
+4. 
+Components. The Programme shall consist of the following Components:  
+4.1.  Component  1:  Infrastructure  Development  and  Management  for  Agro-Industrial 
+Hubs. AfDB and ISDB will lead on the support to the FGN in setting up SAPZs in selected 
+high potential areas/states. Each SAPZ will comprise an Agricultural Industrial Hub (AIH) 
+and Agricultural Transformation Centres, strategically located within the production area 
+to aggregate products from the community, transfer them to the AIHs for value addition 
+and  supply  centres  of  demand  for  distribution  and  retail  to  consumers.  This  AfDB-led 
+component is fully developed in their Programme Appraisal Report. 
+4.2  Component  2:  Agricultural  Productivity,  Production,  Market  Linkages  and  Value 
+Addition in SAPZ Catchment Areas. 
+4.2.1  
+Sub-Component 2.1: Agricultural market linkages and value addition. SAPZ will 
+aim at improving the access of smallholder farmers, small scale agro-processors and traders 
+to markets, leveraging the significant opportunities offered by the SAPZs and local markets. 
+Expected outcomes: (i) increased access to markets of targeted smallholders, small-scale 
+processors,  aggregators  and  service  providers;  and  (ii)  climate  resilient  infrastructure  for 
+access to markets sustainably managed by the beneficiary communities. 
+Sub-Component  2.2:  Smallholder  production/productivity  enhancement.  The 
+4.2.2  
+sub-component objective is to enhance smallholder farmer productivity on a profitable and 
+environmentally  sustainable  basis  to  take  advantage  of  the  additional  market  demand 
+created in the SAPZs. Expected outcomes: (i) Farmer Organizations effectively serve their 
+members;  and  (ii)  production  and  productivity  of  the  smallholder  farmers  in  the 
+Programme Area increases to provide marketable surpluses. 
+4.2.3  
+Sub-component  2.3  –  Access  to  finance  and  financial  inclusion.  The  sub-
+component objective is to facilitate access to appropriate and affordably priced resources 
+to  smallholder  farmer  groups,  small  scale  processors  and  other  beneficiary  enterprises 
+supported by the Programme. Expected outcome: smallholder farmer groups, processors, 
+5 
+Appendix I 
+EB 2021/134/R.46/Rev.1 
+traders  and  community-based  service  providers  access  adapted  and  affordable  formal 
+financial services to sustain their agri-enterprises, including for green investments.  
+Beneficiaries of the financial services will be the eligible members of FOs supported by the 
+Programme. The FOs will play a key role in facilitating access to finance of their members 
+from the financial service providers (aggregation of the demand, monitoring of the use of 
+the loans, group guarantee, etc.). FOs may also benefit from loans to finance services to 
+their  members  as  per  their  business  plans.  The  SAPZ  will  adopt  a  gradual  approach  for 
+improving beneficiaries’ access to finance and financial inclusion based on the maturity of 
+FOs. 
+The activities to be funded by GCF will be described in detail in the GCF loan agreement.  
+4.3  Component 3: Policy and Institutional Development Support 
+4.3.1  
+Under  this  component,  the  Programme  will:  (i)  support  the  development  of 
+enabling  policies  and  regulatory  frameworks  for  Agro-Industrial  Zones,  (ii)  facilitate  local 
+policy dialogue for conducive and inclusive market linkages, (iii) strengthen quality control, 
+grading  and  standardization  systems,  (iv)  establish  and  strengthen  conflict  management 
+mechanisms.  While  AfDB  interventions  will  focus  on  all  targeted  states  and  IsDB 
+interventions  will focus  on Kano, Kwara and the Federal Capital Territory (FCT);  IFAD-led 
+interventions will focus on Ogun and Kano states. 
+4.4  Component 4: Programme Coordination and Management 
+II. 
+Implementation Arrangements 
+Lead  Programme  Agency.  Federal  Ministry  of  Agriculture  and  Rural  Development 
+5. 
+(FMARD). 
+Programme  Oversight  Committee.  Strategic  inter-ministerial  collaboration  for  the 
+6. 
+Programme  will  be  provided  by  an  Inter-Agency  Steering  Committee  (IASC)  Chaired  by 
+the Federal Minister of Finance, Budget, and National Planning with the following Federal 
+Ministries as Members  of the Committee to include  Federal Ministers  of: Agriculture and 
+Rural  Development  (FMARD);  Water  Resources;  Power,  Works,  and  Housing;  and 
+Governors of the Participating States. Oversight for the implementation of the Programme 
+at  the  national  level  will  be  the  responsibility  of  a  Federal  Inter-Agency  Technical 
+Committee (FIATC) chaired by the Federal Minister of Agriculture and Rural Development 
+with membership to include Permanent Secretaries or their representative of the Federal 
+Ministries of Industry, Trade & Investment; Finance, Budget, and National Planning; Water 
+Resources; Power, Works, and Housing. In each participating state, a State Inter-Agency 
+Technical  Committee  (SIATC)  will  be  established  and  chaired  by  the  Governor  of  the 
+participating  States  with  membership  to  include  the  Honourable  Commissioners  of 
+Finance/Planning; Agriculture; Water Resources; Trade, Industry and Investment. 
+7. 
+Programme Management Unit. The implementation of the  Programme is delegated 
+by the lead agency to a Federal Programme Coordination Unit (FPCU). The FPCU will be 
+co-financed by IFAD, AFDB and IsDB and include the following key personnel: a National 
+Programme Coordinator, a Financial Controller, an Accountant in charge of IFAD funding, 
+a Procurement Officer in charge of IFAD funded procurement, a Monitoring and Evaluation 
+Officer,  an  Infrastructure  Engineer,  an  Environmental  and  Climate  Change  Safeguards 
+Officer, a Knowledge Management and Communication Officer, an Agricultural Productivity 
+Officer,  Social  Safeguards/Gender  Officer,  and  a  Rural  Institutions  Development  Officer. 
+The FPCU will establish Participating States Implementation Units (PSIUs) in each target 
+state. The PSIU will be co-financed by IFAD, AFDB and IsDB and will include the following 
+Key  Personnel:  a  State  Programme  Coordinator,  a  State  Financial  Controller,  a  State 
+Accountant in charge of IFAD funding, a State Procurement Officer in charge of IFAD funded 
+procurement, a State Monitoring and Evaluation Officer, a State Infrastructure Engineer, a 
+State  Environmental  and  Climate  Change  safeguards  officer,  a  State  Development 
+6 
+Appendix I 
+EB 2021/134/R.46/Rev.1 
+Communication  Officer,  an  Agricultural  Productivity  Officer,  a  Social  Safeguards/Gender 
+Officer, and a Rural Institutions Development Officer. Staff of the FMCU and PSIU will be 
+appointed/seconded  from  the  Federal  and  State  Government  following  established 
+Government procedures acceptable by IFAD and IFAD’s No-Objection. The PPP officer will 
+be recruited competitively in the open market.  
+8. 
+Implementing partners. The SAPZ approach and activities are also designed to foster 
+partnerships with public sector agencies, private sector industry and service providers, civil 
+society organizations, development partners, academic and research organizations. It also 
+seeks  to  create  synergies  with  other  programmes  that  pursue  a  business-oriented 
+agriculture  and  aim  at  agricultural  transformation  through  a  value  chain  approach, 
+including  the  World  Bank-assisted  FADAMA  programme,  the  AfDB-assisted  Agricultural 
+Transformation  Agenda  Support  Programme  (ATASP),  GIZ  AgFin  programme,  and  GCF-
+IFAD IGREENFIN II. 
+9. 
+Planning and Monitoring and Evaluation. The FPCU will develop a standardized format 
+for  the  AWPB.  Each  PSIU  will  prepare  its  AWPB  accordingly,  planning  the  activities  and 
+investments in its state in a participatory manner involving all stakeholders. The FPCU will 
+prepare the consolidated Programme AWPB based on states’ submissions, to be submitted 
+to the National Steering Committee for approval and to AfDB and IFAD for No-Objection. 
+The programme's M&E system will guide decision-makers and stakeholders on Programme 
+performance and assess and document outcomes and impact. The FPCU will put in place 
+M&E  tools  and  procedures  according  to  Government’s  monitoring  framework  and 
+responding to respective co-financiers monitoring requirements. 
+10.  Knowledge  Management  and  Communication.  At  inception,  the  Programme  will 
+elaborate  and  implement  a  Knowledge  Management  and  Communication  Strategy 
+including: (i) the documentation of experiences and the capitalization of lesson learned on 
+inclusive  and  pro-smallholder  programme  approaches  in  key  major  markets;  (ii)  the 
+organization of knowledge fairs and learning events; (iii) the production and dissemination 
+of educational and communication materials; and (iv) the establishment of an electronic 
+library.   
+11.  Programme  Implementation  Manual.  A  Programme  Implementation  Manual  will  be 
+developed at Programme inception.  
+7 
+Appendix I 
+EB 2021/134/R.46/Rev.1 
+Schedule 2 
+Allocation Table 
+Allocation of Loan Proceeds. (a) The Table below sets forth the Categories of Eligible 
+1. 
+Expenditures to be financed by the Loan and the allocation of the amounts to each category 
+of  the  Financing  and  the  percentages  of  expenditures  for  items  to  be  financed  in  each 
+Category: 
+Category 
+Loan Amount 
+Allocated 
+(expressed in USD) 
+1.  Civil work 
+12 990 000 
+2.  Grants and Subsidies 
+11 910 000 
+3.  Services 
+10 500 000 
+4.  Goods 
+7 910 000 
+5.  Recurrent costs 
+1 670 000 
+Percentage 
+100 % net of: taxes, Federal 
+and State Government 
+contribution and beneficiary 
+contribution 
+100 % net of: taxes, Federal 
+and State Government 
+contribution and beneficiary 
+contribution 
+100 % net of: taxes, Federal 
+and State Government 
+contribution and beneficiary 
+contribution 
+100 % net of: taxes, Federal 
+and State Government 
+contribution and beneficiary 
+contribution 
+100 % net of: taxes, Federal 
+and State Government 
+contribution and beneficiary 
+contribution 
+Unallocated 
+TOTAL 
+4 990 000 
+49 970 000 
+(b)  The terms used in the Table above are defined as follows: 
+(i) 
+(ii) 
+Category 1 “Civil works” includes construction, renovation, and rehabilitation. 
+Category 2 “Grants and subsidies” includes matching grant and capital 
+simulation fund. 
+(iii)  Category 3 “Services” includes training, technical assistance, studies, 
+contractual services, and audit. 
+(iv)  Category 4 “Goods” includes equipment and materials, goods, services, and 
+inputs. 
+(v) 
+Category 5 “Recurrent costs” includes personnel and general operating costs. 
+8 
+Appendix I 
+EB 2021/134/R.46/Rev.1 
+2.  Disbursement arrangements  
+Start-up Costs. To facilitate a prompt start up, withdrawals in respect of expenditures 
+for start-up costs in the services and recurrent costs categories incurred before the 
+satisfaction  of  the  general  conditions  precedent  to  withdrawal  shall  not  exceed  an 
+aggregate amount of USD 500,000. Activities to be financed by Start-up Costs will 
+require the No-Objection from IFAD to be considered eligible. 
+the 
+The  start-up  funds  will  include  inter  alia:  (i)  establishment  of  the  FPCU,  PSIU  and 
+salaries  of  key  staff;  (ii)  formulation  of  the  Programme  Implementation  Manual 
+including 
+financial  procedures,  accounting  and  procurement  manual; 
+(iii) preparation of the first annual work plan and budget (AWPB) and procurement 
+plan;  (iv)  organization  of  a  start-up  workshop;  (v)  deployment  of  a  suitable 
+accounting software; (vi) finalization of the scope of work and the terms of reference 
+(ToRs) of the internal auditor as well as report format; and (vii) finalization of the 
+agreement/MoU  templates  to  be  used  with  the  States  and  other  implementing 
+partners including the subsidiary loan agreement with states. 
+9 
+Appendix I 
+EB 2021/134/R.46/Rev.1 
+Schedule 3 
+Special Covenants 
+I. 
+General Provisions 
+1. 
+In accordance with Section 12.01(a)(xxiii) of the General Conditions, the Fund may 
+suspend, in whole or in  part, the right of the  Borrower to  request withdrawals from  the 
+Loan/Grant Account if the Borrower has defaulted in the performance of any covenant set 
+forth below, and the Fund has determined that such default has had, or is likely to have, a 
+material adverse effect on the Programme: 
+2.  Within six (6) months of entry into force of the Financing Agreement, the Programme 
+will procure and install a customize accounting software as it is the practice in IFAD on-
+going  supported  programmes,  to  satisfy  International  Accounting  Standards  and  IFAD's 
+requirements. 
+Transfer  of  the  Proceeds  of  the  Financing  to  the  Programme  States.  The  Borrower 
+3. 
+shall  ensure  that  the  proceeds  of  the  IFAD  loan  are  not  transferred  to  any  participating 
+state  until  each  such  State  shall  have:  (i)  opened  its  State  Designated  Account; 
+(ii) Programme  Account  B;  (iii)  entered  into  a  subsidiary  loan  agreement  with  the 
+Borrower,  in  form  and  substance  acceptable  to  the  Fund,  setting  forth  the  scope  of  the 
+work to be undertaken, expected targets, estimated budget for specific activities, clearly 
+defined target indicators, as well as proposed flow of funds arrangements; and (iv) set up 
+acceptable Financial Management arrangements to the Fund including adopting financial 
+procedures manual, and hiring of the State Programme Accountant, Internal Auditor and 
+state finance officer.  
+4. 
+Planning,  Monitoring  and  Evaluation.  The  Borrower  shall  ensure  that  a  Planning, 
+Monitoring and Evaluation (PM&E) system shall be established within twelve (12) months 
+from the date of entry into force of this Agreement. 
+5. 
+Audit.  The  Borrower  shall  ensure  that  the  SAPZ  shall  appoint,  based  on  terms  of 
+reference approved by the Fund, an independent auditor acceptable to the Fund to audit the 
+consolidated financial statements of the entire Programme on an annual basis, in accordance 
+with international auditing standards and IFAD guidelines on Programme Audits. An audited 
+annual financial statement for the entire Programme at Federal and State levels, together 
+with a management letter on audit observations on internal controls, shall be submitted to 
+the Fund within six (6) months of the fiscal year end. 
+Anticorruption Measures. The Borrower shall comply with IFAD Policy on Preventing 
+6. 
+Fraud and Corruption in its Activities and Operations. 
+7. 
+Sexual  Harassment,  Sexual  Exploitation  and  Abuse.  The  Borrower  and  the 
+Programme Parties shall ensure that the Programme is carried out in accordance with the 
+provisions of the IFAD Policy on Preventing and Responding to Sexual Harassment, Sexual 
+Exploitation and Abuse, as may be amended from time to time.  
+8. 
+Use of Programme Vehicles and Other Equipment.  The Borrower shall ensure that: 
+(a) 
+(b) 
+The types of vehicles and other equipment procured under the Programme are 
+appropriate to the needs of the Programme; and 
+All  vehicles  and  other  equipment  transferred  to  or  procured  under  the 
+Programme are dedicated solely to Programme use. 
+10 
+Appendix I 
+EB 2021/134/R.46/Rev.1 
+FAD Client Portal (ICP)  Contract Monitoring Tool. The Borrower  shall ensure that a 
+9. 
+request is sent to IFAD to access the Programme Procurement Contract Monitoring Tool in 
+the IFAD Client Portal (ICP). The Borrower shall ensure that all contracts, memoranda of 
+understanding,  purchase  orders  and  related  payments  are  registered  in  the  Programme 
+Procurement  Contract  Monitoring  Tool  in  the  IFAD  Client  Portal  (ICP)  in  relation  to  the 
+procurement of goods, works, services, consultancy, non-consulting services, community 
+contracts, grants and financing contracts. The Borrower shall ensure that the contract data 
+is updated on a quarterly basis during the implementation of the Programme. 
+10.  Recruitment  of  staff.  The  Borrower  shall  ensure  that  the  FPMU  and  PSIU  staff  are 
+appointed/seconded in conformity with the PIM. All such staff shall be appointed/seconded 
+under  procedures  acceptable  to  the  Fund  and  have  qualifications  and  demonstrable 
+experience commensurate with their duties. The recruitment process and the appointment 
+of the Key Programme Personnel and technical staff shall be subject to prior review and 
+No-Objection  of  the  Fund.  The  Fund  shall  be  notified  of  the  transfer,  suspension,  and 
+termination of Key Programme Personnel. 
+11.  The  Key  Programme  Personnel  are  listed  in  Schedule  1.  In  order  to  assist  in  the 
+implementation  of  the  Programme,  the  FPMU  and  PSIUs,  unless  otherwise  agreed  with 
+IFAD, shall employ or cause to be employed, as required, key staff whose qualifications, 
+experience and terms of reference are satisfactory to IFAD. Key Programme Personnel shall 
+be seconded to the FPMU and PSIUs in the case of government officials or recruited under 
+a  consulting  contract  following  the  individual  consultant  selection  method  in  the  IFAD 
+Procurement Handbook, or any equivalent selection method in the national procurement 
+system that is acceptable to IFAD. The recruitment of Key Programme  Personnel is subject 
+to IFAD’s prior review and No-Objection. Key Programme Personnel are subject to annual 
+evaluation  and  the  continuation  of  their  contract  is  subject  to  satisfactory  performance. 
+Any  contract  signed  for  Key  Programme    Personnel  shall be  compliant  with  the  national 
+labour regulations or the ILO International Labour Standards (whichever is more stringent) 
+in order to satisfy the conditions of IFAD’s updated SECAP. Repeated short-term contracts 
+must be avoided, unless appropriately justified under the SAPZ’s circumstances. 
+12.  The  Programme  Coordinating  Unit  in  the  Federal  Ministry  of  Agriculture  and  Rural 
+Development  will  coordinate  and  facilitate  the  engagement  of  key  staff  of  the  FPMU, 
+including reviewing of candidate’s CVs in conformity with the PIM, organizing venue and 
+logistics for the interview, as well as delivery of engagement letter to successful candidates. 
+II.  SECAP Provisions 
+1. 
+The Borrower shall carry out the preparation, design, construction, implementation, 
+and operation of the Programme in accordance with the nine standards and other measures 
+and  requirements  set  forth  in  the  Updated  Social,  Environmental  Climate  Assessment 
+Procedures  of  IFAD  (“SECAP  2021  Edition”),  as  well  as  with  all  applicable  laws  and 
+regulations  to  the  Borrower  and/or  the  sub-national  entities  relating  to  social, 
+environmental and climate change issues in a manner and substance satisfactory to IFAD. 
+The  Borrower  shall  not  amend,  vary  or  waive  any  provision  of  the  SECAP  2021  Edition, 
+unless agreed in writing by the Fund in the Financing Agreement and/or in the Management 
+Plan(s), if any. 
+For  Programmes  presenting  high  or  substantial  social,  environmental  and  climate 
+2. 
+risks,  the  Borrower  shall  carry  out  the  implementation  of  the  Programme  in  accordance 
+with  the  measures  and  requirements  set  forth  in  the  Environmental  and  Social  Impact 
+Assessments  (ESIAs)/Environmental,  Social  and  Climate  Management  Frameworks 
+(ESCMFs)  and/or  Resettlement  Action  Plans/Frameworks  (RAPs/Fs)  and  Environmental, 
+Social and Climate Management Plans (ESCMPs) for high risk Programmes and Abbreviated 
+ESIAs and/or Abbreviated RAP/F and ESCMPs for substantial risk Programmes and Free, 
+Prior and Informed Consent (FPIC) Plans, FPIC Implementation Plans, Indigenous Peoples 
+11 
+Appendix I 
+EB 2021/134/R.46/Rev.1 
+Plans  (IPPs),  Pesticide  Management  Plans,  Cultural  Resources  Management  Plans  and 
+Chance Finds Plans (the “Management Plan(s)”), as applicable, taken in accordance with 
+SECAP requirements and updated from time to time by the Fund.   
+The Borrower shall not amend, vary or waive any provision of the ESCMPs and Management 
+Plan(s), unless agreed in writing by the Fund  and if the Borrower has complied with the 
+same requirements as applicable to the original adoption of the ESCMPs and Management 
+Plan(s).  
+3. 
+The Borrower shall not, and shall cause the Executing Agency, all its contractors, its 
+sub-contractors and suppliers not to commence  implementation of any works, unless all 
+Programme affected persons have been compensated and/or resettled in accordance with 
+the  specific  RAP/Abbreviated  RAP,  FPIC  and/  or  the  agreed  works  and  compensation 
+schedule. Provided that where the project person cannot be immediately compensated due 
+to  litigation  issues,  an  acceptable  alternative  design  option  shall  be  firstly  considered  in 
+order to avoid such situation and, in the case such alternative cannot be considered, the 
+Borrower shall provide to the fund evidence that the agreed compensation due has been 
+set aside in an interest yielding account, acceptable to the Fund. 
+4. 
+The Borrower shall cause the Lead Programme Agency to comply at all times while 
+carrying out the Programme with the standards, measures and requirements set forth in 
+the SECAP 2021 Edition and the Management Plan(s), if any. 
+5. 
+The  Borrower  shall  disclose  the  draft  and  final  ESIA  reports  and  all  other  relevant 
+Management Plan(s) with Programme stakeholders and interested parties in an accessible 
+place  in  the  Programme-affected  area,  in  a  form  and  language  understandable  to 
+Programme -affected persons and other stakeholders. The disclosure will take into account 
+any specific information needs of the community (e.g. culture, disability, literacy, mobility 
+or gender). 
+6. 
+The Borrower shall ensure or cause the Executing Agency and Implementing Agency 
+to ensure that all bidding documents and contracts for goods, works and services contain 
+provisions that require contractors, sub-contractors and suppliers to comply at all times in 
+carrying out the Programme with the standards, measures and requirements set forth in 
+the SECAP 2021 Edition, ESCMPs and the Management Plan(s), if any. 
+7. 
+The Borrower will ensure that a Programme-level grievance mechanism is established 
+that is easily accessible, culturally appropriate, available in local languages, and scaled to 
+the  nature  of  the  Programme  activity  and  its  potential  impacts  to  promptly  receive  and 
+resolve concerns and complaints (e.g. compensation, relocation or livelihood restoration) 
+related  to  the  environmental  and  social  performance  of  the  Programme  for  people  who 
+may be unduly and adversely affected or potentially harmed if the Programme fails to meet 
+the  SECAP  standards  and  related  policies.  The  Programme-level  grievance  mechanism 
+needs  to  take  into  account  indigenous  peoples,  customary  laws  and  dispute  resolution 
+processes.  Traditional  or  informal  dispute  mechanisms  of  affected  indigenous  peoples 
+should be used to the greatest extent possible.  
+8. 
+Any event which occurs in relation to serious environmental, social, health & safety 
+(ESHS) incidents (as this term is defined below); labour issues or to adjacent populations 
+during Programme implementation that, with respect to the relevant IFAD Programme: 
+(i) 
+has direct or potential material adverse effect; 
+(ii)  has  substantially  attracted  material  adverse  attention  of  outside  parties  or 
+create material adverse national press/media reports; or 
+(iii)  gives rise to material potential liabilities. 
+12 
+Appendix I 
+EB 2021/134/R.46/Rev.1 
+The  Borrower  shall  ensure  or  cause  the  Executing  Agency,  Implementing  Agency, 
+9. 
+contractors, sub-contractors and suppliers to ensure that the relevant processes set out in 
+the  SECAP  2021  Edition  as  well  as  in  the  ESCMPs  and  Management  Plan(s)  (if  any)  are 
+respected. 
+In the occurrence of such event, the Borrower shall: 
+ 
+ 
+ 
+ 
+ 
+ 
+Notify IFAD promptly; 
+Provide information on such risks, impacts and accidents; 
+Consult  with  Programme-affected  parties  on  how  to  mitigate  the  risks  and 
+impacts;  
+Carry  out,  as  appropriate,  additional  assessments  and  stakeholders’ 
+engagements in accordance with the SECAP requirements; and 
+Adjust,  as  appropriate,  the  Programme  level  grievance  mechanism  according 
+to the SECAP requirements; 
+Propose changes, including corrective measures to the Management Plan(s) (if 
+any), in accordance with the findings of such assessment and consultations, for 
+approval by IFAD.  
+10.  Serious ESHS incident means serious incident, accident, complaint with respect to 
+environmental, social (including labor and community), health and safety (ESHS) issues 
+that occur in loan or within the Borrower’s activities. Serious ESHS incidents can comprise 
+incidents  of  (i)  environmental;  (ii)  occupational;  or  (iii)  public  health  and  safety;  or 
+(iv) social nature as well as material complaints and grievances addressed to the Borrower 
+(e.g. any explosion, spill or workplace accident which results in death, serious or multiple 
+injuries or material environmental contamination, accidents of members of the public/local 
+communities,  resulting  in  death  or  serious  or  multiple  injuries,  sexual  harassment  and 
+violence involving Programme workforce or in relation to severe threats to public health 
+and  safety,  inadequate  resettlement  compensation,  disturbances  of  natural  ecosystems, 
+discriminatory practices in stakeholder consultation and engagement (including the right 
+of  indigenous  peoples  to  free,  prior  and  informed  consent),  any  allegation  that  require 
+intervention by the police/other law enforcement authorities, such as loss of life, sexual 
+violence or child abuse, which (i) have, or are likely to have a material adverse effect; or 
+(ii) have attracted or are likely to arouse substantial adverse attention of outside parties 
+or (iii) to create substantial adverse media/press reports; or (iv) give, or are likely to give 
+rise to material potential liabilities). 
+11.  Without  limitation  on  its  other  reporting  obligations  under  this  Agreement,  the 
+Borrower shall provide the Fund with: 
+ 
+ 
+ 
+Reports  on  the  status  of  compliance  with  the  standards,  measures  and 
+requirements  set  forth  in  the  SECAP  2021  Edition,  ESCMPs  and  the 
+management plan (if any) on a semi-annual basis - or such other frequency as 
+may be agreed with the Fund; 
+Reports of any social, environmental, health and safety incidents and/accidents 
+occurring during the design stage, the implementation of the Programme and 
+propose  remedial  measures.  The  Borrower  will  disclose  relevant  information 
+from  such  reports  to  affected  persons  promptly  upon  submission  of  the  said 
+reports; and 
+Reports  of  any  breach  of  compliance  with  the  standards,  measures  and 
+requirements set forth in the SECAP 2021 Edition and the Management Plan(s) 
+(if any) promptly after becoming aware of such a breach.  
+13 
+Appendix I 
+EB 2021/134/R.46/Rev.1 
+12.  The  Borrower  shall  fully  cooperate  with  the  Fund  concerning  supervision  missions, 
+midterm reviews, field visits, audits, and follow-up visits to be undertaken in accordance 
+with the requirements of SECAP 2021 Edition and the Management Plan(s) (if any) as the 
+Fund considers appropriate depending on the scale, nature, and risks of the Programme. 
+In the event of a contradiction/conflict between the Management Plan(s), if any and 
+13. 
+the Financing Agreement, the Financing Agreement shall prevail. 
+14 
+Indicators 
+Means of Verification 
+Mid-Term 
+End Target 
+Source 
+Frequency 
+Responsibility 
+Logical framework 
+1
+5
+Results Hierarchy 
+Outreach 
+Project Goal: 
+Rural poverty and 
+unemployment 
+reduction resulting 
+in accelerated 
+economic growth 
+achieved by 
+integrated value 
+chain development 
+for key 
+commodities from 
+production to 
+manufacturing 
+Development 
+Objective: 
+Support the 
+development of 
+Special Agro 
+processing zones 
+in high food 
+production areas 
+to supply the 
+domestic food 
+market and create 
+export surplus 
+OUTCOME 
+STATEMENT 2:  
+Increased private 
+Baseline 
+Name 
+1. Persons receiving services promoted or supported by the project 
+Females - Number 
+Males - Number 
+Youth – People  
+Total number of persons receiving services - 
+Number of people 
+1.a Corresponding number of households reached 
+Households - Number 
+1.b Estimated corresponding total number of households members 
+Household members - Number of people 
+Proportion of the population living below US$1.90 per day 
+Population - % 
+Reduction in Unemployment rate  
+Total Reduction - % 
+0 
+0 
+0 
+23.1 
+53.5 
+0 
+0 
+0 
+Youth Reduction - % 
+29.1 
+25000 
+25000 
+20000 
+50000 
+50000 
+50000 
+40000 
+100000 
+50000 
+100000 
+250000 
+500000 
+50 
+20 
+24 
+45 
+18 
+15 
+70 
+70 
+50 
+SF.2.1 Households satisfied with project-supported services 
+Percentage of households (%) 
+SF.2.2 Households reporting they can influence decision-making of local authorities and 
+project-supported service providers 
+Percentage of households (%) 
+Percentage reduction of the number of households experiencing food insecurity 
+Reduction - % 
+Women reporting Minimum Dietary Diversity (MDDW) (IFAD CI 1.2.8) 
+Women- Percentage (%)  
+Women - Number  
+Percentage of households 
+Number of households 
+Household members- Number of people  
+Percentage of beneficiaries reporting an increase in real income 
+Females - % 
+Males - % 
+Youth - % 
+Total - % 
+Percentage of persons/households reporting an increase in production (IFAD CI 1.2.4) 
+Total number of household members- 
+Number of people  
+35 
+9702 
+35 
+9702 
+48510 
+17.5 
+17.5 
+14 
+35 
+0 
+0 
+0 
+0 
+148750 
+20 
+60 
+16632 
+60 
+16632 
+83160 
+40 
+40 
+32 
+80 
+340000 
+Semi 
+Annually 
+IFAD-NPMU 
+Baseline, 
+Midterm & 
+End term 
+IFAD-NPMU 
+Completion 
+IFAD-NPMU 
+ Baseline, 
+Midterm & 
+End term 
+IFAD-NPMU 
+Baseline 
+study, Impact 
+Assessment 
+Surveys, 
+Midterm 
+Reports, 
+CORE 
+outcome 
+Surveys 
+      COI 
+Completion 
+survey 
+Baseline 
+study, Impact 
+Assessment 
+Surveys, 
+Midterm 
+Reports, 
+CORE 
+outcome 
+Surveys 
+Assumptions/Risk/
+Mitigation 
+Farmer 
+Organizations are 
+functional and have 
+proper data 
+management system 
+ Government 
+policies are stable 
+and there are no 
+global economic 
+shocks affecting oil 
+and commodity 
+prices  
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+2
+1
+/
+1
+3
+4
+/
+R
+.
+4
+6
+/
+R
+e
+v
+.
+1
+Monitoring and 
+Evaluation, 
+Reports, 
+ Baseline, 
+Mid-line and 
+End-line 
+IFAD-NPMU 
+Government 
+supports import 
+substitution policy 
+sector capacity in 
+Agro-Industrial 
+management and 
+value chain 
+development  
+1
+6
+68000 
+68000 
+80 
+29750 
+29750 
+35 
+Households - Number 
+Percentage of Households 
+Supported rural producers’ organizations providing new or improved services to their 
+members  (IFAD CI 2.2.4) 
+Number of POs- Organizations  
+Total number of POs members- Number of 
+people  
+Males POs members- Males  
+Female POs members- Females  
+Young POs members- Young people  
+Supported rural enterprises reporting an increase in profit (IFAD CI 2.2.2) 
+Enterprises - Number 
+ Enterprises - % 
+Households reporting adoption of environmentally sustainable and climate resilient technologies 
+and practices (IFAD CI 3.2.2) 
+Total number of household members  
+Percentage of Households 
+Households - Number 
+Persons with new jobs/employment opportunities (IFAD C1 2.2.1) 
+Females (50%) - Number  
+Males (50%) - Number 
+Youth (50%) - Number  
+Total number of persons with new jobs/ 
+employment opportunities- Number of 
+people  
+127500 
+30 
+25500 
+12500 
+12500 
+12500 
+963 
+35 
+25000 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+25000 
+25000 
+25000 
+50000 
+297500 
+70 
+59500 
+1925 
+70 
+Percentage of persons/households reporting using rural financial services  (IFAD CI 1.2.5) 
+297500 
+80 
+59500 
+0 
+0 
+0 
+127500 
+30 
+25500 
+Total number of household members- 
+Number of people  
+Percentage of households 
+Number of households 
+ Households reporting improved physical access to markets, processing, and storage 
+facilities (IFAD CI 2.2.6) 
+Households reporting improved physical 
+access to markets- Percentage (%)  
+Households reporting improved physical 
+access to processing facilities - Percentage 
+(%) 
+Households reporting improved physical 
+access to storage facilities- Percentage (%) 
+Households reporting improved physical 
+access to markets- Households  
+Households reporting improved physical 
+access to processing facilities - Households 
+25500 
+25500 
+30 
+30 
+30 
+0 
+0 
+0 
+0 
+0 
+70 
+70 
+70 
+59500 
+59500 
+Progress 
+Reports, PCR, 
+Core Outcome 
+Surveys 
+Interest of off-takers 
+to engage with 
+farmers.  A 
+conducive policy and 
+business 
+environment for VC 
+actors  
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+2
+1
+/
+1
+3
+4
+/
+R
+.
+4
+6
+/
+R
+e
+v
+.
+1
+1
+7
+Output 2.1. 
+Enabling economic 
+infrastructure 
+provided for value 
+chain development 
+Output Indicator 
+2.2 Farm level 
+infrastructure 
+developed 
+Output Indicator 
+2.3 Certified inputs 
+provided to 
+farmers in the 
+vicinity of AIHs  
+Output Indicator 
+2.4 Skills of value 
+chain actors 
+developed  
+59500 
+100 
+200 
+50 
+100 
+100 
+100 
+72 
+72 
+144 
+0 
+25500 
+Households reporting improved physical 
+access to storage facilities- Households  
+Percentage increase in yields for commodities produced by targeted smallholder farmers 
+(in Ogun and Kano) 
+Rainfed Rice -% 
+Irrigated Rice - % 
+Tomato - % 
+Sesame - % 
+Ground nut 
+Cassava - % 
+Number of boreholes, bridges and culverts constructed rehabilitated/ extended 
+Boreholes - Number 
+Small Bridges - Number  
+Culverts - Number 
+Number of markets, processing or storage facilities constructed or  rehabilitated (IFAD CI 
+2.1.6) 
+Total number of facilities- Facilities 
+Market facilities constructed/ rehabilitated- 
+Facilities 
+Processing facilities constructed/ 
+rehabilitated- Facilities 
+Storage facilities constructed/ rehabilitated- 
+Facilities 
+Number of Farmer Organizations (FOs) Commodity Stores Established 
+Commodity Stores - Number 
+ Number of ACs constructed 
+ACs - Number 
+Km of feeder roads constructed/rehabilitated or upgraded (IFAD CI 2.1.5) 
+Roads - Km 
+Hectares of land brought under climate –resilient management (IFAD C1 3.1.4) 
+Total Land - Ha 
+Quantity of improved inputs provided to farmers in the Agro-Industrial production zones 
+40 
+40 
+79 
+2500 
+264 
+422 
+165 
+20 
+13 
+0 
+0 
+48 
+24 
+5692 
+768 
+480 
+300 
+Certified Seeds - Tons 
+80000 
+Number of persons provided with climate information services (IFAD CI 3.1.2) 
+Total- number  
+Females- number 
+Males- number 
+Youth- number 
+Number of persons trained in production practices and/or technologies (IFAD CI 1.1.4) 
+Females - Number 
+Males - Number 
+Youth - Number  
+Total - Number 
+19125 
+19125 
+15300 
+38250 
+60000 
+30000 
+30000 
+24000 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+100000 
+50000 
+50000 
+40000 
+42500 
+42500 
+34000 
+85000 
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+2
+1
+/
+1
+3
+4
+/
+R
+.
+4
+6
+/
+R
+e
+v
+.
+1
+Semi-annually 
+and annually 
+Progress 
+Reports, M&E 
+Reports 
+Quarterly, 
+Semi-
+annually, and 
+Annually  
+IFAD-NPMU 
+Semi-annually 
+and annually 
+Progress 
+Reports, M&E 
+Reports 
+Quarterly, 
+Semi-
+annually and 
+Annually 
+IFAD-NPMU 
+0 
+0 
+0 
+0 
+42500 
+42500 
+34000 
+85000 
+34020 
+6300 
+27720 
+34020 
+170100 
+9450 
+Number of persons trained in income-generating activities or business management (IFAD 
+CI 2.1.2) 
+19125 
+Females -Number 
+19125 
+Males - Number  
+15300 
+Youth - Number  
+Total - Number 
+38250 
+Persons provided with targeted support to improved nutrition (IFAD CI 1.1.8) 
+10206 
+Persons - Number  
+1890 
+Male - Number 
+8316 
+Female - Number 
+10206 
+Households- Households  
+52920 
+Household members benefited  
+Young - Number 
+2835 
+Number of persons accessing financial services (IFAD CI 1.1.5) 
+Females -Number 
+Males - Number  
+Youth - Number  
+Total - Number 
+Number of rural enterprises accessing business development services (IFAD CI 2.1.1) 
+Enterprises - Number 
+Persons accessing market information services in Ogun and Kano  
+Persons - Number  
+Number men and women farmers, processors/traders and community-based service 
+providers  trained in financial literacy in Ogun and Kano 
+Number - Total 
+Number of Commodity Alliance Forums (CAFs) Established in Ogun and Kano 
+CAFs -Number 
+Number of Farmer Organizations (FOs) Established 
+FO's - Number 
+Rural producers’ organizations supported  (IFAD CI 2.1.3) 
+Total size of POs-Organizations  
+Rural POs supported- Organizations  
+Males  
+Females  
+Number of existing/new laws, regulations, policies, or strategies, proposed to policy 
+makers for approval, ratification or amendment. (IFAD policy 3) 
+19125 
+19125 
+15300 
+38250 
+42500 
+42500 
+34000 
+85000 
+0 
+0 
+0 
+0 
+42500 
+85000 
+90000 
+1650 
+2750 
+2750 
+26 
+48 
+ 0 
+Policy Documents - Number 
+0 
+ Existing policy document reviewed, updated, and approved by the Federal and State 
+Governments (AfDB Indicator) 
+Policy Documents - Number 
+0 
+1 
+2 
+1 
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+2
+1
+/
+1
+3
+4
+/
+R
+.
+4
+6
+/
+R
+e
+v
+.
+1
+Baseline 
+study, Impact 
+Assessment 
+Surveys, 
+Midterm 
+Reports, 
+CORE 
+outcome 
+Surveys 
+Baseline, 
+Midterm & 
+End term 
+IFAD-NPMU 
+1
+8
+Output Indicator 
+2.5 Development 
+of a Value Chain 
+Support System 
+OUTCOME 
+STATEMENT 3: (i) 
+Enabling policies 
+and regulatory 
+framework for 
+Agro-Industrial 
+Zones are 
+developed  
+Output 3.1 
+Development/ 
+strengthening of 
+Regulatory institution/special regulatory regime established (independently or within 
+existing institution) (AfDB Indicator) 
+Institution - Number 
+Number of policy-relevant knowledge products completed (IFAD Policy 1) 
+KM Products - Number  
+CAFs capacitated in advocacy for improved business environment 
+CAFs - Number 
+Number of studies on CAFs business environment conducted 
+10 
+0 
+1 
+0 
+1 
+Studies - Number  
+enabling Policy, 
+Legislation and 
+Regulation for 
+SAPZs 
+Output 3.2 
+Provide technical 
+assistance and 
+capacity building 
+for staff of relevant 
+public institutions 
+1
+9
+1 
+ 2 
+24 
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+2
+1
+/
+1
+3
+4
+/
+R
+.
+4
+6
+/
+R
+e
+v
+.
+1
+Appendix III 
+EB 2021/134/R.46/Rev.1 
+Integrated Programme Risk Matrix (IPRM) 
+Risk Categories and Subcategories 
+Country Context 
+Political Commitment 
+Risk(s):  
+Poor  governance  and corruption  will  increase  programme  costs  and  compromise 
+attainment of the expected impact.  
+There is also a risk of political interference in the Programme Management Units at 
+National and State levels and inadequate capacity of staff recruited, which affect the 
+efficiency and effectiveness of Programme deliveries. 
+Mitigations:  
+The programme will contribute to reducing unemployment and poverty, particularly 
+among the youth, and thereby directly mitigating some of the main underlying 
+factors of conflict. It will address the conflicts between herdsmen and farmers 
+through CAF. Furthermore, social risks will be reduced through gender-sensitive 
+approaches and ensuring that the poor are not excluded from programme benefits. 
+Inherent 
+Residual 
+High 
+High  
+Substantial   Substantial  
+Substantial   Substantial   
+Governance 
+High  
+High  
+Risk(s):  
+Nigeria’s score on the annual Corruption Perceptions Index as published by 
+Transparency International for 2020 was 25, placing the country rank at 149 (out 
+of 180 countries assessed), which is considered high-risk. Risks related to the 
+country’s fragility context, such as poor governance and corruption could increase 
+programme costs and compromise attainment of the expected impact. 
+Mitigations:  
+Supporting enhanced local participation in governance and improved local 
+resource management and accountability, as well as involving stakeholders in the 
+procurement process of good and services. 
+Macroeconomic 
+Risk(s):  
+Nigeria’s prolonged economic crisis coupled with COVID-19 pandemic resulting in 
+increases in the cost of inputs and transportation, and purchasing power of the 
+population. This will negatively affect profit margins along the value chains.  
+Mitigations:  
+The macroeconomic risks will be partly mitigated by the Programme through 
+interventions that will reduce transaction costs (resulting from, e.g., economies of 
+scale, improved infrastructures and improved access to market information). 
+High  
+High  
+High  
+High  
+High  
+High  
+Fragility and security 
+High  
+High  
+Risk(s):  
+a) Institutional and Social Fragility in Nigeria:  
+Despite  Nigeria’s  human and material  resources,  Nigeria is described as  a  badly 
+governed  nation  with  several  weak  institutions  incapable  of  ensuring  functional 
+policies; where policies exist, they are poorly implemented or entangled in corruption 
+or whims of office holders.  
+b) Conflict and Violence:   
+For  over  a  decade,  Nigeria  has  witnessed  increased  level  of  violent  conflicts 
+principally  as  a  result  of  the  Islamic  insurgency  in  the  northeast,  kidnapping  for 
+ransom  pervasive  in  the  Northwest  and  farmer-  herder  conflicts  rooted  in  the 
+country’s bourgeoning livestock and human population in the face of climate change 
+localised in the North Central and southern states. 
+c) COVID-19 and Fragility:   
+The outbreak of COVID-19 in Nigeria in March 2020 have worsened the fragility 
+situation. 
+Mitigations:  
+For Ogun state, the following mitigation measures will be taken:  
+i) Setting up of conflict early warning committees in project locations especially 
+local farmer-herder groups. The Commodity Alliance Forum (CAF) is tailored for 
+such purpose.  
+20 
+High  
+High  
+Appendix III 
+EB 2021/134/R.46/Rev.1 
+Risk Categories and Subcategories 
+Inherent 
+Residual 
+ii) Regular dialogue/involvement of youth and women groups (including Omo-Inile 
+groups as participants in the SAPZ project  
+iii) Regular and sustained engagement with local vigilante groups especially 
+Amotekun group.  
+iv) Avoidance of Egbado North, Egbado South and Ijebu North LGAs as SAPZ 
+project locations due to high prevalence of violence.  
+v) Appropriate prevention measures including place markers with appropriate 
+social distancing (2 meter interval recommended), hand washing facilities and 
+compulsory use of face masks. 
+For Kano state, the following mitigation measures will be taken:  
+i) Getting regular security updates from UNDSS about project location and 
+activities to inform programming throughout the duration of the project.  
+ii) Setting up of conflict early warning committees in SAPZ project locations. The 
+Commodity Alliance Forum (ca) should be utilized for this purpose.  
+iii) Complete avoidance of Kano Municipal in the siting of SAPZ projects.   
+iv) Direct involvement of typically marginalized groups (women and youth) as 
+SAPZ’s direct beneficiaries. Married young women should be deliberately targeted 
+to avoid conflict and increase family income. 
+v) Strict enforcement of rules guiding use of protective gears, safe distancing to 
+avoid the risks of Covid-19.  
+Sector Strategies and Policies 
+Policy alignment 
+Risk(s):  
+Agricultural and trade policies are unsupportive to programme goals. The import 
+and export policies on rice, cassava wheat and poultry can negatively impact 
+market prices and significantly reduce the profit margins along the value chains. 
+Mitigations:  
+The Programme will support FMARD to review and advocate for appropriate policy 
+support for the products supported by the programme. 
+Substantial   Moderate 
+Substantial  Moderate  
+Substantial  Moderate  
+Policy development & implementation 
+Substantial  Moderate 
+Substantial  Moderate  
+Risk(s):  
+The risk faced for SAPZ is to stay aligned to the country's different development 
+strategies and policies. Nigeria has several key strategies as below:  
+- The Economic Growth and Recovery Plan 2017-20 (EGRP). 
+- The Vision 20:20 Road Map which emphasises a diversified private sector-led 
+economy, agricultural growth, and employment creation. 
+- The Green Alternative Roadmap for Agriculture, which prioritizes four pillars: food 
+security, job creation, import substitution and economic diversification using a 
+decentralized coordination framework 
+- The Strategic Framework for Youth Employment and Job Creation of the FMARD 
+which emphasizes youth employment in agriculture. 
+Mitigations:  
+The  development  of  SAPZ  across  the  country  is  a  key  element  of  Nigeria’s 
+agricultural transformation agenda, the Economic Growth and Recovery Plan 2017-
+20 (EGRP).  
+The FMARD is also working on a the medium term Agricultural policy strategy of 
+FMARD which is encapsulated in the Agricultural Technology and innovation plan 
+(NATIP).The NATIP is built on the following seven strands :i. Knowledge creation 
+and Transfer; Rural access to mechanisation; Comprehensive extensive services; 
+Value-addition; Market Development; Sustainable funding ; and Synergy and MDA 
+Alignment.  
+The  SAPZs  project  is  designed  as  strategy  to  generate  mutual  benefits  for 
+smallholders and agro-processing firms including youth and women. With SAPZs, 
+the  Nigerian  Government  aims  to  attract  the  private  sector  to  set  up  processing 
+plants in zones of high food production and process commodities into food products, 
+while generating increased income generating opportunities for smallholders who 
+account for the majority of the poor. The expected outcome is that food systems are 
+improved, smallholders have increased and secured outlets for the competitive sell 
+of their produce, and off-takers have a secured supply of produce in the required 
+quantity and quality to supply Nigeria’s huge food market.  
+21 
+Appendix III 
+EB 2021/134/R.46/Rev.1 
+Risk Categories and Subcategories 
+Inherent 
+Residual 
+Continued  dialogue  with  the  Government  is  necessary  to  ensure  government 
+support to the Agro-Industrialization agenda.  
+Environment and Climate Context  
+Project vulnerability to environmental conditions 
+High  
+Substantial 
+Substantial  Moderate  
+Risk(s):  
+Deforestation  and  woodland  degradation  risk  is  a  significant  risk.  The  use  of 
+firewood for small-holder processing, land clearing for new farms, and development 
+of market infrastructure are likely to increase forest and woodland losses in SAPZ 
+project  area.  In  addition,  SAPZ  production  activities  will  likely  trigger  land/  soil 
+degradation including erosion. 
+Mitigations:  
+SAPZ will promote use of alternative energy to fuel wood for processing and also 
+land  development  and 
+promote  agroforestry.  Where 
+construction  of  market  infrastructure  is  unavoidable,  this  will  be  compensated  by 
+tree replanting along the constructed roads and hedges along the farm boundaries. 
+Contractors will be required to produce EMSP for market infrastructure. SAPZ will 
+also  promote  Good  Agricultural  Practices  through  training  on  sustainable  land 
+development and preparation methods. 
+tree  removal  during 
+Substantial  Moderate  
+Project vulnerability to climate change impacts 
+High  
+Substantial  
+Risk(s):  
+Projected  climatic  changes  suggest  that  due  to  the  increase  in  the  variability  of 
+climatic conditions, SAPZ project areas will experience fluctuations in temperatures 
+and  precipitation  which  can  hamper  smallholder  agricultural  value  chains.  Both 
+rainfall  and  temperature  are  likely  to  increase  with  possibility  of  more  disastrous 
+floods. With the increase of dry spells, there could an increase of droughts during 
+the wet season and rain during the dry season. Increased intensity when coupled 
+with  land  clearing  means  a  greater  risk  of  surface  runoff  and  topsoil  erosion, 
+increased  risk  of  river  damage  to  road  infrastructure  and  increased  risks  of 
+landslides. 
+Mitigations:  
+SAPZ  will  integrate  climate  resilience  measures  through  capacity  building 
+programmes  in  climate  smart  agricultural  strategies,  strong  collaboration  with 
+extension  and  climate  information  services,  good  agronomic  practices  and  ‘no 
+regrets’  mechanisms.  The  IGREENFIN  financing  mechanism  will  be  accessed  to 
+finance some of the climate mitigation and adaptation activities. 
+Project Scope 
+Project relevance  
+Risk(s): There is a risk of Nigeria's agricultural and trade policies and economic 
+environment being unsupportive to programme goals. This will effect the import 
+and export polices on rice and cassava can negatively impact market prices and 
+significantly reduce the profit margins along the Value Chains. 
+Mitigations:  
+In  its  Agriculture  Promotion  Policy  (2016-2020),  the  Government’s  four  main 
+priorities  are:  food  security,  import  substitution,  job  creation  and  economic 
+diversification. The project is being developed at the request of the Government and 
+its objectives and targets are a Government priority.  
+The  development  of  SAPZs  across  the  country  is  a  key  element  of  Nigeria’s 
+agricultural transformation agenda, the Economic Growth and Recovery Plan 2017-
+20 (EGRP). The SAPZs project is designed as strategy to generate mutual benefits 
+for smallholders and agro-processing firms including youth and women.  
+SAPZ will contribute to IFAD’s overarching strategic goal to support rural people to 
+overcome poverty and achieve food security through remunerative, sustainable and 
+resilient livelihoods 
+Technical soundness  
+Risk(s):  
+Ineffective collaboration between public, farmers and private sectors organizations, 
+affecting implementation of the 4P model. 
+Mitigations:  
+22 
+High  
+Substantial  
+Moderate   Moderate  
+Moderate   Moderate  
+Moderate   Moderate  
+Moderate   Moderate  
+Moderate   Moderate  
+Appendix III 
+EB 2021/134/R.46/Rev.1 
+Risk Categories and Subcategories 
+Inherent 
+Residual 
+IFAD-supported Commodity Alliance Forums (CAFs) are an innovative mechanism 
+that brings together value chain stakeholders on equal footing to agree on win-win 
+business  transactions  and  access  value  added  services.  Strengthening  and 
+institutionalizing the CAFs and supporting off-takers to develop their services for the 
+farmers. 
+Risk: 
+Lack of reliable off-takers and markets for farmers. 
+Moderate   Moderate  
+Mitigations: 
+Establishment of AIH and ATC will contribute to secure access to markets for the 
+farmer  in  the  different  value  chain  supported  by  the  project.  In  case  of  delays  in 
+operationalization of the AIHs and ATC, the project will link farmers to existing off-
+takers / processors as implemented under VCDP. 
+Risk:  
+The implementation of the Programme’s gender mainstreaming agenda is 
+simplified and considered as “business as usual”.  
+Mitigations:  
+The Programme will invest substantial efforts in providing all stakeholders directly 
+involved in managing programme activities the support to equip them to do so. 
+Risk:  
+Possible resistance or reluctance to quality control and standardisation and 
+grading by agro-processors and traders.  
+Mitigations:  
+Sensitisation,  consultation  and  training  of  relevant  government  agencies,  and 
+adequate demonstration of the benefits which agro-processors and traders get by 
+having established quality norms and standards will help to increase incentives  
+Risk:  
+Farmers and other value chain actors supported by the Programme cannot access 
+finance to sustain and develop their enterprise.  
+Mitigations:  
+On the supply side, implementation of the financial inclusion framework will raise 
+appetite of the financial institution to finance smallholder farmers and other value 
+chain actors. Implementation of financial literacy training on the demand side.  
+Moderate   Moderate  
+Moderate   Moderate  
+Moderate   Moderate  
+Risk:  
+Lack of maintenance of market infrastructures supported by the Programme ToRs.  
+Moderate   Moderate  
+Mitigations:  
+The Programme will strengthen ownership and capacities of the Operations and 
+Maintenance committees set up by the Programme.  
+Risk:  
+Poor governance and management of the processing and marketing groups  
+Moderate   Moderate  
+Mitigations:  
+Promotion of private enterprises rather than group managed enterprises. 
+Risk:  
+Beneficiaries fail to mobilize counterpart contribution for the matching grants.  
+Moderate   Moderate  
+Mitigations:  
+The Programme will support development of savings strategy for the beneficiaries. 
+The Programme will also support (i) channeling of concessional resources to attract 
+and leverage private sector funds and decrease cost of finance, (ii) assistance to 
+financial  institutions  to  design  financial  products  for  the  different  categories  of 
+beneficiaries  and  various  financing  needs, supporting  in  particular  the intra  value 
+chain input financing by off-takers / aggregators, (iii) leveraging various government 
+promoted de-risking financing schemes, and (iv) enhancing financial literacy of the 
+beneficiaries to enable them to make informed choices and increase their trust in 
+the financial sector. 
+Institutional Capacity for Implementation and Sustainability 
+Implementation arrangements 
+Risk(s):  
+Substantial   Moderate  
+Substantial    Moderate  
+Substantial   Moderate  
+23 
+Appendix III 
+EB 2021/134/R.46/Rev.1 
+Risk Categories and Subcategories 
+Inherent 
+Residual 
+Political  interference  in  the  Programme  Management  Units  at  national  and  state 
+levels and inadequate capacity of staff recruited.  Ineffective coordinating structures 
+at national, state and local government levels. 
+Mitigations:  
+ Regular 
+interaction  between  AfDB  and 
+Joint 
+supervision 
+structures. 
+Staff is recruited on competitive basis with emphasis on skills and experience. 
+ Capacity building of members of coordination structures, quarterly meetings to 
+review  implementation  progress,  and  regular  on  site  monitoring  missions  by 
+NPMU. 
+and  mid-term 
+IFAD  programme  management 
+review  missions  
+ Close supervision and oversight of project management by ICO and CPAT and 
+provision of technical assistance. 
+M&E arrangements 
+Risk(s):  
+The  risks  that  the  Project  might  experience  delays  in  implementation  and 
+recruitment  of  staff  will  affect  timely  M&E  exercises.  In  addition,  capacity 
+development required to follow IFAD’s M&E requirements. 
+Mitigations:  
+The SAPZ monitoring and evaluation will be guided by a limited but sound number 
+of indicators to inform implementation in real time. There will be a strong emphasis 
+on lessons learned, to build evidence to inform future crisis scenarios and ongoing 
+IFAD-funded  programme  in  the  country.  Monitoring  and  evaluation  will  be  done 
+through  the  proposed  National  Programme  Management  Unit,  which  will  handle 
+data generation and transmission. The NPMU will make quarterly progress reports 
+on the SAPZ available to IFAD.  
+Moderate   Moderate  
+Moderate   Moderate  
+Procurement 
+Legal and regulatory framework 
+Moderate   Moderate  
+Moderate   Moderate  
+Moderate   Moderate  
+Risk(s):  
+The Procurement Act has been reviewed in 2016 and the risk for its use is rated at 
+“Moderate” because the Act does not allow participation of foreign firms in National 
+Competitive  Bidding  opportunities.  The  National  Standard  Bidding  document  for 
+goods, works, and services, including General Conditions of Contracts (GCC) for 
+public  sector  contracts,  and  the  dispute  resolution  mechanism  and  enforcement 
+procedures of outcome of the dispute resolution process, have been reviewed and 
+the risk for its use is rated at “moderate” due to the following reasons:  
+a)  There  are  standard  solicitation  documents  for  consulting  services,  Goods  and 
+works available to public on the BPP website.  
+b) There are standard and mandatory set of clauses or templates that are reflective 
+of the legal framework for use in documents prepared for competitive bidding;  
+c) The documents are kept up to date and guidelines are prepared to facilitate their 
+use. Bureau of Public Procurement (BPP) has the responsibility of the preparation 
+and update. 
+The legal provisions, including the institutions in charge of dealing with prohibited 
+practices (corruption, fraud, conflict of interest, and unethical behavior), which also 
+define  responsibilities,  accountabilities  and  penalties  for  prohibited  practices,  has 
+been reviewed and the risk is rated at “Low” due to the following provisions: (a) it is 
+a punishable offence to conduct or attempt to conduct procurement fraud by means 
+of fraudulent and corrupt acts, unlawful influence, undue interest, favor, agreement, 
+bribery or corruption (PPA Art. 58 (3) b). A section on fraud and Corrupt practices 
+covering  Corrupt,  Fraudulent,  Collusive,  Coercive  and  Obstructive  Practices  is 
+included  in  the  Bidding  Documents;  and  (b)  detailed  Code  of  Conduct  for  Public 
+Procurement is covered in Art, 57; and all offences relating to Public Procurement 
+in Art. 58. 
+Mitigations:  
+Based on the OECD/DAC  MAPs tool, a Rational for Assessing Critical Indicators 
+(RACI) review of the Nigeria public procurement System has been performed and 
+led to the conclusions that the system was not found reliable for its use in the project. 
+The review has also identified additional risks within the procurement system which 
+may affect the efficiency of procurement operations, namely: absence of acceptable 
+range of benchmark costs; inadequate preparation of investment projects prior to 
+24 
+Appendix III 
+EB 2021/134/R.46/Rev.1 
+Risk Categories and Subcategories 
+Inherent 
+Residual 
+being admitted in the budget; delay in obtaining procurement approvals; presence 
+of  bidder  cartels;  corrupt  and  fraudulent  practices  in  procurement  processes; 
+ineffective  procurement  monitoring; delayed  payments;  delay  in  budget  approval; 
+late release of budgeted funds; lack of budget-linked procurement planning; failure 
+of full compliance with the use of standard bidding documents; poor bid evaluation 
+reports;  delays  in contract  award  approvals;  weak procurement  and  performance 
+monitoring;  poor  record  keeping;  fraud  and  corruption;  and  lack  of  effective 
+enforcement of sanctions as provided for the law; lack of segregation of duties in 
+the  tendering  and  expenditure  management  processes;  applying  the  ‘shopping’ 
+method for higher value procurements inconsistent with the applicable rules and the 
+methods  defined  in  the  procurement  plans;  splitting  procurement  packages  to 
+circumvent procurement thresholds; payment to suppliers who have not delivered 
+the  goods  or  have  delivered  sub-standard  goods  and  several  different  suppliers 
+sharing the same address – an apparent sign of collusion and attempt to show that 
+there was competition; inflated costs (sometimes twice) on procurement of goods; 
+etc. 
+The following mitigation measures should be taken in order to address these issues:  
+1. Ensure effective coordination at Federal and State level in terms of sequencing 
+of implementation to ensure synchronization of procurements by different donors.  
+2.  Ensure  effective  coordination  between  Federal  and  State  level  in  terms  of 
+sequencing  of  implementation  to  ensure  synchronization  of  procurements  by 
+different implementing agencies.  
+3. Adopt robust oversight and frequent monitoring  
+4.  Provide  Technical  Assistance 
+for  capacity  development  and  Project 
+Management.  Twinning  arrangement  to  be  adopted  and  gradual  transfer  of 
+knowledge phased over the project duration.   
+5. Conduct market survey and analysis.  
+6. Conduct feasibility studies and design before acceptance for financing. 
+7. Step up oversight  
+8.  Evoke  sanctions  as  deterrent  and  adopt  e-procurement  to  reduce  human 
+interaction  
+9. Provide training and adopt e-procurement to reduce human interaction  
+10. Link start of procurement with budget availability  
+11.  Conduct  training  and  step  up  monitoring  and  adopt  e-procurement  to  reduce 
+human interaction  
+12. Provide Technical assistance and Conduct training and step up monitoring.  
+Accountability and transparency 
+Substantial  Substantial  
+Risk(s):  
+There  are  inadequate  accountability  and  control  mechanisms,  including  lack  of 
+separation  of  implementation  from  regulatory  functions;  involvement  of  political 
+appointees in procurement decisions; lack of enforcement of sanctions and weak 
+capacity of the judiciary to adjudicate on procurement infractions. There is presence 
+of bidder cartels; corrupt and fraudulent practices in procurement processes. 
+The existing complaints system has been reviewed to ensure that it set out clear 
+specific conditions that provide for fairness, independent and due process, and the 
+risk for its use in Bank-financed projects is rated at “Moderate” due to the following 
+reasons:  (a)  the  Federal  High  Courts  are not  dedicated  to  receive  and  discharge 
+appeals on procurement complaint within specified periods. Litigation may unduly 
+take long period. No independent administrative reviewing body; (b) there are no 
+established procedure to conduct independent Administrative Review; and (c) there 
+are no independent Administrative Review Body. 
+The Regulatory body has been assessed to ensure that it is not responsible for direct 
+procurement  operations  and  is  free  from  other  possible  conflicts  of  interest  in 
+procurement, and the risk for its use in Bank-financed projects is rated at “High” due 
+to the fact that though the BPP monitors public procurement proceedings and deals 
+with  any  identified  irregularities,  it  is  also  required  to  provide  certification  on  the 
+procurement decisions of the PE for certain thresholds determined by the Council. 
+Thus giving the Bureau a dual responsibility when handling complaints, which may 
+put it in a potential conflicting position with its oversight role. 
+Mitigations:  
+The following mitigation measures should be taken in order to address these 
+issues:  
+25 
+Substantial  Substantial  
+Appendix III 
+EB 2021/134/R.46/Rev.1 
+Risk Categories and Subcategories 
+Inherent 
+Residual 
+1. Ensure effective coordination at Federal and State level in terms of sequencing 
+of implementation to ensure synchronization of procurements by different donors.  
+2. Ensure effective coordination between Federal and State level in terms of 
+sequencing of implementation to ensure synchronization of procurements by 
+different implementing agencies.  
+3. Adopt robust oversight and frequent monitoring  
+4. Provide Technical Assistance for capacity development and Project 
+Management. Twinning arrangement to be adopted and gradual transfer of 
+knowledge phased over the project duration  
+5. Conduct market survey and analysis  
+6. Conduct feasibility studies and design before acceptance for financing  
+7. Step up oversight  
+8. Evoke sanctions as deterrent and adopt e-procurement to reduce human 
+interaction  
+9. Provide training and adopt e-procurement to reduce human interaction  
+10. Link start of procurement with budget availability  
+11. Conduct training and step up monitoring and adopt e-procurement to reduce 
+human interaction  
+12. Provide Technical assistance and Conduct training and step up monitoring 
+Capability in public procurement 
+Risk(s):  
+There is low procurement capacity in the public service and lack of access to 
+information in spite of the Freedom of Information Act. 
+Mitigations:  
+Sustainable procurement capacity building initiative and procurement certification 
+should be implemented with support from AfDB. 
+Moderate   Moderate  
+Moderate   Moderate  
+Public procurement processes 
+Moderate   Moderate  
+Risk(s):  
+The Nigeria Procurement Value Chain Analysis (2012) observed the following 
+weaknesses in public procurement:  
+- Absence of acceptable range of benchmark costs;  
+- Inadequate preparation of investment projects prior to being admitted in the 
+budget;  
+- Delay in obtaining procurement approvals;  
+- Ineffective procurement monitoring and delayed payments. 
+Mitigations:  
+The procurement methods should be implemented using the thresholds set and 
+communicated through the Letter to the Borrower, and other instruments as 
+applicable.  
+Financial Management 
+Organization and staffing  
+Risk(s):  
+•  The  key  staff  of  the  National  Programme  Management  Unit  and  SPMU  will  be 
+recruited from the civil service. From the experience with PMUs in the ongoing IFAD 
+Funded Projects, there is a substantial risk of land.  
+• This is the case with the NPMU which sources staff from the federal civil service 
+and even more prevalent with the SPMUs at state level.   
+• Delays in recruitment of key project staff has also often had a knock-on effect on 
+the prompt start-up of other IFAD-financed projects. 
+Mitigations:  
+•  The  project  will  receive  technical  assistance  and  capacity  building  at  the 
+programme  inception.  This  technical  assistance  and  capacity  building  could  be 
+delivered  by  the  Finance  and  Audit personnel of  CPAT  or an  external consultant 
+may be engaged in the first six months of entry into force of the project.  
+• Additionally, only experienced and qualified staff be recruited through a transparent 
+and  competitive  process.  The  IFAD  Country  Office  will  review  the  process  and 
+provide No Objection along the recruitment process.  
+• FMD WCA will continue to include the programme finance staff in the WCA wide 
+capacity building training and implementation support.  
+Moderate   Moderate  
+Substantial   Moderate  
+Substantial  Moderate  
+Substantial   Moderate  
+26 
+Appendix III 
+EB 2021/134/R.46/Rev.1 
+Risk Categories and Subcategories 
+Inherent 
+Residual 
+• There will be regular knowledge sharing sessions where the Finance Personnel of 
+existing  IFAD  projects  also  pass  down  knowledge  acquired  over  the  years  of 
+implementing IFAD projects. 
+Budgeting 
+Risk(s):  
+Perennial delays in AWPB approval due to the non-constitution of the project 
+steering committees at the Federal and State Government Levels who approve the 
+AWPBs. 
+Mitigations:  
+The set up and functionality of the Steering Committees at the State and Federal 
+Level will be included as a condition for initial disbursement. 
+Substantial  Moderate  
+Substantial  Moderate  
+Funds flow/disbursement arrangements 
+Substantial  Moderate  
+Substantial  Moderate  
+Risk(s):  
+•  There  is  a  risk  that  project  staff  will  not  understand  the  Imprest  system  or 
+replenishment methods of the financiers including IFAD.  
+• Provision of funds from various financiers  – GCF, IFAD, AfDB, Counterpart and 
+other sources may lead to cumbersome treasury arrangements.  
+• Non-payment of counterpart obligations by the Government of Nigeria  
+• The accounting system has to be able to report on the components and categories 
+applicable to each financier and to help forecast financing requirements to prevent 
+cash flow issues.  
+• Project may struggle to appropriately value and report in-kind contributions from 
+beneficiaries and the Government 
+Mitigations:  
+• A separate DA is opened for the IFAD loan in the CBN in US Dollars. In order to 
+allow the FGN to monitor the income of funds, the DA is a subaccount under the 
+FGN  Treasury  Single  Account.  From  the  DA,  the  funds  flow  to  the  project  loan 
+account (Project Account A) in Naira. The federal counterpart funds are deposited 
+in a separate federal counterpart fund account. The NPC is authorized to manage 
+both  the  DA  and  the  federal  counterpart  fund  account.  Each  state  operates  two 
+accounts in Naira: (i) A state project account (Project Account B) to receive IFAD 
+loan funds from the Project Account A; (ii) and a state counterpart fund account to 
+receive  state  counterpart  funds.  Each  SPC  is  authorized  to  manage  the  Project 
+Account B and the state counterpart funds account.  
+• We will include the set-up of an appropriate and functional accounting software as 
+a condition precedent to the disbursement of the loan. Additionally, the procurement 
+and  installation  of  the  software  will  be  included  as  one  of  the  activities  to  be 
+considered in the FIPS.  
+•  Staff  who  have  experience  with  IFAD  projects  will  be  recruited  for  the  PMU  if 
+possible. The PMU will be established before the loan becomes effective.  
+•  The  knowledge  and  experience  with  these  systems  will  be  included  in  the 
+recruitment criteria and TOR of Finance Personnel of the PMUs.  
+•  Training  on  the  use  of  the  Imprest  fund  and  donor  funding  Statement  of 
+Expenditure (SOE) procedures will also be provided to the finance personnel of the 
+PMUs.  
+• IFAD guidelines on valuing and recording in-kind contribution will be provided to 
+the PMU. It will also be included in the various training plans of the PMU as well as 
+in the technical assistance and capacity building programs. 
+Internal controls 
+High  
+Moderate  
+report  of 
+the  office  of 
+Risk(s):  
+•  Internal  controls  have  been  deemed  adequate,  however  these  controls  are  not 
+operating effectively at portfolio level leading to noticeable lapse identified during 
+IFAD Audit and Oversight reviews, supervision and implementation missions and 
+the 
+federation.  
+•  Heightened  risk  of  fraud  and  poor  financial  management  practices  at  the 
+community  level  where  IFAD  resources  support  farmer  organizations  and 
+smallholder 
+farmers.  
+•  Also  at  portfolio  level,  we  have  identified  instances  of  delayed  retirement  of 
+advances.  In  some  instances,  advances  are  expensed  without  the  necessary 
+supporting 
+documentation.  
+• Weak controls around asset management including non-insurance of key project 
+assets,  inadequate  asset  register,  none  utilization  of  vehicle  and  fuel  logbooks, 
+the  auditor  general  of 
+the 
+High 
+Moderate  
+27 
+Appendix III 
+EB 2021/134/R.46/Rev.1 
+Risk Categories and Subcategories 
+Inherent 
+Residual 
+improper 
+assets  
+• There is a risk that the Internal Audit Unit will not be effective. There is no adequate 
+follow up of issues and recommendations of the Internal Audit unit by FMARD. 
+assignment 
+transfer 
+and 
+of 
+for 
+are 
+and 
+goods 
+paying 
+services 
+operating 
+Mitigations:  
+• An Internal Audit Unit that is independent of the PMU management should be set 
+up to ensure that controls designed around the ordering, receiving, accounting for, 
+and 
+effectively.  
+•  The  programme  will  leverage  the  partnership  with  the  International  Fertilizer 
+Development  Centre  (IFDC)  to  manage  the  input  supply  chain  and  ensure  the 
+efficient, effective and transparent procurement and distribution of input packages 
+to  targeted  farmers  using  a  voucher  system.  The  MoU/contract  with  IFDC  will 
+comply with all IFAD procurement and FM requirements. The project will use the 
+template  MoU  developed  collaboratively  between  IFAD  Procurement  and  FM 
+divisions.  
+• The internal audit unit of CPAT should also ensure adequate oversight of these 
+controls.  
+• Advances not retired after a month post activity completion should be recovered 
+fully 
+staff.  
+monthly 
+• The reports of the CPAT internal audit unit and the NPMU/SPMU internal audit 
+units should be furnished to IFAD on a quarterly basis and within 45 days after the 
+end of each quarter. 
+salaries 
+against 
+the 
+of 
+Accounting and financial reporting 
+Substantial  Moderate  
+Risk(s):  
+Interim financial statements may not be submitted on time and at the required 
+frequency and quality. The accounting software may not be customized enough to 
+automatically generate reports meeting IFAD requirements.  
+Mitigations:  
+Include the set-up of an appropriate and functional accounting system and 
+software as a condition precedent to the disbursement of the loan. 
+External audit 
+Risk(s):  
+No issues identified 
+Mitigations:  
+No issues identified 
+Substantial  Moderate  
+Low 
+Low 
+Low 
+Low  
+Environment, Social and Climate Impact 
+Biodiversity conservation  
+Moderate   Moderate  
+Moderate  
+Low  
+Moderate  
+Low  
+Risk(s):  
+Biodiversity  losses  from  deforestation,  unsustainable  land  preparation,  and 
+agricultural expansion into virgin forests and wetlands is already a serious issue in 
+the SAPZ project area.  
+The  smallholder  cluster/aggregated  production  system  to  be  adopted  by  SAPZ 
+increases the risk of biodiversity losses through land development and preparation 
+and the application of agrochemicals. 
+Mitigations:  
+Environmental  screening  will  be  conducted  for  all  subprojects  to  ensure  minimal 
+impact on the ecosystems and biodiversity. No production and processing activities 
+will be approved around national parks and biosphere reserves and virgin forest and 
+wetlands. Maintaining economic and multipurpose trees in land development sites 
+and leaving at least 15 trees per hectare trees on developed lands will be promoted. 
+SAPZ  will  strengthen  capacity  building  for  Good  Agronomic  Practices  (GAP), 
+Integrated Pest Management and Agrochemicals application. 
+The  programme  will  not  support  the  opening  of  lands  in  virgin  forests,  sensitive 
+areas (including forest reserves and important bird areas), and/ or new clearing of 
+contiguous areas of above 100 ha in a single location. 
+Resource efficiency and pollution prevention 
+Moderate  
+Low  
+Risk(s):  
+The  risks  of  waste  proliferation  from  production  and  processing  sites  as  well  as 
+excessive use of agrochemicals and inorganic fertilizers and pesticides is significant 
+for  SAPZ  especially  due  to  the  small-holder  cluster  production  and  processing 
+model to be adopted. 
+Moderate  
+Low  
+28 
+Appendix III 
+EB 2021/134/R.46/Rev.1 
+Risk Categories and Subcategories 
+Inherent 
+Residual 
+Mitigations:  
+SAPZ project will promote resource efficiency and integrated waste management 
+including conversion of rice waste to briquettes, poultry waste and cassava peel to 
+animal  feeds,  and  biogas  production  from  cassava  effluents.  The  project  will 
+promote  clean  processing  environment  and  achieve  waste  to  wealth.  Periodic 
+monitoring of processing sites will be conducted to ensure compliance.  As part of 
+the  good  agronomic  practices,  farmers  will  be  trained  on  appropriate  use  of 
+fertilizers  and pesticides.  Production and use  of farmyard organic manure  will  be 
+promoted. 
+Cultural heritage 
+Substantial   Substantial. 
+Risk(s):  
+Resource conflicts especially farmers-pastoralists clashes resulting in destruction of 
+farms by  herd  animals,  ultimately,  clashes,  and  reprisal  attacks  between  farmers 
+and pastoralist. 
+Mitigations:  
+Strengthening conﬂict resolution mechanism through stakeholders’ engagement 
+using the innovative platform of the Commodity Alliance Forum to reduce land 
+resources conﬂicts and insecurity (which affects women more) and impacts on 
+production and processing  
+Deepening risk transfer and no regrets options as compensation mechanisms for 
+conflict losses.  
+Indigenous Peoples 
+Risk(s):  
+Social exclusion of women and youth due to limited access to land, elite capture. 
+Mitigations:  
+SAPZ design team will include an expert on social inclusion to ensure that IFAD 
+assumes leadership in this area throughout design and implementation. 
+SAPZ will support policy dialogue on land reform and land management, tenure 
+security and access to land by women, and risk transfer products to compensate 
+agro-entrepreneurs for social conflict-related damages. 
+Substantial  Substantial  
+Moderate   Moderate  
+Moderate   Moderate  
+Community health and safety 
+Substantial   Moderate  
+Substantial  Moderate  
+Risk(s):  
+There is a risk related to COVID -19 pandemic and health, when the Project 
+organizes meetings and events. The outbreak of COVID-19 may have worsened 
+the fragility situation. 
+Mitigations:  
+Implementation of the IFAD RPSF to address the COVID impact and build on 
+lessons learned. Ensuring sensitisation and awareness raising on environmental 
+and health-related risks in production, processing, and improving waste 
+conversion and vaporisation. 
+Strict enforcement of rules guiding use of protective gears, safe distancing to avoid 
+the risks of Covid-19 and regular and sustained health messaging on the risks of 
+Covid-19. 
+The  Project  also  supports  farmers  to  produce  nutritious  commodities,  agro-
+processing and increasing nutrition awareness have proven successful. The VCDP 
+project supported farmers to produce bio-fortified pro-vitamin A rich cassava, rice, 
+vegetables,  and  poultry.  Cassava  and  rice  were  processed  to  produce  diverse 
+nutritious commodities which were consumed within and outside the VCDP areas, 
+created  employment  and  earned  income  for  the  processors.  Nutrition  education 
+helped  in  increasing  consumption  of  nutritious  commodities  and  products  by  the 
+project beneficiaries.   
+Labour and working conditions 
+Substantial  Moderate  
+Risk(s):  
+The spouses of married female beneficiaries could take over programme 
+supported economic activities once these become profitable or more profitable 
+than their own. 
+Mitigations:  
+Structuring the implementation arrangements of GALS to ensure the reach among 
+all  married  programme  beneficiaries,  strengthening  the  gender  dimension  of  FO 
+Substantial  Moderate  
+29 
+Appendix III 
+EB 2021/134/R.46/Rev.1 
+Risk Categories and Subcategories 
+Inherent 
+Residual 
+governance, strengthening women’s organizations and monitoring the programme 
+outcomes on women. 
+Physical and economic resettlement 
+Substantial  Moderate  
+Substantial  Moderate  
+Risk(s):  
+Women, youth, IDP and PWDs face barriers in accessing land and securing land 
+tenure. 
+Mitigations:  
+Supporting  the  establishment  of  women  and  youth  groups  to  acquire  lands  and 
+leaseholds from communities, which are released to project beneficiaries.  
+Establish  enabling  access  to  land  to  women,  youth,  IDP  and  PWDs  as  a  pre-
+requisite to reach intended target area. In areas in which beneficiaries are expected 
+to clear the land received, beneficiaries who do not have labour capacity will receive 
+programme  support  to  fulfil  this  requirement  (only  women  headed  households, 
+female youth, IDPs and PWD who can prove not having access to labour power to 
+fulfil this requirement). 
+Strengthening  the  gender  dimensions of  FO  governance,  strengthening  women’s 
+organizations  and  monitoring  the  project’s  outcomes  on  women  and  men. 
+Supporting  the  establishment  of  women  and  youth  groups  to  acquire  lands  and 
+leaseholds from communities, which are then released to project beneficiaries. 
+In respect of Gender:  
+The gender strategy and action plan will be prepared as per usual practice – 
+based on a deeper gender analysis that highlights barriers to women’s full 
+participation in the proposed project intervention areas. The strategy will also 
+identify the human and financial resources needed to address gender and social 
+inclusion. SAPZ will implement the Gender Action Learning System (GALS) to 
+empower beneficiaries to address underlying gender barriers limiting women’s and 
+household progression. Furthermore, policy engagement will include a continuous 
+focus on: (i) enhancing rural finance access for women to engage in agribusiness; 
+(ii) improving access to markets; and (iii) facilitating better access to land for 
+women to overcome the cultural barriers that limit women's ownership of land for 
+agricultural production. Gender will also be mainstreamed in SAPZ’s Monitoring 
+and Evaluation System. To that end, the design team will also include an expert on 
+social inclusion to ensure that IFAD assumes leadership in this area throughout 
+design and implementation. 
+In respect of Youth:  
+The Project will encompass a youth strategy and action plan. As per usual practice, 
+this strategy will identify priorities and actions acknowledging the differences within 
+the  group,  with  a  particular  focus  on  potential  vulnerabilities  affecting  specific 
+sections  within  the  youth  category  (e.g.  ensure  young  women  have  equitable 
+opportunities with the young men to participate and benefit from the project, special 
+provisions for youth with disabilities, young IDPs). It will leverage approaches of the 
+LIFE-ND  project,  specifically  the  youth  incubator  model.  Creation  of  employment 
+opportunities and reducing poverty, particularly among the youth and thus reduce 
+the chances of youth pulled into illegal activities and social disruption. 
+Greenhouse gas emissions 
+Substantial  Moderate  
+Risk(s):  
+The Agriculture, Forestry and other Land uses (AFOLU) sector accounts for 60% of 
+Nigeria’s  GHG  emissions.  In  addition  to  GHG  from  deforestation  and  use  of 
+fuelwood  for  processing,  the  risk  of  enteric  fermentation  leading  to  emission  of 
+greenhouse gases (especially methane) from rice paddies remains is significant in 
+SAPZ. 
+Mitigations:  
+SAPZ will promote the use of clean energy in production and processing. The project 
+will also train farmers on how to  drain rice paddies in mid-season to reduce CH4 
+emission, as well and improvement in nutrient management including the retention 
+of rice residues. Agroforestry and climate-smart production and processing will be 
+promoted. 
+Substantial  Moderate  
+30 
+Appendix III 
+EB 2021/134/R.46/Rev.1 
+Inherent 
+Residual 
+Substantial  Moderate  
+Substantial  Moderate  
+Risk Categories and Subcategories 
+Vulnerability of target populations and ecosystems to climate variability and 
+hazards 
+Risk(s):  
+Smallholder agricultural production in the SAPZ project areas are substantially tied 
+to  climate-dependent  natural  resources.  Hence,  some  of  the  subprojects  will  be 
+located  in  high  exposure  low-lying  river  valleys  and  semi-arid  zones  that  are 
+vulnerable to the risk of extreme climatic events, especially flooding, dry spells and 
+drought.  These  can  be  exacerbated  by  projected  changes  in  future  climate  with 
+significant  impacts  for  agricultural  productivity  and  market  infrastructure  and 
+concomitant  impacts  on  livelihoods,  food  security,  poverty,  and  loss  of  project 
+investments. 
+Mitigations:  
+SAPZ will strengthen collaboration with NIMET, deepen climate information-guided 
+value  chain  and  strengthen  extensions  services  for  climate  smart  and  good 
+agricultural practices including use of flood and drought tolerant cultivars, timing of 
+cropping cycle to stave-off flood, and use of residual moisture to enhance production 
+during the dry season. 
+In  line  with  the  AfDB’s  Climate  Risk  Management  and  Adaptation  Strategy,  the 
+SAPZ project will ensure that the infrastructure developed under the project will be 
+climate  proofed  and  that  climate  change  adaptive  responses  and  mitigation 
+strategies are adopted. IFAD will help ensure a producer-centric approach to climate 
+resilience  building  with  a  focus  on  livelihoods.  In  addition,  the  SAPZ  project  will 
+implement in Nigeria the Inclusive Green Finance Initiative (financed by  the GCF) 
+which aims to unlock green financing to support low emission and climate resilient 
+agriculture. This initiative seems to be under formulation. Information on expected 
+effectiveness has not been provided. 
+The use of private sector extension service providers through FFS has proven to be 
+key  to  the  high  performance  of  smallholders  in  productivity  and  production 
+enhancement. 
+Stakeholders 
+Stakeholder engagement/coordination 
+Moderate   Moderate  
+Moderate   Moderate  
+Risk(s):  
+There are risks such as:  
+1) Resistance to programme interventions and conflicts between actors 
+2) Ineffective collaboration among public actors, farmers and private sectors 
+organizations, affecting implementation of the 4P model.  
+3) The implementation of the project’s gender mainstreaming approach is not 
+adequately prioritized and considered as “business as usual”.  
+4) Lack of maintenance of infrastructures supported by the project. 
+Mitigations:  
+To mitigate the risks, SAPZ will  
+1) Strengthen and institutionalize the CAF and supporting off-takers to develop 
+their services for the farmers.  
+2) Invest substantial efforts in providing all stakeholders directly involved in 
+managing project activities with the support to equip them to do so.  
+3) Set up Operations and Maintenance Committees to strengthen community 
+ownership and sustainability. 
+Stakeholder grievances  
+Risk(s):  
+Ineffective coordinating structures at National, State and Local Government levels 
+leads to poor implementation resulting from in adequate supervision and oversight. 
+Mitigations:  
+Inception workshop will be organized to clarify the roles of coordinating structure to 
+achieve Programme results. Capacity building of members of coordination 
+structures and quarterly meetings to review implementation progress will be taken 
+place. 
+Moderate   Moderate  
+Moderate   Moderate  
+Moderate   Moderate  
+31 

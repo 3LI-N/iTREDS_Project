@@ -1,0 +1,1765 @@
+Document:
+Agenda:
+Date:
+Distribution:
+Original:
+EB 2015/114/R.12/Rev.1
+6(c)(ii)
+22 April 2015
+Public
+English
+E
+President’s report
+Proposed loan and grant to the Republic of the
+Union of Myanmar for the Eastern States
+Agribusiness Project
+Note to Executive Board representatives
+Focal points:
+Technical questions:
+Dispatch of documentation:
+Omer Zafar
+Country Programme Manager
+Tel.: +39 06 5459 2348
+e-mail: o.zafar@ifad.org
+Deirdre McGrenra
+Head, Governing Bodies Office
+Tel.: +39 06 5459 2374
+e-mail: gb_office@ifad.org
+Executive Board — 114th Session
+Rome, 22-23 April 2015
+For: Approval
+EB 2015/114/R.12/Rev.1
+Contents
+Abbreviations and acronyms
+Map of project area
+Financing summary
+Recommendation for approval
+I.
+Strategic context and rationale
+A. Country and rural development and poverty context
+B. Rationale and alignment with government priorities and
+RB-COSOP
+II. Project description
+A. Project area and target group
+B. Project development objective
+C. Components/outcomes
+III. Project implementation
+Approach
+A.
+B. Organizational framework
+C. Planning, M&E, and learning and knowledge management
+D. Financial management, procurement and governance
+E. Supervision
+IV. Project costs, financing, benefits
+A. Project costs
+B. Project financing
+C. Summary benefit and economic analysis
+D. Sustainability
+E. Risk identification and mitigation
+V.
+Corporate considerations
+A.
+B.
+C.
+D.
+Compliance with IFAD policies
+Alignment and harmonization
+Innovations and scaling up
+Policy engagement
+VI. Legal instruments and authority
+VII. Recommendation
+Annex
+Negotiated financing agreement
+Appendix
+Logical framework
+i
+ii
+iii
+iv
+1
+1
+1
+1
+2
+2
+2
+3
+4
+4
+4
+4
+5
+6
+6
+6
+6
+7
+7
+8
+8
+8
+8
+8
+9
+9
+9
+10
+EB 2015/114/R.12/Rev.1
+Abbreviations and acronyms
+AWP/B
+COSOP
+ESAP
+FARM
+KC
+M&E
+MOAI
+MTR
+PCU
+PIO
+PPP
+RIMS
+annual workplan and budget
+country strategic opportunities programme
+Eastern States Agribusiness Project
+Fostering Agricultural Revitalization in Myanmar
+knowledge centre
+monitoring and evaluation
+Ministry of Agriculture and Irrigation
+midterm review
+project coordination unit
+project implementation office
+public/private partnership
+Results and Impact Management System
+ii
+Map of project area
+EB 2015/114/R.12/Rev.1
+iii
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2015/114/R.12/Rev.1
+Eastern States Agribusiness Project
+Financing summary
+Initiating institution:
+IFAD
+Borrower:
+Executing agency:
+Total project cost:
+Amount of IFAD loan:
+Amount of IFAD grant:
+Terms of IFAD loan:
+Ministry of Finance
+Ministry of Agriculture and Irrigation
+US$65.2 million
+SDR 20 million (equivalent to approximately US$27.6
+million)
+SDR 1.1 million (equivalent to approximately US$1.5
+million)
+40 years, including a grace period of 10 years, with a
+service charge of three fourths of one per cent (0.75 per
+cent) per annum
+Cofinancier(s):
+Export-Import Bank of Korea (KEXIM)1
+Amount of cofinancing:
+US$29.2 million
+Terms of cofinancing:
+To be confirmed
+Contribution of borrower:
+US$4.9 million
+Contribution of beneficiaries:
+US$2.0 million
+Appraising institution:
+IFAD
+Cooperating institution:
+Directly supervised by IFAD
+1 Subject to successful negotiations between the Government of the Republic of the Union of Myanmar and KEXIM.
+iv
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+11
+Annex
+EB 2015/114/R.12/Rev.1
+Recommendation for approval
+The Executive Board is invited to approve the recommendations for the proposed
+financing to the Republic of the Union of Myanmar for the Eastern States
+Agribusiness Project, as contained in paragraph 57.
+Proposed loan and grant to the Republic of the Union of
+Myanmar for the Eastern States Agribusiness Project
+I. Strategic context and rationale
+A. Country and rural development and poverty context
+1.
+Emerging from 50 years of isolation, Myanmar has embarked on a comprehensive
+path of political and economic reforms. These aim to introduce elements of popular
+representation into the political sphere, foster economic growth and inclusive social
+development, improve the business environment, attract foreign investment and
+reduce poverty.
+2.
+3.
+4.
+Myanmar is the largest country in South-East Asia, with rich endowments of land
+and water, and favourable conditions for agriculture. Its population was estimated
+at 51.5 million in 2014, with an annual growth rate of 1 per cent. Some 67 per cent
+of the population is rural. Myanmar is ethnically diverse, with eight major ethnic
+groups and 135 subgroups.
+Despite being rich in resources, Myanmar is one of the poorest nations in South-
+East Asia. An estimated one third of the population lived below the poverty line in
+2005, decreasing to one fourth in 2010. The 2014 Human Development Report
+ranked the country 150th among 186 nations rated, with a human development
+index of 0.524. In 2013, Myanmar's GDP amounted to US$53 billion, with an annual
+growth rate of 6.8 per cent.
+The agriculture sector constitutes the core of the economy, representing 38 per
+cent of GDP and employing about 70 per cent of the working population. There is a
+strong association between agriculture and poverty in Myanmar, and there is
+significantly greater poverty in rural areas. The incidence of poverty is also greater
+among diverse ethnic groups compared with the majority ethnic population.
+5. While, in aggregate terms, Myanmar produces a surplus of food, many rural areas
+suffer from chronic food insecurity. Disparities exist among and within states and
+within communities, where household food insecurity and poverty are closely
+linked. Rural poverty is largely a function of lack of resource endowments. Poor
+rural people typically consist of landless people and small and marginal farmers,
+usually owning less than an acre to up to five acres of land. They lack access to
+adequate and nutritious food, as well as to essential non-food items. Many of the
+poorest live in isolated hill tracts of ethnic states in the eastern regions. These
+states were previously affected by decades of civil conflict that left them isolated
+and without development investment.
+B. Rationale and alignment with government priorities and
+6.
+RB-COSOP
+As requested by the Government, the 2013-2015 PBAS allocation for Myanmar is
+being applied to two loan-financed projects to develop scalable models in diverse
+agroecological zones. The first, Fostering Agricultural Revitalization in Myanmar,
+focuses on creating a sustainable agricultural development model for the central
+dry zone. The second, the Eastern States Agribusiness Project (ESAP), focuses on
+1
+22
+Annex
+EB 2015/114/R.12/Rev.1
+7.
+8.
+creating a smallholder agriculture and community agroforestry model for the
+upland/highland zone, with potential for scaling up across the eastern states.
+The project's rational is anchored in IFAD’s mandate of poverty reduction and the
+Government's policies to reduce economic and social disparities in rural areas. It is
+consistent with the National Comprehensive Development Plan, the Framework for
+Economic and Social Reforms, and the Poverty Alleviation and Rural Development
+Action Plan. Specifically, the rationale has four dimensions: (i) to create a model at
+the state level for post-conflict economic reintegration that lays the foundation for
+sustained peace; (ii) to create a model for environmentally sustainable agricultural
+modernization in degraded areas; (iii) to forge pathways for supporting poor
+communities in the transition from subsistence to commercial agriculture; and
+(iv) to better link Myanmar's eastern states with regional markets and technology
+flows.
+The project is consistent with the 2014-2018 country strategic opportunities
+programme (COSOP) for Myanmar, which aims to contribute to reducing rural
+poverty, specifically of smallholders, landless people, and ethnic and other
+marginalized groups. The COSOP defines three strategic objectives for IFAD’s
+engagement: (i) empower rural women and men to access agricultural resources,
+technologies, services and markets; (ii) create business and employment
+opportunities for rural women and men; and (iii) promote the social and economic
+empowerment of marginalized groups, particularly ethnic groups. The project
+addresses all three strategic objectives.
+II. Project description
+A. Project area and target group
+9.
+The project will be implemented in selected areas of Kayin and Shan (South) States
+in the eastern part of Myanmar. These two states were affected by decades of civil
+conflict and insecurity, which adversely affected their socio-economic development.
+With recent peace-building efforts, the two states have been selected for
+agribusiness development due to their good security, relatively stable political
+context and economic potential.
+10.
+In Kayin State, the project encompasses 12 irrigation schemes covering three
+townships (Hpa-an, Hlain Bwe, Kaukarate) and the forest communities of
+Thandaunggyi township in the northern mountains, for an aggregate area of some
+108,000 acres. In Shan State, the project covers the Ho-Pong irrigation scheme
+and its upland watershed areas (Ho-pong, Taunggyi, Siseine townships) as well as
+the Hekke irrigation scheme (Taunggyi, Kyauk Talon Gyi townships), for an
+aggregate area of about 79,000 acres.
+11. The target group consists of poor rural women and men in the project areas.
+Specifically, it covers: (i) farmers in irrigated lowlands with marginal, small and
+medium-sized landholdings ranging from less than an acre to up to 10 acres each;
+(ii) farmers in the rainfed uplands with marginal, small and medium landholdings
+ranging from less than an acre to up to 10 acres each; (iii) agroforestry households
+in mountainous areas of northern Kayin; and (iv) landless households, which will
+have access to job opportunities as agricultural labourers or as workers in
+agribusiness. The project will ensure that employment opportunities facilitate the
+economic reintegration of returning migrants, ex-combatants and displaced people.
+12. An inclusive targeting approach will be applied that encompasses geographical, self-
+and direct targeting, and social and gender inclusion. The project is expected to
+benefit 62,400 households or 315,000 rural men and women.
+B. Project development objective
+13. The project will develop an inclusive, sustainable and scalable model for smallholder
+agriculture and community agroforestry in the eastern states of Kayin and Shan
+2
+33
+Annex
+EB 2015/114/R.12/Rev.1
+(South). It will promote commercialized smallholder agriculture linked to
+agribusiness, improve living standards in forest communities, and reverse
+environmental degradation in sloping areas. It will generate substantial benefits for
+households belonging to the Karen, Shan, Paoh, Intha and Mon ethnic groups.
+14. The project’s goal is to improve the economic status of poor rural women and men
+in selected areas of Kayin and Shan States. Its objective is to increase the incomes
+of smallholder and agroforestry households in these areas in an environmentally
+sustainable manner.
+C. Components/outcomes
+15. The project has two components. Component 1. Strategic investments. This
+component will finance strategic investments in land development and community
+agroforestry (approximately US$42.6 million, 65 per cent of total project costs).
+16. Subcomponent 1.1: Land development. The project will contribute to the
+expansion of irrigated areas served by primary and secondary canals, with
+complementary investments in land development identified through a participatory
+process. The objectives are to improve drainage networks, irrigation water delivery
+and field access, and to create opportunities for crop diversification in response to
+market signals. A participatory land-use planning approach will be applied, and
+free, prior and informed consent will be introduced. Farmer empowerment and
+participatory water management will be strengthened in all irrigation works.
+17. Subcomponent 1.2: Community agroforestry. Project investment in
+agroforestry will improve living conditions, generate economic benefits for forest
+and upland villages and reduce encroachment on primary forest. The introduction of
+sloping agricultural land technology (SALT) will protect ecosystems, increase soil
+water infiltration and reduce soil erosion. In particular, SALT will generate
+substantial positive environmental impact by reducing sedimentation in Inle Lake
+and the Ho-Pong valley drainage system. Upland and agroforestry activities will be
+defined and implemented on the basis of a participatory and culturally sensitive
+approach.
+18. Component 2. Enabling investments. This component will improve target group
+access to knowledge, technology and services, and will maximize the benefits
+generated from strategic investments (approximately US$15.7 million, 24 per cent
+of total project costs).
+19. Subcomponent 2.1: Knowledge and technology. The project will improve
+farmer access to the technologies, inputs and services required to improve the
+productivity of staple, fodder and high-value crops. It will promote a pluralistic
+participatory extension platform in support of smallholder households. A network of
+knowledge centres (KCs) will be established to broker service delivery to farm and
+forest households through linkages with public institutions and the private sector.
+These centres will operate on the basis of: a decentralized and bottom-up
+approach; pluralism of actors in service delivery; promotion of public/private
+partnerships (PPPs); and a clear market orientation comprising cost recovery and
+sustainability.
+20. Subcomponent 2.2: Services. Smallholders and entrepreneurs will be provided
+access to markets and to adapted and affordable financial products. Contractual
+arrangements among farmers and agribusinesses, such as contract farming or
+outgrower schemes, will be promoted for commodities with a comparative
+advantage, market demand and growth potential. A competitive grant scheme will
+attract processors to the project area, and a credit guarantee mechanism will
+improve smallholder access to bank financing. Financial inclusion will be promoted
+by fostering savings and credit groups and providing financial literacy training.
+3
+44
+Annex
+EB 2015/114/R.12/Rev.1
+21. The remaining project financing (US$6.9 million, 11 per cent of total project costs)
+is allocated to central project coordination and decentralized project management,
+described below.
+III. Project implementation
+Approach
+A.
+22. Based on institutional assessment at the state level, experience in similar contexts
+and the country strategy, the ESAP implementation approach is to: (i) strengthen
+state-level Ministry of Agriculture and Irrigation (MOAI) departments and other
+agencies involved in agricultural and rural development; (ii) increase the
+responsibility of state-level MOAI departments in phased implementation of
+activities; (iii) establish a small, state-level project implementation office (PIO) in
+each state to manage activities; (iv) organize implementation through contracts
+with public and private service providers; and (v) implement project activities in
+phases.
+23.
+Project activities will be implemented through contracts with service providers such
+as ministries/departments, NGOs and the private sector. Service providers will
+enter into performance-based contracts, and their performance will be assessed by
+project management and by community representatives where applicable.
+B. Organizational framework
+24. The project's governance framework will consist of: (i) a national project steering
+committee composed of representatives of relevant central-level ministries, to
+provide policy and strategic guidance; (ii) state project coordination committees
+composed of directors of relevant state-level departments and representatives of
+community organizations, to oversee project coordination at the state level; and
+(iii) village groups, composed of representatives of community organizations,
+partner NGOs and service providers, to monitor and ensure effective participation,
+poverty targeting and gender mainstreaming.
+25.
+In alignment with the Government's decentralization policy, project management
+and implementation are decentralized to the state level. A PIO will be established in
+each state – responsible and accountable for state-level management of the project
+and achievement of its results. PIOs will be structured around project components
+and investments, and will have a certain level of financial autonomy. Their staff will
+be recruited on a competitive basis in compliance with IFAD guidelines. PIOs will be
+supported by a central project coordination unit (PCU), established in Nay Pyi Taw
+for all IFAD-financed projects. The PCU will support PIOs in planning, financial
+management, procurement, and monitoring and evaluation (M&E).
+C. Planning, M&E, and learning and knowledge management
+26. The state-level annual workplans and budgets (AWP/Bs), supplemented by activity
+calendars, will be the key planning instruments for the project. They will identify
+annual targets and activities, set implementation priorities, forecast procurement
+requirements and facilitate the mobilization of staff and financial resources. These
+AWP/Bs will be prepared through a consultative approach involving community
+organizations, KCs and stakeholders. The planning process will be coordinated with
+national planning procedures, as the project budget is being incorporated into the
+national budget.
+27. The M&E system is designed to offer comprehensive and reliable information for
+results-based management. The system will be participatory and decentralized, and
+compliant with the Results and Impact Management System (RIMS) framework. It
+will have a three-tier structure: (i) output monitoring – focusing on physical and
+financial inputs, activities and outputs; (ii) outcome monitoring of the use of
+outputs and measurement of benefits at household and community levels; and
+(iii) impact assessment – evaluating project impact on target groups. All M&E data,
+4
+55
+Annex
+EB 2015/114/R.12/Rev.1
+analysis, and reporting will be disaggregated by gender and ethnic group.
+Considering the well-known problems with data availability and quality in Myanmar,
+a data acquisition plan for the project area will be developed at the outset of
+implementation.
+28. The project will use locally adapted RIMS surveys as the main quantitative survey
+tools at baseline, midterm and completion. Ad hoc surveys, qualitative case studies
+and thematic reviews will be outsourced to independent institutions to verify results
+and draw lessons on themes such as: food security, cropping patterns, climate
+resilience; small and micro-business sustainability; participatory water
+management; and impact on incomes. An external independent third party (such as
+a national university or NGO) will be engaged to assess project impact periodically.
+29. Learning and knowledge management. The project’s operational experiences
+will create valuable knowledge, which will be captured by the PIO and PCU and
+used to generate lessons and best practices. Once documented, the project’s model
+of upland/highland agricultural development may be scaled up across the eastern
+states. The project will share knowledge and experiences with the wider community
+of development practitioners across Asia through the IFADAsia knowledge
+management portal.
+D. Financial management, procurement and governance
+30.
+Project financial management arrangements will ensure that: (i) funds are used for
+intended purposes efficiently and cost-effectively; (ii) disbursement of funds
+facilitates rapid implementation of activities; (iii) funds are well managed and flow
+smoothly; (iv) financial statements are prepared in conformity with internationally
+recognized accounting standards; (v) a robust flow of reliable information on
+project activities facilitates accountability, transparency and disclosure; and
+(vi) project resources and assets are safeguarded.
+31. As fiduciary risks are high in Myanmar, the project will apply a number of mitigating
+measures: (i) installation of professional accounting software; (ii) competitive
+recruitment of qualified staff; (iii) preparation of a financial management manual
+integrating controls linked to operations; (iv) state-level PIOs with delegated
+authority to manage and disburse project resources, and confirmation of PCU
+delegated authority; (v) technical assistance and external oversight; (vi) a control
+framework integrating periodic internal audits, independent external audits and
+social elements; and (vii) a good governance framework to ensure accountability
+and transparency.
+32. Retroactive financing. As an exception to section 4.08 of the General Conditions
+for Agricultural Development Financing, a maximum amount of SDR 100,000 for
+otherwise eligible project expenditures incurred after the date of project approval
+by the Executive Board and before the entry into force of the financing agreement
+will be financed. Such financing will be mainly for the implementation of start-up
+activities in respect of expenditures for: (i) capacity-building for PCU/PIO staff and
+target groups; (ii) consulting services for studies and field surveys; and (iii) other
+consultancy services. Such expenditures are pre-financed by the Government, and
+will be reimbursed by IFAD only after the financing agreement has entered into
+force and conditions precedent to disbursement have been met.
+33. The project will use the imprest fund method in operating the two designated
+accounts (for the loan and grant respectively). The Government will ensure that
+counterpart funds are contained in the national allocations for MOAI at central and
+state levels and that they are released to the project promptly.
+34.
+Flow of funds to the two states will be decentralized. This will strengthen
+governance structures while maintaining transparency of activities and central
+controls. The bank account signatory powers for state-level expenditures will be set
+at a sufficiently senior level. Control of expenditures at the state level will be
+5
+66
+Annex
+EB 2015/114/R.12/Rev.1
+maintained by retaining centralization of withdrawal application preparation and
+approval, access to state-level accounting data, and consolidation of AWP/Bs and
+reporting.
+35. External audit will be carried out in compliance with International Standards on
+Auditing and IFAD’s Guidelines on Project Audits, and independent external auditors
+will be appointed on a timely basis. Audit reports will be furnished to IFAD within
+six months of the end of the relevant fiscal year.
+36. The PCU will oversee project procurement at central and state levels. The
+procurement of goods, works and services will be handled by the state-level PIOs,
+with support from the PCU for consolidated or international purchases. Procurement
+will be carried out in compliance with the IFAD procurement guidelines and
+handbook. Procurement methods, prior review arrangements, cost and time
+estimates, and risk mitigation measures will be defined in the letter to the borrower
+and reflected in the procurement plan. The project implementation manual will
+detail procurement procedures, processes and management arrangements.
+E. Supervision
+37. The project will be directly supervised by IFAD. A supervision and implementation
+support mission will be undertaken annually. MOAI departments at central and
+state levels will support and participate in these missions.
+38. Supervision will be applied as a continuous process requiring ongoing
+communication and engagement with the central Government, state governments,
+the PCU and PIOs. It will encompass three functions: (i) fiduciary compliance –
+covering legal conditions, financial management, procurement and contracting;
+(ii) supervision – focusing on performance, progress towards objectives, activities
+and outputs, planning and budgeting, monitoring and reporting, governance and
+management, targeting and gender equality; and (iii) implementation support.
+Implementation support will incorporate a country programme perspective by:
+introducing a broad view of development investments; influencing policy based on
+operational experiences; developing systems and institutions for poverty reduction;
+facilitating financial and knowledge partnerships; and generating lessons and best
+practices.
+39. Considering the limited implementation experience in Myanmar, two midterm
+reviews (MTRs) will be undertaken, at year two and year four, to assess the
+progress, achievements, constraints, emerging impact and likely sustainability of
+project activities and to make recommendations and necessary adjustments for the
+remaining project periods. MTRs will be carried out jointly by the Government, the
+PCU, PIOs and IFAD. At the end of the project, a project completion report will be
+prepared by the Government, with support from IFAD.
+IV. Project costs, financing, benefits
+A. Project costs
+40. Total investment and incremental recurrent project costs, including physical and
+price contingencies, are estimated at US$65.2 million over the six-year project
+implementation period. The exchange rate has been set at 1,000 Myanmar kyats to
+one United States dollar (the average rate prevailing at final design), and a
+constant purchasing power parity exchange rate is assumed.
+B. Project financing
+41. The project will be financed by an IFAD loan on highly concessional terms of about
+US$27.6 million (42 per cent of total costs), an IFAD grant of about US$1.5 million
+(2 per cent), cofinancing of US$29.2 million (45 per cent), a government
+contribution of about US$4.9 million (8 per cent), and a beneficiary contribution in
+kind of US$2.0 million (3 per cent). The Export-Import Bank of Korea (KEXIM) has
+6
+77
+Annex
+EB 2015/114/R.12/Rev.1
+participated in the project design process and has expressed its intention to
+cofinance the project.
+Table 1
+Indicative programme costs by component and financier*
+(Thousands of United States dollars)
+Component
+A. Strategic investments
+1. Land development
+2. Community agroforestry
+Subtotal
+B. Enabling investments
+1. Knowledge and technology
+2. Services
+Subtotal
+C. Project management
+Borrower /
+counterpart
+Amount
+IFAD loan
+Amount
+IFAD grant
+Amount
+Cofinancier
+Amount
+Beneficiaries
+Amount
+3 042.5
+134.2
+3 176.6
+513.7
+113.4
+627.1
+1 126.5
+4 513.5
+4 457.0
+8 970.5
+3 668.5
+10 292.5
+13 961.0
+4 632.6
+-
+-
+-
+29 172.5
+-
+29 172.5
+251.7
+95.0
+346.7
+1 154.4
+1 501.2
+-
+-
+-
+-
+-
+1 243.2
+1 243.2
+211.9
+566.4
+778.3
+-
+Total
+Amount
+36 728.4
+5 834.3
+42 562.8
+4 645.8
+11 067.3
+15 713.1
+6 913.6
+%
+56.3
+8.9
+65.3
+7.1
+17.0
+24.1
+10.6
+Total project costs
+4 930.2
+27 564.1
+29 172.5
+2 021.5
+65 189.5
+100.0
+* Final disbursement categories will be decided during negotiations based on IFAD’s procedures, which will
+include a maximum of five cost categories for reasons of efficiency.
+Table 2
+Indicative programme costs by expenditure category and financier
+(Thousands of United States dollars)
+Borrower/
+counterpart
+IFAD loan
+IFAD grant
+Amount
+% Amount
+%
+Amount
+1. Works
+2. Vehicles
+3. Equipment and materials
+4. Consultancies
+5. Training
+6. Goods services and inputs
+7. Matching grants and
+associated investments
+8. Credit guarantee scheme
+9. Staff salaries and
+allowances
+10. Operating costs
+Total project costs
+3 042.5
+716.9
+7.1
+28.9
+197.9
+235.3
+-
+-
+7.6
+71.0
+7.6
+0.8
+1.6
+6.9
+-
+-
+8 798.3
+292.8
+86.6
+1 925.0
+2 943.5
+1 945.6
+5 155.5
+2 978.3
+528.4
+173.3
+4 930.2
+14.1
+44.8
+7.6
+3 224.7
+213.9
+27 564.1
+21.9
+29.0
+92.4
+53.8
+64.5
+56.8
+100
+100
+85.9
+55.2
+42.3
+Cofinancier
+Amount
+Beneficiaries
+Total
+% Amount
+% Amount
+%
+-
+-
+-
+23.7
+14.3
+-
+-
+-
+-
+847.1
+654.1
+-
+28 407.6
+-
+-
+764.9
+-
+-
+70.6
+-
+-
+21.4
+-
+-
+-
+-
+-
+11.0
+767.3
+1 243.2
+-
+-
+-
+0.3
+6.0
+36.3
+-
+-
+-
+-
+-
+-
+40 248.3
+1 009.7
+93.7
+3 577.0
+4 562.8
+3 424.0
+5 155.5
+2 978.3
+%
+61.7
+1.5
+0.1
+5.5
+7.0
+5.3
+7.9
+4.6
+-
+-
+1 501.2
+-
+-
+2.3
+-
+-
+29 172.5
+-
+-
+44.8
+-
+-
+2 021.5
+-
+-
+3.1
+3 753.1
+387.2
+65 189.5
+5.8
+0.6
+100.0
+C. Summary benefit and economic analysis
+42. The project will directly impact an area of some 187,000 acres, of which
+58,000 acres are irrigated, 104,000 are upland rainfed, and 25,000 are forest. It
+will provide a range of economic and social benefits to 62,400 households
+consisting of 315,000 rural women and men. Projections indicate that incremental
+agricultural production in the project area from 2015 to 2021 will have an
+estimated value of US$38.2 million at farm gate prices. The acreage cultivated is
+expected to increase by 21 per cent, and cropping intensity by 22 per cent. Net
+income per acre will increase by 64 per cent, while net income per household will
+increase by 100 per cent.
+43. The project's financial internal rate of return is estimated at 15.1 per cent. Its
+economic internal rate of return is estimated at 13.4 per cent.
+D. Sustainability
+44. The sustainability of project investments will be fostered through: (i) access to
+knowledge – KCs will be low-cost facilities that will eventually operate on a cost-
+recovery basis, evolving into PPP ventures in the medium term; (ii) access to
+markets – upgraded commodity chains, contract farming and outgrower schemes
+7
+88
+Annex
+EB 2015/114/R.12/Rev.1
+will ensure smallholder access to markets sustained through underlying business
+relationships; (iii) access to water – irrigation and drainage improvement, combined
+with participatory water management, will improve water distribution, and
+operation and maintenance; (iv) access to finance – financial inclusion activities will
+eventually link smallholders and agroforestry households with the formal financial
+sector; and (v) extension services – use of MOAI extension officers trained by the
+project will ensure continuity in delivery of services.
+45. The project’s exit strategy is to: strengthen public institutions at central and state
+levels; rely on a range of institutional service providers for implementation of
+activities; foster profitable business relationships between producers and markets;
+and improve the capabilities of poor rural women and men.
+E. Risk identification and mitigation
+46. The key risks identified relate to: (i) insecure land tenure; (ii) political interference
+in project management; (iii) poor governance capacity; and (iv) fiduciary risk.
+These risks are mitigated by a set of assurances negotiated with the Government,
+decentralization to the state level, participation in planning and implementation,
+robust fiduciary compliance procedures, capacity-building of relevant institutions at
+the state level, and intensive supervision and implementation support by IFAD.
+V. Corporate considerations
+A.
+Compliance with IFAD policies
+47. The ESAP is compliant with all relevant IFAD policies, in particular: (i) its targeting
+strategy is consistent with the IFAD Targeting Policy approach of focusing on
+economically active poor rural women and men; (ii) its investments in rural
+economic growth are compliant with the IFAD Rural Finance Policy focus on
+promoting inclusive financial systems; (iii) its participatory approach to land
+development is consistent with the principles of free, prior and informed consent
+and community-driven development stated in the IFAD policies on Improving
+Access to Land and Tenure Security and Engagement with Indigenous Peoples;
+(iv) its evolving gender mainstreaming strategy is in compliance with the IFAD
+Policy on Gender Equality and Women’s Empowerment; (v) its focus on promoting
+PPPs for private-sector development and policy dialogue is in line with the IFAD
+Partnership Strategy; and (vi) its environmental impact assessment procedures for
+infrastructure investment are aligned with the IFAD Climate Change Strategy for
+proper adaptation and mitigation measures.
+Alignment and harmonization
+B.
+48. The project's rational is anchored in IFAD’s mandate of poverty reduction and the
+Government's policy on reducing economic and social disparities in rural areas. It is
+consistent with Myanmar's National Comprehensive Development Plan, the
+Framework for Economic and Social Reforms, and the Poverty Alleviation and Rural
+Development Action Plan. It is closely coordinated with the emerging agriculture
+sector investments of partners such as the World Bank and the multi-donor
+Livelihoods and Food Security Trust Fund (LIFT).
+Innovations and scaling up
+C.
+49. The project is the first investment of its kind in the states inhabited primarily by
+ethnic groups. It introduces several innovations in its model for sustainable
+agricultural development in the upland/highland areas of Myanmar's eastern states.
+Key innovations in the Myanmar context include: (i) introduction of a participatory
+development approach; (ii) targeted delivery of technologies and services;
+(iii) promotion of climate-smart agricultural practices and technologies;
+(iv) livelihood diversification, with potential for higher value addition; (v) promotion
+of smallholder-driven small and micro-businesses; and (vi) support for adapted
+rural finance products and services.
+8
+99
+Annex
+EB 2015/114/R.12/Rev.1
+50. The Government considers the project a model that will eventually be scaled up in
+upland/highland areas of Myanmar. The project adopts a modular approach, to the
+extent feasible, in which a standard package of investment is designed to expand,
+replicate, adapt and sustain successful investments. Through its investment tools
+and forward-looking policy support, the project will create the pathways, drivers
+and spaces for scaling up.
+51. The Italian Development Cooperation has indicated its interest, in principle, in
+providing parallel cofinancing to the Government to scale up the ESAP to an
+additional eastern state.
+D.
+52.
+Policy engagement
+Policy engagement will take place on two levels. First, the project will contribute to
+the analysis of policy issues related to implementation experiences. It will also
+foster stakeholder alliances to generate policy proposals, build capacity for policy
+development and promote policy advocacy within national processes. Specifically,
+the project is expected to provide evidence-based policy advice on agricultural and
+rural development across upland areas – especially with regard to ethnic states.
+The project will also support dialogue on technology, knowledge resources and
+financial services in support of poor farm and landless households.
+53. Second, the project will enhance IFAD’s direct policy engagement with the
+Government and partners by channelling operational experiences in poverty
+reduction to the appropriate policy and strategy discussions through platforms such
+as sector working groups. These experiences provide unique opportunities to
+identify policy gaps and formulate policy recommendations on issues affecting poor
+rural people, and to generate an evidence base to inform policy discussions.
+VI. Legal instruments and authority
+54. A project financing agreement between the Republic of the Union of Myanmar and
+IFAD will constitute the legal instrument for extending the proposed financing to the
+borrower/recipient. A copy of the negotiated financing agreement is attached as an
+annex.
+55. The Republic of the Union of Myanmar is empowered under its laws to receive
+financing from IFAD.
+56.
+I am satisfied that the proposed financing will comply with the Agreement
+Establishing IFAD and the Policies and Criteria for IFAD Financing.
+VII. Recommendation
+57.
+I recommend that the Executive Board approve the proposed financing in terms of
+the following resolutions:
+RESOLVED: that the Fund shall provide a loan on highly concessional terms to
+the Republic of the Union of Myanmar in an amount equivalent to 20 million
+special drawing rights (SDR 20,000,000), approximately US$27.6 million, and
+upon such terms and conditions as shall be substantially in accordance with
+the terms and conditions presented herein.
+RESOLVED FURTHER: that the Fund shall provide a grant to the Republic of
+the Union of Myanmar in an amount equivalent to 1.1 million special drawing
+rights (SDR 1,100,000), approximately US$1.5 million, and upon such terms
+and conditions as shall be substantially in accordance with the terms and
+conditions presented herein.
+Kanayo F. Nwanze
+President
+9
+1
+1
+0
+0
+Annex
+EB 2015/114/R.12/Rev.1
+Negotiated financing agreement:
+"Eastern States Agribusiness Project (ESAP)"
+(Negotiations concluded on 9 April 2015)
+Loan Number: ________
+Grant Number: ________
+Project Title: Eastern States Agribusiness Project (the “Project”)
+The Republic of the Union of Myanmar (the “Borrower/Recipient”)
+and
+The International Fund for Agricultural Development (“IFAD”)
+(each a “Party” and both of them collectively the “Parties”)
+hereby agree as follows:
+Section A
+The  following  documents  collectively  form  this  Agreement:  this  document,  the
+1.
+Project  Description  and  Implementation  Arrangements  (Schedule 1),  and  the  Allocation
+Table (Schedule 2).
+IFAD’s  General  Conditions 
+2.
+for  Agricultural  Development  Financing  dated
+29 April 2009  and  amended  as  of  April 2014  (the “General  Conditions”)  are  annexed  to
+this  Agreement,  and  all  provisions  thereof  shall  apply  to  this  Agreement.  For  the
+purposes  of  this  Agreement  the  terms  defined  in  the  General  Conditions  shall  have  the
+meanings set forth therein.
+3.
+IFAD  shall  provide  a  loan  (the  “Loan”)  and  a  grant  (the  “Grant”)  to  the
+Borrower/Recipient, (collectively the “Financing”), which the Borrower/Recipient shall use
+to implement the Project in accordance with the terms and conditions of this Agreement.
+Section B
+1.
+(a)
+The  amount  of  the  Loan 
+(SDR 20 000 000).
+is  twenty  million  Special  Drawing  Rights
+(b)
+The amount of the Grant is one million one hundred thousand Special Drawing
+Rights (SDR 1 100 000).
+The  Loan  is  granted  on  Highly  Concessional  Terms  as  defined  in  the  Policies  and
+2.
+Criteria for IFAD Financing dated 14 February 2013.
+3.
+4.
+The Loan Service Payment Currency shall be the United States dollar (USD).
+The first day of the applicable Fiscal Year shall be 1 April.
+Payments  of  principal  and  service  charge  shall  be  payable  on  each  15 June  and
+5.
+15 December.
+There  shall  be  two (2)  Designated  Accounts  denominated  in  USD  opened  and
+6.
+maintained by the Borrower/Recipient, in a bank acceptable to IFAD, to receive the Loan
+and the Grant proceeds respectively (the “Designated Account”).
+10
+1
+1
+1
+1
+Annex
+EB 2015/114/R.12/Rev.1
+The  Borrower/Recipient  shall  provide  counterpart  contribution  for  the  Project,
+7.
+equivalent to approximately four million and nine hundred thousand United States dollars
+(USD 4 900 000), covering the cost of, inter alia, part of land development works, part of
+the  Project-related  personnel  salaries,  and  taxes  associated  with  the  implementation  of
+the Project. The contribution(s) of co-financier(s) are estimated at USD 29.2 million. The
+beneficiaries’ contributions are estimated at USD 2 million.
+Section C
+The  Lead  Project  Agency  shall  be  the  Ministry  of  Agriculture  and  Irrigation
+1.
+(the “MOAI”).
+Project management shall be decentralized to state level: a Project Implementation
+2.
+Office shall be established in each of the project states for this purpose.
+Additional Project Parties shall include, inter alia, the implementing entities referred
+3.
+to in Schedule 1 hereto.
+4.
+The  Lead  Project Agency  shall  contract  the  United  Nations  Office  for  Project
+Services  (UNOPS)  Myanmar  to  execute  the  grant  on  its  behalf,  subject  to  satisfactory
+negotiations between the two parties.
+5.
+The Project Implementation Period shall be six (6) years.
+Section D
+The  Financing  shall  be  administered  and  the  Project  supervised  by  IFAD.  A  Mid-Term
+Review shall be carried out jointly by IFAD and the Borrower/Recipient in accordance with
+Section 8.03 of the General Conditions.
+Section E
+The  following  are  designated as  additional  grounds  for  suspension  of  this
+1.
+Agreement:
+(a)
+The  Project  Implementation  Manual  (the  “PIM”)  referred  to  in  Schedule 1
+hereto, or any provision thereof, has been waived, suspended, terminated or
+modified  without  the  prior  consent  of  IFAD,  and  IFAD  has  determined  that
+such  waiver,  suspension,  termination  or  modification  has  had,  or  is  likely  to
+have, a material adverse effect on the Project.
+institutional
+(b) Any  competent  authority  has  taken  action without  the  prior  consent  of  IFAD
+changes  to  the National  Project  Steering  Committee
+for
+(the “NPSC”) and/or  the  State  Project  Coordination  Committee  and/or  the
+central  Project  Coordination  Unit  (the  “PCU”)  and/or  the  state-level  Project
+Implementation  Office  (the  “PIO”),  referred  to  respectively  in  Schedule 1
+hereto, and IFAD has determined that any such change has had, or is likely to
+have, a material adverse effect on the Project.
+The  following  are  designated  as  additional  general  conditions  precedent  to
+2.
+withdrawal:
+(a)
+The  Project  Director  and  Financial Manager,  both  acceptable  to  IFAD,  shall
+have been selected.
+(b) A computerized accounting system, acceptable to IFAD, shall have been
+installed at the PCU.
+11
+1
+1
+2
+2
+Annex
+EB 2015/114/R.12/Rev.1
+The  following  are  designated  as  additional  specific  conditions  precedent  to
+3.
+withdrawal:
+(a) No withdrawal shall be made in respect of  expenditures under the guarantee
+line (Category V) until a draft subsidiary agreement to be signed between the
+Project  and  the  participating  financial  institution(s)  has  been  approved  by
+IFAD.
+(b) No  withdrawal  shall  be made  in  respect  of  expenditures  under  the  Matching
+Grants  (Category IV)  until  a  draft  subsidiary  agreement  between  the  Project
+and the service provider(s) has been approved by IFAD.
+In  accordance  with  Section 13.01  of  the  General  Conditions  this Agreement  shall
+4.
+enter into force upon signature by both Parties.
+The following are the designated representatives and addresses to be used for any
+5.
+communication related to this Agreement:
+For the Borrower/Recipient:
+Union Minister for Finance
+Ministry of Finance
+Building No. 26
+Nay Pyi Taw
+The Republic of the Union of Myanmar
+For IFAD:
+President
+International Fund for Agricultural Development
+Via Paolo di Dono, 44
+00142 Rome, Italy
+This  Agreement  has  been  made  in  the  English  language  in two (2) original  copies,
+one (1) for IFAD and one (1) for the Borrower/Recipient.
+THE REPUBLIC OF THE UNION OF MYANMAR
+[Authorized Representative]
+INTERNATIONAL FUND FOR AGRICULTURAL DEVELOPMENT
+Kanayo F. Nwanze
+President
+12
+1
+1
+3
+3
+Annex
+EB 2015/114/R.12/Rev.1
+Schedule 1
+Project Description and Implementation Arrangements
+I.
+Project Description
+1.
+Target  Population. The  Project's  Target  Population  consists  of  poor  rural  women
+and  men  in  selected  areas  of  Kayin  and  Shan  (South)  States  (the  “Project  Area”).
+Specifically,  it  includes:  (i) farmers  in  irrigated  lowlands  with  medium,  small  and
+marginal landholdings ranging from less than one (1) acre to up to ten (10) acres each;
+(ii) farmers in the rainfed uplands with medium, small and marginal landholdings ranging
+from less than one (1) acre to up to ten (10) acres each; (iii) agro-forestry households in
+mountainous  areas of  northern  Kayin;  and  (iv) landless  households  that  have  access  to
+job  opportunities  as  agricultural  labourers  or  as  workers  in  agribusinesses.  The  Project
+shall  ensure  that  employment  opportunities  facilitate  the  economic  reintegration  of
+returning migrants, ex-combatants and displaced people.
+Goal. The goal of the Project is to improve the economic status of poor rural women
+2.
+and men in the Project Area.
+Objective. The objective of the Project is to increase the incomes of smallholder and
+3.
+agroforestry households in the Project Area in an environmentally sustainable manner.
+4.
+Components. The Project shall consist of the following two (2) Components.
+4.1. Component 1: Strategic Investments
+This Component shall finance strategic investments in land development and community
+agroforestry.
+Sub-component  1.1:  Land  Development. The  Project  shall  contribute  to  the
+expansion  of  irrigated  areas  served  by  primary  and  secondary  canals,  with
+complementary investments in land development identified through a participatory
+approach.  The  objectives  are  to  improve  the  drainage  networks,  irrigation  water
+delivery  and  field  access,  and  to  create  opportunities  for  crop  diversification  in
+response to market signals.
+Sub-component  1.2:  Community  Agroforestry.
+in
+agroforestry  aims  to  improve  living  conditions  and  generate  economic  benefits  in
+forest and upland villages. Agroforestry activities funded by the Project shall protect
+ecosystems, reduce encroachment on primary forest, increase soil water infiltration
+and reduce soil erosion. Sloping upland and agroforestry activities shall be defined
+and implemented on the basis of a participatory and culturally sensitive approach.
+investment 
+Project 
+4.2. Component 2: Enabling Investments
+This  Component  shall  improve  target  group  access  to  services  and  markets,  and
+maximise the benefits generated from the strategic investments.
+Sub-component  2.1:  Knowledge  and  Technology. The  Project  shall  improve
+farmer  access  to  the  technologies,  inputs  and  services  necessary  for  improving
+productivity  of  staple  crops,  fodder  crops  and  high  value  crops.  A  network  of
+Knowledge  Centres  (the  “KCs”)  shall  be  established  to  broker  service  delivery  to
+farming  and  forest  households  through linkages  with  public  institutions  and  the
+private sector.
+13
+1
+1
+4
+4
+Annex
+EB 2015/114/R.12/Rev.1
+Sub-component 2.2: Agribusiness Development and Financing. Smallholders
+and  entrepreneurs  shall  be  provided  with  access  to  markets  and  to  adapted  and
+affordable  financial  products.  Contractual  arrangements  between  farmers  and
+agribusinesses, such as contract farming or outgrower schemes, shall be promoted
+for  profitable  commodities.  A  competitive  grant  scheme  shall  attract  processors  to
+the  Project  Area,  and  a  credit  guarantee  mechanism  shall  improve  smallholder
+access to bank financing. Financial inclusion shall be promoted by fostering savings
+and credit groups and by providing financial literacy training to rural households.
+II.
+Implementation Arrangements
+A.
+Organization and Management
+Lead Project  Agency. The  MOAI,  in  its  capacity  as  the  Lead  Project  Agency,  shall
+5.
+have the overall responsibility for the Project’s implementation.
+Governance. The  Project’s  governance  framework  shall  consist  of:  (i) the  NPSC;
+6.
+(ii) the State Project Coordination Committees (the “SPCCs”); and (iii) the village groups
+(the  “VGs”).  The  Project's  management  and  coordination  framework  shall  consist  of:
+(i) the central PCU; and (ii) a PIO in each Project state.
+7.
+NPSC. The  NPSC  shall  be  co-chaired  by  the  MOAI Deputy  Minister  for  Agriculture
+and Deputy Minister for Irrigation. Other members shall include the Director-Generals of
+relevant  MOAI  departments  as  well  as  representatives  from  the  Ministry  of  National
+Planning  and  Economic  Development  (the  “MONPED”),  the  Ministry  of  Finance
+(the “MOF”), the Ministry of Livestock, Fisheries and Rural Development (the “MOLFRD”)
+and  the  Ministry  of  Border  Affairs  (the  “MOBA”).  Its  responsibilities  shall  be  to  provide
+strategic and policy guidance, endorse Project staff selection, approve annual workplans
+and budgets (the “AWPBs”), and oversee the external audit process.
+8.
+SPCCs. An  SPCC  shall  be  constituted  in  each  state.  It  shall  be  chaired  by  the
+respective State Minister of Agriculture and Irrigation. Members shall include Directors of
+relevant  state-level  departments  and  representatives  of  community  organizations.  Its
+responsibilities  shall  be  to  approve  state  AWPBs  and  staff  selection,  review  Project
+progress reports, ensure coordination among stakeholders, and provide guidance.
+VGs. In  participating  villages,  VGs  shall  be  organized  and  chaired  by  the  village
+9.
+leader.  They  may  include  representatives  of  partner  Non-Governmental  Organizations
+(the “NGOs”), KCs, farmers’ groups, women’s groups, and the Department of Agriculture.
+They  shall  be  responsible 
+for  ensuring  a  participatory  approach,  monitoring
+implementation,  and  ensuring  poverty  focus  and  gender  equality.  VGs  are  expected  to
+meet on regular basis.
+10.
+PCU. The  central  PCU  established  under  the  FARM  project  as  defined  in  the
+Financing Agreement between the Parties dated 22 October 2014 (Loan No. 2000000649,
+Grant No. 2000000650)  shall  be  strengthened  in  order  to  carry  out  central  interface,
+coordination and consolidation functions for the Project. It shall support each state PIO in
+financial management, procurement and contracting, planning, reporting, and knowledge
+management.  The  PCU  shall  be  expanded  with  a  Project  manager  (with  agribusiness
+experience), a monitoring and evaluation (the “M&E”) and knowledge  management (the
+“KM”) specialist and an accountant. PCU staff recruited under the FARM project shall also
+support the Project.
+14
+1
+1
+5
+5
+Annex
+EB 2015/114/R.12/Rev.1
+PIO. In alignment with the national decentralisation policy, Project management is
+11.
+decentralized to the state level. A PIO shall be established in each state, reporting to its
+respective  SPCC.  The  PIO  shall  be  responsible  and  accountable  for  management  of  the
+Project  and  achievement  of  its  results  at  the  state  level.  The  PIO  shall  be  headed  by  a
+Project  manager,  with  agribusiness  and/or  value  chain  experience,  recruited  through  a
+competitive  process.  It  will  be  structured  in  three (3)  units:  (i) an administration  unit
+with  a  finance  manager,  procurement/contracting  specialist,  and  accountant;  (ii) an
+investment unit with an irrigation engineer, a business/value chain specialist and a rural
+finance specialist; and (iii) an M&E-KM unit with an M&E-KM officer. The PIO will have a
+small  complement  of  support  staff.  In  Kayin  State  the  PIO  shall  be  located  in  Hpa-An
+while in Shan State it shall be in Taunggyi.
+Project  Personnel. Recruitment  of  Project  staff  (PCU  and  PIOs)  shall  be  on  a
+12.
+competitive  basis  in  accordance  with  IFAD  guidance,  and  subject  to  IFAD  prior  review
+and concurrence. Staff contracts shall be for an initial probationary period in line with the
+national Labour Law, with the possibility of extension subject to satisfactory performance.
+B.
+Implementation of Components
+13. Sub-component  1.1:  Land  Development. The  Participatory  Land  Use  Planning
+(the “PLUP”) and Free,  Prior,  Informed Consent (the “FPIC”) activities, as defined in the
+PIM, shall be implemented by a service provider (such as an NGO) in each state, selected
+by  the  PCU  on  a  competitive  basis.  Land  development  financed  by  IFAD  shall  be
+implemented through direct contracts with state-level MOAI Irrigation Departments (the
+“IDs”).  An  internationally  recognized  service  provider,  with  expertise  in  infrastructure,
+shall  be  contracted  to  support  design,  assess  construction  norms,  verify  unit  costs,
+supervise civil  works  and  provide  TA.  Supervision  shall  be  multi-level,  involving  IDs,
+PIOs, farmers’ groups, and the service provider(s). For land development works covered
+by a co-financier, the procedures of the co-financier shall apply.
+14. Sub-component  1.2: Community  Agroforestry. The  activities  under  Sloping
+Agricultural  Land  Technology  (the  “SALT”)  will  be  implemented  by  the  respective  KCs
+within the Project area of sloping agriculture land with support from a contracted service
+provider. Investment in community facilities such as tubewells, solar powered pumps and
+drinking  water  networks  shall  be  designed  and  implemented  by  a  contracted  service
+provider selected by each PIO.
+15. Sub-component 2.1: Knowledge and Technology. KCs shall be constructed by local
+contractors  selected  on  competitive  basis  by  the  PIOs.  Where  feasible,  community
+contracting  using  local  labour  shall  be  considered.  KCs  shall  be  supported  by
+competitively-selected  service  providers  for  capacity  building  of  managers,  operational
+support  and  brokering  arrangements  with  public  and  private  entities  for  services  to
+farmers  and  agro-forestry  households.  Value  chain  analyses  shall  be  carried  out  by
+contracted service providers such as consulting firms or NGOs.
+16. Sub-component  2.2: Agribusiness  Development  and  Financing. The  Agribusiness
+Fund  (the  “ABF”)  for  Matching  Grants,  as  defined  in  the  PIM,  shall  be  managed  by  the
+PCU,  in  collaboration  with  each  PIO,  with  NPSC  oversight.  Funding  decisions  shall  be
+made  by  an  independent  committee.  Guarantee  deposits  in  financial  institutions  will  be
+managed  by  an  audit  firm  selected  by  the  PCU  following  due  diligence.  A  Guarantee
+Committee  consisting  of  a  banker,  agriculturist,  auditor  and  PIO  manager  shall  review
+claims  and  approve  pay-outs. Participating  financial institutions  shall  be  selected  by  the
+PCU on competitive basis.
+17. Savings  and  credit  groups  shall  be  developed  by  the  Myanmar  Microfinance
+Association  (the  “MMA”),  which  shall  be  supported  by  an  international  Microfinance
+Institution (the “MFI”) contracted by the PCU.
+15
+1
+1
+6
+6
+Annex
+C.
+The PIM
+EB 2015/114/R.12/Rev.1
+18.
+Preparation. The  PCU  shall  prepare  a  draft  PIM  outlining  the  standard  operating
+procedures for the implementation of the  Project, which shall be approved by the  NPSC
+before IFAD’s non-objection is obtained.
+19. Approval  and  Adoption. The  Lead  Project  Agency  shall  forward  the  draft  PIM  to
+IFAD  for  its  non-objection.  If  IFAD  does  not  comment  on  the  draft  PIM  within
+thirty (30) days after receipt, it shall be deemed to have no objections. The Lead Project
+Agency shall adopt the PIM, substantially in the form approved by IFAD.
+16
+1
+1
+7
+7
+Annex
+EB 2015/114/R.12/Rev.1
+Schedule 2
+Allocation Table
+1.
+Allocation of Loan and Grant Proceeds. The Tables below set forth the Categories of
+Eligible  Expenditures  to  be  financed  by  the  Loan  and  the Grant;  the  allocation  of  the
+amounts of the Loan and the Grant to each Category; and the percentages of expenditures
+for items to be financed in each Category:
+Table A-Loan
+Category
+I. Works
+Loan Amount
+Allocated
+(expressed in SDR)
+5 740 000
+% of Eligible Expenditures
+to be Financed
+100% net of Government and
+co-financiers' contributions
+II.
+Equipment and Materials
+240 000
+100% net of taxes
+III. Goods, Services and Inputs
+4 460 000
+100% net of taxes,
+Government, co-financiers
+and beneficiaries’
+contributions
+IV. Grants and Subsidies
+3 370 000
+100% net of taxes
+V.
+Credit, Guarantee Funds
+1 950 000
+100% net of taxes
+VI. Operating Costs
+2 240 000
+100% net of taxes and
+Government contributions
+Unallocated
+Total
+2 000 000
+20 000 000
+“Equipment and Materials” under Category II of Table A, shall mean eligible expenditures
+incurred  related  to  vehicles,  motor  cycles,  equipment  and  materials  including  furniture
+and office equipment.
+“Goods,  Services  and  Inputs”  under  Category III  of  Table A,  shall  mean  eligible
+expenditures  incurred  related  to  goods,  services  and  input,  workshops,  training  and
+consultancies except  for  those  expenditures  financed  under  Category I  and  II  under
+Table B below.
+“Operating  Costs”  under  Category VI  of  Table A,  shall  mean  eligible  expenditures
+incurred  related  to  recurrent  operating  and  maintenance  costs, salaries  and  allowances
+except for salaries of government staff assigned to the Project.
+17
+1
+1
+8
+8
+Annex
+EB 2015/114/R.12/Rev.1
+Table B-Grant
+Category
+I.
+Consultancies
+Grant Amount
+Allocated
+(expressed in SDR)
+560 000
+II. Training
+430 000
+Unallocated
+Total
+110 000
+1 100 000
+% of Eligible Expenditures
+to be Financed
+100% net of taxes, and co-
+financiers and beneficiaries'
+contributions
+100% net of taxes, and co-
+financiers and beneficiaries'
+contributions
+“Consultancies”  under  Category I  of  Table B,  shall  mean  eligible  expenditures  incurred
+related  to  consultancies,  technical  support,  international  TAs  on  capacity  building  for
+PCU, states and state institutions, and M&E system.
+“Training” under Category II of Table B, shall mean eligible expenditures incurred related
+to  training  and  capacity  building  of  PCU,  PIOs,  Project  expeditor  as  defined  in  the  PIM,
+financial management training, exposure visits and regional workshops.
+Retroactive  Financing. Withdrawals  not  exceeding  in  the  aggregate  the  equivalent
+2.
+of SDR 100 000 to pre-finance Project activities may be made from the Loan Account in
+respect  of  eligible  expenditures  for:  (i) capacity  building  for  PCU/PIO  staff  and  target
+groups;  (ii) consulting  services  for  studies  and  field  surveys;  and  (iii) consultancy
+services.  Retroactive  expenditures, incurred  after  the  date  of  IFAD  Executive  Board’s
+approval  of  the  Project  and  before  the  entry  into  force  of  the  Agreement, are  pre-
+financed  by  the  Borrower/Recipient,  and  reimbursed  from  the  Loan  only  after  the
+Agreement has entered into force and the conditions precedent to withdrawal have been
+met.
+3.
+Start-up  Costs. The  Project  may  request  an  advance withdrawal  of  up  to
+SDR 200 000  equivalent  from  the  Loan,  to  incur  start-up  expenditures  before  the
+conditions precedent to withdrawal are met. Eligible expenditures shall cover: (i) capacity
+building for PCU/PIO staff and target groups; (ii) consulting services for studies and field
+surveys;  (iii) consultancy  services;  (iv) salaries  of  key  PCU/PIO  staff;  and  (v) rental
+expenditures  for  the  PCU  and  PIOs.  Any  unused  balance  of  this  advance  shall  be
+considered as part of the initial advance under the authorized allocation.
+18
+1
+1
+9
+9
+Annex
+EB 2015/114/R.12/Rev.1
+Schedule 3
+Special Covenants
+In accordance with Section 12.01(a)(xxiii) of the General Conditions, IFAD may suspend,
+in whole or in part, the right of the Borrower/Recipient to request withdrawals from Loan
+Account  and  Grant  Account, if  the  Borrower/Recipient  has  defaulted  in  the  performance
+of any covenant set forth below, and IFAD has determined that such default has had, or
+is likely to have, a material adverse effect on the Project:
+1.
+The Borrower/Recipient shall ensure that the investments in land development and
+agro-forestry are targeted to smallholders and poor forest households, who should not be
+expropriated from their land or forest areas thereafter.
+2.
+The  Borrower/Recipient  shall  ensure  that  the  investments  in  agriculture  and
+services will enable farmer self-determination in choice of cropping patterns; instructions
+on cropping and land classification should be eliminated.
+3.
+The  Borrower/Recipient  shall  ensure  that  the  Knowledge  Centres  are  managed  by
+appointed extension staff, who should not be transferred to positions outside the project
+area during the implementation period.
+4.
+The  Borrower/Recipient  shall  ensure  that  all  target  groups  will  be  supported  to
+obtain  proper  identification  documents  enabling  them  to  meet  the  requirements  of
+financial institutions.
+19
+Logical framework
+Narrative Summary
+Key Performance Indicators
+Means of Verification
+Assumptions
+Risks (R)
+(A)/
+Goal
+Economic status of poor woman and
+men in the project area improved
+ Severe and moderate child nutrition standards improved
+[baseline 2010: 5.9% and 29.7% severe and moderate - Kayin State -
+UNDP/IHLCS. Target MTR: 4% and 25% ]
+[baseline 2010: 17.3% and 45.8% severe and moderate - South Shan
+State - d° MTR Target: 15% and 40%]
+ HHs expenditures increased above the poverty line
+[baseline 2010: 31.2% - South Shan State and 17.5% - Kayin State - d°
+MTR Target: South Shan - 75% and Kayin- 75%]
+ Farmers’ indebtedness reduced
+[baseline 2009: 33% of poor HHs across Myanmar  as a proxy-
+UNDP/IHLCS
+MTR Target: 25%
+ UNDP & UNICEF
+ National Statistics
+(R) Ethnic conflicts
+resume
+Project Development Objective
+Agriculture production and
+agribusinesses provide increased
+sustainable sources of income to
+45,000 smallholders households and
+17,000 landless households in an
+environmental sustainable manner
+1
+ Net annual income of farmers increased in real terms after 3 yrs by:
+-
+-
+-
+at least US$500 in the irrigated lowland and by US$500 in the
+uplands of Kayin State (Baseline: avg.  annual income US$280 and
+240 respectively)
+at least US$700 in the irrigated lowland and US$1,300 in uplands of
+Shan State (Baseline: avg.  annual income US$290 and 230
+respectively)
+at least US$1000 in agroforestry areas of Kayin (Baseline: US$335)
+ RIMS impact survey
+ Focus groups discussions
+ Specific socio-economic
+studies
+ HHs surveys
+ Project MIS
+Component 1 - Strategic Investments
+Outcome 1: Natural resources are
+more productively managed in an
+eco-friendly way and agroforestry
+villages are less isolated
+ At least 45,000 farmers in low land, uplands and agroforestry sites have
+continuous access to sufficient water all year round
+(Baseline: 15,000 farmers)
+ Land use intensity increased after 3 years
+(Baseline: 96% Target: 126% at MTR)
+Output 1.1: Irrigated areas are
+expanded and served in a more
+efficient manner
+ 11,200 acres in Kayin State have benefited from land development
+including  construction of distributaries, watercourses, access roads,
+drainage canals, culverts and head regulators
+ 24,000 acres in Shan State have benefited from rehabilitation works on
+primary canals and distributaries, access road, land consolidation and
+hydraulic structures
+ 100% of farmers have land users’ rights across the total 187,000 acres
+ 5,000 acres in irrigated through piped-conveyance network installed
+ 1 irrigation pumping station in Kayin State equipped with solar panels
+ 350 Water Users’ Groups registered
+ GPS and satellite pictures
+ HHs surveys
+ Project MIS
+ Focus groups discussions
+ ID/MD/MoAI records
+ PIC completion certificate
+ SLRD records
+ Service providers records
+ WUGs administrative and
+financial records
+ Focus groups discussions
+ Project MIS
+ NGO records
+(A) Economic
+environment remains
+stable
+(A) Programme
+successes are replicated
+and scaled-up
+(A) Public sector
+governance is improved
+(A) Decentralization
+process is further
+implemented
+(A) Availability of
+necessary equipment
+for land development
+A
+p
+p
+e
+n
+d
+x
+i
+E
+B
+2
+0
+1
+5
+/
+1
+1
+4
+/
+R
+.
+1
+2
+/
+R
+e
+v
+.
+1
+Narrative Summary
+Key Performance Indicators
+Output 1.2: Fertility of degraded
+mountain slopes is restored
+Output 1.3: Water availability for
+domestic and productive use is
+improved
+ 20,000 acres in Shan State are rehabilitated as terraces through the SALT
+methodology
+ 5,400 km of contours are planted
+ Siltation of Inle Lake reduced by 20%
+ 50 villages in northern Kayin State have benefited from improved water
+infrastructure
+ 20,000 incremental acres of uplands are under irrigation
+ Access to drinking water has been improved for 3,000 households
+Component 2 - Enabling Investments
+Outcome 2: Technological and
+financial environment for households,
+farmers and investors in post-harvest
+activities is more conducive
+ Average yield increase/ha (per crop per site) (Baseline: Rice:1ton/ac;
+vegetables: 3ton/ac; garlic: 2ton/ac )
+ At least 12,000 households benefit from incremental job opportunities
+created through VC development at completion
+Output 2.1: Farmers’ knowledge
+and access to new technologies are
+enhanced
+ 43 knowledge centres are functional and managed by MoAI seconded
+extension officers
+ At least one monthly meeting organized per KC with commodity chains
+2
+Output 2.2: Farmers access
+lucrative direct or processing
+markets for their certified agricultural
+production
+stakeholders
+ At least 22,000 farmers have adopted more efficient agricultural practices
+(lower costs and higher productivity)
+ At least 1/3rd of farmers have adopted high-value crops in irrigated land
+and uplands
+ At least 1/3rd of ESAP-supported farmers regularly forward contracted by
+post-harvest companies (by crop/specie)
+ US$15 million extended by commercial banks to contracted farmers per
+season
+Means of Verification
+ MD/MoAI records
+ SLRD records
+ Focus groups discussions
+ Project MIS
+ Service providers records
+ ID/MoAI records
+ HHs surveys
+ Focus groups discussions
+ Project MIS
+ KCs administrative records
+ MoAI records
+ HHs surveys
+ Baseline and impact surveys
+ SMEs records
+ Contractors records
+ KCs administrative records
+ MoAI expenditure records
+ NGO records
+ Input suppliers records
+ Focus groups discussions
+ Project MIS
+ HHs surveys
+ SMEs records
+ HHs surveys
+ FIs records
+ Audit firm management and
+ USD3 million committed as guarantee by the project to cover risk on
+financial reports
+loans extended by commercial banks for non-contracted farmers
+ USD15 million extended by commercial banks to SMEs
+ PAR with ESAP-supported farmers at 5% maximum
+ At least 30 expansion and 70 creation of agribusinesses financed through
+the Agri-Business Fund
+ 80% of agribusinesses financed still operational & profitable after 3 yrs
+ At least 50 post-harvest units are created by farmers’ groups and still
+operational after 3 years
+ At least 5 commodity chains certified benefitting 15,000 farmers
+ 43 SGCs are implemented and functional and 70% are linked to MFIs
+ Women membership in SCGs is above 75%and more than 50% of SCGs
+have a woman as their bureau’s president
+ Amount of savings mobilized US$100,000
+ Financial literacy training has been provided to 4,300 women and youth
+ PCU records
+ Focus groups discussions
+ Project MIS
+ Certification company
+records
+ DARs and AIs records
+ MMA records
+ International MFI records
+ MoC registers
+ SCGs books
+ MFIs & SP records
+Output 2.3: Financial inclusion is
+promoted in project area villages
+(A)/
+Assumptions
+Risks (R)
+(A) Availability of
+necessary equipment
+for land development
+A
+p
+p
+e
+n
+d
+x
+i
+(A) Crop diversification
+is approved by GoM
+(A) KCs to become
+multi-purpose
+platforms used by all
+commodity chains
+stakeholders
+(A) Farmers and
+agribusinesses agree to
+enter in contractual
+arrangements
+(R) Commercial banks
+pulling out from
+agriculture financing
+because of unfair
+competition from MADB
+(A) Investors and
+existing companies
+willing to operate from
+project area or its
+neighbourhood
+(A) Effective presence
+of MFIs in selected
+States
+E
+B
+2
+0
+1
+5
+/
+1
+1
+4
+/
+R
+.
+1
+2
+/
+R
+e
+v
+.
+1

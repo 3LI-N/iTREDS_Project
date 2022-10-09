@@ -1,0 +1,2565 @@
+Document: 
+Agenda: 
+Date: 
+Distribution: 
+Original: 
+EB 2021/134/R.40/Rev.1 
+19(b)(i)(c) 
+13 December 2021 
+Public 
+English 
+E 
+President’s report 
+Proposed loan 
+Socialist Republic of Viet Nam 
+Climate-smart Agricultural Value Chain 
+Development in Ben Tre and Tra Vinh 
+Project ID: 2000002335 
+Note to Executive Board representatives 
+Focal points: 
+Dispatch of documentation: 
+Deirdre Mc Grenra 
+Chief 
+Institutional  Governance  and 
+Member Relations 
+Tel.: +39 06 5459 2374 
+e-mail: gb@ifad.org 
+Technical questions: 
+Nigel Brett 
+Regional Director 
+Asia and the Pacific Division 
+Tel.: +39 06 5459 2516 
+e-mail: n.brett@ifad.org 
+Francisco Pichon 
+Country Director 
+Tel.: +39 391 360 4067 
+e-mail: f.pichon@ifad.org 
+Executive Board — 134th Session 
+Rome, 13-16 December 2021 
+For: Approval 
+EB 2021/134/R.40/Rev.1 
+ii 
+iii 
+iv 
+1 
+1 
+3 
+3 
+3 
+3 
+5 
+5 
+6 
+9 
+9 
+9 
+10 
+10 
+10 
+10 
+11 
+12 
+12 
+12 
+Contents 
+Abbreviations and acronyms 
+Map of the project area 
+Financing summary 
+I. 
+Context 
+A.  National context and rationale for IFAD involvement 
+B.  Lessons learned 
+II.  Project description 
+A.  Objectives, geographical area of intervention and target groups 
+B.  Components, outcomes and activities 
+C. Theory of Change  
+D. Alignment, ownership and partnerships 
+E.  Costs, benefits and financing 
+III.  Risks 
+A.  Risks and mitigation measures 
+B.  Environment and social category 
+C.  Climate risk classification 
+D. Debt sustainability 
+IV.  Implementation 
+A.  Organizational framework 
+B.  Planning, monitoring and evaluation, learning, knowledge 
+management and communications 
+C.  Implementation plans 
+Legal instruments and authority 
+V. 
+VI.  Recommendation 
+Appendices 
+I.  Negotiated financing agreements (will be made available at a subsequent 
+Executive Board session) 
+II.  Logical framework 
+III.  Integrated project risk matrix 
+Project delivery team 
+Regional Director: 
+Country Director: 
+Technical Lead: 
+Finance Officer: 
+Climate and Environment Specialist: 
+Legal Officer: 
+Nigel Brett 
+Francisco Pichon 
+Marie-Aude Even 
+Irene Li 
+Evi Wulandari  
+Itziar Miren Garcia Villanueva 
+i 
+EB 2021/134/R.40/Rev.1 
+Abbreviations and acronyms 
+4Ps 
+AMD 
+ATP 
+AWP/B 
+CSA 
+CSAT 
+DA 
+DFCD 
+EMs 
+FM 
+ICO 
+IPRM 
+M&E 
+MDP 
+NTP 
+PA 
+PIM 
+PMU 
+PPCs 
+PSC 
+SEDP 
+SME 
+VC 
+VCAP 
+WDF 
+public-private-producer partnerships 
+Project for Adaptation to Climate Change in the Mekong Delta  
+in Ben Tre and Tra Vinh Provinces 
+Agricultural Transformation Programme 
+annual workplan & budget 
+climate-smart agriculture 
+Climate-smart Agricultural Value Chain Development in Ben Tre and 
+Tra Vinh 
+designated account 
+Dutch Fund for Climate and Development 
+ethnic minorities 
+financial management  
+IFAD Country Office  
+integrated project risk matrix 
+monitoring and evaluation 
+Mekong Delta Plan 
+national target programmes 
+project account 
+Project Implementation Manual  
+project management unit 
+Provincial People’s Committees  
+Project Steering Committee  
+Socio-Economic Development Plan 
+small and medium-sized enterprise 
+value chain 
+value chain action plan 
+Women’s Development Fund 
+ii 
+Map of the project area 
+EB 2021/134/R.40/Rev.1 
+iii 
+EB 2021/134/R.40/Rev.1 
+Financing summary  
+Initiating institution: 
+IFAD 
+Borrower/recipient: 
+Socialist Republic of Viet Nam 
+Executing agency: 
+Total project cost: 
+Amount of loan: 
+Provincial People’s Committees of Ben Tre and 
+Tra Vinh Provinces 
+US$136.4 million – US$70.4 million for Tra Vinh 
+Province and US$66.0 million for Ben Tre Province 
+US$43.0 million – US$26.0 million for Tra Vinh 
+Province and US$17.0 million for Ben Tre Province 
+Terms of IFAD loan:  
+Ordinary 
+Cofinancier[s]:  
+Amount of cofinancing: 
+Contribution of borrower/recipient: 
+Contribution of beneficiaries (in-kind): 
+Financing institutions US$70.5 million – 
+US$32.0 million for Tra Vinh Province and 
+US$38.5 million for Ben Tre Province 
+National Private Sector: US$0.5 million – 
+US$0.1 million for Tra Vinh Province and 
+US$0.4 million for Ben Tre Province 
+US$17.8 million (in-kind US$6.6 million – 
+US$3.9 million for Tra Vinh Province and 
+US$2.7 million for Ben Tre Province; in-cash 
+US$11.2 million, US$5.8 million for Tra Vinh Province 
+and US$5.4 million for Ben Tre Province) 
+US$4.6 million – US$2.8 million for Tra Vinh Province 
+and US$1.8 million for Ben Tre Province 
+Amount of IFAD climate finance: 
+US$18.5 million  
+Cooperating institution: 
+Directly supervised by IFAD 
+iv 
+EB 2021/134/R.40/Rev.1 
+Recommendation for approval 
+The Executive Board is invited to approve the recommendation contained in 
+paragraph 71, subject to the conditions set forth in paragraph 68. 
+I.  Context 
+A.  National context and rationale for IFAD involvement 
+National context 
+1. 
+2. 
+3. 
+4. 
+5. 
+The Socialist Republic of Viet Nam’s macro-economic development record over the 
+past 30 years is remarkable. Economic and political reforms have spurred rapid 
+economic growth and development, and transformed Viet Nam from one of the 
+world’s poorest nations to a lower-middle-income country. 
+Agriculture’s significant contribution to economic growth and rural poverty 
+reduction has come at a cost, however. Growth in the farm sector has been heavily 
+subsidized by unsustainable exploitation of natural resources. In the Mekong Delta, 
+overuse of surface and ground water is leading to water scarcity. Climate change 
+effects such as rising sea levels, droughts and increasing air temperatures have 
+taken their toll on agriculture as well. 
+Viet Nam has made impressive progress in poverty reduction. In the last 30 years, 
+more than 40 million people have escaped poverty through rapid economic growth 
+that has created more and better jobs. Poverty has become overwhelmingly rural. 
+The vast majority of the poor (86 per cent) belong to ethnic minorities (EMs) 
+residing in remote and mountainous areas.  
+Vulnerability to external shocks is prevalent among households with a strong 
+dependence on agricultural and wage and non-wage incomes. They also have 
+limited access to water infrastructure, insurance and climate-sensitive agro-
+advisory services to mitigate risks. The Mekong Delta Plan (MDP) (2013-2020), the 
+Agricultural Transformation Programme (ATP) and Government Resolution 120 on 
+economic development in the Mekong Delta are key policy instruments seeking to 
+address the growing threats from climate change and the unsustainable use of 
+natural resources, especially groundwater. 
+The COVID-19 pandemic has uncovered large vulnerabilities significantly affecting 
+Viet Nam's economic development in 2020-2021. For 2021, national economic 
+recovery is uncertain due to new outbreaks of the disease and a slow global 
+recovery. Recent government policies focus on recovery by investing in public 
+infrastructure, promoting access to finance, enhancing labour productivity and 
+expanding the use of digital technology. 
+IFAD's corporate mainstreaming priorities 
+6.  Gender and social inclusion. A large majority of the working poor continue to be 
+women. Gender inequality is recognized as one of the key causes of poverty. 
+Climate change is raising new challenges in this respect, however. The Climate- 
+smart Agricultural Value Chain Development in Ben Tre and Tra Vinh (CSAT) will 
+mainstream gender equality and apply direct and indirect targeting strategies to 
+reach poor women, especially in EMs. Women will be trained in digital technologies 
+in order to reduce their workload, cope with climate change, and adopt flexible 
+time management. 
+7. 
+Youth. Employment is the biggest challenge for youth in Viet Nam. The informal 
+sector remains the norm for most young workers and over half of employed youth 
+are poorly paid. Skills mismatch also affects close to half of the working young. 
+1 
+EB 2021/134/R.40/Rev.1 
+CSAT aims to create an enabling environment for decent employment and 
+entrepreneurship along value chains (VCs).  
+8.  Nutrition. Viet Nam still suffers from malnutrition among the under-five age 
+group. CSAT is not considered as nutrition-sensitive but its focus on climate-
+resilient crops, livestock production and VC development will increase household 
+revenues and thus the availability and consumption of nutritious foods. 
+9. 
+Climate and environment. Viet Nam ranks among the top 10 countries globally 
+facing long-term climate risks. The Mekong Delta is considered one of the river 
+deltas most vulnerable to climate change, notably in terms of sea level rise, 
+droughts, extreme heat, severe storms and flooding, which are all causing 
+substantial economic and human losses. CSAT will strengthen the Government’s 
+ability to support small-scale rural producers in building anticipatory capacity (to 
+plan for and reduce shocks), absorptive capacity (to absorb and cope with hocks 
+and stresses) and adaptive capacity.1  
+10. 
+In line with the Eleventh Replenishment of IFAD’s Resources (IFAD11) 
+mainstreaming commitments, CSAT has been validated as: 
+☒ Inclusive of climate finance; and  
+☒ Youth-sensitive.  
+Rationale for IFAD involvement 
+11.  CSAT responds to the Government’s request to design a follow-up project to the 
+recently completed Project for Adaptation to Climate Change in the Mekong Delta 
+in Ben Tre and Tra Vinh Provinces (AMD). The Government and IFAD consider AMD 
+as a success in terms of piloting participatory socio-economic planning and 
+innovative technology transfer to strengthen the capacity of smallholder farmers to 
+adapt to climate change. 
+12. 
+13. 
+14. 
+IFAD’s strategy in Viet Nam over the past 20 years has remained focused on 
+supporting the Government to achieve its key development objective – to lift rural 
+populations from subsistence farming to climate-resilient, market-oriented 
+agriculture. IFAD has targeted previous operations in Ben Tre and Tra Vinh, two of 
+the poorest provinces in the Mekong Delta and home to 60,000 poor and near-poor 
+households, including the Khmer EM group. The latter has a disproportionately 
+higher poverty rate (25 per cent) than the national average (6 per cent).  
+IFAD has an important comparative advantage as an agent of change in the 
+agriculture and rural sector. The Fund provides access to rural finance and 
+develops last-mile rural infrastructure to support inclusive, remunerative and pro-
+poor VCs. The current country strategic opportunities programme (COSOP)  
+2019-2025, is focused on smallholder farmers and rural small and medium-sized 
+enterprises (SMEs) in underserved areas with a concentration of EMs. CSAT is fully 
+aligned with the COSOP, directly contributing to its three strategic objectives. 
+IFAD’s portfolio in Viet Nam has demonstrated that rural infrastructure generates 
+the highest impact when linked with VC capacity-building based on participatory 
+and market-oriented planning. This approach mainstreams adaptation to climate 
+change, makes financial services available and enhances technical and business 
+skills among producers. A critical element is private sector engagement with small-
+scale producers through project investments (e.g. infrastructure, enhancing 
+producer capacities) that incentivize and de-risk public and private investments. 
+Building on AMD, there is therefore a strong rationale to continue these 
+investments and scale up the lessons learned from CSAT, focusing on investments 
+in climate-smart VCs.  
+1 CSAT will measure such progress along an integrated resilience indicator and related scorecard which builds on AMD 
+experience and will benefit from other ongoing IFAD work on the subject. 
+2 
+EB 2021/134/R.40/Rev.1 
+15. 
+IFAD-funded projects in Viet Nam have also demonstrated that rural women and 
+youth can be empowered by supporting their businesses and generating decent 
+employment for them within VCs. Lastly, lessons from CSAT will contribute directly 
+to the MDP and the larger ATP. It is therefore expected that CSAT will generate a 
+lasting impact, both in terms of scale and policy, in the Mekong Delta region. 
+B.  Lessons learned 
+16. 
+IFAD’s Viet Nam portfolio has accumulated a wealth of lessons. The most relevant 
+for CSAT focus on: (i) promotion of regional planning and cross-sector coordination 
+for the Mekong Delta; (ii) ensuring synergies of VC instruments including value 
+chain action plans (VCAPs), the Women’s Development Fund (WDF), public-private-
+producer partnerships (4Ps) and climate-smart agriculture (CSA); (iii) private 
+sector engagement; (iv) women’s empowerment; (v) holistic approach to climate 
+resilience from planning to implementation; and (vi) integration of project 
+instruments into government programmes, taking into account the new official 
+development assistance policies in Viet Nam.  
+II.  Project description 
+A.  Objectives, geographical area of intervention and target 
+groups 
+17.  CSAT’s goal is to achieve sustainable and climate-resilient rural transformation in 
+Ben Tre and Tra Vinh Provinces, serving as a model for the Mekong Delta region. 
+The project’s development objective is to generate sustainable income 
+opportunities and improved rural livelihoods for poor households, women, men, 
+youth and EMs in Tra Vinh and Ben Tre Provinces.  
+18.  Geographical area. CSAT will be implemented in the above provinces, which are 
+highly vulnerable to the effects of climate change and have major pockets of rural 
+poverty. Local inhabitants, their food production systems and economic well-being 
+are facing growing threats from climate change. The location of the key VCs will 
+determine CSAT’s specific geographical intervention areas.  
+19.  Target groups and beneficiaries. CSAT will directly reach 60,000 smallholder 
+farmers’ households (Ben Tre 25,000 and Tra Vinh 35,000) equivalent to some 
+210,000 people in around 80 communes in both provinces. To ensure greater 
+participation and social inclusion of the project's main target groups, a combination 
+of direct targeting and self-targeting methods will be set in place. While project 
+activities are of interest to all target groups (self-targeting) in the intervention 
+area, the direct targeting methods will ensure the participation and creation of 
+activities to reach the most vulnerable groups: women, youth and EMs. 
+20.  Targets are set for reaching women (40 per cent, of which 16 per cent are 
+household heads), youth (20 per cent, of which 50 per cent are young women) and 
+EMs (30 per cent in Tra Vinh). 
+B.  Components, outcomes and activities 
+21.  CSAT has three components: (i) Coordination for sustainable and inclusive rural 
+transformation; (ii) inclusive and climate-smart VCs; and (iii) project management. 
+22.  Component 1/outcome 1. Coordination for sustainable and inclusive rural 
+transformation. This component aims at improving the effectiveness of 
+cooperation on the Socio-Economic Development Plan (SEDP) at provincial and 
+Mekong Delta-regional levels, and stronger integration of climate resilience. The 
+integrated SEDP forms the basis for climate-resilient VCAPs, planning, capacity-
+building and 4P collaboration.  
+ 
+Subcomponent/output 1.1. Provincial and sectoral plans promote 
+innovative anti-poverty gender empowerment and climate-resilient 
+VC development. This subcomponent draws on IFAD’s experience of SEDP 
+3 
+EB 2021/134/R.40/Rev.1 
+ 
+ 
+ 
+support in 11 provinces in the past 10 years, including in Ben Tre and 
+Tra Vinh. It will review and update the existing SEDPs (2021-2025) 
+incorporating a climate resilience vision to 2050 and an increased VC 
+orientation. The revised SEDPs will identify and align government cofinancing 
+of CSAT activities in component 2. 
+Subcomponent/output 1.2. VCAP for climate-resilient, inclusive, and 
+remunerative VC investments. In the first year, an in-depth VCAP process 
+will identify pro-poor VCs that can lead to higher incomes, are inclusive of 
+women and youth, are resilient and adapted to climate change, and are 
+linked to private sector technical support and/or off-takers.  
+Subcomponent/output 1.3. Functioning of 4P multi-stakeholder 
+platforms in support of priority VCs and MDP. CSAT will support the 
+establishment of 4P platforms whose main tasks will be to facilitate 
+coordination of VC actors, negotiations of farm gate prices, quality standards, 
+trade contracts and product branding, and ensure market transparency. The 
+platform will include a conflict resolution/grievance system. The provincial 
+entrepreneurs’ associations in each province will lead establishment and 
+implementation of the 4P platforms. 
+Subcomponents/output 1.4. Enhanced capacity-building for inclusive 
+VCs. This subcomponent aims to enhance VC actors’ capacity to support an 
+enabling business environment and create incentives to attract investments 
+to be implemented in component 2. Building on AMD lessons, CSAT will work 
+with proven service providers. Each of these partners will provide their own 
+financing to work with CSAT. The curriculum introduced by AMD will be 
+expanded to include: marketing support, production and business planning, 
+and bankable business proposals for CSA. 
+23.  Component 2/outcome 2. Inclusive and climate-smart VCs. The outcomes of 
+this component build on component 1, notably VCAPs and converging finance along 
+SEDP and 4Ps. Outcomes include: smallholder farmers engage in VCs; they have 
+improved access to financial services, water, market infrastructure and extension 
+services; and they adopt environmentally sustainable and climate-resilient 
+technologies, including efficient water usage. All contribute to create jobs for 
+women, youth and EMs. Component 2 outputs are financed from the IFAD loan 
+(output 2.1) and public and private sectors sources. 
+ 
+ 
+ 
+Subcomponent/output 2.1. Climate-resilient infrastructure for 
+sustainable water usage and enhanced access to markets. CSAT 
+invests in climate-resilient infrastructure needed for inclusive VC 
+development. All planned infrastructure will be vetted using social, 
+environmental, climate change and sustainability criteria. These structures 
+will enable agriculture and related VC actors to better withstand weather 
+variability and adverse climate events. 
+Subcomponent/output 2.2. Rural producers and enterprises access 
+financial services for VC development. CSAT seeks to leverage linkages 
+between formal financial institutions and SMEs and producers. These include 
+the AMD-supported funds (WDF, climate change adaptation revolving fund), 
+government funds (Farmer Support Fund, Start-up Fund, SME Support Fund), 
+and other blended financing (Dutch Fund for Climate and Development 
+[DFCD]).  
+Subcomponent/output 2.3. Smallholder farmers invest in CSA. The 
+output of this subcomponent is that smallholder farmers, women, youth and 
+EMs, have access to up-to-date, location-specific CSA technologies and 
+practices. The new generation of CSA technologies will promote novel 
+elements such as digital technology, food safety and quality standards. The 
+4 
+EB 2021/134/R.40/Rev.1 
+adoption of CSA practices will improve the adaptive capacity of smallholder 
+farmers to climate change/variability and allow them to better manage the 
+scarce resources (notably water) needed for existing or improved agriculture 
+production. 
+24.  Component 3. Project management. Project coordination follows the proven 
+structure of IFAD-funded projects in Viet Nam, notably the lessons learned from 
+AMD. It uses a number of additional functions to respond to new requirements, 
+including risk management, policy engagement and facilitating private sector 
+linkages and partnerships. Monitoring and evaluation (M&E) and knowledge 
+management (KM) are addressed in section IV.B. The Project Implementation 
+Manual (PIM) describes the detailed implementation arrangements. 
+C.  Theory of Change  
+25. 
+IFAD-funded projects in Viet Nam have mainstreamed climate adaptation, 
+participatory planning and market focus in the SEDP in 11 provinces. Access to 
+markets was enhanced for community groups/common interest groups; new jobs 
+were created and more than 100 4P contracts were issued. Building on these 
+lessons, several aspects are explored to ensure an inclusive rural transformation 
+process as envisaged by government policies. All project interventions are 
+expected to increase income and reduce vulnerability among target groups. 
+Moreover, the provincial planning process will inform regional planning and shape 
+the rural transformation process in the Mekong Delta. 
+26.  First, CSAT will focus on the VCAP in enhancing capacity to organize and leverage 
+resources from private and other public sector sources, including national target 
+programmes.  
+27.  Second, CSAT will establish critical business development services (BDS) and a 4P 
+platform for rural producers and their organizations, as well as for public sector and 
+private enterprises to facilitate investments and partnerships. The objective is to 
+make agriculture a profitable business adapted to climate change and attractive to 
+investments by the private sector and financial institutions.  
+28.  Third, CSAT will apply the outputs of the VCAP, 4P platform, BDS and capacity-
+building to invest in climate-resilient infrastructure and key VCs which can offer 
+target groups better incomes. 
+D.  Alignment, ownership and partnerships 
+29.  CSAT contributes to the Sustainable Development Goals (SDGs), especially SDG 1 
+(No poverty), SDG 2 (Zero hunger) and SDG 5 (Gender equality), and all three 
+strategic objectives of the 2019-2025 COSOP and IFAD’s mainstreaming agenda on 
+gender, youth, EMs and climate change resilience. 
+30.  CSAT is aligned with government strategic goals in three key development areas: 
+(i) enabling market-led rural development, (ii) advancing poor people’s access to 
+commodity and labour markets, and (iii) enhancing the rural poor’s capacity to 
+adapt to climate change. These are articulated in the 2021-2025 SEDP and the 
+2021-2030 Socio-Economic Development Strategy, the Agricultural Recovery 
+Project, and the 2016-2020 National Target Programme for Climate Change 
+Response and Green Growth, as well as the MDP, ATP and Resolution 120. 
+31. 
+IFAD maintains cooperation with other development partners, notably the World 
+Bank, Asian Development Bank, the Food and Agriculture Organization of the 
+United Nations (FAO) and bilateral agencies, including the Netherlands, the African 
+Development Fund and the German Agency for International Cooperation (GIZ). 
+IFAD is an active member in the Mekong Delta working group, which advises the 
+Government on policy issues related to climate change in the region.  
+5 
+EB 2021/134/R.40/Rev.1 
+E.  Costs, benefits and financing 
+Project costs 
+32.  CSAT costs are estimated at US$136.4 million over five years. The project is being 
+financed by an IFAD loan of US$43 million (32 per cent of project cost). The 
+Government will contribute US$11.2 million in cash (8 per cent) and US$6.6 million 
+in-kind (5 per cent). Beneficiaries will contribute US$4.59 million in-kind 
+(3 per cent). Contributions from financial institutions, including DFCD, will amount 
+to 52 per cent of project costs. Additional private sector financing will be available 
+for producer groups and investments in SME and VC development.  
+33. 
+In addition, an IFAD-United Nations Industrial Development Organization VC 
+initiative targeting women and youth in Ben Tre, funded by a US$0.5 million grant 
+from the United Nations COVID-19 Response and Recovery Fund Multi-Partner 
+Trust Fund will support CSAT’s start-up phase by drawing on the first lessons 
+learned on inclusive VC development. Other internationally funded projects will 
+work with CSAT, such as the European Union-funded Development Smart 
+Innovation through Research in Agriculture, implemented by the FAO-CIRAD 
+(French agricultural research and cooperation organization) and the Canadian 
+Government-funded SME development project in Tra Vinh. 
+34.  Climate financing. IFAD climate finance for CSAT is preliminarily calculated at 
+US$18.53 million, focused mostly under subcomponent 2.1. 
+Financing/cofinancing strategy 
+35.  CSAT financing includes a US$43 million IFAD loan on ordinary terms and national 
+finance, including from the Government, beneficiaries, banks, WDF, private sector 
+enterprises and DFCD. In line with the Government‘s official development 
+assistance decree 56, IFAD loan financing can be invested only in public 
+infrastructure. All other project activities will be cost-shared by other national and 
+international sources of finance. 
+36.  Most domestic funding has been confirmed. It is envisaged that CSAT and DFCD 
+will enter into a memorandum of understanding outlining a joint investment 
+strategy with specific targets. As demonstrated by the economic and financial 
+analysis, CSAT will generate substantial benefits even without DFCD funding.  
+Table 1 
+Project costs by component, subcomponent and financier* 
+(Thousands of United States dollars) 
+CSAT total 
+IFAD loan 
+Counterpart 
+Counterpart  
+in-kind 
+Beneficiaries 
+Financing 
+institutions 
+Private 
+sector 
+Total 
+Components 
+Amount  % 
+Amount  % 
+Amount  %  Amount  %  Amount  %  Amount  % 
+Amount  % 
+1. Coordination 
+for sustainable 
+and inclusive 
+rural 
+transformation 
+2. Inclusive and 
+climate-smart 
+VCs 
+3. Project 
+management 
+Total project 
+costs 
+- 
+- 
+1 256  70.7 
+- 
+- 
+- 
+- 
+- 
+- 
+521  29 
+1 778 
+1 
+42 991  33.4 
+5 099 
+4.0 
+5 581 
+4 
+4 596 
+- 
+- 
+4 880  82.3 
+1 051  18 
+- 
+42 991  31.5 
+11 235 
+8.2 
+6 632 
+5 
+4 596 
+4 
+- 
+3 
+70 408  55 
+- 
+- 
+- 
+- 
+- 
+- 
+128 674 
+94 
+5 931 
+4 
+70 408  52 
+521 
+1 
+136 383  100 
+* The detailed project cost by component and financier for each province (Ben Tre and Tra Vinh) can be referred to in 
+appendix III, table 4 of the project design report at https://orms.ifad.org/projects/2000002335/design_report. 
+6 
+Table 2 
+Project costs by expenditure category and financier* 
+(Thousands of United States dollars) 
+CSAT total 
+IFAD loan 
+Counterpart 
+Counterpart in-kind 
+Beneficiaries 
+Financing 
+Institutions 
+Private sector 
+Total 
+Expenditure category 
+Amount 
+% 
+Amount 
+% 
+Amount 
+% 
+Amount 
+% 
+Amount 
+% 
+Amount 
+% 
+Amount 
+% 
+I. Investment costs 
+A. Equipment and 
+materials 
+B. Credit, guarantee 
+funds 
+C. Grants and subsidies 
+D. Works 
+E. Consultancies 
+F. Workshops 
+G. Training 
+H. Vehicles 
+- 
+- 
+- 
+- 
+- 
+- 
+42 991 
+78 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+278  100 
+- 
+- 
+9 
+63 
+77 
+69 
+- 
+- 
+4 777 
+1 205 
+266 
+939 
+- 
+- 
+- 
+- 
+3 406 
+325 
+- 
+- 
+- 
+Total investment costs 
+42 991 
+33 
+7 464 
+6 
+3 731 
+7
+II. Recurrent costs 
+A. Operating costs 
+B. Salaries 
+Total recurrent costs 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+659 
+3 111 
+3 770 
+Total project costs 
+42 991 
+32 
+11 235 
+20 
+75 
+51 
+8 
+- 
+1 850 
+1 051 
+2 901 
+6 632 
+- 
+- 
+- 
+6 
+17 
+- 
+- 
+3 
+56 
+25 
+39 
+5 
+- 
+- 
+- 
+3 803 
+- 
+- 
+- 
+- 
+3 803 
+- 
+793 
+- 
+793 
+4 596 
+- 
+- 
+- 
+7 
+- 
+- 
+- 
+3 
+24 
+- 
+11 
+3 
+- 
+- 
+100 
+100 
+- 
+19 
+- 
+- 
+68 600 
+1 448 
+- 
+361 
+- 
+- 
+- 
+70 408 
+55 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+18 
+80 
+423 
+- 
+521 
+- 
+- 
+- 
+- 
+70 408 
+52 
+521 
+- 
+- 
+- 
+- 
+1 
+23 
+31 
+- 
+- 
+- 
+- 
+- 
+278 
+68 600 
+1 448 
+54 977 
+1 909 
+346 
+1 362 
+- 
+- 
+50 
+1 
+40 
+1 
+- 
+1 
+- 
+128 919 
+95 
+- 
+3 302 
+4 162 
+7 464 
+- 
+2 
+3 
+5 
+136 383 
+100 
+* The detailed project cost by expenditure category and financier for each province (Ben Tre and Tra Vinh) can be referred to in appendix III, table 6 of the project design report at 
+https://orms.ifad.org/projects/2000002335/design_report. 
+E
+B
+2
+0
+2
+1
+/
+1
+3
+4
+/
+R
+.
+4
+0
+/
+R
+e
+v
+.
+1
+EB 2021/134/R.40/Rev.1 
+Table 3 
+Project costs by component and project year* 
+(Thousands of United States dollars)** 
+Components 
+1. Coordination for 
+sustainable and inclusive 
+rural transformation 
+2. Inclusive and climate-
+smart VCs 
+3. Project management 
+Total  
+2022 
+Amount 
+2023 
+Amount 
+2024 
+Amount 
+2025 
+Amount 
+2026 
+Amount 
+Total 
+Amount 
+534  
+426  
+411  
+341  
+65  
+1 777  
+11 024  
+1 127  
+12 685  
+30 978  
+1 145  
+32 549  
+31 769  
+1 218  
+33 398  
+32 571  
+1 180  
+34 092  
+22 332  
+1 262  
+23 659  
+128 674  
+5 932  
+136 383  
+* The detailed cost by component and project year for each province (Ben Tre and Tra Vinh) can be referred to in appendix III, 
+table 5 of the project design report at https://orms.ifad.org/projects/2000002335/design_report. 
+** Totals including contingencies. 
+Disbursement 
+37.  Designated accounts (DAs). Upon entry into force of the two financing 
+agreements for Ben Tre and Tra Vinh Provinces, the Government is required to 
+open and maintain one DA for each province. The two DAs shall be located at a 
+commercial bank in the loan’s denominating currency and administered following 
+imprest account arrangements.  
+38.  Project accounts (PAs). Each provincial project management unit (PMU) shall 
+open and maintain in their respective treasuries the PAs denominated in local 
+currency for project operations. PAs shall be replenished as necessary from the 
+DAs, at the request of the PMU to the Ministry of Finance and in accordance with 
+expenditures incurred under the approved annual workplans and budgets 
+(AWP/Bs). 
+39.  Start-up costs. The Government may request advance withdrawals of up to 
+US$300,000 for each province after the financing agreements enter into force and 
+prior to meeting the conditions precedent to withdrawal.  
+Summary of benefits and economic analysis 
+40.  CSAT direct benefits are assessed to be mainly investments in climate-smart 
+infrastructure, corresponding to 60,000 households. The economic and financial 
+analysis focuses on these beneficiaries in subcomponent 2.1. 
+41.  Expected indirect benefits from the other components include: adequate planning 
+of infrastructure investments; adequate targeting of beneficiary groups; improved 
+capacity on CSA practices; and access to financial services and jobs. These benefits 
+accrue to 20,000 households in addition to the above-mentioned 60,000 
+households, particularly through job creation, improved capacity on CSA and other 
+VC functions, and access to finance. Detailed assumptions on outreach are 
+presented in annex IV of the project design report. 
+42.  The estimated financial results for CSAT are positive, with a net present value of 
+US$52 million. The project’s internal rate of return is assessed at 32.1 per cent. For 
+the economic analysis, the sensitivity analysis reveals that CSAT remains positive 
+in all scenarios envisaged, including a reduction of project benefits of 25 per cent, 
+an increase in project costs of 25 per cent, and a delay in project benefits of two 
+years. The analysis uses a discount rate of 7 per cent, which is higher than the 
+interest rate on long-term Vietnamese bonds. 
+Exit strategy and sustainability 
+43.  CSAT’s exit strategy provides for the gradual transfer of its policy products and the 
+inclusive and climate VC approach and tools into the ATP. Component 1 will be 
+entirely financed and embedded in the provincial government structures. To ensure 
+mainstreaming of CSAT outputs, notably the VCAP, the exit strategy outlines roles, 
+responsibilities and mechanisms for the continuation of the activities. Under 
+component 2, infrastructure supervision and operation and maintenance rest with 
+the provincial governments. All irrigation will be managed by water users’ groups 
+8 
+EB 2021/134/R.40/Rev.1 
+to be set up and supported as a precondition for CSAT investments. Rural finance 
+services continue with the WDF, the public funds and the participating private 
+banks.  
+44.  A key condition for sustainability is whether producers can cope with climate 
+change. CSAT builds the required institutional backup and links it with the funding 
+resources required. Based on AMD experience, CSAT promotes innovations, 
+learning and implementation as a continuing mechanism led by Provincial People’s 
+Committees (PPCs), Can Tho University and the 4P platform. Technology (including 
+digital) and knowledge transfers are sponsored by the private sector to ensure a 
+steady flow of high-quality products and gain increased trust from markets and 
+end-consumers. 
+III.  Risks 
+A.  Risks and mitigation measures 
+45.  Appendix III presents the integrated project risk matrix (IPRM). The IPRM will be 
+updated during project implementation. The following key risks were identified: 
+(i) COVID-19 pandemic impacts on the economy are stronger than anticipated, 
+public revenues are reduced, and government may not be able to provide sufficient 
+funds to the provinces for development programmes such as CSAT; and (ii) climate 
+events increase in frequency and intensity and affect CSAT target areas before or 
+during early project implementation. 
+46.  Risk mitigation measures include: CSAT is fully integrated in the country-wide ATP, 
+i.e. a core government programme. CSAT provides demand-driven and 
+participatory approaches in line with directives from the highest political level. 
+Government protocols have efficiently managed climate disasters in the past. CSAT 
+complements disaster risk programmes by fostering resilience ex-ante and 
+enabling fast recovery after a climate disaster. 
+Table 4 
+Risks and mitigation measures  
+Risk areas 
+Country context 
+Sector strategies and policies 
+Environment and climate context 
+Project scope 
+Institutional capacity for implementation and 
+sustainability 
+Financial management 
+Project procurement 
+Environment, social and climate Impact 
+Stakeholders 
+Overall 
+Inherent risk rating 
+Residual risk rating 
+Moderate 
+Substantial 
+Substantial 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Low 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Low 
+Moderate 
+Low 
+Moderate 
+Moderate 
+B.  Environment and social category 
+47. 
+IFAD’s Social, Environmental and Climate Assessment Procedures (SECAP) classify 
+CSAT’s potential social and environmental impacts as low-to-moderate or 
+Category B. Most, if not all, CSAT investments aim to enhance climate resilience 
+of people and their productive activities, and improve natural resource 
+management. CSAT will support better groundwater management, protect cropland 
+from saline water intrusion and open-water resources from pollution. The project 
+will promote better land management, organic farming and good agricultural 
+practices with a view to growing market demand. The SECAP includes the 
+Environmental and Social Management Plan for the entirety of the project and the 
+Environmental and Social Management Framework for climate-resilient 
+infrastructure investments. 
+9 
+EB 2021/134/R.40/Rev.1 
+C.  Climate risk classification 
+48.  The SECAP assessed CSAT’s climate risk as high. The target areas in Ben Tre and 
+Tra Vinh have been exposed to extreme climatic events, mainly drought and 
+salinization. Saline water intrusion on cropland and groundwater has been 
+occurring for more than a decade, affecting livelihoods and the economy of the 
+entire Mekong Delta region. In both provinces, which are located at the estuaries of 
+the delta, farmers have shifted away from rice to other crops or fish farming. CSAT 
+investments, notably in infrastructure, will take place in low-lying coastal zones 
+and other areas with a record of extreme weather events. The project will promote 
+agricultural activities in marginal and/or highly degraded areas that would mitigate 
+vulnerability to climate events. 
+D.  Debt sustainability  
+49.  Viet Nam’s external debt-to-GDP ratio declined sharply to 45.6 per cent in 2018, 
+with a moderate increase foreseen at 47.2 per cent in 2019. Public and publicly 
+guaranteed external debt is trending downwards at 24 per cent of GDP, in line with 
+the authorities’ switch to domestic financing sources and its limiting of guarantees. 
+Under the International Monetary Fund/World Bank approach to debt sustainability 
+analysis, Viet Nam’s overall debt has been assessed as sustainable, with significant 
+access to international capital markets. 
+IV.  Implementation 
+A.  Organizational framework 
+Project management and coordination 
+50.  The Ministry of Finance and Ministry of Planning and Investment provide oversight 
+at national level and vis-a-vis IFAD. The Government appoints the PPCs of Ben Tre 
+and Tra Vinh, respectively, as Lead Project Implementing Agencies, accountable for 
+project execution. The PPCs will establish a project steering committee (PSC) in 
+each province, led by the Provincial Committee Chairman or Deputy Chairman. 
+PSCs are mandated to lead project implementation and ensure coordination and 
+integration with all the national target programmes and donor-funded projects. 
+51.  Each PPC will establish a dedicated PMU who will be responsible for day-to-day 
+project management.  
+Financial management, procurement and governance  
+52.  A draft FM manual has been prepared for the Government and IFAD. CSAT will 
+identify and customize web-based accounting software before project start-up for 
+maintenance of accounting records in accordance with the national accounting 
+standards, interim financial reports and project-consolidated financial statements. 
+It will establish a control framework integrating periodic internal audits, 
+independent external audits, and social safeguards based on IFAD policies. 
+53.  The inherent country fiduciary risk is substantial: Transparency International’s 
+2020 Corruption Perception Index gave Viet Nam a score of 36, placing it 104th out 
+of 180 countries. Despite significant improvements, corruption remains a great 
+concern to the Government. However, the overall inherent project FM risk is 
+moderate and will be reduced to low after mitigation measures are undertaken 
+(appendix III). 
+54.  Procurement will be carried out in accordance with Procurement Law No. 
+43/2013/QH13, Decree 63/2014/ND-CP and subsequently updated public 
+procurement regulations, which are assessed as consistent with the latest IFAD 
+procurement guidelines. 
+55.  The IFAD Policy on Preventing Fraud and Corruption in its Activities and Operations 
+is reflected in the Fund’s legal framework2, which applies to all recipients of IFAD 
+2 Project Procurement Guidelines, General Conditions for Agricultural Development Financing, IFAD’s Code of Conduct. 
+10 
+EB 2021/134/R.40/Rev.1 
+financing. Provincial PMUs will ensure that CSAT activities are implemented in full 
+transparency.  
+Beneficiary engagement and grievance redress3 
+56.  CSAT’s participatory planning process constitutes the building block for active 
+engagement of target groups and stakeholders in CSAT decision-making. Free, 
+prior and informed consent and an EM plan will ensure the presence of a feedback 
+mechanism where demands, concerns and risks are voiced and risk-mitigation 
+measures developed. CSAT will also engage in proactive public information 
+disclosure on project implementation and results to create an enabling 
+environment for stakeholder engagement. 
+Grievance redress 
+57.  The current grievance redress mechanism will be strengthened in line with relevant 
+Vietnamese laws and regulations. CSAT grievance mechanisms will be two-tiered. 
+Tier 1 will be internal and target the communities concerned and Tier 2 will involve 
+third-party/external mediation. CSAT will empower grievance redress committees 
+at villages, districts and provincial levels, and upwards to hear representations. At 
+the village level, the present grievance mechanisms are chaired by elders and/or 
+spiritual/tribal leaders, who are largely accepted by local communities, particularly 
+EM groups. 
+B.  Planning, monitoring and evaluation, learning, knowledge 
+management and communication 
+58.  As the key instrument for project planning, the AWP/B will be developed through a 
+participatory approach based on formulation of VCAPs, 4P investment plans, and 
+climate-smart and market-oriented participatory SEDPs as outlined in the PIM.  
+59.  The M&E system is embedded in the project Management Information System 
+(MIS) integrating project management, FM, procurement and physical progress, 
+allowing reporting in real time. The MIS will be the platform for all co-implementing 
+agencies to provide and review progress data for planning, reporting and 
+adjustments of the implementation plans. Robust project data will feed KM and 
+policy dialogue. Outputs, outcomes, and impact indicators are all causally 
+connected as set out in the project logical framework.  
+60.  The KM strategy is embedded in the Mekong Hub KM strategy and builds on the 
+following key elements: (i) a KM programme in support of learning and replicating 
+the project good practices and lessons learned among project stakeholders; and 
+(ii) support for a broader programme of KM aimed at informing government 
+decision-makers and influencing the scaling up of innovation, and policy 
+development.  
+61.  CSAT will produce communication materials summarizing success stories and to be 
+distributed through conferences, workshops, learning routes, and through radio, 
+TVs, e-mails, websites and social media. The project will closely cooperate with 
+national coordination offices for national target programmes and the agricultural 
+research and development policy research group through on-going IFAD-funded 
+grants to scale up CSAT innovations. 
+Innovation and scaling up 
+62.  The following innovations are expected: (i) application of a landscape development 
+approach for rural transformation; (ii) inter-province SEDPs with climate-smart VC 
+support coordination mechanism; (iii) climate-smart infrastructure models; 
+(iv) efficient water purification for high-productivity and disease-controlled 
+aquaculture/shrimp VCs; and (v) ICT-based salinity and water management, pest 
+control applications and e-marketing.  
+3 https://webapps.ifad.org/members/eb/128/docs/EB-2019-128-R-13.pdf?attach=1. 
+11 
+EB 2021/134/R.40/Rev.1 
+C.  Implementation plans 
+63. 
+Implementation readiness and start-up plans 
+IFAD’s loan is scheduled for Executive Board approval in September 2021. Approval 
+by the Government of the two financing agreements and inclusion in the national 
+and provincial investment plans and 2021-2025 budget are expected during fourth 
+quarter 2021. 
+64.  Following CSAT approval, PPCs will proceed to recruit their respective PMUs. The 
+latter will prepare a start-up plan detailing activities required for implementation. 
+These include the finalization of the draft PIM, opening of the designated and PAs, 
+set up of M&E, financial and procurement management, AWP/B, and planned 
+procurement as outlined in the project design report.  
+Supervision, midterm review (MTR) and completion plans 
+65.  The Viet Nam IFAD Country Office (ICO) will carry out regular supervision and 
+support missions, in line with IFAD guidelines. The ICO will be supported by the 
+regional Financial Management Services Division and Strategy and Knowledge 
+Department teams. Predominantly national technical consultants will be recruited 
+on a needs basis for focused technical support. A midterm survey and MTR will be 
+executed during the third year. All missions will be implemented in close 
+partnership with national and local authorities, development partners and other 
+relevant institutions. 
+66.  The PMU will lead the project completion report (PCR) and be supported by the 
+ICO. Similarly, the PCR will be preceded by an end-line survey and be 
+complemented by stakeholder consultations. 
+V.  Legal instruments and authority 
+67.  Under the same ID project, two financing agreements are finalized between the 
+Socialist Republic of Viet Nam and IFAD, respectively, one related to the Ben Tre 
+Province and the other related to the Tra Vinh Province, which constitute the 
+project’s geographical area; the two above-mentioned financing agreements will 
+constitute the legal instruments for extending the proposed financing to the 
+borrower/recipient.  
+68.  Due to COVID-19 restrictions in effect in the country, copies of the respective 
+negotiated financing agreements with Ben Tre and Tra Vinh Provinces will be 
+submitted at a subsequent Executive Board session. IFAD received the decision on 
+the investment policy for CSAT approved by the Prime Minister of the Socialist 
+Republic of Viet Nam on 26 November 2021, which enabled technical discussions of 
+the financing agreements to be held successfully on 30 November 2021. These will 
+be converted into the official negotiations once the final authorizations are obtained 
+by the borrower’s representative. The Executive Board is requested to approve the 
+project on condition that any important variation to the terms presented to the 
+Board that might arise during the final negotiations would be brought to the 
+attention of the Board in a future session.  
+69.  The Socialist Republic of Viet Nam is empowered under its laws to receive financing 
+from IFAD. 
+70. 
+I am satisfied that the proposed financing will comply with the Agreement 
+Establishing IFAD and the Policies and Criteria for IFAD Financing. 
+VI.  Recommendation 
+71. 
+I recommend that the Executive Board approve the proposed financing in terms of 
+the following resolution:  
+RESOLVED: that the Fund shall provide a loan on ordinary terms to the 
+Socialist Republic of Viet Nam in an amount of forty-three million United 
+States dollars (US$43,000,000) and upon such terms and conditions as shall 
+12 
+be substantially in accordance with the terms and conditions presented 
+herein. 
+EB 2021/134/R.40/Rev.1 
+Gilbert F. Houngbo 
+President 
+13 
+Appendix I 
+EB 2021/134/R.40/Rev.1 
+Negotiated financing agreements 
+(Will be made available at a subsequent Executive Board session)  
+1 
+Logical framework 
+*Note: this version is compressed to meet the space limitations of this Report; for the full logframe please refer to the PDR version. 
+Results Hierarchy 
+Indicators 
+Means of Verification 
+Assumptions 
+Name 
+Bas
+elin
+e 
+Mid-
+Term 
+End 
+Target 
+Source  Frequency  Respon
+sibility 
+Outreach 
+1  Persons receiving services promoted or 
+supported by the project 
+MIS 
+Annual 
+PMU 
+0 
+48000 
+120000 
+Total  number  of 
+persons  receiving 
+services  -  Number 
+of people 
+2
+Project Goal 
+Sustainable and climate 
+resilient rural 
+transformation in Ben 
+Tre and Tra Vinh 
+province  
+1.a  Corresponding number of households 
+reached 
+Households 
+Households 
+60000 
+24000 
+0 
+- 
+0 
+100000  210000 
+1.b  Estimated corresponding total 
+number of households members 
+Household 
+members 
+Number of people 
+Decrease  in  provincial  multi-dimensional 
+poverty incidence  for BT and TV  
+Decrease 
+- 
+Percentage (%) 
+10 
+20 
+0 
+- 
+Smallholder households report increased 
+resilience to climate, environmental and 
+economic shocks  of > 20% , by P, V, S, 
+A, EM 
+MIS 
+Annual 
+PMU 
+MIS 
+Annual 
+PMU 
+Outcom
+e 
+& 
+Impact 
+survey, 
+DOLISA 
+report 
+Outcom
+e 
+survey 
+Benchmark
+,  Mid-term, 
+Final  
+PMU, 
+DOLISA 
+PMU 
+Benchmark
+,  Mid-term, 
+Final  
+governments 
+regional 
+to 
+market-led 
+Provincial 
+committed 
+integrated 
+socio-economic 
+development  planning  as 
+indicated 
+in  Resolution 
+120,  and  Decision  324 
+Economic 
+stability 
+and 
+in 
+social 
+target 
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+2
+1
+/
+1
+3
+4
+/
+R
+.
+4
+0
+/
+R
+e
+v
+.
+1
+Development 
+Objective 
+Sustainable income 
+opportunities and 
+improved  rural 
+livelihoods  for poor 
+households and their 
+women, men, EM and 
+youth in Tra Vinh and 
+Ben Tre provinces 
+Outcome 
+1. Effective provincial & 
+regional coordination for 
+sustainable and inclusive 
+rural transformation 
+established 
+3
+0 
+0 
+10000 
+24500 
+Vinh 
+Tra 
+smallholder  HH  - 
+Households 
+Ben Tre 
+smallholder HH - 
+Households 
+Percentage  of  income  increase  among 
+vulnerable and poor people in BT and TV 
+0 
+Income  increase  - 
+Percentage (%) 
+17500 
+7000 
+10 
+15 
+IE.2.1 Individuals demonstrating an 
+improvement in empowerment 
+Total  persons 
+Percentage (%) 
+30 
+80 
+0 
+- 
+SF.2.2  Households  reporting  they  can 
+local 
+decision-making 
+influence 
+authorities  and  project-supported  service 
+providers 
+Households  (%)  - 
+Percentage (%) 
+30 
+70 
+of 
+0 
+Policy 3  Existing/new laws, regulations, 
+policies or strategies proposed to policy 
+makers for approval, ratification or 
+amendment 
+Number - Number  0 
+2.2.3  Rural producers’ organizations 
+engaged in formal 
+partnerships/agreements or contracts 
+with public or private entities 
+Percentage  of  POs  
+- Percentage (%) 
+40 
+70 
+0 
+2 
+1 
+PMU 
+Benchmark
+,  Mid-term, 
+Final  
+PMU 
+Benchmark
+,  Mid-term, 
+Final  
+Annual  at 
+mid-term 
+PMU 
+Annual  at 
+mid-term 
+PMU 
+Annual  at 
+mid-term 
+PMU 
+Outcom
+e 
+& 
+Impact 
+survey, 
+MIS 
+Outcom
+e 
+& 
+Impact 
+survey  
+Outcom
+e 
+survey 
+MIS, 
+Outcom
+e 
+survey 
+MIS, 
+Outcom
+e 
+survey 
+Output 
+1.1.  Provincial and 
+Policy  1 
+products completed 
+  Policy-relevant  knowledge 
+MIS 
+Annual 
+PPCs/PM
+U 
+provinces  
+Law  and  policies  on 
+gender 
+are 
+strongly  enforced  at  all 
+levels 
+equality 
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+2
+1
+/
+1
+3
+4
+/
+R
+.
+4
+0
+/
+R
+e
+v
+.
+1
+sectoral plans for the 
+period 2021-2025 
+promote innovative pro-
+poor, gender 
+empowerment  and 
+climate resilient VC 
+development completed 
+Output 
+1.2. Value chain action 
+planning (VCAP) for 
+climate resilient, 
+inclusive, and 
+remunerative value chain 
+investment.  
+Output 
+1.3. Functioning of 4P 
+multi-stakeholder 
+platforms in support of 
+priority value chains & 
+Mekong Delta Plan 
+supported 
+Output 
+1.4 Enhanced Capacities 
+for building inclusive 
+value chains  
+Outcome 
+2. Inclusive and climate 
+4
+Number 
+Knowledge 
+Products 
+- 
+0 
+8 
+10 
+At least 8 value chain action plans (VCAP) 
+prepared in each province. 
+8 
+Action 
+Number 
+Plans 
+0 
+8 
+- 
+Policy  2    Functioning  multi-stakeholder 
+platforms supported 
+0 
+Number 
+Platforms 
+10 
+5 
+- 
+  Rural  enterprises  accessing 
+2.1.1 
+business development services  
+Rural enterprises  - 
+Enterprises 
+300 
+0 
+600 
+0 
+2.1.3  Rural producers’ organizations 
+supported 
+Rural 
+supported 
+Organizations 
+2.2.6    Households  reporting  improved 
+physical  access  to  markets,  processing 
+and storage facilities 
+POs 
+- 
+4000 
+2000 
+MIS 
+Annual 
+PMU 
+Farm households are able 
+to finance their part of the 
+investment facility 
+MIS 
+Annual 
+PMU 
+MIS 
+Annual 
+PMU 
+MIS 
+Annual 
+PMU 
+Provincial 
+authorities 
+maintain  ARD  as  priority 
+sector 
+Provincial 
+for 
+investment. 
+investors 
+are 
+Private 
+interested  in  investing  in 
+business  opportunities  in 
+smallholders  agriculture 
+along conditions promoted 
+by the programme 
+Outcom
+e 
+survey 
+Annual  at 
+Mid term 
+PMU 
+Local  enterprises  are  able 
+to finance their part of the 
+facility 
+investment 
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+2
+1
+/
+1
+3
+4
+/
+R
+.
+4
+0
+/
+R
+e
+v
+.
+1
+resilient value chains 
+established 
+Output 
+2.1 Climate resilient 
+infrastructure for 
+sustainable water usage 
+and enhanced access to 
+markets 
+5
+Output 
+2.2 Rural producers and 
+enterprises access  RF 
+services for VC 
+development  
+Output 
+2.3 Smallholder farmers 
+invest in  climate smart 
+agriculture (CSAT) 
+0 
+Households 
+reporting 
+improved  physical 
+access  to  markets 
+- Households 
+2.2.1  New jobs created 
+New jobs - Jobs 
+0 
+10000 
+30000 
+500 
+1000 
+3.2.2  Households reporting adoption of 
+environmentally sustainable and climate-
+resilient technologies and practices 
+70 
+Households 
+Percentage (%) 
+30 
+0 
+- 
+2.1.5  Roads constructed, rehabilitated or 
+upgraded 
+Length of roads -   0 
+260 
+100 
+1.1.2  Farmland under water-related 
+infrastructure constructed/rehabilitated  
+Hectares  of  land  - 
+Area (ha) 
+15000 
+8000 
+0 
+1.1.5    Persons  in  rural  areas  accessing 
+financial services 
+Total 
+persons 
+accessing  financial 
+services - savings - 
+Number of people 
+17000 
+8000 
+0 
+3.1.1    Groups  supported  to  sustainably 
+manage  natural  resources  and  climate-
+related risks  
+Groups  supported 
+- Groups 
+4000 
+2500 
+0 
+Annual  at 
+Mid term 
+PMU 
+Annual  at 
+Mid term 
+PMU 
+Outcom
+e 
+survey 
+MIS, 
+Outcom
+e 
+survey 
+MIS 
+Annual 
+PMU 
+MIS 
+Annual 
+PMU 
+MIS 
+Annual 
+PMU 
+MIS 
+Annual 
+PMU 
+Valid 
+agricultural 
+innovations available from 
+research  institutions  and 
+private sector 
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+Provincial 
+governments 
+integrate  other  financial 
+resources  as  cofinancing 
+infrastructure 
+for 
+investment. 
+No  major 
+in 
+financial  climate,  lending 
+terms 
+change 
+investors 
+Private 
+are 
+interested  in  investing  in 
+business  opportunities  in 
+smallholders  agriculture 
+along conditions promoted 
+by the programme 
+Farm households Producer 
+groups  are  interested  in 
+inclusive value chain, and 
+are  able  to  finance  their 
+part  of  the  investment 
+facility 
+E
+B
+2
+0
+2
+1
+/
+1
+3
+4
+/
+R
+.
+4
+0
+/
+R
+e
+v
+.
+1
+Appendix III 
+EB 2021/134/R.40/Rev.1 
+Integrated project risk matrix 
+Country Context 
+Moderate 
+Moderate 
+Political Commitment 
+Moderate 
+Moderate 
+Risk: 
+Moderate 
+Moderate 
+Government is unable to provide the resources from 
+implementation of the NTPs, the Resolution 120, Decision 
+324, and Decision 825 in MKD. 
+Mitigations: 
+Agreements on funding targets and modality are included in 
+the design report and financing agreement. Include explicit 
+text in the Financing Agreement on counterpart funding – 
+including district levels – and loan recovery. 
+Governance 
+Risk: 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Governance systems are in place and functioning well. 
+Corruption is a concern, albeit recent policies brought 
+improvements. 
+Mitigations: 
+IFAD exercises close supervision and audit of project 
+expenditures and processes. 
+Macroeconomic 
+Risk: 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+External shocks risk macro-economic stability such as USA-
+China trade war and COVID19 induced restrictions on global 
+and national markets. 
+Mitigations: 
+CSAT invests in value chain that target national market 
+demand. They will be less affected from external shocks. 
+Market information system are building up in Viet Nam , 
+including those supported under CSAT, and they provide 
+better information to producers and traders to respond to 
+oncoming market fluctuations. In addition, a covid-19 grant 
+has been obtained with UNIDO to facilitate adoption of digital 
+innovations which have proved crucial to mitigate some of 
+covid impacts on value chain and extension services. 
+Risk: 
+Moderate 
+Moderate 
+6 
+Appendix III 
+EB 2021/134/R.40/Rev.1 
+The COVID-19 pandemic impacts stronger than anticipated on 
+the economy; public revenues are reduced and Government 
+may not be able to provide sufficient funds to the provinces 
+for development programmes like CSAT 
+Mitigations: 
+The Government of Viet Nam has managed well the COVID 
+pandemic, as reflected by just 5119 total COVID cases (May 
+23 2021), and sustained economic growth. There is high 
+commitment from GoV and two provinces. Loan agreement 
+signed and enforced by GoV and IFAD to ensure sufficiently 
+provided fund for project. 
+Fragility and Security 
+Risk: 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Viet Nam is highly exposed to climate change induced shocks. 
+Government has managed COVID19 extremely well thus far. 
+The political system is robust. 
+Mitigations: 
+Government institutions are well organized and experienced 
+in mitigating disasters. CSAT integrated resilience approach 
+shall also help address various economic and environmental 
+shocks. 
+Sector Strategies and Policies 
+Substantial 
+Moderate 
+Policy alignment 
+Risk: 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Viet Nam has become a lower middle-income country, 
+graduated to from IDA to less concessional IBRD terms in 
+2017. GoV has put in place new policies on ODA financing 
+(Decree 56/2020) that reflect the new situation. New ODA 
+type investments such as IFAD funded projects need to focus 
+on infrastructure only. This policy prevents to apply common 
+IFAD investments in capacities building of poor people. In 
+turn, it makes it difficult to reach IFAD ‘s target groups 
+effectively unless non-lending resources can be mobilized. 
+Mitigations: 
+The project design is fully aligned with Viet Nam’s Agricultural 
+Restructuring Plan, the New Rural Development Programme, 
+the Resolution 120 and its decisions (324, 825). This enables 
+CSAT to mobilise large domestic funds to co-finance capacity 
+building and other ‘soft’ investments. 
+Policy Development and Implementation 
+Substantial 
+Moderate 
+Risk: 
+Substantial 
+Moderate 
+7 
+Appendix III 
+EB 2021/134/R.40/Rev.1 
+Key risk for the Mekong Delta and the IFASD target groups is 
+a lack of coordination for implementing key policies such as 
+resolution 120. 
+Mitigations: 
+CSAT promotes strong institutional linkages through 
+coordinated inter-provincial planning to the Agricultural 
+Transformation Programme and the Mekong Delta Plan. 
+Environment and Climate Context 
+Substantial 
+Moderate 
+Project vulnerability to environmental conditions 
+Substantial 
+Moderate 
+Risk: 
+Substantial 
+Moderate 
+CSAT’s investment in infrastructure may cause negative 
+environmental impacts including forest clearance, air 
+pollution, over-use of water. 
+CSAT’s supports to agricultural value chain development may 
+coincide with a greater use of pesticides, herbicides, chemical 
+fertiliser and plastics. 
+Mitigations: 
+CSAT develops Environment and Social Management 
+Framework (ESMF) which guides the preparation of site-
+specific Environmental and Social Management Plan (ESMP) 
+and Free Prior and Informed Consent (FPIC) procedures to 
+ensure environmental and social assessment and consultation 
+are done for the sub-project implementation. This aims to 
+mitigate the potential adverse impacts from project 
+interventions, or reduce them to an acceptable level. 
+CSAT promotes CSA practices, including the use of organic 
+fertilisers, pest and weed control, among others. Market 
+opportunities exist for expanding organic production of high 
+value crops. Extension efforts focus on minimizing potential 
+negative impacts arising from agricultural value chain 
+development. 
+Project vulnerability to climate change impacts 
+Substantial 
+Moderate 
+Risk: 
+Substantial 
+Moderate 
+The SECAP review note classifies the Project as High under 
+the climate risk category. 
+In-depth climate risks analysis foresee increasing 
+temperature, change in rainfall patterns, and increasing risks 
+of sea level rise. Risks for investments in infrastructure and 
+crops would be substantial if adaptation measures such as 
+CSA were not adopted. 
+Mitigations: 
+CSAT promotes a number of risk mitigation measures: (i) 
+Climate and environmental risks are addressed in SEDP and 
+VCAP; (ii) Provincial and sectoral climate change action plans 
+8 
+Appendix III 
+EB 2021/134/R.40/Rev.1 
+are updated; (iii) CSA is widely promoted and supported 
+through capacity building, learning and dissemination; and 
+(vi) Requirement for preparation of site-specific ESMPs for 
+sub-projects which will incorporate specific mitigation 
+measures to address climate risks from proposed 
+interventions. 
+Project Scope 
+Project Relevance 
+Risk: 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+CSAT is not responding adequately to key challenges and 
+related, recent policies on the Mekong Delta. 
+Mitigations: 
+CSAT is fully aligned with key policies: Resolution 120 and 
+MDP. Domestic funding amounts to about 30 per cent. 
+Intensive consultation process took place. Strong financial 
+contribution as national co-finance is about 39 per cent of 
+which GoV provides about 10 per cent. 
+Technical Soundness 
+Risk: 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+The project activities require coordination and planning, and 
+institutions may not have capacities. 
+Mitigations: 
+(i) Establishment of effective management and coordination 
+structures in two provinces is well established; (ii) Ownership 
+and lead by provincial governments (PPC); (iv) improvement 
+of existing planning and technical instruments rather than 
+new one. 
+Institutional Capacity for Implementation and 
+Sustainability 
+Implementation Arrangements 
+Risk: 
+Lack of adequate human and financial resources. Challenges 
+in terms of coordination capacities and costs considering the 
+size of PMU (22 in each province), the number of partners 
+including several financing partners with potential different 
+reporting and planning requirements. 
+Mitigations: 
+Provincial governments and line agencies have committed 
+sufficient funds for capacity building. CSAT will seek for 
+additional funds such from the NTP-NRD. CSAT’s PIM outlines 
+implementation requirements in a step by step approach. 
+Component 1.2 provides the capacity building for planning 
+9 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Appendix III 
+EB 2021/134/R.40/Rev.1 
+and investments under CSAT. In addition, IFAD office 
+provides overall backstopping in transversal functions such as 
+financial management and M&E and along missions. 
+The proposed institutional arrangements are based on the 
+foundation provided under the previous projects in the two 
+provinces (i.e. DBRP,IMPP, AMD). These projects have 
+demonstrated a solid track record of delivery of even complex 
+tasks across province, district and commune structures. AMD, 
+for instance, delivered very successfully on the combined 
+IFAD loan and ASAP financing as well as other funding 
+leveraged from other government programs. The actual size 
+of the PMU is smaller than of AMD and builds on its exit 
+strategy, with 22 people in each province without any 
+additional district and commune personnel. This will ensure 
+that project activities will be properly mainstreamed in the 
+provincial government programmes of work. 
+Monitoring and Evaluation Arrangements 
+Moderate 
+Moderate 
+Risk: 
+Moderate 
+Moderate 
+Inadequate M&E system for planning and monitoring. 
+Mitigations: 
+CSAT’s M&E system is embedded in the project management 
+information system (MIS). It integrates information on project 
+management, financial management, procurement and 
+physical progress. It allows reporting in real time and serves 
+as a platform for the large number of co-implementing 
+agencies. 
+Project Financial Management 
+Project Organization and Staffing 
+Risk: 
+Moderate 
+Moderate 
+Moderate 
+Low 
+Low 
+Low 
+The organizational structure of the implementing agencies for 
+AMD project, closing in Dec. 2020, are proposed to be used 
+for the new project CSAT. (Ben Tre) There are five accounting 
+staff working at the PMU namely: one Chief Accountant, three 
+Accountants (two at district level and one at provincial level) 
+and one Asset management and taxation officer cum Cashier, 
+with required qualification and experience in managing 
+foreign funded project since previous IFAD project. The 
+Project deploys one full time accountant in each DPMU and 
+part-time accountants with limited qualification and capacity 
+have been recruited at commune level (CDB). Project FM staff 
+have long-term contracts and are subject to annual 
+performance reviews. The proposed organizational structures 
+of the implementing agencies are found appropriate to the 
+new Project. 
+(Tra Vinh) There are five accounting staff working at the PCU 
+namely: one Chief Accountant, three Accountants and one 
+Cashier, with required qualification and experience in 
+managing foreign funded project since previous IFAD project. 
+For previous projects, project accountants (part-time) have 
+10 
+Appendix III 
+EB 2021/134/R.40/Rev.1 
+been staff have not been retained long-term (transferred to 
+other departments). 
+Mitigations: 
+- Further FM trainings are required to efficiently manage IFAD 
+resources at all levels, for effective and efficient project 
+operation support. 
+- Functional review with clear division of responsibilities 
+should be carried out to ensure allocating appropriate 
+workload for FM staff at all levels 
+- (Tra Vinh) Ensuring only full-time staff in Accounting 
+positions (no regular transfers to other departments) 
+Project Budgeting 
+Risk: 
+Moderate 
+Moderate 
+Low 
+Low 
+The new GOV policy on ODA has curtailed the access to IFAD 
+finance and consequently led to slow implementation of 
+planned project activities. Due to previous GOV policy 
+regarding foreign investment tightening and the COVID-19 
+situation, the AMD project implemented in the same province 
+further experienced difficulties in fund allocation for 2019 and 
+2020 AWP/B. 
+However, with the new GoV Decree No. 56/2020/ND-CP on 
+management and use of ODA and preferential loans issued on 
+May 25, 2020, GoV now aims at broader priorities for ODA 
+projects of which could bring positive impacts on existing 
+projects as well as possibility of new projects in Viet Nam. 
+District/Commune level provides work/budget estimates (in 
+Commune/District Socioeconomic Development Plans) to 
+provincial level for the preparation of the AWP/B by PMU 
+accounting department staff, with input from relevant 
+stakeholders and the provincial Department of Planning and 
+Investment. The PD provides clearance and shares AWP/B 
+with PPC which subsequently shares with MoF and with IFAD 
+for issuance of NOL. AWP/Bs have been timely provided by 
+previous projects with same Borrower/LPA. 
+Mitigations: 
+The PCU, after consultations with project stakeholders, shall 
+prepare its annual budget, linking all the planned activities to 
+the cost categories outlined in Schedule II of the Financing 
+Agreement; this exercise will take place in advance of the 
+preparation of the national budget, to ensure that the 
+required Government funds will be allocated and available on 
+time. All financing contributions should be clearly stated in 
+the budget to be submitted to internal for approval and to 
+IFAD for non –objection. 
+The LPA should make reasonable annual budgetary provisions 
+11 
+Appendix III 
+EB 2021/134/R.40/Rev.1 
+for IFAD funds and Counterpart funds in the National Budget, 
+based on the AWP/B of the Project. 
+Project Funds Flow/Disbursement Arrangements 
+Moderate 
+Risk: 
+Moderate 
+Low 
+Low 
+Immediately after entry into force of the two Financing 
+Agreements, the GoV is required to open and maintain two 
+Designated Accounts (one for the Loan -BT and another one 
+for Loan -TV in a commercial bank(s) denominated in loan 
+denominating currency for financing the Project. The 
+Designated Accounts will be operated by the Ministry of 
+Finance (MoF) and administered following Imprest Account 
+arrangements. Advances from this Financing must be 
+segregated from other funds for the Project. 
+The PMU in BT and TV shall open and maintain in their 
+provincial treasuries the Project Accounts denominated in 
+VND for Project operations. The Project Accounts shall be 
+funded and replenished as necessary from the resources held 
+in the Designated Account respectively, upon request of the 
+PMU and in accordance with expenditures incurred under 
+approved AWP/Bs. 
+Viet Nam is already live on ICP and the platform will be used 
+for submission of withdrawal applications. A new Management 
+Information System (MIS) will be procured and implemented, 
+in order to facilitate information flows, ensure appropriate 
+approval structures and to improve efficiency for data 
+retrieval and dissemination. 
+Mitigations: 
+The project should start working with the software company 
+to initiate the process for implementing a new Management 
+Information System (MIS), enabling the customization of an 
+automatic review and approval process for the new project 
+design. 
+Project Internal Controls 
+Risk: 
+Moderate 
+Moderate 
+Low 
+Low 
+Contract register is in place. Supporting documents and 
+related vouchers are traceable to most of the districts. 
+Project FM operations at the PMU and district level undergo an 
+annual internal audit (in the form of annual activities 
+control/settlement) by officers of the provincial Department of 
+Finance. As part of internal control procedures, the PMU need 
+to provide a formal delegation of authority and clear 
+segregation of duties among the project staff. In addition, the 
+project’s financial performance will be periodically reviewed. 
+There are regular reconciliations of cash conducted, which is 
+performed by someone other than the cashier. Annual 
+physical verification of project assets will be performed by the 
+12 
+Appendix III 
+EB 2021/134/R.40/Rev.1 
+Administrative Department and a logbook of leased vehicles 
+will be kept (current practice for existing project). 
+Mitigations: 
+The Provincial PCU shall make sure proper internal controls 
+are defined and described in the project FM manual, as part of 
+the PIM. Detailed control activities include a good transaction 
+trail, personnel policies and competent project staff, 
+segregation of duties, physical protection of assets, and 
+timely progress and performance reporting. 
+Supervision and monitoring during project implementation 
+need to be exercised to ensure that the prescribed guidelines 
+and requirements are being followed and complied with. 
+fiduciary accountability and implementation efficiency 
+Project Accounting and Financial Reporting 
+Risk: 
+The ANNA accounting software has been adapted. However, 
+there is a lack of integration and automation from commune 
+level to the provincial level. Thus, all detailed transactions 
+have been re-keyed in one by one by the financial team at 
+PMU. In addition, there were delays in entering accounting 
+transactions into the accounting software as the transactions 
+are only input into the systems upon completion once all 
+supporting documentations have been collected. Forms and 
+reports required by the GoV and IFAD were still manually 
+prepared outside the system. Furthermore, there is no 
+segregation of duties built into the accounting system. 
+Mitigations: 
+- Customize accounting software, as part of the 
+implementation of a new MIS to enable an integrated 
+environment, and to permit computerized consolidation; 
+- Set up an automation of system reports and forms as 
+required by GoV and IFAD i.e. financial statements and 
+withdrawal applications submitted to IFAD 
+Moderate 
+Moderate 
+Low 
+Low 
+Project External Audit 
+Risk: 
+Moderate 
+Moderate 
+Low 
+Low 
+Current project has been audited by private Auditing Firm 
+which was procured through competitive bidding process 
+(AASC Auditing Firm Co. Ltd- same auditor for past 5 years). 
+The audit is carried out on the basis of International 
+Standards on Auditing. Annual audit reports have been 
+submitted on time. The auditors have expressed Unqualified 
+Opinion on annual Financial Statements over the project 
+implementation of 5 years. 
+Mitigations: 
+13 
+Appendix III 
+EB 2021/134/R.40/Rev.1 
+The auditor should be appointed before the start of the 
+financial year to be audited. This is to allow the auditor 
+sufficient time to plan and carry out a comprehensive 
+examination of the recipient’s financial records and accounts. 
+Project Procurement 
+Legal and Regulatory Framework 
+Risk: 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+The Borrower’s regulatory and institutional capacity and 
+practices (including compliance with the laws) are inadequate 
+to conduct the procurement in a manner that optimizes value 
+for money with integrity and prevents corruption. 
+Mitigations: 
+IFAD implements a zero tolerance to corruption policy. IFAD 
+provides no-objection to the annual project procurement 
+plans, prior review of large procurement proposals, and ex-
+post procurement checks. IFAD policies demand the use of 
+competitive procurement methods for projects. Projects 
+should provide consolidated procurement information on the 
+provincial procurement website and project website 
+(opportunities and awards). Project conducts prior and ex-
+post reviews, annual audits to strengthen enforcement of the 
+debarment system. 
+Accountability and Transparency 
+Risk: 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Accountability, transparency and oversight arrangements 
+(including the handling of complaints regarding, for example, 
+SH/SEA and fraud and corruption) are inadequate to 
+safeguard the integrity of project procurement and contract 
+execution, leading to the unintended use of funds, 
+misprocurement, SH/SEA, and/or execution of project 
+procurements outside of the required time, cost and quality 
+requirements. 
+Mitigations: 
+Project requests bidders, contractors/ service providers/ 
+suppliers to sign Self Certification Form on anticorruption, 
+sexual harassment, sexual exploitation and abuse as a part of 
+bids/ proposals and contract documents. Government policies 
+promotes e-procurement as a main procurement modality. 
+Conduct prior and ex-post reviews to strengthen enforcement 
+of the debarment system. Provide consolidated procurement 
+information on the procurement website and project website 
+(opportunities and awards). 
+Capability in Public Procurement 
+Risk: 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+14 
+Appendix III 
+EB 2021/134/R.40/Rev.1 
+The implementing agency does not have sound processes, 
+procedures, systems and personnel in place for the 
+administration, supervision and management of contracts 
+resulting in adverse impacts to the development outcomes of 
+the project. 
+Mitigations: 
+Provincial government should retain high performing AMD 
+procurement professionals to support full time and 
+intermittently. Project should provide training and periodic 
+coaching to project and sub-national project staff. A project 
+procurement manual has been prepared in draft and be 
+finalized before start-up. It details guidance for different 
+procurement methods in compliance with IFAD project 
+procurement guidelines. 
+Public Procurement Processes 
+Risk: 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Procurement processes and market structures (methods, 
+planning, bidding, contract award and contract management) 
+are inefficient and/or anti-competitive, resulting in the misuse 
+of project funds or sub-optimal implementation of the project 
+and achievement of its objectives. 
+Mitigations: 
+Carry out coaching, on-the-job trainings and refresher 
+trainings on procurement (IFAD project procurement 
+guidelines and manual, ICP, NOTUS, e-procurement). PMUs 
+monitor and update regularly implementation progress of the 
+procurement plan with both planned and actual data. IFAS 
+provides close supervision. 
+Environment, Social and Climate Impact 
+Biodiversity Conservation 
+Risk: 
+VCAP promotes land use change/transformation that would 
+result in further loss/degradation of habitat, forest cover or, 
+soils; environmentally sensitive and/or vulnerable to natural 
+disaster. 
+Mitigations: 
+CSAT promotes eco-friendly production/certification (e.g. eco-
+shrimp, mangrove clam) that increases the biodiversity of the 
+region. Sub-projects, notably public infrastructure 
+investments, will avoid environmentally sensitive areas and 
+special areas for biodiversity conservation. 
+Appendix 1 of the ESMF to ensure that all interventions in 
+sensitive areas (including infrastructure and other activities) 
+15 
+Low 
+Low 
+Low 
+Low 
+Low 
+Low 
+Appendix III 
+EB 2021/134/R.40/Rev.1 
+will entail an upgrade to Category A, providing these are not 
+coordinated with DONRE. 
+Resource Efficiency and Pollution Prevention 
+Substantial 
+Moderate 
+Risk: 
+Substantial 
+Moderate 
+Hi-tech aquaculture production results in water pollution. 
+Mitigations: 
+Value chain planning for each value chain will address directly 
+the risks of pollutions and propose immediate solutions, 
+otherwise proposed investments with high risk of pollution will 
+be discard. CSAT also promotes water treatment solutions to 
+make use of waste water and promotes water use efficiency. 
+Cultural Heritage 
+Risk: 
+Low 
+Low 
+Low 
+Low 
+Infrastructure causes destruction / pollution to the cultural 
+heritage (e.g. Khmer pagoda) 
+Mitigations: 
+CSAT invests in small scale infrastructure and will avoid sub-
+projects that have potential adverse impacts on cultural 
+heritage. The project Grievance Redress mechanism ensure 
+that complaints are addressed to rectify decisions and 
+malpractice. SEDP and VCAP ensure full participation of 
+stakeholders to prevent inappropriate investments. 
+Indigenous People 
+Risk: 
+Low 
+Low 
+Low 
+Low 
+(for Tra Vinh only) Risk of social, or economic impacts on the 
+non Kinh ethnic group, including threats to or the loss of 
+resources of historical or cultural significance. 
+Mitigations: 
+The approach to the non-Kinh ethnic groups is consistent with 
+IFAD’s policy on ethnic minorities. 
+Cultural differences will dictate the approach adopted. Local 
+languages will be used in all village meeting, planning and 
+extension sessions. 
+District teams responsible for implementation will reflect 
+gender balance, and their members will have command of 
+ethnic languages. 
+Capacity building tools will be developed in the languages of 
+the main ethnic groups and take into consideration cultural 
+differences. Special efforts will be made to recruit project 
+extension agents speaking ethnic groups languages and in 
+mobilizing and mentoring students from the ethnic schools. 
+Labour and Working Conditions 
+Low 
+Low 
+16 
+Appendix III 
+Risk: 
+EB 2021/134/R.40/Rev.1 
+Low 
+Low 
+Child labour, forced labour, ethnicity based discrimination, 
+overtime working, poor working conditions. 
+Mitigations: 
+CSAT documents and communicates to all employers and 
+workers within the value chain regarding their working 
+conditions and terms of employment. CSAT promotes 
+transparent contract arrangement including wages and 
+benefits, hours of work, overtime arrangements and overtime 
+compensation, and leave for illness, maternity, vacation or 
+holiday, that at a minimum comply with national law. This 
+includes respecting a collective bargaining agreement with a 
+workers’ organization if there is such an agreement. 
+On the risk of child labor, CSAT will prevent the use of child 
+labor and ensure compliance with the government’s labor 
+laws and related international treaty obligations. This has 
+been included as one of the mitigation measures under the 
+ESMF (see Appendix 3 – ESMP for climate resilient 
+infrastructures under the issue on worker and public safety). 
+Relatedly, compliance with national laws and ILO standards 
+on child labor and labor rights will be closely monitored by the 
+PMU. Awareness will be raised on the issue and relevant 
+clauses will be included in all contracts with service providers. 
+Additionally, we will also include the similar mitigation 
+measure in the General ESMP as recommended. 
+Community Health and Safety 
+Risk: 
+Low 
+Low 
+Low 
+Low 
+Overuse of chemicals and pesticides for production which 
+affects community health and food safety. 
+Mitigations: 
+Food safety and international standards/certification are 
+included from value chain planning with strict monitoring and 
+evaluation. 
+Physical and Economic Resettlement 
+Risk: 
+Low 
+Low 
+Low 
+Low 
+Forcibly/voluntarily displaced households due to infrastructure 
+constructions. 
+Mitigations: 
+CSAT invests in small and climate resilient infrastructure and 
+will avoid sub-projects that may cause physical resettlement. 
+ESMF is in place to ensure the conformation of infrastructure 
+investment to SECAP/Gov policies. FPIC and Grievance 
+redress are included in ESMP and ESMF and ensure the voice 
+of communities are raised and complaints addressed in due 
+fashion. Additionally, FPIC, Implementation Plan and EM plan 
+17 
+Appendix III 
+EB 2021/134/R.40/Rev.1 
+have been included in the design (i.e. Appendices 4 and 5 of 
+the SECAP, respectively). 
+Greenhouse Gas Emissions 
+Risk: 
+Low 
+Low 
+Low 
+Low 
+Methane (CH4) and Nitrous oxide (N20) emitted during waste 
+decomposition in landfills, land-use change, digestive 
+processes in livestock, and agriculture. 
+Mitigations: 
+CSAT promotes climate smart agriculture technology to 
+reduce GHG emissions. Climate informed SEDP builds capacity 
+of stakeholders on climate change mitigation and adaptation. 
+Vulnerability of target populations and ecosystems to 
+climate variability and hazards 
+Moderate 
+Moderate 
+Risk: 
+Moderate 
+Moderate 
+The project’s groups such as the poor and climate change 
+vulnerability people, and ecosystem in some project areas, 
+especially those in coastal districts, may face problems 
+resulted from increasing climate variability and hazards (i.e., 
+sea level rise, SWI, storms, long-lasting/heavy rain, and 
+landslide, etc.). 
+Mitigations: 
+Regional integrated planning and Convergent Value chain 
+Planning take into account of agricultural transformation, 
+climate change resilient. Subsequently, value chain 
+investments will be risk mitigation and/or avoidance. 
+Stakeholders 
+Moderate 
+Moderate 
+Stakeholder Engagement/Coordination 
+Moderate 
+Moderate 
+Risk: 
+Moderate 
+Moderate 
+Selected VC commodities exclude poor households; lack of 
+consultation/ inclusion of perspectives of rural households, 
+esp., vulnerable households (EM, women, youth, elderly). 
+Mitigations: 
+As a proven practice form the AMD project, CSAT engages in 
+an participatory investment planning process, from “bottom-
+up” commune, district and provincial levels. It captures local 
+knowledge and improved understanding of priorities, 
+vulnerabilities, risks and potential impacts. The planning and 
+targeting practice identifies targeted rural households and 
+analyses requirements to optimize participation of 
+disadvantaged rural households. 
+Stakeholder Grievances 
+Moderate 
+Moderate 
+18 
+Appendix III 
+Risk: 
+EB 2021/134/R.40/Rev.1 
+Moderate 
+Moderate 
+Stakeholders are unhappy about project investments, 
+especially public infrastructure (e.g. elite capture). 
+Mitigations: 
+Government has a grievance policy and mechanism in place. 
+CSAT is building on it to capture and address target groups 
+complaints on (i) being left out of consultation process. Non 
+compliance to agreed development plans; (ii) misuse/ 
+misappropriation of assets (land, water); (iii) misuse of 
+projects funds e.g. corruptive practice. Ensure full 
+participation of stakeholders in all project consultation and 
+planning processes. Such systems are included in ESMF as 
+well. 
+19 

@@ -1,0 +1,2546 @@
+Document:
+Agenda:
+Date:
+Distribution:
+Original:
+EB 2019/127/R.33/Rev.1
+8(d)(iv)(d)
+12 September 2019
+Public
+French
+E
+President’s report
+Proposed loan and Debt Sustainability
+Framework grant to the Republic of the Niger
+for the Project to Strengthen Resilience of
+Rural Communities to Food and Nutrition
+Insecurity
+Project no: 2000002678
+Note to Executive Board representatives
+Focal Points:
+Technical questions:
+Dispatch of documents:
+Deirdre McGrenra
+Chief
+Institutional Governance and Member
+Relations
+Tel.: +39 06 5459 2374
+e-mail: gb@ifad.org
+Lisandro Martin
+Director
+West and Central Africa Division
+Tel.: +39 06 5459 2388
+e-mail: lisandro.martin@ifad.org
+Valantine Achancho
+Country Programme Manager
+Tel.: +225 0542 1144
+e-mail: v.achancho@ifad.org
+Executive Board — 127th session
+Rome, 10-12 September 2019
+For: Approval
+EB 2019/127/R.33/Rev.1
+Contents
+Acronyms and abbreviations
+Map of the project area
+Financing summary
+I.
+Context
+A. National context and rationale for IFAD engagement
+B. Lessons learned from experience
+II.
+Project description
+A. Project objectives, geographic area of intervention and
+target groups
+B. Components/outcomes and activities
+C. Theory of change
+D. Alignment, ownership and partnerships
+E. Costs, benefits and financing
+III. Risks
+A. Project risks and mitigation measures
+B. Environmental and social category
+C. Climate risk classification
+D. Debt sustainability
+IV.
+Implementation
+A. Organizational framework
+B. Planning, monitoring and evaluation, knowledge management
+and communication
+C. Implementation plans
+V.
+VI.
+Legal instruments and authority
+Recommendation
+Appendices
+I. Negotiated financing agreement
+II. Logical framework
+ii
+iii
+iv
+1
+1
+2
+3
+3
+3
+4
+5
+5
+11
+11
+11
+11
+11
+12
+12
+12
+12
+13
+13
+Project delivery team
+Regional Director:
+Country Director /Country Programme Manager:
+Technical Officer:
+Gender, Targeting and Nutrition Specialists:
+Financial Management Officer:
+Climate and Environment Specialists:
+Rural Finance Specialist:
+Country Programme Officer:
+Legal Officer:
+Lisandro Martin
+Valantine Achancho
+Audrey Nepveu de Villemarceau
+Antonella Cordone; Khadidja Doucoure; Claudia Saverese
+Radu Damianov
+Amath Pathe Sene; Sébastien Subsol; Brie Alice
+Jonathan Agwe
+Lawan Cherif
+Sylvie Arnoux
+i
+EB 2019/127/R.33/Rev.1
+Acronyms and abbreviations
+FAO
+GCF
+GEF
+OFID
+ProDAF
+RPMU
+WFP
+Food and Agriculture Organization of the United Nations
+Green Climate Fund
+Global Environment Fund
+OPEC Fund for International Development
+Family Farming Development Programme
+regional project management unit
+World Food Programme
+ii
+i
+i
+i
+Ongoing IFAD-funded projects
+Family Farming Development Programme in Tahoua,
+Maradi and Zinder Regions (ProDAF)
+Family Farming Development Programme in the Diffa Region
+(ProDAF-Diffa)
+New project
+Project for Strengthening the Resilience of Rural Communities
+to Food and Nutrition Insecurity in Niger (PRECIS)
+M
+a
+p
+o
+f
+t
+h
+e
+p
+r
+o
+j
+e
+c
+t
+a
+r
+e
+a
+E
+B
+2
+0
+1
+9
+/
+1
+2
+7
+/
+R
+.
+3
+3
+/
+R
+e
+v
+.
+1
+EB 2019/127/R.33/Rev.1
+Financing summary
+Initiating institution:
+IFAD
+Borrower:
+Republic of the Niger
+Executing agency:
+Ministry of Agriculture
+Total project cost:
+EUR 172.112 million (equivalent to US$195.863 million)
+Amount of IFAD loan:
+EUR 56.7 million (equivalent to US$64.509 million)
+Amount of Debt Sustainability
+Framework grant:
+EUR 21 million (equivalent to US$ 23.870 million)
+Amount of IFAD climate finance*
+EUR 30.7 million (equivalent to US$ 34.924 million)
+Terms of IFAD loan
+Highly concessional loan, exempt from interest but with a
+service fee of three-quarters of a point (0.75 per cent) per
+annum and a maturity of forty (40) years, with a grace period
+of ten (10) years, starting from the date of approval by the
+Fund’s Executive Board. The principal shall be reimbursed
+at a rate of 4.5 per cent of the total principal per annum
+beginning in year eleven (11) through year thirty (30), and at
+a rate of 1 per cent of the total principal per annum
+beginning in year thirty-one (31) through year forty (40).
+Cofinanciers:
+OFID, GEF, GCF, private sector (Agricultural Bank of Niger)
+Amount of cofinancing:
+OFID: EUR 13.18 million (equivalent to US$15 million)
+GEF: EUR 5.27 million (equivalent to US$6 million)
+GCF: GEF: EUR 8.79 million (equivalent to US$10 million,
+US$7 million in the form of a loan and US$3 million in the
+form of a grant)
+Agricultural Bank of Niger: EUR 0.88 million (equivalent to
+US$1 million)
+Contribution of borrower:
+EUR 26.30 million (equivalent to US$29.93 million)
+Contribution of beneficiaries:
+EUR 4.91 million (equivalent to US$5.591 million)
+Financing gap
+EUR 35.11 million (equivalent to US$39.958 million)
+Appraising institution:
+Cooperating institution:
+IFAD
+IFAD
+* As per the MDB Methodologies for Tracking Climate Adaptation and Mitigation Finance.
+iv
+EB 2019/127/R.33/Rev.1
+Recommendation for approval
+The Executive Board is invited to approve the recommendation as indicated in
+paragraph 52.
+I. Context
+A. National context and rationale for IFAD engagement
+1.
+2.
+3.
+4.
+5.
+National context
+The people of the Republic of the Niger make their living mainly from small-scale
+family crop farming and livestock production, which employ more than 85 per cent
+of the economically active population. The structure of the gross domestic product
+is relatively stable, with a predominant agriculture sector (43.4 per cent of the
+gross domestic product in 2018), followed by the service sector (35 per cent) and
+the industrial sector (14.9 per cent). The rural sector is subject to climate hazards,1
+which adversely affect agriculture through the degradation of natural resources.
+The political climate is stable. However, the country’s security is threatened by the
+repeated attacks of terrorist groups in the Diffa (Lake Chad area) and Tillabéry
+regions, and northern Tahoua, where a state of emergency is in effect.2
+Niger’s goal of reducing poverty (Sustainable Development Goal 1) from
+45.1 per cent to 37.9 per cent by 2021 (Economic and Social Development Plan3)
+and to 20 per cent by 2035 (Sustainable Development and Inclusive Growth
+Strategy4) is a real challenge.
+Special aspects relating to IFAD’S corporate mainstreaming priorities
+Gender. With a gender inequality ranking among the highest in the world (0.713),
+Niger is a country with serious challenges in terms of gender equality and women’s
+empowerment and participation in the development process. With a roughly
+52.4 per cent female population in 2018, the average fertility rate is 7.6 children
+per woman. Despite recent legislative and regulatory efforts, the inequalities
+between women and men persist and are manifested in gaps in access to basic
+social services, productive resources (land), education, financial services and
+markets, as well as decision-making bodies. Early marriage and pregnancy limit
+opportunities for women’s empowerment and girls’ access to education.
+In this context, the Project to Strengthen Resilience of Rural Communities to Food
+and Nutrition Insecurity (PRECIS) will take a transformative approach to the
+gender issue that will go beyond improving women’s access to resources and
+enable communities to explore and question the social norms that create these
+inequalities.
+Youth. People under the age of 15 account for 52 per cent of Niger’s population.
+The country’s 3.9 per cent annual demographic growth poses a challenge for food
+and nutrition security, health, education, employment, socioeconomic integration
+and access to basic services.5 The problems facing youth are unresolved: lack of
+jobs, both urban and rural; limited access to productive resources (land, credit)
+1 Annual rainfall will increase by 8 per cent between 2020-2039 compared with 1980-1999 but will be extremely
+irregular, cancelling out the positive effects of this increase. The annual temperature is likely to increase by 2°C
+between 2020-2039 as compared with1980-1999.
+2 The mass influx of refugees to southern Maradi from northern Nigeria, where insecurity is prevalent, is a serious
+problem.
+3 Economic and Social Development Plan 2017-2021.
+4 Sustainable Development and Inclusive Growth Strategy (SDDCI-Niger 2035).
+5 The Government has revised its National Youth Policy document, aimed at giving the youth skills for promoting
+sustainable development by 2024.
+1
+EB 2019/127/R.33/Rev.1
+6.
+7.
+8.
+and socioeconomic development opportunities (entrepreneurship) and little
+representation in decision-making bodies.
+Nutrition. The agriculture sector’s high exposure to agro-climate risks and the
+high poverty rate are the main sources of vulnerability to food insecurity and
+malnutrition. According to Niger’s 2017 demographic and health survey, some
+42 per cent of children under 5 suffer from stunting, with the highest prevalence
+found in the Maradi and Zinder regions. The prevalence of acute malnutrition or
+emaciation in 2018 was 16 per cent in children aged 6 to 59 months, especially in
+the Maradi, Zinder and Tahoua regions.6
+Environment and climate change. With 80 per cent of its surface area in the
+Sahara and Sahel and the desert expanding by 200,000 hectares per year, the
+effects of climate change are manifested in Niger by: (i) water shortages;
+(ii) irregular and lower rainfall and iii) higher temperatures. The most visible
+impacts are: (i) an acceleration of desertification and soil erosion; (ii) more
+frequent extreme climate events (drought and floods)7 and (iii) loss of
+biodiversity.8
+Rationale for IFAD engagement
+IFAD’s country strategic opportunities programme for Niger seeks sustainable
+improvement of the food security of rural households and their increased resilience.
+This objective is consistent with the principal development policies of the
+Government of Niger Government since 20129 and its Pro-Resilience Programme
+2019-2021. It corresponds to the following three lines of action: (i) growth and
+diversification of agro-sylvo-pastoral and fishery production; (ii) steady supply of
+agricultural and agrifood products to rural and urban markets; (iii) improving the
+resilience of populations to food crises and disasters, within the framework of the
+"Nigériens nourrissent les Nigériens" Initiative. PRECIS is aimed at intensifying
+IFAD interventions in the aforementioned priority areas.
+9.
+IFAD operations in the country involve a long-term programmatic approach, and
+PRECIS capitalizes on the achievements of the Family Farming Development
+Programme (ProDAF) to heighten impacts and expand them to new municipalities.
+B. Lessons learned from experience
+10.
+PRECIS will benefit from the lessons learned from IFAD operations in Niger and
+other rural projects in Africa, especially: (i) the country programme approach
+followed by ProDAF since 2015, consolidating IFAD interventions under a coherent
+framework that permits consensus-based planning of activities and financing to
+ensure coherent operational approaches; (ii) the economic development hub
+approach linking production basins to markets whose products are destined for
+urban centres; (iii) improvement of the cost-sharing approach for financing
+remunerative activities, especially market gardening, supported by ProDAF, which
+gives small-scale producers access to bank financing; (iv) the promotion of
+small-scale irrigation, which has yielded good results in the Ruwanmu Small-scale
+Irrigation project; (v) the promotion of renewable energy in value chains to lower
+costs and reduce greenhouse gas emissions from small-scale irrigation and
+facilitate refrigeration (vaccines, food preservation) and home lighting; vi) the use
+6 Famine Early Warning System Network – FEWS NET. 2019. Niger: Food Security Outlook February-September 2019.
+Limited food supply, rising prices of food staples (sorghum, millet, maize) and falling livestock prices have made many
+households vulnerable, even those of sheep herders, who are finding it increasingly difficult to obtain food.
+7 The growing intensity of rain storms has led to more frequent flash floods and topsoil erosion, resulting in lower soil
+fertility and degradation of the land. Agricultural production is expected to drop by 20 per cent, reducing food supplies
+and the economic impact of agricultural products.
+8 According the climate change vulnerability index (Notre Dame Global Adaptation Index 2017), Niger ranks 175th out of
+181 countries and 46th among the countries least prepared to combat the effects of climate change.
+9 Niger Sustainable Development and Inclusive Growth Strategy 2035, Economic and Social Development Plan 2012-
+2015 and the "Nigériens nourrissent les Nigériens" initiative.
+2
+EB 2019/127/R.33/Rev.1
+of assisted natural regeneration in rainfed agriculture; (vii) social engineering to
+ensure ownership and the sustainable management of infrastructure by rural
+beneficiaries and communities.
+II. Project description
+A. Project objectives, geographic area of intervention and target
+groups
+11. The project’s overall goal is to sustainably improve the food and nutrition security
+of rural households and strengthen their resilience to climate and environmental
+shocks. Its development objective is to increase the income of rural households,
+improve their livelihoods and ensure the socioeconomic integration of young people
+(both women and men) in promising rural professions.
+12.
+Project intervention area. The project will cover 186 municipalities in the Dosso,
+Tahoua, Maradi and Zinder regions, which have 46 municipalities and
+6,606 villages more than the ProDAF intervention area.
+13. Target group. PRECIS will directly benefit 209,722 households, or
+1,468,054 people, consisting of: (i) settled smallholders engaged in grain (maize,
+sorghum, millet, rice) production, market gardening, poultry production and small
+animal husbandry; (ii) young women and men (aged 18-35) with micro- and small
+rural enterprises wishing to invest in these value chains; (iii) women wishing to
+engage in remunerative activities; (iv) actors upstream and downstream of
+production, involved in related activities (supply distribution, marketing, processing
+and farm equipment maintenance) and the delivery of other services;
+(v) professional organizations; (vi) vulnerable farming households;
+(vii) transhumant pastoralists (Tuareg nomads) and (viii) persons with disabilities.
+B. Components/outcomes and activities
+14.
+PRECIS will revolve around the following components: (i) sustainable agricultural
+development and strengthening of rural household resilience; (ii) promotion of
+youth entrepreneurship and market access and (iii) coordination, civic
+engagement, monitoring and evaluation, capitalization and knowledge
+management.
+Component 1: Sustainable agricultural development and strengthening of
+rural household resilience. This is divided into three subcomponents:
+-
+-
+-
+Subcomponent 1.1: “Improving sustainable surface water and land
+management,” will mitigate the effects of desertification and climate change
+through measures to restore productivity to waters in catchment areas and
+promote technologies for the sustainable management of water and land
+resources in production basins (land recovery, water works and the
+development of production basins).
+Subcomponent 1.2: “Strengthening of beneficiary technical and institutional
+capacities,” will strengthen the capacity of smallholders and their
+organizations to boost their production (crop and livestock) and productivity
+and sustainably manage their farms; it will also build capacity among local
+technical assistance providers.
+Subcomponent 1.3: “Education, the promotion of good nutrition practices and
+cross-cutting measures,” will help to improve food and nutrition security
+through activities to prevent malnutrition (feeding, nutrition and hygiene
+practices, the construction of granaries to ensure the availability of food
+during the hunger season), functional literacy activities and interactive
+training on gender issues and women’s leadership.
+3
+EB 2019/127/R.33/Rev.1
+Component 2: Promotion of youth entrepreneurship and market access.
+This is divided into two subcomponents:
+-
+-
+Subcomponent 2.1: “Support to youth for the creation and development of
+sustainable rural enterprises,” will, with the support of local technical
+assistance services, encourage rural entrepreneurship and improve young
+rural entrepreneurs’ ability to create or grow their business. PRECIS will
+encourage financial institutions to develop customized products and ensure
+the financial education of beneficiaries.
+Subcomponent 2.2: “Rural market development,” will improve the conditions
+for market access and the marketing of agropastoral products by building
+marketing infrastructure (collection centres, wholesale markets) and
+eliminating isolation (rehabilitation of rural roads).
+Component 3: Coordination, civic engagement, monitoring and evaluation
+and knowledge management. This will ensure the orientation,
+management and monitoring and evaluation of the project. It includes:
+-
+-
+Subcomponent 3.1: “Monitoring and evaluation, capitalization, gender and
+social inclusion, knowledge management and communication,” will set up a
+monitoring and evaluation mechanism linked with ProDAF’s existing
+mechanism. The project will have dedicated human resources for
+operationalizing the gender, youth and nutrition strategies.
+Subcomponent 3.2: “Coordination and civic engagement,” will ensure the
+project’s human resource and financial management and develop the
+necessary partnerships for effective results-based implementation. PRECIS
+will establish third-party monitoring mechanisms for evaluating the overall
+management of the project.
+C. Theory of change
+15.
+PRECIS activities will provide solutions for the major food and nutrition insecurity
+problems facing rural households in Niger and the limited investment of young
+people in agropastoral value chains. These problems include, in particular:
+(i) limited water mobilization and management capacity for agropastoral production
+activities, due to climate events and environmental constraints; (ii) the low level of
+agricultural and pastoral production due to the accentuation and unpredictability of
+climate change, heavy human and animal dependence on natural resources,
+unsuitable farming practices, limited access to quality inputs (seed, fertilizers) and
+production factors (land); (iii) a large population of unemployed youth resulting
+from a lack of assistance tailored to the needs of youth and women;
+(iv) socio-cultural barriers that create serious gender inequalities and limit
+women’s access to land, capital, decision-making bodies and education;
+(v) little marketing of agricultural products due to the absence of market
+infrastructure (roads, organizational collection and storage centres) and low
+processing levels; (vi) the alarming presence of chronic and acute malnutrition
+caused by poor feeding practices.
+16. These problems result in: (i) an agropastoral sector that holds little attraction for
+youth, (ii) low household productivity, with recurring malnutrition and little
+resilience among vulnerable groups such as women and youth and (iii) an
+agropastoral sector that is not market-oriented.
+17. Some of the changes to be introduced by the project are: (i) improved access to
+water; (ii) higher crop and small animal productivity and yields through the
+promotion of appropriate techniques, technical assistance services and the spread
+of innovations; (ii) development of micro- and small rural enterprises by young
+people, leading to job creation and income generation; (iv) greater leadership and
+access by women to productive resources (land, capital); (v) improved market
+4
+EB 2019/127/R.33/Rev.1
+access and (vi) better nutrition through the adoption of good practices in nutrition
+and hygiene.
+D. Alignment, ownership and partnerships
+18. National ownership. PRECIS grew out of the strong political will of the
+Government and is aligned with the operational areas of the Plan of Action
+2016-2020 of the Nigériens Nourrissent les Nigériens Initiative and the Pro-
+Resilience Programme presented by the Government of Niger during the joint visit
+by the President of IFAD, the Director General of the Food and Agriculture
+Organization of the United Nations (FAO) and the Executive Director of the World
+Food Programme (WFP) to Niger in August 2018.
+19. Alignment with IFAD corporate priorities. PRECIS is consistent with IFAD’s
+Strategic Framework 2016-2025, aimed at fostering inclusive and sustainable rural
+transformation, and with the strategic lines of the Eleventh Replenishment of
+IFAD's Resources (IFAD11). The proposed activities will make it possible to meet
+IFAD’s three strategic objectives, namely: (i) sustainably and resiliently increase
+poor rural people’s productive capacities, (ii) increase poor rural people’s benefits
+from market participation and (iii) strengthen the environmental sustainability and
+climate resilience of poor rural people’s economic activities. PRECIS is also aligned
+with IFAD’s proposed interventions in Niger, as stated in the strategic objectives of
+the country strategic opportunities programme 2013–2022.10
+20. Contribution to the achievement of the Sustainable Development Goals. PRECIS
+will contribute to the achievement of Sustainable Development Goals 1
+(no poverty), 2 (zero hunger), 5 (gender equality and women’s empowerment) and
+6 (clean water and sanitation).
+21. Partnerships. The project will mobilize cofinancing from the following partners:
+the OPEC Fund for International Development (OFID) and the African Development
+Bank for market access and water infrastructure projects; the Global Environment
+Fund (GEF) to improve soil use and restore ecosystems; the Green Climate Fund
+(GCF) for adaptation and renewable energy promotion. The United Nations
+Environment Programme and the World Resource Institute will support
+implementation of the GEF activities. Ongoing partnerships with WFP and FAO
+under ProDAF (land recovery, promotion of good agricultural practices) will be
+pursued. Collaboration with State technical services, rural organizations, regional
+councils and civil society will foster ownership and the sustainability of
+investments.
+E. Costs, benefits and financing
+Project costs
+22. The total project cost over six years, including provisions for physical contingencies
+and price increases, is estimated at EUR 172.112 million. This will cover the base
+costs, estimated at EUR 153.166 million and provisions for physical and financial
+contingencies in the amount of EUR 18.94 million (11 per cent).
+23. The total project cost is distributed as follows: (i) component 1: sustainable
+agricultural development and strengthening of rural household resilience,
+EUR 73.49 (42.7 per cent); (ii) component 2: promotion of youth entrepreneurship
+and market access, EUR 71.85 million (41.7 per cent); (iii) component 3:
+coordination, civic engagement, monitoring and evaluation, knowledge
+management, capitalization and communication, EUR 26.67 million (15.6 per cent).
+The cost of coordination and management activities is EUR 22.27 million
+(12.9 per cent). In total financing, the recurrent costs are EUR 17.63 million
+(10.2 per cent).
+10 Increase in production, market access and the resilience of small-scale family farmers.
+5
+EB 2019/127/R.33/Rev.1
+24.
+Project investments in subcomponents 1.1 – improving sustainable surface water
+and land management; 1.2 – strengthening of beneficiary technical and
+institutional capacities; 2.1 – support to youth for the creation and development of
+sustainable rural enterprises; and 2.2 – rural market development are partially
+covered by climate change action. Thus, EUR 30.69 million11 (100 per cent
+adaptation with the associated benefit of mitigation), or 39.5 per cent of IFAD’s
+total investment12 in PRECIS is destined for "climate action".
+25. The financing gap, estimated at EUR 35.11 million (20.4 per cent), could be
+covered by the next allocation of IFAD resources for Niger (through financing
+modalities to be determined, pursuant to internal procedures and ultimate approval
+by the Executive Board) or by the contributions of other partners13 identified during
+implementation.
+11 As per the MDB Methodologies for Tracking Climate Adaptation and Mitigation Finance.
+12 Through application of the principle of granularity and the conservation approach, certain activities in component 1
+(sustainable agricultural development and strengthening of rural household resilience) and component 2 (promotion of
+youth entrepreneurship and market access) have been accounted for as financing for adaptation to climate change.
+More precisely, 76 per cent of subcomponent 1.1 and 28 per cent of subcomponent 2.2 have been so recognized.
+13 The AfDB has responded favourably to the Government of Niger’s request for cofinancing in the amount of
+US$30 million. The package is being developed.
+6
+Table 1
+Project cost by component (and subcomponent) and financier
+(Thousands of EUR)
+Components and
+subcomponents
+IFAD Debt
+Sustainability
+Framework
+grant
+IFAD loan
+OFID
+GEF
+GCF (loan and
+grant)
+Beneficiaries Private sector Government
+Financing gap
+Total
+Amount % Amount
+%
+Amount % Amount % Amount % Amount % Amount % Amount % Amount %
+Amount
+%
+Component 1. Sustainable agricultural development and strengthening of rural household resilience
+1.1. – Improvement of
+sustainable surface water
+and land management
+1.2 Strengthening of
+beneficiary technical and
+institutional capacities
+1.3 Education, promotion
+of good nutrition practices
+and cross-cutting
+measures
+15 973.4 27.7
+4 523.0
+14.7
+3 572.0 39.1
+1 343.2
+14.7
+3 399.2 50.9
+1 249.5
+18.7
+Subtotal
+22 944.5 31.2
+7115.6
+9.7
+7
+Component 2. Promotion of youth entrepreneurship and market access
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3 291.1 5.7
+15.7
+5.7
+1 011.0 1.8
+1 345.6 14.7
+-
+-
+-
+-
+4 636.7 6.3
+15.7
+-
+-
+-
+455.0 5.0
+776.1 11.6
+2 242.0 3.1
+-
+-
+-
+-
+-
+11 030 19.1 21 826.0 37.8
+57670.0
+33.5
+- 1 7836.7 19.0
+691.9
+7.6
+9 144.3
+5.3
+-
+1 254.9 18.8
+-
+-
+6 679.6
+3.9
+- 14 021.6 19.1 22 517.9 30.6
+73 494.0
+42.7
+3.9
+3.9
+-
+-
+-
+-
+8191.3 24.6
+2 327.7 7.0
+878.7
+2.6
+2 991.3
+9.0
+2 57.8
+8.6
+33 215.9
+19.3
+1.2
+-
+343.9 0.9
+-
+-
+7 134.8 18.1
+6982.4 18.1
+38 635.2
+8192.6 11.4
+2 671.6 3.7
+878.7
+1.2 10 126.1 14.1
+9 40.2 13.7
+71 851.0
+22.4
+41.7
+12 084.2 36.4
+3 884.7
+11.7
+7 511.0 19.4
+3 476.9
+9.0 13 181.1 34.1
+19 595.2 27.3
+7 361.6
+10.2 13 181.1 18.3
+Component 3. Coordination, civic engagement, monitoring and evaluation, capitalization and knowledge management
+2 644.1
+58.9
+973.7
+21.7
+11 503.1
+14 147.3
+51.6
+52.9
+5 525.2
+6 498.8
+24.8
+24.3
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+633.7 2.8
+633.7 2.4
+579.1
+579.1
+2.6
+2.2
+5.1
+56 687.0 32.94 20 976.0 12.19 13 181.1
+7.7
+5 274.4 3.1
+8 787.3
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+874.4 19.5
+-
+-
+4 492.2
+2.6
+1 279.1
+5.7 2 754,3 12.4
+22 274.6
+2 153.6
+8.0 2 754.3 10.3
+26 766.8
+12.9
+15.6
+4 913.6 2.9
+878.7
+0.5 26 301.3 15.3 35 112.4 20.4 172 111.8 100.0
+E
+B
+2
+0
+1
+9
+/
+1
+2
+7
+/
+R
+.
+3
+3
+/
+R
+e
+v
+.
+1
+2.1 Support to youth for
+the creation and
+development of
+sustainable rural
+enterprises
+2.2 Rural market
+development
+Subtotal
+3.1 Monitoring and
+evaluation, capitalization,
+gender and social
+inclusion, knowledge
+management and
+communication
+3.2 Coordination and
+civic engagement
+Subtotal
+Total
+Table 2
+Project costs by expenditure category and financier
+(Thousands of EUR)
+IFAD Debt
+Sustainability
+Framework
+grant
+IFAD loan
+OFID
+GEF
+GCF
+(loan and
+grant)
+Beneficiaries
+Private sector
+Government
+Financing gap
+Total
+Amount
+%
+Amount
+%
+Amount
+% Amount
+% Amount
+% Amount
+% Amount
+%
+Amount
+%
+Amount
+%
+Amount
+%
+Expenditure
+category
+1. Construction
+16 289.4
+25.1
+5 218.6
+8.0 10 777.3 16.6
+2 252.9
+483.3
+48.7
+209.0
+21.0
+-
+-
+23.5
+822.0
+42.3
+325.4
+4. Training
+6 473.0
+41.8
+2 909.9
+5. Consultancies
+6 523.9
+33.1
+2764.1
+16.7
+18.8
+14.0
+68.9
+157.6
+1 240.2
+3.5
+1.0
+6.3
+40.4
+197.5
+550.5
+3.5
+2.4
+2.1
+1.3
+2.8
+-
+-
+-
+-
+-
+-
+743.1
+692.6
+4.8
+3.5
+786.5
+6.2
+71.8
+732.5
+534.3
+1.2
+0.6
+3.7
+4.7
+2.7
+-
+-
+-
+-
+12 391.4
+250.3
+16.4
+137.7
+48.3
+0.8
+0.9
+0.2
+384.3
+2 823.5
+3 757.0
+19.1
+25.2
+19.8
+18.3
+19.1
+17 232.0 26.5
+64 948
+37.7
+20.6
+2.1
+992.7
+0.6
+215.1 11.1
+1 944.3
+1 295.0
+8.4
+15 469.7
+1.1
+9.0
+3 603.3 18.3
+19 714.2
+11.5
+10 750.9
+31.7
+4 114.2
+12.1
+937.2
+2.8
+1 768.6
+5.2
+523.2
+1.5
+1 046.9
+3.1
+34.5
+0.1
+6 120.4
+18.0
+8 644.7 25.5
+33 940.5
+19.7
+6 257.3
+62.7
+1 069.6
+10.7
+-
+-
+5 796.8
+60.2
+2 366.9
+24.6
+3 290.5
+41.1
+1 998.3
+25.0
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+129.5
+1.3
+1 564.3
+15.7
+-
+-
+6 119.8
+81.7
+171.2
+2.3
+641.9
+8.6
+0.1
+-
+-
+-
+962.7
+556.3
+9.6
+7.4
+9 983.5
+7 489.2
+5.8
+4.4
+315.2
+3.3
+579.1
+6.0
+125.8
+-
+-
+1.6
+3.1
+-
+-
+-
+-
+-
+-
+-
+-
+333.3
+3.5
+237.7
+2.5
+9 629.1
+5.6
+240.9
+3.0
+2 345.0 29.3
+8 000.5
+4.6
+Total
+56 687.0
+32.9 20 976.0
+12.2 13 181.1
+7.7
+5 215.5
+2. Vehicles
+3. Equipment
+and materials
+8
+6. Goods,
+services and
+inputs
+7. Grants and
+subsidies
+8. Credit
+9. Salaries and
+allowances
+10. Operating
+costs
+8 787.3
+5.1
+4 913.6
+2.9
+878.7
+0.5
+26 301.3
+15.3
+35 112.4 20.4 172 111.8 100.0
+E
+B
+2
+0
+1
+9
+/
+1
+2
+7
+/
+R
+.
+3
+3
+/
+R
+e
+v
+.
+1
+Table 3
+Project costs by component (and subcomponent) and project year
+(Thousands of EUR)
+Components and subcomponents
+Amounts
+%
+Amounts
+%
+Amounts
+%
+Amounts
+%
+Amounts
+%
+Amounts
+%
+Amounts
+2020
+2021
+2022
+2023
+2024
+2025
+Total
+Component 1. Sustainable agricultural
+development and strengthening of rural household
+resilience
+1.1 Improvement of sustainable surface water and
+land management
+1.2 Strengthening of beneficiary technical and
+institutional capacities
+1.3 Education, promotion of good nutrition practices
+and cross-cutting measures
+Subtotal
+Component 2. Promotion of youth
+entrepreneurship and market access
+2.1 Support to youth for the creation and development
+of sustainable rural enterprises
+9
+2.2 Rural market development
+Subtotal
+Component 3. Coordination, civic engagement,
+monitoring and evaluation, capitalization and
+knowledge management
+3.1 Monitoring and evaluation, capitalization, gender
+and social inclusion, knowledge management and
+communication.
+3.2 Coordination and civic engagement
+Subtotal
+Total
+792.2
+1.4
+11 968.6
+20.8
+24 436.6
+42.4
+13 858.3
+24.0
+6 472.5
+11.2
+141.8
+0.2
+57 670.0
+457.5
+5.0
+1 852.5
+20.3
+1 766.5
+19.3
+2 024.8
+22.1
+1 640.4
+17.9
+1 402.7
+15.3
+9 144.3
+1 372.3
+20.5
+1 915.1
+2 622.1
+3.6
+15 736.2
+28.7
+21.4
+1 777.2
+27 980.3
+26.6
+38.1
+706.5
+16 589.6
+10.6
+22.6
+389.1
+5.8
+519.3
+8 502.0
+11.6
+2 063.9
+7.8
+2.8
+6 679.6
+73 494.0
+1 909.8
+130.0
+2 039.8
+5.7
+0.3
+2.8
+6 976.1
+4 859.2
+11 835.3
+21.0
+12.6
+16.5
+5 569.5
+30 879.5
+36 449.0
+16.8
+79.9
+50.7
+7 582.5
+22.8
+7 476.9
+22.5
+3 701.1
+11.1
+33 215.9
+2 513.4
+6.5
+124.7
+0.3
+128.3
+10 095.9
+14.1
+7 601.6
+10.6
+3 829.4
+0.3
+5.3
+38 635.2
+71 851.0
+576.5
+2 241.5
+2 818.0
+12.8
+10.1
+10.5
+419.5
+1 997.9
+2 417.3
+9.3
+9.0
+9.0
+7 479.9
+4.3
+29 988.8
+17.4
+67 235.6
+618.1
+13.8
+1 197.2
+2 188.2
+2 806.3
+9.8
+10.5
+39.1
+6 043.1
+7 240.3
+33 925.8
+26.7
+27.1
+27.0
+19.7
+805.5
+5 309.0
+6 114.5
+22 218.1
+17.9
+23.8
+22.8
+12.9
+875.5
+4 494.9
+5 370.4
+19.5
+20.2
+20.1
+4 492.2
+22 274.6
+26 766.8
+11 263.6
+6.5
+172 111.8
+E
+B
+2
+0
+1
+9
+/
+1
+2
+7
+/
+R
+.
+3
+3
+/
+R
+e
+v
+.
+1
+EB 2019/127/R.33/Rev.1
+Disbursement
+26. A designated account in CFA francs (FCFA) will be opened in the name of PRECIS
+for each financier at one or more commercial banks in Niamey approved by the
+Ministry of Finance and deemed acceptable by IFAD. At the request of the national
+representation and technical assistance cell, the accounts will be utilized and
+managed according to a revolving fund mechanism.
+27. Each of the project’s four regional coordination units (RPMU) will have a single
+operations account in FCFA and receive the funds for PRECIS. This account will
+receive funds from the designated accounts at the request of the RPMU, based on
+biweekly cash requirements.
+Summary benefits and economic analysis
+28. The financial analysis shows the profitability of all the activities. The economic
+internal rate of return (EIRR) of the market garden production models ranges from
+11.9 to 36 per cent. For the production of food crops (millet, sorghum, cowpea,
+groundnut), the EIRR ranges from 11.9 to 34 per cent.
+29.
+For microenterprises in the goat, chicken, guinea fowl and commercial poultry
+value chains, the gross margins are, respectively, FCFA 1,033,000, FCFA 57,750,
+FCFA 204,900 and FCFA 1,856,400.
+30. The economic analysis yields an overall EIRR for the project of 18.9 per cent and a
+net present value of the net cash flow generated of US$102 million.
+31. The results of the sensitivity analysis showing the variations in the EIRR by
+assumption are summarized in table 4 below:
+Table 4
+Baseline scenario
+10% increase in benefits
+50% survival of rural microenterprises
+30% survival of rural microenterprises
+75% reduction in irrigated land
+50% reduction in irrigated land
+Amount of carbon sequestration reduced to 1.4 tons/hectare
+Exit strategy and sustainability
+EIRR
+NPV in US$
+18.8%
+28.80%
+21.90%
+19.40%
+18.30%
+17.70%
+18.70%
+102 million
+129 million
+135 million
+109 million
+95 million
+88 million
+101 million
+32. The project replicates ProDAF’s outsourcing approach: implementation is supported
+by partnerships with established institutions, beneficiary engagement and the
+planning of activities up to implementation, ensuring sustainability beyond project
+completion. PRECIS will strengthen the capacity of collaborating entities (NGOs,
+public services, rural organizations) and give them the means to follow up and
+replicate the assigned activities once the partnerships come to an end. The
+combination of civil and social engineering will promote greater beneficiary
+ownership of infrastructure projects and empowerment.
+10
+III. Risks
+A. Project risks and mitigation measures
+33. The main risks and mitigation measures are summarized in the table below.
+EB 2019/127/R.33/Rev.1
+Table 5
+Risks
+1. Politics and governance. Political unrest
+emerges after the presidential elections of
+2020 and the situation could deteriorate.
+2. Macroeconomic. Economic conditions
+due to fluctuations in the prices of basic
+products and insecurity keep the
+Government from mobilizing the counterpart
+funds to cofinance the project’s investments.
+Mitigation measures
+Outsourcing approach supported by local
+economic actors and groups capable of
+ensuring the sustainability of investments.
+Synergies with other actors (UNHCR,
+WFP, FAO) will be taken advantage of.
+Post-mitigation
+risk level
+Low
+The Government's contribution is limited to
+the financing of taxes and exemptions.
+Low
+3. Institutional implementation capacity
+and sustainability. Poor governance and
+lack of transparency in public financial
+administration.
+PRECIS’s administrative and financial
+autonomy permits strict control and
+respect for the principles of governance
+promoted by IFAD.
+4. Financial management. Limited project
+financial management capacity, resulting in
+low disbursement levels and significant
+delays in the implementation of activities.
+Continuity with ProDAF, building on
+existing competencies. Local support for
+personnel in financial management tailored
+to needs. Internal audit function in place.
+Low
+Low
+5. Procurement. Slow procurement
+procedures, creating major operational
+delays.
+6. Environmental and social factors. The
+project is classified in the “high climate risk”
+category, because it involves areas in the
+Sahel characterized by drought, a low water
+table, etc., which could result in loss of
+capital on the part of the beneficiaries.
+Moving the procurement operations for
+infrastructure markets from year N to year
+N-1. The Government is working to further
+decentralize procurement to the regions.
+Development of an environmental and
+social plan, including a climate risk
+assessment and other measures to be
+integrated into project activities,
+Moderate
+Moderate
+B. Environmental and social category
+34. The amount of land that is usable for agricultural production and grazing and the
+fertility of the land in the project area are declining due to: (i) wind erosion
+(desertification of production basins, pastureland, waterways, socioeconomic
+infrastructure), (ii) brushfires and (iii) the steady encroachment of inedible
+vegetation in pastureland. The Dosso region includes the “W” Region Biosphere
+Reserve and a Ramsar site (a site on the list of wetland sites designated as having
+international importance). PRECIS will ensure rational and equitable resource
+management to prevent conflicts between riverside dwellers and wildlife.
+35.
+PRECIS interventions will reduce the vulnerability of farms to erosion and floods
+and facilitate farmers’ access to factors of production. The capacity-building and
+credit programmes will help create jobs and improve livelihoods. In the Dosso
+region, the project will assist in the preparation and/or improvement of plans for
+the development of protected areas (Ramsar sites) without intervening directly in
+these sites. The project is classified in category B.
+C. Climate risk classification
+36. Niger is one of the Sahelian countries most vulnerable to climate change, as it is
+exposed to desertification, recurrent droughts and decreasing rainfall. Its climate
+risk is considered high.
+D. Debt sustainability
+37.
+In its debt sustainability analysis of Niger, the International Monetary Fund judged
+the risk of over-indebtedness as moderate. The foreign debt-to-export ratio and
+11
+EB 2019/127/R.33/Rev.1
+the total public debt-to-gross domestic product ratio are respectively 135 per cent
+and 39.5 per cent in terms of the present value, well below the established
+thresholds.
+IV. Implementation
+A. Organizational framework
+38.
+Project management and coordination
+PRECIS will be under the technical supervision of the Ministry of Agriculture. The
+project will follow IFAD’s country programme approach in Niger and will have four
+independent RPMUs (Maradi, Tahoua, Zinder and Dosso) responsible for the
+technical, administrative and financial management of the activities in each region.
+The national representation and technical assistance cell will ensure representation
+and coherence of all interventions implemented under the country programme.
+Financial management, procurement and governance
+39. Financial management. Project funds will be managed pursuant to the current
+procedures of Niger and IFAD, which will be detailed in the letter to the recipient
+and the Project’s manual of administrative, financial and management procedures.
+40. Procurement. The necessary infrastructure, materials and consulting services will
+be delivered pursuant to Niger’s current procurement code, as long as its
+provisions are consistent with those of IFAD. For amounts subject to public tender
+procedures, the tender procedures will be followed.
+41. Governance. PRECIS will apply the principles of good governance and
+transparency.
+B. Planning, monitoring and evaluation, knowledge management
+and communication
+42. Planning. The PRECIS planning system will replicate that of ProDAF. An annual
+workplan and budget (AWBP) will be prepared.
+43. Monitoring and evaluation. The indicators are presented in the logical
+framework. The project will be supported by the monitoring and evaluation system
+set up by ProDAF and will be expanded to the Dosso region.
+44. Learning and knowledge management, communication. PRECIS will
+capitalize on farmers’ knowledge through the identification of local, national and
+international know-how in the field and on the financiers’ experiences in the
+targeted domains (climate change, intensive farming, gender and nutrition).
+45. Transparency and communication. The project will ensure transparent
+management through beneficiary participation in its steering committee and
+monitoring and evaluation. Stakeholders will be regularly informed about project
+activities and outcomes.
+46.
+C.
+47.
+Innovation and scaling up
+PRECIS will scale up the “economic development hub” approach, whose success
+has been proven in the Dosso region and the northern band of Tahoua, Maradi and
+Zinder. PRECIS will also promote an innovative approach to support rural youth
+entrepreneurship through an enterprise assistance mechanism.
+Implementation plans
+Implementation readiness and start-up plans
+PRECIS will use the ProDAF execution mechanism for immediate implementation. It
+will avail itself of IFAD’s pre-financing facility for rapid project start-up and begin
+implementing key start-up activities. A budget of EUR 1,536,000 has been
+calculated for these activities (appendix 11 of the project concept note).
+12
+EB 2019/127/R.33/Rev.1
+48.
+Supervision, midterm review and completion plans
+IFAD will conduct two supervision and monitoring missions per year with the
+participation of the Government and other financial partners. IFAD and the
+Government will conduct a joint midterm review at the end of year 3. The
+completion mission will be organized with all stakeholders at the end of the project.
+V. Legal instruments and authority
+49. A financing agreement between the Government of the Republic of the Niger and
+IFAD shall constitute the legal instrument for extending the proposed financing to
+the recipient for the implementation of PRECIS. A copy of the negotiated financing
+agreement is attached in appendix I.
+50. The Government of the Republic of the Niger is empowered under its laws to
+receive financing from IFAD.
+51.
+I am satisfied that the proposed financing will comply with the Agreement
+Establishing IFAD and the Policies and Criteria for IFAD Financing.
+VI. Recommendation
+52.
+I recommend that the Executive Board approve the proposed financing by adopting
+the following resolution:
+RESOLVED: that the Fund shall provide a loan on highly concessional terms
+to the Republic of the Niger in an amount equivalent to fifty-six million seven
+hundred thousand euros (EUR 56,700,000) and a Debt Sustainability
+Framework grant equivalent to twenty-one million euros (EUR 21,000,000),
+and upon such terms and conditions as shall be substantially in accordance
+with the terms and conditions presented herein.
+Gilbert F. Houngbo,
+President
+13
+Appendix I
+EB 2019/127/R.33/Rev.1
+Accord de financement négocié
+Texte négocié
+le 17 juillet 2019
+Susceptible de modifications par LEG
+PRÊT NO.
+DON NO.
+ACCORD DE FINANCEMENT
+Projet de renforcement de la résilience des communautés Rurales à
+l’insécurité alimentaire et nutritionnelle au Niger (PRECIS)
+entre la
+République du Niger
+et le
+Fonds International de Développement Agricole
+Signé à ___, ___
+en date du
+1
+Appendix I
+EB 2019/127/R.33/Rev.1
+ACCORD DE FINANCEMENT
+Projet de renforcement de la résilience des communautés Rurales à
+l’insécurité alimentaire et nutritionnelle au Niger (PRECIS)
+Numéro du prêt: _______
+Numéro du don: _______
+Nom du projet : Projet de renforcement de la résilience des communautés
+Rurales à l’insécurité alimentaire et nutritionnelle au Niger (PRECIS) (“le
+Projet”)
+La République du Niger (“l’Emprunteur”)
+et
+Le Fonds international de développement agricole (“le Fonds’’ ou “le FIDA”)
+(désigné individuellement par “la Partie’’ et collectivement par “les Parties”)
+CONVIENNENT par les présentes de ce qui suit:
+Préambule
+A)
+ATTENDU QUE l’Emprunteur a sollicité du Fonds un prêt et un don pour
+le financement du Projet décrit à l’Annexe 1 du présent accord;
+B)
+ATTENDU  que l'Emprunteur/le  Bénéficiaire  entend  obtenir du Fonds
+OPEP pour le développement international (OFID) un prêt (“le prêt de l’OFID”) d’un
+montant en principal d’environ 15 000 000 USD pour contribuer au financement du
+Projet  aux  conditions  et  modalités  qui  seront  précisées  dans  l’Accord  de
+financement de l’OFID conclu entre l’Emprunteur/le Bénéficiaire et l’OFID;
+C)
+ATTENDU que l'Emprunteur/le Bénéficiaire entend obtenir du Fonds pour
+l'Environnement Mondial (FEM) un don (“le don du FEM ”) d’un montant en principal
+d’environ 6 000 000 USD pour contribuer au financement du Projet aux conditions
+et modalités qui seront précisées dans l’Accord de don FEM;
+D)  ATTENDU  que l'Emprunteur/le  Bénéficiaire  entend  obtenir du  Fonds  Vert
+pour le Climat un prêt d’un montant en principal d’environ de 7 000 000 USD et un
+don de 3 000 000 USD pour contribuer au financement du Projet aux conditions et
+modalités qui seront précisées dans l’Accord avec le Fonds Vert pour le Climat;
+EN FOI DE QUOI, les Parties conviennent par les présentes de ce qui suit:
+2
+Appendix I
+EB 2019/127/R.33/Rev.1
+Section A
+Le  présent  accord  comprend  l’ensemble  des  documents  suivants:  le  présent
+1.
+document,  la  description  du  projet,  les  dispositions  relatives  à  l’exécution  (annexe
+1), le tableau d’affectation des fonds (annexe 2) et les clauses particulières (annexe
+3).
+2.
+Les  Conditions  générales applicables  au  financement  du  développement
+agricole en date du 29 avril 2009, telles qu'amendées en décembre 2018 et toutes
+éventuelles  modifications  postérieures  (“les  Conditions  générales”)  sont  annexées
+l’ensemble  des  dispositions  qu’elles  contiennent
+au  présent  document,  et 
+s’appliquent  au  présent  accord.  Aux  fins  du  présent  accord,  les  termes  dont  la
+définition figure dans les Conditions générales ont la signification qui y est indiquée.
+3.
+Le  Fonds  accorde  à  l’Emprunteur/Bénéficiaire  un  prêt  et  un don  (“le
+financement”),  que  l’Emprunteur/Bénéficiaire  utilise  aux  fins  de  l’exécution  du
+Projet, conformément aux modalités et conditions énoncées dans le présent accord.
+Section B
+1.
+A.
+Le  montant  du  prêt  est  de  cinquante-six  million  sept  cent  mille  Euros
+(56 700 000 Euros)
+B.
+Le montant du don au titre du cadre pour la soutenabilité de la dette est
+de vingt-et-un millions d'Euro (21 000 000 Euros).
+2. Le  prêt  est  accordé  à  des  conditions  particulièrement  favorables  exempt
+d’intérêts  mais  est  assorti  d’une  commission  de  service  de  trois  quarts  de  point
+(0,75%) l’an; et un délai de remboursement de quarante (40) ans dont un différé
+d’amortissement de dix (10) ans, à compter de la date d'approbation du prêt par le
+Conseil d'administration du Fonds. Le Principal du prêt sera remboursé à un taux de
+4.5 pour cent du montant total du Principal per annum à partir de l'année onze (11)
+et  jusqu’à  l'année  trente  (30),  et  à  un  taux  de  1  pour  cent  du  montant  total  du
+Principal  per  annum  à  partir  de  l'année  trente-et-un  (31)  et  jusqu'à  l'année
+quarante (40).
+3.
+4.
+La monnaie de paiement au titre du service du prêt est l’Euro.
+L’exercice financier débute le 1er janvier et clôture le 31 décembre.
+Le remboursement du principal et le paiement de la commission de service du
+5.
+prêt sont exigibles le 15 avril et le 15 octobre.
+Un  compte  désigné  en  Francs  CFA  sera  ouvert  à  Niamey  au  nom  du  Projet
+6.
+pour  chaque  bailleur  de  fonds,  dans  une  ou  plusieurs  banques  commerciales
+agréées par le Ministère  en charge du  financement extérieur et acceptable pour le
+FIDA.  Les  comptes  seront  mouvementés  selon  le  principe  de  la  double  signature.
+Les signataires de ces comptes désignés seront: i) l'Assistant Technique National en
+Consolidation  Financière  (ATNCF)  du  ProDAF  et  ii) l’assistant  technique  national
+senior en dialogue politique (ATNSDP).
+7.
+Un  compte  d’opération,  alimenté  par  les  comptes  désignés,  est  ouvert  au
+niveau  de  chaque  unité  régionale. Les  comptes  seront  mouvementés  selon  le
+principe  de  la  double  signature. Les  signataires  de  chaque  compte  d’opération
+3
+Appendix I
+EB 2019/127/R.33/Rev.1
+seront: i) le/la responsable administratif et financier de l’URGP et ii) le coordinateur
+régional ou, en son absence et par intérim, le responsable suivi-évaluation régional.
+L’Emprunteur  fournit  des  fonds  de  contrepartie  aux  fins  du  Projet  pour  un
+8.
+total  de  vingt-six  millions  cent  quatre-vingt-douze  mille  Euro
+montant
+(26 192 000 Euro), qui  correspond  aux  exonérations  de  taxes  et  impôts.  La
+contrepartie des bénéficiaires est fixée à quatre millions huit-cent-quatre-vingt-dix-
+neuf mille Euro (4 899 000 Euro).
+Section C
+Le Ministère en charge de l'agriculture est l’agent principal du projet en tant
+1.
+que tutelle technique.
+2.
+La  date  d'achèvement  du  Projet  sera  le  sixième  anniversaire  de  la  date
+d'entrée en vigueur du présent accord et la date de clôture du financement sera 6
+mois  plus  tard,  ou  toute  autre  date  désignée  par  le  Fonds  par  notification  à
+l'Emprunteur.
+3.  Un  examen  à  mi-parcours  sera  effectué  conformément  aux  dispositions  des
+alinéas  8.03  (b)  et  (c)  des  Conditions  générales.  Toutefois,  les  parties  peuvent
+convenir d'une date différente pour l'examen à mi-parcours de la mise en œuvre du
+Projet.
+4.  L'acquisition  de biens,  travaux  et  services  financés  par  l'accord  est  effectuée
+conformément aux dispositions de la réglementation de l'Emprunteur en matière de
+passation des marchés, dans la mesure où elles sont conformes aux Directives pour
+la passation des marchés relatifs aux projets du FIDA.
+Section D
+Le Fonds assure l’administration du financement et la supervision du projet.
+Section E
+1.
+i)
+ii)
+Les  éléments  suivants  sont  désignés  comme  motifs  supplémentaires  de
+suspension des décaissements:
+Le  Manuel  de  procédures  administratives,  comptables  et  financières,  ou
+l’une de ses dispositions, a été suspendu, résilié en tout ou partie, a fait
+l’objet  d’une  renonciation  ou  de  toute  autre  modification  sans  le
+consentement  préalable  du  Fonds,  et  le  Fonds  considère  que  ces
+évènements ont eu ou auront, vraisemblablement, un effet préjudiciable
+grave sur le Projet;
+Tout personnel clé du Projet tel que décrit dans le Manuel des Procédures
+administratives  a  été  nommé,  transféré  ou  retiré  de  ses  fonctions  sans
+l'accord préalable du FIDA.
+Les éléments suivants constituent des conditions additionnelles préalables aux
+2.
+décaissements:
+i)
+le  Comité  de  pilotage  (CP) du  PRODAF  Maradi,  Tahoua,  Zinder  et  Diffa
+intègre  la  région  de  Dosso et une  nouvelle  unité  régionale  de
+4
+Appendix I
+EB 2019/127/R.33/Rev.1
+coordination  et  de gestion  de  projet  est  créée  dans  la  région  de  Dosso
+par arrêté ministériel;
+le  compte  désigné  et  les  comptes  d'opération  au  niveau  des  unités
+régionales  sont  ouverts et  les  spécimens  de signatures  ont  été  envoyés
+au FIDA;
+Deux  comptables  chargés  de  la  saisie  des  écritures  comptables  et  un
+Responsable  administratif  et  financier  qui  assurera  le  rôle  de  Chef
+comptable ont été recrutés;
+le Manuel des procédures administratives, financières et comptables et le
+manuel des opérations sont approuvés par le FIDA;
+Le  logiciel  comptable  est  installé  et  dument  paramétré  au  niveau  de
+l'URGP de Dosso; et
+Le  premier  programme  de  travail  et  budget  annuel  (PTBA)  accompagné
+d'un plan de passation des marchés a été approuvé par le Fonds.
+ii)
+iii)
+iv)
+v)
+vi)
+3.
+Cet accord est soumis à la ratification de l'Emprunteur.
+Toutes  les  communications  ayant  trait  au  présent  accord  doivent  être
+4.
+adressées aux représentants dont le titre et l’adresse figurent ci-dessous:
+Pour l’Emprunteur:
+Ministre du Plan
+Ministère du Plan
+BP 862 Niamey, Niger
+Tél +227 20 72 56 70
+Fax +227 20 72 53 22
+Pour le Fonds:
+Président
+Fonds international de développement agricole
+Via Paolo di Dono 44
+00142 Rome, Italie
+Le  présent  accord,  en  date  du ___________,  a  été  établi  en  langue  française  en
+deux (2) exemplaires originaux, un (1) pour le Fonds et un (1) pour l’Emprunteur.
+5
+Appendix I
+EB 2019/127/R.33/Rev.1
+REPUBLIQUE DU NIGER
+____________________
+(nom du Représentant autorisé)
+(titre)
+____________________
+(nom du Représentant autorisé)
+(titre)
+FONDS INTERNATIONAL
+POUR LE DEVELOPPEMENT AGRICOLE
+___________________
+Gilbert F. Houngbo
+Président
+6
+Appendix I
+EB 2019/127/R.33/Rev.1
+Annexe 1
+Description du projet et Dispositions relatives à l’exécution
+I.
+Description du projet
+1.
+Zone  d’intervention. Le  Projet  couvrira  186  communes  dans  les  régions  de
+Dosso,  Tahoua,  Maradi  et  Zinder.  Elle  est  limitée  au  Nord  par  la  Région  d’Agadez,
+au Sud par le Nigeria et le Bénin, à l’Est par la Région de Diffa et à l’Ouest par la
+Région de Tillabéry.
+2.
+Groupe  cible. Le Projet  touchera  directement  environ  209 722  ménages,  soit
+approximativement  1  468  054  personnes. Plus  spécifiquement,  le  Projet  ciblera:
+(i) les  petits  exploitants  agricoles sédentaires investis  dans  les  productions
+céréalières  du  milieu  sahélien nigérien,  la  filière  riz  dans  la région de  Dosso,  le
+maraîchage, l'aviculture et le petit élevage; (ii) les jeunes hommes et femmes (18
+à  35  ans)  en  activité  ou  sans  emploi  et  désireux  de s’installer  dans les  différentes
+filières retenues, porteurs de projets de micro et petites entreprises rurales; (iii) les
+femmes productrices ou désireuses de mener des activités génératrices de revenus;
+(iv) les  acteurs  en  amont  et  en  aval  de  la  production,  investis  dans  les  métiers
+connexes  dont  la  distribution  d’intrants,  la  commercialisation,  la  transformation,
+l’artisanat  et  la  fourniture  d’autres  services;  (v) les  organisations  professionnelles
+(groupements  de  base,  coopératives,  unions,
+fédérations);  (vi) les  ménages
+agricoles vulnérables motivés et désirant accroître et développer leurs exploitations
+agricoles;  et  (vii) les  personnes  handicapées  des  zones  rurales  qui  participent  ou
+ont  l'intention  de  participer à des  activités  le  long  des  chaînes  de valeur
+sélectionnées.
+3.
+Objectif  global  et  objectif  de  développement.  L'objectif  global  du  Projet  est
+d'améliorer  durablement  la  sécurité  alimentaire  et  nutritionnelle  des  ménages
+ruraux et de renforcer leur résilience face aux chocs climatiques et à la dégradation
+des  ressources  naturelles.  Son  objectif  de  développement  est  d’accroitre  les
+revenus  des  ménages  ruraux,  d'améliorer  leurs  moyens  de  subsistance  et
+d’existence et assurer l'insertion socioéconomique des jeunes (hommes et femmes)
+dans les métiers ruraux porteurs.
+4.
+Composantes  du  projet.  Le  Projet  appuiera  les  petits  producteurs  pour  lever
+les  contraintes  de  production  et  de  commercialisation  à  travers  deux  composantes
+techniques et une composante de gestion et coordination.
+Composante  1 - Développement  agricole  durable  et  renforcement  de  la  résilience
+des ménages ruraux
+La composante 1 visera à: a) mettre en place les investissements nécessaires à la
+gestion de l'eau pour les activités agricoles et  pastorales et pour la consommation
+humaine, b) sécuriser  le  capital  naturel  pour  la  production  agricole  de  base;
+c) assurer  l'accès  des  producteurs  aux  principaux  facteurs  et  technologies  de
+production adaptées à leur environnement; d) renforcer les capacités techniques et
+institutionnelles  des  acteurs  pour  assurer  leurs  métiers  dans  les  segments  des
+chaines  de  valeur  retenues  et  gérer  durablement les investissements  mis  en  place
+avec  l'appui  du  projet,  et  e) promouvoir  une  alimentation  diversifiée  et  de  bonnes
+habitudes alimentaires pour réduire la malnutrition au sein des ménages.
+7
+Appendix I
+EB 2019/127/R.33/Rev.1
+La  composante  permettra  de  diversifier  les  productions,  l'augmentation  des
+rendements, l'amélioration des capacités d'adaptation des bénéficiaires (femmes et
+jeunes  inclus)  aux  chocs  externes  (notamment  climatiques)  et  l'amélioration  de  la
+santé  et  la  sécurité  nutritionnelle  des  ménages  ruraux  vulnérables.  Cette
+composante est structurée en trois sous composantes:
+Sous  composante  1.1  Renforcement  de  la  maitrise  d’eau  de  surface  et  gestion
+durable  des  terres. Les  objectifs  de  cette  sous-composante  visent  à remédier  aux
+effets  néfastes  de  la  désertification  et  du  changement  climatique  par  des  mesures
+de restauration de la productivité hydraulique des bassins versants et de promotion
+de  technologies  assurant  une gestion  durable  des  ressources  en  eau  et  en  terre
+dans  les  bassins  de  production.  Les  effets  attendus  sont  l’amélioration  de  l’accès
+durable  à  l’eau  et  le  renforcement  de  la  résilience  des  exploitations  agricoles  face
+aux risques climatiques. Elle sera mise en œuvre à travers quatre volets:
+-
+-
+-
+-
+Volet Gestion Durable des Terres et des Eaux (GDTE)
+Volet Ouvrages de mobilisation des eaux
+Volet Aménagement des bassins de production
+Volet Actualisation des plans d’aménagement des sites RAMSAR
+Sous  composante  1.2  Renforcement  des  capacités  techniques  et  institutionnelles
+des bénéficiaires. La sous-composante visera à: a) renforcer les capacités des petits
+exploitants  agricoles  (y  compris  les  femmes  et  les  jeunes  exploitants  agricoles)  à
+augmenter  leur  production et  productivité  et  à  gérer  leurs  exploitations  de  façon
+durable,  et  b) renforcer  les  capacités  des  services  d’appui-conseil  de  proximité  à
+offrir des services adaptés aux besoins des petits exploitations familiales. Les effets
+attendus  sont  principalement l’augmentation  de  la  sécurité  alimentaire  et  des
+revenus  et  l’émergence  de  d’exploitations  familiales  résiliente  face  aux  chocs
+externes,  y  inclus  les  changements  climatiques.  La  sous-composante  1.2.
+comportera deux volets:
+-
+-
+Volet Amélioration des capacités techniques des exploitations familiales
+Volet Renforcement organisationnel et institutionnel
+Sous composante 1.3. Education, promotion de bonnes pratiques nutritionnelles et
+mesures transversales. La sous-composante  visera à a)  contribuer  à l'amélioration
+de  la  sécurité  alimentaire  et  nutritionnelle  à  travers  une  approche  préventive  aux
+problèmes  de  malnutrition  et  b)  prodiguer  des activités d'éducation.  La  sous-
+composante 1.3 est structurée en trois volets:
+-
+-
+-
+Volet Amélioration de la résilience des ménages les plus vulnérables
+Volet Amélioration  des  pratiques  d’alimentation,  de  nutrition  et  d’hygiène
+des ménages
+Volet Education
+Composante 2. Promotion de l'entreprenariat des jeunes et accès aux marchés
+La composante visera à: a) soutenir le développement d'entreprises agropastorales
+ou de services locaux portés par les jeunes ou les femmes à travers l’amélioration
+de  l’offre  de  services  non  financiers  de  proximité  et  des  appuis  financiers  pour
+soutenir le démarrage et/ou la consolidation des projets des bénéficiaires, b) créer
+les  conditions  d’accès  aux  marchés  et  de  commercialisation  des  produits  agro-
+pastoraux  à  travers  le  développement  des  infrastructures  de  marchés  et
+l'accompagnement  des  bénéficiaires  à  valoriser  leur  production,  et  c) appuyer  la
+concertation  des  acteurs  autours  des  marchés  pour  la  gestion  des  infrastructures
+mises  en  place  et  l'établissement  de  relations  commerciales  gagnant-gagnant.  La
+composante sera articulée en deux sous-composantes:
+8
+Appendix I
+EB 2019/127/R.33/Rev.1
+Sous composante  2.1. Appui  à  la  création  et  au  développement  des  entreprises
+rurales  durables  des 
+jeunes.  La  sous  composante  vise  à  promouvoir
+l’entrepreneuriat  en  milieu  rural  et  renforcer  les  compétences  des  JER,  leur
+permettant de créer ou consolider et développer leur entreprise et leur produit. Les
+activités de la sous composante sont organisées autour de quatre volets:
+- Volet  Amélioration  de  la  connaissance  de  l’environnement  des  entreprises
+rurales
+- Volet Amélioration de l’offre de Service de Développement d’Entreprises (SDE)
+- Volet Renforcement des capacités et accompagnement des entreprises
+rurales.
+- Volet  Facilitation  de  l’accès  aux  services  financiers  et  contribution  aux
+politiques  du  développement  rural  à  travers  un  partenariat  avec  les
+Institutions  Financières  (IF)  telles  que  la  BAGRI  pour  mettre  en  place  des
+mécanismes  qui  faciliteront  l'accès  des  jeunes  et  des  femmes  aux  crédits
+verts à travers le cofinancement du Fond Vert pour le climat.
+Sous  composante  2.2.  Développement  des  marchés  ruraux. La  sous-composante
+visera à améliorer les  conditions d’accès aux  marchés  et de  commercialisation des
+produits  agro-pastoraux  à  travers  des  infrastructures  de  commercialisation  et  de
+désenclavement.
+La sous-composante comporte quatre volets:
+- Volet Infrastructures de marchés
+- Volet Pistes de désenclavement
+- Volet Promotion des activités commerciales au sein des PDE
+Composante  3.  Coordination,  engagement  citoyen,  suivi-évaluation,  capitalisation
+et gestion des savoirs
+La  composante  visera  à  assurer  le  pilotage, la  gestion  et  le  S&E  du  projet.  Elle
+comprendra les sous-composantes suivantes:
+Sous  composante  3.1.  Coordination,  engagement  citoyen. La  sous-composante
+visera  à  assurer  la  gestion  des  ressources  humaines  et  financières  du  projet  et  à
+développer  les  partenariats requis pour  une  mise  en  œuvre  efficace  axée  sur  les
+résultats.  Le  Projet  assurera  également  le  suivi  de  la  mise  en  œuvre  des  activités
+d'appui à la BAGRI qui lui permettront de mettre en place un département agricole
+opérationnel. Le Projet mettra également en place des mécanismes de transparence
+et  de  participation  citoyennes  pour  l'évaluation  de la  gestion  globale  du  projet,  la
+mesure  indépendante  des  résultats  et  de  l'impact du  projet  afin  de  renforcer la
+redevabilité des acteurs de mise en œuvre dans l'atteinte des résultats.
+Sous  composante  3.2.  Suivi-évaluation,  capitalisation,  genre  et  inclusion  sociale,
+gestion des savoirs et communication. Le Projet instaurera un dispositif de S&E qui
+permettra  de  rendre  compte  des  résultats  du  Projet,  et aussi  de  répondre aux
+besoins  en  informations  pour  le  suivi  des  politiques  et  priorités  sectorielles  au
+niveau de l'HC3N, du Ministère en charge de l'Agriculture et du Ministère en charge
+du  Plan.  Les  indicateurs  obéiront  également  aux  priorités  du  Système  de  Gestion
+des  Résultats  et  de  l'Impact  (SYGRI)  et  le  Système  de  Mesure  des  Résultats
+Opérationnels  (ORMS)  du  FIDA.  Le  système  s’articulera  autour  des  fonctions  de
+planification,  de  suivi  de  l’exécution  et  des  résultats,  de  l’apprentissage  pour  une
+amélioration  continue  et  du  partage  des  résultats  pour  la  visibilité  du  projet.  La
+participation des bénéficiaires dans le S&E sera un élément important dans la mise
+en  œuvre  du  projet.  Le  Projet  sera  également  doté  de  ressources  humaines  et
+9
+Appendix I
+EB 2019/127/R.33/Rev.1
+matérielles  spécifiques  pour  l'opérationnalisations  des  stratégies  afférentes  aux
+genre, aux jeunes et à la nutrition.
+II. Dispositions relatives à l'exécution
+1.
+Organisation  et  gestion  du  Projet. Le  Ministère  chargé  de  l'agriculture  assure
+la  tutelle  technique  du  Projet. Le  Comité  de  pilotage  actuel  du  PRODAF  sera  revu
+pour  intégrer  la  région  de  Dosso  et  les  acteurs  non  encore  pris  en  compte,  pour
+assurer la cohérence des interventions et faciliter la coordination. Le Projet sera mis
+en œuvre selon l’approche programme Pays du FIDA au Niger et intègrera dans un
+dispositif  unique,  le  dispositif  actuel  du  ProDAF  dans  les  régions  de  Mardi,  Tahoua
+et Zinder avec une nouvelle unité régionale de coordination de projet dans la région
+de Dosso. Le personnel du projet sera recruté sur une base compétitive.
+Unités  régionales  de  coordination  et  de  gestion  de  projet  (URGP). Les  URGP
+2.
+de  Maradi,  Tahoua,  Zinder  et  Dosso  disposeront  de  l'autonomie  de  gestion
+technique, administrative et financière pour le pilotage des activités prévue dans la
+région.  La  structure  organisationnelle  de  chaque  URGP  sera  identique  à  celle  du
+ProDAF  actuel.  Les  URGP  comprendront deux  comptables  chargés  de  la  saisie  des
+écritures  comptables  et  un  Responsable  administratif  et  financier  qui  assurera  le
+rôle de Chef comptable un/e Spécialiste Ciblage, Genre, Jeune et Inclusion sociale.
+Cellule  Nationale  de  Représentation  et  d’Assistance  Technique  (CENRAT). La
+3.
+CENRAT assurera la représentation, la cohérence de l’ensemble des interventions du
+Programme Pays. La CENRAT assurera également la supervision de l'ensemble de la
+fonction et du personnel fiduciaire qui sera renforcée par un poste de comptable et
+un poste d'auditeur interne et un spécialiste en passation des marchés en année 2.
+4.
+Mise  en  œuvre  du  Projet  et  partenariat. Les activités  seront  mises  en  œuvre
+par des opérateurs et prestataires de services, recrutés par voie compétitive et liés
+au Projet par des contrats de performance, sous la supervision conjointe des URGP,
+et  par  des  partenaires  institutionnels  clés  avec  lesquels  le  projet  établira  des
+conventions  ou  protocoles.  Des  conventions  spécifiques  seront  signées  dans  le
+cadre  de  la  mise  en  œuvre  de  différents  volets  d’activités  (ex:  BAGRI  pour  la
+gestion  du  financement  du  Fond  Vert  Climat;  le Ministère en  charge  de
+l’Environnement  pour  le  suivi  de  l’initiative  FEM).  D'autres  partenariat  seront
+développés  pour  la  mise  en  œuvre  d'activités  conjointes  ou  complémentaires  avec
+la  FAO,  dans  les  domaines  thématiques  tels  que  la  récupération  des  terres
+dégradées (PAM), l'introduction des bonnes pratiques agricoles (FAO), la promotion
+du genre et la nutrition (FAO, PAM et UNICEF).
+10
+Appendix I
+EB 2019/127/R.33/Rev.1
+Annexe 2
+Tableau d’affectation des fonds
+1.
+Affectation du produit du prêt  et du montant du don. a) Le tableau ci-dessous
+indique  les catégories  de  dépenses  admissibles  à  un  financement  sur  le  produit  du
+prêt  ainsi  que  le  montant  du  don  affecté  à  chaque  catégorie  et  la  répartition  en
+pourcentage  des  dépenses  à  financer  pour  chacun  des  postes  des  différentes
+catégories:
+Catégories
+Montant alloué
+au titre du Don
+(exprimé en EUR)
+Montant alloué
+au titre du Prêt
+(exprimé en EUR)
+Pourcentage des dépenses
+autorisées à financer
+I.
+Travaux
+4 700 000
+14 650 000
+II.
+Consultations
+5 150 000
+11 600 000
+III. Biens,
+4 200 000
+10 900 000
+Services et
+Intrants
+IV. Dons et
+970 000
+5 650 000
+subventions
+V. Salaires et
+3 880 000
+8 200 000
+indemnités
+Non alloué
+2 100 000
+5 700 000
+TOTAL
+21 000 000
+56 700 000
+100% HT et hors
+contribution OFID, FEM et
+Bénéficiaires
+100% HT et hors
+contribution OFID, FEM,
+Fonds Vert, Bénéficiaires et
+Secteur Privé
+100% HT et hors
+contribution OFID, FEM,
+Fonds Vert, Bénéficiaires et
+Secteur Privé
+100% HT et hors Fonds Vert
+et Bénéficiaires
+100% HT et hors FEM et
+Fonds Vert
+b)
+Les termes utilisés dans le tableau ci-dessus se définissent comme suit:
+Les  dépenses  de  Consultations  relatives  à  la  catégorie  II  incluent  également
+i)
+les dépenses liées aux Formations
+ii)
+Les  dépenses  en  Biens,  Services  et  Intrants  relatives  à  la  catégorie  III
+incluent  également  les  dépenses  liées  aux  Véhicules  et  celles  relatives  aux
+Équipements et Matériels
+Le  dépenses  en  Salaires  et  Indemnités  relatives  à  la  catégorie  V  incluent
+iii)
+également les dépenses liées aux Coûts de Fonctionnement
+11
+Appendix I
+EB 2019/127/R.33/Rev.1
+Annexe 3
+Clauses particulières
+Conformément  aux  dispositions  de  la  section  12.01  a)  xxiii)  des  Conditions
+générales,  le  Fonds  peut  suspendre,  en  totalité  ou  en  partie,  le  droit  de
+l'Emprunteur/Bénéficiaire de  solliciter  des  retraits  du  compte  du prêt du  Fonds  si
+l'Emprunteur/le  Bénéficiaire n’a  pas  respecté  l'une  quelconque  des  clauses
+énoncées  ci-dessous,  et  si  le  FIDA  a  établi  que  ladite  défaillance  a  eu,  ou  risque
+d'avoir, un effet préjudiciable important sur le Projet:
+1. Suivi et évaluation. L'Emprunteur/le Bénéficiaire veillera à ce qu' un système de
+Planification, de Suivi et d'Evaluation (S&E) soit mis en place dans les douze (12)
+mois à compter de la date d'entrée en vigueur du présent accord
+2. Conformité  aux  procédures  d'évaluation  sociale  environnementale  et climatique
+(SECAP). L'Emprunteur/Bénéficiaire veillera à ce que le Projet soit mis en œuvre
+conformément au SECAP du FIDA.
+3. Mesures  anticorruption.  L'Emprunteur/le  Bénéficiaire  doit  se  conformer  à
+politique du FIDA en matière de prévention de la fraude et de la corruption dans
+le cadre de ses activités et opérations.
+4. Sélection du personnel du Projet. La sélection du personnel du Projet se fera sur
+une  base  compétitive  par  voie  d’appel  à  candidatures  publié  dans  la  presse
+nationale, selon les procédures actuelles de l'Emprunteur, sur la base de contrats
+dont  la  durée  ne  pourra  excéder  la  durée  du  Projet et  renouvelable  chaque
+année. A compétences égales les candidatures des jeunes et des femmes seront
+privilégiées. Le recrutement du personnel clé, le renouvellement de leur contrat
+et  le  cas  échéant,  la  décision  de  rompre  leur  contrat,  seront  soumis  à
+l’approbation préalable du Fonds. Des contrats d’une durée d’un an renouvelable
+seront offerts au personnel clé sélectionné et tout renouvellement sera fondé sur
+la performance. Il pourra être mis fin à leur contrat en fonction des résultats de
+ces  évaluations.  Tout  fonctionnaire  sélectionné  devra  obtenir  une  mise  à
+disposition  de  son  employeur  avant  qu’un  contrat  ne  lui  soit  proposé.  Toute
+discrimination fondée sur le sexe, l’âge, l’appartenance ethnique ou religieuse ne
+sera pas admissible lors du  recrutement du personnel du Projet Le recrutement
+et  la  gestion  du  personnel  d’appui  seront  soumis  aux  procédures  décrites  dans
+les Manuels du Projet.
+5. Utilisation  des  véhicules  du  Projet  [et  autres  équipements]. L'Emprunteur  doit
+s'assurer que:
+a) tous  les  véhicules et  autres  équipements  achetés  dans  le  cadre  du  Projet
+sont affectés aux URGP et à la CENRAT et, sous conditions, aux partenaires
+d'exécution pour la mise en œuvre du Projet;
+b) Les  types  de  véhicules  et  autres  équipements  achetés  dans  le  cadre  du
+Projet sont adaptés aux besoins du Projet; et
+c) Tous  les  véhicules  et  autres  équipements  transférés  ou  achetés  dans  le
+cadre du Projet sont exclusivement destinés à une utilisation pour le Projet.
+6. Partenariats. Dans  les  six  (6)  mois  suivant  l'entrée  en  vigueur  de  l'Accord  de
+financement,  le  Projet/Programme  conclura  un  protocole  d'accord  avec  les
+partenaires de mise en œuvre qui structurera la collaboration, définira les rôles,
+les  responsabilités  et  les  devoirs  en  matière  de  mise  en  œuvre  et  de  gestion
+financière, comptabilité et rapport.
+12
+Indicateurs
+Moyens de vérification
+Hypothèses
+Description
+Référence
+RMP
+Fin
+Source
+Fréquence
+Respon-
+sable
+Cadre logique
+Synthèse/Résultats
+Portée: 209 722 ménages
+ruraux dans les régions
+ciblées dont 40% de femmes
+et 50% de jeunes
+Objectif: La sécurité
+alimentaire et nutritionnelle et
+la résilience des ménages
+ruraux sont durablement
+renforcées
+Objectifs de développement:
+Les  revenus  et
+les  moyens
+d'existence des ménages sont
+améliorés 
+durablement 
+et
+l'insertion
+socioéconomique
+des  jeunes  dans  les  métiers
+ruraux porteurs assurés
+1
+3
+CI.1. Nombre de ménages (personnes
+correspondantes) bénéficiant des
+services du projet (*)
+Pourcentage de ménages ayant une
+période de soudure de 2 mois au
+maximum
+Pourcentage de ménages déclarant une
+augmentation de revenu d'au moins
+30%
+Pourcentage de femmes qui ont vu
+augmenter leur niveau d'autonomisation
+(pro-WEAI)
+0
+ND
+ND
+ND
+Composante 1: «Développement agricole durable et renforcement de la résilience des ménages ruraux»
+Effet 1: La productivité
+agricole et l'alimentation des
+ménages sont durablement
+améliorées
+CI. 1.2.4. Pourcentage de ménages
+déclarant une augmentation de la
+production
+CI.1.2.8. Pourcentage de femmes
+déclarant une amélioration de leur
+régime alimentaire (score de diversité
+alimentaire des femmes, MDD-W:
+Pourcentage de femmes âgées de 15 à
+49 ans qui consomment au moins 5
+groupes d'aliments sur 10)
+CI. 1.2.1. Pourcentage de personnes /
+ménages signalant un meilleur accès à
+l'eau à des fins agricoles et pastorales
+et pour leur consommation (*)
+ND (Étude de base)
+40%
+80%
+ND (Étude de base)
+40%
+80%
+ND (Étude de base)
+40%
+80%
+120 000
+209 722
+Rapports du
+Projet
+Annuelle
+UCGP
+40%
+80%
+Études de
+base
+Année 1 and
+fin
+UCGP
+40%
+80%
+40%
+100%
+Stabilité
+politique et
+conditions de
+sécurité sous
+contrôle
+Les
+phénomènes
+climatiques et
+environnementa
+ux graves
+(sécheresses)
+ne se produisent
+pas
+Rapports de
+Projet et
+d'évaluation
+Étude pro-
+WEAI
+Rapports de
+Projet et
+d'évaluation
+Rapports de
+Projet et
+d'évaluation
+Rapports de
+Projet et
+d'évaluation
+Annuelle
+UCGP
+Année 1, 3
+et fin
+Cabinet
+d'étude à
+recruter par
+l'UCGP
+Annuelle
+UCGP
+Annuelle
+UCGP
+Les conditions
+climatiques
+restent
+favorables
+Annuelle
+UCGP
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+9
+/
+1
+2
+7
+/
+R
+.
+3
+3
+/
+R
+e
+v
+.
+1
+Indicateurs
+Moyens de vérification
+Hypothèses
+Description
+Référence
+RMP
+Fin
+Source
+Fréquence
+Respon-
+sable
+Synthèse/Résultats
+Produit 1.1. La maitrise de
+l’eau de surface et la gestion
+durable des terres sont
+assurées
+Produit 1.2. Les capacités
+techniques et institutionnelles
+des bénéficiaires sont
+améliorées
+1
+4
+Produit 1.3. Les terres
+agricoles et pastorales sont
+réhabilitées et gérées de
+manière durable
+Produit 1.4. Les ménages
+ruraux adoptent de bonnes
+pratiques diététiques et
+nutritionnelles
+CI.1.1.2. Nombre d'hectares de terres
+agricoles bénéficiant des infrastructures
+d'accès à l'eau (construites /
+réhabilitées)
+CI. 1.1.4. Nombre de personnes
+formées aux pratiques et technologies
+de production durables (ventilées par
+production animale et végétale, par
+sexe et jeunes)
+CI. 1.1.3. Nombre de producteurs ayant
+accès à des intrants de production de
+qualité (animaux et végétaux) et / ou à
+des paquets technologiques (*)
+CI. 2.1.3. Nombre d'organisations de
+producteurs /rurales soutenues (*)
+CI. 3.1.4. Superficies de terres
+soumises à une gestion résiliente face
+aux conditions climatiques (fixation des
+dunes, CES / DRS, corridors pastoraux,
+terres traitées contre les plantes
+envahissantes, etc.)
+CI. 1.1.8. Nombre de ménages
+bénéficiant d'un soutien ciblé destiné à
+améliorer leur nutrition (*)
+Nombre de personnes bénéficiant d’un
+programme d’alphabétisation
+fonctionnelle
+0
+0
+0
+0
+0
+0
+0
+Composante 2: Promotion de l'entrepreneuriat des jeunes et accès aux marchés.
+Effet 2: Des entreprises agro-
+pastorales rentables, sont
+créées para des jeunes, sont
+opérationnelles et créent des
+emplois décents et durables
+CI. 2.2.1. Nombre d'emplois nouveaux
+créés ou renforcés(*)
+Produit 2.1. Les jeunes sont
+soutenus dans la création et le
+développement d'entreprises
+CI. 2.1.1. Nombre d'entreprises rurales
+ayant accès à des services de
+développement des entreprises
+0
+0
+2 500
+5 100
+15 000
+33 000
+75 000
+150 000
+1 000
+2 080
+40 000
+72 000
+17 000
+35 000
+11 000
+33 000
+Rapports du
+Projet
+Rapports du
+Projet
+Rapports du
+Projet
+Rapports du
+Projet
+Rapports du
+Projet
+Rapports du
+Projet
+Rapports du
+Projet
+Semestrielle
+UCGP
+Semestrielle
+UCGP
+Bonne réactivité
+des prestataires
+de services
+Fonds mobilisés
+à temps
+Semestrielle
+UCGP
+Fonds mobilisés
+à temps
+Semestrielle
+UCGP
+Semestrielle
+UCGP
+Perception
+favorable des
+OP
+Fonds mobilisés
+à temps
+Semestrielle
+UCGP
+Fonds mobilisés
+à temps
+Semestrielle
+UCGP
+25 000
+45 060
+Rapports du
+Projet
+Annuelle
+UCGP
+Fonds mobilisés
+à temps
+4 900
+9 800
+Rapports du
+Projet
+Semestrielle
+UCGP
+Fonds mobilisés
+à temps
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+9
+/
+1
+2
+7
+/
+R
+.
+3
+3
+/
+R
+e
+v
+.
+1
+Synthèse/Résultats
+Description
+Référence
+RMP
+Fin
+Source
+Fréquence
+Respon-
+sable
+Indicateurs
+Moyens de vérification
+Hypothèses
+viables le long des chaînes de
+valeur agro-pastorales et des
+métiers associés
+CI. 2.1.2. Nombre de personnes
+formées aux activités génératrices de
+revenus ou à la gestion d'entreprise (*)
+Produit 2.2. La concertation
+sur les stratégies de promotion
+de l'entrepreneuriat agro-
+pastoral et rural chez les
+jeunes a lieu
+Nombre de produits du savoir pertinents
+par rapport aux politiques
+d'entrepreneuriat en faveur des jeunes
+élaborés et négociés avec les pouvoirs
+publics et les intervenants
+Effet 3: Les ménages
+valorisent mieux leur
+production agro-pastorale en
+la commercialisant
+Produit 2.3. Les
+infrastructures de marché sont
+construites et opérationnelles
+CI. 2.2.2. Pourcentage d'entreprises
+rurales accompagnées ayant déclaré
+une augmentation de leurs bénéfices
+Pourcentage de personnes déclarant
+avoir un accès physique au marché
+CI.2.1.6. Nombre et type
+d'infrastructures de marché, de
+transformation ou de stockage
+construites ou réhabilitées
+Produit 2.4. Les routes
+rurales sont réhabilitées
+CI. 2.1.5. Nombre de km de routes
+rurales réhabilitées/développées
+(*)Ventilé par sexe, jeunesse et vulnérabilité sociale.
+0
+0
+0
+0
+0
+0
+1
+5
+15 000
+30 000
+1
+2
+50%
+90%
+80%
+12 CC
+5 MDG
+18 CC
+9 MDG
+175
+348
+Rapports du
+Projet
+Rapports du
+Projet
+Rapports du
+Projet
+Rapports du
+Projet
+Rapports du
+Projet
+Rapports du
+Projet
+Semestrielle
+UCGP
+Semestrielle
+UCGP
+Semestrielle
+UCGP
+Semestrielle
+UCGP
+Semestrielle
+UCGP
+Semestrielle
+UCGP
+Fonds mobilisés
+à temps
+Volonté politique
+du
+gouvernement
+Les autorités
+locales facilitent
+l'action du projet
+Bonne réactivité
+des entreprises
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+9
+/
+1
+2
+7
+/
+R
+.
+3
+3
+/
+R
+e
+v
+.
+1

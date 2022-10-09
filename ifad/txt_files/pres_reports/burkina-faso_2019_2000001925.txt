@@ -1,0 +1,2754 @@
+Document:
+Agenda:
+Date:
+Distribution:
+Original:
+EB 2019/127/R.31/Rev.1
+8(d)(iv)(a)
+12 September 2019
+Public
+English
+E
+President’s report
+Proposed loan
+Burkina Faso
+Agricultural Value Chains Project in the
+Southwest, Hauts-Bassins, Cascades and
+Boucle du Mouhoun Regions
+Project ID: 2000001925
+Note to Executive Board representatives
+Focal points:
+Technical questions:
+Dispatch of documentation:
+Deirdre McGrenra
+Chief
+Institutional Governance and
+Member Relations
+Tel.: +39 06 5459 2374
+e-mail: gb@ifad.org
+Abdoul Barry
+Country Programme Manager
+West and Central Africa Division
+Tel.: +225 09 335028
+e-mail: a.barry@ifad.org
+Samir Bejaoui
+Programme Officer
+Tel.: +225 07 909589
+e-mail: s.bejaoui@ifad.org
+Executive Board — 127th Session
+Rome, 10-12 September 2019
+For: Approval
+EB 2019/127/R.31/Rev.1
+Contents
+Abbreviations and acronyms
+Map of the project area
+Financing summary
+I.
+Context
+A. National context and rationale for IFAD involvement
+B. Lessons learned
+II. Project description
+A. Project objectives, geographic area of intervention and target
+groups
+B. Components/outcomes and activities
+C. Theory of change
+D. Alignment, ownership and partnerships
+E. Costs, benefits and financing
+III. Risks
+A. Project risks and mitigation measures
+B. Environment and social category
+C. Climate risk classification
+D. Debt sustainability
+IV.
+Implementation
+A. Organizational framework
+B. Planning, monitoring and evaluation, learning, knowledge
+management and communication
+C. Implementation plans
+V.
+Legal instruments and authority
+VI. Recommendation
+Appendices
+I. Negotiated financing agreement
+II. Logical framework
+Project delivery team
+Regional Director
+Country Programme Manager/Programme Officer
+Project Technical Lead
+Financial Management Officer:
+Climate and Environment Specialist:
+Legal Officer:
+Lisandro Martin
+Abdoul W. Barry/Samir Bejaoui
+Jonathan Agwe
+Radu Damianov
+Sebastien Subsol
+Gabriel Rodriguez Rico
+ii
+iii
+iv
+1
+1
+3
+4
+4
+4
+5
+5
+6
+10
+10
+11
+11
+11
+11
+11
+12
+13
+13
+13
+i
+EB 2019/127/R.31/Rev.1
+Abbreviations and acronyms
+AfDB
+CREER
+IOE
+African Development Bank
+Rural Entrepreneurship Resource Centre
+Independent Office of Evaluation of IFAD
+Neer-Tamba
+Participatory Natural Resource Management and Rural Development
+Project in the North, Centre-North and East Regions
+NPV
+PAPFA
+PAVAL
+PCU
+net present value
+Agricultural Value Chains Promotion Project
+Leraba Plain Management and Development Project
+project coordination unit
+ii
+Map of the project area
+EB 2019/127/R.31/Rev.1
+iii
+EB 2019/127/R.31/Rev.1
+Financing summary
+Initiating institution:
+Borrower:
+Executing agency:
+IFAD
+Burkina Faso
+Ministry of Agriculture and Hydro-agricultural
+Development
+Total project cost:
+EUR 112.0 million
+Amount of IFAD loan (PAFA-4R):
+EUR 51.4 million
+Amount of IFAD loan (PAVAL):
+EUR 8.22 million
+Amount of IFAD grant:
+EUR 0.9 million (Green Grant initiative)
+Terms of IFAD loans:
+The loans are extended on highly concessional terms;
+they are exempt from interest but subject to a service
+commission of three quarters of a percentage point
+(0.75%) per annum and a repayment term of 40 years,
+including a grace period of 10 years calculated from the
+date of approval by the Executive Board. The loan
+principal will be repaid at a rate of 4.5% of the total
+principal amount per annum commencing in year 11
+until year 30, and at a rate of 1% of the total principal
+amount commencing in year 31 until year 40
+Amount of IFAD climate financing:*
+EUR 28,389,735
+Cofinancier:
+African Development Bank (AfDB)
+Amount of cofinancing:
+EUR 31.8 million
+Terms of cofinancing:
+Loan
+Contribution of borrower:
+EUR 12 million
+Contribution of beneficiaries:
+EUR 7.8 million
+Appraising institution:
+IFAD
+Cooperating institution:
+IFAD for PAFA-4R and AfDB for PAVAL cofinancing
+* In accordance with the methodologies established by the multilateral development banks (MDBs) for climate finance tracking.
+iv
+EB 2019/127/R.31/Rev.1
+Recommendation for approval
+The Executive Board is invited to approve the recommendation contained in
+paragraph 87.
+I. Context
+A. National context and rationale for IFAD involvement
+1.
+2.
+3.
+4.
+5.
+6.
+National context
+Political and economic context. The main challenge facing the Government of
+Burkina Faso for the coming decade is to effect a structural transformation of the
+economy through strong, sustainable and inclusive growth underpinned largely by
+a modern, dynamic agriculture sector. The Government prepared the National Plan
+for Economic and Social Development 2016-2020 to this end. The aim is to arrive
+at GDP growth averaging 7.7 per cent and create at least 50,000 jobs per year.
+Such growth is in contrast to the rates posted in 2017 and 2018, at 6.4 per cent
+and 5.9 per cent respectively. The International Monetary Fund projects annual
+average growth in GDP of 6.0 per cent in its evaluation of the country’s
+macroeconomic management for the period 2019-2024.
+Since 2015 the Government has been faced with social unrest and terrorist attacks
+attributed to various jihadi groups, in response to which it employs all means
+possible to restore security.
+Population and rural poverty. The population of Burkina Faso, estimated in 2016 at
+19.03 million inhabitants,1 is growing at a rate of 3.1 per cent per year.2 Poverty is
+most prevalent in rural areas. In 2014 the poverty rate stood at 40 per cent.3 In
+2016, eight of 10 citizens were living on less than three dollars a day.
+Food security. Burkina Faso ranked 89th of 119 countries on the Global Hunger
+Index for 2018. Around 18 per cent of the population are periodically
+food-insecure,4 with high seasonal variability.
+Agriculture sector. The economy is largely dependent on agriculture, which
+employs 86 per cent of the active population and contributes 35 per cent of GDP.
+Agriculture provides farming households with 61.5 per cent of their monetary
+income. The country has vast potential in the form of 9 million ha of arable land,
+including 233,500 ha of irrigable land,12 per cent to 14 per cent of which is
+currently under cultivation, with 500,000 ha of seasonally flooded lowlands that
+could be developed easily.
+Agricultural and rural development strategies. The National Plan for Economic and
+Social Development is being implemented under the Agro-silvo-pastoral Production
+Sector Policy 2018-2027 and the Second National Rural Sector Programme
+covering the period 2016-2020. The latter also provides a framework for
+implementation of the National Food and Nutritional Security Policy (2018-2027),
+the National Nutrition Policy (2016) and the National Sustainable Livestock
+Development Policy.
+7.
+Special aspects relating to IFAD's corporate mainstreaming priorities
+Climate change. Over the coming 20 years, the water balance for the agricultural
+season will see a decline of about 200 mm in the four targeted regions.
+1 National Statistics and Demography Institute (INSD). 2016 Statistical Yearbook, 2006 census estimates.
+2 Directorate General of Economy and Planning (DGEP). Profile of Burkina Faso Demographic Dividend in 2014.
+3 INSD. The national poverty line is CFAF 82,672 (2003).
+4 United Nations System. Framework for Cooperation between Burkina Faso and the United Nations System 2018-
+2020.
+1
+EB 2019/127/R.31/Rev.1
+8.
+9.
+Gender equality and social inclusion. The incidence and severity of poverty are
+higher for women (52 per cent) than for men. Women’s access to productive
+resources, particularly land, credit and extension services, remains limited.
+Youth.5 Young people account for 61 per cent of the working age population but
+82 per cent of the unemployed. The agriculture sector provides 77 per cent of all
+employment for young people.
+10. Nutrition. In 2017, the prevalence of acute malnutrition was 8.6 per cent. The
+chronic malnutrition rate is 21.2 per cent.6 Malnutrition is an underlying cause of
+34 per cent of deaths among children under five.
+11.
+12.
+13.
+Rationale for IFAD involvement
+In response to a request from the Government of Burkina Faso, the Agricultural
+Value Chains Project in the Southwest, Hauts-Bassins, Cascades and Boucle du
+Mouhoun Regions (PAFA-4R) was designed to contribute to achieving the strategic
+objectives of the National Plan for Economic and Social Development 2016-2020.
+The Plan calls for boosting agricultural productivity, adding greater value to
+agricultural products and promoting entrepreneurship to address the low rate of
+growth in rural areas. PAFA-4R will help achieve these policy objectives.
+PAFA-4R will also contribute to the Priority Investments Programme 2019-2021
+prepared as part of the G5 Sahel initiative and the United Nations Integrated
+Strategy for the Sahel. The Priority Investments Programme 2019-2021 is based
+on three priority thrusts: governance, security and resilience. Under the Resilience
+and Human Development component of the Priority Investments Programme, the
+Building Resilience among Smallholder Farmer Women and Youth with
+Climate-smart Agriculture programme is a direct response to the effects of climate
+change and food insecurity on rural women and young people.
+PAFA-4R will target young people (30 per cent of beneficiaries) and women
+(50 per cent of beneficiaries) in the context of the following activities: (i) improve
+access to secure land and help the Ministry of Agriculture and Hydro-agricultural
+Development implement a policy of sustainable access to land; (ii) train
+beneficiaries in climate-smart agriculture practices such as development of
+lowlands by planting hedgerows, reforestation around irrigation infrastructure
+(agroforestry), construction of erosion control structures, financing water saving
+solar systems and building reservoirs to expand storage capacity; (iii) provide
+financial support to enable access to inputs and small-scale equipment; and
+(iv) facilitate market access with product processing and storage.
+14. Close collaboration is planned with: (i) the Food and Agriculture Organization of the
+United Nations (FAO), to support the creation of an enabling environment for
+sustainable land access by young people and women; and (ii) the World Food
+Programme for access to marketing and financial services (e.g. via the
+Buy-from-Women platform in collaboration with UN Women).
+15.
+PAFA-4R complements the Agricultural Value Chains Promotion Project (PAPFA),
+which entered into effect on 15 March 2018. It will be implemented through the
+same components and subcomponents and will support the same value chains
+(rice, market garden crops, cowpea and sesame) in the southwest and the four
+regions targeted upon completion of PAPFA in 2024. The project will target two
+new value chains (non-timber forest products and fish farming) in the four regions
+during the implementation period.
+5 International Labour Organization, Economic Commission for Africa and AfDB. Mapping and diagnostic assessment
+of youth employment in Burkina Faso, 2014.
+6 INSD. SMART survey 2018.
+2
+EB 2019/127/R.31/Rev.1
+16. Value chains: The additional value chains were selected on the basis of the
+following criteria:
+Development of fish farming on a pilot basis, particularly in regard to weir
+management to potentially benefit young people, is expected to improve
+household nutrition and create a source of supplementary income.
+In addition to the economic interest of the non-timber forest products value
+chain for local and export markets, some of these products have nutritional
+value and could serve as staple foods during lean periods.
+B. Lessons learned
+17. The Independent Office of Evaluation of IFAD (IOE), which conducted a country
+strategy and programme evaluation (CSPE) in Burkina Faso for the period
+2007-2017, confirmed that incomes and food security had improved for beneficiary
+populations, particularly women.
+18. Some projects – the Community Investment Programme for Agricultural Fertility,
+the Small-scale Irrigation and Water Management Project, the Sustainable Rural
+Development Project and the Participatory Natural Resource Management and
+Rural Development Project in the North, Centre-North and East Regions
+(Neer-Tamba) – have shown very positive results in the following areas: soil and
+water conservation, agroforestry, assisted natural regeneration and other
+techniques to combat the effects of climate change.
+19. Other projects – the Rural Microenterprise Support Project, the Agricultural Value
+Chains Support Project, the Rural Business Development Programme and the
+Agricultural Value Chains Promotion Project (PAPFA) – have contributed to job
+creation and rural microenterprise development to the benefit of rural poor people.
+20. The project design takes into account the recommendations of the International
+Centre for Tropical Agriculture,7 which called for systematically building
+nutrition-sensitive approaches into project design and contributing to the
+achievement of national objectives.
+21. More attention needs to be paid to absorption and implementation capacities,
+capacity-building for project coordination units (PCUs), service providers and
+farmer organizations, country-level implementation and project exit strategies.
+Steps have already been taken to this end by the country team in charge of the
+Neer-Tamba project, with the organization of frequent implementation and
+disbursement support missions. This approach has already proven successful, as is
+apparent in the improved technical and financial performance of that project.
+22.
+PAFA-4R will take into account the recommendations outlined below, which are
+based on lessons learned drawn by IOE from projects and relating to pro-poor
+value chain development:
+Promote good governance of value chains by strengthening or creating
+multi-stakeholder platforms responsible for: (i) disseminating information on
+prices and markets; (ii) encouraging dialogue among actors; and
+(iii) providing a space for dispute settlement.
+Develop project management team capacities by means of:
+(i) capacity-building partnerships with international agencies and expert
+service providers; (ii) mentoring by peers on project management; and
+(iii) a web-based knowledge platform for information exchange.
+7 International Centre for Tropical Agriculture. Mission report. 2018.
+3
+
+
+
+
+EB 2019/127/R.31/Rev.1
+II. Project description
+A. Project objectives, geographic area of intervention and target
+groups
+Objectives
+23. The goal of PAFA-4R is to contribute to reducing poverty and stimulating economic
+growth in the Southwest, Hauts-Bassins, Cascades and Boucle du Mouhoun
+regions.
+24. The development objective of PAFA-4R replicates that of PAPFA, namely:
+sustainably improve food security and incomes of farmers engaged in production
+and value addition in the value chains supported by the project.
+25.
+Project area
+PAFA-4R will be implemented in the three regions covered by PAPFA (Cascades,
+Boucle du Mouhoun and Hauts-Bassins), where it will support two value chains
+(non-timber forest products and fish farming), and in the Southwest region where
+activities will take place around the six value chains indicated above.
+26. One of the economic hubs of PAFA-4R will be the Douna commune in the Cascades
+region, where the African Development Bank (AfDB) and the Government are
+funding the Leraba Plain Management and Development Project (PAVAL).
+Target group
+27. The target group will comprise: (i) smallholder farmers and their grass-roots
+organizations; and (ii) agro-entrepreneurs and related trades along the value
+chains.
+28.
+29.
+PAFA-4R will target 70,000 direct beneficiaries belonging to 40,000 households,
+including 11,425 direct beneficiaries within the framework of the partnership with
+AfDB for PAVAL being implemented in the Leraba plain.
+PAFA-4R will target women and youth in particular, in accordance with the sixth
+priority of the United Nations Integrated Strategy for the Sahel, as well as disabled
+persons.
+B. Components/outcomes and activities
+30.
+PAFA-4R will have the following components: (i) Improving agricultural productivity
+and production; (ii) Value addition and marketing with civil society engagement;
+and (iii) Coordination, monitoring and evaluation (M&E) and knowledge
+management.
+Component A: Improving agricultural productivity and production
+31. Subcomponent A.1: Access to inputs, advisory services and innovations to boost
+productivity
+32. Subcomponent A.2: Rural infrastructure. This subcomponent calls for developing
+land and water resources in lowlands apt for rice growing, in market gardening
+perimeters that can be equipped with wells and around small existing but
+underdeveloped weirs and artesian springs. Small-scale irrigation units using water
+saving solar pumps will be built.
+Component B: Value addition and marketing with civil society engagement
+33. Component B will be based on structuring value chains and increasing value added.
+34. Subcomponent B.1: Strengthening value chain organizations. The subcomponent
+will promote interactions among value chain actors.
+35. The Agribusiness Capital Fund (ABC Fund) will be associated with financing for rural
+microenterprises.
+4
+EB 2019/127/R.31/Rev.1
+36. A citizen engagement grant will be provided under the Green Grant initiative in the
+amount of EUR 0.9 million, to set up a Civil Society House for awareness-raising
+and communication around IFAD and AfDB development initiatives.
+37. Support to PAVAL. IFAD will fund the development of 1,410 ha and value chain
+development by the Government and AfDB in the framework of PAVAL. This project
+will be based on structural developments, land security and implementation of an
+environmental and social management plan.
+38. Subcomponent B.2: Professionalization of rural microenterprises. This
+subcomponent will support 1,600 individual and collective rural microenterprises
+(17,800 beneficiary households), more than 50 per cent of which will benefit
+women and youth. The aim is to achieve output 2.2 by means of:
+(i) professionalizing rural microenterprises; (ii) developing the supply of services by
+rural entrepreneurship centres (CREER); and (iii) financing rural microenterprises.
+Component C: Coordination, M&E and knowledge management
+39. This component covers all arrangements for technical planning and operational
+coordination, administrative and fiduciary management, M&E, communication and
+knowledge management.
+C. Theory of change
+40. The PAFA-4R theory of change is built around the three fundamental thrusts of
+IFAD’s country programme in Burkina Faso: (i) increasing agricultural productivity;
+(ii) strengthening the rural economy; and (iii) developing value chains. Higher
+yields for farming systems and more secure production will generate surpluses for
+marketing and a rationale for the value addition activities planned under
+component B.
+41. Component A will achieve its objective by: (i) facilitating access to inputs and
+adapted agricultural advisory services; and (ii) building hydro-agricultural
+structures and storage infrastructure, in addition to access roads to production
+sites. Major investments in climate change adaptation technologies are crucial to
+boost productivity and the sustainability of results. Rural enterprise development
+(component B) will help to make the labour surplus among rural youth more
+productive and ensure that quality financial and non-financial services are provided
+to value chain actors.
+D. Alignment, ownership and partnerships
+42. Alignment. PAFA-4R will contribute to achieving the strategic objectives of the
+National Plan for Economic and Social Development, within the framework of the
+second National Programme for the Rural Sector, in regard to the objectives of the
+Agro-silvo-pastoral Production Policy under the National Food and Nutritional
+Security Policy and the Nationally Determined Contribution under the Paris
+Agreement. The project will contribute to the achievement of several Sustainable
+Development Goals (SDGs 1, 2, 5, 8, 12 and 13) and the strategic objectives set
+forth in the IFAD Strategic Framework 2016-2025 and the country strategic
+opportunities programme (COSOP) 2019-2024. It will also support the
+implementation of relevant IFAD policies.
+43. Ownership. PAFA-4R will be supported by the national structures already in place.
+The CREER and rural microenterprises will continue to benefit from methodological
+and technical support from the Entrepreneurs House of Burkina Faso, the
+Directorate General for Rural Entrepreneurship and other directorates, and the
+mission structures of the three ministries involved in the project.
+44. Partnerships. Complementarities will be sought with the Directorate General for
+Hydraulic Development and Irrigation in connection with extension and site
+development with funding from the Government or other donors and the
+downstream value chain actors.
+5
+EB 2019/127/R.31/Rev.1
+45. With respect to land tenure, a partnership will be sought with the Agence Française
+de Développement, AfDB, World Bank and European Union.
+46.
+In terms of environmental management, the options selected will be consistent
+with the National Action Plan on Adaptation to Climate Change and the Nationally
+Determined Contribution under the Paris Agreement. Environmental and social
+impact assessments will be conducted under the supervision of the National Office
+of Environmental and Social Evaluation, together with preparation of the overall
+environmental and social management plan.
+47. The United Nations Capital Development Fund is a potential partner to pilot the
+automation of value chains.
+48. The Network of Credit Unions of Burkina Faso, the Federation of Credit Unions of
+Burkina Faso and the Alliance for a Green Revolution in Africa (AGRA) are also
+potential partners that have expressed interest and could join IFAD in offering
+inclusive financing.
+49. Agence Française de Développement will implement a nation-wide pilot guarantee
+fund project for small and medium-sized agrifood enterprises. Consideration will be
+given to collaboration with rural microenterprises in the post-harvest sector.
+50. A partnership with FAO will support the development of non-timber forest products.
+E. Costs, benefits and financing
+51. Subcomponents A.1. and A.2 contribute in part to IFAD financing for climate
+change adaptation. The total amount allocated to climate action is estimated at
+EUR 28,389,735 or 47 per cent of total IFAD investment.
+Project costs
+52. Costs and financing. Total project cost is EUR 112 million, distributed as follows:
+(i) IFAD, EUR 60.5 million (EUR 51.40 million in the form of a loan and
+EUR 0.89 million in the form of a grant for PAFA-4R, and EUR 8.22 million in the
+form of a loan for PAVAL); (ii) beneficiaries, private sector and partners,
+EUR 7.8 million; and (iii) Government, EUR 7.0 million in the form of tax
+exemptions and EUR 5.0 million in cash.
+53. AfDB will provide parallel financing for the Leraba plain in the amount of
+EUR 31.8 million (US$38 million). It will administer EUR 8.2 million of the overall
+IFAD loan for perimeter development of the plain, value chain development and
+start-up funding for rural enterprises.
+54.
+Plans call for an allocation of EUR 445,000 for pre-start-up activities (annex 11 of
+project design report) under the Faster Implementation of Project Start-up (FIPS)
+Facility.
+6
+Table 1
+Project costs by component and financier
+(Millions of euros)
+Components/subcomponents
+A. Agricultural productivity and production
+A.1. Access to inputs, equipment and advisory services
+A.2. Rural infrastructure
+Subtotal
+B. Value addition and marketing
+B.1. Strengthening value chain organizations
+B.2. Professionalization of rural microenterprises
+B.3. PAVAL
+Subtotal
+C. Coordination, M&E and knowledge management
+C.1. Coordination and management
+C.2. M&E and knowledge management
+Subtotal
+Total
+IFAD loan
+(PAFA-4R)
+IFAD loan
+(PAVAL)
+Green Grant
+initiative
+AfDB
+Amount
+%
+Amount
+%
+Amount
+%
+Amount
+%
+Beneficiaries
+Amount
+%
+Government
+Amount
+%
+Total
+Amount
+%
+7.80
+23.83
+31.63
+2.16
+10.89
+-
+13.05
+4.64
+2.07
+6.71
+51.39
+71.6
+72.1
+71.9
+40.8
+81.5
+-
+21.3
+97.0
+100.0
+97.9
+45.9
+0.89
+16.8
+8.22
+8.22
+19.3
+13.4
+0.89
+1.5
+31.84
+31.84
+74.8
+52.0
+2.76
+0.18
+2.94
+0.57
+2.47
+1.78
+4.82
+25.3
+0.6
+6.7
+10.7
+18.5
+4.2
+7.9
+8.22
+7.3
+0.89
+0.8
+31.84
+28.4
+7.76
+6.9
+0.34
+9.05
+9.39
+1.68
+0.01
+0.71
+2.40
+0.14
+0.00
+0.14
+11.94
+3.1
+27.4
+21.4
+31.7
+0.1
+1.7
+3.9
+3.0
+2.1
+10.7
+10.90
+33.07
+43.97
+5.30
+13.37
+42.55
+61.22
+9.7
+29.5
+39.2
+4.7
+11.9
+38.0
+54.6
+4.78
+2.07
+6.85
+112.04
+4.3
+1.8
+6.1
+100.0
+7
+Table 2
+Project costs by expenditure category and financier
+(Millions of euros)
+Expenditure category
+Investment expenses
+A. Works
+B. Equipment and materials
+1. Vehicles
+2. Equipment and materials
+Subtotal
+C. Subsidies and grants
+D. Consulting services
+E. Goods, services and inputs
+1. Training, workshops and seminars
+2. Goods, inputs and other services
+Subtotal
+Total investment expenses
+Current expenses
+A. Salaries and benefits
+B. Operating costs
+Total current expenses
+Total
+IFAD loan
+(PAFA-4R)
+IFAD loan
+(PAVAL)
+Green Grant
+initiative
+AfDB
+Amount
+%
+Amount
+%
+Amount
+%
+Amount
+%
+Beneficiaries
+Amount
+%
+Government
+Amount
+%
+Total
+Amount
+%
+22.66
+33.2
+2.39
+3.5
+31.84
+46.7
+0.43
+0.6
+10.89
+16.0
+68.21
+60.9
+0.32
+0.53
+0.84
+0.67
+2.63
+4.51
+16.50
+21.01
+47.82
+3.01
+0.56
+3.57
+51.39
+76.1
+36.9
+45.8
+78.5
+81.1
+68.7
+59.5
+61.2
+44.1
+100.0
+100.0
+100.0
+45.9
+0.00
+0.45
+0.46
+0.03
+0.44
+1.02
+3.88
+4.90
+8.22
+0.9
+31.6
+24.7
+3.7
+13.7
+15.6
+14.0
+14.3
+7.6
+0.10
+0.45
+0.54
+23.0
+31.4
+29.5
+0.17
+5.2
+0.15
+0.19
+0.34
+11.94
+2.2
+0.7
+1.0
+11.0
+0.15
+17.8
+7.18
+7.18
+7.76
+25.9
+20.9
+7.2
+0.89
+13.5
+0.89
+0.89
+2.6
+0.8
+31.84
+29.4
+8.22
+7.3
+0.89
+0.8
+31.84
+28.4
+7.76
+6.9
+11.94
+10.7
+0.42
+1.43
+1.84
+0.86
+3.24
+6.57
+27.75
+34.31
+108.46
+3.01
+0.56
+3.57
+112.04
+0.4
+1.3
+1.6
+0.8
+2.9
+5.9
+24.8
+30.6
+96.8
+2.7
+0.5
+3.2
+E
+B
+2
+0
+1
+9
+/
+1
+2
+7
+/
+R
+.
+3
+1
+/
+R
+e
+v
+.
+1
+Table 3
+Project costs by component and year
+(Millions of euros)
+Components/subcomponents
+Amount
+%
+Amount
+%
+Amount
+%
+Amount
+%
+Amount
+% Amount
+% Amount
+2020
+2021
+2022
+2023
+2024
+2025
+Total
+A. Agricultural productivity and production
+A.1. Access to inputs, equipment and advisory services
+A.2. Rural infrastructure
+Subtotal
+B. Value addition and marketing
+B.1. Strengthening value chain organizations
+B.2. Professionalization of rural microenterprises
+B.3. PAVAL
+Subtotal
+C. Coordination, M&E and knowledge management
+C.1. Coordination and management
+C.2. M&E and knowledge management
+8
+Subtotal
+Total
+1.4
+2.7
+4.1
+2.4
+7.3
+83.0
+92.8
+1.9
+1.3
+3.1
+0.65
+1.21
+1.86
+1.11
+3.34
+37.83
+42.28
+0.86
+0.57
+1.43
+45.57
+8.8
+61.3
+70.0
+3.3
+13.9
+10.1
+27.2
+1.8
+1.0
+2.8
+2.10
+14.66
+16.75
+0.78
+3.32
+2.42
+6.52
+0.42
+0.24
+0.66
+23.93
+11.4
+63.3
+85.8
+2.9
+12.2
+6.3
+21.5
+2.3
+1.5
+3.8
+3.10
+17.21
+23.30
+0.79
+3.32
+1.72
+5.83
+0.63
+0.41
+1.04
+27.17
+3.02
+31.9
+1.58
+42.7
+0.45
+20.6
+3.02
+31.9
+1.58
+42.7
+0.45
+20.6
+18.6
+35.3
+6.1
+60.0
+5.8
+2.3
+8.1
+1.76
+3.35
+0.58
+5.69
+0.55
+0.22
+0.77
+9.48
+0.58
+0.02
+15.7
+0.5
+0.28
+0.02
+12.8
+0.9
+0.60
+16.2
+0.30
+13.8
+34.6
+6.5
+41.1
+1.28
+0.24
+1.52
+3.70
+47.7
+17.9
+65.6
+1.04
+0.39
+1.43
+2.18
+10.90
+33.07
+43.97
+5.30
+13.37
+42.55
+61.22
+4.78
+2.07
+6.85
+112.04
+E
+B
+2
+0
+1
+9
+/
+1
+2
+7
+/
+R
+.
+3
+1
+/
+R
+e
+v
+.
+1
+EB 2019/127/R.31/Rev.1
+Disbursement
+55. To manage resource mobilization, a designated account by donor, denominated in
+local currency (CFA franc), will be opened at the Central Bank of West African
+States. Funds will be transferred from this account to an operating account opened
+in Bobo-Dioulasso. To facilitate the implementation of activities, a subaccount will
+be opened at the Gaoua branch. The PCU will receive the funds in accordance with
+the disbursement procedures set forth in the Letter to the Borrower. A
+disbursement plan will be prepared and updated monthly on a rolling quarterly
+planning basis.
+Summary of benefits and economic analysis
+56. The financial analysis shows that all the activities are profitable (see results by
+model below):
+Table 4
+Financial results
+Lowland rice production and market
+gardening
+Sesame production
+Cowpea production
+Market gardening
+Fish farming weirs
+Onion storage
+Business services
+Honey production and processing
+Fish farming in enclosures of 100 m2
+Shea collection and processing
+Moringa processing
+Financial
+internal rate of
+return (FIRR)
+NPV (8%,
+'000 CFAF)
+NPV (8%,
+EUR)
+NPV (8%,
+EUR) per
+household
+Benefit/
+cost ratio
+10%
+44%
+93%
+61%
+23%
+60%
+14%
+307%
+NA
+71%
+344%
+378
+273
+458
+576
+416
+698
+15 428
+23 518
+528
+1 152
+3 752
+2 138
+2 936
+17 137
+28 904
+803
+1 755
+5 720
+3 259
+4 476
+26 123
+44 061
+144
+208
+349
+2 352
+80
+176
+1 907
+3 259
+448
+1 045
+1 762
+1.1
+1.3
+1.4
+2.1
+1.1
+1.5
+1.1
+2.5
+1.7
+2.0
+1.5
+57. The financial analysis also shows that the project is profitable overall, although not
+all benefits have been taken into account. Based on the selected assumptions, the
+net present value (NPV) is CFAF 50 billion, i.e. EUR 76 million. The FIRR is
+23.9 per cent. About 66 per cent of the benefits are derived from activities under
+component A and 34 per cent under component B.
+58. A sensitivity analysis shows that the results are robust to an increase in costs of
+10 per cent and 25 per cent, a decrease in benefits of 10 per cent and 25 per cent
+(for example, in the event of drought or another climate event that lowers yields),
+a delay in the implementation of activities of one or two years and a decrease in
+the adoption rate. More serious impact would result in the event of a delay in
+benefits of two years and a decrease in the adoption rate of 25 per cent.
+9
+EB 2019/127/R.31/Rev.1
+Table 5
+Summary of sensitivity analysis
+Sensitivity analysis
+Baseline scenario
+Costs +
+Costs +
+Incomes
+Incomes
+-
+-
+Benefits delayed by one year
+Benefits delayed by two years
+Adoption rate -
+Adoption rate -
+Δ%
+10%
+25%
+10%
+25%
+10%
+25%
+Link to risk matrix
+NPV (8%)
+('000 CFAF)
+Economic internal
+rate of return (EIRR)
+Security problems (and increased
+security expenditure)
+Drought or other scenario lowering
+agricultural yields
+Delay in project start-up, security
+problems
+Insufficient support, poorly
+adapted techniques and materials
+50
+48
+45
+43
+33
+43
+35
+40
+25
+23.9%
+22.5%
+20.6%
+22.3%
+19.7%
+20.9%
+17.3%
+22.1%
+17.5%
+59. Moreover, if the benefits of PAVAL in Leraba are excluded – since part of the
+project costs are excluded from the financial and economic analysis – the resulting
+NPV is CFAF 22 billion (EUR 33 million). The EIRR is 15.6 per cent.
+Exit strategy and sustainability
+60. The project exit strategy is based on: (i) the capacities of professional
+organizations and their apex organizations; (ii) the CREER approach;
+(iii) promotion of technologies and farming systems adapted to financial capacities,
+with the possibility of using the services of financial institutions; and
+(iv) capacity-building for different types of beneficiaries. Finally, it is also based on
+the participation of technical services and national, public or private organizations
+providing advisory assistance and business development services.
+III. Risks
+A. Project risks and mitigation measures
+61. Risks and mitigation measures are outlined below and in annex 9 of the project
+design report.
+Table 6
+Project risks and mitigation measures
+Risks
+Level of risk after
+mitigation
+Mitigation measures
+Policy and governance
+Moderate
+- Participation with other technical and financial partners in policy dialogue
+Macroeconomic
+Sector strategies and
+policies
+Technical project
+design
+Institutional
+implementation
+capacity
+Low
+Low
+Low
+Moderate
+Fiduciary management
+Moderate
+Environmental and
+social
+Moderate
+- Participation with other technical and financial partners in policy dialogue
+- Contribution to achieving inclusive growth that creates jobs, reduces
+poverty and improves the environment for business and governance
+- Knowledge management
+- Support for preparation of strategies and policies
+-
+Institutional, organizational and technical capacity-building for
+participating ministries
+- Standardization of market access subprojects based on technical
+specifications
+- Rapid identification of sites and launch of technical studies and social
+and environmental assessments
+- Continuous capacity-building for management and implementation
+teams
+- Close monitoring of performance of PCU by IFAD and the Government
+- Continuous dialogue with the Ministry of Finance
+- Continuous training
+- Hydro-agricultural development, improved and adapted seed,
+implementation of mitigation and resilience measures
+- Promotion of innovative technologies (solar, water saving), promotion of
+agricultural insurance
+Security
+Moderate
+- Put in place security measures for field missions, and special
+arrangements for service providers
+10
+EB 2019/127/R.31/Rev.1
+62. Risk linked to AfDB cofinancing for PAVAL. The total area of the Leraba plain is
+1,410 ha, of which 410 are already developed and operational. Approximately 200
+ha are currently being developed with government funding for delivery in early
+2020. Accordingly, 610 ha of the total will be available to conduct development
+activities in 2020. With respect to the remaining 800 ha, 200 ha will be completed
+by June 2020 and 600 will be covered by a call for tenders to select the
+construction firm, with works to be completed by end-2020.
+B. Environment and social category
+63. The environmental risks related to developing the land, value chains and rural
+microenterprises have been identified and the social and security country risks will
+be mitigated.
+64. The project has been classified in environmental and social category B, in
+accordance with the application of thresholds and rules set forth in the Social,
+Environmental and Climate Procedures (SECAP).
+C. Climate risk classification
+65.
+In view of the smallholders’ high dependence on and vulnerability to climate
+conditions and climate change exposure in the four project regions during the
+coming 20 years, a climate risk category of high is proposed. The SECAP note will
+be used to perform a more detailed analysis.
+D. Debt sustainability
+66.
+In the latest update of the International Monetary Fund country report,8 the debt
+viability analysis confirms that the country’s risk of external debt distress remains
+moderate. Burkina Faso’s debt capacity has been revised upward and is considered
+high. The risk of public debt distress is also moderate.
+IV. Implementation
+A. Organizational framework
+Project management and coordination
+67. The Ministry of Agriculture and Hydro-Agricultural Development will provide
+technical oversight of PAFA-4R. The project will fall under budget line 077,
+agricultural economy, and will be coordinated by the PAPFA national coordination
+unit by delegation of the budget officer.
+68. To ensure effective financial execution, the Ministry of Agriculture and
+Hydro-agricultural Development will take a number of steps upon approval of the
+financing. Detailed information on financial management and disbursement are
+provided (annex 8 of the project design report, chapter III).
+69.
+70.
+Financial management, procurement and governance
+Financial management. The administrative and financial management procedures
+are set forth in the Letter to the Borrower and in the PAPFA project procedures
+manual, as updated and revised.
+Financial management of PAFA-4R will be based on a financial monitoring system
+comprising four pillars: (i) financial resources monitoring; (ii) budgetary
+monitoring; (iii) accounting monitoring; and (iv) financial and physical monitoring.
+71. Overall, the project financial management risk is deemed high at design, but will
+be mitigated by a number of measures to enable IFAD minimum requirements to
+be met under the applicable procedures and to provide accurate and regular
+information on financing status as required.
+8 International Monetary Fund Country Report No. 19/15, February 2019.
+(www.imf.org/~/media/Files/Publications/CR/2019/French/1BFAFA2019001.ashx).
+11
+EB 2019/127/R.31/Rev.1
+72. The project accounts and management will be audited annually by a qualified
+independent auditor recruited by the project and acceptable to IFAD. The audit
+reports will be transmitted to IFAD between four and six months after the end of
+the budget year, on risk of suspension of disbursements.
+73.
+Procurement. The works, goods and consulting services required for the project
+and funded out of its resources will be delivered in accordance with the prevailing
+procurement regulations in Burkina Faso, to the extent that such regulations are
+compatible with those of IFAD. The procurement methods employed will be
+consistent with the national framework. For amounts subject to public
+procurement, competitive bidding will be used. A procurement plan based on the
+annual workplan and budget will be prepared each year.
+74. Governance. PAFA-4R will apply the principles of good governance and
+transparency.
+B. Planning, monitoring and evaluation, learning, knowledge
+management and communication
+75. Monitoring and evaluation. The indicators are presented in the logical framework
+and the project will employ the M&E system set up by PAPFA, which is compliant
+with the requirements of the Government and IFAD.
+76. The project will facilitate participation of the Government in the Advancing
+Knowledge for Agricultural Impact initiative to improve operational planning of
+interventions in the agriculture sector and build M&E capacity with a view to
+achieving the SDGs.
+77.
+Learning and knowledge management. Knowledge management and
+communications will be guided by the joint strategy prepared under the
+Neer-Tamba and PAPFA projects, and will be reviewed and completed upon
+start-up of PAFA-4R.
+Innovation and scaling up
+78. Synergies and complementarities with PAPFA will generate learning to inform the
+strategic approach by combining soil and water management with value chain
+promotion.
+79.
+In terms of land tenure security, the PAPFA and PAFA-4R projects will apply the
+same provisions as the Neer-Tamba project. The complementary PReCA9 project
+being prepared by the World Bank to assist communes with setting up communal
+land tenure services could provide support around the land tenure clarification
+process. The PAPFA and PAFA-4R projects will follow these pilot activities, as well
+as AfDB activities in the Leraba plain.
+Communication strategy to raise IFAD’s profile among stakeholders and
+mitigate reputational risks
+80. Communication among actors based on sharing best practices and knowledge
+acquired will be encouraged by setting up thematic exchange groups, guided
+exchange visits, national and regional workshops, and other events.
+Improving transparency and beneficiary participation in planning and
+monitoring implementation of the project interventions
+81. To promote more active engagement by citizens and civil society, ownership of the
+project results and impact by beneficiaries will be promoted through transparency
+and accountability. IFAD, under the Green Grant initiative, proposes that
+US$1 million of the IFAD loan be converted to grant funding to strengthen
+participation in the project by citizens, particularly grass-roots organizations.
+9 Agriculture Resilience and Competitiveness Project.
+12
+EB 2019/127/R.31/Rev.1
+C.
+Implementation plans
+Implementation readiness and start-up plans
+82. As PAFA-4R was designed to develop complementarities with PAPFA by scaling up
+successful results, activities should commence quickly. A detailed budget of
+EUR 445,000 for pre-start-up activities was prepared well before project approval
+(see annex 11 of the project design report).
+83.
+Supervision, midterm review and completion plans
+IFAD will conduct the supervision and monitoring missions directly, with the
+participation of country representatives, at the rate of two supervision missions per
+year. To the extent possible, supervision will take place jointly with AfDB to ensure
+consistency in implementation. The midterm review will be conducted jointly by
+IFAD and the Government at the end of year three. The completion mission,
+together with a closing workshop, will be held with all stakeholders at the end of
+the project, to serve as a basis for the completion report.
+V. Legal instruments and authority
+84. A financing agreement between Burkina Faso and IFAD will constitute the legal
+instrument for extending the proposed financing to the Borrower for PAFA-4R.
+A copy of the negotiated financing agreement is attached in appendix I.
+85. Burkina Faso is empowered under its laws to receive financing from IFAD.
+86.
+I am satisfied that the proposed financing will comply with the Agreement
+Establishing IFAD and the Policies and Criteria for IFAD Financing.
+VI. Recommendation
+87.
+I recommend that the Executive Board approve the proposed financing in terms of
+the following resolution:
+RESOLVED: that the Fund shall provide a loan on highly concessional terms
+to Burkina Faso in an amount equivalent to fifty-one million four hundred
+thousand (EUR 51,400,000) and a grant under the Green Grant Initiative in
+an amount of eight hundred ninety thousand euros (EUR 890,000) for the
+PAFA-4R project, and upon such terms and conditions as shall be
+substantially in accordance with the terms and conditions presented herein.
+RESOLVED FURTHER: that the Fund shall provide a loan on highly
+concessional terms to Burkina Faso in an amount equivalent to eight million
+two hundred twenty thousand euros (EUR 8,220,000) in cofinancing for the
+PAVAL project, and upon such terms and conditions as shall be substantially
+in accordance with the terms and conditions presented herein.
+Gilbert F. Houngbo
+President
+13
+Appendix I
+EB 2019/127/R.31/Rev.1
+Accord de financement négocié
+Projet d'appui aux filières agricoles dans les régions du
+Sud-Ouest, des Hauts-Bassins, des Cascades et de la
+Boucle du Mouhoun
+(Négociations conclues le 3 septembre 2019)
+Prêt No: __________
+Don No: __________
+Nom du Projet: Projet  d'appui aux filières agricoles dans les régions  du Sud-Ouest, des
+Hauts-Bassins, des Cascades et de la Boucle du Mouhoun (PAFA-4R) ("le Projet")
+Le Burkina Faso ("l’Emprunteur/le Bénéficiaire")
+et
+Le Fonds international de développement agricole (le "Fonds" ou le "FIDA")
+(désignés individuellement par une “Partie” et collectivement par les “Parties”)
+ATTENDU QUE l’Emprunteur/le Bénéficiaire a sollicité du Fonds un Prêt et un Don pour
+le financement du Projet décrit à l’Annexe 1 du présent accord;
+CONSIDÉRANT que le Fonds a accepté de financer le Projet;
+PAR CONSÉQUENT, les parties conviennent de ce qui suit:
+Section A
+1.
+Le  présent  Accord comprend  l’ensemble  des  documents  suivants:  le  présent
+document, la description du Projet et les dispositions relatives à l’exécution (Annexe 1),
+le tableau d’affectation des fonds (Annexe 2) et les clauses particulières (Annexe 3).
+2.
+Les Conditions générales applicables au financement du développement agricole en
+date  du  29  avril  2009,  telles  qu'amendées  en  décembre  2018  et  toutes  éventuelles
+modifications  postérieures  ("les  Conditions  générales")  sont  annexées  au  présent
+document,  et  l’ensemble  des  dispositions  qu’elles  contiennent  s’appliquent  au  présent
+Accord.  Aux  fins  du  présent  Accord,  les  termes  dont  la  définition  figure  dans  les
+Conditions générales ont la signification qui y est indiquée.
+Le  Fonds  accorde  à 
+3.
+l’Emprunteur/au  Bénéficiaire  un  Prêt  et  un  Don
+(le "financement"),  que  l’Emprunteur/le  Bénéficiaire  utilise  aux  fins  de  l’exécution  du
+Projet conformément aux modalités et conditions énoncées dans le présent Accord.
+Section B
+1.
+A. Le montant du Prêt est de cinquante-et-un millions quatre cent mille euros
+(51 400 000 EUR).
+B. Le montant du Don est de huit cent quatre-vingt-dix mille euros (890 000 EUR).
+1
+Appendix I
+EB 2019/127/R.31/Rev.1
+Le Prêt est accordé à des conditions particulièrement favorables et exempt
+2.
+d’intérêts, mais supporte une commission de service de trois quarts de point (0,75%)
+l’an, exigible chaque semestre dans la monnaie de paiement des frais de service du Prêt.
+Le Prêt comporte un délai de remboursement de quarante (40) ans dont un différé
+d’amortissement de dix (10) ans à compter de la date d’approbation du Prêt par le
+Conseil d’administration du Fonds. Le Principal du Prêt sera remboursé à un taux de
+4,5% du montant total du Principal per annum à partir de l'année onze (11) et jusqu’à
+l'année trente (30), et à un taux de 1% du montant total du Principal per annum à partir
+de l'année trente-et-un (31) et jusqu'à l'année quarante (40).
+3.
+4.
+La monnaie de paiement au titre du service du Prêt est l'Euro.
+L’exercice financier débute le 1er janvier et se termine le 31 décembre.
+5.
+Prêt sont exigibles le 15 avril et le 15 octobre.
+Le remboursement  du  Principal  et  le  paiement  de  la  commission  de  service  du
+6.
+Un  compte  désigné  libellé  en  Francs  de  la  Communauté  Financière  Ouest
+(CFA) sera ouvert par l'Emprunteur/le Bénéficiaire auprès de la Banque
+Africaine
+Centrale des  États de l’Afrique de l’Ouest (BCEAO) pour l’utilisation exclusive du Projet.
+L’Emprunteur/le  Bénéficiaire  doit  informer  le  Fonds  sur  l'identité  des  fonctionnaires
+autorisés à exploiter le compte désigné.
+7.
+sous compte sera ouvert à l'antenne du PAFA-4R de Gaoua.
+Un  compte  d’opérations  libellé  en  Franc  CFA  sera  ouvert  à  Bobo-Dioulasso.  Un
+L’Emprunteur/le Bénéficiaire fournira des fonds de contrepartie aux fins du Projet
+8.
+d’un  montant  de  sept  millions  d’euros  (7  000 000  EUR)  sous  forme  d’exonération  de
+taxes  et  de  cinq  millions  d’euros  (5  000 000  EUR)  sous  forme  de  contribution
+décaissable.
+Section C
+1.
+L'agent principal du Projet est le Ministère de l'Agriculture et des Aménagements
+Hydro-agricoles  (MAAH)  en  tant  que  tutelle  technique.  Ce  dernier assumera  la
+responsabilité de l'exécution du Projet.
+2.
+Un  examen  à  mi-parcours  sera  effectué  conformément  aux  dispositions  des
+alinéas 8.03 (b) et (c) des Conditions générales. Toutefois, les parties peuvent convenir
+d'une date différente pour l'examen à mi-parcours de la mise en œuvre du Projet.
+3.
+La  date  d’achèvement  du  Projet  est  fixée  au  sixième  anniversaire  de  la  date
+d’entrée  en  vigueur  du  présent  Accord  et  la date  de  clôture  du  financement  du  Projet
+sera  6  mois  plus  tard,  ou  toute  autre  date  désignée  par  le  Fonds  par  notification  à
+l'Emprunteur/le Bénéficiaire. La date de clôture du financement sera fixée conformément
+aux Conditions Générales.
+4.
+L'acquisition de biens, travaux et services financés par l'Accord sera régie par le
+Code et les procédures en vigueur au Burkina Faso dans la mesure où ils sont conformes
+aux  Directives  pour  la  passation  des  marchés  relatifs  aux  projets  du  FIDA.  Un  plan  de
+passation des marchés basé sur le Plan de Travail et Budget Annuel sera élaboré chaque
+année. Ce plan spécifiera, entre autres, les méthodes de passation, les coûts estimatifs,
+l’échéancier.
+2
+Appendix I
+Section D
+EB 2019/127/R.31/Rev.1
+1.
+Le  Fonds  administrera  le  Prêt  et  le  Don  et  supervisera  le Projet,  et
+l'Emprunteur/le  Bénéficiaire  mettra  en  œuvre  et  assurera  sa  propre  administration  et
+supervision du Prêt, du Don et du Projet.
+Section E
+1.
+Les  éléments  ci-dessous  constituent  les  conditions  préalables  au  premier
+décaissement  et  s'ajoutent  à  la  condition  prévue  à  la  Section  4.02  b)  des  Conditions
+générales:
+a)
+b)
+c)
+d)
+e)
+Les arrêtés portant création: i) du PAFA-4R le rattachant au Comité de Revue;
+et ii) du Comité d'Orientation du Projet d'Appui à la Promotion des Filières
+Agricoles (PAPFA) ont été respectivement pris et amendés afin de refléter les
+spécificités du PAFA-4R.
+La non objection du FIDA à l'égard de la version amendée du Manuel de
+procédure de gestion administrative, financière et comptable du PAPFA afin de
+refléter les spécificités du PAFA-4R a été obtenue.
+Le personnel clé du Projet (le Coordonnateur, le Responsable administratif et
+financier et le Responsable Suivi-Évaluation et Gestion des savoirs) a été
+recruté conformément à la section II.10 de l'Annexe 1 du présent Accord.
+Le logiciel comptable du PAPFA est configuré afin de tenir compte des
+spécificités du PAFA-4R.
+Le compte désigné et les comptes d'opérations sont ouverts et les spécimens
+de signatures ont été envoyés au FIDA.
+2.
+motifs supplémentaires de suspension du présent Accord.
+Les  éléments  ci-dessous  et  ceux  décrits  à  l’Annexe  3  sont  désignés  comme
+a)
+b)
+Le Manuel de procédures de gestion administrative, financière et comptable,
+ou l’une de ses dispositions a été suspendu, résilié en tout ou partie, a fait
+l’objet d’une renonciation ou de toute autre modification sans le consentement
+préalable du Fonds, et le Fonds considère que ces évènements ont eu ou
+auront, vraisemblablement, un effet préjudiciable grave sur le Projet.
+Tout personnel clé du Projet tel que décrit dans le Manuel des procédures de
+gestion administrative, financière et comptable a été recruté, transféré ou
+retiré de ses fonctions sans l'accord préalable du FIDA.
+3.
+Le présent Accord est soumis à la ratification de l'Emprunteur/du Bénéficiaire.
+4.
+aux représentants dont le titre et l’adresse figurent ci-dessous:
+Toutes les communications ayant trait au présent Accord doivent être adressées
+Pour l’Emprunteur/le Bénéficiaire:
+Pour le Fonds:
+Le Ministre
+Ministère de l’Économie, des Finances
+et du Développement
+03 BP 7008 Ouagadougou 03
+Burkina Faso
+Le Président
+Fonds international de
+développement agricole
+Via Paolo di Dono 44
+00142 Rome, Italie
+3
+Appendix I
+EB 2019/127/R.31/Rev.1
+Le  présent  Accord  a  été  établi  en  langue  française  en  deux  (2)  exemplaires  originaux,
+un (1) pour le Fonds et un (1) pour l’Emprunteur.
+BURKINA FASO
+____________________
+Lassané KABORE
+Ministre de l'Économie, des Finances et du Développement
+Date: _________________
+FONDS INTERNATIONAL
+DE DEVELOPPEMENT AGRICOLE
+___________________
+Gilbert F. Houngbo
+Président
+Date: ______________
+4
+Appendix I
+EB 2019/127/R.31/Rev.1
+Annexe 1
+Description du Projet et Dispositions relatives à l’exécution
+I.
+Description du Projet
+1.
+Population  cible. Le  Projet  visera  l'ensemble  des acteurs  engagés  dans  les
+filières  visées  que  sont  le  riz,  le  maraichage,  le  sésame,  le  niébé,  la  pisciculture  et  les
+produits forestiers non-ligneux (PFNL): i) des petits exploitants agricoles travaillant dans
+les  filières  ciblées;  ii)  des  agro-entrepreneurs  et  métiers  connexes intervenant  tout  au
+long  des  filières  et  leurs  organisations,  dont  notamment  les  fournisseurs  d'intrants,  les
+fournisseurs  et  réparateurs  des  fournisseurs  agricoles,  les  transporteurs  et  leurs
+organisations. Le Projet ciblera environ 70 000 bénéficiaires directs appartenant à environ
+40 000 ménages. Le PAFA-4R ciblera en particulier les femmes et les jeunes (18-35 ans).
+2.
+Zone  d'intervention  du Projet.  Le  Projet  couvrira  la  zone  d'intervention  du
+PAPFA, à savoir les régions des Cascades, de la Boucle du Mouhoun et des Hauts-Bassins
+et interviendra également dans la région du Sud-Ouest.
+3.
+Finalité. La finalité du Projet est d'améliorer durablement la sécurité alimentaire
+et  les  revenus  des  exploitations  agricoles  intervenant  dans  la production  et  la
+valorisation de produits des filières soutenues par le Projet.
+4.
+Objectifs. L’objectif  du Projet  est  de  contribuer  à la  réduction  de la  pauvreté  et
+de stimuler la croissance économique dans les régions du Sud-Ouest, des Hauts-Bassins,
+des Cascades et de la Boucle du Mouhoun.
+5.
+Composantes. Le Projet comprendra trois composantes:
+5.1.
+composante A est divisée en deux sous composantes.
+Composante  A. Amélioration  de  la  productivité  et  la  production  agricole. La
+5.1.1. Sous-composante  A.1. Accès aux  intrants,  au  matériel  et  au  conseil  agricole.
+Cette sous-composante visera l'amélioration significative des rendements des cultures et
+élevage  (apiculture  et  pisciculture)  ciblés  par  la  promotion  de  l'accès:  i)  aux  intrants
+(semences  certifiées,  plants,  engrais,  géniteurs  ou  alevins,  aliments)  selon  des
+itinéraires  techniques  raisonnés;  ii)  aux  équipements;  iii)  au  conseil  technique  de
+qualité;  et  iv)  aux  innovations  dont  les  intrants  biologiques  et  leur  diffusion  en  milieu
+paysan. Des mesures d’accompagnement seront mises en place notamment en matière
+d'intégration  du  genre,  d’alphabétisation  fonctionnelle,  d'éducation  nutritionnelle  et
+environnementale (changements climatiques).
+5.1.2. Sous-composante  A.2. Infrastructures  rurales.  Cette  sous-composante  visera  la
+valorisation  de  la  ressource  en  terre  et  en  eau  dans  une  démarche  d'intégration  et  de
+diversification des activités. Les interventions se concentreront au niveau des bas-fonds
+à vocation rizicole, des périmètres maraîchers pouvant être équipés de forage, des petits
+barrages existants mais faiblement valorisés et des sources artésiennes.
+5.2.
+Composante B. Appui à l'amélioration de la valorisation et à la commercialisation
+des produits agricoles, à travers l'engagement des citoyens. Cette composante aura pour
+objectif d’appuyer  la  structuration  des  chaines  de  valeur  et  l’augmentation  de  la  valeur
+ajoutée  pour  les  produits  agricoles  ciblés  (riz,  maraichage,  niébé,  sésame)  et  les  PNFL
+(miel,  karité, moringa,  etc…)  en  soutenant  en  particulier des  microentreprises  rurales
+(MER), y compris celles qui fournissent des services en amont et en aval de la chaine de
+production. Cette composante est divisée en deux sous-composantes.
+5.2.1. Sous-composante  B.1. Renforcement  des  organisations  de  filières. Cette
+sous-composante transversale construira les interactions entre les acteurs des filières, de
+la  production  à  la  consommation.  La  sous-composante  comprendra  les  volets  suivants:
+i) la promotion de la contractualisation entre les organisations paysannes  faitières dans
+5
+Appendix I
+EB 2019/127/R.31/Rev.1
+les  filières  ciblées;  ii)  la  promotion  de  la  contractualisation  entre  les organisations
+paysannes  de  base impliquées  dans  les sous-projet  d’accès  aux  marchés et  les
+commerçants;  iii)  la  préparation  et  la  mise  en  œuvre  d’une  approche  qualité;
+iv)  la  contractualisation  selon  les  modèles  de  partenariats  public-privé,  en  particulier
+pour les PFNL; v) l’appui aux investissements structurants le long des filières ciblées afin
+de résoudre les contraintes clés; vi) l'identification des produits financiers appropriés et
+adaptés, et la digitalisation des chaines de valeur sélectionnées.
+Sous-composante  B.2. Professionnalisation  des  MER. Cette  sous-composante
+5.2.2
+visera la prestation de services et la valorisation des produits agricoles par des MER dans
+les  filières  ciblées.  L’objectif  sera  d’appuyer  des  MER  individuelles  et  collectives,  dont
+plus  de 50% à  destination  des  femmes  et  des  jeunes.  Cette  sous-composante  visera
+donc:
+i)  la  professionnalisation  des  MER;  ii)  le  développement  de  l'offre  de  services  par  les
+Centres de ressources en entreprenariat rural (CREER); iii) le financement des MER. Les
+MER  continueront  à  bénéficier  de  l’appui  méthodologique  et  technique  de  la  Maison  de
+l’entreprise  du  Burkina  Faso  (MEBF)  et  de  la  Direction  Générale  de  la  Promotion  de
+l’Économie  rurale  (DGPER)  qui  elles  aussi,  bénéficieront  sous  forme  de  convention,  de
+l’accompagnement du Projet.
+5.3.
+Composante  C. Coordination,  suivi-évaluation  et  gestion  des  savoirs. Cette
+composante  couvre  l'ensemble  des  dispositifs  de  planification  et  de  coordination
+opérationnelle,  de  gestion  administrative  et 
+suivi-évaluation,
+communication et gestions des savoirs.
+fiduciaire,  de 
+II.
+Dispositions relatives à l'exécution
+6.
+Organisation  et  gestion  du  Projet. Le  Ministère  de  l’Agriculture  et  des
+Aménagements  Hydro-agricoles  (MAAH)  sera  le  ministère  de  tutelle  technique  du
+PAFA-4R et assumera la responsabilité de l'exécution du Projet.
+7.
+Comité de Revue (CR).
+Composition. Il sera créé au sein du programme budgétaire "077" - "Économie
+a)
+agricole" du MAAH - un CR qui sera l'organe d'orientation et de pilotage du Projet. La
+présidence du CR sera assurée par le Secrétaire général du MAAH et le secrétariat par le
+Responsable du Programme budgétaire. Le Comité sera composé d'un représentant du
+Cabinet du Ministre, de Directeurs Généraux ou de leurs représentants (des Études et des
+Statistiques sectorielles, de l'Économie et de la Planification, du budget, de la Coopération,
+des Aménagements hydrauliques et du Développement de l'Irrigation, du Foncier, de la
+Formation et de l'Organisation du Monde Rural, des Productions végétales); le Directeur du
+le Directeur de
+Contrôle des Marchés publics et des Engagements
+l'administration et des finances du MAAH, le Secrétaire Exécutif du Conseil National de
+Sécurité Alimentaire; le Secrétaire Permanent de la Coordination des Politiques Sectorielles
+Agricoles, les coordonnateurs de projets du programme budgétaire et le Président de la
+Chambre Nationale d'Agriculture (ou de leurs représentants) ainsi que des membres
+observateurs représentants des partenaires techniques et
+le
+Directeur de la Coordination des Projets et Programmes et le Directeur des Marchés
+Publics du MAAH.
+financiers concernés,
+financiers,
+Responsabilités. Le CR se réunira deux fois par an en sessions ordinaires et aura
+b)
+notamment
+les fonctions suivantes: i) examiner et adopter les différents rapports
+d'évaluation du Projet; ii) examiner et adopter les programmes d'activités annuels, les
+les plans de passation des marchés; ou encore iii) de faire des
+budgets et
+recommandations à l'attention du chargé/chef de projet et des différents partenaires
+intervenant dans la vie du Projet.
+6
+Appendix I
+EB 2019/127/R.31/Rev.1
+8.
+Comité d'Orientation (CO).
+Composition. Il est créé au sein du MAAH, un CO qui sera chargé d'examiner les
+a)
+documents et rapports de travail avant
+leur soumission pour adoption au CR. La
+présidence du CO sera assurée par le Directeur Général de la Promotion de l'Économie
+Rurale ou son représentant. Le Comité sera composé de Directeurs Régionaux de la zone
+d'intervention du projet ou leurs représentants (de l'Économie, de la Planification, de
+l'Agriculture, et des Aménagements Hydro-agricoles);
+les Présidents des Conseils
+Régionaux de la zone d'intervention, du Directeur du Suivi et de la Coordination des
+Projets et des Programmes de la Direction Générale des Études et des Statistiques
+sectorielles du MAAH (ou de leurs représentants), un représentant de la Maison de
+l'Entreprise du Burkina Faso; de la Chambre National d'Agriculture; de chaque filière
+promues par le Projet, de la Confédération paysanne du Faso; des Présidents de
+l'Association des Municipalités du Burkina Faso, ainsi que des représentants de
+Organisations Professionnelles de transformation par
+filières ciblées dans la zone
+d'intervention du projet. Des membres observateurs feront également partie du CO avec
+des représentants des Institutions de Microfinance, des ONG et Associations intervenant
+dans chaque filière promue par le projet; du Secrétariat Permanent des ONG; du
+Groupement d'Intérêt Économique des CREER ainsi que des projets et programmes
+intervenant dans chaque filière ciblées par le Projet.
+Responsabilités. Le CO se réunira une fois par an en session ordinaire et autant de
+b)
+fois que nécessaire en sessions extraordinaires. Il sera en charge d'examiner: i) le plan
+global du Projet; ii) les différents rapports d'activités et d'évaluation du Projet; iii) les
+programmes d'activités annuels; et iv) tout dossier soumis à son appréciation relative à
+l'exécution du Projet.
+9.
+Unité  de  coordination  du  Projet  (UCP). La  coordination  sera  confiée  à  l’UCP
+nationale du PAPFA ainsi qu'aux deux Unités de coordination régionales (UCR) du PAPFA,
+basées à Bobo-Dioulasso et Dédougou et à une troisième UCR, qui sera mise en place à
+Gaoua.
+a)
+Composition. L'UCP sera composée de: i) un Coordonnateur, ii) un Responsable
+administratif et financier; iii) un Responsable en suivi-évaluation et gestion des savoirs;
+iv) un Responsable en passation des marchés; v) un spécialiste en pisciculture; et vi) un
+spécialiste en produits forestiers. L’équipe sera assistée par un comptable PAPFA, un
+assistant comptable et le personnel d'appui nécessaire (chauffeur, logistique, secrétaire
+et gardiens).
+Les  UCR seront  composés  de:  i)  un  coordinateur  régional;  ii)  un  chargé  des
+infrastructures  rurales;  iii)  un  agronome;  iv)  un  spécialiste  en  développement  des
+entreprises;  et  v)  un  chargé  de  suivi-évaluation  et  gestion  des  savoirs  et  de  personnel
+d'appui.
+en
+aura
+L’UCP
+Responsabilités.
+la
+b)
+contractualisation avec les prestataires et le suivi des contrats, la gestion des ressources
+et du patrimoine, le suivi-évaluation et la gestion des savoirs, la conduite d’études, les
+relations avec l’État, les partenaires techniques et financiers du Fonds et les institutions
+partenaires. Elle disposera d’une autonomie de gestion administrative et financière, de
+programmation et de budgétisation. L’UCP sera responsable de la mise en œuvre
+administrative et financière du Projet ainsi que de sa stratégie d’intervention.
+coordination
+générale,
+charge
+la
+Système  de  Suivi-Évaluation  (SSE). Le  PAFA-4R  s'appuiera  sur  le  SSE  mis  en
+10.
+place  pour  le  PAPFA.  Il  sera  utilisé  comme  un  outil  d'aide  à  la  prise  de  décisions  aux
+différents  niveaux  d'exécution  du  Projet. Le  SSE  permettra  de  vérifier 
+l'état
+d'avancement  du  Projet,  l'atteinte  des  produits  et  effets  escomptés,  l'impact  des
+interventions  sur 
+liste  d'indicateurs
+les  groupes  cibles  et  de  renseigner  une 
+conformément  au  Système  de  mesures  des  résultats  opérationnels  développé  par  le
+FIDA.  Le  SSE  du  PAFA-4R  comprend  un  suivi  interne  permanent  des  activités  réalisées
+un
+avec 
+contribution 
+partenaires 
+des 
+et 
+la 
+7
+Appendix I
+EB 2019/127/R.31/Rev.1
+suivi-évaluation  externe  ponctuel  et  périodique  réalisé  sur  la  base  d'enquêtes  et
+d'études. Un Cadre logique et un Cadre de mesure des résultats ont été élaborés pour le
+PAFA-4R.
+11.
+Recrutement et gestion du personnel. L’ensemble du personnel sera recruté sur
+concours donnant lieu à des appels publics à candidature (approuvés ex-ante par le FIDA
+pour  le  personnel  technique).  Pour  le  personnel  clé  les  résultats  du  processus  de
+sélection devront être validés par le Fonds. Pour le personnel déjà sous contrat avec une
+autre  structure,  des  modalités  de  mise  à  disposition  (fonctionnaires)  ou  de  prêt
+remboursable (ONG, Bureau d’étude, etc.) pourront être envisagées. Dans tous les cas,
+ces personnes seront placées  sous l’autorité exclusive du Projet.  Les contrats de travail
+seront des contrats de salarié et non des contrats de prestation de services. Initialement
+prévus pour une durée d’un an, hors période d’essai, ils deviendront de droit, en cas de
+renouvellement successifs, des contrats à durée indéterminée. Les indemnités et frais de
+licenciement  potentiels  devront  faire  chaque  année  l’objet  d’une  inscription  budgétaire.
+Les bulletins mensuels de salaire préciseront les contributions respectives de l’employeur
+et  du  salarié  au  système  de  protection  sociale  ainsi  que  les  retenues  effectuées  à  la
+source  pour  paiements  d’impôts  dus  par  le  salarié  et  l’employeur.  Une  évaluation
+objective du personnel sera réalisée annuellement. Elle servira de base aux décisions de
+renouvellement ou de dénonciation des contrats.
+12.
+Examen  à  mi-Parcours.  Le  MAAH  et  le  Fonds  procèderont  conjointement  à  un
+examen  de  l'exécution  du Projet  au  plus  tard  à  la  moitié  de  la  période  d'exécution  du
+Projet sur la base de termes de mandat établis par le MAAH et approuvés par le Fonds.
+Cet  examen  permettra  d'apprécier  notamment,  la  réalisation  des  objectifs  du  Projet  et
+les  difficultés  rencontrées  et,  de  recommander  les  réorientations  qui  s'avéreraient
+nécessaires pour atteindre ces objectifs et résoudre les difficultés.
+13.
+Manuel  des  procédures  de  gestion  administratives,  financières  et  comptables.
+Mise à jour du Manuel: Le MAAH mettra à jour le Manuel des procédures administratives,
+financières  et  comptables  du  PAPFA.  Ce  Manuel  inclura  entre  autres:  i)  la  coordination
+institutionnelle  courante  du  Projet;  ii)  le  budget,  les  procédures  de  décaissement,  de
+passation  des  marchés,  de  surveillance  et  d'évaluation,  de  gestion  financière  et  de
+rapport;  iii)  les  procédures  de  recrutement  du  personnel  clé  du  Projet  ou  de  toute
+assistance  technique;  iv)  une  description  détaillée  des  modalités  de  mise  en  œuvre  du
+Projet; 
+et
+v)  toutes  autres  procédures  ou  modalités  administratives,  financières  ou  techniques
+requises par le Projet.
+Approbation et adoption: Le MAAH adressera un projet de Manuel amendé au FIDA pour
+commentaire et approbation. Le Manuel adopté suite à l’approbation du FIDA ne pourrait
+pas  faire  l’objet  de  modification  ou  d’abrogation  sans  l'accord  écrit  préalable  du  Fonds.
+8
+Appendix I
+EB 2019/127/R.31/Rev.1
+Annexe 2
+Tableau d’affectation des fonds
+Affectation  du  produit  du Prêt  et  du  Don. a) Le tableau  ci-dessous  indique  les
+1.
+catégories de dépenses admissibles à un financement sur le produit du Prêt et du Don, le
+montant du Prêt et du Don affecté à chaque catégorie et la répartition en pourcentage des
+dépenses à financer pour chacun des postes des différentes catégories:
+Catégories de
+dépenses
+Montant alloué
+au titre du Prêt
+(en Euro)
+Montant alloué
+au titre du Don
+(en Euro)
+Pourcentage des
+dépenses autorisées
+à financer
+I.
+Travaux
+20 400 000
+II.
+Équipements et
+matériels
+800 000
+III. Subventions et
+700 000
+dons
+-
+-
+-
+IV.
+Biens, services
+et intrants
+21 300 000
+810 000
+100% HT hors
+contribution des
+bénéficiaires et
+gouvernement
+100% HT hors
+contribution du
+gouvernement
+100% hors
+contribution des
+bénéficiaires
+100% hors
+contribution des
+bénéficiaires et
+gouvernement
+V.
+Salaires et
+indemnités
+3 200 000
+-
+100%
+Non Alloué
+5 000 000
+80 000
+TOTAL
+51 400 000
+890 000
+2.
+Les termes utilisés dans le tableau ci-dessus se définissent comme suit:
+i)
+ii)
+Les dépenses relatives à la catégorie II – Équipements et matériels,
+incluent également les dépenses liées aux véhicules.
+Les dépenses relatives à la catégorie IV – Biens, services et intrants,
+incluent également les dépenses liées aux Services de Consultants et aux
+formations, ateliers et séminaires.
+iii)
+Les dépenses relatives à la catégorie V – Salaires et indemnités, incluent
+également les dépenses liées aux Coûts de fonctionnement.
+9
+Appendix I
+EB 2019/127/R.31/Rev.1
+Annexe 3
+Clauses particulières
+Conformément aux dispositions de la section 12.01 a) xxiii) des Conditions générales, le
+Fonds  peut  suspendre,  en  totalité  ou  en  partie,  le  droit  de l'Emprunteur/du  Bénéficiaire
+l'Emprunteur/le
+de  solliciter  des  retraits  du  compte  du Prêt  et  du  Don du  Fonds  si
+Bénéficiaire n’a  pas  respecté  l'une  quelconque  des  clauses  énoncées  ci-dessous,  et  si  le
+FIDA  a  établi  que  ladite  défaillance  a  eu,  ou  risque  d'avoir,  un  effet  préjudiciable
+important sur le Projet:
+1.
+Recrutement du personnel. La  sélection du personnel du Projet se fera par voie
+d’appel d’offres national publié dans la presse nationale selon les procédures actuelles de
+l’Emprunteur/Bénéficiaire,  excluant  toute  discrimination  et  acceptable  par  le  Fonds.  Un
+cabinet  indépendant  expérimenté  sera  recruté  par  le  MAAH  pour  l’assister  dans  la
+sélection  du  personnel  du  Projet  (dont  les  techniciens).  Les  contrats  seront  établis
+conformément à la législation en vigueur sur le territoire de l’Emprunteur/du Bénéficiaire.
+Le recrutement  du  personnel,  et  le  cas  échéant,  la  décision  de  rompre  leur  contrat,
+seront  décidés  en  accord  avec  le  Fonds.  Le  personnel  du  Projet  sera  soumis  à  des
+évaluations  de  performances  organisées  annuellement.  Il  pourra  être  mis  fin  à  leur
+contrat  en fonction  des  résultats  de  ces  évaluations.  Le  recrutement  et  la  gestion  du
+personnel  d’appui  seront  soumis  aux  procédures  en  vigueur  sur  le  territoire  de
+l’Emprunteur/du Bénéficiaire.
+2.
+Égalité.  Toute  discrimination  fondée  sur  le  sexe,  l’âge,  l’appartenance  ethnique
+ou  religieuse  ne  sera  pas  admissible  lors  du  recrutement  du  personnel  du  Projet,
+conformément  aux  lois  en  vigueur  sur  le  territoire  de  l'Emprunteur/du  Bénéficiaire.
+Cependant,  l'Emprunteur/le  Bénéficiaire  s’engage,  à  compétence  égale,  à  privilégier  les
+candidatures de femmes et de jeunes dans le cadre du Projet.
+3.
+Planification,  suivi  et  évaluation.  L'Emprunteur/le  Bénéficiaire  veillera  à  ce  que:
+i) un système de planification, suivi et évaluation soit mis en place dans les douze (12)
+mois à compter de la date d'entrée en vigueur du présent Accord.
+4.
+Conformité aux procédures d'évaluation sociale, environnementale  et climatique
+(SECAP).  L'Emprunteur/le  Bénéficiaire  veillera  à  ce  que  le  Projet  soit  mis  en  œuvre
+conformément au SECAP du FIDA.
+5.
+Mesures  anticorruption.  L'Emprunteur/le  Bénéficiaire  doit  se  conformer  à  la
+politique du FIDA en matière de prévention de la fraude et de la corruption dans le cadre
+de ses activités et opérations.
+6.
+s'assurer que:
+Utilisation  des  véhicules  du  Projet  et  autres  équipements. L'Emprunteur  doit
+a)
+b)
+c)
+tous les véhicules et autres équipements achetés dans le cadre du Projet sont
+affectés aux Unités de gestion du projet pour sa mise en œuvre;
+les types de véhicules et autres équipements achetés dans le cadre du Projet
+sont adaptés aux besoins du Projet; et
+tous les véhicules et autres équipements transférés ou achetés dans le cadre du
+Projet sont exclusivement destinés à une utilisation pour le Projet.
+10
+Appendix I
+EB 2019/127/R.31/Rev.1
+Prêt No: __________
+Nom  du  Projet:  Projet  d’aménagement  et  de  valorisation  de  la  plaine  de  la  Léraba
+(PAVAL) ("le Projet")
+Le Burkina Faso ("l’Emprunteur")
+et
+Le Fonds international de développement agricole (le "Fonds" ou le "FIDA")
+(désignés individuellement par une "Partie" et collectivement par les "Parties")
+ATTENDU QUE l’Emprunteur  a  sollicité  du  Fonds  un  Prêt  pour  le  financement  du  Projet
+décrit à l’Annexe 1 du présent Accord;
+CONSIDÉRANT que le Fonds a accepté de financer le Projet;
+PAR CONSÉQUENT, les parties conviennent de ce qui suit:
+Section A
+1.
+Le  présent  Accord  comprend  l’ensemble  des  documents  suivants:  le  présent
+document, la description du projet et les dispositions relatives à l’exécution (Annexe 1),
+le tableau d’affectation des fonds (Annexe 2) et les clauses particulières (Annexe 3).
+2.
+Les Conditions générales applicables au financement du développement agricole
+en  date  du  29  avril  2009,  telles  qu'amendées  en  décembre  2018  et  toutes  éventuelles
+modifications  postérieures  ("les  Conditions  générales")  sont  annexées  au  présent
+document,  et  l’ensemble  des  dispositions  qu’elles  contiennent  s’appliquent  au  présent
+Accord.  Aux  fins  du  présent  Accord,  les  termes  dont  la  définition  figure  dans  les
+Conditions générales ont la signification qui y est indiquée.
+3.
+Le  Fonds  accorde  à  l’Emprunteur  un  Prêt  (le  "financement”),  que  l’Emprunteur
+utilise  aux  fins  de  l’exécution  du  Projet  conformément  aux  modalités  et  conditions
+énoncées dans le présent Accord.
+Section B
+1.
+(8 220 000 EUR).
+Le montant du  Prêt  est  de  huit  millions  deux  cent  vingt  mille  Euros
+2.
+Le  Prêt  est  accordé  à  des  conditions  particulièrement  favorables  et  exempt
+d’intérêts,  mais  supporte  une  commission  de  service  de  trois  quarts  de  point  (0,75%)
+l’an, exigible chaque semestre dans la monnaie de paiement des frais de service du Prêt.
+Le  Prêt comporte  un  délai  de  remboursement  de  quarante  (40)  ans  dont  un  différé
+d’amortissement  de  dix  (10)  ans  à  compter  de  la  date  d’approbation  du  Prêt  par  le
+Conseil  d’administration  du  Fonds.  Le  Principal  du  Prêt  sera  remboursé  à  un  taux  de
+4,5%  du  montant  total  du  Principal  per  annum  à  partir  de  l'année  onze  (11)  et  jusqu’à
+l'année trente (30), et à un taux de 1% du montant total du Principal per annum à partir
+de l'année trente-et-un (31) et jusqu'à l'année quarante (40).
+3.
+4.
+La monnaie de paiement au titre du service du Prêt est l'Euro.
+L’exercice financier débute le 1er janvier et se termine le 31 décembre.
+11
+Appendix I
+EB 2019/127/R.31/Rev.1
+5.
+Prêt sont exigibles le 15 avril et le 15 octobre.
+Le  remboursement  du  Principal  et  le  paiement  de  la  commission  de  service  du
+Un  compte  désigné  libellé  en  francs  de  la  Communauté  Financière  Ouest
+6.
+Africaine (CFA) sera ouvert par l'Emprunteur auprès de la Banque Centrale des États de
+l’Afrique  de  l’Ouest  (BCEAO)  pour  l’utilisation  exclusive  du  Projet.  L’Emprunteur  doit
+informer  le  Fonds  sur  l'identité  des  fonctionnaires  autorisés  à  exploiter  le  compte
+désigné.
+7.
+dans la Lettre de Nomination signée avec la Banque africaine de développement (BAD).
+L'Emprunteur recevra les fonds selon les procédures de décaissement prescrites
+Section C
+1.
+L'agent principal du Projet est le Ministère de l'Agriculture et des Aménagements
+Hydro-agricoles (MAAH)  en  tant  que  tutelle  technique.  Ce  dernier assumera  la
+responsabilité de l'exécution du Projet.
+2.
+Un  examen  à  mi-parcours  sera  effectué  conformément aux  dispositions  des
+alinéas 8.03 (b) et (c) des Conditions générales. Toutefois, les parties peuvent convenir
+d'une date différente pour l'examen à mi-parcours de la mise en œuvre du Projet.
+3.
+La  date  d’achèvement  du  Projet  est  fixée  au  sixième  anniversaire  de  la  date
+d’entrée en vigueur du présent Accord et la date de clôture du financement sera 6 mois
+plus  tard,  ou  toute  autre  date  désignée  par  le  Fonds  par  notification  à  l'Emprunteur.  La
+date de clôture du financement sera fixée conformément aux Conditions générales.
+4.
+L'acquisition de biens, travaux et services financés par l'Accord sera régie par le
+Code et les procédures en vigueur au Burkina Faso dans la mesure où ils sont conformes
+aux  Directives  pour  la  passation  des  marchés  relatifs  aux  projets  de  la  BAD  dont  le
+présent  financement  intervient  à  titre  de  cofinancement  du  FIDA  au  PAVAL.  Un  plan  de
+passation des marchés basé sur le Plan de Travail et Budget Annuel sera élaboré chaque
+année. Ce  plan  spécifiera,  entre  autres,  les  méthodes  de  passation,  les  coûts  estimatifs
+et l’échéancier.
+Section D
+1.
+La BAD administrera le Prêt et supervisera le Projet conjointement avec le Fonds, et
+l'Emprunteur  mettra  en  œuvre  et  assurera  sa  propre  administration  et  supervision  du
+Prêt du Projet.
+Section E
+1.  Les  éléments  ci-dessous  et  ceux  décrits  à  l’Annexe  3  sont  désignés  comme  motifs
+supplémentaires de suspension du présent Accord.
+a)
+b)
+Le Manuel de procédures administratives, financières et comptables, ou l’une
+de ses dispositions, a été suspendue, résiliée en tout ou partie, a fait l’objet
+d’une renonciation ou de toute autre modification sans le consentement
+préalable de la BAD, et le Fonds considère que ces évènements ont eu ou
+auront, vraisemblablement, un effet préjudiciable grave sur le Projet.
+Tout personnel clé du Projet (le Coordonnateur, le Responsable administratif et
+financier et le Chargé de suivi-évaluation) tel que décrit dans le Manuel des
+Procédures administratives a été recruté, transféré ou retiré de ses fonctions
+sans l'accord préalable de la BAD.
+12
+Appendix I
+EB 2019/127/R.31/Rev.1
+Les  éléments  suivants  constituent  des  conditions  additionnelles  générales
+2.
+préalables aux retraits:
+a)
+L’entrée en vigueur de l'Accord entre le Burkina Faso et la Banque Africaine de
+Développement pour le PAVAL.
+b)
+La signature de la Lettre de Nomination avec la BAD.
+c)
+d)
+La non objection de la BAD à l'égard du Manuel de procédure de gestion
+administrative, financière et comptable du Projet.
+Le personnel clé du Projet a été recruté conformément à l'Annexe 3 du présent
+Accord.
+Toutes  les  communications  ayant  trait  au  présent  Accord  doivent  être  adressées
+3.
+aux représentants dont le titre et l’adresse figurent ci-dessous:
+Pour l’Emprunteur
+Le Ministre
+Ministère de l’Économie, des Finances
+et du Développement
+03 BP 7008 Ouagadougou 03
+Burkina Faso
+Pour le Fonds:
+Le Président
+Fonds international de développement agricole
+Via Paolo di Dono 44
+00142 Rome, Italie
+Copie à:
+M. Mouldi Tarhouni
+Chef de Division agriculture eau et assainissement
+et social pour l'Afrique de l'Ouest
+Banque africaine de développement
+Abidjan, Côte d'Ivoire
+13
+Appendix I
+EB 2019/127/R.31/Rev.1
+Le présent Accord, a été établi en langue française en deux (2) exemplaires originaux, un
+(1) pour le Fonds et un (1) pour l’Emprunteur.
+BURKINA FASO
+____________________
+Lassané KABORE
+Ministre de l'Économie, des Finances et du Développement
+Date: _________________
+FONDS INTERNATIONAL
+POUR LE DEVELOPPEMENT AGRICOLE
+___________________
+Gilbert F. Houngbo
+Président
+Date: ______________
+14
+Appendix I
+EB 2019/127/R.31/Rev.1
+Annexe 1
+Description du Projet et Dispositions relatives à l’exécution
+I.
+Description du Projet
+1.
+Zone et modalités d'intervention. Les interventions du Projet d'Appui aux Filières
+Agricoles  dans  les  régions  du  Sud-Ouest,  des  Hauts-Bassins,  des  Cascades  et  de  la
+Boucle  du  Mouhoun  (PAFA-4R)  seront  concentrées  dans  des  zones  vulnérables  à  la
+pauvreté ayant le potentiel nécessaire pour devenir des micro-pôles  économiques sur la
+base des filières ciblées par le Projet. La plaine de la Léraba constituera un micro-pôle de
+développement  appuyé  par  le  PAFA-4R  pour  les  aspects  de  mise  en valeur et  de
+développement des filières. La zone d’intervention est décrite en détail dans le document
+de projet du PAVAL.
+Dans ce micro-pôle de développement, l’appui du PAFA-4R concerne le financement des
+activités  d’appui  à  la  production  et  de  valorisation  (commercialisation,  transformation),
+selon ses modalités techniques d'intervention, dans le cadre d’un cofinancement parallèle
+avec la BAD.
+2.
+Groupe cible. Il est estimé que les activités financées par le FIDA dans le cadre
+du  PAVAL  bénéficieront  à  11  425  bénéficiaires  directs  appartenant  à  environ
+6 000 ménages à travers le développement des filières et la création ou la consolidation
+de microentreprises rurales.
+Finalité. La finalité du Projet est d'améliorer durablement la sécurité alimentaire
+3.
+et les revenus des exploitations agricoles intervenant dans la production et la valorisation
+de produits des filières soutenues par le Projet.
+4.
+Activités financées. Il s’agit d’un appui au PAVAL pour: i) le développement des
+infrastructures  de  stockage,  de  commercialisation  et  de  transformation,  la  construction
+d’un  comptoir  de  vente  équipé  et  doté  de  bureaux  pour  l’union  des  producteurs  de  la
+vallée;  ii)  l’appui-conseil  aux  producteurs  et  à  la  structuration  des  organisation
+paysannes;  iii)  l’appui  à  l’accès  aux  intrants  (semences  certifiées,  engrais  de  qualité,
+produits phytosanitaires homologués) et à l’équipements agricoles; iv) la gestion de l’eau
+et  des  sols;  et  v)  le  développement  de  l’agrobusiness  (installation  de  jeunes
+entrepreneurs; facilitation d’échanges et de contractualisation entre les opérateurs; appui
+aux métiers para-agricoles; appui à la mise en marché des produits). Ces activités seront
+mises en œuvre par l’unité de gestion du PAVAL suivant les procédures de la BAD et les
+modalités qui seront arrêtées dans la Lettre de Nomination entre le FIDA et la BAD.
+II. Dispositions relatives à l'exécution
+5.
+Organisation  et  gestion  du  Projet. Le  Ministère  de  l’Agriculture  et  des
+Aménagements Hydro-agricoles (MAAH) sera le ministère de tutelle technique du PAVAL.
+Unité  de  gestion  du  Projet  (UGP). La  coordination  sera  confiée  à  l'Unité  de
+6.
+gestion du Projet PAVAL existante présentement en charge de la restructuration et de la
+mise en valeur de la plaine aménagée de Niofila-Douna (PRMV/ND).
+Composition de l’UGP. Le projet sera exécuté sous la responsabilité du Ministère
+7.
+de l’Agriculture et des Aménagements Hydro-agricoles (MAAH) et rattaché au programme
+budgétaire  "075",  intitulé  "Aménagements  hydro-agricoles  et  irrigation".  À  ce  titre,  le
+Responsable  du  programme  budgétaire  est  de  fait  le  Coordonnateur  du  Projet.  Il  sera
+appuyé par l’unité existante du programme de restructuration et de mise en valeur de la
+plaine  aménagée  de  Niofila-Douna  (PRMV/ND)  qui  fait  partie  de  la  plaine  de  la  Léraba.
+Cette Unité sera renforcée par du personnel complémentaire dans le cadre de la mise en
+suivants:  expert  genre,  expert
+œuvre  du  Projet. 
+s’agit  des  experts 
+Il 
+15
+Appendix I
+EB 2019/127/R.31/Rev.1
+environnementaliste,  expert  passation  des  marchés,  responsable  administratif  et
+financier  et  expert  en  appui  institutionnel.  La  cellule  d’exécution  du  projet,  basée  à
+Douna  avec  une  antenne  de  liaison  à  Ouagadougou,  aura  pour  tâches  principales:  i)  la
+coordination, le contrôle rapproché, le suivi et l’évaluation de l’ensemble des activités du
+projet;  ii)  l’élaboration  des  programmes  d’activités  et  des  budgets  du Projet;  iii)  la
+préparation  et  le  suivi  des  conventions  de  partenariat  avec  les  opérateurs  et  les
+partenaires du projet ainsi que la préparation des dossiers d’appel d’offres, selon le plan
+de  passation  des  marchés;  iv)  la  gestion  financière  et  comptable, incluant  l’introduction
+des  demandes  de  décaissements;  v)  la  mise  en  œuvre  d’un  plan  de  communication
+autour  des  activités  du  Projet;  et  vi)  l’élaboration  des  états  financiers  et  des  rapports
+d’exécution du Projet.
+Des  contrats  de  performances  seront  signés  avec  toute  l’équipe  du  Projet.  Ces  contrats
+devront  permettre  d’évaluer  annuellement  la  performance  de  chacun  selon  les  critères
+retenus et tenant compte des résultats attendus. Les critères porteront sur la diligence et
+la qualité des actions menées, traduits notamment par le respect de la mise en œuvre du
+plan de passation des  marchés, l’évolution attendue du taux de décaissement, l’atteinte
+des effets et impacts escomptés.
+8.
+Le  Projet  passera  plusieurs  conventions  et  protocoles  avec  des  structures
+existantes pour conduire et encadrer les activités du Projet. Les partenaires stratégiques
+sont les suivants:
+Direction générale des productions végétales (DGPV): mise en œuvre des activités
+de sensibilisation sur l’utilisation des pesticides et de la fumure organique, la
+vulgarisation des méthodes de lutte intégrée contre les fléaux, la formation de
+brigades phytosanitaires et le suivi de la qualité des intrants et distributeurs
+d’engrais;
+Direction de la nutrition (DN): mise en œuvre de plans d’actions essentielles en
+nutrition et d’actions essentielles d’hygiène, la création et la dynamisation des
+groupes d’apprentissage et de suivi des pratiques alimentaires du nourrisson et du
+jeune enfant;
+Maison de l’entreprise du Burkina Faso (MEBF): appui au financement des
+initiatives individuelles et collectives des microentreprises rurales.
+Dispositif de suivi-évaluation
+9.
+Le suivi-évaluation  interne sera  assuré  par  le  chargé  de  suivi-évaluation  du
+Projet  et  portera  sur  le  suivi  physique  et  financier,  par  composante  et  par  catégorie  de
+dépenses,  et  sur  l’évaluation  de  l’impact  du  Projet  sur  les  bénéficiaires  et  sur
+l’environnement  selon  des  indicateurs  pertinents  et  établis  de  manière  concertée.
+L’établissement de la situation de référence a été déjà effectué au cours de la préparation
+du  Projet.  Il  restera  à  mettre  en  place  un  système  de  suivi-évaluation  intégrant  des
+indicateurs  objectivement  vérifiables  et  la  constitution  d’une  base  de  données.  Ce
+système devra être fonctionnel au plus tard six mois après le démarrage du Projet.
+10.
+Des missions de suivi-évaluation externes seront régulièrement organisées par le
+gouvernement,  en  appoint  des  deux  missions  de  supervision  annuelle  organisées
+conjointement  par  la  BAD  et  le  FIDA.  Un  atelier  de  lancement  sera  organisé  au
+démarrage  du  Projet,  dès  lors  que  l’ensemble  du  personnel  sera  en  place  et  que  les
+conditions préalables au premier décaissement seront satisfaites. Il est prévu un examen
+à  mi-parcours  pour  s’assurer  de  la  bonne  marche  générale  du  Projet  et  proposer  des
+ajustements  éventuels.  Il  est  aussi  programmé,  vers  la  fin  du  Projet,  une  évaluation
+finale pour tirer les enseignements et capitaliser les acquis du Projet.
+16
+
+
+
+Appendix I
+EB 2019/127/R.31/Rev.1
+Annexe 2
+Tableau d’affectation des fonds
+Affectation du produit du Prêt. a)
+Le tableau  ci-dessous  indique  les catégories
+1.
+de dépenses admissibles à un financement sur le produit du Prêt ainsi que le montant du
+Prêt  affecté  à  chaque  catégorie  et  la  répartition  en  pourcentage  des  dépenses  à  financer
+pour chacun des postes des différentes catégories:
+Total
+I.
+Travaux
+Montant alloué
+au titre du Prêt
+(en Euro)
+2 150 000
+Pourcentage des
+dépenses autorisées
+à financer
+100% HT hors
+contribution de la BAD et
+des bénéficiaires
+II. Equipements et
+matériels
+410 000
+100% HT
+III. Subventions et dons
+30 000
+IV. Biens, services et
+4 410 000
+intrants
+100% hors contribution
+des bénéficiaires
+100% HT hors
+contribution des
+bénéficiaires
+V. Consultations
+400 000
+100% HT
+Non Alloué
+TOTAL
+820 000
+8 220 000
+b)
+Les termes utilisés dans le tableau ci-dessus se définissent comme suit:
+i)
+ii)
+Les dépenses relatives à la catégorie II – Équipements et matériels,
+incluent également les dépenses liées aux véhicules.
+Les dépenses relatives à la catégorie IV – Biens, services et intrants,
+incluent également
+liées aux formations, ateliers et
+séminaires.
+les dépenses
+17
+Appendix I
+EB 2019/127/R.31/Rev.1
+Annexe 3
+Clauses particulières
+Conformément aux dispositions de la section 12.01 a) xxiii) des Conditions générales, le
+Fonds peut suspendre, en totalité ou en partie, le droit de l'Emprunteur de solliciter des
+retraits  du  compte  du Prêt du  Fonds  si l'Emprunteur n’a  pas  respecté  l'une  quelconque
+des  clauses  énoncées  ci-dessous,  et  si  le  FIDA  a  établi  que  ladite  défaillance  a  eu,  ou
+risque d'avoir, un effet préjudiciable important sur le Projet:
+1.
+Logiciel comptable. Dans les six mois suivant l'entrée  en vigueur de l'Accord de
+financement,  le  Projet  achètera  et  installera  un  logiciel  de  comptabilité  personnalisé,
+conformément  aux  pratiques  en  vigueur  dans  les  projets  soutenus  par  le  FIDA,  afin  de
+satisfaire aux normes comptables internationales et aux exigences du FIDA.
+2.
+Sélection  du  personnel  du  Projet. Le  recrutement  du  personnel  contractuel  sera
+effectué  conformément  aux  dispositions  du  décret  n°2018-0092/PRES/PM/MINEFID  du
+15  février  2018  portant  réglementation  générale  des  projets  et  programmes  de
+développement exécutés au Burkina Faso.
+3.
+Planification,  suivi  et  évaluation.  L'Emprunteur/le  Bénéficiaire  veillera  à  ce  que:
+i) un système de planification, de suivi et d'évaluation soit mis en place dans les six (6)
+mois à compter de la date d'entrée en vigueur du présent Accord.
+4.
+Conformité aux procédures d'évaluation sociale, environnementale  et climatique
+de la BAD. L'Emprunteur veillera à ce que le Projet soit mis en œuvre conformément aux
+mesures de sauvegarde environnementale, sociale et climatique de la BAD.
+5.
+Mesures anticorruption. L'Emprunteur doit se conformer à la politique du FIDA en
+matière  de  prévention  de  la  fraude  et  de  la  corruption  dans  le  cadre  de ses  activités  et
+opérations.
+6.
+s'assurer que:
+Utilisation  des  véhicules  du  Projet  et  autres  équipements. L'Emprunteur  doit
+a)
+b)
+c)
+tous les véhicules et autres équipements achetés dans le cadre du Projet
+sont affectés aux unités de gestion du projet pour sa mise en œuvre;
+les types de véhicules et autres équipements achetés dans le cadre du
+Projet sont adaptés aux besoins du Projet; et
+tous les véhicules et autres équipements transférés ou achetés dans le
+cadre du Projet sont exclusivement destinés à une utilisation pour le Projet.
+18
+Cadre Logique
+Synthèse/Résultats
+Objectif général
+Contribuer à la réduction
+de la pauvreté et stimuler
+la croissance économique
+dans les régions de la
+Boucle du Mouhoun, des
+Cascades, des Hauts-
+Bassins et du Sud-Ouest
+Objectif de
+développement du
+projet. Améliorer
+durablement la sécurité
+alimentaire et les
+revenus des exploitations
+agricoles intervenant
+dans la production et la
+valorisation de produits
+dans les filières
+Effet 1: La productivité
+des systèmes agricoles
+dans les filières
+ciblées est améliorée
+1
+9
+Nombre de personnes
+bénéficiaires d’une mobilité
+économique1 3
+Pourcentage de ménages ayant
+une période de soudure de 2 mois
+au maximum
+Nombre de personnes dont la
+résilience s'est renforcée11
+Nombre de personnes bénéficiant
+des services promus par le projet3
+Pourcentage de ménages
+déclarant une augmentation de
+leurs revenus d’au moins 30%
+Pourcentage de ménages
+déclarant une amélioration de
+l’accès à la terre ou à l’eau à des
+fins de production (1.2.1)
+Pourcentage de ménages
+déclarant une augmentation de la
+production (1.2.4)
+Augmentation du rendement
+0
+0
+0
+0
+0
+Indicateurs clés de vérification10
+Nom
+Référence
+Mi-
+parcours
+Fin
+Source
+Fréquence
+Responsabilité
+Moyens de vérification
+Hypothèses
+0
+37 800
+63 000
+Evaluation
+d’impact
+Années 1, 3
+et 6
+FIDA & Gouvernement
+2
+AD
+AD
+<70%
+37 800
+63 000
+Evaluation
+d’impact
+Années 1, 3
+et 6
+Evaluation
+d’impact
+Années 1, 3
+et 6
+FIDA & Gouvernement
+FIDA & Gouvernement
+UCP, Prestataires
+56 000
+70 000
+SSE
+Trimestrielle
+65%
+80%
+Enquête
+spécifique
+Annuelle
+UCP, Prestataires
+85%
+90%
+85%
+90%
+Enquête
+spécifique
+Enquête
+spécifique
+Enquête
+spécifique
+Annuelle
+UCP, Prestataires
+Annuelle
+UCP, Prestataires
+Annuelle
+UCP, Prestataires
+Riz de bas-fond
+Oignon
+Sésame
+Niébé
+1,5 t/ha
+13 t/ha
+370kg/ha
+300kg/ha
+4 t/ha
+21 t/ha
+800kg/ha
+810kg/ha
+4 t/ha
+25 t/ha
+800kg/ha
+900kg/ha
+Nombre d’hectares de terres
+faisant l’objet d’une gestion
+résiliente face au climat (3.1.4)
+Pourcentage de femmes qui
+déclarent une amélioration de
+leur régime alimentaire (1.2.8)
+Nombre de producteurs ruraux
+ayant accès aux paquets
+technologiques (1.1.3) 3
+0
+0
+0
+4 080
+5 100
+SSE
+Trimestrielle
+UCP, Prestataires
+20%
+50%
+Enquête
+spécifique
+Annuelle
+UCP, Prestataires
+26 560
+33 200
+SSE
+Trimestrielle
+UCP, Prestataires
+Produit 1.1: Des
+techniques et
+connaissances améliorant
+10 Ventilés par sexe et par âge (hommes, femmes et jeunes de 18-35 ans), et par filière autant que possible
+11 La méthodologie de mesure de l'indicateur portant sur la résilience des bénéficiaires s'inspirera du cadre et table de bord de la mesure de la résilience axée sur les projets élaborés par le FIDA.
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+9
+/
+1
+2
+7
+/
+R
+.
+3
+1
+/
+R
+e
+v
+.
+1
+Cadre macro-
+économique
+stable.
+Situation
+sécuritaire
+acceptable
+Bonne
+capacité
+institutionnelle
+de gestion de
+l’UNC and des
+URC.
+Intérêts des
+paysans aux
+pratiques
+agro-
+écologiques
+Bonne
+capacité de
+mise en
+durablement la
+productivité agricole et la
+situation nutritionnelle
+sont maîtrisées par les
+acteurs
+Produit 1.2: Des
+infrastructures durables
+améliorent la productivité
+au niveau des filières
+agricoles ciblées
+Effet 2: La valorisation
+et la
+commercialisation des
+produits agricoles
+dans les filières
+ciblées sont
+améliorées
+Produit 2.1: La
+concertation et la
+collaboration entre les
+acteurs des filières sont
+améliorées
+Produit 2.2: Les
+microentreprises rurales
+ont accès à des services
+de développement des
+entreprises adaptés à
+leurs besoins
+Nombre de personnes formées
+aux pratiques et/ou aux
+techniques de production (1.1.4) 3
+Nombre d’organisations de
+producteurs ruraux soutenues
+(2.1.3.)
+Nombre de personnes recevant
+un soutien ciblé pour améliorer
+leur nutrition* (1.1.8) 3
+Nombre d’installations de
+commercialisation et de
+transformation construites ou
+remises en état (2.1.6)
+Nombre d’ha d’infrastructures
+hydrauliques construites/ remises
+en état (1.1.2)
+Nombre d’emplois créés au
+niveau des microentreprises
+rurales (2.2.1) 3
+Pourcentage d’augmentation du
+volume de produits agricoles
+transformés et commercialisés
+Pourcentage d’organisations de
+producteurs soutenues ayant
+conclu des accords formels ou des
+contrats avec des organismes
+publics ou privés (2.2.3)
+Nombre de sous-projets de
+développement de filières
+financés
+Pourcentage de contrats stipulant
+les normes ou standards de
+qualité
+Nombre de plans d’affaires des
+microentreprises rurales
+financées 2
+Nombre de microentreprises
+rurales produisant des aliments
+contribuant à la lutte contre la
+malnutrition
+Nombre de microentreprises
+rurales ayant accès à des services
+de développement des
+entreprises (2.1.1)
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+26 560
+33 200
+SSE
+Trimestrielle
+UCP, Prestataires
+720
+900
+SSE
+Trimestrielle
+UCP, Prestataires
+3300
+6 600
+SSE
+Trimestrielle
+UCP
+250
+350
+SSE
+Semestrielle
+UCP, Prestataires
+1920
+2 400
+SSE
+Semestrielle
+UCP, Prestataires
+2 700
+3 600
+SSE, CREER Trimestrielle
+UCP, CREER
+60%
+75%
+40%
+60%
+12
+16
+Enquête
+spécifique
+SSE,
+prestataires
+SSE,
+prestataires
+SSE,
+prestataires
+Annuelle
+UCP, prestataires
+Semestrielle
+UCP, prestataires
+Trimestrielle
+UCP, Maison de
+l’Entrepreneur du
+Burkina Faso
+Semestrielle
+UCP, prestataires
+A définir
+50%
+80%
+0
+0
+0
+1 700
+2 100
+SSE, CREER Trimestrielle
+UCP, CREER
+160
+210
+SSE, CREER Trimestrielle
+UCP, CREER
+1 500
+1 900
+SSE, CREER Trimestrielle
+UCP, CREER
+œuvre des
+sous-projets
+d’accès au
+marché
+Bonne
+capacité de
+préparation
+des DAO.
+Bonne
+capacité
+technique
+Les marchés
+pour les
+filières
+appuyées
+restent
+porteurs
+Intérêt des
+jeunes à
+s’insérer dans
+les filières
+appuyés
+Volonté des
+privés à
+développer
+des PPP
+Capacité des
+CREER à se
+pérenniser
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+9
+/
+1
+2
+7
+/
+R
+.
+3
+1
+/
+R
+e
+v
+.
+1

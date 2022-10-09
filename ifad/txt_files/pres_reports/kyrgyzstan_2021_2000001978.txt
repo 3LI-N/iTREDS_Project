@@ -1,0 +1,3408 @@
+Document: 
+Date: 
+Distribution: 
+Original: 
+EB 2021/LOT/P.13 
+8 December 2021 
+Public 
+English 
+E 
+President’s report 
+Proposed loan and Debt Sustainability 
+Framework grant to  
+Kyrgyz Republic for the 
+Regional Resilient Pastoral Communities 
+Project 
+Project ID: 2000001978 
+Note to Executive Board representatives 
+Focal points: 
+Technical questions: 
+Dina Saleh 
+Regional Director 
+Near East, North Africa and Europe Division 
+Tel.: +39 06 5459 2780 
+e-mail: d.saleh@ifad.org 
+Samir Bejaoui 
+Country Director 
+Tel.: +90 539 292 27 07 
+e-mail: s.bejaoui@ifad.org 
+For: Approval 
+Dispatch of documentation: 
+Deirdre Mc Grenra 
+Chief 
+Institutional Governance and 
+Member Relations 
+Tel.: +39 06 5459 2374 
+e-mail: gb@ifad.org 
+EB 2021/LOT/P.13 
+ii 
+iii 
+iv 
+1 
+1 
+3 
+4 
+4 
+4 
+5 
+5 
+6 
+10 
+10 
+11 
+11 
+11 
+12 
+12 
+12 
+13 
+13 
+14 
+Contents 
+Abbreviations and acronyms 
+Map of the project area  
+Financing summary 
+I.  Context 
+A.  National context and rationale for IFAD involvement 
+B.  Lessons Learned 
+II.  Project description 
+A.  Project objectives, geographic area of intervention and target groups 
+B.  Components/outcomes and activities 
+C. Theory of change 
+D. Alignment, ownership, and partnerships 
+E.  Costs, benefits and financing 
+III.  Risks 
+A.  Project risks and mitigation measures 
+B.  Environment and social category 
+C. Climate risk classification 
+D. Debt sustainability 
+IV.  Implementation 
+A.  Organizational framework 
+B.  Planning, monitoring and evaluation, learning, knowledge  
+management and communication 
+C. Implementation plans 
+  Legal instruments and authority 
+V. 
+VI.  Recommendation 
+Appendices 
+I.  Negotiated financing agreement  
+II.  Logical framework 
+III.  Integrated project risk matrix 
+Project delivery team 
+Regional Director: 
+Country Director: 
+Project Technical Lead: 
+Finance Officer: 
+Climate and Environment Specialist: 
+Legal Officer: 
+Dina Saleh 
+Samir Bejaoui 
+Antonio Rota 
+Alaa’ Abdelkarim 
+Oliver Mundy 
+Aspasia Tsekeri 
+i 
+EB 2021/LOT/P.13 
+Abbreviations and acronyms 
+APIU 
+ARIS 
+Agricultural Projects Implementation Unit 
+Community Development and Investment Agency 
+AWP/B 
+annual workplan and budget 
+COSOP 
+country strategic opportunities programme  
+FAO 
+IsDB 
+M&E 
+MoA 
+NRM 
+NDS 
+OIE 
+PUU 
+Food and Agriculture Organization of the United Nations 
+Islamic Development Bank 
+monitoring and evaluation 
+Ministry of Agriculture, Water Resources and Regional Development  
+natural resource management 
+National Development Strategy 2018-2040 
+World Organization of Animal Health 
+pasture user union 
+RKDF 
+Russian-Kyrgyz Development Fund 
+RRPCP 
+Regional Resilient Pastoral Communities Project 
+SDG 
+Sustainable Development Goal 
+SIVPSS 
+State Inspectorate on Sanitary, Veterinary and Phytosanitary Security  
+SPS  
+World Trade Organization Agreement on the Application of Sanitary and 
+Phyto-sanitary Measures 
+ii 
+Map of the project area 
+i
+i
+i
+E
+B
+2
+0
+2
+1
+/
+L
+O
+T
+/
+P
+.
+1
+3
+EB 2021/LOT/P.13 
+Financing summary 
+Initiating institution: 
+IFAD 
+Recipient: 
+Kyrgyz Republic 
+Executing agency: 
+Ministry of Agriculture, Water Resources and Regional 
+Development  
+Total project cost: 
+US$65.206 million 
+Amount of IFAD loan: 
+Terms of IFAD loan: 
+SDR 16.274 million (equivalent to approximately 
+US$23.034 million) 
+Highly concessional: Maturity period of 40 years, including 
+a grace period of 10 years. Loan free of interest but 
+bearing a fixed service charge payable semi-annually in 
+the loan service payment currency, as determined by the 
+Fund upon approval of the loan by the Executive Board 
+Amount of IFAD Debt Sustainability 
+Framework grant: 
+SDR 5.829 million (equivalent to approximately  
+US$8.25 million) 
+Cofinanciers: 
+Adaptation Fund; Russian Kyrgyz Development Fund 
+Terms of cofinancing: 
+Adaptation Fund: Grant US$9.2 million 
+Russian Kyrgyz Development Fund: Loan US$10 million 
+Contribution of borrower/recipient:  US$0.75 million 
+Contribution of beneficiaries: 
+US$13.97 million 
+Amount of IFAD climate finance: 
+US$8.82 million  
+Cooperating institution: 
+IFAD 
+iv 
+EB 2021/LOT/P.13 
+Recommendation for approval 
+The Executive Board is invited to approve the recommendation contained in  
+paragraph 53. 
+I.  Context 
+A.  National context and rationale for IFAD involvement 
+1.  Geography. The Kyrgyz Republic is a mountainous, landlocked country of 199,951 
+km2 bordering Kazakhstan, Uzbekistan, Tajikistan and China. Ninety-four per cent 
+of the territory is at an elevation of more than 1,000 metres, and 40 per cent is 
+above 3,000 metres.  
+2. 
+3. 
+4. 
+5. 
+Political system. Kyrgyzstan is characterized as a hybrid regime in the Economist 
+Intelligence Unit's 2018 Democracy Index and is ranked 98th out of 167 countries. 
+The country performs much better than regional peers as the only non-
+authoritarian country in Central Asia. A referendum in December 2016 approved 
+constitutional amendments that shifted significant powers from the presidency to 
+parliament and the prime minister.  
+Economy. Kyrgyzstan maintains strong relations with Russia and is a member of 
+economic and military alliances: the Eurasian Economic Union and the 
+Collective Security Treaty Organization. In recent years, relations with China have 
+also improved considerably, and China surpassed Russia as Kyrgyzstan’s most 
+important economic partner in 2013 according to the International Monetary Fund. 
+The economy is vulnerable to external shocks owing to its reliance on one gold 
+mine, Kumtor, which accounts for about 10 per cent of GDP, and on worker 
+remittances, equivalent to about 27 per cent of GDP in 2018. With an average 
+gross national income per capita of US$1,130,1 Kyrgyzstan is classified as a lower-
+middle-income country. 
+Social context. Kyrgyzstan is home to 6.4 million people, 66 per cent of whom 
+live in rural areas and depend primarily on agriculture and livestock for their 
+livelihoods, along with remittances. The rural areas remain underdeveloped, with 
+few off-farm jobs, as reflected in the official statistics recording higher rural than 
+urban unemployment rates. Life expectancy for men is 67.2 years and for women 
+75.4 years. In 2014, the average household size was 4.3 members overall, and 5.3 
+members for rural households. The share of woman-headed households among all 
+households is quite high at 34 per cent. The majority of households (69.1 per cent) 
+are headed by persons who indicated Kyrgyz as their mother tongue; Uzbek was 
+indicated in 12.2 per cent of cases, Russian 14.5 per cent and other languages  
+4.2 per cent. 
+Stage in transition and presence of fragility. With a country policy and 
+institutional assessment score of 4.0 in 2017, Kyrgyzstan does not classify among 
+the most fragile countries. Revolutions in 2005 and 2010 led to the overthrow of 
+the incumbent presidents, who subsequently fled the country. Political stability is 
+somewhat uncertain. Kyrgyzstan is not on the IFAD list of fragile countries as of 
+2018, but is among the low-income food-deficit countries according to the Food 
+and Agriculture Organization of the United Nations (FAO) (2019). Climate change 
+projections indicate that Kyrgyzstan will be increasingly affected by higher 
+temperatures and rainfall that is more variable, as well as more hazard-prone. 
+Droughts could become more frequent and prolonged in summer and floods 
+(including glacial lake outburst floods) and landslides more frequent in winter.  
+6. 
+Poverty, food security and nutrition. Kyrgyzstan ranks 122th of 189 countries in 
+the 2017 Human Development Index with a value of 0.672. Poverty in the country 
+1 2017, Atlas method. 
+1 
+EB 2021/LOT/P.13 
+7. 
+is high: about 25 per cent of the total population lives below the poverty line; 
+approximately 65 per cent of the poor live in the rural areas; and approximately 80 
+per cent of the population is vulnerable to poverty. Poverty is closely related to 
+food insecurity. In 2015, the population as a whole spent an average of 38 per cent 
+of their income on food, while the share of income spent on food by the poorest 
+groups was 74 per cent, demonstrating that poor households are more vulnerable 
+to food insecurity. Dietary energy consumption by the poorest groups stood at  
+13 per cent, considerably lower (by 35 per cent) than for wealthier groups. In 
+2015, 6 per cent of the country’s population was undernourished.  
+Smallholder agricultural and rural development context. Agriculture 
+accounted for 12.3 per cent of GDP in 2017 (compared to 34 per cent in 2002) and 
+employs 26.5 per cent of the total labour force. In rural areas, it remains the major 
+source of employment and produces an annual value added of US$1,521 per 
+worker (in constant 2010 United States dollars). Smallholder production makes up 
+98.5 per cent of agricultural output. Given the mountainous topography, 
+permanent cropland is 0.4 per cent and arable land approximately 7 per cent of the 
+total land area, and thus Kyrgyzstan depends on imports of basic foods, especially 
+wheat. Livestock therefore plays a crucial role, both in food security and as a safety 
+net for the rural poor population. However, productivity is below potential and 
+livestock-raising communities remain fragile, having few assets and limited 
+economic opportunities to mitigate or adapt to natural disasters and the effects of 
+climate change. 
+8.  National strategies and policies. The overall framework for development in 
+Kyrgyzstan is guided by the National Development Strategy 2018-2040 (NDS). The 
+overall goals of the NDS are to establish a state governed by the rule of law, 
+ensure national unity as a prerequisite for preserving statehood and address social 
+issues and challenges. Specifically for the agricultural sector, the NDS calls for 
+using Kyrgyzstan’s comparative advantages in terms of geography and climate to 
+become a leading supplier of high-quality ecological and pure organic agricultural 
+production for the regional markets and the markets of the Eurasian Customs 
+Union. The strategy envisions farmers participating actively through cooperatives 
+and other groups to add value to their produce and raise their incomes. The main 
+development focus in the sector is on improving competitiveness on export 
+markets, in addition to introducing international systems for quality control of 
+production and processing. The Government’s Strategy for Agricultural 
+Development 2017-2022 is intended to increase exports by introducing new 
+technologies and innovative products and providing support to meat and dairy 
+value chains. Gender equality is promoted by the National Strategy for Gender 
+Equality. Kyrgyzstan ratified the United Nations Framework Convention on Climate 
+Change and submitted its intended nationally determined contribution in 2015.  
+9. 
+Special aspects relating to IFAD's corporate mainstreaming priorities 
+In line with Eleventh Replenishment of IFAD's Resources mainstreaming 
+commitments, the Regional Resilient Pastoral Communities Project (RRPCP) has 
+been validated as: 
+☒ Including climate finance; 
+☒ Youth-sensitive. 
+10.  The Law of the Kyrgyz Republic on Youth Policy (2009) defines young people as 
+those 14 to 28 years of age. Two thirds of the country’s young people live in rural 
+areas and there is widespread migration both to urban areas, such as Bishkek and 
+Osh, and abroad in search of work. Lack of employment is by far the biggest 
+concern among rural youth. They are affected by limited economic opportunities, 
+poor access to public services and limited opportunities to voice their needs. Young 
+women face higher unemployment rates than young men, and are mainly stay-at-
+home mothers.  
+2 
+EB 2021/LOT/P.13 
+11.  Environment and climate. The two main environmental challenges to be 
+addressed by the project are degraded pasture resources due to poor management 
+and climate-induced degradation; and climate change. More than 40 per cent of 
+agricultural land is seriously degraded, and over 85 per cent of the total land area 
+is exposed to erosion. Temperatures are projected to increase by two to three 
+degrees by mid-century, and precipitation by 12 per cent in the west and 18 per 
+cent in the north-east. Historic rainfall data show a trend towards more 
+precipitation in general, with greater seasonal variability and a marked reduction in 
+summer, the main grazing period. The project is intended to induce behavioural 
+change around the sustainable management of pasture and forest resources by 
+integrating forest and rangeland resources under a single ecosystem management 
+framework, and by introducing climate-resilient measures to be implemented at 
+the community, district and central levels.   
+12. 
+Rationale for IFAD involvement 
+IFAD has accumulated vast experience over more than 20 years of engagement in 
+Kyrgyzstan. Promoted by the World Bank and IFAD, the Pasture Law approved in 
+January 2009 started an effective process of reform, in addition to extensive 
+support through the IFAD-financed Livestock and Market Development Programme, 
+phases 1 and 2, which has been assisting pastoral communities in five of the 
+country’s seven regions since 2013. While the reform has achieved substantial 
+results in terms of the empowerment of rural pastoralist communities, it has failed 
+to establish an effective integrated management framework, especially with regard 
+to forestland and forest resources, typically located adjacent to rangelands.  
+13.  Livestock production is important for smallholder production, as indicated above, 
+but also for the country’s exports. When Kyrgyzstan joined the Eurasian Economic 
+Union, the country gained an opportunity to access the vast markets of Russia and 
+Kazakhstan. Yet it remains challenged by limited capacity to adhere to food safety 
+standards. Based on its experience in the country, IFAD has a comparative 
+advantage in working with rural communities and promoting policies relevant to 
+livestock production.  
+B.  Lessons learned  
+14.  The key lessons learned from past and ongoing IFAD operations and those of other 
+donors in the country are as follows: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The transformation of pasture and forest resource management from a 
+centralized system to a user-based tenure system is under constant 
+challenge. It is critical to provide continuous support to uphold equity-based 
+principles in policy, legislation and practices; 
+Many of the issues relating to rangeland and forest management at district 
+level lack an integrated coordinated response mechanism;  
+Traditional smallholder livestock-rearing approaches and mentalities need to 
+be addressed through engagement at the community level to optimize the 
+income generated from livestock;  
+Community demand for pasture infrastructure investments is on the rise;  
+Actively engaging women through targeting and support measures has 
+proven transformative and effective in delivering sustainable impact;  
+Successful animal disease control and improved food safety require intensive 
+public awareness efforts and strong logistical coordination;  
+While there are several coordination mechanisms available in the country, 
+there is a lack of technical capacity and limited inter-ministerial coordination 
+between the State Agency on Environment Protection and Forestry (SAEPF), 
+the Ministry of Agriculture, Water Resources and Regional Development 
+3 
+EB 2021/LOT/P.13 
+(MoA), the Ministry of Emergency Situations (MES), the State Agency for 
+Local Self-Government and Inter-Ethnic Relations (SALSGIER), and local self-
+government bodies; and  
+ 
+Experiences with value chain development indicate that smallholders can 
+increase their milk and meat yields provided they have satisfactory access to 
+formal markets, remote pastures and water, and reduced exposure to 
+livestock diseases.  
+II.  Project description 
+A.  Project objectives, geographical area of intervention and 
+target groups 
+15.  The goal of the RRPCP is to contribute to rural poverty alleviation in the country 
+through increased resilience and incomes and enhanced economic growth in rural 
+farming communities. The development objective is improved livestock and pasture 
+health and productivity, and enhanced climate resilience of pastoral communities, 
+reflected in improved and equitable returns to pastoral farmers. The project 
+addresses the main drivers of rural poverty and food insecurity. The Government of 
+Kyrgyzstan and IFAD, in the country strategic opportunities programme (COSOP), 
+have identified increasing smallholders’ equitable and sustainable returns and 
+increasing smallholders’ climate resilience as the key priorities for the future IFAD 
+portfolio in the country, to which the RRPCP goal and development objective 
+directly contribute.  
+16.  The RRPCP also supports IFAD's Rural Youth Action Plan 2019-2021, which calls for 
+enhancing the impact of IFAD’s investments on achieving the Sustainable 
+Development Goals (SDGs). The project has a duration of five years, and is 
+expected to reach at least 557,000 rural households organized in 454 pasture user 
+unions (PUUs) and 141 forest user associations and 200 value chains. The project 
+area is countrywide. The target groups are: (i) households practising mobile 
+extensive livestock rearing; (ii) households extracting forest products;  
+(iii) households producing fodder; and (iv) rural women and youth. Targeting will 
+be based on the existence of a village vision or the ability to create one, livelihood 
+fragility and social vulnerability, in line with the mainstreaming themes as 
+described in paragraphs 10 and 11.  
+B.  Components, outcomes and activities  
+17.  Component 1 – Sustainable community-based integrated forest-rangeland 
+ecosystem management. Component 1 will concentrate on behavioural change 
+in the sustainable management of pasture and forest resources, in the context of 
+increasing livestock numbers and a changing climate. It includes independent 
+monitoring and the compilation and execution of evidence-based integrated plans 
+to promote a climate-resilient economy and rehabilitate degraded resources. By 
+integrating forest and rangeland resources under one ecosystem management 
+framework, component 1 introduces a significant upgrade in the institutional 
+arrangements for the pasture management approaches already supported by the 
+previous IFAD portfolio. The outcome is climate-resilient integrated forest-
+rangeland ecosystems that are sustainably managed. As a measure of success, 
+3.68 million ha of pasture and forest land (50 per cent of pastures under PUU 
+management) will be brought under sustainable and climate-resilient management 
+practices.  
+18.  Component 2 – Strengthening the food safety system. The RRPCP will 
+strongly promote a shift from livestock quantity to livestock quality. The project will 
+pilot the use of public-private partnerships in ecosystem-based natural resource 
+management, and will leverage private sector investments by creating an enabling 
+policy and institutional environment for green investments and climate-resilient 
+value chains that will provide economic incentives for diversification and enhanced 
+4 
+EB 2021/LOT/P.13 
+efficiency and productivity of existing economic activities in the highly degraded 
+target areas. In terms of outcomes, the country’s capacity for food safety will be 
+strengthened, and smallholder livestock farmers will produce safe products for 
+national and export markets. Ultimately, the project is expected to bring a 15 per 
+cent increase in the value of official exports of livestock and livestock products 
+compared to the rolling average of the previous five years. 
+19.  Component 3 – Climate-resilient value chains for women and youth. This 
+component will promote low carbon and climate-resilient value chains to enhance 
+ecosystem health and build the resilience of local communities, with a focus on 
+poor women and youth, especially young women, who face higher unemployment 
+rates. This component will support selected value chain actors to move towards 
+greener and more resilient operations, and greater transparency and 
+competitiveness for marketed products. This shift will be achieved through greater 
+value chain integration, market-driven certification and robust marketing 
+strategies. The outcome will be access to remunerative markets by poor women 
+and youth. As a measure of success, 4,500 rural women and youth will report an 
+increase of at least 30 per cent in their incomes from diversification. 
+20.  Component 4 – Project management. The component provides for the overall 
+management of the project by the Agricultural Projects Implementation Unit (APIU) 
+of the MoA. 
+C.  Theory of change 
+21.  Livestock ecosystems are trapped in a vicious cycle of productivity collapse: 
+overgrazing and degradation cause lower levels of available forage, which reduces 
+animal productivity, causing households to own more animals to compensate for 
+productivity declines, which in turn leads to more degradation. 
+22.  The target groups hold the keys to sustainable management of forest-rangeland 
+ecosystems: better grazing and herd management, forest conservation and 
+production of sufficient fodder needed to bridge feed shortages in winter.  
+23.  The RRPCP will leverage this capability by setting up an integrated management 
+framework for pasture and forest resources, improving production systems and 
+processing standards, and opening up opportunities for diversification. While 
+placing sustainable management at its core, RRPCP will shift the livelihood 
+strategies of pastoralists towards diversified income sources, and from traditional 
+mobile pastoralism to commercially oriented mobile livestock-keeping for export, 
+resulting in improved pasture conditions, increased productivity and higher-value 
+produce.  
+D.  Alignment, ownership, and partnerships 
+24.  Alignment with the SDGs. The project will build livelihood resilience, improve 
+smallholder and pastoral productivity, and strengthen market participation, all of 
+which will contribute to achieving SDG 1 (no poverty). The project will strengthen 
+the cash income-generating capacities of vulnerable groups and focus on 
+smallholders, thus contributing towards SDGs 5 and 10 (gender equality and 
+reduced inequalities). Healthier forest-rangeland ecosystems will sequester higher 
+amounts of carbon and are also more resilient, contributing to the achievement of 
+SDG 13 (climate action). Improvements in grazing will restore grassland and 
+reduce deforestation, contributing towards SDG 15 (life on land). Profits from the 
+livestock sector remain largely unrealized, while employment returns to investment 
+in livestock are high because of high sector growth rate, labour intensity and 
+diverse employment opportunities, so the project will contribute towards SDG 8 
+(decent work and economic growth). By providing opportunities for viable rural 
+livelihoods and using local resources, the project will contribute to SDGs 11 and 12 
+(sustainable cities and communities, and responsible consumption and production). 
+Finally, the project will promote partnerships between the Government, the private 
+5 
+EB 2021/LOT/P.13 
+sector and civil society through government assistance to small businesses, thus 
+contributing to realizing SDG 17 (partnerships for the goals). 
+25.  Country ownership and alignment with national priorities. The project’s 
+close alignment with and support for the Government’s policies, regulatory 
+framework and strategies will ensure strong country ownership, specifically the 
+NDS and action plan 2017-2022 and the United Nations Development Assistance 
+Framework (2018–2022) for Kyrgyzstan. This project is fully aligned with the 
+Government’s draft Strategy for Agricultural Development 2017-2022. In 
+particular, the project supports the strategy’s objective to increase exports through 
+the introduction of new technologies and innovative products, and the strategy’s 
+emphasis on providing support to meat and dairy subsector value chains.  
+26.  Alignment with IFAD policies and corporate priorities. The focus of RRPCP 
+was decided in line with the strategic objectives of the COSOP approved in April 
+2018: (i) increase smallholders’ equitable and sustainable returns; and (ii) enhance 
+smallholders’ resilience to climate change. The project is also aligned with IFAD’s 
+strategic vision and comparative advantage as elaborated in the IFAD Strategic 
+Framework 2016-2025, particularly its three strategic objectives: (i) increasing 
+poor rural people’s productive capacities; (ii) increasing poor rural people’s benefits 
+from market participation; and (iii) strengthening the environmental sustainability 
+and climate resilience of poor rural people’s economic activities. 
+27.  Potential synergies and partnerships. The project will collaborate with ongoing 
+and future interventions by the World Bank, Islamic Development Bank (IsDB), 
+FAO, German Agency for International Cooperation, and European Bank for 
+Reconstruction and Development. At the Government’s request, IFAD is negotiating 
+the possible provision of cofinancing with the Adaptation Fund (US$9.2 million 
+grant) and the Russian-Kyrgyz Development Fund (RKDF) (US$10 million, on terms 
+to be confirmed). IFAD is also discussing joint interventions with IsDB in the Naryn 
+Oblast to support fodder production – IsDB through irrigation rehabilitation works 
+and IFAD by further promoting the community fodder seed funds initiated under 
+the previous portfolio.  
+E.  Costs, benefits and financing  
+Project costs 
+28.  The total investment and incremental recurrent project costs, including physical 
+and price contingencies, are estimated at about US$65.206 million 
+(KGS 4.6 billion). 
+6 
+Table 1 
+Project costs by component and subcomponent  
+(Thousands of United States dollars) 
+Component/subcomponent 
+Amount  %  Amount 
+%  Amount  %  Amount 
+%  Amount  %  Amount  %  Amount  %  Amount 
+% 
+IFAD loan 
+IFAD grant 
+Adaptation 
+Fund 
+RKDF 
+Beneficiaries 
+Government: 
+taxes 
+Government: 
+budget 
+Total  
+1. Sustainable community-based integrated forest-rangeland ecosystem management 
+1.1 Climate-resilient forest-rangeland ecosystem planning 
+and monitoring 
+1.2 Green investments for forest and rangeland 
+rehabilitation 
+Subtotal  
+2. Strengthening the food safety system 
+2.1 Strengthening the public-private veterinary system 
+2.2 Supporting the state food safety institutions 
+Subtotal 
+3. Climate-resilient value chains for women and youth 
+137 
+3.7 
+3 468  92.7 
+100 
+2.7 
+13 517  44.8 
+69 
+0.2 
+5 620  18.6 
+13 654  40.3 
+3 537  10.4 
+5 720  16.9 
+2 518  63.7 
+1 118  28.3 
+3 721  68.7 
+1 317  24.3 
+6 240  66.6 
+2 435  26.0 
+- 
+- 
+- 
+- 
+- 
+- 
+3.1 Climate-resilient value chains development 
+- 
+- 
+410  88.0 
+56  12.0 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+3.2 Climate-resilient value chains financing 
+7
+Subtotal 
+3 101  15.4 
+3 101  15.1 
+1 029 
+1 439 
+5.1 
+7.0 
+3 000  14.9  10 000 
+3 056  14.8  10 000 
+49.7 
+48.6 
+3 000  14.9 
+3 000  14.6 
+4. Project management 
+Project management 
+Total 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+35  0.9 
+-  10 971  36.4 
+3 
+- 
+-  10 971  32.3 
+37  0.1 
+- 
+3 740 
+5.7 
+-  30 179 
+46.3 
+-  33 919 
+52.0 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+317  8.0 
+316  5.8 
+633  6.8 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+3 953 
+5 414 
+6.1 
+8.3 
+60  1.1 
+60  0.6 
+9 367 
+14.4 
+- 
+- 
+- 
+- 
+- 
+466 
+-  20 129 
+-  20 595 
+0.7 
+30.9 
+31.6 
+- 
+1 325 
+2.0 
+40 
+3.0 
+840  63.4 
+427  32.2 
+- 
+- 
+- 
+- 
+18  1.4 
+23 034  35.3 
+8 250  12.7 
+9 203  14.1  10 000 
+15.3  13 971  21.4 
+689  1.1 
+60  0.1  65 206  100.0 
+E
+B
+2
+0
+2
+1
+/
+L
+O
+T
+/
+P
+.
+1
+3
+Table 2 
+Project costs by expenditure category and financier  
+(Thousands of United States dollars) 
+IFAD loan 
+IFAD grant 
+Adaptation 
+Fund 
+RKDF 
+Beneficiaries 
+Government: 
+taxes 
+Government: 
+budget 
+Total 
+Amount 
+%  Amount 
+%  Amount 
+%  Amount 
+%  Amount 
+%  Amount  %  Amount  %  Amount 
+% 
+Expenditure category 
+I. Investment costs 
+A. Civil works 
+B. Equipment, goods and vehicles 
+Goods, equipment and materials 
+Vehicles 
+Subtotal 
+C. Technical assistance, studies, training and workshops 
+Training and workshops 
+International technical assistance 
+National technical assistancea 
+Subtotal 
+8
+D. Grants 
+Other grants 
+Grants 
+Subtotal 
+E. External credit 
+997 
+89.3 
+3 114 
+903 
+4 018 
+90.3 
+89.3 
+90.1 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+101 
+18.0 
+462  82.0 
+- 
+- 
+- 
+- 
+429  85.5 
+5 690  99.0 
+101 
+1.5 
+6 581  96.6 
+800  100.0 
+16 617 
+17 417 
+- 
+41.2 
+42.4 
+- 
+- 
+1 029 
+1 029 
+- 
+- 
+2.6 
+2.5 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+28 
+56 
+84 
+5.5 
+1.0 
+1.2 
+- 
+- 
+8 692  21.6 
+8 692  21.1 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+-  13 971  34.7 
+-  13 971  34.0 
+- 
+-  10 000  100.0 
+- 
+- 
+119  10.7 
+335 
+9.7 
+108  10.7 
+443 
+9.9 
+- 
+- 
+45 
+9.0 
+- 
+- 
+45 
+0.7 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Total investment costs 
+22 533 
+35.5 
+7 610  12.0 
+8 776  13.8  10 000 
+15.7  13 971  22.0 
+608 
+1.0 
+II. Recurrent costs 
+A. Salaries and allowances 
+B. Social fund 
+C. Other operating expenses 
+Vehicles 
+Office 
+Subtotal 
+Total recurrent costs 
+Total 
+- 
+- 
+- 
+- 
+- 
+- 
+501 
+501 
+501 
+23 034 
+70.2 
+66.3 
+29.3 
+35.3 
+498  60.0 
+332  40.0 
+74  60.0 
+49  40.0 
+22  53.6 
+15  35.7 
+46 
+68 
+6.4 
+9.0 
+31 
+45 
+4.3 
+6.0 
+640  37.5 
+427  25.0 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+8 250  12.7 
+9 203  14.1  10 000 
+15.3  13 971  21.4 
+- 
+- 
+- 
+- 
+4  10.7 
+76  10.7 
+81  10.7 
+81 
+689 
+4.7 
+1.1 
+1 116 
+1.7 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+3 450 
+1 011 
+4 461 
+563 
+502 
+5 746 
+6 812 
+800 
+830 
+123 
+41 
+714 
+755 
+-  40 309 
+-  41 109 
+-  10 000 
+-  63 498 
+5.3 
+1.6 
+6.8 
+0.9 
+0.8 
+8.8 
+10.4 
+1.2 
+61.8 
+63.0 
+15.3 
+97.4 
+1.3 
+0.2 
+0.1 
+1.1 
+1.2 
+2.6 
+60  8.4 
+60  7.9 
+60  3.5 
+1 708 
+60  0.1  65 206  100.0 
+a Also includes costs of the Community Development and Investment Agency. Unit costs for national technical assistance includes charges of 17.25 per cent to the social fund.
+E
+B
+2
+0
+2
+1
+/
+L
+O
+T
+/
+P
+.
+1
+3
+EB 2021/LOT/P.13 
+Table 3 
+Project costs by component and year  
+(Thousands of United States dollars) 
+Component/subcomponent 
+Amount  %  Amount  %  Amount 
+%  Amount  %  Amount  %  Amount 
+% 
+1. Sustainable community-based integrated forest-rangeland ecosystem management 
+PY1 
+PY2 
+PY3 
+PY4 
+PY5 
+Total 
+1.1  Climate-resilient forest-
+rangeland ecosystem 
+planning and monitoring 
+1.2  Green investments for  
+forest and rangeland 
+rehabilitation 
+1 562.3  41.8 
+651.8  17.4 
+584.8  15.6 
+483.2  12.9 
+457.5  12.2  3 739.7 
+5.7 
+99.3  0.3  7 350.0  24.4  8 740.0  29.0  8 290.0  27.5  5 700.0  18.9  30 179.3  46.3 
+Subtotal 
+1 661.6  4.9  8 001.8  23.6  9 324.8  27.5  8 773.2  25.9  6 157.5  18.2  33 919.0  52.0 
+2. Strengthening the food safety system 
+2.1 Strengthening the public-
+private veterinary system 
+2.2 Supporting the State Food 
+  Safety Institutions 
+1 271.4  32.2  1 480.4  37.4 
+498.4  12.6 
+473.4  12.0 
+229.9 
+5.8  3 953.5 
+6.1 
+2 553.7  47.2  1 009.9  18.7  1 162.3  21.5 
+406.5  7.5 
+281.2 
+5.2  5 413.6 
+8.3 
+Subtotal 
+3 825.1  40.8  2 490.3  26.6  1 660.7  17.7 
+879.9  9.4 
+511.0 
+5.5  9 367.0  14.4 
+3. Climate-resilient value chains for women and youth 
+3.1 Climate-resilient value chains 
+development 
+3.2 Climate-resilient value chains 
+financing 
+Subtotal 
+4. Project management 
+Project management 
+Subtotal  
+Total  
+130.0  27.9 
+186.0  39.9 
+100.0  21.5 
+50.0  10.7 
+- 
+-  10 264.6  51.0  6 376.4  31.7  3 488.2  17.3 
+130.0  0.6  10 450.6  50.7  6 476.4  31.4  3 538.2  17.2 
+- 
+- 
+- 
+- 
+466.0 
+0.7 
+-  20 129.2  30.9 
+-  20 595.2  31.6 
+89.6  6.8 
+40.0  3.0 
+392.7  29.6 
+400.0  30.2 
+402.5  30.4  1 324.8 
+89.6  6.8 
+40.0  3.0 
+392.7  29.6 
+400.0  30.2 
+402.5  30.4  1 324.8 
+2.0 
+2.0 
+5 706.3  8.8  20 982.7  32.2  17 854.6  27.4  13 591.4  20.8  7 071.0  10.8  65 206.0  100.0 
+29. 
+Project financing and cofinancing strategy and plan 
+IFAD will provide a loan of US$23.03 million (35.3 per cent of the total project 
+costs) and a grant of US$8.25 million (12.6 per cent of the total project costs). 
+Additional financing of US$9.2 million will be provided by the Adaptation Fund. An 
+additional US$10 million in cofinancing is expected from RKDF. The possible IsDB 
+parallel financing for about US$20 million would be directed to irrigation 
+rehabilitation works benefiting the community fodder seed funds. 
+30.  The Government contribution in cash will finance 0.6 per cent of component 2: 
+strengthening the food safety system (US$60,000). The Government will also cover 
+all taxes and duties, estimated at around US$0.689 million. The contribution by 
+beneficiaries is estimated at US$13.97 million. Beneficiaries will be contributing 
+both in cash and in kind at various ratios depending on the type of activity. Project 
+components (1) (sustainable community-based integrated forest-rangeland 
+ecosystem management); (2) (strengthening the food safety system); and 
+(3) (climate resilient value chains for women and youth) are partially counted as 
+climate finance. As per the Multilateral Development Banks’ Methodologies for 
+Tracking Climate Change Adaptation and Mitigation Finance, the total amount of 
+IFAD climate finance for this project is calculated as US$8,822,000, representing 
+28 per cent of the total IFAD investment, with US$7,654,000 for adaptation and 
+US$1,168,000 for mitigation. If the Adaptation Fund investment fails to 
+materialize, it could be offset by redistributing the financing across the board using 
+existing IFAD funds. This would reduce the size of the project, but not change it in 
+any critical way. 
+Disbursement 
+31.  The RRPCP will be implemented over five years with an investment to recurrent 
+cost ratio of 97:3. The main expenditure categories are civil works, equipment, 
+9 
+EB 2021/LOT/P.13 
+goods and vehicles, technical assistance, studies, training and workshops and 
+grants under investment costs; and salaries and allowances and operating costs 
+under recurrent costs. Funds will be channelled to the project through the 
+designated accounts opened in United States dollars and Kyrgyzstani som for each 
+financing source. Budget and actual expenditure under each financing source will 
+be separated in the accounting software, allowing for separate and integrated 
+monitoring and planning. The project will use the report-based mechanism for 
+disbursement, with withdrawal applications to be prepared by the APIU and the 
+Community Development and Investment Agency (ARIS) using the revolving fund 
+modality by submitting interim financial reports on a quarterly basis.  
+Summary of benefits and economic analysis  
+32.  The project is expected to increase: (i) farm-level livestock production and 
+productivity; (ii) the quantity and quality of livestock inputs to processing and 
+consumption; (iii) product diversification; (iv) sector commercialization, providing 
+expanded employment opportunities and higher incomes among the beneficiaries; 
+(v) capacities and livelihoods of women and youth; and (vi) greenhouse gas 
+mitigation and resilience to climate change.  
+33.  Given the benefit and cost streams, the base-case economic rate of return of the 
+project is estimated at 24.6 per cent. The base-case economic net present value of 
+the project’s net benefit stream, discounted at 10 per cent, is US$27.6 million. This 
+shows that the project is economically viable and justified and recommended for 
+financing from the economic point of view. 
+III.  Risks 
+A.  Project risks and mitigation measures 
+34.  The key risks to the project are described in table 4 below. 
+Table 4 
+Risks and mitigation measures 
+Risks 
+Risk rating 
+Mitigation measures 
+Transboundary animal disease: An outbreak 
+could adversely affect the expected outcome of 
+component 2 to increase official exports of 
+livestock and livestock products.  
+Moderate 
+Equivalency denied: The SIVPSS's request for 
+recognition of equivalency with trading partners 
+is denied. 
+Low 
+Strengthen the State Inspectorate on Sanitary, 
+Veterinary and Phytosanitary Security (SIVPSS) 
+staff capacity to promote the Agreement on the 
+Application of Sanitary and Phytosanitary (SPS) 
+Measures standards; upgrade diagnostic 
+laboratory competencies; and participate in the 
+FAO-World Organisation for Animal Health (OIE) 
+global strategy. 
+Train SIVPSS epidemiology/SPS unit staff to 
+effectively use the SPS Agreement, OIE codes 
+and other international standards during 
+negotiations. 
+Markets: High price fluctuations and competition 
+from imports and other domestic agribusiness 
+enterprises. 
+Collective contracts: contractual obligations, e.g. 
+for product delivery to collection points, are not 
+fully observed and informal or formal contracts 
+break down.  
+Moderate 
+Training for value chain actors on product 
+positioning and diversification.  
+Moderate 
+Training for value chain actors on business 
+management, and regular monitoring. 
+Overall 
+Moderate 
+10 
+EB 2021/LOT/P.13 
+35.  The main financial management (FM) risks are as follows: 
+Table 5 
+Financial management risks 
+Indicator  Risk 
+Flow of 
+funds 
+Internal 
+control 
+Exposure to exchange rate 
+losses from United States 
+dollar to local currency; delay 
+in receiving government 
+contributions in a timely 
+manner which would lead to 
+risk of IFAD pre-financing of 
+Government contributions; 
+delay in receiving community 
+contributions related to 
+matching grant mechanism 
+A significant portion of the 
+project budget will be spent 
+via community grants and by 
+smaller implementing 
+agencies, the internal control 
+environment within these 
+structures are generally 
+considered weak given large 
+geographical spread of 
+project. APIU will use various 
+smaller implementing 
+agencies which may not have 
+a sound internal control 
+environment. 
+Inherent  
+FM risk 
+Moderate 
+Substantial 
+Residual 
+FM risk 
+Low 
+Moderate 
+Mitigation actions 
+(i) Accounting software to include cash flow 
+forecasting module which is relied on to 
+determine the local currency cash need on 
+daily basis; (ii) project funds are kept in the 
+United States dollar account until needed, 
+limiting exposure to exchange rate fluctuations; 
+(iii) develop an outlined process within financial 
+manual to engage with Government (via APIU) 
+when there are delays in receiving Government 
+contributions; (iv) early escalation of the issue 
+to Government with the aim of reducing delays 
+(i) APIU receives monthly reports from 
+implementing partners which it reviews, 
+monitors and records in the accounting 
+software; (ii) ARIS is responsible for 
+community-level implementation and has an 
+office with financial management structure in 
+each Oblast which provides oversight over 
+community-level activities; (iii) the financial 
+manual to document detailed controls related to 
+community grant payments/disbursements and 
+detailed controls related to 
+payments/disbursements to smaller 
+implementing partners; (iv) both APIU and 
+ARIS is subject to a review by the Chamber of 
+Accounts. 
+B.  Environment and social category  
+36.  The project is considered to be an environment and social category B operation, as 
+it is not expected to have any significant adverse environmental or social 
+implications. The project will support the sustainable governance and integrated 
+management of forest-rangeland resources in changing climatic conditions. 
+Investments in pasture infrastructure and grants to support businesses of rural 
+women and youth are on a small scale and will comply with national regulations on 
+environment, labour and occupational safety. They are not expected to have 
+adverse negative social and environmental impact.  
+C.  Climate risk classification  
+37.  The project's climate risk classification is considered high. Kyrgyzstan’s 
+mountainous landscape is subject to extreme climatic events such as flooding, 
+mudslides and drought. The project is intended to rehabilitate highly degraded 
+areas such as hillsides and deforested slopes. The project’s main entry point to 
+address climate challenges is through the facilitation of integrated planning of 
+forest-rangeland areas under the control of PUUs and leskhoses [territorial 
+management units]. The project will finance adaptation activities in the form of 
+integrated management plans through a competitive grant scheme, and also plans 
+to raise additional climate finance from the Adaptation Fund to enlarge the impact 
+of the scheme. A climate risk assessment was conducted during the project design.  
+D.  Debt sustainability  
+38. 
+In September 2020, Kyrgyzstan’s external debt reached an all-time high of US$8.7 
+billion, then fell slightly to US$8.6 billion in the first quarter of 2021. The increase 
+in the nominal value of the external debt is mainly driven by exchange rate 
+differences resulting from the devaluation of the som, together with the effects of 
+the COVID-19 pandemic. In March 2021, nominal GDP reached US$1.4 billion 
+which is less by US$1 billion when compared to the last quarter of 2020 
+11 
+EB 2021/LOT/P.13 
+(US$2.4 billion in December 2020). By the end of 2021, government debt is 
+expected to account for 63 per cent of GDP. 
+IV.  Implementation 
+A.  Organizational framework 
+Project management and coordination 
+39.  The MoA will have overall responsibility for project management on behalf of the 
+Government. The project will work under the guidance of a steering committee 
+with representatives from the following institutions: MoA (committee chair), SAEPF 
+(national designated authority and committee co-chair), MES, SALSGIER and the 
+State Agency of Architecture, Construction, Housing and Communal Services. The 
+steering committee will include, as observers, representatives of civil society as 
+well as of national academia and the research sector.  
+40.  The APIU of MoA, and ARIS, which are both currently involved in implementing 
+IFAD’s ongoing portfolio, will have the primary responsibility for implementation of 
+RRPCP. APIU will have overall responsibility for project oversight and coordination, 
+and ARIS will be responsible for all those aspects that involve communities and the 
+management of project grants.  
+Financial management, procurement and governance  
+41.  Financial management. IFAD considers both the APIU and ARIS to have the 
+required financial management capability and capacity to implement the RRPCP. 
+APIU will manage the largest part of the project budget and will have the main 
+responsibility for preparing the consolidated budgets and reports. ARIS and other 
+implementing agencies will be responsible for project expenditure related to its 
+allocated components and reporting to the APIU. Before implementation starts, 
+vacant positions, especially at ARIS main office and the Oblast offices, should be 
+filled and configuration of the project in the accounting software should have been 
+finalized by both APIU and ARIS. APIU should improve the annual workplan and 
+budget (AWP/B) preparation process by ensuring that all agencies provide budget 
+inputs as per IFAD requirements. APIU should work on improving project 
+monitoring by preparing a consolidated budget to actual expenses comparison on a 
+quarterly basis and by addressing any implementation issues in a timely manner.  
+42.  Procurement of goods, works and services under the project will be conducted by 
+the APIU and ARIS procurement units pursuant to their respective implementation 
+responsibility. Both the APIU and ARIS have a good track record with 
+implementation of IFAD and World Bank procurement. Procurement will be done in 
+line with IFAD’s procurement guidelines.  
+43. 
+In terms of governance, the project design incorporates various measures to 
+assure good governance as indicated by overall operational accountability and 
+transparency; financial management; procurement of goods and services; 
+environmental governance; gender equality and mechanisms for complaints and 
+remedies. 
+B.  Planning, monitoring and evaluation, learning, knowledge 
+management and communication 
+44.  Planning. The period covered by each AWP/B will coincide with the Government’s 
+fiscal year, from January to December. The project will develop the AWP/B through 
+a participatory approach. ARIS and the other project implementing agencies will 
+compile AWP/Bs for components under their responsibility, with due consultation of 
+stakeholders, and submit them to the APIU for final agreement and consolidation.  
+45.  Monitoring and evaluation. The project’s logical framework and the COSOP 
+results framework will form the basis for the overall result-based monitoring and 
+evaluation (M&E) system and comprise performance monitoring and impact 
+12 
+EB 2021/LOT/P.13 
+assessment. The APIU M&E staff will have lead responsibility for all internal M&E of 
+the project.  
+46.  Knowledge management and strategic communication. Knowledge 
+management will enable the country programme to build a knowledge base of 
+actionable data that can be used to better address challenges tackled by the 
+RRPCP. It will comprise a communication strategy for relevant stakeholder groups, 
+using a project website for communication of basic information about project 
+features and updates on implementation, platforms for data management to 
+maintain statistics, a repository of knowledge products such as reports and studies 
+for analysis and official reporting, as well as brochures, booklets and audiovisual 
+communication for awareness-raising and training purposes.  
+Innovation and scaling up 
+47.  The project will introduce an integrated approach to natural resource management 
+whereby land use issues are resolved at the district level by representative organs 
+of the key stakeholders, rather than isolated communities. This will include 
+institutions currently managing pastures, rangelands and forests. Joint 
+consultation, planning and coordination by all relevant stakeholders using a 
+common ecosystem approach will result in expedited and lasting governance and 
+management results. The proposed nation-wide evidence-based M&E system for 
+pastures and forests is also an innovative feature of the project. Moreover, the 
+project will initiate a participatory consultative process for rationalizing the 
+mandate of three government agencies or departments indirectly responsible for 
+food safety certification, and will support a field pilot for cost-effective updating of 
+animal identification data for cattle.  
+C.  Implementation plans 
+Implementation readiness and start-up plans 
+48.  The RRPCP will be implemented by the existing APIU and ARIS. Therefore, the 
+fundamental implementation infrastructure is expected to be ready at entry into 
+force. The recruitment process of the coordinators, and other specialists required 
+for early implementation as foreseen in the procurement plan, should commence 
+immediately upon ratification of the financing agreement. 
+49. 
+Supervision, midterm review and completion plans  
+IFAD's supervisory function will be ongoing and support will be provided to resolve 
+any issues that may arise during implementation. Supervision missions will take 
+place at least once a year and will be organized by IFAD’s subregional hub based in 
+Istanbul. A midterm review will be carried out three years after project start-up. 
+The project completion review will be undertaken by the Government in close 
+coordination with IFAD at the end of the implementation cycle in order to report on 
+the results achieved through project interventions. The learning dimension of the 
+completion process will be emphasized since it provides useful information for 
+improvements in future programme and project designs and programming.  
+V.  Legal instruments and authority 
+50.  A project financing agreement between the Kyrgyz Republic and IFAD will 
+constitute the legal instrument for extending the proposed financing to the 
+borrower. A copy of the negotiated financing agreement is attached as appendix I. 
+51.  The Kyrgyz Republic is empowered under its laws to receive financing from IFAD. 
+52. 
+I am satisfied that the proposed financing will comply with the Agreement 
+Establishing IFAD and the Policies and Criteria for IFAD Financing. 
+13 
+EB 2021/LOT/P.13 
+VI.  Recommendation 
+53. 
+I recommend that the Executive Board approve the proposed financing in terms of 
+the following resolution:  
+RESOLVED: that the Fund shall provide a loan on highly concessional terms to 
+the Kyrgyz Republic in an amount of sixteen million, two hundred and 
+seventy-four thousand special drawing rights (SDR 16,274,000), equivalent 
+to approximately twenty-three million, thirty four thousand United States 
+dollars (US$23,034,000) and upon such terms and conditions as shall be 
+substantially in accordance with the terms and conditions presented herein. 
+RESOLVED FURTHER: that the Fund shall provide a grant to the Kyrgyz 
+Republic in an amount of five million, eight hundred and twenty-nine 
+thousand special drawing rights (SDR 5,829,000), equivalent to 
+approximately eight million, two hundred and fifty thousand United States 
+dollars (US$8,250,000) and upon such terms and conditions as shall be 
+substantially in accordance with the terms and conditions presented herein. 
+Gilbert F. Houngbo 
+President 
+14 
+Appendix I 
+EB 2021/LOT/P.13 
+Negotiated financing agreement 
+Regional Resilient Pastoral Communities Project 
+(RRPCP)" 
+(Negotiations concluded on 17 November 2021) 
+Loan Number: [click and insert number] 
+Grant Number: [click and insert number] 
+Project Title: Regional Resilient Pastoral Communities Project (RRPCP) (the “Project”) 
+The Kyrgyz Republic (the “Borrower/Recipient”) 
+and 
+The International Fund for Agricultural Development (the “Fund” or “IFAD”) 
+(each a “Party” and both of them collectively the “Parties”) 
+The Parties hereby agree as follows: 
+Section A 
+The 
+following  documents  collectively 
+1. 
+financing  agreement  (the 
+“Agreement”): this document, the Project Description and Implementation Arrangements 
+(Schedule 1), the Allocation Table (Schedule 2) and the Special Covenants (Schedule 3). 
+form  this 
+2. 
+The  Fund’s  General  Conditions  for  Agricultural  Development  Financing  dated 
+29 April 2009, as most recently amended as of December 2020, and as may be amended 
+hereafter  from  time  to  time  (the  “General  Conditions”)  are  annexed  to  this  Agreement, 
+and  all  provisions  thereof  shall  apply  to  this  Agreement.  For  the  purposes  of  this 
+Agreement, the terms defined in the General Conditions shall have the meanings set forth 
+therein. 
+The  Fund  shall  provide  a  loan  (the  “Loan”)  and  a  grant  (the  “Grant”)  to  the 
+3. 
+Borrower/Recipient 
+the 
+Borrower/Recipient shall use to implement the Project in accordance with the terms and 
+conditions of this present Agreement. 
+“Financing”),  which 
+(together 
+referred 
+to  as 
+the 
+Section B 
+A. The amount of the Loan is sixteen million two hundred seventy four thousand SDR 
+1. 
+(SDR 16 274 000). 
+B. The amount of the Grant is five million eight hundred twenty nine thousand 
+SDR (SDR 5 829 000). 
+The Loan is granted on highly concessional terms, and shall be free of interest but 
+2. 
+shall bear a fixed service charge of three fourths of one per cent (0.75%) per annum if 
+the Loan was approved by the Fund’s Executive Board (the “EB”) in December 2021. The 
+service charge will be payable semi-annually in the Loan Service Payment Currency. The 
+1 
+Appendix I 
+EB 2021/LOT/P.13 
+Loan shall have a maturity period of forty (40) years, including a grace period of ten (10) 
+years starting from the date of approval of the Loan by the Fund’s EB. The principal of the 
+Loan will be repaid at four and half per cent (4.5%) of the total principal per annum for 
+years eleven (11) to thirty (30), and one per cent (1%) of the total principal per annum 
+for years thirty-first (31) to forty (40). 
+3. 
+The Loan Service Payment Currency shall be in United States Dollar. 
+4. 
+The first day of the applicable Fiscal Year shall be 1 January. 
+Payments of principal and service charge shall be payable on each 15 May and 15 
+5. 
+November. 
+6. 
+There shall be four (4) Designated Accounts denominated in United States Dollars 
+(USD) opened by the Borrower/Recipient in a commercial bank identified by the Ministry 
+of  Finance  (the  “MoF”)  through  which  the  proceeds  of  the  IFAD  Financing  shall  be 
+channeled. Two Designated Accounts shall be for the Agricultural Projects Implementation 
+Unit (the “APIU”);  one  for the  Loan and one for the  Grant, and two for the Community 
+Development and Investment Agency (the “ARIS”). 
+7. 
+There  shall  be  four  (4)  Project  Accounts  in  local  currency  opened  by  the 
+Borrower/Recipient to receive and hold the proceeds of the Financing transferred from the 
+Designated Accounts. 
+8. 
+The Borrower/Recipient shall contribute to the Project in an amount of seven hundred 
+ninety nine thousand United States Dollars (USD 799,000) including the payment of taxes 
+and  duties  levied  in  the  implementation  of  the  Project  as  well  as  to  cover  part  of  the 
+operational expenditures of state bodies involved in the implementation of the Project. 
+Section C 
+The Lead Project Agency (the “LPA”) shall be the Ministry in charge of Agriculture of 
+1. 
+the Kyrgyz Republic. 
+2. 
+The  following  are  designated  as  additional  Project  Parties:  (a)  the  APIU;  (b)  the 
+ARIS;  (c)  the  State  Inspectorate  for  Veterinary  and  Phytosanitary  Security  (SIVPS); 
+(d) the Kyrgyz Agrarian University (KNAU); (e) the Department of Chemicalization, Plant 
+Protection  and  Quarantine  under  the  MoA;  (f)  the  Pasture  and  Livestock  Breeding 
+Department  under  the  MoA;  (g)  the  State  Forestry  Agency;  (h)  Kyrgyz  Livestock  and 
+Pasture  Research  Institute  (KLPRI);  (i)  Kyrgyz  Scientific  Research  Veterinary  Institute 
+(KSRVI), and (j) Kyrgyz Veterinary Association (KVA). 
+The Project Completion Date shall be the sixth (6th) anniversary of the date of entry 
+3. 
+into  force  of  this  present  Agreement  and  the  Financing  Closing  Date  shall  be  6  months 
+later, or such other date as the Fund may designate by notice to the Borrower/Recipient. 
+4. 
+A Mid-Term Review will be conducted as specified in Section 8.03 (b) and (c) of the 
+General Conditions; however, the Parties may agree on a different date for the Mid-Term 
+Review of the implementation of the Project. 
+5. 
+Procurement of goods, works and services financed by the Financing shall be carried 
+out in accordance with procurement methods and any other measures identified by IFAD. 
+Section D 
+2 
+Appendix I 
+EB 2021/LOT/P.13 
+The Fund will administer the Financing and will supervise the Project. 
+Section E 
+The following are designated as additional general conditions precedent to 
+1. 
+withdrawal: 
+(a)  The Project Steering Committee (the “SC”) referred to in paragraph 6 of Schedule 1 
+to this present Agreement shall have been duly established and fully functioning; 
+(b)  The Project key personnel (namely the APIU Director, the APIU Finance Manager and 
+the APIU Procurement Manager) subject to no objection by the Fund, shall have been duly 
+appointed; 
+(c)  The draft Project Implementation Manual (the “PIM”), referred to in section C part II 
+of Schedule 1 to this Agreement shall have been submitted and no-objected by the Fund. 
+(d)  A fully functional accounting software shall have been established at the APIU and 
+ARIS levels, to the satisfaction of the Fund. 
+(e)  The  designated  account  and  the  operating  accounts  are  opened  and  the  sample 
+signatures have been sent to IFAD. 
+(f) 
+The  necessary  contractual  arrangement  between  the  MoF  and  ARIS  shall  be 
+concluded,  in  order  to  set  the  terms  and  conditions  of  their  cooperation  for  the 
+implementation of the Project, subject to a non-objection from the Fund. 
+2. 
+The following are designated as additional ground for suspension of this Agreement: 
+(a)  The  PIM,  or  any  provision  thereof,  has  been  waived,  suspended,  terminated, 
+amended  or  modified  without  the  prior  agreement  of  the  Fund,  and  the  Fund  has 
+determined  that  such  waiver,  suspension,  termination,  amendment  or  modification  has 
+had, or is likely to have, a material adverse effect on the Project, and the Borrower has 
+not taken any measures to remedy the situation. 
+(b)  The Project key personnel (namely the APIU Director, the APIU Finance Manager and 
+the  APIU  Procurement  Manager)  are  appointed,  transferred  or  removed  from  their 
+functions without the prior concurrence of the Fund. 
+(c)  The  necessary  contractual  arrangement  between  the  MoF,  and  ARIS  shall  be 
+concluded,  in  order  to  set  the  terms  and  conditions  of  their  cooperation  for  the 
+implementation of the Project, subject to a non-objection from the Fund. 
+3. 
+This present Agreement is subject to ratification by the Borrower/Recipient. 
+The following are the designated representatives and addresses to be used for any 
+4. 
+communication related to this Agreement: 
+For the Borrower/Recipient: 
+[click and type title of the representative] 
+3 
+Appendix I 
+EB 2021/LOT/P.13 
+[click and type the name and address of the ministry] 
+For the Fund: 
+The President 
+International Fund for Agricultural development 
+Via Paolo di Dono 44 
+00142 Rome, Italy 
+KYRGYZ REPUBLIC 
+____________________ 
+"[Authorised Representative Name]"  
+"[Authorised Representative title]"  
+INTERNATIONAL FUND FOR 
+AGRICULTURAL DEVELOPMENT 
+___________________ 
+Gilbert F. Houngbo 
+President 
+4 
+Appendix I 
+EB 2021/LOT/P.13 
+Schedule 1 
+Project Description and Implementation Arrangements 
+I. 
+Project Description 
+1. 
+Target  Population.  The  Project  has  a  national  coverage.  It  will  primarily  support 
+vulnerable  rural  households  whose  livelihoods  depend  on  rangelands  and  forests, 
+comprising: (i) households practicing mobile extensive livestock rearing; (ii) households 
+extracting forest products; (iii) households producing fodder; and (iv) rural women and 
+youth. Particular attention will be given to the participation of women and youth. 
+2. 
+Goal. The goal of the Project is to contribute to rural poverty alleviation in the country 
+through  increased  resilience,  incomes  and  enhanced  economic  growth  in  rural  farming 
+communities. 
+Objectives.  The  objective  of  the  Project  is  improved  livestock,  pasture  health  and 
+3. 
+productivity and enhanced climate resilience of pastoral communities reflected in improved 
+and equitable returns to pastoral farmers. 
+4. 
+Components. The Project shall consist of the following three (3) Components: 
+4.1.  Component  1.  Sustainable  community-based  integrated  forest-rangeland 
+ecosystem management. The objective of this Component is resilient and sustainable 
+management of integrated forest-rangeland ecosystems. 
+4.1.1. 
+Sub-component  1.1:  Climate  resilient  forest-rangeland  ecosystem  planning 
+and monitoring. This sub-component will improve the governance and sustainable use of 
+forest-rangeland  resources.  Sustainable  pasture  management  will  include  practices  in 
+grazing  management,  herd  management,  reducing  grazing  pressures  and  pasture 
+rehabilitation and maintenance of infrastructure. 
+Sub-component 1.2: Green investments for forest and rangeland rehabilitation. 
+4.1.2. 
+This sub-component will support implementation of plans in Pasture Users Unions (PUUs) 
+and Leskhozes/forest users associations within the target districts through two windows 
+of intervention (for PUUs Leskhozes/forest users associations). 
+4.2.  Component  2:  Strengthening  the  Food  Safety  System.  The  objective  of  this 
+component is to strengthen the Kyrgyz livestock sanitary system to support the production 
+of safe products for national and export markets. 
+4.2.1. 
+Subcomponent 2.1: Strengthening the public-private veterinary system. This 
+subcomponent  will  strengthen  the  public  private  veterinary  system  through  the 
+strengthening of the country’s capacity for food safety. 
+4.2.2. 
+Subcomponent  2.2  Supporting  the  State  Food  Safety  Institutions.  This 
+subcomponent  will  support  food  safety  institutions  through  the  introduction  of  modern 
+food safety certification procedure. 
+4.3.  Component  3:  Climate  resilient  value  chains  for  women  and  youth.  The 
+objective of this Component is to strengthen value chain actors, with focus on poor women 
+and youth, to invest in profitable value chains through linking them with financial products. 
+4.3.1. 
+Subcomponent  3.1  Climate-resilient  value  chains  development.  This 
+Subcomponent  will  provide  a  comprehensive  capacity  development  across  a  number  of 
+5 
+Appendix I 
+EB 2021/LOT/P.13 
+selected value chains, from planning to marketing. It will also identify adaptation needs 
+and best climate interventions. 
+4.3.2. 
+Subcomponent  3.2  Climate-resilient  value  chains  financing.  This  sub-
+component  will  support  participants  of  selected  value  chains  through  climate  sensitive 
+competitive demand-driven investment packages that include a grant element. The Project 
+will  also  partner  with  Financial  Service  Providers  (FSPs),  subject  to  no  objection  by  the 
+Fund,  targeting  agricultural  development  to  link  them  with  actors  in  the  selected  value 
+chains. 
+4.4  Component 4: Project Management. This component shall provide financing for 
+the overall management of the Project 
+II. 
+Implementation Arrangements 
+A.  Organisation and management 
+The  Lead  Project  Agency  (LPA):  The  MoA  will  be  the  Lead  Project  Agency  for  the 
+5. 
+Project. 
+6. 
+Steering  Committee  (SC):  Establishment  and  composition:  The  SC  will  formed  by 
+the  following  institutions:  MoA  (Chair  of  the  SC),  the  Ministry  of  Natural  Resources, 
+Environment and Technical Supervision (Co-Chair of the SC), the Ministry of Emergency 
+Situations,  the  State  Agency  for  Architecture,  Construction,  Housing,  and  Communal 
+Services and the  representatives  of three NGOs in agriculture. The Steering Committee 
+will include, as observers, representatives of civil society as well as of national academia 
+and the research sector of the country. 
+7. 
+Responsibilities:  the  SC  will  have  the  following  main  functions:  i)  provide  political 
+and strategic orientation; ii) secure good inter-institutional coordination; iii) promote and 
+enhance  coordination  within  the  donors’  community;  and  iv)  review  and  approve  the 
+annual work plans and budgets. 
+8. 
+The Agricultural Projects Implementation Unit (APIU). Core activities: Under the MoA 
+and  in  collaboration  with  ARIS,  APIU  will  have  overall  responsibility  for  Project 
+implementation, coordination, oversight and reporting to IFAD and the Cabinet of Ministers 
+of  the  Kyrgyz  Republic.  Other  APIU's  core  responsibilities  include  inter  alia  (i)  financial 
+management, comprising procurement, disbursement, accounting, auditing and financial 
+reporting, (ii) managing the performance of the partner national organizations responsible 
+for  implementation  of  specific  Project  activities;  (iii)  establishing  commissions  for 
+procurement  procedures,  shortlisting,  evaluating,  contracting  and  managing  the 
+performance  of  service  providers,  (iv)  overall  Project  monitoring  and  evaluation  (M&E), 
+(v) preparing, consolidating and approving the staffing table, the Annual Work Plan and 
+Budget  (AWPB)  and  submitting  it  to  IFAD  and  the  Ministry  of  Finance  of  the  Kyrgyz 
+Republic  for  approval;  and  (vi)  maintaining  a  results-based  system  of  assessing  the 
+performance of the partner organizations employing trigger and benchmarks. 
+9. 
+Component activities: The following activities shall be implemented by the APIU: 
+a) 
+b) 
+Subcomponent 1.1 in full, excluding activities that are implemented by ARIS 
+related to mobilization and awareness building of community and smallholders’ 
+groups; 
+Component 2 in full, with the relevant implementation partners. 
+c) 
+Component 3 related to oversight of the selection of value chains. 
+6 
+Appendix I 
+EB 2021/LOT/P.13 
+10.  Community Development and Investment Agency (ARIS). Core activities. ARIS will 
+have  the  overall  responsibility  for  the  Project  implementation  at  the  community  level, 
+focused  on  Community  Landscape  Management  Groups  (CLMGs),  PUUs,  Leshozes  and 
+forest  users’  associations;  and  smallholders’  groups  including  the  administration  of  all 
+Project grant funds. ARIS will also ensure (i) coordination and accountability for effective 
+performance  of  the  combination  of  its  own  ARIS  staff  and  technical  inputs  from  the 
+government’s agencies, public organizations and NGOs which may be contracted by ARIS 
+to implement parts of project activities specified in the Project design and other project’s 
+contracted  service  providers  in  implementation  of  the  community-focused  activities  for 
+which  ARIS  is  responsible,  (ii)  the  M&E  of  its  own  activities,  including  monitoring  of 
+performance  indicators,  assembly  and  dissemination  of  information  for  knowledge 
+management, and the related reporting both to its own management and to the APIU to 
+ensure that the APIU is fully informed and can provide timely and appropriate guidance to 
+ARIS  and,  (iii)  the  Financial  management  of  all  its  activities  including  procurement, 
+disbursement, accounting, auditing and financial reporting. 
+11.  Component activities. The following activities shall be implemented by ARIS: 
+some elements of Subcomponent 1.1 related to mobilization and awareness building 
+a) 
+of community and smallholders’ groups; 
+b) 
+all of Subcomponent 1.2, and 
+Component  3  in  full,  where  APIU  will  exercise  oversight  on  the  selection  of  value 
+c) 
+chains. 
+12.  Knowledge Management. RRPCP is expected to generate learning and knowledge on 
+several  aspects  that  will  be  documented  for  sharing  with  key  decision-makers  and  for 
+policy advocacy. 
+B.  Project Implementation Manual (the “PIM”) 
+13.  .Preparation.  The  Borrower/Recipient  shall  prepare,  in  accordance  with  terms  of 
+reference  subject to no objection by the Fund, a PIM,  which shall include, among  other 
+arrangements: (i) institutional coordination including composition of SC, and day-to-day 
+execution  of  the  Project;  (ii)  Project  budgeting,  disbursement,  financial  management, 
+procurement  monitoring,  evaluation,  reporting  and  related  procedures;  (iii)  detailed 
+description  of  implementation  arrangements  for  each  Project  component;  and  (iv)  such 
+other administrative, financial, technical and organizational arrangements and procedures 
+as shall be required for the Project. 
+14.  Approval and Adoption. The LPA shall forward the draft PIM to the Fund for comments 
+and approval. The LPA shall adopt the PIM in the form approved by the Fund, and the LPA 
+shall promptly provide copies thereof to the Fund. The Borrower/Recipient shall carry out 
+the Project in accordance with the PIM and shall not amend, abrogate, waive or permit to 
+be amended, abrogated, or waived, the aforementioned manual, or any provision thereof, 
+without the prior written consent of the Fund. 
+C. 
+Procurement 
+15.  Procurement for the purpose of this Agreement shall be carried out in accordance 
+with the Fund’s Project Procurement Guidelines of 2019 as amended from time to time. 
+No  vaccines  shall  be  procured  without  being  certified  by  a  Reference  Laboratory  of  the 
+World 
+Organisation of Animal Health (the “OIE”). Specifications for vaccines procured for animal 
+diseases shall be based on international standards developed or recommended by the OIE. 
+7 
+Appendix I 
+EB 2021/LOT/P.13 
+D.  Supervision 
+16.  Under  the  responsibility  of  the  LPA,  an  MTR  shall  be  conducted  at  the  end  of  the 
+third  Project  Year,  to  assess  the  progress,  achievements,  constraints,  emerging  impact 
+and  likely  sustainability  of  the  Project  and  make  recommendation  and  necessary 
+adjustments for the remaining period of disbursement. The MTR shall be carried out jointly 
+by the Borrower/Recipient and the Fund. 
+8 
+Appendix I 
+EB 2021/LOT/P.13 
+Schedule 2 
+Allocation Table 
+1. 
+Allocation of Loan and Grant Proceeds. 
+(a)  The  Table  below  sets  forth  the  Categories  of  Eligible  Expenditures  (defined  in  GC 
+Section 4.08) to be financed by the IFAD Loan and the IFAD Grant; the allocation of the 
+amounts of the IFAD Loan and the IFAD Grant to each Category and the percentages of 
+expenditures for items to be financed in each Category: (see GC Section 4.07(a)) 
+Category 
+I. Civil Works 
+II. Equipment, Goods and 
+Vehicles 
+III. Technical Assistance, 
+Studies, Training and 
+Workshops 
+IFAD Loan 
+Amount  
+(in SDR) 
+IFAD Grant 
+Amount  
+(in SDR) 
+634 000 
+2 555 000 
+Percentage 
+100% net of taxes 
+100% net of taxes 
+64 000 
+4 185 000 
+100% net of taxes 
+IV. Grants 
+11 075 000 
+654 000 
+V. Operating Expenses 
+319 000 
+407 000 
+Unallocated 
+1 627 000 
+583 000 
+Total 
+16 274 000 
+5 829 000 
+100% net of taxes & 
+beneficiaries contribution 
+100% net of taxes & 
+government contribution 
+(b)  The terminology used in the table above is defined as per the: 
+I. 
+Category I “Civil Works” includes inter alia costs of renovation of parts of the 
+building  of  the  Ministry  of  Agriculture,  repair  of  SIVPSS  building  for  an 
+Education center, renovation of laboratories in Serology Department, Virology 
+Department,  Bacteriology  &  Lepto  Department  in  Bishkek,  renovation  for 
+Parasitology Department  and  refurbishing  of  Epidemiology Department and 
+Ascoli Department in Bishkek and renovation of the General laboratory in Osh; 
+to be financed 100% from IFAD loan net of taxes. 
+II.  Category  II  “Equipment,  Goods  and  Vehicles”  includes  inter  alia  costs  of 
+equipment, materials, goods and vehicles to be financed 100% from IFAD loan 
+net of taxes and duties. 
+III.  Category III “Technical Assistance, Studies, Training and Workshops” includes 
+inter  alia  international  and  national  technical  assistance,  studies,  surveys, 
+audit,  accounting  software  and  ARIS  facilitation  for  community  work  to  be 
+financed from the IFAD Grant. 
+IV.  Category  IV  “Grants”.  Financing  of  grants  shall  be  financed  as  per  financing 
+shares agreed with IFAD. This category includes inter alia provision of grants 
+to PUUs and Leskhozes on competitive basis to be financed by IFAD Loan and 
+9 
+Appendix I 
+EB 2021/LOT/P.13 
+beneficiaries; Diversification grants for women and youth grants to be financed 
+by IFAD Loan, IFAD Grant and beneficiaries, and Scholarship Fund for faculty 
+MS / PhD degrees to be financed 100% from IFAD Loan. 
+V. 
+Category  V  “Operating  Cost”  includes  inter  alia  remuneration  of  APIU  staff, 
+allowances  and  contribution  to  the  social  fund  of  the  Kyrgyz  Republic  to  be 
+financed  from  the  IFAD  Grant;  office  running  and/or  vehicles  fuel  & 
+maintenance  for  Forestry  Agency,  KG  sanitary  system  institutions,  and 
+Department of Quarantine & Plant Protection to be financed 100% from IFAD 
+Loan. 
+10 
+Appendix I 
+EB 2021/LOT/P.13 
+Schedule 3 
+Special Covenants 
+In  accordance  with  Section  12.01(a)(xxiii)  of  the  General  Conditions,  the  Fund  may 
+suspend, in whole or in part, the right of the Borrower/Recipient to request withdrawals 
+from  the  Financing  if  the  Borrower/Recipient  has  defaulted  in  the  performance  of  any 
+covenant set forth below, and the Fund has determined that such default has had, or is 
+likely to have, a material adverse effect on the Project: 
+1.  Planning,  Monitoring  and  Evaluation.  The  Borrower/Recipient  shall  ensure  that  (i)  a 
+Planning, Monitoring and Evaluation (PM&E) system shall be established within twelve (12) 
+months from the date of entry into force of this present Agreement. 
+2. 
+Compliance  with  the  Social  Environmental  and  Climate  Assessment  Procedures 
+(SECAP).  The  Borrower/Recipient  shall  ensure  that  the  Project  will  be  implemented  in 
+compliance with IFAD's SECAP and more specifically that the following measures shall be 
+taken: 
+Environment  and  Social  Safeguards.  The  Borrower/Recipient  shall  ensure  that:  (a)  all 
+Project  activities  are  implemented  in  strict  conformity  with  the  Borrower  relevant 
+laws/regulations;  (b)  all  Project  activities  give  special  consideration  to  the  participation 
+and practices of ethnic minority population in compliance with IFAD’s Policy on Indigenous 
+Peoples (2009), as appropriate; (c) proposals for civil works include confirmation that no 
+involuntary land acquisition or resettlement is required under the Project. In the event of 
+unforeseen  land  acquisition  or  involuntary  resettlement  under  the  Project,  the 
+Borrower/Recipient shall immediately inform the Fund and prepare the necessary planning 
+documents; (d) women and men shall be paid equal remuneration for work of equal value 
+under  the  Project;  (e)  recourse  to  child  labour  is  not  made  under  the  Project;  (f)  the 
+measures included in the Gender Action Plan prepared for the Project are undertaken, and 
+the resources needed for their implementation are made available, in a timely manner; 
+and (g) all necessary and appropriate measures to implement the Gender Action Plan to 
+ensure that women can participate and benefit equitably under the Project are duly taken1 
+3. 
+Land tenure security. The Borrower/Recipient shall ensure that the land acquisition 
+process  has  already  been  completed  and  that  compensation  processes  were  consistent 
+with international best practice and free prior and informed consent principles. 
+Anticorruption Measures. The Borrower/Recipient shall comply with IFAD Policy on 
+4. 
+Preventing Fraud and Corruption in its Activities and Operations. 
+Sexual Harassment, Sexual Exploitation and Abuse. The Borrower/Recipient and the 
+5. 
+Project Parties shall ensure that the Project is carried out in accordance with the provisions 
+of  the  IFAD  Policy  on  Preventing  and  Responding  to  Sexual  Harassment,  Sexual 
+Exploitation and Abuse, as may be amended from time to time. 
+6. 
+IFAD  Client  Portal  (ICP)  Contract  Monitoring  Tool.  The  Borrower/Recipient  shall 
+ensure  that  a  request  is  sent  to  IFAD  to  access  the  project  procurement  Contract 
+Monitoring Tool in the IFAD Client Portal (ICP). The Borrower/Recipient shall ensure that 
+all  contracts,  memoranda  of  understanding,  purchase  orders  and  related  payments  are 
+registered in the Project Procurement Contract Monitoring Tool in the IFAD Client Portal 
+(ICP)  in  relation  to  the  procurement  of  goods,  works,  services,  consultancy,  non-
+consulting  services,  community  contracts,  grants  and 
+financing  contracts.  The 
+Borrower/Recipient  shall  ensure  that  the  contract  data  is  updated  on  a  quarterly  basis 
+during the implementation of the Project. 
+11 
+Appendix I 
+EB 2021/LOT/P.13 
+The Key Project Personnel are the APIU Director, the APIU Finance Manager and the 
+7. 
+APIU Procurement Manager. In order to assist in the implementation of the Project, the 
+APIU,  unless  otherwise  agreed  with  IFAD,  shall  employ  or  cause  to  be  employed,  as 
+required, key staff whose qualifications, experience and terms of reference are satisfactory 
+to IFAD. Key Project Personnel shall be seconded to the APIU in the case of government 
+officials  or  recruited  under  a  consulting  contract  following  the  individual  consultant 
+selection method in the IFAD Procurement Handbook, or any equivalent selection method 
+in  the  national  procurement  system  that  is  acceptable  to  IFAD.  The  recruitment  of  Key 
+Project  Personnel  is  subject  to  IFAD’s  prior  review  as  is  the  dismissal  of  Key  Project 
+Personnel. 
+12 
+Logical framework 
+Results Hierarchy 
+Name 
+Outreach 
+1 Persons receiving services 
+promoted or supported by the 
+project 
+1.a Corresponding number of 
+households reached 
+1.b Estimated corresponding total 
+number of households members 
+1
+3
+Indicators 
+Unit of 
+measurement 
+Male 
+Female 
+Young 
+Total number of 
+persons receiving 
+services 
+HH 
+HH members 
+Base
+line 
+ Mid-term  
+ End 
+Target  
+0 
+0 
+0 
+0 
+ 111,400  
+ 1,476,050  
+ 295,210  
+ 1,476,050  
+ 295,210  
+ 738,025  
+ 406,610  
+ 2,952,100  
+0 
+ 111,400  
+ 557,000  
+0 
+ 590,420  
+ 2,952,100  
+Goal: Contribute to 
+reduction of rural poverty 
+in the country through 
+increased resilience, 
+incomes and enhanced 
+economic growth in rural 
+farming communities 
+Development objective 
+Increased incomes of 
+smallholder livestock 
+farmers. 
+Rural households among target 
+group who have increased their 
+index of household assets’ 
+ownership (excluding livestock) 
+Increased productivity per animal in 
+terms of milk yields 
+Increased productivity per animal in 
+terms of weight gains  
+Target population with increased 
+milk, meat, crop or forest produce 
+HH % of target group reporting 
+reduction in disputes over NRs 
+% 
+% 
+% 
+% 
+% 
+SF.2.1 Households satisfied with 
+project-supported services 
+Total number of household members   Number of people 
+Households Percentage (%) 
+% 
+0 
+0 
+0 
+0 
+0 
+0 
+ 0  
+10% 
+0 
+20% 
+ 0  
+20% 
+ 0  
+ 0  
+70% 
+40% 
+2 214 075 
+75% 
+Means of Verification 
+Assumptions 
+Source 
+Frequency 
+Responsibility 
+Baseline 
+and 
+Completion 
+Survey, 
+Project 
+records 
+Baseline 
+and 
+Completion 
+Survey, 
+Project 
+records 
+Baseline 
+and 
+Completion 
+Survey, 
+Project 
+records 
+Baseline, 
+Mid-term 
+and 
+Completion 
+Survey 
+MTR and 
+completion , 
+Continuous 
+APIU M&E unit 
+MTR and 
+completion , 
+Continuous 
+MTR and 
+completion , 
+Continuous 
+Baseline, 
+Mid-term 
+and 
+Completion 
+APIU M&E unit 
+APIU M&E unit 
+APIU M&E unit 
+Baseline, 
+Mid-term 
+and 
+Completion 
+Survey 
+Baseline, 
+Mid-term 
+and 
+Completion 
+APIU M&E unit 
+Stable political 
+and macro-
+economic 
+environment 
+No major 
+natural disaster 
+affects the 
+Project Area 
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+2
+1
+/
+L
+O
+T
+/
+P
+.
+1
+3
+Indicators 
+Means of Verification 
+Assumptions 
+Results Hierarchy 
+Name 
+Unit of 
+measurement 
+Number 
+Households  
+SF.2.2. Households reporting they 
+can influence decision-making of 
+local authorities and project-
+supported service providers 
+Total number of household members   Number of people 
+Households - Percentage (%) 
+Households 
+% 
+Number 
+% 
+1
+4
+Outcome 1: Climate 
+resilient integrated forest-
+rangeland ecosystems 
+are sustainably managed 
+Per centage of persons/households 
+reporting adoption of 
+environmentally sustainable and 
+climate resilient technologies and 
+practices (measured through 
+increased score in the resilience 
+scorecards (CI 3.2.2) 
+Per centage of persons/households 
+reporting improved access to land, 
+forests, water or water bodies for 
+production purposes (CI 1.2.1) 
+Total number of 
+household 
+members 
+- Number of 
+people 
+Households 
+- Households 
+% 
+Size of 
+households 
+reporting improved 
+access to land 
+- Number of 
+people 
+Total no. of 
+households 
+reporting improved 
+access to land 
+– Households 
+Base
+line 
+ Mid-term  
+ End 
+Target  
+417 750 
+Source 
+Frequency 
+Responsibility 
+Baseline, 
+Mid-term 
+and 
+Completion 
+Survey 
+Baseline, 
+Mid-term 
+and 
+completion 
+APIU M&E unit, 
+0 
+0 
+2 214 075 
+75% 
+417 750 
+ 0 
+50% 
+1 476 050 
+278 500 
+0 
+ 0 
+50% 
+1 476 050 
+278 500 
+Output 1.1 Climate 
+resilient institutional 
+processes and capacities 
+strengthened. 
+Multistakeholder groups functioning 
+at the district level with integrated 
+NRM and climate resilient plans 
+(INRMCRPs) agreed and approved.  
+Number of 
+Multistakeholder 
+groups - 
+Number of functioning grievance 
+mechanism systems established 
+with registry of complaints and 
+recording of response times 
+Grievance 
+mechanism 
+system - Number 
+0 
+0 
+ 20  
+ 40  
+Project 
+records 
+Continuous 
+APIU M&E unit,  
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+2
+1
+/
+L
+O
+T
+/
+P
+.
+1
+3
+Government 
+remains 
+committed to 
+develop 
+institutions to 
+promote 
+improved NRM 
+NRM 
+instruments are 
+adopted at 
+district level and 
+implemented 
+Results Hierarchy 
+Name 
+Number of groups supported to 
+sustainably manage natural 
+resources and climate-related risks 
+(CLPMPs implemented (CI 3.1.1) 
+Number of groups supported to 
+sustainably manage natural 
+resources and climate-related risks 
+(INRMPs implemented (CI 3.1.1) 
+Output 1.2: Community 
+based integrated forests 
+and pastures 
+management plans 
+prepared and 
+implemented 
+Indicators 
+Unit of 
+measurement 
+Groups supported 
+- Groups 
+Groups supported 
+- Groups 
+Land brought under climate-resilient 
+practices (CI 3.1.4) 
+Hectares 
+Outcome 2: Smallholder 
+livestock farmers 
+produce safe products 
+for national and export 
+markets 
+Value of official exports of livestock 
+and livestock products meeting 
+international standards compared to 
+the average of the previous five 
+years increased 
+% 
+1
+5
+Output 2.1: Country’s 
+capacity for food safety is 
+strengthened 
+Output 2.2: The Kyrgyz 
+Government introduces a 
+modern food safety 
+certification procedure 
+Outcome 3: Poor 
+women and youth have 
+gained access to 
+remunerative markets 
+Provisional recognition status is 
+permanently removed for sanitary 
+agreements with 2 EAEU countries 
+(Kazakhstan and Russian 
+Federation). 
+The current national food safety 
+certification procedure is 
+rationalized, and a Standard 
+Operating Procedure (SOP) manual 
+is enforced. 
+Rural women and youth reporting at 
+least 30% increase in income from 
+diversification and GHG emission 
+reduction activities 
+Number  
+Number 
+Women 
+Youth 
+Total number of 
+people reporting 
+an increase in 
+income 
+diversification 
+- Number 
+3.2.1 Tons of greenhouse gas 
+emissions (CO2e) avoided and/or 
+sequestered 
+ 
+ 
+ 
+Hectares of land - Area (ha):  
+tCO2e/20 years – Number 
+tCO2e/ha – Number 
+ha 
+number 
+number 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+Base
+line 
+ Mid-term  
+ End 
+Target  
+Source 
+Frequency 
+Responsibility 
+Means of Verification 
+Assumptions 
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+ 100  
+ 363  
+Project 
+records 
+Semi- 
+annually  
+APIU M&E unit, 
+ARIS M&E unit, 
+implementing 
+NGOs 
+ 5  
+ 27  
+3.68 
+ 3  
+ 15  
+ -    
+ 2  
+ -    
+ 1  
+ -    
+ -    
+ 3,750  
+ 1,500  
+ -    
+ 4,500  
+64,750 
+7,605,707 
+117 
+Project 
+records, 
+National 
+statistics 
+Project 
+records, 
+MAWRRD 
+records 
+Project 
+records, 
+MOAF 
+records 
+Annually 
+APIU M&E unit 
+Annually 
+APIU M&E unit 
+Annually 
+APIU M&E unit 
+based on 
+supervision 
+mission and 
+specialist 
+assessments 
+Regional free 
+trade 
+agreements 
+(EAEU) 
+continue to 
+provide  
+opportunities for 
+Kyrgyz livestock 
+exports 
+Endemic animal 
+disease 
+situation in the 
+country remains 
+stable 
+Project 
+records 
+Continuous 
+APIU M&E unit 
+Good quality 
+BDS available 
+Business 
+environment for 
+value chain 
+leaders remains 
+conducive for 
+inclusion of 
+beneficiaries in 
+pro poor value 
+chains 
+E
+B
+2
+0
+2
+1
+/
+L
+O
+T
+/
+P
+.
+1
+3
+tCO2e/ha/year – Number 
+ 
+Number of persons trained in 
+income-generating activities or 
+business management (Rural 
+women and youth are trained on 
+technical and managerial aspects of 
+diversification and Low carbon 
+activities (CI 2.1.2) 
+Indicators 
+Unit of 
+measurement 
+number 
+Male 
+Female 
+Young 
+Persons trained in 
+IGAs or BM (total) 
+- Number of 
+people 
+Competitive grant projects 
+successfully implemented.   
+Number of grants 
+- Number 
+0 
+0 
+0 
+0 
+0 
+0 
+Base
+line 
+ Mid-term  
+ End 
+Target  
+5.9 
+1,019  
+7,131  
+ 2,038  
+Means of Verification 
+Assumptions 
+Source 
+Frequency 
+Responsibility 
+Project 
+records 
+Continuous 
+APIU M&E unit 
+ -    
+ -    
+ -    
+ 8,150  
+ -    
+ 475  
+Project 
+records 
+Continuous 
+APIU M&E unit 
+Results Hierarchy 
+Name 
+Output 3.1: Poor women 
+and youth capacity to 
+successfully operate in 
+value chains 
+strengthened through 
+training and marketing 
+support.  
+Output 3.2: Gender- and 
+youth-sensitive 
+competitive grant 
+proposals prepared and 
+implemented 
+1
+6
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+2
+1
+/
+L
+O
+T
+/
+P
+.
+1
+3
+Appendix III 
+EB 2021/LOT/P.13 
+Integrated Project Risk Matrix 
+Overall Summary 
+Risk Category / Subcategory 
+Inherent risk 
+Residual risk 
+Country Context 
+Political Commitment 
+Governance 
+Macroeconomic 
+Fragility and Security 
+Sector Strategies and Policies 
+Policy alignment 
+Policy Development and Implementation 
+Environment and Climate Context 
+Project vulnerability to environmental conditions 
+Project vulnerability to climate change impacts 
+Project Scope 
+Project Relevance 
+Technical Soundness 
+Institutional Capacity for Implementation and Sustainability 
+Implementation Arrangements 
+Monitoring and Evaluation Arrangements 
+Project Financial Management 
+Project Organization and Staffing 
+Project Budgeting 
+Project Funds Flow/Disbursement Arrangements 
+Project Internal Controls 
+Project Accounting and Financial Reporting 
+Project External Audit 
+Project Procurement 
+Legal and Regulatory Framework 
+Accountability and Transparency 
+Capability in Public Procurement 
+Public Procurement Processes 
+Environment, Social and Climate Impact 
+Biodiversity Conservation 
+Resource Efficiency and Pollution Prevention 
+Cultural Heritage 
+Indigenous People 
+Labour and Working Conditions 
+Community Health and Safety 
+17 
+High 
+Substantial 
+Moderate 
+High 
+High 
+High 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Low 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Substantial 
+High 
+High 
+Moderate 
+Moderate 
+Low 
+Moderate 
+Moderate 
+Moderate 
+Low 
+Low 
+Low 
+Moderate 
+Moderate 
+Low 
+Low 
+Low 
+Low 
+Low 
+Substantial 
+Moderate 
+Moderate 
+Moderate 
+Low 
+Low 
+Substantial 
+Moderate 
+Moderate 
+Low 
+High 
+Substantial 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Low 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+No risk envisaged - 
+not applicable 
+No risk envisaged - 
+not applicable 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Appendix III 
+EB 2021/LOT/P.13 
+Physical and Economic Resettlement 
+No risk envisaged - 
+not applicable 
+Greenhouse Gas Emissions 
+Moderate 
+Moderate 
+Risk Category / Subcategory 
+Inherent risk 
+Residual risk 
+Vulnerability of target populations and ecosystems to climate variability and 
+hazards 
+Stakeholders 
+Stakeholder Engagement/Coordination 
+Stakeholder Grievances 
+Overall 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Low 
+Low 
+No risk envisaged - 
+not applicable 
+Moderate 
+Moderate 
+18 
+Appendix III 
+EB 2021/LOT/P.13 
+Country Context 
+Political Commitment 
+Risk: 
+High 
+Substantial 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Kyrgyzstan is a mountainous, landlocked country of 198,500 km2 bordering Kazakhstan, 
+Uzbekistan, Tajikistan and China. Ninety four per cent of the territory is at an elevation of 
+more than 1,000 meters, and 40 per cent above 3,000 meters. Nearly half of the 
+country’s total area – some nine million hectares – is pastureland, which plays a key role 
+in the country’s economy, society, and culture. The population of Kyrgyzstan is 6.316 
+million (2018) of which 65% live in rural areas 
+and depend predominantly on agriculture and livestock for their livelihood. With an 
+average GDP per capita of US$ 1,293 (2019), Kyrgyzstan is classified as a lower 
+middle-income country. 
+Kyrgyzstan has declared independence from the Soviet Union in 1991. While 
+transitioning to a democratic society and system of government, the country has proved 
+much determined and committed to reducing poverty. This political will was translated 
+through multiple reforms including the new pasture law which was adopted in January 
+2009 has been a pivotal piece of legislation for the development of the livestock sector. 
+This law has decentralized the pastures and rangelands management with the ultimate 
+of further valuing livestock sector to generate revenues for local communities. To 
+operationalize this reform, the government has collaborated with international donors 
+including IFAD in order to raise financing for livestock sector development projects. 
+Risk; 
+The possibility of social unrest exists with political instability associated with a 
+persistent corruption and ethnic divergences. It is likely to lead to a general 
+situation of violence, bribery and elite capture. The country’s constitution was 
+amended multiple times since independence. 
+Mitigations: 
+IFAD will work closely with targeted communities to make sure the resources go to the 
+intended beneficiaries. For this to happen, policy engagement and non-lending activities 
+will be developed and implemented with the purpose of engaging communities at 
+grassroots level. The success of project integrative activities of setting up and 
+reinforcing capacities of Community Pasture Management and Livestock Development 
+Plans (CPMLDPs), which roll out systems for systematically collecting pasture using 
+fees to increase Pasture Users Unions (PUU) revenues, is critical to sustaining projects’ 
+gains, independently of any political crisis. The approval of the Pasture Law in January 
+2009 has started an effective process of reform, putting pastoralists at the centre. 
+Kyrgyzstan has since, established many institutions and regulations, substantially 
+supported by IFAD projects, to move towards the sustainable governance of pasture 
+and forest resources. This project will continue to support PUUs so they become fully 
+autonomous and capable of resisting to any external shocks.. 
+Governance 
+Risk: 
+One of the major factors of the livestock sector’s poor performance in Kyrgyzstan is weak 
+institutions at the national level responsible for ensuring policy and the regulatory 
+framework, producing and transferring required knowledge, and providing technical 
+support to livestock producers. In addition, the lack of institutions at the local level to 
+mobilize farmers to jointly govern communal resources and protect their rights leads to 
+low productivity of the sector, and high incidence of poverty in mountainous livestock 
+communities. 
+Risk; 
+There is a high probability that weak institutions fail to enact the reforms at local level. 
+In an environment of poor governance, investments are likely not to produce the 
+intended outcomes, as resources will not be used appropriately. There is a high-risk 
+level of accountability in the absence of sound governance. 
+19 
+High 
+Substantial 
+High 
+Substantial 
+EB 2021/LOT/P.13 
+Appendix III 
+Mitigations: 
+Under RRPCP, institutional capacity building and governance training activities will be 
+developed and delivered to local stakeholders. These activities will be further 
+strengthened with close follow-up and monitoring, complemented with policy activities. 
+RRPCP will collaborate with local NGOs to fill in the gaps for more social inclusion 
+activities. Project activities will promote rural women, youth empowerment, and inclusive 
+education as necessary. To further improve governance, IFAD’s anticorruption and 
+good governance framework will be applicable to the project. Details thereon are 
+included in the Financial Manual. IFAD will deliver a customized training session to 
+project staff on this topic during project start-up. 
+Macroeconomic 
+Risk: 
+High 
+High 
+High 
+High 
+The economy of the Kyrgyz Republic has been ranked among the moderately free for 
+the past four years. GDP growth during that time has been solid, thanks to gold exports 
+and robust household spending (boosted by remittance inflows from Russia and 
+Kazakhstan); robust wage growth; and a slowdown in inflation. Advancements in 
+economic freedom are being blocked by ongoing and endemic 
+corruption, weak protection of property rights, and excessive government spending which 
+crowds out private-sector activity. The economy has remained resilient to an adverse and 
+volatile external context, growing at an average robust 3.8% since 
+2016, pulled by steady gold exports. 
+Risk; 
+Downside risks to this outlook include the country’s economic dependence on external 
+market led by export of gold and remittances from workers from Russia and 
+Kazakhstan. The economy is poorly diversified and positively correlated with export 
+market. This means that it collapses anytime when commodity markets takes a 
+downturn. The country’s capacity to maintain a satisfactory level of debt service 
+depends on externalities. 
+More specifically, decreasing remittances from Russia also induced by COVID-19, is a 
+risk for the share of the country’s foreign exchange inflows. This will have a direct 
+impact on the smallholders’ capacity to accumulate capital for investments and 
+smallholders ability to maintain their spending status. 
+Mitigations: 
+Overall, this risk level is beyond the project’s scope. However, the project can contribute 
+to mitigate its effects on targeted populations by diversifying livelihoods through livestock 
+value-chain development. By diversifying investment portfolio and building partnerships 
+with private sector, the project will create remunerative jobs 
+for youth and women. This will ultimately result in reduced migration and more social 
+and economic stability with increased smallholders’ capacity to accumulate capital for 
+investments and ability to maintain their spending status. 
+Additionally, the country’s dependence on remittances from Russia for a large share 
+of its foreign exchange inflows will be addressed through partnership with RKDF 
+credit facilities provided on affordable terms to project stakeholders. 
+Fragility and Security 
+Risk: 
+Kyrgyzstan models itself as Central Asia’s only parliamentary democracy, but multiple 
+challenges threaten its stability. Divided ethnically between Kyrgyz and Uzbeks and 
+geographically north and south, the state is deeply corrupt and fails to deliver basic 
+services, in particular justice and law enforcement. Its political institutions are under 
+stress by the ruling system, and the country is underperforming in terms of democracy. 
+Furthermore, there is need to prevent and counter the threat of growing radicalization by 
+bolstering the credibility of public institutions and adopting a more tolerant attitude 
+toward non-violent Islamists. The rapid rise of alternative religious interpretations, often 
+at odds with the state’s concept of traditional identity, are being fuelled in part by 
+endemic corruption and perceptions of incompetency. 
+20 
+High 
+High 
+Appendix III 
+EB 2021/LOT/P.13 
+High 
+High 
+Risk; 
+The risk of violence is high as long as the economic marginalization persists, and weak 
+and corrupt institutions remain accountable for delivering basic services. This is further 
+aggravated by contracting religious interpretations coupled with the latent ethnic 
+tensions, ultimately constituting threats to internal security. 
+Another risk factor includes the effects of the COVID-19 outbreak in the country. The 
+pandemic has negatively impacted all sectors, and if it has to continue further, it will 
+further aggravate the country’s fragility 
+Mitigations: 
+The mitigation measures include strengthened policy activities to address root 
+causes of social tensions, and institutional capacity building activities. IFAD 
+projects will devise non-lending activities aiming at reinforcing local governance and 
+accountability. These activities will be closely monitored with projects to ensure 
+they contribute to stabilizing and socializing targeted communities. COVID-19 
+responses must be prepared. IFAD has already put in place a mechanism of 
+response to the pandemic crisis, which entails greater flexibility including 
+repurposing of project funds as deemed necessary 
+Sector Strategies and Policies 
+Policy alignment 
+Risk: 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+The overall framework for development in Kyrgyzstan is guided by the National 
+Sustainable Development Strategy 2018-2040 (NSDS). The overall goals of the NSDS 
+are the establishment of a state governed by the rule of law, ensuring unity of the nation 
+as a prerequisite for preserving statehood, and the resolution of social issues and 
+challenges. This is achieved through sustainable economic development and 
+macroeconomic stability, improved business environment and 
+investment climate, development of strategic industries, and equitable development of 
+the regions of the country. The priorities defined by the National Council for Sustainable 
+Development with a view to establishing the country’s “Vision for 2040” included 
+improving agriculture, providing development opportunities for 
+smallholders and creating logistics and processing centres, with emphasis on enhanced 
+links between economic access, food security and resilience to shocks in a systemic 
+approach to the design of short-, medium- and long-term strategic objectives and results. 
+The overall framework for development in Kyrgyzstan is guided by the National 
+Sustainable Development Strategy 2018-2040 (NSDS). Specifically for the agricultural 
+sector, the NSDS aims at using the geographical and climatological comparative 
+advantages of Kyrgyzstan to become a leading supplier of high quality ecological and 
+pure, organic agricultural production for the regional markets and the markets of the 
+Customs Union. In the agricultural production system there shall be mid- and high 
+processing facilities, and development of logistical centers for exports (as per the 
+Strategy for Agricultural Development 2017-2022). The strategy 
+foresees farmers to participate actively through cooperatives and other mechanisms 
+for agglomeration, which will help to add value to produce and thus increase income 
+for the local population. 
+Risk; 
+Political and social stability is key to maintaining the engagement framework. There is 
+low risk of Government’s pro-poor strategy to undermine project’s development 
+objectives. However, the lack of ownership and fiscal resources from the Government on 
+its Strategy for Agricultural Development which aimed at providing support to key value 
+chains actors could jeopardize RRPCP’s efforts to increase incomes of smallholder 
+farmers through increased milk, meat, crop or forest produce. 
+Mitigations: 
+The  mitigations measures here  include maintaining and  reinforcing policy  dialogue  in 
+order to  maintain the  engagement, and  to  always ensure that  interventions align  with 
+national  priorities.  Additionally,  RRPCP  will  seek  to  introduce  integrated  policy 
+development, planning and implementation of pasture and forest plans, enabling 
+an ecosystem-based approach which, while taking into account connectedness and 
+interdependence of pasture and forest resources, will bring social stability. The project 
+will increase livelihood resilience, improves smallholder and pastoral productivity, and 
+strengthen market participation of stakeholders. 
+21 
+Appendix III 
+EB 2021/LOT/P.13 
+Policy Development and Implementation 
+Risk: 
+Moderate 
+Moderate 
+Low 
+Low 
+Pasture management reforms in Kyrgyz Republic started as a measure to devolve 
+management responsibilities to local governments and communities due to inability 
+of government to promote sustainable resource management practices and ensure 
+effective management. IFAD supported projects played important roles in this 
+major transfer of vast pasture resources from central and provincial/district level 
+administration to the level of local governments and further to resource users. At 
+the same time, many changes occurred during a period of political instability, which 
+weakened the power of local administrators with stakes in the previous system for 
+managing pastures. Policy development and implementation in Kyrgyzstan is a 
+challenge with weak institutions and unstable political situation. Policy initiatives in 
+support of the smallholders in the livestock sector need to be linked to social 
+targets, such as increased access to pastures, economic factors such as improved 
+animal productivity and profitability (in addition to increased number of livestock), 
+and environmental targets, such as improved areas of pasture and increased areas 
+under sustainable use. 
+Risk; 
+The principal risk at this level is the failure of local institutions to channel effectively 
+the reforms to livestock communities. Such a failure would result in ineffective 
+implementation of investment projects, and ultimately conducive to misuse of 
+resources from foreign investments. 
+Mitigations: 
+Mitigation measures include continued and strengthened donor coordination and 
+policy dialogue with government as a whole, and with key ministries; sustained and 
+enhanced capacity building, and periodic reassessment of capital investment needs 
+by the Government. Furthermore, the project will support the establishment of an 
+expert group comprised of various technical expertise with engagement of local 
+research and outreach organizations to develop and deliver capacity-development 
+interventions to enhance capacity on policy making and rolling out of reforms 
+among key stakeholders, and to enforce policy aimed at introducing resource 
+saving and low-waste agriculture production technologies, and improved agriculture 
+processing techniques. 
+Environment and Climate Context 
+Project vulnerability to environmental conditions 
+Risk: 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+The Kyrgyz Republic’s climate characteristics are related to its location in the centre 
+of the Eurasian continent at a distance from main water bodies and close vicinity to 
+deserts. The population of the Kyrgyz Republic is 6,019,000 as of January 2016, 
+which is predominately rural and unevenly distributed across the 
+country due to its mountainous terrain. Despite progress made in the last few years to 
+reduce extreme poverty, climate risks pose significant threats to ensuring sustainable 
+livelihoods, food security and infrastructure services. Climate-related events, such as the 
+increasing numbers of floods and mudflows each spring, drought in 2008 and severe cold 
+spells in 2008-2009, and the cascading impacts on society and the economy, highlight 
+the country’s vulnerability to climate risks. Climate change will exacerbate existing 
+problems and pose additional risks to the achievement of national sustainable 
+development priorities. 
+The Project is classified as a Category B operation. This rating results from the few 
+identified potentially negative environmental impacts that might be expected from the 
+Project’s field activities. The key activities of the project include pastures 
+/rangelands management (improvement activities), livestock value-chain 
+development, and animal health and food safety. 
+Risk; 
+If no action is taken, environmental and climate related events would further 
+deteriorate the country’s food system and livelihood. The occurrence of climate 
+related disasters such as drought, inundation /mudslides is highly likely and 
+unpredictable. 
+22 
+EB 2021/LOT/P.13 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Appendix III 
+Mitigations: 
+As a category B project with minimal negative environmental impact, RRPCP will focus 
+on raising stakeholders’ awareness of potentially devastating climate effects and ways 
+to cope with or reducing them. By so doing, the project will train to use and equip 
+targeted groups with technological resources including, GPS, Google- Earth, 
+Meteorological data applications. As a result, stakeholders will be able to anticipate 
+climate related events and implement appropriate adaptation or mitigation measures 
+they will have learned along project activities. For instance, they will be able to relocate 
+goods and livestock in such a way to avoid events like floods and mudslides by using 
+weather forecasts. Some project training activities will translate into physical 
+improvement works on pasturelands and infrastructure (fences, pathways, drinking 
+troughs, stalls). Communities will receive training to plan and perform these works in 
+ways, which will reduce the likely effect of related climate hazards. For instance, 
+delineation, pathways and landscaping activities will be implemented in respect of 
+natural slope and drainage. Other mitigations measures include climate-smart 
+agriculture practices and the necessary compliance with IFAD environmental, social and 
+climate-change safeguard procedures whilst seeking a sustainable management of 
+natural resources in the targeted regions. 
+The project will review and enhance the existing guidelines for PUU and Leskhozes 
+plans considering all issues of environment, biodiversity protection and ecosystem 
+functions related to sustainable natural resource management. Areas of focus will 
+include different tenure arrangements for use of forest and rangeland resources, such as 
+municipal forests, including shelterbelts and windbreaks, as well as private and 
+community-based tree plantations, and sustainable fuelwood resources and alternative 
+rural fuel sources. 
+Project vulnerability to climate change impacts 
+Risk: 
+The economy of the Kyrgyz Republic faces unique challenges associated with current 
+and predicted climate change impacts, due to its geographic and topographic 
+characteristics, and the structure of its economy. Changing climate hazards in terms of 
+increasing temperatures and uncertainty in future water discharge are bound to affect 
+the country’s sustainable development path over the next decades. Population growth 
+has resulted in increased pressure on land and water, increased resource consumption. 
+The country lacks infrastructure such as irrigation system, has limited productive arable 
+land under irrigation, and deteriorating pasturelands. 
+Risk; 
+There is a high probability that the country falls short of its development objectives 
+including poverty alleviation, if the current trend of climate hazards continues. Rising 
+temperatures and population growth are likely to result in decreases in precipitation, 
+increased rate of evapotranspiration, insufficient water availability for irrigation of crops 
+and other agricultural uses, and food shortage. 
+Mitigations: 
+In order to mitigate these risk factors, the country must develop and adaptation 
+measures, and adhere to climate policies. IFAD project plans to involve stakeholders at 
+all levels (smallholders, businesses and private stakeholders) in activities addressing 
+issues of climate change and effects. The country’s nationally determined contribution 
+(NDC) to international climate conventions need to be acted upon. The government of 
+Kyrgyzstan collaborates with IFAD and other donors in order to leverage resources to 
+be used toward this development objective. IFAD liaises with the ASAP /climate funds 
+to make more resources available to the country for addressing climate issues 
+adequately. 
+Project activities will guide and support communities (PUUs, CLMGs) to overcome 
+pasture degradation through adoption of pasture rotation and a change in land use 
+practices through training, mentoring and monitoring. The outputs will increase carbon 
+sequestration and enable local communities to become more resilient to the adverse 
+impacts of climate change. Additionally, IFAD will seek to obtain grants from the 
+adaptation funds, which will supplement project resources dedicated to addressing 
+effects of climate change. 
+23 
+EB 2021/LOT/P.13 
+Moderate 
+Low 
+Low 
+Low 
+Low 
+Low 
+Appendix III 
+Project Scope 
+Project Relevance 
+Risk: 
+The RRPCP project is not restricted to any geographical area within the country and 
+the Pasture User Unions (PUUs) in the whole country can be further strengthened to 
+attain sustainability. The targeted end beneficiaries are the major vulnerable social 
+groups in the entire nation, so that the results of Livestock and Market Development 
+Program can be further strengthened and that other areas may benefit from the 
+experience. Targeting will be based on the existence of a 
+village vision or ability to create one, livelihood fragility, actors in the value chains of 
+livestock-derived foods and non-timber forest products, and social vulnerability. 
+RRPCP is relevant as it seeks to address priorities felt by the country government and 
+beneficiaries. Its goal is to contribute to increased incomes and enhanced economic 
+growth in pastoralist communities. Although livestock production contributes heavily to 
+rural livelihoods, nutrition and food security, and to total agricultural sector output 
+growth and exports, productivity is low and far below its potential. The main constrains 
+that need to be addressed are inadequate animal feeding due to poor utilization of 
+pasture resources, poor animal health, inappropriate farm management practices, and 
+weak livestock marketing and processing. 
+Risk; 
+Risk related to the relevance of this project is low, and concerns a potential deviation 
+from the development objective, which about improving livestock communities’ access to 
+productive infrastructure and services, enhancing revenues and reducing the severity of 
+rural poverty in Kyrgyzstan. 
+Mitigations: 
+To mitigate the eventuality of such occurrence, IFAD must ensure that implementation 
+stays on track to achieving the development objective. This is best addressed through 
+regular supervision missions and other follow-up activities. To this end, the project has to 
+remain focussed on achieving the strategic objectives of the COSOP approved by IFAD 
+EB in April 2018. In the course of implementation, the project will work toward increasing 
+smallholders’ equitable and sustainable returns, and enhancing smallholders’ resilience 
+to climate change. The project will also remain consistent with IFAD’s strategic vision 
+and comparative advantage (as elaborated in IFAD’s Strategic Framework 2016-2025), 
+particularly increasing poor rural people’s productive capacities and benefits from market 
+participation. Additionally, as more resources will become available through GCF 
+financing, the project will stay focussed on strengthening the environmental sustainability 
+and climate resilience of poor rural people’s economic activities. 
+Technical Soundness 
+Risk: 
+Moderate 
+Moderate 
+Low 
+Low 
+IFAD’s current country program consists of the Livestock and market Development 
+Project (LMDP2), Access to Market (ATMP), and the soon-to-come Regional Resilient 
+Pastoral Communities Development Project (RRPCP). These projects focus on income 
+diversification and promote alternative sources of income to diversify household 
+economies through improved livestock. The projects explore income-generating options 
+beyond livestock production, to add value to livestock products for creating wealth and 
+employments. While doing this, the projects seek 
+to gradually reduce grazing pressure on pastures and mitigate the impact of climate 
+change by establishing Pasture User Unions to manage the common pastures. 
+They also provide financing and technical assistance to encourage and nurture new 
+economic activities through which the most vulnerable of the rural society – mainly 
+women and youth – can build and develop additional sources of income as a safety net 
+against possible economic losses. The effective implementation of these projects will 
+lead to established socio-economic resilience, enhanced income for youth and women, 
+and reduced youth migration. 
+Risk; 
+Under this section, the risk factor includes the likelihood of elite capture, as the level 
+of corruption is substantial in the country. 
+24 
+EB 2021/LOT/P.13 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Moderate 
+Appendix III 
+Mitigations: 
+In order to reduce the likelihood of this to happen, IFAD must keep an eye on 
+procurement activities, pay attention to the use of funds, and make sure the resources 
+effectively go into the achievement of the intended purpose. Capacity- building activities 
+focusing on procurement and financial management as well as data management must 
+be envisaged. The implementation strategy put in place will ensure that the main project 
+benefits go to households in the 454 PUUs areas that constitute the rural population of 
+the whole country. A high proportion of the target population will be reached by pasture 
+management activities with the largest project investment part going directly to the 
+beneficiaries in the form of competitive grants, training and technical assistance. A 
+system for awarding competitive grants will be established in the target municipalities, 
+and a national monitoring unit will be setup and adequately trained and equipped to track-
+record beneficiaries and selection procedures implemented. 
+Institutional Capacity for Implementation and Sustainability 
+Implementation Arrangements 
+Risk: 
+There are several institutions that have been engaged in implementing past 
+projects as well as in the ongoing LMDP2 and ATMP projects, thus scaling up good 
+practices and lessons learned. The two leading institutions among those are Agricultural 
+Projects Implementation Unit (APIU) under the Kyrgyz Ministry of Agriculture, Food 
+Industry and Melioration (MAFIM), and the Community Development and Investment 
+Agency (ARIS), a large organization with outreach in the field. These institutions will have 
+the prime implementation responsibility for RRPCP as well. In terms of institutional 
+capacity, the government is facing internal challenges in developing the market economy 
+and social inclusion. On the other hand, the gaps in these fields have been partly filled by 
+national NGOs. 
+The MAFIM as IFAD entry point into the country, and primary responsible for the project, 
+has delegated the implementation to the Agricultural Projects Implementation Unit 
+(APIU) and the Community Development Organization (ARIS). APIU has the overall 
+responsibility for coordinating activities and assigning roles to other participating 
+institutions, starting with ARIS. ARIS is the key partner of APIU and ensures field 
+delivery of activities along with local stakeholders and 
+participating community-based organizations. Each participating institution has its 
+areas of responsibility and is financially accountable for the implementation of its 
+portion or component. Community-based organizations and other participating 
+institutions report to ARIS. In its turn, ARIS reports to APIU. A Memorandum of 
+Understanding (MOUs) signed between APIU and ARIS clarifies roles and 
+responsibilities, and work flow. 
+Risk; 
+Both APIU and ARIS are government-controlled institutions. They have accumulated 
+good amounts of experiences in implementing foreign funded projects. Since the level 
+of corruption is substantial in particular in the public sector, one must factor in the 
+possibility of distortion of procurement and /or financial management rules. In addition, 
+decision-making process being generally lengthy in public sector, there is a high 
+probability of project falling behind its calendar in terms of disbursement. Already, the 
+negotiations of the Financing Agreement is lingering for months. Furthermore, the use 
+of multiple implementing agencies and the coordination of activities among them, are 
+additional challenges, which APIU will have to face. The risk of APIU failing to stay up 
+to duty is higher in the face of the workload and wide diverse partners. 
+Mitigations: 
+The mitigation measures include the institutional capacity building. This starts with 
+identifying institutional areas of weakness, and addressing them through specific 
+training activities as well as exchange visit programs with the purpose of instilling a 
+culture of transparency and acquiring good practices. 
+With regard to geographical spread, ARIS has a national footprint with a central 
+office and regional (Oblast) offices across the country. This gives ARIS a wider 
+margin of manoeuvre to handle the widespread of smaller-size implementing field 
+agencies. 
+In terms of coordination and consolidation challenges, APIU currently manages 
+both IFAD and World Bank projects and is experienced in required financial 
+management systems and procedures. Financial Management burden is 
+centralised at APIU and ARIS Head Offices. APIU is experienced in consolidating 
+project information, and R RRPCP will provide financial management training to 
+all agencies at project start-up and annually thereafter. 
+25 
+Appendix III 
+EB 2021/LOT/P.13 
+Monitoring and Evaluation Arrangements 
+Risk: 
+Moderate 
+Moderate 
+Low 
+Low 
+The project’s Logical Framework forms the basis for the overall results-based 
+monitoring and evaluation (M&E) system and comprise performance monitoring, 
+outcome and impact assessment. The APIU M&E staffs have lead responsibility for 
+all internal M&E of the Project. Performance monitoring will concentrate on the 
+financial and physical outputs and the outcomes of Project activities and based 
+upon semi-annual and annual progress reports. Outcome monitoring will assess the 
+use of outputs and measure their benefits at beneficiary level. The monitoring will 
+focus on the accessibility of Project outputs and the extent to which they provide 
+benefits to the target groups in terms of access to finance, services, and markets. 
+Impact indicators have been provided in the Project Logical Framework, and 
+comply with IFAD guidelines. 
+Risk; 
+Risk factors related to M&E include the likelihood of data not being properly or 
+timely collected. Data collected may not be representative of outputs and outcomes 
+due to miscalculation or tallying issues. Data must also be adequately 
+disaggregated. Furthermore, risks at this level may also be about the qualification 
+of the project M&E specialist, and their overall use of appropriate tools. However, 
+up until now, M&E has not caused any concern, and IFAD rating has been 
+consistently satisfactory. 
+Mitigations: 
+IFAD must make sure that capacity-building trainings are provided to assist project 
+M&E staff with, and that the data collection tools in use are in conformity with IFAD 
+guidelines. Regular missions will do fact checking to ensure data quality and 
+reporting. Regular assessments will be carried out to determine and apply 
+corrective measures. 
+Moreover, strong review of technical TORs for the recruitment of possible rotational 
+M&E staff or punctual expertise will be closely reviewed by the Country Team to 
+ensure the highest standard as well as compliance with IFAD’s technical 
+expectations. 
+Project Financial Management 
+Project Organization and Staffing 
+Risk: 
+APIU: APIU is currently responsible for a large workload of 4 projects (IFAD - 
+LMDP1, LMDP 2, ATMP, World Bank - PLMIP) and may not have the ability to take 
+on another project. APIU has one disbursement officer managing 4 projects. Not all 
+APIU staff have completed the IFAD FM e-learning course. APIU does not 
+undertake staff performance evaluations / do not identify areas of improvement 
+(and training needs). APIU staff not aware of IFAD’s updated anti-fraud policy 
+(approved by Executive Board Dec 2018). The APIU Financial Manager was 
+previously a disbursement specialist and promoted to Financial Manager in 
+December 2017. She had no Financial Manager experience prior to her 
+appointment. APIU will use a number of smaller implementing agencies. The 
+competence of these staff has not been assessed at design. 
+ARIS; ARIS is currently managing 9 donor funded projects (including 3 for IFAD) 
+with a possible concern related to capacity to take on RPLP. ARIS indicated that 
+they appoint dedicated staff for new projects, therefore these positions do not 
+currently exist for RPLP. Not all ARIS staff have completed the IFAD FM e-learning 
+course. ARIS does not undertake staff performance evaluations / do not identify 
+areas of improvement (and training needs). 7 ARIS staff resigned in 2018 (only the 
+Financial Manager from the finance team) and a prior supervision missions 
+highlighted a concern regarding ARIS performance. A new Financial Manager was 
+recently appointed. 
+26 
+Moderate 
+Moderate 
+Moderate 
+Low 
+Low 
+Low 
+EB 2021/LOT/P.13 
+Appendix III 
+Mitigations: 
+Existing mitigations: 
+-Overall, the track record of the APIU/ARIS in managing the financial aspects of 
+projects is good and is reflected in the satisfactory FM ratings on existing projects 
+(IFAD internal ratings). 
+-Both APIU and ARIS is currently well staffed to deal with existing projects. ARIS 
+vacancies have been filled). 
+-The ARIS Financial Manager is fairly new but engagements with him during the 
+design were positive. He seems knowledgeable with regards to FM processes and 
+procedures. The disbursement specialists have been with ARIS for a long time and 
+are well experienced. 
+-LMDP 1 and PLMIP will close before commencement of RPLP, indicating a 
+reduced workload for both APIU and ARIS. 
+-The APIU Financial Manager has more than 10 years’ of experience within the 
+finance department. She is qualified and has attended various IFAD specific 
+training related to financial management. 
+-The ARIS Financial Manager has many years of experience in similar positions, 
+including donor project experience. 
+*Additional mitigating recommendations: 
+-Require all new APIU and ARIS staff (and existing staff if applicable) to complete 
+the IFAD FM e-learning course within 1 month of project start-up. 
+-Request the APIU/ARIS to develop a performance evaluation process for FM staff 
+within 1 year of project commencement. This process should identify skills gaps 
+and assist with identifying appropriate training interventions. 
+-Include information on IFAD’s new anticorruption policy in the Financial Manual 
+and host a 1-hour session on the topic at project start-up 
+-Include an undertaking in the financing agreement with APIU that they should 
+ensure that MOUs entered into with smaller implementing partners specify the 
+requirement to employ qualified/experienced accountants. 
+-Require ARIS to appoint one disbursement officer (based in Bishkek) and 7 
+accountants (1 per Oblast) prior to project start-up as a condition precedent in the 
+financing agreement. Recruit from the market on a competitive basis and ensure 
+that the disbursement specialist has prior donor project experience. TORs outlined 
+in draft FM. 
+Project Budgeting 
+Risk: 
+Moderate 
+Moderate 
+Low 
+Low 
+APIU; 
+-Requirement to prepare consolidated AWPB which includes activities of all 
+implementation agencies (ARIS, APIU and other smaller agencies). 
+-For existing projects, consolidated AWPBs are not presented in the correct format 
+as required by IFAD. 
+-Possible exchange rate fluctuations may result in budgets which are not accurate. 
+-For existing projects, the consolidated budget to actual performance is only 
+prepared for the purposes of submitting IFRs to IFAD. Therefore, lack of frequent 
+monitoring at a consolidated level. 
+Mitigations: 
+Existing mitigations: 
+-APIU is experienced in the IFAD AWPB process and for existing projects, submits 
+consolidated AWPBs in a timely manner for IFAD approval. 
+-The current exchange rate environment has resulted in more stable exchange rate 
+which mitigates the risk of inaccurate budgets due to exchange rate fluctuations. 
+-Both ARIS and APIU monitor actual to budget performance for their allocated 
+components on a regular basis. 
+*Additional mitigating recommendations: 
+-Include detailed AWPB template in the Financial Manual. Request APIU to 
+disseminate this template to all agencies and ensure that all agencies prepare their 
+AWPBs using the same template. 
+-Require that quarterly projects meetings be held. For this purposes APIU to 
+prepare a consolidated project budget to actual comparison (per category and 
+component). This requirement to be outlined in the Financial Manual." 
+27 
+Appendix III 
+EB 2021/LOT/P.13 
+Project Funds Flow/Disbursement Arrangements 
+Risk: 
+Moderate 
+Moderate 
+Low 
+Low 
+-Existing projects have SDR loans which are disbursed in USD and have 
+experienced exchange rate losses (USD to SDR) 
+-Difficult to monitor allocated vs. disbursed loans/grants for SDR denominated 
+facilities which are disbursed in USD (experience on existing projects) 
+-Exposure to exchange rate losses (USD to local currency) 
+-Delay in receiving government contributions in a timely manner. Contributions are 
+utilised to pay taxes. 
+-Risk of IFAD pre-financing of Government contributions. 
+-Delay in receiving community contributions related to matching grant mechanism 
+(with impact on project disbursements). 
+Mitigations: 
+Existing mitigations: 
+-Existing projects have reasonable disbursement rates and APIU/ARIS is well 
+experienced in the IFAD disbursement process. 
+-Flow of funds arrangements for existing projects work well and can be replicated 
+for RPLP. 
+-Proposed 1C Accounting Software has cash flow forecasting module which is 
+relied on to determine the local currency cash need daily. Project funds are kept in 
+the USD account until needed, limiting exposure to exchange rate fluctuations. 
+*Additional mitigating recommendations: 
+-Denominated and disburse loans/grants in USD. 
+-Develop/outlined process within Financial Manual to engage with Government (via 
+APIU) when there are delays in receiving Government contributions. Require early 
+escalation of the issue to Government with the aim of reducing delays. 
+-Adopt flow of funds arrangement which is similar to existing projects and with 
+which ARIS/APIU are familiar (see outlined in Financial Manual). 
+Project Internal Controls 
+Risk: 
+Substantial 
+Substantial 
+Moderate 
+Moderate 
+-A significant portion of the project budget will be spent via community grants and 
+by smaller implementing agencies. The internal control environment within these 
+structures are generally considered weak. 
+-Difficult to implement sound internal controls at all levels, especially regional and 
+community level, given large geographical spread of project. 
+Internal Audit: 
+APIU; 
+-The APIU is not included in the MOAM internal audit plan (out of mandate). 
+-The APIU will use various smaller implementing agencies which may not have a 
+sound internal control environment. 
+-The external statutory audit is not expected to test internal controls for the 
+purposes of obtaining reasonable assurance. (Baker Tilly confirmed that they do 
+not rely on controls and do substantive testing only) 
+ARIS; 
+-ARIS internal audit department currently has 2 vacancies (Internal Audit Manager 
+and IA specialist). 
+-The ARIS internal audit programme may not adequately cover community level 
+grant activities. (considered high risk area due to lack of financial management 
+capabilities). 
+-The ARIS Internal audit department is not familiar with IFAD FM specific 
+requirements. 
+28 

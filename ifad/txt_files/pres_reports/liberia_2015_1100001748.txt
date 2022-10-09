@@ -1,0 +1,1409 @@
+Document:
+EB 2015/LOT/P.37/Rev.1
+Date:
+Distribution:
+Original:
+30 December 2015
+Public
+English
+E
+President’s report
+Proposed loan and grant to the Republic of
+Liberia for the Rural Community Finance
+Project
+Note to Executive Board representatives
+Focal points:
+Technical questions:
+Dispatch of documentation:
+Alessandra Zusi Bergés
+Officer-in-Charge
+Governing Bodies Office
+Tel.: +39 06 5459 2092
+e-mail: gb_office@ifad.org
+Ndaya Beltchika
+Country Programme Manager
+West and Central Africa Division
+Tel.: +39 06 5459 2771
+e-mail: n.beltchika@ifad.org
+Michael Hamp
+Lead Technical Specialist
+Policy and Technical Advisory Division
+Tel.: +39 06 5459 2807
+e-mail: m.hamp@ifad.org
+For: Approval
+EB 2015/LOT/P.37/Rev.1
+ii
+iii
+iv
+1
+1
+1
+1
+2
+2
+2
+3
+3
+3
+4
+4
+4
+5
+5
+5
+6
+7
+8
+8
+8
+8
+8
+9
+9
+9
+10
+Contents
+Abbreviations and acronyms
+Map of the project area
+Financing summary
+Recommendation for approval
+I.
+Strategic context and rationale
+A. Country and rural development and poverty context
+B. Rationale and alignment with government priorities and results-
+based country strategic opportunities programme (RB-COSOP)
+II. Project description
+A. Project area and target group
+B. Project development objective
+C. Components/outcomes
+III. Project implementation
+A. Approach
+B. Organizational framework
+C. Planning, monitoring and evaluation, and learning and
+knowledge management
+B. Financial management, procurement and governance
+D. Supervision
+IV. Project costs, financing and benefits
+A. Project costs
+B. Project financing
+C. Summary benefit and economic analysis
+D. Sustainability
+E. Risk identification and mitigation
+V.
+Corporate considerations
+A. Compliance with IFAD policies
+B. Alignment and harmonization
+C. Innovations and scaling up
+D. Policy engagement
+VI. Legal instruments and authority
+VII. Recommendation
+Appendices
+I.
+Negotiated financing agreement
+II.
+Logical framework
+i
+EB 2015/LOT/P.37/Rev.1
+Abbreviations and acronyms
+CAADP
+CBL
+ERR
+M&E
+MFI
+MSEs
+MTR
+OSS
+PIU
+PMU
+PSC
+RB-COSOP
+RCFI
+RIMS
+TASC
+TASU
+Comprehensive Africa Agriculture Development Programme
+Central Bank of Liberia
+economic rate of return
+monitoring and evaluation
+microfinance institution
+micro and small enterprises
+midterm review
+operational self-sufficiency
+programme implementation unit
+programme management unit
+project steering committee
+results-based country strategic opportunities programme
+rural community finance institution
+Results and Impact Management System
+technical assistance and supervision company
+technical assistance and supervision unit
+ii
+EB 2015/LOT/P.37/Rev.1
+Map of the project area
+iii
+EB 2015/LOT/P.37/Rev.1
+Republic of Liberia
+Rural Community Finance Project
+Financing summary
+Initiating institution:
+IFAD
+Borrower:
+Republic of Liberia
+Executing agencies:
+Technical Assistance and Supervision Unit (TASU) and
+Technical Assistance and Supervision Company
+(TASC), and Central Bank of Liberia (CBL)
+Total project cost:
+US$10.86 million
+Amount of IFAD loan:
+Amount of IFAD grant:
+Terms of IFAD loan:
+SDR 4.01 million (equivalent to approximately
+US$5.5 million)
+SDR 0.38 million (equivalent to approximately
+US$0.5 million)
+Highly concessional: maturity period of 40 years,
+including a grace period of 10 years, with a service
+charge of 0.75 per cent per year
+Contribution of borrower:
+US$0.54 million
+Contribution of beneficiaries:
+US$4.39 million including US$3.2 million from
+beneficiaries, US$1.1 million from RCFIs and US$0.09
+million from CBL
+Appraising institution:
+IFAD
+Cooperating institution:
+Directly supervised by IFAD
+iv
+EB 2015/LOT/P.37/Rev.1
+Recommendation for approval
+The Executive Board is invited to approve the recommendation for the proposed
+financing to the Republic of Liberia for the Rural Community Finance Project as
+contained in paragraph 45.
+Proposed loan and grant to the Republic of Liberia for the
+Rural Community Finance Project
+I. Strategic context and rationale
+A. Country and rural development and poverty context
+1.
+Despite significant improvements since the end of its civil war, Liberia remains a
+fragile state with weak institutions, policies and governance. The outbreak of Ebola
+virus disease has further constrained Liberia’s limited institutional capacity and
+impacted its economy, threatening post-war gains. Liberia is classified as a Least
+Developed Country and a Low-Income Food-Deficit Country,1 and relies heavily on
+foreign assistance. The gross national income per capita was US$400 in 20142 and,
+according to the 2014 Human Development Index, increased by 68.2 per cent
+between 2000 and 2013. With a 2013 Human Development Index score of 0.412,
+Liberia ranked 175 out of 187 countries in human development.
+2.
+3.
+According to United Nations statistics, the population is estimated at 4.4 million
+with an annual growth rate of 2.6 per cent. Liberia has a large youth population: in
+2013, 42.9 per cent of the population was estimated to be less than 14 years old.
+Poverty is widespread in Liberia, and is particularly acute in rural areas. An
+estimated 51 per cent of the population lives in rural areas where poverty is heavily
+concentrated, and a high percentage lack access to basic infrastructure and social
+services, with poor road conditions leaving many areas inaccessible. Approximately
+55 per cent of rural Liberian households are food insecure.3
+The agricultural sector is the primary source of livelihood for 48.9 per cent of the
+active population – mainly in smallholder and subsistence farming. There are also
+cash-crop plantations including rubber, cocoa, coffee, palm oil and sugar cane.
+Although agriculture is the largest contributor of GDP, small-scale farmers are
+among the poorest in the country. Liberia has signed the Comprehensive Africa
+Agricultural Development Programme (CAADP) Compact, committing to the Maputo
+Protocol goal of 10 per cent national budget expenditure on agriculture by 2017
+(the current level is 3 per cent of the national budget). As a result of low
+agricultural production and productivity, Liberia imports between 50 per cent and
+60 per cent of its staple food requirements, leaving the country vulnerable to price
+fluctuations in global markets.
+B. Rationale and alignment with government priorities and RB-
+4.
+COSOP
+IFAD’s results-based country strategic opportunities programme (RB-COSOP) for
+Liberia for the period 2011-2015 is aligned with the CAADP and national policies,
+especially the Liberia Agriculture Sector Investment Program. Three
+IFAD-supported projects are currently contributing to the RB-COSOP: (i) the
+Agriculture Sector Rehabilitation Project; (ii) the Smallholder Tree Crop
+1 Low-Income Food-Deficit Countries list for 2014, Food and Agriculture Organization of the United Nations.
+2 World Bank World Development Indicators: gross national income per capita, Atlas Method (Current US$).
+3 Liberia Comprehensive Food Security and Nutrition Survey, June 2013.
+1
+EB 2015/LOT/P.37/Rev.1
+5.
+Revitalization and Support Project; and (iii) the support to the Farmers’ Union
+Network.
+As the Liberia RB-COSOP reached its midway point, its performance and relevance
+were reviewed to identify the way forward for future IFAD support under the 2013-
+2015 performance-based allocation system. The findings of the 2013 review
+revealed that the strategic objectives under the RB-COSOP continue to be relevant,
+with the provision that the transition from an emergency situation to a development
+approach is realized. The needs and priorities of smallholder farmers and their
+organizations are changing. Their growing interest in investing in agriculture and in
+other microenterprises and small business is generating greater demand for credit
+and will necessitate better access to rural finance. This demand has been
+recognized in government efforts to promote growth in the local economy and
+reduce poverty in the long term. The Government’s interest in building the rural
+finance sector has been mirrored by the CBL. With the current RB-COSOP set to
+end in 2015, the new RB-COSOP will require a stronger focus on rural finance.
+II. Project description
+A. Project area and target group
+6.
+Project area. The project will facilitate the creation of new rural community
+finance institutions (RCFIs) in selected areas throughout the country. RCFI locations
+will be identified through feasibility studies and criteria including the degree of
+commitment by host communities, absence of banking facilities and viability. CBL’s
+strategic goals and objectives will also be taken into account. Priority will be given
+to locations with significant business potential, including central towns with high
+demand for financial services. The project area will also include all locations with
+existing RCFIs.
+7.
+8.
+Although the project will be nationwide in scope (excluding urban Montserrado
+county), its coverage may initially be divided into implementation clusters. At the
+district or county level, the following criteria will be used to identify suitable
+communities: (i) social, poverty and demographic indicators for identifying
+vulnerable communities with high potential; (ii) complementarities with ongoing
+and planned initiatives; (iii) the potential for commercial activity, including the
+production of cocoa and coffee, and value addition; (iv) the potential for poverty
+reduction and employment creation; (v) the potential for mobilization of shares and
+savings; and (vi) demand for financial services, particularly among low-income
+groups.
+Target group. The primary target group will be the economically active rural
+population: petty traders, smallholder farmers, food processors, local transporters,
+craftsmen, artisans and ex-combatants. Special attention will be given to reaching
+women and youth, and small-scale entrepreneurs, especially women. As a project
+designed to improve access to rural finance, targeting will be inclusive: by virtue of
+the fact that the RCFIs will be community-owned, access to the financial services
+will be open to the entire community. The project will directly target 24,000
+shareholders, at least 50 per cent of them women, and 25 per cent of them young
+men and women.
+9.
+The proposed project will complement ongoing initiatives through partnerships to
+maximize the impact on the target group. This includes partnerships with farmers’
+organizations supported by existing projects that show interest in financial services.
+B. Project development objective
+10. The overall development goal of the project is to reduce rural poverty and
+household food insecurity on a sustainable basis by facilitating access to finance for
+at least 24,000 rural individuals and their families. The project’s development
+objective is to improve access to rural financial services on a sustainable basis,
+2
+EB 2015/LOT/P.37/Rev.1
+enabling the development of the rural sector. This project development objective
+will be assessed through three indicators, namely that at least: (i) 20 per cent of
+the adult rural population (over 16 years) in the project area uses the financial
+services of RCFIs supported by the project; (ii) 50 per cent of RCFI shareholders
+have received at least one loan; and (iii) 75 per cent of RCFIs supported by the
+project achieve 100 per cent operational self-sufficiency (OSS) by the project end.
+C. Components/outcomes
+11. This five-year project will aim to enhance access to sustainable and affordable rural
+financial services in Liberia. The three main outcomes of the project are that: (i)
+RCFIs deliver demand-driven and efficient financial services to their clients; (ii)
+professional and efficient technical support and supervision services are provided to
+RCFIs by an apex body – the Technical Assistance and Supervision Unit/Technical
+Assistance and Supervision Company (TASU/TASC)4 and; (iii) a more conducive
+regulatory and supervisory environment promotes the rural financial sector. The
+project will comprise three components: (i) Rural financial services; (ii) Enabling
+environment for rural finance; and (iii) Project management and coordination.
+12. Rural financial services. This component includes three subcomponents:
+(i) direct support in the creation of 10 RCFIs and extended support to nine existing
+RCFIs with support from CBL and a commercial bank; (ii) creation of a TASU/TASC
+within CBL to implement the subcomponent 1.1 and support RCFIs; and (iii) a
+country-specific grant to mitigate the impacts of the Ebola virus disease outbreak.
+Given negative impacts of Ebola virus disease on household incomes, earning
+capacity, financial and other reserves, and saving capacity, IFAD will support the
+recovery of existing RCFIs and the establishment of new ones with US$0.5 million.
+13. Enabling environment for rural finance. This component will provide technical
+assistance to CBL for developing a sound regulatory framework for deposit-taking
+and credit-only financial institutions. There will be a focus on rationalizing Liberia’s
+the regulatory environment, including policies and reporting formats for RCFIs,
+microfinance institutions (MFIs) and credit unions. This will be achieved in an open
+manner that ensures stakeholder participation.
+14. Project management and coordination. Component 3, comprising
+project-related coordination, monitoring and evaluation (M&E), reporting, financial
+management and procurement oversight, will be undertaken by the programme
+implementation unit (PIU) operating under the supervision of the programme
+management unit (PMU) within the Ministry of Agriculture. The PMU is responsible
+for the coordination and harmonization of all donor-funded agricultural projects.
+III. Project implementation
+A. Approach
+15. The institutional design of the project is simple: the existence of a centralized PIU
+for all Ministry of Agriculture projects supported by IFAD makes it possible to
+coordinate the rural finance activities assigned to TASU/TASC and CBL. The main
+institutional responsibilities comprise: (i) implementation of all grass-roots activities
+under component 1 by TASU/TASC; (ii) implementation of component 2 activities,
+which are related to CBL’s core mandate, by CBL; (iii) PIU implementation of all
+activities related to its mandate (see paragraph 19); and (iv) guidance on major
+issues, which will be provided by a project steering committee (PSC).
+4 The TASU will be established within the Central Bank of Liberia and will develop over time until
+deemed sufficiently strong for transformation into an independent company (TASC), providing services
+to member institutions in exchange for a fee.
+3
+EB 2015/LOT/P.37/Rev.1
+16. TASU/TASC and CBL will share responsibility for implementation. This complies with
+the international consensus that central banks’ project interventions should be
+limited to activities clearly related to their primary mandates. In this case,
+regulation and supervision of financial institutions fall under the mandate of CBL.
+Memorandums of agreement will be signed by the PIU, TASU/TASC and CBL.
+Memorandums of agreement will also be signed by TASU/TASC and each affiliated
+RCFI.
+B. Organizational framework
+17. The project will operate under the guidance of a PSC composed of representatives
+from the Ministry of Agriculture, the Ministry of Finance and Development Planning,
+and CBL. The PSC will provide project oversight, approve all manuals and revisions,
+approve the annual workplan and budget before its submission to IFAD, receive
+draft annual reports and decide on major issues. According to PIU implementation
+guidelines, all sector-specific projects must have their own PSC with the necessary
+technical requirements and expertise.
+18. The PMU was established under the supervision of the Ministry of Agriculture and is
+affiliated with that ministry’s Department of Planning and Development . The PMU is
+a shared unit in charge of implementing all donor-funded projects in the agricultural
+sector. The PMU is responsible for overall coordination of activities and information
+exchange among partners, ministries and other stakeholders, and for ensuring
+synergy among the project implementation units of the various donors.
+19. Within the PMU, the IFAD PIU in Monrovia is responsible for the implementation of
+all IFAD-funded projects in Liberia related to agriculture. The mandate of the PIU
+comprises: project accounting, withdrawals, consolidating annual workplans and
+budgets, preparing annual reports, corresponding with government authorities on
+issues related to the financing agreement (excluding technical implementation),
+documentation, procurement, submitting reports to IFAD and other agencies, M&E,
+supervision of support and midterm review (MTR) missions, impact assessment and
+end-of-project evaluation.
+C. Planning, monitoring and evaluation, and learning and
+knowledge management
+20. A system to integrate planning, M&E, and knowledge management will be
+developed at start-up to: (i) provide stakeholders with the data required to steer
+implementation; (ii) provide the Ministry of Agriculture and other stakeholders with
+information on progress in order to measure the project’s success in increasing
+access to finance and other indicators; (iii) support coordination and synergies with
+other development projects; (iv) monitor the project’s success in building
+participatory processes that ensure the full involvement of rural poor people;
+(v) provide participating communities and RCFIs with regular feedback and
+analytics; and (vi) provide information on the achievement of RB-COSOP targets.
+The PIU will manage this system in collaboration with partners.
+B. Financial management, procurement and governance
+21. Country context and risk rating. The inherent risk in Liberia is assessed as
+medium. Liberia’s Corruption Perceptions Index score has decreased slightly from
+41 in 2012 to 38 in 2013 and to 37 in 2014. According to the latest IMF Public
+Expenditure and Financial Accountability Assessment conducted in 2012, Liberia’s
+Government has made significant improvements since the 2007 assessment, but
+the overall state of the public financial management remains somewhat weak. As
+part of the project design, a financial management assessment of the PIU
+responsible for implementing existing IFAD projects was undertaken. The
+assessment found that the existing PIU’s financial management arrangements and
+capacity are adequate to meet IFAD requirements. However, since the financial
+4
+EB 2015/LOT/P.37/Rev.1
+management arrangements of the main implementing partner TASU/TASC are not
+yet in place, the initial risk rating was determined to be medium.
+22. Financial management. The main responsibility for the project’s financial
+management will rest with the PIU. The PIU will maintain a full set of accounts
+according to IFAD’s requirements and internationally accepted accounting
+standards. The PIU will prepare periodic interim financial reports and annual project
+financial statements according to accounting standards acceptable to IFAD. All
+financial management arrangements will be detailed by the PIU in a financial
+procedures manual or equivalent guideline to be approved by the Fund.
+23. Flow of funds. There will be two designated bank accounts in United States dollars
+held by CBL – one for the IFAD loan and one for the IFAD grant. In addition, two
+operating accounts in United States dollars in a commercial bank acceptable to
+IFAD will receive funds from the designated accounts. There will also be an
+operating account to receive government counterpart funds. Once the IFAD
+financing has entered into force, IFAD will make an initial deposit into the
+designated accounts equal to the requirements of six months of implementation
+(authorized allocation). IFAD financing will be disbursed following certified
+withdrawal applications in accordance with IFAD disbursement procedures, which
+will be specified in the letter to the borrower.
+24. Procurement. Procurement for the project will be carried out according to national
+procedures as long as they comply with IFAD guidelines. By default, the project will
+utilize the procurement committee established within the Ministry of Agriculture’s
+PIU.
+25. Audit arrangements. The PIU will appoint independent auditors acceptable to
+IFAD under terms of reference cleared by IFAD and in line with IFAD’s guidelines for
+project audits. An audited annual consolidated financial statement for the entire
+project together with a management letter on audit observations of internal
+controls shall be submitted to the Fund within six months of each fiscal year end.
+D. Supervision
+26. The project will be directly supervised by IFAD. Annual supervision missions,
+including follow-up missions whenever needed, will be organized with the
+participation of the Ministry of Agriculture, the Ministry of Finance and Development
+Planning, CBL, TASU/TASC, RCFIs and beneficiaries. Supervision will not be
+conducted as general inspections, but as opportunities to assess achievements and
+lessons learned, and to reflect on how to improve implementation and impact.
+Missions will be an integral part of the knowledge management cycle, with mission
+members supporting project and implementing agencies’ staff.
+IV. Project costs, financing and benefits
+A. Project costs
+27. The total investment and incremental recurrent costs, including price and physical
+contingencies, are estimated at US$10,860,000; contingencies account for
+3 per cent of these costs. The foreign exchange component is estimated at
+US$3,006,000 (28 per cent). Taxes represent US$404,000. The total base cost is
+US$10,426,000 while price and other contingencies account for US$434,000.
+Significant contributions will be made by beneficiary communities (purchase of
+shares), RCFIs (contributions to operating costs of RCFIs and TASU/TASC) and CBL
+(staff time). The total costs by component and subcomponent are summarized by
+financier in table 1 below.
+28. The base cost of component 1 – Rural financial services – represents an investment
+of US$9.7 million (93 per cent of the total base cost) while component 2 – Enabling
+environment for rural finance, accounts for US$313,000 (3 per cent of the total
+5
+base cost). Project management and coordination under component 3 account for
+4 per cent of the base cost, or US$417,000.
+EB 2015/LOT/P.37/Rev.1
+Table 1
+Project costs by component and financier
+(Thousands of United States dollars)
+Component
+1.  Rural financial
+services
+i. RCFIs
+ii. TASC
+iii. Grant for
+economic
+recovery
+after
+Ebola virus
+disease
+Subtotal
+2.  Enabling
+environment for
+rural finance
+i  Technical
+assistance
+to CBL
+3.  Project
+management
+and coordination
+Total
+Government
+IFAD
+IFAD grant
+RCFIs
+Liberia
+Beneficiaries
+Total
+Amount % Amount
+% Amount
+% Amount
+%
+Amount % Amount
+% Amount
+%
+239 3.3
+2 693 36.8
+114 4.9
+2 108 91.1
+-
+-
+-
+-
+8 1.7
+-
+-
+490 98.3
+1 139 15.6
+-
+-
+3 240
+44.3
+7 310
+72.2
+-
+-
+-
+-
+92
+4.0
+-
+-
+-
+-
+-
+2 313
+22.9
+-
+498
+4.9
+361 3.6
+4 800 47.4
+490
+4.8
+1 139 11.3
+92
+0.9
+3 240
+32.0
+10 121
+93.2
+5 1.8
+277 98.2
+31 6.7
+426 93.3
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+364
+2.6
+591
+4.2
+400 3.7
+5 500 50.6
+490
+4.5
+1 139 10.5
+92
+0.8
+3 240
+29.8
+10 860 100.0
+B. Project financing
+29. The project will be financed by the Government, IFAD, CBL, RCFIs and their clients.
+IFAD will finance 55 per cent of the project costs through a loan on highly
+concessional terms to the Government of US$5.5 million and a grant of
+US$0.49 million. The RCFI contribution to operating costs is estimated at
+US$1.1 million (11 per cent) and the shareholders’ contribution to share capital is
+estimated at US$3.2 million (30 per cent). For the first 30 months, CBL will house
+the TASU/TASC and provide a manager, with a total cost of US$0.09 million
+(1 per cent). The Government’s contribution will be in the form of waived taxes and
+duties on imported and local goods and services as per standard regulations for
+IFAD funding (US$0.4 million, representing 4 per cent of the total cost). Total cost
+financing arrangements by category of expenses are summarized in the table 2
+below.
+6
+Table 2
+Project costs by expenditure category and financier
+(Thousands of United States dollars)
+EB 2015/LOT/P.37/Rev.1
+Expenditure
+category
+I. Investment
+costs
+A. Consulting
+services
+B. Workshops
+and training
+C. Works
+D. Vehicles
+equipment
+and material
+E. Grant
+F. RCFI
+capitalization
+G. Rural
+finance
+facility
+Subtotal I
+II. Recurrent
+costs
+A. Salaries
+B. Operating
+costs
+Subtotal II
+Total
+Government
+Amount % Amount % Amount % Amount % Amount % Amount % Amount %
+Beneficiaries
+IFAD grant
+Liberia
+RCFIs
+IFAD
+Total
+Foreign (Excl.
+Duties
+and
+exch. taxes) taxes
+-
+-
+467 95.3
+23 4.7
+129 6.8
+1 667 87.6
+108 5.7
+39 5.6
+667 94.4
+-
+-
+112 14.2
+-
+-
+611 77.5
+-
+-
+66 8.4
+140 100
+-
+-
+-
+-
+-
+-
+111 100
+-
+-
+-
+-
+280 3.8
+3 522 47.7
+336 4.6
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+521 3.7
+490
+-
+-
+2 494 17.9
+190 1 585
+127
+1 020 7.3
+106
+565
+35
+1 036 7.4
+1
+140
+568
+-
+110
+140
+110
+-
+3 240 100
+4 210 30.1
+- 3 240
+-
+-
+111 1.1
+-
+111
+-
+-
+3 240 43.9
+7 378 67.9
+1 354 5 751
+273
+-
+-
+1 222 48.0
+124 4.9
+1 139 44.7
+61 2.4
+120 12.8
+756 80.8
+29 3.1
+-
+-
+31 3.3
+120 3.5
+1 978 56.8
+153 4.4
+1 139 32.7
+92 2.6
+-
+-
+-
+-
+-
+2 546 23.4
+1 273 1 273
+-
+935 8.6
+468
+354
+114
+-
+3 482 32.1
+1 741 1 627
+114
+400 3.7
+5 500 50.6
+490 4.5
+1 139 10.7
+92 0.8
+3 240 29.8 10 860 100
+3 095 7 379
+387
+C. Summary benefit and economic analysis
+30. The project will generate a wide range of direct benefits for: (i) approximately
+24,000 shareholders and users, and their household members; (ii) RCFIs; and
+(iii) the economies of the communities where RCFIs will be located. At the macro
+level, the project will bring informal financial transactions into the formal sector and
+make decentralized rural financial institutions more viable. The Government will
+benefit from additional tax revenues payable by the RCFIs. The entire country will
+benefit from a strengthened network of financial institutions, through which
+remittances and transfers can be made from within and outside the country. Finally,
+the country will benefit from higher confidence in the financial sector, especially in
+rural areas, as a result of the improved regulatory framework and supervisory
+systems under the guidance of the CBL. Other macro-level benefits are not
+quantifiable using classical methods of economic and financial analysis, such as
+increased deposits in formal financial institutions, higher confidence in the formal
+financial sector and a larger network for transfers and payments.
+31. Total project benefits are expected to increase from US$50,050 in year 1, to
+US$2.71 million in year 5, and will remain at approximately US$2.8 million during
+years 7-15. The economic analysis shows that the project will generate an
+economic rate of return (ERR) of 17 per cent over a 15-year period, with a net
+present value of US$5.5 million. Given that many of its benefits are not
+quantifiable, the actual ERR will likely be higher. Sensitivity analysis shows that in
+the event of adverse factors, the ERR is relatively robust with regard to higher
+costs, lower benefits and time lags.
+32. The highest contribution to the ERR derives from investments made by borrowers
+from RCFIs. The number of investments is constrained by the number of RCFIs
+created. The number of RCFIs that can be created through the project is likewise
+7
+EB 2015/LOT/P.37/Rev.1
+constrained by the funding available for financial and technical support. There is a
+potential to increase the number of new RCFIs beyond the 10 for which funding is
+available. If additional funds are provided, the ERR will be higher than the projected
+17 per cent.
+D. Sustainability
+33. The project will support the creation of 10 new RCFIs and consolidate the nine
+existing ones. The detailed projections, which are based on conservative
+assumptions, show that the new RCFIs will break even in years 3 or 4 without
+project support, and in years 1, 2 or 3 with project support. Two years are needed
+to mobilize a sufficient number of shareholders and depositors, an adequate volume
+of shares and deposits, and to disburse a sufficient number of loans with good
+repayment performance. The learning curves for administrative procedures (in the
+first three months) and loan management (in months six to twelve) are expected to
+be steep. The sustainability of access to financial services will also improve as
+RCFIs mature since they are likely to attract more customers over time. This will
+create additional benefits for the economy.
+34. The projections for this project compare well with the results of the Rural Finance
+and Community Improvement Programme, a similar initiative in neighbouring
+Sierra Leone that is also based on the Rural Community Finance Project concept.
+Out of the 51 financial service associations created, 41 (or 80 per cent) had an OSS
+of 100 per cent at project end. Out of 17 newly created community banks, 14 (82
+per cent) had an OSS of 100 per cent at project end.
+35. The projections for TASC show that this apex body of RCFIs will be able to generate
+income from audit services and from fee-based support services. The resulting
+income will cover related operating expenses in a progressive manner, from
+0 per cent in year 1 to 26 per cent in year 5. This result will largely depend on the
+quality of services, which in turn depends on the volume of shares and deposits,
+and the number of RCFIs included in the TASC. If the number of RCFIs increases,
+the sustainability of TASC will improve accordingly. However, this depends on the
+availability of funding.
+E. Risk identification and mitigation
+36. The main risks related to project implementation include: (i) competition from
+subsidized credit programmes; (ii) caps on interest rates; (iii) a lack of interest
+from local communities; (iv) the reluctance of CBL to delegate supervision authority
+to TASC; and (v) weak cooperation from the microfinance sector in efforts to
+improve regulatory frameworks. Adequate risk mitigation measures have been
+introduced, and the residual risk ratings after risk mitigation are rated as low or
+moderate.
+V. Corporate considerations
+A. Compliance with IFAD policies
+37. The project design is aligned with IFAD’s: (i) Strategic Framework 2011-2015;
+(ii) Policy on Targeting Policy (2006); (iii) Policy on Gender Equality and Women’s
+Empowerment; (iv) Rural Finance Policy; (v) Private-Sector Strategy; (vi) Rural
+Enterprise Policy; (vii) Policy on Supervision and Implementation Support;
+(viii) Climate Change Strategy (2010); (ix) Environment and Natural Resource
+Management Policy (2012); and (x) Environmental and Social Assessment
+Procedures.
+B. Alignment and harmonization
+38. Strategy for financial inclusion. With its 2009 Liberian Strategy for Financial
+Inclusion (2009-2013), the Government aims to create an inclusive financial
+environment by enabling open access to financial services. The overall objective of
+inclusive finance is to establish viable microfinance providers that facilitate
+8
+EB 2015/LOT/P.37/Rev.1
+micro-entrepreneurs’ sustained access to a diverse range of financial services. In
+order to enhance sustainability, efficiency, outreach and good governance, financial
+service providers will receive assistance from various actors, including CBL. The
+strategy for financial inclusion will work at three levels: (i) establishing sustainable
+microfinance providers at the micro level; (ii) building a supportive infrastructure at
+the intermediate level; and (iii) creating an enabling policy and regulatory
+environment at the macro level.
+39. CBL has recently begun drafting the new Liberian Strategy for Financial Inclusion
+2014-2018. Its vision is to build a sustainable financial sector that provides access
+to and enhances the use of a wide range of affordable financial services in Liberia.
+Its objectives are to: deliver financial services; enhance access to finance,
+particularly credit; integrate the informal sector into the formal economy; improve
+the environment for small and medium-sized enterprises; enhance financial
+literacy; and improve consumer protection. These objectives have been
+consolidated in a plan of action, which places the responsibility for establishing
+RCFIs with CBL, the Ministry of Finance and Development Planning, and one
+commercial bank.
+Innovations and scaling up
+C.
+40. Several of the approaches adopted by this project are innovative: the creation of a
+new type of financial institution in Liberia builds on the experience of several other
+West African countries. Other innovations include the creation of an apex body to
+support RCFIs, the biometric identification of shareholders in order to offer new
+products at reduced costs, and the emulation of indigenous rural finance practices.
+The project is in itself part of IFAD’s scaling-up process in West Africa following the
+Rural Finance and Community Improvement Project in Sierra Leone. Upon the
+successful trial of the implementation model, it will be possible to increase the
+number of RCFIs beyond those created in Liberia through this project.
+D. Policy engagement
+41.
+Liberia’s microfinance sector does not have the clear regulations needed for its
+development. One project component (under CBL supervision) is exclusively aimed
+at developing a new legal framework for this sector and training actors on the new
+regulations and reporting formats.
+VI. Legal instruments and authority
+42. A project financing agreement between the Republic of Liberia and IFAD will
+constitute the legal instrument for extending the proposed financing to the
+borrower/recipient. A copy of the negotiated financing agreement is attached as
+appendix 1.
+43. The Republic of Liberia is empowered under its laws to receive financing from IFAD.
+44.
+I am satisfied that the proposed financing will comply with the Agreement
+Establishing IFAD and the Policies and Criteria for IFAD Financing.
+9
+EB 2015/LOT/P.37/Rev.1
+VII. Recommendation
+45.
+I recommend that the Executive Board approve the proposed financing in terms of
+the following resolution:
+RESOLVED: that the Fund shall provide a loan on highly concessional terms to
+the Republic of Liberia in an amount equivalent to four million ten thousand
+special drawing rights (SDR 4,010,000), and upon such terms and conditions
+as shall be substantially in accordance with the terms and conditions
+presented herein.
+RESOLVED FURTHER: that the Fund shall provide a grant to the Republic of
+Liberia in an amount equivalent to three hundred fifty-eight thousand special
+drawing rights (SDR 358,000) and upon such terms and conditions as shall be
+substantially in accordance with the terms and conditions presented herein.
+Kanayo F. Nwanze
+President
+10
+Appendix I
+EB 2015/LOT/P.37/Rev.1
+Negotiated financing agreement: "Rural Community
+Finance Project"
+(Negotiations concluded on 8 December 2015)
+Loan Number:
+Grant Number:
+Project Title: Rural Community Finance Project (“the Project”)
+The Republic of Liberia (the “Borrower/Recipient”)
+and
+The International Fund for Agricultural Development (the “Fund” or “IFAD”)
+(each a “Party” and both of them collectively the “Parties”)
+hereby agree as follows:
+Section A
+The following documents collectively form this Agreement: this document, the
+1.
+Project Description and Implementation Arrangements (Schedule 1) and the Allocation
+Table (Schedule 2).
+The Fund’s General Conditions for Agricultural Development Financing dated
+2.
+29 April 2009, amended as of April 2014, and as may be amended hereafter from time to
+time (the “General Conditions”) are annexed to this Agreement, and all provisions thereof
+shall apply to this Agreement.  For the purposes of this Agreement the terms defined in
+the General Conditions shall have the meanings set forth therein.
+3.
+The Fund shall provide a Loan and a Grant to the Borrower/Recipient (the
+“Financing”) which the Borrower/Recipient shall use to implement the Project in
+accordance with the terms and conditions of this Agreement.
+Section B
+1.
+A.
+The amount of the Loan is four million and ten thousand Special Drawing
+Rights (SDR 4 010 000).
+B.
+The amount of the Grant is three hundred fifty eight thousand Special
+Drawing Rights (SDR 358 000).
+2.
+The Loan shall be free of interest but bear a service charge of three fourths of one
+per cent (0.75%) per annum and have a maturity period of forty (40) years including a
+grace period of ten (10) years starting from the date of approval of the Loan by the
+Fund’s Executive Board.
+3.
+4.
+The Loan Service Payment Currency shall be the United States Dollar.
+The first day of the applicable Fiscal Year shall be 1 July.
+1
+Appendix I
+EB 2015/LOT/P.37/Rev.1
+Payments of principal and service charge shall be payable on each 15 May and
+5.
+15 November.
+The Borrower/Recipient shall provide counterpart financing for the Project in the
+6.
+amount of four hundred thousand United States Dollars (USD 400 000).
+7.
+There shall be two accounts designated to receive funds in advance (Designated
+Accounts) denominated in USD, one for the Loan proceeds (Loan Designated Account)
+and one for the Grant proceeds (Grant Designated Account), for the exclusive use of the
+Project, to be maintained in the Central Bank of Liberia.
+There shall be three Project Accounts maintained in banks acceptable to the Fund
+8.
+as follows:
+(a) A Project Account (Project Account A), administered by the Project
+Implementation Unit (PIU).
+(b) A Project Account (Project Account B), administered by the CBL to receive
+funds in order to incur expenditures under component 2.
+(c)
+A Project Account (Project Account C), administered by the TASU/TASC to
+receive funds in order to incur expenditures under component 1.
+Section C
+1.
+The Lead Project Agency shall be the Ministry of Agriculture.
+2.
+The following are designated as additional Project Parties: the Technical Assistance
+and Supervision Company (TASC), the Technical Assistance and Supervision Unit (TASU)
+and the Central Bank of Liberia (CBL).
+The Project Completion Date shall be the fifth anniversary of the date of entry into
+3.
+force of this Agreement.
+Section D
+The Financing will be administered and the Project directly supervised by the Fund.
+Section E
+The following are designated as additional grounds for suspension of this
+1.
+Agreement:
+(a)
+(b)
+any institutional changes have been made by the Borrower/Recipient to the
+Project Steering Committee or the Project Implementation Unit without the
+prior consent of the Fund, and the Fund has determined that such changes
+are likely to have a material adverse effect on the Project; and
+the Project Implementation Manual, or any provision thereof, has been
+abrogated, waived, suspended, or amended without the prior consent of the
+Fund and the Fund has determined that this is likely to have a material
+adverse effect on the Project.
+The following are designated as additional general conditions precedent to
+2.
+withdrawal:
+(a) the Project Coordinator, Finance Manager, and Procurement Specialist shall
+have been duly appointed; and
+2
+Appendix I
+EB 2015/LOT/P.37/Rev.1
+(b) The Project Implementation Manual has been approved by IFAD.
+3.
+This Agreement is subject to ratification by the Borrower/Recipient.
+The following are the designated representatives and addresses to be used for any
+4.
+communication related to this Agreement:
+For the Borrower/Recipient:
+Minister for Finance and Development Planning
+Ministry of Finance and Development Planning
+Broad Street
+P.O. Box 10-9013
+Monrovia, Liberia
+For the Fund:
+The President
+International Fund for Agricultural Development
+Via Paolo di Dono 44
+00142 Rome, Italy
+This Agreement, dated __________, has been prepared in the English language in two
+(2) original copies, one (1) for the Fund and one (1) for the Borrower/Recipient.
+THE REPUBLIC OF LIBERIA
+____________________
+Authorized Representative
+INTERNATIONAL FUND FOR
+AGRICULTURAL DEVELOPMENT
+_____________________
+Kanayo F. Nwanze
+President
+3
+Appendix I
+EB 2015/LOT/P.37/Rev.1
+Schedule 1
+Project Description and Implementation Arrangements
+I.
+Project Description
+Goal. The overall development goal of the Project is to reduce rural poverty and
+1.
+household food insecurity on a sustainable basis.
+Objective.  The objective of the Project is to improve access to rural financial services
+2.
+on a sustainable basis, enabling the development of the rural sector. It shall focus on
+expanding and consolidating the model established in neighbouring Sierra Leone under the
+IFAD-supported Rural Finance and Community Improvement Project (RFCIP) which
+achieved good results in the creation of new and the rehabilitation of existing rural financial
+institutions.
+Target group. The Project shall benefit the economically active rural population
+3.
+(petty traders, smallholder farmers, food processors, local transporters, craftsmen and
+artisans, as well as ex-combatants) who demonstrate an interest and willingness to expand
+their economic activities. Special attention will be given to women and youth in both on-
+farm and off-farm activities, and micro- and small-scale entrepreneurs, particularly
+women.
+Activities. The Project is geared at enhancing access to sustainable and affordable
+4.
+rural financial services in Liberia. Specifically, the three main outcomes are: (i) Rural
+Community Finance Institutions (RCFIs) deliver demand-driven and efficient financial
+services to their clients; (ii) professional and efficient technical support and supervision
+services are rendered by an apex body (TASU/TASC) to RCFIs, and; (iii) a more
+conducive regulatory and supervisory environment promotes the rural financial sector.
+The Project will initially aim at strengthening existing RCFIs. New RCFIs will only be
+created once an initial feasibility study has been conducted by TASU and its results are
+validated by the Steering Committee. A joint review of the performance of existing RCFIs
+conducted by the Ministry of Finance, the Ministry of Agriculture and the Central Bank of
+Liberia will be completed at the beginning of the Project.
+Components.  The Project will consist of three Components, (i) Rural Financial
+5.
+Services: RCFI creation and operation; technical assistance and supervision; IFAD grant
+to mitigate the effect of the Ebola Virus Disease outbreak; (ii) Enabling Environment for
+Rural Finance, and; (iii) Project Management and Coordination.
+II.
+Implementation Arrangements
+1.
+Lead Project Agency. The LPA shall be the Ministry of Agriculture (MoA) of the
+Republic of Liberia, with overall responsibility for the implementation of the Project.
+Project Management. The MoA shall delegate the functional and day-to-day
+2.
+implementation and coordination responsibilities for the Project to the Project
+Implementation Unit (PIU), responsible for the implementation of all IFAD-financed
+projects in Liberia.
+The main institutional parameters shall be as follows:  (a) Implementation of all
+3.
+grassroots operations under Component 1 will be exclusively vested with the
+TASU/TASC; (b) the implementation of activities related to the CBL’s core mandate will
+be exclusively implemented by CBL; (c) beyond this, no implementation unit is required;
+(d) the central PIU shall take care of all activities pertaining to its defined mandate; (e) a
+Project Steering Committee (PSC) will be established to provide guidance on all major
+issues.
+4
+Appendix I
+EB 2015/LOT/P.37/Rev.1
+Project Steering Committee.  The Project shall operate under the guidance of a
+4.
+Project Steering Committee (PSC) composed of representatives of the MOA, Ministry of
+Finance & Development Planning (MFDP) and the CBL. It will provide oversight over the
+Project, approve all relevant manuals and their changes, approve Annual Work Plan and
+Budgets before submission to IFAD, receive draft annual reports and take decisions over
+major issues.
+Component Implementation.  Project implementation will be vested with two
+5.
+institutions, the TASU/TASC and the CBL. The TASU/TASC will be fully responsible for
+Component 1, while the CBL will be vested with the responsibility to implement
+Component 2. To implement this, Memoranda of Agreement, which will be submitted to
+the Fund for its non-objection before being finalized, will be entered into between the PIU
+on the one hand and TASU/TASC and CBL on the other, respectively. Each Memorandum
+will include definitions of disbursement triggers; flow of funds; and accounting, financial
+reporting, and audit arrangements. Memoranda of Agreement will also be signed
+between the TASU/TASC and its affiliated RCFIs.
+6.
+The coordination, management and M&E of project activities will be under the
+responsibility of the PIU responsible for IFAD-financed projects, reporting to the MOA, the
+MFDP and the CBL. The mandate of the PIU shall comprise: Project accounting,
+withdrawal applications, keeping of Project accounts, consolidating AWPBs, consolidating
+annual reports, correspondence with government authorities on issues related to the
+Financing Agreement (excluding the technical implementation matters), document
+depository, procurement, submission of reports to IFAD and other related agencies,
+monitoring and evaluation, preparation, guidance and supervision of the mid-term review
+(MTR) mission, commissioning the beneficiary impact assessment, and preparing the
+end-of-project evaluation. Other activities will include the preparation of and support to
+supervision missions.
+At the decentralized level, contacts will be established between the field officers of
+7.
+TASU/TASC on the one hand and the County Agricultural Coordinators and District
+Agriculture Officers, for planning, follow-up and monitoring of interventions related to the
+agricultural sector. At each county where the Project would intervene, local authorities
+and chiefs would be involved in the initial mobilization steps and activities to ensure
+widespread participation and ownership of communities, to ensure that suitable locations
+for buildings would be found and the land donated to the new RCFIs. Partnerships with
+on-going projects will reinforce the complementary nature of the Project and leverage
+impact on the target group. Under component 1 partnerships with Credit Unions, other
+cooperatives and farmer organizations supported under existing projects will be
+attempted where these are interested in financial services. This will include the Farmers
+Union Network (FUN), which is supported by IFAD with Italian Government financing.
+Project Start-up Phase. To facilitate a prompt start-up, the PIU shall commission
+8.
+technical support for the required start-up activities immediately after the entry into
+force of this Agreement. Resources have been allocated for part of this process. These
+will include: (a) the recruitment of initial staff for TASU (manager, rural finance officer,
+accountant, IT officer); (b) procurement of essential goods and services required during
+the start-up phase; and (c) conduct of the first start-up workshop with partners (MOA,
+CBL, MFDP, Afriland First Bank Liberia Limited (AFB), TASU).
+Project Implementation Manual. The PIU shall prepare a draft Project
+9.
+Implementation Manual (PIM) and shall forward it to the Fund for its non-objection. If the
+Fund does not comment on the draft PIM within thirty (30) days after receipt, it shall be
+deemed to have no objection. The PIM, or any provision thereof, may not be waived,
+suspended, terminated, amended or modified without the prior agreement of the Fund.
+5
+Appendix I
+EB 2015/LOT/P.37/Rev.1
+Schedule 2
+Allocation Table
+Allocation of Loan and Grant Proceeds.
+1.
+Categories of Eligible Expenditures to be financed by the Loan and the Grant and the
+allocation of the amounts of the Loan and the Grant to each Category. All amounts are net
+of taxes, Government contribution and beneficiary contribution:
+(a) The Table below sets forth the
+Category
+I.
+Consultancies
+II.
+Training (and Workshops)
+III. Works
+IV.
+Equipment, Material and Vehicles
+V.
+Grants and subsidies
+VI. Credit (Rural Finance Facility)
+VII. Salaries & Allowances
+VIII. Operating Costs
+Unallocated (10%)
+Loan Amount
+Allocated
+(expressed in SDR)
+Grant Amount
+Allocated
+(expressed in SDR)
+310 000
+1 090 000
+440 000
+400 000
+70 000
+800 000
+500 000
+400 000
+20 000
+70 000
+45 000
+91 000
+82 000
+20 000
+30 000
+TOTAL
+4 010 000
+358 000
+(b)
+“Salaries & Allowances” means eligible expenditures for salaries incurred by
+the Technical Assistance and Supervision Company under the Project Management
+Component.
+Start-up Costs. Withdrawals in respect of expenditures for start-up costs incurred
+2.
+before the satisfaction of the general conditions precedent to withdrawal shall not exceed
+an aggregate amount of two hundred thousand USD (USD 200 000).
+No amounts may be transferred to either the CBL or the TASU/TASC until a
+3.
+Memorandum of Agreement satisfactory to the Fund between it and the PIU has entered
+into effect.
+The Borrower/Recipient shall ensure that independent auditors audit all the IFAD
+4.
+funds transferred to the implementing partners and all expenditures incurred by them in
+accordance with International Standards on Auditing. The audit shall disclose separately
+the receipt and uses of IFAD funds in an acceptable format and shall be delivered to the
+PIU in a timely manner to enable the PIU to provide the Fund with a consolidated audit
+report in the manner which the Fund shall specify.
+6
+Logical framework
+Narrative Summary
+Key Performance Indicators (*= RIMS indicator)
+Means of Verification
+Assumptions / Risks
+Goal: Contribute to reduction in
+rural poverty and household food
+insecurity on sustainable basis in
+Project areas
+Development objective: Access to
+rural financial services is improved
+on a sustainable basis, enabling
+development of the rural sector
+ Improvement in household assets ownership index based on additional assets in
+ Demographic, health, income,
+project areas*
+ Reduction in the prevalence of child malnutrition (stunting)*
+ Increased food security (decrease in duration and frequency of hungry season)*
+ 24,000 depositors will be serviced by the network of RCFIs
+ 20% of the adult rural population above 16 years in project districts using financial
+services of RCFIs supported by the project) (disaggregated by gender/age)
+ 50% of RCFI shareholders have received loans (disaggregated by loan size/terms,
+gender, age, purpose)
+ 75% of RCFIs at 100% OSS* at project end (RCFI sustainability)
+food security surveys
+ UNICEF reports
+ RIMS baseline/completion survey
+ TASC annual and external audit
+reports
+ Project monitoring reports
+ Project supervision mission
+reports
+ MTR report
+ PCR assessment
+Outcome 1: RCFIs deliver
+demand-driven and efficient
+financial services to their clients
+Outputs:
+1. RCFIs established
+2. Share capital and savings
+mobilized
+3. Financial products offered by
+RCFIs to shareholders
+ Portfolio at risk (PAR) > 90 days* <5% (RCFI performance/sustainability)
+ 90% of RCFIs clients satisfied with RCFI services
+ 19 Savings and credit organizations (RCFIs) formed and/or strengthened*
+ Average use of available lending resources for lending 75%
+ Value of paid up shares and savings at project end* at least USD 12 9m
+ 6 products offered per RCFI to shareholders
+ 12% agricultural loans in total loan portfolio at project end
+ Value of voluntary savings at USD 3.2 2.9 million at project end *
+ All RCFIs affiliated with TASC had their annual financial statements audited by
+TASC by the next June 30
+ TASC OSS 26% excluding project proceeds and non-core expenses (community
+training) at project end
+ 45% of loans disbursed to women and 15% to youth (18-35 years)
+ 1500 MSEs accessing advisory services facilitated by the project*
+ TASC annual reports
+ CBFI consolidated monthly
+reports
+ Project monitoring reports
+ Project supervision mission
+reports
+ MTR report
+ Client satisfaction survey
+ PCR assessment
+ TASC external audit reports
+ Field reports of the micro
+enterprise facilitator
+ Project monitoring reports
+ Supervision mission reports
+ MTR report
+ PCR
+ Stable political and macro-
+economic environment
+ Government's monetary/fiscal
+policies and macro-economic
+reforms are conducive to poverty
+reduction.
+ Commitment of all stakeholders
+(govt., donors, private sector) to
+participate in poverty reduction
+efforts
+ No interest caps policy
+ Absence of political interference
+into the autonomy of RCFIs
+ Human resources capacity and
+experience available for RCFIs
+ Communities willing to buy
+shares in RCFIs
+ Strict compliance of RCFIs with
+rules and regulations
+ Effective fraud and loss control
+systems in place
+ Availability of technological
+solutions to reduce operating
+costs and fraud losses
+ RCFIs have liquidity available
+(internally or through credit lines)
+ Willingness of RCFIs to finance
+MSEs and smallholder farmers
+ Agreement between CBL and
+TASC on RCFI support and
+supervision
+ New regulatory framework for RCFIs, CUs and MFIs in place
+ Certificate of incorporation of TASC by end of PY 3
+ All RCFIs are TASC shareholders by year 5
+ All TASC board meetings of TASC held regularly
+ CBL annual reports
+ TASC annual reports
+ Project monitoring reports
+ Supervision mission reports
+ MTR report
+ PCR assessment
+ Board minutes
+ Certificate of incorporation
+ Register of shareholders of TASC
+ CBL willing to delegate some
+supervisory functions over
+RCFIs to TASC
+ Other stakeholders in the
+microfinance sector willing to
+cooperate in the process of
+designing a new regulatory
+framework
+NB.: (1) All indicators will be disaggregated by gender and age to the extent possible. (2) Reference values to be determined by the baseline survey. (3) Available lending resources are defined as total
+shareholder funds including donated equity minus fixed assets plus depreciation plus loan loss provisions made plus total deposits minus regulatory reserves.
+7
+Outcome 2: Professional and
+efficient technical support and
+supervision services rendered by
+TASU/TASC to RCFIs
+Outputs:
+1. Financial products developed
+2. Other support services for
+communities rendered
+Outcome 3: A more conducive
+regulatory and supervisory
+environment promotes the rural
+financial sector
+Outputs:
+1. Policy/ institutional framework
+set-up for the RF sector
+2. Technical Assistance Agency
+established
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+3
+7
+/
+R
+e
+v
+.
+1

@@ -1,0 +1,2015 @@
+Document:
+Date:
+Distribution:
+Original:
+EB 2015/LOT/P.38/Rev.1
+30 December 2015
+Public
+English
+E
+President’s report
+Proposed loan and grant to the Republic of
+Liberia for the Tree Crops Extension Project
+(TCEP)
+Note to Executive Board representatives
+Focal points:
+Technical questions:
+Dispatch of documentation:
+Alessandra Zusi Bergés
+Officer-in-Charge
+Governing Bodies Office
+Tel.: +39 06 5459 2092
+e-mail: gb_office@ifad.org
+Ndaya Beltchika
+Country Programme Manager
+Tel.: +39 06 5459 2771
+e-mail: n.beltchika@ifad.org
+Roberto Longo
+Senior Technical Specialist
+Farmers' Organisations and Markets
+Tel.: +39 06 5459 2002
+e-mail: r.longo@ifad.org
+For: Approval
+EB 2015/LOT/P.38/Rev.1
+ii
+iii
+iv
+1
+1
+1
+2
+2
+2
+2
+3
+3
+3
+3
+4
+5
+5
+6
+6
+6
+8
+8
+8
+9
+9
+9
+9
+10
+10
+10
+Contents
+Abbreviations and acronyms
+Map of the project area
+Financing summary
+Recommendation for approval
+I.
+Strategic context and rationale
+A. Country and rural development and poverty context
+B. Rationale and alignment with government priorities and
+RB-COSOP
+II. Project description
+A. Project area and target group
+B. Project development objective
+C. Components/outcomes
+III. Project implementation
+A.
+B.
+C.
+D.
+E.
+Approach
+Organizational framework
+Planning, monitoring and evaluation, and learning and
+knowledge management
+Financial management, procurement and governance
+Supervision
+IV. Project costs, financing and benefits
+A. Project costs
+B. Project financing
+C. Summary benefit and economic analysis
+D. Sustainability
+E. Risk identification and mitigation
+V.
+Corporate considerations
+A.
+B.
+C.
+D.
+Compliance with IFAD policies
+Alignment and harmonization
+Innovations and scaling up
+Policy engagement
+VI. Legal instruments and authority
+VII. Recommendation
+Appendices
+I.
+Negotiated financing agreement
+II.
+Logical framework
+i
+EB 2015/LOT/P.38/Rev.1
+Abbreviations and acronyms
+AfT
+ASAP
+CAC
+CDA
+DAO
+FFS
+LACRA
+LISGIS
+MOA
+M&E
+NSC
+PBAS
+PIU
+PMU
+PSP
+RB-COSOP
+RIMS
+STCRSP
+TCEP
+UN-REDD
+Agenda for Transformation
+Adaptation for Smallholder Agriculture Programme
+county agricultural coordinator
+Cooperative Development Agency
+district agricultural officer
+farmer field schools
+Liberia Agricultural Commodities Regulatory Authority
+Liberia Institute of Statistics and Geo-Information Services
+Ministry of Agriculture
+monitoring and evaluation
+national steering committee
+performance-based allocation system
+project implementation unit
+project management unit
+private-sector partner
+results-based country strategic opportunities programme
+Results and Impact Management System
+Smallholder Tree Crop Revitalization Support Project
+Tree Crops Extension Project
+United Nations Reducing Emissions from Deforestation and Forest
+Degradation Programme
+ii
+Map of the project area
+EB 2015/LOT/P.38/Rev.1
+iii
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2015/LOT/P.38/Rev.1
+Republic of Liberia
+Tree Crops Extension Project (TCEP)
+Financing summary
+Initiating institution:
+IFAD
+Borrower:
+Executing agency:
+Total project cost:
+Amount of IFAD loan:
+Terms of IFAD loan:
+Republic of Liberia
+Ministry of Agriculture
+US$30.73 million
+SDR 9.48 million (equivalent to approximately
+US$13 million)
+Highly concessional: Maturity period of 40 years,
+including a grace period of 10 years, with a service
+charge of 0.75 per cent per annum
+Amount of Adaptation for Smallholder
+Agriculture Programme (ASAP) grant:
+SDR 3.28 million (equivalent to approximately
+US$4.5 million)
+Contribution of borrower:
+US$1.86 million
+Contribution of beneficiaries/private
+sector:
+US$2.31 million
+Cofinancier/financing gap:
+US$9.06 million
+Cooperating institution:
+Directly supervised by IFAD
+iv
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2015/LOT/P.38/Rev.1
+Recommendation for approval
+The Executive Board is invited to approve the recommendation for the proposed
+financing to the Republic of Liberia for the Tree Crops Extension Project, as
+contained in paragraph 47.
+Proposed loan and grant to the Republic of Liberia for
+the Tree Crops Extension Project
+I. Strategic context and rationale
+A. Country and rural development and poverty context
+1.
+Despite significant improvements since the end of the civil war, Liberia remains a
+fragile state with weak institutions, policies and governance. The outbreak of the
+Ebola virus disease has further constrained Liberia’s limited institutional capacity
+and impacted its economy, threatening post-war gains. Liberia is classified as a
+Least Developed Country and a Low-Income Food-Deficit Country,1 and relies
+heavily on foreign assistance. The gross national income per capita was US$400 in
+20142 and, according to the 2014 Human Development Index (HDI), increased by
+68.2 per cent from 2000 to 2013. With a 2013 HDI value of 0.412, Liberia ranked
+175 out of 187 countries in human development.
+2.
+3.
+According to United Nations statistics, the population is estimated at 4.4 million,
+with an annual growth rate of 2.6 per cent. Liberia has a large youth population: in
+2013, 42.9 per cent of the population was estimated to be under 14 years of age.
+The agriculture sector is the primary source of livelihoods for 48.9 per cent of the
+active population – mainly in smallholder and subsistence farming. Liberia signed
+the Comprehensive Africa Agriculture Development Programme (CAADP) compact
+and has thus committed to the Maputo Declaration on Agriculture and Food Security
+and of a 10 per cent budget expenditure on agriculture, though it currently commits
+only 3 per cent.
+The tree crop sector was traditionally one of Liberia’s biggest employment sectors
+and an integral part of its social fabric and economy. Primary cash crops included
+cocoa, coffee, oil palm and rubber. During the Liberian civil war, the tree crop
+sector was devastated and many farmers displaced from their land. The abandoned
+farms and plantations degenerated into forest and their associated support
+structures were damaged or destroyed. Market linkages vanished, while exports
+dropped to near-zero levels. Rehabilitation and growth in the tree crop sector can
+do much to increase farmers’ incomes, revive the rural economy and contribute to
+consolidating peace. This section focuses on the rationale and underlying
+development hypothesis for IFAD involvement. It briefly explains how the project’s
+development objective contributes to specific objectives of the Government of
+Liberia’s Poverty Reduction Strategy (PRS) and the CAADP and to the relevant
+objectives of the results-based country strategic opportunities programme
+(RB-COSOP). Moreover, it shows how the project links with ongoing IFAD
+projects/grants (e.g. synergies/complementarities) and with the activities and
+policies of other international agencies (harmonization) and major stakeholders.
+Similarly, the country's forest, soil and water resources require effective and
+sustainable management practices to improve agricultural productivity and
+increased resilience in the face of climate change.
+1 Food and Agriculture Organization of the United Nations, list of Low-Income Food-Deficit Countries for 2014.
+2 World Bank, World Development Indicators: gross national income per capita, Atlas method (current US$).
+1
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2015/LOT/P.38/Rev.1
+B. Rationale and alignment with government priorities and
+4.
+RB-COSOP
+The Government is prioritizing both structural investments for long-term economic
+growth and the post-Ebola recovery process. The Liberia RB-COSOP reached its
+midterm in 2013, and was reviewed to identify the way forward for IFAD support
+under the 2013-2015 performance-based allocation system (PBAS) cycle and
+beyond. Overall, the midterm review revealed that strategic objectives under the
+RB-COSOP were still relevant, but the transition from emergency to development
+approach should be acknowledged more, which justifies a stronger focus on support
+to the cocoa subsector.
+5. The proposed Tree Crops Extension Project (TCEP) is part of the Government’s
+strategy to promote export-oriented growth, with deep engagement by private
+stakeholders in the cocoa value chain. Liberia became a member of the International
+Cocoa Organization (ICCO), and IFAD contributed to its first membership fees. The
+TCEP is aligned with government policies, in particular: (a) the Agenda for
+Transformation (AfT), which was launched in 2012; (b) the Cocoa Export Strategy
+2014-2018, 3 which is a blueprint for increased competitiveness of Liberian cocoa in
+the global market; (c) the Economic Stabilization and Recovery Plan (2015-2017);
+(d) the new Land Rights Act, to be enacted in 2015; (e) the restructuring process of
+the Liberia Agricultural Commodities Regulatory Authority (LACRA) Act, which will
+regulate the cocoa subsector; and (f) the National Adaptation Programme of Action
+for climate change resilience.
+II. Project description
+A. Project area and target group
+6.
+The TCEP will intervene in approximately eight statutory districts in Nimba County.
+This geographical expansion will complement the ongoing Smallholder Tree Crop
+Revitalization Support Project (STCRSP) in Lofa County.
+7.
+The TCEP will benefit 11,000 stakeholders of the cocoa value chain, including:
+(i) 8,000 cocoa smallholder members of kuu groups4 and farmer field schools
+(FFS); (ii) approximately 2,400 additional farmers, who will benefit from the
+rehabilitation of roads, input supply and market linkages; and (iii) 600 people
+through job creation along the value chain. To select the 8,000 cocoa smallholders,
+the TCEP will combine a self-targeting approach with tools to ensure inclusiveness.
+Priority will be given to women, youth (18-35) and survivors of the Ebola outbreak.
+B. Project development objective
+8.
+The overall development goal of the TCEP is “to improve the livelihoods and climate
+change resilience of rural households in Nimba County". The development objective
+is to improve the incomes and climate change resilience of smallholder cocoa
+producers in the county.
+9.
+Some key impact and outcome indicators are: (i) 8,000 smallholder farmers have
+increased the quantity of cocoa sold; (ii) 4,000 smallholder farmers have increased
+their resilience to climate change; (iii) gross sales of cocoa per farm have increased
+from US$178 in year 1 (Y1) to US$1,718 in Y6; (iv) at least 90 per cent of cocoa is
+paid as grade 1 and receives 75 per cent of the ICCO reference price in Y6;
+(v) 200 kilometres (km) of roads made passable all year round by end-Y3; and
+(vi) 9,800 tonnes of cocoa sold through cooperatives and private-sector partners
+(PSPs).
+3 Developed with the support of the International Trade Centre.
+4 Kuu is a traditional community-based cooperative work group that carries out brushing and cleaning of agricultural plots.
+2
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2015/LOT/P.38/Rev.1
+C. Components/outcomes
+10. Component A: Revitalization of cocoa plantations. Basic revitalization and
+replanting will take place in Y1-Y4 and will follow these phases: 1,000 hectares (ha)
+in Y1, 2,500 in Y2, 3,000 in Y3 and 3,500 in Y4. Starting in Y2, 2,000 ha will be
+targeted for replanting. Value chain linkage development, and greater focus on crop
+husbandry and post-harvest handling, will be undertaken in Y1-Y6. Establishment
+and operation of a seed station in Nimba County will also be supported to
+guarantee the availability of improved planting material for farmers, village
+nurseries and privately owned nurseries. Diversification of cocoa farms with banana
+and plantain will be pursued for food security, climate resilience and smoothing of
+cash flow, while simultaneously increasing the role of women in the farm economy.
+11. Component B: Rehabilitation and maintenance of roads. Approximately
+200 km of farm-to-market roads will be rehabilitated in Nimba County, using the
+implementation methodology developed under the STCRSP. Regarding
+maintenance, the TCEP will have a three-pronged approach: (i) capacity-building in
+road maintenance; (ii) improvement of the road maintenance strategy, including
+development of a financing mechanism; and (iii) transition financing of
+maintenance on a cash-for-work basis.
+12. Component C: Service provision for value chain development. This
+component aims to: (i) strengthen the capacity of farmers’ cooperatives at the
+district level; (ii) strengthen the capacity of the Ministry of Agriculture (MOA) and
+Cooperative Development Agency (CDA) at decentralized levels; (iii) ensure that
+climate change adaptation is mainstreamed in the technical support systems for
+value chain development; and (iv) monitor deforestation in the tree crop sector.
+The main innovation under the TCEP is the use of a long-term growth path for
+institutional capacity-building of cooperatives.
+13. Component D: Project coordination, monitoring and evaluation. The
+objective of this component is to ensure effective, efficient operational planning,
+implementation, monitoring and evaluation (M&E) and knowledge management.
+III. Project implementation
+A.
+Approach
+14. Approaches and manuals developed under the STCRSP will be updated, and
+STCRSP implementation arrangements harmonized with those of the TCEP. The
+TCEP will build on the existing expertise and human resources of the STCRSP.
+Moreover, the project will adopt a value chain approach to link cocoa farmers,
+organized at the grass-roots level in kuu groups and FFS, with cooperatives and
+PSPs.
+15. Cocoa revitalization of farms will take place in Y1-Y4. Rehabilitation of roads will
+take place in Y2 and Y3 and preparatory works will start in Y1. Finally, with regard
+to the provision of services for value chain development, the approach to enhancing
+the institutional capacity of cooperatives will be less supply-driven and more
+bottom-up, while also clearly defining the responsibilities of the cooperatives in
+their partnerships with the project and with grass-roots groups. Previous mapping
+and capacity assessments of farmers’ cooperatives in Liberia have lacked sufficient
+discrimination on which to base the selection for project inclusion.
+B.
+Organizational framework
+16. MOA is designated as lead project agency for the TCEP. It will have overall
+responsibility for implementation and will ensure linkages to other relevant
+ministries and agencies. MOA will also work closely with the CDA and LACRA.
+17. The national steering committee (NSC) of the STCRSP will also serve the TCEP. The
+NSC will orient the project strategy, oversee planning, review progress and impact,
+3
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2015/LOT/P.38/Rev.1
+and ensure linkages with related projects, government services and relevant value
+chain stakeholders. The programme management unit (PMU) will be the secretariat
+of the NSC.
+18. The PMU, which is anchored in the Planning and Development Department of MOA,
+is in charge of implementing all donor-funded projects in agriculture. Within the
+PMU, coordination, management and M&E of the TCEP will be the responsibility of
+the project implementation unit (PIU) in Monrovia, which has responsibility for all
+IFAD-funded projects in Liberia. The IFAD-PIU will ensure day-to-day management
+of the TCEP. In addition, the TCEP will establish a county PIU in Sanniquellie, Nimba
+County.
+19. The main implementing partners of the TCEP will be: (a) selected cooperatives
+engaging in business agreements with the kuu groups and FFS; (b) at least two
+PSPs, who will engage in procurement plans with the project and the cooperatives;
+(c) the Central Agricultural Research Institute (CARI); and (d) other specialized
+service providers, including national and international consulting firms,
+non-governmental organizations (NGOs), commercial financial institutions and
+others.
+20. At the county level, the TCEP will liaise with the decentralized functions of MOA and
+CDA. The county agricultural coordinator (CAC) and district agricultural officers
+(DAOs) will monitor implementation of components A and C. The county resident
+engineer (CRE) will liaise with the project on implementation and monitoring of
+component B. A memorandum of understanding will be signed with the project to
+define roles and responsibilities.
+C.
+Planning, monitoring and evaluation, and learning and
+knowledge management
+21. Planning. The Monrovia PIU will consolidate an annual workplan and budget
+(AWP/B) for each project year, on the basis of proposals from the county PIU. The
+AWP/B will include: (i) a detailed description of planned project activities for the
+coming project year, and the sources and uses of the related funds; (ii) an
+18-month procurement plan for items to be procured with IFAD financing; and
+(iii) indicators and associated targets extracted from the logical framework. The
+draft AWP/B will be submitted to the NSC for clearance and then to IFAD for
+comments and final non-objection.
+22. Monitoring and evaluation. The logical framework of the TCEP will form the basis
+for measuring outputs, outcomes and impacts of the project. The results of the
+TCEP will then feed into the MOA subsector contribution to the national AfT M&E
+system. The TCEP M&E system will take targeting of women and youth into account
+– as a minimum, disaggregating data by gender and age. Moreover, indicators will
+be developed to measure the results of specific activities targeting the most
+vulnerable segments of the target population.
+23. Baseline data will be collected prior to project implementation to ensure that results
+are closely monitored to continuously improve the outreach, relevance and
+effectiveness of interventions. To this end, in June 2015 SCOPEinsight5 carried out
+an assessment of 15 cocoa cooperatives in Nimba and Bong counties in order to
+diagnose capacity to enable the project to better tailor training curricula to the
+specific needs identified. This exercise will be repeated in TCEP Y3 and Y6. In
+addition, the PMU has contacted CARI to conduct a mapping exercise of
+cocoa/coffee farms in Nimba County with which the project will potentially work.6
+5
+6
+SCOPEinsight is an independent rating agency based in the Netherlands that assesses the business potential of
+farmer organizations in agriculture, dairy, forestry and aquaculture in developing countries.
+MOA/PMU is exploring other partnerships that could support the implementation of M&E activities under TCEP
+(i.e. young professionals, the Liberia Institute of Statistics and Geo-Information Services (LISGIS), and county
+community colleges).
+4
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2015/LOT/P.38/Rev.1
+Finally, the TCEP will apply IFAD standard reporting procedures during
+implementation.
+24. M&E will be undertaken at multiple levels and by multiple stakeholders to support
+effective implementation. Indicators have been developed during project design and
+will be further refined as project activities become more detailed.
+25.
+Forest cover and deforestation risks will be monitored in TCEP target areas through
+a geo-information service (under the Adaptation for Smallholder Agriculture
+Programme [ASAP] grant).
+26. Knowledge management plays a central role in IFAD’s scaling up agenda, and
+the knowledge management strategy of IFAD-supported projects in Liberia will be
+strengthened beginning with the TCEP. An action plan will be developed at start up.
+This plan will outline activities to be undertaken, as well as roles and responsibilities
+of project staff and implementing partners, to ensure the collection of high-quality
+data, in-depth analysis, and creation of knowledge products for evidence-based
+decision-making and to contribute to policy dialogue on the cocoa subsector.
+D.
+Financial management, procurement and governance
+27. Country context and risk rating. The inherent risk in Liberia is assessed as
+medium. The Corruption Perceptions Index score for Liberia has slightly
+deteriorated from 41 in 2012 to 38 in 2013 and 37 in 2014. According to the latest
+Public Expenditure and Financial Accountability assessment, conducted in 2012, the
+Government has made significant improvements since the last assessment (2007),
+but the overall state of public financial management remains moderately weak.
+28. Responsibility for financial management of the project will rest with the PIU that is
+responsible for implementing other ongoing IFAD projects. As part of the project
+design process, a financial management assessment was undertaken. Financial
+management arrangements and the capacity of the PIU were assessed as mostly
+adequate to meet IFAD requirements; thus initial risk is considered medium. The
+PIU will prepare periodic interim financial reports and annual project financial
+statements in accordance with accounting standards acceptable to IFAD. All
+financial management arrangements will be detailed by the PIU in a financial
+procedures manual to be approved by the Fund.
+29. Flow of funds. There will be two designated bank accounts (in United States
+dollars) opened in the Central Bank of Liberia, one for the IFAD loan and one for
+the ASAP grant. IFAD financing shall be disbursed against duly certified withdrawal
+applications in accordance with IFAD disbursement procedures to be specified
+further in the letter to the borrower.
+30. Audit arrangements. The borrower, through the PIU, will appoint independent
+auditors acceptable to IFAD, under terms of reference cleared by IFAD, and in line
+with the IFAD Guidelines on Project Audits. An audited annual consolidated financial
+statement for the entire project, together with a management letter on audit
+observations on internal controls, shall be submitted to the Fund within six months
+of the end of the fiscal year.
+E.
+Supervision
+31. The project will be directly supervised by IFAD. Annual supervision missions,
+including follow-up missions when needed, will be organized with the participation
+of MOA, the Ministry of Finance and Development Planning, CDA, LACRA,
+cooperatives and beneficiaries. Supervision will not be conducted as general
+inspections, but as opportunities to assess achievements and lessons learned, and
+to reflect on how to improve implementation and impact. Missions will be an
+integral part of the knowledge management cycle.
+5
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2015/LOT/P.38/Rev.1
+IV. Project costs, financing and benefits
+A. Project costs
+32. Total project costs over six years, including contingencies, taxes and duties, are
+estimated at US$30.73 million. The TCEP will absorb the entire 2013-2015 PBAS
+allocation of US$13 million for Liberia under highly concessional lending terms, as
+well as US$4.5 million in ASAP grant funding for climate change resilience activities.
+The Government will finance taxes and duties on imported goods and the value
+added tax (VAT) for a total of US$1.86 million. PSPs are expected to provide credit
+of at least US$0.96 million. This amount includes PSP investments in the marketing
+chain, as well as working capital that could be provided to cooperatives to buy
+cocoa. The contribution of farmers totals US$1.35 million and consists of a
+40 per cent contribution of own labour to the revitalization and replanting of cocoa
+plantations and management of village nurseries, as well as to solar dryers. A
+financing gap of US$9.06 million remains.
+33. The ASAP grant will be used to finance: (a) in-country production of high-quality,
+climate-adapted and disease-free planting material (seeds and grafting), including
+through international partnerships; (b) promotion of farming practices that serve as
+a buffer against increased climate pressures (higher shade, more-intensive plant
+management including grafting and pruning, and income diversification through
+various tree crops); (c) corresponding training of technicians and farmers;
+(d) provision of solar dryers and training in their use; (e) participatory land-use
+planning and monitoring based on satellite imagery, to ensure that increased
+profitability of the tree crop sector and improved road access to remote areas do
+not lead to deforestation; and (f) institutional capacity-building, policy dialogue and
+knowledge management in the field of climate change resilience.
+Table 1
+Project costs by component and financier
+(Millions of United States dollars)
+Component
+A. Revitalization of
+cocoa plantations
+B. Rehabilitation and
+maintenance of
+roads
+C. Service provision for
+value chain
+development
+D. Project coordination,
+monitoring and
+evaluation
+IFAD
+2013-2015
+PBAS
+Financing
+gap
+IFAD grant
+(ASAP)
+Private-
+sector
+partners
+Government
+Amount % Amount % Amount % Amount % Amount % Amount % Amount %
+Beneficiaries
+Total
+3.49 34.8
+0.16 1.6
+3.43 34.2
+0.64 6.4
+0.96 9.6
+1.35 13.5
+10.03 32.6
+0.64
+6.3
+8.9 87.1
+-
+-
+0.68 6.6
+4.62 76.0
+4.25 96.5
+-
+-
+-
+-
+1.07 17.6
+0.39 6.3
+-
+-
+0.15 3.5
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+10.22 33.3
+6.08 19.8
+4.4 14.3
+Total
+13 42.3
+9.06 29.5
+4.5 14.6
+1.86 6.0
+0.96 3.1
+1.35 4.4
+30.73 100.0
+B. Project financing
+34. The TCEP will absorb the entire 2013-2015 PBAS allocation of US$13 million for
+Liberia under highly concessional lending terms, as well as US$4.5 million in ASAP
+grant funding for climate change resilience activities. The financing gap of
+US$9.06 million – mainly to finance rehabilitation of roads (component B) – could
+be financed by IFAD’s PBAS 2016-2018 allocation (modalities to be confirmed). The
+Government and IFAD will explore further cofinancing opportunities.
+6
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+Table 2
+Project costs by expenditure category and financier
+(Thousands of United States dollars)
+IFAD
+2013-2015 PBAS
+Financing gap
+IFAD grant
+(ASAP)
+Government
+Private-sector
+partners
+Beneficiaries
+Total
+Expenditure category
+Amount
+%
+Amount
+%
+Amount
+%
+Amount
+I. Investment cost
+A. Works
+B. Goods, services
+and inputs
+C. Vehicles
+D. Equipment and
+materials
+E. Consultancies
+F. Training
+G. Workshops
+H. Services
+II. Recurrent costs
+A. Salaries and
+*
+allowances
+B. Operational
+costs
+Total
+9.3
+99
+2.1
+0.8
+1.1
+1.9
+2.6
+0.1
+0.5
+3.7
+2.5
+1.2
+13.0
+35.1
+1.1
+49.7
+84.9
+24.6
+67.8
+82.3
+81.8
+45.4
+86.0
+95.2
+72.2
+42.3
+9.0
+8.5
+0.1
+-
+0.04
+-
+0.04
+0.02
+0.3
+0.06
+-
+0.06
+9.06
+34.1
+90.9
+2.5
+-
+0.9
+-
+1.1
+11.2
+24.5
+1.2
+-
+3.1
+29.5
+4.1
+99
+0.6
+0.07
+1.9
+0.7
+0.3
+-
+0.3
+0.4
+0.1
+0.3
+4.5
+15.4
+1.1
+13.8
+8.1
+42.0
+25.7
+10.2
+-
+30.2
+9.9
+4.8
+17.7
+14.6
+1.78
+0.7
+0.3
+0.07
+0.3
+0.2
+0.2
+0.009
+-
+0. 08
+-
+0. 08
+1.86
+%
+6.6
+7.0
+7.0
+7.0
+7.0
+6.5
+6.4
+7.0
+-
+2.8
+-
+7.0
+6.0
+Amount
+0.96
+-
+-
+-
+%
+3.7
+-
+-
+-
+0.96
+21.2
+Amount
+1.35
+-
+1.15
+-
+0.2
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+%
+5.1
+-
+27.0
+-
+4.3
+-
+-
+-
+-
+-
+-
+-
+0.96
+3.1
+1.35
+4.4
+Amount
+26.49
+9.4
+4.3
+0.9
+4.5
+2.8
+3.1
+0.1
+1.1
+4.24
+2.6
+1.64
+30.73
+%
+85.8
+30.5
+14.0
+3.1
+14.8
+9.3
+10.1
+0.4
+3.7
+14.2
+8.5
+5.6
+100
+*
+Institutional capacity in Liberia is very weak and few service providers are available. Hence the required expertise needs to be internalized in the project. About 44 per cent of recurrent costs are
+for staff salaries at the centralized level; 16 per cent for allowances to conduct field visits; 10 per cent for support to decentralized functions of MOA, CDA and young professionals; 9 per cent for
+staff salaries at the local level; 8 per cent for salaries of staff tree crop experts; and the remainder for equipment and vehicles.
+7
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+3
+8
+/
+R
+e
+v
+.
+1
+EB 2015/LOT/P 38/Rev.1
+C. Summary benefit and economic analysis
+35. Project benefits. The TCEP will have 11,000 beneficiaries: 8,000 cocoa
+smallholder farmers, 2,400 additional farmers (who will benefit from spillover
+effects) and approximately 600 people through job creation along the value chain.
+Considering an average household size of 5.9 in the project area, this adds up to
+64,900 household members. The project is expected to lead to increases in cocoa
+production, marketing and exports as a result of: (a) revitalization of abandoned
+plantations; (b) replanting of new trees on existing plantations; (c) higher yields at
+the smallholder level, owing to improved production practices promoted through
+dedicated extension systems; and (d) higher quality of cocoa as a result of
+improved post-harvest handling and marketing. As a result of component B, the
+rehabilitation of farm-to-market roads will procure access to markets, reduce time
+and costs to reach local markets and limit the post-harvest losses caused by bad
+transportation conditions. Regarding component C, the strengthening of
+cooperatives will contribute to increasing their bargaining power in price-setting
+when negotiating with buyers. It will also contribute to delivery of quality services
+to cocoa farmers and guarantee sustainability of the approach, in particular,
+dissemination of improved planting material, extension services, and access to
+inputs and to output markets.
+36. Financial analysis. The four financial models developed to simulate interventions
+of the TCEP are based on information collected by the ongoing STCRSP and the
+TCEP design team in April and July 2015. The financial crop models capture:
+(i) increases in cocoa yield; (ii) increases in quality; and (iii) increases in prices for
+higher quality, as well as better bargaining power for farmers. The yield
+assumptions are based on information from other projects in Liberia and the region.
+Cocoa price assumptions are based on World Bank price information and
+projections (constant 2015 prices). Assumptions regarding grades are based on the
+experiences of ongoing projects.
+37. Economic analysis. The economic rate of return (ERR) of 37.2 per cent over
+20 years is profitable from an economic standpoint and generates a total of
+US$108.8 million in the same period (social discount factor: 4.3 per cent). The
+sensitivity analysis indicates a solid resilience to: (i) increases in costs due to a
+combination of risks affecting output prices, yields and adoption rates; (ii) lower
+adoption rates due to a limited outreach of extension services; and (iii) increases in
+project costs due to higher prices of service providers, road construction and
+inputs.
+D. Sustainability
+38.
+It is proposed to classify the project as posing moderate socio-environmental risks
+– category B – in view of: targeting of existing plantations and rehabilitation of
+existing roads; safeguards against indirect deforestation; measures against
+environmental risks of the application of agrochemicals; and careful monitoring of
+negative social impacts. A Social, Environmental and Climate Assessment
+Procedures (SECAP) note has been prepared. In terms of climate risks, a
+preliminary classification of moderate climate risk is proposed at this stage.
+E. Risk identification and mitigation
+39. The main risks and mitigation measures to be adopted are: (i) weak governance
+and institutional capacities – the TCEP will adopt direct contracting procedures,
+follow IFAD procurement guidelines, and strengthen training and control systems
+related to financial management; (ii) weak cooperatives and market linkages – kuu
+groups and FFS will enhance the capacity and bargaining power of farmers. Market
+linkages will be established through PSPs and cooperatives. The TCEP will also
+provide institutional support to cooperatives; (iii) increased disease pressure will be
+mitigated through the setting up and training of pesticide application teams in
+8
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+EB 2015/LOT/P 38/Rev.1
+cooperatives and FFS, as well as through promoting the use of shade from trees
+and diversification of farming systems; (iv) deforestation – interventions will be
+restricted to existing farms; forest conservation agreements and participatory land-
+use monitoring will contribute to controlling deforestation risk; (v) increased use of
+pesticides and fertilizer – the fertilizer application promoted will be in doses too low
+to cause environmental harm; biopesticides will be applied through specially set up,
+trained and equipped spraying teams, thereby reducing the risk of inappropriate
+use; (vi) insufficient planting material and/or not adapted to specific needs – a
+collection station will be set up for screening and multiplication of seed and bud
+woods for grafting; (vii) low quality of cocoa – solar dryers will be introduced for
+individual farmers and at the cooperative level. LACRA will be involved in quality
+control.
+V. Corporate considerations
+A.
+Compliance with IFAD policies
+40. The design of the TCEP is compliant with the relevant IFAD policies, including the
+IFAD Strategic Framework 2011-2015, Rural Enterprise Policy, Private Sector
+Development and Partnership Strategy, Rural Finance Policy, Gender Equality and
+Women’s Empowerment, Youth Policy Brief, Targeting – Reaching the Rural Poor,
+and Social, Environmental and Climate Assessment Procedures.
+B.
+Alignment and harmonization
+41. The Cocoa Export Strategy 2014-2018 is a blueprint for the increased
+competiveness of Liberian cocoa in the global market. On the basis of an in-depth
+diagnostic, the strategy proposes 15 structural interventions in the cocoa value
+chain, of which at least eight will be addressed by the TCEP. These structural
+interventions aim to: (i) speed up efforts to rehabilitate cocoa farms abandoned
+during the civil war and better organize farm operations; (ii) improve land
+management practices, aligned with Global Good Agricultural Practice
+(GLOBALG.A.P.) and good management practice standards, especially at the
+smallholder and cooperative level; (iii) increase availability of inputs by developing
+a locally manufactured input supply chain, and by improving access to imported
+inputs; (iv) use high-quality saplings/seedlings through collaboration with research
+institutes in Côte d’Ivoire, Ghana and the United Kingdom, among other countries;
+(v) increase levels of mechanization, leading to increased capabilities of sector
+stakeholders for transformation and processing; (vi) better train local buying
+agents engaging in best practices and ensure that they are maintained at the
+farmgate level; (vii) increase support to women cross-border traders and other
+women’s groups and actors active in the sector through mentoring, training in
+improved negotiation skills, technical support and access to efficient grievance
+mechanisms; and (viii) develop in-market support/national promotion branding.
+C.
+Innovations and scaling up
+42. Several approaches adopted by the TCEP are innovative: (a) organization of
+farmers at the grass-roots level to enhance their bargaining power; (b) integration
+of climate change resilience and related institutional capacity-building; (c) greater
+focus on the supply chain for new genetic cocoa material; (d) added attention to
+the post-harvest aspects and quality of cocoa; (e) extra emphasis on service
+delivery by cooperatives to their members; (f) the combination of basic
+revitalization of plantations with enhanced revitalization and replanting;
+(g) additional focus on measures to include women and promote their access to
+benefits; and (h) use of a long-term growth path for institutional capacity-building
+of cooperatives, combined with a more-systematic approach and institutional
+auditing.
+9
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+EB 2015/LOT/P 38/Rev.1
+D.
+Policy engagement
+43. ASAP grant. Within the ambit of the new LACRA Act (once enacted) and the United
+Nations Reducing Emissions from Deforestation and Forest Degradation Programme
+(UN-REDD) policy development in Liberia – and in collaboration with other
+development partners – the TCEP will support a national round-table on climate-
+friendly cocoa and the potential expansion of cocoa production towards wetter
+counties as part of a countrywide climate change adaptation strategy. Other items
+that could be discussed are: (a) switching to farmgate pricing with a prescribed
+minimum; (b) stimulating the cocoa sector through quality premiums and enforced
+minimum standards; and (c) bilateral agreements with Ghana and Côte d’Ivoire on
+technical exchanges, exchange of germplasm, multiplication strategies, control of
+diseases and child labour issues.
+VI. Legal instruments and authority
+44. A project financing agreement between the Republic of Liberia and IFAD will
+constitute the legal instrument for extending the proposed financing to the
+borrower. A copy of the negotiated financing agreement is attached as appendix I.
+45. The Republic of Liberia is empowered under its laws to receive financing from IFAD.
+46.
+I am satisfied that the proposed financing will comply with the Agreement
+Establishing IFAD and the Policies and Criteria for IFAD Financing.
+VII. Recommendation
+47.
+I recommend that the Executive Board approve the proposed financing in terms of
+the following resolutions:
+RESOLVED: that the Fund shall provide a loan on highly concessional terms to
+the Republic of Liberia in an amount equivalent to nine million four hundred
+and eighty thousand special drawing rights (SDR 9,480,000), and upon such
+terms and conditions as shall be substantially in accordance with the terms
+and conditions presented herein.
+RESOLVED FURTHER: that the Fund shall provide a grant under the
+Adaptation for Smallholder Agriculture Programme to the Republic of Liberia
+in an amount equivalent to three million two hundred and eighty thousand
+special drawing rights (SDR 3,280,000), and upon such terms and conditions
+as shall be substantially in accordance with the terms and conditions
+presented herein.
+Kanayo F. Nwanze
+President
+10
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+Appendix I
+EB 2015/LOT/P.38/Rev.1
+Negotiated financing agreement:
+Tree Crops Extension Project
+(Negotiations concluded on 7 December 2015)
+Loan Number: ____________________
+Grant Number: __________________
+Project Title: Tree Crops Extension Project (“the Project”)
+The Republic of Liberia (the “Borrower/Recipient”)
+and
+The International Fund for Agricultural Development (the “Fund” or “IFAD”)
+(each a “Party” and both of them collectively the “Parties”)
+hereby agree as follows:
+Section A
+The following documents collectively form this Agreement: this document, the
+1.
+Project Description and Implementation Arrangements (Schedule 1) and the Allocation
+Table (Schedule 2).
+The Fund’s General Conditions for Agricultural Development Financing dated
+2.
+29 April 2009, amended as of April 2014, and as may be amended hereafter from time to
+time (the “General Conditions”) are annexed to this Agreement, and all provisions
+thereof shall apply to this Agreement.  For the purposes of this Agreement the terms
+defined in the General Conditions shall have the meanings set forth therein.
+The Fund shall provide a Loan and an Adaptation for Smallholder Agriculture
+3.
+Programme (ASAP) Trust Fund Grant (the “ASAP Grant”) to the Borrower/Recipient
+(collectively the “Financing”) which the Borrower/Recipient shall use to implement the
+Project in accordance with the terms and conditions of this Agreement.
+Section B
+1.
+A.
+The amount of the Loan is nine million four hundred eighty thousand Special
+Drawing Rights (SDR 9 480 000).
+B.
+The amount of the ASAP Grant is three million two hundred eighty thousand
+Special Drawing Rights (SDR 3 280 000).
+The Loan shall be free of interest but bear a service charge of three fourths of one
+2.
+per cent (0.75%) per annum payable semiannually in the Loan Service Payment
+Currency, and shall have a maturity period of forty (40) years, including a grace period
+of ten (10) years starting from the date of approval of the Loan by the Fund’s Executive
+Board.
+3.
+The Loan Service Payment Currency shall be the United States Dollar.
+1
+Appendix I
+EB 2015/LOT/P.38/Rev.1
+4.
+The first day of the applicable Fiscal Year shall be 1 July.
+Payments of principal and service charge shall be payable on each 15 May and
+5.
+15 November.
+The Borrower/Recipient shall provide counterpart financing for the Project in the
+6.
+amount of one million eight hundred fifty five thousand United States Dollars
+(USD 1 855 000) in the form of payment of taxes and duties and provision of office
+facilities.
+7.
+There shall be two accounts designated to receive funds in advance (Designated
+Accounts) denominated in USD; one for the Loan proceeds (Loan Designated Account)
+and one for the ASAP Grant proceeds (ASAP Grant Designated Account), to be
+maintained in the Central Bank of Liberia.
+8.
+There shall be two Project Accounts denominated in USD and maintained in banks
+acceptable to the Fund and administered by the Project Implementation Unit (PIU), one
+for the IFAD loan and one for the ASAP Grant.
+Section C
+1.
+The Lead Project Agency shall be the Ministry of Agriculture (MoA).
+Other Project Parties include the Cooperative Development Agency (CDA) as well as
+2.
+the Liberia Produce Marketing Corporation (LPMC) or its successor, the Liberia Agriculture
+Commodities Regulatory Authority (LACRA), under their respective mandates, and the
+identified Private Sector Partners.
+The Project Completion Date shall be the sixth anniversary of the date of entry into
+3.
+force of this Agreement.
+Section D
+The Financing will be administered and the Project directly supervised by the Fund.
+Section E
+The following are designated as additional grounds for suspension of this
+1.
+Agreement:
+(a)
+(b)
+any institutional changes have been made by the Borrower/Recipient to the
+Project Steering Committee or the Project Implementation Unit, including the
+transfer, suspension, or termination of key PIU staff without the Fund’s prior
+no-objection, and the Fund has determined that such changes are likely to
+have a material adverse effect on the Project; and
+the Project Implementation Manual, or any provision thereof, has been
+abrogated, waived, suspended, or amended without the prior consent of the
+Fund and the Fund has determined that this is likely to have a material
+adverse effect on the Project.
+The following are designated as additional general conditions precedent to
+2.
+withdrawal:
+(a)
+the Project Coordinator, Finance Manager, and Procurement Specialist shall
+have been duly appointed; and
+(b)
+The Project Implementation Manual shall have been approved by IFAD.
+2
+Appendix I
+EB 2015/LOT/P.38/Rev.1
+3.
+This Agreement is subject to ratification by the Borrower/Recipient.
+The following are the designated representatives and addresses to be used for any
+4.
+communication related to this Agreement:
+For the Borrower/Recipient:
+Minister for Finance and Development Planning
+Ministry of Finance and Development Planning
+Broad Street
+P.O. Box 10-9013
+Monrovia, Liberia
+For the Fund:
+The President
+International Fund for Agricultural Development
+Via Paolo di Dono 44
+00142 Rome, Italy
+This Agreement, dated __________, has been prepared in the English language in two
+(2) original copies, one (1) for the Fund and one (1) for the Borrower/Recipient.
+THE REPUBLIC OF LIBERIA
+___________________
+Authorized Representative
+THE INTERNATIONAL FUND FOR
+AGRICULTURAL DEVELOPMENT
+_____________________
+Kanayo F. Nwanze
+President
+ADAPTATION FOR SMALLHOLDER AGRICULTURE
+PROGRAMME TRUST FUND
+___________________
+Kanayo F. Nwanze
+President
+3
+Appendix I
+EB 2015/LOT/P.38/Rev.1
+Schedule 1
+Project Description and Implementation Arrangements
+I.
+Project Description
+Goal. The overall development goal of the Project is to improve the livelihoods and
+1.
+climate change resilience of rural households in Nimba County.
+Objective.  The development objective of the Project is to improve incomes and
+2.
+climate change resilience of smallholder cocoa producers in Nimba County.
+Target group.  The beneficiaries of the Project will be 11,000 stakeholders of the
+3.
+cocoa value chain, of which (i) 8,000 cocoa smallholders who are members of kuu groups
+and Farmer Field Schools (FFS); (ii) approximately 2,400 (30%) other farmers who will
+also benefit from roads, input supply and market linkages, and (iii) 600 beneficiaries as a
+result of job creation along the value chain. In order to select the 8,000 cocoa
+smallholders, the Project will be using a self-targeting approach, combined with tools to
+ensure inclusiveness of youth, women, war wounded and Ebola survivors.
+Activities. The Project will adopt a value chain approach to link cocoa farmers,
+4.
+organized at grassroots level in kuu groups and FFS, to markets and services through
+cooperatives and Private Sector Partners (PSPs). Building on the achievements and
+lessons learnt from the IFAD co-financed Smallholder Tree Crop Revitalization Support
+Project (STCRSP) in Lofa county, the main innovations in the Project design are: (a) the
+organization of farmers at the grassroots level in order to enhance their bargaining
+power, (b) the integration of climate change resilience and related institutional capacity
+building in the approach; (c) additional focus on the supply chain for new genetic
+material of cocoa; (c) additional focus on post-harvest aspects and quality of cocoa;
+(d) additional focus on services delivery by the cooperatives to their members; (e) the
+combination of basic revitalization of plantations with enhanced revitalization and
+replanting, (f) additional focus on measures to include women and promote their access
+to benefits; and (g) the use of a long-term growth path for institutional capacity building
+of the cooperatives, combined with more systematic institutional capacity building of
+cooperatives and institutional auditing. Specifically, the three main outcomes are:
+(i) increased quantity and quality of cocoa sold and higher price received by
+smallholders; (ii) improved access to markets and reduced transportation costs, and; (iii)
+improved service provision to cocoa farmers for value chain development.
+5.
+Components. The Project will consist of four Components, (A) Revitalization of
+cocoa plantations; (B) Rehabilitation and maintenance of roads; (C) Service provision for
+value chain development, and; (D) Project coordination, monitoring and evaluation.
+II.
+Implementation Arrangements
+1.
+Lead Project Agency. The Lead Project Agency shall be the Ministry of Agriculture
+(MoA) of the Republic of Liberia, with overall responsibility for the implementation of the
+Project.
+2.
+Project Management. The Programme Management Unit (PMU) of MoA shall
+delegate the functional and day-to-day implementation and coordination responsibilities
+for the Project to the PIU, responsible for the implementation of all IFAD-financed
+projects in Liberia.
+4
+Appendix I
+EB 2015/LOT/P.38/Rev.1
+The main institutional parameters shall be as follows. The IFAD-PIU will ensure
+3.
+day-to-day management of the Project. In addition, the Project will also establish a
+County PIU in Nimba County. Implementation arrangements of the Project will be
+harmonized with those of the IFAD STCRSP. For the revitalization and replanting of
+plantations, the County PIU will coordinate the mobilization of kuu groups and FFS. These
+FFS will be encouraged to become members of the district cooperatives. In addition,
+Memoranda of Agreement will be signed with PSPs and cooperatives in order to ensure
+access to markets and services. The Central Agricultural Research Institute (CARI) will be
+responsible for enhancing the supply chain of improved planting material.
+National Steering Committee. The National Steering Committee (NSC) of STCRSP
+4.
+will also serve as NSC for the Project. The NSC shall orient the strategy of the Project,
+oversee planning, review progress and impact and ensure linkages with related projects,
+government services and relevant value chain stakeholders. The PMU will be the
+secretariat of the NSC. The draft AWPB will be submitted to the NSC for clearance and
+then submitted to IFAD for comments and final non-objection.
+5.
+Component Implementation. The main implementing partners (IP) of the Project
+will be: (a) the selected cooperatives who will engage in business agreements with the
+kuu groups and FFS; (b) at least two PSPs, who will engage in Public-Private Partnerships
+with the Project and the cooperatives; (c) the CARI; (d) other specialized service
+providers, including national and international consulting firms and NGOs, commercial
+financial institutions and others. Under Component A, cocoa revitalization of farms will
+take place from Project Years (PY) 1 – 4. For Component B, the rehabilitation of roads
+will take place in PY2 and PY3 and preparatory works will start in Y1.  The Project will use
+the implementation mechanism developed by STCRSP, namely: (a) recruitment of
+engineers in the County-PIU that will be responsible for preparation of tender documents,
+supervision of works and putting in place a maintenance programme; and (b) support to
+the Ministry of Public Works (MPW) in order to undertake supervision missions. Private
+companies will be contracted through a competitive process for the works, making use of
+the Contractors Classification and Certification System developed by MPW. The
+Environmental Protection Agency (EPA) will be responsible for assessing the
+environmental impact, which will be limited as only existing roads will be rehabilitated.
+Under Component C, the approach to enhance the institutional capacity of cooperatives
+will be less supply-driven, more bottom-up, while defining also clear responsibilities of
+the cooperatives in their partnership with the Project and with the grassroots groups.
+6.
+The coordination, management and M&E of Project activities will be under the
+responsibility of the PIU responsible for IFAD-financed projects, reporting to the MoA and
+the MFDP. At the County level, the Project will liaise with the decentralized establishment
+of the MoA and the Cooperative Development Agency. The County Agricultural
+Coordinator (CAC) and District Agricultural Officers (DAOs) will monitor implementation
+of Components A and C. The County Resident Engineer (CRE) will liaise with the Project
+for implementation and monitoring of Component B. An Memorandum of Understanding
+(MoU) will be signed with the Project in order to define roles and responsibilities. Project
+staff shall be subject to the applicable tax domestic legislation of the Borrower including
+income tax and social security. The Monrovia PIU will consolidate an Annual Work Plan
+and Budget (AWPB) for each Project Year, on the basis of proposals from the County PIU.
+The AWPB will include: (i) a detailed description of planned project activities during the
+coming project year, and the sources and uses of funds thereof; (ii) an 18-months
+procurement plan for items to be procured through IFAD financing, and; (iii) indicators
+and associated targets extracted from the logical framework.
+7.
+Project Start-up Phase. To facilitate a prompt start-up, withdrawals of up to
+USD 200 000 may be made to incur expenditures related to the Project start-up before
+the satisfaction of the additional general conditions precedent to withdrawal. The start-up
+funds will include: (i) Updating of the Project Implementation Manual including the
+financial procedures, accounting and procurement manual; (ii) Preparation of the first
+AWPB and procurement plan; (iii) Organization of a start-up workshop; (iv) Fine-tuning
+5
+Appendix I
+EB 2015/LOT/P.38/Rev.1
+of the accounting software as necessary to automate all required financial reports and
+extended Statements of Expenditure (SOEs); (v) Finalization of the scope of work and
+the terms of references (ToRs) of the internal auditor as well as report format, and
+(vi) Finalization of the Agreement/MoU templates to be used with the implementing
+partners.
+Project Implementation Manual. The PIU shall prepare a draft Project
+8.
+Implementation Manual (PIM) and shall forward it to the Fund for its non-objection. If the
+Fund does not comment on the draft PIM within thirty (30) days after receipt, it shall be
+deemed to have no objection. The PIM, or any provision thereof, may not be waived,
+suspended, terminated, amended or modified without the prior agreement of the Fund.
+6
+Appendix I
+EB 2015/LOT/P.38/Rev.1
+Schedule 2
+Allocation Table
+Allocation of Loan and Grant Proceeds. The Table below sets forth the Categories of
+1.
+Eligible Expenditures to be financed by the Loan and the Grant and the allocation of the
+amounts of the Loan and the Grant to each Category.  All amounts are 100 % net of taxes,
+Government contribution and beneficiary contribution:
+Category
+Loan Amount
+Allocated in SDR
+ASAP Grant
+Amount Allocated
+in SDR
+I.
+Works: warehouses (and buildings)
+70 000
+70 000
+II.
+Goods, services and inputs (including
+Equipment and Materials and vehicles)
+2 660 000
+1 690 000
+III. Training and Workshops
+IV. Consultancies (and Services)
+V.
+Salaries and allowances
+VI. Operation costs
+Unallocated
+Total
+1 750 000
+1 605 000
+1 640 000
+820 000
+935 000
+210 000
+700 000
+85 000
+205 000
+320 000
+9 480 000
+3 280 000
+The allocation of eligible expenditures between the Loan and the ASAP grant shall
+2.
+be clearly specified by activity and expenditure category in the PIM and in the AWPB.
+3.
+No amounts may be transferred to the implementing partners before a
+Memorandum of Agreement satisfactory to the Fund between the respective
+implementing partner and the Project have entered into effect.
+The Borrower/Recipient shall ensure that independent auditors audit all proceeds of
+4.
+the Financing transferred to the implementing partners and all expenditures incurred by
+them in accordance with International Standards on Auditing. The audit shall disclose
+separately the receipt and uses of the Financing in a format acceptable to the Fund and
+shall be delivered to the PIU in a timely manner to enable the PIU to provide the Fund
+with a consolidated audit report in the manner which the Fund shall specify.
+7
+Logical framework
+Narrative Summary
+Key Performance Indicators
+Means of Verification
+Name
+Baseline (Y0)
+Mid-Term
+(Y3)
+End Target (Y6)
+Source
+Frequency
+Responsibility
+Assumptions
+Goal:
+Improve the
+livelihoods and
+climate change
+resilience of
+rural
+households in
+Nimba County
+Decreased 0-5 year child
+malnutrition* (1)
+Increased food security (reduction in
+length of hungry season)* (2)
+stunted: 36,4%1
+wasted: 3,9%;
+underweigh:20,7%
+Food insecure:
+11%
+Moderately food
+insecure: 30%2
+TBD
+TBD
+TBD
+TBD
+Improvement in asset ownership*
+(3)
+TBD
+TBD
+TBD
+Secondary data i.e.
+LDHS
+RIMS Baseline/
+Completion Survey
+or secondary data
+i.e. CFSNS
+RIMS Baseline and
+Completion Survey
+PY1, PY3, PY6
+IFAD-PIU
+PY1, PY3, PY6
+IFAD-PIU
+(LISGIS)
+PY1, PY3, PY6
+IFAD-PIU
+Project Development Objective:
+8
+Improve incomes
+and climate change
+resilience of
+smallholder cocoa
+producers in Nimba
+County
+# of smallholder farmers who
+increased the quantity of cocoa
+sold (4)
+# of smallholder farmers who
+increased their resilience3 to
+climate change [RIMS 1.8.5] (5)
+0
+0
+4,250
+5,500
+8,000
+Baseline/Completion
+survey
+PY1, PY3, PY6
+550
+4,000
+Baseline/Completion
+survey
+PY1, PY3, PY6
+IFAD-PIU
+(LISGIS)
+IFAD-PIU
+(LISGIS)
+Gross sales of cocoa per farm (6)
+178 US$
+583 US$
+1,718 US$
+Baseline/Completion
+survey, monitoring
+data
+PY1, PY3, PY6
+LISGIS, Coop
+reports, PSP
+Farm gates prices as % of ICCO
+reference price for grade 1 (7)
+0.68 70%
+71 70%
+75%
+Monitoring reports
+Quarterly
+County-PIU
+Component A – Revitalization of cocoa plantations
+Outcome 1:
+Increased quantity
+and quality of
+cocoa sold by
+# of productive trees per farmer
+(yielding >10 pods of cocoa per
+tree) (8)
+50
+400
+1,000
+Reports of PSP and
+cooperatives
+Annually
+CAC, DAO
+Commitment of
+all stakeholders
+(government,
+donors, private
+sector) to
+participate in
+poverty
+reduction efforts
+Land tenure
+system in
+project counties
+does not pose
+1 Liberia Demographic and Health Survey (LDHS), 2013.
+2 Liberia Comprehensive Food Security and Nutrition Survey (CFSNS), 2013.
+3
+A household will be considered as more resilient to climate change if it is at least: a) using climate resilient practices (adequate shade, diversification, pest and disease control) and cocoa
+germplasm promoted by the TCEP; and b) is engaged in a zero deforestation agreement which is monitored. It is estimated that at least 50 per cent of the farmers would reach this level in
+year 6.
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+3
+8
+/
+R
+e
+v
+.
+1
+Narrative Summary
+Key Performance Indicators
+Means of Verification
+Name
+Baseline (Y0)
+Mid-Term
+(Y3)
+End Target (Y6)
+Source
+Frequency
+Responsibility
+% of grade 1 cocoa (9)
+0%
+60%
+90%
+Reports of PSP and
+cooperatives
+Annually
+CAC, DAO
+Ha of cocoa rehabilitated or
+replanted [RIMS 1.1.17] (10)
+0 ha
+6,500  ha
+10,000  ha
+Reports from PSP
+and Coops
+Quarterly
+CAC, DAO
+smallholders
+Outputs:
+Plantation
+revitalized and
+climate resilient
+practices and
+processing
+introduced
+Component B – Rehabilitation and maintenance of roads
+Outcome 2:
+Improved access to
+markets
+Outputs:
+Rehabilitation and
+maintenance of
+roads
+Km of roads passable all year
+round after three years* (11)
+0 km
+75 km
+200 km
+Reports of CRE
+PY1, PY3, PY6
+County-PIU, CRE
+9
+Component C – Service provision for value chain development
+Outcome 3:
+Improved service
+provision to cocoa
+smallholder
+Tonnes of cocoa sold by farmers
+through their cooperatives*
+and/or PSP (12)
+Average increase of business
+potential4(*) (improving service
+delivery to farmers) for
+supported cooperatives (13)
+# of farmers receiving
+inputs/services from cooperative
+or private sector * (14)
+# of groups (FFS)  trained in crop
+production and post-harvesting
+practices and technologies (15)
+Outputs:
+Sustainable
+cooperatives for
+marketing of cocoa
+and provision of
+inputs
+0
+2,775 tonnes
+9,800 tonnes
+3.2 (current
+average business
+potential of coops
+in Nimba)
+3.8 for 80%
+and 4.5 for
+20% of
+selected coops
+4.5 for 70%
+and 5 for 30%
+of selected
+coops
+Reports from Coops
+and PSP
+Reports of PSP and
+cooperatives
+Quarterly
+CAC, DAO
+Annually
+CAC, DAO
+0
+0
+5,500
+8,000
+Reports from Coops
+and PSP
+Quarterly
+CAC, DAO
+220 FFS
+320 FFS
+FFS officer
+Quarterly
+County-PIU
+Assumptions
+any limitations
+to project
+activities
+Targeted
+communities are
+involved and
+responsive to
+interventions
+made
+Targeted
+communities are
+involved and
+responsive to
+interventions
+made
+Responsive and
+interested
+private sector
+partners in the
+cocoa sector
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+3
+8
+/
+R
+e
+v
+.
+1
+4 Business potential is a composite index to assess the level of development of cooperatives (developed by SCOPEinsight).

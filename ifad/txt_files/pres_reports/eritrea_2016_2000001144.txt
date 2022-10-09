@@ -1,0 +1,2204 @@
+Document:
+Date:
+Distribution:
+Original:
+EB 2016/LOT/P.11
+27 October 2016
+Public
+English
+E
+President’s report
+Proposed grant to the State of Eritrea for the
+Fisheries Resources Management Programme
+Note to Executive Board representatives
+Focal points:
+Technical questions:
+Dispatch of documentation:
+Eric Rwabidadi
+Associate Country Programme Manager
+East and Southern Africa Division
+Tel.: +39 06 5459 2905
+e-mail: e.rwabidadi@ifad.org
+William Skinner
+Chief
+Governing Bodies Office
+Tel.: +39 06 5459 2974
+e-mail: gb_office@ifad.org
+For: Approval
+EB 2016/LOT/P.11
+ii
+iii
+iv
+1
+1
+1
+2
+2
+2
+3
+3
+4
+4
+4
+4
+5
+5
+6
+6
+6
+7
+7
+8
+9
+9
+9
+9
+9
+10
+10
+Contents
+Abbreviations and acronyms
+Map of the programme area
+Financing summary
+Recommendation for approval
+I.
+Strategic context and rationale
+A. Country and rural development and poverty context
+B. Rationale and alignment with government priorities and the country
+strategic opportunities programme
+II. Programme description
+A. Programme area and target group
+B. Programme development objective
+C. Components/outcomes
+III. Programme implementation
+Approach
+A.
+B. Organizational framework
+C. Planning, monitoring and evaluation, and learning and knowledge
+management
+D. Financial management, procurement and governance
+E. Supervision
+IV. Programme costs, financing, and benefits
+A. Programme costs
+B. Programme financing
+C. Summary benefit and economic analysis
+D. Sustainability
+E. Risk identification and mitigation
+V.
+Corporate considerations
+A.
+B.
+C.
+D.
+Compliance with IFAD policies
+Alignment and harmonization
+Innovations and scaling up
+Policy engagement
+VI. Legal instruments and authority
+VII. Recommendation
+Appendices
+I.
+II.
+Negotiated financing agreement
+Logical framework
+i
+EB 2016/LOT/P.11
+Abbreviations and acronyms
+AWP/B
+FDP
+FReMP
+GDP
+GEF
+M&E
+MSY
+NPCO
+annual work plan and budget
+Fisheries Development Programme
+Fisheries Resources Management Programme
+gross domestic product
+Global Environment Facility
+monitoring and evaluation
+maximum sustainable yield
+national programme coordination office
+ii
+Map of the programme area
+EB 2016/LOT/P.11
+iii
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+The State of Eritrea
+Fisheries Resources Management Programme (FReMP)
+EB 2016/LOT/P.11
+Financing summary
+Initiating institution:
+IFAD
+Recipient:
+The State of Eritrea
+Executing agency:
+Ministry of Marine Resources
+Total programme cost:
+US$32.12 million
+Amount of IFAD Debt Sustainability
+Framework grant:
+SDR 10.75 million (equivalent to approximately
+US$15 million)
+Cofinanciers:
+Federal Republic of Germany
+Global Environment Facility (GEF)
+Food and Agriculture Organization of the United Nations
+Amount of cofinancing:
+Germany: US$5.97 million
+GEF: US$7.89 million
+FAO: US$500,000
+Terms of cofinancing:
+Grant
+Contribution of recipient:
+US$1.42 million
+Contribution of beneficiaries:
+US$1.35 million
+Appraising institution:
+IFAD
+Cooperating institution:
+Directly supervised by IFAD
+iv
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2016/LOT/P.11
+Recommendation for approval
+The Executive Board is invited to approve the recommendation for the proposed
+grant to the State of Eritrea for the Fisheries Resources Management Programme as
+contained in paragraph 47.
+Proposed grant to the State of Eritrea for the Fisheries
+Resources Management Programme (FReMP)
+I. Strategic context and rationale
+A. Country and rural development and poverty context
+1.
+Strategic context. More than two decades after attaining its independence in
+1993, Eritrea is still faced with many development challenges. The main economic
+sectors have yet to fully recover, resulting in high unemployment, few
+income-generation opportunities, an unsupportive business environment for
+investment, and weak macroeconomic conditions. The country is prone to periodic
+droughts and remains dependent on rainfed agriculture, which makes it highly
+vulnerable to food and nutrition insecurity.
+2.
+3.
+On the Human Development Index,1 Eritrea scored 0.391, ranking 186th out of
+188 countries in 2014. The country also scored poorly on the Global Hunger Index2
+with a score of 33.8 in 2014. Nonetheless, recent economic performance has been
+positive, driven mainly by the mining sector. Real gross domestic product (GDP)
+growth was estimated at 2 per cent in 2014 and 2.1 per cent in 2015 – double that
+of 2013. The current GDP composition is services (59.9 per cent),
+non-manufacturing (17.3 per cent), agriculture, animal husbandry, forestry and
+fisheries (16.9 per cent), and industry (5.9 per cent). Exports increased in 2014
+and 2015, but the current account balance is estimated to have deteriorated from
+0.2 per cent of GDP in 2014 to -1.2 per cent in 2015, and is forecast to be
+1.5 per cent of GDP in 2016. This is partly due to decreases in both remittances
+and the "development and recovery" tax (a 2 per cent tax levied on the Eritrean
+diaspora). Based on International Monetary Fund Article IV 2009,3 Eritrea was at
+the pre-decision point for becoming a heavily indebted poor country (HIPC) and
+therefore may be eligible for HIPC multilateral debt relief. Eritrea is classified as
+"red" by the Debt Sustainability Framework and is therefore entitled to 100 per
+cent grant financing.
+Agriculture, animal husbandry and fishing are mainstays for most Eritreans, with
+between 60 per cent and 70 per cent of the population relying on these subsectors
+for their livelihoods; they also account for between 20 per cent and 30 per cent of
+commodity exports. However, these subsectors are affected by highly variable
+climatic conditions, inefficient rain-fed subsistence farming systems, limited
+resource allocation and low profit margins. The fact that over 80 per cent of poor
+people live in rural areas and depend on agriculture suggests that increasing
+agricultural production and productivity would have a significant impact on poverty.
+Eritrea has 26 per cent arable land, but only 4 per cent is under cultivation. Mining
+is becoming important and is the main attraction for foreign investment. The
+1 United Nations Development Programme Human Development Report 2015 (http://hdr.undp.org/en/2015-report).
+2 The Global Hunger Index, produced by the International Food Policy Research Institute, is an aggregated measure of:
+overall undernourishment; child wasting; child stunting; and child mortality (http://www.ifpri.org/topic/global-hunger-index).
+3
+http://www.imf.org/external/np/pp/eng/2013/071813.pdf: Only information for 2009 is available from the IMF; since then,
+there has been no agreement with Eritrea’s Government on mission dates or modalities for the next Article IV.
+1
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2016/LOT/P.11
+growth outlook is promising if Eritrea exploits all its opportunities for trade and
+opens its economy to foreign investment in sectors other than mining.
+B. Rationale and alignment with government priorities and the
+4.
+5.
+6.
+7.
+country strategic opportunities programme
+Eritrea has substantial and relatively underexploited marine and fisheries
+resources, comprising nearly 1,000 fish species. These fisheries exist in an
+unpolluted and undercapitalized marine environment; the fisheries sector
+contributes only about 3 per cent of the country's GDP. The maximum sustainable
+yield (MSY) of Eritrea’s Red Sea fisheries has been estimated by several sources at
+80,000 tons per year (some fisheries experts provide a more conservative MSY
+range of between 40,000 and 80,000 tons per year since there has been no recent
+stock assessment). Small pelagic fisheries account for about half of this MSY and
+are currently underutilized. Recorded total fish catches rarely exceed 10,000 tons
+per year, of which fewer than 2,000 tons are caught by small-scale fishers.
+This programme will support Eritrea’s Government in ensuring that the country’s
+marine fishery resources are utilized in a sustainable manner to improve the
+livelihoods of coastal communities. Specifically, the Fisheries Resources
+Management Programme (FReMP) will: (i) support increased fish production while
+ensuring that production levels do not exceed historical MSY estimates (for small
+pelagic fish, it will be limited to 19,000 tons per year); (ii) support the Ministry of
+Marine Resources in monitoring and enforcement; (iii) update MSY estimates and
+adjust targets when needed; and (iv) invest in restoration and protection of the
+ecosystem.
+The projected total fish production represents an estimated gross first sales
+value-at-landing of approximately US$50 million. This involves a huge investment
+in fishing, processing and other support services like boat building, supply of
+fishing gear, cold storage, production of ice and packaging material, and
+opportunities in fish distribution and marketing. FReMP will mainly target fishers
+who use traditional motorized wooden boats (along with a few using improved
+motorized fiberglass boats). Other beneficiaries will include "foot fishers" who do
+not own any fishing assets. The programme will address many limiting factors and
+contribute to increased productivity, production and improved livelihoods of the
+target beneficiaries. Eritrea’s mangrove forests also offer opportunities for
+supplementing livelihoods with honey production, fodder for small livestock, and
+fuelwood, ensuring the viability of fisheries over the long term.
+Inland fisheries and aquaculture present another investment opportunity for
+increased fish production, incomes and nutrition. The Government, with support
+from other development partners, has established over 330 reservoirs, of which
+70 are stocked with fish species including tilapia, carp and catfish. However, the
+country’s inland fisheries resources are not widely exploited since many local
+communities are: unaware of the nutritional benefits; they lack fishing skills and
+equipment; and fishing is not part of their tradition. In addition, there are
+opportunities for engaging in aquaculture using cages placed within water
+reservoirs or in external ponds drawing water from the reservoirs. FReMP will
+target 15 water reservoirs to demonstrate good practices and test successful
+models that can be replicated and scaled up in the other reservoirs. The
+programme will also assist in developing climate-resilient conservation plans for
+the water reservoirs, which will lead to improved crop and livestock production,
+and enhance rural populations’ nutrition and incomes.
+II. Programme description
+A. Programme area and target group
+8.
+Programme Area. FReMP will be national in scope, targeting all six zobas
+(regions) in Eritrea's coastal and inland areas. There will be a special focus on
+2
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2016/LOT/P.11
+9.
+marine fish landing sites, inland water reservoirs for aquaculture and fish markets.
+On the Red Sea coast, it will target the Northern Red Sea and Southern Red Sea
+zobas. In the inland zobas of Anseba, Debub, Gash Barka, and Maekel, the
+programme will be site-specific, operating in selected water reservoirs with high
+fishery production potential.
+Target Group. The target group consists of: (i) small-scale fishers (men and
+women small boat owners, crew members and foot fishers) who will participate
+either as individuals or as cooperatives; and (ii) rural smallholder farmers involved
+in subsistence agriculture and small livestock-keeping around inland water
+reservoirs, and those involved in rehabilitating their catchment areas, who are
+interested in economic activities along the inland fisheries supply chain; (iii) youth
+entrepreneurs (fishers and non-fishers) interested in establishing business
+enterprises or cooperatives that respond to market demand for fishery products
+and services; (iv) women, especially women-headed households, who will account
+for at least 30 per cent of the programme’s beneficiaries; and (v) demobilized
+soldiers and internally displaced persons.
+B. Programme development objective
+10. Programme goal and development objective. FReMP will be implemented over
+a seven-year period from 2017 to 2023. The programme’s goal is to contribute to
+household food and nutrition security, and alleviate rural poverty. Its development
+objective is to increase incomes and improve nutrition among targeted
+beneficiaries, and promote the sustainable management of natural resources. In
+pursuit of this objective, FReMP will support marine and inland small-scale fishers
+to produce a surplus (within the MSY of the fisheries) for the market. To achieve
+this, it will forge sustainable partnerships with various actors along the fish
+production and marketing value chain. The aim will be to transform Eritrea’s
+small-scale fisheries sector from subsistence to a sustainable commercial industry.
+C. Components/outcomes
+11. Component 1: Develop sustainable fisheries systems. This component will
+support the establishment of necessary infrastructure and technologies for
+production and post-harvest operations, marketing, and consumption of both
+marine and inland fisheries. It will be achieved through three sub-components:
+(i)
+Development of marine fisheries production and post-harvest systems;
+(ii) Development and sustainable utilization of inland fisheries; and
+(iii) Market development and promotion of fish consumption.
+12. Component 2: Fisheries enterprise support services. This component seeks
+to: (i) promote the development and build capacity of cooperatives and other
+enterprise groups; and (ii) strengthen input-provision services to ensure that
+legally constituted cooperatives and enterprise groups have access to the inputs
+required to undertake economically viable and sustainable fish-related businesses.
+These objectives will be achieved through two sub-components:
+(i)
+Entrepreneurial capacity development; and
+(ii)
+Strengthening of input supply services.
+13. Component 3: Institutional strengthening and implementation support.
+The objectives of this cross-cutting component are to: (i) ensure that the
+institutions responsible for implementing and overseeing the programme’s various
+implementation processes have the capacity to effectively carry out their duties;
+and (ii) manage and facilitate the programme in an efficient and effective manner
+by coordinating planning and implementation, financial management and control,
+procurement support, monitoring and evaluation (M&E), knowledge management
+3
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2016/LOT/P.11
+and sharing, progress reporting, and liaising with other stakeholders. These
+objectives are to be achieved through two sub-components:
+(i)
+Capacity building of the Ministry of Marine Resources and other implementing
+agencies for the development of the fisheries sector; and
+(ii)
+Programme coordination and implementation support services.
+III. Programme implementation
+Approach
+A.
+14. The programme’s overall approach is to strengthen production systems and market
+linkages. FReMP will use communities as an entry point, engaging local institutions
+in participatory planning for sustainable fisheries development. The programme will
+be implemented through – and fully embedded in – the Government’s
+decentralized system, and sustainability will be a central aspect of the programme
+approach. The programme will support enterprises in engaging with markets in
+order to increase returns on their investments and establish public and private
+mechanisms to ensure continuity of benefits. Gender will be mainstreamed across
+the programme by: (i) ensuring that gender issues are considered in policy
+dialogue and staff training; (ii) establishing programme work plans that are gender
+sensitive and identifying gender focal points at the national and zoba levels;
+(iii) promoting women’s participation in programme activities, particularly those
+focused on small pelagic fish production and market linkages; and (iv) closely
+monitoring gender empowerment.
+B. Organizational framework
+15. The management, coordination and implementation of FReMP will involve various
+government institutions and private-sector entities. The Ministry of Marine
+Resources will be the lead executing agency and will be supported by: (i) a
+programme steering committee chaired by the minister responsible for fisheries
+and with representation from ministries with direct relevance to the programme
+goal and development objective; and (ii) an adequately staffed national
+programme coordination office (NPCO). At the zoba level, FReMP will be
+implemented, managed and coordinated through the zoba administration systems.
+Zoba programme coordination offices will be established in all the six zobas to
+strengthen programme management and coordination.
+C. Planning, M&E, and learning and knowledge management
+16. Planning. Annual work plans and budgets (AWP/Bs) will be the key instruments
+for implementation and operational control. AWP/Bs will be prepared for all
+programme participants, starting with the primary stakeholders at the community
+level. These plans will identify activities according to needs and priorities through a
+participatory planning process.
+17. The NPCO will receive, review, harmonize and consolidate the AWP/Bs from the six
+zobas and all other programme areas in collaboration with the Ministry of Marine
+Resources. The NPCO will submit the consolidated AWP/Bs to the programme’s
+technical committee for review and endorsement before submitting them to the
+programme steering committee for approval and to IFAD for review on a "no
+objection" basis. In order to facilitate the proper preparation of AWP/Bs, training
+will be provided at programme start-up.
+18. Monitoring and Evaluation. M&E will be embedded in the institutional
+strengthening and implementation support component, coordinated by the NPCO.
+This system will reach all implementers at the national and zoba levels, and will be
+supported by additional professional staff, who will work closely with
+subject-matter specialists to strengthen learning and knowledge management. The
+M&E system will feed into the Ministry of Marine Resources management
+information system and IFAD’s Results and Impact Management System.
+4
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2016/LOT/P.11
+19. Learning and knowledge management. Learning and knowledge management
+will be based on the programme’s M&E system, especially on reviews and
+participatory assessments of lessons learned during implementation. The
+national-level M&E team will liaise with zoba-level counterparts to develop a
+learning and knowledge management system.
+D. Financial management, procurement and governance
+20. Financial management. The proposed financial management arrangements for
+FReMP have been assessed as medium risk. Therefore it is recommended that the
+Laccie accounting software be used instead of the Government’s financial
+management system. The NPCO, which will be the accounting hub, has gained
+experience through the Fisheries Development Programme (FDP) in the
+implementation of IFAD-funded projects. In addition, the Laccie accounting
+software was specifically designed for donor-funded projects and is able to
+generate the required financial reports.
+21. Flow of funds. A designated account will be opened at the Central Bank of
+Eritrea to receive the proceeds from the IFAD grant, and Germany and GEF
+contributions. A programme operating account at a bank acceptable to IFAD will
+be operated in accordance with Government regulations. To facilitate
+traceability of funds, each zoba will have a dedicated operating account to
+receive activity-tagged cash advances against approved AWP/Bs, which will be
+accounted for prior to any request for subsequent advances.
+22. Audits. The Government’s audit processes will be used for FReMP. As was the case
+for FDP, Eritrea’s Auditor-General will have the discretion to undertake the audit or
+to appoint an independent private audit firm acceptable to IFAD. Either way, the
+auditor’s terms of reference will require IFAD's "no objection" review on an annual
+basis. The Ministry of Marine Resources’ internal auditors will include FReMP in their
+annual rolling internal audit plans and issue formal reports at least twice each year.
+23. Procurement. All procurement funded by the programme will be carried out in
+accordance with national procurement procedures to the extent that they are
+consistent with IFAD’s Project Procurement Guidelines. The country’s legal and
+regulatory framework for public procurements has been assessed as sufficiently
+robust. There are checks and balances within the system to ensure that public
+procurement is undertaken transparently and competitively. Lessons learned from
+FDP indicate that a programme-specific procurement officer should be recruited to
+strengthen: (i) records management; (ii) contract management; (iii) the
+integration of procurement into budget formulation; and (iv) reporting.
+24. Transparency, governance and anti-corruption. The Government will maintain
+a governance and anti-corruption framework throughout the programme
+implementation period to mitigate the risk of fraud and corruption, and promote
+effective utilization of programme funds. Specific measures to mitigate identified
+fiduciary risks will include: (i) use of the Laccie accounting system at the NPCO to
+reduce the risk of human error; (ii) checks and balances in contracting and
+administration; (iii) the integration of FReMP into internal audit plans within all
+zobas; (iv) activity-tagged transfers to zobas instead of general cash releases;
+(v) maintaining the current statement of expenditure ceiling used in other
+IFAD-funded projects in Eritrea, given the inherent risk; (vi) adequate staffing
+arrangements; and (vii) continued capacity building of the cooperative credit unit
+to handle the asset financing.
+E. Supervision
+25.
+FReMP will be jointly supervised by IFAD and Eritrea’s Government. The frequency
+and composition of missions will be determined by actual requirements through
+collaboration with IFAD and the Government. Preferably, supervision missions will
+take place every six months. Supervision will not be seen as a general inspection
+5
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2016/LOT/P.11
+or evaluation, but as an opportunity to assess achievements and lessons learned,
+and to jointly reflect on improving implementation and increasing the likelihood of
+achieving the programme’s development objective.
+IV. Programme costs, financing, and benefits
+A. Programme costs
+26. Programme costs. The total programme costs over seven years, including
+contingencies, taxes and duties, are estimated to be US$32.12 million as detailed
+in table 1.
+Table 1
+Programme costs by component and financier
+(Thousands of United States dollars)
+Component
+Amount
+%
+Amount %
+Amount %
+Amount
+%
+Amount %
+Amount
+% Amount
+%
+IFAD grant
+GEF
+FAO
+Germany
+Government
+Beneficiaries
+Total
+1. Develop sustainable
+fisheries systems
+2. Fisheries enterprise
+support services
+3. Institutional
+strengthening and
+implementation
+support
+Total programme
+costs
+4 958
+40.4
+6 508
+53.0
+3 376
+31.4
+128
+1.2
+-
+-
+-
+-
+26
+0.2
+286
+2.3
+504
+4.1
+12 284
+38.2
+5 940
+55.3
+445
+4.1
+846
+7.9
+10 735
+33.4
+6 666
+73.2
+1 254
+13.8
+500
+5.5
+-
+-
+686
+7.5
+-
+-
+9 105
+28.3
+15 000
+46.7
+7 890
+24.6
+500
+1.6
+5 966
+18.6
+1 417
+4.4
+1 351
+4.2
+32 124
+100.0
+B. Programme financing
+27. The total combined FReMP investment and incremental recurrent costs, including
+physical and price contingencies, are estimated at US$32.12 million
+(ERN 481.8 million). The programme will be financed by the Government, the IFAD
+grant, Germany, GEF, FAO and beneficiary contributions. IFAD has confirmed a
+grant equivalent to US$15 million from the Tenth Replenishment of IFAD’s
+Resources (IFAD10), which represents 46.7 per cent of the total programme cost.
+Germany will contribute US$5.96 million (18.6 per cent of the total programme
+cost); GEF has committed US$7.89 million (24.6 per cent); FAO will contribute
+US$500,000 (1.6 per cent); and beneficiaries will contribute approximately
+US$1.35 million (4.2 per cent of the total programme cost) through their
+participation in construction, setting up fishery sites and purchasing inputs like
+fishing gear. The Government will finance the taxes and duties (US$1.42 million,
+representing 4.4 per cent of total costs). Details of the financing arrangements are
+shown in table 2.
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+6
+EB 2016/LOT/P.11
+Table 2
+Programme costs by expenditure category and financier
+(Thousands of United States dollars)
+Component
+Amount
+%
+Amount % Amount
+% Amount %
+Amount
+% Amount % Amount
+%
+IFAD grant
+GEF
+FAO
+Germany
+Government
+Beneficiaries
+Total
+I. Investment costs
+A. Works
+B. Vehicles
+C. Equipment and materials
+D. Consultancies
+E. Training
+Total
+investment costs
+3 367
+1 707
+2 206
+562
+4 187
+32.8
+72.1
+22.5
+38.3
+86.7
+6 155 59.9
+54
+353
+2.3
+3.6
+356 24.3
+629 13.0
+-
+-
+-
+-
+-
+-
+500
+34.1
+-
+-
+26
+0.3
+-
+-
+5 929 60.4
+-
+-
+10
+0.2
+227
+2.2
+605 25.6
+487
+48
+1
+5.0
+3.3
+-
+504 4.9
+10 279
+32.0
+-
+-
+2 367
+7.4
+845 8.6
+9 820
+30.6
+-
+1
+-
+-
+1 466
+4.6
+4 829
+15.0
+12 029
+41.8
+7 548 26.2
+500
+1.7
+5 966 20.7
+1 368
+4.8
+1 351 4.7
+28 761
+89.5
+II. Recurrent costs
+A. Salaries and allowances
+B. Operating costs
+Total recurrent costs
+1 370
+1 601
+2 971
+Total programme costs
+15 000
+80.0
+97.0
+88.3
+46.7
+343 20.0
+-
+-
+343 10.2
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+50
+50
+7 890 24.6
+500
+1.6
+5 966 18.6
+1 417
+-
+3.0
+1.5
+4.4
+-
+-
+-
+-
+-
+-
+1 713
+1 650
+5.3
+5.1
+3 363
+10.5
+1 351 4.2
+32 124 100.0
+C. Summary benefit and economic analysis
+28. Benefits and Beneficiaries. FReMP will target 17,500 households
+(87,500 people) through 600 groups. The cost per beneficiary is US$361 (about
+US$1,800 per household). The programme will provide direct support to inland
+fishing cooperatives, small pelagic fishing enterprises, fish value-addition
+enterprises (e.g. fish drying), fish mongers and traders, fish marketing, provision
+of inputs through the cooperative support unit and the establishment of a
+sustainable ice plant.
+29. Expected benefits include: (i) increases in the production and quality of
+marketable fish; (ii) higher prices for producers and traders as a result of the
+aggregation of fish products and improved marketing processes; (iii) increased
+community-level resource rental revenues; (iv) consumer benefits such as
+enhanced availability and affordability of fish products by reducing inefficiencies
+along the value chain; and (v) empowered government systems that have
+benefited from capacity development.
+30. Economic analysis. The programme has the potential to generate an economic
+rate of return of 17 per cent over a ten-year period.
+31.
+Impact indicators. FReMP is expected to facilitate the development of sustainable
+production, processing and market linkages for marine and inland fisheries, and
+deliver increased volumes of fish to consumers. This will: generate employment,
+especially for youth and women; increase incomes of small-scale fishers in Eritrea’s
+coastal and inland communities; increase the volume and quality of marketed fish
+in coastal and inland areas; and enhance food and nutrition security in the target
+communities.
+D. Sustainability
+32.
+Institutional sustainability. The participatory programme design process and
+the bottom-up planning approach will ensure that programme implementation
+modalities respond to the target communities’ concerns, sector-specific priorities,
+national development policies and strategies, and the national institutional
+framework. The approach creates ownership and builds the foundation for
+sustainability after the programme ends. FReMP implementation will be fully
+embedded within the Government’s institutional framework at all levels and the
+Government has committed to continue this integration after programme
+7
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2016/LOT/P.11
+implementation. The institutional building-capacity approach encompasses
+government institutions at various levels as well as cooperatives and enterprise
+groups to ensure that skills continue to support programme-initiated activities after
+completion.
+33. Economic/income sustainability. The programme will build the capacity of
+target groups in business plan development for their subprojects and prudent
+financial management; enterprise groups will be linked to markets. The financial
+analysis of the programme indicates that members of different enterprise groups
+will improve their incomes and earn good returns on their investments. These
+financial benefits on investments in the sector, coupled with improved access to
+inputs, will promote sustainability and enhance replicability and scaling up. The
+availability of a revolving fund through the cooperative credit unit will provide
+opportunities for highly performing enterprise groups to expand their businesses in
+the long run.
+34. Environmental and climatic sustainability. The programme will promote
+environmentally sustainable fishing practices by adopting a precautionary
+approach, which involves promoting and enforcing good fisheries management
+practices. FReMP’s interventions will support: adaptation to climate change through
+investing in "climate buffers", which include watershed management; increasing
+water and soil retention to reduce the impacts of drought and extreme rainfall; and
+rehabilitation and planting of mangroves to safeguard their important role in the
+coastal ecosystem. This approach also integrates expected climate change impacts
+and utilizes these data in feasibility studies for infrastructure.
+E. Risk identification and mitigation
+35. Several potential risks could undermine the programme’s success if they are not
+mitigated. Delayed programme start-up, slow disbursements during the early years
+of implementation and high staff turnover have been recurrent problems in the
+portfolio. To mitigate these risks, FReMP will operate with similar institutional
+arrangements as FDP and will be managed by the same experienced programme
+management unit. Expansion of fishing activities, if not properly controlled, could
+lead to overexploitation of fish resources beyond the MSY for both marine and
+inland fisheries. Mitigation measures include: (i) setting conservative catch levels
+below historical MSY estimates (19,000 tons per year for small pelagics);
+(ii) supporting the Ministry of Fisheries Resources in monitoring, control and
+surveillance capacity; (iii) updating MSY estimates and adjusting targets when
+needed; and (iv) investing in restoration and protection of the ecosystem. For
+inland fisheries, the programme will facilitate the establishment of fishing
+cooperatives with standard codes of fishing and environmental practice. The
+programme will also support a hatchery to restock water reservoirs as necessary.
+In addition, extension agents from the Ministry of Marine Resources and fishing
+cooperatives will receive training in stocking and sustainable harvesting.
+36. Based on Eritrea's 2015 Transparency International Corruption Perceptions Index
+score of 18, the country’s inherent risk is high. The fiduciary risk has been
+assessed as medium due to the introduction of mitigation measures highlighted
+above.
+37. Climate risks. The programme’s sensitivity to the impacts of climate change is
+assessed as moderate. The greatest risk relates to the unknown impact of
+increasing sea temperatures on marine fish resources. Through its monitoring
+activities, the programme will be able to adjust to changes in fish stocks. At the
+design stage, there were no data available to carry out an in-depth climate risk
+assessment.
+8
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2016/LOT/P.11
+V. Corporate considerations
+A.
+Compliance with IFAD policies
+38. The design of FReMP is compliant with: (i) IFAD Strategic Framework 2016-2025;
+(ii) Reaching the Rural Poor: IFAD Policy on Targeting; and (iii) IFAD Policy on
+Gender Equality and Women’s Empowerment. In addition, the nutrition focus of the
+programme is aligned with the Government’s strategy on food security and
+nutrition, and IFAD’s commitment to nutrition-sensitive interventions and action
+plans on mainstreaming nutrition. FReMP will be implemented in compliance with
+IFAD’s Environment and Natural Resource Management Policy, and IFAD's Climate
+Change Strategy. Climate change adaptation measures are integrated into
+programme activities in order to address the inherent risks resulting from a
+changing climate and the potential multiplication of these effects on ecosystems.
+As an extra safeguard, IFAD has developed a complaints procedure on alleged
+non-compliance with its social and environmental policies and mandatory aspects
+of its social, environmental and climate assessment procedures.
+Alignment and harmonization
+B.
+39. The programme is fully aligned with Government investment priorities as defined in
+the Eritrea Food Security Strategy, the Eritrea Interim Poverty Reduction Strategy
+Paper and the five year (2013-2017) strategic development plans for the country’s
+agriculture and fisheries sectors. It will be fully embedded in the Government’s
+decentralized institutional framework and delivery mechanisms. Links between the
+steering and technical committees as well as among the management teams will
+ensure coordination, collaboration, learning and scaling up of good practices.
+Operational linkages between the Ministry of Marine Resources and other relevant
+ministries, and other development partners in the fisheries sector are expected to
+result in synergies with the programme.
+C.
+40.
+Innovations and scaling up
+Innovation. Eritrea’s small pelagic fisheries present opportunities for introducing
+new techniques and innovative products and recipes. Novel techniques and fish
+products to be piloted include solar-dried assortments, pickling, fish powder,
+protein concentrates, salted-pressed sundried fish snacks, fermented products, fish
+oil, fish sauces and different fish recipes. Successful products will be introduced to
+fish processing and marketing enterprise groups for commercial uptake. The
+programme will also pilot new technologies to boost fish production.
+41. Scaling up. Experiences from FDP will be used to guide programme interventions,
+especially the formation of cooperatives and enterprise groups, capacity
+development and input financing. FDP established an asset-financing model, which
+has become instrumental in sustaining the country’s small-scale fishing sector,
+particularly for large fish along the coasts. FReMP will scale up this proven model
+for sustainable access to fishing inputs and replicate it in small pelagic fish and
+inland fisheries supply chains. Enterprise groups at different links in these chains
+will be able to access the inputs they need to undertake economically viable and
+sustainable fish-related businesses.
+42. The programme will pilot mariculture – the cultivation of marine organisms for food
+– and aquaculture development activities in marine and inland systems, with the
+objective of demonstrating their technical and economic viability. The inland
+fisheries intervention will target up to 15 water reservoirs to generate good
+practices that are replicable in the remaining water reservoirs across the country.
+Policy engagement
+D.
+43. The programme presents an opportunity to: (i) test new approaches, models and
+technologies within small pelagic inland fisheries and coastal areas; and (ii) support
+the Government’s own efforts to analyse the effectiveness of its fisheries policies,
+9
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2016/LOT/P.11
+including those on sustainable production and management of fisheries resources.
+Lessons learned through the programme will be used to inform Government-led
+dialogue around national policies. The programme will maintain policy engagement
+around fish product marketing systems and related legal and regulatory
+frameworks, particularly regarding the role of the National Fisheries Corporation
+and fisher cooperatives in the pricing of fish products.
+VI. Legal instruments and authority
+44. A programme financing agreement between the State of Eritrea and IFAD will
+constitute the legal instrument for extending the proposed financing to the
+Recipient. A copy of the negotiated financing agreement is included as appendix I.
+45. The State of Eritrea is empowered under its laws to receive financing from IFAD.
+46.
+I am satisfied that the proposed financing will comply with the Agreement
+Establishing IFAD and the Policies and Criteria for IFAD Financing.
+VII. Recommendation
+47.
+I recommend that the Executive Board approve the proposed financing in terms of
+the following resolution:
+RESOLVED: that the Fund shall provide a Debt Sustainability Framework
+grant to the State of Eritrea in an amount equivalent to ten million seven
+hundred and fifty thousand special drawing rights (SDR 10.75 million) and
+upon such terms and conditions as shall be substantially in accordance with
+the terms and conditions presented herein.
+Kanayo F. Nwanze
+President
+10
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+Appendix I
+EB 2016/LOT/P.11
+Negotiated financing agreement: Fisheries Resources
+Management Programme (FReMP)
+(Negotiations concluded on 12 October 2016)
+Grant Number: ___
+Programme Title: Fisheries  Resources  Management Programme (the  “FReMP”  or “the
+Programme”)
+The State of Eritrea (the “the Recipient”)
+and
+The International Fund for Agricultural Development (the “Fund” or “IFAD”)
+(each a “Party” and both of them collectively the “Parties”)
+HEREBY agree as follows:
+Section A
+The  following  documents  collectively  form  this  Agreement:  this  document,  the
+1.
+Programme Description  and  Implementation  Arrangements  (Schedule  1)  and  the
+Allocation Table (Schedule 2) and the Special Covenants (Schedule 3).
+The  Fund’s  General  Conditions  for  Agricultural  Development  Financing  dated  29
+2.
+April  2009,  amended  as  of  April  2014,  and  as  may  be  amended  hereafter  from  time  to
+time (the “General Conditions”) are annexed to this Agreement, and all provisions thereof
+shall  apply  to  this  Agreement. For  the  purposes  of  this  Agreement  the  terms  defined in
+the General Conditions shall have the meanings set forth therein.
+3.
+The  Fund  shall  provide  a  Debt  Sustainability  Framework  (DSF) Grant to  the the
+Recipient (the  “Financing”),  which  the the  Recipient shall  use  to  implement  the
+Programme in accordance with the terms and conditions of this Agreement.
+Section B
+The  amount  of  the  DSF  Grant  is  ten  million  seventy  hundred  and  fifty  thousand
+1.
+Special Drawing Rights (SDR 10 750 000).
+2.
+The first day of the applicable Fiscal Year shall be 1 January.
+3.
+A  designated  account  in  US  Dollars,  operated  by  the  Ministry  of  Marine
+Resources (MMR), shall be opened at the Bank of Eritrea (BE) to receive the proceeds
+of the DSF grant.
+4.
+The Recipient shall  provide  counterpart  financing  in  the  form  of  taxes  and  duties
+exemption  for  the Programme in  an  amount  estimated  to  be  equivalent  to  one  million
+four hundred and seventeen thousand US dollars (USD 1 417 000).
+1
+Appendix I
+Section C
+EB 2016/LOT/P.11
+1.
+The Lead Programme Agency shall be Ministry of Marine Resources.
+2.
+Additional  Programme  Parties  include,  but  are  not  limited  to:  Ministry  of  Local
+Government,  Ministry  of  Agriculture,  Ministry  of  Land,  Water  and  Environment  (MLWE),
+the National Union of Eritrean Women (NUEW), the National Union of Eritrean Youth and
+Students (NUEYS), and the Massawa College of Marine Science and Technology.
+The Programme Completion  Date  shall  be  the seventh  anniversary of  the  date  of
+3.
+entry into force of this Agreement.
+Section D
+1.
+The Financing will be administered and the Programme supervised by the Fund.
+Section E
+The  following  are  designated  as  additional  general  conditions  precedent  to
+1.
+withdrawal:
+(a)
+(b)
+(c)
+The  National  Project  Coordination  Office  (NPCO)  shall  have  been  duly
+established  and  key  Programme  management  positions  filled  by  personnel
+acceptable to IFAD;
+The Recipient shall have established a Programme Steering Committee (PSC)
+as referred to under Schedule 1 section II of this Agreement;
+The Recipient shall have prepared a draft Programme Implementation Manual
+(PIM) in form and substance satisfactory to the Fund.
+The following are the designated representatives and addresses to be used for any
+2.
+communication related to this Agreement:
+For the Recipient:
+Minister of Marine Resources
+P.O. Box 923
+Asmara, Eritrea
+For the Fund:
+President
+International Fund for Agricultural Development
+Via Paolo di Dono 44
+00142 Rome, Italy
+2
+Appendix I
+EB 2016/LOT/P.11
+This Agreement, dated ____________, has been prepared in the English language in two
+(2) original copies, one (1) for the Fund and one (1) for the the Recipient.
+STATE OF ERITREA
+____________________
+(Authorized Representative)
+(Name and Title)
+INTERNATIONAL FUND FOR
+AGRICULTURAL DEVELOPMENT
+___________________
+Kanayo F. Nwanze
+President
+3
+Appendix I
+EB 2016/LOT/P.11
+Schedule 1
+Programme Description and Implementation Arrangements
+I.
+Programme Description
+1.
+Target Population. The Programme shall directly benefit about 17,500 households in
+the  Programme  Area  including:  (a)  small-scale  fishers  (i.e.  men  and  women  that  are
+either  small  boat  owners,  crew  members,  foot  fishers4 that  will  be  dealt  with  either  as
+individuals or as cooperatives/groups; (b) rural smallholders (non-fishers mainly involved
+in  subsistence  agriculture  and  keeping  small  livestock)  living  around  the  target  water
+reservoirs in inland Zobas and interested to engage in economic activities along selected
+links of the inland fisheries supply chain. This group also includes smallholders living and
+involved in rehabilitation of the catchment areas of the target water reservoirs; (c) youth
+entrepreneurs 
+in  establishing  business
+enterprises/cooperatives to respond to market demand for fishery products and services;
+(d)  women,  and  especially  women  headed  households  (WHHs),  accounting  for  at  least
+30%  of  the  Programme’s  beneficiaries;  and  (e)  demobilised  soldiers  and  Internally
+Displaced People.
+(fishers  and  non-fishers) 
+interested 
+The  gender  strategy  under  the  Programme shall  aim  at  providing  equal
+2.
+opportunities for women and men to participate in and benefit from development of the
+marine  and  inland  fishery  sector  through  FReMP  activities.  Women  will  be  specifically
+targeted  to  account  for  at  least  30%  of  beneficiaries  and  one  target  group  comprises
+young  women  (accounting  for  15%  of  total  beneficiaries).  The  Programme  will  support
+women, and in particular women heads of households, to increase their incomes through
+value-addition  in  the  fisheries  sector  with  a  specific  focus  on  processing  and  through
+micro-businesses.  WHHs  and  women  in  male-headed  households,  including  young
+women,  will  be  empowered  to  build  small  businesses  or  effectively  engage  in  fishing
+related  activities  (i.e.  processing  and  marketing,  net  making  and  mending).  Their
+membership  and 
+in  cooperatives  will  be  encouraged.  Climate-smart
+investments will support the use of labour-saving technologies, such as solar fish driers.
+Furthermore, through construction of fish processing plants, the Programme will facilitate
+access to water and this will be benefit to women. Household methodology will stimulate
+discussions  at  the  household  level  regarding  workloads  which,  invariably,  result  in  an
+improved allocation of tasks between household members.
+leadership 
+3.
+Programme area. The  Programme  shall  be  national  in  coverage  targeting  all  six
+Zobas  of  Eritrea  including  the coastal  and  inland  areas,  particularly  targeting  water
+reservoirs  for  aquaculture  and  up-country  fish  markets  and  will  be  implemented  over  a
+period of seven years. The Programme will be site-specific and will operate in areas with
+selected  dams,  principally  to  promote  effective  and  sustainable  inland  fisheries  to  boost
+household  incomes  and  nutrition  for  rural  populations.  It  will  also  engage  in  promotion
+activities  to  raise  the  level  of  fish  consumption  by  rural  and  urban  households.  With
+regard  to  selection  of  the  inland  water  reservoirs  for  the  inland  fisheries  activities,  the
+following will be considered: (a) high potential for fish production; (b) low risk of drying
+out; (c) high opportunities for community participation; (d) accessibility (as indicated by
+the  presence  of  a  community  of  potential  users);  and  (e)  the  degree  of  watershed
+conservation and/or on-going watershed conservation activities. Emphasis should be put
+on  good  water  inflow  and  balance  as  critical  consideration  for  dam  fisheries.  At  least  a
+minimum  depth  (approximately  7  metres)  should  be  maintained  throughout  and  this
+needs to be agreed by  the various water users. Consideration should be given to safety
+4Foot fishers are small scale fishers who access the fishing grounds on foot as they lack fishing assets and catch fish mainly for
+subsistence purposes.
+4
+Appendix I
+EB 2016/LOT/P.11
+for  fishing  activities.  These  aspects  will  be  incorporated  in  the  dams  and  watershed
+management plans.
+Goal. The goal of the Programme is to contribute to household food and nutrition
+4.
+security and the alleviation of rural poverty.
+5.
+Objective.  The  objective  of  the  Programme is increased  incomes  and  improved
+nutrition  situation  for targeted  beneficiaries  and  sustainable  management  of  natural
+resources.
+6.
+Components. The Programme shall consist of the following Components:
+Component 1. Develop Sustainable Fisheries Systems– The component will support
+the establishment of necessary infrastructure, and technologies for production and post-
+harvest operations, marketing and consumption of both marine and inland fisheries. This
+will be achieved through three subcomponents:
+(a)
+Development of Marine Fisheries Production and Post-Harvest Systems;
+(b)
+Development and Sustainable Utilization of Inland Fisheries; and
+(c)
+Market Development and Promotion of Fish Consumption.
+Component  2.  Fisheries  Enterprises  Support  Services– This component  seeks  to
+achieve  two  objectives:  (a)  promote  the  development  and  capacity  building  of
+cooperatives and other enterprise groups; and (b) strengthen the input provision services
+to ensure that the legally constituted cooperatives and enterprise groups have access to
+the  requisite  inputs  to  undertake  economically  viable  and  sustainable  fish-related
+businesses. These objectives are to be achieved, through two subcomponents:
+(a)
+Entrepreneurial Capacity Development; and
+(b)
+Strengthening of Input Supply Services.
+Component  3:  Institutional  Strengthening  and  Implementation  Support.  The
+objectives  of  this  cross-cutting  component  servicing  the  two  technical  components  are:
+(a) to ensure that the institutions mandated with the responsibilities of implementing and
+overseeing the different implementation processes of the  Programme  have the  requisite
+capacity  to  effectively  execute  their  respective  duties;  and  (b)  to  facilitate  and  manage
+the  Programme  in  an  efficient  and  effective  manner  by  providing  overall  coordination,
+including  planning  and implementation,  financial  management  and  control,  procurement
+support,  monitoring  and  evaluation,  knowledge  management  and  sharing,  progress
+reporting, and liaison with all relevant institutions.  These objectives  are to be  achieved,
+through two subcomponents:
+(a) Capacity Building of Ministry of Marine Resources and other implementing
+agencies for the development of the fisheries sector; and
+(b)
+Programme Coordination and Implementation Support Services.
+5
+Appendix I
+EB 2016/LOT/P.11
+II.
+Implementation Arrangements
+The  Government  of  Eritrea  will  provide  necessary  operational  environment  for  the
+7.
+development  of  the  fishery  sector.  Suitable  policies  and  strategies  to  encourage  private
+sector investment will be promoted and technical services will be provided to improve the
+capacity of small-scale fishers. The government will also undertake measures to prevent
+over-exploitation of marine resources, and protect the coastal environment.
+8.
+The  Ministry  of  Marine  Resources  (MMR)  shall,  as  the  Lead  Agency for  the
+Programme, be responsible for the overall management of the Programme. The Office of
+the Minister in MMR will provide leadership, oversight and strategic guidance. MMR will be
+responsible for review and updating of fisheries sector policies, strategy, and regulations.
+9.
+The Programme  delivery  systems  will  be  integrated  into  the  government’s
+decentralized  institutional  framework  and  shall  be  implemented  within  the  MMR
+organisational  and  operational  structures  involving  coordinated  implementation  by the
+MMR and its Zoba branches, and the participating communities at Kebabi level.
+10. The  management,  coordination  and  implementation  of  the  Programme  will  involve
+various government institutions as well as private sector  entities, where applicable, that
+will  play  different  roles  at  various  levels  for  effective  delivery  of  the  Programme  to  the
+intended  beneficiaries.  The  process  will  be  governed  by  four  main  principles:
+(a) alignment  with  government  systems  and  procedures,  especially  those  governing
+public  expenditure  management  and  procurement,  and  integration  of  Programme
+implementation  into  relevant  institutions  in  decentralized  government  structure;
+(b) greater  empowerment  of  beneficiaries  to  take  lead  role  through  their  grassroots
+institutions  in  Programme  planning  and  implementation;  (c)  cooperation  with  private
+sector  service  providers,  where  applicable;  and  (d)  stronger  partnerships  and
+harmonization with other development partners and other stakeholders in the sector.
+11. A National  Programme  Coordination  Office  (NPCO) under  MMR  will  be  established
+and adequately staffed and shall be responsible for the day to day overall coordination of
+implementation  of  the  Programme  including  preparation  of  the  Annual  Work  Plan  and
+Budget  (AWPB),  procurement,
+reporting,  monitoring  and  evaluation,
+procurement  and  financial  management.  The  NPCO  shall  also  ensure  timely  preparation
+and  submission  of  the  Review  Reports,  Programme  Completion  Report  and  the  Annual
+Audit reports. As much as possible, the financial management, Monitoring and Evaluation
+and  procurement  for  the  programme  will  be  aligned  with  the  government  systems  as
+long as they are consistent with IFAD procedures.
+progress 
+12. The  various  MMR  Departments  and  Divisions  will  provide  technical  support  and
+backstopping  to  the  Programme  in  accordance  with  their  respective  mandates. At
+decentralised  levels, MMR  zonal  branches technical  staff  and  the  Zoba  administrations
+will take a lead role in technical coordination and delivery of FReMP. Relevant Programme
+implementation  entities  will  be  strengthened  in  terms  of  technical  and  institutional
+capacity to effectively respond to the scope and technical demands of the Programme.
+13. The oversight  responsibility  will  be  entrusted  to  a  Programme  Steering  Committee
+(PSC),  which  will  be  chaired  by  the  Minister  of  MMR  and  will  include  key  ministries
+involved  in  the  implementation  of  the  Programme  the  Ministry  of  Local  Government,
+Ministry  of  Agriculture,  and  Ministry  of  Land,  Water  and  Environment  and  such  other
+members  as  may  be  agreed  from  time  to  time  by  the  Recipient  and  the  Fund.  The
+Programme Coordinator shall be the Secretary. The PSC will provide policy and strategic
+guidance, providing oversight of implementation to ensure that the programme achieves
+the  intended  objectives  and  sectoral  goals.  The  PSC  shall  approve  AWPB  and  ensure
+6
+Appendix I
+EB 2016/LOT/P.11
+resolution  of  conflicts  or  bottlenecks  that  may  arise  during  implementation.  It  shall
+review  and  approve  all  reports  including,  inter-alia,  the  AWPB,  audit  reports,  progress
+and  Monitoring  and  Evaluation  reports,  Review  Reports  and  Programme  Completion
+Report before forwarding to IFAD. The Committee will meet on a six monthly basis.
+14. A  Programme  Technical  Committee  (PTC) shall  be  established  to  support  the
+functions of the PSC. The PTC chairperson, secretary and members will be appointed by
+the Minister of MMR. The PTC will be responsible for the provision of technical support to
+PSC on policy and strategy issues affecting programme implementation. The PTC will also
+be responsible for reviewing and synthesizing technical documents for  final scrutiny and
+approval  by  the  PSC.  Its  membership  shall  include  representatives  of  key  technical
+entities in MMR and other implementing agencies, such as: the Directors of the six Zoba
+administrations, Director Generals of the MMR Departments, and Directors of Divisions of
+MMR, Head  of  the  Cooperative  Support  Unit  (CSU), Head  of  National  Union  of  Eritrean
+Women (NUEW), National Union of Eritrean Youths (NUEY), a representative of College of
+Marine Science and Technology and the Programme Coordinator and four representatives
+of fishing communities, (two of whom will be women) or such other members as may be
+agreed from time to time by the Recipient and the Fund. The committee will meet on a
+quarterly  basis. It  will  review  progress  of  implementation,  resolve  any  technical  issues,
+review  the  AWPB  and  ensure  its  technical  coherence  and  consistency  with  the
+Programme design report and endorse it before presentation for approval by the PSC.
+15.
+Programme  Implementation  Manual  (PIM).  The  MMR  shall  finalise  the  draft  PIM,
+including a Financial Management Manual. The MMR shall submit the PIM to the Fisheries
+Development  Steering  Committee  for  approval.  When  so  approved,  the  Programme
+Coordinator  shall  forward  the  PIM  to  the  Fund  for  comments  and  no  objection.  The  PIM
+shall  be  submitted  to  the  Fund  no  later  than  six  months  after  the  Programme  becomes
+operational.
+7
+Appendix I
+EB 2016/LOT/P.11
+Schedule 2
+Allocation Table
+Allocation  of  Proceeds. (a) The  Table  below  sets  forth  the  Categories  of  Eligible
+1.
+Expenditures to be financed by the Grant and the allocation of the amounts of the Grant to
+each Category. All amounts are 100% net of taxes.
+Category
+I. Works
+II.
+Vehicles
+III.
+Equipment and Materials
+IV.
+Training
+V.
+Salaries and Allowances
+VI.
+Operating Costs
+Unallocated
+TOTAL
+Grant Amount Allocated
+(expressed in SDR)
+2 170 000
+1 100 000
+1 420 000
+3 060 000
+890 000
+1 040 000
+1 070 000
+10 750 000
+(a) The category “Training” includes consultancies for an amount of SDR 360 000.
+2.
+Start-up  Costs.  Withdrawals  in  respect  of  expenditures  for  start-up costs  incurred
+before  the  satisfaction  of  the  general  conditions  precedent  to  withdrawal  but  after  the
+date of entry into force shall not exceed an aggregate amount of USD 150 000 and shall
+be incurred only for expenses related to Categories III, IV, V, VI.
+8
+Appendix I
+EB 2016/LOT/P.11
+Schedule 3
+Special Covenants
+In  accordance  with  Section  12.01(a)(xxiii)  of  the  General  Conditions,  the  Fund  may
+suspend,  in  whole  or  in  part,  the  right  of  the Recipient  to  request  withdrawals  from  the
+Financing Accounts if the Recipient has defaulted in the performance of any covenant set
+forth below, and the Fund has determined that such default has had, or is likely to have,
+a material adverse effect on the Programme:
+1. Gender. The  Recipient shall  develop  a  gender  strategy  for  the  Programme  to  ensure
+that  gender  concerns  shall  be  mainstreamed  in  all  Programme  activities  throughout  the
+implementation  period,  in  order  to  offer  equal  opportunities  under  the  Programme  to
+men, women, women headed households, youth and other disadvantaged groups.
+2. Counterpart  Funds.  The Recipient shall  ensure  that  counterpart  funds  are  clearly
+identifiable in the financial management system and all financial statements.
+3. Audit. The Terms of Reference of the external audit shall include a specific review of
+IT control system financial reporting.
+9
+Logical framework
+Indicator Name
+ Reduction in prevalence
+of chronic malnutrition
+(stunting)
+Results
+Hierarchy
+Goal:
+Contribute to
+household food
+and nutrition
+security and the
+alleviation of
+rural poverty
+Baseline
+ 50%
+Mid-term
+ 49%
+End Target
+ 47%
+ Percentage increase in
+household asset
+ownership
+ TV: 37%
+Radio: 61%
+Mobile phone:
+69%
+Bicycle: 40%
+Horse cart: 23%
+ 4% increase over
+ 10% increase over
+baseline
+baseline
+Development
+Objective:
+Increased
+incomes and
+improved
+nutrition
+situation for
+targeted
+beneficiaries
+and sustainable
+management of
+natural
+resources.
+1
+0
+ Number of HH receiving
+programme services
+ Percentage increase in
+annual net income of
+artisanal fishers,
+processors and traders
+ Hectares of land and
+mangroves under
+sustainable
+management
+Increased fish
+consumption and
+dietary diversity
+ 0
+ 0
+ 8,000 HH
+ 17.500 HH
+ 15%
+ 30%
+ Mangrove: 0
+ Watershed: 0
+ Mangrove: 750 ha
+ Watershed: 7,000 ha
+ Mangrove: 1,500 ha
+ Watershed: 16,000
+ha
+ 0.4 kg per
+ 0.7 kg per year
+year
+ 1.5 kg per year
+Outcome 1
+Production
+systems for
+fisheries
+ Average annual value
+of all fish delivered to
+consumers (USD):
+ USD 0.6
+million
+ USD 15 million
+ USD 50 million
+Source
+Frequency
+Responsibility
+Assumptions
+Global
+Nutrition
+Report 2015,
+RIMS
+baseline and
+impact
+surveys,
+household
+survey, MTR.
+MMR Annual
+Reports;
+M&E
+Reports;
+MTR, PCR;
+Special
+Studies
+MMR Annual
+Reports;
+M&E
+Reports;
+MTR, PCR;
+Special
+Studies
+Food survey,
+MMR Annual
+Reports;
+M&E
+Reports;
+MTR, PCR;
+Special
+Studies
+Programme
+M&E reports
+Programme
+start-up and
+completion
+NPCO and
+Ministry of Health
+Annual
+MMR and NPCO
+Annual
+MMR and NPCO
+Annual
+MMR and NPCO
+Annual
+MMR and NPCO
+Political, Social
+and Economic
+environment
+are favourable
+to the fishing
+and fish
+farming sector
+development
+(A); Macro-
+economy
+stagnates (R);
+Affordable fish
+products
+available in
+large
+quantities to
+poor
+consumers
+Political, Social
+and Economic
+environment
+are favourable
+to the fishing
+and fish
+farming sector
+development
+(A); Macro-
+economy
+stagnates (R);
+Increased
+level of
+awareness on
+fish nutritional
+value and
+consumption,
+especially in
+the inland
+Zobas (A).
+Increased fish
+consumption,
+especially in
+the inland
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+6
+/
+L
+O
+T
+/
+P
+.
+1
+1
+
+Baseline
+ Small pelagic:
+260
+ Large fish:
+1,800
+Mid-term
+ Small pelagic: 2,000
+ Large fish: 1,840
+(marine large fish
+1,800 and inland fish:
+40)
+End Target
+ Small pelagic: 3,800
+ Large fish: 3,100
+(marine large fish
+3,000 and inland
+fish: 100)
+Food survey
+MMR data
+Annual
+NPCO, ZPCO
+Source
+Frequency
+Responsibility
+Assumptions
+ Large fish: 37
+ Small pelagic:
+ Large fish: 40
+ Small pelagic: 80
+ Large fish: 67
+ Small pelagic: 255
+Programme
+M&E reports
+Annual
+MMR and NPCO
+Indicator Name
+ Average annual
+volumes of all fish
+delivered to consumers
+(tonnes)
+Small pelagic (dry)
+Large fish (wet)
+ Number of marine
+fishing (large fish and
+small pelagic)
+cooperatives supported
+ Number of watershed
+management plans
+above reservoirs
+established and
+effectively implemented
+ Number of inland
+fisheries
+cooperatives/enterprise
+groups established and
+operational
+ Number of viable small
+pelagic fish
+processing/marketing
+cooperatives handling
+100 tons of fish loaded
+0
+ 0
+ 0
+ 0
+ Number of viable
+primary fisheries
+enterprises5 established
+ An umbrella
+ 41
+ 0
+Results
+Hierarchy
+developed and
+delivering
+increased
+volumes of fish
+to consumers
+Outputs 1
+1.1. Marine
+fishing
+cooperatives are
+established and
+receive
+adequate inputs
+1.2. Inland
+fisheries at the
+target water
+reservoirs
+established
+1.3. Small
+pelagic fish
+processing/mark
+eting
+cooperatives
+supported
+Outcome 2
+Viable fisheries
+enterprises are
+developed and
+sustainable
+1
+1
+Output 2
+2.1.
+Cooperatives/
+enterprise
+groups
+established and
+receiving assets
+financing
+ 3
+ 3
+ 30
+ 80
+ 1
+ 15
+ 15
+ 90
+ 2506
+ 1
+Programme
+M&E reports
+Annual
+MMR and NPCO
+Programme
+M&E reports
+Annual
+MMR and NPCO
+Programme
+M&E reports
+Annual
+MMR and NPCO
+cooperative for
+marketing small pelagic
+established and
+functioning profitably at
+the end of programme
+ Percentage of
+cooperatives/enterprise
+groups receiving inputs
+from CCU
+ 20%7
+ 40%
+ 80%
+Programme
+M&E reports
+Annual
+MMR and NPCO
+Zobas (A).
+Coastal
+ecosystems
+managed and
+improved.
+Supportive
+Policy and
+legal
+framework
+Supportive
+Policy and
+legal
+framework
+Supportive
+Policy and
+legal
+framework
+Supportive
+Policy and
+legal
+framework
+Supportive
+Policy and
+legal
+framework
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+6
+/
+L
+O
+T
+/
+P
+.
+1
+1
+5Fishing, processing, engine repair, net-making and marketing enterprises. Viable enterprises are sustainably operating enterprises without programme support
+6Total number of enterprises established is 358, estimated success rate 70%
+7It is estimated that about 20% of the cooperatives established under FDP are currently receiving inputs from the CCU on a credit basis.
+Baseline
+ 41
+Mid-term
+ 100
+End Target
+ 250
+Indicator Name
+ Number of cooperatives
+receiving and servicing
+fishing assets through
+CCU
+Results
+Hierarchy
+2.2. CCU fully
+established at
+national and
+branch levels
+and providing
+services to
+members on a
+profitable basis
+Source
+Frequency
+Responsibility
+Assumptions
+Programme
+M&E reports
+Annual
+MMR and NPCO
+Supportive
+Policy and
+legal
+framework
+Capacity of
+CCU and
+cooperatives
+developed
+1
+2
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+6
+/
+L
+O
+T
+/
+P
+.
+1
+1

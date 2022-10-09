@@ -1,0 +1,1911 @@
+Document:
+Agenda:
+Date:
+Distribution:
+Original:
+EB 2018/124/R.23/Rev.1
+7(d)(i)(a)
+13 September 2018
+Public
+French
+E
+President’s report
+Proposed loan and grant to the
+Republic of Benin for the
+Agricultural Development and
+Market Access Support Project
+Note to Executive Board representatives
+Focal points:
+Technical questions:
+Dispatch of documentation:
+Deirdre McGrenra
+Chief
+Governing Bodies
+Tel.: +39 06 5459 2374
+e-mail: gb@ifad.org
+Abdoul Wahab Barry
+Country Programme Manager
+West and Central Africa Division
+Tel.: +225 09 33 50 28
+e-mail: a.barry@ifad.org
+Samir Bejaoui
+Programme Support Officer
+Tel.: +225 07 90 95 89
+e-mail: s.bejaoui@ifad.org
+Executive Board — 124th Session
+Rome, 11-13 September 2018
+For: Approval
+EB 2018/124/R.23/Rev.1
+Contents
+Abbreviations and acronyms
+Map of the project area
+Financing summary
+Recommendation for approval
+I.
+Strategic context and rationale
+A. Country and rural development and poverty context
+B. Rationale and alignment with government priorities and the results-
+based COSOP
+II.
+Project description
+A. Intervention area and target group
+B. Project development objective
+C. Components/outcomes
+III. Project execution
+A. Approach
+B. Organizational framework
+C. Planning, monitoring and evaluation, learning and knowledge
+management
+D. Financial management, procurement and governance
+E. Supervision
+IV.
+Project costs, financing and benefits
+A. Project costs
+B. Project financing
+C. Summary benefit and economic analysis
+D. Sustainability
+E. Risk identification and mitigation
+V.
+Corporate considerations
+A. Compliance with IFAD policies
+B. Alignment and harmonization
+C. Innovation and scaling up
+D. Policy engagement
+VI.
+Legal instruments and authority
+VII. Recommendation
+Appendices
+I. Negotiated financing agreement
+II. Logical framework
+i
+ii
+iii
+iv
+1
+1
+1
+1
+2
+2
+2
+2
+3
+3
+3
+4
+4
+5
+5
+5
+6
+7
+8
+9
+9
+9
+10
+10
+10
+11
+11
+1
+11
+EB 2018/124/R.23/Rev.1
+Abbreviations and acronyms
+4P
+ADP
+APO
+ATDA
+CNP
+COSOP
+EIRR
+CFAF
+NPV
+OFID
+PADAAM
+PAG
+ProCar
+PSDSA
+public-private-producer partnership
+agricultural development pole
+agricultural professional organization
+Territorial Agricultural Development Agency
+National Steering Committee
+country strategic opportunities programme
+economic internal rate of return
+African financial community franc
+net present value
+OPEC Fund for International Development
+Agricultural Development and Market Access Support Project
+Government Action Programme "Revealing Benin"
+IFAD Rural Intervention Framework Programme in Benin
+Strategic Plan for Agricultural Sector Development
+ii
+EB 2018/124/R.23/Rev.1
+Map of the project area
+Republic of Benin
+Agricultural Development and Market Access Support Project
+Detailed design report
+The designations employed and the presentation of the material in this map do not imply the expression of any opinion whatsoever on the
+part of IFAD concerning the delimitation of the frontiers or boundaries, or the authorities thereof.
+Source: IFAD, 2018
+IFAD
+iii
+EB 2018/124/R.23/Rev.1
+Republic of Benin
+Agricultural Development and Market Access Support
+Project
+Financing summary
+Initiating institution:
+IFAD
+Borrower/beneficiary:
+Republic of Benin
+Executing agency:
+Total project cost:
+Amount of IFAD loan:
+(Performance-based allocation
+system [PBAS]–2016-2018 cycle)
+Ministry of Agriculture, Livestock and Fisheries
+EUR 89.5 million
+EUR 13.3 million
+Amount of IFAD grant (under the Debt
+Sustainability Framework):
+EUR 13.3 million
+Terms of IFAD loan:
+Cofinancier(s):
+Amount of cofinancing:
+Terms of cofinancing:
+Highly concessional: Maturity period of 40 years,
+including a grace period of 10 years, with a
+service charge of 0.75 per cent per annum.
+OPEC Fund for International Development (OFID),
+private sector, financial institutions
+OFID: EUR 8.6 million
+Private sector: EUR 4.8 million
+Financial institutions: EUR 1.1 million
+OFID: Loan
+Private sector: Loan
+Financial institutions: Loan
+Contribution of borrower/beneficiary:
+EUR 8.4 million
+Contribution of beneficiaries:
+EUR 2.8 million
+Financing gap:
+EUR 37.2 million
+Appraising institution:
+IFAD
+Cooperating institution:
+Directly supervised by IFAD
+iv
+EB 2018/124/R.23/Rev.1
+Recommendation for approval
+The Executive Board is invited to approve the recommendation for the proposed
+financing to the Republic of Benin for the Agricultural Development and Market
+Access Support Project, as contained in paragraph 56.
+Proposed loan and grant to the Republic of Benin for the
+Agricultural Development and Market Access Support
+Project
+I. Strategic context and rationale
+A. Country and rural development and poverty context
+1.
+As a result of the economic and institutional reforms introduced under the
+Government Action Programme (PAG) “Revealing Benin”, the Beninese economy
+has entered a new era of growth. In 2017, the country reported 5.5 per cent
+growth in its GDP, compared with 4 per cent in 2016. Nevertheless, it still faces
+significant challenges, with a poverty rate of more than 40 per cent; persistent
+social and occupational inequalities to the detriment of women; food insecurity,
+which affects 15 per cent of rural populations and 21 per cent of farm households;
+and persistent unemployment (2.7 per cent) on top of a high level of
+underemployment (72 per cent), largely among young adults. Added to these
+constraints are the effects of climate change, which sap the resilience of
+populations, especially in rural areas.
+2.
+Agriculture is a strategic sector of the Beninese economy, contributing an average
+of 23 per cent of GDP and 75 per cent of export revenues and generating around 70
+per cent of the jobs. The National Investment Plan for Agriculture, Food and
+Nutrition Security 2017-2021 five-year breakdown, prepared within the framework
+of the Strategic Plan for Agricultural Development (PSDSA 2017-2025), is aimed at
+maintaining annual GDP growth of at least 6 per cent during the period and
+increasing the average annual income of rural households by 7.5 per cent.
+B. Rationale and alignment with government priorities and the
+3.
+4.
+5.
+results-based COSOP
+PADAAM was chosen to implement the country strategic opportunities programme
+(COSOP) for Benin 2018-2022 and is entirely under the agricultural component of
+the PAG 2016-2021. It has two strategic objectives: (i) the productive capacity,
+resilience to climate change and food and nutrition security of vulnerable rural
+populations are sustainably improved; and (ii) access to agricultural output markets
+is improved.
+The national value-chain promotion strategy focuses on three conventional value
+chains – rice, maize and cassava – with a view to improving food security and
+increasing the income of rural populations. PADAAM will thus support the three
+value chains stipulated in the PAG in order to: (i) bridge the food gap in terms of
+the domestic demand for rice, only 56 per cent of which was met in 2017, thus
+reducing the country’s dependence on mass imports of rice from the Asian market;
+and (ii) maintain and increase the value added of maize and cassava in association
+with the private sector, while developing trade with the subregional market.
+In the conventional value-chain niche, PADAAM will support government efforts to
+promote the value chains, ensuring household food security and creating value
+added. It will be devoted entirely to supporting the implementation of national
+development programmes in the value chains in question.
+1
+EB 2018/124/R.23/Rev.1
+II. Project description
+A.
+6.
+Intervention area and target group
+In the current strategic context, characterized by the promotion of value chains and
+“agro-clusters,” PADAAM will intervene in four agricultural development poles
+(ADPs) with the potential for production and economic partnership development,
+namely: (i) the south of pole 4, covering the department of Collines; (ii) pole 5,
+covering the departments of Zou and Couffo; (iii) pole 6, confined to the
+department of Plateau; and (iv) pole 7, which stretches to the departments of
+Ouémé, Atlantique and Mono.1 The priority production areas in the ADPs will be
+selected on the basis of a detailed study conducted prior to project start-up.
+7.
+8.
+PADAAM’s target group will consist of the following categories: (i) smallholder
+farmers and small rural entrepreneurs engaged in production or processing
+activities in the three value chains (rice, maize and cassava); (ii) young adults from
+family farms and/or young adults who have graduated and/or have some education
+who wish to work in the value chains as first-time entrepreneurs, as well as young
+entrepreneurs who are already active in the value chains or wish to take advantage
+of the business opportunities they offer; (iii) agroentrepreneurs and downstream
+actors in the value chains – for example, processors, merchants and individuals
+involved in service activities and organized into small or medium-sized enterprises
+or cooperatives; (iv) agricultural professional organizations (APOs) with different
+degrees of organization and geographic positioning: grassroots farmers’
+organizations, unions, federations, regional collaboration platforms and national
+mixed groups of professionals.
+PADAAM will reach 51,000 households and approximately 255,000 rural people,2
+including smallholder farmers, farm youth, agroentrepreneurs and actors
+downstream in the value chains, as well as professional organizations. This
+approach is designed to target and favour women and young adults (aged 15-35),
+who represent 40 per cent and 30 per cent of the beneficiaries, respectively.
+B. Project development objective
+9.
+PADAAM’s general objective is to reduce rural poverty in the project intervention
+area by including stakeholders, both women and men, in diversified and profitable
+value chains.
+10. The project’s development objective is to sustainably increase the food and
+nutrition security, as well as the income, of smallholder farmers, particularly
+women and young adults.
+11. Attainment of this objective will be measured by the following indicators:
+(i) 204,000 low-income rural people benefitting from upward economic mobility, 40
+per cent of them women and 30 per cent of them young adults; (ii) an increase in
+the yield per hectare of maize, rice and cassava; (iii) at least a 30 per cent increase
+in the income of 80 per cent of the beneficiaries; (iv) more than 400 production
+partnerships, bringing together some 1,600 organizations, and close to
+50,000 smallholder farmers developed; (v) 80 per cent of supported rural
+businesses reporting higher profits; and (vi) 1,100 young adults engaged in
+business initiatives in the three targeted value chains.
+C. Components/outcomes
+12.
+PADAAM will be implemented over a six-year period (2019-2024) and will have
+three investment components: (i) strengthening partnerships and creating value
+added (EUR 39.4 million, or 44 per cent of the total cost); (ii) improving agricultural
+1 The department of Littoral, included in ADP 7, is not part of the PADAAM intervention area.
+2 Average size of households (five individuals) based on the average size of rural households in the
+seven departments targeted by the intervention. Source: Cahier des villages et quartiers de ville, INSAE,
+August 2016.
+2
+EB 2018/124/R.23/Rev.1
+productivity and production (EUR 40.1 million, or 44.8 per cent of the total cost);
+and (iii) coordination and management under the IFAD Rural Intervention
+Framework Programme in Benin (ProCar) (EUR 10 million, or 11.2 per cent of the
+total cost).
+13. Component 1: Strengthening partnerships and creating value added. This
+component should result in: (i) the formalization of sustainable economic
+relationships between smallholder farmers and the private sector; (ii) an increase in
+the volume of raw materials processed in the three value chains and sold on the
+domestic and international market; (iii) a significant increase in the income of
+smallholder farmers; and (iv) strengthening of the institutional and governance
+base of professional organizations.
+14. Component 2: Improving agricultural productivity and production. This
+component is aimed at increasing the average yield per hectare by around 44 per
+cent, with production in the three targeted value chains reaching the volumes
+specified in the PSDSA for 2021. Under this component, PADAAM will also
+participate in increasing the availability and quality of infrastructure for production
+and implementation support, with the following as the main indicators:
+2,500 hectares of wetlands improved, 91 storage facilities rehabilitated or built and
+250 km of feeder roads built.
+15. Component 3: Coordination and management under ProCar (Coordination,
+monitoring and evaluation and knowledge management). Implementation of
+this component will be based on the programme approach used in the creation of
+ProCar and the reforms to the territorialization of agricultural development adopted
+by the Government. This framework programme governs the administrative and
+fiduciary management of all projects in IFAD’s portfolio in Benin, and supports the
+shared functions of monitoring and evaluation, knowledge management,
+communication, targeting and youth support.
+III. Project execution
+A. Approach
+16. Geographic approach. Benin has chosen the geographic approach for agricultural
+development, and PADAAM will endorse it. This new approach will be implemented
+through the ADPs under the new institutional architecture that gives the territorial
+agricultural development agencies (ATDA) technical coordination functions that
+cover the ADPs and the promotion of value chains, making the departmental
+bureaus of agriculture, livestock and fisheries responsible for the regulation of the
+interventions and geographic monitoring and evaluation at the territorial level.
+17. Value-chain approach. PADAAM supports a change in paradigm centred on the
+sustainable creation of value added through the promotion of inclusive economic
+partnerships that link smallholder farmers and their organizations with the private
+sector and the market in the three priority value chains.
+18. Outsourcing approach. The project will employ an inclusive outsourcing approach
+to implementing the activities related to partnerships, employing a mechanism
+involving different consulting and facilitation firms whose services will be
+coordinated by international technical assistance in direct support of project
+coordination. This approach will also help to bring young adults into the workforce
+through on-the-job training provided by experienced training centres selected for a
+customized partnership.
+B. Organizational framework
+19.
+PADAAM will be overseen by the Ministry of Agriculture, Livestock and Fisheries and
+be part of ProCar’s organic framework. ProCar’s National Steering Committee (CNP)
+will be expanded to PADAAM with the participation of new stakeholders and/or focal
+3
+EB 2018/124/R.23/Rev.1
+20.
+21.
+points. Four participatory territorial planning committees will be created in the four
+ADPs in question – the south of pole 4, pole 5 and poles 6 and 7).
+PADAAM’s execution will involve an array of complementary functions divided into
+two categories: (i) the country programme functions already established in ProCar
+(financial administration and management, procurement, monitoring and
+evaluation, communication and knowledge management, gender, young adults and
+targeting, etc.); and (ii) specific technical functions, which will be buttressed by
+technical assistance.
+In the ADPs, PADAAM will be implemented by the ATDAs, which will be supported
+with technical assistance under a mandate governed by a clear and assured exit
+strategy with a three-year horizon, capacity building and the acquisition of
+competencies by the ATDAs. ProCar programme functions in the four ADPs will be
+guaranteed by two regional support units.
+C. Planning, monitoring and evaluation, learning and knowledge
+management
+22. The planning and budgeting of PADAAM activities will be built on the work
+programmes and annual budgets, prepared using a bottom-up approach. The
+participatory territorial planning committees will meet in the ADPs each year to
+validate the work programmes and annual budget, which will ultimately be
+submitted to ProCar for approval during the annual sessions of the CNP.
+23. The PADAAM monitoring and evaluation system will be anchored in the ProCar
+system and implement a results-based management system, using the programme
+approach adopted in 2016 and the monitoring and coordination mechanism of the
+National Value-chain Development Programmes fostered by the ATDAs responsible
+for their coordination. The system will be buttressed by: (i) monitoring and
+evaluation assistants assigned to the regional support units, (ii) the creation of a
+data-gathering mechanism and tools to ensure optimal and regular information
+about the PADAAM’s chain of results, and (iii) the ProCar database, along with
+those of the ATDAs in the ADPs.
+24. Learning, knowledge management and communication. PADAAM will base its
+learning and knowledge management system on ProCar’s monitoring and
+evaluation mechanism. A management plan will be prepared at project start-up to
+specify the different communication products and tools that should be developed,
+the most suitable formats and support for the different types of users and the
+frequency with which these products and tools should be developed.
+D. Financial management, procurement and governance
+25. Financial management. This will be based on the ProCar mechanisms and
+procedures for the execution of portfolio operations. Resource management will
+follow country and IFAD procedures. ProCar will prepare the financial statements,
+which it will regularly transmit to the Government and IFAD.
+26. Procurement. The works and supplies, as well as the consulting and advisory
+services necessary for the project, will be delivered in accordance with the current
+Benin procurement code, insofar as they are aligned with IFAD’s procurement
+mechanisms. Within the framework of productive partnerships and rural
+microenterprise promotion, the beneficiaries – farmers’ organizations and young
+promoters of rural enterprises – will participate in procurement through the specific
+modalities defined in the manuals.
+27. Governance. PADAAM will apply the principles of good governance: (i) to the
+national orientation and monitoring committee’s mobilization and participation
+mechanism through Benin’s civil society stakeholders’ platform; (ii) thanks to the
+territorial decentralization groups’ involvement in creating facilitating infrastructure
+for the implementation of productive partnerships; (iii) through beneficiary
+4
+EB 2018/124/R.23/Rev.1
+participation in the planning and evaluation of investments; and (iv) by overseeing
+the implementation of partnership business plans by farmers’ organizations.
+E. Supervision
+28.
+PADAAM supervision will consist of two supervision missions per year, organized
+and conducted jointly by IFAD, the Government and the principal stakeholders,
+notably the members of the CNP and the ADP participatory territorial planning
+committees. Supervision will be conducted using the new online Operational Results
+Management System, which will facilitate the updating of data and information on
+the project’s status. The first supervision mission will essentially support project
+start-up by establishing the implementation mechanism at all levels, finalizing the
+mandates, and issuing the tender documents for the baseline studies and other
+priority activities. The supervision missions will particularly emphasize
+implementation monitoring, achievement of the results, outcomes and impacts and
+the effectiveness of institutional and technical outcomes intended for consolidation
+and replication on a large scale. Specific implementation support missions can also
+be organized as needed.
+IV. Project costs, financing and benefits
+A. Project costs
+29. The total cost of PADAAM, including provisions for physical contingencies and price
+increases, is EUR 89.5 million. The base cost is EUR 84.1 million. The amount for
+physical and financial contingencies is EUR 5.4 million. Taxes, which are included,
+come to EUR 8.4 million.
+30.
+Project costs can be broken down into the following components: (i) strengthening
+of partnerships and creation of value added: evaluated at EUR 39.4 million, or
+44 per cent of the total project cost; (ii) improvement of agricultural productivity
+and production: EUR 40.1 million, or 44.8 per cent of the total project cost; and
+(iii) coordination, monitoring and evaluation and knowledge management:
+EUR 10 million, or 11.2 per cent of the total project cost.
+5
+EB 2018/124/R.23/Rev.1
+Table 1
+Project costs, by component and financier
+(Thousands of euros)
+IFAD loan
+IFAD grant
+Financing gap OFID
+Private sector Banks/SFD
+Beninese
+Government
+Beneficiaries
+Total
+Component
+Amount % Amount % Amount % Amount % Amount % Amount % Amount % Amount % Amount
+%
+A. Strengthening of partnerships and creation of value added
+Partnership
+development
+Capacity-
+building
+4 390 14.6
+4 390 14.6
+11 971 39.7
+4 807 15.9
+628
+2.1
+1 850
+6.1
+2 131
+7.1
+30 167
+33.7
+1 778 19.4
+1 778 19.4
+5 229 56.9
+301
+3.3
+106
+1.2
+9 193
+10.3
+Subtotal
+6 168 15.7
+6 168 15.7
+17 200 43.7
+4 807 12.2
+628
+1.6
+2 151
+5.5
+2 237
+5.7
+39 360
+44
+B. Improvement of agricultural productivity and production
+Access to inputs,
+services, cross-
+cutting support
+Infrastructure
+development
+Subtotal
+1 936 18.8
+1 936 18.8
+4 946
+48
+466
+4.5
+410
+4
+600
+5.8
+10 295
+11.5
+3 122 10.5
+3 122 10.5
+9 784 32.8
+8 561 28.7
+5 243 17.6
+29 832
+33.3
+5 059 12.6
+5 059 12.6
+14 730 36.7
+8 561 21.3
+466
+1.2
+5 653 14.1
+600
+1.5
+40 126
+44.8
+C. Coordination, monitoring and evaluation and knowledge management
+Coordination
+and
+management
+Monitoring and
+evaluation and
+knowledge
+management
+1 514 21.4
+1 514 21.4
+3 607 50.9
+444
+6.3
+7 080
+7.9
+573 19.4
+573 19.4
+1 687
+57
+128
+4.3
+2 961
+3.3
+Subtotal
+2 087 20.8
+2 087 20.8
+5 295 52.7
+573
+Total
+13 313 14.9
+13 313 14.9
+37 224 41.6
+8 561
+9.6
+4 807
+5.4
+1 094
+1.2
+8 377
+5.7
+9.4
+10 041
+11.2
+2 837
+3.2
+89 527
+100
+B. Project financing
+31. The project financing plan is as follows:
+(i)
+IFAD, for a total of EUR 26.6 million, or 29.8 per cent of the total project cost
+(50 per cent in the form of a loan granted under highly concessional terms
+and 50 per cent in the form of a grant through the Debt Sustainability
+Framework), under the PBAS 2016-2018 cycle;
+(ii) OFID, for EUR 8.6 million, or 9.6 per cent of the total project cost;
+(iii) The private sector, for EUR 4.8 million, or 5.4 per cent of the total project
+cost;
+(iv) Financial institutions, for EUR 1.1 million, or 1.2 per cent of the total project
+cost;
+(v) Beninese Government, for EUR 8.4 million, or 9.4 per cent of the total project
+cost; and
+(vi) Beneficiaries, for EUR 2.8 million, or 3.2 per cent of the total project cost.
+32. This yields a financing gap of EUR 37.2 million, or 41.6 per cent of the total project
+cost, which can be filled by future allocations from IFAD (through financing
+modalities to be determined, based on internal procedures and approval by the
+Executive Board), or any other source of financing to be determined in the course
+of project implementation. The financing from the Beninese Government consists
+solely of the exemption of duties and taxes on project acquisitions.
+6
+EB 2018/124/R.23/Rev.1
+Table 2
+Project costs by expenditure category/financier
+(Thousands of euros)
+IFAD
+IFAD loan
+grant
+Finaning
+gap
+OFID
+Private
+sector
+Banks/SF
+D
+Beninese
+gover
+nment
+Beneficiar
+ies
+Total
+Categories
+Amount % Amount % Amount % Amount % Amount % Amount % Amount % Amount % Amount %
+Works
+2 549 10.3
+2 549 10.3
+8 148 32.8
+7 094 28.6
+1 380 18.9
+1 380 18.9
+2 862 39.0
+22
+0.3
+4 465
+1 685
+18
+23
+24 803
+27.7
+7 328
+8.2
+Equipment and
+matérial a
+Goods, services
+and inputs
+Consultancies b
+Training c
+Grants and
+subsidies
+Operating costs
+Salaries and
+allowances
+1 436 19.7
+1 436 19.7
+4 030 55.2
+12
+0.2
+365
+5
+21
+0.3
+7 301
+8.2
+2 056 15.9
+2 056 15.9
+5 732 44.3
+1 330 10.3
+1 755 13.6
+12 929
+2 327
+20
+2 327
+20
+6 537 56.2
+104
+0.9
+2 875 12.9
+2 875 12.9
+8 232 36.8
+4 807 21.5
+1 094
+4.9
+346
+3
+11 640
+2 470 11.1
+22 353
+109 18.5
+109 18.5
+266 45.1
+581 22.5
+581 22.5
+1 420
+55
+106
+18
+591
+2 582
+14.4
+13.0
+25
+0.7
+2.9
+13 313 14.9
+Total
+a Including vehicles.
+b Studies, including domestic and international technical assistance.
+c Including workshops.
+37 224 41.6
+13 313 14.9
+8 561
+9.6
+4 807
+5.4
+1 094
+1.2
+8 377
+9.4
+2 837
+3.2
+89 527
+100
+C. Summary benefit and economic analysis
+33. Financial analysis. PADAAM’s financial analysis examined: (i) smallholder maize
+and cassava farmers; (ii) small wetlands operations; and (iii) different types of
+partnership initiatives between farmers and the private sector in the form of simple
+partnerships, public-private-producer partnerships (4P) and co-enterprises. The
+analysis was aimed at determining the feasibility of the activities in terms of the
+return on investment throughout the project and ensuring that the funds invested
+came from the farmer, the project or a credit institution. It consisted, on the one
+hand, of evaluating farmers’ capacity to generate net positive results, and on the
+other, of analysing their financial situation to ensure that financial equilibrium was
+maintained for the continuity of the activity, bearing in mind the conditions of
+access to credit in the project area and the cofinancing rules established for the
+project. The results, summarized in the table below, indicate that all the models
+included have a satisfactory financial return.
+7
+EB 2018/124/R.23/Rev.1
+Table 3
+PADAAM economic model summary
+Models
+Cost-benefit Ratio
+1. Agricultural production models
+Maize/cassava model
+Wetlands management type 1
+Wetlands management type 2
+Wetlands management type 3
+2. Models for increasing value added
+Creation of ESOPa-Rice
+Strengthening of ESOP-Rice
+Creation of ESOP-Cassava
+4P PIVERTB/ESSORc -Maize
+4P PIVERT/ESSOR-Cassava
+4P Agribusiness-Maize
+Simple contracting–Cassava
+Simple contracting-Maize
+Simple contracting-Rice
+2.9
+1.2
+1.1
+1.4
+1.2
+1.3
+1.1
+1.1
+1.2
+1.5
+1.1
+1.2
+1.3
+a Producer services and organization enterprise.
+b Green innovation, rural energy and transformation pole.
+c Solidarity Enterprise for Services to Rural People.
+Financial Internal
+Rate of
+Return
+NPV (8.5%)
+FCFA
+USD
+104%
+13%
+13%
+19%
+32%
+46%
+29%
+17%
+26%
+33%
+24%
+22%
+54%
+3 881 463
+9 355 186
+11 990 007
+38 169 833
+7 255
+17 486
+22 411
+71 345
+388 379 283
+433 770 696
+242 930 261
+44 129 563
+103 466 044
+45 872 520
+14 007 311
+19 152 330
+114 071 931
+725 943
+810 786
+454 075
+82 485
+193 394
+85 743
+26 182
+35 799
+213 219
+EUR
+6 223
+14 999
+19 224
+61 198
+622 699
+695 476
+389 496
+70 754
+165 890
+73 549
+22 458
+30 708
+182 895
+34. Economic results and sensitivity analysis. Given the wide range of activities
+foreseen, PADAAM will have many economic benefits, the totality of which cannot
+be addressed in calculating the economic return indicators, such as the economic
+internal rate of return (EIRR) and the net present value (NPV). Nevertheless, the
+analysis covers the project’s main benefits and the resulting support for production
+(rice, maize and cassava), support for the creation and strengthening of
+stakeholder partnerships (simple contracting, 4Ps, co-enterprises) and the
+rehabilitation of rural feeder roads.
+35. The project’s EIRR is established at 18.9 per cent, and the NPV, with an economic
+opportunity cost of capital of 6 per cent, at EUR 54.2 million. This is a very
+satisfactory result, all the more so because certain benefits could not be included in
+the calculations due to insufficient data for their evaluation – for example, the
+effects of capacity building and the construction of storage facilities, which have
+improved food security. Overall, the project will have a positive impact on the
+entire economy and especially on women and young adults, who are its priority
+target groups.
+36. The sensitivity analysis yields very robust results. Even in the case of a 30 per cent
+drop in income, a 50 per cent increase in costs or a two-year lag in profits, the
+economic rate of return remains largely above the opportunity cost of capital (6 per
+cent), and the NPV, at more than EUR 20.6 million. Calculation of the switching
+values shows that, all things being equal, the project’s economic return will be nil
+only if its profits fall by 56 per cent or its costs increase by 125 per cent.
+D. Sustainability
+37.
+PADAAM will develop and/or improve the sustainability of the investments made at
+different levels of the ADPs, thanks to its approach aimed at guaranteeing their
+ownership by the beneficiaries and furthering beneficiary empowerment, thereby
+limiting backsliding after project completion. The dynamics of the programme
+approach in place since the advent of ProCar will consolidate the synergy of the
+interventions and strengthen the sustainability of the achievements.
+38.
+PADAAM’s actions will contribute to: (i) the institutional sustainability of farmers’
+organizations and mixed groups of professionals in the targeted value chains, and
+the strengthening of ATDAs through institutional support; (ii) the economic and
+financial viability of the actors involved in the partnerships and business initiatives
+developed by farmers’ organizations or young rural entrepreneurs; (iii) on the one
+8
+EB 2018/124/R.23/Rev.1
+hand, the sustainability of the infrastructure that will be built in collaboration with
+the decentralized territorial groups during implementation of their communal
+development plans, and on the other, the involvement of the beneficiaries, who will
+be organized to ensure the sustainable maintenance and management of the
+infrastructure and facilities; and (iv) environmental sustainability and the promotion
+of measures to increase target groups’ resilience to climate change. In addition, the
+results of the sensitivity test performed as part of the economic and financial
+analysis show the robustness of the project in the face of risks.
+E. Risk identification and mitigation
+39. The main risks for PADAAM are associated with: (i) the innovative nature of the
+value-chain approach in the ADPs: (ii) the recent advent of the ATDAs as overseers
+of the execution of the national value-chain promotion strategy; (iii) the weak
+structure of the value chains’ APOs, and (iv) external factors, such as climate
+change. These risks have been clearly identified and mitigation measures put in
+place, among them: (i) the strengthening of ATDA technical functions and the
+gradual transfer of project supervision; (ii) support for the establishment of APOs
+and the improvement of their governance; (iii) the dissemination of drought-
+resistant varieties, cultivation systems and conservation practices in agriculture;
+and (iv) agricultural insurance. The project’s environmental and social risks put it in
+Category “B.” The risks associated with climate change are considered moderate.
+V. Corporate considerations
+A. Compliance with IFAD policies
+40.
+IFAD Strategic Framework 2016-2025. PADAAM is aligned with IFAD’s Strategic
+Framework 2016-2025, which fosters inclusive and sustainable transformation of
+the rural world. PADAAM will engage in activities aimed at the attainment of IFAD’s
+three strategic objectives, which are to: (i) increase poor rural people’s productive
+capacity; (ii) increase poor rural people’s benefits from market participation; and
+(iii) strengthen the environmental sustainability and climate resilience of poor rural
+people’s economic activities.
+41. COSOP 2018-2022. PADAAM is included in IFAD’s strategy note for Benin, which
+pursues the following strategic objectives: (i) Productive capacity, resilience to
+climate change, and food and nutrition security of vulnerable rural populations are
+sustainably improved; and (ii) access to agricultural output markets is improved.
+42.
+IFAD strategy on climate change. The project is aligned with the IFAD strategy
+on climate change, especially the following objectives: (i) support innovative
+approaches to make smallholder farmers, both women and men, more resilient to
+climate change; (ii) help smallholder farmers take advantage of the available
+measures and financing to mitigate its effects; and (iii) establish a more coherent
+dialogue on climate change, rural development, agriculture and food security.
+43. Natural resource and environmental management. PADAAM is aligned with
+IFAD’s Environment and Natural Resource Management Policy (2011) and is based
+on the following guiding principles: (i) engagement in value chains to drive green
+growth (principle 5); and (ii) promote climate-smart approaches to rural
+development (principle 3).
+44.
+IFAD targeting strategy. The project’s targeting strategy espouses IFAD’s policy,
+which is based on targeting that is geographic, direct and self-targeting. PADAAM
+engages with poor rural people, women and young adults, the priority beneficiaries
+at the heart of IFAD interventions. The different profiles of the target groups have
+been considered in the project support, notably through an analysis by sex and
+age, as well as wherewithal (degree of wealth). PADAAM also integrates the issues
+of gender and youth in its targeting and throughout the project’s life cycle. The
+development of gender and youth targeting strategies and mechanisms was
+9
+EB 2018/124/R.23/Rev.1
+introduced during the project design phase. These strategies also sought to devise
+measures to promote empowerment, facilitation, and execution during its
+implementation. The project will also ensure that these elements are well-
+integrated during results monitoring and impact assessment.
+45.
+Integration of smallholder farmers and the private sector in agricultural
+value chains. PADAAM’s development approach is focused on value chains and
+based on an overall analysis of the entire value chain (for each of the three value
+chains – rice, maize and cassava). The value-chain approach adopted considers all
+stakeholders in each of them (in addition to poor rural people, young adults, and
+women, who are IFAD’s main target group) and their interactions. The market is
+considered a driving force, and the activities are based on an assessment of the
+demand and the capacity of markets to absorb additional production. PADAAM
+encourages private-sector engagement to promote the forging of 4P partnerships
+that facilitate access to markets.
+46. Social, environmental and climate evaluation procedures. Aligned.
+B. Alignment and harmonization
+47.
+PADAAM is aligned with the PAG and the PSDSA 2025, whose implementation it
+supports by concentrating on the strategy to promote the three conventional value
+chains. Project execution will respect the principles of coordination by value chain
+established at the sector level and will support implementation of the national
+development plans for these value chains overseen by the ATDAs.
+48.
+49.
+C.
+50.
+51.
+In addition to the usual services, ProCar aims at fostering greater complementarity
+between PADAAM and IFAD-funded operations, in alignment with the Adapted Rural
+Financing Services Promotion Project and the Market Gardening Development
+Support Project.
+PADAAM’s targeting will consider the presence of the other bilateral and multilateral
+partners operating in the project areas and the need for complementarity. In order
+to ensure good coordination in the value chains, prior to start-up a study will be
+conducted to update the intervention plan with the support of other technical and
+financial partners such as the French Development Agency, German cooperation,
+Belgian cooperation, Swiss cooperation, Netherlands cooperation, Canadian
+cooperation, the European Union, the African Development Bank, the World Food
+Programme, the Food and Agriculture Organization of the United Nations, the World
+Bank, etc.
+Innovation and scaling up
+PADAAM is one of the first development projects formulated under the PAG. It will
+support the national strategy to promote ADPs, innovatively combining the
+geographic and value-chain approaches.
+PADAAM will replicate IFAD’s strategy to further the social and economic inclusion
+of poor rural people and scale up successful integrated and innovative approaches
+to agricultural value-chain development in order to promote intensified use of
+innovative production and processing technologies, efficient agricultural and
+agro-industrial contracting practices and appropriate financing and risk
+management mechanisms in the agricultural production system. While employing a
+diachronic approach, the PADAAM design values the achievements of the recently
+sunsetted IFAD interventions – that is, the Rural Development Support Programme
+and the Rural Economic Growth Support Project.
+D. Policy engagement
+52. The project is aimed at grassroots capacity building, especially through
+consolidation of the technical, economic, organizational, and operational
+competencies of APOs (unions and federations) and mixed groups of professionals.
+10
+EB 2018/124/R.23/Rev.1
+The goal is to endow their structures for representation with greater legitimacy and
+enable them to actively participate in policy-making.
+VI. Legal instruments and authority
+53. A financing agreement between the Republic of Benin and IFAD is the legal
+instrument under whose terms the proposed financing will be granted to the
+borrower/beneficiary. A copy of the negotiated financing agreement is attached as
+appendix I.
+54. The Republic of Benin is authorized under its laws to receive financing from IFAD.
+55.
+I hereby certify that the proposed financing is consistent with the stipulations of the
+Agreement Establishing IFAD and the Policies and Criteria for IFAD Financing.
+VII. Recommendation
+56.
+I recommend that the Executive Board approve the proposed financing by adopting
+the following resolutions:
+RESOLVED: that the Fund shall provide a loan to the Republic of Benin under
+highly concessional terms in an amount of thirteen million three hundred
+twenty thousand euros (EUR 13,320,000) and upon such terms and conditions
+as shall be substantially in accordance with the terms and conditions
+presented herein.
+RESOLVED FURTHER: that the Fund shall provide a grant to the Republic of
+Benin under the Debt Sustainability Framework in an amount of
+thirteen million three hundred twenty thousand euros (EUR 13,320,000) and
+upon such terms and conditions as shall be substantially in accordance with
+the terms and conditions presented herein.
+Gilbert F. Houngbo
+President
+11
+Appendex I
+EB 2018/124/R.23/Rev.1
+Negotiated financing agreement
+Accord de financement négocié:
+Projet d’appui au développement agricole et à l'accès au
+marché
+(Négociations conclues le 2 août 2018)
+Numéro du prêt:__________
+Numéro du don:__________
+Nom  du  projet:  Projet  d’appui  au développement  agricole  et  à  l’accès  au  marché
+(“PADAAM”) (“le Projet”)
+Le Fonds international de développement agricole (“le Fonds” ou “le FIDA”)
+et
+La République du Bénin (“l’Emprunteur/Bénéficiaire”)
+(désignés individuellement par “la Partie” et collectivement par “les Parties”)
+PREAMBULE
+A.
+ATTENDU  QUE l'Emprunteur/Bénéficiaire a  sollicité  du  Fonds  un  prêt  et  un  don
+pour  contribuer  au  financement  du  Projet,  conformément  aux  modalités  et  conditions
+établies dans le présent Accord;
+B.
+ATTENDU  QUE l'Emprunteur/Bénéficiaire entend  obtenir de  l’Organisation  des
+Pays  Exportateurs  de Pétrole  (OPEP)  un  prêt  afin  de  contribuer  au  financement  des
+activités du  Projet  aux  conditions  et  modalités  qui  seront  indiquées  dans  un  accord
+séparé qui sera conclu entre l’Emprunteur/Bénéficiaire et le Fonds de l’OPEP.
+C.
+ATTENDU  QUE l’Emprunteur/Bénéficiaire  entend  en  outre  obtenir  d’autres
+contributions tant du secteur privé que d’autres institutions financières afin de participer
+au  financement  des  activités  du  projet  aux  conditions  et  modalités  qui  seront  indiquées
+dans  un  accord  à  intervenir  entre  l’Emprunteur/Bénéficiaire  et  l’entité  fournissant  sa
+contribution.
+EN FOI DE QUOI, les Parties conviennent par les présentes de ce qui suit:
+Section A
+1.
+Le  présent  Accord  comprend  l’ensemble  des  documents  suivants:  le  présent
+document,  la description  du  Projet  et  les  dispositions  relatives  à  l’exécution  du  Projet
+(annexe 1),  le  tableau  d’affectation  des  fonds  (annexe 2)  et  les  clauses  particulières
+(annexe 3).
+2.
+Les Conditions générales applicables au financement du développement agricole en
+date  du  29 avril 2009,  telles  qu’amendées  en  avril  2014,  et  leurs  éventuelles
+modifications  postérieures  (“les  Conditions  générales”)  sont  annexées  au  présent
+document  et  l’ensemble  des  dispositions  qu’elles  contiennent  s’applique  au  présent
+1
+Appendex I
+EB 2018/124/R.23/Rev.1
+Accord. Aux  fins  du  présent  Accord,  les  termes  dont  la  définition  figure  dans  les
+Conditions générales ont la signification qui y est indiquée.
+3.
+Le  Fonds  accorde  à  l’Emprunteur/Bénéficiaire  un  prêt  ainsi  qu’un  don (“le
+financement”),  que  l’Emprunteur/Bénéficiaire utilise  aux  fins  de  l’exécution  du  Projet,
+conformément aux modalités et conditions énoncées dans le présent Accord.
+Section B
+1.
+A.
+Le  montant  du prêt  est  de  treize  millions  trois  cent  vingt  mille  Euros
+(13 320 000 Euros).
+B.
+Le  montant  du  don  est  de treize  millions  trois  cent  vingt  mille  Euros
+(13 320 000 Euros).
+2.
+Le  prêt  accordé  à  des  conditions  particulièrement  favorables  est exempt  d’intérêts
+mais  est  assorti d’une  commission  de  service  de  trois  quarts  de  point  (0,75%)  l’an,
+exigible  chaque  semestre  dans  la  monnaie  de  paiement  des  frais  de  service  du  prêt.  Le
+prêt  comporte  un  délai  de  remboursement  de  quarante  (40)  ans  dont  un  différé
+d’amortissement  de  dix  (10)  ans  à  compter  de  la  date  d’approbation  du  prêt  par  le
+Conseil d’administration du Fonds.
+3.
+4.
+La monnaie de paiement au titre du service du prêt est l’Euro.
+L’exercice financier débute le 1er janvier et se termine le 31 décembre.
+Le remboursement du principal et le paiement de la commission de service sont
+5.
+exigibles le 15 mai et le 15 novembre.
+Deux  comptes  désignés  libellés en  Franc  de  la communauté  financière  africaine
+6.
+(FCFA) destinés  à  recevoir  les  fonds  provenant  du  prêt  et  du  don  du  Fonds,  seront
+ouverts au nom du Projet par l’Emprunteur/Bénéficiaire auprès de l’agence principale de
+la Banque  Centrale  des  Etats  de  l’Afrique  de  l’Ouest  à  Cotonou (BCEAO).  Ces  comptes
+désignés  seront  mouvementés selon  le principe  de  la  double  signature  du  Directeur
+général de la Caisse autonome d'amortissement (CAA) et du Receveur des finances de la
+dette publique.
+Un  compte  d’opérations libellé en  Franc  de  la communauté  financière  africaine
+7.
+(FCFA) sera  ouvert  au  nom  du  projet  dans  une  banque  commerciale  du  Bénin et  sera
+mouvementé selon  le principe  de  la  double  signature  du Coordonnateur  et  du
+Responsable administratif et financier du Programme-cadre des interventions du FIDA en
+milieu rural au Bénin (PRoCaR).
+8.
+L’Emprunteur/Bénéficiaire contribuera aux  fins  du  Projet  au  titre  des  fonds  de
+contrepartie  pour  un  montant  équivalant  à  huit  millions  quatre  cent  six  mille  Euros
+(8 406 000 Euros). Ce  montant correspond aux droits, impôts et taxes grevant le Projet
+qui  seront  pris  en  charge  par  l’Emprunteur/Bénéficiaire au  moyen,  notamment,
+d’exonérations des impôts et taxes sur les biens et services acquis par le Projet.
+Section C
+L’Agent  principal  du  Projet  est  le  Ministère de  l’agriculture,  de  l’élevage  et  de  la
+1.
+pêche (MAEP).
+La  date  d’achèvement du  Projet  est  fixée  au  sixième anniversaire  de  la  date
+2.
+d’entrée en vigueur du présent Accord.
+2
+Appendex I
+Section D
+EB 2018/124/R.23/Rev.1
+Le Fonds assure l’administration du prêt et la supervision du Projet.
+Section E
+1.
+Les  éléments  ci-dessous  constituent  des  conditions  préalables  au  premier
+décaissement  et  s'ajoutent  à  la  condition  prévue  à  la  Section  4.02  b)  des  Conditions
+générales.
+(i)
+Les organes nécessaires à la mise en œuvre du Projet ont été créés/mis en
+place par  l'Agent  principal  soit,  le  Comité  national  de pilotage  (CNP);  les
+Comités territoriaux  de  planification  (CTP)  et  les Agences  territoriales  de
+développement agricole (ATDA);
+(ii)
+Le  manuel  de procédures  administratives,  financières  et  comptables du
+PRoCaR a été actualisé pour tenir compte des spécificités du Projet et validé
+par le FIDA;
+(iii)
+Le logiciel comptable existant dans le cadre du PRoCaR a été paramétré pour
+les besoins du Projet.
+Les  éléments  suivants  constituent  des  motifs  supplémentaires  de  suspension  du
+2.
+présent accord:
+(i)
+(ii)
+Le Manuel de procédures administratives, comptables et financières, ou l’une
+de  ses  dispositions,  a  été  suspendu,  résilié  en  tout  ou  partie,  a  fait  l’objet
+d’une  renonciation  ou  de  toute  autre  modification  sans  le  consentement
+préalable  du  Fonds,  et  le  Fonds  considère  que  ces  évènements  ont  eu  ou
+auront, vraisemblablement, un effet préjudiciable grave sur le Projet;
+Tout  personnel  clé  du  Projet  (Coordonnateur,  Responsable  administratif  et
+financier,  Responsable  suivi-évaluation,  le  responsable  passation  des
+marchés  du  PRoCaR  et  le  chef  de  projet) a  été  nommé,  transféré  ou  retiré
+de ses fonctions sans l'accord préalable du FIDA.
+3.
+Le présent Accord est soumis à la ratification de l’Emprunteur/Bénéficiaire.
+Toutes les  communications  ayant  trait  au  présent  Accord  doivent  être  adressées
+4.
+aux représentants dont le titre et l’adresse figurent ci-dessous:
+Pour l’Emprunteur/Bénéficiaire:
+Ministère en charge des finances
+Route de l’Aéroport
+B.P 302 Cotonou
+République du Bénin
+Fax : (0029)21 30 18 51/21 31 53 56
+Pour le FIDA:
+Président
+Fonds international de développement agricole
+Via Paolo di Dono 44
+00142 Rome, Italie
+3
+Appendex I
+EB 2018/124/R.23/Rev.1
+Le présent accord, en date du _________, a  été établi en langue française en deux (2)
+exemplaires originaux, un (1) pour le Fonds et un (1) pour l'Emprunteur/Bénéficiaire.
+REPUBLIQUE DU BENIN
+__________________________
+[Introduire le nom du représentant autorisé]
+[Introduire son titre]
+FONDS INTERNATIONAL
+DE DEVELOPPEMENT AGRICOLE
+______________________________
+Gilbert F. Houngbo
+Président
+4
+Appendex I
+EB 2018/124/R.23/Rev.1
+Annexe 1
+Description du Projet et Dispositions relatives à l’exécution
+I.
+Description du Projet
+57. Zone du Projet. Le Projet interviendra dans quatre Pôles de développement agricole
+(PDA): le sud du pôle 4 couvrant le département des Collines; le pôle 5 rassemblant les
+départements du Zou et du Couffo; le pôle 6 circonscrit au département du Plateau et le
+pôle 7 s’étendant aux départements de l’Ouémé, de l’Atlantique et du Mono. Le choix des
+bassins  de  production  prioritaires  à  l’intérieur  de  ces  PDA  fera  l’objet  d’une  étude
+spécifique détaillée avant le démarrage du projet.
+58.
+Population  cible.  Le  Projet  bénéficiera  à  environ  51  000  ménages  parmi  les  petits
+exploitants  agricoles,  des  jeunes  des exploitations  agricoles,  des  agro-entrepreneurs  et
+acteurs  en  aval  des  filières  et  des  organisations  professionnelles.  L’approche  de  ciblage
+sera favorable aux femmes  et aux jeunes (15-35 ans) qui représenteront  respectivement
+40% et 30% des bénéficiaires.
+59.
+Finalité.  L'objectif  général  du  projet  est  de  contribuer  à  la  réduction  de  la  pauvreté
+rurale  dans  la  zone  d’intervention  du  projet  en  intégrant  les  acteurs  hommes  et  femmes
+dans des chaînes de valeur diversifiées et rentables.
+60. Objectif.  L’objectif  de  développement  du  projet  est  d’améliorer  durablement  la
+sécurité  alimentaire  et  nutritionnelle,  et  les  revenus  des  petits  producteurs,  en  particulier
+les femmes et les jeunes.
+Composantes. Les  activités  du  Projet  seront  structurées  autour  des  composantes
+5.
+suivantes:
+5.1 Composante 1. Renforcement de partenariats et création de valeur ajoutée.
+Cette  composante  vise  à  développer  des  partenariats  productifs  entre  les  petits
+producteurs  organisés  (au  sein  de  coopératives  et  leurs  faitières)  et  les  autres  acteurs
+(transformateurs,  commerçants)  des  trois  filières  cibles (riz,  manioc,  mais) pour  la
+valorisation des produits et leur accès aux marchés.
+5.1.1 Sous-composante 1.1 :
+Partenariats  productifs.  Cette  sous-composante  vise  à
+améliorer l’efficacité et le caractère inclusif des filières en formalisant les relations
+entre  acteurs  à  travers  des  partenariats  productifs  mutuellement  bénéfiques,
+permettant  une  meilleure  intégration  entre  les  maillons  de  la  production,  de  la
+transformation  et  de  la  commercialisation  à  travers  la  mise  en  œuvre  de  deux
+principales activités:
+i)
+appui  technique  à  l’émergence  et  au  développement  des  partenariats
+productifs,  dispositif  de  facilitation  pour  l’identification,  la  formulation,
+l’exécution et le suivi de partenariats, qui reposeront  sur des plans d’affaires
+approuvé par un Comité technique; et
+ii) «appuis  financiers  à  la  mise  en  œuvre  des  partenariats  »  afin  de  faciliter  le
+financement  de  ces  plans  d’affaires,  à  travers  lequel  le  secteur  privé  sera
+incité à mobiliser des ressources pour le développement des filières ciblées.
+Dans  ce  cadre, 3  types de  partenariats  productifs  seront appuyés  par  le  projet  à
+savoir:
+Des partenariats de contractualisation simples.
+Des  partenariats  public-privés  producteurs  (4P),  portés  par  plusieurs
+organisations de producteurs (OP) et un privé agrégateur.
+La  coentreprise  ou  encore “Entreprises  de  services  aux  organisations  de
+producteurs” (ESOP).
+5
+
+
+
+Appendex I
+EB 2018/124/R.23/Rev.1
+5.1.2 Sous-composante 1.2:
+Renforcement  des  capacités  des  acteurs. Cette  sous-
+composante  vise  d’une  part, à  renforcer  les  capacités  des  acteurs  des  filières
+(particulièrement  les  OPA  et  les  jeunes)  et  d’autre  part, à  apporter  un  appui
+institutionnel  au  MAEP et  au  Ministère  en  charge  des  Petites  et  Moyennes
+Entreprises (PME) à travers la mise en œuvre de 3 activités principales :
+i)
+renforcement  des  organisations  professionnelles  agricoles  (OPA)  afin  qu’elles
+jouent pleinement leur rôle dans le développement des partenariats d’affaires;
+ii) appuis aux jeunes afin de promouvoir l’entreprenariat dans cette catégorie de
+la population dans les filières-cible; et
+iii) appui  institutionnel  afin  d’accompagner  la  mise  aux  normes  des  produits
+agroalimentaires transformés dans le cadre des partenariats et des clusters.
+5.2 Composante 2. Amélioration de la productivité et de la production agricole.
+L'objectif  de  cette  composante  est  d'améliorer  la  productivité  et  la  production  agricole
+dans les chaînes de valeur ciblées à travers les mesures suivantes:
+5.2.1 Sous-composante 2.1:
+Accès  aux 
+intrants  et  aux  services  et  appuis
+transversaux
+.    L'objectif  de  cette  sous-composante  est  d'appuyer,  pour  les  trois
+filières  retenues  (maïs,  manioc,  riz),  la  mise  en  place  de  mécanismes  viables  de
+production de semences et plants certifiés, d'approvisionnement et de distribution
+d'intrants  agricoles  essentiels  et  de  conseil  agricole dans  le  cadre  de  la  stratégie
+nationale  de  conseil  agricole  deuxième  génération,  portés  par  les  OPA à  travers
+notamment les activités suivantes:
+i)
+ii)
+accès  aux  intrants  agricoles : le  projet  appuiera  le  mécanisme  utilisé de
+coopérative  de  distribution  des  intrants  et  de  commercialisation  des  produits
+agricoles (COOP-DICPA) associant la fourniture d'intrants, l'appui-conseil et la
+commercialisation contractuelle de produits agricoles;
+la production semencière : la professionnalisation des producteurs semenciers
+et leur  capacité à fonctionner comme de  véritables entreprises dans le cadre
+de réseaux structurés seront renforcées;
+iii) appui-conseil  aux  producteurs : dans  le  cadre  de  la  stratégie  nationale  de
+conseil agricole deuxième génération, le projet appuiera la mise en place d'un
+réseau  d'appui-conseil  animé  par des conseillers  et des animateurs-relais  et
+des  modalités  d'accompagnement  en  concertation  avec  la  Fédération  des
+unions de producteurs du Bénin (FUPRO),la COOP-DICPA sous la coordination
+des Agences territoriales de développement agricole (ATDA);
+iv) éducation  nutritionnelle : afin  de  sensibiliser  les  populations  rurales  sur  les
+aspects  nutritionnels, des  spots  radio  seront  diffusés et des  équipes  d'appui-
+conseil  agricole sur  les  enjeux  des  aspects  nutritionnels  dans  la  production
+agricole seront formées et;
+v) éducation  environnementale  et  changement  climatique : par  le  biais  de
+différentes  mesures 
+la  diffusion  des  bonnes  pratiques
+environnementales, par  la  sensibilisation  des  populations et  la  formation  des
+équipes d'appui-conseil.
+telles  que 
+5.2.2 Sous-composante 2.2:
+Développement  des 
+sous-
+composante  vise  à  améliorer  la  disponibilité  et  la  qualité  des  infrastructures
+productives  et  de  soutien  à  la  mise  en  marché,  inhérentes au  développement
+durable des trois filières retenues (riz, maïs, manioc). Pour ce faire, des bas-fonds
+seront  aménagés,  des  magasins  de  stockage  seront  réhabilités  ou  construits  et
+des
+pistes agricoles seront réalisées
+.
+infrastructures.
+Cette 
+6
+Appendex I
+EB 2018/124/R.23/Rev.1
+5.3 Composante  3. Coordination,  gestion,  suivi-évaluation  et  gestion  des
+savoirs. Cette  composante  vise  à  porter  l’ensemble  des  dispositifs  de  planification
+technique  et  de  coordination  opérationnelle,  de  gestion  administrative  et  fiduciaire,  de
+suivi-évaluation,  communication  et  capitalisation.  Sa  mise  en  œuvre  sera  régie  par  les
+arrangements définis dans le cadre de l’approche-programme avec la création du PRoCaR
+et des réformes de territorialisation du développement agricole.
+II. Dispositions relatives à l’exécution
+A.
+ORGANISATION ET GESTION DU PROJET
+Agent  Principal  du  Projet. Le  MAEP,  en  sa  qualité  d’Agent  principal  du  projet,
+1
+assumera l’entière responsabilité de l’exécution du Projet.
+2.
+Comité national de pilotage (CNP)
+2.1 Etablissement.  Le  pilotage  du Projet  sera assuré  par  le  CNP du  PRoCaR  qui  sera
+aménagé pour inclure les représentants des parties prenantes spécifiques au Projet.
+2.2. Responsabilités. Le  CNP  est  responsable  de  l’orientation  et  de  l’approbation  du
+PTBA. Il examinera les résultats, les effets et les impacts atteints au regard des objectifs
+du Projet, les rapports d’audits ainsi que les rapports de supervision et recommandera au
+besoin des mesures correctives.
+3.
+Comités  territoriaux  de  planification  (CTP).  Des  CTP  seront  créés  au  niveau  de
+chaque pôle de développement. Le Projet adoptera au niveau des CTP une approche de
+planification  inclusive  qui  rassemblera,  sous  la  présidence des ATDA notamment,  les
+directions  techniques  déconcentrées  des  ministères  sectoriels  concernés,  les  Directions
+départementales  de  l’élevage  et  de  la  pêche  (DDAEP),  les  démembrements  régionaux
+des  faîtières  et  interprofessions,  les  collectivités  territoriales  décentralisées,  les
+représentants du secteur privé actif dans les trois filières.
+4.
+Agence  territoriale  de  développement  agricole  (ATDA). L'ATDA,  au  niveau  de
+chaque pôle de développement, sera responsable de la mise en œuvre du projet. Sur la
+base  d’une  évaluation  détaillée  de  leurs  besoins,  les  ATDA  seront  appuyées  par  une
+assistance  technique  dans  le  cadre  d’un  mandat  conditionné par  une  stratégie  de  sortie
+claire  et  garantissant,  sur  un  horizon  de  trois  ans,  le  renforcement  des  capacités  et
+l’appropriation  des  compétences  par  les  ATDA.  Les  fonctions-programme  du PRoCaR au
+niveau  des  trois  pôles  de  développement  seront  exercées  à  travers  l’Unité  régionale
+d’appui (URA).
+B.
+SUPERVISION
+Deux missions de supervision par an seront conjointement organisées et conduites par le
+toutes les  parties  prenantes du  Projet .  La  supervision  sera
+FIDA,  le  Gouvernement  et
+régie  par  le  nouveau  système du  FIDA de  gestion  des  résultats  opérationnels  (ORMS)
+informatisé et disponible en ligne qui facilitera la mise à jour des données et informations
+sur  l’état  d’avancement  du  projet.  Les  missions  de  supervision  porteront  une  attention
+particulière  sur  le  suivi  de  la  mise  en  œuvre,  l’atteinte  des  résultats,  des  effets  et  de
+l’impact,  et  l’efficacité  des  acquis institutionnels  et  techniques  qui  seront  consolidés  et
+répliqués à grande échelle. Des missions ponctuelles d’appui à la mise en œuvre pourront
+également être organisées en fonction des besoins.
+7
+Appendex I
+EB 2018/124/R.23/Rev.1
+C.
+EXAMEN A MI-PARCOURS
+Le MAEP et le Fonds procèderont conjointement à un examen de l'exécution du Projet au
+plus tard à la moitié de la période d'exécution du Projet sur la base de termes de mandat
+établis  par  le  MAEP  et  approuvés  par  le  Fonds.  Cet  examen  permettra  d'apprécier
+notamment,  la  réalisation  des  objectifs  du Projet  et  les  difficultés  rencontrées  et,  de
+recommander les réorientations qui s'avéreraient nécessaires pour atteindre ces objectifs
+et résoudre les difficultés.
+D.
+SUIVI-EVALUATION
+Le  système  de  suivi-évaluation  sera  ancré  dans  celui  du PRoCaR qui  met  en  œuvre  un
+système  de  gestion  axée  sur  les  résultats  conformément  à  l’approche-programme  . Ce
+système contribuera  à l’amélioration  de la  gestion  de  la  performance  du  portefeuille  en
+complétant  le  paramétrage  du  dispositif  en  place  et  en  renforçant  son  opérationnalité
+dans  l’objectif  d’optimiser  la  démarche  de  planification  et  de  consolider  les  extrants
+permettant d’apprécier  les effets et impacts du programme-pays. Un renforcement ciblé
+des URA sera envisagé ainsi que la mise en place d’un mécanisme et d'outils de collecte
+adaptés au renseignement optimal et régulier (i) de la chaîne des résultats du Projet,(ii)
+de  la  base  de  données  du PRoCaR et (iii) des ATDA.  En  outre,  la  participation  des
+bénéficiaires sera un élément clé du système de suivi-évaluation.
+E. MANUEL DES PROCEDURES ADMINISTRATIVES ET FINANCIERES
+Préparation.  Un  Manuel  des procédures administratives et  financières acceptable
+1.
+pour  le  FIDA sera  préparé  qui
+inclura, notamment: i)  la  coordination  institutionnelle
+quotidienne  du  Projet, ii) le  budget,  les  procédures de  décaissement,  de  passation  des
+marchés,  de  surveillance  et  d'évaluation,  de  gestion  financière  et  de  reporting,  iii)  les
+procédures de recrutement du personnel clé du Projet ou de toute assistance technique,
+iv)  une  description  détaillée  des  modalités  de  mise  en  œuvre  du  Projet,  et  v)  toutes
+autres procédures ou modalités administratives, financières ou techniques requises par le
+Projet.
+2.
+Approbation  et  Adoption.  Ce  Manuel  sera  adressé  au  FIDA  pour  commentaire  et
+approbation  et  sera  adopté  par  l'Emprunteur/Bénéficiaire tel  qu'approuvé  par  le  FIDA.
+Une 
+délais.
+L'Emprunteur/Bénéficiaire devra exécuter le Projet conformément au Manuel et ne pourra
+le modifier, l'abroger, y déroger ou permettre de le modifier, de l'abroger ou d'y déroger
+sans l'accord écrit préalable du FIDA.
+les  meilleurs 
+communiquée 
+copie 
+FIDA 
+dans 
+sera 
+au 
+8
+Appendex I
+EB 2018/124/R.23/Rev.1
+Annexe 2
+Tableau d’affectation des fonds
+Affectation du produit du prêt et du don. a)
+les
+1.
+catégories de dépenses admissibles à un financement sur le produit du prêt et du don ainsi
+que  le  montant  du  prêt  et  du  don  affecté  à  chaque  catégorie  et  la  répartition  en
+pourcentage des dépenses à financer pour chacun des postes des différentes catégories:
+Le tableau  ci-dessous 
+indique 
+Catégories
+Montant alloué
+au titre du Prêt
+(exprimé
+en EUR)
+Montant alloué
+au titre du Don
+(exprimé
+en EUR)
+Pourcentage des dépenses
+autorisées à financer
+I. Travaux
+2 295 000
+2 295 000
+II. Équipement et
+2 535 000
+2 535 000
+Matériel
+III. Consultations
+3 950 000
+3 950 000
+IV. Subventions et dons
+2 590 000
+2 590 000
+100% hors contribution
+OFID et hors Taxes
+100% hors contribution
+OFID, des bénéficiaires et
+hors Taxes
+100% hors contribution
+OFID, des bénéficiaires et
+hors Taxes
+100% hors contributions
+privées, des banques/SFD et
+des bénéficiaires
+V. Salaires et indemnités
+620 000
+620 000
+100% hors Taxes
+Non alloué
+1 330 000
+1 330 000
+TOTAL
+13 320 000
+13 320 000
+b)
+Les termes utilisés dans le tableau ci-dessus se définissent comme suit:
+i)
+ii)
+iii)
+Les  dépenses « d’Équipement  et  Matériel »  relatives  à  la  catégorie  II
+incluent  également les  dépenses  liées  aux  biens,  services  et  intrants  et
+celle relatives aux véhicules ;
+Les  dépenses  de  « Consultations »  de  la  catégorie  III  incluent  les
+dépenses  liées  aux  formations  et  aux  ateliers,  aux  études  et  à
+l'assistance technique nationale et internationale ;
+Les  dépenses  de  « Salaires  et  indemnités »  de  la  catégorie  V  incluent
+également les dépenses liées aux coûts de fonctionnement.
+2.
+Coûts  de  démarrage.  Les  retraits  effectués  afin  de  couvrir  les  coûts  de  démarrage
+afférents  aux  catégories III  « Consultations »  et  V  « Salaires  et  indemnités » encourus
+avant  la  satisfaction  des  conditions  générales  préalables  aux  retraits  ne  doivent  pas
+dépasser un montant total de 413 622 Euros.
+9
+Appendex I
+EB 2018/124/R.23/Rev.1
+Annexe 3
+Clauses particulières
+Conformément aux dispositions de la Section 12.01 a) xxiii) des Conditions générales, le
+Fonds  peut  suspendre,  en  totalité  ou  en  partie,  le  droit  de  l’Emprunteur/Bénéficiaire de
+solliciter  des  retraits  du  compte  du prêt  et  du don si  l’Emprunteur/Bénéficiaire n’a  pas
+respecté  l’une  quelconque  des  clauses  énoncées  ci-dessous,  et  si  le  FIDA  a  établi  que
+ladite défaillance a eu, ou risque d’avoir, un effet préjudiciable important sur le Projet.
+1.
+Recrutement du personnel. La sélection du personnel additionnel du PRoCaR dédié
+au Projet se fera sur une base compétitive par voie d’appel à candidatures publié dans la
+presse nationale, selon les procédures actuelles de l’Emprunteur/Bénéficiaire, sur la base
+de contrats dont la durée ne pourra excéder la durée du Projet. Un cabinet indépendant
+expérimenté  sera  recruté  par  le  MAEP  pour  l’assister  dans  la  sélection  du  personnel  du
+Projet  (dont  les  techniciens).  Le  personnel  sera  soumis  à  des  évaluations  de
+performances  organisées  annuellement.  Il  pourra  être  mis  fin  à  leur  contrat  ou  à  leur
+affectation en fonction des résultats de ces évaluations. Le recrutement de ce personnel
+ainsi  que  la  décision  de  mettre  fin  à  leurs  fonctions  ou  à  leur  affectation  se  fera  en
+consultation avec le FIDA. L’Emprunteur/Bénéficiaire encouragera les femmes à postuler
+aux postes techniques à pourvoir dans le cadre du Projet.
+2.
+Égalité. Toute  discrimination  fondée  sur  le  sexe,  l’âge,  l’appartenance  ethnique  ou
+religieuse  ne  sera  pas  admissible  lors  du  recrutement du  personnel  additionnel  du
+PRoCaR dédié  au  Projet,  conformément  aux  lois  en  vigueur  sur  le  territoire  de
+l’Emprunteur/Bénéficiaire. Cependant, l’Emprunteur/Bénéficiaire s’engage, à compétence
+égale,  à  privilégier  les  candidatures  de  femmes aux  postes à  pourvoir  dans  le  cadre  du
+Projet.
+10
+Cadre logique
+Synthèse/Résultats
+Objectif général
+Contribuer à la
+réduction de la pauvreté
+rurale dans la zone
+d'intervention du Projet
+en intégrant les acteurs
+hommes et femmes
+dans des chaînes de
+valeur diversifiées et
+rentables
+Indicateurs clés de vérification3&4
+Moyens de vérification
+Nom
+Référence
+Mi-parcours
+Fin
+Source
+Fréquence
+Responsabilité
+Hypothèses
+1. Nombre de personnes bénéficiaires
+d'une mobilité économique*5
+0
+85 000
+204 000
+2. Pourcentage de ménages ayant une
+période de soudure de deux mois au
+maximum
+A déterminer
+A déterminer
+30%
+Enquête de
+référence,
+évaluation
+d'impact
+Enquête de
+référence,
+évaluation
+d'impact
+Année 1, 3 et
+6
+FIDA et
+Gouvernement
+Année 1, 3 et
+6
+FIDA et
+Gouvernement
+1
+1
+Objectif de développement du Projet
+Améliorer durablement
+la sécurité alimentaire
+et nutritionnelle, et les
+revenus des petits
+agriculteurs intervenant
+dans les filières manioc,
+maïs et riz
+Effet 1: La valeur
+ajoutée créée au
+niveau des filières est
+augmentée
+Produit 1.1: Des
+partenariats entre
+acteurs favorisent la
+création de valeur
+ajoutée et la
+commercialisation
+3. Nombre de bénéficiaires recevant les
+services promus par le Projet *6
+4. Pourcentage de ménages déclarant
+une augmentation de leurs revenus
+d'au moins 30%
+5. Pourcentage d'organisations de
+producteurs ruraux déclarant une
+augmentation de leurs ventes (2.2.5)
+6. Pourcentage d'entreprises rurales
+soutenues déclarant une augmentation
+de leurs profits (2.2.2)
+7. Nombre de contrats de partenariat
+appuyés
+Contrats simples signés
+Partenariats 4P créés
+Co-entreprises renforcées ou créés
+0
+0
+0%
+0%
+0
+0
+0
+105 000
+255 000
+SSE du Projet
+Trimestrielle
+PROCAR
+65%
+80%
+Enquête
+spécifique
+Annuelle
+PROCAR,
+prestataires
+80%
+80%
+80%
+80%
+Enquêtes
+spécifiques
+Enquêtes
+spécifiques
+Annuelle
+Annuelle
+204
+38
+6
+335
+55
+12
+SSE du Projet
+Trimestrielle
+Trimestrielle
+Annuelle
+PROCAR,
+prestataires
+PROCAR,
+prestataires
+PROCAR
+- Un cadre
+stratégique et
+institutionnel
+national favorable
+- Disponibilité de
+partenaires et de
+prestataires
+efficients
+- Performance des
+prestataires de
+services pour le
+développement de
+partenariats
+productifs
+- Volonté politique
+du Gouvernement
+à promouvoir les
+filières nationales
+3 Désagrégés par genre et âge (hommes, femmes et jeunes de 15-40 ans), et par filière autant que possible
+4 * Indicateurs de base du Système de Mesure des Résultats Opérationnels (SMRO ex-SYGRI)
+5 Projection, fondée sur les évaluations de l'impact du FIDA, du nombre de ruraux dont la situation économique a évolué́  (10% ou plus), notamment du point de vue des revenus, de la consommation, de la richesse, de la
+diversité́  alimentaire ou de la nutrition (Porter le Système de gestion des résultats et de l'impact à l'étape suivante, FIDA, avril 2017)
+6 Dont bénéficiaires hommes/femmes/jeunes; bénéficiaires des actions environnementales durables et bénéficiaires des actions sur la nutrition
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+8
+/
+1
+2
+4
+/
+.
+R
+.
+2
+3
+/
+R
+e
+v
+.
+1
+Synthèse/Résultats
+Indicateurs clés de vérification3&4
+Moyens de vérification
+Nom
+Référence
+Mi-parcours
+Fin
+Source
+Fréquence
+Responsabilité
+1 139
+1 577
+SSE du Projet
+Trimestrielle
+PROCAR
+Produit 1.2: Les
+acteurs et organisations
+au niveau des filières
+ciblées sont renforcés
+Effet 2 : La
+productivité et la
+production agricole
+dans les chaînes de
+valeur ciblées sont
+améliorées
+8. Nombre d'organisations de
+producteurs ruraux soutenues * (2.1.3)
+9. Nombre de personnes formées à des
+activités productrices de revenus ou à
+la gestion des entreprises (2.1.2)
+10. Nombre de jeunes appuyés à
+l'auto-entrepreneuriat
+11. Pourcentage de
+personnes/ménages déclarant une
+augmentation de la production (1.2.4)
+12. Augmentation de rendement7
+0
+0
+0
+200
+235
+500
+1 100
+0%
+25%
+85%
+Riz
+Maïs
+Manioc
+2,5 t/ha
+1,3 t/ha
+13 t/ha
+3 t/ha
+1,5 t/ha
+16 t/ha
+3,5 t/ha
+2 t/ha
+18 t/ha
+Rapports
+d'activités
+Rapports
+d'activités
+Enquêtes
+spécifiques
+Trimestrielle
+PROCAR
+Trimestrielle
+PROCAR
+Annuelle
+PROCAR,
+prestataires
+Enquêtes
+spécifiques
+Annuelle
+PROCAR,
+prestataires
+Hypothèses
+Intérêt des
+producteurs à
+s'organiser
+Intérêt des privés
+à recevoir des
+formations
+Intérêt des jeunes
+à s'insérer dans les
+filières appuyés
+Pas de
+catastrophes
+naturelles
+1
+2
+Produit 2.1: L'accès
+aux intrants et services
+de conseil agricole est
+amélioré
+Produit 2.2: Des
+infrastructures durables
+améliorent la
+productivité au niveau
+des filières ciblées
+13. Nombre de producteurs ruraux
+ayant accès aux facteurs de production
+et /ou aux paquets technologiques
+(1.1.3)
+14. Nombre d'exploitations touchées
+par le CEF (Conseil à l'exploitation
+familiale)
+15. Nombre d'hectares de bas-fonds
+rizicoles aménagés/remis en état
+8(1.1.2)
+16. Nombre de magasins stockage
+construits/réhabilités (2.1.6)
+17. Nombre de kilomètres de pistes
+agricoles réhabilitées et de tronçons de
+pistes agricoles améliorées (2.1.5)
+A déterminer
+16 750
+48 500
+0
+0
+0
+8 150
+22 550
+1 500 ha
+2 500 ha
+49
+91
+0 km
+125 km
+250 km
+Rapports
+d'activités
+Rapports
+d'activités
+Rapports
+d'activités
+Rapports
+d'activités
+Rapports
+d'activités
+Annuelle
+Responsables de
+filières/
+OPA
+Les intrants sont
+disponibles à
+temps
+Annuelle
+Idem
+Semestrielle
+PROCAR
+Trimestrielle
+PROCAR
+Trimestrielle
+PROCAR
+- Retard dans la
+passation des
+marchés
+- Retard dans
+l'exécution des
+travaux au regard
+de la faible
+capacité des PME
+7 Il convient de relever que la situation de référence se réfère ici à la moyenne estimée dans la zone d'intervention du Projet. Cette moyenne tranche avec la moyenne nationale reprise dans le PSDSA, en particulier pour le riz
+dont le PDA leader (PDA 1) est hors-zone PADAAM avec de meilleurs rendements
+8 Formulation de l'indicateur reformulée par rapport au contexte du Projet, mais indicateur similaire à l'indicateur de base 1.1.2 du SMRO (Nombre d'hectares de terres agricoles dotées d'infrastructures hydrauliques
+construites/remises en état)
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+8
+/
+1
+2
+4
+/
+.
+R
+.
+2
+3
+/
+R
+e
+v
+.
+1

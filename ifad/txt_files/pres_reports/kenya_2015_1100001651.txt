@@ -1,0 +1,2327 @@
+Document:
+EB 2015/114/R.9
+Agenda:
+Date:
+Distribution:
+Original:
+6(b)
+25 March 2015
+Public
+English
+E
+President’s report
+Proposed loan and grant to the Republic of Kenya
+and proposed grant under the country-specific
+grants window to the Food and Agriculture
+Organization of the United Nations for the Kenya
+Cereal Enhancement Programme – Climate-
+Resilient Agricultural Livelihoods Window (KCEP-
+CRAL)
+Note to Executive Board representatives
+Focal points:
+Technical questions:
+Dispatch of documentation:
+Deirdre McGrenra
+Head, Governing Bodies Office
+Tel.: +39 06 5459 2374
+e-mail: gb_office@ifad.org
+Nadine Gbossa
+Country Director
+Tel.: +254 20 762 10 28
+e-mail: n.gbossa@ifad.org
+Peter Situ
+Regional Programme Manager
+Tel.: +254 20 762 10 19
+e-mail: p.situ@ifad.org
+Executive Board — 114th Session
+Rome, 22-23 April 2015
+For: Approval
+EB 2015/114/R.9
+Contents
+Abbreviations and acronyms
+Financing summary
+Recommendation for approval
+I.
+Strategic context and rationale
+A.
+B.
+Country and rural development and poverty context
+Rationale and alignment with government priorities and RB-COSOP
+II. Programme description
+A.
+B.
+C.
+Programme area and target group
+Programme development objective
+Components/outcomes
+III. Programme implementation
+Approach
+A.
+B. Organizational framework
+C. Planning, monitoring and evaluation, and learning and knowledge
+management
+D. Financial management, procurement and governance
+E. Supervision
+IV. Programme costs, financing and benefits
+A. Programme costs
+B. Programme financing
+C. Summary benefit and economic analysis
+D. Sustainability
+E. Risk identification and mitigation
+V.
+Corporate considerations
+A.
+B.
+C.
+D.
+Compliance with IFAD policies
+Alignment and harmonization
+Innovations and scaling up
+Policy engagement
+VI. Recommendation
+Annex
+Negotiated financing agreement
+Appendix
+Logical framework
+i
+ii
+iii
+1
+1
+1
+2
+2
+2
+3
+3
+4
+4
+4
+5
+5
+6
+6
+6
+7
+8
+8
+9
+10
+10
+10
+11
+11
+12
+13
+EB 2015/114/R.9
+Abbreviations and acronyms
+ASALs
+ASAP
+CA
+CRAL
+FAO
+GAP
+KCEP
+KCEP-CRAL
+M&E
+PCU
+RB-COSOP
+RBA
+RIMS
+WFP
+arid and semi-arid lands
+Adaptation for Smallholder Agriculture Programme
+conservation agriculture
+Climate-Resilient Agricultural Livelihoods Window
+Food and Agriculture Organization of the United Nations
+good agricultural practice
+Kenya Cereal Enhancement Programme
+Kenya Cereal Enhancement Programme – Climate-Resilient
+Agricultural Livelihoods Window
+monitoring and evaluation
+programme coordination unit
+results-based country strategic opportunities programme
+Rome-based agency
+Results and Impact Management System
+World Food Programme
+ii
+EB 2015/114/R.9
+Republic of Kenya
+Kenya Cereal Enhancement Programme – Climate-
+Resilient Agricultural Livelihoods Window (KCEP-CRAL)
+Financing summary
+Initiating institution:
+IFAD
+Borrower/recipient:
+Republic of Kenya
+Recipient:
+Executing agency:
+Food and Agriculture Organization of the United
+Nations (FAO)
+State Department of the Ministry of Agriculture,
+Livestock and Fisheries
+Total KCEP-CRAL cost:
+US$118.0 million
+Amount of IFAD loan:
+Amount of Adaptation for
+Smallholder Agriculture Programme
+(ASAP) grant:
+SDR 43.85 million (equivalent to approximately
+US$61.8 million)
+SDR 7.10 million (equivalent to approximately
+US$10.0 million)
+Amount of IFAD grant to FAO:
+US$2.0 million
+Terms of IFAD loan:
+Highly concessional
+Cofinancier:
+European Union
+Amount of cofinancing:
+European Union: EUR 9.5 million (equivalent to
+US$11.7 million)
+Terms of cofinancing:
+Grant
+Contribution of borrower/recipient:
+US$1.5 million
+Contribution of beneficiaries:
+Beneficiaries: US$29.1 million
+Financial institutions: US$1.9 million
+Appraising institution:
+IFAD
+Cooperating institution:
+Directly supervised by IFAD
+iii
+EB 2015/114/R.9
+Recommendation for approval
+The Executive Board is invited to approve the recommendation for the proposed
+financing to the Republic of Kenya and to the Food and Agriculture Organization of
+the United Nations for the Kenya Cereal Enhancement Programme – Climate-
+Resilient Agricultural Livelihoods Window (KCEP-CRAL), as contained in
+paragraph 51.
+Proposed loan and grant to the Republic of Kenya and
+grant under the country-specific window to the Food and
+Agriculture Organization of the United Nations for the
+Kenya Cereal Enhancement Programme – Climate-
+Resilient Agricultural Livelihoods Window (KCEP-CRAL)
+I. Strategic context and rationale
+A.
+1.
+Country and rural development and poverty context
+Socio-economic background. Kenya has a total land area of 582,646 km2 and
+an estimated population of 43 million people. High fertility combined with declining
+mortality has contributed to a population growth rate estimated at 2.6 per cent.
+Kenya’s arid and semi-arid lands (ASALs) make up more than 80 per cent of the
+country’s land mass and are home to approximately 36 per cent of its population.
+The remaining 64 per cent of the population lives in medium- and high-potential
+areas in the central and western parts of the country, where the population density
+is up to ten times the national average of 69 people/km2. In October 2014, Kenya
+became a low-middle-income country. Despite uncertainties in the period leading
+up to elections, rising insecurity and erratic weather, growth is expected to
+continue in the next five years at an annual average of 5.9 per cent, facilitated by
+ongoing infrastructure development. However, the challenges of poverty and
+income inequality remain.
+2.
+3.
+Agriculture and smallholder farming. The agriculture sector is the backbone of
+Kenya’s economy, employing 70 per cent of the rural population and accounting for
+65 per cent of export earnings. However, its share of GDP has declined from nearly
+40 per cent in the 1970s to 25.3 per cent in 2013. Production of industrial and food
+crops and horticulture accounts for 82 per cent of agricultural GDP and 94 per cent
+of export earnings from agriculture. The remaining three subsectors of agriculture
+– livestock, fisheries and forestry – account for the remaining 18 per cent of
+agricultural GDP and 8 per cent of export earnings from agriculture, with significant
+potential for added growth.
+Rural poverty. The poverty rate in Kenya dropped from 52.2 per cent in 1997 to
+45.2 per cent in 2009,1 and the Human Development Report 2013 ranked the
+country 145th of 186 rated, with a human development index of 0.519.2 Over
+75 per cent of Kenya’s population lives in rural areas, where, in 2009, poverty was
+estimated at 50 per cent of the population. ASALs have the lowest development
+indicators and the highest incidence of poverty in the country.
+1 Kenya Integrated Household Budget Survey (KIHBS), 2005/06; Exploring Kenya’s Inequality (Kenya National Bureau of
+Statistics and Society for International Development, 2013).
+2 Human Development Report 2013 (New York: United Nations Development Programme, 2013), p. 146.
+1
+EB 2015/114/R.9
+4.
+5.
+B.
+6.
+7.
+Food security and nutrition. Food security remains a major challenge for the
+Government of Kenya. According to the Global Hunger Index,3 Kenya remains a
+food-insecure country despite a slight reduction in hunger. Approximately 10
+million Kenyans suffer from chronic food insecurity and poor nutrition.
+Vulnerability to climate change. According to the Stockholm Environment
+Institute,4 if climate change in Kenya is not addressed, the economic costs of its
+impact are estimated at 3 per cent of GDP per year by 2030, and could reach
+5 per cent by 2050. The agriculture sector, which contributes over 25 per cent of
+annual GDP, is particularly affected by changing climatic conditions. Nearly
+98 per cent of crop production is rainfed,5 and almost 50 per cent of animal
+production occurs in ASALs. The increased incidence of drought and unreliable
+rainfall are expected to significantly affect the sector.
+Rationale and alignment with government priorities and
+RB-COSOP
+Programme rationale. Kenya is a food-deficit country that imports up to
+20 per cent of its annual cereal requirements. Improvement in cereal production,
+including maize, sorghum, millet and associated pulses, is constrained by the
+limited adoption of improved crop technologies and practices. ASALs are an
+important producing area: they account for 30 per cent of cereal production and
+54 per cent of pulses produced in the country. Semi-arid areas have a comparative
+advantage in the production of pulses, accounting for 99 per cent of the production
+of pigeon pea, 95 per cent of green gram, 93 per cent of cowpea and 60 per cent
+of millet. Semi-arid areas are also central to the production of sorghum, accounting
+for 48 per cent of the total. In addition, 37 per cent of beans and 26 per cent of
+maize are produced in semi-arid lands.
+Alignment with government priorities and IFAD RB-COSOP. The KCEP-CRAL
+is consistent with the country’s agriculture-sector development strategy 2010-
+2020. The strategy’s main objectives are to achieve an agricultural growth rate of
+7 per cent per year and reduce food insecurity by 30 per cent by promoting
+innovative, commercially oriented and climate-smart modern agriculture. The
+programme is also aligned with IFAD’s results-based country strategic
+opportunities programme (RB-COSOP) 2013-2018, which recognizes that Kenya’s
+food requirements go beyond increased food production in high- and medium-
+potential areas, and calls for increased production in ASALs. Finally, IFAD’s support
+in ASALs is guided by its Climate Change Strategy and Environment and Natural
+Resource Management Policy. IFAD will mobilize resources from its Adaptation for
+Smallholder Agriculture Programme (ASAP) to assist smallholders in improving
+their livelihoods and becoming more resilient to climate change in the fragile ASAL
+ecosystem.
+II. Programme description
+A.
+8.
+Programme area and target group
+Programme area. The programme area covers eight semi-arid counties in the
+eastern and coastal regions of Kenya, with a combined population of over 5 million
+people: Embu, Tharaka Nithi, Kitui, Machakos, Makueni, Taita Taveta, Kwale and
+Kilifi. These counties were included based on: (i) agroecological suitability and
+production potential of maize, sorghum, millet and associated pulses, which are
+important to Kenya’s food security; (ii) incidence of poverty; (iii) vulnerability to
+climate change; (iv) geographical concentration to maximize impact; and
+(v) presence of similar development programmes (to avoid duplication). Within
+these counties, 25 subcounties will be selected at start-up using the same criteria.
+3 International Food Policy Research Institute, 2014.
+4 Stockholm Environment Institute, 2009.
+5 World Resources Institute et al., 2007.
+2
+EB 2015/114/R.9
+9.
+Target group. The KCEP-CRAL will reach 100,000 smallholder farmers whose
+livelihoods depend on maize, sorghum, millet and associated pulses, including:
+(a)
+60,000 food-insecure smallholder farmers, who will be supported in
+graduating from recurring food insecurity and climate vulnerability to food
+security and then to market-oriented commercial farming; and
+(b)
+40,000 smallholder subsistence farmers, who will be supported in graduating
+into commercial farming.
+10. Of these 100,000 smallholder farmers, the programme aims to sustainably lift
+80,000 out of poverty (80 per cent of targeted farmers). There will be a special
+focus on woman-headed households and on youth, given the constraints they face
+in accessing agricultural services and inputs. The programme will also empower
+county governments and communities to manage their natural resources more
+sustainably and consensually, and will build their resilience to climate change
+through community investments. A secondary target group will consist of
+stakeholders along agricultural value chains – such as agro-dealers, private
+extension services, buyers, processors and lead farmers providing support services
+to smallholders – and who will facilitate smallholder access to enhanced agricultural
+services.
+Programme development objective
+B.
+11. The overall development goal of the KCEP-CRAL is to reduce rural poverty and food
+insecurity among smallholders in Kenya’s ASALs by developing their economic
+potential, while improving their natural resource management capacity and
+resilience to climate change in an increasingly fragile ecosystem. This goal will be
+pursued through: (i) graduation of smallholder farmers to commercially oriented,
+climate-resilient agricultural practices through improvements in productivity, post-
+production management practices and market linkages for targeted value chains;
+and (ii) empowerment of county governments and communities to sustainably and
+consensually manage their natural resources and build resilience to climate change.
+Components/outcomes
+C.
+12. Programme components. The KCEP-CRAL is structured around three technical
+components, supported by programme management:
+13. Component 1. Capacity-building for climate-resilient productivity
+enhancement and natural resource management. Through an e-voucher
+platform giving smallholder farmers access to improved agricultural inputs and
+technologies, the programme will enhance farmers’ productivity with a view to
+commercialization. Activities in this component will support farmers in establishing
+productive and climate-resilient crop enterprises suited to ASALs, and in improving
+productivity through the adoption of good agricultural practices, such as
+conservation agriculture and associated water conservation practices. The
+programme will also support targeted counties in planning adaptation strategies,
+adopting sustainable natural resource management practices and building
+resilience to climate change.
+14. Component 2. Post-production management and market linkages. The
+programme aims to support farmers in capitalizing on productivity gains by
+promoting improved on-farm grain handling and management, access to storage,
+and warehouse receipt systems. These activities are expected to increase
+smallholders’ access to markets and build their capacity to sell their produce at
+more favourable prices.
+15. Component 3. Financial services. This component is designed to: link farmers
+to financial services in order to boost yields and income for reinvestment in their
+farming businesses; and build the capacity of value-chain stakeholders, including
+youth, to profitably engage in the provision of agricultural services.
+3
+EB 2015/114/R.9
+III. Programme implementation
+Approach
+A.
+16. The KCEP-CRAL is an expansion to ASALs of the Kenya Cereal Enhancement
+Programme (KCEP), which began in April 2014 through a partnership involving the
+Government, the European Union and IFAD. Its programme approach is based on
+an expanded strategic partnership of the Government, the European Union and the
+United Nations Rome-based agencies (RBAs): IFAD, FAO and the World Food
+Programme (WFP). This partnership builds on each partners’ comparative
+advantage in supporting farmers’ graduation from food insecurity to market-
+oriented farming.
+17. Within the partnership, WFP will provide support to food- and nutrition-insecure
+farmers. With this support, households can gradually build productive assets and
+acquire agricultural production and risk management skills to meet basic food
+needs. IFAD will support subsistence farmers in graduating to market-oriented
+farming by addressing constraints on production, post-harvest management,
+processing and marketing. Through the ASAP Trust Fund, IFAD will also support
+farmers’ investments in improved natural resource management and resilience to
+climate change. Throughout this process, FAO will support farmer groups and
+county governments in adopting good agricultural practices, including conservation
+agriculture, while the European Union will sustain the achievement of programme
+objectives by providing additional funding for implementation through IFAD and
+FAO.
+18. The programme approach encompasses an innovative public/private partnership
+with financial institutions that aims to expand access to financial services as
+beneficiaries graduate from subsidized support to market-oriented farming. Natural
+resource management and climate change adaptation are mainstreamed in each
+component to ensure that programme interventions are sustainable and improve
+the resilience of targeted smallholders. Finally, while the programme will support
+targeted households in meeting their cereal needs and in producing a surplus for
+markets, WFP will support the transfer of good nutrition practices to households
+through its protracted relief and recovery operation.
+B. Organizational framework
+19.
+Implementation framework. The lead agency for programme implementation is
+the Ministry of Agriculture, Livestock and Fisheries. This agency will be responsible
+for coordinating programme implementation, supported by a programme
+coordination unit (PCU) for IFAD-funded activities, and liaising with FAO and WFP
+focal points for activities carried out by these agencies. A steering committee
+chaired by the Principal Secretary of the State Department of Agriculture will be set
+up at the national level to provide oversight and strategic guidance of
+implementation. To operationalize the RBA partnership, an RBA technical
+coordination group will comprise the PCU coordinator and FAO and WFP
+representatives. The group will be responsible for annual planning, budgeting,
+mobilizing RBA contributions to the programme and identifying opportunities for
+collaboration with other donor-funded activities in target counties.
+20. Grant to FAO for capacity-building of county structures. At the local level,
+programme implementation will be aligned to Kenya’s devolution framework, with
+the counties as primary implementers. Given the limited capacity of newly set up
+county government structures, IFAD will provide FAO with a grant to build the
+capacity of county agricultural offices to plan, execute and monitor agricultural
+services and investments within the County Integrated Development Plan:
+(i)
+A dedicated RBA implementation support team in each target county will
+plan, execute and monitor agricultural services in the context of the KCEP-
+CRAL. Each county’s support team will be composed of a lead technical
+4
+EB 2015/114/R.9
+support officer and a national United Nations volunteer – both with an
+agribusiness and programme management background. These experts will
+work with FAO and WFP programme officers, and with the National Drought
+Management Authority coordinator at the county level.
+(ii) Capacity-building of county agricultural offices will strengthen the outreach of
+agricultural extension agents in delivering agricultural services to farmers.
+This includes training packages and cost provisions for agricultural services to
+farmers in the context of programme implementation.
+21. A memorandum of understanding will be signed with WFP to define roles and
+responsibilities in programme execution. The agreement between the European
+Union and IFAD will be revised to reflect the European Union’s increased KCEP
+contribution to cover the CRAL window. The Union has also entered into a
+contribution agreement with FAO to disseminate good agricultural practices,
+including conservation agriculture, in the framework of the programme.
+C. Planning, monitoring and evaluation, and learning and
+knowledge management
+22. Programme planning. Programme planning will follow a bottom-up and gender-
+and-youth sensitive approach at the county level. Throughout the programme’s
+seven-year implementation period, the PCU will support counties in sensitizing and
+mobilizing stakeholders, and in requesting support. Eligible farmer and county
+requests for programme support will be included in the KCEP-CRAL annual
+workplan and budget (AWP/B), which will conform to the Government’s planning
+cycle. For community-level investments, participatory rural appraisals will be
+carried out to facilitate the formation of community-based organizations, which will
+oversee implementation. Planning at the county level will be reflected in the County
+Integrated Development Plan.
+23. Monitoring and evaluation, and knowledge management. The programme’s
+development goals will be monitored by a robust system, which will be aligned with
+Kenya’s National Integrated Monitoring and Evaluation System and in compliance
+with IFAD’s Results and Impact Management System (RIMS). RIMS is capable of
+measuring results in terms of climate-change resilience, natural resource
+management and the graduation of smallholders.
+D. Financial management, procurement and governance
+24. Financial management. To ensure effective financial oversight, a programme
+finance team will be set up at the lead national agency. In addition, there will be an
+accountant in each of the three regions covered by the programme. At the county
+level, an accountant from the National Treasury will be responsible for programme
+financial management.
+25.
+Internal controls. To complement government mechanisms, the following
+internal controls will be instituted: (i) the PCU finance/administration manager will
+be an agent (non-transacting) on all programme county and regional bank
+accounts; (ii) at the county level, the national treasury accountant will be a
+signatory to the programme bank account, together with the designated county
+programme coordinator; and (iii) budget control will be supported through the
+programme accounting software and the use of commitment ledgers (sometimes
+called vote books) at the county level.
+26. Accounting systems, policies and procedures. An off-the-shelf accounting
+package with the ability to generate expenditure trends by component, category,
+and activities in United States dollars, euro and Kenyan shillings will be used.
+Development of programme uniform coding (chart of accounts) will be a joint effort
+by the PCU finance team, those responsible for monitoring and evaluation, and
+technical officers.
+5
+EB 2015/114/R.9
+27.
+Financial reporting and monitoring will be conducted in accordance with
+International Public-Sector Accounting Standards on a cash basis. In addition to
+annual audited financial statements, IFAD will require semi-annual interim financial
+reports.
+28. The grant to FAO will be disbursed based on AWP/Bs. In addition, FAO will submit
+statements of expenditure with respect to the use of at least 75 per cent of the
+immediately preceding advance (and 100 per cent of previous advances). FAO will
+provide regular reports to IFAD, including six-month unaudited financial reports,
+and will submit a copy of FAO audited financial statements that cover any part of
+the grant proceeds within six months following the official publication of FAO’s
+audited statements.
+29. Procurement. With the enactment of the Public Procurement and Disposal of
+Assets Act and the Public Procurement and Disposal Regulations, Kenya has
+established a sound legal framework for public procurement with clear hierarchical
+distinctions. The legal and regulatory framework of the Public Procurement and
+Disposal of Assets Act will be used in programme procurement. KCEP-CRAL
+procurement provisions will build on the Ministerial Tender Committee of the
+Ministry of Agriculture, Livestock and Fisheries. Items common across more than
+one county will be procured nationally in bulk; contract award decisions will be
+made by that committee. For activities such as spot road improvements and
+construction of storage facilities that cannot be bulked and procured nationally, the
+KCEP-CRAL will rely on the County Service Delivery Coordinating Unit Tender
+Committee, as the legal authority to approve contract awards, and on the County
+Governments Procurement Regulations.
+E. Supervision
+30. The programme will be jointly supervised by IFAD and the lead agency, with the
+participation of FAO, WFP and the European Union. One supervision mission and
+one follow-up mission will be conducted each year to review the programme
+approach and its effectiveness. Special attention will be given to reviewing the
+effectiveness of the RBA partnership in the graduation of farmers.
+IV. Programme costs, financing and benefits
+A. Programme costs
+31. The total investment and incremental recurrent costs of the KCEP-CRAL are
+estimated at US$118.0 million, including physical and price contingencies.
+Programme investments by component are:
+Component 1. Capacity-building for climate-resilient productivity
+enhancement and natural resource management accounts for
+US$11.1 million, representing 9.4 per cent of total base costs.
+Component 2. Post-production management and market linkages accounts
+for US$8.8 million, representing 7.5 per cent of total base costs;
+Component 3. Financial services, including the e-voucher scheme, accounts
+for US$77.7 million, representing 65.8 per cent of total base costs; and
+Programme management accounts for US$11.7 million, representing
+9.9 per cent of total base costs.
+32.
+In addition, preparatory activities and implementation support at the county level
+accounts for US$8.7 million (7.4 per cent of total base costs).
+6
+
+
+
+
+EB 2015/114/R.9
+Table 1
+Components by Financiers
+(US$ '000)
+GoK
+IFAD
+Loan
+ASAP
+Grant
+IFAD
+Grant
+Am ount Am ount Am ount Am ount
+Financial
+EU add-on
+Am ount
+Institutions Beneficiaries
+Am ount
+Am ount
+Total
+Am ount
+Preparatory activities/ Implementation Support and Capacity-
+building at county-level
+Com ponents
+A. Capacity building for clim ate-resilient productivity
+enhancem ent and NRM
+Adoption of improved farming practices including GAP and CA
+Community-based sustainable NRM and adaptation to Climate
+Change
+Subtotal
+B. Post-Production Managem ent and Market Linkages
+Strengthening of farmer organizations and post-harvest
+management
+Market Linkages and value addition
+Subtotal
+C. Financial Services
+E-voucher platform for productivity enhancement
+Value Chain Financing
+Subtotal
+E. Programme Management
+Total PROGRAMME COSTS
+462
+5 124
+24
+-
+24
+282
+37
+320
+-
+246
+246
+500
+1 551
+-
+-
+-
+3 360
+3 361
+6 721
+37 237
+3 295
+40 532
+9 400
+61 776
+-
+-
+10 000
+10 000
+-
+-
+-
+-
+-
+-
+-
+10 000
+2 000
+1 134
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+2 000
+1 086
+-
+1 086
+-
+-
+-
+7 142
+543
+7 685
+1 781
+11 686
+Notes: GAP - good agricultural practice CA- conservation agriculture
+-
+-
+-
+-
+-
+-
+-
+1 860
+-
+1 860
+-
+1 860
+-
+-
+-
+-
+173
+1 579
+1 752
+26 212
+1 172
+27 384
+-
+29 136
+8 719
+1 110
+10 000
+11 109
+3 815
+4 977
+8 793
+72 451
+5 255
+77 706
+11 680
+118 008
+Table 2
+Expenditure Accounts by Financiers
+(US$ '000)
+GoK
+Am ount
+IFAD Loan ASAP Grant IFAD Grant EU add-on Institutions Beneficiaries
+Am ount
+Am ount Am ount
+Am ount
+Am ount
+Am ount
+Financial
+I. Investm ent Costs
+A. Works
+B. Vehicles
+C. Equipments & Materials
+D. Consultancies
+E. Trainings
+F. Grants and Subsidies
+Total Investm ent Costs
+II. Recurrent Costs
+A. Salaries and Allow ances
+B. Operating Costs
+Total Recurrent Costs
+Total PROGRAMME COSTS
+231
+214
+274
+316
+516
+-
+1 551
+-
+-
+-
+1 551
+4 119
+905
+2 544
+3 939
+4 657
+36 299
+52 463
+6 671
+2 642
+9 313
+61 776
+-
+-
+521
+2 754
+3 125
+3 600
+10 000
+-
+-
+-
+10 000
+-
+187
+61
+-
+-
+248
+1 752
+-
+1 752
+2 000
+-
+291
+606
+1 475
+-
+7 111
+9 482
+1 427
+777
+2 204
+11 686
+-
+-
+-
+-
+1 030
+829
+1 860
+-
+-
+-
+1 860
+983
+-
+390
+66
+71
+27 626
+29 136
+-
+-
+-
+29 136
+Total
+Am ount
+5 334
+1 597
+4 395
+8 550
+9 399
+75 465
+104 739
+9 850
+3 419
+13 269
+118 008
+B. Programme financing
+33. The total costs of the KCEP-CRAL window will be financed by the Government, an
+IFAD loan, an ASAP grant, an IFAD grant under the country-specific window to
+FAO, a European Union contribution through IFAD, financial institutions and
+beneficiaries as follows:
+The Government will finance taxes and duties valued at US$1.5 million
+(representing 1.3 per cent of the KCEP-CRAL window).
+The IFAD loan to the Republic of Kenya, estimated at US$61.8 million
+(52.3 per cent of the KCEP-CRAL window), will finance start-up activities,
+capacity-building of farmer organizations, post-harvest management
+activities, market linkage and value chain strengthening, and programme
+management costs.
+The ASAP grant, estimated at US$10.0 million (8.5 per cent of the KCEP-
+CRAL window), will finance mainstreaming of natural resource management
+and climate resilience throughout the programme.
+The IFAD grant to FAO, estimated at US$2.0 million (1.7 per cent of the
+KCEP-CRAL window), will be dedicated to capacity-building and the costs
+7
+
+
+
+
+EB 2015/114/R.9
+incurred by county agriculture offices delivering agricultural services to
+farming communities.
+The European Union additional contribution through IFAD is valued at
+US$11.7 million, corresponding to EUR 9.5 million (9.9 per cent of the KCEP-
+CRAL window).
+Finally, the contribution of financial institutions to the programme’s e-voucher
+scheme and related financial services is estimated at US$1.9 million
+(1.6 per cent of the KCEP-CRAL window). The beneficiary contribution is
+assessed at US$29.1 million (24.7 per cent of the KCEP-CRAL window).
+C. Summary benefit and economic analysis
+34. Overall, the KCEP and its CRAL window will support 140,000 smallholder farmers in
+attaining food security and graduating into market-oriented commercial farming.
+Through the CRAL window, 100,000 smallholder farmers in Kenya’s ASALs have
+been targeted. The KCEP-CRAL will provide opportunities for increased returns on
+smallholder agricultural production and marketing, with direct benefits including:
+Increased yields from improved agricultural technologies – including
+conservation agriculture and good agricultural practices – and strengthened
+extension systems;
+Increased climate resilience through adapted varieties and technologies,
+better climate information and community resilience investments;
+Increased quality of marketable produce from post-harvest management,
+training and access to equipment;
+Higher prices as a result of aggregation from village storage facilities and
+other grain-bulking structures;
+Labour-saving technologies such as the use of herbicides (compared with
+conventional weeding) and minimum tillage/direct seeding;
+Value addition through demonstrations of novel processing opportunities and
+facilitation of linkages between business owners and financial institutions;
+Efficiency gains as a result of road spot improvements; and
+Incremental tax revenues generated for the central Government and county
+governments from increased volumes of taxable production.
+35. Economic analysis shows that the programme has the potential to generate an
+economic rate of return of 15 per cent over a 20-year period. Benefits will accrue
+to a range of stakeholders across many value chains, making the entire investment
+even more viable and spreading its impact across the entire nation through
+increased employment and tax revenues. Thus the actual economic rate of return
+will likely be higher than the 15 per cent reported. Sensitivity analysis concluded
+that the programme’s economic rate of return is relatively stable. It is estimated at
+8.3 per cent if costs increase by 10 per cent, and at 13.3 per cent if benefits
+decrease by 10 per cent.
+D. Sustainability
+36. The sustainability of programme investments and development results will be
+ensured by:
+Mainstreaming natural resource management and climate-change adaptation;
+Promoting conservation agriculture and good agricultural practices;
+Empowering county governments and communities for sustainable natural
+resource management and resilience to climate change;
+8
+
+
+
+
+
+
+
+
+
+
+
+
+
+EB 2015/114/R.9
+Building the capacity of stakeholders; and
+The e-voucher scheme and inclusive financial services.
+37. At the institutional level, financial services, managed by financial institutions, will
+be provided to stakeholders through a public/private partnership. This will enable
+these institutions to expand their client base while they contribute to the
+sustainable financial inclusion of ASAL smallholders. Investments by financial
+institutions as programme partners are good indications of financial sustainability.
+The relationship established between financial institutions and programme
+beneficiaries will endure beyond the programme’s lifespan as these institutions
+continue to provide beneficiaries with improved financial services.
+E. Risk identification and mitigation
+Risks
+Mitigation measures
+Droughts or floods affect expression of
+demand among target communities.
+Mainstream resilience packages in
+programme activities
+Climate-related risks hinder attainment
+of programme objectives.
+Weather variability and crop failure
+discourage financial providers from
+participating in the programme.
+Strengthen community-based resilience
+systemsMainstream climate resilience in
+programmes, plans and policies
+Assess feasibility of crop insurance
+schemes. Strengthen climate information
+services and climate-based extension
+messages for smallholders
+Low penetration of financial service
+providers and cultural beliefs hinder
+participation by target groups.
+Raise awareness
+Link target groups to contract farming and
+outgrower schemes
+Capacity of devolved structures to
+manage implementation of activities is
+weak.
+RBA coordination for mobilizing technical
+and financial contributions to the
+programme is weak.
+Technical capacity for operationalizing
+programme strategies and executing
+programme activities is weak.
+Exchange rate fluctuates
+Embed capacity-building and
+implementation support to county
+structures for the programme’s
+implementation organizational framework
+and activities
+Empower county-level authorities with
+resources for close monitoring,
+supervision, timely updates and feedback
+Embed RBA joint technical coordination
+mechanisms at national and county levels
+in the programme organizational
+framework
+Provide counties (PCU) with operational
+strategies and technical tools for
+programme execution under each
+component
+Carry out activities requiring specific
+technical competences through specialized
+partners or service providers in
+collaboration with counties. Identify
+partners with specialized expertise for
+each component
+Conduct regular multi-currency monitoring
+and reporting of programme costs
+Fiduciary risks: Kenya’s Transparency
+International 2014 Corruption
+Perceptions Index was 2.5, which is an
+Specify external audit terms of reference,
+conduct rolling internal audits, utilize off-
+the-shelf accounting software and
+9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EB 2015/114/R.9
+Risks
+indication of high risk.
+Mitigation measures
+disaggregate reporting by category,
+component and financier
+V. Corporate considerations
+A.
+Compliance with IFAD policies
+38. The programme responds directly to the following objectives of the IFAD Strategic
+Framework 2011-2015: improved natural resources and the economic asset base;
+improved access to services; capacity-building of rural people to manage profitable
+and sustainable enterprises; opportunities for women and youth; sustainable
+natural resource management; and adaptation to climate change.
+Alignment and harmonization
+B.
+39. Support to developing the economic potential of ASALs is a priority in Kenya’s
+Constitution and Vision 2030. The main goal is to fast-track their sustainable
+development by increasing investment and ensuring that the use of resources is
+reconciled with the realities of people’s lives. The National Policy for the
+Development of ASALs recognizes that sorghum and millet are the most suitable
+cereals for the environment, while maize continues to be cultivated by most
+smallholder farmers as the primary cereal of choice.
+40. The KCEP-CRAL is fully aligned with the Government’s priorities for ASALs and
+harmonizes the efforts of major development partners – the Government, the
+European Union and RBAs – in support of agricultural and rural development. In
+line with national policies, the programme approach is adapted to the socio-
+economic and biophysical characteristics of ASALs: (i) frequent drought; (ii) low
+and unreliable rainfall; (iii) high vulnerability to climate change; (iv) fragile
+ecosystems; and (v) high food insecurity and poverty.
+41. The programme is also fully integrated into Kenya’s development partner
+frameworks for agricultural and rural development. It directly contributes to
+advancing the development results agreed by the Government and the United
+Nations in Kenya under Kenya’s United Nations Development Assistance
+Framework 2014-2018: strategic result 1 – inclusive and sustainable economic
+growth; and strategic result 2 – environmental sustainability, land management
+and human security. It will also generate knowledge products on food security,
+approaches to graduation of smallholders to commercial farming, and climate
+resilience in semi-arid areas. These products will be disseminated in development
+partner working groups such as the Agricultural and Rural Development Donor
+Group and the ASALs Donor Group, in order to inform policies and programming for
+ASALs.
+42. The programme’s organizational framework for implementation is aligned with
+national systems. At the local level, programme implementation and RBA
+coordination will be aligned with Kenya’s devolution framework. Counties will be
+the primary implementers of the programme using community-based approaches.
+Given the capacity gaps faced by the newly established county structures, the
+programme’s organizational framework includes dedicated implementation support
+to the counties for programme execution, coordination of RBA contributions and
+the promotion of synergies with other donor-funded initiatives.
+10
+EB 2015/114/R.9
+Innovations and scaling up
+C.
+43. The programme incorporates innovative features such as:
+A partnership involving the Government, the three RBAs and the European
+Union to steer farmers’ graduation from food insecurity to commercial
+farming, with a focus on good agricultural practices, natural resource
+management and resilience;
+A partnership with Equity Bank to set up an electronic platform combining
+debit cards with e-vouchers to support smallholder access to new
+technologies and financial services;
+Weather-based crop insurance, which will be piloted in the programme areas;
+Technical packages that introduce farmers to innovative combinations of
+adapted inputs and practices for managing natural resources, which have
+been tested by the Kenya Agricultural and Livestock Research Organization.
+44. Moreover, the KCEP-CRAL will promote business models, including new business
+partnerships between smallholders and buyers, governance structures and financial
+mechanisms for storage and processing facilities. The innovative features described
+above, if successfully implemented, will generate significant knowledge and the
+potential for replication and scaling up in Kenya and the region. Monitoring and
+knowledge management will thus be important in assessing and comparing
+performance, learning from experience and documenting achievements and good
+practices.
+Policy engagement
+D.
+45. The programme will generate lessons learned, good practices and innovations that
+inform policy dialogue on agricultural development in semi-arid areas. Specific
+areas of interest include: (i) adapted technical packages; (ii) inclusive business
+models for farmers’ access to services and markets; (iii) innovative financial
+instruments; (iv) approaches for graduating smallholder farmers from food
+insecurity to commercial agriculture; and (v) increasing resilience to climate
+change and natural resource management. Special attention will be given to
+documenting the impact of synergies among the Government, RBAs, the European
+Union and the private sector – each of which brings comparative advantages to
+addressing complex agricultural and rural development challenges in ASALs.
+46. Capitalizing on these synergies, as mentioned previously, the programme will
+generate knowledge products on food security, graduation approaches, commercial
+farming and resilience in semi-arid areas that will inform policy and programming
+in ASALs.
+VI. Legal instruments and authority
+47. A financing agreement between the Republic of Kenya and IFAD will constitute the
+legal instrument for extending the proposed financing to the borrower/recipient. A
+copy of the negotiated financing agreement is attached as an annex.
+48. A grant agreement between the Food and Agriculture Organization of the United
+Nations and IFAD will constitute the legal instrument for extending the proposed
+grant under the country-specific window to FAO.
+49. The Republic of Kenya is empowered under its laws to receive financing from IFAD
+and from IFAD’s Adaptation for Smallholder Agriculture Programme Trust Fund,
+acting through IFAD in its capacity as trustee of the trust fund.
+50.
+I am satisfied that the proposed financing will comply with the Agreement
+Establishing IFAD and the Policies and Criteria for IFAD Financing.
+11
+
+
+
+
+VII. Recommendation
+51.
+I recommend that the Executive Board approve the proposed financing in terms of
+the following resolutions:
+EB 2015/114/R.9
+RESOLVED: that the Fund shall provide a loan on highly concessional terms to
+the Republic of Kenya in an amount equivalent to forty-three million eight
+hundred and fifty thousand special drawing rights (SDR 43,850,000), and
+upon such terms and conditions as shall be substantially in accordance with
+the terms and conditions presented herein.
+RESOLVED FURTHER: that the Fund shall provide an Adaptation for
+Smallholder Agriculture Programme Trust Fund grant to the Republic of Kenya
+in an amount equivalent to seven million one hundred thousand special
+drawing rights (SDR 7,100,000), and upon such terms and conditions as shall
+be substantially in accordance with the terms and conditions presented
+herein.
+RESOLVED FURTHER: that the Fund shall provide a grant not exceeding two
+million United States dollars (US$2,000,000) to the Food and Agriculture
+Organization of the United Nations, and upon such terms and conditions as
+shall be substantially in accordance with the terms and conditions presented
+herein.
+Kanayo F. Nwanze
+President
+12
+1
+3
+Annex
+EB 2015/114/R.9
+NEGOTIATED TEXT
+25 February 2015
+LC/MD
+IFAD LOAN No.
+ASAP TRUST GRANT No.
+FINANCING AGREEMENT
+Kenya Cereal Enhancement Programme - Climate Resilient Agricultural Livelihoods Window
+(KCEP-CRAL)
+between the
+REPUBLIC OF KENYA
+and the
+INTERNATIONAL FUND FOR AGRICULTURAL DEVELOPMENT
+and the
+ADAPTATION FOR SMALLHOLDER AGRICULTURE PROGRAMME TRUST FUND
+Signed in
+on
+13
+A
+n
+n
+e
+x
+I
+I
+E
+B
+2
+0
+0
+9
+/
+9
+6
+/
+R
+.
+1
+4
+Annex
+EB 2015/114/R.9
+FINANCING AGREEMENT
+IFAD Loan Number: ________
+ASAP Trust Grant Number: __________
+Programme  Title: Kenya Cereal  Enhancement  Programme - Climate Resilient Agricultural
+Livelihoods Window (KCEP-CRAL) (the “Programme”)
+The Republic of Kenya (the “Borrower/Recipient”)
+and
+The International Fund for Agricultural Development (the “Fund” or “IFAD”)
+and
+The Adaptation for Smallholder Agriculture Programme Trust Fund (the “ASAP Trust”)
+and
+(each a “Party” and all of them collectively the “Parties”)
+hereby agree as follows:
+Preamble
+WHEREAS on 19 December 2013 the European Commission, representing the
+European Union (the “EC” or “EU”) entered into a Contribution Agreement with the Fund
+(the “EC Contribution Agreement”), with reference number FED/2013/329-234, pursuant
+to which the Fund may, inter alia, receive a contribution for the Borrower/Recipient (the
+“EC Contribution”) in order to implement the Kenya Cereal Enhancement Programme
+(the “KCEP Programme”);
+WHEREAS the European Commission, representing the EU, is expected to process an
+amendment to the EC Contribution Agreement, pursuant to which the Fund may, inter
+alia, receive an additional contribution for the Borrower/Recipient in order to co-finance
+the Programme;
+WHEREAS the Fund adheres to the principles and guidelines as set out in the
+Financial and Administrative Framework Agreement (“FAFA”) entered into between the
+European Community and the United Nations on 29 April 2003, and to which the Fund
+acceded on 27 September 2004;
+WHEREAS on 19 March 2014 the Borrower/Recipient and the Fund entered into a
+financing agreement setting forth the terms and conditions under which the EC
+Contribution transferred thereto by IFAD shall be managed by the Borrower/Recipient in
+implementing the KCEP Programme (hereinafter "KCEP Financing Agreement").
+WHEREAS the Executive Board of the Fund at its 105th session approved the
+establishment of an Adaptation for Smallholder Agriculture Programme Trust Fund. IFAD
+acts as the Administrator of the Trust Fund and in this capacity holds and administers
+the funds that shall from time to time be contributed thereto and any other assets and
+receipts of the Trust. Decisions and other actions taken by IFAD as Administrator of the
+Trust Fund shall be identified as taken in that capacity.
+14
+A
+n
+n
+e
+x
+I
+I
+E
+B
+2
+0
+0
+9
+/
+9
+6
+/
+R
+.
+1
+5
+Annex
+EB 2015/114/R.9
+WHEREAS IFAD has agreed to extend a loan to the Borrower/Recipient for the
+purpose of financing the Programme, on the terms and conditions set forth in this
+Agreement;
+WHEREAS the Borrower/Recipient acknowledges that IFAD expects to extend a grant
+in the approximate amount of two million United States dollars (“USD”) to the Food and
+Agriculture Organisation of the United Nations (“FAO”) as incremental funding to
+sustainably build the capacity of, and provide logistical support to, relevant Programme
+implementation offices at County level to plan, execute, and monitor agricultural services
+as well as investments, on the terms and conditions to be set forth in a separate
+agreement between the Fund and FAO (“FAO Grant Agreement”);
+WHEREAS IFAD, FAO and the World Food Programme (“WFP”) are expected to
+collaborate towards the achievement of the Programme's goal and development
+objectives and, to this end, the Borrower/Recipient will take every reasonable measure
+to facilitate this collaboration and the implementation of underlying agreements between
+any or all such entities; and
+WHEREAS, on the basis of the above and other considerations, the ASAP Trust has
+agreed to extend an ASAP Trust Grant to the Borrower/Recipient for the purpose of
+increasing the financing in respect of the Programme, on the terms and conditions set
+forth in this Agreement;
+NOW THEREFORE, the parties hereto hereby agree as follows:
+Section A
+1.
+The following documents collectively form this Agreement: this document, the
+Programme Description and Implementation Arrangements (Schedule 1), the Allocation
+Table (Schedule 2), and the Special Covenants (Schedule 3).
+2.
+The Fund’s General Conditions for Agricultural Development Financing dated 29
+April 2009, amended as of April 2014 and as may be amended hereafter from time to
+time (the “General Conditions”) are annexed to this Agreement, and all provisions
+thereof shall apply to this Agreement. For the purposes of this Agreement the terms
+defined in the General Conditions shall have the meanings set forth therein.
+The Fund shall provide a Loan and the ASAP Trust shall provide an ASAP Trust
+3.
+Grant to the Borrower/Recipient (collectively referred to as the “Financing”), which the
+Borrower/Recipient shall use to implement the Programme in accordance with the terms
+and conditions of this Agreement.
+Section B
+1.
+A.
+B.
+The amount of the IFAD Loan is SDR 43 850 000.
+The amount of the ASAP Trust Grant is SDR 7 100 000.
+2.
+The IFAD Loan is granted on highly concessional terms and shall be free of interest
+but bear a service charge of three fourths of one per cent (0.75 per cent) per annum and
+have a maturity period of forty (40) years, including a grace period of ten (10) years.
+3.
+4.
+The Loan Service Payment Currency for the IFAD Loan shall be the USD.
+The first day of the applicable Fiscal Year shall be 1 July.
+15
+A
+n
+n
+e
+x
+I
+I
+E
+B
+2
+0
+0
+9
+/
+9
+6
+/
+R
+.
+1
+6
+Annex
+EB 2015/114/R.9
+Principal and service charge of the IFAD Loan shall be payable on each 15 May and
+5.
+15 November.
+There shall be two Designated Accounts denominated in USD, one for the IFAD
+6.
+Loan and one for the ASAP Trust Grant, for the benefit of the State Department of
+Agriculture of the Ministry of Agriculture, Livestock and Fisheries in the Central Bank of
+Kenya or a commercial bank acceptable to the Fund. There shall also be two Programme
+Accounts, respectively for the IFAD Loan and for the ASAP Trust Grant in Kenyan
+Shillings, for the benefit of the Programme.
+The Borrower/Recipient shall provide counterpart financing for the Programme in a
+7.
+minimum amount of 1 500 000 USD equivalent.
+Section C
+The Lead Programme Agency shall be the State Department of Agriculture of the
+1.
+Ministry of Agriculture, Livestock and Fisheries.
+The Lead Programme Agency shall collaborate with the additional Programme
+2.
+Parties identified under paragraph 11, Section II, Schedule 1 hereto.
+The Programme Completion Date shall be the seventh anniversary of the date of
+3.
+entry into force of this Agreement.
+Section D
+The IFAD Loan and the ASAP Trust Grant shall be administered and the Programme
+supervised by the Fund.
+Section E
+The following are designated as additional grounds for suspension of this
+1.
+Agreement:
+(i)
+The KCEP Financing Agreement has been suspended.
+(ii)
+The Programme Implementation Manual (PIM) referred to in paragraph 8,
+Section II of Schedule 1 hereto or any provision thereof has been waived,
+suspended, terminated, amended or modified without the prior agreement of
+the Fund and the Fund, after consultation with the Borrower/Recipient, has
+determined that such waiver, suspension, termination, amendment or
+modification has had, or is likely to have, a material adverse effect on the
+Programme, and the Borrower/Recipient has not taken any measure(s) to
+remedy the situation.
+The following is designated as an additional ground for cancellation of this
+2.
+Agreement: The KCEP Financing Agreement has been cancelled at the request of either
+party thereto.
+The following are designated as additional general conditions precedent to
+3.
+withdrawal:
+(i)
+The Programme Steering Committee referred to in paragraph 2, Section II of
+Schedule 1 hereto has been duly established and its members appointed;
+16
+A
+n
+n
+e
+x
+I
+I
+E
+B
+2
+0
+0
+9
+/
+9
+6
+/
+R
+.
+1
+7
+Annex
+EB 2015/114/R.9
+(ii)
+A Senior Programme Coordinator and Key Programme Personnel have been
+duly selected and recruited in accordance with the relevant provisions of the
+PIM referred to in paragraph 8, Section II of Schedule 1 hereto;
+(iii) The Borrower/Recipient has opened the Designated Accounts and the
+Programme Accounts referred to in paragraph 6, Section B above;
+(iv) An accounting software has been set up for the administration of all
+Programme financial operations; and
+(v)
+The PIM has been adopted by the Lead Programme Agency in the form
+approved by the Fund.
+The following are the designated representatives and addresses to be used for any
+4.
+communication related to this Agreement:
+For the Borrower/Recipient:
+Cabinet Secretary
+National Treasury
+P.O. Box 30007-00100
+Nairobi, Kenya
+For the Fund:
+The President
+International Fund for Agricultural Development
+Via Paolo di Dono 44
+00142 Rome, Italy
+For the ASAP Trust
+President of the International Fund
+for Agricultural Development in its capacity as Trustee
+of the Adaptation for Smallholder Agriculture Programme Trust Fund
+Via Paolo di Dono 44
+00142 Rome, Italy
+17
+A
+n
+n
+e
+x
+I
+I
+E
+B
+2
+0
+0
+9
+/
+9
+6
+/
+R
+.
+1
+8
+Annex
+EB 2015/114/R.9
+This  Agreement,  dated _______,  has  been  prepared  in  the  English  language  in  six  (6)
+original  copies,  three  (3)  for  the  Fund  and  the  ASAP  Trust Fund  and  three  (3)  for  the
+Borrower/Recipient.
+REPUBLIC OF KENYA
+(Authorized Representative)
+INTERNATIONAL FUND FOR
+AGRICULTURAL DEVELOPMENT
+Kanayo F. Nwanze
+President
+FOR THE ADAPTATION FOR SMALLHOLDER AGRICULTURE
+PROGRAMME TRUST FUND
+PRESIDENT OF THE INTERNATIONAL FUND
+FOR AGRICULTURE DEVELOPMENT IN ITS CAPACITY AS TRUSTEE
+OF THE ADAPTATION FOR SMALLHOLDER AGRICULTURE PROGRAMME
+TRUST FUND
+Kanayo F. Nwanze
+President
+18
+A
+n
+n
+e
+x
+I
+I
+E
+B
+2
+0
+0
+9
+/
+9
+6
+/
+R
+.
+1
+9
+Annex
+EB 2015/114/R.9
+Schedule 1
+Programme Description and Implementation Arrangements
+I.
+Programme Description
+1.
+Target Population and Programme Area. The Programme shall benefit some 100 000
+smallholder farmers, with particular focus on women-headed households and youth, whose
+livelihoods revolve around maize, sorghum, millet and associated pulses. In particular,
+beneficiaries of Programme interventions shall be: (a) approximately 60 000 food-insecure
+smallholder farmers who shall be supported through a partnership with WFP to graduate
+from recurring food insecurity and climate vulnerability to a level of food security and then
+further to market-oriented commercial farming; and (b) approximately 40 000 smallholder
+farmers at subsistence level who shall be supported to graduate into commercial farming.
+The Programme shall be implemented in the eight (8) arid and semi-arid counties of
+Embu, Tharaka Nithi, Kitui, Machakos, Makueni, TaitaTaveta, Kwale and Kilifi, (each a
+“County” and, collectively, “Target Counties”, “ASALs” or “Programme Area”).
+2.
+Goal. The overall goal of the Programme is to contribute to the reduction of rural
+poverty and food insecurity of smallholders in the ASALs by developing their economic
+potential while improving their natural resources management capacity and resilience to
+climate change in an increasingly fragile ecosystem.
+Objectives. The development objectives of the Programme are to facilitate: (i) the
+3.
+graduation of smallholder farmers to commercially oriented, climate-resilient agricultural
+practices through improvements in productivity, post-production management practices
+and market linkages for targeted value chains; and (ii) the empowerment of Target
+Counties' governments and communities to sustainably and consensually manage their
+natural resources and to build their resilience to climate change.
+4.
+Components. The Programme shall consist of the following four Components:
+Component 1: Cereal Productivity Enhancement (Capacity-building for Climate-
+resilient Productivity Enhancement and Natural Resource Management). Through an e-
+voucher platform giving smallholder farmers access to improved agricultural inputs and
+technical packages, the Programme shall support farmers engaged in targeted value
+chains to enhance productivity in view of commercialisation. Activities implemented under
+this Component shall also support farmers to identify and undertake appropriate,
+productive and climate-resilient crop enterprises suited to the ASALs and to improve as
+well as stabilise productivity through adoption of good agricultural practices incorporating
+conservation agriculture and associated better water conservation practices. Under this
+Component, the Programme shall also support Target Counties and wards to plan
+adaptation strategies, adopt sustainable natural resource management practices, and build
+resilience to climate change.
+Component 2: Post-harvest Management and Market Linkages. This Component
+aims at supporting farmers to capitalise productivity gains arising from investments made
+under Component 1, by promoting improved on-farm grain-handling and management,
+access to storage and warehouse receipt systems, increasing smallholders’ access to
+markets, and building their capacities to sell their produce at more favourable terms and
+prices.
+Component 3: Financial Inclusion. This Component is designed to link farmers to
+financial services to boost yields and income generation for re-investment in agriculture,
+and build the capacity of value chain stakeholders, including the youth, to engage
+19
+A
+n
+n
+e
+x
+I
+I
+E
+B
+2
+0
+0
+9
+/
+9
+6
+/
+R
+.
+2
+0
+Annex
+EB 2015/114/R.9
+profitably in the provision of agricultural services through improved access to financial
+services.
+Component 4: Programme Management. This Component aims at ensuring an efficient
+and cost effective use of Programme resources to achieve its development objectives.
+II.
+Implementation Arrangements
+1.
+The Lead Programme Agency. In its capacity as Lead Programme Agency, the State
+Department of Agriculture of the Ministry of Agriculture, Livestock, and Fisheries (MoALF)
+shall have overall responsibility for the coordination of the Programme implementation.
+2.
+Programme Steering Committee (PSC). A Programme Steering Committee chaired
+by the Principal Secretary of the State Department of Agriculture shall be established at
+national level to provide oversight and strategic guidance on Programme
+implementation. The Steering Committee set up pursuant to the provisions of the KCEP
+Financing Agreement shall be expanded to representatives of stakeholders for the
+Climate Resilient Agricultural Livelihoods Window, including collaborating ministries and
+institutions such as the Ministry of Devolution and Planning; the NDMA; the Ministry of
+Environment, Water and Natural Resources; farmer organisations, the private sector,
+and the Target Counties' governments. The PSC shall meet semi-annually to approve the
+Programme’s annual work plan and budget and to review progress reports; assess the
+effectiveness of management and partnerships; and recommend corrective measures
+where appropriate.
+A Programme Coordination Unit (PCU). A Programme Coordination Unit established
+3.
+in the MoALF to coordinate the KCEP Programme implementation pursuant to the KCEP
+Financing Agreement shall be strengthened with required expertise and support staff to:
+(i) manage the expansion of activities to the ASALs; and (ii) support the coordination of
+FAO and WFP for Programme execution. The additional PCU staff, to be recruited
+following a transparent and competitive process with the aim of contracting a highly
+qualified, accountable and gender-balanced team, shall include: a senior Programme
+coordinator, a community mobilisation, training and gender officer, a natural resources
+management/climate change specialist, a senior monitoring and evaluation/knowledge
+management officer, and an accountant assistant. The PCU shall be responsible for
+developing operational strategies and tools for Programme implementation; backup of
+Target Counties' implementation/support teams; financial and administrative
+management of Programme resources; preparation of annual workplans and budgets
+(AWPBs); mobilisation of implementation partners and oversight of deliverables;
+contracting of service providers at national level and procurement of services and
+supplies; establishment and management of a monitoring and evaluation database for
+reporting on activities, outcomes and impact focusing on corrective measures to be
+implemented and documenting graduation targets; supporting the coordination of FAO
+and WFP as well as relevant committees at national and county levels for Programme
+implementation. The PCU shall also act as a Secretariat to the PSC.
+4.
+Modalities of implementation of activities funded through FAO and WFP. Activities
+funded through FAO shall be implemented in pursuance of its Conservation Agriculture
+Programme funded by the EU - “Increased Productivity and Profitability of Smallholder
+farmers through promotion and up-scaling of GAP and CA in productive semi-arid areas
+of Kenya (IPP-GAP)” - which became effective in June 2014. Activities funded through
+WFP shall be implemented under the Recovery Component of the Protracted Relief and
+Recovery Operations (PRRO) Programme, which is expected to become effective in May
+2015.
+20
+A
+n
+n
+e
+x
+I
+I
+E
+B
+2
+0
+0
+9
+/
+9
+6
+/
+R
+.
+2
+1
+Annex
+EB 2015/114/R.9
+Coordination of FAO and WFP for Programme Implementation. A Technical
+5.
+Coordination Group (RBA-TCG) composed of the Programme Coordinator, the FAO Chief
+Technical Advisor and Liaison Officer, and WFP representatives supported by the PCU
+technical staff, shall be established. The main responsibilities of the RBA-TCG shall be to:
+(i) Plan respective contributions to the Programme AWPB in Target Counties to ensure
+complementarity and synergies; (ii) mobilize respective contributions for
+AWPB/Programme implementation; and (iii) identify opportunities for synergies with
+other donor-funded activities in Target Counties. The RBA-TCG shall meet on a quarterly
+basis in the first year of Programme implementation to steer coordination of FAO and
+WFP for Programme start-up, and subsequently on a bi-annual basis. The PCU shall
+integrate the contributions and recommendations of the RBA-TCG within the AWPBs prior
+to submission thereof to the PSC. The Programme organizational framework shall include
+a joint technical support team for FAO and WFP in each Target County to provide
+implementation support and oversight.
+6.
+County-level Organisational Framework. Target Counties shall be responsible for:
+(i) community awareness and sensitisation; (ii) supporting target groups in developing
+their business projects for Programme support; (iii) community-based selection of target
+groups; (iv) participatory identification of collective priorities and their inclusion into the
+County Integrated Development Plan; (v) selection of County service providers;
+(vi) mobilisation of extension services to target groups through frontline extension
+workers; (vii) community mobilisation and capacity building for management of
+collective infrastructure supported by the Programme; (viii) financial management of
+Programme funding at County level; (ix) establishing linkages with local stakeholders
+through the County/Sub-County Agriculture Stakeholder fora; and (x) monitoring and
+evaluation, including preparation of progress reports on Programme execution at the
+County level. In each County:
+(a) A County Programme Coordinating Committee (CPCC) chaired by the
+Governor and/or his/her designated representative shall be established and
+meet quarterly to provide implementation oversight and to approve county
+AWPB(s) and annual progress reports. Members of the CPCC shall include
+representatives of the National Government, the heads of relevant Target
+County departments and other stakeholders involved in implementation of
+Programme activities;
+(b) A County Programme Facilitation Team (CPFT) led by a County Programme
+coordinator shall coordinate the preparation and implementation of the
+County AWPBs, as well as the drafting of progress reports for consolidation by
+the PCU. Each CPFT shall include the National Treasury Accountant who will
+be responsible for the Programme financial management at County level.
+Each CPFT shall be equipped with a vehicle and three sets of
+computers/accessories;
+(c)
+A County Service Delivery Coordinating Unit Tender Committee shall have
+authority to approve procurement awards in line with each County's legal
+framework for public procurement; and
+(d) County Extension Staff shall: (i) provide support to farmers and their
+organisations to identify priorities and prepare their requests for support by
+the Programme; (ii) deliver extension messages to farmers and their
+organisations; (iii) support farmers' organisations and communities to set up
+better organisations and structures, identify their training needs and organise
+trainings to strengthen their capacities in identified domains; (iv) supervise
+farming activities and collect performance data for transmission to the CPFT
+as required, for analysis; and (v) provide information on performance of
+contracted service providers.
+21
+A
+n
+n
+e
+x
+I
+I
+E
+B
+2
+0
+0
+9
+/
+9
+6
+/
+R
+.
+2
+2
+Annex
+EB 2015/114/R.9
+7. Regional Support Sub-units. Regional support sub-units shall be established in:
+(i)
+Nakuru, to provide support  to the Counties of Bungoma, Kakamega, Nakuru,
+Nandi, and Trans Nzoia in the Western Region and the Rift Valley;
+(ii) Mbere, to provide support to the Counties of Kitui, Embu, Tharaka- Nithi,
+Machakos, and Makueni in the Eastern Region; and
+(iii) Mombasa, to provide support to the Counties of Kilifi, Kwale and TaitaTaveta
+in the Coastal Region.
+7.1. Regional Support Sub-units Staffing and Responsibilities. Regional support sub-
+units shall be headed by an agri-business specialist and staffed by an agronomist, an
+accountant, a monitoring and evaluation officer and a Programme assistant. Each
+regional support sub-unit shall be responsible for: (i) technical back-up to County
+implementation and support teams in relation to service providers and partners on
+Programme strategies and tools, financial management and procurement; (ii) quality
+review and consolidation of County AWPBs, progress reports, financial management and
+procurement data for transmission to the PCU; (iii) maintaining a regional monitoring
+and evaluation database and reporting system; (iv) periodic implementation support
+missions to County Programme and implementation support teams; and (v) contributing
+to the development of Programme national strategies and tools by providing
+consolidated information/feedback from the County level.
+Programme Implementation Manual (PIM). The Programme shall be implemented
+8.
+in accordance with the approved AWPB and Procurement Plan and guided by the PIM,
+the terms of which shall be adopted by the Lead Programme Agency subject to the
+Fund's prior approval. The PIM shall include, among other things: (i) Terms of reference,
+implementation responsibilities and appointment modalities of all Programme staff and
+consultants; (ii) Programme operating manuals and procedures; (iii) monitoring and
+evaluation systems and procedures; (iv) a detailed description of implementation
+arrangements for each Programme component; (v) modalities for the selection of service
+provider(s) to be based on transparent and competitive processes; and (vi) financial
+management and reporting arrangements including accounting, approval of payments,
+financial reporting, internal controls, fixed asset management, as well as internal and
+external audit arrangements.
+9.
+Mid-Term Review. The Lead Programme Agency, representatives of the Target
+Counties, FAO, WFP and the Fund shall jointly carry out a review of the Programme
+implementation no later than the fourth anniversary of the date of Entry into Force of
+this Agreement (the “Mid-Term Review”) based on terms of reference prepared by the
+Lead Programme Agency and approved by the Fund. Among other things, the Mid-Term
+Review shall consider the performance and financial management of Programme Parties
+and contracted service providers, the efficacy of technical assistance and capacity
+building activities, the overall achievement of Programme objectives and the constraints
+thereon and recommend such reorientation as may be required to achieve such
+objectives and remove such constraints.
+10. Performance-Based Agreements. The Lead Programme Agency shall enter into a
+performance-based agreement with each [of the] contracted service provider(s),
+participating financial institutions and any other party competitively selected by the Lead
+Programme Agency to participate in the Programme, as acceptable to the Fund. Each
+performance-based agreement shall specify the scope of the work to be undertaken by
+such entity(ies), expected deliverables, estimated budget for specific activities,
+modalities for the implementation of any sub-contracted activities, as well as quantified
+deliverables, including gender and inclusion target and indicators. Each performance-
+based agreement shall be: (i) monitored closely by the PCU; (ii) renewed annually based
+on satisfactory performance; (iii) specify that the relevant entity shall maintain a register
+22
+A
+n
+n
+e
+x
+I
+I
+E
+B
+2
+0
+0
+9
+/
+9
+6
+/
+R
+.
+2
+3
+Annex
+EB 2015/114/R.9
+of assets acquired with the proceeds of the Financing; and (iv) be submitted to the Fund
+for its prior approval. Each performance-based agreement shall not be modified without
+the prior consent of the Fund.
+11. Memorandum of Understanding (MoU). The Lead Programme Agency shall enter into
+a MoU with the governments of each of the Target Counties and with each of the Kenya
+Agricultural and Livestock Research Organization (KALRO), the Cereal Growers’
+Association (CGA), the National Drought Management Authority (NDMA), the Kenya
+Meteorological Services (KMS), the Centre for Training and Integrated Research in Arid
+and Semi-Arid Land Development (CETRAD), the Eastern Africa Grain Council (EAGC)
+and any other party identified by the MoALF to participate in the Programme, as
+acceptable to the Fund, prior to implementation of the relevant Programme activities.
+Among other things, each MoU shall clearly specify, the scope of the work to be
+undertaken, staffing and institutional arrangements to be put in place to secure
+successful Programme implementation, estimated budget for specific activities, reporting
+and audit requirements, activity tagged transfers as opposed to general cash releases,
+implementation records, monitoring arrangements as well as clearly defined
+accountability and performance evaluation criteria. The MoUs shall be monitored closely
+by the Lead Programme Agency and shall: (i) specify that the above listed parties shall
+maintain a register of assets acquired with the proceeds of the Financing; and (ii) be
+submitted to the Fund for its prior approval. The MoUs shall not be modified without the
+prior consent of the Fund.
+23
+A
+n
+n
+e
+x
+I
+I
+E
+B
+2
+0
+0
+9
+/
+9
+6
+/
+R
+.
+2
+4
+Annex
+EB 2015/114/R.9
+Schedule 2
+Allocation Table
+Allocation  of  IFAD  Loan  and  ASAP  Trust  Grant  Proceeds. (a) The  Table  below  sets
+1.
+forth the Categories of Eligible Expenditures to be financed by the IFAD Loan and the ASAP
+Trust  Grant,  their  allocation  to  each  Category  and  the  percentages  of  expenditures  for
+items to be financed in each Category:
+Category
+IFAD Loan
+ASAP Trust Grant
+Percentage
+Amount Allocated
+Amount Allocated
+Net of all
+(expressed in SDR)
+(expressed in SDR)
+taxes
+I. Works
+II.
+III.
+IV.
+V.
+VI.
+Equipment and materials
+Consultancies
+Grants and subsidies
+Salaries and allowances
+Operating costs
+Unallocated
+TOTAL
+2 630 000
+2 210 000
+5 490 000
+23 180 000
+4 260 000
+1 690 000
+4 390 000
+0
+330 000
+3 760 000
+2 300 000
+0
+0
+710 000
+100%
+100%
+100%
+100%
+100%
+100%
+100%
+43 850 000
+7 100 000
+(b)
+The terms used in the Table above are defined as follows:
+Category I “Works” includes Eligible Expenditures for construction and
+refurbishment of warehouses, milling facilities and road spot improvements;
+Category II “Equipment and materials” includes Eligible Expenditures for
+vehicles; and
+Category III “Consultancies” includes Eligible Expenditures for costs
+associated, among other things, with technical assistance, training, studies,
+workshops, capacity building, sensitisation and awareness campaigns,
+adoption and dissemination of technical technologies, mapping of soil fertility
+and soil nutrient requirements, coordinators and extension workers,
+establishment of demonstration plots, exhibition and trade fairs, surveys,
+peer exchange visits, development of manuals, PSC meetings, targeting and
+gender equality and social inclusion strategies.
+Category IV “Grants and Subsidies” includes Eligible Expenditures covering
+the input voucher package.
+(c)
+The proceeds of the ASAP Trust Grant shall cover: Eligible Expenditures for
+costs related to County Adaptation Funds and incremental financing for community
+climate resilient assets; the feasibility study for the agricultural insurance scheme; the
+meteorological equipment and technical support for the collection of meteorological data
+and dissemination of climate information; investments, training and technical
+backstopping on activities related to water conservation and management; remote
+sensing/geographical information system (RS/GIS) equipment; monitoring and
+24
+A
+n
+n
+e
+x
+I
+I
+E
+B
+2
+0
+0
+9
+/
+9
+6
+/
+R
+.
+2
+5
+Annex
+EB 2015/114/R.9
+evaluation of natural resource management/climate change activities and the
+recruitment of a natural resource management/climate change specialist within the PCU.
+(d)
+The Programme financial reporting shall cover Category of Expenditures,
+Components and Financier in order to enable the Fund to consolidate relevant
+Programme data with that pertaining to the KCEP Programme.
+25
+A
+n
+n
+e
+x
+I
+I
+E
+B
+2
+0
+0
+9
+/
+9
+6
+/
+R
+.
+2
+6
+Annex
+EB 2015/114/R.9
+Schedule 3
+Special Covenants
+In accordance with Section 12.01(a)(xxiii) of the General Conditions, the Fund may
+suspend, in whole or in part, the right of the Borrower/Recipient to request withdrawals
+from the Loan Account and the ASAP Trust Account if the Borrower/Recipient has
+defaulted in the performance of any covenant set forth below, and the Fund has
+determined that such default has had, or is likely to have, a material adverse effect on
+the Programme:
+Audit of the electronic voucher system. The Borrower/Recipient shall ensure that a
+1.
+specific performance audit of the e-voucher scheme(s) as implemented by the relevant
+service provider(s) is carried out annually by an independent qualified auditor to assess
+the effectiveness, economy and efficiency of the process.
+Gender and Youth. The Borrower/Recipient shall ensure that women and youth are
+2.
+represented in the organization and management of the Programme. The
+Borrower/Recipient shall also ensure that women and youth beneficiaries shall be
+represented in all Programme activities and that they receive appropriate benefits from
+the Programme outputs.
+3.
+Operation and Maintenance. The Borrower/Recipient shall ensure that adequate
+human and financial resources are provided to support the operation and maintenance of
+Programme-financed investments and the recurrent costs of the Programme operations
+both during and after the Programme Implementation Period, at least for the useful life
+of such investments.
+Counterpart Funds. The Borrower/Recipient shall ensure that counterpart funds are
+4.
+clearly identifiable in the financial management system and all financial statements.
+Flow of Funds. The Borrower/Recipient shall ensure that the proceeds of the IFAD
+5.
+Loan and of the ASAP Trust Grant are not disbursed to any of the Programme Parties
+until the Lead Programme Agency shall have entered into the MoU referred to in
+paragraph 11, Section II of Schedule 1 hereto with each such Programme Party.
+Operation of the Electronic Voucher System. The Borrower/Recipient shall ensure
+6.
+that detailed procedures acceptable to the Fund for the operation of the electronic
+voucher system shall have been established before any activities thereunder are
+commenced.
+Rolling Internal Audit Programme. The Borrower/Recipient shall ensure that: (i) an
+7.
+auditor acceptable to the Fund is retained to provide internal audit services to the
+Programme; and (ii) a sub-committee of the PSC is constituted as an audit committee
+responsible for approving the annual audit plan and for meeting every quarter to review
+the internal audit reports and management actions on the recommendations of both
+internal and external auditors.
+26
+A
+n
+n
+e
+x
+I
+I
+E
+B
+2
+0
+0
+9
+/
+9
+6
+/
+R
+.
+Logical framework
+Narrative Summary
+Goal
+Poverty and food insecurity of
+targeted ASAL rural smallholder
+households sustainably reduced
+-
+Key Performance Indicators
+80,000 ASAL smallholder farmers food secure with
+improved nutrition standards, out of poverty and
+supported to cope with the effects of climate change1
+1
+Development Objective
+Graduation of farmers to
+climate resilient and
+commercial farming
+Empowerment of county
+governments/communities for
+sustainable NRM and resilience
+to climate change2
+Outcome 1
+Sustainable increase in
+production of maize, sorghum,
+millet and associated pulses
+among targeted farmers
+-
+-
+-
+-
+80,000 ASAL smallholder farmers graduate to
+market-oriented commercial farming adopting climate
+resilient agricultural practices
+8 county governments implementing 100 ward level
+sustainable NRM and climate-change resilience
+community plans
+Productivity increase: 80% for maize and sorghum;
+50% for millet, beans, cowpeas, green grams and
+pigeon peas
+80,000 ha under good agricultural practice
+(GAP)/conservation agriculture (CA) producing
+targeted crops
+Outputs
+1.1 Targeted farmers adopt
+climate-resilient improved
+farming practices including CA
+1.2 Targeted counties and
+communities adopt sustainable
+NRM adapted to climate change
+-
+- % of farmers reporting yield increase
+- % of farmers adopting recommended technologies
+-
+80,000 ASAL farmers trained on CA/GAP and NRM
+adopt improved agricultural practices through e-
+voucher technical package and extension services
+including climate information for enhanced
+agricultural productivity
+250 extension service providers and 100 agro-dealers
+capacity for provision of GAP/CA extension services
+and inputs strengthened
+8 county sustainable NRM and climate change
+adaptation plans developed (with 100 Ward level
+community resilience NRM plans); and
+county/community officials trained
+USD 7.5m ASAP programme resources invested in
+watershed scale community assets with productive
+benefits up to 80,000 ha3
+8 County Adaptation Funds operational with ward
+plans and associated NRM activities funded on 80,000
+-
+-
+-
+Means of Verification
+Assumptions/Risks
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+National (KIHBS) household income &
+expenditure surveys
+RIMS impact surveys
+Baseline, mid-term and final food
+security & nutrition assessments
+Livelihood and Ecosystem Resilience
+Assessment Tools
+Household income & expenditure
+surveys
+Food security and nutrition assessments
+RIMS impact surveys (baseline and end-
+term)
+Household income & expenditure
+surveys
+Food security and nutrition assessments
+RIMS impact surveys (baseline and end-
+term)
+Programme M&E
+Participating bank data base/records
+Programme baseline, mid- and end-
+term evaluations
+Programme M&E
+Participating bank data base/records
+Programme baseline, mid- and end-
+term evaluations
+-
+-
+-
+-
+-
+-
+Stable political/
+macroeconomic
+environment
+Successful public – private -
+partnership
+National and county
+government adoption of CA
+policy for inclusion;
+PPP in extension services
+Private sector willingness to
+provide market-led
+incentives in adoption of CA
+Programme technical
+support in place at County
+and community level
+1 Related to RIMS 1.8.5
+2 For the purposes of this programme, a working definition of a climate-resilient community will be: ''A community where programme beneficiaries are engaging in
+climate-resilient agricultural practices, are engaged in natural resource management, benefit from climate-related extension messages and climate information and
+have contributed to ward level community resilience plans
+3 Related to RIMS 1.1.7
+A
+p
+p
+e
+n
+d
+x
+i
+E
+B
+2
+0
+1
+5
+/
+1
+1
+4
+/
+R
+.
+9
+Narrative Summary
+Outcome 2
+Improved post-harvest
+management and market
+linkages for farmers
+Outputs
+2.1 Targeted farmers adopt
+improved post-harvest
+management of grains
+Market access for
+2.2
+participating farmers
+2
+Outcome 3
+Improved access to financial
+services for targeted farmers
+E-voucher financing
+Outputs:
+3.1
+system for smallholder farmers
+developed
+3.2
+Financial services to
+other key players improved
+-
+-
+-
+-
+-
+Key Performance Indicators
+ha with productive benefits
+8 County climate information services functional and
+providing regular climatic information to ward groups
+to refine farm/ agronomic plans
+At least 2 staff per County operational in RS/GIS
+CC/NRM training given to at least 12 extension agents
+and 24 farmer groups each coached county
+Technical guidelines developed and production of
+instructional videos on CC/NRM disseminated
+80,000 farmers organized in groups with established
+linkages with bulk buyers
+Post-harvest grain losses reduced from 30% to 5%
+for 80% of targeted r farmers
+80, 000 farmers organized in groups; trained on
+harvest-and post-harvest management; and receive
+basic equipment for improved post-harvest
+management of grains.
+250 threshing/shelling service providers trained and
+their capacity to provide services to farmers enhanced
+250 production cluster-level farmer associations
+established and linked to a structured grain trading
+system comprising 250 collection centres and 100
+certified warehouses with WRS services
+100 road spot improvements completed linking
+production clusters to grain aggregation centres
+80,000 smallholder farmers with active bank accounts
+and using WRS, savings, other financial services and
+crop insurance services
+-
+-
+-
+-
+-
+-
+-
+-
+100 000 farmers trained on financial literacy and have
+accessed inputs subsidy (through e-voucher scheme)
+250 agro-dealers trained and accredited as agents by
+participating financial institutions
+250 agro-dealers,  2,000 agricultural services
+providers, and 100 value addition enterprises access
+value chain financing
+Means of Verification
+Assumptions/Risks
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Programme M&E
+Participating bank data base/records
+Programme baseline, mid- and end-
+term evaluations
+Programme M&E
+Participating bank data base/records
+Programme baseline, mid- and end-
+term evaluations
+Programme M&E
+Participating bank data base/records
+Programme baseline, mid- and end-
+term evaluations
+Programme M&E
+Participating financial institutions data
+base/records and reports
+Programme baseline, mid- and end-
+term evaluations
+Programme M&E
+Participating financial institutions data
+base/records and reports
+Programme baseline, mid- and end-
+term evaluations
+Programme M&E
+Participating financial institutions data
+base/records and reports
+Programme baseline and evaluations
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Demand for agricultural
+products will be sufficient to
+absorb increased supplies
+from the smallholder sector
+Farmer commitment to
+participate in groups
+Bill on WRS is passed into
+law to provide effective
+regulatory framework
+Effective PPP with financial
+institutions
+Sufficient number of agro-
+dealers for competitive
+services
+Agro-dealers supply
+required quantities of
+quality inputs
+Adapted agricultural
+insurance product and
+insurance companies willing
+to offer the product
+Adapted Financial
+institutions products
+Engagement of Value chain
+actors
+A
+p
+p
+e
+n
+d
+x
+i
+E
+B
+2
+0
+1
+5
+/
+1
+1
+4
+/
+R
+.
+9

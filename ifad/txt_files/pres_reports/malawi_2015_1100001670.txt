@@ -1,0 +1,1811 @@
+Document:
+Agenda:
+Date:
+Distribution:
+Original:
+EB 2015/116/R.16/Rev.1
+9(b)(i)
+17 December 2015
+Public
+English
+E
+President’s report
+Proposed loan and grant to the
+Republic of Malawi for the
+Programme for Rural Irrigation Development
+Note to Executive Board representatives
+Focal points:
+Technical questions:
+Dispatch of documentation:
+Thomas Rath
+Country Programme Manager
+East and Southern Africa Division
+Tel.: +39 06 5459 2069
+e-mail: t.rath@ifad.org
+Alessandra Zusi Bergés
+Officer-in-Charge
+Governing Bodies Office
+Tel.: +39 06 5459 2092
+e-mail: gb_office@ifad.org
+Executive Board — 116th Session
+Rome, 16-17 December 2015
+For: Approval
+EB 2015/116/R.16/Rev.1
+ii
+iii
+iv
+1
+1
+1
+1
+2
+2
+2
+2
+3
+3
+4
+4
+5
+5
+6
+6
+6
+7
+7
+8
+8
+8
+9
+9
+9
+9
+10
+Contents
+Abbreviations and acronyms
+Map of programme area
+Financing summary
+Recommendation for approval
+I.
+Strategic context and rationale
+A. Country and rural development and poverty context
+B. Rationale and alignment with government priorities and
+RB-COSOP
+II. Programme description
+A. Programme area and target group
+B. Programme development objective
+C. Components/outcomes
+III. Programme implementation
+Approach
+A.
+B. Organizational framework
+C. Planning, monitoring and evaluation, and learning and
+knowledge management
+D. Financial management, procurement and governance
+E. Supervision
+IV. Programme costs, financing, and benefits
+A. Programme costs
+B. Programme financing
+C. Summary benefit and economic analysis
+D. Sustainability
+E. Risk identification and mitigation
+V.
+Corporate considerations
+A.
+B.
+C.
+D.
+Compliance with IFAD policies
+Alignment and harmonization
+Innovations and scaling up
+Policy engagement
+VI. Legal instruments and authority
+VII. Recommendation
+Appendices
+I. Negotiated financing agreement
+II. Logical framework
+i
+EB 2015/116/R.16/Rev.1
+Abbreviations and acronyms
+ASAP
+ASWAp
+AWP/B
+COSOP
+DFID
+DSF
+GAP
+IMPIF
+IRLADP
+M&E
+MGDS
+MOAIWD
+MOFEPD
+PCO
+PRIDE
+PSC
+RIMS
+RLEEP
+SAPP
+SECAP
+UNDP
+WUA
+Adaptation for Smallholder Agriculture Programme
+agriculture sector-wide approach programme
+annual workplan and budget
+country strategic opportunities programme
+Department for International Development (United Kingdom)
+Debt Sustainability Framework
+good agricultural practice
+Irrigation Master Plan and Investment Framework
+Irrigation, Rural Livelihoods and Agricultural Development Project
+monitoring and evaluation
+Malawi Growth and Development Strategy
+Ministry of Agriculture, Irrigation and Water Development
+Ministry of Finance, Economic Planning and Development
+programme coordination office
+Programme for Rural Irrigation Development
+programme steering committee
+Results and Impact Management System
+Rural Livelihoods and Economic Enhancement Programme
+Sustainable Agricultural Production Programme
+Social, Environmental and Climate Assessment Procedures
+United Nations Development Programme
+water users’ association
+ii
+Map of programme area
+EB 2015/116/R.16/Rev.1
+iii
+EB 2015/116/R.16/Rev.1
+Republic of Malawi
+Programme for Rural Irrigation Development
+Financing summary
+Initiating institution:
+IFAD
+Borrower:
+Executing agency:
+Ministry of Finance, Economic Planning and
+Development
+Ministry of Agriculture, Irrigation and Water
+Development
+Total programme cost:
+US$83.95 million
+Amount of IFAD loan:
+SDR 19.30 million (equivalent to approximately
+US$26.48 million)
+Amount of IFAD
+Debt Sustainability Framework grant:
+SDR 19.35 million (equivalent to approximately
+US$26.54 million)
+Amount of IFAD Adaptation for
+Smallholder Agriculture Programme
+grant:
+Terms of IFAD loan:
+Cofinancier(s):
+Amount of cofinancing:
+SDR 5.15 million (equivalent to approximately
+US$7.06 million)
+40 years, including a grace period of 10 years, with a
+service charge of three fourths of one per cent (0.75 per
+cent) per annum
+Department for International Development (DFID);
+private sector
+DFID: US$0.5 million
+Private sector: US$3.0 million
+Terms of cofinancing:
+Grant
+Contribution of borrower:
+US$13.08 million
+Contribution of beneficiaries:
+US$7.28 million (in kind)
+Appraising institution:
+IFAD
+Cooperating institution:
+Directly supervised by IFAD
+iv
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2015/116/R.16/Rev.1
+Recommendation for approval
+The Executive Board is invited to approve the recommendation for the proposed
+financing to the Republic of Malawi for the Programme for Rural Irrigation
+Development, as contained in paragraph 56.
+Proposed loan and grant to the Republic of Malawi for
+the Programme for Rural Irrigation Development
+I. Strategic context and rationale
+A. Country and rural development and poverty context
+1.
+Malawi is a densely populated landlocked country of some 15 million people in an
+area of 118,484 km2, of which 24,000 km2 is covered by freshwater lakes and
+mangroves. Population growth is almost 3 per cent per annum and the country has
+one of the lowest per capita GDPs in the world. With a Human Development Index
+of 0.414, Malawi is ranked 174th out of 187 countries (2014), while for its gender
+development index it ranked 116th out of 208 countries (2013). Education levels are
+low. Chronic food insecurity and malnutrition, combined with HIV/AIDS prevalence
+of 11.9 per cent, add to the challenge.
+2.
+Poverty is mainly rural. Approximately 51 per cent of the Malawian population lives
+below the poverty line of a dollar a day (Millennium Development Goals [MDGs]
+Report 2013), while in rural areas over 85 per cent of the people are poor.1 Rural
+areas also have a higher occurrence of both stunted and underweight children than
+do urban areas. In 2005, the Government of Malawi set up the Fertilizer Input
+Supply Scheme, which increased maize production and enabled the country to
+become self-sufficient in years with normal weather conditions. However, Malawi’s
+progress against the MDGs remains mixed. Hunger has decreased, but persists.
+Targets for poverty reduction and primary education are deemed unlikely to be
+achieved by 2015.
+3. Women have remained disadvantaged in many aspects of life, despite their large
+share in the food-production labour force. They have little control over produce,
+and benefit less from the income earned. Young people also face considerable
+challenges, mainly in terms of few employment opportunities outside agriculture in
+rural areas and the ongoing fragmentation of landholdings. Farming, predominantly
+rainfed, is associated with low cash-income generation, hard labour and low status.
+B. Rationale and alignment with government priorities and
+4.
+5.
+RB-COSOP
+Most smallholder families in Malawi live at the subsistence level, with cash or food
+insecurity for several months of the year. Adverse climate effects exacerbate the
+already precarious situation of many smallholders. In 2015, for example, floods
+destroyed a large part of the maize harvest in southern Malawi, while other areas
+suffered under prolonged drought, with severe consequences for crop yields, food
+security and nutrition.
+Land productivity has been declining for decades, mainly due to existing
+inappropriate land and water management practices that do not support sustainable
+crop production and erosion control measures. Moreover, farmers do not possess
+sufficient financing to purchase fertilizer to restore soil fertility. Irrigation is scarce
+and this curbs agricultural production to only one harvest per year.
+1 National Statistical Office of Malawi, Statistical Yearbook 2008.
+1
+EB 2015/116/R.16/Rev.1
+6.
+7.
+8.
+9.
+Access to land under customary procedures is increasingly under threat due to the
+high demand for arable land. Seasonal sublets of land have become frequent and
+benefit those who can afford to pay, while the poor may lose their land.
+Several government- and donor-funded programmes aim to reverse current trends
+in the loss of soil fertility and declining yields. The Government invests in the
+Fertilizer Input Supply Scheme to enhance soil fertility and increase yields of maize,
+the main staple crop, and to boost national food security. Unfortunately, it faces
+difficulties in sustaining the scheme due to its high costs.
+The proposed Programme for Rural Irrigation Development (PRIDE) has been
+designed to address the above issues through investments in irrigation and in
+improved rainfed agriculture adapted to smallholders. It seeks to enable: higher
+land and labour productivity; application of sustainable, climate-smart land and
+water management practices; and a focus on agricultural markets to generate cash
+income for smallholders.
+The Government is committed to addressing rural poverty through agricultural
+growth. The second Malawi Growth and Development Strategy (MGDS II) defines
+water development as a key strategic area. In 2015, the Irrigation Master Plan and
+Investment Framework (IMPIF) was formulated to expand access of smallholders to
+irrigation in order to boost crop production and enhance resilience to adverse
+climate events. The Government asked IFAD to invest in the IMPIF and in the
+development of water management for smallholder agriculture.
+10.
+PRIDE is fully compatible with IFAD’s country strategic opportunities programme
+(COSOP) 2010-2015 and complements services provided by the existing IFAD
+portfolio. Synergies will be developed with both the Rural Livelihoods and Economic
+Enhancement Programme (RLEEP – value chain development) and the Sustainable
+Agriculture Production Programme (SAPP – good agricultural practices in rainfed
+systems).
+II. Programme description
+A. Programme area and target group
+11. The programme will be implemented over a seven-year period in two regional
+clusters in the northern and southern regions of Malawi. The programme will target
+poor smallholder farmers of the villages associated with each irrigation scheme. The
+primary target group comprises food insecure households. Smallholder farmers will
+be supported in: (i) being allocated secure land in the programme irrigation
+schemes; (ii) joining water users’ associations (WUAs) and obtaining representation
+on catchment management committees; and (iii) becoming business entities
+(individually and as groups) to respond to market opportunities.
+B. Programme development objective
+12. The programme’s goal is to enhance the resilience of rural communities to food
+insecurity, the effects of climate change and economic shocks. Its development
+objective is that smallholder farmer households increase their income and nutrition
+through sustainable agricultural production. The programme’s two major outcomes
+are that smallholders: (i) operate climate-smart land and water management
+systems; and (ii) adopt environmentally and economically sustainable agricultural
+production systems on both rainfed and irrigated land.
+C. Components/outcomes
+13. Component 1: Irrigation development and catchment management. The
+objective of this component is to develop climate-smart land and water
+management systems for smallholder households on rainfed and irrigated land. The
+objective will be achieved through preparation and management of about 15
+irrigation schemes, together with establishment and strengthening of WUAs to
+manage, operate and maintain irrigation schemes for appropriate land and water
+2
+EB 2015/116/R.16/Rev.1
+governance. Agricultural productivity will be increased through irrigation, using
+water storage for a second or third crop, while PRIDE will address environmental
+degradation risks by investing in soil and water conservation measures. The latter
+will be funded entirely by a grant from the IFAD Adaptation for Smallholder
+Agriculture Programme (ASAP). The measures aim to restore soil cover on
+vulnerable grounds, control erosion, and carry out reforestation of slopes and
+protection of river buffer zones, as a contribution to national greenhouse gas
+reduced-emission targets.
+14. Component 2: Agriculture and market linkages. The objective of this
+component is to promote adoption of environmentally and economically sustainable
+agricultural production systems by smallholder households on both rainfed and
+irrigated land. The programme will support efficient knowledge transfer to
+smallholder farmers through trials and demonstrations, combined with better
+information from the private sector on market potential and opportunities. The
+component will promote climate-smart good agricultural practices (GAPs), including
+the use of weather and climate information services, irrigation optimization,
+application of integrated pest management and reduction of post-harvest losses.
+15. Market linkages will be promoted through: value chain analyses to identify suitable
+crops; training, mainly through farmer business schools; and commodity platforms
+to bring together all actors in a value chain. A dedicated irrigation technology
+window – under the Malawi Innovation Challenge Fund – will be piloted with the
+private sector and cofunded by the United Nations Development Programme
+(UNDP) and the United Kingdom’s Department for International Development
+(DFID). The private sector will provide farmers with modern irrigation equipment
+such as drip irrigation and will facilitate marketing of their produce.
+16.
+PRIDE will mainstream nutrition in most of its activities, such as the choice of crops
+or value chain commodities, and support this through the following measures:
+(i) integrating a nutrition perspective in all GAPs promoted; (ii) promoting
+diversified and improved nutritional production and consumption (integrated
+homestead food production); and (iii) supporting the introduction of improved
+cooking stoves, which reduce the need for fuelwood by as much as 60 per cent,
+combined with nutrition education.
+III. Programme implementation
+Approach
+A.
+17. During the implementation phase, PRIDE will actively mobilize partners and
+resources for communities in scheme cluster areas so that these communities can
+sustainably harness natural resources for agriculture, build competence in
+production, and profit from better market linkages. The implementation approach
+comprises a phased development process: identification, preparation,
+implementation and review. Programme management will be tasked with
+monitoring and reporting regularly to safeguard positive environmental and social
+outcomes. With an average design-to-commissioning time of three years, irrigation
+investments will be phased in three lots, with one or two schemes per irrigation
+service division in each lot. Progress and lessons learned in the first three years of
+irrigation projects developed under the programme will be carefully documented
+and will inform the schemes to be developed in the second phase.
+18.
+PRIDE builds on lessons learned in various projects in Malawi, such as the World
+Bank/IFAD-funded Irrigation, Rural Livelihoods and Agricultural Development
+Project (IRLADP), and links with other projects in the water sector promoted by
+various donor agencies.
+3
+EB 2015/116/R.16/Rev.1
+B. Organizational framework
+19. The lead programme agency will be the Department of Irrigation (DOI) within the
+Ministry of Agriculture, Irrigation and Water Development (MOAIWD). The DOI will
+establish a dedicated programme coordination office (PCO) which will be staffed
+with highly qualified personnel, either from the government's roster or from the
+labour market. Separate facilitation offices staffed by one coordinator each will be
+established in the northern and southern regions. A programme steering committee
+(PSC) will provide strategic oversight and is composed of senior representatives of
+the ministries concerned, chaired by the Ministry of Finance, Economic Planning and
+Development (MOFEPD). The PCO will be assisted by a technical advisory team
+representing the departments concerned with programme implementation: Land
+Resources, Extension, Research (under MOAIWD), Land (under the Ministry of
+Lands, Housing and Urban Development), Environmental Affairs (under the Ministry
+of Natural Resources, Environment and Mining), Debt and Aid (under MOFEPD), and
+others as needed. The programme will coordinate fully with the agriculture sector-
+wide approach programme (ASWAp) to ensure full alignment with government
+investments and policies.
+20.
+In the village and scheme cluster areas, the programme will coordinate its entry
+with the existing village-level leadership (traditional authorities) and structures,
+organized in village development committees. These will convene a combined
+village committee to provide oversight for programme and community activities.
+Detailed preparations for land consolidation and irrigation scheme preparation will
+be delegated to a WUA formation committee. Implementation of more
+straightforward activities (soil and water conservation, GAPs and market linkages)
+will be handed over to beneficiary groups and lead farmers.
+C. Planning, monitoring and evaluation, and learning and
+knowledge management
+21. The programme’s approach to planning, monitoring and evaluation (M&E) and
+knowledge management will be in line with the 2001 National Irrigation Policy and
+Development Strategy, the MOAIWD M&E framework and IFAD requirements, based
+on emerging best practices of the IRLADP and other IFAD-funded projects.
+22. The main planning tools for PRIDE comprise the logical framework, overall
+programme budget and annual workplan and budget (AWP/B). Every year, a
+decentralized, inclusive and demand-driven planning process will be undertaken.
+The consolidated AWP/B will be presented to the PSC for approval and to IFAD for
+concurrence. Implementation of the AWP/B will be monitored through the
+programme’s M&E system, which will produce semi-annual reports.
+23.
+24.
+Programme M&E will be based on IFAD’s Results and Impact Management System
+(RIMS). The programme will conduct baseline and follow-up surveys combining
+collection of basic demographic and socio-economic data with application of a
+multidimensional poverty assessment tool. The latter will assist in tracking changes
+in resilience to climate change. The baseline and follow-up surveys will employ the
+Women’s Empowerment in Agriculture Index, which measures changes in women’s
+empowerment levels as a result of an intervention.
+Learning and sharing of knowledge will be based on the programme’s M&E system,
+and particularly on reviews and participatory assessments of lessons learned during
+implementation. These will translate into factsheets that will contribute to the wider
+policy debate in the smallholder agriculture sector. Dissemination will take place
+through programme and MOAIWD websites, or relevant institutions such as
+research agencies, and will be presented at national workshops on key programme
+themes.
+4
+EB 2015/116/R.16/Rev.1
+Financial management, procurement and governance
+D.
+25. Financial management. A financial management assessment was carried out
+during design and concluded that the proposed financial management
+arrangements for PRIDE are at medium risk. Transparency International's Global
+Corruption Perceptions Index scored Malawi at 34 per cent in 2014.2 IFAD’s Rural-
+Sector Performance score regarding accountability and corruption in rural areas
+scored Malawi at 3.75 in 2014, which translates into medium risk.
+26. Mitigation measures aim to enhance the country’s financial management systems
+through: use of computerized accounting software, specifically recruited
+programme finance staff, accounting linked to M&E, and the use of dedicated bank
+accounts. Processing of PRIDE’s day-to-day transactions will be handled outside the
+government Integrated Financial Management System. However, the programme
+will provide periodic returns to the Accountant General to enable the updating of
+government accounts. Accounting will be linked to the M&E system, requiring that
+the terms of reference of the financial management team and the M&E expert be
+linked on these aspects. The proposed arrangement will be managed by the PCO
+under the oversight and guidance of MOAIWD.
+27. Flow of funds. IFAD and ASAP funds will flow into one designated account, from
+which they pass to the programme operational accounts. The MOFEPD Treasury will
+manage the designated account and the PCO the operational bank accounts. All
+accounts will be opened at a commercial bank satisfactory to IFAD. Any
+government agencies participating in PRIDE will be required to open a PRIDE-
+specific bank account to receive activity-tagged cash advances against approved
+AWP/Bs, to be retired before subsequent releases.
+28. Procurement. All procurement funded under the programme will be carried out in
+accordance with national procurement procedures to the extent they are consistent
+with IFAD’s 2010 Project Procurement Guidelines. Malawi’s legal and institutional
+framework for public procurements has been assessed as sufficiently robust.
+29. A procurement assessment of IRLADP operations was undertaken as part of the
+design of PRIDE and, as a result, a number of mitigation measures will be
+incorporated concerning bid registers, contract administration, engagement of the
+MOAIWD Internal Procurement Committee, and so forth. A procurement specialist
+in the PCO will ensure compliance with IFAD requirements and that procurement
+processes in practice are fully compliant with the legislative and regulatory
+framework.
+30. Governance. A governance and anti-corruption framework will be elaborated as
+part of the programme implementation manual during the first year of
+implementation. This will ensure transparency, accountability in the use of
+resources, and participation, i.e. that people have a voice in decisions that may
+affect them. Key features of the framework include: (i) inclusive targeting of
+women and disadvantaged households; (ii) participation of community
+representatives in local-level planning; (iii) community and participatory monitoring
+of programme activities; (iv) both internal and external audit of programme
+accounts and processes; (v) IFAD supervision and implementation support;
+(vi) reporting of results to the PSC and IFAD, with key information published on a
+programme website; and (vii) a grievance system.
+E.
+31.
+Supervision
+PRIDE will be directly supervised by IFAD jointly with the Government, with a focus
+on: (i) fiduciary aspects; (ii) achievements and the quality of programme
+implementation; and (iii) implementation support emphasizing environmental and
+climate assessment procedures. Supervision missions will normally be carried out
+2 Transparency International: 0 per cent means not corrupt and 100 per cent highly corrupt.
+5
+EB 2015/116/R.16/Rev.1
+twice a year. Timing of the missions will be coordinated with production of the six-
+monthly progress report, so that missions can gauge the situation at the same cut-
+off dates and thus provide an additional perspective on progress at PSC meetings.
+During the start-up phase, implementation support will be provided to assist in
+setting up adequate systems and to enhance technical capacities. Supervision will
+focus on the quality of institutional arrangements, including timely installation of a
+high-quality M&E system and creation of baselines.
+IV. Programme costs, financing, and benefits
+A. Programme costs
+32. Total programme costs are estimated at US$84 million, including price and physical
+contingencies, duties and taxes. The parameters underpinning these costs are: (i) a
+seven-year programme period, starting in 2016; (ii) price contingencies of 6 per
+cent, and physical contingencies of 3 per cent; (iii) local inflation set at 10 per cent,
+and foreign inflation set at 2 per cent; (iv) an exchange rate fixed at US$1 =
+440 Malawi kwacha (MK); and (v) the Government will waive duties, excises and
+taxes or will finance the cost of all taxes on goods procured under the programme.
+Taxes and duties are estimated at US$13 million of total programme costs.
+Component estimates are summarized in table 1.
+Table 1
+Programme costs by component and financier
+(Thousands of United States dollars)
+IFAD
+loan
+IFAD grant ASAP
+DFID
+Private
+sector
+Beneficiaries
+(in kind)
+Government
+Total
+Component
+Amount
+Amount
+Amount Amount Amount
+Amount
+Amount
+Amount
+I. Irrigation development and
+catchment management
+II. Agriculture and market
+linkages
+III. Programme management
+and coordination
+16 294
+17 736
+1 878
+-
+-
+7 283
+10 527
+53 718
+2 979
+7516
+4 984
+498
+3 000
+7210
+1 288
+201
+-
+-
+-
+-
+1 940
+20 918
+616
+9 314
+Total
+26 483
+26 540
+7 063
+498
+3 000
+7 283
+13 083
+83 950
+B. Programme financing
+33. The programme will be financed by a total IFAD contribution equivalent to some
+US$53 million in the form of 50 per cent loan and 50 per cent grant under the Debt
+Sustainability Framework (DSF); ASAP grant financing in an amount equivalent to
+about US$7.0 million; DFID financing of about US$0.5 million; private-sector
+financing of about US$3.0 million; a Government contribution of about
+US$13 million; and a contribution by beneficiaries of about US$7.3 million (in kind).
+The IFAD loan will be provided on highly concessional terms, including a 40-year
+maturity period, a 10-year grace period, and a 0.75 per cent annual service charge.
+34.
+IFAD will provide start-up funds from loan and DSF proceeds in the amount of
+US$560,000 to cover specified expenditures aimed at enhancing capacity for a
+quick start-up.
+6
+EB 2015/116/R.16/Rev.1
+Table 2
+Programme costs by expenditure category and financier
+(Thousands of United States dollars)
+Expenditure category
+Amount % Amount % Amount % Amount % Amount % Amount % Amount %
+Amount
+IFAD loan
+IFAD grant
+ASAP
+DFID
+Private sector
+Beneficiaries
+(in kind)
+Government
+Total
+1. Works
+2. Vehicles
+3. Equipment and materials
+4. Studies and consultancies
+5. Training
+6. Cofinancing
+7. Operations and
+maintenance
+8. Salaries and allowances
+Total
+-
+91
+13 906 31.1 13 906 31.1
+-
+4.0
+3 338 38.1
+5 685 58.4
+2 502 41.7
+565 70.0
+8.5
+195
+1 613 18.4
+1 031 10.6
+-
+-
+1 084 87.1
+8 087 77.6
+-
+9.8
+26 483 31.5 26 540 31.6
+-
+1 017
+2.3
+1 034
+-
+-
+1 397 61.2
+2 302 26.3
+1 405 14.4
+-
+-
+-
+925
+7 063
+-
+8.9
+8.4
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+498 8.3
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+3 000 50.0
+-
+6.9
+6 953 15.6 8 896 19.9
+242 30.0
+443 19.4
+- 1 506 17.2
+1.8 1 439 14.8
+-
+-
+157
+-
+172
+-
+-0
+-
+-
+-
+-
+-
+498 0.6
+-
+-
+3 000
+-
+-
+3.6
+-
+-
+7 283
+-
+-
+161 12.9
+3.8
+395
+8.7 13 083 15.6
+44 696
+808
+2 284
+8 760
+9 732
+6 000
+1 245
+10 425
+83 950
+C. Summary benefit and economic analysis
+35. The programme’s overall economic internal rate of return (EIRR) is estimated at
+20 per cent (base case), which is above the opportunity cost of capital in Malawi,
+estimated at 12 per cent.3 The EIRR is based on the assumption that 80 per cent of
+targeted farmers will adopt the GAP technology packages promoted by the
+programme and 90 per cent will be engaged in farming of irrigated land.
+36.
+PRIDE will generate financial benefits in the form of increased financial returns (net
+incomes) to about 17,500 smallholder households as direct beneficiaries of the
+programme. Social benefits will include a reduction in poverty rates in the
+programme area owing to expected increased financial returns (about 10-fold) from
+irrigated and improved rainfed agriculture, post-harvest technologies and improved
+employment opportunities.
+37. Other social benefits include improved nutrition and increased food security through
+diversification of crop production. PRIDE will strengthen the status of women
+through their economic and social empowerment. The main approach includes
+promotion of gender-balanced access to irrigated land, representation in WUAs and
+other farmers’ institutions, access to GAPs and cash-crop value chains.
+38. Better access to and use of weather information, irrigation and community-based
+approaches are expected to lead to sustainable land and water management. In
+conjunction with a higher degree of commercialization among farmers, PRIDE is
+expected to render smallholder farming systems more resilient and better-adapted
+to the effects of climate change.
+D. Sustainability
+39. Sustainability of the benefits generated and approaches will be ensured through a
+number of mechanisms. PRIDE embraces a clear strategy for horizontal and vertical
+scaling up, with identified pathways, key drivers and institutional space.
+40. Knowledge management will be central to information-gathering and learning. Key
+results and information will be communicated to the wider public for participation
+and to the Government for action in policy development. The focus on linking
+smallholders to market will be key, as irrigation investments will only remain
+profitable if commercialization of smallholder farming takes place. Farmers will
+manage the irrigation schemes through a proven institutional set-up involving
+WUAs and consultative planning. These institutions are expected to remain and
+become the main development engine, as is the commercialization approach. Land
+consolidation will be practised using existing procedures and involving community
+3 World Bank: Average deposit interest rate paid by commercial or similar banks in Malawi.
+7
+EB 2015/116/R.16/Rev.1
+organizations and the Government. The dynamics will be analysed in annual
+studies.
+41. Environmental and social sustainability will be achieved through implementation of
+specific environmental and social management plans and necessitates resettlement
+plans based on the assessments and frameworks adopted by the Government.
+These frameworks will ensure that potential environmental and social impacts or
+required resettlement actions be identified and addressed accordingly, before the
+related irrigation schemes are constructed.
+E. Risk identification and mitigation
+42. Risk management will include adoption of mitigation measures and their
+monitoring. Delayed programme start-up has been a common feature in the past.
+Preparation of the implementation manual and a start-up plan aim to counteract
+potential delays. By programme start-up, the action plan will be agreed and
+earmarked funding will enable staff training and the purchase of equipment.
+Another key risk is slow registration of WUAs. The registration process has been
+placed in the start-up phase to complete the process before construction begins.
+43.
+PRIDE will recruit from both the public and private sector to avoid gaps in staffing
+and to obtain the best skill levels. A critical risk involves follow-up on environmental
+safeguards. In line with IFAD’s 2015 Social, Environmental and Climate Assessment
+Procedures (SECAP), a full assessment was carried out during design, leading to the
+Environmental and Social Management Framework and a Resettlement Action
+Framework. These frameworks will guide the impact assessments, to be executed
+during implementation, but prior to construction of the irrigation schemes. The PCO
+will host an environmental coordinator to monitor needed actions in line with
+Environment and Social Management Plans and Resettlement Action Plans.
+44. The establishment of irrigated command areas will require a redistribution of land.
+PRIDE will benefit from the processes and experience of IRLADP. At scheme
+development, farmers will be provided equitable access to land. Any agreements
+will be subject to free, prior and informed consent by the affected parties, and will
+include compensation for any loss of land and assets due to irrigation development.
+A grievance mechanism will ensure the possibility of recourse following decisions.
+45. Risks related to financial management include: (i) flow of funds is delayed due to
+poor management of the designated account located within the Reserve Bank of
+Malawi; (ii) MOAIWD capacity for internal audit is limited; and (iii) submission of
+audit reports is delayed. The following mitigation measures will be established:
+(i) the designated account will be located at a commercial bank; (ii) internal audit
+will be outsourced; and (iii) the Auditor General has agreed to ensure timely
+submission of audit reports.
+V. Corporate considerations
+Compliance with IFAD policies
+A.
+Programme design is compliant with the main IFAD policies and strategies. SECAP
+46.
+has classified PRIDE as category A. In line with SECAP, as mentioned above, an
+Environmental and Social Management Framework and a Resettlement Action
+Framework were developed during design and adopted by the Government. They
+specify the next steps in terms of environmental and social impact assessments and
+follow-up actions. PRIDE is compliant with IFAD’s Natural Resources Management
+Policy and Climate Change Strategy. Climate-change adaptation measures are
+integrated into programme activities to address climate risks and the potential
+multiplication of effects, such as damage to landscapes and infrastructure.
+47. Strategies for gender mainstreaming and targeting mechanisms have been
+incorporated into programme design in accordance with the IFAD Policy on Gender
+Equality and Women’s Empowerment and the IFAD Targeting Policy. PRIDE will be
+8
+EB 2015/116/R.16/Rev.1
+implemented respecting IFAD’s Policy on Improving Access to Land and Tenure
+Security, the Voluntary Guidelines on the Responsible Governance of Tenure of
+Land, Fisheries and Forests and the Framework and Guidelines for Land Policy in
+Africa. Before supporting any intervention that might affect land access and use
+rights of communities, the programme will ensure that their free, prior and
+informed consent has been solicited through inclusive consultations based on full
+disclosure of the intent and scope of the activities planned and their implications.
+Alignment and harmonization
+PRIDE is fully in harmony with MGDS II, which defines water development as a key
+strategic area. Under this strategy, the IMPIF plans and coordinates interventions in
+irrigation funded by IFAD and other donor agencies. PRIDE is also aligned with the
+Government's Climate Change Investment Plan and will contribute to two
+adaptation programmes: (i) strengthening catchment area and soil and water
+conservation management; and (ii) improving community resilience through
+agricultural production. PRIDE will coordinate fully with the ASWAp to ensure full
+alignment with government investments and policies. The programme is fully
+supported by the donor group on food agriculture and food security in Malawi.
+Innovations and scaling up
+PRIDE complements RLEEP and SAPP in the current IFAD country programme in
+Malawi. It will build on and scale-up the successes of IRLADP and other irrigation
+projects in terms of adopting innovative approaches that ensure full community
+participation and promote equitable land access.
+PRIDE, itself, aims to serve as a model to be scaled up in Malawi and elsewhere.
+The potential for scaling up seems good, as pathways are in place – such as policy
+engagement. For example, an integrated natural resources management policy
+framework has been established, and the government policy on WUAs is conducive
+to participatory planning. Key drivers for scaling up include financial and fiscal
+space. The Government is committed to funding operations and maintenance for
+larger rehabilitation works, and it will be the responsibility of WUAs to carry out
+regular maintenance of the schemes. WUAs and other grass-roots organizations
+represent the institutional space, an approach that has been successful in IRLADP.
+PRIDE will be equipped with a strong M&E and knowledge management system to
+deliver the information needed for successful scaling up of its approach and to
+render it a sustainable investment.
+In terms of innovation, PRIDE will support the newly established irrigation window
+of the Malawi Innovation Challenge Fund, funded by DFID and UNDP. It is expected
+that the private sector will form a consortium to provide modern irrigation
+technologies and marketing channels to smallholder farmers.
+Policy engagement
+Policy engagement is expected for compliance with environmental and social
+safeguards, impact assessments, land tenure and the building of climate resilience.
+The registration and full recognition of WUAs as key institutions is critical to the
+success of PRIDE. The same applies to policies regarding GAPs and extension. The
+mainstreaming of improved nutrition has become a key issue for IFAD. Dialogue on
+these topics will take place at all levels – from community to national – to review
+compliance, gather lessons learned and refine existing regulations.
+B.
+48.
+C.
+49.
+50.
+51.
+D.
+52.
+VI. Legal instruments and authority
+53. A programme financing agreement between the Republic of Malawi and IFAD will
+constitute the legal instrument for extending the proposed financing to the
+borrower/recipient. A copy of the negotiated financing agreement is included in
+appendix I.
+54. The Republic of Malawi is empowered under its laws to receive financing from IFAD.
+9
+EB 2015/116/R.16/Rev.1
+55.
+I am satisfied that the proposed financing will comply with the Agreement
+Establishing IFAD and the Policies and Criteria for IFAD Financing.
+VII. Recommendation
+56.
+I recommend that the Executive Board approve the proposed financing in terms of
+the following resolutions:
+RESOLVED: that the Fund shall provide a loan on highly concessional terms to
+the Republic of Malawi in an amount equivalent to nineteen million three
+hundred thousand special drawing rights (SDR 19,300,000) (approximately
+US$26.48 million), and upon such terms and conditions as shall be
+substantially in accordance with the terms and conditions presented herein.
+RESOLVED FURTHER: that the Fund shall provide a DSF grant to the Republic
+of Malawi in an amount equivalent to nineteen million three hundred and fifty
+thousand special drawing rights (SDR 19,350,000) (approximately US$26.54
+million), and upon such terms and conditions as shall be substantially in
+accordance with the terms and conditions presented herein.
+RESOLVED FURTHER: that the Fund shall provide an ASAP grant to the
+Republic of Malawi in an amount equivalent to five million one hundred and
+fifty thousand special drawing rights (SDR 5,150,000) (approximately
+US$7.06 million), and upon such terms and conditions as shall be
+substantially in accordance with the terms and conditions presented herein.
+Kanayo F. Nwanze
+President
+10
+Appendix I
+EB 2015/116/R.16/Rev.1
+Negotiated financing agreement:
+"Programme for Rural Irrigation Development (PRIDE)"
+(Negotiations concluded on 2 December 2015
+IFAD Loan Number: [click and insert number]
+IFAD DSF Grant Number:[click and insert number])
+ASAP Trust Grant Number: [click and insert number]
+Programme Title: Programme for Rural Irrigation Development (“the Programme”)
+The Republic of Malawi (the “Borrower/Recipient”)
+and
+The International Fund for Agricultural Development (the “Fund” or “IFAD”)
+and
+The Adaptation for Smallholder Agriculture Programme Trust Fund (”the ASAP Trust”)
+(each a “Party” and the three of them collectively the “Parties”)
+hereby agree as follows:
+Section A
+The following documents collectively form this Agreement: this document, the
+1.
+Programme Description and Implementation Arrangements (Schedule 1), the Allocation
+Table (Schedule 2), and the Special Covenants (Schedule 3).
+The Fund’s General Conditions for Agricultural Development Financing dated
+2.
+29 April 2009, amended as of April 2014, and as may be amended from time to time (the
+“General Conditions”) are annexed to this Agreement, and all provisions thereof shall
+apply to this Agreement and all references to "Project" in the General Conditions shall
+apply to the Programme. For the purposes of this Agreement the terms defined in the
+General Conditions shall have the meanings set forth therein.
+The Fund shall provide a Loan and a DSF Grant and the ASAP Trust shall provide an
+3.
+ASAP Trust Grant to the Borrower/Recipient (collectively referred to as “the Financing”),
+which the Borrower/Recipient shall use to implement the Programme in accordance with
+the terms and conditions of this Agreement.
+Section B
+1
+A.
+B.
+C.
+The amount of the IFAD Loan is SDR 19.30 million (USD 26.5 million).
+The amount of the IFAD DSF Grant is SDR 19.35 million (USD 26.5 million).
+The amount of the ASAP Trust Grant is SDR 5.15 million (USD 7 million).
+1
+Appendix I
+EB 2015/116/R.16/Rev.1
+The Loan shall be free of interest but bear a service charge of three fourths of one
+2.
+percent (0.75 per cent) per annum and have a maturity period of forty (40) years
+including a grace period of ten (10) years starting from the date of approval of the Loan
+by the Fund’s Executive Board.
+3.
+4.
+The Loan Service Payment Currency shall be US dollars.
+The first day of the applicable Fiscal Year shall be the first of July.
+Payments of principal and service charge shall be payable on each first of May and
+5.
+first of November.
+There shall be one Designated Account (DA) operated by the Ministry of Finance,
+6.
+Economic Planning and Development (MoFEPD) for all of the Financing opened in a
+commercial bank acceptable to the Fund and the Government.
+The Borrower/Recipient shall provide counterpart financing for the Programme in an
+7.
+amount equivalent to approximately thirteen million United States Dollars
+(USD 13 million), mainly in the form of exemption of duties and taxes in accordance with
+the approved Annual Work Plan and Budget (AWPB). The beneficiaries will contribute, in
+kind, to the Programme in an amount equivalent to approximately seven million two
+hundred thousand United States Dollars (USD 7.2 million).
+Section C
+1.
+The MoFEPD will formally represent the Borrower/Recipient.
+The Lead Programme Agency (LPA) shall be the Department of Irrigation (DoI)
+2.
+within the MoAIWD.
+The Programme Completion Date shall be the seventh anniversary (7th) of the date
+3.
+of entry into force of this Agreement.
+Section D
+The Financing will be administered and the Programme supervised by the Fund.
+Section E
+The following are designated as additional grounds for suspension of this
+1.
+Agreement:
+(a)
+(b)
+key Programme staff have been appointed, transferred or removed from the
+Programme without the prior consent of the Fund as referred to schedule 1
+section II paragraph A 5.1;
+the Programme Implementation Manual (PIM) referred to under schedule 1
+section II paragraph D hereof, or any provision thereof, has been waived,
+suspended, terminated, amended or modified without the prior consent of the
+Fund, and the Fund has determined such waiver, suspension, termination
+amendment or modification has had, or is likely to have, a material adverse
+effect on the Programme.
+2
+Appendix I
+EB 2015/116/R.16/Rev.1
+The following are designated as additional general conditions precedent to
+2.
+withdrawal:
+(a) The Programme Coordination Office (PCO) shall have been duly established
+and key Programme management positions shall have been filled by
+personnel acceptable to IFAD, in accordance with schedule 1 section II
+paragraph A (5) to this Agreement,
+(b) The Borrower/Recipient shall have established a Programme Steering
+Committee (PSC) as referred to under schedule 1 section II paragraph A(3) to
+this Agreement,
+(c) An off-the-shelf accounting software shall have been duly procured, installed
+and implemented in accordance with a comprehensive chart of accounts
+satisfactory to the Fund;
+(d) The Borrower/Recipient shall have prepared a draft PIM in form and substance
+satisfactory to the Fund.
+3
+The following is designated as additional general condition precedent to withdrawal
+for category 5 “Grants and Subsidies” schedule 2, only: a subsidiary agreement between
+the Borrower/Recipient and the United Nations Development Programme (UNDP) shall
+have been established, satisfactory to the Fund, to finance the Malawi Innovation
+Challenge Fund (MICF) as referred to in schedule 1 component 2.2.
+In accordance with the Borrower/Recipient's legislation, the Financing Agreement
+4
+will be signed by a representative of the Borrower/Recipient upon authorization by the
+Parliament of the Republic of Malawi.
+The following are the designated representatives and addresses to be used for any
+5
+communication related to this Agreement:
+For the Fund:
+President
+International Fund for Agricultural Development
+Via Paolo di Dono 44
+00142 Rome, Italy
+For the Borrower/Recipient:
+Secretary to the Treasury
+Ministry of Finance, Economic
+Planning and Development
+P.O. Box 30049
+Capital City, Lilongwe 3
+Malawi
+For the Adaptation for Smallholder Agriculture Programme Trust Fund
+President of the International Fund
+for Agricultural Development in its capacity as Trustee
+of the Adaptation for Smallholder Agriculture Programme Trust Fund
+Via Paolo di Dono 44
+00142 Rome, Italy
+3
+Appendix I
+EB 2015/116/R.16/Rev.1
+This agreement, dated [click and type], has been prepared in the English language in two
+(2) original copies, one (1) for the Fund and the ASAP Trust and one (1) for the
+Borrower/Recipient.
+REPUBLIC OF MALAWI
+(Authorized Representative)
+INTERNATIONAL FUND FOR
+AGRICULTURAL DEVELOPMENT
+Kanayo F. Nwanze
+President
+ADAPTATION FOR SMALLHOLDER AGRICULTURE
+PROGRAMME TRUST FUND
+Kanayo F. Nwanze
+President of the International Fund
+for Agricultural Development in its capacity as Trustee
+of the Adaptation for Smallholder Agriculture Programme
+Trust Fund
+4
+Appendix I
+EB 2015/116/R.16/Rev.1
+Schedule 1
+Programme Description and Implementation Arrangements
+Section I. Programme Description
+Target Population. The Programme will be implemented in two regional clusters in
+1.
+the Northern and Southern regions of Malawi (the “Programme Area”). The selected areas
+would include approximately 5,200 hectares of irrigated land, and approximately
+12,300 hectares of rain-fed land. The Programme will target the poor smallholder farmers
+of the villages associated with each irrigation scheme, and within this group a specific
+focus will be placed on women and female-headed households and youth.
+An estimated 19,500 smallholder households live in the Programme area, of which a total
+of 17,500 households representing 87,500 persons are assumed to directly benefit from
+the Programme’s interventions.
+Goal. The Programme’s goal is to enhance the resilience of rural communities to
+2.
+food insecurity, the effects of climate change and economic shocks.
+Objective. The Programme’s objective is that smallholder farmer households
+3.
+increase their income and improve their nutrition through sustainable agricultural
+production.
+4.
+Components. The Programme shall consist of the two following Components:
+Component 1: Irrigation development and catchment management. The
+objective of this component is to develop climate-resilient land and water management
+systems for smallholder households on both rain-fed and irrigated land.
+Sub-component 1.1: Land and Water Governance
+The Programme will support the preparation for and management of about
+15 irrigation schemes, through (i) preparation of investment agreements with the
+targeted communities, and (ii) the establishment and strengthening of Water user
+associations (WUAs) for the management, operation and maintenance of the
+irrigation schemes for appropriate land and water governance. These measures will
+be co-funded by the ASAP Trust Grant.
+Sub-component 1.2: Irrigation System Development
+The Programme will support the establishment of irrigation schemes, including the
+use of water storage for the cultivation of a second and third annual crop, and to
+enhance agricultural productivity in smallholder farms.
+Sub-component 1.3: Soil and Water Conservation
+The Programme will support the restoration of soil cover on vulnerable grounds,
+erosion control, reforestation of slopes and protection of river buffer zones. These
+measures will be co-funded by the ASAP Trust Grant.
+Component 2: Agriculture and market linkages. The objective of this component is
+to promote environmentally and economically sustainable agricultural production systems
+to be adopted by smallholder households on both rain-fed and irrigated lands.
+5
+Appendix I
+EB 2015/116/R.16/Rev.1
+Sub-Component 2.1: Good Agricultural Practices
+The Programme will support the efficient knowledge transfer to smallholder farmers
+through trials and demonstrations, combined with better information from the
+private sector on market potential and opportunities. The component will promote
+climate-smart good agricultural practices (GAPs), including the use of weather and
+climate information services, irrigation optimization, application of integrated pest
+management, and reduction of post-harvest losses. The Programme will also
+support adaptive research on GAPs and adaptive mechanisation in smallholder
+farms. These measures will be co-funded by the ASAP Trust Grant.
+Sub-Component 2.2: Market Linkages
+The Programme will promote market linkages through value chain analyses to
+identify the suitable crops, provide farmer training mainly through farmer business
+schools, promote farmer groups and commodity platforms to gather all actors in a
+value chain. A value chain start-up facility will promote specific investments that
+help improve the value chain.
+The Malawi Innovation Challenge Fund (MICF) is currently managed by the United
+Nations Development Programme (UNDP) and the Department for International
+Development (DFID). The Programme will pilot a dedicated irrigation window under
+the MICF with the private sector, where the latter will provide farmers with modern
+irrigation equipment such as drip irrigation and facilitate marketing of their
+produce.
+Sub-Component 2.3: Mainstreaming Nutrition
+The Programme will mainstream nutrition in most of its activities such as the choice
+of crops or value chain commodities and support with the following measures: (i)
+integrating a nutrition perspective in all GAPs promoted; (ii) promoting diversified
+and improved nutritional production and consumption (integrated homestead food
+production); and (iii) supporting the introduction of improved cooking stoves
+combined with nutrition education. The Programme will support extension and
+training on nutrition and may engage other service providers to complement the
+capacity of the government system. These measures will be co-funded by the ASAP
+Trust Grant.
+Section II. Implementation Arrangements
+A.
+Programme management
+1.
+The Ministry of Finance, Economic Planning and Development (MoFEPD)
+The MoFEPD will be responsible for the financing and the monitoring and evaluation of the
+Programme, more specifically for the (i) receipt and disbursement of funds from IFAD;
+and (ii) monitoring budget performance.
+2.
+The Lead Programme Agency (LPA)
+The LPA shall be the DoI within the MoAIWD, which shall have to coordinate the
+Programme activities. The DoI shall oversee the day to day coordination of programme
+activities.
+6
+Appendix I
+EB 2015/116/R.16/Rev.1
+3.
+Programme Steering Committee (PSC)
+3.1 Composition. The PSC shall be composed of senior representatives of concerned
+Ministries, including the MoAIWD and the Agriculture Sector Wide Approach, the Ministry
+of Local Government and Rural Development (MoLGRD), the Ministry of Lands, Housing
+and Urban Development, the Ministry of Natural Resources, Environment and Mining; and
+chaired by the MoFEPD.
+3.2 Responsibilities. The PSC shall provide the strategic oversight of the Programme
+ensure alignment of the Programme with ongoing programmes and activities, as detailed
+in the PIM, including (i) provide strategic guidance to the Programme management;
+(ii) have a fiduciary responsibility to ensure the eligibility of Programme expenditures;
+(iii) approve the AWPB and Procurement Plan, financial and technical progress reports;
+(iv) initiate follow-up actions on lessons and findings from the Programme; and
+(v) establish an audit and oversight committee that will review and report to the PSC any
+matter raised by the auditors/or other reviews.
+4.
+Technical Advisory Team
+4.1 Composition. The Technical Advisory Team will represent the departments
+concerned with the programme implementation, including the Department of Land
+Resources, Extension, Research (under MoAIWD), as well as the Department of Land
+(under Ministry of Lands, Housing and Urban Development), the Environmental Affairs
+Department (under Ministry of Natural Resources, Environment and Mining), the Debt
+and Aid Department (under MoFEPD), and others as needed. The Technical Advisory
+Team shall be chaired by a senior representative of the LPA.
+4.2 Responsibilities. The Technical Advisory Team will assist the PCO through technical
+guidance and oversight of the Programme.
+The Technical Advisory Team will report regularly to the PSC and PCO and will meet at
+least twice a year before the PSC meeting.
+5.
+Programme Coordination Office (PCO)
+5.1 Composition. The PCO is staffed by highly qualified personnel recruited from
+government or from the labour market. Recruitment of key staff shall require prior
+consent from the Fund. The PCO key staff shall include a Programme Coordinator, a
+Procurement specialist, a Financial Management specialist, an Environmental Coordinator,
+and a specialist for Planning, Monitoring, Evaluation and Knowledge Management.
+Additional staff in the PCO shall include a Water User Association specialist, a Gender and
+Targeting specialist, an Irrigation Engineer, an Agricultural Extension specialist and a
+Value Chain specialist. Separate facilitation offices staffed by one coordinator each will be
+established in the northern and southern regions.
+5.2 Responsibilities. The PCO is responsible for overall Programme implementation and
+coordination, including, inter alia: (i) preparation of AWPB; (ii) financial management;
+(iii) procurement; (iv) Programme monitoring and evaluation; (v) knowledge
+management; (vi) preparation and consolidation of Statement of Expenditures, financial
+statements and withdrawal application; (vii) Programme reporting; (viii) coordination of
+all Programme implementation partners; and (ix) ensure the Environmental and Social
+Management Framework (ESMF) and, the Resettlement Action Framework (RAF) are
+adhered to in the development of each Environmental and Social Impact Assessment
+(ESIA) and Resettlement Action Plan (RAP) for the irrigation schemes including obtaining
+the free, prior and informed consent of the target beneficiaries.
+7
+Appendix I
+EB 2015/116/R.16/Rev.1
+B.
+Programme coordination
+57. At scheme cluster and village level. The Programme will coordinate its entry in an
+area with traditional authorities and with existing structures such as the Village
+Development Committees (VDC). The traditional authorities and VDCs, shall provide
+oversight for the activities under the Programme and involving communities. A Combined
+Village Committee (CVC) shall engage at the initiation stage and in reviewing Programme
+progress. The CVC shall interact with WUAs, representing all households benefitting from
+the irrigation system. The WUA supervision committee will liaise with the contractor to
+maintain irrigation activities during the construction period and expediting completion of
+the works. The WUAs will participate in construction supervision and final certification,
+and be trained to monitor the construction activities, identify and resolve problems which
+may arise.
+58. All plans developed at the village level will be submitted through the Area
+Development Committee (ADC) to the District Executive Committee for approval and will
+provide the basis for preparing the annual work plan and budget.
+59. At regional level. The scheme cluster areas are concentrated in a northern and a
+southern hub. The Programme will facilitate the services of agencies represented there;
+and may engage additional service providers as needed. The PCO will closely collaborate
+with local offices of MoAIWD and district coordination structures of MoLGRD.
+C.
+Programme planning, monitoring and evaluation, supervision
+1.
+Planning. The main planning tools for the Programme comprise the logical
+framework combined with the overall programme budget, and the AWPB. Every year, a
+decentralised, inclusive and demand-driven planning process will be undertaken to
+develop the AWPB. The consolidated AWPB will be presented to the PSC for approval and
+submitted to IFAD for concurrence. Implementation of the AWPB will be monitored
+through the Programme’s Monitoring and Evaluation (M&E) system along semi-annual
+reports.
+Monitoring and Evaluation. The Programme M&E will be built around IFAD’s results
+2.
+and impact management system (RIMS). The Programme will conduct baseline and
+follow-up surveys combining the collection of basic demographic and socio-economic data
+with application of multidimensional poverty assessment tool. The latter will assist
+tracking changes in resilience to climate change. The baseline and follow-up surveys will
+employ the women empowerment in agriculture index, which measures the changes in
+women’s empowerment levels as a result of an intervention. In addition, the PCO will be
+responsible for the monitoring of the Environmental and Social Management Plan
+(ESMP)/RAP implementation for each irrigation scheme.
+Learning and sharing knowledge. Will be based on the Programme’s M&E system
+3.
+and supported by the Knowledge Management specialist particularly on reviews and
+participatory assessments of lessons learned during implementation. These will translate
+into factsheets that will contribute to the wider policy debate in the smallholder
+agriculture sector. Dissemination will take place through the Programme’s and MoAIWD
+websites or relevant institutions such as research agencies, and results will be presented
+at national workshops on key programme themes.
+Supervision. Supervision and implementation support missions shall normally be
+4.
+carried out twice a year. The Borrower/Recipient shall conduct mid-term review towards
+the third year of Programme implementation period in accordance with the Terms of
+Reference to be agreed by the Fund and the Borrower/Recipient.
+8
+Appendix I
+EB 2015/116/R.16/Rev.1
+D.
+Programme Implementation Manual (PIM)
+The Programme shall be implemented in accordance with the approved AWPB and
+Procurement Plan and the PIM, the terms of which shall be adopted by the LPA subject to
+the Fund's prior approval. The PIM shall include, among other things: (i) terms of
+reference, implementation responsibilities and appointment modalities of all Programme
+staff and consultants; (ii) Programme operating manuals and procedures; (iii) monitoring
+and evaluation systems and procedures; (iv) a detailed description of implementation
+arrangements for each Programme component with special reference to the ESMF/ RAF
+and the ESIAs/RAPs that will be required; (v) modalities for the selection of service
+providers to be based on transparent and competitive processes; (vi) financial
+management and reporting arrangements including accounting, approval of payments,
+financial reporting, internal controls, fixed asset management, as well as internal and
+external audit; and (vii) the good governance and anti-corruption framework.
+9
+Appendix I
+EB 2015/116/R.16/Rev.1
+Schedule 2
+Allocation Table
+Allocation of IFAD Loan and DSF Grant and ASAP Trust grant Proceeds. (a) The Table
+1.
+below sets forth the Categories of Eligible Expenditures to be financed by the IFAD Loan
+and DSF Grant and the ASAP Trust Grant and the allocation of the amounts of the IFAD
+Loan, and DSF Grant and the ASAP Trust Grant to each Category and the percentages of
+expenditures for items to be financed in each Category:
+Category
+IFAD Loan
+Amount
+Allocated
+(expressed in
+SDR)
+IFAD DSF Grant
+Amount Allocated
+(expressed in
+SDR)
+ASAP Trust Grant
+Amount Allocated
+(expressed in
+SDR)
+Percentage
+1. Works
+9 120 000
+9 120 000
+680 000
+100%
+2. Equipment and
+Materials
+500 000
+60 000
+920 000
+100%
+3. Consultancies
+1 060 000
+2 190 000
+1 510 000
+100%
+4. Trainings
+680 000
+3 730 000
+920 000
+100%
+5. Grants and
+Subsidies
+6. Salaries and
+Allowances
+-
+1 640 000
+-
+100%
+6 010 000
+670 000
+610 000
+100%
+Unallocated
+1 930 000
+1 940 000
+510 000
+TOTAL
+19 300 000
+19 350 000
+5 150 000
+(b)
+The terms used in the Table above are defined as follows:
+(i)
+All the above amounts are net of taxes, and Borrower/Recipient and
+beneficiaries contributions;
+(ii)
+“Equipment and Materials” includes Vehicles;
+(iii)
+“Consultancies” includes Studies;
+(iv)
+“Salaries and Allowances” includes Operations and Maintenance;
+(v)
+“Grants and Subsidies” includes contributions for the Malawi Innovation
+Challenge Fund with DFID/UNDP.
+Start-up Costs. Withdrawals in respect of expenditures for start-up costs incurred
+2.
+in accordance with the provisions of the Programme Design Report before the satisfaction
+of the General Conditions precedent to withdrawal but after the date of entry into force
+shall not exceed an aggregate amount of SDR 408 113 (equivalent to USD 560 000).
+10
+Appendix I
+EB 2015/116/R.16/Rev.1
+Schedule 3
+Special Covenants
+In  accordance  with  Section  12.01(a)(xxiii)  of  the  General  Conditions,  the  Fund  may
+suspend, in whole or in part, the right of the Borrower/Recipient to request withdrawals
+from the Financing Accounts if the Borrower/Recipient has defaulted in the performance
+of any covenant set forth below, and the Fund has determined that such default has had,
+or is likely to have, a material adverse effect on the Programme:
+1.
+Gender. The Borrower/Recipient shall develop a gender strategy for the
+Programme to ensure that gender concerns shall be mainstreamed in all Programme
+activities throughout the implementation period, in order to offer equal opportunities
+under the Programme to men, women, women headed households, youth and other
+disadvantaged groups.
+Counterpart Funds. The Borrower/Recipient shall ensure that counterpart funds
+2.
+are clearly identifiable in the financial management system and all financial statements.
+Land and Water Access. The Borrower/Recipient shall ensure that smallholder
+3.
+farmers have full access to land and water as per Land and Water Agreements agreed
+upon under the Programme. A prerequisite to the signature of such agreements shall be
+the prior formal establishment of the WUAs.
+Environmental and Social Due Diligence. The Borrower/Recipient assures that the
+4.
+ESMF and RAF as required by IFAD’s Social, Environmental and Climate Assessment
+Procedures (SECAP) have been adopted and that the Programme will be carried out in
+accordance with the aforementioned documents.
+The Borrower/Recipient shall ensure that prior to carrying out any construction of
+irrigation facilities and related items, a full ESIA/ESMP and a RAP, will be duly completed,
+where it is required, with adequate budget for their implementation, so that to confirm
+the full social and environmental sustainability of the construction foreseen.
+Implementation. The Programme will be implemented in compliance with the main
+5.
+IFAD policies, strategies and procedures, inter alia, with (i) IFAD's Natural Resources
+Management Policy, Climate Change Strategy and SECAP, (ii) IFAD’s Policy on Improving
+Access to Land and Tenure Security, and other policy tools such as (i) the Voluntary
+Guidelines on the Responsible Governance of Tenure of Land, Fisheries and Forests; and
+(ii) the Framework and Guidelines for Land Policy in Africa. Before supporting any
+intervention that might affect the land access and use rights of communities, the
+Programme will ensure that their free, prior and informed consent has been solicited
+through inclusive consultations based on full disclosure of the intent and scope of the
+activities planned and their implications.
+Environmental Audit. The development of measures to mitigate social and
+6.
+environment impacts and the implementation will be reported upon annually and the
+report will be subject to an independent annual audit that will be submitted to IFAD and
+the PSC.
+Transparency. The Terms of Reference of the external audit shall include a specific
+7.
+review of IT control system financial reporting.
+To be tabled at the session.
+11
+Logical framework
+Results Hierarchy
+Key Performance Indicators
+Goal
+Rural communities are
+resilient to food
+insecurity-, climate
+change4 and economic
+risks
+Baseline
+tbd
+Name
+ Reduction in child malnutrition,
+measured by the incidence of
+wasting (RIMS level III)
+Improvement in household assets
+ownership index (RIMS Level III)*
+ Smallholder households supported
+in coping with the effects of
+climate change (RIMS 1.8.5)
+measured by the number of
+households applying climate-smart
+agricultural practices*
+End Target
+ 20% reduction
+ 15,000
+households with
+a 20%
+improvement
+ 17,5000
+smallholder
+households
+Source
+ Baseline surveys
+and RIMS
+surveys, MPAT
+surveys
+ Same
+ Programme
+records
+Assumptions
+Responsibility
+ PCO/DOI
+Means of
+Verification
+Frequency
+ Project start,
+mid-term and
+completion
+same
+ Semi -annually
+Project Development
+Objective:
+Smallholder farmer
+households enhance
+income and nutrition
+through sustainable
+agricultural production
+ Smallholder farmer households
+receiving project services (RIMS
+1.8.1), differentiated by gender of
+the household and wealth class
+ Smallholder farmers with
+ Nil
+tbd
+ Nil
+increased income of at 3 fold
+(rainfed only) and 8 fold
+(irrigation/rainfed)*
+ Smallholder households reporting
+decreased incidence of hunger
+periods, measured by number of
+meals per day and by increased
+dietary diversity *
+ Effectiveness: farmers with
+secured access to land and water
+(RIMS 2.1.2)
+Incremental hectares of crops in
+irrigated land throughout seasons.
+1
+2
+Outcome 1:
+Smallholder households
+sustainably operate
+climate-resilient land and
+water management
+systems on both rainfed
+and irrigated lands
+(refers to ASAP outcome
+#1)
+Outputs:
+ 17,5000
+smallholder
+farmer
+households
+ 11,000
+smallholder
+farmers
+ 17,5000
+smallholder
+households
+ Programme
+ Semi-annual
+ PCO/DOI
+progress reports
+ Baseline surveys
+ Every 2 years
+and RIMS
+surveys, MPAT
+surveys
+ same
+ same
+No major impact of
+climate shocks ;
+Policies remain
+conducive to
+agriculture;
+Market prices remain
+favourable or at least
+stable
+ Nil
+ Nil
+ 15,700 farmers
+ 5,200 ha
+ Tracer studies
+on land and
+water access
+land use survey
+year 3, 5, 7
+ PCO/DOI
+Allocation of land and
+water to smallholder
+farmers is secured and
+reliable over longer
+periods
+ WUA managing infrastructure
+ nil
+ 15 WUA
+ WUA records /
+annually
+PCO/DOI
+Registration of 15
+4 In PRIDE, resilience to effects of climate change will be measured by households having access to irrigated land, cultivate at least 3 different crops (diversification) and apply good agriculture
+practise including soil improvement techniques.
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+5
+/
+1
+1
+6
+/
+R
+.
+1
+6
+/
+R
+e
+v
+.
+1
+
+
+
+
+
+
+Communities
+1.1
+effectively manage their
+land and water
+management systems
+formed or strengthened (RIMS
+1.1.2)
+tracer study
+land tenure
+Medium-sized
+1.2
+irrigation systems (50-
+1000 ha) established
+ Land under irrigation from
+rehabilitated or newly constructed
+schemes (RIMS 1.1.5)
+ Land consolidation and tenure
+arrangements completed
+ Nil
+ Nil
+ 5,200 ha
+ 5,200 ha
+ Annual land use
+survey
+ WUA records /
+tracer study
+land tenure
+Upon hand over of
+complete scheme
+ PCO/DOI
+1.3
+Erosion-affected
+and vulnerable rainfed
+land recovered
+Outcome 2:
+Environmentally and
+economically sustainable
+agricultural production
+systems adopted by
+smallholder households
+on both rainfed and
+irrigated lands
+Outputs:
+1
+3
+ Extent of land with rehabilitated or
+ Nil
+ 1,000 ha
+ Annual land use
+restored ecosystem services
+(RIMS 1.1.17)
+survey
+Upon hand over of
+complete scheme
+ PCO/DOI
+ Baseline
+ Baseline
+ 17,5000 farmers
+ 17,5000 farmers
+ HH sample
+surveys
+ Every 2 years
+ PCO/DOI
+ Farmers report yield increase (>
+20% above baseline) from
+improved rainfed agricultural
+production (RIMS 2.2.2)*
+ Farmers report adoption of
+recommended climate smart Good
+Agricultural Practices
+2.1
+Smallholder
+farmers trained on good
+agricultural practices on
+rainfed and irrigated land
+ People trained in crop production
+practices and technologies (RIMS
+1.2.2) specified for lead farmers
+and FSS attendants*
+Smallholder
+2.2
+farmers linked to
+improved markets
+Smallholder
+2.3
+households improve
+nutritional intake
+ Smallholder farmers trained in
+production, post –production,
+processing and marketing (RIMS
+1.4.1) *
+ Women trained in preparation of
+nutritious meals in 2 seasons*
+ Nil
+ 780 lead farmers
+and 15,000 FFS
+members
+ Programme
+ Semi-annually
+ PCO/
+reports
+MOAIWD
+ Nil
+ 17,500 farmers
+ Programme
+Semi-annually
+ PCO/DOI
+reports
+ MICF reports
+ Nil
+ 15,000 women
+ Programme
+Semi-annually
+PCIO/DOI
+reports
+Water Users’
+Associations is
+facilitated by the
+concerned agency
+Government is able to
+assist WUAs affected
+by extreme events in
+recovering their
+system’s functionality
+No major delays /
+implementation
+bottlenecks;
+Unit costs are kept
+within USD 7,800 per
+hectare
+GOM policies re
+catchment natural
+resources benefit the
+scheme cluster areas
+Access to financial
+services and revenues
+from /services of
+markets enable
+intensification of
+smallholder agriculture
+GOM capacity can be
+complemented by
+mobilisation of private
+sector service providers
+PRIDE successfully
+engages all target
+group segments in
+programme activities
+PRIDE successfully
+includes women and
+youth in leading roles
+in WUAs, FFS, etc.
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+5
+/
+1
+1
+6
+/
+R
+.
+1
+6
+/
+R
+e
+v
+.
+1

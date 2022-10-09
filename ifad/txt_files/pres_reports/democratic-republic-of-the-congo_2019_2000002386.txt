@@ -1,0 +1,2297 @@
+Document: 
+Agenda: 
+Date: 
+Distribution: 
+Original: 
+EB 2019/128/R.32/Rev.1 
+7(d)(iv)(b) 
+11 December 2019 
+Public 
+French 
+E 
+President’s report 
+Proposed loan and Debt Sustainability 
+Framework grant  
+Democratic Republic of Congo  
+Inclusive and Resilient Rural Development 
+Programme  
+Project ID: 2000002386 
+Note to Executive Board representatives 
+Focal points: 
+Technical questions: 
+Dispatch of documentation: 
+Lisandro Martin 
+Director  
+West and Central Africa Division 
+Tel.: +39 06 5459 2388 
+e-mail: lisandro.martin@ifad.org 
+Deirdre Mc Grenra 
+Chief 
+Institutional Governance and Member Relations 
+Tel.: +39 06 5459 2374 
+e-mail: gb@ifad.org 
+Abdelhaq Hanafi 
+Country Director 
+Tel.: +39 06 5459 2634 
+e-mail: a.hanafi@ifad.org 
+Executive Board — 128th session 
+Rome, 10-12 December 2019 
+For: Approval 
+EB 2019/128/R.32/Rev.1 
+Contents 
+Abbreviations and acronyms 
+Map of the programme area 
+Financing summary 
+I. 
+Context 
+A.  National context and rationale for IFAD involvement 
+B.  Lessons learned 
+II.  Programme description 
+A.  Objectives, geographical area of intervention and target groups 
+B.  Components, outcomes and activities 
+C.  Theory of change 
+D. Alignment, ownership and partnerships 
+E.  Costs, benefits and financing 
+III.  Risks 
+A.  Risks and mitigation measures 
+B.  Environment and social category 
+C.  Climate risk classification 
+D. Debt sustainability 
+IV.  Implementation 
+A.  Organizational framework 
+B.  Planning, monitoring and evaluation, learning, knowledge 
+management and communication 
+C.  Implementation plans 
+Legal instruments and authority 
+V. 
+VI.  Recommendation 
+Appendices 
+I.  Negotiated financing agreement  
+II.  Logical framework 
+Programme delivery team 
+Regional Director: 
+Country Director/country programme manager: 
+Programme Technical Lead: 
+Finance Officer: 
+Climate and Environment Specialist: 
+Legal Officer: 
+Lisandro Martin 
+Abdelhaq Hanafi 
+Ephraim Balemba 
+Virginia Cameron 
+Pathe Sene 
+Paul Edouard Clos 
+ii 
+iii 
+iv 
+1 
+1 
+2 
+2 
+2 
+3 
+3 
+4 
+4 
+7 
+7 
+8 
+9 
+9 
+9 
+9 
+10 
+10 
+11 
+11 
+i 
+EB 2019/128/R.32/Rev.1 
+Abbreviations and acronyms 
+AWP/B 
+BADEA 
+NPCU 
+OFID 
+PADRIR 
+annual workplan and budget 
+Arab Bank for Economic Development in Africa 
+national programme coordination unit  
+OPEC Fund for International Development 
+Inclusive and Resilient Rural Development Programme 
+ii 
+Map of the programme area 
+EB 2019/128/R.32/Rev.1 
+The designations employed and the presentation of the material in this map do not imply the expression of any 
+opinion whatsoever on the part of IFAD concerning delimitation of the frontiers or boundaries, or the authorities 
+thereof. 
+Map compiled on 24/10/2019  
+iii 
+EB 2019/128/R.32/Rev.1 
+Financing summary 
+Initiating institution: 
+International Fund for Agricultural Development 
+Borrower/recipient: 
+Democratic Republic of Congo 
+Executing agency: 
+Ministry of Agriculture 
+Total programme cost: 
+US$130.46 million 
+Amount of IFAD loan:  
+US$26.64 million 
+Terms of IFAD loan:  
+Highly concessional: Exempt from interest with a fee 
+of 1.54 per cent per annum and a maturity period of 
+40 years, including a grace period of 10 years, from 
+the date of loan approval by the Executive Board. The 
+loan principal will be repaid at a rate of 4.5 per cent of 
+the total principal amount per annum from year 11 to  
+year 30, and at a rate of 1 per cent of the total 
+principal amount from year 31 to year 40.  
+Amount of IFAD Debt Sustainability 
+Framework grant: 
+US$9.86 million 
+Cofinanciers:  
+Arab Bank for Economic Development in Africa 
+(BADEA) 
+OPEC Fund for International Development (OFID) 
+Amount of cofinancing: 
+BADEA: US$50.74 million 
+OFID: US$25.19 million 
+Terms of cofinancing:  
+Loans 
+Contribution of the borrower/recipient:  US$14.69 million 
+Contribution of beneficiaries: 
+US$3.34 million 
+Financing gap: 
+n/a 
+Amount of IFAD climate finance: 
+US$13.77 million 
+Cooperating institution: 
+IFAD 
+iv 
+EB 2019/128/R.32/Rev.1 
+Recommendation for approval 
+The Executive Board is invited to approve the recommendation contained in 
+paragraph 51. 
+I.  Context 
+A.  National context and rationale for IFAD involvement  
+National context 
+1.  With gross domestic product (GDP) per capita of US$450 in 2017, the Democratic 
+Republic of Congo is classified as a low-income country. A series of political crises 
+and armed conflicts since independence have weakened the State. In rural areas 
+more than 82 per cent of the population live below the poverty line; 76 per cent of 
+rural households are food-insecure; 43 per cent of children under five suffer from 
+chronic malnutrition; and 8 per cent are underweight and suffer from acute 
+malnutrition.  
+2.  With the gradual return of peace and the democratic process, the country is seeing 
+renewed economic growth driven by the mining sector. GDP grew 73 per cent 
+between 2010 and 2018, albeit erratically. Agricultural potential is considerable, 
+with close to 110 million ha of non-forest arable land, only 10 per cent of which has 
+been developed. Improving agricultural productivity, food and nutritional security, 
+and value chain organization is at the top of the current administration’s policy 
+priorities. IFAD will contribute to moving forward on these avenues of action under 
+the country strategic opportunities programme (COSOP) 2019-2024 and this 
+programme. 
+3. 
+Special aspects relating to IFAD’s corporate mainstreaming priorities  
+In line with Eleventh Replenishment of IFAD's Resources (IFAD11) mainstreaming 
+commitments, the programme has been classified as: 
+☒ Climate-focused;  
+☒ Nutrition-sensitive;  
+☒ Youth-sensitive.  
+4.  Gender and social inclusion. The country’s gender inequality index is 0.663, 
+ranking it 153rd out of 159 countries. Women bear the brunt of conflict and 
+instability. The productivity gap between men and women is attributable to unequal 
+access to production factors, education and financial services. The Inclusive and 
+Resilient Rural Development Programme (PADRIR) targets 60 per cent of women 
+through specific support to promote their empowerment.  
+5.  With the expansion of agriculture and deforestation, the Pygmy people feel that 
+they are under threat and their territory invaded. A sense of exclusion underlies 
+tensions between communities that sometimes turn violent. An action plan to 
+enable their active participation in the programme will be developed at start-up. 
+6. 
+Youth. The country’s population is young, with more than 68 per cent aged 25 or 
+under, most of whom live in rural areas (over 60 per cent). Lack of job security and 
+unemployment marginalize young people, generating major risks. Support to be 
+provided at various points in the value chains will offer them opportunities for 
+employment and for generating income.  
+7.  Nutrition. Undernourishment is not simply a question of poverty. Children are 
+undernourished in 26 per cent of households, even the wealthiest, because of 
+limited access to a balanced diet, proper care and information. The Inclusive and 
+Resilient Rural Development Programme calls for setting up nutrition education 
+centres, funding income-generating activities in the area of nutrition, developing 
+market gardening and supporting value chains for foods with high nutritional value. 
+1 
+EB 2019/128/R.32/Rev.1 
+8. 
+9. 
+Climate change. The effects of climate change (such as extreme rainfall and 
+flooding, and prolonged drought) are increasingly apparent. Smallholder producers 
+are particularly vulnerable and PADRIR calls for carrying out mitigation and 
+adaptation measures to strengthen their resilience to climate change. 
+Rationale for IFAD involvement 
+Despite mixed results, IFAD has acquired a certain amount of experience in 
+supporting smallholder producers and poor rural people in the country. The five 
+most recent projects were intended to support the reactivation of crop and 
+livestock farming and fishing, improve access to basic health care and safe water, 
+rehabilitate agricultural access roads, improve market access and build the 
+capacities of actors.  
+10.  The country strategy and programme evaluation covering the period 2003-2015 
+conducted by the Independent Office of Evaluation (IOE) showed a positive impact 
+on rural poverty reduction despite the highly challenging country context. The 
+rehabilitation of road infrastructure and social services had an immediate effect. 
+However, overall impact was limited by recurring problems with project 
+management, high operating costs due to inadequate road access and the size of 
+intervention areas, and weaknesses in public services. IOE recommended 
+consolidating gains and reintroducing the objective of improving access to social 
+services. 
+B.  Lessons learned 
+11.  The main lessons learned from implementing the country programme are as 
+follows:  
+(i) 
+In the context of this highly fragile country, what is needed are simple, 
+realistic and flexible operations that can adapt quickly to any change in 
+circumstances at the national, provincial and local levels; 
+(ii)  Weaknesses in government institutions and governance issues have had an 
+adverse impact on programme implementation and results, in particular as a 
+result of serious deficiencies in financial management, planning and 
+procurement; 
+(iii)  Improvements in governance must be anchored in participation by rural 
+people. Feedback from actors and beneficiaries must be taken into account 
+systematically in selecting and monitoring activities and in selecting and 
+evaluating service providers;  
+(iv)  Establishing a strong local base and targeting operations are indispensable to 
+limit the risk of excluding the most vulnerable populations and the risk of elite 
+capture.  
+II.  Programme description 
+A.  Objectives, geographical area of intervention and target 
+groups  
+12.  The goal of PADRIR is, pursuant to the strategic objectives of the COSOP, to 
+contribute to reducing rural poverty and improving incomes, food security, nutrition 
+and resilience of beneficiaries. The development objective is to sustainably improve 
+productivity and competitiveness of value chains for three groups of crops that 
+contribute to food and nutrition security, and to income diversification in the 
+programme areas. The programme has three components to achieve the stated 
+objectives: (i) support for production, commercialization and value chain 
+organization; (ii) development of climate-smart infrastructure; and  
+(iii) coordination, monitoring and evaluation (M&E) and knowledge management. 
+13.  Scope. The programme will reach some 15 per cent of the population in the 
+targeted areas, or 2,464,000 people (410,667 households), thanks to investments 
+2 
+EB 2019/128/R.32/Rev.1 
+in roads, social infrastructure, agricultural inputs and services. It will also 
+contribute to: (i) improving economic conditions for 330,800 people (in terms of 
+incomes, and food and nutritional diversity); (ii) boost productivity by 50 per cent 
+for the major food crops targeted; and (iii) support entrepreneurship for 2,000 
+young people and 1,600 women. In accordance with IFAD’s strategic objectives, it 
+will enable: (i) an 80 per cent increase in production for these crops; (ii) training in 
+post-harvest techniques for 56,800 people; and (iii) strengthened resilience and 
+capacities for 45,440 producers. 
+14.  Programme area. The programme will be implemented in four provinces selected 
+in consultation with the Government: Maniema, currently host to the Integrated 
+Agricultural Rehabilitation Programme in Maniema Province (PIRAM); Lomami; 
+eastern Kasaï; and central Kasaï. All have experienced insecurity, owing in 
+particular to the presence of several armed groups, which has led to population 
+displacement and increased vulnerability among rural people. These areas also face 
+disruptions to the agricultural season as a result of changing weather patterns, as 
+well as losses caused by disease and pests. 
+15.  Three groups of food crops are targeted: (i) cassava, rice and maize, to develop 
+value chains; (ii) groundnut, cowpea and soy, to strengthen food and nutritional 
+security; and (iii) market gardening, fish farming, poultry breeding, bee keeping 
+and livestock raising, to diversify incomes. 
+16.  To ensure the effective inclusion of women and young people, positive 
+discrimination will be applied: at least 60 per cent of beneficiaries will be women 
+and 35 per cent young people.  
+B.  Components, outcomes and activities 
+17.  PADRIR will comprise the following components: (i) support for production, 
+commercialization and organization of climate-resilient value chains; 
+(ii) development of climate-smart infrastructure; and (iii) programme management 
+and coordination. 
+18.  Component 1 has four subcomponents: (i) intensification of production and 
+promotion of resilient cropping systems; (ii) improvements in post-harvest and 
+marketing activities; (iii) technical capacity-building for farmers organizations and 
+their apex organizations, public services and other actors; and (iv) support and 
+incentives for private sector development and inclusive rural finance. The 
+component will directly reach 56,800 households, or 330,800 people. It will 
+structure 800 to 1,200 farmers’ organizations and organize them into farmers 
+unions. It will also support 1,600 remunerative activities managed by women and 
+2,000 rural youth microenterprises. 
+19.  Component 2 has three subcomponents: (i) rehabilitation of agricultural access 
+infrastructure (1,530 km of roads and bridges); (ii) construction of market and 
+renewable energy infrastructure (44 warehouses, farmers markets and processing 
+sheds, 14 micro hydroelectric plants and solar panel kits); and (iii) rehabilitation 
+and construction of environmentally friendly social infrastructure (180 water points, 
+boreholes and drinking water supply systems, 68 healthcare centres and hospitals, 
+35 nutrition centres, and 70 primary and secondary schools).  
+20.  Component 3 covers all results-based management activities (planning, 
+administrative and fiduciary management, M&E, communication and capitalization) 
+and coordination of operations. 
+C.  Theory of change  
+21.  The PADRIR design is based on the hypothesis of a wide-ranging and progressive 
+rural transformation that sustainably improves living conditions for rural people and 
+contributes to economic development in the programme area. It is built upon an 
+inclusive development model that promotes putting in place basic infrastructure to 
+3 
+EB 2019/128/R.32/Rev.1 
+improve food and nutritional security, opens up the territory for market access, 
+creates jobs and generates income for households, particularly the most 
+vulnerable, women, youth and indigenous people, by developing market-oriented 
+agricultural value chains offering potential, and building the capacities of actors and 
+their organizations.  
+D.  Alignment, ownership and partnerships 
+22.  The PADRIR objectives are aligned with the national policies and strategies, and 
+the COSOP 2019-2024 and the Strategic Framework 2016-2025. The programme is 
+consistent with strategic objectives 1 (strengthen production capacity), 2 (market 
+integration) and 3 (environmental viability and resilience). It will also contribute to 
+achieving the Sustainable Development Goals (SDGs) of the United Nations, in 
+particular SDG1 (no poverty) and SDG2 (zero hunger). 
+23.  PADRIR is consistent with IFAD’s policies on gender equality, targeting, rural 
+finance, climate change, youth and private sector engagement. 
+24.  PADRIR implementation will be based on an implementation support arrangement 
+involving: (i) ongoing close institutional collaboration with public services to build 
+an effective local base as a guarantee of sustainability and successful interventions, 
+and with government technical services, particularly at the provincial level;  
+(ii) strategic partnerships with other donors and other programmes; and  
+(iii) performance-based agreements with technical service providers and 
+nongovernmental organizations. At the provincial level, collaboration will be 
+undertaken with the provincial inspection services of technical ministries and local 
+authorities: provincial governors, territorial administrators, sector chiefs and 
+traditional leaders.  
+25.  Based on clear performance agreements, the programme will employ qualified 
+expert operators, either individuals or organizations, for feasibility studies, 
+proximity facilitation, training and assistance in project management. Expert 
+service providers will be employed to ensure effective implementation and leverage 
+their expertise, networks and skills, in order to achieve quality results and enhance 
+efficiency.  
+E.  Costs, benefits and financing  
+Programme costs 
+26.  The total cost of the programme is US$130.5 million (CDF 215,257 billion) over 
+seven years. Base cost is estimated at US$117.7 million (CDF 194,189 billion), or 
+90 per cent of total cost. Physical and financial contingencies are an estimated 
+10 per cent of total cost. Recurring costs represent 9 per cent of total cost. 
+27.  Components 1, support for production, commercialization and organization of 
+climate-resilient value chains, and 2, development of climate-smart infrastructure, 
+have been taken into account in part in climate finance calculations. According to 
+the methodologies employed by the multilateral development banks to monitor 
+climate finance (adaptation to climate change and mitigation of its effects), the 
+total amount of IFAD climate finance for this project is estimated at 
+US$13,767,950 million, or 38 per cent of its total investment.  
+4 
+Table 1 
+Programme costs by component and subcomponent and financier  
+(Thousands of United States dollars) 
+EB 2019/128/R.32/Rev.1 
+Component / 
+subcomponent 
+Government 
+Amount 
+Beneficiaries 
+IFAD 
+BADEA 
+OFID 
+Total 
+%  Amount 
+%  Amount 
+%  Amount 
+%  Amount 
+%  Amount 
+% 
+1. Support for production, commercialization and value chain organization  
+1.1 Intensification of 
+production and 
+promotion of 
+resilient cropping 
+systems  
+1.2 Improvements in 
+post-harvest 
+activities and 
+product marketing  
+1.3 Technical 
+capacity-building for 
+farmers 
+organizations and 
+public services  
+Subtotal 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+367 
+4.7 
+7 476  95.3 
+39 
+1 
+3 820 
+99 
+- 
+405 
+- 
+2.1 
+7 941 
+100 
+19 236  97.9 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+7 843 
+6 
+- 
+3 858 
+3 
+- 
+- 
+7 941 
+6.1 
+19 642  15.1 
+2. Development of climate-resilient rural infrastructure  
+2.1 Climate-resilient 
+access 
+infrastructure  
+2.2 Climate-resilient 
+market infrastructure 
+2.3 Environmentally 
+friendly and climate-
+resilient social 
+infrastructure  
+2.4 Renewable 
+energy infrastructure 
+Subtotal  
+9 319  15.9 
+- 
+- 
+3 213 
+5.5 
+26 822  45.9 
+19 119 
+32.7 
+58 473  44.8 
+484  11.4 
+643  15.2 
+395 
+9.4 
+2 193  51.9 
+513 
+12.1 
+4 227 
+3.2 
+3 036  11.2 
+2 292 
+8.5 
+2 967 
+11 
+16 130  59.6 
+2 625 
+9.7 
+27 051  20.7 
+- 
+- 
+12 839  13.4 
+- 
+2 935 
+- 
+3.1 
+695  11.3 
+7.6 
+7 270 
+5 357  87.4 
+50 502  52.7 
+78 
+22 335 
+1.3 
+23.3 
+6 130 
+4.7 
+95 882  73.5 
+3. Coordination, M&E and knowledge management  
+3.1 Coordination 
+and management 
+3.2 M&E, knowledge 
+management and 
+communication 
+3.3 Management 
+capacity-building 
+Subtotal  
+Total 
+1 815  15.5 
+41 
+1.5 
+- 
+- 
+1 855  12.4 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+7 695  65.9 
+155 
+1.3 
+2 016 
+17.3 
+11 682 
+1 708  63.9 
+82 
+3.1 
+843 
+31.5 
+2 674 
+9 
+2 
+581 
+100 
+9 985  66.8 
+- 
+237 
+- 
+1.6 
+- 
+2 859 
+- 
+19.1 
+581 
+0.4 
+14 936  11.4 
+14 694  11.3 
+3 341 
+2.6 
+36 491 
+28 
+50 739  38.9 
+25 194 
+19.3  130 459 
+100 
+5 
+Table 2 
+Programme cost by expenditure category and financier 
+(Thousands of United States dollars) 
+EB 2019/128/R.32/Rev.1 
+Category of 
+expenditure 
+1. Investment 
+expenses 
+1.1 Works 
+1.2 Vehicles 
+1.3 Equipment and 
+materials 
+1.4 Nondurable 
+goods 
+1.5 Services 
+1.6 Consulting 
+1.7 Training 
+Total investment 
+expenses 
+2. Recurring 
+expenses 
+2.1 Operating 
+expenses  
+2.2 Salaries and 
+benefits 
+Total recurring 
+expenses 
+Total 
+Government 
+Amount 
+Beneficiaries 
+IFAD 
+BADEA 
+OFID 
+Total 
+%  Amount  %  Amount  %  Amount  
+%  Amount  
+%  Amount  % 
+11 396  14.8 
+345  23.1 
+2 963 
+- 
+3.8 
+- 
+5 929 
+7.7  38 064  49.4  1 8719  24.3 
+362  24.3 
+155  10.4 
+631  42.2 
+77 070  59.1 
+1.1 
+1 493 
+380 
+2.1 
+272 
+1.5 
+6 765  37.1 
+9 341  51.2 
+1 480 
+8.1 
+1 8239 
+14 
+- 
+- 
+0.5 
+33 
+540 
+6.4 
+530  19.5 
+106 
+- 
+- 
+- 
+2.6 
+- 
+- 
+- 
+3 927  97.4 
+5 772  89.1 
+4 836  57.3 
+607  22.4 
+- 
+265 
+- 
+4.1 
+1 847  21.9 
+985  36.3 
+- 
+405 
+- 
+6.3 
+1 214  14.4 
+592  21.8 
+4 033 
+6 475 
+8 437 
+2 715 
+3.1 
+5 
+6.5 
+2.1 
+13 224  11.2 
+3 341 
+2.8  28 466 
+24  50 658  42.8  22 772  19.2  11 8461  90.8 
+1 470 
+39 
+- 
+- 
+- 
+- 
+1 470  12.3 
+14 694  11.3 
+- 
+3 341 
+- 
+- 
+- 
+1 391  36.9 
+82 
+2.2 
+823  21.9 
+3 766 
+2.9 
+6 634  80.6 
+- 
+- 
+1 599  19.4 
+8 232 
+6.3 
+8 025  66.9 
+9.2 
+28  50 739  38.9  25 194  19.3  130 459  100 
+2 422  20.2 
+11 998 
+0.7 
+82 
+2.5  36 491 
+Table 3 
+Programme cost by component and subcomponent and year (PY)  
+(Thousands of United States dollars) 
+PY 1 
+Amount 
+PY 2 
+Amount  Amount 
+PY 3 
+PY 4 
+PY 5 
+PY 6 
+PY 7 
+Amount  Amount  Amount  Amount 
+Total 
+Amount 
+Component and subcomponent  
+1. Support for production, 
+commercialization and value chain 
+organization  
+1.1 Intensification of production and 
+promotion of resilient cropping 
+systems  
+1.2 Improvements in post-harvest 
+- 
+3 130 
+2 034 
+1 237 
+778 
+212 
+625 
+216 
+38 
+7 843 
+221 
+3 858 
+activities and product marketing  
+489 
+1 540 
+972 
+208 
+1.3 Technical capacity-building for FOs, 
+MOs and public services  
+Subtotal  
+2. Development of climate-resilient rural 
+infrastructure 
+2.1 Climate-resilient access 
+infrastructure 
+2.2 Climate-resilient market infrastructure 
+2.3 Environmentally friendly and climate-
+resilient social infrastructure 
+2.4 Renewable energy infrastructure 
+Subtotal  
+3. Coordination, M&E and knowledge 
+management  
+3.1 Coordination and management 
+3.2 M&E, knowledge management and 
+communication 
+3.3 Management capacity-building 
+Subtotal  
+Total 
+1 890 
+2 380 
+1 861 
+6 531 
+1 411 
+4 417 
+1 070 
+2 515 
+1 091 
+2 082 
+618 
+1 460 
+- 
+259 
+7 941 
+19 642 
+992 
+- 
+38 584 
+619 
+5 181 
+864 
+4 226 
+1 357 
+2 495 
+849 
+4 337 
+7 047 
+1036 
+47 286 
+7 188 
+1 145 
+14 379 
+6 475 
+1 128 
+13 186 
+4 232 
+1 263 
+1 904 
+1 034 
+8 433 
+4 039 
+124 
+1 942 
+938 
+7 042 
+1 219 
+- 
+- 
+- 
+1 219 
+58 473 
+4 227 
+27 051 
+6 130 
+95 882 
+2 851 
+1 368 
+1 391 
+1 680 
+1 439 
+1 464 
+1 489 
+11 682 
+411 
+110 
+3 372 
+10 089 
+346 
+112 
+1 826 
+55 643 
+353 
+114 
+1 858 
+20 654 
+408 
+59 
+2 147 
+17 848 
+367 
+61 
+1 867 
+12 382 
+368 
+62 
+1 894 
+10 396 
+420 
+63 
+1 972 
+3 449 
+2 674 
+581 
+14 936 
+130 459 
+Financing and cofinancing strategy and plan  
+28.  The financing plan is as follows: (i) IFAD, for a total amount of US$36.5 million 
+(28 per cent of total cost), of which US$26.64 million (73 per cent) in the form of a 
+loan and US$9.86 million (27 per cent) in the form of a grant; (ii) a loan from 
+BADEA in the amount of US$50.7 million (38.9 per cent); and (iii) a loan from 
+OFID in the amount of US$25.2 million (19.3 per cent). The programme 
+beneficiaries will contribute a total amount of at least US$3.3 million equivalent 
+(2.5 per cent) in the form of contributions in kind in work and activities. The 
+6 
+EB 2019/128/R.32/Rev.1 
+Government will contribute US$14.7 million equivalent (11.3 per cent) in the form 
+of exemptions from taxes and tariffs, and other contributions. 
+Disbursement  
+29.  The main disbursement categories will be works, equipment and materials, and 
+services. Approximately 22 per cent of IFAD financing will be used for recurring 
+expenses. The IFAD funds will be paid into a designated account managed by the 
+national programme coordination unit (NPCU), and operating accounts will be 
+opened in local currency for use by provincial units to enable them to manage the 
+advances provided by the NPCU. The banking arrangements for financing from 
+other donors (BADEA and OFID) will follow their respective procedures, to ensure 
+clear traceability of expenditures. There is a risk that bottlenecks in disbursements 
+may arise if the supporting documentation for advances is delayed. 
+Summary of benefits and economic analysis  
+30.  The economic internal rate of return is estimated at 20.6 per cent, or well above 
+the opportunity cost of capital (9 per cent), with a positive net present value of 
+close to CDF 72 billion (US$46.9 million). This is a very positive result considering 
+that some benefits, as they are difficult to quantify, have not been taken into 
+account – particularly in terms of improving living conditions for households and 
+their food and nutritional security, the effects of capacity-building on other  
+non-programme economic activities and benefits resulting from investments in 
+rural social infrastructure. The sensitivity analysis indicates that the results 
+obtained are robust to variations in costs and benefits. 
+Exit strategy and sustainability  
+31.  The PIRAM gains will be consolidated in Maniema, then capitalized and scaled up in 
+the neighbouring provinces. Sustainability is ensured by capacity-building of actors 
+in providing services adapted to the needs of target groups in the value chains. The 
+capacity-building in technical skills and management for permanent public actors, 
+either individuals or institutions, will contribute to ensuring the sustainability of the 
+supply of services and the maintenance and proper management of infrastructure 
+and roads. 
+III.  Risks 
+A.  Risks and mitigation measures  
+32.  The main risks to the implementation of PADRIR relate to: political instability, poor 
+governance, high recurring programme expenses, and social and political conflicts 
+that could disrupt economic and social life in the country and slow down public and 
+private investments. Project management issues have been detrimental to the 
+results of IFAD’s country programme in the past. Risks in connection with 
+environmental degradation and the effects of climate change are also significant.  
+7 
+EB 2019/128/R.32/Rev.1 
+Table 4 
+Risks and mitigation measures  
+Risks 
+Risk rating 
+ Mitigation measures 
+Political instability 
+Lack of security in targeted 
+provinces 
+High 
+Obstacles to inclusive growth 
+Moderate 
+Participation with other donors in policy dialogue. 
+Geographic targeting and investments in consultation with 
+United Nations police and security personnel in the country. 
+Continued reforms with International Monetary Fund (IMF) 
+support to consolidate macroeconomic stability and achieve 
+inclusive growth. 
+Contribution by IFAD to policy dialogue.  
+Moderate  
+Policy dialogue. Flexibility in interventions. Counterpart 
+contributions based on tax exemptions and contributions in kind 
+by the Government to avoid cash flow shortages. 
+Allocation to agricultural and rural 
+development of 3 per cent of the 
+national budget 
+Difficulties with recruiting and 
+retaining qualified personnel  
+Cofinancing fails to materialize or is 
+delayed; delays in entry into effect 
+and start-up; poor governance and 
+financial management leading to 
+ineligible expenditures or 
+suspension; multiple requirements 
+by donors; complex banking 
+procedures  
+High 
+High 
+Procurement: noncompliance with 
+procurement procedures in an 
+environment dominated by 
+corruption, potentially leading to 
+ineligible expenditures  
+Moderate 
+Environmental or social impact  
+Moderate 
+Personnel recruited on a competitive basis or through an 
+independent international head hunter; performance-based 
+contracts; periodic training for fiduciary personnel; occasional 
+expert technical assistance. 
+Centralization of the function NPCU; technical assistance to set 
+up a sound financial management framework and to recruit and 
+train qualified, experienced financial personnel with annual 
+performance assessments; harmonization of financial reporting 
+standards among the different donors; finalization of a project 
+implementation manual prior to start-up; quarterly presentation 
+of multi-donor financial statements; agreements with 
+government agencies and contracts with service providers 
+based on performance; close monitoring of contracts by IFAD; 
+strengthened auditing arrangements; internal auditing 
+subcontracted to a qualified service provider; biannual 
+supervision. 
+Recruitment of a procurement officer by an international firm 
+and according to terms of reference validated by IFAD. 
+Monitoring and training by the procurement officer of the West 
+and Central Africa Division. 
+Application of the “do no harm” rule in addressing social and 
+environmental risks. 
+Specific actions to reduce vulnerability to erosion and flooding, 
+and promote access to sustainable clean energy, climate-smart 
+and sustainable infrastructure. 
+The project could have a certain 
+degree of social impact 
+Low  
+Application of the “do no harm” rule, inclusive approach 
+involving vulnerable groups, transparency. 
+Overall 
+Moderate  
+B.  Environment and social category 
+33.  PADRIR is classified as a category B operation as it is not expected to have any 
+adverse environmental and social impact. Agroforestry and ecosystems 
+rehabilitation actions will promote sustainable natural management practices that 
+are more resilient to climate change.  
+34.  No involuntary resettlements are planned. The project is intended to encourage 
+better integration of young people, women and indigenous people along the entire 
+value chain. In accordance with the classification of projects in category B and 
+national and international regulations, territorial development will take place on an 
+area of less than 100 ha per community.  
+35.  Approximately 1,300 km of rural roads will be rehabilitated, 230 km funded by 
+IFAD and the remainder by OFID and BADEA. The length of the stretches of road 
+built with IFAD funding will be less than 10 km per site. All roads longer than 
+10 km will be funded by OFID and BADEA. These organizations, given their 
+competencies and extensive relevant experience, will provide supervision and apply 
+safeguard measures on roads with a length greater than 10 km. The safeguard 
+measures of the Arab Fund for Economic and Social Development will be applied to 
+the roads funded by BADEA and OFID. 
+8 
+EB 2019/128/R.32/Rev.1 
+36.  An environmental and social management framework and plan have been 
+developed: mitigation measures proposed comprise a budget of US$1,165,000. 
+PADRIR does not call for category A activities. Any change that may arise in the 
+course of implementation that could involve a reclassification will be submitted to 
+the Evaluation Committee for review and to the Executive Board for approval.  
+C.  Climate risk classification  
+37.  PADRIR is classified as a moderate climate risk. Climate change and variable 
+climate conditions can be expected to exacerbate social and environmental 
+vulnerability, political instability, food insecurity and already high poverty rates.  
+38.  Agroforestry technologies and practices and sustainable management practices for 
+soil, water and biodiversity should mitigate some of the effects of climate change. 
+These activities should therefore prevent greenhouse gas emissions, with a 
+mitigation potential of -914 339 t CO2-equivalent over 20 years, according to the 
+EX-Ante Carbon-balance Tool analysis. 
+D.  Debt sustainability  
+39.  According to the IMF /World Bank 2019 debt sustainability analysis, risk associated 
+with the Democratic Republic of Congo’s debt is moderate, despite a low debt to 
+GDP ratio. External debt represents 13.7 per cent of GDP and has fallen since the 
+debt sustainability analysis done in 2015, while domestic debt has risen from  
+3 per cent in 2014 to 6.5 per cent in 2018. 
+IV.  Implementation 
+A.  Organizational framework 
+Programme management and coordination  
+40.  The Ministry of Agriculture will have technical oversight of PADRIR. Coordination 
+and management will be provided by the NPCU, having administrative and financial 
+autonomy, located in Kinshasa. The unit will have two provincial programme 
+coordination units (PPCUs) located in Kindu and Mbuji Mayi. Branches of these 
+PPCUs will be set up in or near the production areas.  
+41.  The national steering committee, chaired by the Secretary-General of the Ministry 
+of Agriculture, will have representatives of the key technical ministries and 
+provincial agriculture ministries, and representatives of farmers’ organizations and 
+the private sector. The committee will meet at least twice a year to approve the 
+programme’s annual workplans and budgets (AWP/Bs) and will be supported by the 
+inter-ministerial technical monitoring committee for IFAD projects. A platform for 
+consultation and coordination of activities by the programme’s implementation 
+partners will be set up. A provincial monitoring and coordination committee chaired 
+by the provincial agriculture minister will also be established.1  
+Financial management, procurement and governance  
+42.  The proposed financial management system has been evaluated to verify 
+compliance with IFAD requirements. The risk in this area is deemed high. Financial 
+management will be centralized with the NPCU. The programme will employ 
+technical assistance services to recruit and train sufficiently qualified and 
+experienced personnel. The charts of accounts and financial reporting standards of 
+the different donors will be harmonized to the extent possible. Separate bank 
+accounts will be opened at the central and provincial levels and integrated  
+multi-donor accounting management software will be used. The procedures manual 
+will be ready for adoption at start-up. Strengthened audit measures will be 
+adopted, including internal auditing services subcontracted to a qualified service 
+provider. The non objection of IFAD will be required for contracts and/or 
+1 This committee will have a consultative role regarding operating strategies and AWP/Bs of PPCUs. The provincial 
+administration of the Ministry will conduct periodic monitoring missions. 
+9 
+EB 2019/128/R.32/Rev.1 
+agreements with service providers and/or government agencies. Such contracts 
+and agreements will be performance-based and will contain provisions on auditing 
+and IFAD’s anti-corruption rules. The NPCU will submit quarterly interim financial 
+reports. International accounting and auditing standards will be followed. 
+B.  Planning, monitoring and evaluation, learning, knowledge 
+management and communication 
+43.  PADRIR will opt for strong actions from start-up. M&E will serve the following 
+purposes: (i) meet the relevant performance needs of the programme; 
+(ii) contribute to improving sector monitoring by the oversight ministry; and  
+(iii) promote transparency and citizen engagement through inclusive monitoring 
+that enables the beneficiaries to evaluate implementation performance.  
+44.  The personnel assigned to M&E for the programme and the oversight ministry will 
+receive training and certification starting in year one under IFAD’s Programme in 
+Rural M&E (PRiME). 
+Innovation and scaling up  
+45.  Taking into account the agro-ecological conditions prevailing in each province, 
+PADRIR will scale up the relevant good practices under PIRAM and the Kinshasa 
+Food Supply Centre Support Programme, and the gains and lessons learned under 
+the Agricultural Revival Programme in Equateur Province and the Agricultural 
+Rehabilitation Programme in Orientale Province, in connection with: (i) organizing 
+the rice, cassava, maize and market gardening value chains; (ii) road rehabilitation 
+and maintenance; (iii) involving seed growers in organizing the seed subsector, 
+which enabled PIRAM to improve yields and production for rice, maize and cassava; 
+(iv) commercial partnerships with agro-industries and other enterprises (such as 
+miners) that can provide collateral for loans from financial institutions; (v) public-
+private partnerships in seed production and commercialization; and 
+(vi) development of lowland areas.  
+C.  Implementation plans 
+Implementation readiness and start-up plans  
+46.  The start-up plan includes: (i) setting up the NPCU and PPCU teams, selected on a 
+competitive basis through an international head hunting firm; (ii) conducting  
+in-depth baseline studies in each province targeted, including thematic studies 
+(market studies, road studies, education and healthcare infrastructure studies, and 
+groundwater assessment studies); (iii) identifying roads and crossings in 
+production areas; (iv) obtaining approval by local authorities and the steering 
+committee of the selection of production areas and roads to be rehabilitated; 
+(v) preparing the AWP/B and 18-month procurement plan; (vi) updating the 
+administrative and financial manual and the M&E manual; and (vii) preparing 
+technical specifications for the procurement of logistical resources needed for 
+programme start-up. 
+Supervision, midterm review and completion plans  
+47.  PADRIR will be supervised directly by IFAD through the country office in Kinshasa 
+with the participation of national counterparts, by means of two missions per year 
+and occasional support missions on a case-by-case basis. A midterm review will 
+take place during the second half of year three to assess progress made on works 
+to improve access (component 2) and preparatory work for component 1. The 
+mission conducting the review will provide an opinion on transitioning to a fully 
+operative phase 2 in year four.2  
+2 This decision will be based on: (i) the achievement of the objectives set for improved road access; and (ii) the results of 
+preparatory activities for component 1. The midterm review will also provide an opinion on the validation of production 
+areas and sub-areas and the value chains to be developed under phase 2. 
+10 
+EB 2019/128/R.32/Rev.1 
+V.  Legal instruments and authority 
+48.  A programme financing agreement between the Democratic Republic of Congo and 
+IFAD will constitute the legal instrument for extending the proposed financing to 
+the borrower/recipient. A copy of the negotiated financing agreement is attached 
+as appendix I.  
+49.  The Democratic Republic of Congo is empowered under its laws to receive financing 
+from IFAD. 
+50. 
+I am satisfied that the proposed financing will comply with the Agreement 
+Establishing IFAD and the Policies and Criteria for IFAD Financing. 
+VI.  Recommendation 
+51. 
+I recommend that the Executive Board approve the proposed financing in terms of 
+the following resolution:  
+RESOLVED: that the Fund shall provide a loan on highly concessional terms to 
+the Democratic Republic of Congo in an amount of twenty-six million six 
+hundred and forty thousand United States dollars (US$26,640,000) and upon 
+such terms and conditions as shall be substantially in accordance with the 
+terms and conditions presented herein. 
+RESOLVED FURTHER: that the Fund shall provide a grant under the Debt 
+Sustainability Framework to the Democratic Republic of Congo in an amount 
+of nine million eight hundred and sixty thousand United States dollars 
+(US$9,860,000) and upon such terms and conditions as shall be substantially 
+in accordance with the terms and conditions presented herein. 
+Gilbert F. Houngbo 
+President 
+11 
+Appendice I 
+EB 2019/128/R.32/Rev.1 
+Accord de financement négocié: 
+Programme d'Appui au Développement Rural Inclusif et 
+Résilient (PADRIR) 
+(Négociations conclues le 5 décembre 2019) 
+Prêt No: __________ 
+Don No: __________ 
+Nom du Programme: Programme d'Appui au Développement Rural Inclusif et Résilient 
+(PADRIR) (“le Programme”) 
+entre la République Démocratique du Congo (l’"Emprunteur") 
+et  
+Le Fonds international de Développement Agricole (le "Fonds" ou le "FIDA") 
+(désignés individuellement par une "Partie" et collectivement par les "Parties") 
+ATTENDU 
+A) 
+B) 
+C) 
+QUE  l’Emprunteur  a  sollicité  du  Fonds  un  prêt  et  un  don  à  des  conditions 
+particulièrement favorables pour le financement du Programme décrit à l’Annexe 1 
+du présent accord; 
+QUE  l’Emprunteur  a  sollicité  et  entend  obtenir  du  Fonds  International  de 
+Développement  Agricole,  du  Fonds  de  l'Organisation  des  Pays  Exportateurs  de 
+Pétrole (OFID) un prêt pour contribuer au financement du Programme aux conditions 
+et modalités qui seront indiquées dans un accord entre l'Emprunteur et le Fonds de 
+l'OPEP; 
+QUE  l’Emprunteur  a  sollicité  et  entend  obtenir  de  la  Banque  Arabe  pour  le 
+Développement  Economique  en  Afrique  (BADEA)  un  prêt  pour  contribuer  au 
+financement du Programme aux conditions et modalités qui seront indiquées dans 
+un accord entre l'Emprunteur et la BADEA; 
+D) 
+QUE le Programme doit être exécuté selon les termes et conditions établis dans le 
+présent Accord 
+ATTENDU  QUE  le  prêt  et  le  don  du  Fonds  seront  accordés  à  l'Emprunteur/Bénéficiaire 
+conformément aux modalités et conditions établies dans le présent accord. 
+EN FOI DE QUOI, les parties conviennent de ce qui suit : 
+Section A 
+1. 
+Le  présent  accord  comprend  l’ensemble  des  documents  suivants:  le  présent 
+document,  la  description  du  Programme  et  les  dispositions  relatives  à  l’exécution  
+(Annexe  1),  le  tableau  d’affectation  des  fonds  (Annexe  2)  et  les  clauses  particulières 
+(Annexe 3). 
+1 
+Appendice I 
+EB 2019/128/R.32/Rev.1 
+Les Conditions Générales applicables au financement du développement agricole en 
+2. 
+date  du  29  avril  2009,  telles  que  modifiées  en  décembre  2018  et  toutes  éventuelles 
+modifications  postérieures  (“les  Conditions  Générales”)  sont  annexées  au  présent 
+document,  et  l’ensemble  des  dispositions  qu’elles  contiennent  s’appliquent  au  présent 
+accord. Aux fins du présent accord, les termes dont la définition figure dans les Conditions 
+Générales ont la signification qui y est indiquée. 
+3. 
+Le Fonds accorde à l’Emprunteur un prêt à des conditions particulièrement favorables 
+et  un  don  (le  "Financement”),  que  l’Emprunteur  utilise  aux  fins  de  l’exécution  du 
+Programme, conformément aux modalités et conditions énoncées dans le présent accord. 
+Section B 
+Le  montant  du  prêt  à  des  conditions  particulièrement  favorables  est  de  
+1. 
+vingt-six millions six-cent quarante mille dollars des États-Unis (26 640 000 USD). 
+Le  montant  du  don  est  de  neuf  millions  huit  cent  soixante  mille  dollars  des  
+2. 
+États-Unis (9 860 000 USD). 
+3. 
+Le prêt accordé à des conditions particulièrement favorables est exempt d'intérêts 
+mais  est  assorti  d'une  commission  de  1,54%  l'an  et  d'un  délai  de  remboursement  de 
+quarante (40) ans, dont un différé d'amortissement de dix (10) ans, à compter de la date 
+d'approbation du prêt par le Conseil d'administration du Fonds. Le Principal du prêt sera 
+remboursé à un taux de 4,5% du montant total du Principal par an à partir de l'année onze 
+(11) et jusqu'à l'année trente (30), et à un taux de 1% du montant total du Principal par 
+an à partir de l'année trente et un (31) et jusqu'à l'année quarante (40). 
+La  monnaie  de  paiement  au  titre  du  service  des  prêts  est  le  dollar  des  États-Unis 
+4. 
+(USD).  
+5. 
+L’exercice financier débute le 1er janvier et se termine le 31 décembre. 
+Le remboursement du principal et le paiement de la commission de service des prêts 
+6. 
+sont exigibles le 15 mai et le 15 novembre. 
+L'Emprunteur/Bénéficiaire ouvre et tient un compte désigné au nom du Programme, 
+7. 
+pour recevoir les ressources du Fonds. 
+8. 
+L'Emprunteur/Bénéficiaire  ouvre  et  tient trois  comptes  d'opérations  au  nom  du 
+Programme pour le transfert des ressources au siège à la coordination nationale à Kinshasa 
+et aux deux coordinations provinciales du Programme à Kindu (Province de Maniema) et 
+à Mbuji-Mayi (Province de Kasai Oriental).  
+9. 
+ L’Emprunteur/Bénéficiaire fournira des fonds de contrepartie aux fins du Programme 
+d’un  montant  estimé  équivalent  à  quatorze  million  six  cent  quatre-vingt-quatorze  mille 
+dollars  des  États-Unis  (14  694  000  USD)  sous  forme  d'exonération  des  droits  et  taxes 
+diverses  grevant  les  travaux,  les  biens,  et  les  services  du  Programme,  et  sous  forme 
+d’autres  apports  en  nature,  selon  les  procédures  en  vigueur  sur  le  territoire  de 
+l’Emprunteur durant la mise œuvre du Programme. 
+Section C 
+L'agent  principal  du  Programme  est  le  Ministère  en  charge  de  l'agriculture 
+1. 
+(MINAGRI).  
+2. 
+Les autres parties du Programme sont décrites dans la partie II de l'Annexe 1. 
+2 
+Appendice I 
+EB 2019/128/R.32/Rev.1 
+3.   Un examen à mi-parcours sera effectué dans la troisième année de mise en œuvre 
+conformément  aux  dispositions  des  alinéas  8.03  (b)  et  (c)  des  Conditions  Générales. 
+Toutefois, les parties peuvent convenir d'une date différente pour l'examen à mi-parcours 
+de la mise en œuvre du Programme. 
+4. 
+La date d’achèvement du Programme est fixée au septième anniversaire de la date 
+d’entrée en vigueur du présent accord et la date de clôture du financement sera six mois 
+plus tard, ou toute autre date désignée par le Fonds par notification à l'Emprunteur. La 
+les  droits  de 
+date  de  clôture  du 
+l'Emprunteur/Bénéficiaire de solliciter des retraits du compte du prêt et/ou du compte du 
+don prennent fin, soit six mois après la date d'achèvement du Programme. Les dépenses 
+doivent  être  faites  pendant  la  période  d'exécution  du  Programme,  à  l'exception  des 
+dépenses correspondant aux frais de clôture du Programme qui peuvent être faites entre 
+la date d'achèvement du Programme et la date de clôture du prêt/don. 
+financement  désigne 
+la  date  à 
+laquelle 
+5.  
+L'acquisition de biens, travaux et services financés par l'Accord sera régie par la loi 
+et les procédures en vigueur en République Démocratique du Congo dans la mesure où ils 
+sont conformes aux Directives pour la passation des marchés relatifs au Programme du 
+FIDA.  
+6. L'Emprunteur reconnaît que, dans le cadre de la politique de restructuration du FIDA, il 
+est impératif que le présent Accord entre en vigueur dans les dix-huit mois suivant son 
+approbation par le Conseil d'Administration. 
+Section D 
+1.  
+Le Fonds administrera le Financement et supervisera le Programme et l'Emprunteur 
+mettra en œuvre et assurera sa propre administration et supervision du prêt, du don et 
+du Programme. 
+Section E 
+1. 
+Les  éléments  ci-dessous  constituent  des  conditions  préalables  au  premier 
+décaissement  et  s'ajoutent  à  la  condition  prévue  à  la  section  4.02  b.  des  Conditions 
+générales: 
+a) 
+b) 
+c) 
+d) 
+soumission  du  manuel  détaillé  d’exécution  du  Programme  qui  inclut  des 
+procédures  administratives,  financières  et  passation  des  marchés,  et  du 
+premier  plan  de  travail  et  budget  annuel  au  Comité  National  de  Pilotage 
+(COPIL) et approbation par ce dernier; 
+soumission  du  manuel  détaillé  d’exécution  du  Programme  qui  inclut  des 
+procédures  administratives,  financières  et  passation  des  marchés,  et  du 
+premier plan de travail et budget annuel approuve par le COPIL, avec la Non 
+Objection du FIDA; 
+le Coordonnateur, le Responsable Administratif et Financier, le Comptable, le 
+responsable de la passation des marchés ont été sélectionnés par un cabinet 
+international de recrutement et confirmés et/ou recrutés par le Gouvernement 
+avec la non objection du FIDA; et 
+le comité de pilotage et le Task Force ont été constitué par l’Emprunteur par 
+arrêté  interministériel  et  la  composition  a  fait  l’objet  de  la  non  objection  du 
+FIDA.  
+3 
+Appendice I 
+EB 2019/128/R.32/Rev.1 
+L’élément  suivant  est  désigné  comme  un  motif  supplémentaire  de  suspension  du 
+2. 
+présent accord:  
+a) 
+Le manuel détaillé d’exécution du Programme /ou l'une de ses dispositions a 
+fait  l'objet  d'une  renonciation,  d'une  suspension,  d'une  résiliation,  d'une 
+modification  ou  d'un  amendement  sans  l'accord  préalable  du  Fonds,  et  le 
+Fonds,  après  consultation  avec  l'Emprunteur,  a  déterminé  qu'il  a  eu,  ou  est 
+susceptible d'avoir, un effet préjudiciable sur le Programme. 
+Le  présent  Accord  est  soumis  à 
+3. 
+l'Emprunteur/Bénéficiaire. 
+la  ratification  par 
+le  Parlement  de 
+Toutes les communications ayant trait au présent accord doivent être adressées aux 
+4. 
+représentants dont le titre et l’adresse figurent ci-dessous: 
+Pour l’Emprunteur/le Bénéficiaire 
+Ministre des Finances de la République Démocratique du Congo 
+Boulevard du 30 Juin 
+Kinshasa-Gombe 
+République Démocratique du Congo  
+Pour le Fonds: 
+Le Président  
+Fonds International de Développement Agricole 
+Via Paolo di Dono 44 
+00142 Rome, Italie 
+4 
+Appendice I 
+EB 2019/128/R.32/Rev.1 
+Le présent accord, [en date du ___________], a été établi en langue française en deux 
+(2) exemplaires originaux, un (1) pour le Fonds et un (1) pour l’Emprunteur. 
+REPUBLIQUE DEMOCRATIQUE DU CONGO  
+____________________  
+Sele YALAGHULI 
+Ministre des Finances 
+Date: ________________ 
+FONDS INTERNATIONAL POUR LE DEVELOPPEMENT AGRICOLE  
+___________________ 
+Gilbert F. HOUNGBO 
+Président 
+Date: ____________ 
+5 
+Appendice I 
+EB 2019/128/R.32/Rev.1 
+Annexe 1 
+Description du Programme et dispositions relatives à l’exécution 
+I.  Description du Programme 
+1. 
+2. 
+3. 
+Population cible.  Le programme bénéficiera à environ 15% de la population des 
+bassins  ciblés  soit  2  464  000  personnes  (410  667  ménages)  grâce  aux 
+investissements dans les routes, les infrastructures sociales, les intrants agricoles et 
+les  services.  Le  programme  contribuera  également  à  l'amélioration  de  la  situation 
+économique  de  56  800  ménages  (330  800  personnes)  en  termes  de  revenus,  de 
+diversité  alimentaire  et  nutritionnelle.  Ces  ménages  sont  des  petits  producteurs, 
+regroupés  ou  non  en  organisations  paysannes,  et  des  micro  entrepreneurs  ruraux 
+qui sont des jeunes, des femmes, des personnes vivant avec handicap, des peuples 
+autochtones et des personnes démobilisées. Ces groupes cibles correspondent aux 
+critères du FIDA et sont pauvres et exposés à l'insécurité alimentaire en milieu rural.  
+Zone  d'intervention  du  Programme.  Le  Programme  sera  mis  en  œuvre  dans 
+quatre provinces convenues avec Gouvernement: le Maniema, le Lomami, le Kasaï 
+Oriental et le Kasaï Central. Elles ont toutes été confrontées à l'insécurité notamment 
+la présence de plusieurs groupes armés occasionnant des déplacements internes et 
+l’accroissement de la vulnérabilité des ruraux. 
+Finalité. La finalité du Programme est de contribuer à la réduction de la pauvreté 
+rurale et à l'amélioration du revenu, de la sécurité alimentaire, de la nutrition et de 
+la résilience des bénéficiaires  
+4.  Objectifs. L’objectif du Programme est de désenclaver les bassins de production et 
+d’améliorer durablement la productivité et la compétitivité des chaînes de valeur de 
+trois  groupes  de  spéculations  qui  concourent  à  la  sécurité  alimentaire  et 
+nutritionnelle, et à la diversification des revenus dans les zones du Programme. 
+5. 
+Composantes. Le Programme  comporte les composantes suivantes: i) Appui à la 
+production, commercialisation et structuration des filières résilientes au changement 
+climatique; ii) Développement des infrastructures climato-résilientes; et iii) Gestion 
+et coordination du programme. 
+Composante  1:  Appui  à  la  production,  commercialisation  et  structuration  des 
+filières résilientes au changement climatique  
+6. 
+Elle est structurée en quatre sous-composantes: i) intensification de la production et 
+promotion des systèmes de cultures résilientes, ii) amélioration des activités post-
+récoltes et mise en marché des produits, iii) renforcement des capacités techniques 
+des organisation paysannes/organisation paysanne faitière, des services étatiques et 
+d’autres  acteurs  et  iv)  Appui  et  incitation  au  développement  du  secteur  privé.  La 
+composante  touchera  directement  56.800  ménages,  soit  330.800  personnes.  Elle 
+permettra  de  structurer  entre  800  et  1  200  organisations  paysannes  et  de  les 
+organiser en unions paysannes. 
+7. 
+Trois  groupes  de  cultures  vivrières  sont  ciblées:  i)  le  manioc,  riz,  maïs  pour 
+développer les chaînes de valeur; ii) l'arachide, le niébé et le soja pour la sécurité 
+alimentaire et nutritionnelle; et iii) maraichage, aquaculture, aviculture, apiculture, 
+élevage pour la diversification des revenus. 
+Composante 2: Développement des infrastructures rurales climato- résilientes  
+6 
+Appendice I 
+EB 2019/128/R.32/Rev.1 
+8. 
+Elle est structurée en trois sous-composantes: i) Réhabilitation des infrastructures 
+de desserte agricole (1.530 km de routes, de ponts et dalots); ii) construction des 
+infrastructures  de  marchés  et  d’énergie  renouvelable  (44  entrepôts,  marchés  des 
+produits agricoles, hangars de transformation, micro centrales hydro-électriques et 
+kits  de  panneaux  solaires);  et  iii)  Réhabilitation/construction  des  infrastructures 
+sociales  respectueuses  de  l’environnement  (180  sources/forages/adduction  d'eau 
+potable, 68 centres de santé/hôpitaux, 35 centres nutritionnels, 70 écoles primaires 
+et secondaires).  
+Composante 3: Gestion et Coordination du Programme 
+9. 
+Elle  couvre  l’ensemble  des  activités  relatives  à  la  gestion  axée  sur  les  résultats 
+(planification, la gestion administrative et financière, et passation des marchés ainsi 
+que  le  suivi-évaluation,  communication  et  partage  des  savoirs)  et  la  coordination 
+opérationnelle. 
+II.  Dispositions relatives à l'exécution du Programme 
+10.  L'agent  principal  du  Programme  est  le  Ministère  en  charge  de  l'Agriculture 
+(MINAGRI).  
+11.  Les  autres  parties  du  Programme  sont  le  Ministère  des  Finances,  le  Ministère  du 
+Développement  Rurale  comme  partenaire  stratégique,  le  Ministère  de  la  Santé,  le 
+Ministère  de  l’Enseignement  Primaire,  Secondaire  et  Technique.  Ces  Ministères 
+collaboreront activement dans la mise en œuvre du projet et siègent dans le COPIL 
+et le TF. 
+12.  Comité de pilotage du Programme. L’orientation et le pilotage seront assurés par 
+le COPIL mis en place pour le Programme. Le COPIL se réunira au moins deux fois 
+par an en session ordinaire ou par besoin et s’appuiera sur un TF interministériel qui 
+sera mis en place pour les besoins du Programme.   
+13.  L’Unité  de  Coordination  Nationale  (UCN)  et  les  deux  Unités  de  coordination 
+provinciales (UCP), après sélection par un cabinet international, feront objet de l’avis 
+de non objection du FIDA et seront nommées par arrêté interministériel.  
+14.  Unités de coordination et de gestion du Programme. Le PADRIR sera exécuté 
+par  une  Unité  de  Coordination  Nationale  (UCN)  nommée  par  un  arrêté 
+interministériel.  L'UCN  bénéficiera  d’une  autonomie  de  gestion  administrative  et 
+financière.  Elle  aura  un  rôle  de  coordination,  de  facilitation,  d’élaboration  de  la 
+stratégie  générale,  de  passation  des  marchés,  de  programmation  et  de  suivi 
+évaluation et de suivi du flux financier. Elle sera basée à Kinshasa et disposera de 
+deux  Unités  de  Coordination  Provinciales  (UCP)  qui  seront  installées  à  Kindu 
+(provinces  de  Maniema  et  Lumani)  et  Mbuji-Mayi  (provinces  de  Kasai  Oriental  et 
+Kasai Central). Chaque UCP sera relayée par des antennes relais qui seront installées 
+dans les bassins de production ou les agglomérations urbaines les plus proches. 
+15.  Partenariats  stratégiques.  L’exécution  de  PADRIR  reposera  sur  un  dispositif 
+d’appui à la mise en œuvre comprenant: i) la collaboration institutionnelle avec les 
+services  techniques  de  l’état  (STE)  et  les  gouvernements  provinciaux;  ii)  le 
+partenariat stratégique avec autres Programmes; et iii) les prestations axées sur la 
+performance  avec  des  opérateurs  d’appui  technique  et  des  ONG.  La  liste  des 
+partenaires  clés  figure  dans  le  document  technique  du  Programme  et  pourra  être 
+adaptée au démarrage et pendant la mise en œuvre du Programme. Les partenariats 
+stratégiques  et  opérationnels  seront  basés  sur  des  contrats  et  des  jalons  de 
+performance technique et financière. 
+7 
+Appendice I 
+EB 2019/128/R.32/Rev.1 
+16.  Personnel  requis  pour  la  phase  de  démarrage.  Le  recrutement  du  personnel 
+cadre sera effectué par voie compétitive à l’échelle nationale et selon des procédures 
+compatibles avec celles du FIDA dans les meilleurs délais suite à la date d’entrée en 
+vigueur du présent accord. Le processus de recrutement sera piloté par un Cabinet 
+international. Le personnel sera lié au Programme par des contrats de performance 
+annuels adossés à des indicateurs de résultats. Le personnel cadre est composé de: 
+a)  Au niveau national: Coordonnateur National (1), Responsable Administratif 
+et  Financier  (1),  Responsable  National  en  Passation  des  Marchés  (1), 
+Responsable  national  en  Programmation,  Suivi  et  Evaluation  (1),  Comptable 
+Principal (1); et 
+b)  Au  niveau  Provincial:  Coordonnateurs  Provinciaux  (2),  Responsables  de 
+passation des marchés  (2), Responsables développement agricole et chaines 
+de  valeurs  (2),  Responsables  des  infrastructures  rurales  (2),  Responsables 
+suivi-évaluation, Responsable ciblage et gestion des  savoirs (2), Comptables 
+(2), Assistants Comptables (2). 
+17.  Le recrutement du personnel du Programme et leur rémunération et le cas échéant 
+la  décision  de  mettre  fin  à  leurs  contrats  de  travail  seront  soumis  à  l’avis  de  non 
+objection préalable du FIDA 
+III.  Suivi et Evaluation 
+18.  Suivi  et  évaluation.  La  supervision  du  PADRIR  sera  assurée  directement  par  le 
+Bureau FIDA à Kinshasa avec la participation de la partie nationale à raison de deux 
+missions  par  an  ainsi  que  des  missions  d’appui  ponctuelles  spécifiques  en  cas  de 
+besoin. Une revue ‘’interphase’’ sera organisée au deuxième semestre de l’année 3 
+pour faire le point de l'avancement des travaux de désenclavement (composante 2) 
+et sur les activités préparatoires de la composante 1. Cette mission se prononcera 
+sur le passage à la phase 2 de plein régime en année 4. Une revue d’achèvement à 
+la fin du Programme complètera les évaluations et fournira des  éléments objectifs 
+d’appréciation des résultats du Programme ainsi que les leçons apprises qui pourront 
+bénéficier aux futures opérations sur les mêmes thématiques. 
+19.  Manuel détaillé d’exécution du Programme e. Le Manuel détaillé d’exécution du 
+Programme qui inclut les procédures administratives, financières, comptables et de 
+passation  des  marchés  acceptable  pour  le  FIDA  sera  mis  à  jour  au  démarrage  du 
+programme et inclura, notamment: i) la coordination institutionnelle quotidienne du 
+Programme;  ii)  le  budget,  les  procédures  de  décaissement,  de  passation  des 
+marchés, de surveillance et d'évaluation, de gestion financière et de rapports; iii) les 
+procédures de recrutement du personnel clé du Programme ou de toute assistance 
+technique;  iv)  une  description  détaillée  des  modalités  de  mise  en  œuvre  du 
+Programme; et v) toutes autres procédures ou modalités administratives, financières 
+ou techniques requises par le Programme. 
+20.  Approbation  et  Adoption. Ce  Programme de  Manuel sera adressé au FIDA pour 
+commentaire et approbation et sera adopté par l'Emprunteur tel qu'approuvé par le 
+FIDA. Une copie sera communiquée au FIDA dans les meilleurs délais. L'Emprunteur 
+devra  exécuter  le  Programme  conformément  au  Manuel  et  ne  pourra  le  modifier, 
+l'abroger, y déroger ou permettre de le modifier, de l'abroger ou d'y déroger sans 
+l'accord écrit préalable du FIDA. 
+Annexe 2 
+Tableau d’affectation des fonds 
+1. 
+Affectation du produit du Prêt et du Don.  
+8 
+Appendice I 
+EB 2019/128/R.32/Rev.1 
+ Le  tableau  ci-dessous  indique  par  catégorie  de  dépense  les  montants 
+a) 
+admissibles au financement sur le paiement du Prêt et du Don, ainsi que la répartition 
+en pourcentage des dépenses à financer pour chacun des postes: 
+Catégories 
+Montant alloué 
+au titre du Don 
+(en USD) 
+Montant alloué 
+au titre du Prêt à 
+des conditions 
+particulièrement 
+favorables 
+(en USD) 
+Pourcentage 
+des dépenses 
+autorisées à 
+financer hors 
+contribution des 
+bénéficiaires et 
+hors 
+contribution 
+direct du 
+gouvernement 
+I. Travaux 
+II. Véhicules 
+3 900 000 
+1 450 000 
+        100% HT 
+420 000 
+150 000 
+        100% HT 
+III. Equipements et matériels 
+4 450 000 
+1 650 000 
+        100% HT 
+IV. Biens non durables 
+2 580 000 
+950 000 
+        100% HT 
+V. Services  
+4 190 000 
+1 550 000 
+        100% HT 
+VI. Consultations  
+3 170 000 
+1 170 000 
+        100% HT 
+VII. Salaires et indemnités 
+4 360 000 
+1 610 000 
+        100%  
+VIII. Fonctionnement 
+910 000 
+340 000 
+        100% HT 
+Non alloué 
+Total  
+2 660 000 
+990 000 
+26 640 000 
+9 860 000 
+b) 
+Les termes utilisés dans le tableau ci-dessus se définissent comme suit: 
+i) 
+ii) 
+iii) 
+iv) 
+v) 
+Les dépenses relatives à la catégorie I -Travaux incluent les travaux de génie 
+rural, de génie civil et tout autre travail d'aménagement hydro agricole, y 
+inclus les routes, ponts chaussées, dalots et ouvrages de franchissement; 
+Les dépenses relatives à la catégorie II Véhicules incluent également l'achat 
+de motos, vélos ou autre moyen de locomotion. 
+La  catégorie  III  Equipements  inclut  les  dépenses  liées  à  l'acquisition  de 
+matériels et outils de production en faveur des bénéficiaires 
+Les  dépenses  de  services  de  la  catégorie  V  incluent  les  prestations  de 
+services et dépenses liées aux formations 
+Les  dépenses  de  consultations  de  la  catégorie  VI  incluent  également  les 
+dépenses liées aux études et celles des assistances techniques nationales et 
+internationales. 
+2.   Modalités d’audit 
+Le Programme recrutera un cabinet reconnu suivant les procédures du FIDA en matière 
+d’audit, en qualité d'auditeur externe. Le programme rendra des rapports trimestriels au 
+FIDA et mettra en place un comité d'audit qui se réunira trimestriellement pour permettre 
+de gérer pro-activement les risques fiduciaires. 
+9 
+Appendice I 
+EB 2019/128/R.32/Rev.1 
+3.   Arrangements en matière de passation des marchés 
+L'acquisition de biens, travaux et services financés par le Programme sera régie par la loi 
+et les procédures en vigueur de la République Démocratique du Congo dans la mesure où 
+ils  sont  conformes  aux  Directives  pour  la  passation  des  marchés  du  FIDA.  Un  plan  de 
+passation de marchés basé sur le plan du travail budget annuel (PTBA) sera élaboré chaque 
+année et devra être approuvé par le COPIL et recevoir l'avis de non-objection du FIDA. Ce 
+plan  spécifiera,  entre  autres,  la  nature  des  acquisitions  prévues,  les  méthodes  de 
+passation, les coûts estimatifs, et l’échéancier. 
+4.   Avance de démarrage  
+Les retraits effectués afin de couvrir les coûts de démarrage encourus avant la satisfaction 
+des Conditions générales préalables aux retraits ne doivent pas dépasser un montant total 
+équivalent  à  300  000  USD  et  ne  pourront  être  engagés  qu’après  le  recrutement  du 
+coordinateur,  le  responsable  administratif  et  financier,  le  responsable  de  passation  des 
+marches et le comptable. L’avance de démarrage sera transférée sur le compte désigné 
+du Programme et sera géré selon les procédures du FIDA. Le paiement de ce montant sera 
+soumis à l'avis de non-objection du FIDA sur le budget détaillé des activités de démarrage 
+présenté  par  l'Emprunteur/Bénéficiaire  dès  que  possible  après  l'entrée  en  vigueur  du 
+présent Accord. 
+Annexe 3 
+Clauses particulières 
+10 
+Appendice I 
+EB 2019/128/R.32/Rev.1 
+Conformément aux dispositions de la section 12.01 a) xxiii) des Conditions Générales, le 
+Fonds peut suspendre, en tout ou partie, le droit de l'Emprunteur de solliciter des retraits 
+du compte du prêt du Fonds si l'Emprunteur n’a pas respecté l'une quelconque des clauses 
+énoncées ci-dessous, et si le FIDA a établi que ladite défaillance a eu, ou risque d'avoir, 
+un effet préjudiciable important sur le Programme:  
+1. 
+2. 
+3. 
+4. 
+Recrutement du personnel: L'Emprunteur/Bénéficiaire s'assurera que la sélection du 
+personnel soit faite sur une base compétitive par voie d'appel à candidature à travers 
+un processus géré par un cabinet international indépendant spécialisé en ressources 
+humaines. La durée des contrats du personnel ne pourra  en aucun cas excéder la 
+durée  du  Programme  et  doit  comporter  une  période  probatoire  d’un  an  au  bout 
+duquel le contrat d’un cadre non performant ne sera pas reconduite dans le respect 
+des  lois  du  travail  de  l’Emprunteur.  Des  évaluations  de  performances  seront 
+organisées  annuellement.  Dans  le  respect  des  lois  du  travail  de  l’Emprunteur,  le 
+résultat de ces évaluations conditionnera la poursuite ou la rupture des contrats de 
+travail.  Le  recrutement  du  personnel  ainsi  que  la  décision  de  mettre  fin  à  leurs 
+fonctions  ou  de  leur  changer  d'affectation  se  fera  en  consultation  avec  le  FIDA  et 
+sera  soumise  à  la  non-objection  de  ce  dernier.  L'Emprunteur/Bénéficiaire 
+encouragera les femmes à postuler aux postes de responsabilité à pourvoir dans le 
+cadre du Programme. 
+Au  plus  tard  un  mois  après  transfert  de  l’avance  de  démarrage,  le  Programme 
+acquerra  et  installera  un  logiciel  de  comptabilité  personnalisé,  conformément  aux 
+pratiques en vigueur dans les Programmes soutenus par le FIDA, afin de satisfaire 
+aux normes comptables internationales et aux exigences du FIDA. 
+Planification,  suivi  et  évaluation.  L'Emprunteur  veillera  à  ce  qu’un  système  de 
+Planification, de Suivi et d'Evaluation soit mis en place dans les douze (12) mois à 
+compter de la date d'entrée en vigueur du présent accord. 
+les 
+Peuples  autochtones.  L’Emprunteur/le  Bénéficiaire  veillera  à  ce  que 
+préoccupations  des  peuples  autochtones  soient  dûment  prises  en  compte  dans  la 
+mise en œuvre du Programme et, à cette fin, veillera à ce que: 
+a) 
+le  Programme  est  exécuté  conformément  aux  dispositions  applicables  de  la 
+législation nationale des peuples autochtones applicable; 
+b)  
+les peuples autochtones] sont représentés de manière adéquate et équitable 
+dans toute la planification et l’exécution locale des activités de Programme; 
+c)  
+les droits des peuples autochtones sont dûment respectés; 
+d)  
+e)  
+f)  
+les  communautés  autochtones  participent  au  dialogue  politique  et  à  la 
+gouvernance locale; 
+les  termes  des  Déclarations,  Pactes  et/ou  Conventions  ratifiés  par 
+l'Emprunteur à ce sujet sont respectés; 
+le  Programme  ne  comportera  pas  d'empiètement  sur 
+traditionnels utilisés ou occupés par les communautés autochtones. 
+les  territoires 
+5. 
+Conformité  aux  procédures  d'évaluation  sociale  environnementale  et  climatique 
+(SECAP).  L'Emprunteur  veillera  à  ce  que  le  Programme  soit  mis  en  œuvre 
+conformément au SECAP du FIDA.  
+11 
+Appendice I 
+EB 2019/128/R.32/Rev.1 
+6. 
+Environnement  et  garanties  sociales.  L’Emprunteur  veille  à  ce  que:  a)  toutes  les 
+activités  du  Programme  soient  mises  en  œuvre  dans  le  strict  respect  des 
+lois/réglementations  pertinentes  de  l’Emprunteur;  b)  toutes  les  activités  de 
+Programme/Programme tiennent particulièrement compte de la participation et des 
+pratiques  des  populations  de  minorités  ethniques,  conformément  à  la  Politique  du 
+FIDA sur les peuples autochtones (2009), selon le cas; c) les propositions de travaux 
+de  génie  civil  incluent  la  confirmation  qu'aucune  acquisition  forcée  de  terres  ou 
+réinstallation involontaire n'est requise dans le cadre du Programme/Programme. En 
+cas d’acquisition de terres non prévue ou de réinstallation involontaire dans le cadre 
+du  Programme,  l’Emprunteur  devra  immédiatement  informer  le  Fonds  et  préparer 
+les documents de planification nécessaires; d) les hommes et les femmes reçoivent 
+une rémunération égale pour un travail de valeur égale au titre du Programme; e) 
+le recours au travail des enfants n’est pas prévu dans Programme; f) les mesures 
+incluses dans le plan d'action pour l'égalité des sexes préparé pour le Programme 
+sont  entreprises  et  les  ressources  nécessaires  à  leur  mise  en  œuvre  sont  mises  à 
+disposition en temps utile; et g) toutes les mesures nécessaires et appropriées pour 
+mettre en œuvre le plan d'action en faveur de l'égalité des sexes afin de garantir que 
+les  femmes  puissent  participer  et  bénéficier  équitablement  du  Programme  sont 
+dûment prises. 
+7.  Mesures  anticorruption.  L'Emprunteur  doit  se  conformer  à  politique  du  FIDA  en 
+matière de prévention de la fraude et de la corruption dans le cadre de ses activités 
+et  opérations.  Dans  les  six  (6)  mois  suivant  l’entrée  en  vigueur  de  l’Accord  de 
+financement,  le  Programme  organisera  une  formation  pour  toute  l’équipe  du 
+Programme  ainsi  que  le  COPIL  et  TF,  sur  la  politique  du  FIDA  en  matière  de 
+prévention de la fraude et de la corruption et enverra la preuve de la formation au 
+Responsable des Finances pour République Démocratique du Congo auprès du FIDA. 
+8. 
+9. 
+Égalité.  Toute  discrimination  fondée  sur  le  sexe,  l’âge,  l’appartenance  ethnique  ou 
+religieuse ne sera pas admissible lors du recrutement du personnel du Programme, 
+conformément  aux  lois  en  vigueur  sur  le  territoire  de  l’Emprunteur.  Cependant, 
+l’Emprunteur s’engage, à compétence égale, à privilégier les candidatures de femmes, 
+notamment aux postes techniques à pourvoir dans le cadre du Programme. 
+Harcèlement  sexuel,  exploitation  sexuelle  et  abus.  L’Emprunteur  et  les  parties  au 
+Programme  doivent  s’assurer  que  le  Programme  est  exécuté  conformément  aux 
+dispositions de la politique du FIDA en matière de prévention du harcèlement sexuel, 
+de  l’exploitation  sexuelle  et  des  abus  sexuels,  qui  peut  être  modifiée  de  temps  à 
+autre. 
+10.  Utilisation  des  véhicules  et  autres  équipements  du  Programme.  L'Emprunteur  doit 
+s'assurer que: 
+a) 
+b) 
+c) 
+tous les véhicules et autres équipements achetés dans le cadre du Programme 
+sont affectés à l’UCN ou les deux UCPs, aux antennes régionales et aux autres 
+agents d’exécution pour la mise en œuvre du Programme; 
+les  types  de  véhicules  et  autres  équipements  achetés  dans  le  cadre  du 
+Programme sont adaptés aux besoins du Programme; et 
+tous les véhicules et autres équipements transférés ou achetés dans le cadre 
+du  Programme  sont  exclusivement  destinés  à  une  utilisation  pour  le 
+Programme.
+12 
+Cadre logique 
+Chaine Logique 
+Portée 
+Nombre des bénéficiaires 
+indirects du programme 
+dans les provinces du 
+Maniema, Tanganyika, 
+Lomami, Kasai Oriental et 
+Kasai Central 
+1
+3
+Objectif du projet 
+Contribuer à la réduction 
+de la pauvreté rurale et à 
+l'amélioration de la 
+sécurité alimentaires et 
+nutritionnelles et de la 
+résilience climatique  
+Objectif de 
+développement 
+Améliorer durablement les 
+conditions et 
+infrastructures de base 
+permettant d'accroitre la 
+productivité et la 
+compétitivité des chaînes 
+de valeur autour de 3 
+groupes de spéculations 
+agricoles 
+Indicateurs 
+Nom 
+Situation 
+de 
+référence 
+Mi-
+parcours 
+Cible Finale  Source 
+Fréquence 
+Responsabilité 
+Hypothèses 
+Moyens de vérification 
+Enquêtes 
+de 
+référence 
+Equipe UGP  
+La  taille  moyenne  des  ménages  dans  les 
+zones  du  projet  est  fixée  à  6  membres  par 
+ménage. Pour les 2000 jeunes bénéficiaires, 
+la taille du ménage est considérée 1. 
+2 
+Instabilité de la situation politique et 
+économique - Soutien continu du 
+gouvernement au projet 
+1 Nombre de personnes bénéficiant de services promus ou appuyés 
+par le projet 
+Nombre total de personnes 
+bénéficiant de services 
+1230000 
+2464000 
+412333 
+206166 
+103083 
+2464000 
+1230000 
+40 
+60 
+35 
+Homme - Pourcentage (%) 
+Femme – Pourcentage (%) 
+Jeunes - Pourcentage (%) 
+1. a Nombre correspondant de ménages touches 
+Ménages diriges par une femme 
+- Nombre 
+Ménages - Nombre 
+1. b Estimation correspondante du nombre total des membres des 
+ménages 
+Membres des ménages - 
+nombre de personnes 
+Nombre d’hommes et de femmes ayant amélioré la situation 
+économique en termes de revenus (20%), de la diversité alimentaire (d 
+une phase) et de la nutrition 
+Membres des ménages - 
+nombre de personnes  
+Pourcentage d’hommes et de femmes dont la résilience s’est renforcée 
+Homme - Pourcentage (%) 
+Femme – Pourcentage (%) 
+Nombre de bénéficiaires ayant amélioré leur productivité de 50% 
+relative aux chaines de valeur identifiées 
+Bénéficiaires - Nombre 
+Rapport prix produits locaux/prix produits importés 
+1 
+Ratio produits locaux et 
+importés - Ratio (%) 
+1.2.8 Femmes déclarant une amélioration qualitative de leur régime 
+alimentaire 
+Pourcentage - Pourcentage (%) 
+150000 
+330800 
+40 
+60 
+56800 
+19880 
+0.9 
+1.1 
+20 
+50 
+0 
+A
+p
+p
+e
+n
+d
+i
+c
+e
+I
+I
+E
+B
+2
+0
+1
+9
+/
+1
+2
+8
+/
+R
+.
+3
+2
+/
+R
+e
+v
+.
+1
+Effet direct 
+L’intensification de la 
+production et la promotion 
+des systèmes de cultures 
+résilientes sont atteintes 
+Produit 
+Accès durable aux 
+semences sélectionnées, 
+aux intrants, équipements 
+et matériels agricoles 
+adaptés  
+1
+4
+Produit 
+Promotion des techniques 
+culturales respectueuses 
+de l’environnement 
+Effet direct 
+Les capacités post-
+récoltes et de mise en 
+marché des produits sont 
+améliorées 
+Produit 
+Les techniques innovantes 
+de transformation durables 
+sont disponibles  
+Produit 
+4970 
+4970 
+56800 
+42600 
+14200 
+42600 
+14200 
+56800 
+14910 
+14910 
+19880 
+19880 
+1.2.4 Ménages faisant état d'une augmentation de la production 
+Ménages dirigés par une femme 
+- Nombre 
+Ménages autres que ceux ayant 
+une femme pour chef - Nombre 
+Ménages - Nombre 
+3.2.2 Ménages déclarant l’adoption de pratiques et technologies 
+durables et résilientes au changement climatique 
+Ménages dirigés par une femme 
+- Nombre 
+Ménages autres que ceux ayant 
+une femme pour chef- Nombre 
+Ménages - Nombre 
+1.1.3 Producteurs ruraux ayant accès aux facteurs de production et/ou 
+aux paquets technologiques 
+Femme - nombre 
+Homme - nombre 
+Jeunes - nombre 
+Personnes autres que les 
+jeunes - nombre 
+Personnes autochtones - 
+nombre 
+Personnes non autochtones - 
+nombre 
+Producteurs ruraux - Nombre 
+Nombre de producteurs ayant accès durable aux semences  
+Total des producteurs ruraux - 
+Nombre 
+Nombre de filières semencières opérationnelles 
+Filières semencières - Nombre 
+9 
+% de ménages adoptant des pratiques résilientes au changement 
+climatique et respectueuses de l'environnement 
+Ménages - Nombre 
+Ménages - Pourcentage (%) 
+% d’augmentation des quantités transformées respectant les normes 
+de qualité 
+Taux de croissance des produits 
+transformés - Pourcentage (%) 
+31920 
+21280 
+18620 
+34580 
+11172 
+7448 
+6517 
+12103 
+14896 
+35 
+45440 
+80 
+18620 
+18620 
+17689 
+53200 
+53200 
+50540 
+2660 
+931 
+25 
+50 
+9 
+Nombre de personnes formées aux activités post-récolte et de 
+transformation durables 
+Producteurs Ruraux - Nombre 
+19880 
+56800 
+Nombre de partenariats commerciaux signés entre petits producteurs 
+et opérateurs privés 
+Chocs climatiques, phytosanitaires et 
+nuisibles détruisant les cultures 
+Rapports 
+d'activité 
+Annuel 
+UGB et son 
+unité provinciale 
+Disponibilité des entreprises qualifiées. 
+Mobilisation des bénéficiaires 
+Disponibilité de services d'assistance 
+compétents 
+Qualifications des partenaires 
+Vente à des prix rémunérateurs 
+Qualité des services rendus par les unités 
+agroalimentaires partenaires 
+Disponibilité et qualification des experts 
+mobilisés 
+A
+p
+p
+e
+n
+d
+i
+c
+e
+I
+I
+E
+B
+2
+0
+1
+9
+/
+1
+2
+8
+/
+R
+.
+3
+2
+/
+R
+e
+v
+.
+1
+L’accès durable des 
+producteurs et 
+transformateurs au marché 
+est amélioré  
+Effet direct 
+Renforcement des 
+capacités techniques des 
+OP/OPF et des services 
+étatiques et d’autres 
+acteurs 
+1
+5
+Produit 
+Les capacités techniques 
+des OP/OPF sont 
+renforcées 
+Produit 
+Les capacités techniques 
+des services publics 
+nationaux et provinciaux 
+sont renforcées 
+Effet direct 
+Les infrastructures de 
+desserte agricole, de 
+marché, d'énergie 
+renouvelable et sociales 
+sont disponibles en bon 
+état, et accessibles 
+Nombre de contrats - Nombre 
+250 
+500 
+Existence d'un marché rémunérateur pour 
+les secteurs cibles 
+Rapport 
+d'activités  
+Annuel 
+UGB et son 
+unité provinciale; 
+services d'appui 
+640 
+768 
+19200 
+16000 
+2.2.4 Membres des organisations de producteurs ruraux soutenus, 
+déclarant la fourniture par leur organisation de services nouveaux ou 
+améliorés 
+Nombre de membres des 
+organisations de producteurs - 
+Nombre 
+Taille des organisations de 
+producteurs – Nombre de 
+personnes 
+Homme - nombre 
+Femme - nombre 
+Personnes autochtones - 
+nombre 
+Personnes non-autochtones - 
+nombre 
+2.1.3 Organisations de producteurs ruraux soutenues 
+640 
+Organisations de producteurs 
+ruraux soutenues - Nombre 
+Tailles des organisations de 
+producteurs - nombre de 
+personnes  
+Niveau de satisfaction des producteurs utilisateurs des services 
+publics 
+Taux de satisfaction - 
+Pourcentage (%) 
+7680 
+11520 
+960 
+3840 
+5760 
+480 
+16000 
+19200 
+18240 
+9120 
+768 
+35 
+80 
+2.2.6 Ménages déclarant une amélioration de l’accès physique aux 
+marchés, aux installations de traitement et de stockage  
+143733 
+Ménages déclarant une 
+amélioration de l’accès physique 
+aux marchés - Pourcentage (%) 
+410666 
+Taille des ménages – Nombre 
+de personnes 
+Ménages dirigés par une femme 
+- Nombre 
+Ménages autres que ceux ayant 
+une femme comme chef - 
+Nombre 
+Ménages déclarant une 
+amélioration de l’accès physique 
+aux marchés - Nombre 
+A
+p
+p
+e
+n
+d
+i
+c
+e
+I
+I
+E
+B
+2
+0
+1
+9
+/
+1
+2
+8
+/
+R
+.
+3
+2
+/
+R
+e
+v
+.
+1
+Ménages déclarant une 
+amélioration de l'accès physique 
+aux installations de 
+transformation - Nombre 
+Ménages déclarant une 
+amélioration de l’accès physique 
+aux installations de stockage - 
+Nombre  
+2.1.5 Kilomètres de routes construites, refaites ou améliorées 
+Longueur des routes - Longueur 
+(km)  
+Organisations - Nombre 
+153 
+2.1.6 Installations de commercialisation, transformation et stockage 
+construites ou remises en état 
+Installations de 
+commercialisation construites 
+ou remises en état - Nombre  
+Installations de transformation 
+construites ou remises en état - 
+Nombre  
+1040 
+1530 
+104 
+16 
+16 
+10 
+35 
+Installations de stockage 
+construites ou remises en état - 
+Nombre  
+Nombre d’infrastructures d'énergie réhabilitées et/ou construites  
+Petite énergie solaire ou 
+hydroélectrique - Nombre 
+10 
+5 
+35 
+14 
+Nombre de ménages avec accès aux infrastructures sociales (écoles; 
+centres de santé; infrastructures d'eau) 
+Nombre de ménages avec 
+accès aux infrastructures 
+sociales - Nombre 
+Nombre d’infrastructures d’accès à l’eau potable aménagées 
+Forages et sources d'eau 
+potable à construire – Nombre 
+10500 
+30000 
+180 
+120 
+Nombre d’infrastructures de santé aménagées 
+Centres de sante réhabilités et 
+construits - Nombre 
+35 
+Nombre d’infrastructures scolaires aménagées 
+Écoles primaires et secondaires 
+réhabilitées/construites - 
+Nombre 
+Centres de nutrition, éducation et approvisionnement  
+Centre - Nombre 
+35 
+35 
+68 
+70 
+35 
+Produit 
+Les pistes rurales et 
+ouvrages d'arts prioritaires 
+sont réhabilités 
+Produit 
+Les infrastructures de 
+marchés sont réhabilitées 
+et/ou construites 
+1
+6
+Produit 
+Les infrastructures 
+d'énergie renouvelable 
+sont installées 
+Effet direct 
+Les infrastructures 
+sociales respectueuses de 
+l'environnement sont 
+disponibles 
+Produit 
+Les infrastructures d'accès 
+á l'eau potable sont 
+disponibles 
+Produit 
+Les infrastructures de 
+santé sont réhabilitées 
+Produit 
+Les infrastructures 
+scolaires sont réhabilitées 
+Produit 
+Les centres nutritionnels 
+sont construits 
+Disponibilité des entreprises qualifiées 
+A
+p
+p
+e
+n
+d
+i
+c
+e
+I
+I
+E
+B
+2
+0
+1
+9
+/
+1
+2
+8
+/
+R
+.
+3
+2
+/
+R
+e
+v
+.
+1

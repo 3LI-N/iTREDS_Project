@@ -1,0 +1,1773 @@
+Document:
+EB 2015/115/R.8
+Agenda:
+Date:
+Distribution:
+Original:
+6(a)(iii)
+12 August 2015
+Public
+French
+E
+President’s report
+Proposed loan to the Republic of Madagascar
+for the Project to Support Development in the
+Menabe and Melaky Regions – Phase II
+(AD2M-II)
+Note to Executive Board representatives
+Focal points:
+Technical questions:
+Dispatch of documentation:
+Alessandra Zusi Bergés
+Officer-in-Charge
+Governing Bodies Office
+Tel.: +39 06 5459 2092
+e-mail: gb_office@ifad.org
+Ghachem Kadari
+Acting Country Programme Manager
+East and Southern Africa Division
+Tel.: +261 333771769
+e-mail: g.kadari@ifad.org
+Haingo Rakotondratsima
+Country Programme Officer
+Tel.: +261 331530470
+e-mail: h.rakontorndratsima@ifad.org
+Executive Board — 115th Session
+Rome, 15-16 September 2015
+For: Approval
+Contents
+Abbreviations and acronyms
+Map of project area
+Financing summary
+Recommendation for approval
+EB 2015/115/R.8
+ii
+iii
+iv
+1
+I.
+Strategic context and rationale ................................................ 1
+A. Country and rural development and poverty context .....................1
+B. Rationale and alignment with Government priorities and
+RB-COSOP ...............................................................................2
+II. Project description ................................................................... 2
+A. Project area and target group.....................................................2
+B. Project development objectives ..................................................2
+C. Components/outcomes..............................................................2
+III. Project implementation ............................................................ 3
+Approach .................................................................................3
+A.
+B. Organizational framework ..........................................................3
+C. Planning, monitoring and evaluation, and learning and knowledge
+management ...........................................................................4
+D. Financial management, procurement and governance ...................4
+E. Supervision ..............................................................................4
+IV. Project costs, financing and benefits ........................................ 4
+A. Project costs ............................................................................4
+B. Project financing.......................................................................5
+C. Summary benefit and economic analysis .....................................5
+D. Sustainability ...........................................................................6
+E. Risk identification and mitigation ................................................6
+V. Corporate considerations.......................................................... 6
+Compliance with IFAD policies ....................................................6
+Alignment and harmonization .....................................................6
+Innovations and scaling up ........................................................6
+Policy engagement ...................................................................7
+A.
+B.
+C.
+D.
+VI. Legal instruments and authority............................................... 7
+VII. Recommendation...................................................................... 7
+Appendices
+I. Negotiated financing agreement
+II. Logical framework
+i
+EB 2015/115/R.8
+Abbreviations and acronyms
+AD2M
+AD2M-II
+ASAP
+AWPB
+COSOP
+EIRR
+GDP
+IFAD
+M&E
+NSC
+OFID
+PMU
+SDR
+Project to Support Development in the Menabe and Melaky Regions
+Project to Support Development in the Menabe and Melaky Regions
+– Phase II
+Adaptation for Smallholder Agriculture Programme
+annual workplan and budget
+Country Strategic Opportunities Programme
+economic internal rate of return
+gross domestic product
+International Fund for Agricultural Development
+monitoring and evaluation
+National Steering Committee
+OPEC Fund for International Development
+Project Management Unit
+special drawing rights
+UNDAF
+United Nations Development Assistance Framework
+ii
+EB 2015/115/R.8
+Map of project area
+Madagascar
+Proposed loan to the Republic of Madagascar for the Project to Support Development
+in the Menabe and Melaky Regions – Phase II (AD2M-II)
+iii
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2015/115/R.8
+Republic of Madagascar
+Project to Support Development in the Menabe and
+Melaky Regions – Phase II (AD2M-II)
+Financing summary
+Initiating institution:
+Ministry of Agriculture
+Borrower:
+Executing agency:
+Total project cost:
+Amount of IFAD loan:
+Amount of IFAD Adaptation for
+Smallholder Agriculture Programme
+(ASAP) Trust Fund grant:
+Terms of IFAD loan:
+Republic of Madagascar
+Ministry of Agriculture
+US$56.7 million
+SDR 24.5 million (equivalent to approximately
+US$34.4 million)
+SDR 4.2 million (equivalent to approximately
+US$6.0 million)
+Highly concessional: 40 years, including a grace
+period of 10 years, with a service charge of 0.75 per
+cent per annum
+Cofinancier(s):
+OPEC Fund for International Development (OFID)
+Amount of cofinancing:
+US$7.5 million
+Terms of cofinancing:
+100 per cent loan
+Contribution of borrower:
+US$7.7 million
+Contribution of beneficiaries:
+US$1.2 million
+Appraising institution:
+IFAD
+Cooperating institution:
+Directly supervised by IFAD
+iv
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2015/115/R.8
+Recommendation for approval
+The Executive Board is invited to approve the recommendation for the proposed
+loan to the Republic of Madagascar for the Project to Support Development in the
+Menabe and Melaky Regions – Phase II (AD2M-II), as contained in paragraph 45.
+Proposed loan to the to the Republic of Madagascar for
+the Project to Support Development in the Menabe and
+Melaky Regions – Phase II (AD2M-II)
+I. Strategic context and rationale
+A. Country and rural development and poverty context
+1.
+The agricultural sector is the backbone of Madagascar’s national economy,
+accounting for 30 per cent of GDP (2009),1 generating 30 to 40 per cent of exports,
+and employing 80 per cent of Malagasy families on approximately 2.5 million family
+farms. The three subsectors – agriculture, livestock and fisheries – are key to
+reducing poverty and enhancing food security; they support 75 per cent of the
+country’s population, accounting for 86 per cent of all jobs and 60 per cent of youth
+employment. Rice production is the leading economic activity, generating the
+income of approximately 10 million inhabitants. Rice is grown by 86 per cent of
+households, covering 40 per cent of cropland in use and accounting for 37 per cent
+of agricultural cash income.
+2. With an annual average growth rate of 1.5 per cent, sector performance remains
+weak and is among the major causes of rural poverty. Other causes include
+fragmented production, low productivity, rural insecurity, overuse of natural
+resources, vulnerability to natural hazards such as cyclones, droughts and floods,
+and limited access to economic and commercial opportunities due to isolation,
+aging infrastructure and difficulty accessing agricultural markets and rural finance.
+3.
+4.
+The 2009-2013 crisis had negative socioeconomic impacts, resulting in increased
+poverty and, in particular, extreme poverty. The effects of the crisis were
+exacerbated by the suspension of foreign aid, which represented half of the
+country's overall budget. Five years of transition and political instability led to a
+decline in agricultural productivity, further aggravated in 2012 and 2013 by the
+locust infestation, which destroyed as much as 50 per cent of food crops, and
+severe drought, which impacted negatively on agricultural production in most
+regions. In 2012, the national poverty line2 was, at US$0.67 per person per day,
+significantly below the international threshold of US$2. According to the 2015-2019
+United Nations Development Assistance Framework (UNDAF), the poverty rate
+remains high, with 71.5 per cent of people living below the poverty line in 2012.
+In 2010, 35 per cent of Malagasy households were food insecure, against 25 per
+cent in 2005. Acute malnutrition affects 8.6 per cent of children under 5 years of
+age, of whom 1.4 per cent are affected severely. Madagascar is among the four
+countries in the world with the highest prevalence of chronic malnutrition (47.3
+per cent) and ranks fifteenth in terms of the number of children affected (2 million).
+1 Source: Economist Intelligence Unit, Country report, December 2009.
+2 According to the National Institute for Statistics (INSTAT 2013).
+1
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2015/115/R.8
+B. Rationale and alignment with Government priorities and
+5.
+RB-COSOP
+The proposed second phase of the Project to Support Development in the Menabe
+and Melaky Regions (AD2M) is justified on three grounds: (i) macroeconomic
+considerations; (ii) sector-specific considerations; and (iii) as a tool for achieving
+development goals.
+6. With regard to the performance of AD2M, agro-economic opportunities and
+potential, as yet undeveloped. Key actions include: (i) scaling up good practices;
+and (ii) consolidating project benefits through financial allocations under the
+2013-2015 performance-based allocation system (PBAS) cycle. Phase II satisfies all
+of the criteria required to receive financing from IFAD.
+7.
+Given the risks posed by unpredictable rainfall patterns to the production systems
+and populations of Menabe and Melaky, the Adaptation for Smallholder Agriculture
+Programme (ASAP) Trust Fund will support AD2M Phase II (AD2M-II) by
+implementing a strategy focused on the governance of climate risks, and provide
+added value to the resilience and adaptation activities to be developed during the
+second phase.
+II. Project description
+A. Project area and target group
+8.
+AD2M-II will target the same geographical area as the first phase of the project,
+namely the Menabe and Melaky regions, due to: (i) the existence of significant
+agro-economic potential yet to be developed; (ii) the weak coverage of communes3
+in these regions during the first phase of the project; and (iii) the desired
+economies of scale in terms of approach and project costs. The scope of the project
+will be broadened, from 19 to 44 communes, in 7 districts (see appendix II).
+9.
+The target group will be as follows: (i) 35,000 new direct beneficiary households
+belonging to one of the three categories of family farm; and (ii) 22,000 households
+that already benefited from the first phase and will benefit further from cross-
+cutting consolidation activities. A total of 57,000 households will benefit from the
+activities to be implemented under the project, comprising small agricultural
+producers and rural promoters of economic initiatives operating within the
+production poles and the communes linked to them. The number of beneficiaries is
+estimated at 342,000, or 58 per cent of the total population (approximately
+586,000 people) living in the 44 project area communes.
+B. Project development objectives
+10. The objectives of AD2M-II are consistent with those of the 2015-2019 country
+strategic opportunities programme (COSOP). The overall objective is to sustainably
+improve incomes and food security in the productive areas of Menabe and Melaky.
+Its specific objectives are to: (i) scale up effective and climate change resilient
+family farm production systems; and (ii) enhance producers’ access to
+remunerative markets in priority value chains.
+C. Components/outcomes
+11. The updated technical components of the project comprise: (i) the promotion of
+effective and climate change resilient production systems; and (ii) support for
+access to markets and economic opportunities.
+12. The major outcomes expected are improved water management and water balance
+on plots through the redevelopment of 9,120 hectares of hydro-agricultural
+schemes and the development of 6,470 hectares of new land, which will result, in
+the 44 communes of the project area, in accelerated uptake of various improved
+and resilient practices and significant increase in yields and production.
+3 Phase I of AD2M covered 19 out of the 88 communes in the two regions.
+2
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2015/115/R.8
+13.
+In terms of land tenure security, the expected results are the establishment of
+long-term land tenure administrative authorities and structures at the commune or
+inter-communal level (20 land offices, a land tenure information and resource
+centre, etc.) and safeguards for the land rights of small agricultural producers, so
+as to increase investment and improve production methods, yields and incomes.
+14. Expected outcomes in terms of input supply and small agricultural equipment
+include the production of 250 tons of seed by new seed multiplier famers through
+viable businesses integrated into regional and national seed networks, as well as
+the provision of effective inputs and equipment to meet the needs of family farms.
+15.
+16.
+In terms of marketing, 48 producers’ groups will be organized in order to negotiate
+and fulfill production contracts, and 30 per cent of production will be sold on the
+basis of written or oral contracts.
+In terms of rural finance, eight new operational credit unions will be established
+and 8,800 people will benefit from credits, including at least 1,000 from credit with
+training, 3,200 for shared village granaries, and 4,000 for productive credit.
+17.
+Farmers’ organizations will be operational and provide members with services they
+could not obtain individually, especially in collective input supply.
+18. Nutrition education sites and family vegetable gardens will be established, helping
+at least 1,000 vulnerable farming families with children under 5 years of age to
+access a more balanced diet.
+19.
+Four hundred microprojects targeting the most vulnerable households involved in
+the management of natural resources and communal village land will be
+implemented, scaling collective actions to combat deforestation and environmental
+degradation to the village community level so as to foster participatory natural
+resource management.
+III. Project implementation
+Approach
+A.
+20. The adoption of the so-called “production poles” approach, in widespread use since
+the AD2M midterm review, is fully justified in the project area. These should evolve
+into “agricultural development poles”, which will form the centrepiece of the second
+phase. This approach will comprise the concentration4 of productive investments,
+support to agricultural services and efforts to enhance market access focused in
+priority areas. It is in line with the project rationale as fine-tuned during the first
+phase, incorporating the development of productive infrastructure and the
+expansion of arable land, promoting more effective and market-oriented
+smallholder farming as well as the organization of producers. Efforts to build the
+resilience of cropping systems to climate change must be strengthened in the
+second phase. The approach will remain participatory and inclusive.
+21. The ASAP grant financing will be used to consolidate the agricultural resilience
+benefits of AD2M and to provide the missing link in all poles by securing long-term
+investments. The ASAP financing will support in particular production- and
+productivity-building activities that are most likely to withstand the impacts of
+climate change over the long term while generating immediate socio-economic
+benefits.
+B. Organizational framework
+22. The project will remain under the authority of the Ministry of Agriculture as the lead
+implementing agency. The bodies responsible for the coordination and guidance of
+the project will remain the same: (i) the National Steering Committee (NSC), which
+will ensure project alignment with national strategies; and (ii) the regional
+orientation and monitoring committees, which will ensure in particular the
+4 This in the context of a large and isolated project area with high potential, taking into account limited financial resources.
+3
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2015/115/R.8
+alignment of annual work plans and budgets (AWPBs) with the regional priorities in
+Menabe and Melaky. The existing Project Management Unit (PMU) will continue
+coordination and management, and its staff will be strengthened to take account of
+the constraints of expansion into new communes (isolation, poles, etc.). The
+performance of both project staff and staff of locally-based partner NGOs will be
+evaluated annually against the functions and objectives as set out in the AWPB.
+C. Planning, monitoring and evaluation, and learning and
+knowledge management
+23. The PMU will consolidate AWPBs, prepared in accordance with established standards
+and on time. It will be responsible for project implementation and for organizing
+and administering the meetings of the regional orientation and monitoring
+committees and the NSC. The AWPB will be approved by the NSC and transmitted
+to IFAD for approval before the first disbursements are made from the ASAP grant
+and IFAD loan.
+24. The monitoring and evaluation (M&E) system will comprise: i) continuous
+systematic internal monitoring, not only to track the implementation of activities
+planned in the AWPB but primarily to ensure the attainment of various outcomes
+contained in the new project logical framework. A climate change adaptation
+specialist with expertise in geographic information system (GIS) and participatory
+farmers’ field schools will be recruited (with ASAP financing) to serve as a key
+resource throughout the project. Participatory mapping activities involving farmers’
+field schools will provide system inputs. The baseline survey for the second phase
+of the project will also serve as the impact survey for the evaluation of the first
+phase.
+25. An M&E plan will be developed to improve the coordination and implementation of
+activities. The project M&E manual will be revised to reflect the new provisions and
+various improvements to be made to M&E. Monitoring will be participatory so as to
+facilitate the transfer and building of development self-management capacities
+among the population.
+D. Financial management, procurement and governance
+26. The manual of administrative, financial and accounting procedures developed
+during the first phase will be reviewed and updated. Existing procedures will remain
+in place, to be supplemented where necessary. The financial management and
+accounting of the project will respect the existing rules and practices applicable to
+all IFAD-financed project in Madagascar. The existing accounting software will be
+updated and accounting staff will undergo training. Aspects relating to financial
+management and flow of funds are detailed in appendix 7 of the project design
+report, “Financial management and disbursement systems”.
+27. During the second phase, the procurement procedures will be identical to those
+already used by AD2M, respecting the applicable rules and general provisions in
+this area in Madagascar and IFAD.
+E. Supervision
+28. The East and Southern Africa Division of IFAD will directly supervise the project.
+IFAD and the Government of Madagascar will jointly conduct a midterm review at
+the end of the third year. The supervision plan is provided in appendix 6 of the
+project design report.
+IV. Project costs, financing and benefits
+A. Project costs
+29. The total project cost, including material and financial contingencies, for the
+2016-2022 period is estimated at US$56.7 million.
+30. Component 1: Promotion of effective and climate change resilient production
+systems, will cost approximately US$40.8 million (72 per cent of the total project
+4
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2015/115/R.8
+cost); component 2: Support for access to markets and economic opportunities, will
+cost US$7.0 million (12 per cent); and the coordination, management and
+monitoring and evaluation system will cost US$8.9 million (16 per cent).
+Table 1
+Project costs by component and financier
+(Millions of United States dollars)
+Component
+1. Promotion of effective and climate change
+resilient production systems
+2. Support for access to markets and
+economic opportunities
+3. Project management and monitoring and
+evaluation
+Total
+IFAD loan
+Amount
+ASAP grant
+Amount
+OFID
+Amount
+Beneficiaries
+Amount
+Government
+Amount
+Total
+Amount
+20.2
+6.1
+8.1
+34.4
+5.8
+7.5
+1.2
+0.2
+6.0
+7.5
+1.2
+6.1
+1.0
+0.5
+7.6
+40.8
+7.0
+8.9
+56.7
+B. Project financing
+31. The project will be financed by: (i) an IFAD loan of US$34.4 million (60.7 per cent);
+(ii) an ASAP grant of US$6 million (10.6 per cent); (iii) OFID cofinancing of
+US$7.5 million (13.2 per cent); (iv) a Government of Madagascar contribution of
+US$7.7 million (13.5 per cent); and (v) a beneficiary contribution of US$1.2 million
+(2 per cent).
+Table 2
+Project costs by expenditure category and financier
+(Millions of United States dollars)
+Expenditure category
+1. Consultations
+2. Construction
+3. Equipment and
+materials
+4. Training
+5. Salaries/allowances
+6. Operating costs
+Total
+IFAD loan
+ASAP grant
+OFID
+Beneficiaries
+Government
+Amount
+9.9
+11.3
+% Amount
+0.7
+7.7
+87.7
+42.0
+% Amount
+-
+7.5
+6.6
+6.5
+% Amount
+-
+1.2
+-
+27.9
+% Amount
+0.7
+5.2
+-
+4.3
+5.2
+2.6
+4.0
+1.4
+34.4
+62.6
+60.5
+95.7
+80.0
+60.7
+1.7
+1.7
+0.1
+-
+6.0
+20.3
+39.5
+3.3
+10.6
+-
+-
+-
+-
+7.5
+-
+-
+-
+13.2
+-
+-
+-
+1.2
+-
+-
+-
+-
+2.0
+1.4
+0
+0.04
+0.30
+7.7
+%
+5.8
+19.3
+17.1
+0.9
+20.0
+13.5
+Total
+Amount
+11.3
+26.9
+8.3
+4.3
+4.2
+1.7
+56.7
+C. Summary benefit and economic analysis
+32. Based on projections, the economic internal rate of return (EIRR) of the project will
+be 14.75 per cent. This EIRR, which is well above the opportunity cost of capital
+(8.2 per cent), is satisfactory given that some additional benefits have not been
+taken into account, including those generated by support activities (construction,
+equipment, training) and those deriving from technical assistance, training,
+information and awareness-raising support. Furthermore, the benefits of improving
+land tenure security have not been fully reflected since they are difficult to
+quantify; these include investments linked to local land tenure plans, socio-land
+tenure analysis, land tenure mediation for the allocation of new plots;
+strengthening land offices, partner capacities and training on offer; reducing
+transaction costs by improving access to financial services and technology; and
+improving living standards, hygiene and nutrition among the project target group.
+33.
+In conclusion, the EIRR is robust with respect to changes in costs or benefits, and
+remains satisfactory given that it does not take a number of direct and indirect
+benefits into account. The sensitivity analysis, calculated over an extended
+economic lifecycle of 20 years, assesses the risks that may constrain AD2M-II
+implementation as a result of adverse changes in economic or financial conditions,
+including increased prices. Under conditions favourable to the project, such as
+increased benefits or reduced costs, the EIRR would further exceed the base rate of
+14.75 per cent.
+5
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2015/115/R.8
+D. Sustainability
+34.
+From the outset of AD2M-II, the PMU will develop an exit strategy, which it will
+implement, transferring responsibilities to project-supported structures, including
+communes and farmers’ organizations. The sustainability of the strategy depends
+on the assumption of responsibility by producers. The sustainability of land tenure
+security will be guaranteed by its inclusion in a proactive national policy and by the
+institutionalization, at all territorial levels, of decentralized structures and specific
+implementation modalities. It will remain, nonetheless, dependent on the
+sustainability of such structures, especially land offices. The sustainability of
+hydro-agricultural developments will depend primarily on the management and
+maintenance of irrigation networks. The simple gravity model chosen for irrigation
+networks takes into account the weak technical capacity of the management
+structure, which relies primarily on users through water users’ associations; such
+associations should be involved in the project from the outset, strengthened,
+supported and ultimately transferred responsibility for managing irrigation
+schemes.
+E. Risk identification and mitigation
+35. The major risks relate to governance, the severity of the climate, the destructive
+effects of climate change on social and production capital of small producers, locust
+infestation and physical insecurity, especially cattle rustling. Administrative and
+financial management risks are considered low, relating primarily to the lack of an
+operational internal audit system for IFAD projects in Madagascar. A detailed table
+of risks and mitigation measures is presented in chapter III, F and in appendix 4 of
+the project design report.
+V. Corporate considerations
+A.
+Compliance with IFAD policies
+36. AD2M-II project design is aligned with IFAD’s mandate and Strategic Framework
+2011-2015. Project activities are aligned with IFAD’s Madagascar COSOP
+2015-2019, in particular strategic objective 1: the widespread adoption of effective
+and climate change resilient production systems.
+Alignment and harmonization
+B.
+37. The AD2M-II objectives are aligned with: (i) the General Government Policy,
+adopted in May 2014; (ii) the 2015-2019 National Development Plan; (iii) the
+2015-2025 Agriculture, Livestock and Fishery Sectoral Programme, based on the
+priorities and commitments agreed upon by the main sector stakeholders under the
+National Pact, which marked Madagascar’s official accession to the Comprehensive
+Africa Agriculture Development Programme; and (iv) the National Policy to Combat
+Climate Change. The AD2M-II objectives are consistent with the 2015-2019 UNDAF
+objectives, since the project will contribute substantively to the five pillars of
+economic and social development.
+Innovations and scaling up
+C.
+38. The first phase of the project resulted in the adoption of numerous innovations in
+the project area. The results have been satisfactory and the following innovations
+will be scaled up during the second phase: i) farmers’ field schools; ii)
+agro-ecological techniques recently introduced and popularized by the project
+through farmers’ field schools; iii) off-season growing for vulnerable smallholders
+with no irrigated land; and iv) the taxation, identification and certification combined
+operation approach in project-supported land offices.
+39. The learning process will continue, in particular by capitalizing on experiences and
+instituting systematic exchanges with other rural development stakeholders,
+especially projects financed by IFAD and other technical and financial partners
+(such as the Japan International Cooperation Agency Central Highlands Rice
+Productivity Improvement Project and the World Bank Emergency Food Security
+6
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2015/115/R.8
+and Social Protection Project). The project will benefit from knowledge built in
+similar areas by other successful projects in the country: i) access to markets and
+marketing (the Rural Income Promotion Programme and the Support Porgramme
+for Rural Microenterprises and Regional Economies); and ii) agricultural advisory
+services and the strengthening of professional organizations.
+40. Climate change adaptation is also among the key themes. The ASAP financing will
+help strengthen activities aimed at building farmers’ resilience to the effects of
+climate change: hydro-agricultural development, including spate-irrigated areas,
+reforestation, agro-ecology and natural resource management approaches in
+general. Project implementation will thus provide the knowledge base and solid
+expertise to replicate and expand the application of alternative activities to build
+resilience to climate change.
+Policy engagement
+D.
+41. AD2M-II is anchored in the economy and the institutional environment at the
+communal and regional levels. It promotes decentralization and the organization of
+stakeholders at the local level so as to ensure the sustainability of investments. The
+project incorporates activities relating to policy consultation, capacity-building,
+farmers’ organizations, land tenure security, rural finance and knowledge
+management.
+VI. Legal instruments and authority
+42. A project financing agreement between the Republic of Madagascar and IFAD will
+constitute the legal instrument for extending the proposed financing to the
+borrower. A copy of the negotiated financing agreement is attached as appendix 1.
+session.
+43. The Republic of Madagascar is empowered under its laws to receive financing from
+IFAD.
+44.
+I am satisfied that the proposed financing will comply with the Agreement
+Establishing IFAD and the Policies and Criteria for IFAD Financing.
+VII. Recommendation
+45.
+I recommend that the Executive Board approve the proposed financing in terms of
+the following resolution:
+RESOLVED: that the Fund shall provide a loan on highly concessional terms to
+Republic of Madagascar in an amount equivalent to twenty-four million five
+hundred thousand special drawing rights (SDR 24,500,000), and upon such
+terms and conditions as shall be substantially in accordance with the terms
+and conditions presented herein.
+FURTHER RESOLVED: that the Fund shall provide a grant to the Republic of
+Madagascar through the Adaptation for Smallholder Agriculture Programme in
+an amount equivalent to four million two hundred thousand special drawing
+rights (SDR 4,200,000), and upon such terms and conditions as shall be
+substantially in accordance with the terms and conditions presented herein.
+Kanayo F. Nwanze
+President
+7
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+Appendix I
+EB 2015/115/R.8
+Negotiated financing agreement
+VERSION DU 24 JUILLET 2015
+TEXTE NEGOCIE
+PRÊT NO. [numéro]
+DON ASAP NO. [numéro]
+ACCORD DE FINANCEMENT
+PROJET D’APPUI AU DEVELOPPEMENT DU MENABE ET MELAKY –
+PHASE II (AD2M-II)
+entre la
+RÉPUBLIQUE DE MADAGASCAR
+et le
+FONDS INTERNATIONAL DE DEVELOPPEMENT AGRICOLE
+et le
+LE FONDS FIDUCIAIRE POUR LE PROGRAMME D’ADAPTATION DE L’AGRICULTURE PAYSANNE
+En date du [date]
+Signé à [ville, pays]
+1
+Appendix I
+EB 2015/115/R.8
+ACCORD DE FINANCEMENT
+Numéro du prêt: [introduire le numéro]
+Numéro du don ASAP: [introduire le numéro]
+Nom du Projet: Projet d’Appui au Développement du Menabe et Melaky – Phase II
+(AD2M-II) (“le Projet”)
+La République de Madagascar (“l’Emprunteur”)
+et
+Le Fonds international de développement agricole (“le Fonds’’ ou “le FIDA”)
+et
+Le Fonds fiduciaire pour le Programme d’adaptation de l’agriculture paysanne (ASAP)
+(“le Fonds fiduciaire ASAP”)
+(désigné individuellement par “la Partie’’ et collectivement par “les Parties”)
+conviennent par les présentes de ce qui suit:
+PREAMBULE
+ATTENDU  QUE le  Fonds  a  accepté  d'accorder  un  prêt  à  l'Emprunteur  pour  contribuer
+au  financement  du  Projet,  conformément  aux  modalités  et  conditions  établies  dans  le
+présent Accord;
+ATTENDU  QUE,  lors  de  sa  cent  cinquième  session,  le  Conseil  d’administration  du
+Fonds  a  approuvé  la proposition  de  création  d’un  Fonds  fiduciaire  pour  le  Programme
+d’adaptation  de  l’agriculture  paysanne  (ASAP)  du  FIDA  aux  fins  du  financement,  sous
+forme  de  dons,  d’éléments  du  portefeuille  des  projets  et  programmes  financés  par  le
+FIDA,  en  vue  de  renforcer  la  capacité  d’adaptation  des  petits  paysans  au  changement
+climatique dans les cinq domaines correspondant aux principaux résultats du programme
+ASAP;
+ATTENDU  QU’il  résulte,  notamment,  de  ce  qui  précède  que  le  Fonds  ainsi  que  le
+Fonds fiduciaire ASAP ont accepté d’accorder un prêt et un don ASAP à l'Emprunteur pour
+contribuer  au  financement  du  Projet  conformément  aux  modalités  et  conditions  établies
+dans le présent Accord;
+ATTENDU  QUE l'Emprunteur a  obtenu  du  Fonds  de  l’Organisation  des  Pays
+Exportateurs de Pétrole (OPEP) pour le Développement International (le Fonds OPEP) un
+prêt  pour  contribuer  au  financement  des  infrastructures  du  Projet  aux  conditions  et
+modalités qui sont indiquées dans un accord séparé conclu entre l’Emprunteur et le Fonds
+de l’OPEP.
+EN FOI DE QUOI, les Parties conviennent par les présentes de ce qui suit:
+2
+Appendix I
+Section A
+EB 2015/115/R.8
+1.
+Le  présent  accord  comprend  l’ensemble  des  documents  suivants:  le  présent
+document, la description du Projet et les dispositions relatives à l’exécution (annexe 1),
+le tableau d’affectation des fonds (annexe 2), et les clauses particulières (annexe 3).
+2.
+Les Conditions générales applicables au financement du développement agricole en
+date  du  29  avril  2009,  amendées  en  avril  2014,  et  leurs  éventuelles  modifications
+postérieures  (“les  Conditions  générales”)  sont  annexées  au  présent  document,  et
+l’ensemble des dispositions qu’elles contiennent s’appliquent au présent accord. Aux fins
+du présent accord, les termes dont la définition figure dans les Conditions générales ont
+la signification qui y est indiquée.
+3.
+Le  Fonds  accorde  à  l’Emprunteur  un  prêt  et  le  Fonds  Fiduciaire  ASAP  un  don
+(l’ensemble constituant “le financement”), que l’Emprunteur utilise aux fins de l’exécution
+du Projet, conformément aux modalités et conditions énoncées dans le présent accord.
+Pour les besoins du présent accord, le terme « Emprunteur » s’applique également
+4.
+à la République de Madagascar en tant que bénéficiaire du don.
+Section B
+A.
+1
+droits de tirage spéciaux (24 500 000 DTS).
+Le  montant  du  prêt  du  Fonds  est  de  vingt-quatre  millions  cinq  cent  mille
+B.
+Le montant du don du Fonds fiduciaire ASAP est de quatre millions deux cent
+quatre-vingt mille droits de tirage spéciaux (4 280 000 DTS).
+Le prêt du Fonds est accordé à des conditions particulièrement favorables, soit une
+2
+commission  de  service  de  0,75%  l’an  et  un  délai  de  remboursement  de  40  ans  assorti
+d’une période de grâce de 10 ans.
+3.
+L’exercice financier débute le 1er janvier et clôture le 31 décembre.
+Le  remboursement  du  principal  et  le  paiement  de  la  commission  de  service  sont
+4.
+exigibles le 25 avril et le 25 octobre .
+5.
+Deux comptes désignés libellés en dollars des Etats-Unis (USD) destinés à recevoir
+les fonds provenant du prêt du Fonds et du don du Fonds fiduciaire ASAP sont ouverts au
+nom de l’Emprunteur auprès de la Banque Centrale de la République de Madagascar.
+6.
+L'Emprunteur fournit des fonds de contrepartie aux fins du Projet en monnaie locale
+pour  un  montant  équivalent  à  7,7  millions  USD.  Ces  fonds  représentent  la  contribution
+monétaire de l’Emprunteur au financement du Projet sur ses ressources propres internes,
+ainsi  que  l’ensemble  des  droits,  impôts  et  taxes  sur  les  biens  et  services  grevant  le
+Projet.  Un  compte  de  Projet  sera  ouvert  en  monnaie  locale auprès  du  Trésor  public  ou
+d’un  établissement  bancaire  acceptable  pour  le  Fonds  afin  de  recevoir  la  contribution
+monétaire de l’Emprunteur.
+Section C
+1.
+L’agent principal du Projet est le Ministère en charge de l’Agriculture .
+La  date  d’achèvement du    Projet  est  fixée  au  septième  anniversaire  de  la  date
+2.
+d’entrée en vigueur du présent accord.
+3
+Appendix I
+Section D
+EB 2015/115/R.8
+Le Fonds assure l’administration du prêt du Fonds et du don du Fonds fiduciaire ASAP et
+la supervision du Projet.
+Section E
+1.
+Le présent accord est soumis à la ratification de l’Emprunteur.
+Toutes  les  communications  ayant  trait  au  présent  accord  doivent  être  adressées
+2.
+aux représentants dont le titre et l’adresse figurent ci-dessous:
+Pour l’Emprunteur:
+Ministère des Finances et du Budget
+B.P. 62, 101 Antananarivo
+République de Madagascar
+Pour le FIDA:
+Président
+Fonds international de développement agricole
+Via Paolo di Dono 44
+00142 Rome, Italie
+Pour le fonds fiduciaire pour le Programme d’adaptation
+de l’agriculture paysanne (ASAP) :
+Président du Fonds international de développement
+agricole
+En sa qualité de gestionnaire du fonds fiduciaire pour le
+Programme d’adaptation de l’agriculture paysanne (ASAP)
+Fonds international de développement agricole
+Via Paolo di Dono, 44
+00142 Rome, Italie
+4
+Appendix I
+EB 2015/115/R.8
+Le présent accord, en date du [introduire date], a été établi en langue française en deux
+(2) exemplaires originaux, un (1) pour le Fonds et un (1) pour l'Emprunteur.
+REPUBLIQUE DE MADAGASCAR
+___________________
+Pour l’Emprunteur
+[introduire nom et titre]
+FONDS INTERNATIONAL DE DEVELOPPEMENT AGRICOLE
+_____________________
+Kanayo F. Nwanze
+Président
+FONDS FIDUCIAIRE POUR LE PROGRAMME D'ADAPTATION
+DE L'AGRICULTURE PAYSANNE
+_____________________________________________
+Kanayo F. Nwanze
+Président du Fonds international de développement
+agricole
+En sa qualité de gestionnaire du Fonds fiduciaire pour le
+Programme d’adaptation de l’agriculture paysanne (ASAP)
+5
+Appendix I
+EB 2015/115/R.8
+Annexe 1
+Description du Projet et Dispositions relatives à l’exécution
+I.
+Description du Projet
+Zone du Projet. Le Projet interviendra dans les mêmes régions que le Projet d’Appui
+1.
+au Développement du Menabe et Melaky (AD2M) et élargira son champ d'action à 25
+communes portant le nombre total de communes à 44.
+2.
+Populations cibles. Le Projet ciblera les exploitations agricoles familiales (EAF) selon
+une typologie des EAF en trois niveaux, à savoir : i) les EAF de type 1  tournées vers le
+marché; ii) les EAF de type 2 en situation d’autosuffisance alimentaire; et iii) les EAF de
+type  3  conjoncturellement  ou  chroniquement  déficitaires  en  produits  vivriers,  en
+conformité avec le COSOP  et les documents de référence nationaux. La population cible
+comprend 57 000 ménages. Le Projet touchera environ 342 000 bénéficiaires directs.
+Finalité. L’objectif global est de contribuer à l' amélioration durable des revenus et
+3.
+de la sécurité alimentaire des exploitations agricoles des régions du Menabe et Melaky.
+4.
+Objectifs. Les objectifs spécifiques sont i) l'adoption à large échelle de systèmes de
+production  des  EAF  performants  et  résilients  au  changement  climatique  et;  ii)
+l'amélioration  de  l'  accès  des  producteurs  aux  marchés  rémunérateurs  dans  le  cadre  de
+filières prioritaires.
+Composantes.
+5.
+composantes et sous-composantes suivantes :
+Les  objectifs  du  Projet  sont  structurés  autour  des 
+trois
+Composante 1:  Promotion des systèmes de production performants et résilients
+au changement climatique
+La composante a pour objectif la valorisation durable des systèmes de cultures pratiqués
+sur les périmètres irrigués, les terres de baiboho et de tanety.
+Sous composante 1.1 : Développement d'infrastructures productives résilientes
+La sous-composante sera articulée autour de 2 volets :
+Planification territoriale (plan communal de développement et schéma
+1.1.1.
+d’aménagement communal); et
+1.1.2.
+Aménagements hydro-agricoles.
+Sous composante 1.2 : Organisation et formation des producteurs
+Les activités de la sous composante porteront sur l’appui à l'organisation et la formation
+des producteurs, notamment en ce qui concerne la gestion des moyens communs de
+production et l’éducation nutritionnelle.
+6
+Appendix I
+EB 2015/115/R.8
+Sous composante 1.3 : Appui aux services agricoles
+La sous-composante sera articulée autour de 4 volets :
+1.3.1. Sécurisation foncière;
+1.3.2. Conseil agricole et appui à la gestion des ressources naturelles;
+1.3.3. Appui à l’accès de proximité des producteurs aux intrants et petit matériel
+agricole; et
+1.3.4. Microprojets aux plus vulnérables.
+Composante 2: Appui à l'accès aux marchés et aux opportunités économiques
+La composante a pour objectifs de renforcer la viabilité économique des investissements
+réalisés au niveau des pôles par des actions d’accompagnement appropriés, tant en
+amont qu’en aval de la production.
+Sous composante 2.1 : Infrastructures de désenclavement, stockage et
+valorisation des produits
+La sous-composante sera articulée autour de 2 volets :
+2.1.1 Infrastructures de désenclavement; et
+2.1.2 Infrastructures de stockage et de valorisation des produits.
+Il est envisagé dans le cadre de cette sous-composante l'amélioration de l'accès aux
+bassins de production, la consolidation et le développement du transport fluvial pour le
+désenclavement des bassins de production , ainsi que le renforcement de la chaîne post-
+récolte afin de consolider l’autonomie et la croissance économique des producteurs.
+Sous composante 2.2 : Appui aux organisations paysannes, au partenariat
+organisations paysannes (OP)/ opérateurs de marché (OM) et accès aux
+services financiers
+La sous-composante sera articulée autour de 2 volets :
+2.2.1 Organisation professionnelle des producteurs et appui au partenariat
+OP/OM; et
+2.2.2 Finance rurale.
+Il  est  envisagé  dans  le  cadre  de  cette  sous-composante  qu’environ  48  groupements  de
+producteurs  soient  organisés  et  capables  de  négocier  et  honorer  des  contrats  de
+production, que 30% de la production soit vendue sur la base de relations contractuelles
+écrites ou  orales.  En  outre,  il  est  envisagé  que  8  nouvelles  caisses  deviennent
+opérationnelles et que 8 800 personnes bénéficient de crédits.
+Composante 3: Coordination, Gestion du Projet et suivi-évaluation
+La coordination et la gestion restent assurées par l' unité de gestion du Projet (UGP) en
+place  dans  le  cadre  d’AD2M,  dont  l'effectif  actuel  sera  complété  pour  prendre  en
+considération  les  contraintes  liées  à  l’extension  dans  les  nouvelles  communes  dans  le
+cadre du Projet.
+Les procédures de gestion seront identiques à celles en vigueur dans le cadre d’AD2M et
+établies  dans  le  manuel  des  procédures  administratives,  financières,  budgétaires  et
+7
+Appendix I
+EB 2015/115/R.8
+comptables d'AD2M. Les procédures de passation de marché seront celles utilisées dans
+le cadre d’AD2M, conformément aux règles de passation de marchés du gouvernement et
+du Fonds.
+Le  système  de  suivi-évaluation  sera  fondé  sur  un  suivi  interne  systématique  et
+permanent,  dans  le  but  de  suivre  la  mise  en  œuvre  des  activités  prévues  aux
+programmes  de  travail  et  budget  annuels  (PTBA),  ainsi  que  l’obtention  des  différents
+résultats définis par le cadre logique du Projet. L’enquête de base du Projet correspondra
+à  l’enquête  d’impact  pour  l’évaluation  d’AD2M,  complétée  par  une  enquête  de  situation
+de  référence  dans  les  25  communes  additionnelles.  Le  don  du  Fonds  Fiduciaire  ASAP
+renforcera  l’UGP  à  travers  l’intégration  du  Système  d’Information  Géographique  (SIG)
+comme  espace  de  planification  en  finançant  les  renforcements  de  capacités  et  les
+équipements  nécessaires.  Le  système  sera  alimenté  à  travers  des  activités  de
+cartographie  participative  et  l’implication  des  Champs  Ecoles  Paysans  (CEP). La  Cellule
+d'appui au programme  FIDA (CAPFIDA) appuiera le Projet au niveau  de la capitalisation
+des  expériences  et  des  savoirs,  et  de  la  consolidation  des  résultats  au  niveau  du
+Programme-pays.
+II.
+Dispositions relatives à l’exécution
+A.
+ORGANISATION ET GESTION DU PROJET
+1.
+Agent principal du Projet
+Le Ministère en charge de l’Agriculture de l’Emprunteur, en sa qualité d’Agent principal du
+Projet, assume l’entière responsabilité de l’exécution du Projet.
+2.
+Pilotage du Projet
+Le pilotage du Projet est assuré à deux niveaux: national et régional. L'orientation et le
+pilotage du Projet sont maintenus à travers un Comité national de pilotage (CNP) et  des
+Comités régionaux d'orientation et de suivi (CROS).
+2.1.
+Comité national de pilotage (CNP)
+2.1.1. Établissement. Le CNP a été créé dans le cadre de l' AD2M. Il se réunira en séance
+ordinaire deux fois par an et en séance extraordinaire si nécessaire.
+Le  CNP  est  présidé  par  le  Secrétaire  Général  du  Ministère  en
+2.1.2. Composition.
+charge  de  l’Agriculture  et  comprend  les  membres  suivants:  i)  le  Représentant  du
+Ministère en charge de l’Aménagement du Territoire; ii) le Représentant du Ministère en
+charge des Finances; iii) le Représentant du Ministère en charge des Travaux Publics; iv)
+le  Chef  de  Région  Menabe;  v)  le  Chef  de  Région  Melaky ;  vi)  le  Président  National  du
+Tranoben’ny  Tantsaha  (Chambre  de  l’Agriculture);  vii)  le  Président  du  Conseil
+d’Administration  du  FIFATA  (Organisation  paysanne  faîtière);  viii)  le  Président  de  la
+le
+Coalition  Paysanne  de  Madagascar  (Organisation  paysanne 
+Coordonnateur du Projet (qui assure le secrétariat).
+faîtière)  et 
+ix) 
+8
+Appendix I
+EB 2015/115/R.8
+2.1.3. Responsabilités.    Le  CNP  assurera  le  pilotage  stratégique  du Projet  au  niveau
+national  et  aura  pour  rôle:  i)  de  veiller  au  respect  des  objectifs  et  de  la  stratégie
+d’intervention du Projet  et à la cohérence de ce dernier avec les politiques nationales et
+sectorielles;  ii)  de  garantir  la  coordination  du  Projet  avec les  autres  programmes
+nationaux; iii) de faciliter la coordination entre ministères et institutions et les échanges
+d’informations;  iv)  de  valider  les  rapports  annuels  techniques  et  financiers  ainsi  que les
+PTBA;  v)  de  suivre  l’application  des  recommandations  des  différentes  missions  de
+supervision  et  d’appui;  et  vi)  de  faire  des  recommandations  sur  les  changements
+nécessaires en vue d’assurer la réalisation des objectifs du Projet.
+2.2 Comité régional d’orientation et de suivi (CROS)
+Établissement.  . Les CROS pour la région du Menabe et pour la région du
+2.2.1.
+Melaky ont été créés dans le cadre de l' AD2M. Chaque CROS se réunira en séance
+ordinaire une fois par an et en séance extraordinaire si nécessaire.
+2.2.2.
+Composition.   Chaque CROS sera composé des représentants au niveau
+régional des organisations de producteurs, des responsables des services techniques
+déconcentrés, des représentants des différents projets actifs dans la région. Le CROS
+sera présidé par le Chef de région.
+2.2.3.
+Responsabilités.  Le CROS aura pour responsabilités: i) d’assurer la cohérence
+entre  le  Projet  et  les  orientations  générales  de  développement  de  la  région;  ii)
+d’examiner  les  PTBA  avant  leur  soumission  au  CNP;    et  iii)  de  faciliter  sur  le  terrain  la
+concertation  avec
+leur
+complémentarité et leur synergie.
+les  partenaires  stratégiques  en  vue  de  promouvoir 
+3.
+Coordination du Projet
+Établissement.  L’UGP actuellement en place dans le cadre de l'AD2M assurera la
+3.1.
+coordination du Projet.
+3.2. Composition.  Le personnel de l' UGP en place sera complété pour tenir compte de
+l’extension dans les nouvelles communes, ainsi que la prise en charge du volet
+changement climatique financé par le don du Fonds fiduciaire ASAP. Le personnel
+supplémentaire à prévoir comprend un responsable des opérations, un responsable
+logistique et un spécialiste changement climatique.
+3.3. Responsabilités. Les responsabilités de l' UGP sont celles prévues dans le cadre de
+l' AD2M auxquelles s'ajoutent des responsabilités liées au volet du changement
+climatique.
+B.
+4.
+MISE EN ŒUVRE DU PROJET ET PARTENARIAT
+Approche
+4.1 Le Projet adoptera une approche par  « pôles de développement agricole », à savoir
+une  approche  de  concentration  d’investissements  productifs,  d’appui  aux  services
+agricoles  et  à  l'accès  aux  marchés,  dans  des  bassins  prioritaires.  Elle  suit  la  logique
+d'intervention  affinée  dans 
+l’aménagement
+d'infrastructures  productives  et  l’extension  des  terres  cultivables,  la  promotion  d'une
+agriculture  paysanne  plus performante  et  tournée  vers  le  marché,  et  l’organisation  des
+producteurs. La résilience des systèmes de cultures au changement climatique sera une
+dimension importante du Projet.
+cadre  d’AD2M,  en 
+intégrant 
+le 
+9
+Appendix I
+EB 2015/115/R.8
+4.2 L'approche  demeurera  participative  et  inclusive,  en  ce  sens  qu'  elle  responsabilise
+les  bénéficiaires  tout  au  long  du  processus  (diagnostic,  planification,  mise  en  œuvre,
+suivi), réserve un mécanisme d’inclusion des groupes vulnérables (microprojets aux plus
+vulnérables, accès à la terre, crédit avec éducation) et  capitalise sur les leçons apprises
+et les acquis d’AD2M.
+5.
+Mise en œuvre
+5.1. Le  Projet  continuera  à  pratiquer    une  politique  de  "faire-faire'".  La  mise  en  œuvre
+des  activités  du  Projet  sera  confiée  à  des  organismes  partenaires  ou  prestataires  de
+services  spécialisés  (organisations  non-gouvernementales  de  terrain  (ONGT),  bureaux
+d'études,  entreprises  privées,  services  techniques  déconcentrés), selon  les  besoins.  Au
+niveau  des  ONGT,  l’effectif  actuel  des  socio-organisateurs  sera  ajusté  en  tenant  compte
+des spécificités de la zone du Projet. L'UGP  sera associée à la sélection des techniciens,
+qui devront disposer d'une expérience pratique reconnue en développement agricole.
+5.2 En outre, il est prévu que les activités du Projet soient mises en œuvre rapidement
+au  travers  de  la  mise  en  chantier  d'une  première  vague  de  travaux  d’aménagements
+hydro-agricoles  et  de  la  disponibilité  des  ONGT  ayant  déjà  une  bonne  connaissance
+d’AD2M, et disposant de bonnes capacités dans la zone du Projet.
+6.
+Partenariat
+Les partenaires pour l’exécution du Projet seront, notamment, les suivants:
+i)
+ii)
+iii)
+iv)
+v)
+vi)
+vii)
+l'Union  Européenne  pour  la  réhabilitation  d'une  portion  de  la  route  nationale
+tertiaire  RNT8  reliant  les  deux  chefs-lieux  de  régions,  facilitant  l'accès  à  des
+pôles d'extension prévus;
+l’Agence de coopération internationale du Japon (JICA) dans les échanges et le
+partage des connaissances et des bonnes pratiques notamment avec le Projet
+PAPRIZ phase II dans le domaine de la riziculture ;
+le  Projet  d'urgence  pour  la  sécurité  alimentaire  et  la  protection  sociale
+(PURSAPS), financé par la Banque mondiale, et qui finance des infrastructures
+d'irrigation dans un district d'extension du Projet dans le Menabe;
+le  Programme  de 
+formation  professionnelle  et  d'  amélioration  de  la
+productivité  agricole  (FORMAPROD),  financé  par  le  FIDA,  et  qui  finance  déjà
+une partie du pôle de Maintirano;
+l' Office Régional de Nutrition dans le domaine de l’éducation nutritionnelle,
+le  Centre  National  de  Recherche  Appliquée  au  Développement  Agricole
+(FOFIFA)  et  ses  partenaires (AfricaRice  notamment)  et  le  Centre  de
+coopération  internationale  en  recherche  agronomique  pour  le  développement
+(CIRAD ), dans le domaine de la recherche agricole; et
+l'Organisation des Nations Unies pour l'Alimentation et l'Agriculture (FAO) dans
+la lutte anti-acridienne.
+10
+Appendix I
+EB 2015/115/R.8
+Annexe 2
+Tableau d’affectation des fonds
+Affectation du produit du prêt du Fonds et du don du Fonds Fiduciaire  ASAP. 1. Le
+1.
+tableau ci-dessous indique les catégories de dépenses admissibles à un financement sur le
+produit du prêt du Fonds et du don du Fonds Fiduciaire ASAP ainsi que le montant du prêt
+du Fonds et du don du Fonds Fiduciaire ASAP affecté à chaque catégorie et la répartition en
+pourcentage des dépenses à financer pour chacun des postes des différentes catégories:
+Catégorie
+Montant alloué au
+titre du prêt du
+Fonds (exprimé en
+DTS)
+Montant alloué au
+titre du don du
+Fonds Fiduciaire
+ASAP (exprimé en
+DTS)
+1. Consultations
+6 360 000
+480 000
+2. Travaux
+7 240 000
+1 120 000
+3. Equipements et matériel
+3 320 000
+1 080 000
+4. Formation
+1 660 000
+1 080 000
+5. Salaires et indemnités
+2 580 000
+90 000
+6. Coûts de fonctionnement
+890 000
+Non alloué
+TOTAL
+2 450 000
+430 000
+24 500 000
+4 280 000
+Pourcentage
+100% HT
+100% HT
+100% HT
+100%
+100%
+80% TTC ou
+100% HT
+b)
+Les termes utilisés dans le tableau ci-dessus se définissent comme suit:
+« Equipements et matériels » inclut les moyens de transport.
+2.
+Coûts  de  démarrage. Les  retraits  effectués  afin  de  couvrir  les  coûts  de  démarrage
+concernant les catégories 1 et 6 et encourus avant l’approbation du premier PTBA,
+mais  après  l’entrée  en  vigueur,  ne  doivent  pas  dépasser  un  montant  total
+équivalent à 100 000 USD.
+11
+Appendix I
+EB 2015/115/R.8
+Annexe 3
+Clauses particulières
+Conformément aux dispositions de la section 12.01 a) xxiii) des Conditions générales, le
+Fonds peut suspendre, en totalité ou en partie, le droit de l’Emprunteur de solliciter des
+retraits du compte du prêt, du compte du don et du Compte de prêt du Fonds Fiduciaire
+si l’Emprunteur n’a pas respecté l'une quelconque des clauses énoncées ci-dessous, et si
+le  FIDA  a  établi  que  ladite  défaillance  a  eu,  ou  risque  d'avoir,  un  effet  préjudiciable
+important sur le Projet:
+1.
+Recrutement. La reconduction du personnel d’AD2M et le recrutement du personnel
+additionnel  nécessaire  se  feront  sur  la  base  de  contrats  renouvelables  ne  pouvant,  en
+toute hypothèse, excéder la durée du Projet.  La sélection du personnel cadre du Projet
+se  fera  par  voie  d’appel  d’offres  national  publié  dans  la  presse  selon  les  procédures
+actuelles de l'Emprunteur, excluant toute discrimination. Le recrutement et la gestion du
+personnel  d’appui  seront  soumis  aux  procédures  en  vigueur  sur  le  territoire  de
+l'Emprunteur.  Le  personnel  du  Projet  sera  soumis  à  des  évaluations  de  performances
+organisées annuellement. Il pourra être mis fin à leur contrat en fonction des résultats de
+ces  évaluations. La  décision  de  rompre  les  contrats  du  personnel  cadre  sera  décidée  en
+accord avec le Fonds.
+2.
+Égalité. Toute discrimination fondée  sur  le  sexe,  l’âge,  l’appartenance  ethnique  ou
+religieuse  ne  sera  pas  admissible  lors  du  recrutement  du  personnel  du  Projet,
+conformément  aux  lois  en  vigueur  sur  le  territoire  de  l’Emprunteur. Cependant,
+l’Emprunteur  s’engage,  à  compétence  égale,  à  privilégier  les  candidatures  de  femmes,
+notamment aux postes techniques à pourvoir dans le cadre du Projet.
+12
+Logical framework
+Cadre logique
+Synthèse
+Indicateurs clés de performance (SYGRI/ASAP)
+Moyens de
+vérification
+Hypothèses (H) /
+Risques (R)
+Objectif général
+Les exploitations agricoles améliorent
+durablement leur revenu et leur sécurité
+alimentaire dans les régions du Menabe et
+Melaky.
+ 57 000 ménages ont bénéficié directement des appuis du projet
+ Réduction de l’incidence de la pauvreté5
+- Menabe : de 68,5 % à 62,5 %
+- Melaky : de 73,9 % à 67,9 %
+ Situation de
+référence
+ Études socio-
+économiques
+ Réduction de la prévalence de la malnutrition chronique6 chez les enfants
+ Enquêtes
+de moins de 5 ans (M/F)
+- Menabe : de 30,3 % à 24,3 %
+- Melaky : de 41,6 % à 35,6 %
+ Augmentation d’au moins 25 % de l’indice d’accumulation des biens des
+ménages bénéficiaires directs du projet
+ Augmentation de 50 % du revenu des bénéficiaires directs
+ Réduction de 4 à 2 mois de la période de soudure des bénéficiaires directs
+anthropométriques
+ Enquêtes
+périodiques auprès
+des ménages
+ Statistiques
+nationales
+ Rapports annuels
+d’activités
+ H. Stabilité
+sociopolitique dans
+le pays
+ H. Les conditions
+macroéconomiques
+s’améliorent
+Objectif spécifique 1 :
+ 35 000 ménages (60%) ont bénéficié des systèmes et pratiques
+ Rapport annuels
+ R. Catastrophe
+de production résilients aux effets du CC
+d’activités
+naturel
+Des systèmes de production des EAF
+performants et résilients au changement
+climatique sont adoptés à large échelle.
+1
+3
+ 15 000 producteurs ont adopté les techniques améliorées (H/F)
+ 40% à 60 % d’augmentation du rendement moyen des principales
+cultures appuyées
+ 37 000 tonnes de productions agricoles additionnelles au niveau de la
+zone d’intervention
+Objectif spécifique 2 :
+ Augmentation (en %) de la valeur en USD des produits commercialisés
+L’accès des producteurs aux marchés
+rémunérateurs dans le cadre de filières
+priorisées est amélioré.
+Produits :
+annuellement.
+ Augmentation d’au moins 20 % de la marge nette des producteurs
+ Rapport de revue à
+ R. Insécurité rurale
+mi-parcours
+ Rapport annuel de
+sondage sur les
+rendements
+ Etudes & enquêtes
+des bureaux
+d’études sur la
+commercialisation
+ H. Mobilisation des
+opérateurs privés
+ H. Le
+désenclavement est
+réalisé
+ R. Insécurité rurale
+Composante 1 : Promotion de systèmes de production performants et résilients au changement climatique
+Des infrastructures
+1.1
+productives résilientes sont mises en
+place
+ 25 PCD prennent en compte l’adaptation aux CC
+ 19 SAC prennent en compte l’adaptation aux CC
+ 01 SRAT prend en compte l’adaptation aux CC
+Rapports annuels
+d’activités de
+l’UGP
+ H. Adhésion des
+communes et
+régions
+5 Les valeurs de références au niveau des deux régions sont issues de l’enquête nationale pour l’évaluation des OMD (2013). L’objectif en termes de réduction de l’incidence de la pauvreté a été établi par rapport à l’objectif de
+l’ensemble du programme pays (COSOP 2015-2019). Par ailleurs, sur une période de 20 ans, le taux d’incidence de pauvreté à Madagascar a fluctué entre 70 à 80 % soit une variation toujours inférieure à 10 points.
+6
+Source : enquête OMD 2013
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+5
+/
+1
+1
+5
+/
+R
+.
+8
+Synthèse
+Indicateurs clés de performance (SYGRI/ASAP)
+Moyens de
+vérification
+Hypothèses (H) /
+Risques (R)
+1.2 Les producteurs sont organisés
+ 27 000 producteurs membres d’AUE, AEL et OP appuyées par le projet
+ Rapport 
+annuels
+ 9 120 ha de périmètres hydro-agricoles aménagés
+ 6 470 ha additionnels de terres cultivables aménagées
+ 24 000 ha de terres (80%) gérées selon des pratiques résilientes
+aux effets du CC
+1.3
+production de qualité sont disponibles
+Des services d’appui à la
+ 13 000 producteurs membres d’AUE, AEL et OP ont bénéficié de formation
+ 80 % des AUE, AEL et OP appuyées ont atteint  un niveau de maturation
+''avancé''
+ 20 guichets fonciers opérationnels
+ 12 000 certificats fonciers délivrés (conjoints)
+ 7 800 hectares de terres sécurisés (foncier)
+ 8 000 ménages ont un droit sécurisé à la terre
+ 250 tonnes de semences de qualité produites
+ 11 boutiques d’intrants fonctionnels
+ 5 ateliers de fabrication de petits matériels agricoles en place
+ 14 700 producteurs encadrés dans les CEP (dont 30 % femmes et 30%
+jeunes)
+ 28 couloirs de vaccinations construits
+ 4 700 personnes vulnérables appuyées par les MP (50 % de femmes)
+ 7 CSA appuyés
+ Montant en USD des financements des demandes par le FRDA
+d’activités
+ Rapport
+d’évaluation  annuel
+des OP
+ Rapports 
+annuels
+des  GF/CRIF
+ H. Mobilisation des
+opérateurs privés
+ Rapports 
+des VMS
+ Rapports 
+des FRDA
+ Rapports 
+annuels
+annuels
+annuels
+des
+d’activités 
+ONGT et de l’UGP
+1
+4
+Composante 2 : Appui à l’accès aux marchés et aux opportunités économiques
+Des infrastructures de
+2.1
+désenclavement et de stockage sont en
+place
+2.2
+promu
+Le partenariat OP/OM est
+Des services financiers de
+2.3
+proximité sont opérationnels et
+accessibles
+ 22 km de pistes rurales réhabilitées
+ 09 embarcadères construits
+ 24 construits bâtiments (stockage, conditionnement)
+ 50% des producteurs bénéficiaires d’appui sur les spéculations de rente
+sont membres d’une OP commercial (H/F)
+ 80 % des OP commerciales ont atteint un niveau de maturité ''avancé''
+ 700 tonnes/an de produits commercialisés via le partenariat OP/OM
+ 17% des producteurs bénéficiaires d’appui sur les spéculations de rente
+sont impliqués dans le partenariat OP/OM
+ 7 nouvelles caisses IMF ouvertes
+ 4 600 nouveaux membres actifs/bénéficiaires des IMF (40 % de femmes)
+ PAR (30j) des IMF appuyées inférieur à 5 %
+ Taux de pénétration
+Rapports annuels
+d’activités de
+l’UGP
+Rapports annuels
+d’activités de
+l’UGP
+H. Les communes
+sont impliquées
+H. Le dialogue
+OP/OM est établi
+ Rapports annuels
+H. Adhésion des IMF
+des IMF partenaires
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+5
+/
+1
+1
+5
+/
+R
+.
+8

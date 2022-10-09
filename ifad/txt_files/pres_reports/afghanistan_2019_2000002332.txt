@@ -1,0 +1,2001 @@
+Document:
+Agenda:
+Date:
+Distribution:
+Original:
+EB 2019/128/R.20
+7(d)(i)(a)
+12 November 2019
+Public
+English
+E
+President’s report
+Proposed Debt Sustainability Framework grant
+Islamic Republic of Afghanistan
+Arghandab Integrated Water Resources
+Development Project
+Project ID: 2000002332
+Note to Executive Board representatives
+Focal points:
+Technical questions:
+Dispatch of documentation:
+Deirdre Mc Grenra
+Chief
+Institutional Governance and Member
+Relations
+Tel.: +39 06 5459 2374
+e-mail: gb@ifad.org
+Nigel Brett
+Regional Director
+Asia and the Pacific Division
+Tel.: +39 06 5459 2516
+e-mail: n.brett@ifad.org
+Candra Samekto
+Country Programme Manager
+Tel.: +86 10 8532 8977
+e-mail: c.samekto@ifad.org
+Executive Board — 128th Session
+Rome, 10-12 December 2019
+For: Approval
+EB 2019/128/R.20
+Contents
+Abbreviations and acronyms
+Map of the project area
+Financing summary
+I.
+Context
+A. National context and rationale for IFAD involvement
+B. Lessons learned
+II. Project description
+A. Objectives, geographic area of intervention and target groups
+B. Components, outcomes and activities
+C. Theory of change
+D. Alignment, ownership, and partnerships
+E. Costs, benefits and financing
+III. Risks
+A. Risks and mitigation measures
+B. Environment and social category
+C. Climate risk classification
+D. Debt sustainability
+IV.
+Implementation
+A. Organizational framework
+B. Planning, monitoring and evaluation, learning, knowledge
+management and communications
+C. Implementation plans
+V.
+Legal instruments and authority
+VI. Recommendation
+Appendices
+I. Negotiated financing agreement
+II. Logical framework
+Project delivery team
+Regional Director:
+Country Programme Manager:
+Project Technical Lead:
+Finance Officer:
+Climate and Environment Specialist:
+Legal Officer:
+Nigel Brett
+Candra Samekto
+Mawira Chitima
+Claudio Mainella
+Vidhisha Samarasekara
+Paul Edouard Clos
+ii
+iii
+iv
+1
+1
+2
+3
+3
+3
+4
+4
+5
+7
+7
+8
+8
+9
+9
+9
+10
+11
+11
+11
+i
+EB 2019/128/R.20
+Abbreviations and acronyms
+AsDB
+AIS
+Asian Development Bank
+Arghandab irrigation system
+AIWRDP
+Arghandab Integrated Water Resources Development Project
+AWP/B
+annual workplan and budget
+CLAP
+DSF
+CPMO
+EIRR
+FAO
+GDP
+PMU
+PPMS
+SDG
+Community Livestock and Agriculture Programme
+Debt Sustainability Framework
+central programme management office
+economic internal rate of return
+Food and Agriculture Organization of the United Nations
+gross domestic product
+project management unit
+project performance monitoring system
+Sustainable Development Goal
+SNaPP2
+Support to National Priority Programme 2
+UNDP
+WUAs
+United Nations Development Programme
+water user associations
+ii
+Map of the project area
+i
+i
+i
+Arghandab Integrated Water Resources
+Development Project
+E
+B
+2
+0
+1
+9
+/
+1
+2
+8
+/
+R
+.
+2
+0
+Financing summary
+Initiating institution:
+Borrower/recipient:
+Executing agency:
+Total project cost:
+EB 2019/128/R.20
+Asian Development Bank
+Islamic Republic of Afghanistan
+Ministry of Finance
+US$395.93 million
+Amount of IFAD Debt Sustainability Framework grant:
+US$40 million
+Cofinancier
+Amount of cofinancing:
+Terms of cofinancing:
+Asian Development Bank
+US$348.78 million
+Cash and in-kind contributions
+Contribution of borrower/recipient:
+US$4.26 million (cash and in-kind)
+Contribution of beneficiaries:
+US$2.89 million (in-kind)
+Amount of IFAD climate finance:
+US$36.26 million
+Cooperating institution:
+Asian Development Bank
+iv
+EB 2019/128/R.20
+Recommendation for approval
+The Executive Board is invited to approve the recommendation contained in
+paragraph 76.
+I. Context
+A. National context and rationale for IFAD involvement
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+National context.
+Afghanistan’s economy experienced a severe economic slowdown from 2012, followed
+by an upturn of 1.3 per cent (2015) and 2.6 per cent (2017), before dropping again
+to 2.2 per cent growth in 2018. The persistent uncertainty of the political and security
+environment continues to undermine private sector confidence and affect economic
+activity. The long drought also impacted the volatile agriculture sector, resulting in a
+significant decrease of crop production across the nation. Since 2001 – despite
+improvements in life expectancy, incomes and literacy – the majority of the
+population continues to suffer from shortages of housing, clean water access,
+electricity, medical care and employment.
+Predominantly agrarian, almost 80 per cent of Afghanistan’s population is fully reliant
+on agriculture and livestock. The agriculture sector employs nearly 63 per cent of the
+labour force, contributes about one fourth of GDP and is ranked as the second largest
+sector after services. The key commodities are wheat, corn, barley, rice, cotton, fresh
+and dried fruits, nuts, karakul pelts, carpets, wool and mutton.
+The Afghanistan National Peace and Development Framework 2017–2021 is a key
+document that aims for self-reliance and holistically encompasses development goals,
+key reforms and investment priorities. In addition, the National Comprehensive
+Agriculture Development Priority Programme 2016–2021 provides the strategic
+framework for agriculture sector development and reforms.
+Special aspects relating to IFAD’s corporate mainstreaming priorities
+Poverty. Afghanistan is one of the poorest countries in the world, and 75 per cent of
+its population lives in rural areas. It is estimated that 45 per cent of the poor rely on
+agriculture for their livelihood. Sluggish growth of GDP and a decline in agricultural
+production have continuously pushed up poverty, with the national poverty rate rising
+from 38 per cent in 2011 to 55 per cent in 2017.1 With 84 per cent of the poor living
+in rural areas, poverty remains predominantly a rural phenomenon.
+Gender. Afghanistan’s levels of gender inequality are among the highest in the world
+(Gender Inequality Index: 0.635), it being ranked 153rd out of 159 countries.2 The
+country also has one of the world’s lowest female labour participation rates, at 19.5
+per cent.3 Gender has been one of the most politicized issues in Afghanistan. Women
+continue to face disadvantages in access to land, productive resources, social services
+and opportunities, political participation and financial services.
+Youth. Afghanistan is young in demographic terms. The share of population younger
+than 15 is nearly 48 per cent, while those under 25 years of age are around 65 per
+cent. Major challenges for youth include the inability to secure employment, mainly
+due to a lack of access to education, training, skills development and resources.
+Nutrition. Current levels of food insecurity and malnutrition in Afghanistan are
+alarming. In 2017, approximately 10.4 million people (more than 30 per cent of the
+total population) were reported as being food-insecure.4 Afghanistan has one of the
+1 Afghanistan Living Conditions Survey.
+2 United Nations Development Programme (UNDP), Human Development Indices and Indicators: 2018 Statistical Update.
+3 UNDP, Human Development Report (2017).
+4 United States Agency for International Development, Afghanistan Food Security Conditions and Causes (2017).
+1
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2019/128/R.20
+world’s highest rates of stunting in children under five, at 41 per cent.5 Poor nutrition
+is more severe in provinces with high rates of insurgency-related violence.6
+8.
+9.
+Climate change. Afghanistan is considered highly vulnerable to the effects of climate
+change.7 The extreme climate events projected are droughts, extreme rainfall/flows,
+flash floods, heat waves and dust storms.
+In line with the mainstreaming commitments of the Eleventh Replenishment of IFAD’s
+Resources, the Arghandab Integrated Water Resources Development Project
+(AIWRDP) has been classified as:
+☒ Climate-focused.
+10. The project will address climate vulnerabilities through improving water resource
+availability and management.
+11.
+Rationale for IFAD involvement
+In support of overall water resource development in the Arghandab sub-basin, the
+project will result in sustainable availability and efficient use of irrigation water,
+enhanced productivity levels, and improved market linkages – as a means to
+contribute to increasing jobs and economic growth, as well as improving food and
+nutrition security.
+12. The IFAD Strategy for Engagement in Countries with Fragile Situations
+(EB 2016/119/R.4) states that in more challenging contexts, partnerships can help
+IFAD to stay engaged, and that partnerships with other international financial
+institutions should be prioritized. Considering that IFAD does not have a Country
+Office nor other resources available on the ground, the decision to partner with the
+Asian Development Bank (AsDB), adopting a complementary approach, will enable it
+to have a greater multiplier impact while working with communities on long-term
+development programmes.
+13. While AsDB focuses its investment on hard infrastructure, the complementary IFAD
+financing (and experience) serves as a catalyst to promote a more integrated
+intervention, establishing the appropriate linkages between infrastructure
+development, community schemes and services, and longer-term and sustainable
+agricultural and natural resource management. In addition, IFAD will play a crucial
+role in assuring the involvement of smallholders and vulnerable groups, such as
+women and youth.
+B. Lessons learned
+14. Community participation. The Community Livestock and Agriculture Programme
+(CLAP) and the Support to National Priority Programme 2 (SNaPP2) demonstrate that
+community development committees and water user associations (WUAs) are a
+crucial entry point and strategy for participatory development, particularly in
+management and maintenance of irrigation infrastructure. The community
+development committees have proven to be cost-effective and pragmatic, especially
+in mitigating security risks and improving water resources management. Institutional
+strengthening at the grass-roots level (such as with WUAs) is foreseen to enhance the
+sustainability of the rehabilitated infrastructure, and leverages contributions by the
+community to asset management as an active partner, together with public sector
+entities.
+15. Community contracting. The proposed approach of community contracting and
+matching grants, taken from IFAD’s CLAP and SNaPP2, have been essential elements
+of AIWRDP.
+5 Food and Agriculture Organization of the United Nations (FAO), IFAD, United Nations Children's Fund, World Food
+Programme and World Health Organization, The State of Food Security and Nutrition in the World 2017. Building resilience
+for peace and food security (Rome: FAO, 2017).
+6 The Asia Foundation, Afghanistan in 2016: A Survey of the Afghan People (2016).
+7 Rated as “extreme” in Verisk Maplecroft, Climate Change Vulnerability Index (London: 2015).
+2
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2019/128/R.20
+16. Project management. It has been learned from the ongoing portfolio that it is more
+efficient to implement the project through a dedicated project management unit
+(PMU) than through the regular channel of the ministries. Thus in AIWRDP key
+functions such as monitoring and evaluation, procurement, financial management and
+human resources will be defined under a dedicated PMU, to increase transparency,
+effectiveness and efficiency. The role of the Ministry of Finance as the executing
+agency and chair of the project steering committee will also strengthen project
+management and coordination functions.
+II. Project description
+A. Objectives, geographic area of intervention and target groups
+17. Objectives. The project’s goal is to increase employment opportunities for the target
+population and stimulate GDP growth, while its developmental objective is to improve
+management and use of water resources in the Arghandab River sub-basin. The
+project is fully aligned with the overall objective of the current Afghanistan country
+strategy note.
+18. Project area. The geographic project target areas are the predefined irrigation
+command areas of the Arghandab irrigation system (AIS), with a total area of
+115,000 ha, served by 120 community irrigation systems.
+19. Beneficiaries and target groups. The project will primarily target 36,000
+smallholder farmer households (approximately 324,000 people, with special attention
+given to women and youth) located in the Arghandab River sub-basin. The project will
+support the formation of farmer organizations and WUAs as community institutions.
+20. Targeting strategy. The approach adopted by this project is to reach as many poor
+people as possible, as efficiently as possible. AIWRDP focuses on the province of
+Kandahar to reach the optimum poverty headcount. Afghanistan is the poorest
+country in the Asia and the Pacific region, with a 54.5 per cent poverty rate.8 A recent
+study9 shows that around 60 per cent of the rural population is living below the
+poverty line. In addition, AsDB feasibility studies confirm that 80 per cent of the
+population owns less than one hectare of irrigated land, being classified as
+smallholder farmers and IFAD target groups.
+21. The majority of the targeted beneficiaries can be categorized as moderately poor and
+extremely poor households. The proposed project takes due consideration of all of
+IFAD’s mainstreaming commitments, with particularly strong attention to gender-,
+youth- and climate-focused interventions.
+22.
+IFAD has worked with the AsDB to establish a gender action plan aimed at ensuring
+that women have secure equal access to the development opportunities created under
+the project, in spite of severe cultural constraints. Women will also be trained to be
+local resource persons (paraprofessionals), particularly for greater outreach to women
+farmers and to promote their uptake of best practices and technologies. The project
+will also promote and encourage opportunities for youth, specifically through the
+creation of employment generation in on-farm and off-farm activities. Women farmers
+and youth will have equitable access to agricultural extension services, training
+opportunities, technology transfer and advisory services.
+B. Components, outcomes and activities
+23. The project will have the following components: (i) Dahla Dam capacity increased
+(not financed by IFAD resources); (ii) reliability of irrigation water supply increased;
+(iii) agricultural water productivity improved; and (iv) capacity in water resource
+management and use strengthened.
+24. Component 1: Dahla Dam capacity increased. This component will focus on
+construction-related works to increase water storage capacity from 288 to 782 million
+8 AsDB, Basic Statistics 2019 (Manila: 2019).
+9 UNDP, 2019 Global Multidimensional Poverty Index (New York: 2019).
+3
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2019/128/R.20
+cubic metres. This infrastructure upgrade will improve the main source of water in the
+sub-basin and reduce flood risks to downstream areas.
+25. Component 2: Reliability of irrigation water supply increased. The reliable
+supply of irrigation water will be increased through irrigation infrastructure
+improvement, including by upgrading canals and structures, and introducing
+monitoring and control systems on the AIS and community-managed systems.
+(i) Modernization of the AIS infrastructure. The project will implement
+modernization of 120 preselected irrigation schemes in the Arghandab
+sub-basin.
+(ii)
+Improvement of community irrigation services. The project will provide
+support for village communities, including women and youth, for improvement
+of community irrigation infrastructure through community contracting.
+26. Component 3: Agricultural water productivity improved. This component
+comprises the demonstration of innovative on-farm agricultural practices and
+investment options, including support for agricultural extension services, conducting
+on-farm demonstrations, providing training and advisory services to farmers, and a
+matching grant scheme to facilitate investment in technologies to improve water
+productivity. The capacity of farmers will be strengthened to improve farm
+management and adopt climate-smart irrigation and agricultural technologies and
+practices, to improve production and sustainability.
+27. Component 4: Capacity in water resource management and use
+strengthened. Key activities under this component: (i) water governance;
+(ii) strategic water resource management training; and (iii) the National Hydrological
+Modelling Platform. The project will support the development of policy, legislation and
+regulatory options for water entitlements and allocation systems, so as to allow
+improved management of water resources and multi-purpose dams, as well as the
+development of regulations and business structures to charge fees for water delivery
+services.
+C. Theory of change
+28. The situation today is such that the farm incomes of smallholder farmers are low,
+primarily due to unreliable irrigation water, disincentives for farming investment, low
+productivity and an inability of agricultural value chains to generate employment and
+thus impact on households’ food security and poverty status. The related core
+problem to be addressed is the inefficient management of water resources, poor
+irrigation infrastructure, low uptake of improved technology and farming practices
+(agriculture and livestock), and fragmented value chains – with the majority of
+farmers not linked to markets. Some of the contributing “causes” are the lack of
+resilience to climate change, lack of knowledge and capacity, and undeveloped
+infrastructure.
+29. The proposed project design is strongly evidence-based, and provides a “best
+possible” approach to meeting the challenges faced by farmers under the present
+regime of water deficit and limited capacity for effective irrigation management. It is
+envisaged that the project will create the necessary conditions for production, while
+the off-farm activities will impact on-farm actions, as they address the needs for
+better access to finance and better communication from market to farm, and will
+encourage diversification of farming systems. Structural impacts will enhance farmers’
+bargaining power and their ability to benefit from scale in marketing, adding value
+and building partnerships between farmer groups and the private sector. The project
+will also contribute to improving food and nutrition security in the target areas.
+D. Alignment, ownership, and partnerships
+30. Alignment with the Sustainable Development Goals (SDGs). The project aims
+to assist the Government to make progress on the SDGs that fall within IFAD’s
+comparative advantages. In particular, it will tackle SDG 1 (no poverty), SDG 2 (zero
+4
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2019/128/R.20
+hunger), SDG 5 (gender equality), SDG 6 (clean water and sanitation), SDG 8 (decent
+work and economic growth), SDG 13 (climate action) and – in part – SDG 17
+(partnerships).
+31. Alignment with national policy. The project is guided by the government policy for
+productive water resources, as outlined in the Strategic Policy Framework for the
+Water Sector. It is also in line with the National Water and Natural Resources
+Development Programme, which targets: improved access to irrigation for
+300,000 ha; establishing and strengthening sub-basin agencies, sub-basin councils,
+river basin agencies, river basin councils and WUAs; and restoring 28,000 ha of
+rangeland through community-based management.
+32. Alignment with IFAD policy. The project rationale is anchored in IFAD’s mandate of
+investing in rural people and enabling inclusive and sustainable transformation of
+rural areas. The project is also responsive to the three strategic objectives outlined in
+IFAD’s Strategic Framework 2016-2025, and to the specific objectives as identified in
+the current Afghanistan country strategy note.
+33. Harmonization and partnerships. The project will synergize its efforts with
+different entities managing the overall Arghandab Integrated Water Resources
+Investment Programme, including the AsDB, the World Bank and the private sector.
+In the context of this particular project, partnerships will be explored with: (i) the
+private sector, for leveraging investment through matching grants; (ii) research and
+private sector agribusinesses; (iii) relevant organizations, including the Arghandab
+Sub-Basin Agency; and (iv) project implementation agencies.
+E. Costs, benefits and financing
+34. The following IFAD-financed project subcomponents are partially counted as climate
+finance: 2.2 improvement of community irrigation services; 3.1 demonstration of
+innovative agricultural on-farm practices and investment options; and 4.1 water
+governance. In line with the Multilateral Development Bank Methodologies for
+Tracking Climate Adaptation and Mitigation Finance, the total amount of IFAD climate
+finance for this project is calculated on a preliminary basis as US$36.26 million.
+Project costs
+35. The total cost of the project is estimated at US$395.93 million, including physical and
+price contingencies. The total base costs are estimated at US$338.87 million, with
+physical and price contingencies accounting for US$28.67 million and US$12.17
+million respectively. An amount of US$16.22 million is allocated for security purposes.
+Table 1
+Project costs by component and financier
+(Thousands of United States dollars)
+Component/output
+Amount
+% Amount
+% Amount % In kind
+% Amount
+DSF grant
+AsDB grant
+Government Beneficiaries
+Total
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+-
+-
+-
+-
+3 755
+505
+-
+-
+336
+- 2 500
+-
+22
+1
+-
+-
+54
+-
+- 219 615
+1
+5
+-
+-
+-
+47 052
+49 275
+5 512
+17 150
+57 326
+4 260
+1 2 890
+1 395 930
+1. Dahla Dam capacity increased
+-
+-
+219 615
+100
+2. Reliability of irrigation water supply increased
+3. Agricultural water productivity improved
+4. Capacity in water resource management and use
+strengthened
+5. Project management
+Contingencies and charges
+Total
+25 535
+7 528
+1 357
+-
+5 850
+40 000
+54
+15
+25
+-
+10
+10
+21 181
+39 517
+4 155
+13 395
+50 917
+348 780
+45
+80
+75
+78
+89
+88
+5
+EB 2019/128/R.20
+Table 2
+Project costs by expenditure category and financier
+(Thousands of United States dollars)
+DSF grant
+AsDB grant
+Government
+Beneficiaries
+Total
+Expenditure category
+Amount
+% Amount
+% Amount
+%
+Amount
+1. Equipment/material
+2. Works
+3. Consultancies
+4. Training and workshops
+5. Operating costs and salaries
+Unallocated
+Total
+4 200
+28 900
+1 400
+-
+-
+5 500
+40 000
+53
+11
+5
+-
+-
+10
+10
+3 800
+222 700
+26 500
+47
+88
+95
+3 600
+100
+-
+-
+-
+-
+41 300
+50 880
+348 780
+92
+89
+88
+3 700
+560
+4 260
+-
+-
+-
+-
+8
+1
+1
+-
+2 840
+-
+-
+-
+50
+2 890
+%
+-
+1
+-
+-
+-
+-
+1
+Amount
+8 000
+254 440
+27 900
+3 600
+45 000
+56 990
+395 930
+Table 3
+Project costs by component/output and project year (PY)
+(Thousands of United States dollars)
+PY1
+PY 2
+PY3
+PY4
+PY5
+PY6
+PY7
+Total
+Component/output
+Amount Amount Amount Amount Amount Amount Amount Amount
+1. Dahla Dam capacity increased
+21 961
+32 942
+48 316
+50 511
+32 942 21 961 10 982 219 615
+2. Reliability of irrigation water supply increased
+3. Agricultural water productivity improved
+4. Capacity in water resource management
+and use strengthened
+5. Project management
+Contingencies and charges
+4 791
+5 580
+7 187
+10 541
+10 159
+7 187
+4 791
+2 396
+47 052
+7 369
+9 275
+11 313
+7 369
+5 580
+2 789
+49 275
+551
+827
+1 212
+1 269
+827
+551
+275
+5 512
+1 715
+5 706
+2 573
+3 773
+3 945
+2 573
+1 715
+856
+17 150
+8 558
+12 552
+13 123
+8 558
+5 706
+2 852
+57 326
+Total
+40 304
+59 456
+85 669
+90 590
+59 456 40 304 20 150 395 930
+36.
+37.
+Project financing and cofinancing strategy and plan
+IFAD and the AsDB will finance the project on a complementary activities basis,
+building on each other’s respective comparative advantages. An IFAD Debt
+Sustainability Framework (DSF) grant will provide financing of US$40 million, while
+AsDB will contribute a grant in the amount of US$348.78 million. The Government’s
+and beneficiaries’ contributions are accounted as US$4.26 million and US$2.89 million
+respectively.
+IFAD grant financing specifically contributes to the above component 2 (IFAD
+financing of US$25.53 million), component 3 (IFAD financing of US$7.53 million) and
+component 4 (IFAD financing of US$1.36 million), while the remaining US$5.58
+million is allocated for physical and price contingencies.
+Disbursement
+38. AsDB will administer the IFAD grant funds. AsDB and IFAD funds will be disbursed in
+accordance with AsDB’s Loan Disbursement Handbook. The borrower/recipient will
+submit a withdrawal application to AsDB, which will be processed and then sent to
+IFAD for disbursement directly to the borrower/recipient. AsDB and IFAD will finance
+separate expenditure items.
+39. Flow of funds. United States dollar advance accounts will be established, one for
+each implementing agency (including in the Ministry of Energy and Water, the
+Ministry of Agriculture, Irrigation and Livestock, and the Ministry of Rural
+Rehabilitation and Development), which are to be used exclusively for the AsDB’s and
+IFAD’s share of eligible expenditures respectively. The advance accounts will be
+managed, replenished, and liquidated in accordance with the AsDB’s Loan
+Disbursement Handbook, and detailed arrangements agreed to by the
+borrower/recipient and the AsDB.
+40. Disbursement procedures. The Ministry of Energy and Water, the Ministry of
+Agriculture, Irrigation and Livestock, and the Ministry of Rural Rehabilitation and
+6
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2019/128/R.20
+Development will establish the advance accounts in their names, and will be
+accountable and responsible for proper use of advances to the accounts. The request
+for initial and additional advances to the accounts should be accompanied by an
+estimate-of-expenditure sheet setting out the estimated expenditures to be financed
+for the forthcoming six months.
+Summary of benefits and economic analysis
+41. The cost/benefit analysis covers all facilities from upstream to downstream
+investments as a package. Hence, direct investment components as well as parallel
+financing components (hydropower and urban water supply) were included in the
+economic analysis.
+42. Beneficiaries from this project include: 11,697 farmers for irrigation and agriculture
+development and the Kandahar city population of 1.29 million up to year 2033; an
+additional population of 0.20 million for the 48 Arghandab Valley rural communities
+along the route of the transmission main for urban and industrial water supply, up to
+2035; and up to 447,029 households in Afghanistan’s south-east power system and
+the north-east power system, excluding areas north of Kabul, in alleviating load
+shedding.
+43. Economic indicators. The overall AIWRDP economic analysis – including raising the
+Dahla Dam, irrigation and agriculture development, improving water supply for
+Kandahar city and Arghandab villages, and Dahla Dam hydroelectric power
+development – shows that, with a hurdle rate of 9 per cent, the project is
+economically viable with an economic internal rate of return (EIRR) of 15.7 per cent in
+constant 2018 prices.
+44. Sensitivity analysis. An increase of 10 per cent in capital cost for all components
+reduces the EIRR to 14.5 per cent. A scenario of a one-year delay in benefits for all
+components – due to construction interruptions arising from resettlement, security,
+contractual issues or disputes, or unforeseen conditions encountered on the ground –
+reduces the EIRR to 14.7 per cent. These impacts, taken together, do not reduce the
+EIRR to below the threshold rate of 9 per cent, thus indicating the robust nature of
+the investment.
+Exit strategy and sustainability
+45. All project activities will be undertaken in a manner that leads to sustainable
+outcomes, to be institutionalized within the government and community system. The
+annual costs for operations and maintenance of the dam and irrigation will be funded
+through special-purpose management entities established for water delivery services
+and revenue collection. The revenue model will be facilitated by changes to the Water
+Law, allowing charges for water delivery services.
+46. The operations and maintenance of the community irrigation system will be managed
+by the WUAs strengthened under the project. The farmer-owned company and the
+resource centres will have had their capacity sufficiently developed to offer services to
+farmers in the post-project period.
+III. Risks
+A. Risks and mitigation measures
+47. Risks and measures for their mitigation are included in the risk assessment and risk
+management plan that is attached to the project administration manual and design
+report. The risks identified are internalized in the design, with mitigation, and will be
+monitored during implementation so that additional mitigation measures may be
+taken if necessary. The AsDB has applied their fragile and conflict-affected situation
+approach to design.
+48. Risks associated with the technical issues related to the design and construction of
+the hard infrastructure – such as dam safety, lack of security for contractors and field
+staff, and conflict over land ownership/water rights – will be mitigated through
+7
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2019/128/R.20
+appropriate expertise being available, a comprehensive communication strategy,
+deployment of risk management toolkits and community engagement.
+Table 4
+Risks and mitigation measures
+Risks
+Risk rating Mitigation measures
+Political/governance
+High
+Engage with external service providers, local institutions, the private sector
+and other international financial institutions; effectively manage the
+complaint system, audit and maintain transparency.
+Macroeconomic
+Medium
+Improved technologies, practices and quality improvement will tend to offset
+inflation; train communities to adapt to market dynamics.
+Sector strategies and
+policies
+Medium
+Project intervention and knowledge management will inform policy for an
+evidence-based dialogue and capacity-building.
+Institutional capacity
+Low
+The project involves three ministries that will be supported in development of
+the necessary capacity to implement the operation, with assistance from
+external consultants.
+Fiduciary
+Financial
+management
+Procurement
+Project implementation will be arranged through a dedicated PMU, rather
+than the regular channel of the ministries. Thus key functions – including
+financial management and procurement – will be supported with certified
+professional specialists. Include international/national experts who are able
+to work and report independently as safeguards.
+High
+High
+Environment and climate
+Medium
+Promotion of environment/climate-smart technologies.
+Social
+Overall
+High
+Medium
+Equitable and transparent targeting mechanisms; extensive involvement and
+consultation with local communities.
+B. Environment and social category
+49. AIWRDP is classified as category “A”, due to the anticipated irreversible, diverse or
+unprecedented impacts, mostly from raising the existing dam’s height. Mitigation
+measures are in place to minimize these impacts. The environmental impact
+assessment and initial environmental examination prepared include public
+consultation, anticipated environmental impacts, required mitigation, monitoring
+measures, and roles and responsibilities. Environmental management plans were
+prepared, consisting of plans for mitigation, monitoring, reporting and stakeholder
+communication.
+50. A draft land acquisition and resettlement framework has been prepared, with initial
+estimates of land acquisition and resettlement impacts, specifying an entitlement
+matrix for compensation, including options for livelihood rehabilitation. It also outlines
+processes and methodologies to be followed during project implementation.
+51. Considering that the AsDB will administer the project, AsDB safeguard policies,
+procedures and accountability mechanisms would apply. Any complaints/grievances
+linked to the project received by the Fund will be directed to the AsDB.
+C. Climate risk classification
+52. Climate change risk in Afghanistan is considered high. The climate risk vulnerability
+assessment conducted prior to project design indicates significant warming across all
+regions and a decrease in precipitation, particularly spring rainfall.10 Climate change
+predictions indicate increasing frequency of drought, extreme weather events and a
+rise in temperature by 4° C to 6° C over the next 50 years.11 Climate adaptation plans
+have been developed and adopted within project design.
+53. The project focuses on the climate resilience of farming practices in order to increase
+its sustainability. Climate change resilience and adaptation measures include the
+adoption of new technologies for on-farm water management, the efficient use of
+water and the promotion of climate-smart agricultural practices.
+10 Stockholm Environment Institute, Socio-Economic Impacts of Climate Change in Afghanistan (Oxford: 2008).
+11 Arghandab Integrated Water Resources Investment Programme, TRTA/ADB Hydrology Study Report (2018).
+8
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2019/128/R.20
+D. Debt sustainability
+54. Afghanistan’s GDP growth for 2017 reached 2.7 per cent, driven mostly by the
+services sector, which expanded by 2.5 per cent in the context of improving
+confidence and investment.12 Economic growth is constrained by violence and
+unfavourable weather conditions, and is expected to slow down in 2019 due to the
+political uncertainty surrounding the presidential elections held in September 2019.
+55.
+In spite of Afghanistan’s low debt levels, the most recent International Monetary
+Fund/International Development Association DSF report indicates that the country’s
+external debt sustainability continues to be at high risk of debt distress. Any change
+in the structure of donor financing from grants to concessional lending would lead to
+unsustainable debt levels, and would require the implementation of structural reforms
+to enhance revenue collection and fiscal oversight. Therefore, it is recommended that
+the country’s financing needs be met with donor grants and highly concessional
+external borrowing (a minimum 60 per cent grant element).
+IV. Implementation
+A. Organizational framework
+Project management and coordination
+56. The Ministry of Finance will be the lead project agency, while the Ministry of Energy
+and Water, the Ministry of Agriculture, Irrigation and Livestock and the Ministry of
+Rural Rehabilitation and Development will be the implementing agencies, supported
+by a central programme management office (CPMO) for each. Project implementation
+units reporting to the CPMOs will be established in Kandahar. A project steering
+committee, chaired by the Ministry of Finance, will be established to provide a formal
+coordinating structure.
+(i)
+The Ministry of Energy and Water will be responsible for overseeing
+implementation of the Dahla Dam capacity increase, its operations plan and
+capacity development, modernization of the AIS and strengthening of capacity
+in water resource management. This ministry will also be responsible for
+implementing all environmental and social safeguards, resettlement and
+establishment of the overall project performance monitoring system (PPMS).
+(ii)
+The Ministry of Agriculture, Irrigation and Livestock will be responsible for
+implementation of agricultural water productivity improvement.
+(iii) The Ministry of Rural Rehabilitation and Development will be responsible
+for implementation of road realignment works, and support to community
+development councils for improvement of community irrigation services.
+Financial management, procurement and governance
+57. Financial management. The implementing agencies have significant experience in
+implementation of projects financed by the AsDB and IFAD. The existing financial
+management arrangements in place with projects funded by them are appropriate for
+AIWRDP.
+58. Separate books and records will be maintained by funding source for each
+implementing agency, for all expenditures incurred on the project. Project accounts
+will be kept following International Public Sector Accounting Standards for cash-based
+accounting. The executing agency will prepare a set of detailed project financial
+statements to be audited by an independent auditor acceptable to the AsDB.
+Compliance with financial reporting and auditing requirements will be monitored by
+supervision missions, and followed up regularly with all concerned, including with the
+external auditor.
+12 International Monetary Fund, World Economic Outlook, October 2018.
+9
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2019/128/R.20
+59. Procurement. The AsDB Procurement Policy and regulations will apply. The Project
+will develop an 18-month procurement plan indicating a threshold, review procedures
+and contract packages that are acceptable to the AsDB.
+60. All advance contracting and retroactive financing will be undertaken in conformity
+with the AsDB Procurement Policy and regulations. The issuance of invitations to bid
+under advance contracting and retroactive financing will be subject to AsDB approval.
+61. Governance. Ensuring good governance is the borrower/recipient’s primary
+responsibility. AsDB reserves the right to investigate any violations of its
+anticorruption policy, directly or through its agents. All contracts will include
+provisions specifying the right of the AsDB to audit and examine the records and
+accounts of the executing agency and of all project service providers.
+B. Planning, monitoring and evaluation, learning, knowledge
+management and communications
+62. The two principal instruments for planning and monitoring are the project design and
+monitoring framework and the annual workplan and budget (AWP/B).
+63. Planning. Draft AWP/Bs will be prepared by all implementing agencies and then be
+compiled at national level. The proposed overall AWP/B will be submitted to the AsDB
+and the national project steering committee for approval.
+64. Monitoring and evaluation. Each implementing agency will develop a PPMS, and
+update it and report to the AsDB every six months. The PPMS should include all
+aspects and information related to the project scope, as stated in the design and
+monitoring framework, as well as the agreed additional key indicators.
+65. Compliance with the financing agreement covenants will be monitored through
+periodic missions, annual progress reports, random checks of documents, and review
+of the project’s annual audited financial statements. In addition, each CPMO is
+required to submit semi-annual environmental monitoring reports and annual
+safeguards monitoring reports, and disclose relevant information to affected persons
+promptly upon submission. Meanwhile, monitoring and reporting of the
+implementation of safeguard requirements specified in the resettlement plans will be
+undertaken semi-annually.
+66. Knowledge management. Knowledge management will contribute in documenting
+and disseminating best practices from project implementation. Lessons learned will be
+analysed and captured as knowledge products to inform policymaking and create
+opportunities for scaling up and replicability. Participatory irrigation management,
+community contracting and inclusive agricultural value chain development are some
+of the focus areas for knowledge management.
+67. Strategic communication. AIWRDP is not simply a technical intervention for dam
+upgrading and irrigation rehabilitation, but rather a project aimed at socio-economic
+transformation. Within six months of grant effectiveness, the project will develop a
+plan for stakeholder communication, consultation and participation that succinctly
+outlines the stakeholder outreach and engagement approach for implementation.
+Innovation and scaling up
+68. AIWRDP provides opportunities to promote some approaches that are innovative in
+the country:
+(i)
+Community participation in management and maintenance of irrigation
+infrastructure to promote stronger ownership and improve its sustainability;
+(ii) Demonstration of innovative on-farm agricultural practices, extension support
+and matching grant scheme, to facilitate investment in technologies to improve
+on-farm water productivity; and
+(iii) Facilitation of the necessary water policy reform, as well as promotion of cost
+recovery for water delivery services.
+10
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2019/128/R.20
+69.
+Project successes will also be disseminated, promoted and replicated beyond the
+project area. In addition, the water policy reform will provide a clear regulatory
+framework to be implemented across the country.
+C.
+Implementation plans
+Implementation readiness and start-up plans
+70. AIWRDP start-up is expected to be undertaken in the first quarter of 2020. To
+facilitate a swift start, the project design documents include: (i) a project
+administration manual; (ii) a list of active procurement packages; (iii) draft terms of
+reference for key consultants; and (iv) a draft matching grant manual that includes
+the process for sub-project selection, appraisal and approval.
+Supervision, midterm review and completion plans
+71. The project will be administered and supervised by the AsDB. It will conduct semi-
+annual and midterm review missions to assess the performance and progress of the
+project, and review compliance with the grant agreement and project agreement
+covenants.
+72.
+IFAD will ensure the participation of a senior consultant in key missions, including the
+start-up and midterm review missions, and if necessary special technical support
+during supervision missions.
+V. Legal instruments and authority
+73. A project financing agreement between the Islamic Republic of Afghanistan and IFAD
+will constitute the legal instrument for extending the proposed financing to the
+borrower/recipient. A copy of the negotiated financing agreement is attached as
+appendix I.
+74. The Islamic Republic of Afghanistan is empowered under its laws to receive financing
+from IFAD.
+75.
+I am satisfied that the proposed financing will comply with the Agreement
+Establishing IFAD and the Policies and Criteria for IFAD Financing.
+VI. Recommendation
+76.
+I recommend that the Executive Board approve the proposed financing in terms of the
+following resolution:
+RESOLVED: that the Fund shall provide a Debt Sustainability Framework grant
+to the Islamic Republic of Afghanistan in an amount of forty million United
+States dollars (US$40,000,000) and upon such terms and conditions as shall be
+substantially in accordance with the terms and conditions presented herein.
+Gilbert F. Houngbo
+President
+11
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+Appendix I
+EB 2019/128/R.20
+Negotiated financing agreement: "Arghandab Integrated
+Water Resources Development Project"
+(Negotiations concluded on 22 October 2019)
+DSF Grant No: ____________
+Project  name:  Arghandab  Integrated  Water  Resources Development  Project  (the
+“Project”)
+The Islamic Republic of Afghanistan (the “Recipient”)
+and
+The International Fund for Agricultural Development (the “Fund” or “IFAD”)
+(each a “Party” and both of them collectively the “Parties”)
+WHEREAS, the  Recipient  has  requested  a  grant  from  IFAD  in  the  amount  of  forty
+million  United  States  dollars  (USD  40 000 000)  for  the  purpose  of  financing  the  Project
+described in Schedule 1 to this Agreement;
+WHEREAS, the Project shall be co-financed by the Asian Development Bank (“ADB”).
+The  ADB  and  IFAD  have  entered  into  a  cofinancing  agreement  dated  [tbc_______]  (the
+“Cofinancing Agreement”) to coordinate the administration of the Project;
+WHEREAS,  the  Recipient  and  the  ADB  have  entered  into  a  Grant  Agreement  (“ADB
+Grant  Agreement”)  in  the  amount  of  three  hundred  forty-eight  million  seven  hundred
+eighty thousand United States dollars (USD 348 780 000) net of the IFAD financing;
+WHEREAS,  the  Project  shall  be  carried  out  by  the  Ministry  of  Finance  (MOF) and
+implemented  by  the  Ministry  of  Energy  and  Water  (MEW),  the  Ministry  of  Agriculture,
+Irrigation and Livestock (MAIL) and the Ministry of Rural Rehabilitation and Development
+(MRRD);
+WHEREAS, the Fund has agreed to provide financing for the Project.
+NOW THEREFORE, the Parties hereby agree as follows:
+Section A
+1.
+The  following  documents  collectively  form  this  Agreement:  this  document,  the
+Programme  Description  and  Implementation  Arrangements  (Schedule  1),  the  Allocation
+Table (Schedule 2) and the Special Covenants (Schedule 3).
+2.
+The  Fund’s  General  Conditions  for  Agricultural  Development  Financing  dated  29
+April 2009, amended as of December 2018, and as may be amended hereafter from time
+to  time  (the “General  Conditions”)  are  annexed  to  this  Agreement,  and  all  provisions
+thereof  shall  apply  to  this  Agreement,  except  for  the  provisions  that  refer  to  Loan
+financing  which  shall  not  apply  to  this  Agreement and  for  the  provisions  identified  in
+1
+Appendix I
+EB 2019/128/R.20
+Section  E  paragraph  4  below.  For  the  purposes  of  this Agreement  the  terms  defined  in
+the General Conditions shall have the meanings set forth therein, unless the Parties shall
+otherwise agree in this Agreement.
+The  Fund  shall  provide  a  Grant  (the  “Financing”)  to  the  Recipient,  which  the
+3.
+Recipient shall use to implement the Project in accordance with the terms and conditions
+of this Agreement.
+Section B
+1.
+2.
+The amount of the grant is forty million United States dollars (USD 40 000 000).
+The first day of the applicable Fiscal Year shall be 21st December.
+3.
+The  Recipient  shall  open  and  maintain  three  Designated  Accounts  denominated  in
+USD  to  receive  grant  financing  for  the  Project:  one  for  each  of  MAIL,  MRRD,  and  MEW
+The Designated Accounts shall be opened in a bank acceptable to the Fund and operated
+by the Ministry of Finance.
+The  Recipient  shall  provide  cash  and  in-kind  counterpart  financing  for  the  overall
+4.
+project in the amount of USD 4.26 Million.
+5.
+Beneficiaries shall contribute to the IFAD funded project activities in the amount of
+ten  percent (10%,  estimated  at  USD  2.89  million)  of  community  work  contracting  in
+form in-kind contributions under this Agreement.
+Section C
+1.
+2.
+The Lead Project Agency shall be the MOF of the Islamic Republic of Afghanistan.
+Additional Project Parties are described in Schedule 1 Part II.
+3.
+A Mid-Term Review will be conducted as specified in Section 8.03 (b) and (c) of the
+General Conditions; however, the Parties may agree on a different date for the Mid-Term
+Review of the implementation of the Project.
+The Project Completion Date shall be the seventh anniversary of the date of entry
+4.
+into force of this Agreement.
+Procurement of goods, works and services financed by the Fund shall be carried out
+5
+in accordance with the provisions of ADB’s Procurement Guidelines dated April 2015, as
+amended from time to time.
+Section D
+The  Financing  shall  be  administered  and  the  Project  supervised  by  the  ADB  as  the
+Cooperating Institution.
+Section E
+The following are designated as additional grounds for suspension of
+1.
+Agreement:
+this
+2
+Appendix I
+EB 2019/128/R.20
+(a)
+The ADB Grant Agreement has been suspended, cancelled or terminated; or
+(b)
+The  right  of  the  Recipient  to  withdraw  the  proceeds  of  the  ADB  Grant
+Agremeent has been suspended, cancelled or terminated, in whole or in part;
+or  any  event  has  occurred  which,  with  notice  of  the  passage  of  time,  could
+result in any of the foregoing.
+2.
+The following are designated as additional conditions precedent to withdrawal:
+(a)
+(b)
+The  IFAD  no  objection  to  the  Project  Administration  Manual  (PAM) dated
+6 August 2019 and agreed between the Recipient and ADB, as amended from
+time to time, shall have been obtained.
+The right of the Recipient to withdraw the proceeds of the ADB Grant has not
+been  suspended,  cancelled  or  terminated,  in  whole  or  in  part;  or  any  event
+has  occurred  which,  with  notice  of  the  passage  of  time,  could  not  result  in
+any of the foregoing.
+The  following  provisions  of  the  General  Conditions  shall  not  apply  to  this
+4.
+Agreement:
+(a) Section  7.05  (Procurement);  the  procurement  of  goods,  works  and  services
+to  be  financed  out  of  the  proceeds  of  the  financing  shall  be  subject  to  and
+governed by ADB’s Procurement Guidelines (2015, as amended from time to
+time);
+(b) Section  7.06 (Fraud  and  Corruption):  The  Recipient  and  the  Project  parties
+shall:  (a)  comply  with  ADB’s  Anticorruption  Policy  (1998,  as  amended  to
+date) and acknowledge that ADB reserves the right to investigate directly, or
+through  its  agents,  any  alleged  corrupt,  fraudulent,  collusive  or  coercive
+practice relating to the Project; and (b) cooperate with any such investigation
+and  extend  all  necessary  assistance  for  satisfactory  completion  of  such
+investigation.  The  Recipient  shall  ensure  that  anticorruption  provisions
+acceptable  to  ADB  are  included  in  all  bidding  documents  and  contracts,
+including  provisions  specifying  the  right  of  ADB  to  audit  and  examine  the
+records  and  accounts  of  the  executing  and  implementing  agencies  and  all
+contractors, suppliers, consultants, and other service providers as they relate
+to the Project;
+(c)
+Sections  8.02  (Monitoring  of  Project  Implementation)  and  8.03  (Progress
+Report and Mid-Term Reviews): The Project Monitoring, Reporting, Mid-Term
+Review  and  Completion  Report  will  be  carried  out  pursuant  to  the  ADB’s
+procedures and PAM prepared by ADB and the Recipient; and
+(d) Section 9.03 (Audit of  Accounts);  Project Accounts, financial statements and
+statements  of  expenditure  shall  be  audited  by  independent  auditors
+acceptable  to  the  Fund  and  the  ADB,  in  accordance  with  auditing  standards
+acceptable to the ADB.
+3
+Appendix I
+EB 2019/128/R.20
+The following are the designated representatives and addresses to be used for any
+5.
+communication related to this Agreement:
+For the Recipient:
+[click and type title of the representative]
+[click and type the name and address of the ministry]
+For the Fund:
+[click and type Title]
+International Fund for Agricultural Development
+Via Paolo di Dono 44
+00142 Rome, Italy
+This  Agreement,  [dated  _____],  has  been  prepared  in  the  English  language  in  two  (2)
+original  copies,  one  (1)  for  the  Fund  and  one  (1)  for  the  Recipient  and  shall  enter  into
+force on the date of countersignature.
+ISLAMIC REPUBLIC OF AFGHANISTAN
+____________________
+Authorised Representative name
+Authorised Representative title
+Date: ____________
+INTERNATIONAL FUND FOR
+AGRICULTURAL DEVELOPMENT
+___________________
+Gilbert F. Houngbo
+President
+Date: ______________
+4
+Appendix I
+EB 2019/128/R.20
+Schedule 1
+Programme Description and Implementation Arrangements
+I.
+Project Description
+Target Population.  The  Project  shall  benefit  poor  smallholder  farmers  from  the
+1.
+Arghandab basin in Kandahar Province.
+Project area. The Project implementation will cover the Arghandab basin in Kandahar
+2.
+province, in the Islamic Republic of Afghanistan (the “Project Area”).
+Goal.  The  Project’s  goal  is  to  increase  employment  opportunities  for  the  target
+3.
+population and stimulate Gross Domestic Product growth.
+Objectives. The expected objectives of the Project are to improve management and
+4.
+use of water resources in the Arghandab River Basin in the Kandahar Province.
+5.
+Components.  The  Project  shall  consist  of  the  following  four  components:  (1) Dahla
+Dam capacity increased, (2) Reliability of irrigation water supply increased, (3) Agricultural
+water  productivity improved,  and  (4)  Capacity  in  water  resource  management  and  use
+strengthened. The  financing  provided  by  IFAD  will  be  used  to  support  component  2:
+Reliability  of  irrigation  water  supply  increased - key  activity  2b.  improvement  of
+community  irrigation  services;  component  3:  agricultural  water  productivity  improved -
+key  activity  3a.  demonstration  of  innovative  agricultural  on-farm  practices  and
+investment options; and component 4: capacity in water resource management and use
+strengthened – key activity 4a. water governance.
+II.
+Implementation Arrangements
+6.
+Lead  Project  Agency.  The  Lead  Project  Agency  with  overall  responsibility  for
+execution,coordination  and  supervision  of  the  Project  shall  be  the  Ministry  of  Finance
+(MOF).  The  Lead  Project  Agency  shall  ensure  timely  submission  of  annual  audit  reports
+which cover activities of MEW, MAIL, and MRRD.
+7.
+Project  Oversight  Committee.  A  Project  Oversight  Committee  shall  be  established
+at, and chaired by a senior official of, MOF and include representatives from MEW, MAIL,
+MRRD and security agencies.
+8.
+Implementing  Agencies.  The  MEW  shall  be  the  implementing  agency  for:  (i)  the
+Dahla  dam  raise  and  its  initial  operation  under  component  1,  (ii)  implementation  of
+works in the Arghandab Irrigation System under component 2, and  (iii) implementation
+of component 4 for strengthening capacity in water resources management and use. The
+MRRD  shall implement:  (i)  the  Kandahar  road  realignment  above  the  new  full  reservoir
+level under component 1; and (ii) works in the community irrigation systems, including
+canals  that  pass  through  Kandahar  City.  The  MAIL  will  implement  component  3  for
+investments to improve water productivity.
+9.
+Project Administration Manual (PAM). The Project will be administered by the ADB
+pursuant  to  the  implementation  arrangements  set  out  in  the  PAM  prepared  by  the  ADB
+and the Recipient, as amended from time to time.
+5
+Appendix I
+EB 2019/128/R.20
+Schedule 2
+Allocation Table
+1.
+Allocation of Grant Proceeds. (a) The Table below sets forth the Categories of Eligible
+Expenditures  to  be  financed  by  the  Grant  and  the  allocation  of  the  amounts  to  each
+category of the Financing and the percentages of expenditures for items to be financed in
+each Category:
+Category
+Grant Amount
+Allocated
+(expressed in USD)
+Percentage of the Project
+1.
+Equipment and Materials
+4 200 000
+100% of total expenditures
+claimed
+2. Works
+28 900 000
+100% of total expenditures
+claimed
+3. Consultancies
+1 400 000
+100% of total expenditures
+claimed
+Unallocated
+TOTAL
+5 500 000
+40 000 000
+(b)
+The  terms  used  in  the  Table  above  include  Eligible  Expenditures  for  the
+following:
+Equipment and Materials: including onfarm demonstrations conducted by MAIL.
+Works: relate to community contracting and include canal and bridge rehabilitation
+conducted by MRRD and onfarm matching grants managed by MAIL.
+Consultancies:  include  financing  for  water  governance  consultants  managed  by
+MEW.
+Disbursement  arrangements. Except  as  IFAD  may  otherwise  agree,  the  Grant
+2.
+proceeds shall be disbursed in accordance with ADB’s Loan Disbursement Handbook.
+6
+Appendix I
+EB 2019/128/R.20
+Schedule 3
+Special Covenants
+In  accordance  with  Section  12.01(a)(xxiii)  of  the  General  Conditions,  the  Fund  may
+suspend, in whole or in part, the right of the Recipient to request withdrawals from the
+Grant  Account  if  the  Recipient  has  defaulted  in  the  performance  of  any  covenant  set
+forth below, and the Fund has determined that such default has had, or is likely to have,
+a material adverse effect on the Project:
+1.
+Implementation  Arrangements. The  Recipient  shall  ensure  that  the  Project  is
+implemented  in  accordance  with  the  detailed  arrangements  set  forth  in  the  PAM.  Any
+subsequent change to the PAM shall become effective only after approval of such change
+by the Recipient and the ADB. In the event of any discrepancy between the PAM and this
+Grant Agreement, the provisions of this Grant Agreement shall prevail.
+2.
+Security. The  Recipient  shall  ensure  that  adequate  security  measures  are
+implemented at all times to guarantee the smooth and uninterrupted implementation of
+the Project.
+3.
+Gender.  The Recipient shall  ensure  that:  (a)  ADB’s  Gender  Action  Plan  (GAP)  is
+implemented  in  accordance  with  its  terms;  (b)  the  bidding  documents  and  contracts
+include  relevant  provisions  for  contractors  to  comply  with  the  measures  set  forth  in  the
+GAP;  (c) adequate  resources  are  allocated  for  implementation  of  the  GAP;  and  (d)
+progress  on  implementation  of  the  GAP,  including  progress  toward  achieving  key  gender
+outcome and output targets, are regularly monitored and reported to ADB.
+4.
+Indigenous  Peoples. The  Recipient  shall  ensure  that  the  Project  does  not  have  any
+impact on indigenous peoples within the meaning of the ADB’s Safeguard Policy Statement
+(SPS). In the event that the Project does have any such impact, the Recipient shall take all
+steps required to ensure that the Project complies with the applicable laws and regulations
+of the Recipient and with the SPS.
+implemented 
+in  strict  conformity  with 
+Environment and Social Safeguards. The Recipient shall ensure that: (a) all Project
+5.
+activities  are 
+the  Recipient’s  relevant
+laws/regulations and the requirements of ADB’s Safeguard Policy Statement dated 2015,
+as amended from time to time (SPS); (b) all Project activities give special consideration
+to the participation and practices of ethnic minority populations in compliance with SPS,
+as appropriate; (c) proposals for civil works include confirmation that no involuntary land
+acquisition or resettlement is required under the Project. In the event of unforeseen land
+acquisition or involuntary resettlement under the Project, the Recipient shall immediately
+inform  the  ADB  and  the  Fund  and  prepare  the  necessary  planning  documents  in
+compliance with SPS; (d) women and men shall be paid equal remuneration for work of
+equal  value  under  the  Project;  (e) recourse  to  child  labour  is  not  made  under  the
+Project; (f) the measures included in ADB’s GAP prepared for the Project are undertaken,
+and  the  resources  needed  for  their  implementation  are  made  available,  in  a timely
+manner;  and  (g) all  necessary  and  appropriate  measures  are  duly  taken  to  implement
+ADB’s GAP to ensure that women can participate and benefit equitably under the Project.
+Good  Governance  and  Anticorruption. The  Recipient  shall:  (a)  comply  with  the
+6.
+ADB’s  Anticorruption  Policy  (1998,  as  may  be  amended  from  time  to  time)  and
+acknowledge  that  the  ADB  reserves  the  right  to  investigate  directly,  or  through  its
+agents,  any  alleged  corrupt,  fraudulent,  collusive  or  coercive  practice  relating  to  the
+Project;  and  (b)  cooperate  with  any  such  investigation  and  extend  all  necessary
+assistance  for  the  satisfactory  completion  of  such  investigation. The  Recipient  shall
+ensure  that  anticorruption  provisions  acceptable  to  the  ADB  are  included  in  all  bidding
+documents  and  contracts,  including  provisions  specifying  the  right  of  the  ADB  to  audit
+7
+Appendix I
+EB 2019/128/R.20
+and examine the records and accounts of the executing and implementing agencies and
+all  contractors,  suppliers,  consultants,  and  other  service  providers  as  they  relate  to  the
+Project.
+Sexual  Harassment,  Sexual  Exploitation  and  Abuse.  The  Recipient  and  the  Project
+7.
+Parties  shall  ensure  that  the  Project  is  carried  out  in  accordance  with  the  provisions  of
+the  IFAD  Policy  on  Preventing  and  Responding  to  Sexual  Harassment,  Sexual
+Exploitation and Abuse (2018), as may be amended from time to time.
+8
+Logical framework
+Results Hierarchy
+Outreach
+Project Goal
+Improved water management
+and rural economic growth
+Development Objective
+Improved management and
+use of water resources in the
+Arghandab River basin
+contributes to improved food
+security and poverty reduction
+9
+Indicators
+Name
+Baseline
+Mid-Term
+End Target
+Source
+Frequency
+Responsibility
+Means of Verification
+Assumptions
+1  Persons receiving services promoted or supported by the project
+Females - Number
+Males - Number
+Young - Number
+Not Young - Number
+Total number of persons
+receiving services - Number
+of people
+6000
+14000
+20000
+1.a  Corresponding number of households reached
+Women-headed households
+- Number
+Non-women-headed
+households - Number
+Households - Number
+20000
+180000
+1.b  Estimated corresponding total number of households members
+Household members -
+Number of people
+Reduction in poverty levels in project area
+less poor Households -
+Percentage (%)
+Overall Irrigation delivery efficiency increased
+delivery - Percentage (%)
+Irrigated grape yield increased
+yield increase - Weight (t)
+1.2.4  Households reporting an increase in production
+Households - Percentage
+(%)
+Households - Number
+25
+10
+2
+1.2.8  Women reporting improved quality of their diets
+Women reporting improved
+quality of their diets -
+Number
+Percentage - Percentage
+(%)
+10800
+25200
+36000
+36000
+331200
+Mid-Term Evaluation,
+impact survey
+20
+baseline, mid-
+term and
+completion
+MAIL/ MRRD/
+MEW/ MoF
+Security conditions do not affect negatively
+project implementation or subsequent operations
+Security conditions do not affect negatively
+project implementation or subsequent operations
+Monitoring Reports of
+DAIL of Kandahar
+Monitoring Reports of
+DAIL of Kandahar
+Outcome surveys
+outcome surveys
+36
+4
+70
+60
+MAIL/ MRRD/
+MEW/ MoF
+MAIL/ MRRD/
+MEW/ MoF
+MAIL/ MRRD/
+MEW/ MoF
+MAIL/ MRRD/
+MEW/ MoF
+MRRD PMO reports
+quarterly
+Security conditions do not affect negatively
+project implementation or subsequent operations
+Outcome
+1. Dahla Dam capacity
+increased
+Outcome
+2. Reliability of irrigation water
+supply increased
+length of Kandahar-Bamian route highway realigned to be above 1.154 metres
+above sea level
+Length of roads - Length
+(km)
+Community irrigation systems modernized
+irrigation systems - Number
+0
+Water being delivered in timely manner to 95% of farmers
+frequency - Percentage (%)
+25
+9.6
+120
+90
+1.1.2  Farmland under water-related infrastructure constructed/rehabilitated
+Hectares of land - Area (ha)
+0
+115000
+3.2.2  Households reporting adoption of environmentally sustainable and climate-
+resilient technologies and practices
+Household members -
+Number of people
+Households - Number
+0
+300
+Output
+ same
+Outcome
+3. Agricultural water
+productivity improved
+Output
+same
+Outcome
+4. Capacity in water resource
+management and use
+strengthened
+Policy 3  Existing/new laws, regulations, policies or strategies proposed to policy
+makers for approval, ratification or amendment
+Number - Number
+1
+Government staff complete M.Sc. in integrated water resources management
+Males - Number
+Females - Number
+70
+30
+Gazette of new
+regulations
+List of graduates from
+Kabul Polytechnic
+University
+Completion certificats
+and MAIL CPMO
+O&M agreements
+signed by community
+reports
+quarterly
+annual
+quarterly
+MAIL/ MRRD/
+MEW/ MoF
+MAIL/ MRRD/
+MEW/ MoF
+MAIL
+MAIL CPMO reports
+quarterly
+Security conditions do not affect negatively
+project implementation or subsequent operations
+Climate changes, severe droughts and/or
+increased sediment inflows do not reduce the live
+Security conditions do not affect negatively
+project implementation or subsequent operations
+No political resistance; Trained staff not being
+transferred, adequate and efficient organizational
+structure, availability of staff incentives
+No political resistance; Trained staff not being
+transferred, adequate and efficient organizational
+structure, availability of staff incentives
+No political resistance; Trained staff not being
+transferred, adequate and efficient organizational
+structure, availability of staff incentives
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+9
+/
+1
+2
+8
+/
+R
+.
+2
+0

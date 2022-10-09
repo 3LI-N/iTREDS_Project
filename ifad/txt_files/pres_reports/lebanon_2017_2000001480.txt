@@ -1,0 +1,1552 @@
+Document:
+Date:
+Distribution:
+Original:
+EB 2017/LOT/P.11
+3 August 2017
+Public
+English
+E
+President’s report on a proposed loan and
+grant to the Lebanese Republic for
+Harmonized Actions to Enhance Livestock
+Production and Processing
+Note to Executive Board representatives
+Focal points:
+Technical questions:
+Dispatch of documentation:
+Tarek Kotb
+Country Programme Manager
+Near East, North Africa and Europe Division
+Tel.: +39 06 5459 2965
+e-mail: t.kotb@ifad.org
+William Skinner
+Chief
+Governing Bodies
+Tel.: +39 06 5459 2974
+e-mail: gb@ifad.org
+For: Approval
+EB 2017/LOT/P.11
+ii
+iii
+iv
+1
+1
+1
+1
+2
+2
+2
+2
+3
+3
+3
+4
+5
+6
+6
+6
+7
+7
+8
+8
+9
+9
+9
+9
+10
+10
+10
+Contents
+Abbreviations and acronyms
+Map of the project area
+Financing summary
+Recommendation for approval
+I.
+Strategic context and rationale
+A. Country and rural development and poverty context
+B. Rationale and alignment with government priorities and
+RB-COSOP
+II. Project description
+A. Project area and target group
+B. Project development objective
+C. Components/outcomes
+III. Project implementation
+A. Approach
+B. Organizational framework
+C. Planning, M&E, Learning and Knowledge Management
+D. Financial Management, Procurement and Governance
+E. Supervision
+IV. Project costs, financing, and benefits
+A. Project costs
+B. Project financing
+C. Summary benefit and economic analysis
+D. Sustainability
+E. Risk identification and mitigation
+V.
+Corporate considerations
+A. Compliance with IFAD policies
+B. Alignment and harmonization
+C. Innovations and scaling up
+D. Policy engagement
+VI. Legal instruments and authority
+VII. Recommendation
+Appendices
+I. Negotiated financing agreement
+II. Logical framework
+i
+EB 2017/LOT/P.11
+Abbreviations and acronyms
+AWP/B
+FAO
+FARMS
+FMD
+HALEPP
+LCRP
+M&E
+MoA
+NPTP
+PMU
+PSC
+annual workplan and budget
+Food and Agriculture Organization of the United Nations
+Refugees, Migrants, Forced Displacement and Rural Stability
+Financial Management Department
+Harmonized Actions to Enhance Livestock Production and Processing
+Lebanon Crisis Response Plan
+monitoring and evaluation
+Ministry of Agriculture
+National Poverty Targeting Programme
+project management unit
+Project Steering Committee
+ii
+Map of the project area
+EB 2017/LOT/P.11
+iii
+EB 2017/LOT/P.11
+Lebanese Republic
+Harmonized Actions to Enhance Livestock Production and
+Processing
+Financing summary
+Initiating institution:
+IFAD
+Borrower:
+Lebanese Republic
+Executing agency:
+Ministry of Agriculture
+Total project cost:
+US$12.5 million
+Amount of IFAD loan:
+US$4.9 million
+Amount of IFAD grant:
+US$0.6 million
+Terms of IFAD loan:
+Ordinary terms: 18 years, including a grace
+period of 3 years, with an interest rate equal to
+the reference interest rate per annum as
+determined by the Fund semi-annually.
+Amount of financing gap:
+Facility for Refugees, Migrants, Forced
+Displacement and Rural Stability: US$5 million
+Contribution of borrower:
+US$1.8 million
+Contribution of beneficiaries:
+US$0.2 million
+Appraising institution:
+IFAD
+Cooperating institution:
+Directly supervised by IFAD
+iv
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2017/LOT/P.11
+Recommendation for approval
+The Executive Board is invited to approve the recommendation for the proposed
+financing to the Lebanese Republic for Harmonized Actions to Enhance Livestock
+Production and Processing, as specified in paragraph 64.
+Proposed loan and grant to the Lebanese Republic for
+Harmonized Actions to Enhance Livestock Production
+and Processing
+I. Strategic context and rationale
+A. Country rural development and poverty context
+1.
+Real GDP growth in Lebanon for 2016 was estimated at 1.8 per cent, reflecting the
+impact of regional turmoil.
+2.
+3.
+4.
+5.
+6.
+According to the Ministry of Social Affairs and the Office of the United Nations High
+Commissioner for Refugees (UNHCR), Syrian refugees are concentrated in specific
+pockets: 87 per cent of persons displaced from the Syrian Arab Republic and
+67 per cent of the poorest Lebanese live in 251 out of a total of 1,653 cadastral
+zones in the country.
+Nearly 95 per cent of Syrian refugees are food insecure, 71 per cent are living
+below the minimum poverty line of US$2.4 per day, and 41 per cent have
+inadequate shelter.
+Using these poverty lines, 28.6 per cent of Lebanese households were found to be
+poor; and, of these, 8 per cent were considered extremely poor or below the lower
+poverty threshold.
+Currently, the Ministry of Social Affairs claims that the highest poverty rates are in
+Mount Lebanon, North Lebanon and Bekaa; and these zones account for about
+77 per cent of all poor people in the country. In 2014, 12 per cent of Lebanon's
+population was estimated to be rural.
+Compared to Lebanon's overall poverty rate of 8 per cent, over 20 per cent of
+households engaged in agriculture are living below the low poverty threshold.
+B. Rationale and alignment with government priorities and
+7.
+8.
+RB-COSOP
+The IFAD country strategy note for Lebanon (October 2016) identified the following
+two strategic objectives (SOs) for IFAD’s short-term engagement: (i) SO1:
+increase opportunities and improve living conditions for communities that depend
+on dairy livestock, through improved production, capacity development, access to
+veterinary services, and policy dialogue; and (ii) SO2: support rural enterprise
+development for dairy processing through small and medium-sized enterprises and
+community-based organizations, including cooperatives, producer associations and
+private-sector entities.
+On this basis, IFAD’s short-term engagement in Lebanon includes contributions
+towards: (i) assisting the Government of Lebanon to strengthen the livestock
+sector; (ii) supporting rural communities hosting Syrian refugees by promoting
+initiatives that generate income and employment opportunities; and (iii) triggering
+grant resources upon government request to urgently respond to the influx of
+refugees into the region.
+1
+EB 2017/LOT/P.11
+9.
+The priorities of the Ministry of Agriculture (MoA) strategy match those of the IFAD
+Strategic Framework 2016-2025, as well as IFAD’s strategic partnership with
+Lebanon. Both frameworks relate to supporting smallholder agriculture and rural
+development programmes, thus building the capacity, productivity and market
+participation of poor rural people.
+10. Theory of change. There is strong demand for good-quality dairy products
+obtained through small-scale processing of fresh milk. Consumers are willing to pay
+a premium price for quality. Small dairy producers are currently unable to
+penetrate this rewarding market, however. Not only do they pay a high price for
+animal feed, but they also produce and process low-quality milk and dairy
+products. Reducing the cost of animal feed and improving animal health, together
+with higher productivity per head and hygienic processing to add value to good-
+quality raw milk, would sustainably increase incomes among smallholder dairy
+producers and processors and enhance food security both at the household level
+and countrywide. This would make the Lebanese dairy sector far more profitable at
+the smallholder level and lift smallholder dairy farmers and processors out of
+poverty. The same theory of change would apply to the Syrian refugees engaged in
+dairy production and on-farm processing, whether now as refugees in Lebanon or
+when they eventually return to the Syrian Arab Republic.
+II. Project description
+A. Project area and target group
+11. The Harmonized Actions to Enhance Livestock Production and Processing (HALEPP)
+project would be national in scope and cover seven governorates: Mount Lebanon,
+North Lebanon, Akkar, Bekaa, Baalbek-Hermel, Nabatieh and South Lebanon. It
+would mainly target the Lebanese communities who are among the poorest and the
+most affected by the influx of Syrian refugees, as well as the refugees themselves,
+by implementing its actions in the 251 poorest of a total of 1,653 cadastral zones
+in the country. The 251 cadastral zones are home to 67 per cent of the poorest
+Lebanese people and 87 per cent of the Syrian refugees.
+12. The project would target about: (i) 2,400 smallholder cattle farmers and 1,600
+small ruminant farmers. It is estimated that this would encompass nearly
+30 per cent of all farmers owning up to seven cows, and 21 per cent of all small
+ruminant farmers with herds of up to 200; (ii) 1,500 smallholder on-farm
+processors, mostly women; (iii) 80 small-to-medium off-farm processors; and
+(iv) 500 young Lebanese in host communities affected by the Syrian crisis, and
+Syrian refugees, seeking employment in agriculture and agroprocessing and rural
+infrastructure. All project interventions would have a strong focus on women, who
+represent a specific IFAD target given their traditional importance in livestock
+production, their growing social and economic responsibility, and their vulnerable
+position in societies. Up to 30 per cent of the project target population would be
+Syrian refugees.
+B. Project development objective
+13. The project’s overall goal is to contribute to the reduction of rural poverty among
+resource-poor Lebanese rural households, including Lebanese host communities
+affected by the Syrian crisis and the Syrian refugees living in these areas.
+14. The development objectives are to: (i) increase the income of smallholder dairy
+producers and processors; and (ii) increase employment opportunities for young
+Lebanese in communities affected by the Syrian crisis and for young Syrian
+refugees living in these communities.
+C. Components/outcomes
+15. The project will have three core components that display a number of
+complementarities between initiatives and subcomponents.
+2
+EB 2017/LOT/P.11
+16. Component 1: Enhancing the competitiveness of smallholder dairy
+producers. The expected outcomes of this component are enhanced smallholder
+dairy farming productivity and an increased supply of quality milk; this will be
+achieved through outputs delivered under two activities:
+(i)
+(ii)
+Improving the capacities of targeted smallholder dairy farmers; and
+Improving animal management and productivity in cattle dairy herds and
+small ruminant flocks.
+17. Component 2: Improving small-scale value addition and market access.
+The expected outcome of this component is better nutrition, resulting from higher
+consumption of dairy products, better-quality dairy products at the household level,
+strengthened and competitive small and mid-size dairy processors, and reduced
+post-harvest milk losses. This will be achieved mainly by training producers and
+processors in best practices. The outputs will be structured under three
+subcomponents:
+(i)
+(ii)
+Supporting aggregation and value addition. A training program will be
+designed to raise awareness on issues of milk hygiene, handling and
+processing, targeting women household members in charge of milking
+animals and milk processing at home. The focus will be on the introduction
+and use of simple innovations and technologies that result in higher yields
+and better-quality products;
+Improving access to finance. Subcomponent outcomes include increased
+formal financial-sector lending to the smallholder dairy sector. The objective
+of the subcomponent is to demonstrate the viability of sustainable inclusive
+finance in the rural smallholder dairy market; and
+(iii) Supporting a dairy stakeholder platform for inclusive policy dialogue.
+This activity will have three main outcomes: [a] an inclusive national policy
+dialogue platform is established/strengthened and plays an active advocacy
+role on behalf of the smallholder dairy sector; [b] seven regional innovations
+platforms are established, addressing technical constraints at the local level
+and ensuring an upward flow of information; and [c] consensus based
+self-regulation mechanisms (for quality, price, etc.) are established.
+18. The third component involves project management and support.
+III. Project implementation
+A. Approach
+19. Based on previous and ongoing experience with the implementation of
+IFAD-supported projects, and given the limited capacity in the MoA, HALEPP
+implementation would combine making use of relevant MoA directorates and
+outsourcing to qualified institutions (universities and international organizations,
+NGOs and private service providers). The latters’ involvement would be arranged
+through calls for proposals and performance-based memoranda of understanding.
+Many NGOs have been active in supporting smallholder farmers and rural women in
+technology transfer, agricultural extension and access to markets.
+B. Organizational framework
+20. A specially created project management unit (PMU) with competitively recruited
+and qualified staff will coordinate the project. The PMU office will be physically
+located in the MoA, reporting directly to the Office of the Minister. The PMU’s core
+staff will include a full-time project director and full-time professional and support
+staff to oversee the day-to-day operations of the project, namely: financial
+manager, procurement officer, accountant, monitoring and knowledge management
+and community mobilization-targeting/gender officer, administrative assistant, and
+two drivers. In addition, the relevant staff from the Animal Resources Directorate
+3
+EB 2017/LOT/P.11
+and Education and Extension Service will be involved in management of the project
+part-time.
+21.
+In line with the practice for IFAD-funded projects in Lebanon, a project steering
+committee (PSC) will be set up to provide policy direction for the project; review
+and approve annual workplans and budgets (AWP/Bs); and oversee the project
+management team to ensure its effectiveness. Membership of the PSC will include:
+representatives of MoA, the General Directorate of Cooperatives, Ministry of Social
+Affairs, Office of the Ministry of State for Displaced Persons’ Affairs, microfinance
+institutions, etc.
+C. Planning, M&E, learning and knowledge management
+22. A key planning instrument will be the AWP/B, the first of which will be prepared as
+part of the final design report, together with the procurement plan for the first 18
+months of the project; and it will be presented for discussion during the start-up
+workshop for submission for IFAD’s no objection. The subsequent AWP/Bs should
+be prepared, discussed and approved no later than sixty days before the fiscal
+year-end. If required, the PMU, through the PSC, can propose adjustments in the
+AWP/B during the relevant project year, which will become effective upon IFAD
+clearance.
+23. The monitoring and evaluation (M&E) system is designed to offer comprehensive
+and reliable information to improve planning and decision-making for results-based
+management. The monitoring and evaluation of HALEPP achievements and
+knowledge management will be the responsibility of the PMU. An M&E specialist will
+be responsible for collecting relevant data on activities, outputs and outcomes.
+24. The logical framework will be used for results-based M&E and will include an initial
+list of indicators to track progress and achievements. This will be done through
+accounting for progress against AWP/B targets, routine and periodic assessments
+of movement towards beneficiary impact. The project’s draft M&E matrix will be
+prepared in a participatory manner as part of the start-up activities in line with the
+logical framework. Several studies/surveys will be conducted as part of the M&E
+system.
+25. Baseline study. The project’s baseline is a critical element in its M&E system. It
+will include the target group and a control group which will be essential for
+attributing results to project activities. At the start of implementation, a baseline
+survey will be conducted in selected locations to assess the physical and
+socioeconomic status of the target group and define its benchmark status.
+26. Midterm review. An external evaluation will be performed towards the middle of
+the HALEPP implementation period, i.e. in year 3. It will assess operational aspects
+such as project management and the implementation of activities, as well as the
+extent to which the objectives are being fulfilled. It will also identify the corrective
+actions needed for the project to achieve its impact.
+27. Project completion survey (impact evaluation). This will include the same set
+of questionnaires used for the baseline, to enable comparison against baseline
+results. In addition, a panel of households will be interviewed to provide a thorough
+analysis of the project’s impact. Analysis will also be conducted by type of
+beneficiary, region and gender of household head.
+28. The Results and Impact Management System (RIMS), developed by IFAD
+since 2004, will be fully incorporated into the project’s M&E system. A systematic
+methodology will be used, together with a set of common indicators across
+programmes and regions, to measure and report on the performance and impact of
+projects. The RIMS report for the level 1 and level 2 indicators will be prepared at
+each fiscal year-end and reported to IFAD before 31 January.
+4
+EB 2017/LOT/P.11
+29. Georeferencing. All HALEPP activities will be georeferenced at the village level.
+This will permit monitoring of the coverage of project actions and the concentration
+of certain activities in specific areas. All extension sites, processing facilities
+supported by HALEPP and microfinance institutions participating in the project will
+be georeferenced.
+30. Beneficiary database. The database will be developed for all project
+beneficiaries. Details on each beneficiary to be contained in the database include:
+physical address, national identification, age, sex, and activities participated in. The
+database will make it possible to track beneficiaries and activities, and provide a
+sampling vehicle for data collection and visits during supervision missions.
+31. The learning process will be part of the regular M&E activities. Lessons learned will
+be prepared and reported for all component activities. The learning and knowledge
+management activities will include regular monitoring mechanisms, progress
+reports, midterm review, and an impact assessment evaluation at the end of the
+project. There will be a special focus on preparing a learning note on dairy
+extension and dairy product labelling, which are innovations in the Lebanese
+context.
+32. As part of the preparation of the IFAD-required project completion report/impact
+assessment during the final year of HALEPP implementation, the M&E data
+collected over the implementation period will be used to make a thorough
+assessment of its achievements. In particular, it will compare changes in the
+livelihoods of beneficiaries, which are attributed to HALEPP, relative to the baseline
+situation. Innovations and best practices at the village level will be documented for
+future replication and scaling up.
+33. The Facility for Refugees, Migrants, Forced Displacement and Rural Stability
+(FARMS) specific results and achievements will be mainstreamed into IFAD's M&E
+systems. The results achieved by the Facility will be reported as per current IFAD
+reporting practice, coupled with a separate annual meeting on FARMS results and
+progress to be organized for donors and key stakeholders. Knowledge management
+and learning will aim to generate lessons learned and best practices, which can
+feed back into the activities of the Facility and IFAD's broader portfolio.
+D. Financial management, procurement and governance
+34. The PMU, under the MoA, will assume overall responsibility for managing the
+projects' fiduciary performance and all financial management activities.
+35. A financial management assessment has been made as part of the project design.
+The country’s inherent risk is rated as high, as also is the project’s initial risk
+rating. However, following implementation of the identified mitigation actions, the
+risk rating is expected to drop to medium during the first or second year of
+implementation.
+36. The PMU will conduct a competitive selection process to hire a qualified finance
+manager and a project accountant. The PMU will keep its accounts in accordance
+with International Public-Sector Accounting Standards (IPSAS) cash-based
+accounting. The project transactions will be recorded in an accounting software to
+be procured as part of the project start-up and kept by the PMU.
+37. As regards the flow of funds, government procedures will be applied to IFAD
+funding in the same way as to other donors including the World Bank. Accordingly,
+IFAD financing will be disbursed against duly certified withdrawal applications,
+through the Borrower's treasury accounts to two separate designated accounts,
+denominated in US dollars and held at the Central Bank of Lebanon. There will also
+be a separate counterparty account for the government contribution. The Ministry
+of Agriculture, through the PMU, will appoint an independent private audit firm,
+acceptable to IFAD and under terms of reference cleared by it, to audit the project
+in accordance with International Standards on Auditing and IFAD Guidelines for
+5
+EB 2017/LOT/P.11
+Project Audits. An audited annual consolidated financial statement for the entire
+project, together with a management letter setting out audit observations on
+internal controls, will be submitted to the Fund within six months of the fiscal
+year-end.
+38. The assessment undertaken by IFAD showed that the Ministry is observing the
+procurement rules and regulations currently applicable in the country. Nonetheless,
+due to the aforementioned weaknesses in the current system, goods, works and
+services procurement financed by the IFAD loan and grant and FARMS funds will
+abide by IFAD Project Procurement Guidelines. Any changes that may occur during
+implementation will be agreed upon with IFAD.
+39. Appropriate thresholds that can maximize procurement efficiency will be specified
+in the letter to the borrower and in the approved procurement plan. Whenever
+possible, goods and works procurement will be bulked into sizeable bid packages to
+attract adequate competition, thus resulting in cost-effective and efficient
+procurement. The procurement packages that are envisaged vary between low and
+high value items with procedures to be implemented using international or
+competitive bidding and a large number of requests for quotations.
+40. As part of the PMU, a Procurement Officer will be recruited competitively and hired
+on a performance-based contract. In order to establish a sound procurement
+management system in the project, and given the current country experience,
+intensive capacity development will be needed for PMU staff. Two Procurement
+Assistants seconded by the Government will join the PMU during the first two years
+of the project, to assist in the daily procurement activities which are expected to be
+enormous, based on the initial 18-month procurement plan developed for the
+project.
+E. Supervision
+41.
+IFAD will directly supervise the project at least once a year and focus on fiduciary
+and implementation support functions in collaboration with the country programme
+management team. A financial management specialist will participate in annual
+missions to supervise and provide implementation support to the project and follow
+up the identified risks and mitigation actions. In addition, and given the difficult
+political situation currently prevailing, compounded by institutions with limited
+capacity and the heavy presence of Syrian refugees, close technical supervision
+and implementation support missions will be jointly carried out by IFAD and the
+donor of the FARMS grant, at least once a year but also on demand.
+IV. Project costs, financing, and benefits
+A. Project costs
+42. The total cost of the project, over a six-year period, is estimated at
+US$12.5 million. All costs have been estimated on the basis of prices prevailing in
+Lebanon in April 2017. The base cost amounts to US$11.8 million (90 per cent of
+total costs). Investment costs represent 76 per cent of total costs and recurrent
+costs 24 per cent. Physical and price contingencies account for about 9.5 per cent
+of total costs.
+6
+EB 2017/LOT/P.11
+Table 1
+Project costs by component and financier
+(Thousands of United States dollars)
+Component
+1. Enhancing the
+competitiveness of
+smallholder dairy producers
+2. Improving small-scale value
+addition and market access
+3. Project management and
+support
+Total
+IFAD loan
+IFAD grant
+Financing gap
+FARMS
+Beneficiaries
+Borrower/
+counterpart
+Total
+Amount
+%
+Amount %
+Amount
+%
+Amount % Amount
+%
+Amount
+1 800
+30.8
+-
+-
+3 100
+55.1
+-
+-
+800
+14.1
+5 700
+1 900
+52.1
+300
+8.4
+1 300
+35.4
+200
+4.1
+-
+-
+3 700
+1 200
+40.2
+4 900
+39.4
+300
+600
+8.7
+4.6
+600
+5 000
+19.2
+40.5
+-
+-
+200
+1.2
+1 000
+1 800
+31.9
+14.2
+3 000
+12 500
+B. Project financing
+43. The project will be financed by an IFAD loan of US$4.9 million (covering
+39.4 per cent of total costs), an IFAD grant of US$600,000 (4.6 per cent). It is
+anticipated that a FARMS grant of US$5 million (40.5. per cent) will also be
+provided from supplementary funds. The Government will contribute US$1.8 million
+(14.2 per cent) and beneficiaries US$200,000.
+Table 2
+Project costs by expenditure category and financier
+(Thousands of United States dollars)
+IFAD loan
+IFAD grant
+Financing gap
+FARMS
+Beneficiaries
+Borrower/
+counterpart
+Total
+Amount
+%
+Amount
+%
+Amount
+%
+Amount % Amount
+%
+Amount
+-
+-
+-
+-
+200
+34.8
+500
+1 500
+64.8
+200
+6.4
+-
+-
+-
+2 700
+70.4
+600
+51.0
+-
+-
+-
+-
+-
+-
+700
+47.0
+-
+--
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1 400
+59.4
+-
+-
+2 400
+3 900
+1 100
+1 600
+2 300
+200
+200
+46.6
+500
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Expenditure
+category
+1. Vehicles
+2. Equipment and
+materials
+3. Technical
+assistance
+5. Studies and
+workshops
+6. Training
+7. Salaries
+8. Incentives
+9. Operation and
+maintenance
+Total
+300
+65.2
+700
+28.8
+1 200
+29.6
+600
+800
+900
+200
+300
+4 900
+49.0
+53.0
+40.6
+100.0
+53.4
+39.4
+600
+4.6
+5 000
+40.5
+200
+1.2
+1 800
+14.2
+12 500
+C. Summary benefit and economic analysis
+44. The economic internal rate of return (EIRR) on the investments made in the
+HALEPP project area over a 15-year period is estimated at 15.6 per cent. The
+project’s net present value (NPV) is positive (US$27.9 million) and the benefit-cost
+ratio is 3.7. The economic analysis suggests that the HALEPP project is feasible.
+With an opportunity cost of capital of 9 per cent, these indicators establish the
+project’s economic feasibility. Profitability sensitivity tests suggest that the project
+is robust and worthwhile.
+45. Eleven models relating to dairy farming and support for dairy value-chain activity
+models have been considered in the analysis. The livestock models included
+encompass sheep, goat, and cow models, as well as models combining cattle and
+small ruminants.
+46. Eleven models reflecting different agroecological conditions in Lebanon are
+analysed. Six models deal specifically with producers who pay a rent for accessing
+rangelands and sell milk directly to Hallab (milk collectors) while four are
+processing unit models.
+7
+EB 2017/LOT/P.11
+47. The models show an increase in net annual income per animal of around
+50 per cent from production and processing. Good financial performances in terms
+of financial internal rate of return (FIRR) and financial net present value (FNPV) are
+achieved despite the relatively high cost of inputs, including the feed cost per
+animal and labour costs.
+48. The IRRs for the two small ruminant models are 14.7 per cent and 19.8 per cent
+respectively; and the dairy processing models report an average FIRR of
+15.2 per cent. Employment opportunities created in the livestock and processing
+unit models show that around 12,600 jobs will be created with 85 per cent in the
+livestock farming system (models M1 to M7), while 25 per cent will be created
+through processing models (models M8 to 11).
+49. Models M2, M3, M5, and M10 are the most influential models in HALEPP. Livestock
+fertility and lactation are the most influential parameters in the project; and
+greater attention should be paid to them to ensure its profitability.
+D. Sustainability
+50. The various vocational and extension training activities for dairy production and
+processing and for other skill improvement will be designed to be relevant for
+women, youth and smallholders for job creation, self-employment and upgrading
+agriculture and dairy production and processing. All investments in dairy
+processing will be based on a clear plan for their ownership, operation and
+management.
+51. The creation of a stakeholder platform with participation by smallholder dairy
+producers and processors will provide a good opportunity for this group to voice
+their concerns vis-à-vis the dairy industry and regulatory processes.
+52. The project will seek to connect the target group to the formal financial sector for
+dairy sector financing. A product will be developed and tested by three to five
+competitively selected financial institutions, with technical support from the
+project.
+53.
+Project support to innovative renewable energy sources and dairy farm waste
+treatment (biogas production) will contribute to lower production costs and
+pollution abatement.
+E. Risk identification and mitigation
+54. The main risks include the possibility that Syrians may lose their refugee status
+(which allows them to work in the agricultural sector) and “fall out” of ongoing
+project activities; potential delays in project implementation, uncontrolled dairy
+imports from the Syrian Arab Republic; a continuation of the influx of Syrian
+refugees into rural communities thereby forcing up dairy product prices, leading to
+unregulated importation of cheaper milk products; disease outbreaks
+(foot-and-mouth disease and ovine rinderpest, etc.); and the effect of climate
+change on natural resources.
+55. HALEPP will adopt mitigation measures starting with policy dialogue with
+government authorities to prevent beneficiaries from dropping out; avert delays in
+project implementation and ensure intensive training for PMU staff and the use of
+NGOs and service providers. The project will assist the Government of Lebanon to
+improve rural infrastructure and increase milk productivity. The project will partner
+with international and national institutions and NGOs to leverage support for the
+communities hosting Syrian refugees and control the unregulated importation of
+cheaper milk products. The project will support the MoA's initiative to ensure
+regular frequency in the organization of fora for smallholder farmers and
+small-scale processors, and facilitate participation by targeted stakeholders. The
+project will assist in building national capacity to mitigate disease risks. The project
+will educate participating dairy farmers on forage conservation techniques, as well
+8
+EB 2017/LOT/P.11
+as investment in pasture improvement and conservation at farm level. The project
+is expected to promote investments in climate-resilient and low-carbon
+post-harvesting procedures, drying/cooling, processing and value addition, to
+reduce product losses and increase incomes among farmers and rural laborers.
+V. Corporate considerations
+A. Compliance with IFAD policies
+56. The project is aligned with the IFAD Strategic Framework 2016-2025, the country
+strategic note for Lebanon, and IFAD policies. The project’s activities,
+implementation arrangements and M&E system have been designed in compliance
+with the IFAD Targeting Policy and IFAD Policy on Gender Equality and Women’s
+Empowerment; and they are aligned with the approaches outlined in the
+Framework for Gender Mainstreaming in IFAD’s operations. The project is designed
+to be consistent with IFAD’s Private Sector Development and Partnership Strategy,
+its Rural Finance Policy and the associated Decision Tools for Rural Finance. The
+Social, Environmental and Climate Assessment Procedures (SECAP) report
+confirmed the project’s environmental and social classification as B; and it rated
+climate risk as “Moderate”, given that the project approach will promote the use of
+climate-resilient technologies (e.g. solar energy and biogas technologies), along
+with improved management of animal husbandry and dairy processing. Last but
+not least, the HALEPP project is fully aligned to the FARMS policy.
+B. Alignment and harmonization
+57. HALEPP is consistent with the Government’s 2015–2019 agricultural development
+strategy (ADS), the National Poverty Targeting Programme (2011) (NPTP) and the
+Lebanon Crisis Response Plan (LCRP). The ADS aims to develop institutional
+capacities and increase MoA preparedness to meet agricultural-sector challenges
+through partnerships and collaboration between relevant stakeholders. It defines
+eight courses of action: improve food safety and enhance the quality of locally
+produced and imported products; increase the productivity and competitiveness of
+Lebanese agricultural products; improve governance and the sustainable use of
+resources; strengthen agricultural extension and education; strengthen agricultural
+research and laboratories; develop the cooperative sector and mutual funds;
+develop MoA capacities; and mitigate the impacts of climate change. The strategy
+identifies several targets, including: increasing the share of agriculture to 6 per
+cent of GDP from the existing 4 per cent; reducing the current agriculture trade
+deficit by 15 percentage points; raising the value of agricultural production by
+30 percentage points: in addition to increasing public spending in the sector,
+raising farming household incomes and creating jobs in agriculture.
+58. The development objective of the NPTP for Lebanon is to expand the coverage and
+enhance the NPTP social assistance package for Lebanese people affected by the
+Syrian crisis and all Lebanese households living below the extreme poverty line.
+Actions in the LCRP are aligned to national policies and strategies, and seek to
+complement and build on other international assistance in the country. The LCRP is
+organized around seven strategic sectors, including one on food security. The MoA
+leads the food security sector along with the Food and Agriculture Organization and
+the World Food Programme.
+Innovations and scaling up
+C.
+59. To assist the target group in reducing energy costs and explore opportunities for
+private-sector engagement in renewable energy, the project will support three pilot
+models using renewable energy in the dairy sector, for later scaling up:
+(i) solar-powered on-farm milk cooling technology; (ii) solar-powered water
+heating for milk processing; and (iii) biogas production from dairy cattle dung.
+9
+EB 2017/LOT/P.11
+D. Policy engagement
+60. The project will have three main outcomes in terms of policy dialogue and
+engagement: (i) an inclusive national policy dialogue platform is
+established/strengthened and plays an active advocacy role on behalf of the
+smallholder dairy sector; (ii) seven regional innovation platforms are set up, to
+address technical constraints at the local level and ensure an upward flow of
+information; and (iii) consensus-based self-regulation mechanisms (for quality,
+price, etc.) are established.
+VI. Legal instruments and authority
+61. A project financing agreement between the Lebanese Republic and IFAD will
+constitute the legal instrument for extending the proposed financing to the
+borrower/recipient. A copy of the negotiated financing agreement is attached as
+appendix I.
+62. The Lebanese Republic is empowered under its laws to receive financing from IFAD.
+63.
+I am satisfied that the proposed financing will comply with the Agreement
+Establishing IFAD and the Policies and Criteria for IFAD Financing.
+VII. Recommendation
+64.
+I recommend that the Executive Board approve the proposed financing in terms of
+the following resolution:
+RESOLVED: that the Fund shall provide a loan on ordinary terms to the
+Lebanese Republic in an amount equivalent to four million nine hundred
+thousand United States dollars (US$4,900,000), and upon such terms and
+conditions as shall be substantially in accordance with the terms and
+conditions presented herein.
+RESOLVED FURTHER: that the Fund shall provide a grant to the Lebanese
+Republic in an amount equivalent to six hundred thousand United States
+dollars (US$600,000) and upon such terms and conditions as shall be
+substantially in accordance with the terms and conditions presented herein.
+Gilbert F. Houngbo
+President
+10
+Appendix I
+EB 2017/LOT/P.11
+Negotiated financing agreement: "Harmonised Actions
+for Livestock Enhanced Production and Processing
+(HALEPP)"
+(Negotiations concluded on 27 July 2017)
+Loan Number: ______________
+Grant Number: _____________
+Project Title: Harmonised  Actions  for  Livestock  Enhanced  Production  and  Processing
+(HALEPP) (“the Project”)
+The Lebanese Republic (the “Borrower/Recipient”)
+and
+The International Fund for Agricultural Development (the “Fund” or “IFAD”)
+(each a “Party” and both of them collectively the “Parties”)
+WHEREAS  the  Borrower/Recipient has  requested  a  Loan  and  a  Grant  from  the  Fund  to
+partially finance the Project, and
+WHEREAS  the  Fund  will  endeavor  to  obtain  additional  financing  for  the  Project  from  a
+donor  or  donors  through  the IFAD  Facility  for  Refugees,  Migrants,  Forced  Displacement
+and  Rural  Stability  (FARMS),  to  cover  the  financing  gap  of  approximately  USD  5  million
+and  enable  the  Project  to  reach  the  Project  targets  and  especially  those  related  to  host
+communities/Syrian refugees.
+NOW, THEREFORE, the Parties hereby agree as follows:
+Section A
+1.
+The  following  documents  collectively  form  this  Agreement:  this  document,  the
+Project Description and Implementation Arrangements (Schedule 1), the Allocation Table
+(Schedule 2).
+2.
+The  Fund’s  General  Conditions  for  Agricultural  Development  Financing  dated
+29 April 2009, amended as of April 2014, and as may be amended hereafter from time to
+time (the “General Conditions”) are annexed to this Agreement, and all provisions thereof
+shall  apply  to  this  Agreement. For  the  purposes  of  this Agreement  the  terms  defined  in
+the General Conditions shall have the meanings set forth therein.
+The Fund shall provide a  loan and a grant
+3.
+“Financing”),  which the  Borrower/Recipient shall  use  to  implement  the Project
+accordance with the terms and conditions of this Agreement.
+to the  Borrower/Recipient (the
+in
+Section B
+1.
+A.
+The  amount  of  the  Loan  is four  million  nine  hundred  thousand  United  States
+dollars (USD 4 900 000).
+B.
+The  amount  of  the  Grant  is six  hundred  thousand  United  States  dollars
+(USD 600 000)
+1
+Appendix I
+EB 2017/LOT/P.11
+The  Loan  is  granted  on  ordinary  terms,  and  shall  be  subject  to  interest  on  the
+2.
+principal amount of the Loan outstanding at a rate equal to the IFAD Reference Interest
+Rate,  payable  semi-annually in  the  Loan  Service  Payment  Currency,  and  shall  have  a
+maturity  period  of  eighteen  (18)  years,  including  a  grace  period  of  three  (3)  years
+starting from the date that the Fund has determined that all general conditions precedent
+to  withdrawal  have  been  fulfilled  in  accordance  with  Section  4.02(b)  of  the  General
+Conditions.
+3.
+4.
+The Loan Service Payment Currency shall be the United States dollar (USD).
+The first day of the applicable Fiscal Year shall be 1 January.
+Payments  of principal  and  interest shall  be  payable  on  each 1  June  and  1
+5.
+December.
+There  shall  be two  Designated  Accounts for  the  benefit  of Project denominated in
+6.
+USD and maintained in the Central Bank of Lebanon:
+A.
+B.
+Designated  Account  A  will  receive the  proceeds  of  the  Loan through the
+Ministry of Finance's pooled treasury account for loans.
+Designated  Accounts  B  will  receive the  proceeds  of  the  Grant through the
+Ministry of Finance's pooled treasury accounts for grants and donations.
+The Borrower/Recipient shall provide counterpart contribution in kind for the Project
+7.
+in an amount equivalent  to  one  million  eight  hundred  thousand  of  United  States  dollars
+(USD 1 800 000).
+Section C
+1.
+The Lead Project Agency shall be the Ministry of Agriculture (MoA).
+The following are designated as additional Project Parties: participating NGOs, and
+2.
+Universities.
+The Project Completion Date shall be the sixth anniversary of the date of entry into
+3.
+force of this Agreement.
+Section D
+The Financing will be administered and the Project supervised by the Fund.
+Section E
+The following are designated as additional (general/specific) conditions precedent to
+1.
+withdrawal:
+(a) Key Staff, including a Project Director, Financial Manager and a Procurement
+Officer, have been duly appointed;
+(b) A  draft  Project  Implementation  Manual  (PIM)  including  the  Financial
+Administration and Accounting Manual, has been approved by IFAD; and
+2.
+This Agreement is subject to ratification by the Borrower/Recipient.
+2
+Appendix I
+EB 2017/LOT/P.11
+The following are the designated representatives and addresses to be used for any
+3.
+communication related to this Agreement:
+For the Borrower/Recipient:
+Minister of Agriculture
+Ministry of Agriculture
+Bir Hassan, Ambassador Street
+Lebanon
+For the Fund:
+The President
+International Fund for Agricultural Development
+Via Paolo di Dono 44
+00142 Rome, Italy
+This Agreement, dated ___________ has been prepared in the English language in two (2)
+original copies, one (1) for the Fund and one (1) for the Borrower/Recipient.
+THE LEBANESE REPUBLIC
+____________________
+INTERNATIONAL FUND FOR
+AGRICULTURAL DEVELOPMENT
+___________________
+Gilbert F. Houngbo
+President
+3
+Appendix I
+EB 2017/LOT/P.11
+Schedule 1
+Project Description and Implementation Arrangements
+I.
+Project Description
+1.
+Project  area. The Project shall be  national  in  scope  and  cover  all  7  governorates:
+Mount  Lebanon,  North  Lebanon,  Akkar,  Bekaa,  Baalbek-Hermel,  Nabatieh  and  South
+Lebanon.  The  project shall largely  focus  on  the  Lebanese  communities  who  are  among
+the  poorest  and  the  most  affected  by  the  influx  of  Syrian  refugees, as  well  as  Syrian
+refugees  by  implementing  its  interventions  in  the  poorest  cadasters  out  of  a  total  of
+1,653  cadasters  in  the  country. About  15%  of  these cadasters  are  home  to  67% of  the
+most deprived Lebanese and 87% of Syrian refugees.
+2.
+Target population.  The major target groups shall be as follows:
+Poor and smallholder dairy cattle farmers.
+Poor and smallholder semi-extensive farmers with small ruminants.
+On-farm and off-farm small scale to medium processors.
+Syrian Refugees engaged in dairy production and processing.
+Youth engaged in dairy production and processing.
+Goal. The  overall  goal  of  the Project  is  to  contribute  to  the  reduction  of  rural
+3.
+poverty of resource-poor Lebanese rural households and Syrian refugees.
+4.
+Objectives. The  development  objectives of  the  Project are: (i)  to  increase  the
+income  of  smallholder  dairy  producers  and  processors; and  (ii) to increase  employment
+opportunities of young Lebanese in communities affected by the Syrian crisis and young
+Syrian refugees living in these communities.
+Components. The Project will have three core components that envisage a number
+5.
+of complementarities between initiatives and subcomponents.
+5.1 Component 1.
+Enhancing competitiveness of smallholder dairy producers.
+The  expected  outcome  of  this  component  is  to  enhance  smallholder  dairy  farming
+productivity  and  supply  of  quality  milk;  this  will  be  achieved  through  outputs  delivered
+under two activities.
+(a)
+(b)
+improving capacities of targeted smallholder dairy farmers; and
+Improving  animal  management,  health and  productivity  of  cattle  dairy  herds
+and small ruminants’ flocks in the project area.
+5.2 Component 2.
+Improving small-scale value addition and access to market.
+The  expected  outcome  of  this  component  is  improved  nutrition  through  increased
+consumption  of  dairy  products,  better  quality  dairy  products  at  the  household  level,
+strengthened and  competitive  small  and  mid-size  dairy  processors,  and  reduced  post-
+harvest  losses  of  milk.  This  will  be  achieved  mostly  through  training  of  producers  and
+processors in best practice. The outputs will be structured under three subcomponents:
+4
+
+
+
+
+
+Appendix I
+EB 2017/LOT/P.11
+5.2.1 Supporting aggregation and value addition. A training program will be designed to
+increase  awareness  on  milk  hygiene,  handling  and  processing  focusing  on  women
+household members in charge of milking animals and milk processing at home. The focus
+will be on the introduction and use of simple innovations and technologies that results in
+higher yield and improved quality products.
+5.2.2 Improving  access  to  finance. Subcomponent outcomes  are  to  increase  formal
+financial  sector  lending  in  the  smallholder  dairy  sector.  The  objective  of  this
+subcomponent is to demonstrate the viability of sustainable inclusive finance in the rural
+smallholder dairy market.
+5.2.3 Supporting a dairy stakeholder platform for inclusive policy dialogue. This activity
+will  have three main  outcomes:  (i)  an  inclusive  national  policy  dialogue  platform  is
+established/strengthened  and  plays  an  active  advocacy  role  for  the  interest  of  the
+smallholder  dairy  sector; (ii)  regional  innovations  platforms  are  established,  address
+technical  constraints  at  local  level  and  ensure  upward  flow  of  information; and
+(iii) consensus based self-regulation mechanisms (for quality, price, etc.) are established.
+5.3 Project management and support. This is the third component.
+II.
+Implementation Arrangements
+6.
+The Lead Project Agency.
+6.1 The  Lead  Project  Agency  shall  be  the  Ministry  of  Agriculture (MoA).  Project
+implementation shall combine  making  use  of  relevant  directorates  within  the  MoA  and
+outsourcing  to  qualified  institutions  (universities  and  international  organisations),  NGOs
+and private service providers. Their involvement would be through call for proposals and
+performance- based MoUs.
+6.2 A specially created Project Management Unit (PMU) with qualified staff recruited on
+a competitive basis will coordinate the Project. The PMU will be under MoA, reporting to
+the Minister through the Animal Recourses Directorate. The PMU core staff will include a
+full  time  Project  Director  and  professional  and  support  staff  to  oversee  the  day-to-day
+operations  of  the  project,  namely:  Financial  Manager,  Procurement  Officer,  Accountant,
+Monitoring  and  Knowledge  Management  and  Community  Mobilization-Targeting/Gender
+Officer.
+In  addition,  the  relevant  staff  from  the  Animal Resources  Directorate  and
+Education  and  Extension  Service  will  be  involved  in the  project  management  on  a  part
+time  basis.    Appointment  and  removal  of  these  key  staff  members  shall  be  subject  to
+IFAD's non-objection.
+6.3 In  line  with  the  practice  for  IFAD-funded  projects  in  Lebanon,  a  Project  Steering
+Committee  (PSC)  will  be established  to  provide  policy  direction  for  the  project;  review
+and  approve  annual  work  plans  and  budgets;  and  provide  oversight  to  the  project
+management  team  to  ensure effectiveness. The  PSC  will  be  chaired  by  the  Minister  of
+Agriculture. Membership  of  the  PSC  will  include:  representatives  of  the  Ministry  of
+Agriculture,  General  Cooperatives  Directorate,  Ministry  of  Social  Affairs,  Office  of  the
+Ministry of State Displaced Affairs, and Ministry of Industry.
+7.
+Financial  Management.  To  facilitate  the  efficient  management  of  the  financial
+management  system,  the  Borrower/Recipient shall,  through the  Ministry  of  Finance
+(MoF),  channel  the  proceeds  of  the  Loan  from  the  loan  treasury  account  in  the  Loan
+Service  Payment  Currency  at the Banque  de Liban to  the  Designated  Account  of  the
+Project by a letter signed by both the Head of Treasury and the Central Treasury Cashier
+of  the  MoF.  Upon  each  withdrawal  of  the  proceeds  of  the  Loan  the  Borrower  shall,
+through  MoF,  open  Additional  Budget  Lines (budget  classification numbers:  1-14-1-421-
+12-9-2;  1-14-1-421-16-9-9;  1-14-2-4214-11-4-2;  1-14-2-4214-11-6-4;  2-14-1-421-
+2-14-1-421-228-8-1)
+226-2-1; 
+2-14-1-421-226-3-1; 
+2-14-1-421-226-4-1; 
+and 
+5
+Appendix I
+EB 2017/LOT/P.11
+equivalent  to  the  amount  of  such  withdrawal  of  the  Loan  proceeds,  provided  that  the
+total amount allocated to all such budget lines during the life of the Project up until the
+financing closing date shall not exceed the amount of the Loan. For the purposes of the
+Loan,  the  said  Additional  Budget  Lines  could  be  opened  in  the  budget  of  a  specific  year
+up  until  31  January  of  the  following  year  and  those  contracted  or  not  contracted  are
+carried forward per the request of the MoA.
+8.
+For the purposes of the Loan, transfer of funds between different budget lines shall
+be  carried  out  and  approved by  both  the  Minister  of  Finance  and  the  Minister  of
+Agriculture.
+9.
+The  Borrower/Recipient shall,  through  MoF,  open  an  account  for  the  Loan  in  its
+Chart  of  Accounts  to  record  all  disbursement  amounts  that  are  channeled  to  the
+Designated Account mentioned in Section B Paragraph 6 A above. The said account shall
+be settled periodically based on expenditures statements in the Loan currency signed by
+the  Minister  of  Agriculture  and  provided  to  MoF  before  end  of  each  fiscal  year  for
+expenditures  incurred  up  to  October  31st  of  said  Fiscal  Year,  and  before  end  of  January
+31st  of the following year  for expenditures incurred in November and December for the
+previous Fiscal Year
+10. Mid-term  Review. The Fund  shall  carry  out  a  review  of  project  implementation  no
+later than the end of the project’s third year. The review shall assess operational aspects
+such  as  project  management  and  implementation  of  activities  as  well  as  the  extent  to
+which the objectives are being fulfilled. It will focus on corrective actions needed for the
+project to achieve impact.
+11.
+Project Implementation Manual (PIM). The PMU shall prepare a draft PIM acceptable
+to  the  Fund  and  submit  it  for  approval  to  the  Project  Steering  Committee  (PSC).  When
+approved,  a  copy  of  the  approved  PIM  shall  be  provided  by  the  PMU  to  the  Fund.    The
+PIM may be amended with IFAD's non-objection when necessary to introduce clarification
+in  procedures,  eliminating  constraints  for  project  implementation  and  for  facilitating
+access of producers to the project services.
+6
+Appendix I
+EB 2017/LOT/P.11
+Schedule 2
+Allocation Table
+Allocation of Loan and Grant Proceeds. (a) The Table below sets forth the Categories
+1.
+of Eligible Expenditures to be financed by the Loan and the Grant and the allocation of the
+amounts of the Loan and the Grant to each Category and the percentages of expenditures
+for  items  to  be  financed  in  each  Category.    All  amounts  are  net  of  tax,  government  and
+beneficiary contribution.
+Category
+Loan Amount
+Allocated
+(expressed
+in USD)
+Grant Amount
+Allocated
+(expressed
+in USD)
+I.
+Equipment & Materials (including vehicles)
+945 000
+II.
+Consultancies (Including technical
+assistance, and studies)
+III.
+Training
+IV.
+Salaries and Allowances (including
+incentives)
+V.
+Operating costs
+Unallocated (5%)
+1 620 000
+800 000
+1 040 000
+250 000
+245 000
+600 000
+TOTAL
+4 900 000
+600 000
+(b)
+The terms used in the Table above are defined as follows:
+Category IV "Salaries and Allowances" means Eligible Expenditures related to
+salaries and allowances of the PMU staff and other Ministry of Agriculture staff
+under component three as defined in the AWPB.
+Category V "Operating costs" means Eligible Expenditures related to recurrent
+costs incurred by  the  PMU  or  other  entity  as  defined  in  the  AWPB under  the
+Project.
+Start-up  Costs.  Withdrawals  in  respect  of  expenditures  for  start-up  costs  incurred
+2.
+before the satisfaction of the general conditions precedent to withdrawal shall not exceed
+an aggregate amount equivalent to USD 200 000.
+7
+Indicators (indicators will be disaggregated by age and gender. Up to
+30% of beneficiaries will be Syrian refugees). Baseline figures will be
+updated after baseline survey in year one
+Means of Verification
+Assumptions
+and Risks
+Name
+Baseline
+Mid-Term End Target
+Source
+Logical framework
+Results Hierarchy
+Goal: contribution to
+reduction of rural
+poverty of resource-
+poor Lebanese rural
+households and Syrian
+refugees.
+Development
+Objectives:
+(i) to increase the
+income of smallholder
+dairy producers and
+processors, and (ii)
+increase in
+employment
+opportunities of young
+Lebanese in
+communities affected
+by the Syrian crisis and
+young Syrians living in
+these communities
+Outcome 1: milk
+production improved in
+quality and yield
+8
+ % 
+of 
+people 
+experiencing
+economic  mobility  (RIMS  3  CI1,
+SDG target 1.1 & 1.2
+- %
+20%
+50%
+ %  of  people  with  improved  food
+- %
+security
+ %  increase  in  smallholder  dairy
+producers and processors incomes
+(RIMS 3)
+ Number  of  FTE  employment
+opportunities  created  (RIMS2,  CI
+2.5.1)
+ Percentage 
+/
+households 
+positive
+integration with host communities
+of 
+reporting 
+persons 
+ %  decrease  in  cost  of  production
+per litre of milk (RIMS2, CI 2.2.2)
+ %  increase  in  milk  productivity
+(liter per animal (RIMS 2)
+ %  of  disease  outbreaks  reduction
+(RIMS2)
+producers
+200 USD
+/cow,
+processor
+500ltrs
+12,000
+USD
+- %
+500
+LBP/liter
+- %
+3,750 cow
+45 sheep
+113 goat
+0%
+600
+-
+30%
+10%
+60%
+20%
+1,000
+3,000
+15%
+30%
+10%
+10%
+30%
+30%
+25%
+50%
+RIMS
+baseline
+and impact
+survey
+Project
+Monitoring
+reports
+Project
+Monitoring
+reports
+Responsibilit
+y
+PMU, M&E
+officer
+Frequen
+cy
+Baseline
+and
+Completio
+n
+Annually
+M&E officer
+M&E officer
+Baseline
+and
+Completio
+n
+ Security  setback
+to
+due 
+unpredictable
+situation 
+Lebanon 
+neighbouring
+countries (R)
+in
+and
+ Stable
+macroeconomic
+context (A)
+Project
+Monitoring
+reports
+Trade
+statistics
+and Project
+M&E system
+Baseline
+and
+Completio
+n
+Baseline
+and
+Completio
+n
+M&E officer
+M&E officer
+Agents and
+collectors opposed
+to direct linkages
+between producers
+and processors (R)
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+1
+7
+/
+L
+O
+T
+/
+P
+.
+1
+1
+Results Hierarchy
+Outputs:
+1.1
+Technical
+knowledge  and  skills  of
+smallholder farmers are
+improved
+Animal 
+1.2
+health
+status of the dairy herd
+and flock is improved
+Indicators (indicators will be disaggregated by age and gender. Up to
+30% of beneficiaries will be Syrian refugees). Baseline figures will be
+updated after baseline survey in year one
+Means of Verification
+Assumptions
+and Risks
+Name
+Baseline
+Mid-Term End Target
+Source
+ No. of Smallholder farmers
+benefitting from extension
+(RIMS1)
+1,500
+4,000
+Project
+Monitoring
+reports
+Frequen
+cy
+Quarterly M&E officer
+Responsibilit
+y
+ National Animal Disease
+Information System revamped
+(RIMS2)
+1
+1
+Outcome 2: quality,
+diversification and sale
+of dairy products
+improved for on-farm
+and off-farm dairy
+processing
+ % increase in dairy products for
+supported processors (RIMS 2, CI
+3) – SDG target 2.3 & 10.2)
+ % increase in sales of dairy
+products (Leben, Lebnah, Cheese)
+(RIMS2, CI 2.1.2)
+-%
+-%
+20%
+30%
+Project M&E
+system
+10%
+20%
+Baseline,
+mid-term
+and
+Completio
+n
+9
+M&E officer
+ Commercial
+Outputs:
+2.1 technical
+knowledge and
+managerial capacities
+of dairy processors are
+improved
+2.2 Improved access to
+finance
+2.3 stakeholder
+platform for inclusive
+policy dialogue is
+supported.
+ # of processors and cooperatives
+trained in dairy processing and
+marketing (RIMS2, CI 2.1.3)
+ # of units accessing renewable
+energy (RIMS 2, CI 3.1.3)
+ #of persons/households reporting
+using rural financial services
+(RIMS 2, CI 2.3.1)
+ # of representatives of small
+producers and processors in
+platform (RIMS2, CI P2)
+-
+-
+-
+-
+300
+1580
+200
+500
+1,000
+2,000
+70
+70
+Quarterly M&E officer
+Project
+Monitoring
+reports
+banks 
+interested 
+financing 
+activities (R)
+not
+in
+rural
+ Various 
+dairy
+chain
+value 
+are
+actors 
+willing 
+to
+participate in the
+programme (A)
+ Government
+enforcement  of
+quality control of
+imported  dairy
+products (A)
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+1
+7
+/
+L
+O
+T
+/
+P
+.
+1
+1

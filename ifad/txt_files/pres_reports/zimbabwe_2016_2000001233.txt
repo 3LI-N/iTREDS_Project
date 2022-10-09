@@ -1,0 +1,1762 @@
+Document:
+Agenda:
+Date:
+Distribution:
+Original:
+EB 2016/118/R.20/Rev.1
+11(b)(iii)
+22 September 2016
+Public
+English
+E
+President’s report
+Proposed grant to the Republic of Zimbabwe
+for the Smallholder Irrigation Revitalization
+Programme
+Note to Executive Board representatives
+Focal points:
+Technical questions:
+Dispatch of documentation:
+Thomas Rath
+Country Programme Manager
+East and Southern Africa Division
+Tel.: +39 06 5459 2069
+e-mail: t.rath@ifad.org
+William Skinner
+Chief
+Governing Bodies Office
+Tel.: +39 06 5459 2974
+e-mail: gb_office@ifad.org
+Executive Board — 118th Session
+Rome, 21-22 September 2016
+For: Approval
+EB 2016/118/R.20/Rev.1
+ii
+iii
+iv
+1
+1
+1
+1
+2
+2
+2
+3
+3
+3
+4
+4
+5
+6
+6
+6
+6
+7
+8
+8
+9
+9
+9
+9
+10
+10
+10
+Contents
+Abbreviations and acronyms
+Map of the programme area
+Financing summary
+Recommendation for approval
+I.
+Strategic context and rationale
+A. Country and rural development and poverty context
+B. Rationale and alignment with government priorities and
+RB-COSOP
+II. Programme description
+A. Programme area and target group
+B. Programme development objective
+C. Components/outcomes
+III. Programme implementation
+A. Approach
+B. Organizational framework
+C. Planning, monitoring and evaluation, and learning and
+knowledge management
+D. Financial management, procurement and governance
+E. Supervision
+IV. Programme costs, financing, and benefits
+A. Programme costs
+B. Programme financing
+C. Summary benefit and economic analysis
+D. Sustainability
+E. Risk identification and mitigation
+V.
+Corporate considerations
+A. Compliance with IFAD policies
+B. Alignment and harmonization
+C. Innovation
+D. Policy engagement
+VI. Legal instruments and authority
+VII. Recommendation
+Appendices
+I.
+II.
+Negotiated financing agreement
+Logical framework
+i
+EB 2016/118/R.20/Rev.1
+Abbreviations and acronyms
+AWP/B
+DoI
+IMC
+M&E
+MAMID
+O&M
+OFID
+PCU
+SIRP
+WUO
+annual workplan and budget
+Department of Irrigation
+irrigation management committee
+monitoring and evaluation
+Ministry of Agriculture, Mechanisation and Irrigation Development
+operation and maintenance
+OPEC Fund for International Development
+programme coordination unit
+Smallholder Irrigation Revitalization Programme
+water users organization
+ii
+Map of the programme area
+EB 2016/118/R.20/Rev.1
+iii
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2016/118/R.20/Rev.1
+Republic of Zimbabwe
+Smallholder Irrigation Revitalization Programme
+Financing summary
+Initiating institution:
+IFAD
+Recipient:
+Executing agency:
+Republic of Zimbabwe
+Ministry of Agriculture, Mechanisation and Irrigation
+Development
+Total programme cost:
+US$51.5 million
+Amount of IFAD grant:
+SDR 18.3 million
+(equivalent to approximately US$25.5 million)
+Cofinancier(s):
+OPEC Fund for International Development
+Amount of cofinancing:
+Terms of cofinancing:
+US$15.0 million
+To be confirmed
+Contribution of recipient:
+US$7.7 million
+Contribution of beneficiaries:
+US$3.3 million
+Appraising institution:
+IFAD
+Cooperating institution:
+Directly supervised by IFAD
+iv
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2016/118/R.20/Rev.1
+Recommendation for approval
+The Executive Board is invited to approve the recommendation for the proposed
+grant to the Republic of Zimbabwe for the Smallholder Irrigation Revitalization
+Programme, as contained in paragraph 53.
+Proposed grant to the Republic of Zimbabwe for the
+Smallholder Irrigation Revitalization Programme
+I. Strategic context and rationale
+A. Country and rural development and poverty context
+Zimbabwe is a landlocked country with a total area of approximately
+1.
+390,757 square kilometres. The country’s population is estimated at 14.6 million
+people (2014) and projected to grow to 20.3 million people in 2020. With a Human
+Development Index of 0.509, Zimbabwe ranks 155th of 188 countries. Life
+expectancy stands at 57.8 years, and stunting prevalence in children is an
+estimated 27.6 per cent (2014). While still among the highest globally, the
+prevalence of HIV has declined from 25 per cent in 1997 to 15 per cent in 2014.
+2.
+3.
+4.
+Economic growth slowed from 4.5 per cent in 2013 to an estimated 1 per cent in
+2015 as a result of weak domestic demand, high public debt, tight liquidity
+conditions, drought, poor infrastructure and institutional weaknesses. Agriculture
+provides direct and indirect livelihoods for over 70 per cent of Zimbabwe’s
+population and supports one third of the formal labour force. Agriculture generates
+between 15 and 18 per cent of gross domestic product, and contributes over
+40 per cent of national export earnings.
+The proportion of the population living below the national poverty line is estimated
+at 72 per cent (84 per cent in rural areas). Zimbabwe’s recurrent droughts and food
+security issues have remained dire over the past decade, exposing millions of
+people to food insecurity and poverty. An estimated 1.5 million people – 16 per
+cent of the rural population – will be unable to meet their minimum food needs and
+will require humanitarian assistance in 2015/16. This is a 164 per cent increase
+over the 2013/14 season.
+Zimbabwe’s relations with the international community have been difficult for
+years, mainly due to land reforms and political conflicts. There are now positive
+signs of the international community re-engaging with the Government of
+Zimbabwe. The Government has made progress on negotiations with international
+financial institutions, notably the International Monetary Fund and the African
+Development Bank, to settle the country’s arrears. In December 2015, IFAD’s
+Executive Board approved Zimbabwe’s debt rescheduling proposal in the amount of
+US$23.1 million.
+B. Rationale and alignment with government priorities and
+5.
+RB-COSOP
+Zimbabwe has one of the highest levels of water development for irrigation in the
+region. Evidence suggests that households in smallholder irrigation schemes are
+better off in terms of food production, income, nutrition and general well-being than
+households relying on rainfed agriculture. In addition to achieving higher yields,
+irrigators are able to increase crop production and incomes during the dry winter
+season, when rainfed production is impossible.
+1
+EB 2016/118/R.20/Rev.1
+6.
+7.
+8.
+More than 50 per cent of smallholder irrigation schemes in Zimbabwe are either not
+functional or only partly functional. These schemes have been caught in a vicious
+cycle of build/operate/rehabilitate, and are heavily dependent on government and
+donor funding.
+A common feature is that rehabilitation has primarily focused on infrastructure
+development and repairs, often without the corresponding investments in farmers’
+organization and empowerment, water management, agricultural production
+activities and market linkages. Some schemes have been operating for many years,
+even decades, many of them at sub-optimal levels. There is a general lack of
+community ownership and participation in the management of irrigation assets.
+While irrigation management committees (IMCs) exist in all schemes, and are seen
+as a standard requirement, they do not have the formal status to enforce by-laws.
+Decades of experience in irrigation development, both in Zimbabwe and elsewhere,
+have evidenced the need for an integrated approach to ensure commercial and
+environmental sustainability. This is the rationale behind the design of the
+Smallholder Irrigation Revitalization Programme (SIRP). Without an increased
+market orientation, improved access to inputs, and the adoption of good
+agricultural practices to boost productivity, farmers cannot create the revenue
+needed to increase their income and defray the operation and maintenance (O&M)
+of irrigation schemes. Similarly, unless wider socioeconomic and biophysical
+considerations are taken into account, equity issues will limit impact to a small
+number of people, and environmental issues will undermine the overall success of
+the programme.
+II. Programme description
+A. Programme area and target group
+9.
+Programme area: SIRP will revitalize 6,100 hectares (ha) in about 152 existing
+smallholder irrigation schemes, located mainly in communal and old resettlement
+areas in the semi-arid sections of natural regions III, IV and V in the provinces of
+Manicaland, Masvingo, Matabeleland South, and Midlands. The programme’s target
+area contains about 47 per cent of the country’s estimated total irrigation-equipped
+area of about 13,000 ha.
+10. Target group: SIRP will target 29,750 smallholder poor rural households,
+equivalent to about 148,750 people. Women (heads of household, wives and young
+women) will account for at least 50 per cent of the target group, in line with their
+participation in irrigated agriculture and off-farm activities. SIRP beneficiaries will
+include: (i) 15,250 households (76,250 people) holding an average of 0.4 ha in
+irrigation schemes; (ii) 12,500 households (62,500 people) with no access to
+irrigation in the greater-scheme and subcatchment areas relying on rainfed
+agriculture and livestock; (iii) 2,000 youth, who will be involved in production,
+aggregation, marketing and service provision and will build small- and
+medium-scale businesses along value chains; and (iv) 500 extension service
+providers that will improve their capacity for more responsive and efficient service
+delivery.
+B. Programme development objective
+11. The overall goal of SIRP is that rural households achieve food and nutrition security
+and are resilient to climate change effects and economic shocks in the programme
+districts. The programme development objective is that rural households
+sustainably increase their income in schemes and adjacent rainfed areas supported
+by the programme.
+12. The programme goal will be achieved by revitalizing existing high potential
+irrigation schemes and their adjacent rainfed areas (subcatchment areas), which
+will result in: (i) an increase in production and productivity of selected
+2
+EB 2016/118/R.20/Rev.1
+commodities; (ii) an increase in annual household incomes; (iii) increased market
+integration; and (iv) a smallholder agricultural production system that is better
+adapted to climate change.
+C. Components/outcomes
+13. SIRP’s structure is articulated around two complementary components, the first
+focusing on sustainable development of smallholder irrigation, and the second on
+climate-smart agriculture and market access.
+14. Component 1: Sustainable smallholder irrigation development will focus on
+revitalizing existing irrigation schemes and rendering them fully operational,
+thereby contributing to improving the incomes of targeted households. This will be
+achieved by rehabilitating 6,100 ha of existing irrigation schemes in the four target
+provinces, while financing further scheme feasibility and design studies nationwide.
+It will entail expanding the area of existing smallholder irrigation schemes under
+effective O&M by irrigators and their water users organizations (WUOs), by
+preparing and implementing revitalization plans at scheme level. This will be
+complemented by capacity-building for government departments to provide quality
+service to smallholder irrigators, and engaging in policy dialogue on issues affecting
+small-scale irrigators.
+15. Component 2: Climate-smart agriculture and market access aims to improve
+productivity and sustainable crop production under both rainfed and irrigated
+conditions, through improved cropping intensity on selected schemes and increased
+adoption of improved varieties, fertilizers, good agricultural practices and
+climate-smart agriculture practices and technologies. This component will seek to
+improve village natural resources management planning, including soil and water
+conservation in adjacent rainfed areas, by preparing and implementing greater
+scheme agricultural plans. A natural resources management facility will be
+established to provide matching grants to farmers in rainfed areas to undertake
+income-generating projects that utilize natural resources in a sustainable manner
+and complement soil and water conservation technologies. This component will
+focus on improving farm profitability and household incomes by increasing market
+access and linkages between the different value chain actors for both irrigation and
+rainfed farmers. Moreover, this component will improve access to and use of
+financial services through enhanced financial literacy of farmers and their
+organizations and strengthening of community-based financial institutions. This
+component will promote good nutritional practices and gender mainstreaming as
+part of agricultural and market support. This will be complemented by
+capacity-building for government departments to enable them to provide quality
+services to smallholder farmers, and engage in policy dialogue on issues affecting
+smallholder farmers.
+III. Programme implementation
+A. Approach
+16. The proposed principles of engagement for programme design are as follows:
+(a)
+In line with IFAD’s mandate, SIRP will target productive poor smallholders
+who are currently engaging in irrigation as well as poor and vulnerable
+smallholders engaged in rainfed farming in the adjacent rainfed areas;
+(b) Without compromising on food security, the programme will support the move
+towards smallholder irrigated farming as a business in order to enable
+sufficient financial returns to targeted smallholders, long-term sustainability of
+investment and replicability/scalability of the smallholder irrigation
+development approach;
+(c)
+SIRP will adopt a participatory approach. The programme will support farmers’
+own development efforts, based on the preparation of a revitalization plan and
+3
+EB 2016/118/R.20/Rev.1
+(d)
+(e)
+(f)
+(g)
+a greater scheme agricultural plan by farmers/irrigators through their
+organizations;
+Investment will be made on a cost-sharing basis, with capital expenditure
+financed mainly by the programme, and farmers fully covering the O&M of
+their scheme, including the cost of water and depreciation of movable
+equipment;
+The programme will prioritize the rehabilitation of existing schemes while
+verifying adequate water availability at pre-feasibility stage, market proximity
+to sell produce at competitive prices and interest on the part of the private
+sector and financial institutions to work with the scheme or cluster, and
+institutional arrangements;
+SIRP will engage with the private sector, such as off-takers, input suppliers
+and financial institutions, early on in the process of prioritizing schemes to be
+rehabilitated, in order to ensure viable linkages with input and output markets
+and support services during implementation; and
+The Government’s capacity to provide services to smallholders will be
+strengthened, while supporting the implementation of different business
+models and business relations between farmers and the private sector.
+B. Organizational framework
+17. The lead implementing agency will be the Ministry of Agriculture, Mechanisation and
+Irrigation Development (MAMID). The Ministry will execute the programme and
+ensure that it is aligned with sector priorities and complements the
+programmes/projects and initiatives of other development partners supporting the
+sector. Implementation responsibilities rest with the Department of Irrigation (DoI)
+for component 1, while the Department of Agriculture Technical and Extension
+Services (AGRITEX) will lead component 2. At the provincial and district levels,
+programme coordination will be provided by provincial and district agricultural
+coordination committees, respectively.
+18. A multi-sector stakeholder programme steering committee, chaired by the
+Permanent Secretary of MAMID, will be established to provide overall programme
+oversight, direction and advice. A dedicated and competitively recruited programme
+coordination unit (PCU) will report to the Permanent Secretary, MAMID. The PCU
+will be responsible for day-to-day management and ensure effective coordination of
+DoI and AGRITEX activities under the programme. The PCU will be responsible for
+consolidating annual workplans and budgets (AWP/Bs), procurement plans, and
+progress and financial reports received from the districts and implementing entities,
+and will coordinate the procurement of goods, works and services. The PCU will also
+take charge of monitoring and evaluation (M&E) and provide support to
+implementation and supervision missions. The PCU will serve as programme
+steering committee secretariat.
+19. A programme technical committee, comprising of staff drawn from government
+technical departments, will provide technical support and advice to the PCU on
+planning and progress issues.
+C. Planning, monitoring and evaluation, and learning and
+knowledge management
+20. The main planning tools for SIRP will comprise the updated logical framework/M&E
+framework, including indicators and targets, and the results-based AWP/B. The
+logical framework provides indicators and targets for the programme as a whole,
+whereas the RB-AWP/B will be used as the primary planning tool to set annual
+targets and allocate financial resources. The financial and physical execution of the
+RB-AWPB will be regularly monitored and reported on.
+21. The M&E system will be the key source of comprehensive and reliable data to
+inform improved planning and decision-making during implementation. It will be
+4
+EB 2016/118/R.20/Rev.1
+relied upon to inform stakeholders on SIRP performance. Results generated by the
+results and impact management system indicators will be reported back to IFAD on
+an annual basis. The PCU will be responsible for ensuring a well-functioning M&E
+system.
+22. A baseline study will be designed and carried out at programme start-up in
+pre-identified schemes. Baselines will be scheme specific as per outcome of the
+selection process. The baseline studies will form the basis for assessing programme
+effectiveness and results achievement. The household survey will be repeated at
+mid-term and upon programme completion.
+23. SIRP learning systems will involve monthly, quarterly, bi-annual and annual review
+meetings/workshops, capturing information on progress, lessons and best practices
+and finding solutions to implementation constraints at different levels. These review
+platforms will serve as a learning event, as well as to monitor and influence the
+process through which results are supposed to be achieved.
+D. Financial management, procurement and governance
+24. Financial management. A financial management assessment carried out at
+design assessed the overall fiduciary control risk as high. Consequently, the
+proposed financial management arrangements for SIRP include appropriate risk
+mitigation measures, inter alia: (i) competitive recruitment of a dedicated
+programme accountant, and assignment of qualified accounting staff at the
+provincial level; (ii) mobilization of additional technical assistance during start-up to
+assist with the establishment of systems and financial procedures to be included in
+the programme implementation manual; (iii) use of accounting software; and
+(iv) the use of programme-specific designated accounts, to ensure that the residual
+programme implementation rating will be medium risk.
+25. MAMID’s Director of Finance and Administration will be responsible for ensuring
+adequate financial management arrangements throughout SIRP implementation.
+The operational day-to-day financial management functions, including budgeting,
+accounting, funds flow management, internal control, financial reporting and
+ensuring timely external audits, will be the responsibility of the PCU’s programme
+accountant overseen by the Chief Accountant, DoI.
+26. Programme audits. To provide assurances of strong internal controls, MAMID will
+include regular internal auditing of the programme in its audit plans. During the
+initial years an independent audit firm acceptable to the Fund will perform the
+external audit, until such time as the Office of the Auditor General has been
+appropriately assessed.
+27. Funds flow and disbursement arrangements. Two separate designated
+accounts operated and maintained by the Ministry of Finance and Economic
+Development will be opened to receive programme funds from IFAD and the OPEC
+Fund for International Development (OFID), respectively. Only one operational
+account will be opened for settlements of advances to implementing agencies and
+programme expenditures incurred. The PCU will manage and operate the
+operational account.
+28. Start-up costs. An advance may be requested to cover start-up costs for eligible
+expenditure to be incurred between the date of entry into force of the financing
+agreement and fulfilment of the conditions precedent to withdrawal.
+29. Procurement. All procurement under SIRP will be carried out in accordance with
+national procurement procedures, to the extent that they are consistent with IFAD’s
+project procurement guidelines. A procurement assessment of MAMID undertaken
+during SIRP design showed several inconsistencies between national and IFAD
+regulations, concerning bid registers, bidding documents, contract administration,
+procurement planning and selection of procurement methods. To address
+procurement risks, a procurement specialist in the PCU will be responsible for
+5
+EB 2016/118/R.20/Rev.1
+ensuring full compliance with IFAD requirements. The latter will be duly spelled out
+in the financing agreement, letter to the recipient and programme implementation
+manual.
+E. Supervision
+30. The SIRP will be directly supervised by IFAD. Direct supervision will encompass loan
+and grant administration, procurement reviews, audit reviews, and supervision and
+implementation support missions. Joint supervision missions with the Government
+will be carried out bi-annually and will focus primarily on fiduciary aspects, physical
+progress and the quality of programme implementation. In conjunction with
+supervision, implementation support will be provided by IFAD to help ensure the
+efficient achievement of programme objectives. Additional implementation support
+and backstopping will be provided during the programme start-up phase to enhance
+technical capacities, assist with the establishment of implementation arrangements
+and assist in the setting up of required systems (e.g. M&E and financial
+management). The proposed OFID cofinancing will be administered by IFAD.
+IV. Programme costs, financing and benefits
+A. Programme costs
+31. Total programme costs to be incurred during the seven-year implementation
+period, including price and physical contingencies, duties and taxes, are estimated
+at US$51.5 million. This includes base costs amounting to US$47.6 million and
+estimated physical and price contingencies in the amount of US$3.9 million
+(8 per cent of the base costs). Estimated foreign exchange expenditure is about
+US$15.2 million (30 per cent of total programme costs), whereas duties and taxes
+amount to US$8.1 million (16 per cent). Investment costs represent 89 per cent of
+the base costs, with recurrent costs accounting for the remaining 11 per cent.
+Programme management costs are 4 per cent of total programme costs.
+32.
+Local inflation rates were estimated at 1.3 per cent per annum in 2017 and
+2 per cent per annum thereafter until 2023. Foreign inflation has been set at
+2 per cent for seven years, based on the World Bank Manufactures Unit Value
+Index. Taxes and duties were estimated using information provided by the
+Zimbabwe Revenue Authority. The Government of Zimbabwe will either waive
+duties, excises and taxes or directly finance their cost.
+Table 1
+Programme costs by component and financier
+(Thousands of United States dollars)
+IFAD grant
+OFID
+Beneficiaries
+Government
+Total
+Component
+Amount
+% Amount
+%
+Amount %
+Amount
+%
+Amount
+1. Sustainable smallholder irrigation
+development
+11 511
+35
+13 767
+42
+2 238
+2. Climate-smart agriculture and
+market access
+3. Programme coordination
+Total
+12 253
+1 736
+25 500
+73
+80
+50
+1 233
+-
+7
+-
+1 045
+-
+15 000
+29
+3 283
+7
+6
+-
+6
+4 961
+15
+32 477
+2 333
+441
+7 735
+14
+20
+15
+16 864
+2 176
+51 518
+B. Programme financing
+33. SIRP will be financed by the Government of Zimbabwe, programme beneficiaries,
+IFAD and, pending official confirmation, OFID. IFAD will finance 50 per cent
+(US$25.5 million) of overall programme costs on grant terms, under the Debt
+Sustainability Framework. The Government will finance taxes and duties
+6
+EB 2016/118/R.20/Rev.1
+(US$7.9 million), representing 15 per cent of total costs.1 Beneficiaries will
+contribute 6 per cent of total programme costs, US$3.3 million, in the form of
+financial contributions to O&M for rehabilitated infrastructure, cost sharing of
+post-harvest technologies, and in-kind contribution to soil and water conservation
+activities. It is anticipated that OFID will finance 29 per cent2 (US$15.0 million) of
+programme costs, covering civil works related to irrigation rehabilitation and road
+improvement.
+Table 2
+Programme costs by expenditure category and financier
+(Thousands of United States dollars)
+IFAD
+OFID
+Beneficiaries
+Government
+Total
+Expenditure category
+Amount
+% Amount
+% Amount
+% Amount
+% Amount
+1.Consultancies
+2. Equipment and materials
+3. Goods, equipment and inputs
+4. Workshops
+5. Training
+6. Vehicles
+7. Works
+8. Salaries and allowances
+9. Operating costs
+Total
+4 911
+2 475
+2 009
+545
+4 315
+1 091
+7 621
+387
+2 145
+25 500
+90
+98
+71
+85
+85
+45
+28
+75
+42
+50
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+15 000
+56
+-
+-
+-
+-
+15 000
+29
+-
+-
+-
+-
+697
+25
+-
+-
+-
+348
+-
+2 238
+3 283
+-
+-
+-
+1
+-
+43
+6
+546
+56
+108
+96
+762
+1 336
+3 931
+129
+774
+7 735
+10
+2
+4
+15
+15
+55
+15
+25
+15
+15
+5 457
+2 531
+2 814
+641
+5 077
+2 427
+26 899
+515
+5 157
+51 518
+C. Summary benefit and economic analysis
+34. SIRP will generate substantial economic and social benefits. The main quantifiable
+benefit is the increase in production and productivity to be achieved with higher
+yields following investments in the revitalization of irrigation schemes and in
+farm-level training on both irrigated and rainfed plots. Cropping patterns on
+irrigated plots will favour market-led production of higher value crops, leading to
+increased farm incomes. The introduction of post-harvest technology and
+infrastructure, as well as training in post-harvest handling, is expected to result in
+reduced post-harvest losses. Investments in the rehabilitation of approximately
+150 kilometres of access roads will reduce transport costs and enhance market
+access for targeted smallholders.
+35. Moreover, the programme is likely to generate a range of indirect benefits, such as
+the creation of off-farm jobs in the service and marketing sectors, increased market
+participation and food availability, institutional strengthening and policy changes.
+36. The proposed investment shows robust financial results at both crop and farm level,
+demonstrating clear incentives for farmers to participate and financial sustainability
+for the irrigation scheme. The base case economic internal rate of return (EIRR) is
+estimated at 25.9 per cent. The benefit/cost ratio is estimated at 2.29, and the
+payback period at 7.3 years. The economic net present value is estimated at
+US$41.7 million. The EIRR is robust to changes in the expected benefits or costs.
+Switching values were calculated for incremental benefits and incremental costs.
+Benefits would have to be reduced by 60 per cent or costs increased by
+152 per cent for SIRP to become economically unviable. Such variations in costs
+and benefits are unlikely to occur. Adoption rates ranging from 65 per cent to
+85 per cent have been assumed in the cost benefit analysis.
+1 The estimate of taxes and duties was based on the rates in effect at the time of the design. In conformity with the principle that
+no taxes or duties would be financed out of the proceeds of the IFAD and OFID financing, any future changes in the rates and/or
+structures of taxes and duties would apply to the programme.
+2 If OFID funding does not materialize, alternative sources of funding will be sought by the Government of Zimbabwe.
+7
+EB 2016/118/R.20/Rev.1
+D. Sustainability
+37. The long-term sustainability of investments in irrigated infrastructure will be
+ensured as follows: first, prior to investment a diagnostic study of the key issues
+affecting scheme performance needs to be carried out with a high degree of
+participation by the targeted farmers. This study will identify the root causes of
+system failure and allow SIRP to adequately target investments. Second,
+interventions will take into account larger natural resource management issues to
+ensure environmental sustainability. By investing in community-based natural
+resources management in adjacent rainfed areas and linking them with income
+generating activities, SIRP proactively deals with potential environmental issues
+whilst also ensuring a longer life time for the scheme itself. Third, the programme
+will invest in building adequate capacity at all levels as required to sustainably
+operate and maintain schemes, manage finances and effectively prevent or resolve
+any social conflicts related to access to land or water.
+38. Zimbabwe’s rural population is exposed to the effects of climate change, as the
+recent drought showed. The proposed programme interventions are designed to
+minimize those impacts. Revitalized irrigated agriculture becomes a key adaptation
+pathway to respond to increasing intra-seasonal variability in the water supply.
+Water-use efficiency will be improved by reducing conveyance losses and by
+training farmers on irrigation water management. When designing extensions to
+existing schemes, the increased crop water requirements due to increased
+evapotranspiration will be assessed to determine potential irrigable area. The
+selection of new schemes to be studied will be informed by the National Adaptation
+Plan, currently under development, in order to select those areas most crucially
+affected by climate change. Interventions in the adjacent rainfed lands aim to
+restore the natural resource base and use it in a more sustainable way, thereby
+increasing resilience to shocks. These interventions will help protect the irrigation
+schemes from silting up and restore water bodies.
+E. Risk identification and mitigation
+39. The programme design prioritized risk identification and management to ensure a
+successful re-engagement of IFAD in Zimbabwe and the sustainability of the
+proposed interventions. The main approach has been simplified design and
+implementation arrangements to limit the programme’s exposure. Measures in
+financial management and procurement are proposed to manage remaining risks
+deemed acceptable or inevitable.
+40. Macro-economic and political instabilities, however, remain beyond programme
+control. Other key risks to programme success have been identified as follows:
+(i) non-fulfilment of IFAD arrears settlement; (ii) non-availability of cofinancing
+from OFID; (iii) programme implementation delays; (iv) limited responsiveness of
+service providers; (v) inability of farmers to contribute to initial commitment and
+operational costs; (vi) effects of climate change; and (vii) market constraints.
+41. The respective mitigation measures for the above risks include: (i) commitment by
+the Reserve Bank of Zimbabwe and the Ministry of Finance and Economic
+Development to ensure liquidity to settle arrears as they fall due; (ii) close
+follow-up by the Government of Zimbabwe with OFID; (iii) engagement of technical
+assistance during programme start-up to help set up financial management
+systems and address pre-disbursement conditions; (iv) capacity-building for public
+sector service providers, and engagement of private-sector service providers under
+performance-based contracts; (v) targeting schemes where farmers have
+demonstrated willingness and ability to commit to operational costs; (vi) integration
+of climate change effects into the planning and design of irrigation investments;
+and (vii) improving farmers’ access to information and promoting value addition at
+scheme level while establishing linkages to markets.
+8
+EB 2016/118/R.20/Rev.1
+42. Based on the 2015 Transparency International Global Corruption Perceptions Index
+score of 21, the country has been rated as high risk. A 2015 follow-on World Bank
+financial management assessment indicated that improvements have taken place in
+recent years but recommended a number of reforms. As provided in paragraph
+24 above, the programme’s design arrangements include key financial management
+safeguards to be adopted during implementation.
+V. Corporate considerations
+A. Compliance with IFAD policies
+43. SIRP design is fully aligned with all IFAD strategic objectives set for the
+2016-2025 period.3 Strategies for gender mainstreaming and targeting have been
+incorporated in programme design in accordance with the IFAD Policy on Targeting
+and the Policy on Gender Equality and Women’s Empowerment. All activities under
+SIRP will comply with the IFAD Policy on Improving Access to Land and Tenure
+Security. Proposed activities in rural finance are consistent with IFAD’s Rural
+Finance Policy.
+44.
+For environmental and social purposes, SIRP is classified as a category B operation,
+as the focus of the investment is primarily on rehabilitating existing irrigation
+schemes. The programme is expected to have limited adverse social impacts on
+human populations or environmentally significant areas. These risks will be
+minimized through a solid scheme selection and design process complemented by
+investments in the greater scheme area. In line with IFAD’s Social, Environmental
+and Climate Assessment Procedures, residual risks will be identified in the
+environmental and social impact assessment and managed via scheme-specific
+mitigation measures agreed upon in the environmental and social management
+plan to be prepared for each SIRP-supported scheme.
+B. Alignment and harmonization
+45. The smallholder irrigation subsector is identified among priority areas for
+investment in all relevant country strategy and policy documents.4 The Zimbabwe
+Agenda for Sustainable Socio-Economic Transformation, the country’s poverty
+eradication strategy, targets a 50 per cent increase in the country’s area equipped
+with irrigation by 2018. Both the Comprehensive Agricultural Policy Framework and
+Zimbabwe Agriculture Investment Plan share SIRP’s value chain approach to
+increasing farm productivity, improving extension services and promoting the
+commercialization of smallholder agriculture. All relevant country strategies
+emphasize the importance of building the resilience of communities to food and
+nutrition insecurity and the effects of climate change.
+46.
+Furthermore, SIRP implementation responsibilities will be largely mainstreamed
+within the Government’s existing systems and decentralized structures. This will
+facilitate the creation of synergies with other development partners and ensure
+complementarities between SIRP and other interventions in the sector.
+Innovations and scaling up
+C.
+47. The programme will adopt a holistic approach to smallholder irrigation revitalization
+in Zimbabwe that encompasses infrastructure development, farmers’ organization
+capacity-building and empowerment, natural resource management, agricultural
+production, market linkages and access to finance. This is an innovative approach,
+as it constitutes a departure from the usual focus on “hardware” investments. The
+selection of irrigation schemes for revitalization will occur during programme
+3 IFAD Strategic Framework 2016-2025.
+4 Government priorities for the development of the agricultural sector are outlined in the: (i) Zimbabwe Agenda for Sustainable
+Socio-Economic Transformation 2013-2018; (iii) Zimbabwe Agriculture Investment Plan 2013-17; (iv) draft Comprehensive
+Agricultural Policy Framework 2012-2032; and (v) Zimbabwe 10-Point Plan for Economic Growth.
+9
+EB 2016/118/R.20/Rev.1
+implementation, and will be based on predefined criteria that prioritize areas that
+optimize a combination of biophysical, socioeconomic and institutional aspects, in
+order to achieve economies of scale and scope, and maximize efficiency,
+effectiveness and large-scale impacts. The participatory planning approach and the
+requirement of having farmers contribute to O&M costs are innovative features,
+intended to promote sustainability.
+48. The programme will pilot and promote low cost technologies for storage and
+processing of perishable products at irrigation scheme level and cluster level.
+Innovative approaches to include youth in programme activities call for providing
+vocational training and starter kits to promote off-farm employment along the value
+chain.
+D. Policy engagement
+49. The programme will enhance national capacity through evidence-based policy
+dialogue among stakeholders such as the Government, farmer representations,
+WUOs and the private sector to engage in policy dialogue on issues related to
+smallholder irrigation, natural resources management and market access. Several
+priority issues have been identified during programme design, including:
+(i) formalization of the status of IMCs to become legally recognized WUOs with
+certified rights to water and lands; (ii) revision of water pricing for smallholder
+irrigation; (iii) effective and cost-efficient implementation of environmental and
+social management plans; and (iv) incentives for private companies to engage with
+smallholder farmers.
+VI. Legal instruments and authority
+50. A programme financing agreement between the Republic of Zimbabwe and IFAD
+will constitute the legal instrument for extending the proposed financing to the
+recipient. A copy of the negotiated financing agreement is attached as appendix I.
+51. The Republic of Zimbabwe is empowered under its laws to receive financing from
+IFAD.
+52.
+I am satisfied that the proposed financing will comply with the Agreement
+Establishing IFAD and the Policies and Criteria for IFAD Financing.
+VII. Recommendation
+53.
+I recommend that the Executive Board approve the proposed financing in terms of
+the following resolution:
+RESOLVED: that the Fund shall provide a Debt Sustainability Framework grant
+to the Republic of Zimbabwe in an amount equivalent to eighteen million
+three hundred thousand special drawing rights (SDR 18,300,000)
+(approximately US$25.5 million) and upon such terms and conditions as shall
+be substantially in accordance with the terms and conditions presented
+herein.
+Kanayo F. Nwanze
+President
+10
+Appendix I
+EB 2016/118/R.20/Rev.1
+Negotiated financing agreement
+Negotiated financing agreement: "Smallholder Irrigation
+Revitalization Programme"
+(Negotiations concluded on 14 September 2016)
+Grant Number: ______________
+Programme  Title:  Smallholder  Irrigation  Revitalization  Programme  (SIRP)  (“the
+Programme”)
+The Republic of Zimbabwe (the “Recipient”)
+and
+The International Fund for Agricultural Development (the “Fund” or “IFAD”)
+(each a “Party” and both of them collectively the “Parties”)
+hereby agree as follows:
+Section A
+1.
+The  following  documents  collectively  form  this  Agreement:  this  document,  the
+Programme  Description  and  Implementation  Arrangements  (Schedule  1), the  Allocation
+Table (Schedule 2), and the Special Covenants (Schedule 3).
+2.
+The  Fund’s  General  Conditions  for  Agricultural  Development  Financing  dated
+29 April 2009, amended as of April 2014, and as may be amended hereafter from time to
+time (the “General Conditions”) are annexed to this Agreement, and all provisions thereof
+shall  apply  to  this  Agreement.  For  the  purposes  of  this  Agreement  the  terms  defined  in
+the General Conditions shall have the meanings set forth therein.
+3.
+The  Fund  shall  provide  a Grant  to  the  Recipient  (the  “Financing”),  which  the
+Recipient  shall  use  to  implement  the  Programme  in  accordance  with  the  terms  and
+conditions of this Agreement.
+Section B
+The  amount  of  the  Grant  is  eighteen  million  three  hundred  thousand  Special
+1.
+Drawing Rights (SDR 18 300 000).
+2.
+The first day of the applicable Fiscal Year shall be 1st of January.
+There shall be one Designated Account denominated in US dollar (the “Designated
+3.
+Account”) opened by the Recipient at the Reserve Bank of Zimbabwe, through which the
+proceeds of the Grant shall be channelled.
+There  shall  be  one  Programme  Operations  Account  denominated  in  US  dollar  (the
+4.
+“Operations  Account”)  opened  by  the  Lead  Programme  Agency  at  a  commercial  bank
+acceptable to the Fund to receive and hold the financing transferred from the Designated
+Account.
+1
+Appendix I
+EB 2016/118/R.20/Rev.1
+5.
+The Recipient shall provide counterpart financing for the Programme in the amount
+of  seven  million  nine  hundred  thousand  US  dollars  (USD 7 900 000)  to  cover  taxes  and
+duties  levied  in  the implementation  of  the  Programme.  The  Recipient  shall  also  provide
+the financing for the staff salaries in accordance with its national regulations.
+Section C
+The Lead Programme Agency shall be the Ministry of Agriculture, Mechanisation and
+1.
+Irrigation Development (MAMID).
+2.
+The  following  are  designated  as  additional  Programme  Parties:  Ministry  of  Finance
+and  Economic  Development  (MOFED),  Ministry  of  Environment,  Water  and  Climate
+(MEWC),  Ministry  of  Small  and  Medium  Enterprises  and  Cooperative  Development
+(MSMECD), Ministry of Women Affairs, Gender and Community Development (MWAGCD)
+and  other  ministries  as  required  during  the  implementation;  and  Private  Services
+Providers and Water Users Organizations (WUOs).
+The  Programme  Completion  Date  shall  be the seventh anniversary  of  the  date  of
+3.
+entry into force of this Agreement.
+Section D
+The Grant will be administered and the Programme supervised by the Fund.
+Section E
+The  following  are  designated  as  additional  grounds  for  suspension  of  this
+1.
+Agreement:
+(a)
+(b)
+(c)
+The  co-financing  agreement  to  be  executed  between  the  Recipient  and  the
+OPEC  Fund  For 
+("Co-Financing
+Agreement")  has  been  suspended,  cancelled  or  terminated,  in  whole  or  in
+part,  or  any  event  has  occurred  which,  with notice  or  the  passage  of  time,
+could result in the foregoing.
+International  Development 
+(OFID) 
+The Programme Implementation Manual ("PIM"), or any provision thereof,
+has been waived, suspended, terminated,  amended or modified without the
+prior  consent of the Fund, and the Fund has determined that such waiver,
+suspension, termination,  amendment or modification has had, or is likely to
+have, a material adverse effect on the Programme.
+Any Key Programme Staff as established in Section II.A.3.1 of Schedule 1 to
+this  Agreement,  have  been  appointed,  transferred  or  removed  from  the
+Programme  Coordination  Unit ("PCU") without the prior concurrence of the
+Fund.
+The  following  are  designated  as  additional  general  conditions  precedent  to
+2.
+withdrawal:
+(a)
+(b)
+The Recipient has established the PCU within MAMID,  in  accordance  with
+Schedule 1, Section II of this agreement;
+The Recipient has prepared the PIM, in form and substance satisfactory to the
+Fund, and in accordance with the provisions of Section C of Schedule 1 to this
+Agreement; and
+2
+Appendix I
+EB 2016/118/R.20/Rev.1
+(c)
+The Recipient is operating a fully functional accounting software, in form and
+substance satisfactory to the Fund.
+3.
+This Agreement is subject to ratification by the Recipient.
+The following are the designated representatives and addresses to be used for any
+4.
+communication related to this Agreement:
+For the Recipient:
+Minister of Finance and Economic Development
+New Government Composite Building
+Cnr Simon V. Muzenda Street/S. Machel Avenue
+Harare, Zimbabwe
+For the Fund:
+President
+International Fund for Agricultural Development
+Via Paolo di Dono 44
+00142 Rome, Italy
+This  Agreement,  dated ____ has  been  prepared  in  the  English  language  in  two  (2)
+original copies, one (1) for the Fund and one (1) for the Recipient.
+REPUBLIC OF ZIMBABWE
+____________________
+[insert NAME of the Authorised Representative]
+[insert his title]
+INTERNATIONAL FUND FOR
+AGRICULTURAL DEVELOPMENT
+___________________
+Kanayo F. Nwanze
+President
+3
+Appendix I
+EB 2016/118/R.20/Rev.1
+Schedule 1
+Programme Description and Implementation Arrangements
+(a) Programme Description
+1.
+Target  Population. The  Programme  shall  benefit  a  large  number of  poor
+smallholder farmers and poorer members of the communities in the districts selected as
+set  forth  in  the  PIM,  including  approximately  15,000  households  with  an  average  of
+0.4 hectare in the irrigation schemes, 12,500 households with no access to irrigation in
+the  adjacent  rainfed  areas,  2,000  youth  and  500  extension  and  technical  service
+providers.  Women  will  account  for  at  least  50  per  cent  of  the  target  in  line  with  their
+participation in irrigated and rainfed agriculture supported by the Programme.
+Goal. The Programme goal
+2.
+is that rural  households  achieve  food  and  nutrition
+security  and  are  resilient  to  climate  change  effects  and  economic  shocks  in  the
+Programme districts.
+3.
+Objective. The objective of the Programme is  that  rural  households  sustainably
+increase  their  income  in  schemes  and  adjacent  rainfed  areas  supported  by  the
+Programme.
+4.
+Components. The Programme shall consist of the following three components:
+4.1 Component 1: Sustainable Smallholder Irrigation Development
+The objective of this  component is to transform  low-performing  irrigation  schemes  in
+the  targeted  provinces  into  fully  functional  schemes  that  are  efficiently  managed  by
+strengthened  WUOs,  thereby  providing  a  basis  for  sustained,  commercial  irrigated
+agriculture in selected areas, through:
+4.1.1
+Scheme  Selection  and  Rehabilitation.
+irrigation
+schemes,  with  the  rehabilitation  of  approximately  6,100  hectares,  including, inter  alia,
+(i)  preparation  of  feasibility  studies,  scheme  revitalization  plans  and other  technical
+studies, such as manuals and detailed design reports; (ii) construction and/or expansion
+of the selected schemes, including piloting solar power pumping systems; (iii) carrying-
+out  of  the  related  supervision  of  civil  and  electromechanical works;  and  (iv) capacity
+building on the operation and maintenance of irrigation schemes for key professionals of
+the Department of Irrigation (“DoI”) and to scheme level operators.
+Improvement  of 
+4.1.2
+Improved  Smallholder  Irrigation  Management.    Empowerment  of
+irrigators  and  of  their  WUOs  for  the  establishment  of  more  effective  and  inclusive
+governance  institutions  to  increase  local  ownership  and  participation,  including, inter
+alia,  (i) institutional  development  of  irrigation  groups  and  WUOs  and  strengthening  of
+the managerial  capacity  of  WUOs 
+for  community  operation,  productivity  and
+sustainability,  including  studies,  capacity  building  on  irrigation  water  management,
+financial  and  administrative  management,  community  visioning,  participatory  planning
+and operations and maintenance (O&M); and (ii) stimulate the creation of a network of
+repair and maintenance of irrigation schemes, with vocational training to selected youth
+on  irrigation  equipment  repair  and  maintenance  and  related  provision  of  starter  kits  to
+setting-up irrigation asset repair and maintenance businesses.
+4.1.3
+Enhanced 
+Irrigation  Development.
+Enhancement  of  DoI's  institutional  capacity on  irrigation  service  delivery,  and  to
+contribute  to  evidence-based  policy  development on  issues  affecting  smallholder
+irrigation.  This  will  include, inter  alia,  (i)  provision  of  equipment  and  vehicles  and
+Institutional  Capacity 
+for 
+4
+Appendix I
+EB 2016/118/R.20/Rev.1
+funding  recurrent  operational  costs;  (ii) preparation  of  training  materials  and  providing
+training  and  mentorship  for  DoI  staff on  water management,  irrigation  and  other
+relevant  subjects;  (iii)  undertaking  a  nation-wide  inventory  of  smallholder  irrigation
+schemes;  (iv) development  of  DoI’s  capacity  to  conduct  participatory  feasibility  studies
+and  detailed  designs  for  an  additional  of  approximately  2,000 hectares,  equivalent  to
+approximately  10  irrigation  projects,  nationwide;  and  (v)  testing  of  evidence-informed
+policy  dialogue  with  relevant  stakeholders  on  selected  policy  matters  related  to
+smallholder-irrigated agriculture.
+4.2 Component 2 – Climate-smart Agriculture and Market Access
+The  objective  of  this  component  is  to  achieve  sustainable  crop  production  and  farm
+competiveness and profitability on selected irrigated areas and related adjacent rain-fed
+areas, through:
+4.2.1
+Enhanced  Agricultural  Practices  and  Farmers'  Organizational  Capacity.
+Empowerment  of  targeted  farmers  to  improve  their  agricultural  practices  and
+sustainably  increase  productivity  and  efficient  use  of  natural  resources,  including, inter
+alia,  (i)  participatory  natural  resources  mapping, 
+including  support  to  Village
+Development  Committees  (“VIDCOs”);  (ii)  participatory  planning,  monitoring  and
+evaluation,  including  the  preparation  of  the  Revitalization  Plan  and  of  the  Greater
+Scheme  Agricultural  Plan;  (iii)  promotion  of  the  adoption  of  good  agricultural  practices
+through  the  implementation  of  farmer  field  schools  and  demonstration  plots;  (iv)
+establishment of a National Resources Management Facility (“NRMF”) to provide start-up
+support  to  farmers  in  the  rain-fed  areas  to  undertake  income  generating  projects  that
+utilise  natural  resources  in  a  sustainable  manner;  (v) promotion  of  good  nutrition
+education, gender equality and economic empowerment, including, capacity building on
+gender  sensitisation,  facilitation  and  strengthening  of  women's  organizations,  gender
+sensitisation  and  nutrition  education  courses,  establishment  of  nutrition  demonstration
+gardens and carrying-out of food fairs and/or cooking and feeding demonstrations.
+4.2.2
+Market  Access  and  Rural  Financial  Services. Improvement  of  irrigated
+and  rain-fed  farmers’  profitability  and  household  incomes  by  increasing  market  access
+and linkages between the different value chain actors including, inter alia: (i) improved
+access to and use of financial services through financial literacy training for farmers and
+their  organisations  and  strengthening  of  community  based  financial  institutions;
+(ii) broad-based  capacity  building  on  agribusiness  development  and  marketing;
+(iii) brokering  market  linkages  and  information access,  through  the  establishment  of
+farmer  businesses  groups  and  value  chain  platforms;  (iv)  post-harvest  management
+training  and  promoting innovative  low  cost  technologies  for  storage  and  processing  of
+perishable products at irrigation scheme level and cluster level; (v) training of youth as
+artisans  to  provide  post-harvest  value  addition  services;  and (vi)  design  and
+rehabilitation of last mile feeder roads and of small bridges.
+4.2.3
+Enhanced Institutional  Capacity  for  Market-led  Agricultural  Production.
+Enhancement  of  the  institutional  capacity  of Agricultural,  Technical  and  Extension
+Services  (AGRITEX) to  improve  the  quality  of  service  provision  to  smallholder  farmers.
+This will include, inter alia, (i) provision of equipment and vehicles and funding recurrent
+operational costs; (ii) preparing training materials and providing training and mentorship
+to the AGRITEX staff covering a range of technical aspects of good agronomic practices;
+and (iii) enhancing the capacity of AGRITEX and other relevant stakeholders to engage
+in policy dialogue on issues affecting smallholder agriculture.
+5
+Appendix I
+EB 2016/118/R.20/Rev.1
+II.
+Implementation Arrangements
+A.
+Organization and Management
+1.
+Lead Programme Agency (“LPA”)
+The LPA shall be MAMID, who shall have the overall responsibility for the
+1.1
+Programme implementation.
+2.
+Programme Steering Committee (“PSC”)
+2.1.
+Establishment and Composition. The Recipient, through MAMID, shall
+establish the  PSC,  with  structure,  functions  and  responsibilities  in  accordance  with  the
+PIM  and  acceptable  to  the Fund. The PSC shall be chaired by MAMID's  Permanent
+Secretary and will comprise senior officials from the Ministries of Environment, Water and
+Climate  (MEWC);  Finance  and  Economic  Development  (MOFED),  Rural  Development,
+Preservation and Promotion of Culture (MRDPPC); Women Affairs, Gender and Community
+Development (MWAGCD); and Small and Medium Enterprises and Cooperative Development
+(MSMECD) or as otherwise agreed between the Recipient and the Fund. It will include also
+senior  representatives  of  the  irrigation  working  group,  farmers  organisations  and  selected
+private  sector  service  providers. The PSC shall meet at least twice a  year  and  the  PCU
+shall act as PSC's secretariat.
+2.2.
+Responsibilities. The PSC is responsible for Programme oversight and
+strategic guidance, as detailed in the PIM, including (i) provision of strategic guidance
+to  Programme  management;  (ii) approval of the Annual  Work  Plan  Budget  (AWPB)
+and the Procurement Plan and of financial and technical progress reports; (iii) vigilance
+over full transparency and accountability in Programme management; (iv) review and
+follow-up of supervision and audit recommendations; (v) promotion of cooperation with
+all development partners; (vi) identification of policy issues for attention by  the
+Recipient and initiation of follow-up action on lessons and findings from the Programme;
+and  (vii)  close  collaboration  and  supervision  of  the  coordination  of  implementation  of
+activities  at  the  provincial  level  by  the  Provincial  Agricultural  Coordination  Committee
+and at  district  level  by  the  District  Agricultural  Coordination  Committee,  both  with
+composition and functions as established in the PIM.
+3.
+Programme Coordination Unit (“PCU”)
+3.1.
+Establishment and Composition. The  PCU  shall be established within
+MAMID, with structure, functions and responsibilities in accordance with the PIM and
+acceptable to the Fund. The PCU will be composed of, but not limited to, a Programme
+Coordinator,  a  Monitoring and Evaluation  and Knowledge  Management  (M&E/KM)
+specialist,  a  Programme  accountant,  a  Procurement  specialist  (jointly,  the  “Key
+Programme  Staff”)  and  an  administrative  assistant.  One  full  time  Provincial  Facilitator
+(PF)  will  be  selected  for  each  of  the  four  Programme  provinces.  All  staff shall be
+selected competitively according to the Recipient's applicable procedures acceptable to
+the Fund and hiring and termination of the contracts shall be subject to the Fund's no-
+objection.
+3.2.
+PCU Responsibilities. The  PCU is responsible  for overall Programme
+implementation  and coordination, including, inter alia: (i) preparation of the AWPB;
+(v) KM;
+(ii) financial management;
+M&E;
+financial
+(vi) preparation and consolidation of Statement  of  Expenditures  (SOEs),
+Programme
+statements  and withdrawal
+and
+(vii)
+partners,  especially  DoI  and
+(viii) coordination of all Programme implementing
+AGRITEX.
+(iii) procurement;
+(iv) Programme
+applications;
+reporting;
+6
+Appendix I
+EB 2016/118/R.20/Rev.1
+3.3
+PF  Responsibilities.    The  PF  will  be  responsible  for,
+inter  alia:  the
+coordination  and  facilitation  of  the  Programme  implementation  by  relevant  government
+agencies;  (i) monitoring  Programme  implementation  and  prepare  progress  and  annual
+reports; (ii) collection and consolidation of all support documents, reports, annual audit
+reports  and  financial  statements;  (iii) contract  services for  rehabilitation  of  irrigation
+schemes and ensure compliance with the conditions of the NRMF.
+4.
+Programme Technical Committee (“PTC”)
+4.1.
+Establishment and Composition. The  PTC  shall be established with
+structure, f unctions and responsibilities acceptable to the Fund and in accordance
+with the PIM.
+4.2.
+Responsibilities. The PTC shall  provide  technical  support  to  the  PCU  on
+a demand-driven basis.
+B.
+5.
+Implementation of Components
+Component 1:  Sustainable Smallholder Irrigation Development
+5.1.
+Programme  activities  under  this  Component  will  be  led  by  DoI  and
+implemented  using  the  Recipient's  existing  administrative  and  technical  structures,  in
+close  participation  with  beneficiaries.  The  PCU  will  contract  long-term  and  short-term
+consultancy services as and when required, in accordance with this Agreement. For sub-
+component 1.1, when required, contractors will be hired for civil and electro-mechanical
+works  and  qualified  companies  will  be  selected  to  carry-out  the  technical  studies  and
+designs. For sub-component 1.2, a service provider will be hired to work with DoI at the
+provincial  level  to  strengthen  and  empower  irrigation  WUOs,  with  the  backstopping  of
+central level staff from the water management department. The PCU will hire specialized
+vocational training  institutions  to  carry-out  the  activities  related  to  youth  and  procure
+and supply irrigation assets, maintenance tools and equipment.
+6.
+Component 2: Climate-smart Agriculture and Market Access
+6.1
+Programme  activities  under  this  component  will  be  led  by  AGRITEX  in
+collaboration  with  the  PCU,  service  providers  and  farmers.  Service  providers  and
+technical  assistance  will  be  contracted  in  accordance  with  this  Agreement  to  assist
+targeted  schemes,  prepare  VIDCOs  and  the  NRMF  and  help  AGRITEX  and  DoI  in the
+preparation  of  the  Revitalization  Plan  and  of  the  Greater  Scheme  Agricultural  Plan.
+Private  entities  that  show  interest  in  collaborating  with  the  irrigation  schemes  will  be
+encouraged to also provide capacity building to farmers. The PCU will be responsible for
+the  assessment,  recommendation  and,  upon  due  approvals,  set  up  and  monitor  the
+execution  of  the  matching  grant  facility  and  provision  of  matching  grants  to
+beneficiaries, as established in the PIM.
+C.
+Programme Implementation Manual (“PIM”)
+coordination  and  day-to-day  execution  of 
+7.
+Preparation.  The  Recipient  shall  prepare,  in  accordance  with  terms  of  reference
+acceptable  to  the  Fund,  a  PIM,  which  shall  include,  among  other  arrangements:
+(i) institutional 
+the  Programme;
+financial  management,  procurement
+(ii) Programme  budgeting,  disbursement, 
+monitoring,  evaluation,  reporting  and  related  procedures;  (iii)  detailed  description  of
+implementation  arrangements  for  each  Programme  component;  and  (iv) such  other
+administrative,  financial,  technical  and  organizational  arrangements  and  procedures  as
+shall be required for the Programme.
+7
+Appendix I
+EB 2016/118/R.20/Rev.1
+Approval  and  Adoption.  The  LPA  shall  forward  the  draft  PIM  to  the  Fund  for
+8.
+comments and approval. The LPA shall adopt the PIM, substantially in the form approved
+by  the  Fund,  and  the  LPA  shall  promptly  provide  copies  thereof  to  the  Fund.  The
+Recipient  shall  carry  out  the  Programme  in  accordance  with  the  PIM  and  shall  not
+amend,  abrogate,  waive  or  permit  to  be  amended,  abrogated,  or  waived,  the
+aforementioned  manual,  or  any  provision  thereof,  without  the  prior  written  consent  of
+the Fund.
+8
+Appendix I
+EB 2016/118/R.20/Rev.1
+Schedule 2
+Allocation Table
+1.
+Allocation of Grant Proceeds. (a) The Table below sets forth the Categories of Eligible
+Expenditures to be financed by the Grant and the allocation of the amounts of the Grant to
+each  Category  and  the  percentages  of  expenditures  for  items  to  be  financed  in  each
+Category:
+Category
+Grant Amount Allocated
+(expressed in SDR)
+Percentage
+See (b) below
+I.
+Consultancies
+II.
+Goods, services and inputs
+III.
+Training  and Workshops
+IV. Works
+V.
+Operating Costs
+VI.
+Salaries and allowances
+Unallocated
+TOTAL
+3 200 000
+3 600 000
+3 150 000
+4 900 000
+1 400 000
+250 000
+1 800 000
+18 300 000
+(b)
+In all cases the percentage of expenditures to be financed will be 100% net
+of taxes and beneficiary, counterpart financing and OFID co-financing.
+(c)
+"Goods,  Services  and  Inputs"  comprises  materials  and  vehicles  including
+equipment and materials provided through the NRMF.
+(d)
+"Salaries and Allowances" comprises allowances only, since salaries will be
+entirely borne by the Recipient.
+2.
+Start-up  Costs.  Withdrawals  in  respect  of  expenditures  for  start-up  costs  for
+expenditures  incurred  before  the  satisfaction  of  the  general  conditions  precedent  to
+withdrawal shall not exceed an aggregate amount of USD 400 000.
+9
+Appendix I
+EB 2016/118/R.20/Rev.1
+Schedule 3
+Special Covenants
+In  accordance  with  Section  12.01(a)(xxiii)  of  the  General  Conditions,  the  Fund  may
+suspend,  in  whole  or  in  part,  the  right  of  the Recipient  to  request  withdrawals  from  the
+Grant Account if the Recipient has defaulted in the performance of any covenant set forth
+below,  and  the  Fund  has  determined  that  such  default  has  had,  or  is  likely  to  have,  a
+material adverse effect on the Programme:
+Gender.
+1.
+The  Recipient  shall  develop and  implement  a  gender  strategy  for  the
+Programme  to  ensure  that  gender  concerns  shall  be  mainstreamed  in  all  Programme
+activities  throughout  the  implementation  period,  in  order  to  offer  equal  opportunities
+under  the  Programme  to  men,  women,  women  headed  households,  youth  and  other
+disadvantaged groups.
+Counterpart Funds.    The Recipient shall  ensure  that  counterpart  funds  are  clearly
+2.
+identifiable in the financial management system and all financial statements.
+3.
+Land and Water Access. The Recipient shall ensure that smallholder farmers have
+full access to land along applicable customary and legal regulations. A prerequisite to the
+signature of such agreements shall be the prior formal establishment of the WUOs.
+Environmental  and  Social  Due  Diligence.
+4.
+The Recipient  confirms  that  the
+Programme  will  be  implemented  in  compliance  with  the  main  IFAD  policies,  strategies
+and  procedures,  including, inter  alia,  (i)  IFAD's  Natural  Resources  Management  Policy,
+Climate Change Strategy and Social, Environmental and Climate Assessment Procedures,
+(ii) IFAD’s Policy on Improving Access to Land and Tenure Security, and other policy tools
+such as (a) the Voluntary Guidelines on the Responsible Governance of Tenure of Land,
+Fisheries  and  Forests  and  (b)  the  Framework  and  Guidelines  for  Land  Policy  in  Africa.
+Before  supporting  any  intervention  that  might  affect  the  land  access  and  use  rights  of
+communities, the Programme will ensure that their free, prior and informed consent has
+been  solicited  through  inclusive  consultations based  on  full  disclosure  of  the  intent  and
+scope  of  the  activities  planned  and  their  implications.  Prior  to  carrying  out  any
+construction  of  irrigation  facilities  and  related  items,  the  Recipient  shall  prepare  and
+adopt  an  Environmental  and  Social  Impact  Assessment  (ESIA)  and  Environmental  and
+Social  Management  Plans  (ESMPs),  where  they  are  required,  with  adequate  budget  for
+their implementation, so that to confirm the full social and environmental sustainability of
+the construction foreseen.
+Transparency and  internal  control  framework.    The  Terms  of  Reference  of  the
+5.
+external audit shall include a specific review of internal control environment. This covers
+all the systems, manual and IT.
+Internal Audit. The Internal Audit Department of MAMID will include the
+6.
+Programme in its yearly internal audit oversight plans. The implementation status of
+internal audit recommendations will be addressed and made available to the Fund.
+10
+Logical framework
+Narrative summary
+GOAL
+Rural households achieve food and
+nutrition security and are resilient to
+climate change effects and economic
+shocks in the programme districts
+Performance 
+indicators
+(all  data  will  be  disaggregated  by
+gender, as applicable)
+Baseline
+Targets
+Midterm
+(Y3)
+End
+Project
+Means 
+verification
+of
+MoV
+Frequency
+MoV
+responsibility
+Assumptions (A)/ Risks (R)
+Reduction in the prevalence of
+chronic malnutrition in children
+under five (weight for age) (RIMS)
+TBD
+-1%
+-3%
+PCU survey of 4
+provinces
+ZIMVAC reports
+Annual
+Food and
+Nutrition
+Council
+Macro-economic stability (A)
+Improved household assets
+ownership index (RIMS)
+Smallholder households cope with
+effects of climate change (RIMS
+1.8.5)5
+Baseline
+data
+baseline
+data
++5%
++20%
+PCR reports
+7,600
+22,100
+PCR reports
+Annual
+MAMID PCU
+Survey?
+OBJECTIVE
+Rural households sustainably increase
+their income in SIRP-supported schemes
+and adjacent rainfed areas.
+Diet diversity score
+5
+9
+12
+Annual household income on
+irrigation schemes
+$129
+$1,000
+$3,490
+ZIMVAC; DDF;
+HDDS
+PCR Progress
+reports; surveys
+Seasonal,
+Annual
+MAMID PCU Macroeconomic stability maintained
+Number of people benefiting from
+project services, by gender
+0
+32,630
+(16,315)
+148,750
+(74,375)
+Progress reports Annual
+MAMID PCU
+Climate shocks do not cause farmers to
+discontinue their contributions to O&M
+of the scheme
+1
+1
+OUTCOMES
+Component 1: Sustainable smallholder irrigation development
+Outcome 1a: Irrigation schemes fully
+operational
+Effectiveness (RIMS 2.1.2):
+Incremental hectares of crop
+grown throughout seasons
+4,200ha
+100%
+intensity
+1,600 ha
+175% int
+5,200 ha
+175% int
+Component 2: Climate-smart agriculture and market access
+Progress reports Annual
+MAMID; PCU Target group shoulders O&M
+Outcome 2a: Increased adoption of
+improved technologies and practices
+Improved agricultural production:
+avg. yield increase (kg/ha) of main
+crops:
+-
+-
+-
+-
+-
+-
+Maize
+Beans
+Tomato
+Maize rainfed
+Sorghum rainfed
+Groundnut rainfed
+2 MT/ha
+1 MT/ha
+10 MT/ha
+0.5 MT/ha
+0.7 MT/ha
+0.5 MT/ha
+5 MT
+1.75 MT
+30 MT
+1 MT
+1.4 MT
+1 MT
+5 MT
+1.75 MT
+30 MT
+1 MT
+1.4 MT
+1 MT
+Progress
+reports;
+PCR;
+IMC6 records;
+Seasonal,
+Annual
+MAMID PCU
+Target group increases market share of
+production (A)
+5 Resilience to the effects of climate change will be measured by the number of households that have access to irrigated land, cultivate at least three different crops (diversification) and apply GAPs
+including soil improvement techniques.
+6 Irrigation management committee.
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+6
+/
+1
+1
+8
+/
+R
+.
+2
+0
+/
+R
+e
+v
+.
+1
+Narrative summary
+Performance Indicators
+Baseline
+Outcome 2b: Farmers benefiting from
+improved access to markets and financial
+services
+Subcomponent 1.1: Development and management of irrigation scheme assets
+Gross total value of marketed
+commodities per year
+$800,000
+Midterm
+(Y3)
+$7.5 m
+End
+project
+$15 m
+Means of
+verification
+IMC records;
+Farmer records
+Market survey
+MoV
+frequency
+Seasonal
+MoV
+responsibility
+MAMID, PCU Farmers understand market functions
+Assumptions (A)/
+Risks (R)
+(A)
+Output 1.1: Small-scale irrigation schemes
+revitalized.
+Area of irrigation schemes
+rehabilitated
+0 ha
+1,840ha
+6,100ha
+Progress reports Annual
+PCU
+Expertise to carry out the study is
+available (A)
+Prices for material and works remain
+within assumed margins (A)
+Subcomponent 1.2: Improved smallholder irrigation management
+Output 1.2 a: Irrigators and their WUOs
+obtain knowledge in efficient irrigation
+management
+Number of irrigators trained in
+irrigation management
+0
+15,250
+15,250
+Progress reports Annual
+PCU
+Training is demand-driven (A)
+Subcomponent 1.3: Enhanced institutional capacity for irrigation development
+Output 1.3 b: Enhanced capacity among
+government. staff on irrigation service
+delivery
+Subcomponent 2.1: Enhanced agricultural practices and farmers’ organizational capacity
+Number of government staff
+trained in irrigation and O&M
+selected topics7
+0
+250
+250
+Progress reports Annual
+PCU
+Staffing levels are maintained or
+increased at all levels (A)
+Output 2.1a: Strengthened capacity of
+farmers and their organizations
+Number of people trained in GAP,
+soil and water conservation,
+nutrition education and
+organization
+Subcomponent 2.2: Market access and rural financial services
+1
+2
+Output 2.2a: Strengthened business
+capacity of farmers and value chain actors
+Number of people trained in agri-
+business, post-harvest and
+marketing skills,7 and financial
+literacy
+Number of schemes and adjacent
+rainfed areas with demonstrated
+post-harvest technology
+Output 2.2b Value addition technology
+promoted at scheme and adjacent rainfed
+area
+Subcomponent 2.3: Enhanced institutional capacity for market-led production
+0
+0
+0
+7,600
+25,250
+Progress reports Annual
+PCU
+VC actors are willing to cooperate (A)
+Training is demand-driven (A)
+7,600
+25,250
+Progress reports Annual
+PCU
+VC actors are willing to cooperate (A)
+50
+150
+Output 2.3 c: Enhanced capacity among
+government staff on service delivery
+Number of government staff
+trained in production, and market
+access
+0
+500
+500
+Progress reports Annual
+PCU
+Staffing levels are maintained or
+increased at all levels (A)
+7 An individual is likely to be trained in more than one topic.
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+6
+/
+1
+1
+8
+/
+R
+.
+2
+0
+/
+R
+e
+v
+.
+1

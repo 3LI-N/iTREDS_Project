@@ -1,0 +1,2956 @@
+Document: 
+Agenda: 
+Date: 
+Distribution: 
+Original: 
+EB 2021/134/R.39/Rev.1 
+19(b)(i)(b) 
+30 December 2021 
+Public 
+English 
+E 
+President’s report 
+Proposed loan to the 
+Republic of India 
+Rural Enterprise Acceleration Project 
+Project ID: 2000003737 
+Note to Executive Board representatives 
+Focal points: 
+Dispatch of documentation: 
+Deirdre Mc Grenra 
+Chief 
+Institutional  Governance  and 
+Member Relations 
+Tel.: +39 06 5459 2374 
+e-mail: gb@ifad.org 
+Technical questions: 
+Nigel Brett 
+Regional Director 
+Asia and the Pacific Division  
+Tel.: +39 06 54591 2516 
+e-mail: n.brett@ifad.org 
+Ulaç Demirag 
+Country Director  
+Tel.: +91 11 4653 2250 
+e-mail: u.demirag@ifad.org 
+Executive Board — 134th Session 
+Rome, 13–16 December 2021 
+For: Approval 
+EB 2021/134/R.39/Rev.1 
+ii 
+iii 
+1 
+1 
+3 
+3 
+3 
+3 
+4 
+4 
+5 
+9 
+9 
+9 
+9 
+9 
+10 
+10 
+10 
+11 
+11 
+12 
+Contents 
+Abbreviations and acronyms 
+Financing summary 
+I. 
+Context 
+A.  State and national context and rationale for IFAD involvement 
+B.  Lessons learned 
+II.  Project description 
+A.  Project objectives, geographic area of intervention and target 
+groups 
+B.  Components, outcomes and activities 
+C. Theory of change 
+D. Alignment, ownership and partnerships 
+E.  Costs, benefits and financing 
+III.  Risks 
+A.  Project risks and mitigation measures 
+B.  Environment and social category 
+C. Climate risk classification 
+D. Debt sustainability 
+IV.  Implementation 
+A.  Organizational framework 
+B.  Planning, M&E, learning, knowledge management and 
+communication 
+C. Implementation plans 
+Legal instruments and authority 
+V. 
+VI.  Recommendation 
+Appendices 
+I.  Negotiated financing agreement 
+II.  Logical framework 
+III.  Integrated project risk matrix 
+Project delivery team 
+Regional Director: 
+Country Director: 
+Country Coordinator: 
+Technical Lead: 
+Finance Officer: 
+Climate and Environment Specialist: 
+Legal Officer: 
+Nigel Brett 
+Han Ulaç Demirag 
+Meera Mishra 
+Mylene Kherallah 
+Norpulat Daniyarov 
+Kisa Mfalila 
+Itziar Miren Garcia Villanueva 
+i 
+EB 2021/134/R.39/Rev.1 
+Abbreviations and acronyms 
+AWP/B 
+CBO 
+DPMU 
+FM 
+FPO 
+ILSP 
+LC 
+M&E 
+PMU 
+REAP 
+UGVS 
+USRLM 
+annual workplan and budget  
+community-based organization  
+district project management unit  
+financial management  
+farmer producer organization  
+Integrated Livelihoods Support Programme  
+livelihood collective  
+monitoring and evaluation 
+project management unit  
+Rural Enterprise Acceleration Project 
+Uttarakhand Gramya Vikas Society 
+Uttarakhand State Rural Livelihood Mission  
+ii 
+EB 2021/134/R.39/Rev.1 
+Financing summary 
+Initiating institution: 
+IFAD 
+Borrower/recipient: 
+Republic of India 
+Executing agency: 
+Department of Rural Development, Government of 
+Uttarakhand  
+Total project cost: 
+US$378.0 million 
+Amount of IFAD loan: 
+US$105.0 million1 
+Terms of IFAD loan:  
+Ordinary terms 
+Cofinanciers:  
+Domestic financial institutions, local private sector, 
+beneficiaries;  
+Convergence with government schemes and the 
+Government of Uttarakhand 
+Amount of cofinancing: 
+Banks: US$185.8 million;  
+Private sector: US$0.6 million;  
+Uttrakhand Parvatiya Aajeevika Sanvardhan 
+Company: US$0.3 million;  
+Convergence: US$47.9 million  
+Terms of cofinancing:  
+ To be determined 
+Contribution of borrower/recipient: 
+US$24.3 million 
+Contribution of beneficiaries: 
+US$14.1 million 
+Amount of IFAD climate finance: 
+US$17.7 million 
+Cooperating institution: 
+IFAD 
+1 Including US$44.83 million in partial cancellations from two projects that were requested by the Republic of India, from 
+financing for the Andhra Pradesh Drought Mitigation Project (EB 2016/119/R.24/Rev.1 approved in December 2016; cancelled 
+amount US$33.33 million) and the Jharkhand Tribal Empowerment and Livelihoods Project (EB 2012/106/R.19/Rev.1 approved 
+in September 2012; cancelled amount US$11.50 million). The proposed recommitment of the funds cancelled as such is in 
+compliance with the rules and procedures approved by the Executive Board in the “Revision of IFAD approach to use of 
+cancellation of approved loans and/or grants” at its 111th session (EB 2014/111/R.12/Rev.1). 
+iii 
+EB 2021/134/R.39/Rev.1 
+Recommendation for approval 
+The Executive Board is invited to approve the recommendation for the proposed 
+financing to the Government of Uttarakhand, India for the Rural Enterprise 
+Acceleration Project (REAP), as contained in paragraph 53. 
+I.  Context 
+A.  State and national context and rationale for IFAD involvement 
+State and national context. India has made substantial progress over the period 
+1. 
+2005-20162 in halving the many dimensions of poverty which translates into over 
+270 million fewer poor. However, the country still has the world’s highest number 
+of people living in poverty (364 million), a situation that has worsened due to the 
+COVID-19 pandemic and requires continued and increased efforts to sustain 
+previous gains. 
+2. 
+3. 
+The State of Uttarakhand in northern India has a GDP of 2.5 trillion Indian rupees 
+(US$34 billion) (2018/19). In 2015 domestic product grew at an annual rate of 
+37.4 per cent but has since declined to 10.4 per cent (2019). Uttarakhand has two 
+administrative divisions and 13 districts, with 10 located in hill areas and three in 
+lowland regions. Around half of the population lives off agriculture, although 
+cultivable areas make up less than 15 per cent of the land.  
+The state and central governments have rolled out several policies to tackle the 
+challenge of unemployment. The state envisages a huge scope for cluster-based 
+enterprise development in agriculture and other sectors to ensure higher incomes 
+for rural communities. The recently completed Integrated Livelihoods Support 
+Programme (ILSP), a flagship programme of the Government of Uttarakhand’s, 
+made a positive impact on the welfare and livelihoods of the state’s poor. The 
+Government of Uttarakhand is keen that key elements of the programme are 
+replicated elsewhere in the state.  
+4. 
+Special aspects relating to IFAD's corporate mainstreaming priorities 
+In line with the Eleventh Replenishment of IFAD's Resources mainstreaming 
+commitments, the project has been validated as: 
+☒ including climate finance; and 
+☒ youth-sensitive. 
+5.  Gender and social inclusion. India ranks 95th out of 129 countries in the Gender 
+Development Index (GDI). In Uttarakhand, the GDI improved from 0.457 in 
+1996 to 0.647 in 2006, reflecting an overall improvement in gender relations. Two 
+critical challenges, however, remain for women – a high annual per capita earning 
+gap and high levels of drudgery. Due to widespread economic migration from rural 
+areas by men, women continue to shoulder the main burden of caring for their 
+families.  
+6. 
+7. 
+Youth. Young people account for almost a third of India's population. A large 
+number of unskilled youth in Uttarakhand –and in the country in general – migrate 
+in search of better employment. This trend is predominant in the hill districts of the 
+state. Migration is both seasonal and long-term owing to a lack of local jobs. 
+Despite the state’s strong economic growth rate, an increasing number of job 
+seekers have not been able to access productive and remunerative work.  
+Climate and environment. Projections indicate continued intensification of 
+climate change and variability, resulting in increased extreme weather events such 
+as droughts, floods and natural disasters. This will exacerbate soil erosion in the 
+mountainous areas of the state, where many of the rural poor rely on natural 
+2 Measured by the Multidimensional Poverty Index. 
+1 
+EB 2021/134/R.39/Rev.1 
+resources and rainfed agriculture. The promotion of cluster-based production 
+focusing on low volumes, high value, environmentally sustainable and 
+climate-resilient value chains is an appropriate, climate-smart approach for the 
+state’s development, with potential for building climate resilience across wider 
+geographical areas. 
+8.  Nutrition. Uttarakhand has made significant improvements in its nutritional status 
+over the past two decades. However, despite diminished rates of stunting and 
+underweight, child malnutrition remains a problem, as does anaemia among 
+women. The crops and value chains being promoted under REAP are 
+nutrition-sensitive, and value chain promotion will focus on enhancing both 
+household consumption of nutrition-dense crops and generating a marketable 
+surplus. Additionally, the project will develop strategies for addressing malnutrition 
+among children and women through institutional partnerships, especially with 
+Integrated Child Development Services (ICDS).  
+9. 
+Rationale for IFAD involvement 
+The rationale for IFAD’s involvement in the state lies in the potential to: (i) harness 
+the strength of institutions created through the previous, IFAD-supported 
+ILSP project and create self-sustaining institutions driving livelihoods 
+transformation in the state; (ii) build on the existing strong partnership with the 
+State Government, especially the Uttarakhand State Rural Livelihood Mission 
+(USRLM), to transfer lessons from ILSP and other projects to scale up good 
+practices across the state; and (iii) leverage knowledge and expertise to contribute 
+to the Government of Uttarakhand’s efforts to move from subsistence agriculture 
+and livelihood models to value chains and enterprise promotion models that have a 
+long-lasting impact on the local economy and on migration, while also reducing 
+vulnerability to climate shocks. 
+10.  REAP’s cluster-based approach is being followed as part of a national strategy to 
+establish farmer producer organizations (FPOs) to ensure volume and quality of 
+consolidated value chain products. The approach is widely recognized as essential 
+to aggregate production, ensure economies of scale and develop formal 
+cooperatives or FPOs that could act as agents of change. Clustering in this form 
+provides attractive benefits for farmers by concentrating rural services in particular 
+areas and making them available to broad networks of farmers. The aim is to lower 
+transaction costs, and foster improved efficiency in market transactions, plus 
+greater productive flexibility. 
+11.  The Government of India recently announced several important agricultural 
+reforms, with which the goals and objectives of REAP are aligned. REAP’s 
+intervention framework is in line with the two agricultural reform bills and the 
+Union Budget announcement. These include: (i) promotion and nurturing of 
+10,000 FPOs (Union Budget 2019-2020); (ii) the Farmers’ Produce Trade and 
+Commerce (Promotion and Facilitation) Bill, 2020; and the Farmers’ (Empowerment 
+and Protection) Agreement on Price Assurance and Farm Services Bill, 2020. The 
+aim of this legislation is to increase marketing options for farmers, enhance their 
+bargaining power, enable competitive price discovery for agricultural produce and 
+raise farm incomes. 
+12. 
+IFAD has extensive and successful experience working with small-scale farmers in 
+the promotion of anti-poverty and climate-smart value chains in India and 
+elsewhere. It is able to leverage global and technical expertise on value chains and 
+“market-first” approaches to strengthen capacities in the state. IFAD has, 
+moreover, been fully committed to Government of India’s strategic goal of doubling 
+farmers’ incomes, and this is reflected in the India Country Strategic Opportunities 
+Programme (COSOP) (2018-2024).  
+2 
+EB 2021/134/R.39/Rev.1 
+B.  Lessons learned 
+13.  The following points summarize the key lessons learned from various 
+IFAD-supported projects in India and the subregion, as well as lessons collected 
+from civil society in the country. These include the need for: (i) leveraging 
+government resources through convergence;3 (ii) leveraging community 
+institutions as vehicles to deliver government interventions in remote areas; (iii) a 
+market-first approach to production on a cluster basis to sustainably increase 
+farmers’ incomes; (iv) grassroots institutional development is essential to success 
+in commercializing smallholder agriculture; and (v) empowerment of women is key 
+to sustainable family well-being. 
+II.  Project description 
+A.  Project objectives, geographic area of intervention and target 
+groups 
+14.  The goal of REAP is to contribute to doubling the incomes of rural households and 
+reduce distress migration from rural areas. The development objective is to build 
+resilience in rural households by diversifying their sources of income through 
+intensified, cluster-based, climate-resilient production systems from selected value 
+chains. Also aimed for is the promotion of on- and off-farm enterprises and the 
+development of a supportive ecosystem. Farm enterprise intensification will be 
+achieved through support to community groups and their federated structures to 
+promote cluster-based production through apposite value chains, based on market 
+demand.  
+15.  The project will build on the work done by the ILSP in 44 community development 
+blocks (CDBs) in 11 districts, as well as by the USRLM, which is being implemented 
+in all 95 CDBs across all 13 districts. 
+16.  The total expected outreach of the project will be 560,000 households 
+i.e. 2.7 million individuals, largely comprising small farmers and landless 
+households, including returnee migrants affected by the COVID-19 pandemic. In 
+the target households, some 60 per cent of participants will be women and 
+35 per cent youth. The majority of the beneficiaries are small farmers (with less 
+than 1.0 ha), livestock raisers, microentrepreneurs, non-farm producers, workers 
+in service sectors, agricultural labourers and people engaged in other activities.   
+17.  There will be three categories of smallholders – extremely poor,4 poor, and 
+commercially oriented. Among all beneficiaries, 80 per cent will be from the first 
+two categories, each with 40 per cent, while the remaining 20 per cent will be from 
+the third. REAP will also target 10,000 ultra-poor households, to be supported 
+through a separate package.  
+B.  Components, outcomes and activities 
+18.  The project will pursue its objective by working towards three major outcomes: 
+(i) agricultural production of rural households intensified and farm, off-farm and 
+non-farm enterprise promoted, with employment opportunities created; 
+(ii) capacity for community-based organizations (CBOs) and partnerships 
+strengthened; and (iii) conducive enterprise promotion ecosystem fostered. 
+19.  Component 1: Inclusive cluster development. The component will be 
+implemented through two subcomponents. Subcomponent 1.1: livelihoods 
+diversification and enterprise development; and subcomponent 1.2: institutional 
+strengthening of CBOs and partnerships. The objective of subcomponent 1.1 is to 
+3 Convergence is the process of leveraging the benefits of relevant government schemes and line departments for the project 
+households. The project implementing authority leads the process by establishing strong partnerships with concerned line 
+departments. 
+4 The extreme poor groups including single women, women-headed households, people with disabilities, landless, agricultural 
+labourers, schedule castes (SCs) and schedule tribes (STs). 
+3 
+EB 2021/134/R.39/Rev.1 
+build the capabilities of individual farm households, self-help groups and producer 
+groups to diversify livelihoods opportunities. The objective of subcomponent 1.2 is 
+to strengthen the capacity of CBOs to increase their outreach to households and to 
+develop into viable, inclusive farmer institutions. 
+20.  Component 2: Ecosystem for enterprise development. The component will be 
+implemented through two subcomponents. Subcomponent 2.1: strengthening 
+support services and market infrastructure. The aim here is to develop the enabling 
+conditions for livelihoods, enterprise and value chain development by establishing 
+last-mile market infrastructure, providing support services and scaling up a youth 
+incubation scheme. The objective of subcomponent 2.2 is to support project 
+activities by facilitating access to financial services. 
+21.  Component 3: Project management, monitoring and evaluation (M&E) and 
+knowledge management. A project management unit (PMU) will be established 
+at both state and district levels. The state-level PMU will be led by a Project 
+Director and at district level by District Project Managers in all 13 districts. The 
+PMU will converge with government programmes and projects that will actively 
+support project implementation both technically and financially. A high-powered 
+committee will provide strategic oversight.  
+C.  Theory of change 
+22.  The theory of change identifies two principal factors behind the persistently high 
+levels of rural poverty: (i) traditional agriculture systems that are subject to the 
+risks and impacts of climate change, leading to low productivity, inadequate 
+volumes of marketable products and low profitability; and (ii) lack of a conducive 
+environment for farm commercialization and enterprise development, with limited 
+investment in support services that promote better living standards, particularly in 
+the rural hill areas. 
+23.  The project will facilitate a combination of efficient production technology, practices 
+and methods to reduce workload. Considering the challenges of remunerative job 
+opportunities for young men and women in the state, and the level of distress 
+migration, the project intends to create both short- and long-term opportunities for 
+youth. These will include developing a cadre of agricultural entrepreneurs and 
+service providers responsible for last-mile service delivery. To address the vagaries 
+of climate change, the project will converge with the interventions of the 
+Department of Agriculture and Department of Watershed Development in the 
+Government of Uttarakhand’s, which will build on ILSP activities related to 
+watershed development. REAP will further feature components related to soil and 
+water conservation and address climate change challenges directly through climate 
+adaptation interventions. Finally, a conducive enabling environment will ensure a 
+steady stream of innovative and entrepreneurial youth and migrants interested in 
+engaging in farm and off-farm activities. These efforts are expected to contribute to 
+doubling the income of rural households and reducing distress emigration. 
+D.  Alignment, ownership and partnerships 
+24.  REAP contributes to the achievement of four Sustainable Development Goals 
+(SDGs), in particular: SDG 1 (no poverty); SDG 2 (zero hunger); SDG 5 (gender 
+equality); and SDG 13 (climate action). REAP is similarly aligned with the 
+Government’s Strategy for New India for development, contributing directly to its 
+drivers for rural transformation. The strategy foresees doubling farmers’ incomes, 
+modernizing agriculture, and value chain and rural infrastructure development. 
+25.  At corporate level, the project is aligned with IFAD policies for mainstreaming 
+nutrition, gender, youth and climate. The project objectives and activities are well 
+aligned with the single, focused strategic objective of COSOP 2018-2024, namely 
+that “smallholder food and agricultural production systems are remunerative, 
+4 
+EB 2021/134/R.39/Rev.1 
+sustainable and resilient”, which contributes to the 2018-2022 United Nations 
+Sustainable Development Framework for India. 
+26.  REAP will converge with other ongoing government initiatives, especially with those 
+of the Department of Rural Development and the various line departments, as well 
+as the Uttarakhand Parvatiya Aajeevika Sanvardhan Company (UPASAC5) and 
+commercial banks to facilitate loans to self-help groups and household farm 
+enterprises. To address the vagaries of climate change, REAP will converge with 
+the projects of the State Watershed Development Programme and the Department 
+of Agriculture, which will build on ILSP activities related to watershed development 
+while also intervening in soil and water conservation. Partnership will also be 
+forged with the Uttarakhand State Disaster Management Authority as well as the 
+ICDS for expanding the supply of highly nutritious, ready-to-eat food prepared by 
+livelihood collectives (LCs). 
+E.  Costs, benefits and financing 
+Project costs 
+27.  Total project costs are US$378 million over seven years. The total amount of 
+IFAD climate finance for this project is calculated at US$17.7 million, which is 
+approximately 17 per cent of the US$105 million of IFAD financing (of which 
+US$44.83 million derives from funds cancelled from previous performance-based 
+allocation system cycles in line with IFAD’s restructuring policy). 
+Table 1 
+Project costs by component and subcomponent and financier  
+(Thousands of United States dollars) 
+ Component/subcomponent 
+IFAD 
+Other cofinancing 
+Borrower/recipient 
+Amount 
+%  Amount 
+%  Amount 
+%  Amount 
+%  Amount 
+% 
+Beneficiaries 
+Total 
+1. Inclusive cluster  
+development 
+1.1 Livelihoods 
+diversification and 
+enterprise development 
+1.2. Institutional 
+strengthening of CBOs 
+and partnerships 
+Subtotal 
+2. Ecosystem for enterprise  
+development 
+2.1. Strengthening support 
+services and market 
+infrastructure 
+2.2. Support to financial 
+services 
+Subtotal 
+3. Project management,  
+M&E and knowledge  
+management 
+32 544 
+42.4 
+34 852 
+45.4 
+4 769 
+6.2 
+4 578 
+6.0 
+76 742 
+20.3 
+32 742 
+67.2 
+94 
+0.2 
+9 342 
+19.2 
+6 549 
+13.4 
+48 727 
+12.9 
+65 286 
+52.0 
+34 946 
+27.9 
+14 111 
+11.2 
+11 127 
+8.9 
+125 469 
+33.2 
+10 552 
+63.8 
+1 794 
+10.9 
+6 275 
+16 827 
+3.1 
+7.6 
+197 894 
+199 688 
+96.6 
+90.2 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+4 182 
+25.3 
+16 528 
+4.4 
+635 
+4 817 
+0.3 
+2.2 
+204 804 
+54.1 
+221 332 
+58.5 
+7 699 
+28.8 
+27 301 
+7.2 
+661 
+8 360 
+16.8 
+27.3 
+3 946 
+31 247 
+1.0 
+8.3 
+3.1. Project management 
+19 602 
+71.2 
+3.2. M&E and knowledge 
+management 
+Subtotal 
+Total 
+3 285 
+83.2 
+22 887 
+72.7 
+- 
+- 
+- 
+- 
+- 
+- 
+105 000 
+27.8 
+234 634 
+62.1 
+14 111 
+3.7 
+24 304 
+6.4 
+378 049  100.0 
+5 UPASAC is a social venture capital company registered under section 8 of the Companies Act and is promoted by the 
+Government of Uttarakhand’s Department of Rural Development. 
+5 
+Table 2 
+Project costs by expenditure category and financier 
+(Thousands of United States dollars) 
+Expenditure category 
+Investment costs 
+IFAD loan 
+Other cofinancing 
+Beneficiaries 
+Borrower/ 
+recipient 
+Total 
+Amount 
+% 
+Amount 
+% 
+Amount 
+% 
+Amount 
+% 
+Amount 
+1. Training 
+11 004 
+54.1 
+8 923 
+43.9 
+2. Consultancies, studies & 
+technical assistance 
+12 801 
+70.0 
+- 
+0.0 
+- 
+- 
+5 486 
+406 
+2.0 
+20 332 
+3. Goods, services and inputs 
+21 451 
+45.3 
+16 733 
+4. Grants and subsidies 
+36 617 
+57.9 
+11 100 
+5. Credit and guarantee funds 
+2 243 
+1.1 
+197 543 
+35.3 
+17.6 
+98.9 
+3 212 
+6.8 
+6 006 
+10 899 
+17.2 
+4 598 
+- 
+- 
+Total investment costs 
+84 116 
+24.1 
+234 299 
+67.1 
+14 111 
+4.0 
+16 496 
+Recurrent costs 
+1. Salaries and allowances 
+2. Operating cost 
+Total recurrent costs 
+6
+15 397 
+5 487 
+20 884 
+70.0 
+78.1 
+71.9 
+- 
+336 
+336 
+- 
+4.8 
+1.2 
+- 
+6 602 
+1 207 
+7 809 
+Total 
+105 000 
+27.8 
+234 634 
+62.1 
+14 111 
+3.7 
+24 304 
+30.0 
+12.7 
+7.3 
+- 
+4.7 
+30.0 
+17.2 
+26.9 
+6.4 
+18 288 
+47 402 
+63 213 
+199 786 
+349 021 
+21 999 
+7 029 
+29 028 
+378 049 
+E
+B
+2
+0
+2
+1
+/
+1
+3
+4
+/
+R
+.
+3
+9
+/
+R
+e
+v
+.
+1
+Table 3 
+Project costs by component and subcomponent and project year (PY) 
+(Thousands of United States dollars) 
+PY1 (2022) 
+Amount 
+% 
+PY2 (2023) 
+Amount 
+% 
+PY3 (2024) 
+Amount 
+% 
+PY4 (2025) 
+Amount 
+% 
+PY5 (2026) 
+Amount 
+% 
+PY6 (2027) 
+Amount 
+% 
+PY7 (2028) 
+Amount 
+% 
+Total 
+Amount  
+Component 
+1. Inclusive cluster development 
+1.1 Livelihoods diversification 
+and enterprise development 
+1.2 Institutional strengthening of 
+CBOs and partnerships 
+Subtotal 
+2. Ecosystem for enterprise 
+development 
+2.1. Strengthening support 
+services and market 
+infrastructure 
+2.2. Support to financial 
+services 
+1 307 
+1 920 
+3 227 
+2 
+4 
+3 
+24 585 
+32 
+26 854 
+35 
+15 199 
+20 
+8 359 
+11 
+318 
+11 945 
+36 530 
+25 
+29 
+10 569 
+37 423 
+22 
+30 
+7 326 
+15 
+13 437 
+28 
+2 290 
+22 525 
+18 
+21 796 
+17 
+2 608 
+- 
+5 
+2 
+121 
+1 240 
+1 361 
+526 
+3 
+3 357 
+20 
+5 987 
+36 
+2 530 
+15 
+1 908 
+12 
+1 587 
+10 
+634 
+34 023 
+17 
+32 401 
+16 
+42 015 
+21 
+44 690 
+22 
+38 145 
+19 
+6 647 
+- 
+3 
+1 
+4 
+3 
+3 
+76 742 
+48 727 
+125 469 
+16 528 
+204 804 
+221 332 
+3 
+4 
+6 882 
+7 516 
+7
+Subtotal 
+34 549 
+16 
+35 758 
+16 
+48 002 
+22 
+47 220 
+21 
+40 053 
+18 
+8 234 
+3. Project management, M&E 
+and knowledge management 
+3.1 Project management 
+3.2 M&E and knowledge 
+management 
+5 049 
+1 524 
+18 
+39 
+3 973 
+1 492 
+15 
+38 
+4 035 
+15 
+3 560 
+13 
+3 677 
+13 
+3 799 
+14 
+3 209 
+12 
+27 301 
+287 
+7 
+238 
+6 
+108 
+3 
+214 
+5 
+83 
+2 
+3 946 
+Subtotal 
+6 573 
+21 
+5 465 
+17 
+4 322 
+14 
+3 798 
+12 
+3 785 
+12 
+4 012 
+13 
+3 292 
+11 
+31 247 
+Total 
+44 350 
+12 
+77 754 
+21 
+89 747 
+24 
+73 543 
+19 
+65 634 
+17 
+14 854 
+4 
+12 168 
+3 
+378 049 
+E
+B
+2
+0
+2
+1
+/
+1
+3
+4
+/
+R
+.
+3
+9
+/
+R
+e
+v
+.
+1
+EB 2021/134/R.39/Rev.1 
+Project financing and cofinancing strategy and plan 
+28.  The project is cofinanced by the State Government of Uttarakhand, various 
+government programmes (under convergence), UPASAC, banks, project 
+beneficiaries who include FPOs/LCs, and the private sector. The ratio of IFAD loan 
+resources to all cofinancing is 1:2.6. 
+29.  Funds will flow from IFAD through the Government of India into the state’s 
+consolidated fund for reimbursement of prefinanced expenditures. 
+30.  Retroactive financing. As an exception to section 4.07(a)(ii) of the General 
+Conditions of IFAD, the Fund is seeking Executive Board approval for retroactive 
+financing of up to US$1 million to cover eligible expenditures by start-ups between 
+August 6, 2021 and the date of entry into force. To be eligible for retroactive 
+financing, goods and services must have been procured according to the 
+procurement procedures applicable to loan financing. Retroactive financing needs 
+to be prefinanced by the Government and reimbursed after the agreement with 
+IFAD has entered into force and the conditions governing withdrawal have been 
+met. 
+Disbursement 
+31.  A designated account in United States dollars for the loan will be opened by the 
+Government of India at the Reserve Bank of India, to receive funds from IFAD on a 
+reimbursement basis. The financing from IFAD will be in United States dollars. The 
+Government of India will transfer IFAD funds to the Government of Uttarakhand, 
+which in turn will release this amount to the project in accordance with the 
+approved annual workplan and budget (AWP/B). Thereafter, reimbursements from 
+IFAD can be claimed through claims and withdrawal applications. Disbursements 
+from the PMU will be made to the other implementing partners as per the AWP/B 
+and to the district project management units (DPMUs). Funds from the DPMUs will 
+be disbursed to the cluster-level federations (CLFs), LCs and communities for 
+project activities. The PMU and DPMUs will obtain utilization certificates from the 
+implementing partners and the CLFs, LCs and community organizations for each 
+quarter, based on which further releases shall be made. 
+Summary of benefits and economic analysis 
+32.  The direct project benefits stem mainly from: (i) increased farm incomes after 
+adoption of new technologies; (ii) income generated by new value chain 
+enterprises established with project support;(iii) incremental income of producers 
+supplying raw materials to enterprises; and (iv) added revenue for FPOs and 
+LCs who start a business with project support. The financial viability indicators 
+show that all of the enterprise models are financially viable. The financial internal 
+rate of return of the whole project is 26 per cent, with a net present value of 
+US$759 million. The adjusted cash flows of the project yield an economic internal 
+rates of return (EIRR) of 31 per cent, with an economic net present value of 
+US$1,034 million. The results of the sensitivity analyses showed that if costs 
+increase by 10 or 20 per cent, benefits decrease by the same amounts. Both 
+scenarios yield EIRRs that are higher than the opportunity cost of capital, 
+suggesting that the farm and enterprise models are quite stable in the face of risky 
+scenarios. 
+33.  The project also generates several indirect benefits, namely (i) enhanced financial 
+and social service delivery by the FPO and LCs to their members; (ii) food and 
+nutrition security in the project area; (iii) improved animal health (dairy, poultry, 
+goat, sheep, and fisheries); (iv) value chain development through improved market 
+access; and (v) expansion of rural businesses. 
+8 
+EB 2021/134/R.39/Rev.1 
+Exit strategy and sustainability 
+34.  REAP will ensure institutional sustainability and effectiveness through dedicated 
+support to CBOs to establish them as independent economic entities and actors. 
+REAP has been designed in consultation with, and involvement of, the relevant 
+government agencies, technical line departments of the Ministry of Agriculture and 
+potential beneficiaries. These consultations and discussions have resulted in a 
+sound approach and a suite of interventions that will be implemented with strong 
+community and group participation, and the engagement of local officials. Building 
+on this foundation, it is expected that the investments and the results of the 
+interventions will be sustained well beyond the project period. 
+III.  Risks 
+A.  Project risks and mitigation measures 
+Risk category / Subcategory  
+Inherent risk 
+Residual risk 
+Country context 
+Sector strategies and policies 
+Environment and climate context 
+Project scope 
+Moderate 
+Moderate 
+Low 
+Low 
+Substantial 
+Moderate 
+Moderate 
+Institutional capacity for implementation and sustainability 
+Moderate 
+Financial management 
+Procurement 
+Environment, social and climate impact 
+Stakeholders 
+Overall 
+Substantial 
+Substantial 
+Moderate 
+Moderate 
+Moderate 
+Low 
+Low 
+Moderate 
+Moderate 
+Low 
+Moderate 
+Low 
+B.  Environment and social category 
+35.  The environmental and social category assigned to REAP is B. Potential 
+environmental and social risks and impacts are site-specific and limited to 
+production (land development and use of agrochemicals), agroprocessing facilities 
+(solid waste and effluent management with possible threats to the health and 
+safety of workers), and potential impacts from construction of small-scale storage 
+facilities and warehouses. Potential adverse risks and impacts will be readily 
+mitigated and/or considerably reduced with known and cost-effective, site-specific 
+mitigation measures that include promoting climate-smart agricultural practices 
+and natural resource-based livelihood options. 
+C.  Climate risk classification 
+36.  The climate risk classification for REAP is high. The project is located in areas where 
+rural development initiatives have experienced significant weather-related losses 
+and damage. Floods have impacted roads, bridges and irrigation schemes, and 
+changes in rainfall quantity and intensity are expected to result in higher surface 
+runoff, leading to flash floods, soil erosion, soil nutrient loss, decreased aquifer 
+recharge and landslides, particularly in mountainous or hilly areas.  
+D.  Debt sustainability  
+37. 
+India’s debt-to-GDP ratio of 69.6 per cent is well above peer emerging markets. 
+The latest World Bank/International Monetary Fund debt sustainability analysis of 
+India considers the risk of external debt distress and overall debt distress to be 
+low. The size of India’s external debt has increased since 2017-2018, but remained 
+at around 20 per cent of GDP. While the increase in external debt was largely due 
+to borrowing by non-government actors, the share of short-term debt (on residual 
+maturity basis) in total debt increased since 2017-2018, driven by non-resident 
+deposits, commercial borrowings, and short-term trade credit. India’s external 
+9 
+EB 2021/134/R.39/Rev.1 
+vulnerability, in terms of reserve adequacy indicators, remains low compared to 
+earlier years. 
+38.  Real GDP growth is, however, projected to increase over the period 2022-2026 by 
+an average of 6.6 per cent annually, driven by agriculture and manufacturing. 
+Stronger external demand and foreign direct investment, an easing of trade 
+tensions and improved global financial conditions could support growth and 
+facilitate adjustments.  
+IV.  Implementation 
+A.   Organizational framework 
+Project management and coordination 
+39.  The lead executing agency will be the Department of Rural Development, which will 
+implement REAP in cooperation with various other departments. The organizational 
+structure is on four levels – state, Uttarakhand Gramya Vikas Society (UGVS), 
+district and block. The project will be implemented through the PMU headed by a 
+project director reporting to the chief project director and assisted by a core team. 
+District-level implementation teams will be housed with the DPMUs to be 
+established in each of the 13 project districts. At the block level the project team 
+will be integrated with the USRLM operations. 
+40.  A Technical Advisory Panel comprising senior experts of public and private agencies 
+will be appointed to provide technical advice and guidance to the Project 
+Management Committee (PMC). Much of project staffing will be outsourced to 
+service providers.  
+Financial management, procurement and governance  
+41.  Financial management (FM). FM arrangements reflect lessons learned from 
+ongoing IFAD-supported projects. FM arrangements will be mainstreamed into the 
+state’s planning and budgeting processes. The state’s online treasury management 
+system and the national public FM system will be used for allocation of project 
+funds, application of internal checks and controls, accounting and financial 
+reporting, and tracking of project unspent bank balances. Based on IFAD’s 
+assessment, proposed FM arrangements are acceptable and provide reasonable 
+assurance that loan proceeds will be used for intended purposes and properly 
+accounted for. With agreed supplemental measures in place, the residual FM risk is 
+rated as moderate. 
+42.  Procurement. Primary responsibility for procurement and its management under 
+REAP will be with the lead project agency, UGVS and the lead department under 
+the Government of Uttarakhand. While discharging this primary responsibility, 
+UGVS is to mandatorily observe the provisions of the revised IFAD Policy on 
+Preventing Fraud and Corruption in its Activities and Operations, its policy to 
+preventing and responding to sexual harassment, sexual exploitation and abuse, its 
+Anti-Money Laundering and Countering the Financing of Terrorism Policy, and its 
+Social, Environmental and Climate Assessment Procedures. 
+43.  Governance. Under IFAD's policy on fraud and corruption, the independent and 
+competent authority responsible for receiving, reviewing and investigating 
+allegations of fraud and corruption should be nominated by the Government of 
+Uttarakhand and confirmed to IFAD in writing (prior to loan negotiations), while 
+any further changes/revisions to the nominated authority should be notified too. 
+B.  Planning, M&E, learning, knowledge management and 
+communication 
+44.  The PMU will be responsible for preparing the AWP/B and procurement plan for 
+REAP, and for securing approval from its management and IFAD. The plan will 
+include an activities plan along with targets and an expenditure plan, and should 
+10 
+EB 2021/134/R.39/Rev.1 
+reflect overall project targets and activities. An effective M&E system will be 
+developed to cover the indicators in the logical framework.  
+45.  The REAP M&E system will be built on a very robust structure instituted by 
+ILSP and seen as a good-practice model. The system will be used as a 
+management tool and will include an assessment of progress and compliance, and 
+identification of constraints and proposed remedial actions. The project’s knowledge 
+management activities will support an effective flow of relevant information among 
+project staff, beneficiaries and other stakeholders. Output, outcome and impact 
+data generated by the M&E system will inform case studies, briefs and reports. 
+These will be used for policy dialogue, peer learning and potential scaling up. 
+Knowledge management products will be communicated through multiple media, 
+including blogs, written publications, videos and social media. 
+Innovation and scaling up 
+46.  An Innovation Fund of over US$5 million for pioneering start-ups has been included 
+in project design. The project will also pilot some innovative features that include: 
+(i) digital education, development of start-ups; (ii) new, sustainable land 
+management measures; and (iii) youth incubation pilot testing through the rural 
+business incubator model and/or alternative local entrepreneurship initiatives 
+proposed for testing under REAP.  
+C.  Implementation plans 
+47. 
+Implementation readiness and start-up plans 
+IFAD and the government have identified the key actions to ensure implementation 
+readiness. This includes: (i) recruitment of core staff; (ii) establishment of a 
+management consultant facility; (iii) mapping and capacity appraisal of technical 
+agency support/partner implementation organizations; (iv) conducting a baseline 
+survey of the project area combined with a livelihoods analysis; (v) reviewing and 
+evaluating of the performance of LCs and FPOs; (vi) assessing demand and supply 
+for local service providers; (vii) conducting detailed analyses of priority value 
+chains at block level; and (viii) preparing financial analyses of target enterprises.  
+48.  To facilitate start-up, the PMC will recruit a project expeditor – a person who was 
+previously involved in project design– to support establishing the project 
+management structure and system.  
+49. 
+Supervision, midterm review and completion plans 
+IFAD will conduct regular supervision according to standard procedures. 
+Supervision missions will review project performance, progress towards 
+achievement of objectives and compliance with fiduciary requirements. REAP will 
+submit biannual progress reports using a format pre-approved by IFAD. 
+V.  Legal instruments and authority 
+50.  A project financing agreement between the Republic of India and IFAD will 
+constitute the legal instrument for extending the proposed financing to the 
+borrower/recipient. A copy of the negotiated financing agreement is attached as 
+appendix I. 
+51.  The Republic of India is empowered under its laws to receive financing from IFAD.  
+52. 
+I am satisfied that the proposed financing will comply with the Agreement 
+Establishing IFAD and the Policies and Criteria for IFAD Financing. 
+11 
+EB 2021/134/R.39/Rev.1 
+VI.  Recommendation 
+53. 
+I recommend that the Executive Board approve the proposed financing in terms of 
+the following resolution: 
+RESOLVED: that the Fund shall provide a loan on ordinary terms to the 
+Republic of India in an amount of one hundred and five million United States 
+dollars (US$105,000,000), and upon such terms and conditions as shall be 
+substantially in accordance with the terms and conditions presented herein. 
+Gilbert F. Houngbo 
+President 
+12 
+Appendix I 
+EB 2021/134/R.39/Rev.1 
+Negotiated financing agreement 
+"Rural Enterprise Acceleration Project (REAP)" 
+(Negotiations concluded on 03 December 2021) 
+Loan No:__________ 
+Project name: Rural Enterprise Acceleration Project (“REAP”) (“the Project”) 
+The Republic of India (the “Borrower”) 
+and 
+The International Fund for Agricultural Development (the “Fund” or “IFAD”) 
+(each a “Party” and both of them collectively the “Parties”) 
+WHEREAS, the Borrower has requested a loan from the Fund for the purpose of financing 
+the  Rural  Enterprise  Acceleration  Project  (“REAP”)  described  in  Schedule 1  to  this 
+Agreement;  
+WHEREAS  this  Agreement  is  to  finance  the  implementation  of  the  Project  in  the  State  of 
+Uttarakhand (the “State”); 
+WHEREAS, the Project shall be carried out through the State of Uttarakhand (the “State”) 
+pursuant to a separate agreement herewith between the Fund and the State (the “Project 
+Agreement”); 
+WHEREAS,  for  this  purpose,  the  Borrower  shall  make  available  to  the  Government  of 
+Uttarakhand  the  respective  part  of  the  proceeds  of  the  Financing  upon  terms  and 
+conditions set forth in this Financing Agreement; 
+NOW THEREFORE, the Parties hereby agree as follows: 
+Section A 
+1. 
+The  following  documents  collectively  form  this  Agreement:  this  document,  the 
+Project  Description  and  Implementation  Arrangements  (Schedule  1)  and  the  Allocation 
+Table (Schedule 2). 
+2. 
+The  Fund’s  General  Conditions  for  Agricultural  Development  Financing  dated 
+29 April 2009, amended as of December 2020, and as may be amended hereafter from 
+time to time (the “General Conditions”) are annexed to this Agreement, and all provisions 
+thereof  shall  apply  to  this  Agreement.  For  the  purposes  of  this  Agreement  the  terms 
+defined  in  the  General Conditions  shall  have  the  meanings  set  forth  therein,  unless  the 
+Parties shall otherwise agree in this Agreement. 
+3. 
+The Fund shall provide a Loan (the “Financing”) to the Borrower, which the Borrower 
+shall cause the State to use to implement the  Project in accordance with the terms and 
+conditions of this Agreement. 
+1 
+Appendix I 
+Section B 
+EB 2021/134/R.39/Rev.1 
+1. 
+A. 
+The amount of the loan is one hundred and five million United States Dollars 
+(USD 105 000 000). 
+2. 
+The Loan is granted on ordinary lending terms and shall be subject to Interest on 
+the principal amount outstanding of the Loan rate equal to the IFAD Reference Interest 
+Rate with variable spread, payable semi-annually in the Loan Service Payment Currency, 
+and have a maturity period of 17.5 years, including a grace period of 5.5years, starting 
+from the date as of which the Fund has determined that all general conditions precedent 
+to withdrawal have been fulfilled. 
+3. 
+The Loan Service Payment Currency shall be in the United States dollars (USD). 
+4. 
+The first day of the applicable Fiscal Year shall be 1st April. 
+Payments  of  principal  and  interest  shall  be  payable  on  each  1st  June  and 
+5. 
+1st December. 
+6. 
+There shall be a Designated Account (DA) in USD for the Loan, for the exclusive use 
+of the Project that will be opened by the Borrower at Reserve Bank of India (RBI) to which 
+funds will flow from IFAD. 
+8. 
+The Borrower shall cause the State to provide counterpart financing for the Project 
+in  the  ratio  of  80-20  between  the  IFAD  Financing  and  the  counterpart  contribution 
+respectively. 
+Section C 
+1. 
+The Rural Development Department, Government of Uttarakhand shall be the State 
+nodal department for the Project and Uttarakhand Gramya Vikas Samiti (UGVS) shall be 
+the Lead Project Agency (“LPA”). The LPA has overall responsibility for implementation of 
+the Project. 
+2. 
+The following are designated as additional Project Parties:  
+i) 
+ii) 
+iii) 
+Uttarakhand Parvatiya Ajeevika Sanvardhan Company (UPASaC)  
+Uttarakhand State Rural Livelihoods Mission (USRLM) 
+Any other stakeholder identified by the PMU, in agreement with the Fund. 
+A Mid-Term Review will be conducted as specified in Section 8.03 (b) and (c) of the 
+3. 
+General Conditions; however, the Parties may agree on a different date for the Mid-Term 
+Review of the implementation of the Project. 
+4. 
+The Project Completion Date shall be the 31st March 2029. 
+5 
+Procurement of goods, works and services financed by the Financing shall be carried 
+out  in  accordance  with  the  IFAD  Procurement  Guidelines  and  Procurement  Handbook, 
+2019, amended from time to time. 
+Section D 
+1. 
+The Fund will administer the Loan and supervise the Project. 
+2 
+Appendix I 
+Section E 
+EB 2021/134/R.39/Rev.1 
+1. 
+The following is designated as additional grounds for suspension of this Agreement: 
+the Project Implementation Manual (PIM) and/or any provision thereof, has been waived, 
+suspended, terminated, amended or modified without the prior agreement of the Fund and 
+the Fund, after consultation with the Borrower, has determined that it has had, or is likely 
+to have, a material adverse effect on the Project. 
+The following is designated as additional grounds for cancellation of this Agreement: 
+2. 
+the PIM or any provision thereof, has been waived, suspended, terminated, amended or 
+substantially  modified  without  the  prior  agreement  of  the  Fund  and  the  Fund,  after 
+consultation with the Borrower, has determined that such waiver, suspension, termination, 
+amendment or modification has had, or is likely to have, a material adverse effect on the 
+Project, and the Borrower has not taken any measures to remedy the situation;  
+The  following  are  designated  as  additional  general  conditions  precedent  to 
+3. 
+withdrawal: 
+a) 
+b) 
+c) 
+The IFAD no objection to the PIM shall have been obtained; 
+Key  Project  staff  as  described  in  the  Project  Agreement  shall  have  been 
+recruited in accordance with the PIM; and 
+The Subsidiary Agreement in form and substance acceptable to the Fund shall 
+have been duly concluded between the State nodal department and the Lead 
+Project Agency. 
+The following are the designated representatives and addresses to be used for any 
+4. 
+communication related to this Agreement: 
+For the Republic of India 
+Secretary, Department of Economic Affairs 
+Ministry of Finance, 
+New Delhi 110001 
+For the Fund: 
+The President 
+International Fund for Agricultural Development 
+Via Paolo di Dono 44 
+00142 Rome, Italy 
+[Copy to:] 
+This  Agreement,  [dated  _____],  has  been  prepared  in  the  English  language  in  two  (2) 
+original copies, one (1) for the Fund and one (1) for the Borrower. 
+3 
+Appendix I 
+EB 2021/134/R.39/Rev.1 
+REPUBLIC OF INDIA 
+____________________  
+"[Authorised Representative Name]"  
+"[Authorised Representative title]"  
+Date: ____________ 
+INTERNATIONAL FUND FOR 
+AGRICULTURAL DEVELOPMENT  
+___________________ 
+Gilbert F. Houngbo  
+President 
+Date: ______________ 
+4 
+Appendix I 
+EB 2021/134/R.39/Rev.1 
+Schedule 1 
+Project Description and Implementation Arrangements 
+I. 
+Project Description 
+1. 
+Target  Population.  The  Project  shall  benefit  560,000  households  i.e.  2.7  million 
+individuals  largely  comprising  small  farmers  and  landless  households.  Of  the  target 
+number  of  households  some  60%  will  be  women  and  35%  youth.  The  majority  of  the 
+beneficiaries are small farmers (with less than 1.0 ha. of land), livestock growers, micro 
+entrepreneurs, non-farm producers, workers in service sectors, agricultural labourers and 
+those who are engaged in other income generating activities. 
+2. 
+Project  area.  The  Project  will  be  implemented  in  all  the  13  districts  and  in  all 
+95 Community Development Blocks (CDBs) of Uttarakhand. The Project will build on the 
+work  done  through  the  Integrated  Livelihoods  Support  Programme  (ILSP)  in  44 
+Community Development Blocks (CDBs) in 11 districts as well as the Uttarakhand State 
+Rural Livelihood Mission (USRLM) which is being implemented in all 95 CDBs across all 13 
+districts. (“The Project Area”) 
+Goal.  The  goal  of  the  Project  to  contribute  to  the  doubling  of  income  of  rural 
+3. 
+households and reduce distress rural out migration. 
+4. 
+Objectives. The objective of the Project is to build resilience of rural households by 
+diversifying  their  sources  of  income  through  intensified  cluster-based  climate  resilient 
+production systems of select value chains, promotion of farm and off-farm enterprises and 
+building a supportive ecosystem. 
+5. 
+Components. The Project shall consist of the following Components:  
+5.1  Component 1: Inclusive cluster development. The component will be implemented 
+through  two  sub-components:  1.1  -  Livelihoods  diversification  and  enterprise 
+development;  and  1.2  -  Institutional  strengthening  of  CBOs  and  partnerships.  The 
+objective of sub-component 1.1 is to build the capabilities of individual farm households, 
+self-help groups and producer groups to diversify livelihoods opportunities. The objective 
+of sub-component 1.2 is to strengthen the capacity of CBOs to increase their outreach to 
+target households and to develop into viable inclusive farmer institutions. 
+5.2  Component  2:  Ecosystem  for  enterprise  development.  The  component  will  be 
+implemented  through  two  sub-components:  2.1:  Strengthening  support  services  and 
+market  infrastructure.  The  objective  of  sub-component  2.1  is  to  develop  the  enabling 
+conditions for livelihoods, enterprise and value chain development by establishing last mile 
+market  infrastructure,  providing  support  services  and  scaling  up  a  youth  incubation 
+scheme. The objective of sub-component 2.2 is to support project activities by facilitating 
+access to financial services. 
+5.3.  Component  3:  Project  Management,  M&E  and  Knowledge  Management.  A  Project 
+Management Unit (PMU) will be established at both State and District level. The state level 
+PMU will be led by a Project Director and at district level by District Project Managers in all 
+13 districts. The PMU will converge with government Projects and projects that will actively 
+support  project  implementation  both  technically  and  financially.  A  High  Powered 
+Committee will provide strategic oversight.  
+5 
+Appendix I 
+EB 2021/134/R.39/Rev.1 
+II. 
+Implementation Arrangements 
+6. 
+Lead  Project  Agency.  The  Project  Implementation  Agency  will  be  Uttarakhand 
+Gramya  Vikas  Samiti  (UGVS),  which  will  implement  REAP  in  cooperation  with  various 
+departments. 
+7. 
+Project Oversight Committee. There will be two oversight entities: (i) High Powered 
+Committee,  chaired  by  the  Chief  Secretary,  Government  of  Uttarakhand;  and  (ii)  the 
+Project  Management  Committee,  chaired  by  the  Additional  Chief  Secretary,  Rural 
+Development Department. A Technical Advisory Panel comprising senior experts of public 
+and  private  agencies  will  be  appointed  to  provide  technical  advice  and  guidance  to  the 
+Project  Management  Committee.  The  Project  Management  Committee  shall  review  and 
+approve the Annual Work Plan and Budget and its revisions and other tasks delegated by 
+the  High  Powered  Committee.  At  the  district  level,  the  Coordination  Committee  will  be 
+chaired by the District Magistrates. The roles and responsibilities of the State and District 
+level Oversight Committees shall be included in the Programme Implementation Manual. 
+Project  Management  Unit.  The  Project  will  be  implemented  through  the  Project 
+8. 
+Management Unit headed by a Project Director reporting to the Chief project Director and 
+assisted  by  a  team  of  2  Directors  (Convergence  and  Finance),  one  Dy.  Director  (HR  & 
+Training)  and  one  Team  Leader  Operations  and  Enterprises.  The  positions  of  Director 
+Finance, Dy. Director HR & Training and Director Convergence will be on secondment from 
+Government. District level implementation teams will be housed with the District Project 
+Management  Units  (DPMU)  to  be  established  in  each  of  the  13  project  districts.  At  the 
+Block level the project team will be integrated with the USRLM set up. 
+Implementing partners. The Project’s approach and implementation modalities are 
+9. 
+in harmony with the vision and strategies of partners such as UPASAC and USRLM as per 
+the AWPB and to the DPMUs. The funds from the DPMUs shall be disbursed to the  CBOs 
+for  project  activities.  The  PMU/  DPMUs  shall  obtain  utilization  certificates  from  the 
+implementing  partners  and  the  CBOs  for  each  quarter  based  on  which  further  releases 
+shall be made.  
+10.  Monitoring  and  Evaluation.  The  PMU  will  be  responsible  for  preparing  the  annual 
+workplan and budget (AWP/B) and procurement plan for REAP, and for securing approval 
+from its management and IFAD. The plan will include an activities plan along with physical 
+targets and an expenditure plan and should reflect overall project targets and activities. 
+The REAP M&E system will be built on a very strong and robust system instituted by ILSP. 
+The  system  will  be  utilized  as  a  management  tool  and  will  include  an  assessment  of 
+progress and compliance, identification of constraints and proposed remedial actions. 
+11.   Knowledge Management. A comprehensive knowledge management action plan will 
+be  developed  in  the  early  stages  of  implementation.  Output,  outcome  and  impact  data 
+generated by the M&E system will inform case studies, briefs and reports. These will be 
+used for policy dialogue, peer learning and potential scaling up. Knowledge management 
+products  will  be  communicated  through  multiple  media,  including  blogs,  written 
+publications, video and social media. 
+12.  Project Implementation Manual. The PMU shall be responsible for the finalisation of 
+a Project Implementation Manual (PIM) that shall describe: (i) implementation of project 
+activities;  (ii)  the  administration  of  Loan  proceeds  and  Project  Parties’  responsibilities; 
+(iii) financial  management  and  procurement  procedures;  and  (iv)  monitoring  and 
+evaluation  of  project  progress  and  results.  The  PIM  shall  be  approved  by  the  Executive 
+Committee, before IFAD’s non objection is obtained. 
+13.  Compliance  with  the  Social  Environmental  and  Climate  Assessment  Procedures 
+(SECAP). The Borrower shall cause the State to ensure  that the Project Implementation 
+Manual reflects the recommendations of the SECAP as they apply to the Project objectives 
+and activities.   
+6 
+Appendix I 
+EB 2021/134/R.39/Rev.1 
+14.  Anticorruption  Measures.  The  Borrower  shall  cause  the  State  to  comply  with  IFAD 
+Policy on Preventing Fraud and Corruption in its Activities and Operations and shall cause 
+the  State 
+the 
+entities/organizations/parties and contractors.  
+the  compliance  provisions  are  extended 
+to  ensure 
+that 
+to 
+15.  Policy  on  Preventing  and  Responding  to  Sexual  Harassment  and  Exploitation  and 
+Abuse. The Borrower shall cause the State to comply with IFAD Policy on Preventing and 
+Responding  to  Sexual  Harassment,  Sexual  Exploitation  and  Abuse  and  shall  cause  the 
+State 
+the 
+entities/organizations/parties  and  contractors  engaged  during  implementation  of  the 
+Project. 
+compliance  provisions  are  extended 
+to  ensure 
+that 
+the 
+to 
+7 
+Appendix I 
+EB 2021/134/R.39/Rev.1 
+Schedule 2 
+Allocation Table 
+Allocation of Loan Proceeds. (a) The Table below sets forth the Categories of Eligible 
+1. 
+Expenditures to be financed by the Loan and the allocation of the amounts to each category 
+of  the  Financing  and  the  percentages  of  expenditures  for  items  to  be  financed  in  each 
+Category: 
+Category 
+I.  Training, Consultancies, studies & TA 
+II.  Goods, Services and Inputs 
+III.  III.Grants and Subsidies, Credit and 
+Guarantee Funds 
+IV.  Operating Cost 
+Loan Amount 
+Allocated 
+(expressed in 
+USD) 
+23,805,000 
+21,451,000 
+38,860,000 
+Percentage 
+eligible for 
+IFAD financing  
+100% 
+100% 
+100% 
+20,884,000 
+100% 
+TOTAL 
+105,000,000 
+(b)  The terms used in the Table above are defined as follows: 
+(i) 
+(ii) 
+Category  I  -  Training,  Consultancies,  studies  &  TA  shall  mean  eligible 
+expenditures  incurred  under  all  components  of  the  Project  for  training, 
+workshops, consulting services, studies and technical assistance. 
+Category II - Goods, Services and Inputs shall mean eligible expenditures 
+incurred under all components of the Project for Goods, Equipment and 
+tools, non-consulting services and materials and other inputs. 
+(iii)  Category  III  -  Grants  and  Subsidies,  Credit  and  Guarantee  Funds  shall 
+mean eligible expenditures incurred under components 1&2 of the Project 
+for grants, subsidies, credits and guarantees. 
+(iv)  Category  IV  -  Operating Cost  shall mean  eligible expenditures incurred 
+under components 3 and related to operating costs, including salaries and 
+allowances. 
+(v) 
+The  Percentage  is  applied  to  Project  expenditures,  excluding  taxes  and 
+shares of other financiers. 
+2.  Disbursement arrangements  
+(a)  The Disbursement Arrangements will be set forth in detail in the Letter to the 
+Borrower. 
+(b)  Retroactive  financing.  As  an  exception  to  section  4.07(a)  (ii)  of  the  General 
+Conditions, specific eligible expenditures incurred between August 6, 2021 and 
+the date of entry into force of this Agreement shall be considered eligible up to 
+an amount equivalent to one million US dollars (USD 1,000,000) for activities 
+relating  to    project  start-up  activities  specified  in  AWPB  to  be  financed  by 
+retroactive financing and their respective category of expenditures and source 
+of financing will require prior no objection from IFAD to be considered eligible. 
+Pre-financed  eligible  expenditures  shall  be  reimbursed  to  the  Borrower  once 
+8 
+Appendix I 
+EB 2021/134/R.39/Rev.1 
+additional conditions precedent to the first disbursement of funds specified in 
+Section E.3 are fulfilled. 
+(c)  The contribution made in cash by the implementing agencies and beneficiaries 
+and other organizations shall be recorded as expenditure as incurred.  
+9 
+Appendix I 
+EB 2021/134/R.39/Rev.1 
+Negotiated project agreement: "Rural Enterprise 
+Acceleration Project (REAP)" 
+(Negotiations concluded on 03 December 2021) 
+Loan Number: ____________ 
+Project Title: Rural Enterprises Acceleration Project (“the Project”) 
+The State of Uttarakhand of the Republic of India (the “State”) acting by its Governor 
+and 
+The International Fund for Agricultural Development (the “Fund” or “IFAD”) 
+(each a “Party” and both of them collectively the “Parties”) 
+hereby agree as follows: 
+WHEREAS:  
+(A)  by the Financing Agreement (herewith the “Financing Agreement”) between the 
+Republic of India acting by its President (the “Borrower”) and the Fund, the Fund has agreed 
+to make available to the Borrower an amount of one hundred and five million United States 
+dollars  (USD  105,000,000)  for  the  purpose  of  partially  financing  the  Rural  Enterprises 
+Acceleration  Project  (the  “Project”),  on  the  condition  that  the  State  undertakes  its 
+obligations toward the Fund as are set forth in this Agreement; 
+(B)  by  a  Subsidiary  Agreement  to  be  entered  into  between  the  State  nodal 
+department (Department of Rural Development) and the Uttarakhand Gramya Vikas Samiti 
+(the “Lead Project Agency”), the proceeds of the Loan, as provided for under the Financing 
+Agreement and in the amount of one hundred and five million United States Dollars (USD 
+105,000,000),  shall  be  made  available  by  the  State  to  the  Lead  Project  Agency  for  the 
+purpose of implementing the Project on terms and conditions set forth therein; and 
+(C) 
+the State, in consideration of the Fund entering into the  Financing Agreement 
+with the Borrower, has agreed to undertake the obligations hereinafter set forth; 
+NOW THEREFORE, the parties hereto hereby agree as follows: 
+Section A 
+The  following  documents  collectively  form  this  Agreement:  this  document  and  the 
+1. 
+Financing Agreement. 
+2. 
+The  Fund’s  General  Conditions  for  Agricultural  Development  Financing  dated 
+29 April 2009 ,  amended  as  of  December  2020,  as may  be  amended  from  time  to  time 
+(the “General Conditions”) are annexed to this Agreement and all provisions thereof, with 
+the exceptions indicated in the Financing Agreement, shall apply to this Agreement.  
+3. 
+The State declares its commitment to the goal and objective of the Project as  set 
+forth in Schedule 1 of the Financing Agreement and accepts the obligations ascribed to it 
+in the Financing Agreement, as valid, binding obligations of the State to the Fund. 
+10 
+Appendix I 
+EB 2021/134/R.39/Rev.1 
+For  the  purposes  of  this  Agreement,  any  obligation  of  the  Borrower,  either 
+4. 
+independently or jointly with the Lead Project Agency/Project Parties to cause or ensure 
+the taking of or forbearance from taking certain actions, shall be deemed a direct obligation 
+of the State to the Fund to take or forbear from taking such actions or to cause or ensure 
+the taking of or forbearance from taking such actions.  
+5. 
+Any obligation of any Project Party or other implementing agency to take or forebear 
+from taking any actions, shall be deemed a direct obligation of the State to the Fund to 
+take or forebear from taking such actions. 
+Section B 
+1. 
+In accordance with the Financing Agreement  and the Preamble of this Agreement, 
+the State shall enter into a Subsidiary Agreement with the Lead Project Agency in form 
+and substance acceptable by the Fund. 
+The State shall duly perform all its obligations under the Financing Agreement, the 
+2. 
+Subsidiary Agreement, and this Agreement. The State shall cause the Lead Project Agency 
+to  perform  its  obligations  under  the  Project  and  under  the  Agreement  entered  into  to 
+implement the Project. 
+3. 
+As provided for in the Financing Agreement, the State shall provide funds including 
+its counterpart funds for implementing the project activities as per the approved Annual 
+Work Plan and Budget (AWPB) net of funds available with the LPA, and shall ensure that 
+under normal circumstances no budgetary cuts are imposed on the LPA.  
+4. 
+The  State,  shall  strive  to  undertake  proactive  measures  for  convergence  of 
+agriculture  and  allied  central  sector  schemes  and  other  Government  schemes,  for  an 
+amount  of  approximately  forty  eight  million  United  States  Dollars  (USD  48 000 000) 
+equivalent,  and  strive  to  ensure  contributions  from  beneficiaries  in  an  amount  of 
+approximately fourteen million one hundred eleven thousand United States Dollars (USD 
+14 111.000)  equivalent  to  achieve  the  project  development  objective.  In  addition,  the 
+State shall ensure that the LPA endeavour to mobilize one hundred and eighty six million 
+United States dollars (USD 186 000 000) equivalent from domestic financial institutions. 
+5. 
+The State shall cause the LPA to enter into contracts, with service providers including 
+for international technical assistance and administer the contracts as  per the provisions 
+contained therein. Contracts with the management consultancy facility and other technical 
+assistance shall include an Accountability Matrix. 
+Procurement.  The  State  shall  cause  the  LPA  to  undertake  procurement  of  goods, 
+6. 
+works  and  services  including  consultancy  services  under  the  Project,  financed  from  the 
+resources  provided  by  the  Fund,  in  accordance  with  IFAD  Procurement  Guidelines, 
+December  2019  and  IFAD  Procurement  Handbook,  as  amended  hereafter  from  time  to 
+time. IFAD review of procurement actions, thresholds for procurement methods shall be 
+as per the provisions of the Letter to the Borrower issued by the Fund and as amended 
+from time to time. 
+The  State  shall  ensure  that  the  accounts  of  the  Project  are  annually  audited  by  a 
+7. 
+private audit firm empanelled by the  Office of the Controller and Auditor General of the 
+State of Uttarakhand. The terms of reference for the external audit will be agreed with the 
+Fund; and the external audit will be conducted in accordance with the IFAD Handbook for 
+Financial  Reporting  and  Auditing  for  IFAD  financed  projects.  In  addition,  the  activities 
+covered  under  the  investment  grant  shall  be  subject  to  an  annual  operation  audit  by 
+independent audit firms. 
+11 
+Appendix I 
+EB 2021/134/R.39/Rev.1 
+In  addition,  the  State  shall  cause  the  LPA  to  establish  a  system  of  internal  audit, 
+8. 
+whereby a firm of Chartered Accountants will be engaged to conduct internal audit of the 
+Project  Management  Unit  of  the  LPA,  on  an  annual  basis  and  reports  to  Chief  Project 
+Director of the LPA. The arrangements for the internal audit will be further detailed in the 
+Project Implementation Manual.  
+9. 
+Accounting and Financial management. The PIU will maintain an accounting software 
+that  satisfies  National  Accounting  Standards  and  IFAD's  requirements.  Within  6 months 
+from the date of entry into force, the current accounting software TALLY would have been 
+customized  to  generate  reports  in  the  format  required  for  preparation  of  the  Project 
+Financial Statements.  
+10.  Monitoring and Evaluation. The State shall cause the LPA to develop a fully functional 
+monitoring and evaluation system within 12 months from entry into force, in compliance 
+with  IFAD  and  the  GoUK  requirements.  In  addition,  participatory  monitoring  will  be 
+conducted.  The  M&E  system  and  the  redressal  process  will  be  spelt  out  in  the  Project 
+Implementation Manual. 
+11. 
+In accordance with Section 12.01(a)(xxiii) of the General Conditions, the Fund may 
+suspend, in whole or in part, the right of the State, after consultation with the Borrower, 
+to request withdrawals from the Loan Account if the LPA has defaulted in the performance 
+of any covenant set forth below, and the Fund has determined that such default has had, 
+or is likely to have, a material adverse effect on the Project: 
+(a)  Compliance with the Social Environmental and Climate Assessment Procedures 
+(SECAP).  The  State  shall  cause  the  LPA  to  ensure  that  the  Project 
+Implementation  Manual  reflects  the  recommendations  of  the  SECAP  as  they 
+apply to the Project objectives and activities and as provided in Section II of 
+this Agreement.   
+(b)  Anticorruption  Measures.  The  State  shall  ensure  compliance  and  shall  cause 
+LPA to ensure compliance with IFAD Policy on Preventing Fraud and Corruption 
+in its Activities and Operations and shall ensure that the compliance provisions 
+are extended to the entities/organizations/parties and contractors.  
+(c)  Policy  on  Preventing  and  Responding  to  Sexual  Harassment  and  Exploitation 
+and  Abuse.  The  State  shall  cause  the  LPA  to  comply  with  IFAD  Policy  on 
+Preventing  and  Responding  to  Sexual  Harassment,  Sexual  Exploitation  and 
+Abuse and cause LPA to ensure that the compliance provisions are extended to 
+the 
+during 
+implementation of the Project. 
+entities/organizations/parties 
+contractors 
+engaged 
+and 
+(d)  Zero  tolerance  for  Child  Labour.  The  State  shall  cause  the  LPA  to  ensure 
+compliance with the State’s zero tolerance policy against child labour.  
+12.  Use of Project Vehicles and Other Equipment. The State shall ensure that: 
+(a)  all vehicles and other equipment procured under the Project are allocated to 
+the PMU and other Implementing Agencies for Project implementation; 
+(b)  The  types  of  vehicles  and  other  equipment  procured  under  the  Project  are 
+appropriate to the needs of the Project; and 
+(c)  All vehicles and other equipment transferred to or procured under the Project 
+are dedicated solely to Project use.  
+13. 
+IFAD  Client  Portal  (ICP)  Contract  Monitoring  Tool.  The  State  shall  ensure  that  a 
+request is sent to IFAD to access the Project procurement Contract Monitoring Tool in the 
+12 
+Appendix I 
+EB 2021/134/R.39/Rev.1 
+IFAD  Client  Portal  (ICP).  The  State  shall  ensure  that  all  contracts,  memoranda  of 
+understanding,  purchase  orders  and  related  payments  are  registered  in  the  Project 
+Procurement  Contract  Monitoring  Tool  in  the  IFAD  Client  Portal  (ICP)  in  relation  to  the 
+procurement of goods, works, services, consultancy, non-consulting services, community 
+contracts, grants and financing contracts. The State shall ensure that the contract data is 
+updated on a quarterly basis during the implementation of the Project.  
+14.  The  Key  Project  Personnel  are:  Project  Director,  Financial  Specialist,  Officer  for 
+Monitoring and Evaluation, Procurement Officer and Environment and Climate Assessment 
+Specialist.  
+SECAP Provisions  
+15.  The  State  shall,  and  shall  cause  the  LPA  to  carry  out  the  preparation,  design, 
+construction,  implementation,  and  operation  of  the  Project  in  accordance  with  the 
+measures  and  requirements  set  forth  in  the  Social,  Environmental  Climate  Assessment 
+Procedures  of  IFAD  (“SECAP  2017  Edition”),  as  well  as  with  all  applicable  laws  and 
+regulations  to  the  Borrower  and/or  the  sub-national  entities  relating  to  social, 
+environmental and climate change issues in a manner and substance satisfactory to IFAD. 
+The State shall not amend, vary or waive any provision of the SECAP 2017 Edition, unless 
+agreed  in  writing  by  the  Fund  in  the  Financing  Agreement  and/or  in  the  Management 
+Plan(s), if any. 
+forth 
+16.  For projects presenting Category A  social and environmental risks, the  State shall 
+carry  out  the  implementation  of  the  Project  in  accordance  with  the  measures  and 
+in  the  Environmental  and  Social  Impact  Assessments 
+requirements  set 
+(ESIAs)/Environmental and Social Management Frameworks (ESMFs) and/or Resettlement 
+Action  Plans/Frameworks  (RAPs/Fs)  and  Environmental  and  Social  Management  Plans 
+(ESMPs) for Category A projects and Free, Prior and Informed Consent (FPIC) Plans, FPIC 
+Implementation  Plans,  Indigenous  Peoples  Plans  (IPPs),  Pesticide  Management  Plans, 
+Cultural  Resources  Management  Plans  and  Chance  Finds  Plans]  (the  “Management 
+Plan(s)”), as applicable, taken in accordance with SECAP requirements and updated from 
+time to time by the Fund.   
+The State shall not amend, vary or waive any provision of the ESMPs and Management 
+Plan(s), unless agreed in writing by the Fund and if the State has complied with the same 
+requirements as applicable to the original adoption of the ESMPs.  
+17.  The State shall cause the LPA to comply at all times while carrying out the Project 
+with the standards, measures and requirements set forth in the SECAP 2017 Edition and 
+the Management Plan(s), if any. 
+18.  The  State  shall  cause  the  LPA  to  disclose  the  draft  and  final  ESIA  reports  and  all 
+other relevant Management Plan(s) with Project stakeholders and interested parties in an 
+accessible place in the Project -affected area, in a form and language understandable to 
+Project  affected persons and other stakeholders. The disclosure will take into account any 
+specific information needs of the community (e.g. culture, disability, literacy, mobility or 
+gender). 
+19.  The State will ensure that a project -level grievance mechanism is established that 
+is easily accessible, culturally appropriate, available in local languages, and scaled to the 
+nature of the Project’s activity and its potential impacts to promptly receive and resolve 
+concerns and complaints (e.g. compensation, relocation or livelihood restoration) related 
+to the environmental and social performance of the Project for people who may be unduly 
+and adversely affected or potentially harmed if the Project fails to meet the SECAP related 
+policies. The Project  -level grievance mechanism needs to take into account indigenous 
+13 
+Appendix I 
+EB 2021/134/R.39/Rev.1 
+peoples, customary laws and dispute resolution processes. Traditional or informal dispute 
+mechanisms of affected indigenous peoples should be used to the greatest extent possible.  
+20.  The  State  shall  take  appropriate  and  necessary  actions  to  implement  the  agreed 
+actions resulting out of the Mid Term Review and the annual Supervision Missions. 
+21.  The State shall nominate and confirm to the Fund in writing, the independent and 
+competent authority responsible for receiving, reviewing and investigating allegations of 
+fraud and corruption initially and all further changes/revisions to the nominated authority. 
+22.  This Agreement shall come into force and effect on the date upon which the Financing 
+Agreement  enters  into  force.  It  shall  terminate  on  the  date  on  which  the  Financing 
+Agreement terminates. 
+Section C 
+The  following  are  the  designated  representatives  and  addresses  to  be  used  for  any 
+communication related to this Agreement: 
+For the State: 
+Chief Secretary 
+Government of Uttarakhand 
+Dehradun 
+For the Fund: 
+The President 
+International Fund for Agricultural Development 
+Via Paolo di Dono 44 
+00142 Rome, Italy 
+This Agreement has been prepared in the  English language in three (3) original copies, 
+one (1) for the Fund, one (1) for the State and one (1) for the Borrower. 
+STATE OF UTTARAKHAND 
+[Authorized Representative] 
+Dated:  
+14 
+Appendix I 
+EB 2021/134/R.39/Rev.1 
+INTERNATIONAL FUND FOR 
+AGRICULTURAL DEVELOPMENT 
+President 
+15 
+Logical framework 
+Results Hierarchy 
+Outreach 
+Indicators 
+Name 
+Baseline  Mid-Term 
+End Target 
+Source 
+Frequency 
+Responsibility 
+Means of Verification 
+Assumptions 
+1 Persons receiving services promoted or supported by the project 
+Males - Males 
+Project 
+monitoring 
+Quarterly 
+PMU/DPMU 
+Females - Females 
+Young - Young people 
+Indigenous people6 
+Total number of persons receiving services - 
+Number of people 
+240000 
+264000 
+ 56000 
+480000 
+336000 
+403200 
+ 117600 
+672000 
+1.b Estimated corresponding total number of households members 
+Household members - Number of people 
+1960000 
+2744000 
+1.a Corresponding number of households reached 
+Women-headed households - Households 
+Non-women-headed households - Households 
+Households - Households 
+400000 
+560000 
+Project 
+monitoring 
+Project 
+monitoring 
+Quarterly 
+PMU/DPMU 
+Quarterly 
+PMU/DPMU 
+1
+6
+Project Goal 
+Contribute to the doubling of 
+income of rural households 
+and reduce distress rural out 
+migration 
+Percentage of households reporting increase in income by 35% above baseline  
+Households - Percentage (%) 
+25 
+Percentage of returnee migrants supported  
+Households - Percentage (%) 
+15 
+Impact 
+Assessment 
+Impact 
+Assessment 
+70 
+30 
+At baseline, 
+midterm and 
+completion 
+At baseline, 
+midterm and 
+completion 
+PMU 
+PMU 
+Development Objective 
+To build resilience of rural 
+households by diversifying 
+their sources of income 
+through intensified cluster 
+based climate resilient 
+production systems, promotion 
+of farm and off-farm 
+enterprises and creating a 
+supportive ecosystem 
+Outcome 
+Agriculture production of rural 
+households intensified and 
+farm ,off-farm and non farm 
+enterprise promoted, 
+employment opportunities 
+created 
+3.2.2 Households reporting adoption of environmentally sustainable and climate-resilient 
+technologies and practices 
+Total number of household members - Number of 
+people 
+Households - Percentage (%) 
+Women-headed households - Households 
+20 
+50 
+Households - Households 
+Percentage of rural enterprises reporting increases in income 
+Households - Percentage (%) 
+25 
+70 
+SF.2.1 Households satisfied with project-supported services 
+Household members - Number of people 
+Indigenous households - Households 
+Women-headed households - Households 
+Households (%) - Percentage (%) 
+Impact 
+Assessment 
+At baseline, 
+midterm and 
+completion 
+PMU 
+At baseline, 
+midterm and 
+completion 
+Annual  
+PMU 
+PMU 
+Impact 
+Assessment 
+Annual 
+Outcome 
+Survey 
+6 ST and SC households are included in the indigenous people disaggregated data. 
+Project 
+implementation 
+undertaken without 
+delay and with 
+adequate release 
+of financial 
+resources 
+Sustained 
+Government 
+policies in favour of 
+rural income 
+enhancement with 
+improved terms of 
+trade for rural 
+producers 
+Government’s 
+infrastructure and 
+other development 
+efforts converge 
+with this project 
+activities. 
+Adequate capacity 
+is built within 
+UGVS to address 
+the needs of 
+Producer 
+Organizations and 
+rural entrepreneurs 
+and extreme 
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+2
+1
+/
+1
+3
+4
+/
+R
+.
+3
+9
+/
+R
+e
+v
+.
+1
+Households (number) - Households 
+SF.2.2 Households reporting they can influence decision-making of local authorities and 
+project-supported service providers 
+Household members - Number of people 
+Indigenous households - Households 
+Annual 
+Outcome 
+Survey 
+Annual  
+PMU 
+climatic events do 
+not disrupt 
+agriculture 
+production, 
+Women-headed households - Households 
+Households (number) - Households 
+Percentage of new or improved rural producers’ organization members reporting services 
+provided by the organization 
+Members RPOs - Percentage (%) 
+50 
+90 
+Percentage of households reporting increase in marketable volumes 
+Households - Percentage (%) 
+Output 
+Cluster based agricultural 
+production supported  
+% increase in members under cluster based production 
+Increase in hectares - Percentage (%) 
+20 
+20 
+60 
+40 
+No. of farm households trained in climate adaptive production practices and/ or 
+technologies 
+No. of farm households - Households 
+100000 
+400000 
+1.1.3 Rural producers accessing production inputs and/or technological packages  
+Males - Males 
+Females - Females 
+Young - Young people 
+Indigenous people - Indigenous people 
+1
+7
+Annual 
+Outcome 
+Survey 
+Annual 
+Outcome 
+Survey 
+Project 
+Monitoring 
+Project 
+Monitoring 
+Project 
+Monitoring 
+Annual 
+PMU 
+Annual 
+PMU 
+Quarterly 
+PMU/DPMU 
+Quarterly 
+PMU/DPMU 
+Quarterly 
+PMU 
+Total rural producers - Number of people 
+100000 
+250000 
+No. of ultra- poor households supported with Income generating activities  
+Males - Number 
+Project 
+Monitoring 
+Quarterly 
+PMU/DPMU 
+Females - Number 
+Households - Number 
+6000 
+10000 
+2.1.1 Rural enterprises accessing business development services  
+Size of enterprises - Enterprises 
+Rural enterprises - Enterprises 
+10000 
+35000 
+Project 
+Monitoring 
+Quarterly 
+PMU/DPMU 
+Women in leadership position - Females 
+No. of self employed enterprises established through skills training, apprenticeships and 
+value chain entrepreneurship 
+No. self employed enterprises - Number 
+23000 
+50000 
+Percentage of Rural producer organisations (CLFs, LCs, FPOs) financially profitable and 
+sustainable 
+% Rural POs - Percentage (%) 
+25 
+80 
+Quarterly 
+PMU/DPMU 
+Baseline; 
+Completion 
+PMU 
+Project 
+Monitoring 
+Annual 
+outcome 
+surveys and 
+evaluation 
+studies  
+Output 
+Farm, Off-farm and non-farm 
+Rural MSMEs promoted with 
+linkages to BDS and technical 
+and marketing services 
+Outcome 
+Capacity for CBOs and 
+partnerships strengthened 
+Sustainable and 
+qualified business 
+service providers 
+are available to 
+provide access to 
+services 
+Sustainable and 
+qualified business 
+service providers 
+are available to 
+provide access to 
+services  
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+2
+1
+/
+1
+3
+4
+/
+R
+.
+3
+9
+/
+R
+e
+v
+.
+1
+Output 
+Supportive institutional 
+structures strengthened 
+2.1.3 Rural producers’ organizations supported 
+Total size of POs - Organizations 
+Project 
+Monitoring 
+Quarterly 
+PMU/DPMU 
+Rural POs supported - Organizations 
+696 
+696 
+Males - Males 
+Females - Females 
+Young - Young people 
+Indigenous people - Indigenous people 
+No. of farmers, women and youth trained in business and marketing 
+No. of farmers - Number of people 
+5000 
+Project 
+Monitoring 
+15000 
+Quarterly 
+PMU/DPMU 
+youth - Number of people 
+Women - Number of people 
+No of youth supported through Rural incubation programme 
+Young - Young people 
+400 
+1000 
+No. of productive partnerships established with private sector partners by FPOs 
+No. of partnerships - Number 
+50 
+Percentage of multi stake holder platforms performing effectively  
+% of platforms performing effectively - 
+Percentage (%) 
+40 
+1.2.6 Partner financial service providers with portfolio-at-risk ≥30 days below 5% 
+Percentage - Percentage (%) 
+90 
+130 
+90 
+90 
+Project 
+monitoring 
+Project 
+Monitoring 
+Project 
+Monitoring 
+Quarterly 
+PMU/DPMU 
+Quarterly 
+PMU/DPMU 
+Quarterly 
+PMU/DPMU 
+Project 
+Monitoring 
+Mid-Term; 
+Completion 
+PMU/DPMU 
+Outcome 
+Conducive enterprise 
+promotion ecosystem 
+promoted 
+1
+8
+Output 
+Support service established 
+No. of growth centres established or strengthened 
+No. of growth centres - Number 
+100 
+300 
+Project 
+Monitoring 
+Quarterly 
+PMU/DPMU 
+Rural Producers 
+organization and 
+Producer Groups 
+able to manage 
+production, value 
+addition and 
+marketing activities 
+efficiently and rural 
+entrepreneurs able 
+to access efficient 
+BDS, credit, 
+technical and 
+marketing services 
+Adequate interest 
+exists within the 
+community to 
+create growth 
+nodes for 
+accessing 
+sustainable 
+services  
+Adequate interest 
+exists within the 
+community to 
+create growth 
+nodes for 
+accessing 
+sustainable 
+services 
+Banks remain 
+interested to lend 
+to SHGs/ PGs and 
+livelihood 
+collectives with 
+facilitation from 
+UPASAC and 
+SRLM 
+Output 
+Policy products completed 
+Output 
+Financial services extended 
+Number of policy-relevant knowledge products completed 
+No. of policy - Number 
+Number of MOUs with financial institutions 
+No of MoUs - Number 
+4 
+4 
+Project 
+monitoring 
+Project 
+Monitoring 
+6 
+8 
+Number/% of SHGs/ PGs and livelihood collectives/FPOs with bank loans 
+Quarterly 
+PMU/DPMU 
+Quarterly 
+PMU/DPMU 
+Quarterly 
+PMU/DPMU 
+Banks remain 
+interested to lend 
+to SHGs/ PGs and 
+livelihood 
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+2
+1
+/
+1
+3
+4
+/
+R
+.
+3
+9
+/
+R
+e
+v
+.
+1
+No, of SHGs/ PGs - Number 
+% of SHGs/ PGs - Percentage (%) 
+30000 
+50000 
+Number of micro and small enterprises availing bank credit  
+No. of enterprises - Number 
+5000 
+10000 
+Project 
+Monitoring 
+Project 
+Monitoring 
+Quarterly 
+PMU/DPMU 
+collectives with 
+facilitation from 
+UPASAC and 
+SRLM 
+Financial 
+institutions remain 
+interested to lend 
+to enterprises  
+1
+9
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+2
+1
+/
+1
+3
+4
+/
+R
+.
+3
+9
+/
+R
+e
+v
+.
+1
+Appendix III                 
+EB 2021/134/R.39/Rev.1  
+Integrated project risk matrix 
+Country Context 
+Political Commitment 
+Risk:  
+The risk is moderate, primarily owing to the fact that the State 
+Government is due for elections next year.  
+Mitigations:  
+India is a stable democracy. No major political risks are perceived 
+that may affect the project. The Govt of Uttarakhand has provided 
+necessary clearances and a Cabinet Approval is in process.  
+Governance 
+Risk:  
+The risk is low. India is a union of States with a constitutional 
+distribution of powers between the Centre and the State 
+Governments. A 2019 Report on Good Governance Index (GGI) has 
+placed Uttarakhand as 2nd among 11 North Eastern and Hill States 
+of India. 
+Mitigations:  
+No major interventions needed from the project. 
+Macroeconomic 
+Risk:  
+The present inflation rate is low. State finances are partially affected 
+by the burden of the pandemic and economic slowdown, where 
+lockdowns are still implemented to contain the spread of the 
+Covid19.  
+Mitigations:  
+Macroeconomic risks, especially risks of insufficient counterpart 
+funding by the state are low and unlikely to compromise the 
+achievement of the project’s development outcomes. The project is 
+focused on diversification of income of poor HHs and will mitigate 
+adverse impacts of macroeconomic factors at HH level.  
+Fragility and Security 
+Risk:  
+No significant issues of fragility and security in the state.  
+Mitigations:  
+Moderate  Low 
+Moderate  Low 
+Moderate  Low 
+Low 
+Low 
+Low 
+Low 
+Moderate  Low 
+Moderate  Low 
+Low 
+Low 
+Low 
+Low 
+20 
+Appendix III                 
+EB 2021/134/R.39/Rev.1  
+No interventions needed.  
+Sector Strategies and Policies 
+Policy alignment 
+Risk:  
+Conducive policy environment exists for the project focus areas. In 
+particular issues related to commercialisation of agriculture, 
+formation of FPOs, contract farming and promotion of youth 
+enterprises will be aligned with existing government strategies, 
+policies and schemes.  
+Mitigations:  
+Moderate  Low 
+Low 
+Low 
+Low 
+Low 
+The project will be aligned to the Government schemes & strategies.  
+Policy Development and Implementation 
+Risk:  
+Moderate  Low 
+The risk is moderate. While the project will be fully aligned to 
+sectoral policies related to agriculture, youth and MSME, some of 
+the Agriculture related policies of the Government are currently on 
+hold (eg Contract farming). 
+Moderate  Low 
+Mitigations:  
+The project will also undertake policy engagement related to: (i) 
+youth employment and the scaling up of the youth incubation 
+schemes, (ii) development of a road map for SHG graduation to 
+FPOs including a value chain orientation, and (iii) up-scaling a 
+training programme on group business management and marketing 
+to support cooperative and FPO development. 
+Environment and Climate Context 
+Project vulnerability to environmental conditions 
+Risk:  
+Direct environmental risks and impacts are considered moderate. 
+The Project will not support land use changes that will affect forests, 
+protected areas, important bird habitats, and will not clear 
+contiguous area of above 100ha in a single location. Project 
+activities to be implemented in mountainous areas will likely be 
+prone to erosion, whereas projects located in the plains will likely be 
+susceptible to pollution from runoff from floods.  
+Mitigations:  
+The project will not intervene in environmentally sensitive areas. 
+Site-specific environmental mitigation measures will include erosion 
+21 
+Substantial Moderate 
+Moderate  Low 
+Moderate  Low 
+Appendix III                 
+EB 2021/134/R.39/Rev.1  
+control measures, soil and water conservation, environmentally 
+friendly and climate-resilient production and processing systems, 
+including promoting climate smart agriculture practices and natural 
+resources-based livelihood options that have positive impact on the 
+environment. 
+Project vulnerability to climate change impacts 
+Risk:  
+High 
+Moderate 
+Prolonged periods of drought combined with rainfall variability may 
+have impact on water availability, increase in crop-water demand, 
+emergence of new pests and reduced availability of feed and fodder. 
+High 
+Moderate 
+Mitigations:  
+Building on the successes of ILSP, the project will promote flood 
+and erosion control measures while introducing climate adaptation 
+interventions such as drought tolerant crops, agro-forestry, soil and 
+water conservation measures and livelihood diversification activities 
+that will significantly reduce the risk. Selection of value chains will 
+take into consideration the changing weather patterns, erratic rainfall 
+and prolonged droughts. 
+Project Scope 
+Project Relevance 
+Risk:  
+The project scope is within the Government policies and the 
+mandate of the Line Department.  
+Mitigations:  
+The project has a robust governance system to ensure the project 
+alignment with state policies and continued relevance. There is a 
+high level of interest in the project within the government which 
+was reflected in the full ownership of the project design process 
+from the highest levels within the state government and the 
+concerned Line Department. 
+Technical Soundness 
+Risk:  
+The project envisages working across different sectors and 
+geography (plain and hilly districts) – an approach that has its set of 
+inherent complexities. Most of the ideas promoted through the 
+project have been tried and tested in various projects. 
+Mitigations:  
+Moderate  Low 
+Low 
+Low 
+Low 
+Low 
+Moderate  Low 
+Moderate  Low 
+22 
+Appendix III                 
+EB 2021/134/R.39/Rev.1  
+REAP will cover the full state which means all 13 districts and 95 
+Community Development Blocks (CDBs). This is a significant 
+expansion from the coverage under ILSP, which was implemented 
+in 11 districts but only 44 CDBs. This expansion will be done 
+through partnership with USRLM, which is also being implemented 
+by the RDD, the lead Department implementing REAP. This will 
+ensure full co-ordination at all levels. The two new plains districts 
+being included for the first time, will be critical for providing access 
+to wider markets.  
+ILSP’s experience of working in the agricultural sector will reduce 
+risks in interventions in cluster-based agribusiness development; 
+however, experience in adopting the value chain approach and non-
+farm sector initiatives is nascent. To mitigate potential risks, the 
+project has planned multiple trainings and technical assistance for 
+UGVS and LCs/CLF on enterprise development, value chain 
+development, and financial services and will be implemented in 
+convergence with the Government of Uttarakhand. Besides, the 
+project will launch smaller and less risky value chains in the initial 
+years of the project, and after successful completion, will move to 
+larger and complex value chains.  
+Institutional Capacity for Implementation and Sustainability 
+Implementation Arrangements 
+Risk:  
+The lead implementing agency (UGVS) has previous experience of 
+implementing IFAD supported project in the state. The agency has a 
+team of qualified and experienced staff. The key challenge is to 
+implement sustainable enterprise development and fee-for-services 
+which requires intense networking and liaison with the government 
+and the private sector.  
+Mitigations:  
+To mitigate these risks, UGVS under the project will have dedicated 
+PMU and additional trained staff members in all districts. Through 
+the project, UGVS will seek help of sector experts in designing 
+value chain subprojects. Moreover, the project will enhance its 
+institutional capacity through targeted trainings and exposures. The 
+project will engage competent Project Management Consultants to 
+support the project in business incubation and start ups and 
+enterprise promotion. 
+Monitoring and Evaluation Arrangements 
+Risk:  
+23 
+Moderate  Low 
+Moderate  Low 
+Moderate  Low 
+Low 
+Low 
+Low 
+Low 
+Appendix III                 
+EB 2021/134/R.39/Rev.1  
+The Lead Implementing Agency has instituted a very robust MIS 
+and M&E system. Under the new project the key challenge will be 
+to expand this system to cover the various value chains across 
+various sectors. 
+Mitigations:  
+Management Information system will be strengthened to cover new 
+elements of the project including value chains. Also the M&E 
+system will be participatory and decentralized involving key target 
+groups in identification of project activities and monitoring 
+implementation of project. This will in-turn ensure sustainability of 
+project interventions. 
+Project Financial Management 
+Project Organization and Staffing 
+Risk:  
+Except the Director (Finance), the other finance and accounting staff 
+will be appointed on contract from the open market initially for a 
+period of 3 years with performance review at the end of ever year. 
+The quality of staff will determine the quality of FM. 
+Mitigations:  
+• Adequate and trained finance staff with clear job description and 
+accountability lines;  
+• Customized, user-friendly software and PIM.  
+Project Budgeting 
+Risk:  
+Preparation of timely budgets incorporating the proposed 
+expenditure by components, categories and financiers. 
+Mitigations:  
+• To ensure proper process of preparation of AWPB using the 
+bottom-up approach and regular review of the  
+physical and financial progress;  
+• Regularly track the achievement with the budget and report on 
+quarterly basis.  
+Project Funds Flow/Disbursement Arrangements 
+Risk:  
+The AWPB of the project is built into the State Budget and funds 
+released from the Treasury in a timely manner to meet the 
+implementation needs of the project. 
+24 
+Substantial Moderate 
+Substantial Moderate 
+Substantial Moderate 
+Moderate  Low 
+Moderate  Low 
+Moderate  Moderate 
+Moderate  Moderate 
+Appendix III                 
+EB 2021/134/R.39/Rev.1  
+Mitigations:  
+• Ensure timely release of budget for project activities in accordance 
+with the AWPB. 
+Project Internal Controls 
+Risk:  
+Effective internal control systems which are currently lacking as 
+reported by the auditor of ILSP.  
+Having an effective internal audit system with quarterly reports and 
+compliances.  
+Mitigations:  
+• Segregation of fiduciary -sensitive duties;  
+• Periodic reconciliations;  
+• Restricting access to accounting files and documents;  
+• Periodic count of inventories and fixed assets;  
+• Having an effective system of internal audit to be conducted 
+quarterly.  
+Project Accounting and Financial Reporting 
+Risk:  
+Use of accounting software (customized) to record transactions to 
+generate reports by components, categories and financiers, 
+comparison with the budgets and preparation of the quarterly IUFR 
+for submission along with the WA. 
+Mitigations:  
+• Accountant will need to be proficient in the use of the accounting 
+software;  
+• Back-up of accounting records;  
+• Use of register of fixed assets;  
+• Project Implementation Manual (PIM) to detail reporting and 
+monitoring requirements and rules;  
+• Use of financial statements templates consistent with IFAD 
+reporting requirements.  
+Project External Audit 
+Risk:  
+Timely appointment of an independent auditor and submission of 
+audit report (complete- as per IFADs requirements) within the 
+stipulated time of six months from the end of the fiscal year 
+Mitigations:  
+Substantial Moderate 
+Substantial Moderate 
+Substantial Moderate 
+Substantial Moderate 
+Moderate  Low 
+Moderate  Low 
+25 
+Appendix III                 
+EB 2021/134/R.39/Rev.1  
+Substantial Moderate 
+Substantial Moderate 
+Substantial Moderate 
+Substantial Moderate 
+Substantial Moderate 
+• The auditor will be a CAG empanelled firm of Chartered 
+Accountants;  
+• Ensure reporting as required by IFAD Guidelines;  
+• Prompt implementation of auditor’s recommendations.  
+Project Procurement 
+Legal and Regulatory Framework 
+Risk:  
+The risk that the Borrower’s regulatory and institutional capacity 
+and practices (including compliance with the laws) are inadequate to 
+conduct the procurement in a manner that optimizes value for 
+money with integrity. The risk is substantial. The State Framework, 
+Uttarakhand Procurement Rules (UPR) is not fully consistent with 
+IFAD Procurement Guidelines. Procurement related complaints 
+redressal are addressed through existing legal provisions and 
+General Financial Rules, which are lengthy and layered. No 
+Standard Bid Documents prescribed under UPR. Compliance with 
+IFAD Procurement norms will be needed.  
+Mitigations:  
+The project design suggests the project procurement follows the 
+IFAD Procurement Guidelines and Procurement Handbook. Project 
+will be familiarised with IFAD Procurement Guidelines and 
+Handbook and IFAD prior review thresholds 
+Accountability and Transparency 
+Risk:  
+The risk that accountability, transparency and oversight 
+arrangements (including the handling of complaints regarding, for 
+example, SH/SEA and fraud and corruption) are inadequate to 
+safeguard the integrity of project procurement and contract 
+execution, leading to the unintended use of funds, misprocurement, 
+SH/SEA, and/or execution of project procurements outside of the 
+required time, cost and quality requirements. The project will have 
+decentralized implementation and procurement. There is risk of 
+noncompliance with agreed procurement arrangements.  
+Mitigations:  
+Several mitigation measures are proposed: 1) PMU will have overall 
+Procurement responsibility and accountability; 2)a robust two-tiered 
+complaint handling mechanism will be put in place at the LPA. The 
+complaint handling authority, the form of complaint register, 
+response time, decision-making mechanism, and other features will 
+be outlined in detail in the PIM; In addition, the State Government 
+26 
+Appendix III                 
+EB 2021/134/R.39/Rev.1  
+will also designate an independent investigative authority 3) IFAD 
+will conduct implementation support missions to review the 
+procurement performance of the project. All contracts not covered 
+under prior review by IFAD will be subject to post review during 
+the implementation support missions and/or special post-review 
+missions along with a sample of prior reviewed procurement 
+actions; 4) for activities at community level, annual PPR for an 
+appropriate percentage of contracts shall be conducted by IFAD. In 
+addition Audits will also be conducted. 
+Capability in Public Procurement 
+Risk:  
+The risk that the implementing agency does not have sound 
+processes, procedures, systems and personnel in place for the 
+administration, supervision and management of contracts resulting 
+in adverse impacts to the development outcomes of the project. The 
+risk is moderate as the REAP Implementing agency is familiar with 
+the IFAD procurement procedures and norms, but not conversant 
+with the revised risk based approach.  
+Mitigations:  
+Mitigation measures include: 1) appropriate qualified procurement 
+staffing at SPMU and DPMU level; 2) strengthening and capacity 
+building of staff at State level and partners. 3) Guidelines for 
+investment grants evaluation procedures will be put in place; 4) 
+Engagement of resource persons in the evaluation process for 
+technical advice.  
+Public Procurement Processes 
+Risk:  
+The risk that procurement processes and market structures (methods, 
+planning, bidding, contract award and contract management) are 
+inefficient and/or anti-competitive, resulting in the misuse of project 
+funds or sub-optimal implementation of the project and achievement 
+of its objectives.It is assessed that highly decentralized project 
+implementation and absence of qualified procurement staff may 
+result in delays in procurement and contract management processes  
+Mitigations:  
+REAP PMU will setup a Procurement Unit to handle procurements 
+and contract management as per IFAD regulations. 2)IFAD will 
+inform the recommended thresholds for procurement and also IFAD 
+prior review thresholds through LtB; 3) the PIM will specify the 
+delegation and procurement implementation arrangements; 4) all 
+procurement activities at SPMU and DPMU level including 
+27 
+Substantial Moderate 
+Substantial Moderate 
+Substantial Moderate 
+Substantial Moderate 
+Appendix III                 
+EB 2021/134/R.39/Rev.1  
+investment grants to communities to be included in procurement 
+plan and no objected by IFAD. 5) Mandatory adoption of IFAD 
+Standard Bid Documents, evaluation templates and contract 
+monitoring and reporting through IFAD ICP portal; 6) All exception 
+reporting will be informed to the Project Oversight Committee 7) all 
+records from procurement planning to contract completion and 
+procurement complaints shall be retained in a chronological order 
+and made available as and when requested by IFAD. 
+Environment, Social and Climate Impact 
+Biodiversity Conservation 
+Risk:  
+The nature and magnitude of project activities will not entail 
+conversion of critical or natural habitat for agricultural land use or 
+promote unstainable harvesting of Non-Timber Forest Products 
+(NTFP) that might lead to biodiversity loss or cause significant 
+threat to availability of ecosystem services. 
+Mitigations:  
+Building on successes of ILSP and convergence with government 
+programs on watershed and biodiversity management, selection and 
+siting of project activities will avoid protected and forested areas. 
+Resource Efficiency and Pollution Prevention 
+Risk:  
+Pollution of soil and water due to the use of agro-chemicals for 
+crops and generation of manure from livestock is moderate. 
+Mitigations:  
+To minimise soil and water pollution, site-specific Environmental 
+and Social Management Plan (ESMP) will include an Integrated 
+Pest Management Plan to guide on the application, storage, handling 
+and disposal of agro-chemicals and waste management practices. 
+The use of drip and sprinkler irrigation systems and climate smart 
+agriculture practices, will promote efficient use of resources 
+particularly water. 
+Cultural Heritage 
+Risk:  
+The state consists of several pilgrimage sites and places of religious 
+prominence including sacred water sources. 
+Mitigations:  
+Moderate  Low 
+Low 
+Low 
+Low 
+Low 
+Moderate  Low 
+Moderate  Low 
+Moderate  Low 
+Moderate  Low 
+28 
+Appendix III                 
+EB 2021/134/R.39/Rev.1  
+The Project will not have impacts on Indigenous Peoples, resource 
+degradation of project areas or sites of historic, religious or cultural 
+significance. The project activities are not expected to have any 
+adverse impact and mitigation measures will include Chance Find 
+Procedure included in the ESMP 
+Indigenous People 
+Risk:  
+Low 
+Low 
+Scheduled Tribes (STs) constitutes 3 % of the total population of the 
+state and 91% of STs population reside in rural areas. There are no 
+significant risks specific to STs.  
+Low 
+Low 
+Mitigations:  
+Moderate  Low 
+Moderate  Low 
+The project targeting strategy which will have relevant tools of 
+ensuring that the poorest and most vulnerable including STs are 
+benefiting from project activities and VPGs will ensure that those 
+most vulnerable are not left out. Both, under USRLM and ILSP, the 
+ST communities have been mobilised under various groups. REAP 
+will ensure that project interventions are dovetailed with the Tribal 
+Development Sub Plan where applicable to bring the benefit of 
+government schemes to add to the project interventions for the ST 
+communities.  
+Labour and Working Conditions 
+Risk:  
+Women could be adversely impacted and their workload can 
+increase due to their participation in project activities as women in 
+Uttarakhand are already overburdened and heavily involved in both 
+household and agriculture activities. There is some risk of children, 
+especially young girls being involved more in household level work 
+and use of child labour in the community livelihood activities  
+Mitigations:  
+The project will promote modern and women friendly production 
+technology and drudgery reduction tools and equipment. Alternative 
+livelihoods promoted under the project may offer women and young 
+persons less labour intensive alternatives.  
+The project will develop a guideline to address the potential risks of 
+child labour and ensure that all service providers’, rural institutions 
+developed and strengthened under the project activities and 
+management committees are oriented properly on prevention of 
+child labour laws. The project will follow Government of India’s 
+guidelines on curbing child labour and any third party contract under 
+the project with suppliers, procurers and service providers will have 
+29 
+Appendix III                 
+EB 2021/134/R.39/Rev.1  
+no child labour clause. The site-specific Environmental and Social 
+Management Plan (ESMP) will include Health and Safety practices 
+to guide SMES  
+Community Health and Safety 
+Risk:  
+Risks related to health and safety of communities due to disease 
+transmission particularly of COVID-19 is significant.  
+The risk of continued outbreaks of COVID-19 could result in a 
+further influx of returnee migrants which could have a potential 
+impact on project start-up and implementation.  
+Mitigations:  
+The GoUK has put in place Standard Operating Procedures for the 
+control and management of Covid-19 pandemic and has been among 
+the better managed states in the country. Additionally, the project 
+will develop Community Health and Safety guidelines, knowledge 
+products and implement campaigns that build awareness and 
+capacity among the project communities on safety and hygiene 
+practices in the context of the ongoing pandemic and proposed 
+project interventions and all project activities will strictly follow 
+Government of Uttarakhand COVID-19 related policies and 
+safeguards. 
+Whilst start up could be impacted REAP will mitigate the risk by 
+prioritizing activities that could be conducted remotely. Staff 
+recruitment, engagement of service providers and initial trainings 
+and related activities of the project are not likely to be adversely 
+impacted.  
+Physical and Economic Resettlement 
+N/A 
+Greenhouse Gas Emissions 
+Risk:  
+High 
+Moderate 
+High 
+Moderate 
+No risk 
+envisaged - 
+not 
+applicable 
+Moderate  Low 
+Emission of greenhouse gases (GHG) from project activities such as 
+farm mechanization and agro-processing facilities is considered low 
+and likely to be less than emissions without the project activities.  
+Moderate  Low 
+Mitigations:  
+The Project will promote the use of renewable energy for farm 
+mechanization and agro-processing activities. Site-specific 
+30 
+Appendix III                 
+EB 2021/134/R.39/Rev.1  
+Moderate  Low 
+Moderate  Low 
+Moderate  Moderate 
+Moderate  Moderate 
+Moderate  Moderate 
+Environmental and Social Management Plan (ESMP) will include 
+guidance for establishing environmental and social management 
+systems for SMES including capacity building on Good Agricultural 
+Practices and environmentally friendly production systems.  
+Vulnerability of target populations and ecosystems to climate 
+variability and hazards 
+Risk:  
+Increase in temperature combined with rainfall variability may have 
+impact on water availability, increase in crop-water demand (due to 
+increased evapotranspiration), emergence of new pests and reduced 
+availability of feed and fodder. 
+Mitigations:  
+REAP will promote flood and erosion control measures while 
+introducing climate adaptation interventions such as drought tolerant 
+crops, agro-forestry, soil and water conservation measures and 
+livelihood diversification activities. Selection of value chains will 
+take into consideration the changing weather patterns, erratic rainfall 
+and prolonged droughts. 
+Stakeholders 
+Stakeholder Engagement/Coordination 
+Risk:  
+The risk is primarily related to engagement of private sector, 
+technical institutions and banks. 
+Mitigations:  
+Banks and financial institutions will be major partners in the project. 
+RDD has on-going relations with multiple banks which will be 
+further strengthened. The SHG/PGs/livelihood collectives -Bank 
+Linkage programme will have some initial challenges. Piloting of 
+innovative financial products for enterprises is also proposed. 
+Convergence with other government schemes including USRLM is 
+also proposed under the project and a pro-poor financial inclusion 
+approach will be followed. The project will develop a detailed 
+targeting strategy and targeting action plan so that the client base is 
+expanded to ensure that women, youth, SCs, STs are included.  
+For the risk of low performance by technical/training service 
+providers the project will ensure proper due diligence before 
+selecting partners and build risk mitigating mechanisms (financial / 
+performance bank guarantees) into contracts. ILSP has also set up a 
+system for performance assessment of Technical Agency partner 
+which will be used.  
+For mitigating the risk of low mobilization of private sector the 
+31 
+Appendix III                 
+EB 2021/134/R.39/Rev.1  
+Moderate  Low 
+Moderate  Low 
+project proposes setting up multi stakeholder platforms and also 
+expand the partnerships already built under ILSP.  
+Stakeholder Grievances 
+Risk:  
+Stakeholders may not be aware of the systems for the redressal of 
+their grievances. 
+Mitigations:  
+The Government of Uttarakhand has a portal for registration of 
+public grievances (http://samadhan.uk.gov.in). Each district has a 
+phone number and a local helpline number too. The project will 
+make communities aware of this portal and the systems for 
+registering their grievances. Also the RDD conducts Social Audit of 
+various schemes from time to time. Additionally,  
+the project will establish a grievance redress mechanism specifically 
+to address project related concerns and grievances from project 
+related persons. The grievance procedure and disciplinary procedure 
+will be put in place in consultation with implementing agency, 
+project management unit and related government departments. 
+Access to a grievance redress mechanism will be provided to all 
+concerned with the project.In addition, the community will be 
+oriented and trained in access and use of grievance redressal 
+mechanisms.  
+32 

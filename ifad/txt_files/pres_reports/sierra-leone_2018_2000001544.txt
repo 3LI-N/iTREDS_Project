@@ -1,0 +1,1769 @@
+Document:
+Date:
+Distribution:
+Original:
+EB 2018/LOT/P.19/Rev.1
+8 December 2018
+Public
+English
+E
+President’s Report
+Proposed Loan and Debt Sustainability
+Framework Grant to the Republic of
+Sierra Leone for the Agricultural Value
+Chain Development Project
+Note to Executive Board representatives
+Focal points:
+Technical questions:
+Dispatch of documentation:
+Deirdre McGrenra
+Chief
+Governing Bodies
+Tel.: +39 06 5459 2374
+e-mail: gb@ifad.org
+Jakob Tuborgh
+Country Programme Manager
+West and Central Africa Division
+Tel.: +39 06 5459 2469
+e-mail: j.tuborgh@ifad.org
+Wafaa El Khoury
+Lead Technical Specialist – Agronomy
+Sustainable Production, Markets and
+Institutions Division
+Tel.: +39 06 5459 2817
+e-mail: w.elkhoury@ifad.org
+For: Approval
+EB 2018/LOT/P.19/Rev.1
+Contents
+Abbreviations and acronyms
+Map of the project area
+Financing summary
+Recommendation for approval
+I.
+Strategic context and rationale
+A. Country and rural development and poverty context
+B. Rationale and alignment with government priorities and RB-
+COSOP
+II. Project description
+A. Project area and target group
+B. Project development objective
+C. Components/outcomes
+III. Project implementation
+Approach
+A.
+B. Organizational framework
+C. Planning, monitoring and evaluation and learning and
+knowledge management
+D. Financial management, procurement and governance
+E. Supervision
+IV. Project costs, financing and benefits
+A. Project costs
+B. Project financing
+C. Summary benefit and economic analysis
+D. Sustainability
+E. Risk identification and mitigation
+V.
+Corporate considerations
+A.
+B.
+C.
+D.
+Compliance with IFAD policies
+Alignment and harmonization
+Innovations and scaling up
+Policy engagement
+VI. Legal instruments and authority
+VII. Recommendation
+Appendices
+I.
+II.
+III.
+Negotiated financing agreement
+Logical framework
+Palm oil production under AVDP: Questions and answers
+i
+ii
+iii
+iv
+1
+1
+1
+1
+2
+2
+2
+2
+3
+3
+3
+4
+4
+5
+5
+5
+6
+7
+7
+7
+8
+8
+8
+9
+9
+9
+9
+1
+9
+11
+EB 2018/LOT/P.19/Rev.1
+Abbreviations and acronyms
+AVDP
+AWPB
+DSF
+ERR
+M&E
+MAFFS
+NPCU
+PBAS
+SCP-GAFSP
+SLL
+Agricultural Value chain Development Project
+Annual Work Plan and Budget
+Debt Sustainability Framework
+economic rate of return
+monitoring and evaluation
+Ministry of Agriculture, Forestry and Food Security
+National Programme Coordination Unit
+performance-based allocation system
+Smallholder Commercialization Programme - Global Agriculture and
+Food Security Programme
+Sierra Leonean leone
+ii
+Map of the project area
+EB 2018/LOT/P.19/Rev.1
+iii
+EB 2018/LOT/P.19/Rev.1
+Republic of Sierra Leone
+Agricultural Value Chain Development Project (AVDP)
+Financing summary
+Initiating institution:
+IFAD
+Borrower:
+Executing agency:
+Total project cost:
+Amount of IFAD loan:
+Republic of Sierra Leone
+Ministry of Agriculture, Forestry and Food Security
+US$60.3 million
+US$5.9 million
+Amount of IFAD DSF grant:
+US$5.9 million
+Terms of IFAD loan:
+Financing gap:
+Cofinancier(s):
+Amount of cofinancing:
+Terms of cofinancing:
+Contribution of borrower:
+Highly concessional, 40 years, including a grace period
+of 10 years, with a service charge of three fourths of
+one per cent (0.75 per cent) per annum
+US$28.5 million
+Adaptation Fund, subject to approval
+Adaptation Fund: US$9.2 million
+Grant
+US$8.1million (of which US$1.9 million will be provided
+to match IFAD financing of US$11.8 million presented
+in the financing agreement)
+Contribution of beneficiaries:
+US$1.4 million
+Contribution of private sector
+US$1.4 million
+Appraising institution:
+International Fund for Agricultural Development
+iv
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2018/LOT/P.19/Rev.1
+Recommendation for approval
+The Executive Board is invited to approve the recommendation for the proposed
+financing to the Republic of Sierra Leone for the Agriculture Value Chain
+Development Project (AVDP), as contained in paragraph 45.
+Proposed Loan and Debt Sustainability Framework Grant
+to the Republic of Sierra Leone for the Agriculture Value
+Chain Development Project (AVDP)
+I. Strategic context and rationale
+A. Country and rural development and poverty context
+1.
+The Republic of Sierra Leone economy has grown substantially since the end of the
+civil war in 2002, but it suffered two major shocks in 2014/2015 – the Ebola
+epidemic and the collapse of iron ore prices, with GDP shrinking 21 per cent in
+2015. However, economic growth resumed following new investments in mining,
+agriculture and fisheries, registering GDP growth of 6.3 per cent in 2016 and
+5.7 per cent in 2017. Agriculture, the largest sector in the economy, accounted for
+59 per cent of GDP in 2016, 62 per cent of the labour force, and 22 per cent of
+export earnings. Cash crops produced for export include cocoa and coffee, while
+palm oil is produced for domestic consumption and some export.
+2.
+Sierra Leone’s population is around 7.4 million (40 per cent youth) and growing at
+2.2 per cent annually. Poverty is widespread but is particularly acute and
+concentrated in rural areas, where 59 per cent of the population lives. The rural
+poverty headcount of over 66 per cent is double that of urban areas. Women and
+youth are particularly vulnerable due to challenges associated with access to land,
+skills and capital, as well as customs. About 59.7 per cent of rural households in
+Sierra Leone are food insecure, compared with 25.1 per cent in urban areas.
+B. Rationale and alignment with government priorities and
+3.
+4.
+RB-COSOP
+Agricultural development remains key to Sierra Leone’s economic development and
+rural poverty reduction, and there is considerable untapped potential for increasing
+the production and productivity of both staple and cash crops. The project will
+focus on three crops: rice, cocoa and palm oil, though the largest share of the
+budget will be devoted to rice production in inland valley swamps, consistent with
+the Government of Sierra Leone priorities. The AVDP will promote crop
+diversification to provide flexibility and choice to beneficiaries and support
+improved nutrition.
+The AVDP is aligned with the National Agricultural Transformation 2023
+Programme, which is currently in development. The AVDP addresses two of the
+three priority intervention areas, which are rice self-sufficiency and crop
+diversification, notably for palm oil and cocoa. The project aligns with five of the
+seven new strategic priorities: (priority 2) Increasing investment in rice production,
+processing and marketing, (priority 3) Make youth and women catalysts for
+agribusiness development and growth, (priority 4) Invest in catalytic technologies
+such as agricultural mechanization, irrigation and water management,
+(priority 6) Strengthen sustainable biodiversity management and conservation,
+including forest and tree crops, (priority 7) Increase the production of other crops,
+such as vegetables, to ensure diversification.
+1
+EB 2018/LOT/P.19/Rev.1
+5.
+6.
+The selection of value chains is consistent with government priorities and pro-poor
+approaches to value chain development. The crop mixture addresses increased
+availability of the dietary staple (rice), improved nutritional balance (vegetables)
+and increased income from all crops.
+The project development objective and approach are aligned with the two strategic
+objectives of the Country Strategy Note 2017-2018, namely (i) improved
+smallholder farmers’ access to technical skills and markets; and (ii) improved
+access to finance for rural communities.
+II. Project description
+A. Project area and target group
+7.
+Due to widespread poverty, the AVDP will in principle be nationwide, though the
+concentration and intensity of project interventions will depend on climatic and
+agroecological conditions in each of the 16 districts of Sierra Leone.1 While rice and
+palm oil are produced throughout the country, cocoa production is localized in
+specific districts.
+8.
+The socio-economic profile of the target group will be similar to that of the groups
+targeted under the Smallholder Commercialization Program - Global Agriculture
+and Food Security Program (SCP-GAFSP), although primarily in other areas of the
+country. The majority of the beneficiaries (62.3 per cent) have no education. Only
+37.7 per cent of beneficiaries have some formal education, mostly primary or
+secondary but very little post-secondary/tertiary. More female beneficiaries
+(69.1 per cent) than their male counterparts (40.5 per cent) have no education.
+The average monthly income of beneficiaries is at 468,795 leones. Radio and
+mobile phones are popular assets that beneficiaries own, as indicated by
+49.8 per cent and 41.8 per cent of respondents, respectively. Ownership of other
+assets is insignificant. Fully 91 per cent of households experienced hunger in the
+12 months prior to the survey, during which they had difficulty providing sufficient
+food to feed all members.
+9.
+The project is estimated to target 204,000 direct beneficiaries, equivalent to
+34,000 households, over a period of six years, providing assistance to the target
+groups and support for greater participation in targeted value chains. The project
+aims at reaching at least 40 per cent of both women and youth.
+B. Project development objective
+10. The project's development objective is to increase the income of smallholder
+farmers through the promotion of agriculture as a business.
+C. Components/outcomes
+11. The project has three components: (i) Climate-resilient and smart agricultural
+production; (ii) Agricultural market development; (iii) Project coordination and
+management.
+12. Component 1: Climate-resilient and smart-agricultural production. The expected
+outcome of component 1 is that the volume and value of production is increased
+and production systems are made more climate resilient. Component 1 will have
+two subcomponents, as follows:
+(a) Subcomponent 1.1. Support for smallholder rice production and productivity.
+This will support a total of 10,000 rice farmers by providing technical
+assistance through farmer field schools and financial support for the
+development of inland valley swamps for double or triple cropping of rice and
+improved access to quality inputs and mechanized farming services.
+1 The project will pursue a strategy of territorial concentration of interventions to facilitate implementation, which in
+practice may mean that not all districts are targeted.
+2
+EB 2018/LOT/P.19/Rev.1
+(b) Subcomponent 1.2. Support for tree crop production and productivity. This
+will involve work with 13,000 farmers (5,000 cocoa and 8,000 palm oil
+producers) receiving technical assistance and support for the establishment of
+one-hectare plots on fallow or abandoned agricultural land. No deforestation
+is permitted to clear land for the smallholder plantations. No large plantations
+will be supported.
+13. Component 2: Agricultural market development. The expected outcome of this
+component is improved performance and organization of the selected value chains
+for increased smallholder production and productivity. The component is composed
+of two subcomponents:
+(a) Subcomponent 2.1. Market access. This subcomponent will focus on:
+strengthening the business skills of Agri-Business Centres, farmers’
+organizations; farmer field schools; facilitating value chain organizations; and
+deal making through the establishment of provincial multi-stakeholder
+platforms.
+(b) Subcomponent 2.2. Climate-resilient rural infrastructure. Partly financed
+through the Adaptation Fund, this will involve the rehabilitation of
+warehouses to improve product drying and storage capacity, provide potable
+water and latrines and rehabilitate feeder roads and farm tracks.
+14. Component 3: Project coordination and management. This component is divided
+into two subcomponents:
+(a) Subcomponent 3.1. Project coordination and management.
+(b) Subcomponent 3.2. Financing mechanisms for target groups.
+III. Project implementation
+Approach
+A.
+15. The overall AVDP approach will be market-centred and demand-driven. The main
+thrust will be on establishing win-win partnerships between producers and their
+organizations, private-sector agribusinesses and rural finance institutions. This will
+be achieved through a series of activities, including the provision of technical
+assistance by the farmer field schools, as well as the strengthening of farmers’
+organizations to better plan production and the purchase of inputs. The availability
+of certified seeds will be enhanced through the set-up of seed multiplication plots
+that will be linked to private-sector processors. The project will provide matching
+grants to facilitate beneficiary investment in production infrastructure to boost
+productivity. The matching grants scheme will also increase financial inclusion, as
+most producers’ groups will need credit for their investments. Multi-stakeholder
+platforms will better integrate the value chains by bringing the different
+stakeholders – including representatives of the smallholder farmers – to the table
+to find solutions to current obstacles, build trust and facilitate business deals.
+Rehabilitated feeder roads will further facilitate market linkages. Additionally, the
+project will seek to climate proof the productive investments and ensure relevant
+capacity-building.
+B. Organizational framework
+16. The National Programme Coordination Unit (NPCU) will be responsible for project
+planning, financial management, contracting implementing partners for specific
+activities and tasks, monitoring and evaluation (M&E), communication and
+knowledge management, supervision of project activities at the district level and
+facilitating linkage with the Government, private-sector and development
+institutions and integrating project experience into policy dialogue.
+3
+EB 2018/LOT/P.19/Rev.1
+17. The NPCU will have approximately 25 technical and support staff at its
+headquarters, supplemented with a robust presence at the provincial level with the
+out-posting of 4 tree crop officers, 4 inland valley swamp officers, 2 agribusiness
+specialists and 4 Community Mobilizers/Targeting Specialists. A matching grant
+evaluation committee will be set up to approve grant applications. Staff
+implementing AVDP will have an opportunity for training to improve their
+performance. At the district level, the district agricultural officer of Ministry of
+Agriculture, Forestry and Food Security (MAFFS) will be responsible for
+coordinating the implementation of project activities.
+18. AVDP will be placed under the technical supervision of the MAFFS. The MAFFS and
+the National Steering Committee will provide oversight, direction and advice for
+project implementation, and in particular, approve the project’s Annual Work Plan
+and Budget (AWPB), as well as its periodic progress reports.
+C. Planning, monitoring and evaluation and learning and
+knowledge management
+19. The project will prepare an AWPB for approval by the National Steering Committee
+and subsequent presentation to IFAD for no objection. The AWPB will serve as the
+basis for any work that the project undertakes. The AWPB will be prepared in
+consultation with beneficiaries and other stakeholders and build on the project’s
+progress.
+20. The project’s logical framework will be the main document for supporting results-
+based and objective-oriented implementation. The AVDP monitoring and evaluation
+system will build on the system developed in the SCP-GAFSP, including its M&E
+manual. The M&E system will be in line with the Government of Sierra Leone
+requirements, as well as IFAD’s Operational Results Management System and will
+generate gender- and age-disaggregated data on project outputs, outcomes and
+impacts.
+21. AVDP monitoring will be integrated into the existing SCP-GAFSP monitoring and
+evaluation framework. The project M&E Unit will include and regularly assess a
+number of gender, youth and other group-specific indicators in the programme’s
+M&E system at the output, outcome and impact level-in particular, capturing the
+improvement of access to outputs, their use by the target groups and these
+groups’ satisfaction with them.
+22. Knowledge management and learning are key to meeting project objectives, as
+reliable information is the basis of results-based management. Priority will be given
+to areas where AVDP interventions are recognized as exemplary and expected to
+have the greatest impact, though failures are also an important basis for learning.
+Best practices and proven concepts will be fed into the MAFFS and regional
+knowledge management systems. Lessons learned will also be fed into the
+continuous improvement of manuals, concepts and strategies and disseminated to
+the various target groups, including the public, using appropriate communication
+media.
+D. Financial management, procurement and governance
+23. The inherent risk is assessed as high. As a result, the project will largely follow the
+financial management arrangements already established under the ongoing IFAD
+projects, which will lower the risk to medium. The financial management
+arrangements will include the following: (i) a qualified financial controller and an
+accountant will be appointed; (ii) all programme transactions will be recorded in
+customized accounting software, in accordance with the International Public Sector
+Accounting Standards (IPSAS) cash-basis of accounting, (iii) a designated account
+in United States dollars for IFAD financing will be maintained at a commercial bank,
+and IFAD funds will not be mingled with other funds, (iv) IFAD financing will be
+disbursed in accordance with IFAD disbursement procedures and (v) the NPCU will
+4
+EB 2018/LOT/P.19/Rev.1
+prepare quarterly financial reports in formats agreed upon with IFAD. Furthermore,
+the consolidated financial statements will be audited annually by the Audit Service
+of Sierra Leone – Office of the Auditor General, in accordance with International
+Organization of Supreme Audit Institutions/International Standards of Supreme
+Audit Institutions (INTOSAI/ISSAI) standards and IFAD audit requirements. The
+audit report, together with the management letter, will be submitted to IFAD within
+six months of the end of the fiscal year. The day-to-day financial operations will be
+specified further in the relevant section of the project implementation manual.
+24.
+IFAD’s has a zero-tolerance policy toward fraudulent, corrupt, collusive or coercive
+actions in all projects financed through its loans and grants. IFAD's anticorruption
+policy and whistleblowing procedures will be mainstreamed in the project
+implementation manual.
+25. A procurement assessment was undertaken as part of the design mission.
+According to the assessment, the legal and regulatory framework for public
+procurement in Sierra Leone will be used for all AVDP procurement activities, with
+the exception of international competitive bidding, for which the World Bank
+guidelines and framework will apply. In addition, the procurement plan to be used
+by AVDP will be based on the version presented as part of the IFAD Project
+Procurement Handbook.
+E. Supervision
+26. The project will be directly supervised by IFAD. Supervision will be conducted as an
+opportunity to assess achievements and lessons jointly and reflect on ways to
+improve implementation and impact. Furthermore, a financial management
+specialist will participate in missions at least annually to supervise and provide
+implementation support to the project and monitor the fiduciary risk at various
+levels.
+IV. Project costs, financing and benefits
+27. The financing gap of US$28.5 million may be sourced by subsequent performance-
+based allocation system (PBAS) cycles (under financing terms to be determined
+and subject to internal procedures and subsequent Executive Board approval) or by
+cofinancing identified during implementation.
+A. Project costs
+28. The total combined AVDP investment and incremental recurrent costs, including
+physical and price contingencies, are estimated at US$60.3 million, disaggregated
+by component as follows: component 1, climate-resilient and smart-agricultural
+production, is the main investment component, representing US$37.9 million of the
+total project costs (63 per cent of total costs); while component 2, agricultural
+market development, accounts for US$13.4 million (22 per cent of total costs); and
+US$9 million for the project coordination and management component 3,
+(15 per cent of total project costs).
+5
+Table 1
+Project costs by component and financier
+(Thousands of United States dollars)
+EB 2018/LOT/P.19/Rev.1
+IFAD loan
+IFAD DSF
+grant
+Financing gap
+Adaptation
+fund
+Beneficiaries
+Borrower/
+counterpart Private sector
+Total
+Amount % Amount % Amount % Amount % Amount % Amount % Amount % Amount
+Component
+1. Climate-resilient
+and smart agricultural
+production
+1.1 Support for
+smallholder rice
+production and
+productivity
+1.2 Support for tree
+crop production and
+productivity
+2 370 10.5
+2 370 10.5
+11 676 51.7
+2 246 10.0
+522
+2.3
+3 385
+15
+-
+-
+-
+-
+-
+-
+22 569
+15 369
+37 938
+Subtotal
+2 818 7.4
+2 818 7.4
+18 782 49.5
+6 480 17.1
+1 350
+447 2.9
+447 2.9
+7 107 46.2
+4 235 27.6
+828
+5.4
+3.6
+2 305
+5 691
+15
+15
+2. Agricultural market
+development
+2.1 Market access
+2.2 Climate-resilient
+rural infrastructure
+and information
+systems
+Subtotal
+3. Project
+coordination and
+management
+809 17.0
+809 17.0
+1 562 32.8
+-
+-
+-
+-
+-
+-
+4 456 51.8
+2 367 27.5
+809 6.1
+809 6.1
+6 018 45.1
+2 367 17.7
+2 268 25.2
+2 268 25.2
+3 700 41.1
+308
+3.4
+-
+-
+-
+-
+-
+-
+-
+-
+694 14.6
+881 18.5
+4 755
+1 232 14.3
+543
+6.3
+8 598
+1 926 14.4
+1 424 10.7
+13 353
+467
+5.2
+-
+-
+9 012
+Total
+5 895 9.8
+5 895 9.8
+28 500 47.3
+9 156 15.2
+1 350
+2.2
+8 084 13.4
+1 424
+2.4
+60 302
+B. Project financing
+29. The financing plan covers: (i) IFAD financing of US$11.8 million under the
+Tenth Replenishment of IFAD's Resources (IFAD10); (ii) a financing gap of
+US$28.5 million, which may be sourced by subsequent PBAS cycles, as outlined in
+paragraph 27; (iii) an Adaptation Fund grant of US$9.2 million, subject to
+approval; (iv) a contribution from the Government of US$8.1 million, which will be
+used to finance project duties and VAT, of which US$1.9 million will be provided to
+match IFAD financing of US$11.8 million approved under IFAD10; (v) estimated
+beneficiary contributions (in-kind and cash) of US$1.4 million; and (vi) a private-
+sector contribution of US$1.4 million.
+30. Additionally, the AVDP is expected to benefit from an estimated US$10 million in
+parallel value chain investments under the World Bank-financed Smallholder
+Commercialization and Agribusiness Development Project and an estimated
+US$12 million for the rice-seed value chain under the World Bank’s West Africa
+Agricultural Transformation Project.
+6
+EB 2018/LOT/P.19/Rev.1
+Table 2
+Project costs by expenditure category and financier
+(Thousands of United States dollars)
+IFAD loan
+IFAD DSF
+grant
+Financing gap
+Adaptation
+fund
+Private
+sector
+Beneficiaries
+Borrower/
+counterpart
+Total
+Amount
+% Amount % Amount
+% Amount % Amount % Amount % Amount % Amount
+%
+509
+5.4
+509
+5.4
+4 178 44.3
+2 338 24.8
+488 5.2
+324 42.5
+324 42.5
+-
+-
+-
+-
+-
+-
+1 042 10.1
+1 042 10.1
+3 237 31.4
+2 582 25.0
+936 9.1
+-
+-
+-
+-
+-
+-
+1 416 15.0
+9 438
+15.7
+114 15.0
+762
+1.3
+1 470 14.3
+10 310
+17.1
+2 308
+7.1
+2 308
+7.1 17 662 53.9
+4 235 12.9
+-
+-
+1 350
+4.1
+4 917 15.0
+32 781
+54.4
+4 183
+7.9
+4 183
+7.9 25 077 47.1
+9 156 17.2
+1 424 2.7
+1 350
+2.5
+7 917 14.9
+53 290
+88.4
+1 437 25.0
+1 437 25.0
+2 874 50.0
+274 21.7
+274 21.7
+548 43.4
+1 711 24.4
+1 711 24.4
+3 422 48.8
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5 748
+9.5
+167 13.2
+1 264
+2.1
+167
+2.4
+7 012
+11.6
+5 895
+9.8
+5 895
+9.8 28 500 47.3
+9 156 15.2
+1 424 2.4
+1 350
+2.2
+8 084 13.4
+60 302 100.0
+I. Investment
+costs
+A. Civil works
+B. Goods,
+equipment and
+vehicles
+C. Technical
+assistance
+D. Grants and
+subsidies
+Total
+investment
+costs
+II. Recurrent
+costs
+A. Salaries and
+allowances
+B. Operating
+costs
+Total recurrent
+costs
+Total Project
+Costs
+C. Summary benefit and economic analysis
+31. The economic analysis shows that the project has the capacity to generate an
+economic rate of return (ERR) of 32 per cent over a 20-year period, with a net
+present value of Sierra Leonean leone 203 billion (approximately US$23.5 million).
+Given the many unquantifiable benefits, the actual ERR will likely be higher.
+32.
+In order to test the robustness of the above results, sensitivity analysis was carried
+out, and the results are presented below. The sensitivity analysis investigates the
+effect of fluctuations in project costs, benefits and implementation delays on the
+net present value and ERR. The results show that the ERR drops to 22 per cent
+with a 20 per cent increase in costs, and to 20 per cent with a 50 per cent increase
+in costs, still making the project economically viable.
+D. Sustainability
+33. The project aims at strengthening farmers’ organizations to the extent that they
+are able to collectively plan sustainable production, purchase inputs and sell their
+produce through stable private-sector engagement. In coordination with the Rural
+Finance and Community Improvement Programme, the project also seeks to
+ensure that farmer-based organizations are sustainably accessing rural finance for
+inputs. Furthermore, productive investments will be climate proofed through the
+financing from the Adaptation Fund. Finally, through policy engagement planned as
+part of component 3, the project will help keep the Government's focus on the
+rural poor and facilitate Government support to the target group after project
+completion.
+E. Risk identification and mitigation
+34. Since governance issues could compromise the expected impact on communities
+and increase project costs, the risk is classified as high. Elite capture of outputs,
+especially physical assets, which are intended for well-defined target groups, is
+another problem associated with poor governance. These governance risks will be
+mitigated by complementing the Government’s initiatives with: (i) increased
+transparency and publicity about the distribution of outputs; (ii) training for
+7
+EB 2018/LOT/P.19/Rev.1
+implementers at all levels in financial management, procurement, M&E and
+reporting procedures; (iii) the implementation of a clear targeting strategy; and
+(iv) continued improvement of the grievance mechanism for beneficiaries. The
+Good Governance Framework developed for the SCP-GAFSP will be applied during
+the implementation of AVDP.
+35.
+Institutional capacity for implementation and sustainability risks are considered
+moderate. Failure in project coordination is a risk, especially among and within
+non-state actors and private agribusiness. Private stakeholders consistently
+indicate that institutions that provide critical support services to private-sector
+investors remain weak and coordination among them is fragmented. The project
+will mitigate this risk by ensuring that the project implementation unit has clear
+mechanisms for effective coordination during project implementation.
+36. The AVDP is not expected to have overall negative environmental impacts.
+However, since small commercial agricultural activities may produce unexpected
+cumulative impacts, careful design of an appropriate monitoring system is critical.
+The major concerns are associated with the increased use of fertilizers and
+pesticides that might result from wider distribution of these products and their
+impact on biodiversity and human health. Training on proper use and disposal,
+adoption of the principles of the International Code of Conduct on the Distribution
+and Use of Pesticides of the Food and Agricultural Organization of the United
+Nations, as well as the design of an environmental monitoring system in
+partnership with the Sierra Leone Environmental Protection Agency are considered
+sufficient mitigation measures. Based on the above information, the project has
+been classified as category B according to IFAD classification standards.
+37. The promotion of palm oil is considered to entail limited risks, as only smallholder
+oil palm plantations of a maximum of one hectare will be established under the
+project. Large-scale plantations will not be supported. Furthermore, new
+smallholder plantations will be established only on fallow or abandoned agricultural
+land, and no deforestation will be accepted. Moreover, oil palm (Elaeis guineensis)
+is endemic to West Africa and is therefore a natural part of the vegetation in
+Sierra Leone. The palm oil produced will largely be used for cooking and sold on
+the domestic market. Appendix II presents answers to key questions on how the
+project will support palm oil production.
+V. Corporate considerations
+A.
+Compliance with IFAD policies
+38. The project is aligned with the IFAD11 priorities on a range of parameters. First, it
+addresses gender, youth, nutrition and climate change and therefore supports the
+IFAD11 mainstreaming agenda. Second, the project has managed to attract
+cofinancing from the Adaptation Fund and will therefore contribute to the corporate
+cofinancing targets. Third, the project is designed to have a relatively frontloaded
+disbursement profile underpinned by substantial investments in equipment and
+irrigation systems, as well as road rehabilitation and maintenance in the initial
+years, all of which will contribute to an increasing corporate disbursement ratio.
+Fourth, the project covers two PBAS cycles and is therefore aligned with the notion
+of delivering bigger, better and smarter.
+Alignment and harmonization
+B.
+39. The AVDP is wholly consistent with the Government’s National Agricultural
+Transformation 2023 Programme, which is currently in development. The AVDP
+addresses two of the three priority intervention areas, which are rice self-
+sufficiency and crop diversification, notably for palm oil and cocoa. The selection of
+value chains will allow the AVDP to build on and strengthen the results that have
+been achieved in Sierra Leone through past and ongoing IFAD-financed projects
+operating in the same value chains.
+8
+EB 2018/LOT/P.19/Rev.1
+Innovations and scaling up
+C.
+40. The project scales up and refines the intervention model developed under the
+ongoing SCP-GAFSP, but with a range of innovations, including: (i) the
+establishment of multi-stakeholder platforms to strengthen integration of the
+selected sustainable value chains; and (ii) an increased focus on nutrition and food
+security through the promotion of intercropping with food/tree crops and the
+creation of vegetable gardens.
+D.
+41.
+Policy engagement
+Policy engagement in the interest of smallholder farmers and the rural poor will be
+undertaken through: (i) the organization of periodic stakeholder discussions around
+specific policy issues, with the participation of public and private value chain
+stakeholders; (ii) the use of provincial commodity platforms as a nexus for
+discussing and sharing policy-related concerns with the Government, in line with
+national priorities; (iii) support for relevant analytical work related to agricultural
+policies and strategies; and (iv) support for capacity-building in selected
+government agencies involved in policy-making for agricultural development
+(e.g., MAFFS, Ministry of Finance, Ministry of Planning and Economic Development
+and Ministry of Trade and Industry).
+VI. Legal instruments and authority
+42. A financing agreement between the Republic of Sierra Leone and IFAD will
+constitute the legal instrument for extending the proposed financing to the
+borrower/recipient. A copy of the negotiated financing agreement is attached as
+appendix I.
+43. The Republic of Sierra Leone is empowered under its laws to receive financing from
+IFAD.
+44.
+I am satisfied that the proposed financing will comply with the Agreement
+Establishing IFAD and the Policies and Criteria for IFAD Financing.
+VII. Recommendation
+45.
+I recommend that the Executive Board approve the proposed financing in terms of
+the following resolution:
+RESOLVED: that the Fund shall provide a loan on highly concessional terms to
+the Republic of Sierra Leone in an amount of five million nine hundred
+thousand United States dollars (US$5,900,000) and upon such terms and
+conditions as shall be substantially in accordance with the terms and
+conditions presented herein.
+RESOLVED FURTHER: that the Fund shall provide a DSF grant to the
+Republic of Sierra Leone in an amount of five million nine hundred thousand
+United States dollars (US$5,900,000) and upon such terms and conditions as
+shall be substantially in accordance with the terms and conditions presented
+herein.
+Gilbert F. Houngbo
+President
+9
+Appendix I
+EB/2018/LOT/P.19/Rev.1
+Negotiated financing agreement: "Agriculture Value
+chain Development Project"
+(Negotiations concluded on 12 November 2018)
+Loan Number: _______________
+Grant Number: _______________
+Project Title: Agriculture Value chain Development Project (AVDP) (the “Project”)
+The Republic of Sierra Leone (the “Borrower/Recipient”)
+and
+The International Fund for Agricultural Development (the “Fund” or “IFAD”)
+(each a “Party” and both of them collectively the “Parties”)
+hereby agree as follows:
+Section A
+The  following documents  collectively  form  this  Agreement:  this  document,  the
+1.
+Project Description and Implementation Arrangements (Schedule 1), the Allocation Table
+(Schedule 2) and Special Covenant (Schedule 3).
+The  Fund’s  General  Conditions  for  Agricultural  Development  Financing  dated
+2.
+29 April 2009, amended as of April 2014, and as may be amended hereafter from time
+to  time  (the “General  Conditions”)  are  annexed  to  this  Agreement,  and  all  provisions
+thereof  shall  apply  to  this  Agreement.  For  the  purposes  of  this  Agreement  the  terms
+defined in the General Conditions shall have the meanings set forth therein.
+3.
+The Fund shall provide a Loan and a Grant to the Borrower/Recipient (all together
+the  “Financing”),  which  the  Borrower/Recipient  shall  use  to  implement  the  Project  in
+accordance with the terms and conditions of this Agreement.
+Section B
+1.
+A.
+The  amount  of  the  Loan  is  five  million  nine  hundred  thousand  United  States  dollars
+(USD 5 900 000).
+B.
+The amount of the Grant is five million nine hundred thousand United States
+dollars (USD 5 900 000).
+2.
+The  Loan  is  granted  on  highly  concessional  terms.  Accordingly  the  Loan  granted  on  highly
+concessional  terms  is  free  of  interest  but  bears  a  service  charge  of  three  fourths  of  one  per  cent
+(0.75%) per annum payable semi-annually in the Loan Service Payment Currency, and has a maturity
+period  of  forty  (40)  years,  including  a  grace  period  of  ten  (10)  years  starting  from  the  date  of
+approval of the Loan by the Fund’s Executive Board.
+3.
+4.
+The Loan Service Payment Currency shall be United States dollars.
+The first day of the applicable Fiscal Year shall be January 1st.
+1
+Appendix I
+EB/2018/LOT/P.19/Rev.1
+Payments  of  principal  and  service  charge  shall  be  payable  on  each  May  1st and
+5.
+November 1st.
+There  shall  be  an  account  designated  to  receive  IFAD loan  and  grant funds  in
+6.
+advance  (Designated  Account)  denominated  in  USD,  to  be  maintained  in  a  commercial
+bank. The funds in the Designated Account shall not be mingled with other funds.There
+shall be a Project account denominated in SLL to receive Financing from the Designated
+Account in a commercial bank.
+7.
+There shall be a Project account denominated in SLL to receive the Financing from
+the  Designated  Account  in  a  commercial  bank.  In  addition,  there  will  be  separate
+counterpart account to receive counterpart financing from the government.
+8.
+The  Borrower/Recipient  shall  provide  counterpart  financing  for  the  Project  in  the
+amount  of  approximately  one  million  nine  hundred  thousand  United  States  dollars
+(USD 1 900 000) to  cover  taxes  and  duties  and  other  Project  implementation  costs,
+including  supervision,  in  accordance  with  the  approved  Annual  Work  Plan  and  Budget
+(AWPB) of the Project.
+Section C
+1.
+The Lead Project Agency (LPA) shall be the Ministry of Agriculture (MAF).
+The  following  are designated  as  additional  Project  Parties: Private  sector  actors
+2.
+(Agribusiness, SMEs) and Community Banks and Financial Services Associations.
+The Project Completion Date shall be the sixth anniversary of the date of entry into
+3.
+force of this Agreement.
+Section D
+The Financing will be administered and the Project supervised by the Fund.
+Section E
+The  following  are  designated  as  additional  grounds  for  suspension  of  this
+1.
+Agreement under the General Conditions:
+(a)
+(b)
+the Project Implementation Manual (PIM), or any provision thereof, has been
+waived,  suspended,  terminated,  amended  or  modified  without  the  prior
+consent  of  the  Fund,  and  the  Fund  has  determined  that  such  waiver,
+suspension,  termination,  amendment  or  modification  has  had,  or  is  likely  to
+have, a material adverse effect on the Project.
+any  institutional  changes  have  been  made  by  the  Borrower/Recipient  to  the
+Project  Steering  Committee  or  the  Project  Implementation  Unit  (PIU),
+including  the transfer,  suspension,  or  termination  of  key  PIU staff  without
+cause and without the Fund’s no-objection, and the Fund has determined that
+such changes are likely to have a material adverse effect on the Project.
+2
+Appendix I
+EB/2018/LOT/P.19/Rev.1
+The following are designated as additional general conditions precedent to
+2.
+withdrawal:
+(a) Key Staff including the Project coordinator, the financial controller and the
+procurement specialist have been duly appointed; and
+(b) A PIM including the Financial Administration and Accounting manual, has
+been approved by IFAD.
+3.
+This Agreement is subject to ratification by the Borrower/Recipient.
+The following are the designated representatives and addresses to be used for any
+4.
+communication related to this Agreement:
+For the Borrower/Recipient:
+Minister for Finance
+Treasury Building
+George Street
+Freetown, Sierra Leone
+For the Fund:
+The President
+International Fund for Agricultural development
+Via Paolo di Dono 44
+00142 Rome, Italy
+This Agreement, dated [click and type], has been prepared in the English language in
+two(2) original copies, one (1) for the Fund and one (1) for the Borrower/Recipient.
+REPUBLIC OF SIERRA LEONE
+____________________
+Authorized Representative
+(Name and title)
+INTERNATIONAL FUND FOR
+AGRICULTURAL DEVELOPMENT
+___________________
+Gilbert F. Houngbo
+President
+3
+Appendix I
+EB/2018/LOT/P.19/Rev.1
+Schedule 1
+Project Description and Implementation Arrangements
+I.
+Project Description
+Goal.  The  goal  of  the  Project  is  the  improvement  of  the  livelihoods,  food  security
+1.
+and climate change resilience of rural farming households in Sierra Leone.
+Objectives.  The  objective  of  the  Project  is  to  increase  incomes  for smallholder
+2.
+farmers through the promotion of agriculture as a business.
+3.
+Target Population. The Project shall benefit about 34,000 direct beneficiaries in the
+16 districts of the country (the “Project Area”) and focus activities where the climatic and
+agro-ecological conditions are favourable for smallholders to produce cocoa, oil palm and
+rice. The primary target group will be smallholder producers of cocoa, rice and oil palm.
+Additionally,  the  project  will  target  (a)  farmer-based  organized  institutions  such  as
+Agribusiness  Centres 
+cooperatives;  and
+(b) institutions  providing  services  or  inputs  such  as  input  suppliers,  agro-dealers,
+agents/middlemen,  and  processors  as  well  as  buyers/exporters.  Over  the  life  of  the
+Project,  AVDP  interventions  will include  at  least  40%  women  and  40%  youths,  and  will
+employ mechanisms that promote gender equality and social inclusion.
+(ABCs),  Farmer  Organizations  and 
+4.
+Components. The Project shall consist of the following Components:
+Component 1.
+4.1.
+Climate Resilient  and  Smart  Agricultural Production.
+The  outcome  of this component is that volume and value of production is increased, and
+production  systems  are  made  more  climate  resilient.  The  component  will  support  the
+preparation  of  Business  Development  Plans at  the  level  of  the  ABCs  that  will  include  a
+comprehensive  plan  of  the  investments  needed  to  develop  the  productive  capacities  of
+rice, cocoa or oil palm. All investments will be assessed for their social and environmental
+impact  through  Environment  and  Social  Management  Plans. Capacity  building  for
+improved  production  techniques  and  extension  will  be  provided  using  the  Farmer  Field
+School (FFS) methodology.
+4.1.1 Sub-Component 1.1.
+Support to smallholder rice production and productivity,
+will  work  with  5,000  rice  farmers  who  have  not  previously  benefited  from  the
+SCP/GAFSP  Project,  to  provide  technical  assistance  through  Farmer  Field  Schools
+and  financial  support  for  the  development  of  inland  valley  swamps  for  double  or
+triple  cropping  of rice,  and  improved  access  to  quality  inputs  and  mechanized
+farming services. The Project will help Farmers’ Organizations and ABCs mentioned
+above add value to paddy by improving milling capacity and quality and facilitating
+market  linkages  with  off-takers.  The  Project  will  similarly  provide  technical
+assistance and training to 5,000 legacy rice farmers that have benefitted from past
+projects.
+4.1.2. Sub-Component 1.2.
+Support  to  tree  crop  production  and  productivity,  will
+work  with  9,000  farmers  (5,000 cacao  and  4,000  oil  palm  producers)  each
+receiving support for the establishment of a one-hectare plot, who were not direct
+beneficiaries  of  the  SCP/GAFSP Project.  The  subcomponent  will  enhance  the
+economic  viability  and  climate  resilience  of  oil  palm  and cocoa  farmers  and  link
+them  more  effectively  to  private  sector  markets.  The  AVDP  will  also  continue  to
+provide  technical  assistance  and  training  for  4,000  legacy  oil  palm  farmers  who
+received assistance under past projects.
+4
+Appendix I
+EB/2018/LOT/P.19/Rev.1
+Replanting  and  new  planting  of cocoa  sites  will  be  supported  partially  by  the
+Adaption  Fund  with  provision  of  climate  resilient  hybrid  seeds  provided  by  the
+rejuvenated  clonal  garden  of  the  Sierra  Leone  Agricultural  Research  Institute
+(SLARI).  The  AVDP  will  provide  technical  and  support for  the  establishment  of
+community nurseries to outgrow the seedlings obtained from SLARI. The replanted
+or new plantations will intercrop plantains, cassava, and/or timber trees for shade
+provision and supplementary income generation.
+For oil palm, AVDP will procure improved tenera variety seeds from regional private
+sector  suppliers  and  establish  community  nurseries.  AVDP  will  assist  farmers  to
+carry out intercropping with food crops (e.g. groundnuts and rice) during the initial
+growth of infant trees to improve livelihoods and household nutrition. AVDP will not
+support  the  clearing  of  forest  areas  for  tree  crop  plantations.  Rather  degraded
+secondary bush areas will be used for such plantings.
+Component 2.
+4.2.
+Agricultural  Market  Development, contains  two  sub-
+components: (i) Market access and (ii) Climate resilient rural infrastructure. The expected
+outcome of this component is the improved performance and organization of the selected
+value chains for increased smallholder production and productivity.
+4.2.1. Sub-component 2.1
+Market Access, will focus on strengthening the business
+skills of ABCs, Farmer Organizations and Farmer Field Schools and facilitating value
+chain  organization  and  deal  making  through  the  establishment  of  provincial  level
+multi-stakeholder  platforms.  Key  activities  under  this  sub-component  include
+mapping of existing value chain players, including farmer-based organisations, and
+the  provision  of  capacity  building  according  to  their  needs;  through  the  multi-
+stakeholder platforms, the project will facilitate linkages and deal making between
+AVDP  beneficiary  organizations,  input  suppliers,  aggregators  and  large  scale
+processors and commodity buyers.
+4.2.2
+Sub-component 2.2.
+Climate  Resilient  Rural  Infrastructure,  financed  mainly through
+the  Adaption  Fund,  will  rehabilitate  20  warehouses  to  improve  product  drying  and  storage
+capacity, as well as construct and rehabilitate secondary roads and farm tracks. The AVDP will
+use a labor-based approach to road improvement, employing local residents for certain tasks,
+thereby  generating  temporary  employment  opportunities.  The  sub-component  will  also
+finance improved water supply and sanitation among other activities.
+Component 3.
+4.3.
+The
+implementation  of  AVDP  will  be  anchored  within  the National  Project  Coordination  Unit
+(NPCU) and  Ministry  of  Agriculture  and  Forestry  at  the  district  level.  Staffing  levels  at
+NPCU will be complemented as needed.
+and  Management. 
+Coordination 
+Project 
+II.
+Implementation Arrangements
+5.
+The LPA shall be the MAF. The National Steering Committee (NSC), chaired by the
+Minister of MAF, shall provide oversight, direction and advice for project implementation,
+and in particular, approve the AWPB of the project as well its periodic progress reports.
+The  NSC  will  include  representation  of  key  stakeholders  including,  the  ministries  for
+Finance,  Economic  Development  and  Planning,  Agriculture,  Trade  and  Industry,  Local
+Government,  Community  Development,  Social  Welfare,  Gender  and  Children  Affairs,
+Lands,  Country  Planning and  Environment, Environmental  Protection  Agency  (EPA),
+Youth and Sports, Directorate of Feeder Roads of Sierra Leone Road Authority, the Chief
+Agricultural  Officer/Technical  Head  of  MAF,  two  members  of  Farmers  Associations  (one
+for staple crops and one for tree crops), and two private sector representatives (one for
+staple  crops,  especially  rice,  and  the  other  for  tree  crops).  The  National  Project
+Coordinator of NPCU shall be the Secretary.
+5
+Appendix I
+EB/2018/LOT/P.19/Rev.1
+6.
+The National Project Coordination Unit (NPCU) will be responsible for the day-to-
+day coordination of project activities, including project planning, financial management,
+contracting  implementing  partners  for  specific  activities  and  tasks,  Monitoring  &
+Evaluation  (M&E),  knowledge  management,  supervision  of  project activities  at  the
+district  level,  facilitating  linkage  with  governmental,  private  sector  and  development
+institutions, and integrating project experience, into policy dialogue. At the district level,
+the  District  Agricultural  Officer  of  MAF  will  be  responsible  for  coordinating  the
+implementation  of  Project  activities.  He  or  she  will  be  supported  by  a  dedicated  M&E
+Assistant  as  the  focal  point  for  the  collation  of  data  and  reporting  on  project-specific
+activities at the district level. The M&E Assistant will work under the guidance of the M&E
+Officer at the NPCU.
+7.
+A  range  of  public  and  private  sector  service  providers  and  implementation
+partners will be engaged by AVDP to facilitate Project implementation at different stages
+of  the  value  chains  and  build the  capacity  of  the  Project  target  groups  towards
+agriculture as a business. The modalities for the engagement of the service providers are
+specified  in  the  description  of  the  subcomponents  and  will  be  further  detailed  in  the
+Project Implementation Manual.
+6
+Appendix I
+EB/2018/LOT/P.19/Rev.1
+Schedule 2
+Allocation Table
+1.
+Allocation  of  Loan  and  Grant  Proceeds. The  Table  below  sets  forth  the
+Categories  of  Eligible  Expenditures  to  be  financed  by  the  Loan  and  the  Grant  and  the
+allocation  of  the  amounts  of  the  Loan  and  the  Grant  to  each  Category. All  amounts  are
+100%  net  of  taxes,  Government  contribution  and  beneficiary  contribution. All  eligible
+expenditures  belonging  to  the  categories  above  will  be  apportioned  on  a  50:50
+pari passu basis between the Loan Financing and the Grant Financing.
+Category
+I.
+Civil Works
+II.
+Goods, Equipment and Vehicles
+III.
+Consultancies, (including technical
+assistance)
+Loan Amount
+Allocated
+(expressed in USD)
+Grant Amount
+Allocated (expressed
+in USD)
+460 000
+295 000
+460 000
+295 000
+940 000
+940 000
+IV.
+Grants and Subsidies
+2 080 000
+2 080 000
+V.
+Recurrent cost including salaries &
+allowances and operating cost
+1 540 000
+1 540 000
+Unallocated(10%)
+585 000
+585 000
+TOTAL
+5 900 000
+5 900 000
+Start-up Costs. To facilitate a prompt start-up, withdrawals of up to USD 300 000
+2.
+may be made to incur expenditures related to the Project start-up before the satisfaction
+of the additional general conditions precedent to withdrawal. The start-up activities may
+include inter alia: (i) Updating of the Project Implementation Manual; (ii) Preparation of
+the  first  AWPB  &  procurement  plan;  (iii) organization  of  a  Start-up  workshop;  (iv) Fine
+tune  the  accounting  software  as  necessary,  (v) preparation  of  the  baseline  survey  and
+(vi) finalization  of  the Agreement/MoU  templates  to  be  used  with  the  implementing
+partners, as well as other activities as agreed with the Fund.
+7
+Appendix I
+EB/2018/LOT/P.19/Rev.1
+Schedule 3
+Special Covenants
+The  Borrower/Recipient  undertakes  the  obligations  set  forth  below,  which  constitute
+special covenants:
+All  the  MoUs  entered  into  by  Project  Parties  for  the  implementation  of  Project
+1.
+activities shall be subject to the Fund’s no objection prior to their respective signatures.
+Accounting  software. The  Borrower/Recipient  shall  ensure  that  the PIU  will record
+2.
+project  expenditures  in  an  accounting  software  acceptable  to  the  Fund  throughout  the
+project life.
+3.
+Audit  arrangements.  The  Borrower/Recipient,  through  the  NPCU,  will  appoint
+independent auditors acceptable to IFAD, under the terms of reference cleared by IFAD,
+and  in  line  with  the  IFAD  audit  requirements.  An  audited  annual  consolidated  financial
+statement  for  the  entire Project,  together  with  a  management  letter  on  audit
+observations on internal controls, shall be submitted to the Fund within six (6) months of
+the fiscal year end.
+8
+Mid-Term
+(Y3)
+End Target
+(Y6)
+Means of Verification
+Source
+Frequency Responsibility
+29,000
+34,000
+Project M&E
+system
+bi-annual,
+annual
+IFAD-PIU
+Logical framework
+Narrative Summary
+Name
+[CORE INDICATOR (CI)]
+Key Performance
+Indicators
+Baseline
+(Y0)
+Outreach
+Number of households receiving
+services promoted or supported by the
+project(CI:1) [1]
+Goal:
+Improved
+livelihoods, food
+security and climate
+change resilience of
+rural farming
+households in Sierra
+Leone
+Targeted households that experience a
+reduction in length of hungry season from 4
+to 2 months [2]
+Proportion of target population below the
+minimum level of dietary energy
+consumption by gender and vulnerable
+groups [3]
+Households reporting increased assets
+(asset ownership index) [4]
+0
+0
+11,600
+(40%)
+20,400 (60%)
+N/A
+N/A
+N/A
+N/A
+7,250 (25%)
+17,000 (50%)
+Baseline,
+Completion
+Survey or
+secondary data
+Baseline,
+Compl.
+Survey.
+Secondary
+data: CFSVA
+Baseline,
+Compl.
+Survey.
+PY1,
+PY6
+PY1,
+PY6
+PY1,
+PY6
+Project Development Objective:
+9
+Increased incomes
+for smallholder
+farmers through the
+promotion of
+agriculture as a
+business
+Number of rural producers reporting an
+increase in sales (CI:2.2.5)* [5]
+Number of rural producers reporting an
+increase in income [6]
+0
+0
+8,740 (40%)
+of which
+3,496 youth
+20,700 (90%)
+of which 8,280
+youth
+Baseline,
+Completion
+Survey
+PY1,
+PY3,
+PY6
+8,740 (40%)
+of which
+3,496 youth
+20,700 (90%)
+of which 8,280
+youth
+Baseline,
+Completion
+Survey
+PY1, PY3,
+PY6
+Assumptions
+Commitment of
+all stakeholders to
+participate in poverty
+reduction efforts.
+N/A
+Government policies are
+stable and global
+demand for oil palm
+and cocoa do no
+decrease.
+IFAD-PIU,
+survey
+providers
+IFAD-PIU,
+survey
+providers
+IFAD-PIU,
+survey
+providers
+IFAD-PIU,
+survey
+providers
+IFAD-PIU,
+survey
+providers
+Narrative
+Summary
+Name
+Key PerformanceIndicators
+Baseline
+(Y0)
+Mid-
+Term(Y3)
+End Target
+(Y6)
+Means of Verification
+Assumptions
+Source
+Frequency Responsibility
+Component 1:Climate-Resilient and Smart-Agricultural Production
+Outcome1:
+Volume and value of
+produce increased
+Number  of  persons reporting an  increase  in
+production (CI:1.2.4)* [7]
+Number of persons reporting adoption of new
+improved inputs technologies or practices
+(CI:1.2.2)* [8]
+Number of persons reporting adoption of
+environmentally sustainable and climate-
+resilient technologies and practices (CI:1.2.2)*
+[9]
+0
+0
+0
+12,425
+(50%)
+12,425
+(50%)
+6,212
+(25%)
+20,700 (90%)
+Baseline, MTR,
+Compl. Survey
+PY3, PY6
+20,700 (90%)
+Baseline,
+MTR, Compl.
+Survey
+PY3, PY6
+20,700 (90%)
+Baseline, MTR,
+Compl. Survey PY3, PY6
+IFAD-PIU,
+survey
+providers
+IFAD-PIU,
+survey
+providers
+IFAD-PIU,
+survey
+providers
+Land tenure system in
+project districts does
+not pose any
+limitations to project
+activities.
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+/
+2
+0
+1
+8
+/
+L
+O
+T
+/
+P
+.
+1
+9
+/
+R
+e
+v
+.
+1
+Outputs
+Number of Agri-Business Centers with
+improved capacity for service provision (CI:
+2.1.6)* [10]
+Number of persons trained in production
+practice and/or technologies (CI:1.1.4)* [11]
+Number of rural producer organizations
+supported (CI: 2.1.3)* [12]
+Number of supported rural producers that are
+part of a rural producer's organization (CI:
+2.1.4)* [13]
+Number of hectares of land brought under
+climate-resilient management (CI:3.1.4)* [14]
+Number of farmers intercropping food crops
+[15]
+Component 2:AgriculturalMarket Development
+Outcome2:
+Value chain
+organization and
+performance
+improved
+Number of rural producer's organizations
+engaged in formal partnerships/agreements
+with public or private entities (CI: 2.2.3)*[16]
+Jobs created through road construction and
+rehabilitation (temporary employment) [17]
+1
+0
+Outputs
+Number of functioning multi-stakeholder
+platforms supported (Policy 2)* [18]
+Number of kilometres of roads
+constructed, rehabilitated or upgraded
+(CI:2.1.5)* [19]
+Number of families with improved access
+to potable water and sanitation [20]**
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+88
+93
+M&E system
+Quarterly
+21,850
+(8,740
+youth)
+790
+21,850
+(8,740
+youth)
+23,000 (9,200
+youth)
+833 (FOs, new
+and legacy)
+23,000 (9,200
+youth)
+M&E system
+Quarterly
+M&E system
+M&E system
+Quarterly
+Quarterly
+12,350
+13,000
+M&E system
+Quarterly
+Communities
+are involved
+and responsive to
+interventions
+made.
+IFAD-PIU
+IFAD-PIU
+IFAD-PIU
+IFAD-PIU
+IFAD-PIU
+19,665
+20,700
+M&E system Quarterly
+IFAD-PIU
+237 (30%)
+750 (90%)
+1,000
+(750 youth)
+2,000
+(1,500 youth)
+12
+50
+12
+250
+5,000
+10,000
+PY3, PY6
+Baseline,
+MTR, Comp.
+Survey
+Project
+M&E
+system
+M&E system Quarterly
+Quarterly
+M&E system Quarterly
+M&E system Quarterly
+IFAD-PIU,
+survey
+providers
+IFAD-PIU
+IFAD-PIU
+IFAD-PIU
+IFAD-PIU
+Stakeholders incl.
+agribusinesses keep
+interest in integrating
+smallholders in value
+chains.
+Commodity prices for
+oil palm and cocoa stay
+attractive.
+The indicator is a core RIMS indicator
+Indicator will be refined in consultation with the Adaptation Fund that will finance this aspect.
+The reported data should be disaggregated by the sex of beneficiary (male or female).
+Legend
+*
+**
+S
+Lead The reported data should be disaggregated by the sex of the head of household, small and medium-sized enterprise owner or group leader (as relevant).
+Y
+The reported data should be disaggregated by the age status of the beneficiary (“young” or “not young”) as per the national definition for youth.
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+/
+2
+0
+1
+8
+/
+L
+O
+T
+/
+P
+.
+1
+9
+/
+R
+e
+v
+.
+1
+Appendix III
+EB/2018/LOT/P.19/Rev.1
+Palm oil production under AVDP: Questions and answers
+Q1:  What  type  of  oil  palm  producers  and  plantations  will  benefit  from  the
+AVDP?
+Answer: The  project  will  facilitate  the  establishment  of  small  plots  of  oil  palm
+(maximum  1  ha  per  plot)  for  approximately  4,000  smallholder  producers.  No
+large plantations will be established.
+Q2:  Will  the  establishment  of  any  new  oil  palm  plantation result 
+deforestation?
+in
+Answer: No  deforestation  will  take  place  as  a  result  of  the  project.  The  new
+smallholder oil palm plantations will be established on fallow lands or abandoned
+agricultural  lands  only.  This  is  expected  to  increase  the  carbon  sequestration  of
+the territory.
+Q3: Will the establishment of any new oil palm plantation result in involuntary
+resettlement of project beneficiaries?
+Answer: Plantations will be established on family lands by beneficiaries with title
+to  the  lands  under  the  existing  traditional  land  tenure  system. No  resettlement,
+neither voluntary nor involuntary, is foreseen under the project.
+Q4: What is the foreseen market for the oil palm produced under the project?
+Answer: The vast majority of the oil palm produced as a result of the project is
+expected to be  sold on domestic markets as  oil palm is widely used for cooking.
+National production have reduced drastically as a result of  neglected plantations
+since  the  civil  was  (1991-2002).  The  small-scale  traditional  system relies  mainly
+on wild plants for production which caters for domestic markets and neighbouring
+countries.
+Q5:  Has  IFAD-funded  projects  supported  oil  palm  production  in  the  past  in
+Sierra Leone?
+IFAD 
+The  ongoing 
+supervised  project, 
+Answer:
+  Smallholder
+Commercialisation  Programme  financed  by  the  Global  Agricultural    and  Food
+Security  Programme  (SCP-GAFSP)  has  a  tree  crop  component  that  provides
+supports  for the establishment of 3,000 hectares of high yielding tenera oil palm
+plantation  for  a  total  of 3,000  beneficiaries.    The  proposed  approach  to  oil  palm
+production  under  AVDP  therefore  builds  on  the  practices  of  SCP  in  which  no
+infringements of the social and environmental safeguards have been registered.
+the 
+Q6: Will the project  be  aligned to the new Roundtable  on Sustainable Palm Oil
+(RSPO) standard for Smallholder Certification, Support and Inclusion?
+Answer: The  proposed  new  RSPO  standard  for  smallholder  production  is
+currently  for  public  consultation  and  therefore  has  not  been  finalised.  The
+proposed  standard  is  however  very  aligned  with  how  oil  palm  is  currently
+11
+
+
+
+
+
+
+Appendix III
+EB/2018/LOT/P.19/Rev.1
+supported  under  the  SCP  and  will  be  promoted  under  the  AVDP.  The  draft
+eligibility criteria for smallholder RSPO certification is as follows:2
+I.
+II.
+III.
+IV.
+V.
+Individual  smallholder  group  members  can  demonstrate  they  have  the
+legal or customary rights to use the land.
+Farms/smallholdings  are  located  in  areas  that  are  outside  of  those
+classified as a national park or protected area, as defined by national law.
+In cases where there will be new plantings, smallholders commit that they
+will  consult  with  indigenous  groups  and  local  communities,  where  the
+consultation  process  is  appropriate  to local  conditions,  and  ensures  rights
+and  interest  of  affected  parties  are  respected.  (Note,  exact  wording
+pending  outcomes  of  ongoing  discussions  on  No  Deforestation  and  New
+Planting Procedures (NPP) for smallholders).
+Smallholders  commit  to  no  use  of  fire  in  preparing  for  re-planting  or  for
+waste management.
+Smallholders  commit  to  no  use  of  child  labour.  (The  minimum  age of
+workers  as  defined  by  national  interpretation  or  law  is  respected,  and
+children under the age of 18 do not carry out any work that is harmful to
+the  health,  safety  or  morals  of  children,  e.g.  with  dangerous  substances,
+spraying, heavy lifting, harvest). Additionally, in cases where children from
+the  household  work  on  the  smallholder  farm,  this  is  restricted  to
+afterschool  hours,  the  weekend  or  holidays  and  does  not  interfere  with
+schooling or education.
+Q7: In the context of post conflict country such as Sierra Leone, how IFAD will
+ensure  that sustainability  and  strong  monitoring  of  environmental  and  social
+safeguards during implementation is guaranteed by the project team?
+Answer: As  part  of  project  start-up,  a  capacity-building  exercise  will  be
+undertaken to ensure that the right capacities are in place to adequately monitor
+the  environmental  and  social  safeguards.  This  capacity-building  will  not  only  be
+targeted at project staff but also the service providers that will assist the farmers
+in the establishment of the smallholder plantation. Additionally, the management
+fee that IFAD will receive through the cofinancing by the Adaptation Fund will be
+rigorously used for supervision of the application of the social and environmental
+safeguards, namely the compliance with the SECAP procedures.
+Q8:  In  the  preparation  of  the  SECAP,  which  has  provided  substantial  guidance
+during the design and internal review process (the QE and QA reviews), did the
+project team carry out social and environmental assessments of all project sites
+such as the exact location of oil palm areas and related infrastructure?
+Answer: Sub-project  sites  are  not  identified  a  priori  but  will  be  identified  in  a
+demand-driven  manner  in  consultation  with  the  beneficiaries.  However, as
+outlined  in  the  Project's Environmental and Social Management Framework
+(ESMF),  each  subproject  will  have  an Environment  and  Social  Management  Plan
+(ESMP)  developed  alongside  its  business  plan.  The ESMF  with  the  outline  and
+contents  of  the  ESMP  and  the  review  process  can  be  found  in appendix  8  of  the
+Project Design Report.
+2 https://www.rspo.org/principles-and-criteria-review/public-consultation-rspo-smallholder-standard.
+12
+
+

@@ -1,0 +1,2467 @@
+Document:
+Agenda:
+Date:
+Distribution:
+Original:
+EB 2019/127/R.24
+8(d)(i)(b)
+8 August 2019
+Public
+English
+E
+President’s report
+Proposed financing
+Kingdom of Cambodia
+Sustainable Assets for Agriculture Markets,
+Business and Trade Project
+Project ID: 2000002278
+Note to Executive Board representatives
+Focal points:
+Technical questions:
+Dispatch of documentation:
+Kaushik Barua
+Country Director
+Asia and the Pacific Division
+Tel.: 84 (0) 911 613 300
+e-mail: k.barua@ifad.org
+Deirdre McGrenra
+Chief
+Institutional Governance and Member
+Relations
+Tel.: +39 06 5459 2374
+e-mail: gb@ifad.org
+Executive Board — 127th Session
+Rome, 10-12 September 2019
+For: Approval
+EB 2019/127/R.24
+ii
+iii
+iv
+1
+1
+2
+2
+2
+3
+4
+4
+5
+8
+8
+8
+8
+9
+9
+9
+10
+11
+11
+11
+Contents
+Abbreviations and acronyms
+Map of the project area
+Financing summary
+I.
+Context
+A. National context and rationale for IFAD involvement
+B. Lessons learned
+II. Project description
+A. Project objectives, geographic area of intervention and target
+groups
+B. Components/outcomes and activities
+C. Theory of change
+D. Alignment, ownership, and partnerships
+E. Costs, benefits and financing
+III. Risks
+A. Project risks and mitigation measures
+B. Environment and social category
+C. Climate risk classification
+D. Debt sustainability
+IV.
+Implementation
+A. Organizational framework
+B. Planning, monitoring and evaluation, learning, knowledge
+management and communication
+C. Implementation plans
+V.
+Legal instruments and authority
+VI. Recommendation
+Appendices
+I. Negotiated financing agreement
+II. Logical framework
+Project delivery team
+Regional Director:
+Country Director:
+Project Technical Lead:
+Financial Management Officer:
+Climate and Environment Specialist:
+Legal Officer:
+Nigel Brett
+Kaushik Barua
+Michael Hamp
+Irene Li
+Karan Sehgal
+Itziar Garcia Villanueva
+i
+EB 2019/127/R.24
+Abbreviations and acronyms
+AFD
+AIMS
+ASPIRE
+AWP/B
+COSOP
+EP
+KAS
+M&E
+PDRD
+PIU
+PMU
+RBAs
+SAAMBAT
+SO
+SDF
+TSC
+UNICEF
+French Development Agency
+Accelerating Inclusive Markets for Smallholders
+Agriculture Services for Innovation, Resilience and Extension
+annual workplan and budget
+country strategic opportunities programme
+economic pole
+Khmer Agriculture Suite
+monitoring and evaluation
+Provincial Department of Rural Development
+project implementation unit
+project management unit
+Rome-based agencies
+Sustainable Assets for Agriculture Markets, Business and Trade
+strategic objective
+skills development fund
+Techo Startup Center
+United Nations Children's Fund
+ii
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+Map of the project area
+EB 2019/127/R.24
+iii
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2019/127/R.24
+Financing summary
+Initiating institution:
+IFAD
+Borrower/grant recipient:
+Kingdom of Cambodia
+Executing agency:
+Total project cost:
+Amount of IFAD loan:
+Amount of IFAD grant:
+Ministry of Rural Development
+US$92.1 million
+US$53.2 million
+US$1.2 million
+Amount of IFAD climate finance:
+US$38.6 million
+Cofinanciers:
+Discussions with potential cofinanciers are ongoing.
+Amount of domestic cofinancing:
+Local government(s): US$1.1 million in-kind
+(road maintenance)
+Contribution of borrower:
+US$11.3 million in cash
+Contribution of beneficiaries:
+US$0.1 million
+Financing gap:
+US$25.2 million
+Appraising institution:
+IFAD
+Cooperating institution:
+Directly supervised by IFAD
+iv
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2019/127/R.24
+Recommendation for approval
+The Executive Board is invited to approve the recommendation contained in
+paragraph 72.
+I. Context
+A. National context and rationale for IFAD involvement
+1.
+2.
+3.
+4.
+National context
+Cambodia has made significant progress in recovering from its history of instability,
+with two decades of strong economic growth and poverty reduction. The economy
+sustained an average growth rate of over 7 per cent between 1995 and 2018,
+bringing it up to lower-middle-income status in 2017. Growth has been driven
+mainly by manufacturing and services, but agriculture still provides around half of
+current employment. Wage income from both local and migratory labour is
+increasingly important to rural households. Growth has been accompanied by
+poverty reduction, from 47.8 per cent in 2007 to 13.5 per cent by 2014.1
+Despite these achievements, Cambodia faces continuing challenges. Around
+25 per cent of the population remain vulnerable to falling back into poverty, and
+around 35 per cent live in multidimensional poverty.2 Undernutrition is an issue,
+with around 32 per cent of children under five being stunted.
+Agricultural supply chains are underdeveloped, with high transport costs and low
+coverage. Only about 2,000 km out of 45,000 km of rural roads are hard paved.
+Special aspects relating to IFAD’s corporate mainstreaming priorities
+Cambodia is highly vulnerable to climate change, due to its reliance on rainfed
+agriculture and a lack of resources and infrastructure to cope with floods and
+droughts. The Sustainable Assets for Agriculture Markets, Business and Trade
+(SAAMBAT) Project will adopt climate-proof design standards across all its
+infrastructure interventions.
+5. Women continue to face disadvantages, earning 30 per cent less than men. All
+SAAMBAT interventions will include gender action plans to ensure their contribution
+to IFAD’s gender policy objectives. The needs and opportunities facing women will
+be considered in infrastructure, skills training, access to digital technologies and
+opportunities for women entrepreneurs.
+6.
+7.
+8.
+Cambodia’s population is the youngest in South-East Asia, but rural youth lack
+employable skills. SAAMBAT is youth-focused, with component 2 committed to
+delivering demand-matched vocational skills and enabling young entrepreneurs to
+develop and adopt digital technologies for agricultural value chains.
+The project management unit (PMU), established within the Ministry of Rural
+Development, will also coordinate with the United Nations Children's Fund
+(UNICEF) to ensure alignment with UNICEF’s nutrition activities in SAAMBAT
+provinces.
+Rationale for IFAD involvement
+SAAMBAT’s design is aligned with the policies and strategies of the Royal
+Government of Cambodia and with IFAD’s corporate priorities. The Government's
+development strategy is embodied in its “Rectangular Strategy” (currently in phase
+IV, referred to as RS-IV) and the National Strategic Development Plan 2014-2018,
+which include rural infrastructure and skills training as priorities. Development of
+the digital economy is a major current focus of policymakers. SAAMBAT is also
+1 See www.worldbank.org/en/country/cambodia/overview.
+2 See http://hdr.undp.org/en/2018-MPI.
+1
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2019/127/R.24
+aligned with the draft agriculture sector masterplan, aimed at growth through
+improved infrastructure.
+9.
+SAAMBAT directly addresses the infrastructure constraints in the rural economy
+and the constraints faced by rural youth. The SAAMBAT design builds on IFAD’s
+experience and expertise in developing rural value chains and delivering
+climate-resilient infrastructure and services to rural communities.
+B. Lessons learned
+10. SAAMBAT builds upon the lessons learned from IFAD’s partnership with the Royal
+Government of Cambodia since 1996. SAAMBAT directly addresses the
+recommendations of the country strategy and programme evaluation – to target
+commercial and advanced farmers and poorer households, and to balance
+investment in human capital (component 2) with tangible items (component 1).
+The project design is also based on the request from the Government (coming out
+of its experience) for IFAD to balance investments in physical assets with new and
+innovative approaches to modernizing the rural economy.
+11. The design process has also drawn lessons from previous projects to avoid delays
+and enhance implementation readiness: the central project team is already in
+place.
+II. Project description
+A. Project objectives, geographic area of intervention and target
+groups
+12. The project’s development objective is to “sustainably increase productivity of rural
+youth, enterprises and the rural economy”, thus contributing to the goal of reduced
+poverty and enhanced food security.3 Low productivity contributes to the increasing
+income gap between urban and rural areas, outmigration and the persistence of
+multidimensional poverty. SAAMBAT will contribute to the three strategic objectives
+(SOs) of the results-based country strategic opportunities programme (COSOP),
+both directly and through synergies with the Accelerating Inclusive Markets for
+Smallholders (AIMS) project and the Agriculture Services Programme for
+Innovation, Resilience and Extension (ASPIRE). SO1 (poor smallholders enabled to
+take advantage of market opportunities) will be achieved through improved
+physical connectivity to markets and capacity development, SO2 (climate
+resilience) through infrastructure facilities that are climate-resilient and SO3
+(improve poor households' access to strengthened rural services) through
+vocational training for rural youth and digital services.
+13. The SAAMBAT design follows a programmatic approach in which components and
+target areas are selected for their complementarity with ASPIRE (focusing on
+production and agriculture extension) and AIMS (marketing and value chains), and
+with the planned interventions of other development partners. In line with the
+programmatic approach, SAAMBAT will work nationally and in 50 areas of
+smallholder production of commodities targeted by ASPIRE and AIMS (referred to
+as economic poles [EPs]), and potentially including any of the 24 rural provinces of
+Cambodia. For phase I, 10 EPs have been selected, based on criteria that include:
+(i) potential for agricultural growth based on smallholder production; (ii) need for
+infrastructure; (iii) poverty and a high level of outward labour migration,
+particularly on the part of youth; and (iv) strong commitment and capacity of the
+local leadership. Areas of importance to the vegetable value chain have been
+prioritized.
+14.
+Fifteen additional EPs will be selected in project year 1 and project year 2, and a
+further 25 at midterm. SAAMBAT will finance hard paved roads in 25 EPs. The
+3 Sustainability in economic, institutional, social and environmental terms.
+2
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2019/127/R.24
+remaining 25 EPs will be in areas where projects financed by partners – including
+the KfW Development Bank, the French Development Agency (AFD), the World
+Bank and/or the Asian Development Bank – will construct paved roads. In these
+EPs, SAAMBAT will finance smaller value chain infrastructure and
+non-infrastructure investments.
+15. About 227,000 households residing within the EP – approximately 1 million
+individuals – will be the direct beneficiaries of SAAMBAT. The primary target groups
+of SAAMBAT are: (i) smallholder farmers with the potential to strengthen
+market-led production; (ii) unemployed/underemployed youth (below 30 years of
+age) from poor rural households who are willing to enhance their skills and seek
+formal employment; and (iii) private enterprises and cooperatives. The majority of
+direct participants in project activities will be women. Households suffering
+multidimensional poverty will be identified through area targeting, which is aligned
+with AIMS and ASPIRE. The poverty level – as reflected by the Government's
+Identification of Poor Households methodology (also adopted by the United Nations
+system and international financial institutions in Cambodia) – is a key criterion in
+the selection of the EPs.
+B. Components/outcomes and activities
+16. The project will have the following components: (i) value chain infrastructure; and
+(ii) skills, technology and enterprise.
+17. Component 1: Value chain infrastructure. The outcome of this component is
+increased benefits for poor rural people as a result of market participation.
+Physical outputs will include 450 km of rural roads, around 50 rural market areas
+improved and 25 other value chain infrastructure facilities. Water management
+schemes and renewable energy technologies will be supported, if suitable
+opportunities and funding are identified.
+18.
+Infrastructure subprojects will be selected on the basis of their ability to stimulate
+private investment and growth in value chains supported by AIMS and/or ASPIRE,
+particularly the vegetable value chain. Tertiary roads will be paved with bitumen or
+concrete in areas prone to flooding. Farm access roads will be gravel-surfaced.
+Ferry crossings will improve their landings and access operated by private
+operators. Markets and logistics facilities will be operated by user committees. All
+infrastructure will be constructed to meet climate-proofed standards.
+19. Water for agriculture, which is a key constraint for smallholders, will be addressed
+primarily through partnership with the AFD’s Water for Cambodia project.
+SAAMBAT will study the feasibility of developing innovative approaches to water
+management based in the private sector or agriculture cooperatives. If suitable
+opportunities are identified, these activities will be integrated into SAAMBAT from
+year 3 onwards.
+20. Component 2: Skills, technology and enterprise, with the outcome of poor
+rural people’s productive capacities increased, is expected to result in at least
+4,500 rural youth being productively employed, 500 small and medium-sized
+enterprises developed and 25,000 rural value chain actors using digital technology.
+Physical outputs will include skills training for 6,800 rural youth, a rural business
+incubator and development of a “Khmer Agriculture Suite” (KAS), comprising an
+open digital platform and supporting infrastructure.
+21. Subcomponent 2.1: Skills for rural youth. This will assist rural youth to acquire
+technical skills or start their own businesses. All training for eligible rural youth will
+be in skills required by major employers, and provided in partnership with the
+private sector. Youth entering the programme will join an induction course of soft
+skills needed for entry into formal employment or training. These youth will be
+assigned to a national or local technical skills training course or – through the rural
+business incubator – will be connected to training and finance to start businesses.
+3
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2019/127/R.24
+22. Subcomponent 2.2: Technology and enterprise for agricultural value
+chains. This will assist the Government’s Techo Startup Center (TSC) to create
+KAS. Three groups of activities will be mutually reinforcing but also capable of
+delivering results independently: (i) development of the core KAS platform and key
+applications; (ii) a challenge fund to provide incentives for digital innovators to
+develop, launch and run applications benefiting smallholder agriculture (plus
+climate change adaptation and nutrition); and (iii) an outreach campaign through
+which value chain actors will receive digital literacy training.
+23. Subcomponent 2.3: Strategic studies, policy research and programme
+development. Strategic studies will consist in feasibility and/or pre-design studies
+of investments with the potential to benefit smallholders, including one major
+feasibility study for regional wholesale markets for the safe vegetable value chain.
+Policy research will promote development of the smallholder agriculture sector and
+extension of the digital technology ecosystem to the rural economy. Research will
+also focus on mainstreaming the themes of the Eleventh Replenishment of IFAD's
+Resources of climate change, gender, youth and nutrition within the national policy
+framework, and will inform future development of the IFAD country programme.
+The subcomponent will also finance activities to strengthen the programmatic
+approach.
+C. Theory of change
+24. SAAMBAT seeks a sustainable reduction in long-term, multidimensional poverty,
+vulnerability and food insecurity, through a more productive, resilient, equitable
+and diverse rural economy. The climate-resilient infrastructure component will
+support and enhance the sustainability of production and marketing efforts of
+smallholder farmers. Smallholder production will be more market-directed and will
+make increasing use of modern technology. The rural population – especially
+women and youth – will receive new technical and soft skills contributing to
+enhanced productivity or employment.
+25. SAAMBAT will complement AIMS, ASPIRE and partner programmes to address
+these constraints in a holistic manner. The integrated programme will reduce
+production and marketing costs, increase private sector investment and activity,
+and increase the productivity of labour for farmers, small and
+medium-sized enterprise owner/operators and employees. In turn, smallholders,
+poor households, women and youth will experience increased incomes and
+expanded economic opportunities. A strengthened and diversified rural economy
+will become more resilient to climate change.
+D. Alignment, ownership, and partnerships
+26. Cambodia’s national strategy to achieve the Sustainable Development Goals is the
+“Rectangular Strategy”. Cambodia’s RS-IV priorities directly addressed by
+SAAMBAT include: (i) investment in rural roads; (ii) promoting the use of digital
+and smart technology in agriculture; and (iii) establishing clean and hygienic
+wholesale vegetable markets. SAAMBAT’S programmatic approach will provide
+integrated support to national policy priorities and will also finance policy research
+activities at the programme level.
+27. SAAMBAT has been designed through inclusive dialogue with development
+partners, including through the Technical Working Group on Agriculture and Water,
+which is co-facilitated by IFAD. The programmatic approach will proactively
+develop alignments with other bodies. (Memorandums of understanding are being
+developed with AFD and KfW Development Bank in the rural infrastructure sector).
+In terms of collaboration between the Rome-based agencies (RBAs), the joint
+research agenda being developed by the RBAs in Cambodia will be aligned with
+SAAMBAT’s policy work. The Food and Agriculture Organization of the United
+Nations will also provide technical assistance under SAAMBAT on good agricultural
+practices.
+4
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2019/127/R.24
+E. Costs, benefits and financing
+28. Both components of the project include portions that are counted as climate
+finance. The total amount of IFAD climate finance for this project is calculated at
+US$38.6 million, or 71 per cent of total IFAD financing (as per the multilateral
+development banks' Methodologies for Tracking Climate Adaptation and Mitigation
+Finance).
+Project costs
+29. Total project costs, including price and physical contingencies, duties and taxes,
+are estimated at US$92.1 million over the six years of the project implementation
+period. Of this amount, about US$14.2 million (approximately 15 per cent of total
+project costs) represent the foreign exchange component, while US$6.0 million
+(approximately 6.5 per cent) are duties and taxes. Total base costs amount to
+US$81.2 million, while physical and price contingencies are estimated to add to this
+amount by another US$10.9 million (approximately 11.8 per cent of the base
+costs). Investment costs account for 95 per cent of the base costs, and recurrent
+costs for the remaining 5 per cent.
+30. Component 1 (Value chain infrastructure) represents US$61.1 million, or 66.3 per
+cent of project costs. Component 2 (Skills, technology and enterprise) is allocated
+US$25.9 million (28. 1 per cent). Project management costs are about
+US$5.1 million or 5.6 per cent of the total project costs.
+Table 1
+Project costs by component and financier
+(Thousands of United States dollars)
+Components/
+subcomponents
+1. Value chain
+infrastructure
+2. Skills, technology
+and enterprise
+Borrower/
+counterpart
+IFAD loan
+IFAD grant
+Financing gap Beneficiaries
+Other
+cofinanciers*
+Total
+Amount
+% Amount
+% Amount % Amount
+% Amount % Amount % Amount
+%
+4 273
+7
+37 288 61.1
+-
+18 221 29.8
+144 0.2
+1 130 1.9 61 057
+66.3
+3 557 13.8
+14 159 54.7
+1 200 4.6
+6 948 26.9
+3. Project management (PMU)
+3.1. Knowledge
+management, planning
+and monitoring and
+evaluation (M&E)
+698 36.3
+1 224 63.7
+3.2. Project
+coordination
+Subtotal PMU
+2 753 84.2
+515 15.8
+3 451 66.5
+1 739 33.5
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+25 864
+28.1
+1 922
+2.1
+3 268
+5 190
+3.5
+5.6
+Total project costs
+11 281 12.2
+53 186 57.7
+1 200 1.3
+25 170 27.3
+144 0.2
+1 130 1.2 92 111 100.0
+* Other cofinancing consists of the Government's national budget resources (outside project accounts) of US$1.1 million.
+5
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2019/127/R.24
+Table 2
+Project costs by expenditure category and financier
+(Thousands of United States dollars)
+Expenditure
+category
+1. Works
+2. Studies and
+consultancies
+3. Training
+4. Grant
+5. Vehicles
+6. Equipment and
+materials
+7. Operations and
+maintenance
+8. Salaries and
+allowances
+Borrower/
+counterpart
+IFAD loan
+IFAD grant
+Financing gap Beneficiaries
+Other
+cofinanciers*
+Total
+Amount
+% Amount
+% Amount % Amount
+% Amount % Amount
+% Amount
+%
+3 987
+7.3
+32 592 59.3
+-
+18 221 33.2
+144
+0.3
+-
+-
+-
+296 100.0
+3 337 100.0
+434
+27.7
+3 225 100.0
+10 806 88.8
+1 200
+9.9
+167
+1.4
+8 737 62.5
+1 051 40.5
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5 239 37.5
+1 543 59.5
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+54 947
+59.7
+12 173
+13.2
+13 976
+15.2
+2 593
+296
+2.8
+0.3
+3 337
+3.6
+1 130 72.3
+1 564
+1.7
+-
+3 225
+3.5
+Total project costs 11 281
+12.2
+53 186 57.7
+1 200
+1.3
+25 170 27.3
+144
+0.2
+1 130
+1.2
+92 111 100.0
+* Other cofinancing consists of the Government's national budget resources (outside project accounts) of US$1.1 million.
+Table 3
+Project costs by component and project year
+(Thousands of United States dollars)
+Component/
+subcomponent
+1. Value chain
+infrastructure
+2020
+2021
+2022
+2023
+2024
+2025
+Total
+Amount % Amount
+% Amount % Amount
+% Amount % Amount
+% Amount
+5 881
+55
+11 005
+69
+11 641
+68
+13 023
+68
+12 995
+73
+6 512
+59
+61 057
+2. Skills, technology and
+enterprise
+3. Project management (PMU)
+3.1 Knowledge
+management,
+planning and M&E
+3.2 Project coordination
+Subtotal
+3 922
+36
+4 217
+27
+4 685
+27
+5 333
+28
+4 105
+23
+3 602
+32
+25 864
+357
+644
+1 001
+3
+6
+9
+123
+484
+607
+1
+3
+4
+421
+527
+949
+2
+3
+5
+312
+506
+818
+1
+3
+4
+230
+537
+766
+1
+3
+4
+479
+570
+1 050
+4
+5
+9
+1 922
+3 268
+5 190
+Total project costs
+10 804 100
+15 829 100
+17 275 100
+19 173 100
+17 866 100
+11 163 100
+92 111
+Project financing and cofinancing strategy and plan
+31. SAAMBAT is to be financed by the Royal Government of Cambodia (through its
+national budget), an IFAD loan, an IFAD country grant and by the beneficiaries.
+The financing gap of US$25.2 million may be sourced in subsequent
+performance-based allocation system cycles or through cofinancing identified
+during implementation. The Ministry of Economy and Finance is currently using the
+SAAMBAT design to leverage further loan funds to cofinance the project, and has
+initiated discussions with the European Investment Bank, with a final decision
+expected by the end of 2019. If cofinancing does not materialize, there is no risk to
+any of the key elements of the project design.
+32. Of the total project cost, IFAD will finance US$53.2 million as a loan to the Royal
+Government of Cambodia. The Government has confirmed co-funding in cash of
+US$11.3 million, representing about 21 per cent of the IFAD loan. The national
+budget will finance the road maintenance, estimated at around US$1.1 million. An
+IFAD country grant is confirmed for US$1.2 million, and the project’s beneficiaries
+will contribute US$0.14 million as an in-kind contribution to the infrastructure.
+6
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2019/127/R.24
+Disbursement
+33. There shall be three bank accounts denominated in United States dollars (referred
+to as the “designated accounts”) opened by the borrower/recipient at the National
+Bank of Cambodia, through which the proceeds of the financing shall be transferred
+to the three project accounts at a commercial bank, in United States dollars.
+(i)
+(ii)
+One will be opened and maintained by the Ministry of Rural Development to
+implement component 1; and
+Two will be opened and maintained by the Ministry of Economy and Finance's
+project implementation unit (PIU) to implement component 2; one for the
+loan and one for the grant.
+34. The designated accounts shall be administered following imprest account
+arrangements. Advances from this financing must be segregated from other funds
+for the project.
+35. The statement of expenditure thresholds applicable for withdrawal applications for
+all categories of expenditure under schedule 2 of the financing agreement are as
+below:
+(i)
+“Advance withdrawal” shall be US$3,000,000 under the “works” category and
+US$100,000 for all other categories; and
+(ii)
+“Reimbursement” shall be US$100,000 for all categories of expenditure.
+36. Supporting documentation for all expenditure items, including updated contract
+monitoring forms, should remain available for inspection and verification during
+supervision and audit missions.
+Summary of benefits and economic analysis
+37. The main benefits of the project will accrue to the Cambodian economy in terms of
+improved road access, which will sustainably result in savings in travel time and in
+vehicle operating cost. Year-round accessible rural communities, farms and
+markets will support further growth in economic activity along these roads, with
+more volumes traded and better and more competitive access to farming inputs
+and services, benefiting the sustainable development of rural households. In
+addition, investments in agribusinesses will improve the marketing of agricultural
+output, and investments in skill development programmes will improve the
+involvement of youth in the formal economy.
+38. Social benefits will include a reduction in poverty rates in the areas targeted by the
+project. This will be the effect of the increased financial returns for households
+arising from project intervention. Other social benefits include improved household
+nutrition through increased incomes used to improve diets. Improved public
+infrastructure will also contribute to better access to social services and a reduction
+in negative health impacts from dust.
+39. The economic internal rate of return of the project is estimated at 33 per cent
+(base case). The sensitivity analysis shows that this could fall to 20 per cent in the
+most severe scenario – still above the opportunity cost of capital in Cambodia.
+Exit strategy and sustainability
+40. The exit strategy for SAAMBAT is intended to ensure the sustainability of the
+project’s achievements in terms of programme approach and the institutions and
+public assets (real and virtual) created.
+41. All infrastructure financed by component 1 of SAAMBAT will have a clearly
+identified agency responsible for operation and maintenance. Paved roads will be
+maintained directly by the Ministry of Rural Development. Gravel roads will be
+financed subject to agreement by the local authorities to adopt and maintain them.
+7
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2019/127/R.24
+Facilities such as markets will be maintained by user committees. Component 1
+includes funding for capacity development for road maintenance.
+42. Skills learned by rural youth under subcomponent 2.1 will be of lifelong value. All
+skills training courses will be based on identified gaps in the private sector and
+should lead to sustainable employment. The project will also develop capacity and
+teaching materials within the skills development fund (SDF) to address the
+technical education needs of youth in rural areas. It is expected that the SDF will
+continue to make use of this capacity beyond the lifetime of the project.
+43. Subcomponent 2.2 will also assist in building sustainable institutions, including the
+TSC, with capacity to support the needs of the rural economy in the future. Digital
+technologies will be developed using commercial viability as a fundamental
+criterion.
+44. The environmental sustainability of SAAMBAT investments will be verified through
+application of environmental safeguards procedures. Climate resilience will be
+ensured through the integration of local climate vulnerability analyses, and by the
+adoption of climate-proof design standards in line with existing standards
+maintained by the international donor community.
+III. Risks
+A. Project risks and mitigation measures
+45. SAAMBAT is considered a low-risk project overall, while some moderate risks are
+identified in the Integrated Risk Framework based on the operating environment
+and past experience in Cambodia. Risk of management and coordination failures
+will be mitigated through a strong focus on forward planning through the annual
+workplan and budget (AWP/B) and coordination through the country programme
+steering committee. Sustainability risks will be mitigated through clear
+responsibilities for infrastructure maintenance backed by capacity development.
+Political, governance, environmental and related fiduciary concerns are assessed as
+being of medium risk but manageable, based on previous country programme
+experience.
+B. Environment and social category
+46. Based on the assessment of potential environmental and social impacts presented
+in the Social, Environmental and Climate Assessment Procedures review note,
+SAAMBAT has been classified as environmental and social risk category B. That is
+to say that the project may have some adverse environmental and/or social
+impacts on human populations or (less likely) on environmentally significant areas,
+but the impacts: (i) are less adverse than those for category A; (ii) are
+site-specific, with few being irreversible in nature; and (iii) can be readily remedied
+by appropriate preventive actions and/or mitigation measures.
+47. Social and environmental screening will be required for individual infrastructure
+investments. Where significant risks are identified, social and/or environmental risk
+management mitigation plans will be developed. Road subprojects will be of less
+than 10 km in maximum length and will be constructed on existing road
+alignments. Resettlement of households will therefore not be needed.
+C. Climate risk classification
+48. SAAMBAT target areas will include areas that are significantly vulnerable to
+long-term climate change impacts. The project will include infrastructure
+construction in areas where there is a risk of losses through flood damage, if
+proper engineering design procedure – including consideration of future climate
+change trends – is not followed. However, the project areas are not affected by
+events of catastrophic significance. The climate risks in the project areas are well
+studied and understood, and can be managed through appropriate risk
+8
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2019/127/R.24
+management measures. For this reason, SAAMBAT is considered to fall within the
+“moderate” climate risk category.
+D. Debt sustainability
+49. A team from the International Monetary Fund conducted an Article IV consultation
+with Cambodia in 2018, during which the country’s debt-to-GDP ratio remained at
+30 per cent. Cambodia’s public debt-to-GDP ratio remains low risk.
+IV. Implementation
+A. Organizational framework
+Project management and coordination
+50. The Ministry of Rural Development will be the executing agency for SAAMBAT and
+will establish the PMU responsible for planning, reporting and overall coordination.
+This Ministry, through the PMU, will be responsible for implementing component 1.
+The Ministry of Economy and Finance, through a PIU, will be responsible for
+implementing component 2.
+51. SAAMBAT will be coordinated with AIMS and ASPIRE and with development partner
+projects through a country programme steering committee established at national
+level and through multi-stakeholder platforms in each economic pole. Provincial
+Departments of Rural Development (PDRDs) will coordinate the project at
+sub-national level, assisted by a team of facilitators.
+52. The Ministry of Rural Development will directly implement component 1, with
+infrastructure investments being identified through this process. A technical
+services provider will be recruited for the screening of subprojects, a feasibility
+study, design and cost estimation, the ensuring of environmental and social
+safeguards and climate change adaptation, and to supervise construction works in
+partnership with PDRD engineers.
+53. The Ministry of Economy and Finance will implement component 2 through a PIU.
+The SDF unit within this ministry will lead implementation of subcomponent 2.1
+(Skills for rural youth). The TSC, established within the Royal University of Phnom
+Penh, will be responsible for the technical direction of subcomponent 2.2
+(Technology and enterprise for agricultural value chains). The Government has
+identified the independent research institution Centre for Policy Studies as
+implementing partner for subcomponent 2.3 (Strategic studies, policy research and
+programme development).
+Financial management, procurement and governance
+54. The fiduciary risk assessment is drawn from the review of Cambodia’s public
+financial management system by the World Bank, published in the Public Financial
+Management and Accountability Project, and the Public Expenditure and Financial
+Accountability Performance Measurement framework, which rates the inherent
+country fiduciary risk as “high”. The project will: (i) establish a control framework
+incorporating periodic internal audits, independent external audits and social
+safeguards to be adopted based on IFAD policies; and (ii) adopt a good governance
+and mutual accountability framework, to strengthen accountability and
+transparency in line with international best practices.
+55. SAAMBAT financial management and procurement will follow the rules and
+procedures set out in the Financial Management Manual and the Procurement
+Manual of the Government’s Standard Operating Procedure, with the general
+exception that procedures must in all cases observe the relevant IFAD standards.
+56.
+In accordance with section 4.03(d) of IFAD's General Conditions for Agricultural
+Development Financing, three designated accounts denominated in United States
+dollars will be maintained for IFAD financing: (i) one designated account for the
+loan will be opened and maintained by the Ministry of Rural Development to
+9
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2019/127/R.24
+implement component 1; (ii) the other designated accounts (one for the loan and
+one for the grant) will be opened and maintained by the Ministry of Economy and
+Finance's PIU to implement component 2.
+57. A suitable web-based accounting software package will be procured. Each
+implementing agency shall maintain financial records and submit monthly,
+quarterly, six-monthly and annual reports to the PMU. The PMU will consolidate the
+financial reports and prepare withdrawal applications for submission to the Ministry
+of Economy and Finance for review.
+58.
+Procurement plans will be prepared and updated using the appropriate templates in
+the IFAD Procurement Handbook.
+59. There is limited capacity in the internal audit departments of the Ministry of Rural
+Development and the implementing agencies. Therefore, a private internal audit
+firm will perform a review of internal controls, propose improvements and issue
+recommendations. Internal audit responsibilities will be assigned to the internal
+audit departments, once these are assessed by IFAD supervision missions as
+having sufficient capacity.
+60. External audits will be conducted by a private audit firm hired by the Ministry of
+Economy and Finance, while IFAD will provide its no objection letter to the terms of
+reference.
+B. Planning, monitoring and evaluation, learning, knowledge
+management and communication
+61. SAAMBAT will adopt integrated planning within the programmatic approach
+described above. Preparation of the SAAMBAT AWP/B will be coordinated with
+AWP/B preparation in AIMS and ASPIRE. The programme steering committee will
+set overall direction and confirm priority objectives for the coming year.
+62. Each implementing agency of SAAMBAT will prepare its AWP/B, annual targets and
+priorities as agreed by the steering committee. The PMU will then consolidate the
+AWP/Bs and submit them to the project director for approval, subject to the no
+objection letter from IFAD.
+63. The SAAMBAT logical framework sets clear and quantified targets in terms of
+objectives, outcomes and outputs, linked to the IFAD Results and Impact
+Management System and Operational Results Management System. Key M&E tools
+will include a household impact survey, physical measurements of infrastructure
+outcomes (including traffic counts), a web-based management information system,
+including geographical information system capability, and annual outcome surveys
+measuring interim results.
+64. SAAMBAT and its alignment with other projects will provide a model for integrated
+investments covering extension, marketing services, infrastructure and youth/skills
+development. Learning and knowledge management will assist the Government in
+refining its policy and scaling up the successful elements of the project. The IFAD
+Mekong Hub will also incorporate lessons from the project across the subregion and
+beyond.
+Innovation and scaling up
+65. The innovative aspects of SAAMBAT’s design include:
+(i)
+(ii)
+A demand-led approach to integrated planning of production, marketing and
+infrastructure development, through the multi-stakeholder platforms; and
+Expanded use of digital technologies, including a balanced
+upstream/downstream approach to needs identification, testing, roll-out and
+strengthening capacity for the use of digital technologies in the rural
+economy.
+10
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2019/127/R.24
+66. There is potential to scale up the programmatic approach by its adoption across
+the IFAD programme and by partner agencies. The skills training is integrated
+within the Government’s SDF, providing a ready pathway to scaling up. Digital
+applications will be scalable once launched and proven effective, through the TSC
+and its private partners.
+C.
+Implementation plans
+Implementation readiness and start-up plans
+67. The central project team has already been appointed, within both the Ministry of
+Rural Development and the Ministry of Economy and Finance, even prior to
+approval. Key staff have attended IFAD training sessions and were involved in the
+design and negotiations. Key implementing partners have been identified and
+SAAMBAT’s rationale, activities, and results agreed. SAAMBAT, AIMS and ASPIRE
+have already appointed focal points for the programmatic approach, and the first
+10 EPs have been identified. Implementation readiness is high, with activities on
+the ground expected to start by early 2020.
+68.
+Supervision, midterm review and completion plans
+IFAD will conduct one annual supervision mission for SAAMBAT plus additional
+implementation support missions to identify practical solutions to any challenges.
+The project completion report will be submitted by the Royal Government of
+Cambodia within six months of completion, with evidence of the impact achieved.
+V. Legal instruments and authority
+69. A project financing agreement between the Kingdom of Cambodia and IFAD will
+constitute the legal instrument for extending the proposed financing to the
+borrower. A copy of the negotiated financing agreement is attached to this report.
+70. The Kingdom of Cambodia is empowered under its laws to receive financing from
+IFAD.
+71.
+I am satisfied that the proposed financing will comply with the Agreement
+Establishing IFAD and the Policies and Criteria for IFAD Financing.
+VI. Recommendation
+72.
+I recommend that the Executive Board approve the proposed financing in terms of
+the following resolution:
+RESOLVED: that the Fund shall provide a loan on highly concessional terms
+to the Kingdom of Cambodia in an amount equivalent to fifty-three million
+one hundred and eighty-six thousand United States dollars (US$53,186,000),
+and upon such terms and conditions as shall be substantially in accordance
+with the terms and conditions presented herein.
+RESOLVED FURTHER: that the Fund shall provide a grant to the Kingdom of
+Cambodia in an amount equivalent to one million two hundred thousand
+United States dollars (US$1,200,000) and upon such terms and conditions as
+shall be substantially in accordance with the terms and conditions presented
+herein.
+Gilbert F. Houngbo
+President
+11
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+Appendix I
+EB 2019/127/R.24
+Negotiated financing agreement: "Sustainable Assets for
+Agriculture Markets, Business and Trade (SAAMBAT)"
+(Negotiations concluded on 5 July 2019)
+Loan No:___________
+Grant No: __________
+Project name: Sustainable Assets for Agriculture Markets, Business and Trade
+(SAAMBAT) (the “Project”)
+The Kingdom of Cambodia (the “Borrower/Recipient”), represented by the Ministry of
+Economy and Finance (MEF) or successor thereto.
+and
+The International Fund for Agricultural Development (the “Fund” or “IFAD”)
+(each a “Party” and both of them collectively the “Parties”)
+hereby agree as follows:
+Section A
+1.
+The  following  documents  collectively  form  this  Agreement:  this  document,  the
+Project Description and Implementation Arrangements (Schedule 1), the Allocation Table
+(Schedule 2) and Special Covenants (Schedule 3).
+2.
+The  Fund’s  General  Conditions  for  Agricultural  Development  Financing  dated
+29 April 2009, amended as  of December 2018, and as may be amended hereafter  from
+time to time (the “General Conditions”) are annexed to this Agreement, and all provisions
+thereof  shall  apply  to  this  Agreement.  For  the  purposes  of  this  Agreement  the  terms
+defined  in  the  General  Conditions  shall  have  the  meanings  set  forth  therein,  unless  the
+Parties shall otherwise agree in this Agreement.
+3.
+The  Fund  shall  provide  a  Loan/Grant  to  the  Borrower/Recipient  (the  “Financing”),
+which the  Borrower/Recipient  shall  use  to implement  the  Project  in  accordance  with  the
+terms and conditions of this Agreement.
+Section B
+1.
+A.
+The amount of the Loan is fifty three million one hundred eighty six thousand
+United States Dollars (USD 53 186 000).
+B.
+The  amount  of  the  Grant  is  one  million  two  hundred  thousand  United  States
+Dollars (USD 1 200 000).
+2.
+Loan is granted on highly concessional terms, and shall be free of interest but shall
+bear  a  fixed  service  charge  as  determined  by  the  Fund  at  the  date  of  approval  of  the
+Loan by the Fund’s Executive Board, payable semi-annually in the Loan Service Payment
+Currency.  The  Loan  shall  have  a  maturity  period  of  forty  (40)  years,  including  a  grace
+period  of  ten  (10)  years  starting  from  the  date  of  approval  of  the  Loan  by  the  Fund’s
+Executive Board.
+1
+Appendix I
+EB 2019/127/R.24
+The  principal  of  the  Loan  will  be  repaid  at  four  and  half  per  cent  (4.5 per  cent)  of  the
+total  principal  per  annum  for  years  eleven  (11)  to  thirty  (30),  and  one  per  cent  (1 per
+cent) of the total principal per annum for years thirty-first (31) to forty (40).
+The  Grant  is  provided  upon  such  terms  and  conditions  as  shall  be  substantially  in
+3.
+accordance with the terms and conditions presented herein.
+4.
+5.
+The Loan Service Payment Currency shall be the United States Dollar.
+The first day of the applicable Fiscal Year shall be the 1st of January.
+Principal  and  service  charge  shall  be  payable  on  each  1st of  May  and  1st of
+6.
+November.
+7.
+There  shall  be  three  bank  accounts  denominated  in  USD  (referred  to  as  the
+“Designated  Accounts”)  opened  by  the  Borrower/Recipient  in  the National  Bank  of
+Cambodia,  through  which  the  proceeds  of  the  Financing  shall  be  further  transferred  to
+the  three  Project  Accounts  opened  in  a  commercial  bank  in  United  States  Dollars
+respectively:
+(a) One  will  be  opened  and  maintained  by  the  Ministry  of Rural  Development
+(MRD) to implement the component 1;
+(b)
+two  will  be  opened  and  maintained  by  the  Ministry  of  Economy  and  Finance
+PIU to implement the component 2, one for the Loan and one for the Grant.
+The  Borrower/Recipient  shall  inform  the  Fund  of  the  officials  authorized  to  operate  the
+Designated Accounts.
+One  Counterpart  Fund  account  shall  be  opened  in  the  National  Bank  of  Cambodia
+8.
+for Government counterpart Funds. Two sub-accounts shall be opened and maintained by
+MEF-PIU  and  MRD  respectively,(referred  as  the  “Royal  Government  of  Cambodia  (RGC)
+Counterpart  Account”)  in  commercial  banks  to  receive  the  counterpart  funds  from  the
+Counterpart  Fund  account.  The  counterpart  contribution  shall  be  segregated  from  IFAD
+resources.
+9.
+The  Borrower/Recipient  shall  provide  counterpart  financing  for  the  Project  in  the
+amount  of  approximately  eleven  million  three  hundred  thousand  United  States  Dollars
+(USD 11 300 000).  The  counterpart  financing  provided  by  the  Borrower/Recipient  shall
+include  works  (approximately  USD  3.9  million),  equipment  and  material  (approximately
+USD  3.7  million),  and  operation  and  maintenance  costs  including  taxes  (approximately
+USD 3.7 million). The Project beneficiaries will contribute approximately USD 0.14 million
+as in-kind contribution to the infrastructure.
+Section C
+The  Lead  Project  Agency  (LPA)  or  Executing  Agency  (EA)  shall  be  the  Ministry  of
+1.
+Rural Development (MRD) of the Borrower/Recipient or successor to the MRD.
+The following is designated as an additional Project Party  or  Implementing Agency
+2.
+(IA): Ministry of Economy and Finance (MEF).
+3.
+A Mid-Term Review will be conducted as specified in Section 8.03 (b) and (c) of the
+General Conditions; however, the Parties may agree on a different date for the Mid-Term
+Review of the implementation of the Project.
+2
+Appendix I
+EB 2019/127/R.24
+The Project Completion Date shall be the sixth anniversary of the date of entry into
+4.
+force of this Agreement.
+Section D
+The Loan/Grant will be administered and the Project supervised by the Fund.
+Section E
+1.
+The following are designated as additional conditions precedent to withdrawal:
+(a)
+(b)
+(c)
+(d)
+The MRD Project Management Unit (PMU), Ministry of Economy and Finance Project
+Implementation Unit (MEF-PIU) and the Country Programme Steering Committee (CPSC)
+shall have been duly established and staffed in accordance with Section II, Schedule 1 to
+this Agreement;
+The Project key staff,
+acceptable to the Fund shall have been duly appointed;
+including a Project director and a Finance Officer at MRD,
+A computerized accounting system acceptable to the Fund shall have been identified at
+PMU;
+A Project Implementation Manual (PIM) shall have been prepared in form and substance
+satisfactory to the Fund.
+The  following  are  designated  as  additional  grounds  for  cancellation of  this
+2.
+Agreement:
+(a)
+the Project has not started disbursing within 18 months from entry into force
+of this Agreement.
+The following are the designated representatives and addresses to be used for any
+3.
+communication related to this Agreement:
+For the Borrower/Recipient:
+Director General
+General Department of International Cooperation and Debt Management
+Ministry of Economy and Finance
+St. 92, Sangkat Wat Phnom, Khan Daun Penh,
+Phnom Penh, Cambodia
+For the Fund:
+Country Director
+Asia and the Pacific Division
+International Fund for Agricultural Development
+Via Paolo di Dono 44
+00142 Rome, Italy
+3
+Appendix I
+EB 2019/127/R.24
+This Agreement, has been prepared in the English language in two (2) original copies,
+one (1) for the Fund and one (1) for the Borrower/Recipient.
+KINGDOM OF CAMBODIA
+____________________
+Authorized representative
+Date: ____________
+INTERNATIONAL FUND FOR
+AGRICULTURAL DEVELOPMENT
+___________________
+Gilbert F. Houngbo
+President
+Date: ______________
+4
+Appendix I
+EB 2019/127/R.24
+Schedule 1
+Project Description and Implementation Arrangements
+I.
+Project Description
+1.
+Target  Population.  The  Project  shall  benefit  smallholder  farmers  with potential  to
+strengthen  market-led  production,  unemployed/underemployed  youth  from  poor  rural
+households  who  are  willing  to  seek  formal  employment  and  enhance  their  skills
+accordingly;  and  private  enterprises  and  co-operatives  which  play  an  important  role in
+improving  efficiency  and  value  addition  of  key  value  chains  in  the  Economic  Poles.  The
+Project  is  a  national  program,  operating  nation-wide  and  in  around  fifty  (50)  areas,
+referred to as Economic Poles (EP) of small holder production of commodities targeted by
+ASPIRE and AIMS (the “Project Area”).
+Goal.  The  goal  of  the  Project  is  to  reduce  poverty  and  enhance  food  security  in
+2.
+Cambodia.
+3.
+Objectives. The objective of the Project is to sustainably increase productivity of rural
+youth, enterprises and the rural economy, contributing to the Goal of Reduced Poverty and
+Enhanced  Food  Security.  There  are  expected  to  be  about  200,000  rural  households
+benefiting from services supported by the project. About 50,000 households will be direct
+beneficiaries. This  impact  will  result  from  two  Outcomes:  (1)  Poor  rural  people’s  benefits
+from  market  participation  increased;  and  (2)  Poor  rural  people’s  productive  capacities
+increased.
+4.
+Components. The Project shall consist of the following Components:
+Value  Chain  Infrastructure.  The  objective  of  this  component  is  to
+4.1. Component 1.
+benefit  poor  rural  people  through  increase  in  market  participation  by  funding
+development  for  rural  infrastructure  improvement.  Physical  outputs  will  include  rural
+roads;  rural  markets  and  other  value  chain  infrastructure  facilities.  Infrastructure
+subprojects  will  be  selected  on  the  basis  of  their  ability  to  stimulate  private  investment
+and  growth  in  value  chains  supported  by  AIMS/ASPIRE/TSSD,  particularly  the  safe
+vegetable  value  chain.  The  Royal  Government  of  Cambodia  will  seek  other  potential
+partners to cofinance the infrastructure.
+4.2. Component 2. Skills, Technology and Enterprise. The objective of this component is
+to increase poor rural people’s productive capacities by using digital technology through
+the following sub-components:
+4.2.1. Sub-component  2.1. Skills  for  Rural  Youth  and  Enterprises. The  Project  will  work
+through the SDF and Enterprise Promotion Fund (EPF) in assisting approximately
+6,800  rural  youth  to  increase  their  productivity  and  earning  potential  through
+improved technical and workplace skills. The Project will engage a service provider
+to develop a soft skills training curriculum, map training demand (employers and
+potential  trainees)  and  training  providers  and  conduct  an  outreach  campaign  to
+link  trainees  to  training  opportunities.  The  service  provider  will  also  implement  a
+business  incubator  to  assist  aspiring  young  entrepreneurs  to  establish  rural
+enterprises.  Outreach  activities  will  prioritise  the  SAAMBAT  Economic  Poles  but
+eligible  rural  youth  will not  be  limited  to  those  who  are  resident  in the  Economic
+Poles.
+4.2.2. Sub-component  2.2.  Digital  Technology  and  Enterprise  for  Agricultural  Value
+Chains.  The  Project  will  support  (i) the  development  of  an open  digital  platform
+and  supporting  infrastructure  called  Khmer  Agriculture  Suite  (KAS);  (ii) a
+5
+Appendix I
+EB 2019/127/R.24
+Challenge  Fund  to  finance  development  and  roll-out  of  copy-right  protected
+innovative commercial mobile/ digital applications for the rural economy which will
+be  linked  to  KAS;  and  (iii) an  outreach  campaign  of  digital  literacy  and  digital
+adoption,  uptake  of  existing  mobile  applications  and  testing  and  roll-out  support
+for the KAS-linked applications.
+to  strengthen 
+4.2.3. Sub-component  2.3.  Strategic  Studies,  Policy  Research  and  Programme
+Development.
+the
+The  Project  will  (i) support  activities 
+programmatic  approach  linking  the  IFAD  country  programme  and  the  partner
+projects in a common goal setting, planning and M&E framework aligned with RGC
+policy  and  IFAD corporate  priorities;  (ii) conduct  the  strategic  studies  /feasibility
+and/or  pre-design  studies  of  investments  with  potential  to  benefit  small  holders,
+including  a  major  feasibility  study  for  regional  wholesale  markets  for  the  safe
+vegetable  value  chain; and  (iii) conduct  policy  research  to  promote  development
+of  the  small  holder  agriculture  sector,  extension  of  the  digital  technology  eco
+system to the rural economy. Research will also focus on mainstreaming the IFAD
+11  themes  of  climate  change,  gender,  youth  and  nutrition  in  the  national  policy
+framework;  and  will  inform  the  future  development  of  the  IFAD  country
+programme.
+II.
+Implementation Arrangements
+A.
+Organisation and Management
+1.
+Country Programme Steering Committee (CPSC)
+1.1. Establishment  and  Composition. The  CPSC  shall  be  chaired  by  a  Senior  Official  of
+MEF and will be composed of members representative of Ministry of Agriculture, Forestry
+and  Fisheries  (MAFF),  Ministry  of  Commerce  (MOC),  Ministry  of  Rural  Development
+(MRD),  National  Committee  for  Sub  National  Democratic  Development- Secretariat
+(NCDD-S)  as  Executing  Agencies  of  the  COSOP,  IFAD,  Development  Partners  that  have
+co-operation  agreements  or  MOU  with  IFAD,  other  ministries  and  agencies  that  have
+implementing  responsibilities  for  COSOP  programs  and  projects,  or  are  important
+partners for IFAD and representatives of the private sector.
+1.2. Responsibilities. The  CPSC  will  set  strategic  directions  for  the  Project  Based
+Approach  and 
+technical
+IFAD-financed  projects  but  will  neither  address 
+implementation of the projects under the programme nor review and approve the AWPB.
+The Committee will be supported by Technical Assistance under Sub-Component 2.3 for
+Policy Development and the support for the programmatic approach.
+the 
+2.
+Lead Project Agency (“LPEA”) or Executing Agency (EA)
+2.1. The  EA  shall  be  MRD,  who  shall  have  the  overall  responsibility  for  the  Project
+implementation.  The  responsibility  will  be  carried  out  through  a  project  management
+unit.
+3.
+Project Management Unit (“PMU”)
+3.1. Establishment  and  Composition.  A PMU  shall  be  established  within  the  MRD,  with
+structure, composition, functions and responsibilities in accordance with the provision of
+the  Standard  Operating  Procedure  adopted  by  RGC  for  the  administration  of  the
+externally funded projects . and acceptable to the Fund.
+4.
+Project Implementing Unit (PIU)
+4.1 Establishment  and  Composition. A  PIU  shall  be  established  within  the  MEF,  with
+structure, composition, functions and responsibilities in accordance with the provision of
+the  Standard  Operating  Procedure adopted  by  RGC  for  the  administration  of  the
+externally funded projects and acceptable to the Fund.
+6
+Appendix I
+EB 2019/127/R.24
+B.
+Responsibilities.
+5.
+The  PMU  will  be  responsible  for  the  consolidation  of  the  planning,  reporting  and
+overall  coordination  of  Project  implementation.  MRD,  through  the  PMU,  will  be
+responsible  for  implementing  Component  1,  including  all  related  procurement.  MEF,
+through the PIU, will be responsible for implementing Component 2, including all related
+procurement.
+C.
+Project Implementation Manual (“PIM”)
+6.
+Preparation.  The  Borrower/Recipient  shall  prepare,  in  accordance  with  terms  of
+reference acceptable to the Fund, a PIM, which shall include, among other arrangements:
+(i) institutional  coordination  and  day-to-day  execution  of  the  Project;  (ii) Project
+budgeting,  disbursement,  financial  management,  procurement  monitoring,  evaluation,
+reporting  and 
+implementation
+arrangements  for  each  Project  component;  and  (iv) such  other  administrative,  financial,
+technical  and  organizational  arrangements  and  procedures  as  shall  be  required  for  the
+Project.
+(iii) detailed  description  of 
+related  procedures; 
+7.
+The  PMU  shall  forward  the  draft  PIM  to  the  Fund  for  comments  and  no  objection.
+The  PMU  shall  adopt  the  PIM,  substantially  in  the  form  to  which  the  Fund  provided  its
+no-objection,  and  the  PMU  shall  promptly  provide  copies  thereof  to  the  Fund.  The
+Recipient  shall  carry  out  the  Project  in  accordance  with  the  PIM  and  shall  not  amend,
+abrogate,  waive  or  permit  to  be  amended,  abrogated,  or  waived,  the  aforementioned
+manual, or any provision thereof, without the prior written consent of the Fund.
+D. Monitoring and Evaluation
+8.
+The  Project  will  conduct  household  impact  survey,  physical  measurements  of
+infrastructure  outcomes  including  traffic  counts,  and  a  web-based  management
+information system (MIS) including geographical information system (GIS) capability.
+E.
+Supervision
+9.
+The  Fund  will  conduct  one  annual  supervision  mission  with  the  first  mission
+provisionally  scheduled  for  the  third  quarter  of  2020.  In  addition,  IFAD  may  conduct
+Implementation  Support  Missions  (ISM)  in  order  to  advise  on  Project  strategy  and
+implementation  approach  and  to  assist  the  Project  to  identify  practical  solutions  to  any
+challenges and bottlenecks.
+7
+Appendix I
+EB 2019/127/R.24
+Schedule 2
+Allocation Table
+1. Allocation  of  Loan/Grant  Proceeds. (a) The Table  below  sets  forth  the  Categories  of
+Eligible  Expenditures  to  be  financed  by  the  Loan/Grant  and  the  allocation  of  the
+amounts  to  each  category  of  the  Financing  and  the  percentages  of  expenditures  for
+items to be financed in each Category:
+Loan amount
+allocated
+(expressed
+in USD)
+Grant amount
+allocated
+(expressed
+in USD)
+Total Loan and
+Grant amount
+Percentage
+(net of
+Government
+and other
+contribution
+29 350 000
+29 350 000
+100
+Category
+I. Works
+II.
+Consultancies
+9 561 000
+1 200 000
+10 761 000
+100%
+III. Training
+7 863 000
+7 863 000
+100%
+IV. Grants and subsidies
+975 000
+975 000
+100%
+Unallocated
+5 437 000
+5 437 000
+Total
+53 186 000
+1 200 000
+54 386 000
+(b)
+The terms used in the Table above are defined as follows:
+"Consultancies" under Category II shall mean eligible expenditures incurred related to all
+consultancy services and studies for the Project.
+The grant funds will be utilized for consultancies under component 2.3.
+8
+Appendix I
+EB 2019/127/R.24
+Schedule 3
+Special Covenants
+In  accordance  with  Section  12.01(a)(xxiii)  of  the  General  Conditions,  the  Fund  may
+suspend, in whole or in part, the right of the Borrower/Recipient to request withdrawals
+from  the  Loan  and  Grant  Account  if  the  Borrower/Recipient  has  defaulted  in  the
+performance  of  any  covenant  set  forth  below,  and  the  Fund  has  determined  that  such
+default has had, or is likely to have, a material adverse effect on the Project:
+1. Within  6  months  of  entry  into  force  of  the  Financing  Agreement,  the  Project  will
+identify a customize accounting software as it is the practice in IFAD on-going supported
+projects, to satisfy International Accounting Standards and IFAD’s requirements.
+2. Within six (6) months of entry into force of the Financing Agreement , the MEF PIU
+will  enter into  Memorandum  of  Understandings  (MoU)  with  TSC  and  CPS  that  will
+structure  the  collaboration,  define  roles,  responsibilities  and  duties  with  regards  to
+implementation, financial management, accounting and reporting.
+3.
+Planning,  Monitoring  and  Evaluation.  The  Borrower/Recipient  shall  ensure  that  a
+Planning,  Monitoring  and  Evaluation  (PM&E)  system  shall  be  established  within  twelve
+(12) months from the date of entry into force of this Agreement.
+4.
+Indigenous  People  (IPs)  Concerns. The  Borrower/Recipient  shall  ensure  that  the
+concerns of IPs are given due consideration in implementing the Project and, to this end,
+shall ensure that:
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+the  Project  is  carried  out  in  accordance  with  the  applicable  provisions  of  the
+relevant IP national legislation;
+indigenous people are adequately and fairly represented in all local planning for
+Project activities;
+IP rights are duly respected;
+IP communities, participate in policy dialogue and local governance;
+The  terms  of  Declarations,  Covenants  and/or Conventions  ratified  by  the
+Borrower/Recipient on the subject are respected;
+The  Project  will  not  involve  encroachment  on  traditional  territories  used  or
+occupied by indigenous communities.
+5.
+Land tenure security. The Borrower/Recipient shall ensure that the land acquisition
+process  has  already  been  completed  and  that  compensation  processes  were  consistent
+with  the  Standard  Operating  Procedure  for  land  acquisition  and  resettlement  which
+includes the free prior and informed consent principles.
+6.
+Compliance  with  the  Social  Environmental  and  Climate  Assessment  Procedures
+(SECAP).  The  Borrower/Recipient  shall  ensure  that  the  Project  will  be  implemented  in
+compliance with IFAD’s SECAP.
+Environment  and  Social  Safeguards.  The  Borrower/Recipient  shall  ensure  that:  (a) all
+Project  activities  are  implemented  in  strict  conformity  with  the  Borrower/Recipient’s
+relevant  laws/regulations;  (b) all  Project  activities  give  special  consideration  to  the
+participation and practices of ethnic minority population in compliance with IFAD’s Policy
+on  Indigenous  Peoples (2009),  as  appropriate;  (c) proposals  for  civil  works  include
+confirmation  that  no  involuntary  land  acquisition  or  resettlement  is  required  under  the
+Project. In the event of unforeseen land acquisition or involuntary resettlement under the
+Project,  the  Borrower/Recipient  shall  immediately  inform  the  Fund  and  prepare  the
+necessary planning documents; (d) women and men shall be paid equal remuneration for
+work of equal value under the Project; (e) recourse to child labour is not made under the
+Project; (f) the measures included in the Gender Action Plan prepared for the Project are
+9
+Appendix I
+EB 2019/127/R.24
+undertaken, and the resources needed for their implementation are made available, in a
+timely manner; and (g) all necessary and appropriate measures to implement the Gender
+Action Plan to ensure that women can participate and benefit equitably under the Project
+are duly taken.
+Anticorruption Measures. The Borrower/Recipient shall comply with IFAD’s Policy on
+7.
+Preventing Fraud and Corruption in its Activities and Operations.
+10
+Logical framework
+Indicators
+Means of Verification
+Results Hierarchy
+Outreach
+1
+1
+Project Goal
+Reduce poverty and
+enhance food security
+Development Objective
+Sustainably increase
+productivity of youth,
+enterprises and the rural
+economy
+Outcome
+1. Increase poor rural
+people’s benefits from
+market participation
+Name
+Baseline
+Mid-Term
+End
+Target
+1 Persons receiving services promoted or supported by the
+project
+Total number of
+persons receiving
+services - Number of
+people
+75000
+227000
+1.a Corresponding number of households reached
+Non-women-headed
+households - Number
+1.b Estimated corresponding total number of households
+members
+Household members -
+Number of people
+500000
+1000000
+Source
+Survey
+Frequency
+Responsibility
+Monthly
+M&E officer
+Assumptions
+Survey
+Monthly
+M&E officer
+Survey
+Monthly
+M&E officer
+periodically
+after every 5
+years
+Periodically
+RGC and third-party
+assessments
+Government
+Analysis
+Stimulating rural growth will
+reduce poverty
+Increase in agriculture
+growth will reduce poverty.
+country level
+poverty
+assessment
+Government
+Economic
+Analysis
+Feed the
+future survey
+Outcome
+survey
+Outcome
+survey
+Declining rural poverty rates with improvement in status of
+women-headed hhs
+rural poverty rate (% )-
+20
+15
+Increasing agriculture growth rate
+growth rate (%) -
+1.5
+10
+2
+Abbreviated Women's Empowerment in Agriculture Index
+AWEIA - Number
+0.74
+0.8
+Number of direct beneficiaries experiencing at least 25%
+increased earnings-per-day from on-farm or off-farm work
+Households - Number
+15000
+30000
+Number of beneficiaries reporting reduced variability of
+earnings with climate conditions
+Females - Number
+Households - Number
+20000
+50000
+2.2.6 Households reporting improved physical access to
+markets, processing and storage facilities
+Households reporting
+improved physical
+access to markets -
+Percentage (%)
+80
+Periodically
+USAID
+Baseline; Mid-
+term; End line
+surveys
+Baseline; Mid-
+term; End line
+surveys
+Third Party
+Assessment
+Third party
+assessment
+Survey; M&E
+records
+After mid-term
+annually
+PSU and MRD and
+PDRD
+Political and economic
+stability in the country and
+the region.
+Increased market
+participation will lead to
+increased productivity
+CI 1.2.3 Activities to be
+delivered in cooperation with
+other partners
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+9
+/
+1
+2
+7
+/
+R
+.
+2
+4
+Output
+1.1 Access Roads: Year-
+round access roads built in
+the areas of intervention
+2.1.5 Roads constructed, rehabilitated or upgraded
+Length of roads -
+Length (km)
+160
+Households reporting
+improved physical
+access to markets -
+Number
+160000
+The growth in the traffic and businesses visible along the
+roads, in the markets and ferry landings constructed by the
+project.
+increase in roadside
+businesses (%) -
+increase in traffic (%) -
+1.2.3 Households reporting reduced water shortage vis-à-vis
+production needs
+Households - Number
+1000
+25
+50
+5000
+Women-headed
+households - Number
+150
+750
+Km of road constructed, rehabilitated or upgraded
+Bitumen / concrete
+surface - (km)
+Gravel surface - (km)
+100
+60
+2.1.6 Market, processing or storage facilities constructed or
+rehabilitated
+Market facilities
+constructed/rehabilitate
+d - Number
+25
+75
+3.1.3 Persons accessing technologies that sequester carbon
+or reduce greenhouse gas emissions
+Total persons
+accessing technologies
+- Number of people
+5000
+20000
+Traffic and
+business
+volume
+surveys
+Baseline. Mid-
+term; End line
+MRD and technical
+consultant
+M&E records
+Annual
+PMU and MME
+M&E records
+Annual
+PMU
+M&E records
+Annual
+PMU
+M&E records
+Annual
+PMU
+MIS
+Annually
+RET suppliers
+450
+300
+150
+Number of rural youth productivity employed
+employment - Number
+1500
+4500
+2.2.2 Supported rural enterprises reporting an increase in
+profit
+Number of enterprises -
+Number
+60
+85
+Pre-training
+and post
+training
+tracking of
+applicants
+Outcome
+Survey
+Baseline; Mid-
+term; End line
+PSU and SDF
+Annually
+PMU
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+9
+/
+1
+2
+7
+/
+R
+.
+2
+4
+1. Demand-responsive
+output planning. 2.
+Appropriate technical
+standards. 3. Effective
+operation and maintenance.
+1. Demand-responsive
+output planning. 2.
+Appropriate technical
+standards. 3. Effective
+operation and maintenance.
+Financing for RET activities
+identified following
+favourable evaluation of S-
+RET
+The training adds value to
+the skills of the youth and
+enhances their demand in
+the job market.
+1
+2
+Output1.2 Other value
+chain infrastructure
+facilities constructed
+Output
+1.3 Farmer benefit from
+improved on-farm and
+near-farm water
+management, solar
+pumping and productive
+RET
+Outcome
+2. Increase poor rural
+people’s productive
+capacities
+Output
+2.1.1 Number of rural
+youth trained in Technical
+Skills and supported to
+develop businesses
+Output
+2.2.1 Digital Literacy and
+Adoption of Digital
+Technology
+2.1.2 Persons trained in income-generating activities or
+business management
+Persons trained in IGAs
+or BM (total) - Number
+2280
+6840
+2.1.1 Rural enterprises accessing business development
+services (at least 30% with women in leadership positions)
+Rural enterprises -
+Number
+150
+500
+Size of enterprises -
+Number of people
+300
+1500
+Number of persons trained in digital literacy
+People trained -
+Number of people
+1500
+5000
+Number of persons participating in technology adoption
+subprojects
+people trained -
+Number of people
+1500
+5000
+MIS
+Annually
+PMU & SDF
+Economic opportunities exist
+for people with improved
+skills
+MIS
+Annual
+PMU & SDF
+MIS
+Annually
+PMU & SDF
+Use of digital technology can
+increase rural productivity.
+MIS
+Annually
+PMU & SDF
+Output
+2.2.2 Digital Innovations
+for the Rural Economy
+Number of KAS apps developed for use by agriculture and
+rural sector and people benefiting from them
+Applications tested and
+rolled out with grant
+funding - Number
+2
+1
+3
+M&E and
+digital platform
+records
+5
+Annually
+Service Provider
+SP3 and Techo
+Start-up Centre
+Use of digital technology can
+increase rural productivity.
+Users - Number
+Applications supported
+by Challenge Fund
+reaching testing stage -
+Number
+Users - Number
+5000
+3
+12500
+10
+12500
+Output
+2.3.1 Policy Guidance
+Notes
+Policy 1 Policy-relevant knowledge products completed
+Number - Number
+2
+5
+PMU records
+Annually
+TA and PMU
+Improved policy and
+decision-making leads to
+increased productivity
+Note: Some additional indicators and disaggregated targets are in the ORMS system. This version has been edited and shortened for clarity and to meet the requirement of
+2 pages. All people-centric logframe targets will be measured for youth and gender.
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+9
+/
+1
+2
+7
+/
+R
+.
+2
+4

@@ -1,0 +1,1787 @@
+Document:
+Date:
+Distribution:
+Original:
+EB 2018/LOT/P.8
+20 March 2018
+Public
+French
+E
+President’s report
+Proposal for a loan to the Republic of Gabon
+for the Agricultural and Rural Development
+Project – Phase II
+Note to the Executive Board Representatives
+Focal points:
+Technical questions:
+Dispatch of documentation:
+Alessandra Zusi Bergés
+Senior Governing Bodies Officer
+Governing Bodies
+Tel.: +39 06 5459 2092
+e-mail: gb@ifad.org
+Bernard Hien Mwinyel
+Country Programme Manager
+West and Central Africa Division
+Tel.: +237 695169588
+email: b.hien@ifad.org
+Joseph Rostand Olinga Biwole
+Country Programme Officer
+Tel.: +237 698487209
+email: j.olingabiwole@ifad.org
+Executive Board — 123rd Session
+Rome, 16-17 April 2018
+For: Approval
+EB 2018/LOT/P.8
+ii
+iii
+1
+1
+1
+1
+2
+2
+2
+2
+4
+4
+5
+5
+5
+6
+6
+6
+6
+7
+7
+8
+8
+8
+8
+8
+8
+9
+9
+Contents
+Map of the project area
+Financing summary
+Recommendation for approval
+I.
+Strategic context and rationale
+A. Country and rural development and poverty context
+B. Justification and alignment with government priorities and RB-
+COSOP
+II.
+Project description
+A. Project area and target group
+B. Project development objectives
+C. Components/results
+III. Project implementation
+A. Approach
+B. Organizational framework
+C. Planning, M&E, learning and knowledge management
+D. Financial management, procurement and governance
+E. Supervision
+IV.
+Project costs, financing, benefits
+A. Project cost
+B. Project financing
+C. Summary benefit and economic analysis
+D. Sustainability
+E. Risk identification and mitigation
+V.
+Corporate considerations
+A. Compliance with IFAD policies
+B. Alignment and harmonization
+C. Innovations and scaling up
+D. Policy engagement
+VI.
+Legal instruments and authority
+VII. Recommendation
+Appendixes
+I.
+II.
+Negotiated financing agreement
+Cadre logique (Logical framework)
+i
+EB 2018/LOT/P.8
+Map of the project area
+Gabon
+IFAD-financed activities
+ii
+EB 2018/LOT/P.8
+Republic of Gabon
+Agricultural and Rural Development Project – Phase II
+Financing summary
+Initiating institution:
+IFAD
+Borrower:
+Republic of Gabon
+Executing agency:
+Ministry of Agriculture and Livestock, responsible
+for the Graine national agriculture programme
+Total project cost:
+EUR 20.93 million
+Amount of IFAD loan:
+(Performance-based allocation
+system 2016-2018)
+Terms of IFAD loan:
+EUR 5.43 million
+Ordinary: Repayment term of 15 to 18 years,
+including a grace period of three years, with an
+annual rate of interest equivalent to 100 per cent
+of the variable reference rate determined semi-
+annually by the Executive Board
+Financing gap:
+EUR 4.91 million
+Contribution of the borrower:
+EUR 10.26 million
+Contribution of beneficiaries:
+EUR 0.32 million
+Appraising institution:
+IFAD
+Cooperating institution:
+Directly supervised by IFAD
+iii
+EB 2018/LOT/P.8
+Recommendation for approval
+The Executive Board is invited to approve the recommendation for the proposed
+loan to the Republic of Gabon for the Agricultural and Rural Development Project –
+Phase II, as contained in paragraph 48.
+Proposal for a loan to the Republic of Gabon for the
+Agricultural and Rural Development Project – Phase II
+I. Strategic context and rationale
+A. Country and rural development and poverty context
+1.
+Gabon is an upper middle-income country with a predominantly young population
+estimated at 1.7 million. According to the Human Investment Strategy of 2014, the
+poverty rate has dropped from 33 per cent in 2005 to 30 per cent in 2013. Poverty
+is more prevalent in rural areas, where 45 per cent of households are economically
+vulnerable compared to 20 per cent in urban areas.
+2.
+3.
+B.
+4.
+The agriculture sector currently employs around 40 per cent of Gabon’s rural
+population, yet contributes just 5 per cent of GDP. Agricultural production is
+insufficient to make the country self-sufficient in food. To make up the resulting 60
+per cent deficit in staple products, particularly cereals and meat, large volumes of
+food are imported, estimated at more than US$650 million per year. The
+prevalence of chronic malnutrition is higher in rural areas than in urban centres at
+29 per cent and 14 per cent respectively.
+This situation, the result of an organizational, political and institutional framework
+that is weakly organized to stimulate agricultural development, is caused by
+several factors: (i) uncontrolled and unsecured land tenure; (ii) small size of farms;
+(iii) low yields for staple products; (iv) unattractive investment conditions and
+insufficient tax incentives; (v) limited access to financing, seed, agricultural inputs
+and outreach services; (vi) weak capacities among public, private and community
+institutions operating in the sector; (vii) insufficient investment in production,
+processing and marketing infrastructure; (viii) limited interconnectivity among
+different value chain stakeholders; (ix) insufficient local workforce; and (x)
+obsolete training infrastructure and platforms.
+Justification and alignment with government priorities and
+RB-COSOP
+To reduce the country’s dependence on oil revenues and diversify the economy,
+the Government launched the Emerging Gabon Strategic Plan (PSGE) setting forth
+the main development priorities through 2025. In application of the PSGE, the
+Ministry of Agriculture and Livestock, responsible for the Graine programme
+(MALGP) developed the Strategy for Economic Recovery of the Agriculture Sector
+for the period 2016-2023, built around three major priorities: (i) guarantee food
+security and reduce food imports by 80 per cent; (ii) create at least 150,000 new
+formal jobs in cooperatives; and (iii) boost agricultural exports to US$1 billion per
+year.
+5.
+The country still faces rural poverty, inequalities and other challenges such as
+limited institutional capacities and weak support structures and mechanisms for
+agricultural policy and strategy. Although policies have been launched in the past,
+the lack of full implementation has limited their impact on rural poverty, food crop
+productivity, nutrition and food security.
+1
+EB 2018/LOT/P.8
+6.
+7.
+Achieving the current national ambitions for agriculture will therefore mean
+overcoming these challenges, starting with the creation of enabling conditions for
+mobilizing and settling rural people generally, and the young workforce in
+particular. This challenge, in addition to the need to strengthen productive capital,
+is to reform institutional support systems, improve access to rural areas and
+guarantee an adequate supply of inputs and technologies to support production
+processing and market integration. Essentially, a fact-based decision-making
+process on strategy and policy is crucial to spark excitement and engagement
+among farmers, and interest among the private sector and market actors, in order
+to sustainably reactivate agricultural development in Gabon.
+Against this backdrop, a contextualized approach to IFAD’s engagement in Gabon,
+based in part on support for agricultural policy and in part on structuring
+productive investments, is suggested to accompany the Government’s efforts to
+meet the challenges described. IFAD assistance in policy dialogue, innovation,
+knowledge management and partnership, including South-South cooperation, will
+make it possible to build local and national institutional capacities, stimulate sound
+governance and promote an enabling environment for national and private
+investment.
+II. Project description
+A. Project area and target group
+8.
+PDAR II will be implemented in three of the country’s nine provinces: Woleu-Ntem,
+where PDAR was implemented, Ngounié and l’Ogooué-Ivindo. Within these
+provinces, the project will focus on 16 production areas covering 43 cantons and
+171 villages or groups of villages.
+9.
+PDAR II is intended to reach more than 16,000 beneficiaries. It will target actors in
+the value chains, including those operating upstream and downstream of
+production, in related services and occupations, in particular agricultural service
+provision, input distribution, and equipment installation and maintenance. The
+priority target group comprises poor rural people, particularly: (i) smallholder
+producers; (ii) rural youth; (iii) women; and (iv) indigenous people.
+10. The other beneficiaries will be the public bodies involved in agricultural policy
+formulation, implementation and evaluation, decentralized crop and livestock
+services, producers’ organizations and the private sector. They will receive
+capacity-building to ensure that goods and services provided are adapted to the
+needs of the priority target group.
+B. Project development objectives
+11. The project development objective is to sustainably improve incomes, food security
+and nutrition for smallholder producers – women, youth and indigenous people – in
+three provinces in Gabon. More specifically, this means:
+-
+-
+Improving the agricultural policy environment to promote increased public
+and private investment thanks to an effective and sustainable system that
+allows for implementation and monitoring of subsector policies and
+strategies;
+Promoting economic activities and entrepreneurship in key agropastoral value
+chains to improve incomes, food security and nutrition.
+C. Components/results
+Component 1: Policy support
+12. The goal of this component is to improve the institutional, policy and regulatory
+framework for the agriculture sector to increase public and private investment in
+the rural sector and improve sector governance.
+2
+EB 2018/LOT/P.8
+13. The component will be implemented in three subcomponents.
+Subcomponent 1.1: Agriculture policy dialogue
+14. The aim of this subcomponent is to achieve participation by all stakeholders in the
+process of sector policy development, implementation and monitoring – the private
+sector, producers’ organizations, NGOs, youth and women’s representatives, and
+so on – while ensuring that poor rural people and their organizations have a space
+to express their concerns.
+15. To this end, a national platform and three provincial platforms will be set up to
+serve as a framework for dialogue on agriculture policy and bottlenecks impeding
+agricultural development, subsector competitiveness and actors’ performance.
+Working groups will be set up around the priority themes identified. Specialized
+resource persons will be tapped to conduct studies documenting the discussions
+and informing debates by presenting facts and sound evidence. To optimize
+participation by producers’ organizations, their apex organization will be
+restructured and will benefit from specific capacity-building.
+Subcomponent 1.2: Support for evidence-based agriculture policy
+formulation and implementation
+16. Depending on the bottlenecks identified by platform participants, the project will
+support the production and use of factual data to document the development or
+revision of policies on priority themes and their implementation, to improve
+governance and enable an effective rural transformation to take place.
+17. Activities will relate to: (i) the conduct of prospective and thematic studies in
+preparation for the development or revision and validation of priority policies;
+(ii) preparation and validation of three provincial land use management and
+allocation plans; (iii) mobilization of international technical assistance specializing
+in agriculture policy during the first three years of implementation, through a
+specialized institution.
+Subcomponent 1.3: Strengthening national capacities for policy
+implementation and monitoring
+18. The aim of this subcomponent is to strengthen national capacities with training on
+policy analysis, evaluation of different agricultural strategy options, production of
+factual data to guide policy and decision-making. To support this strategic,
+institutional and operational shift, PDAR II will support the following five actions:
+-
+-
+-
+-
+-
+Conduct of an institutional and organizational diagnostic assessment by the
+MALGP, to develop a restructuring proposal adapted to the mandates of the
+central directorates, decentralized services and agencies;
+Entry into service of the Agriculture Development Agency, which was recently
+created to implement agricultural policies and strategies;
+Operational capacity-building for three provincial directorates, the regional
+directorate for the North and 18 agriculture divisions to improve their
+effectiveness in monitoring and supervising interventions by PDAR II;
+Entry into service of the sector M&E system prepared by the Government with
+technical support from the Food and Agriculture Organization of the United
+Nations (FAO), and the establishment of a framework for consultation and
+coordination of rural sector technical and financial partners; and
+Strengthening of the PDAR II steering, monitoring and knowledge
+capitalization function.
+Component 2: Value chain development and agropastoral
+entrepreneurship promotion
+19. This component is intended to intensify production systems and improve
+productivity and competitiveness of produce by supporting the development of
+3
+EB 2018/LOT/P.8
+local economic initiatives and entrepreneurship in the crop and livestock
+subsectors. This objective will be achieved within the framework of four
+subcomponents.
+Subcomponent 2.1 – Support for consultation among local actors and
+market access
+20. The aim is to set up multi-actor innovation platforms in the 16 production areas to
+improve consultation among actors and create local collective dynamics that will
+enable market access. Each innovation platform will conduct a diagnostic
+assessment for use in developing and implementing action plans.
+Subcomponent 2.2 – Access to inputs and crop and livestock services
+21. The intervention strategy will be based on setting up private local service
+providers, particularly young people, by financing cross-cutting actions that are key
+to promoting the targeted value chains. These actions will relate to multiplication
+and distribution of plant material, supply of small-scale breeding livestock, setting
+up agricultural machinery service providers and installing input stores in
+partnership with producers’ organizations or private providers.
+Subcomponent 2.3 – Support for agropastoral investment and
+entrepreneurship
+22. The aim is to cofinance actions plans, i.e. collective and individual investments
+planned for production areas by innovation platform participants to improve
+production, storage, processing and marketing, and raise the incomes of the target
+groups. To this end, a PDAR II investment cofinancing mechanism will be set up at
+project start-up following the model in the PDAR manual. This will define the
+overall activity planning framework, cofinancing code, procedures and management
+tools.
+Subcomponent 2.4 – Capacity-building and dissemination of innovations
+23. This subcomponent will cover testing and disseminating innovative techniques that
+can lift the constraints on smallholder rural producers and improve the productivity
+of production systems. In addition, it will allow for testing and disseminating
+technologies to manage conflicts with wildlife generally, and with elephants in
+particular, to enable the producers concerned to better manage their farms. Finally,
+the subcomponent will promote South-South cooperation to seek solutions to
+urgent challenges facing agricultural development in Gabon.
+III. Project implementation
+A. Approach
+24. The national platform for policy dialogue and the innovation platforms in production
+areas will be coordinated respectively by a MALGP central or general directorate
+and by provincial directorates. Participation by actors representing all economic
+interests and target groups will be assured, to engage in dialogue, communication
+and interaction to mobilize collective knowledge about the territories and prioritize
+problems and possible solutions and take them to the Government. This approach
+will improve the ownership and effectiveness of policies and strategies.
+25.
+Policy and strategy development will be steered by the central directorate in charge
+of planning and policy. International technical assistance will be used to carry out
+agriculture policy support activities, including capacity-building for actors.
+26. Setting up and coordinating innovation platforms will be a key activity under
+component 2, to be launched at project start-up, as the success of productive
+investments will depend upon them functioning properly. Supported activities will
+be identified in the diagnostic assessments and consultations conducted in the
+platforms, and will be included in their action plans. The action plans will define the
+different individual and collective value chain subprojects to be submitted for
+funding purposes.
+4
+EB 2018/LOT/P.8
+27. Cofinancing for subprojects will be obtained via demand together with a feasibility
+study or business plan. Business plans will be developed by the beneficiary with
+support from the production area facilitator, and by ad hoc experts as needed. A
+simplified procedure will be put in place to review the applications.
+B. Organizational framework
+28. The project will be placed under the oversight of the Ministry of Agriculture as the
+executing agency. A national project steering and monitoring committee will be set
+up to provide strategic direction. Consultation at the decentralized level will be
+through a provincial technical coordination committee that will validate provincial
+activity planning and supervise implementation to ensure harmonization and
+consistency with sector strategies and interventions by other partners. Project
+coordination and management will be done by a national project coordination and
+management unit (PCU) based in Libreville with administrative and financial
+autonomy. The PCU will comprise a national coordination unit and three provincial
+branches located in Ngounié, Ogoué Ivindo and Woleu Ntem.
+C. Planning, M&E, learning and knowledge management
+29.
+Planning involves the preparation of annual workplans and budgets (AWP/Bs).
+Planning and budgeting activities under component 1 will be steered by the PCU in
+close collaboration with the Ministry of Agriculture central and general directorates
+concerned. Planning and budgeting activities under component 2 will be based on
+diagnostic assessments and consultations at the production area level, estimates of
+potential demand in subprojects for the following year and recommendations from
+annual participatory M&E workshops held at the provincial level, and will give rise
+to preparation by each branch of an annual workplan for discussion at meetings of
+provincial technical coordination committees, then transmitted to the PCU for
+decision.
+30. The M&E system will serve as a tool for steering at both the project and oversight
+level. The information provided by the system will be used to help achieve project
+results and to improve the strategy and policy framework. A management
+information system and a subproject management and monitoring system will be
+put in place to provide input for a spatial database on all project interventions.
+31. Knowledge management will be linked to the project M&E through a global system
+for collection and dissemination of information of use to the different actors, and
+for gathering information on the activities and methods implemented. Products
+generated will include training manuals, good practice guidelines, technical
+specifications, posters, videos and rural radio broadcasts, as well as exchanges of
+experience and knowledge.
+D. Financial management, procurement and governance
+PDAR II financial management will be provided by the PCU, acting with
+32.
+administrative and financial autonomy. The PCU will be responsible and
+accountable to the Government and IFAD for the use of the project’s financial
+resources in accordance with the financing agreement. The PCU will prepare
+quarterly financial and accounting statements for transmission to the Government
+and IFAD, as well as financial statements on project operations for submission to
+an annual external audit. The administrative and financial management of PDAR II
+and all fiduciary matters will be in compliance with the provisions and procedures
+set forth in the letter to the borrower and in the administrative, financial and
+management procedures manual.
+5
+EB 2018/LOT/P.8
+33.
+Procurement will take place in accordance with the relevant IFAD guidelines 1 and
+the Gabonese Procurement Code. To the extent possible, contracts will be grouped
+in such a way as to attract bidders, encourage competition and obtain better offers.
+At start-up, the procurement plan for the first 18 months of implementation will be
+updated by the PCU and submitted to IFAD for non-objection.
+E. Supervision
+34.
+PDAR II will be supervised jointly by IFAD and the Government, through
+representatives of the project’s national steering and monitoring committee, with
+two supervision missions each year.
+IV. Project costs, financing, benefits
+A. Project cost
+35. The total cost of the project, including contingencies, is EUR 20.93 million (CFAF
+13.73 billion) over a period of six years. Base costs are EUR 19.6 million, and cost
+escalation and physical contingencies are EUR 1.32 million (CFAF 868 million), or 6
+per cent of base costs. Taxes account for 8 per cent of total cost, in the amount of
+EUR 1.72 million (CFAF 1.1 billion).
+Table 1
+Project cost by source of financing and component
+(Thousands of euros)
+Components
+Amount %
+Amount %
+Amount
+%
+Amount % Amount
+%
+IFAD (PBAS)*
+2016-2018
+Financing gap
+Government
+Beneficiaries
+Total
+1. Policy support and institutional
+capacity-building
+1.1 Agriculture policy dialogue
+1.2 Support for evidence-based agriculture
+policy formulation and implementation
+1.3 Strengthening national capacities for policy
+implementation and monitoring
+554
+90.1
+196
+14.9
+-
+-
+-
+-
+61
+9.9
+1 124
+85.1
+1 289
+40.7
+726
+22.9
+1 150
+36.3
+Subtotal
+2 039
+40.0
+726
+14.2
+2 334
+45.8
+2. Value chain development and
+agropastoral entrepreneurship promotion
+2.1 Support for consultation among local
+1 487
+39.8
+805
+21.5
+1 447
+38.7
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+615
+2.9
+1 320
+6.3
+3 164
+15.1
+5 100
+24.4
+3 739
+17.9
+1 557
+7.4
+actors and market access
+2.2 Access to inputs and crop and
+livestock services
+2.3 Support for investment and
+agropastoral entrepreneurship
+2.4 Capacity-building and dissemination
+of innovations
+308
+19.8
+466
+29.9
+782
+50.3
+370
+13.1
+1 775
+63.0
+350
+12.4
+322
+11.4
+2 817
+13.5
+354
+11.0
+734
+22.8
+2 137
+66.3
+-
+-
+3 225
+15.4
+Subtotal
+2 520
+22.2
+3 780
+33.3
+4 716
+41.6
+322
+2.8
+11 338
+54.2
+3. Project coordination and
+management
+872
+19.4
+407
+9.1
+3 210
+71.5
+-
+-
+4 488
+21.4
+Total cost
+5 431
+26.0
+4 913
+23.5
+10 260
+49.0
+322
+1.5
+20 926
+100.0
+* Performance-based allocation system.
+B. Project financing
+36.
+PDAR II will be financed by IFAD, the beneficiaries and the Government of Gabon.
+The project financing will be provided by the different sources as follows: (i) an
+IFAD loan under the 2016-2018 AWP/B in the amount of EUR 5.43 million,
+equivalent to US$6.3 million2 (26 per cent of total cost); (ii) a financing gap of EUR
+1 These guidelines set forth the principles of economy, efficiency and social equity, and call for various methods ranging
+from international competitive bidding to direct contracting depending on the contract type and amount.
+2 At the rate of US$1.16 to EUR 1.
+6
+EB 2018/LOT/P.8
+4.91 million, equivalent to US$5.7 million (23.5 per cent of total cost); (iii) a
+government contribution of about CFAF 6.73 billion or EUR 10.26 million (49 per
+cent of total cost), of which EUR 1.72 million corresponds to taxes and tariffs on
+goods and services purchased by the project and a contribution in cash of EUR 8.54
+million; and (iv) a contribution by beneficiaries to cofinancing for subprojects
+estimated at EUR 0.32 million (1.5 per cent of total cost).3 The financing gap of
+EUR 4.91 million could be covered under subsequent cycles of the PBAS – subject
+to financing terms to be determined, compliance with internal procedures and
+Executive Board approval – or by cofinancing mobilized during implementation.
+Table 2
+Project cost by category of expenditure and source of financing
+(Thousands of euros)
+Category of expenditure
+I. Investment costs
+IFAD (PBAS)
+2016-2018
+Financing gap
+Government
+Beneficiaries
+Total
+Amount % Amount %
+Amount
+% Amount % Amount
+%
+Works
+1 410
+56.1
+422
+16.8
+Equipment and supplies
+Transportation equipment
+II. Consulting services
+136
+23.6
+25
+4.9
+-
+-
+-
+-
+681
+438
+483
+27.1
+76.4
+95.1
+National consultants
+616
+21.7
+International consultants
+1 589
+42.5
+823
+762
+29.0
+20.4
+1 400
+49.3
+1 391
+37.2
+Subtotal
+2 205
+33.5
+1 585
+24.1
+2 790
+42.4
+Training and workshops
+900
+42.9
+350
+16.7
+Subsidies and grants
+514
+13.3
+2 149
+55.7
+845
+874
+40.3
+22.7
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+322
+8.3
+2 512
+12.0
+574
+508
+2.7
+2.4
+2 839
+3 741
+13.6
+17.9
+6 580
+31.4
+2 096
+3 859
+10.0
+18.4
+Total investment costs
+5 190
+32.2
+4 506
+27.9
+6 112
+37.9
+322
+2.0
+16 130
+77.1
+III. Recurring costs
+Salaries and benefits
+242
+6.6
+407
+11.2
+3 002
+82.2
+Operating and maintenance
+-
+-
+-
+-
+1 146
+100.0
+Total recurring costs
+242
+5.0
+407
+8.5
+4 148
+86.5
+-
+-
+-
+-
+-
+-
+3 651
+17.4
+1 146
+5.5
+4 797
+22.9
+Total project costs
+5 431
+26.0
+4 913
+23.5
+10 260
+49.0
+322
+1.5
+20 926
+100.0
+C. Summary benefit and economic analysis
+37. The quantifiable benefits of PDAR II are derived from the investments to be made.
+The economic internal rate of return is an estimated 13.22 per cent, well above the
+opportunity cost of capital (7 per cent); net present value is CFAF 6.92 billion
+(US$12.23 million).
+D. Sustainability
+38. Three kinds of major adverse environmental and social impact potentially related to
+project implementation have been identified: (i) conflicts between humans and
+wildlife; (ii) accelerated deforestation as a result of supporting unsustainable
+farming practices; and (iii) marginalization of indigenous peoples. For each of the
+risks identified, alternative measures or safeguards have been proposed to
+minimize the project’s adverse environmental and social impact and optimize
+benefits for target populations.
+3 Counterpart contributions from beneficiaries will represent at least 10 per cent of the total cost of the subprojects,
+including contributions in cash and in kind. The counterpart ratios for public and common goods may, following
+consultation with beneficiaries, exceed this percentage.
+7
+EB 2018/LOT/P.8
+E. Risk identification and mitigation
+39. Several risks have been identified: (i) insufficient or tardy mobilization of
+counterpart funds; (ii) weak national capacities in coordination and
+implementation; and (iii) weak national capacities in financial management and
+procurement. Mitigation measures have been proposed for each of these risks,
+including mobilizing international technical assistance.
+V. Corporate considerations
+A. Compliance with IFAD policies
+40.
+PDAR II is aligned with IFAD policies and major guidelines, such as: (i) IFAD’s
+Strategic Framework 2016-2025; (ii) country strategy note 2017-2018;4
+(iii) climate change strategy; (iv) natural resources and environmental
+management policy; (v) rural finance policy; (vi) targeting strategy, in connection
+with targeting vulnerable people and mainstreaming smallholder producers and the
+private sector into agricultural value chains; and (vii) respect for gender parity and
+social inclusion of young people.
+41. A Social, Environmental and Climate Assessment Procedures of IFAD (SECAP) note
+has been prepared. PDAR II is not expected to involve any significant adverse
+social, environmental or climate impact. It is therefore proposed that it be
+classified as a category B operation.
+B. Alignment and harmonization
+42. The project’s lines of action are in line with the priorities set forth in the PSGE, and
+more specifically with the strategic guidelines of the Green Gabon Plan. They are
+also fully aligned with the Strategy for Economic Recovery of the Agriculture Sector
+for the period 2016-2023, and consistent with IFAD’s country strategy note
+outlining the framework for cooperation during the 2016-2018 financing cycle.
+Innovations and scaling up
+C.
+43. Based on IFAD’s definition of innovation as a process that creates value added or
+solves a problem in an original way using new solutions, PDAR II has selected the
+following areas for innovation: (i) mitigating human-elephant conflict; (ii) inclusion
+of indigenous peoples; (iii) South-South cooperation; and (iv) testing innovations
+in a farming environment. Phase 1 of the project arose as a model for sustainable
+socio-economic development in rural Gabon. Scaling up earlier achievements by
+IFAD in the framework of public investment will inspire this model, and will be
+realized using three main instruments: project financing, policy and strategy
+consultations, and knowledge management.
+D. Policy engagement
+44. One component is entirely dedicated to policy development. The objective is to
+improve the agriculture policy environment to encourage increased public and
+private investment by setting up an effective and sustainable system to develop,
+implement and monitor subsector policies and strategies.
+4 Preliminary version presented in May 2017. In view of IFAD’s comparative advantage and lessons learned from
+experience, the strategy consists of scaling up PDAR gains to intensify sector investment while enabling full
+participation by rural smallholder producers in the agriculture sector recovery and diversification of the economy,
+following an entrepreneurial approach. Overall, the aim of the strategy is to achieve a sustainable increase in incomes
+and food and nutritional security for poor rural people, particularly women and young people. This overall objective
+translates into three strategic objectives: (i) sustainably increase smallholder farmers’ productivity; (ii) improve
+smallholders’ access to markets; and (iii) strengthen the capacities of all actors.
+8
+EB 2018/LOT/P.8
+VI. Legal instruments and authority
+45. A financing agreement between the Republic of Gabon and IFAD will constitute the
+legal instrument for extending the proposed financing to the borrower. A copy of
+the negotiated financing agreement is attached as appendix I.
+46. The Republic of Gabon is empowered under its laws to receive financing from IFAD.
+47.
+I am satisfied that the proposed financing will comply with the Agreement
+Establishing IFAD and the Lending Policies and Criteria.
+VII. Recommendation
+48.
+I recommend that the Executive Board approve the proposed financing in terms of
+the following resolution:
+RESOLVED: that the Fund shall provide a loan on ordinary terms to the
+Republic of Gabon in an amount equivalent to five million four hundred and
+thirty-one thousand euros (EUR 5,431,000), and upon such terms and
+conditions as shall be substantially in accordance with the terms and
+conditions presented herein.
+Gilbert F. Houngbo
+President
+9
+Appendix I
+EB 2018/LOT/P.8
+Accord de financement négocié
+Projet de développement agricole et rural – 2ème phase (PDAR2)
+(Négociations conclues le 16 février 2018)
+Numéro du prêt: ______
+Nom  du  projet:  Projet  de  développement  agricole  et  rural – 2ème phase  (PDAR2)  (“le
+projet”)
+La République Gabonaise (“l’Emprunteur”)
+et
+Le Fonds international de développement agricole (“le Fonds’’ ou “le FIDA”)
+(désigné individuellement par “la Partie’’ et collectivement par “les Parties”)
+conviennent par les présentes de ce qui suit:
+PREAMBULE
+ATTENDU QUE le projet est conçu sur une durée de six ans;
+ATTENDU QUE le Fonds a accepté d'accorder un prêt à l'Emprunteur pour contribuer à
+la première tranche du financement du projet, conformément aux modalités et conditions
+établies dans le présent accord;
+EN FOI DE QUOI, les Parties conviennent par les présentes de ce qui suit:
+Section A
+1.
+Le  présent  accord comprend  l’ensemble  des  documents  suivants:  le  présent
+document, la description du projet et les dispositions relatives à l’exécution (annexe 1),
+le tableau d’affectation des fonds (annexe 2).
+2.
+Les Conditions générales applicables au financement du développement agricole en
+date  du  29  avril  2009,  amendées  en  avril  2014  et  toutes  éventuelles  modifications
+postérieures  (“les  Conditions  générales”)  sont  annexées  au  présent  document,  et
+l’ensemble des dispositions qu’elles contiennent s’appliquent au présent accord. Aux fins
+du présent accord, les termes dont la définition figure dans les Conditions générales ont
+la signification qui y est indiquée.
+Le  Fonds  accorde  à  l’Emprunteur  un  prêt  (“le  financement”),  que  l’Emprunteur
+3.
+utilise  aux  fins  de l’exécution  du  projet  conformément  aux  modalités  et  conditions
+énoncées dans le présent accord.
+Section B
+Le  montant  du  prêt  est  de  cinq  millions  quatre  cent  trente  et  un  mille  euros
+1.
+(5 431 000 EUR).
+1
+Appendix I
+EB 2018/LOT/P.8
+Le  prêt  est  consenti  à  des  conditions  ordinaires,  et  est  assorti  d'un  intérêt  sur  le
+2.
+montant  de  l’encours  en  principal  égal  au  taux  d'intérêt  de  référence  du  FIDA,  exigible
+chaque semestre dans la monnaie de paiement des frais de service du prêt; et est assorti
+d’un  délai  de  remboursement  de  quinze  (15)  à  dix-huit  (18)  ans,  y  compris  un  différé
+d’amortissement  de  trois  (3)  ans,  à  compter  de  la  date  à laquelle  le Fonds  a  déterminé
+que toutes les conditions générales préalables aux retraits sont remplies conformément à
+la section 4.02 b) des Conditions générales.
+3.
+4.
+La monnaie de paiement au titre du service du prêt est l’euro (EUR).
+L’exercice financier débute le 1er janvier et se termine le 31 décembre.
+Le  remboursement  du  principal  et  le  paiement  des  intérêts  de  la  commission  de
+5.
+service sont exigibles le 15 avril et le 15 octobre.
+6.
+Un  compte  désigné  en  Francs  de  la  communauté  financière  africaine  (FCFA)  est
+ouvert  par  le  projet  sur  autorisation  du  Ministère  du  Budget  dans  une  banque
+commerciale  à  Libreville  pour  recevoir  les  fonds  du  prêt,  géré  selon  le  mécanisme  du
+compte d’avance temporaire, et mouvementé sur le principe de la double signature par le
+Coordonnateur et le Responsable Administratif et Financier (RAF) du projet.
+Un  compte  de  projet  est  ouvert  par  le  projet  sur  autorisation  du  Ministère  du
+7.
+Budget  à  la  Caisse  des  Dépôts  et  des  Consignations    pour  recevoir  les  fonds  de
+contrepartie.  L'Emprunteur  réapprovisionne  ce  compte  au  début  de  chaque  exercice,  en
+fonction  des  montants  de  fonds  de  contrepartie  prévus  au  Plan  de  Travail  et  Budget
+Annuel  (PTBA).    Le  compte  du  projet  est  mouvementé  selon  le  principe  de  la  double
+signature par le Coordonnateur et le RAF du projet.
+8.
+Un sous-compte d’opérations est ouvert par le projet sur autorisation du Ministère
+du Budget  au niveau de chaque antenne provinciale dans une banque commerciale. Ces
+comptes sont  mouvementés selon le principe de la double signature par le responsable
+de  l’antenne    et  l’Assistant  Comptable.  Ces  comptes  sont  alimentés  selon  le  principe  du
+compte  d’avance  temporaire,  sur  la  base  de  plans  de  trésorerie  trimestriels.  Ils  sont
+réapprovisionnés  lorsqu’au  moins  75%  de  l’avance  aura  été  utilisée  et  correctement
+justifiée.
+9.
+L'Emprunteur  met  à  la  disposition  de  l'agent  principal  du  projet  au  cours  de  la
+période  d'exécution  du  projet,  une  contribution  du  Gouvernement    de  6,73  milliards  de
+FCFA soit 10,26 millions d´Euros pour:
+a) exonérer  les  droits,  impôts,  et  taxes  grevant  les  biens  et  services  acquis  par  le
+projet pour un montant de 1,72 millions d´EUR;
+b) contribuer en  numéraire  aux  coûts  d'investissement  et  de  fonctionnement  du
+projet pour un montant de 8,54 millions d´EUR.
+Section C
+L’agent principal du projet est le Ministère de l’Agriculture, de l’Elevage Chargé du
+1.
+Programme Graine (MAEPG).
+La  date  d’achèvement  du  projet  est  fixée  au sixième anniversaire  de  la  date
+2.
+d’entrée en vigueur du présent accord.
+Section D
+Le Fonds assure l’administration du  financement et la supervision du projet.
+2
+Appendix I
+Section E
+EB 2018/LOT/P.8
+Les  éléments  suivants  constituent  des  conditions
+1.
+préalables aux retraits supplémentaires:
+spécifiques  additionnelles
+a) Le  personnel  comprenant  le  Coordonnateur,  le  Responsable  Suivi  Evaluation,  le
+Responsable de la Passation des Marchés et le Comptable est recruté;
+b) L' Emprunteur effectue, après l'entrée en vigueur de l’ accord, un premier dépôt
+de 1 milliard (1 000 000 000) de FCFA sur le compte de projet au titre des fonds
+de contrepartie pour la première année d’exécution;
+c) L’Unité  nationale  de  coordination  et  gestion  du  projet  (UCP)  basée  à  Libreville,
+ainsi que les trois antennes provinciales sont créées par arrêté du MAEPG. L’UCP
+jouit  d'une  autonomie  de  gestion  administrative  et  financière  qui  assume  les
+fonctions de gestion fiduciaire du projet;
+d) Le  FIDA  approuve  le  manuel  des  procédures  administratives  et  financières  du
+projet; et
+e) Le  logiciel  comptable  est  acquis  et  paramétré  afin  de  produire  des  rapports
+financiers acceptables.
+2.
+Le présent accord est soumis à la ratification de l’Emprunteur.
+Toutes  les  communications  ayant  trait  au présent  accord  doivent  être  adressées
+3.
+aux représentants dont le titre et l’adresse figurent ci-dessous:
+Pour l’Emprunteur:
+Ministère de l’Economie, de la Prospective,
+et de la Programmation du Développement Durable
+BP 747 Immeuble ARAMBO
+Libreville, Gabon
+Numéro de tel: (00241). 01.79.55.27
+Courriel: cabinetddgabon@gmail.com
+Copie à:
+Direction Générale de la Dette
+BP 912
+Libreville, Gabon
+Numéro de tel: (00241).05. 04. 73.22/ (00241). 04.06. 44.93
+Courriel: mecitdgd@gmail.com
+Pour le Fonds:
+Président
+Fonds international de développement agricole
+Via Paolo di Dono 44
+00142 Rome, Italie
+Le  présent  accord,  en  date  du _______,  a  été  établi  en  langue  française  en  deux  (2)
+exemplaires originaux, un (1) pour le Fonds et un (1) pour l’Emprunteur.
+3
+Appendix I
+EB 2018/LOT/P.8
+REPUBLIQUE GABONAISE
+____________________
+Représentant autorisé
+(nom et titre)
+FONDS INTERNATIONAL
+POUR LE DEVELOPPEMENT AGRICOLE
+___________________
+Gilbert F. Houngbo
+Président
+4
+Appendix I
+EB 2018/LOT/P.8
+Annexe 1
+Description du projet et Dispositions relatives à l’exécution
+I.
+Description du projet
+1.
+Population  cible. Le  PDAR2  ambitionne  d’atteindre  plus  de  16  000  bénéficiaires.  Il
+ciblera les acteurs des différentes filières y compris ceux  qui interviennent en amont et
+en    aval  de  la  production  dans  les  services  et  métiers  connexes  dont  les  prestations  de
+services  agricoles,  la  distribution  d’intrants,  l’installation  et  la  maintenance  des
+équipements.    Le  groupe  cible  prioritaire  comprend    les  ruraux  pauvres  en  particulier:
+i) les  petits  producteurs;  ii)  les  jeunes  ruraux;  iii)  les  femmes;  iv)  les  peuples
+autochtones.
+Les  autres  bénéficiaires  comprendront  les  structures  publiques  concernées  par  la
+formulation,  la  mise  en  œuvre  et  l’évaluation  des  politiques  agricoles,  les  services
+déconcentrés  de  l’agriculture  et  de  l’élevage,  les  organisations  de  producteurs,  et  le
+secteur privé.  Les capacités de ces derniers  seront renforcées pour garantir la fourniture
+de biens et services adaptés aux besoins du groupe cible prioritaire.
+2.
+Zones  d’intervention.  Le  PDAR2  interviendra  dans  trois  provinces  sur  les  neuf  que
+compte  le  pays:    le  Woleu-Ntem  où  est  intervenu  le  PDAR,    la  Ngounié et  l’Ogooué-
+Ivindo.  A  l’intérieur  de  ces  provinces,  le  projet  concentrera  son  action  sur  seize  (16)
+bassins de production identifiés et couvrant quarante-trois (43) Cantons et cent soixante-
+onze (171) villages ou regroupement de villages.
+3.
+Objectifs. L’objectif  de  développement  du  projet  est  d’améliorer  de  façon  durable,
+les  revenus,  la  sécurité  alimentaire,  et  la  nutrition  des  petits  producteurs,  femmes,
+jeunes et peuples autochtones de 3 provinces du Gabon. Il s’agira spécifiquement de:
+-
+-
+améliorer  l'environnement  des  politiques  agricoles  en  vue  d’une  augmentation
+des  investissements  publics  et  privés  grâce  à  un  système  efficace  et  durable
+permettant  d’élaborer,  de  mettre  en  œuvre  et  de  suivre  les  politiques  et
+stratégies sous-sectorielles;
+promouvoir  des  activités  économiques  et  l’entrepreneuriat  dans  les  filières
+agropastorales  porteuses  afin  d’améliorer  les  revenus,  la  sécurité  alimentaire  et
+la nutrition.
+4.
+Composantes. Le projet comprend les composantes suivantes:
+4.1 Composante 1. Appui aux politiques.  Cette  composante  vise à améliorer le cadre
+institutionnel,  politique  et  réglementaire  du  secteur  agricole  en  vue  d’une  augmentation
+des  investissements  publics  et  privés  dans  le secteur  rural  et  d’une  meilleure
+gouvernance sectorielle.
+La composante sera mise en œuvre à travers trois sous-composantes:
+4.1.1 Sous composante 1.1.
+sur 
+Dialogue 
+  Cette
+sous-composante  vise  à  faire  participer  aux  processus  d’élaboration,  de  mise  en
+œuvre,  et  de  suivi  des  politiques  sectorielles,    les  différentes  parties  prenantes
+(secteur  privé,  Organisations  de  Producteurs 
+(OP),  organisations  non-
+gouvernementales  (ONG),  représentants  de  la  jeunesse  et  des  femmes,  etc.)  en
+s’assurant  que  les  ruraux  pauvres  et  leurs  organisations  ont  un  cadre  pour
+exprimer leurs préoccupations.
+les  politiques  agricoles. 
+5
+Appendix I
+EB 2018/LOT/P.8
+Pour ce faire, une plateforme nationale et trois (3) plateformes provinciales seront
+mises  en  place pour  servir  de  cadre  de  dialogue  sur  les  politiques  agricoles,  les
+goulots d’étranglement au développement agricole, à la compétitivité des filières,
+et la performance des acteurs. Des groupes de travail seront constitués autour des
+thématiques  prioritaires  traitées.  Des  personnes  ressources  spécialisées  seront
+mises à contribution pour réaliser des études étayant les discussions et alimentant
+les débats avec des faits et des éléments concrets. Pour optimiser la participation
+des  OP  une  restructuration  et  un  renforcement  spécifique  des  capacités  seront
+effectués à l’intention de leur faitière.
+4.1.2 Sous  composante  1.2: Appui  à  la  formulation  et  mise  en  œuvre  de    politiques
+agricoles basées sur l’évidence.  Sur la base des goulots d’étranglements identifiés
+au  niveau  des  plateformes,  le  projet  appuiera  la  production  et  l’utilisation
+d’évidences  pour  l’élaboration  ou  révision,  la  mise  en  œuvre    de  politiques
+thématiques prioritaires dans le but d’améliorer la gouvernance et permettre une
+transformation effective du milieu rural.
+Les  actions  concerneront:  i)  la  conduite  d’études  prospectives  et  thématiques  en
+prélude  à  l’élaboration/révision  et  validation  de  politiques  prioritaires;  ii) la
+préparation  et  validation  de  trois  schémas  provinciaux  d'aménagement  du
+territoire et d’affectation des terres: iii) la mobilisation d’une assistance technique
+internationale spécialisée en politiques agricoles sur les trois premières années de
+mise en œuvre à travers une institution spécialisée.
+4.1.3 Sous composante 1.3.
+Renforcement  des  capacités  nationales  de  mise  en
+œuvre  et  suivi  des  politiques.    Cette  sous  composante  vise  à  renforcer  les
+capacités  nationales    à  travers  des  formations  sur  l’analyse  des  politiques,
+l’évaluation des stratégies agricoles alternatives, la production d’évidence visant à
+orienter les politiques et la prise de décision.
+Pour  soutenir  cette  mutation  stratégique,  institutionnelle    et  opérationnelle,  le
+PDAR2  appuiera les 5 actions  suivantes:
+-
+-
+-
+-
+-
+la  conduite  d’un  diagnostic  institutionnel  et  organisationnel  souhaité  par  le
+Ministère de l’agriculture, en vue de proposer une réorganisation adaptée aux
+mandats des directions centrales, services déconcentrés et des agences;
+l’opérationnalisation  de 
+l’Agence  de  Développement  Agricole  (ADAG),
+institution  récemment  créée  pour    exécuter  les  politiques  et  stratégies
+agricoles;
+le relèvement  des capacités opérationnelles de 3 directions provinciales, de la
+direction  régionale  du  Nord  et  de  18  secteurs  agricoles  pour  une  efficacité
+dans le suivi et la supervision des interventions du PDAR 2.
+l’opérationnalisation  du  dispositif  de  suivi  évaluation  sectoriel  préparé  par  le
+Gouvernement  avec  l’appui  technique  de  la  FAO,  et  la  mise  en  place  d’un
+cadre  de  concertation  et  de  coordination    des  Partenaires  Techniques  et
+Financier du Secteur Rural;
+le  renforcement  de  la  fonction  de  pilotage,  de  suivi  et  de  capitalisation  du
+PDAR2.
+4.2 Composante 2. Développement des filières et promotion de l´entreprenariat agro-
+pastoral.    Cette  composante  vise  à  intensifier  les  systèmes  de  production,  améliorer  la
+productivité  et  la  compétitivité  des  produits  en  soutenant  le  développement  d’initiatives
+économiques  locales  et  l’entrepreneuriat  dans  les  filières  végétales  et  animales.    Cet
+objectif sera réalisé à travers la mise en œuvre de quatre sous-composantes:
+6
+Appendix I
+EB 2018/LOT/P.8
+4.2.1 Sous composante 2.1.
+Facilitation  de  la  concertation  entre  acteurs  locaux  et
+l’accès  au  marché.
+Il  s’agira  de  mettre  en  place des  plateformes  multi-acteurs
+d’innovation dans  les  16  bassins  de  production,  pour  une  meilleure  concertation
+entre  acteurs  et  des  dynamiques  collectives  au  niveau  local  pour  accéder  au
+marché. Chaque plateforme d’innovation réalisera un diagnostic sur la base duquel
+seront préparés et mis en œuvre des plans d’actions.
+4.2.2 Sous composante 2.2.
+Accès aux intrants et services agricole  et d’élevage. La
+stratégie  d’intervention  reposera  sur  l’installation  de  prestataires  de  services
+privés  locaux,  en  particulier  de  jeunes,  à  travers  le  financement  d’actions
+transversales clés pour la promotion des filières ciblées. Ces actions concerneront
+la multiplication et la diffusion du matériel végétal, la fourniture de cheptel souche
+pour  le  petit  élevage,    l’installation  de  prestataires  de  services  en  mécanisation
+agricole, la mise en place de magasins d’intrants en partenariat avec les OP ou les
+prestataires de privés.
+Appui  à 
+l’investissement  et  à 
+l’entreprenariat
+2.4.1 Sous composante 2.3.
+agropastoral.
+Il  s’agira  de  cofinancer  les  plans  d’actions,  c’est-à-dire    les
+investissements  collectifs  et  individuels  identifiés  au  niveau  des  bassins  de
+production  par  les  plateformes  d’innovation  pour  améliorer  la  production,  le
+stockage,  la  transformation,  la  commercialisation  et  les  revenus  des  cibles.  Pour
+ce faire, un mécanisme de cofinancement des investissements par le PDAR 2 sera
+préparé au démarrage du projet suivant le modèle du manuel du PDAR. Il définira
+le cadre global de planification des activités, le code de cofinancement, le code de
+procédures et les outils de gestion.
+4.2.4 Sous composante 2.4.
+Renforcement  des  capacités,  et  diffusion  d’innovations.
+Il consistera à tester et diffuser des itinéraires techniques innovants, susceptibles
+de  lever  les  contraintes  auxquelles  se  heurtent  les  petits  producteurs  ruraux,
+d’améliorer  la  productivité  des  systèmes  de  production.  Il  permettra  en  outre  de
+tester  et diffuser  les  technologies  de  gestion  des  conflits  homme - faune  en
+général  et  homme - éléphant  en  particulier  afin  de  permettre  aux  producteurs
+affectés  de  mieux  valoriser  leurs  exploitations  agricoles.    Il  permettra  enfin  de
+promouvoir  la  coopération  sud- sud  pour  trouver  des  solutions  aux  défis  urgents
+du développement agricole au Gabon.
+II. Dispositions relatives à l’exécution
+A.
+Organisation et gestion
+Agent  principal. Le  projet  sera  placé  sous  la  tutelle  du  MAEPG,  en  tant  qu’agence
+5.
+d’exécution.
+6.
+Comité  national  de  pilotage  et  de  suivi  (CNPS). Un  Comité  national  de  pilotage  et
+de  suivi  du  projet  (CNPS)  sera créé par  arrêté  du  Ministre  de  l’agriculture  durant  les
+activités  de  démarrage  du  projet.  Le  président  du  CNPS  sera  désigné  par  le  Ministre  de
+l’agriculture.    Le  CNPS  associera:  i)  les  ministères  déjà  présent  dans  le  CNPS/PDAR
+(budget;  économie;  eaux  et  forêts  et  environnement;  travaux  publics  et  aménagement
+du  territoire;  famille,  protection  sociale  et  solidarité  nationale;  recherche  scientifique);
+ii) d’autres  ministères  clés  par  rapport  aux  thématiques  traitées  par  le  Projet  (travail  et
+emploi; PME; insertion des jeunes); iii) le représentant de chaque plateforme provinciale
+multi-acteurs  mises  en  place;  iv)  un  représentant  du  secteur  privé  (chambre  de
+commerce,  d’industrie  et  d’agriculture);  v)  deux  représentants  des  institutions  de
+financement  (association  professionnelle  des  banques  et  association  des  institutions  de
+microfinance du Gabon.
+7
+Appendix I
+EB 2018/LOT/P.8
+Le CNPS se réunira en séance ordinaire deux fois par an (en juillet pour la validation du
+PTBA  et  en  novembre  pour  sa  révision)  dans  les  provinces  d’intervention  du  projet
+(sessions  tournantes);  chaque    session  sera  combinée  à  une  mission  courte  (une
+semaine)  de  supervision  nationale  par  les  membres  du  CNPS.  Dans  la  mesure  du
+possible, il sera fait en sorte que: i) les missions de supervision du CNPS coïncident avec
+les  missions  de  supervision  et  de  suivi  du  FIDA;  et  ii)  les  acteurs  clés  du  CNPS
+(notamment  les  représentants  des  ministères  en  charge  de  l’économie,  du  budget,  de
+l’agriculture et des PME) participeront aux missions de supervision et de suivi du FIDA. Le
+secrétariat du CNPS sera assuré par le Coordonnateur national.
+6.
+Comités  de  coordination  technique  provinciaux  (CCTP). Au  niveau  déconcentré,
+cette concertation se fera à travers d’un Comité de coordination technique provincial (un
+par  province  d’intervention)  crées  par  décision  du  Ministre  de  l’agriculture  ou du
+Gouverneur.    Ces  organes  valideront  la  planification  des  activités  du  PDAR2  au  niveau
+provincial, et superviseront la mise en œuvre afin de créer l’alignement, l’harmonisation,
+et la cohérence avec les stratégies sectorielles et les interventions des autres partenaires.
+Chaque CCTP se réunira trois fois par an; il sera présidé par le Chef de Province agricole.
+Le secrétariat du CCTP sera assuré par le Chef d’antenne provincial du PDAR2.
+7.
+Unité  nationale  de  coordination  et  gestion  du  projet  (UCP). La  coordination  et
+gestion  du  Projet  sera  assurée  par  une  Unité  nationale  de  coordination  et  gestion  du
+projet (UCP), basée à Libreville et disposant de l’autonomie administrative et financière.
+L’UCP  comprendra  une  coordination  nationale  et  trois  (3)  antennes  provinciales  dans  la
+Ngounié, l’Ogoué Ivindo et le Woleu Ntem. Dans le Woleu Ntem, le siège actuel du PDAR
+sera transformé en antenne provinciale.
+7.1. Coordination nationale (CN). La CN comprendra un nombre limité de cadres de haut
+niveau,  motivés,
+soumis  à  une  évaluation  de  performance  annuelle: i) un/e
+coordonnateur/trice  national/e;  ii) un/e  responsable  de  la  planification,  du  suivi  et
+évaluation  (S&E),  de  la  gestion  des  savoirs  et  de  la  communication  (RPSE);  iii)  un/e
+Responsable  administratif  et financier  (RAF);  iv)  un/e  responsable  de  la  passation  des
+marchés  (RPM);  v)  un/e  responsable  de  la  composante  2  basé  dans  une  des  antennes;
+vi) un/e  comptable;  vii) un/e  assistant/e  administratif  et  financier;  viii)  un/e  assistant/e
+de  direction;  et  ix)  deux  chauffeurs.  Elle  sera  renforcée  par  une  assistance  technique
+internationale (ATI), notamment un Conseiller technique principal (CTP) et un expert en
+gestion financière.
+provinciales.
+i) un/e  Chef/fe
+7.2 Antennes 
+d’antenne/superviseur  Technique;  ii)  un/e  assistant/e  comptable;  iii)  un  chauffeur;  et
+iv) des facilitateurs des plateformes d’innovation/technicien d’appui-conseil à raison de 1
+facilitateur pour chacun des 16 bassins ciblés.
+comprendra: 
+antenne 
+Chaque 
+8.
+Recrutement du personnel cadre. Le personnel du projet et l’ATI seront recrutés de
+manière compétitive sur la base d’appels à candidatures et selon les procédures agréées
+avec  le  FIDA.  Un  cabinet  de  recrutement  pourra  être  sollicité  à  cet  effet.  Une  période
+probatoire de 6 mois sera observée pour chaque contrat.
+B. Mise en œuvre
+9.
+Mise en œuvre des composantes
+9.1 Composante  1.  La  plateforme  nationale  de  dialogue  sur  les  politiques  et  les
+plateformes  d’innovations  à  l’échelle  des  bassins  seront  animés  respectivement  par  une
+direction centrale ou générale pertinente du MAEPG et par les directions provinciales, en
+s’assurant  de  la  participation  d’acteurs  représentant  divers  intérêts  économiques  et
+groupes  cibles  qui  vont  dialoguer,  communiquer  et  interagir  pour  activer  l’intelligence
+collective  sur  les  territoires,  prioriser  les  problèmes  et  idées  de  solution,  les  porter  à
+8
+Appendix I
+EB 2018/LOT/P.8
+l’attention  du  gouvernement  et  assurer  une  meilleure  appropriation  et  efficacité  des
+politiques/stratégies.
+L’élaboration  des  politiques  et  stratégies  sera  pilotée  par la  direction  centrale  en  charge
+de  la  planification  et  des  politiques.    Une  assistance  technique  internationale  sera
+mobilisée pour la mise en œuvre des activités d’appui aux politiques agricoles y compris
+le renforcement des capacités des acteurs.
+9.2 Composante  2.  La  mise  en  place  et  l’animation  des  plateformes  multi-acteurs
+innovation  (PI)  sera  une  activité  clé  de  la  composante  2,  à  initier  dès  le  démarrage  du
+projet  car  leur  mise  en  place  et  leur  opérationnalité  conditionnera  la  réussite  des
+investissements  productifs.  Les  activités  soutenues    émergeront  des  diagnostics  et
+concertations au sein des PI et seront intégrées dans les plans d’action des PI. Les plans
+d’actions identifieront les différents sous projets, individuels ou collectifs dans les chaines
+de valeur, qui seront soumis au financement.
+Le cofinancement des sous projets procèdera par  une demande assortie d’une étude de
+faisabilité  ou  plan  d’affaire.  Les  plans  d’affaires  seront  élaborés  par  le  bénéficiaire  avec
+l’appui du facilitateur du bassin,  et d’experts  ad-hoc  si besoin. Une procédure  simplifiée
+d’instruction des demandes sera mise en place.
+Il  sera  fait  appel  à  des  prestataires  de  services  (centres  CGIAR,  FAO,  consultants
+individuels,  bureaux  d’études)  pour  les  activités  suivantes:  a) conception  et  suivi  de  la
+construction des infrastructures de commercialisation et transformation; b) formation de
+formateurs et des facilitateurs des CEP (par la FAO); c) formation et suivi des facilitateurs
+des PI bassins (par un des centres CGIAR ayant travaillé sur cette approche); d) mise en
+œuvre du SIM (par des jeunes entrepreneurs désireux de créer une startup spécialisée).
+Pour gestion des conflit agriculteurs – éléphants le projet fera un appel à proposition de
+projet  à  l’endroit  des  ONG  internationales  qui  traitent  de  la  thématique  (  WWF,  IUCN,
+WCS, GWP, …) afin de sous-traiter la conduite  de cette activité à un opérateur qualifié et
+expérimenté.  Il  en  sera  de  même  pour  l’inclusion  des  peuples  autochtones  dont  les
+activités seront sous traitées à une ONG locale.
+10. Missions  conjointes  de  revue. Outre  les  missions  de  supervision  menées  par  le
+FIDA, une mission de revue à mi-parcours conjointe avec l'Emprunteur sera organisée au
+terme de la troisième année d'exécution du projet. Les termes de référence de la mission
+de revue à mi-parcours seront définis conjointement.
+11. Manuel des procédures administratives et financières du projet.
+11.1 Préparation. Une ébauche de Manuel du Projet sera préparée par la Coordination, et
+détaillera  notamment:  i)  les  termes  de  référence  et  responsabilités  du  personnel  du
+projet, consultants et tout autre prestataires de service; ii) les relations hiérarchiques et
+fonctionnelles  entre  les  divers  ministères  et  autres  partenaires  participant  à  la  mise  en
+œuvre du projet; iii) les critères pour l'évaluation de la performance du personnel-cadre
+du projet; iv) les critères de sélection des partenaires et prestataires; v) Les critères de
+sélection  des  bénéficiaires,  des  projets  éligibles  au  financement;  vi)  un  modèle  de
+convention d'octroi de financement, ainsi que des modèles de fiches, et vii) Les modalités
+et procédures opérationnelles, administratives et financières du projet.
+11.2 Approbation  et  Adoption. L'ébauche  du  Manuel  du  projet  sera  soumis  par  l'Agent
+principal  du  Programme  à  travers  la  CNGP,  au  FIDA  pour  non-objection  et  le  Manuel  du
+projet tel qu'approuvé sera par la suite adopté par le CNGP.
+Annexe 2
+Tableau d’affectation des fonds
+9
+Appendix I
+EB 2018/LOT/P.8
+Affectation  du  produit  du  prêt. a)  Le tableau  ci-dessous  indique  les  catégories  de
+1.
+dépenses admissibles à un financement sur le produit du prêt ainsi que le montant du prêt
+affecté  à  chaque  catégorie  et  la  répartition  en  pourcentage  des  dépenses  à  financer  pour
+chacun des postes des différentes catégories:
+Catégories
+I.
+Travaux
+II.
+Équipement et matériel
+III. Consultations
+IV. Subventions et dons
+V.
+Salaires et indemnités
+Non alloué
+TOTAL
+Montant alloué
+au titre du prêt
+(exprimé en EUR)
+Pourcentage des dépenses
+autorisées à financer
+100% HT
+100% HT
+100% HT
+100% HT
+100%
+1 270 000
+150 000
+2 795 000
+460 000
+220 000
+536 000
+5 431 000
+b)
+Les termes utilisés dans le tableau ci-dessus se définissent comme suit:
+i) Les  dépenses  d’Équipement  et  matériel  relatives  à  la  catégorie  II  incluent
+également les dépenses liées aux Véhicules.
+ii) Les  dépenses  de  Consultations  de  la  catégorie  III  incluent  les  consultants
+locaux et internationaux ainsi que les dépenses liées aux formations et aux
+ateliers.
+10
+Cadre logique
+Résultats
+Indicateurs5
+Résumé descriptif
+Base de
+référen
+ce
+A mi-
+parcours
+Objectif
+final
+Source
+d’information
+Fréquence
+Respon
+sable
+Moyens de vérification
+Risques/hypothèses
+Objectif de développement: Améliorer
+de façon durable, les revenus, la sécurité
+alimentaire, et la nutrition des petits
+producteurs, femmes, jeunes et peuples
+autochtones de 3 provinces du Gabon.
+ % de bénéficiaires satisfaits des
+décisions sur les politiques agricoles
+prises dans le cadre du projet
+ Nombre de personnes bénéficiaires
+d’une mobilité économique
+ Nombre de ménages ruraux
+recevant les services du projet
+40
+75
+6 000
+16 000
+3 000
+73 00
+Dispositif S&E
+sectoriel
+Enquêtes
+qualitatives
+Mi-parcours
+& fin de
+projet
+UCP /
+DCPESP
+Composante 1 : Appui aux politiques agricoles
+Effet 1 :
+Les politiques agricoles sont appropriées,
+socialement acceptées, et efficaces pour
+engager les ruraux et les jeunes dans
+l’agriculture
+1
+1
+Sous composante 1.1. Dialogue sur les
+politiques agricoles
+Produit 1.1 : La participation des parties
+prenantes aux processus
+d'élaboration/révision des politiques et
+stratégies agricoles est renforcée et le
+dialogue sur les  politiques est inclusif
+Sous composante 1.2: Appui à la
+formulation et mise en œuvre de
+politiques agricoles basées sur l’évidence.
+Produit 1.2 : Des politiques prioritaires
+pro pauvres basées sur l’évidence sont
+formulées / révisées  et mises  en œuvre
+5A désagréger par genre et classe d’âge (*)
+ % des bénéficiaires déclarant un
+meilleur accès aux ressources, aux
+services et aux technologies du fait
+d’une amélioration de l’
+environnement des politiques
+ Nombre de plateformes multi
+acteurs de dialogue sur les
+politiques appuyées
+ Nombre de groupes thématiques
+fonctionnels
+ Nombre de politiques, lois,
+stratégies, décisions, et textes
+réglementaires préparés
+40%
+75%
+4
+3
+3
+4
+3
+6
+Mi-parcours
+& fin de
+projet
+UCP
+Dispositif S&E
+PDAR2
+Enquêtes
+terrain
+Dispositif S&E
+PDAR2
+Chaque
+année
+DCPESP Conflits d'intérêt sur les
+espaces et les approches
+Résistances au
+changement.
+Journal et
+communication
+s officiels
+Mi-parcours
+& fin de
+projet
+DCPESP
+Les réformes sont peu
+inclusives et prennent
+peu en compte la
+dimension humaine
+Instabilité des
+responsables des
+directions centrales
+(DC), générales (DG),
+provinciales (DP)
+Difficulté à jouer la carte
+de la participation
+Instabilité des prix
+Difficultés d'appliquer les
+lois et les règles
+Réformes mal acceptées
+/ formulées / intégrées
+Mauvais canaux de
+diffusion de l’information
+et le plaidoyer
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+8
+/
+L
+O
+T
+/
+P
+.
+8
+0
+0
+0
+0
+0
+0
+0
+Résultats
+Sous composante 1.3. Renforcement
+des capacités nationales de mise en
+œuvre et suivi des politiques
+Produit 1.3 : Les capacités nationales de
+planification, exécution  et S&Edes
+politiques  agricoles sont renforcées
+Indicateurs5
+Résumé descriptif
+ Nombre de personnes formées
+(désagrégé par genre, par direction,
+par thématique) (*)
+ Un dispositif de S&E participatif
+opérationnel  générant le savoir et
+l’évidence pour renseigner les
+politiques
+Base de
+référen
+ce
+0
+0
+Moyens de vérification
+Risques/hypothèses
+A mi-
+parcours
+Objectif
+final
+Source
+d’information
+50
+100
+Dispositif de
+S&E de projet
+Respon
+sable
+DCPESP
+Fréquence
+Mi-parcours
+& fin de
+projet
+Plan de renforcement de
+capacités non axé sur un
+diagnostic des
+compétences
+1
+1
+Dispositif de
+S&E de projet
+Mi-parcours
+DCPESP Retard dans la
+restructuration du
+MAEPG
+Composante 2 : Développement des filières et promotion de l’entreprenariat rural
+Effet 2:
+Une agriculture familiale résiliente,
+compétitive, et orientée vers le marché
+favorise l’insertion socio-économique des
+ménages et des jeunes
+bénéficiaires qui ont déclaré une
+augmentation de la production et de
+la vente de produits agricoles (*)
+ Nombre de jeunes entrepreneurs
+ Pourcentage de ménages
+0
+0
+1
+2
+Sous composante 2.1. Facilitation de la
+concertation entre acteurs locaux et
+l’accès au marché
+Produit 2.1. Les  dynamiques collectives
+sont renforcées au niveau local pour un
+meilleur accès au marché.
+Sous  composante  2.2. Accès  aux
+intrants et services agricole et d’élevage.
+Produit 2.2. L’accès des producteurs aux
+intrants, 
+technologies
+services 
+agricoles et d’élevage est amélioré
+et 
+promus dans les chaines de valeurs
+y compris  les services (*)
+ Nombre de plateformes de bassins
+(Plateformes d’innovation)
+opérationnelles
+ Nombre d’organisations de
+producteurs soutenues (*)
+ Nombre d’arrangements
+contractuels  pour l’accès au marché
+et aux services conclus
+ Nombre d’infrastructures de
+commercialisation, stockage et
+transformation construites ou
+réhabilitées
+ Pourcentage  de  producteurs  ruraux
+ayant  accès  aux  intrants  agricoles
+et aux paquets technologiques (*)
+0
+0
+0
+0
+0
+50%
+75%
+120
+250
+Enquête
+terrain
+Rapports
+d’activité
+16
+32
+16
+16
+16
+64
+32
+32
+UCP
+Mi-parcours
+& 
+fin  de
+projet
+Pas de choc climatique
+ou crise sanitaire
+majeure
+Contexte politique
+favorable
+UCP
+Les politiques nationales
+favorisent la production
+locale
+Rapports
+d’activité
+Annuelle
+Les opérateurs privés
+sont prêts à investir
+dans les filières locales
+50%
+75%
+Enquête
+terrain
+Mi-parcours
+& fin de
+projet
+UCP
+L’intérêt  des 
+services
+techniques  à  participer
+au projet
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+8
+/
+L
+O
+T
+/
+P
+.
+8
+Résultats
+Indicateurs5
+Résumé descriptif
+Base de
+référen
+ce
+A mi-
+parcours
+Objectif
+final
+Source
+d’information
+Fréquence
+Respon
+sable
+Moyens de vérification
+Risques/hypothèses
+composante 
+Sous 
+l’investissement  et  à 
+agropastoral.
+2.3.Appui 
+à
+l’entreprenariat
+ Nombre de bénéficiaires utilisant
+0
+2 000
+7 000
+des services financiers
+Produit  2.3. L’accès  des  producteurs  et
+entrepreneurs 
+des
+investissements 
+différents
+maillons des chaînes de valeur est facilité
+financement 
+dans 
+les 
+au 
+Sous composante 2.4. Renforcement
+des capacités, et diffusion d’innovations.
+Produit 2.4.
+innovantes
+Des 
+des
+gestion 
+favorisant 
+écosystèmes  et  la  réduction  des  conflits
+homme-faune sont diffusées et adoptées
+pratiques 
+agricoles 
+durable 
+la 
+ Nombre  de  producteurs 
+ruraux
+formés  à  la  gestion  durable  des
+ressources  naturelles  et  les  risques
+climatiques (*)
+ Nombre  de  groupes  ayant  testé  et
+adopté  des  pratiques  agricoles
+la  gestion
+innovantes 
+favorisant 
+durable  des  écosystèmes  et 
+la
+réduction des conflits homme faune
+(*)
+0
+0
+1 200
+2 500
+16
+32
+L’approche CEP se
+montre valide dans le
+contexte gabonais
+Rapports
+d’activité et de
+supervision
+1
+3
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+8
+/
+L
+O
+T
+/
+P
+.
+8

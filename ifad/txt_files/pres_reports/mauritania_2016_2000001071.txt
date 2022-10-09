@@ -1,0 +1,1968 @@
+Document:
+Date:
+Distribution:
+Original:
+EB 2016/LOT/P.14
+3 November 2016
+Public
+French
+E
+President’s report
+Proposed grant to the
+Islamic Republic of Mauritania for the
+Inclusive Value Chain Development Project
+Note to Executive Board representatives
+Focal points:
+Technical questions:
+Dispatch of documentation:
+William Skinner
+Chief
+Governing Bodies Office
+Tel.: +39 06 5459 2974
+e-mail: gb_office@ifad.org
+Philippe Rémy
+Country Programme Manager
+West and Central Africa Division
+Tel.: +39 06 5459 2629
+E-mail: p.remy@ifad.org
+Elena Pietschmann
+Programme Officer
+Tel.: +39 06 5459 2782
+E-mail: e.pietschmann@ifad.org
+For: Approval
+EB 2016/LOT/P.14
+ii
+iii
+iv
+1
+1
+1
+2
+2
+2
+2
+3
+4
+4
+4
+4
+5
+6
+6
+6
+8
+8
+8
+9
+9
+9
+9
+9
+10
+10
+10
+Contents
+Acronyms and abbreviations
+Map of the project area
+Financing summary
+Recommendation for approval
+I.
+Strategic context and rationale
+A. Country and rural development and poverty context
+B. Rationale and alignment with government priorities and the
+results-based COSOP
+II.
+Project description
+A. Project area and target group
+B. Project development objective
+C. Components/outcomes
+III. Project implementation
+A. Approach
+B. Organizational framework
+C. Planning, M&E, learning and knowledge management
+D. Financial management, procurement and governance
+E. Supervision
+IV.
+Project costs, financing, benefits
+A. Project cost
+B. Project financing
+C. Summary benefit and economic analysis
+D. Sustainability
+E. Risk identification and mitigation
+V.
+Corporate considerations
+A. Compliance with IFAD policies
+B. Alignment and harmonization
+C. Innovation and scaling up
+D. Policy engagement
+VI.
+Legal instruments and powers
+VII. Recommendation
+Appendices
+I. Negotiated financing agreement
+II. Logical framework
+i
+EB 2016/LOT/P.14
+Acronyms and abbreviations
+4P
+ASAP
+CNCP
+FAO
+GTF
+PRODEFI
+ProLPRAF
+PBAS
+REACH
+WFP
+public-private-producer partnership
+Adaptation for Smallholder Agriculture Programme
+National Pesticide Control Commission
+Food and Agriculture Organization of the United Nations
+value chain working group
+Inclusive Value Chain Development Project
+Value Chains Development Programme for Poverty Reduction
+performance-based allocation system
+Renewed Effort Against Child Hunger
+World Food Programme
+ii
+EB 2016/LOT/P.14
+Map of the project area
+Islamic Republic of Mauritania
+Inclusive Value Chain Development Project
+iii
+EB 2016/LOT/P.14
+Islamic Republic of Mauritania
+Inclusive Value Chain Development Project
+Financing summary
+Initiating institution:
+IFAD
+Recipient:
+Executing agency:
+Total project cost:
+Islamic Republic of Mauritania
+Ministry of Agriculture
+US$45.2 million
+Amount of IFAD Debt Sustainability
+Framework grant:
+10.75 SDR million (equivalent to approximately
+US$15.0 million)
+Amount of IFAD Adaptation for
+Smallholder Agriculture Programme
+Trust Fund grant:
+4.3 SDR million (equivalent to approximately US$6
+million)
+Contribution of Government:
+US$5 million
+Contribution of beneficiaries:
+US$2.2 million
+Contribution of private sector:
+US$2 million
+Financing gap:
+Approximately US$15 million
+Appraising institution:
+Cooperating institution:
+IFAD
+IFAD
+iv
+EB 2016/LOT/P.14
+Recommendation for approval
+The Executive Board is invited to approve the recommendation for the proposed
+financing for the Islamic Republic of Mauritania for the Inclusive Value Chain
+Development Project, as contained in paragraph 49.
+Proposed grant to the Islamic Republic of Mauritania for
+the Inclusive Value Chain Development Project
+I. Strategic context and rationale
+A. Country and rural development and poverty context
+1.
+Mauritania has about four million inhabitants, 50 per cent of whom derive their
+livelihoods from crop and livestock farming and fishing (World Bank, 2013). The
+annual demographic growth rate was 2.8 per cent in 2013. The country covers an
+area of 1,030,700 km2, more than two thirds of which is desert.
+2.
+3.
+4.
+5.
+6.
+During the period 2005-2010, the rural sector contributed an average of 25 per
+cent of GDP, which breaks down by subsector as follows: 11 per cent plant
+production, 9 per cent livestock and 5 per cent fishing (World Bank, 2016).1 During
+the same period, annual average growth in GDP linked to the primary sector was
+4.1 per cent, with significant discrepancies between years as a result of irregular
+precipitation.
+Mauritania is classified as a lower middle-income country.2 The human development
+index (HDI) improved from 0.424 to 0.487 between 2004 and 2014 but remains
+below the average for sub-Saharan Africa, which stands at 0.502. Although more
+than half the population live in rural areas, the country is urbanizing very rapidly
+and the population is very young: 44 per cent of Mauritanians are under 15 years of
+age,3 60 per cent under 25 and just 5 per cent are over 60.
+The incidence of rural poverty remains high, particularly in the country’s south. The
+proportion of the population defined as poor fell from 51 per cent in 2000 to
+47 per cent in 2004, 42 per cent in 2008 and 31 per cent in 2014.4,5 Despite the
+progress made, this percentage remains high, particularly in rural areas where
+74 per cent of poor people live, and in the country’s south where 44.4 per cent of
+the rural population still live below the poverty line compared to 16.7 per cent in
+urban areas.6
+The food and nutritional situation of Mauritania’s population is cause for concern.
+According to the last food security survey (FSMS, 2015) conducted by the Food
+Security Commission with support from the World Food Programme (WFP),
+23.8 per cent of Mauritania’s households are food-insecure, particularly in the
+country’s southern agro-pastoral strip. Ongoing food insecurity leads to high rates
+of chronic malnutrition among children under five, with national rates above
+20 per cent,7 while acute malnutrition affects 14 per cent of children.8,9
+Local value chains face competition from imports. Mauritania imports an average of
+60 per cent of the staple foodstuffs consumed in the country. Only red meat and
+fish are covered by domestic production, while two thirds of cereals are imported.
+Imports of market garden products, mainly from Morocco and Europe, have been
+1 World Development Indicators.
+2 World Bank, October 2015.
+3 WFP, Food Security Survey in Mauritania, July 2009.
+4 These poverty rates are based on a poverty line estimated in real terms at MRO 169,445 at 2014 harmonized prices.
+5 World Bank, October 2015.
+6 MAED, National Poverty Profile in Mauritania. Draft version, June 2015.
+7 Critical threshold according to WHO.
+8 SMART national nutritional survey, Mauritania, Ministry of Health and UNICEF, June 2015.
+9 IFPRI Global Nutrition Report 2015.
+1
+EB 2016/LOT/P.14
+rising since 2010. Despite substantial investments in developing rice growing areas,
+the volume of rice imports remains high. Sugar and oil consumption are entirely
+import-dependent. It is therefore essential to take demand into account before
+undertaking any intervention in production to reduce the country’s food
+dependence. This demand-driven approach is all the more important given the
+experience of the Value Chains Development Programme for Poverty Reduction
+(ProLPRAF), the previous project cofinanced by IFAD, which showed the local
+markets can quickly become saturated.
+Mauritania is among the countries most vulnerable to climate change. Based on the
+environmental performance index for 2010, the country is in 161st place of
+163 countries. Climate change amplifies natural risks such as periodic drought and
+flooding, the resulting risks of network breakdown and human impacts. Climate
+change also reduces productivity and biomass quality, which has a detrimental
+impact on pastureland and non-timber forest products. High temperatures also
+pose an obstacle for product conservation.
+Mauritania’s financial sector is relatively modest in size and not well developed in
+rural areas. With about 15,000 members, or 0.4 per cent of the population, and
+US$1.7 million in financial savings,10 coverage by rural credit unions remains
+limited. Low demographic density and low levels of capitalization among rural
+people, hence their credit unions, place constraints on financial inclusion in value
+chains.
+7.
+8.
+B. Rationale and alignment with government priorities and the
+9.
+results-based COSOP
+In a country context characterized by high levels of poverty and malnutrition, poor
+value chain competitiveness, heavy dependence on imports and climate phenomena
+that accentuate impoverishment among the population, PRODEFI builds upon and
+scales up IFAD’s experience in Mauritania and elsewhere in the subregion by
+adopting a poverty reduction approach based on supporting inclusive value chains.
+The PRODEFI approach is fully aligned with national policies and strategies – the
+Rural Sector Development Strategy, the National Agricultural Development Plan,
+the National Food Security Strategy, the National Programme of Action for
+Adaptation to Climate Change – and IFAD’s country strategy note. It is also based
+on the experience of technical and financial partners with a presence in Mauritania,
+particularly the European Union, WFP and the Food and Agriculture Organization of
+the United Nations (FAO).
+10.
+ProLPRAF showed that market access is a determining factor in food security for
+poor people. It identified pro-poor value chains with good nutritional potential in
+which vulnerable people, women in particular, could position themselves through
+partnerships with the private sector and benefit from the value added with project
+support in production, processing, transportation and commercialization. Promoting
+policy dialogue between the Government and the main value chain actors will help
+install an enabling environment for promotion of local production.
+II. Project description
+A. Project area and target group
+11.
+PRODEFI will be implemented in the wilayas (regions) in the country’s
+south – Brakna, Assaba, Gorgol, Guidimakha, Hodh El Gharbi and Hodh Ech
+Charghi. In these six wilayas, intervention will be localized and phased. During the
+first phase, in each value chain, the project will intervene around markets where
+ProLPRAF gains need to be reinforced. During the second phase, PRODEFI will
+gradually expand its activities in all six wilayas.
+B. Project development objective
+12. The overall objective of PRODEFI is to improve the incomes and food and nutritional
+10 Central Bank annual reports and interviews during formulation mission.
+2
+EB 2016/LOT/P.14
+security of poor rural people, particularly women and young people, in the project
+area. The development objective is to include poor rural people, including women
+and young people, in profitable and resilient value chains. PRODEFI will contribute
+directly to achieving the objectives of the Rural Sector Development Strategy and
+the National Agricultural Development Plan.
+13. The project will target 42,600 direct beneficiaries and 243,000 indirect
+beneficiaries, mainly farmers and other upstream and downstream value chain
+actors. For the first phase, four value chains have been selected based on ProLPRAF
+results and their poverty reduction potential: market gardening, poultry farming,
+goat milk and non-timber forest products. For the second phase, plans call for
+PRODEFI to operate in new value chains based on the results of the market studies
+done during the first phase. A pilot operation in inland fishing will be conducted as
+of project start-up around lake Foum Gleita.
+C. Components/outcomes
+14. The project will be structured around the following three components:
+15. Component 1: Revitalization of value chains and development of pro-poor
+public-private-producer partnerships (4Ps). The desired effect is for value
+chain working groups (GTFs) and partnerships to support value chain development
+and defend the interests of poor producers. To this end, the project will:
+(i) reinforce and scale up GTF activities undertaken by ProLPRAF; (ii) promote a
+better match between supply and demand and help set up higher performing and
+more inclusive value chains by capitalizing producers, bringing actors into the
+banking system, formalizing commercial transactions and facilitating partnerships
+between actors, from simple contractual arrangements to 4P type partnerships; and
+(iii) facilitate access to markets through structural improvements.
+16. Component 2: Development and promotion of production models. The
+intended effect is for the beneficiaries to adopt resilient, market-driven production
+models that are sensitive to nutritional challenges. To this end, the project will
+support: (i) competitive production models programmed to respond to market
+demand, contracts and the 4Ps facilitated under component 1; and (ii) making
+available training and advisory services associated with these production models,
+i.e. nutritional education, agricultural advice, training for young people and
+functional literacy.
+17. Within the framework of these activities, the Adaptation for Smallholder Agriculture
+Programme (ASAP) financing granted will make it possible to take better account of
+climate change by facilitating the use of solar energy – from production to storage
+and processing – and promoting sustainable management techniques for natural
+resources such as water, pastureland and plant resources, which are particularly
+important in the non-timber forest products value chain.
+18. Component 3: Coordination, M&E and knowledge management. Funding will
+be provided for: (i) the project coordination and management unit based in
+Nouakchott; (ii) the operations of two project operational management units, based
+in Kaedi and Kiffa; (iii) the technical and financial assistance pool, based on cost
+sharing with the Poverty Reduction Project in Aftout South and Karakoro – Phase II;
+and (iv) strategic and technical steering activities as well as M&E, knowledge
+management and communication.
+3
+III. Project implementation
+EB 2016/LOT/P.14
+A. Approach
+19. The project approach adopted by PRODEFI is to scale up the successes of ProLPRAF
+while reinforcing and complementing them and integrating them with national
+strategies through systematic, expanded policy dialogue. The project will adopt a
+value chain approach driven by market demand. It will support actors involved the
+value chains, both individually and collectively, as well as policy dialogue.Within the
+framework of component 1, the actors will benefit from assistance in organization
+and consultation to improve the matching of supply to demand. Project
+interventions will consist of building the capacities of the actors in organization,
+governance and leadership. The project will promote actor-to-actor contracting,
+prioritizing producers and private promoters of innovative projects. Under
+component 2, the project will, in developing market-driven production models as
+defined in component 1, promote an increase in agricultural productivity and
+processing by offering support to producers – underscoring financial viability,
+improved nutrition and adaptation to climate change.
+20.
+In addition, to gain efficiency, the project will adopt an outsourcing approach with
+support from experienced national and international operators and consulting firms.
+Operational partnerships will be promoted with other technical and financial
+partners, civil society and the private sector to implement activities.
+B. Organizational framework
+21. Technical oversight of PRODEFI will be provided by the Policy, Planning, Statistics,
+M&E and Cooperation Directorate (DPSSEC) of the Ministry of Agriculture, with
+technical links to the departments in charge of the value chains targeted by the
+project: livestock, fisheries and environment. The government contribution to the
+project will be included in the budget of the Ministry of Economy and Finance. The
+national steering committee will report to the Public Investment and Economic
+Cooperation Directorate of the Ministry of Economy and Finance. In addition, the
+participation of GTF representatives will be crucial to facilitate policy dialogue
+around value chain promotion. The same national steering committee could also
+pilot other projects as part of IFAD’s programme in Mauritania.
+22. With respect to programme coordination, a team in Nouakchott will be responsible
+for operational and strategic project steering, with a mandate to, first, coordinate
+and support work by branches and, second, facilitate policy dialogue on value chain
+development at the national level.
+23. Two operational management units, located in Kaédi and Kiffa and reporting
+directly to the project coordinator, will be responsible for implementing the project.
+Each unit will be administered by a branch head, based respectively within the
+agriculture office in Kiffa and the livestock office in Kaédi. Both branches will be
+supported by a deputy branch head and will benefit from the services of an M&E
+assistant who will provide support for monitoring contracting, targeting, gender
+equality, youth and nutrition, as well as a financial officer, secretariat and drivers.
+Work premises will be shared with the regional offices.
+24. With a view to gradually putting in place a programme approach to IFAD’s portfolio
+in Mauritania, a shared pool of technical and financial assistance will provide
+support to both projects in the portfolio. To this end, the PRODEFI PMU will be
+housed in shared premises at the Nouakchott branch of PASK II.
+C. Planning, M&E, learning and knowledge management
+Planning
+25. The PRODEFI activities will be presented each year in the form of an annual
+workplan and budget (AWP/B) prepared on the basis of actors in the value chains
+identified with GTF support and supported by annual action plans. Needs expressed
+at the local level will be gathered on a participatory basis and consolidated by
+wilayas with support from the operational management branches concerned. These
+4
+EB 2016/LOT/P.14
+workplans will be subject to validation by technical steering committees, then
+consolidated by the project coordination team in a national AWP/B and transmitted
+for comments to the Ministry of Agriculture, then approved by the national steering
+committee before being sent to IFAD for non objection.
+M&E
+26. The PRODEFI M&E system will be set up to provide information and analysis needed
+to steer project implementation and plan sufficient human and financial resources
+for implementation. It will measure progress in project implementation and its
+effects and impact on the target groups. It will also report on a limited list of
+indicators in connection with the Results and Impact Management System (RIMS),
+the effects of climate change (ASAP financing) and nutrition.
+27. The system will be participatory, and the main M&E stakeholders will be GTFs,
+implementation partners and service providers. Socio-economic baseline surveys
+will be done by external service providers at project start-up and completion, and
+will be strengthened with a study on the problematic issue of gender and poverty,
+which will be conducted on the basis of the women’s empowerment in agriculture
+index.
+Learning and knowledge management
+28. A knowledge management strategy will be developed under PRODEFI. The
+approach will consist of creating a value chain between M&E, knowledge and
+communication in order to collect, process, document, add value to and
+disseminate on a large scale the data and information generated by activities in the
+field, using multimedia and new technologies. The lessons learned will be
+communicated via the PRODEFI website and at various national and international
+workshops.
+D. Financial management, procurement and governance
+29.
+Financial management
+From start-up, PRODEFI will benefit from fiduciary support to encourage a forward
+planning dynamic, which will be reviewed and supported during supervision
+missions.
+Flow of funds
+30. To facilitate disbursements, the Recipient will open a designated project account
+denominated in United States dollars at the Central Bank of Mauritania. The
+National Pesticide Control Commission (CNCP) will open three current accounts
+denominated in Mauritanian Ouguiya as the operating accounts in the two cities
+where the PRODEFI branches will be located and in Nouakchott, where CNCP has its
+headquarters. Start-up costs in amounts and categories to be defined during
+negotiations with the Government are provided for upon the entry into
+effectiveness of the PRODEFI financing agreement. Commitments and payments for
+these expenses will be submitted by the Government of Mauritania to IFAD for non
+objection on the basis of a detailed AWP/B.
+Audit
+31. The project will have an internal control function with activities based on an annual
+plan drawn up by the internal controller. In addition, a full project audit conforming
+to relevant international standards will be conducted each year by a firm drawn
+from a shortlist with demonstrated experience in auditing the accounts of
+IFAD-funded projects or programmes.
+Procurement
+32. Contracts for goods, works and services funded by IFAD will be awarded in
+accordance with the regulations of the Recipient, provided they are compatible with
+IFAD’s procurement guidelines. Procedures governing contracts below the threshold
+for sector commission jurisdiction will be set forth in the PRODEFI fiduciary manual.
+5
+EB 2016/LOT/P.14
+E. Supervision
+33.
+Project supervision and administration of the financing will be done directly by
+IFAD.
+IV. Project costs, financing, benefits
+A. Project cost
+34. The total cost of the project, which will be implemented over eight years, will be
+US$45.2 million, of which US$4.2 million in respect of physical and financial
+contingencies and US$41.0 million in base costs, which break down as follows:
+US$18.3 million for component 1 (45 per cent), US$16.9 million for
+component 2 (41 per cent) and US$5.8 million for component 3 (14 per cent).
+6
+Table 1
+Project cost by component and financier
+(Thousands of United States dollars)
+Components
+IFAD
+IFAD
+ASAP
+Other
+FIN.
+(Deficit)
+Private
+Beneficiaries
+Government
+Total
+A. Value chain revitalization and 4P development
+Amount
+%
+Amount
+%
+Amount
+%
+Amount
+%
+Amount
+%
+Amount
+%
+Amount
+%
+1.1
+43.1
+-
+-
+1.1
+43.1
+-
+-
+-
+-
+0.4
+13.8
+2.6
+5.8
+1.Professionalization of actors
+and value chain steering
+2.Contracting initiatives and
+partnerships between value
+chain actors
+3.Structural improvements for
+market access
+Subtotal
+2.5
+25.4
+3.3
+6.9
+41.5
+34.0
+B. Production models development and promotion
+7
+1.Production and processing
+models
+2.Advisory assistance and
+supply of services
+Subtotal
+4.2
+26.3
+1.2
+5.4
+43.0
+28.8
+C. Coordination, M&E and knowledge management
+1.0
+-
+1.0
+4.8
+-
+4.8
+10.6
+-
+5.1
+30.0
+-
+25.6
+2.5
+3.3
+6.9
+4.2
+1.2
+5.4
+25.4
+41.5
+34.0
+26.2
+43.0
+28.7
+1.Coordination and
+management
+2.M&E, knowledge
+management and
+communication
+Subtotal
+Total
+2.3
+46.2
+-
+-
+2.3
+46.2
+0.5
+2.8
+15.0
+36.4
+44.0
+33.2
+0.2
+0.2
+6.0
+13.6
+3.0
+13.3
+0.5
+2.8
+15.0
+36.4
+44.0
+33.2
+2.0
+-
+2.0
+0.0
+-
+0.0
+-
+-
+-
+2.0
+21.0
+-
+10.1
+-
+-
+-
+-
+-
+-
+4.5
+1.4
+0.4
+1.7
+0.5
+-
+0.5
+13.9
+4.6
+8.5
+2.8
+-
+2.4
+0.4
+1.0
+1.7
+2.3
+0.4
+2.7
+3.6
+12.5
+8.4
+14.6
+14.0
+14.6
+9.7
+21.5
+7.9
+20.2
+17.5
+44.7
+15.9
+35.3
+2.8
+18.7
+6.1
+41.4
+-
+-
+0.4
+7.6
+4.9
+10.8
+-
+-
+2.2
+-
+-
+4.8
+0.2
+0.6
+5.0
+13.7
+9.0
+11.0
+1.4
+6.3
+45.2
+3.1
+13.9
+100.0
+E
+B
+2
+0
+1
+6
+/
+L
+O
+T
+/
+P
+.
+1
+4
+EB 2016/LOT/P.14
+B. Project financing
+35.
+PRODEFI, with a total cost of US$45.2 million, will be financed by: (i) IFAD, in the
+amount of US$21 million (46.5 per cent of total cost), in the form of a grant for
+US$15 million under the Debt Sustainability Framework for the 2016-2018 cycle of
+the performance-based allocation system (PBAS), and a grant for US$6 million
+under ASAP; (ii) private partners, in the amount of US$2 million (4.5 per cent);
+(iii) the Government of Mauritania, in the amount of US$5 million (11 per cent);
+and (iv) the beneficiaries, in the amount of US$2.2 million (4.8 per cent). The
+financing deficit, in the amount of US$15 million, will be covered by other sources
+of financing. Otherwise, it will be covered by a second tranche of IFAD financing
+under the next PBAS cycle (2019-2021), subject to the availability of resources for
+that cycle and subject to Executive Board approval.
+Table 2
+Project cost by category of expenditure and source of financing
+(Thousands of United States dollars)
+Category of expenditure4
+I. Investment expenses
+A. Works
+B. Vehicles
+C. Equipment and
+supplies
+D. Training and
+workshops
+E. Consultations
+F. Goods and services
+and inputs
+G. Grants and subsidies
+Total investment
+expenses
+II. Operating expenses
+A. Salaries and benefits
+B. Operations
+Total operating expenses
+Total
+IFAD
+PBAS
+IFAD
+ASAP
+OTHER
+FIN.
+(Deficit)
+Private
+Beneficiaries
+Government
+Total
+Amount
+%
+Amount
+%
+Amount
+%
+Amount
+%
+Amount
+%
+Amount
+%
+Amount    %
+4.9
+0.1
+0.3
+2.4
+1.4
+2.7
+1.5
+36.8
+30.2
+19.1
+37.7
+40.6
+27.6
+21.4
+13.3
+31.9
+1.6
+0.1
+1.7
+15.0
+50.0
+35.0
+48.9
+33.2
+1.2
+-
+0.3
+0.7
+0.2
+2.6
+1.0
+6.0
+-
+-
+-
+6.0
+8.9
+-
+21.9
+10.5
+7.0
+25.8
+15.0
+14.4
+-
+-
+-
+13.3
+4.9
+0.1
+0.3
+2.4
+1.4
+2.7
+1.5
+36.7
+28.9
+18.8
+37.7
+40.6
+27.6
+21.4
+13.3
+31.8
+1.6
+0.1
+1.7
+15.0
+50.0
+35.0
+48.9
+33.2
+0.0
+0.0
+0.0
+-
+-
+0.1
+1.9
+2.0
+-
+-
+-
+2.0
+-
+0.6
+0.1
+-
+-
+1.0
+28.3
+4.9
+-
+-
+-
+4.5
+0.7
+0.0
+0.0
+-
+-
+0.5
+1.0
+2.2
+-
+-
+-
+2.2
+5.6
+0.3
+0.1
+-
+-
+4.7
+13.9
+5.2
+-
+-
+-
+4.8
+1.6
+0 1
+12 0
+40 0
+13 3
+0 3
+0 6
+40 0
+0 9
+0 4
+1 3
+0 0
+14 0
+11 9
+13 2
+-
+1 4
+6 4
+3 5
+9 9
+6 9
+29.3
+0.7
+3.2
+14.1
+7.7
+22.0
+15.2
+4 9
+11 8
+41 7
+92 1
+-
+0 1
+0 1
+5 0
+-
+30 0
+2 2
+11 0
+3 3
+0 3
+3 6
+45 2
+7.3
+0.6
+7 9
+100 0
+C. Summary benefit and economic analysis
+36. The financial analysis performed on the 4Ps and production models show that the
+investments will be profitable, with internal rates of return (IRRs) higher than the
+opportunity cost of capital and positive net present value (NPV). Based on the
+assumptions included in the logical framework, the overall EIRR for the project is
+20.5 per cent, generating NPV of US$19.6 million. The economic analysis takes into
+account all of the aggregate benefits of the production models, 4Ps, environmental
+co-benefits and the benefits deriving from tracks. The sensitivity analysis shows
+robust results under all scenarios with different levels of risk.
+D. Sustainability
+37. The sustainability of PRODEFI results will be ensured by: (i) taking into account
+market requirements and the profitability of investments in value chains;
+(ii) strengthening and gradual participation of institutional actors such as GTFs,
+government institutions and research centres, and economic actors such as
+entrepreneurs and sponsoring companies, that are sustainably anchored in value
+chain development; (iii) promoting a producer capitalization dynamic through
+savings as a prerequisite for investments; and (iv) promoting production models
+that are resilient to climate change and investments with positive environmental
+externalities, as well as lower operating costs thanks to complementary ASAP
+financing from IFAD.
+8
+E
+B
+2
+0
+1
+6
+/
+L
+O
+T
+/
+P
+.
+X
+EB 2016/LOT/P.14
+E. Risk identification and mitigation
+38. The risk level presented by PRODEFI is considered moderate. The risks considered
+most likely and most serious are systemic risks linked to the macro-economic
+context, including competition from imports, as well as climate hazards, weak
+domestic supply of services, and limited technical and management capacities for
+implementation of the country programme. These risks will be mitigated through
+greater involvement in policy dialogue to promote inclusive value chains, financing
+for adaptation measures and use of outsourcing.
+V. Corporate considerations
+A. Compliance with IFAD policies
+39. The project is in compliance with IFAD strategies, principles and tools in the areas
+of rural finance and value chain financing, as well as gender equality. It is fully
+consistent with IFAD's strategy on climate change (2010), particularly the objective
+promoting innovative approaches to assist smallholder producers, both women and
+men, to better adapt to climate change.
+40.
+PRODEFI is classified in category B in that it is not expected to have any major
+adverse environmental or social impact. Its climate vulnerability is deemed
+moderate given the inclusion of adaptation considerations in all project activities.
+The project also includes a set of technologies and approaches intended to prevent
+greenhouse gas emissions and enable carbon storage.
+B. Alignment and harmonization
+41. The project is fully aligned with the objectives of the strategy on rural sector
+development, which has as one of its five strategic directions the development of
+value chains with growth potential, generating permanent employment and
+motivating incomes, with support from structured mechanisms for consultation and
+effective value chain management to the benefit of the organizations of value chain
+actors. In addition, it is fully consistent with the National Agricultural Development
+Plan, which calls for promoting the competitiveness of agricultural value chains. The
+recent installation of the Value Chain Directorate at the new Ministry of Livestock
+underscores the importance given to value chains within the Mauritanian
+institutional landscape.
+42. With respect to nutrition, an inter-sector action plan on nutrition has been drafted
+under the initiative of the Renewed Efforts against Child Hunger and Undernutrition
+(REACH) partnership with support from the United Nations Children’s Fund
+(UNICEF), the World Health Organization (WHO), FAO and WFP. A national
+multi-sector strategy on nutrition (2016-2025) is also nearing completion. PRODEFI
+will be part of the implementation of this strategic plan.
+43.
+In the area of climate change, in 2015 Mauritania prepared an INDC in connection
+with the 21st Conference of the Parties of the United Nations Framework Convention
+on Climate Change. PRODEFI will contribute to implementing national priorities
+through its support for small-scale irrigation and regeneration of plant cover.
+Innovation and scaling up
+C.
+44. A number of innovations and best practices introduced by ProLPRAF will be scaled
+up under this project, e.g.:
+(i)
+The market-driven value chain approach, through dialogue among the actors
+within GTFs. The situational analysis done of GTFs at the time of project
+design and the lessons learned from ProLPRAF allowed for a rigorous
+identification of support on a larger scale for GTF governance, organization,
+capacity for awareness-raising, leadership and youth representation;
+(ii)
+The 4P initiatives undertaken during year one of ProLPRAF, which serve as a
+model for developing 4P initiatives for PRODEF;
+(iii) Capitalization of smallholder producers through savings, using the Centre for
+9
+E
+B
+2
+0
+1
+6
+/
+L
+O
+T
+/
+P
+.
+X
+EB 2016/LOT/P.14
+International Studies and Cooperation (CECI) model piloted by Catholic Relief
+Services in Mauritania, which showed promising results that warrant scaling
+up the initiative; and
+(iv) Support for community associations for joint management of natural
+resources and non-timber forest products.
+D. Policy engagement
+45.
+PRODEFI will support GTF federations and inter-professions in engaging in policy
+dialogue with the Government on improving the economic environment for value
+chains. The exchanges will relate mainly to: (i) policies to promote inclusive value
+chains; (ii) promoting local products; (iii) implementing legislation on cooperatives
+and other professional organizations; and (iv) policy on trade and tariffs. This policy
+dialogue process will result in concrete proposals on matters such as health and
+quality standards for value chain products, improving national legislation and
+enforcement, and market opportunities that could lead to improving food and
+nutritional security for households. Within this framework, the project will work with
+others operating in the area of institutional support and policy dialogue to ensure
+good coordination among interventions.
+VI. Legal instruments and powers
+46. A financing agreement between the Islamic Republic of Mauritania and IFAD will
+constitute the legal instrument for extending the proposed financing to the
+Recipient. A copy of the negotiated financing agreement is attached in appendix I.
+47. The Islamic Republic of Mauritania is empowered under its laws to receive financing
+from IFAD.
+48.
+I am satisfied that the proposed financing will comply with the Agreement
+Establishing IFAD and the Lending Policies and Criteria.
+VII. Recommendation
+49.
+I recommend that the Executive Board approve the proposed financing in terms of
+the following resolutions:
+RESOLVED: that the Fund shall provide a grant to the Islamic Republic of
+Mauritania under the Debt Sustainability Framework in an amount equivalent
+to ten million seven hundred and fifty special drawing rights
+(SDR 10,750,000), and upon such terms and conditions as shall be
+substantially in accordance with the terms and conditions presented herein.
+RESOLVED FURTHER: that the Fund shall provide a grant to the Islamic
+Republic of Mauritania under the Adaptation for Smallholder Agriculture
+Programme (ASAP) in an amount equivalent to four million three hundred
+thousand special drawing rights (SDR 4,300,000), and upon such terms and
+conditions as shall be substantially in accordance with the terms and
+conditions presented herein.
+Kanayo F. Nwanze
+President
+10
+E
+B
+2
+0
+1
+6
+/
+L
+O
+T
+/
+P
+.
+X
+Appendix I
+EB 2016/LOT/P.14
+Negotiated financing agreement
+Accord de financement négocié: "Projet de
+Développement des Filières Inclusives (PRODEFI)"
+(Négociations conclues le 26 octobre 2016)
+Numéro du don: [introduire le numéro]
+Numéro du don ASAP: [introduire le numéro]
+Nom du Projet: Projet de Développement des Filières Inclusives (PRODEFI) (“le Projet ”)
+La République Islamique de Mauritanie (“le Bénéficiaire”)
+et
+Le Fonds international de développement agricole (“le Fonds’’ ou “le FIDA”)
+et
+Le Fonds fiduciaire pour le Programme d’adaptation de l’agriculture paysanne (ASAP)
+("le Fonds fiduciaire ASAP")
+(désigné individuellement par “la Partie’’ et collectivement par “les Parties”)
+conviennent par les présentes de ce qui suit:
+PREAMBULE
+ATTENDU  QUE  le  Bénéficiaire  a  sollicité  auprès  du  Fonds  un  don  pour  le
+financement du Projet décrit à l'Annexe 1 du présent Accord;
+ATTENDU  QUE,  lors  de  sa  cent  cinquième  session,  le  Conseil  d’administration  du
+Fonds  a  approuvé  la  proposition  de  création du  Fonds  fiduciaire  pour  le  Programme
+d’adaptation  de  l’agriculture  paysanne  (ASAP)  du  FIDA  aux  fins  du  financement,  sous
+formes  de  dons,  d’éléments  de  portefeuille  des  projets  et  programmes  financés  par  le
+FIDA,  en  vue  de  renforcer  la  capacité  d’adaptation  des  petits  paysans  au  changement
+climatique dans les cinq domaines correspondant aux principaux résultats du programme
+ASAP;
+ATTENDU  qu’il  résulte,  notamment,  de  ce  qui  précède  que  le  Fonds  ainsi  que  le
+Fonds fiduciaire ASAP ont accepté d’accorder un don et un don ASAP au Bénéficiaire pour
+contribuer  au  financement  du  Projet  conformément  aux  modalités  et  conditions  dans  le
+présent Accord;
+EN FOI DE QUOI, les Parties conviennent par les présentes de ce qui suit:
+1
+Appendix I
+Section A
+EB 2016/LOT/P.14
+1.
+Le  présent  accord  comprend  l’ensemble  des  documents  suivants:  le  présent
+document, la description du Projet  et les dispositions relatives à l’exécution (annexe 1),
+le tableau d’affectation des fonds (annexe 2), et les clauses particulières (annexe 3).
+2.
+Les Conditions générales applicables au financement du développement agricole en
+date  du  29  avril  2009,  amendées  en  avril  2014  et  toutes  éventuelles  modifications
+postérieures  (“les  Conditions  générales”)  sont  annexées  au  présent  document,  et
+l’ensemble des dispositions qu’elles contiennent s’appliquent au présent accord. Aux fins
+du présent accord, les termes dont la définition figure dans les Conditions générales ont
+la signification qui y est indiquée.
+Le  Fonds  et  le  Fonds  fiduciaire  ASAP  accordent  au  Bénéficiaire  respectivement  un
+3.
+don et un don ASAP (“le financement”), que le Bénéficiaire utilise aux fins de l’exécution
+du Projet conformément aux modalités et conditions énoncées dans le présent accord.
+Section B
+1.
+A.
+Le  montant  du  don  du  Fonds  est  de  dix  millions  sept  cent  cinquante  mille
+droits de tirage spéciaux (10 750 000 DTS).
+B.
+Le montant du don du Fonds fiduciaire ASAP est de quatre millions trois cent
+mille droits de tirage spéciaux (4 300 000 DTS).
+2.
+L’exercice financier débute le 1er janvier et se clôture le 31 décembre.
+3.
+Le  Bénéficiaire  ouvrira  deux  (02)  comptes  désignés  libellés  en  dollars  des  États-
+Unis  d’Amérique  (USD)  au  nom  du  Projet  auprès  de  la  Banque  Centrale  de  Mauritanie
+destinés  à  recevoir  les  fonds  provenant  du  don  du  Fonds  et  du  don  du  Fonds  fiduciaire
+ASAP.
+Le  Bénéficiaire  ouvrira  en  outre  un  compte  en  dollars  des  États-Unis  d’Amérique
+4.
+(USD) au nom du Projet aux fins de recevoir l'avance des coûts de démarrage.
+5.
+Le Bénéficiaire ouvrira en outre trois (03) comptes d'opérations libellés en Ouguiya
+Mauritaniens (UM) logés dans les deux villes accueillant les antennes du PRODEFI, Kaédi
+et Kiffa, ainsi qu'à Nouakchott au niveau de l’Unité de Gestion du Projet (UGP).
+6.
+Le Bénéficiaire fournit des fonds de contrepartie aux fins du Projet pour un montant
+en Ouguiya  équivalent  à  cinq  millions  de  dollars  des  États-Unis  d’Amérique
+(5 000 000 USD) correspondant à la prise en charge de l'ensemble des droits de douane,
+impôts et taxes sur les biens et services grevant le Projet.
+Section C
+1.
+L’agent principal du Projet est le Ministère de l’Agriculture (MA).
+La  date  d’achèvement  du  Projet  est  fixée  au huitième anniversaire  de  la  date
+2.
+d’entrée en vigueur du présent accord.
+Section D
+Le  Fonds  assure  l’administration  du  don  du  Fonds  et  du don  du  Fonds  fiduciaire  ASAP
+ainsi que la supervision du Projet.
+2
+Appendix I
+Section E
+EB 2016/LOT/P.14
+1.
+Les  éléments  ci-dessous  constituent  des  conditions  additionnelles  préalables  aux
+décaissements.  Celles-ci  s'ajoutent  à  la  condition  prévue  à  la  Section  4.02  b)  des
+Conditions générales:
+a)
+b)
+c)
+d)
+Les deux comptes désignés et les trois comptes d'opérations ont été ouverts;
+Le  Comité  national  de  Pilotage  (CNP)  et  l’UGP  ont  été  créés  par  arrêtés
+ministériels;
+Le personnel clé (le coordonnateur du Projet, l’expert en finance et en gestion
+des petites et moyennes entreprises, les deux chefs d’antenne, le responsable
+administratif et financier, le responsable de suivi-évaluation, et le comptable)
+ont été recrutés conformément aux dispositions du présent accord; et
+Le  manuel  d'opérations,  préparé  avec  le  personnel  clé  et  l’appui  de
+l’assistance  technique  internationale  mobilisée  pendant  la  formulation  du
+PRODEFI, ainsi  que  le  manuel  de  procédures administratives,  financières,
+comptables  et  de  passation  de  marchés  ont  été  finalisés  par  l'UGP  et
+approuvés par le Fonds.
+Toutes  les  communications  ayant  trait  au  présent  accord  doivent  être  adressées
+2.
+aux représentants dont le titre et l’adresse figurent ci-dessous:
+Pour le Bénéficiaire:
+Ministère de l’Economie et des Finances
+Ministre en charge de l’Economie et des Finances
+B.P. 238
+Nouakchott, Mauritanie
+Tel: +222 45253080
+Fax: +222 45253335
+Pour le Fonds et le Fonds ASAP:
+Président
+Fonds international de développement agricole
+Via Paolo di Dono 44
+00142 Rome, Italie
+3
+Appendix I
+EB 2016/LOT/P.14
+Le présent accord, en date du [introduire date], a été établi en langue française en deux
+(2) exemplaires originaux, un (1) pour le Fonds et un (1) pour le Bénéficiaire.
+REPUBLIQUE ISLAMIQUE DE MAURITANIE
+____________________
+[Introduire le nom du représentant autorisé]
+[Introduire son titre]
+FONDS INTERNATIONAL DE DEVELOPPEMENT AGRICOLE
+___________________
+Kanayo F. Nwanze
+Président
+FONDS FIDUCIAIRE POUR LE PROGRAMME
+D'ADAPTATION DE L'AGRICULTURE PAYSANNE
+__________________
+Kanayo F. Nwanze
+Président
+En sa qualité de gestionnaire du Fonds fiduciaire pour le
+Programme d’adaptation de l’agriculture paysanne (ASAP)
+4
+Appendix I
+EB 2016/LOT/P.14
+Annexe 1
+Description du Projet et Dispositions relatives à l’exécution
+I.
+Description du Projet
+1.
+Zone du Projet. Le PRODEFI est mis en œuvre dans les Wilaya (régions) du Sud du
+pays – Brakna, Assaba, Gorgol, Guidimakha, Hodh El Gharbi et Hodh Ech Charghi (dans
+3 Moughataas: Nema, Tembedra et Djiguenni). L’intervention se fait de manière localisée
+et  séquencée,  avec  dans  une  première  phase,  au  niveau  de  chaque  filière,  des
+interventions  autour  de  marchés  où  des  réalisations  du  précédent  "Programme  de  Lutte
+contre  la  Pauvreté  par  l'Appui  aux  Filières"  (ProLPRAF)  sont  à  renforcer.  Dans  un
+deuxième temps, le PRODEFI procède à un élargissement progressif de ses activités sur
+cette zone d’intervention.
+2.
+Population cible. Le projet cible 42,600 bénéficiaires directs et 243,000 bénéficiaires
+indirects  constitués  essentiellement  de  producteurs  et  des  autres  acteurs  en  amont  et
+aval  des  filières.  Les  jeunes  et  les  femmes  en  particulier  sont  ciblés.  Quatre  filières  ont
+été  retenues sur  la  base  des  résultats  du  ProLPRAF  et  de  leur  potentiel  pro-pauvre: le
+maraîchage,  l’aviculture,  le  lait  de  chèvre  et  les  produits  forestiers  non  ligneux.  Le
+PRODEFI  prévoit  d’intervenir  sur  de  nouvelles  filières  durant  sa  seconde  phase  en
+fonction  des  études  de  marché  menées  durant  la  première  phase.  Une  opération  pilote
+sur  la  pêche  continentale  est  menée  dès  le  démarrage  de  PRODEFI  autour  du  lac  de
+Foum Gleita.
+3.
+Objectif  global.  L’objectif  global  du  Projet  est d’améliorer  les  revenus  et  la  sécurité
+alimentaire  et  nutritionnelle  des  populations  rurales  pauvres  dans  ses  zones
+d’intervention.
+Objectif  spécifique.    L’objectif  spécifique  du  Projet  est d’inclure  les  ruraux  pauvres
+4.
+dont les femmes et les jeunes dans des filières rémunératrices et résilientes.
+5.
+Composantes. Le Projet s’articule autour des composantes suivantes:
+Composante 1: Dynamisation des filières et développement de Partenariats publics-
+privés-producteurs (4P) favorables aux pauvres
+La  composante  1  a  pour  effet  attendu  que  des  groupes  de  travail  filières  et  des
+partenariats  soutiennent  le  développement  des  filières  et  les  intérêts  des
+producteurs  pauvres.  A  cette  fin,  le  Projet  va:  i)  renforcer  et  opérer  une  mise  à
+l’échelle organisationnelle des activités des Groupes de Travail Filière (GTF) initiées
+par le ProLPRAF afin qu’ils remplissent leur rôle d’analyse, de dialogue politique, de
+programmation  des  activités  de  la  filière et  d’appui  à  la  contractualisation;
+ii) promouvoir  la  mise en  adéquation  de  l’offre  et  de  la  demande  ainsi  que  des
+filières  plus  performantes  et  plus  inclusives  à  travers  la  capitalisation  des
+producteurs, 
+formalisation  des  échanges
+commerciaux  et  la  facilitation  de  partenariats  entre  acteurs,  allant  de  simples
+arrangements contractuels à des partenariats de type 4P; et iii) faciliter l’accès aux
+marchés à travers des aménagements structurants.
+la  bancarisation  des  acteurs, 
+la 
+Composante 2: Développement et promotion de modèles de production
+La  composante  2  a  pour  effet  attendu que  des  modèles  de  production  résilients,
+sensibles  aux  enjeux  nutritionnels  et  orientés  vers  le  marché  sont  adoptés  par  les
+bénéficiaires.  Pour  ce  faire,  le  Projet soutient:  i)  des  modèles  de  production
+compétitifs  programmés  pour  répondre  à la  demande  du  marché,  aux  contrats  et
+5
+Appendix I
+EB 2016/LOT/P.14
+aux  4P  facilités  dans  la  composante  1; et  ii)  la  mise  à  disposition  de  services  de
+formation  et  d’appui-conseil  associés  à  ces  modèles  de  production  (éducation
+nutritionnelle, conseil agricole, formation des jeunes, alphabétisation fonctionnelle).
+Dans  le  cadre  de  ces  activités,  le  financement  ASAP  permet  de  mieux  prendre  en
+compte  l’adaptation  au  changement  climatique  en  facilitant  le  recours  à  l’énergie
+solaire depuis la production jusqu’au stockage  et à la transformation  des produits,
+et  la  promotion  de  techniques  de  gestion  durable  des  ressources  naturelles  (eau,
+pâturages,  ressources  végétales  particulièrement  importantes  dans  la  filière
+Produits Forestiers Non Ligneux (PNFL)).
+Composante 3: Coordination, suivi-évaluation, gestion des savoirs
+La  composante  3  finance:  i)  la  coordination  et  la  gestion  du  Projet  basée  à
+Nouakchott;  ii)  le  fonctionnement  de  deux  cellules  de  gestion  opérationnelle  du
+Projet,  basées  à  Kaedi  et  Kiffa;  iii)  le  pool  d’assistance  technique  et  financière
+(PATF) à coûts partagés avec le  Projet de lutte contre la pauvreté dans l'Aftout Sud
+et  le  Karakaro  (PASK-II);  et  iv)  les  activités  de  pilotage  stratégique  et  technique
+ainsi que le suivi-évaluation, la gestion des savoirs et la communication.
+II. Dispositions relatives à l’exécution
+A.
+MISE EN OEUVRE DU PROJET
+1.
+Approche. L’approche  de  PRODEFI  est  de  mettre  à  l’échelle  sur  sa  zone
+d’intervention les acquis positifs du ProLPRAF tout en les renforçant, en les complétant et
+en les intégrant dans les stratégies nationales par l’intermédiaire d’un dialogue politique
+élargi  et  systématisé.  Le  Projet  suit  une  approche  filière  axée  sur  la  demande  des
+marchés.  Le Projet soutient les acteurs impliqués dans la filière, à un niveau individuel,
+collectif et concerté. Dans la première composante du Projet, les acteurs sont appuyés au
+niveau de l’organisation et de la concertation pour améliorer l’adéquation entre l’offre et
+la  demande.  Les  interventions  consisteront  à  renforcer  les  capacités  organisationnelles,
+de  gouvernance  et  de  leadership  des  différents  acteurs.  Le  Projet  promeut  la
+contractualisation  entre  acteurs,  en  priorité  les  producteurs  et  les  promoteurs  privés  de
+projets  innovants.  Dans  la  deuxième  composante,  par  le  développement  de  modèles  de
+production en fonction de la demande de marché définie dans la composante 1, le Projet
+facilite  l’augmentation  de  la  productivité  agricole  et  la  transformation  en  offrant  des
+appuis  aux  producteurs  avec  un  souci  de  durabilité  financière,  d’amélioration  de  la
+nutrition et d’adaptation au changement climatique.
+2.
+Modalités de mise en œuvre. Pour la mise en œuvre des activités, le PRODEFI suit
+principalement  une  approche  de  “faire-faire”  en  s’appuyant  sur  des  prestataires  de
+service (ONG, bureaux d’études) qui sont recrutés par le Projet. Au démarrage du Projet,
+le couplage de prestataires nationaux et internationaux (dit “consortium”) est encouragé
+pour  le  renforcement  des  capacités  de  l’opérateur  national,  avant  un  désengagement
+progressif de l’opérateur international.
+B.
+GESTION ET COORDINATION DU PROJET
+1.
+Agent principal du Projet. La tutelle technique de PRODEFI est confiée à la Direction
+des  Stratégies,  de  la  Coopération  et  du  Suivi-Evaluation  (DSCSE)  du  Ministère  de
+l’Agriculture  (MA)  avec  un  lien  technique  au  niveau  des  Départements  en  charge  des
+filières  ciblées  dans  le  Projet  (Elevage,  Pêche,  Environnement). La  tutelle  a  pour  rôle:
+i) de constituer l’ancrage institutionnel du programme; ii) d’assurer la coordination de sa
+mise  en  œuvre  en  synergie  avec  les  autres  programmes  du  secteur  et  partenaires
+6
+Appendix I
+EB 2016/LOT/P.14
+techniques  et  financiers  et  en  conformité  avec  les  stratégies  nationales et;  iii)  de  créer
+l’unité de projet. La contribution du gouvernement au programme est inscrite au sein du
+budget du Ministère de l’Economie et des Finances (MEF).
+Unité  de  Gestion  du  Projet  (UGP).  Le  MA  met en  place  par  arrêté  ministériel  une
+2.
+UGP  autonome,  qui  sera  établie  à  Nouakchott  pour  assurer  le  pilotage  opérationnel  et
+stratégique  du  Projet  avec  pour  mission  d'animer  et  de  soutenir  le  travail  des  antennes
+d'une  part,  et  d'autre  part  de  faciliter  le  dialogue  politique  sur  le  développement  des
+filières au niveau national. L’ UGP sera logée dans des locaux communs avec l’antenne de
+Nouakchott  du  PASK-II.  L'équipe  de  l'UGP  comprend:  un(e)  coordonnateur(rice)  du
+Projet,  un(e)  expert(e)  finance  des  gestion  des  petites  et  moyennes  entreprises,  un(e)
+responsable suivi-évaluation, un(e) responsable administratif(ve) et financier(ère), un(e)
+comptable, et un(e) secrétaire.
+C.
+PILOTAGE DU PROJET
+1.
+Comité  national  de  pilotage  (CNP).  La  présidence  du  CNP  est  assurée  par la
+Direction des Investissements Publics et de la Coopération Économique (DIPCE) du MEF.
+Au-delà  des  ministères  techniques  cités  ci-dessus,  participent  au  CNP  le  Ministère  du
+Commerce,  de  l’Industrie,  de  l’Artisanat  et  du  Tourisme  et  le  Ministère  des  Affaires
+Sociales, de l’Enfance  et de la Famille. L’implication des représentants des responsables
+des GTF est également cruciale pour faciliter le dialogue politique autour de la promotion
+des  filières.  Il  peut  être  exploré  que  la  même  CNP  puisse  piloter  les  autres  projets  du
+programme FIDA en Mauritanie. Le CNP, qui se réunit au moins deux fois par an, a pour
+responsabilité  de  vérifier  l’état  d’avancement  du  Projet  et  de  veiller  à  l’atteinte  de  ses
+objectifs et au respect de sa stratégie d’intervention. Le CNP a pour tâche: i) d’approuver
+les  programmes  de  travail  et  budgets  annuels  (PTBA);  ii)  d’approuver  les  rapports
+annuels  d’exécution;  iii)  d’examiner  et  approuver  les  rapports  d’audit;  iv) de  vérifier
+l’application des recommandations des missions de supervision et d’audit; v) de veiller à
+la cohérence du Projet et de ses PTBA avec les stratégies, politiques et projets en cours;
+et  vi)  de  s’assurer  que  les  contrats  du  personnel  sont  renouvelés  annuellement  sur  la
+base de l’évaluation des performances individuelles et d’équipe.
+Pilotage  opérationnel  du  Projet.  Le  Projet  est  mis  en  œuvre  par deux  cellules  de
+2.
+gestion  opérationnelle  à  Kaédi  et  à  Kiffa  qui  sont  sous  la  responsabilité  directe  du
+coordonnateur  de  Projet.  Elles  sont  administrées  par  un  chef  d’antenne  (CA),  logées
+physiquement  à  la  Délégation  de  l’Agriculture  à  Kiffa  et  à  la  Délégation  de  l’Elevage  à
+Kaédi.  Les  deux  antennes  sont  chacune  appuyées  par  un  assistant  chef  d’antenne.  Les
+antennes sont également appuyées par un assistant suivi et évaluation qui apportera un
+appui  au  suivi des  marchés,  au  suivi des  aspects  de  ciblage,  genre, jeunes  et  nutrition,
+d’un responsable financier, d’un secrétariat et de chauffeurs. Des ressources (espaces de
+travail) sont mutualisées avec les Délégations Régionales.
+Au  niveau  de  chaque  antenne  de  gestion  opérationnelle  du  Projet,  un  comité  technique
+de  pilotage  présidé  par  le  coordonnateur  de  la  cellule    régionale  du  MEF  et  comprenant
+(Agriculture,  Elevage,
+les  Délégations  Régionales  des  ministères 
+Environnement,  Pêche,  Commerce,  Affaires  Sociales),  les  représentants  des  différents
+acteurs des  GTF,  les  structures  d’appui,  les  opérateurs  de  mise  en  œuvre  et  les  autres
+projets intervenant sur les filières, sera établi. Ce comité valide les PTBA préparés par les
+antennes  au  niveau  déconcentré,  veille  à  la  cohérence  du  Projet  avec  les  stratégies de
+développement  régionales  et  les  approches  de  mise  en  œuvre  des  autres  projets
+présents;  informe  les  parties  prenantes  sur  l’exécution  du  Projet,  discute  les  rapports
+d’évaluation,  enquêtes  d’impact  et  rapports  de  supervision  du  Projet  pour  améliorer
+progressivement sa mise en œuvre. Il constitue un forum d’échanges sur les expériences
+et les actions à mener et se réunira tous les six mois.
+concernés 
+7
+Appendix I
+EB 2016/LOT/P.14
+D.
+OUTILS DE GESTION ET D'EXECUTON DU PROJET
+1.
+Manuels    d'opérations  du  Projet.  Le  MA  élabore  le  manuel  d'opérations,  préparé
+avec le personnel clé et l’appui de l’assistance technique internationale mobilisée pendant
+la  formulation  du  Projet  PRODEFI, ainsi  que  le  manuel  de  procédures  administratives,
+financières,  comptables  et  de  passation  de  marchés,  qui  sont  ensuite  approuvés  par  le
+Fonds.
+Programme  de  Travail  et  Budget  Annuel  (PTBA). L’UGP  présente  les  activités  du
+2.
+PRODEFI  chaque  année  sous  forme  de  PTBA  en  tenant  compte  des  besoins  des  acteurs
+au  sein  des  filières,  identifiées  avec  l’appui  des  GTF  filières et  soutenus  par  les  plans
+d’action  filière  annuels.  Recueillis  d’une  façon  participative,  lesdits  besoins  exprimés  au
+niveau  local  sont  consolidés  par  Wilaya  avec  l’appui  des  antennes  de  gestion
+opérationnelles  concernées.  Ces  programmes  de  travail  sont  soumis  à  la  validation  des
+deux  comités  techniques  de  pilotage;  puis  consolidés  par  l’équipe  de  coordination  du
+Projet dans un PTBA national qui est soumis pour commentaires au MA, approuvé ensuite
+par le CNP, avant d’être envoyé au FIDA pour avis de non-objection.
+8
+Appendix I
+EB 2016/LOT/P.14
+Annexe 2
+Tableau d’affectation des fonds
+1.
+Affectation  du  produit  du don  du  Fonds  et  du  don  du  Fonds  ASAP. a) Le tableau
+ci-dessous indique les catégories de dépenses admissibles à un financement sur le produit
+du don du Fonds et du  don du Fonds ASAP ainsi que le montant du don du Fonds et du
+don  du  Fonds  ASAP  affecté  à  chaque  catégorie  et  la  répartition  en  pourcentage  des
+dépenses à financer pour chacun des postes des différentes catégories:
+Catégories
+Montant alloué
+au titre du Don FIDA
+(exprimé en DTS)
+Montant alloué
+au titre du Don ASAP
+(exprimé en DTS)
+Pourcentage
+I.
+Travaux
+3 370 000
+970 000
+100% HT
+II.
+Formations et ateliers
+2 450 000
+570 000
+100% HT
+III. Biens, services et intrants
+1 800 000
+1 690 000
+100% HT
+IV. Dons et subventions
+950 000
+640 000
+100% HT
+V.
+Salaires et indemnités
+1 100 000
+100% HT
+Non alloué
+TOTAL
+1 080 000
+430 000
+10 750 000
+4 300 000
+b)
+Les termes utilisés dans le tableau ci-dessus se définissent comme suit:
+
+
+
+Les dépenses de Travaux relatives à la catégorie I incluent également les
+dépenses liées aux Véhicules ainsi que celles liées aux Équipements et
+matériels.
+Les dépenses de Formations et ateliers relatives à la catégorie II incluent
+également les dépenses liées aux Consultations.
+Les  dépenses  de  Salaires  et  indemnités  relatives  à  la  catégorie  V  incluent
+également les dépenses liées aux Coûts de fonctionnement.
+2.
+Coûts  de  démarrage.  Les  retraits  effectués  afin  de  couvrir  les  coûts  de  démarrage
+afférents  aux  catégories II,  III  et  V encourus  avant  la  satisfaction  des  conditions
+générales préalables aux retraits ne doivent pas dépasser un montant total équivalent à
+300 000 USD.    Dès  que  possible  après  l’entrée  en  vigueur  du  présent  Accord,  le
+Bénéficiaire  présentera  au  FIDA  pour  non-objection  un  budget  détaillé  des  activités  de
+démarrage. Le paiement du montant lié aux coûts de démarrage sera soumis à l’avis de
+non-objection  du  FIDA.  Les  montants  éventuels  non  dépensés  seront  versés  sur  le
+compte désigné approprié du Projet.
+9
+Appendix I
+EB 2016/LOT/P.14
+Annexe 3
+Clauses particulières
+Conformément aux dispositions de la section 12.01 a) xxiii) des Conditions générales, le
+Fonds  peut  suspendre,  en  totalité  ou  en  partie,  le  droit  du  Bénéficiaire  de  solliciter  des
+retraits du compte du don du Fonds et du compte du don du Fonds ASAP si le Bénéficiaire
+n’a pas respecté l'une quelconque des clauses énoncées ci-dessous, et si le FIDA a établi
+que  ladite  défaillance  a  eu,  ou  risque  d'avoir,  un  effet  préjudiciable  important  sur  le
+Projet:
+1.
+Suivi-évaluation. L'UGP met en place un système de suivi-évaluation (S-E)  afin de
+fournir les informations et les analyses utiles pour le pilotage de l'exécution du Projet et
+prévoir les ressources humaines et financières suffisantes pour leur mise en œuvre. Pour
+faciliter la mise en place du S-E dès le début du Projet, ce processus est appuyé par une
+assistance  technique  internationale. Le  responsable  de  suivi-évaluation  assure  la
+production  des  documents  requis,  tandis  que  le  S-E  est  opérationnalisé  au  niveau  local
+par les  partenaires  de  mise  en  œuvre  et  contrôlé  et  consolidé  par  les  antennes  de
+gestion.  Le  S-E  permet  de  mesurer  l’état  d’avancement  de  l’exécution  du  Projet,  ses
+effets et son impact sur les groupes cibles et renseigne une liste restreinte d’indicateurs
+relatifs  au  Système  de  Gestion  des  Résultats  et  de  l’Impact  (SYGRI),  aux  incidences  du
+changement  climatique  (financement  ASAP)  et  à  la  nutrition.  Le  S-E  du  PRODEFI  est
+composé  de  la  façon  suivante: i)  un  suivi interne  permanent  des  activités; ii)  des  auto-
+évaluations participatives internes avec les parties prenantes des filières notamment les
+GTF,  les  Associations  de  Gestion  Locale  Communautaire  (AGLC),  les  Groupes  d'intérêt
+économique  (GIE),  les  coopératives,  etc.;  iii) des  missions  conjointes  de  supervision  du
+FIDA et du Gouvernement au nombre maximum de deux par an, ainsi que des missions
+d’appui à la mise en œuvre; et iv) des évaluations externes ponctuelles. Une revue à mi-
+parcours  est  effectuée  conjointement  par  le  FIDA  et  le  Gouvernement  à  la  fin  de  la
+quatrième  année.  A  la  fin  du  Projet,  une  mission  d'achèvement  matérialisée  par  un
+rapport d'achèvement et un atelier de clôture mettent en exergue les résultats, les effets
+et l'impact du PRODEFI.
+2.
+Recrutement du personnel. La sélection du personnel du Projet se fait sur une base
+compétitive  par  voie  d’appel  à  candidatures  publié  dans  la  presse  nationale,  selon  les
+procédures  actuelles  du  Bénéficiaire,  sur  la  base  de  contrats  dont  la  durée  ne  pourra
+excéder  la  durée  du  Projet  et  renouvelable  chaque  année. Afin  d’éviter  les  retards
+enregistrés lors du lancement des derniers projets financés par le FIDA en Mauritanie le
+recrutement  du  coordonnateur  et  des  principaux  cadres  du  Projet  fait  l’objet  d’une
+attention particulière et une expertise internationale est mobilisée pour apporter un appui
+technique  au  déroulement  du  processus  de  recrutement.  Une  Commission  nationale,
+dans  laquelle  le  FIDA  est  représenté  à  titre  d’observateur,  est  chargée  de  mener
+l’exercice  en  toute  transparence  selon  des  termes  de  référence  qui  sont élaborés
+conjointement  par  le  Gouvernement  mauritanien  et  le  FIDA. Le  personnel  est  soumis  à
+des  évaluations  de  performances  organisées  annuellement.  Il  pourra  être  mis  fin  à  leur
+contrat ou à leur affectation en fonction des résultats de ces évaluations. Le recrutement
+du personnel ainsi que la décision de mettre fin à leurs fonctions ou à leur affectation se
+fait  en  consultation  avec  le  FIDA. Pour  faciliter  le  démarrage  du  Projet  et  appuyer  la
+maitrise d’ouvrage des activités (recrutement des prestataires, planification et lancement
+des  activités),  une  assistance  technique  internationale  est  mobilisée  durant  les  deux
+premières années du Projet.
+Égalité. Toute  discrimination  fondée  sur  le  sexe,  l’âge,  l’appartenance  ethnique  ou
+3.
+religieuse  ne  sera  pas  admissible  lors  du  recrutement  du  personnel  du  Projet,
+conformément  aux  lois  en  vigueur  sur  le  territoire  du  Bénéficiaire.  Cependant,  le
+10
+Appendix I
+EB 2016/LOT/P.14
+Bénéficiaire  s’engage,  à  compétence  égale,  à  privilégier  les  candidatures  de  femmes  à
+pourvoir  dans  le  cadre  du  Projet. Le  Bénéficiaire  encourage  les  femmes  à  postuler  aux
+postes techniques à pourvoir dans le cadre du Projet.
+Contrôle  interne.  Le  PRODEFI  dispose  d'une  fonction  de  contrôle    interne  dont  les
+4.
+activités  reposent  sur  un  Plan  de  Contrôle  Interne  Annuel  à  définir  par  le  contrôleur
+interne.  Le  contrôleur  interne  doit  fournir  à  la  coordination  du  PRODEFI  la  situation
+d'éventuels  dysfonctionnements  et  faiblesses  dans  la  gestion  fiduciaire  ainsi  que  les
+mesures  à  engager  pour  y  pallier.  Le  contrôleur interne  est  sous  la  supervision  du
+coordonnateur  à qui il rend compte périodiquement de ses activités.
+5.
+Pool d’assistance technique et financière (PATF). Dans la perspective de la mise en
+place  progressive  d’une  approche  programme  au  niveau  du  portefeuille  du  FIDA  en
+Mauritanie, un PATF conjoint offre un appui aux deux projets du portefeuille. Les appuis
+du PATF portent en particulier sur: i) le contrôle interne des procédures et de la gestion
+de  chaque  projet  et  conseils  au  pilotage  à  chaque  coordonnateur;  ii)  l’appui  à  la
+passation des marchés aux deux projets; iii) la communication et la gestion des savoirs;
+iv) le  ciblage,  le  genre  et  la  jeunesse  et,  v)  le  suivi-évaluation.  Le  pool  est  doté  d’un
+budget  spécifique  et  d’une  planification  provenant  des  deux  projets,  lui  permettant  de
+mobiliser  rapidement  des  expertises  nationales  et  internationales  à  la  demande  des
+projets pour appuyer: i) la planification, ii) l’informatique, iii) la gestion prévisionnelle et
+stratégique, iv) le suivi-évaluation, et v) la gestion fiduciaire et les ressources humaines.
+11
+1
+2
+Cadre logique
+Synthèse/Résultats
+Indicateurs clés de vérification11
+Moyens de vérification
+Hypothèses
+Nom
+Référence
+Mi-
+parcours
+Fin
+Source
+Fréquence
+Respons
+abilité
+Objectif général
+Améliorer les revenus et la
+sécurité alimentaire et
+nutritionnelle des
+populations rurales pauvres
+(femmes et jeunes en
+particulier) de ses zones
+d’intervention
+1. Taux d’insécurité alimentaire des
+ménages12*
+88%13
+N/A
+A suivre
+2. Taux de malnutrition chronique des
+enfants de moins de 5 ans*
+37%14
+N/A
+A suivre
+Objectif de développement du Projet
+Inclure les ruraux pauvres
+dont les femmes et les
+jeunes dans des filières
+rémunératrices et
+résilientes
+1
+2
+Effet 1: Des GTF durables
+et des partenariats
+soutiennent le
+développement des filières
+et les intérêts des
+producteurs pauvres
+3. Nombre de personnes ayant
+bénéficié des services du projet*
+4. Pourcentage d'augmentation de la
+marge brute des producteurs soutenus
+par le projet
+5. Nombre de ménages plus résilients16
+aux effets du changement climatique
+(ASAP)*
+6. Nombre de GTF opérationnels17
+7. % de 4P opérationnels après 3 ans
+de fonctionnement
+Données
+disponibles
+au niveau
+national
+Données
+Disponibles
+au niveau
+national
+Rapportage
+interne
+Enquêtes
+spécifiques
+Rapportage
+interne
+Année 1 et 8
+UGP
+Année 1 et 8
+UGP
+Stabilité socio-
+politique et
+résilience du
+cadre macro-
+économique
+Trimestrielle
+Année 1, 4, 8
+Année 1, 4, 8
+UGP,
+S&E
+UGP,
+prestatai
+re
+UGP,
+S&E
+UGP,
+prestatai
+re
+UGP,
+prestatai
+re
+Les mesures
+prises contribuent
+à l’atténuation des
+risques15
+Volonté politique
+du Gouvernement
+à promouvoir les
+filières nationales
+0
+120 000
+243 000
+Enquête de
+référence
++ 20%
++40%
+7500
+14 000
+0
+11
+14
+22
+Evaluation
+Année 1, 4, 8
+N/A
+50%
+70%
+Evaluation
+Année 1, 4, 8
+8. Part des groupes de producteurs
+bancarisés
+10%
+50%
+70%
+Enquête
+d’impact,
+rapport
+prestataire
+Annuelle
+Prestatair
+e
+11 Désagrégé par genre et âge (hommes, femmes et jeunes de 15-35 ans)
+12 défini par le pourcentage de ménages ayant connu une première période de disette
+13 données de l’enquête SYGRI finale du ProLPRAF (2016)
+14 idem
+15 Cf. Partie sur l’identification et atténuation des risques
+16 Dans le cadre du projet, un exploitant sera considéré comme plus résilien s’il a accès à au moins deux des volets suivants i) irrigation économe en eau, ii) accès à l’énergie décarbonnée,
+iii) gestion durable des PNFL iv) gestion durable du fourrage, v) formation aux techniques culturales intelligentes face au climat.
+17 Ayant atteint le niveau 1 sur la base de la typologie des GTF
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+6
+/
+L
+O
+T
+/
+P
+.
+1
+4
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+.
+.
+]
+1
+3
+Produit 1.1: les acteurs
+sont renforcés dans
+l’analyse, la programmation
+et le dialogue politique
+relatifs à leurs filières
+Produit 1.2: Des initiatives
+de contractualisation
+formalisées et de
+partenariats entre acteurs
+sont développées et
+financées
+Produit 1.3: Des
+infrastructures facilitant
+l’accès au marché sont
+construites ou réhabilitées
+Effet 2:
+Des modèles de production
+résilients, sensibles aux
+enjeux nutritionnels et
+orientés vers le marché
+sont adoptées par les
+bénéficiaires
+Produit 2.1: Des modèles
+de production compétitifs
+et résilients sont mis en
+œuvre
+Produit 2.2: des services
+d’appui conseils et l’offre de
+service favorisent
+l’adoption des modèles de
+production
+1
+3
+9. Nombre de GTF soutenus
+10. Nombre de 4P financés
+11. Nombre de groupes CECI constitués
+12. Nombre de contrats appuyés
+13. Km de pistes remises en état*
+14. Part des producteurs ayant déclaré
+une augmentation de la production
+commercialisée
+0
+0
+0
+0
+0
+0
+16
+20
+26
+40
+150
+220
+250
+600
+90
+130
+Rapportage
+interne
+Trimestrielle
+UGP,
+prestataire
+Rapportage
+interne
+Enquête
+d’impact,
+rapport
+prestataire
+Rapportage
+interne
+Rapportage
+interne
+Trimestrielle
+UGP, S&E
+Annuelle
+prestataire
+Trimestrielle
+UGP, S&E
+Trimestrielle
+UGP, S&E
+90%
+90%
+Enquêtes
+spécifiques
+Annuelle
+15. Score de diversité alimentaire des
+ménages
+A déterminer
+N/A
+16. Nombre de coopératives bénéficiant
+des modèles de production
+17. Nombre de ménages vulnérables
+disposant de plus d’eau pour la
+production et la transformation agricole
+(ASAP)*
+18. Nombre de personnes bénéficiant
+des séances d’éducation nutritionnelle
+0
+0
+0
+Enquête
+socio-
+économique
+de base
+Rapportage
+interne
+Rapportage
+interne
+Année 1 et 8
+UGP, S&E
+UGP, S&E
+Trimestrielle
+UGP, S&E
+Trimestrielle
+UGP, S&E
+350
+700
+6000
+10800
+5000
+11000
+Rapportage
+interne
+Trimestrielle
+UGP, S&E
+Représentativi
+té de tous les
+types
+d’acteurs au
+sein des
+filières dans
+les GTF
+Opérationnalit
+é et pérennité
+des GTF pour
+promouvoir
+l’approche
+tournée vers
+le marché et
+l’inclusion des
+ruraux
+pauvres
+- Pérennité du
+dispositif
+d’appui conseil
+et
+d’encadremen
+t
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+6
+/
+L
+O
+T
+/
+P
+.
+1
+4
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+.
+.
+]

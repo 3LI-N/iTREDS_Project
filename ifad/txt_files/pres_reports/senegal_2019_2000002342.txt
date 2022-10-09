@@ -1,0 +1,2483 @@
+Document:
+Agenda:
+Date:
+Distribution:
+Original:
+EB 2019/127/R.34/Rev.1
+8(d)(iv)(e)
+12 September 2019
+Public
+French
+E
+President’s report
+Proposed loan
+Republic of Senegal
+Rural Youth Agripreneur Support Project
+(Agrijeunes Tekki Ndawñi)
+Project No.: 2000002342
+Note to Executive Board representatives
+Focal Points:
+Technical questions:
+Dispatch of documents:
+Benoit Thierry
+Director of Hub Head
+and Country Programme Manager
+West and Central Africa Division
+Tel.: + 221 774509458
+e-mail: b.thierry@ifad.org
+Deirdre McGrenra
+Chief
+Institutional Governance and Member
+Relations
+Tel.: +39 06 5459 2374
+e-mail: gb@ifad.org
+Executive Board — 127th Session
+Rome, 10-12 September 2019
+For: Approval
+EB 2019/127/R.34/Rev.1
+ii
+iii
+iv
+1
+1
+3
+3
+3
+4
+4
+5
+5
+8
+8
+8
+8
+8
+8
+8
+9
+9
+10
+10
+Contents
+Acronyms and abbreviations
+Map of the project area
+Financing summary
+I.
+Context
+A. National context and rationale for IFAD engagement
+B. Lessons learned from experience
+II. Project description
+A. Objectives, geographic area of intervention and target groups
+B. Components/results and activities
+C. Theory of change
+D. Alignment, ownership and partnerships
+E. Costs, benefits and financing
+III. Risks
+A. Project risks and mitigations measures
+B. Environmental and social category
+C. Climate risk classification
+D. Debt sustainability
+IV.
+Implementation
+A. Organizational framework
+B. Planning, monitoring and evaluation, learning, knowledge
+management and communication
+C. Innovations and scaling up
+V.
+Legal instruments and authority
+VI. Recommendation
+Appendices
+I. Negotiated financing agreement
+II. Risk framework
+III. Logical framework
+Project delivery team
+Regional Director:
+Country Director /Country Programme Manager
+Technical Officer:
+Financial Management Officer:
+Climate and Environment Specialist:
+Legal Officer:
+Lisandro Martin
+Benoit Thierry
+Jean Philippe Audinet
+Radu Damianov
+Maam Suwadu Sakho-Jimbira
+Sylvie Arnoux
+i
+EB 2019/127/R.34/Rev.1
+Acronyms and abbreviations
+AfDB
+ANSD
+BCEAO
+COSOP
+FCFA
+FIER
+African Development Bank
+National Agency for Statistics and Demography
+Central Bank of West African States
+Country Strategic Opportunities Programme
+Franc of the African Financial Community
+Training, Inclusion into Agricultural Value Chains and Support for Rural
+Youth Entrepreneurship
+FORMAPROD Vocational Training and Agricultural Productivity Improvement Programme
+GII
+M&ES
+Gender Inequality Index
+Monitoring and evaluation system
+PADAER
+Agricultural Development and Rural Entrepreneurship Programme
+PAFA
+PCU
+PO
+Agricultural Value Chain Support Project
+Project coordination unit
+Procurement officer
+PRACAS
+Senegal Agriculture Acceleration Programme
+PROVALE-CV Water Development Project for the Development of Value Chains
+PSE
+Emerging Senegal Plan
+RGPHAE
+Population, Housing, Agriculture and Livestock Census
+SDG
+Sustainable Development Goal
+ii
+Map of the project area
+EB 2019/127/R.34/Rev.1
+The new project
+Rural Youth Agripreneur Support Project (Agrijeunes Project)
+Ongoing operations
+Agricultural Development and Rural Entrepreneurship Programme (PADAER)
+Agricultural Value Chain Support Project-Extension (PAFA-E)
+Agricultural Development and Rural Entrepreneurship Programme II (PADAER II)
+iii
+EB 2019/127/R.34/Rev.1
+Financing summary
+Initiating institution:
+IFAD
+Borrower:
+Executing agency:
+Total project cost:
+Amount of IFAD loan:
+Ministry of Finance and Budget
+Ministry of Agriculture and Rural Equipment
+EUR 82.48 million (equivalent to
+approximately US$93.3 million)
+EUR 45.86 million (equivalent to
+approximately US$51.9 million)
+Amount of IFAD financing* (for climate action):
+US$5.9 million
+Terms of IFAD loan:
+Highly concessional
+Cofinancier:
+African Development Bank
+Amount of cofinancing:
+EUR 9.50 million (equivalent to approximately
+US$10.7 million)
+Terms of cofinancing:
+Loan
+Contribution of borrower:
+Contribution of beneficiaries:
+Financing gap:
+Appraising institution:
+Cooperating institution:
+EUR 6.37 million (equivalent to approximately
+US$7.2 million)
+EUR 5.26 million (equivalent to approximately
+US$5.9 million)
+EUR 15.49 million (equivalent to
+approximately US$17.5 million)
+IFAD
+IFAD
+* As per the MDB Methodologies for Tracking Climate Adaptation and Mitigation Finance.
+iv
+EB 2019/127/R.34/Rev.1
+Recommendation for approval
+The Executive Board is invited to approve the recommendation as contained in
+paragraph 62.
+I. Context
+A. National context and rationale for IFAD engagement
+1.
+2.
+3.
+4.
+National context
+Political, economic and social context. The fourth largest economy in the
+West African subregion, Senegal has maintained a good level of economic growth
+since 2012, averaging 5.4 per cent at the end of 2017. Thanks to higher
+investment in agriculture and infrastructure, this growth is projected to reach 7 per
+cent in the period 2018-2020 and 10 per cent in 2021-2024. Efforts to redistribute
+the fruits of this growth have had an effect on the living conditions of the
+population. However, with a human development score putting the country at 164th
+in the world in 2018, Senegal needs to improve the quality of that growth to make
+it more inclusive.
+No Poverty (Sustainable Development Goal 1 [SDG 1]), zero hunger (SDG
+2). Senegal’s population, estimated in 2019 at 16.2 million (more than 50 per cent
+of it in the 15-35 age group), is growing at an annual rate of 2.7 per cent. More
+than half the population (56 per cent) lives in rural areas where poverty is more
+acute, with an estimated incidence of 57.1 per cent compared with 47 per cent
+nationally in 2011. Since 2016, the country’s good growth performance has
+reduced this figure by 4 to 7 per cent; projections show an even faster decrease in
+the poverty rate, which is expected to fall to 31 per cent by 2020 due to
+agricultural growth.
+Policies and strategies for family farming, poverty reduction and increased
+food security. The Emerging Senegal Plan (PSE) 2035 establishes the basis and
+main orientations for realizing the country’s development vision. These orientations
+have been developed in sector strategies, among them: (i) the Senegal Agriculture
+Acceleration Programme (PRACAS);1 (ii) the National Employment Policy
+(2017-2020);2 (iii) the vocational and technical education law.
+Special aspects relating to IFAD’s corporate mainstreaming priorities
+Senegal needs to improve the quality of its economic growth to make it more
+inclusive and capable of contributing to the improvement of social indicators, since:
+(i) the incidence of rural poverty is high (57 per cent) and affects the food security
+and resilience of farm families and low-income households; (ii) youth employment
+is low (38 per cent), and new waves of young people (160,000) are entering the
+job market every year; (iii) rural underemployment is particularly high
+(31 per cent) and contributes to legitimizing the phenomenon of migration and
+rural exodus in the collective consciousness.
+5. Within this context, the Rural Youth Agripreneur Support Project (Agrijeunes Tekki
+Ndawñi) is positioned as a rural transformation initiative targeting rural youth
+excluded from the wealth creation process due to a lack of productive and
+innovative jobs in the agro-sylvo-pastoral and fishery sector. Its aim is to enable
+them to become agricultural entrepreneurs.
+In terms of food security, Senegal ranks 66th out of 119 countries on the Global
+Hunger Index (GHI, 2018). The results of the rural agriculture survey indicate a
+need for particular attention to the Casamance region where the project will be
+implemented.
+6.
+1 After an initial implementation period (2014-2017), PRACAS II is awaiting adoption to pursue implementation of the PSE
+agricultural strategy.
+2 The National Employment Policy is pending adoption, limiting its implementation.
+1
+A
+p
+p
+e
+n
+d
+i
+c
+e
+I
+I
+"
+[
+C
+l
+i
+q
+u
+e
+r
+i
+c
+i
+e
+t
+i
+n
+s
+é
+E
+r
+e
+B
+r
+2
+E
+0
+B
+1
+.
+9
+.
+/
+/
+1
+.
+.
+2
+/
+7
+R
+/
+.
+.
+R
+]
+.
+"
+3
+4
+EB 2019/127/R.34/Rev.1
+7.
+8.
+9.
+Gender and social inclusion.3 The Gender Inequality Index (GII)4 ranked
+Senegal 124th out of 160 countries in 2017. The barriers to women’s participation
+in the production system are associated with unequal access to means of
+production, little representation of young women in decision-making bodies and
+limited skills. The second phase of the National Strategy for Gender Equality and
+Equity (SNEEG II 2016-2026) and the gender equality and women's empowerment
+strategy of the country strategic opportunities programme (COSOP) will help lift
+these barriers.
+Persons with disabilities.5 In the project area, the Ziguinchor region has the
+highest prevalence (8.1 per cent), while the Diourbel and Kaolack regions have the
+lowest (5 per cent). The most widespread type of disability is mobility impairment
+(1.5 per cent), which is an impediment to participation in the workforce. Agrijeunes
+Tekki Ndawñi will facilitate the social and occupational inclusion of persons with
+disabilities through collaboration with entities with expertise in this field.
+Climate change.6 Farmland, soil and certain ecosystems are suffering from the
+effects of climate variability. The combined effect of lower precipitation and higher
+temperatures has led to a loss of vegetation cover, wind and water erosion, the
+degradation of denuded soils and the salinization of land southward from the North.
+Rationale for IFAD engagement
+10. To improve living conditions, the vast majority of Senegalese households
+(37 per cent), particularly in rural areas, consider youth employment as the top
+investment priority.7
+11. As in other countries in the subregion, the problem of rural youth employment in
+Senegal has repercussions for securing a decent income. This issue is at the heart
+of IFAD’s mandate for youth, and the Fund’s experiences8 in Africa through its
+projects9 reveal that an effective response lies in building an economic model that
+addresses the insecurity and underemployment that drive young people towards
+exodus and migration.
+12. The Government’s objective is to improve their employment prospects by creating
+100,000-150,000 decent jobs each year through the promotion of investment in
+sectors in the agro-sylvo-pastoral and fishery value chains with high employment
+potential.
+13. However, to seize these opportunities and tap into the aspirations of rural youth,
+the systematic adoption of an integrated approach will be necessary. This approach
+will entail: (i) turning family farms into modern, market-oriented enterprises;
+(ii) promoting rural youth entrepreneurship; (iii) providing certified vocational
+training; (iv) creating a reserve of remunerative jobs for youth; (v) lifting the
+barriers that limit access to means of production such as land, information, the
+market, financing and services.
+14. The project will adopt this approach, which IFAD has successfully used in Africa,
+turning family farms into family farming enterprises, and producers into
+agripreneurs involved in all aspects of the value chain.
+3 See detailed note on gender and social inclusion in the implementation manual.
+4 Source: UNDP – The Gender Inequality Index (GII) shows the loss in potential human development due to disparity between
+women and men in the following three dimensions: (i) reproductive health, (ii) empowerment and (iii) economic status.
+5 These are at-risk persons in the population who have impairments in any of six functional domains: vision, hearing, mobility,
+cognition, the ability to care for oneself and communication. ANSD/RGPHAE 2013
+6 The SECAP note in annex V details the aspects related to climate change
+7 Reference to the PSE, which indicates that after youth employment, the other priorities are, in this order: lowering consumer
+prices (18.3 per cent), health (17.0 per cent) and education (12.4 per cent).
+8 See Section B “Lessons learned from experience”
+9 FIER in Mali, PEA-Jeunes in Cameroon, FORMAPROD in Madagascar and different activities targeting youth in the
+Agricultural Value Chain Support Project (PAFA) and PADAER.
+2
+A
+p
+p
+e
+n
+d
+i
+c
+e
+I
+I
+"
+[
+C
+l
+i
+q
+u
+e
+r
+i
+c
+i
+e
+t
+i
+n
+s
+é
+E
+r
+e
+B
+r
+2
+E
+0
+B
+1
+.
+9
+.
+/
+/
+1
+.
+.
+2
+/
+7
+R
+/
+.
+.
+R
+]
+.
+"
+3
+4
+EB 2019/127/R.34/Rev.1
+B. Lessons learned from experience
+15. Young people are the priority target group. Following PAFA, the IFAD-funded
+PADAER and PAFA-E projects have confirmed that support for rural youth
+necessarily went hand in hand with a holistic intervention approach based on an in-
+depth study and multi-context analysis of opportunities in the agriculture sector
+and young people's aspirations.
+16.
+IFAD’s experiences in Africa10 reveal that the guarantee of a decent income is
+essential for motivating youth to launch business projects in the agro-sylvo-
+pastoral and fishery sector.
+17. Drawing lessons from interventions around the world to promote rural youth
+employment, the Yaoundé Declaration of 1 March 201911 stressed the importance
+of: (i) rejuvenating the farming community by attracting young people to
+agriculture; (ii) building capacity to boost agropastoral entrepreneurship among
+youth; (iii) promoting innovation and intensifying the use of information and
+communications technologies. The Agrijeunes Tekki Ndawñi project embraces this
+approach, is informed by past experiences and will contribute to the creation of
+knowledge and skills. Furthermore, this knowledge will be capitalized on through
+IFAD’s regional grant for the development of tools aimed at attracting youth to
+agriculture and the agrifood sector (2018-2021).12
+II. Project description
+A. Objectives, geographic area of intervention and target groups
+Pursuant to the national strategic orientations for agricultural development, the
+18.
+project is part of the COSOP 2019-2024 and will contribute to the achievement of
+the SDGs on reducing poverty (SDG 1), eliminating hunger (SDG 2), promoting
+gender equality (SDG 5), promoting decent work and economic growth (SFG 8)
+and fighting climate change (SDG 13).
+19. Development objective and impact. The project’s objective is to promote the
+social and occupational inclusion of youth in family farms and profitable ventures
+that create income and decent sustainable jobs13 in agro-sylvo-pastoral and fishery
+value chains. The project will benefit 150,000 rural young people. Among this
+group, 45,000 young people (50 per cent of whom will be female) will be
+integrated into or receive support to start up a sustainable profitable activity in the
+agro-sylvo-pastoral and fishery value chains. At project completion, 25,000 viable
+enterprises14 in the agro-sylvo-pastoral and fishery value chains will have been
+created and/or strengthened and will create 35,000 decent jobs, 50 per cent of
+which will be to the benefit of young women. Furthermore, through capacity-
+building, the project will have qualitative implications for the country’s nutrition
+situation, which is already the best in West Africa.
+20. The project will be implemented in four agroecological zones in Senegal: the Niayes
+region, the groundnut basin, the sylvopastoral zone and lower and middle
+Casamance. The project target group consists of: (i) youth aged 15-3515 seeking
+economic inclusion; and (ii) economically active young entrepreneurs. The project’s
+targeting strategy is intended to be inclusive and to promote the economic and
+occupational integration of the poorest and most marginalized groups, such as
+10 Especially in Mali, Cameroon and Madagascar.
+11 Under  the  aegis  of  IFAD,  an  international  summit  on  youth  agropastoral  entrepreneurship  was  held  in  Yaoundé  from  28
+February to 3 March 2019, attended by more than 500 participants from different organizations and locations.
+12 Implemented  by  PROCASUR,  this  initiative  covers  the  following  countries:  Cameroon,  Madagascar,  Mali,  Nigeria  and
+Senegal.
+13 Eighty per cent of the rural youth trained by the project adopt appropriate climate-resilient technologies and management
+practices.
+14 The term “enterprise” is understood here as an income-generating economic activity or initiative supported by AGRIJEUNES in
+the agro-sylvo-pastoral and fishery sector.
+15 Senegal’s  national  youth  policy  defines  “youth”  as  persons  aged  15-35.  Ministerial  Decree  No. 3748 MFPTEOP-DTSS of
+6 June 2003, on child labour (Article 1) establishes 15 as the legal working age.
+3
+A
+p
+p
+e
+n
+d
+i
+c
+e
+I
+I
+"
+[
+C
+l
+i
+q
+u
+e
+r
+i
+c
+i
+e
+t
+i
+n
+s
+é
+E
+r
+e
+B
+r
+2
+E
+0
+B
+1
+.
+9
+.
+/
+/
+1
+.
+.
+2
+/
+7
+R
+/
+.
+.
+R
+]
+.
+"
+3
+4
+EB 2019/127/R.34/Rev.1
+persons with disabilities. It also considers the question of equality between women
+and men and will facilitate the representative participation of young women in
+implementation activities and mechanisms. The purpose of the implementation
+strategy is to create a stimulus effect through young model agripreneurs.
+B. Components/results and activities
+21. The project will have the following components: (i) development of profitable
+economic activities; (ii) capacity-building and facilitation of inclusion; and (iii)
+coordination and management.
+22. Component 1: Development of profitable economic activities. The expected
+outcome of this component is that rural youth will be engaged in remunerative
+economic activities that guarantee them a decent income in the agro-sylvo-
+pastoral and fishery value chains. The project will contribute to the market
+inclusion of rural youth and their access to means of production by providing
+start-up capital to youth in training or a productive credit to those who wish to
+develop an existing activity. These young people will receive support that will aid
+them in developing partnerships with farmers’ organizations, umbrella
+organizations, interprofessional associations and other private sector operators.
+23. Component 2: Capacity-building and facilitation of inclusion. The expected
+outcome is that youth will acquire the necessary capacity to sustainably manage
+their activities. To accomplish this, the mechanism for assisting rural youth will be
+based on their profiles and needs. The project will study local youth mobilization
+organizations, identify interested rural youth through a rural vocational project and
+assist them in the preparation and implementation of microprojects and business
+plans. It will also improve the quality and diversity of training, contributing to the
+development of a sustainable training supply.
+24. Component 3: Coordination, administrative and financial management and
+monitoring and evaluation. This component will ensure the project’s
+administrative and fiduciary management by focusing on results and transparency,
+coordinate fieldwork with the technical team and supporting partners and will
+organize the monitoring and evaluation system and gender-sensitive knowledge
+management and communications systems. Finally, it will link project activities
+with national initiatives, publish the data and create a dedicated website, thereby
+strengthening national accountability mechanisms. It will also set up a third-party
+monitoring mechanism.
+C. Theory of change
+25. The project is positioned as a rural transformation initiative aimed at strengthening
+the agricultural initiatives of rural youth to enable them to become modern
+agripreneurs benefiting from a viable and sustainable income.
+26.
+It seeks to (i) eliminate the access barriers to information and youth advisory and
+counselling services; (ii) boost the limited skills and the technical and managerial
+knowledge of youth and (iii) reduce barriers to financial services for youth, which,
+along with land tenure issues, hinder their engagement and thwart their ambitions.
+27. These problems: (i) spur migration and rural exodus, leading to the depopulation
+of rural areas; (ii) dampen the spirit of enterprise; and (iii) increase
+underemployment and unemployment.
+28. To counteract these harmful effects, the project will adopt an entrepreneurial
+transition approach that will promote: (i) sustainable engagement in attractive and
+profitable rural occupations; (ii) business partnerships for production and
+marketing at remunerative prices; (iii) technical and entrepreneurial capacity-
+building; (iv) business relationships with financial and information and
+communications technology institutions to build networks and connect young
+agripreneurs to the broader economy.
+4
+A
+p
+p
+e
+n
+d
+i
+c
+e
+I
+I
+"
+[
+C
+l
+i
+q
+u
+e
+r
+i
+c
+i
+e
+t
+i
+n
+s
+é
+E
+r
+e
+B
+r
+2
+E
+0
+B
+1
+.
+9
+.
+/
+/
+1
+.
+.
+2
+/
+7
+R
+/
+.
+.
+R
+]
+.
+"
+3
+4
+EB 2019/127/R.34/Rev.1
+29. These actions will lead to the economic and financial inclusion of rural youth and
+will contribute to the achievement of SDGs 1,2,4,8 and 13.
+D. Alignment, ownership and partnerships
+30. The Agrijeunes Tekki Ndawñi project will contribute to the achievement of the
+aforementioned SDGs. It is also aligned with the PSE and IFAD’s Strategic
+Framework.
+31. Ownership. Alignment with national orientations makes the project a priority of
+the Government, which will play an integral role in implementation at the different
+levels (central, deconcentrated and decentralized) through supervision, technical
+services and local groups. Ownership will be facilitated by these groups’
+participation in planning bodies, the execution of certain activities (supported by
+agreements) and monitoring. The sector monitoring system will record the
+project’s achievements in terms of their contribution to meeting PSE priorities.
+32. Partnerships. The project will be implemented within the existing policy dialogue
+33.
+framework to ensure that it complies with current strategic directions and
+practices, and is run in synergy and complementarity with the operations of other
+partners. It will therefore participate in joint planning sessions in the regions. It will
+rely on PADAER’s and PAFA-E’s knowledge of the area to build institutional and
+performance partnerships for outsourcing needs. Service partnerships will be
+subject to periodic evaluations in the interests of the project and its beneficiaries to
+ensure that problems are properly communicated and analysed and solutions are
+identified in a participatory manner.
+In line with COSOP strategic objective 3 (engagement in national policy processes),
+IFAD and its subregional office will make use of project outcomes by scaling them
+up and integrating project methodologies into policies support the country’s youth.
+Thus, partnerships for policy dialogue are defined by the COSOP, which provides
+the framework for identifying the project's priority areas and actions. IFAD’s West
+Africa Hub will increase cooperation with the other Rome-based United Nations
+agencies (the Food and Agricultural Organization of the United Nations [FAO] and
+the World Food Programme [WFP]) and the United Nations Development Assistance
+Framework to promote more coherent and effective policy dialogue. Furthermore,
+the regional hub will cooperate with the African Development Bank (AfDB) and the
+World Bank, as needed.
+E. Costs, benefits and financing
+34. The total cost, calculated over a six-year period, including provisions for physical
+contingencies and inflation, is EUR 82.476 million. The base cost is EUR 78.729
+million. The provisions for physical and financial contingencies are EUR 0.633
+million and EUR 3.115 million, respectively.
+35. The total amount of IFAD financing is indicated in tables 1,2 and 3.
+36. The financing gap, which is EUR 15.493 million, or 18.8 per cent of the total cost,
+may eventually be covered by future cycles of the performance-based allocation
+system (under financing terms to be defined and subject to internal procedures
+and further approval by the Executive Board) or by confinancing to be determined
+during implementation.
+Project costs
+37. The base costs, by component, are indicated in table 1.
+5
+A
+p
+p
+e
+n
+d
+i
+c
+e
+I
+I
+"
+[
+C
+l
+i
+q
+u
+e
+r
+i
+c
+i
+e
+t
+i
+n
+s
+é
+E
+r
+e
+B
+r
+2
+E
+0
+B
+1
+.
+9
+.
+/
+/
+1
+.
+.
+2
+/
+7
+R
+/
+.
+.
+R
+]
+.
+"
+3
+4
+Table 1
+Project costs by component and financier
+(Thousands of euros)
+Component [subcomponent]
+Amount
+% Amount
+% Amount
+% Amount
+% Amount
+% Amount
+%
+IFAD
+AfDB
+Financing gap
+Beneficiaries
+Government
+Total
+A. Development of profitable economic activities
+Market inclusion of youth agripreneurs
+Promotion of agripreneur economic activities and initiatives
+Subtotal
+2 857
+21 041
+23 898
+38.5
+54.6
+52.0
+3 026
+6 473
+9 498
+40.8
+16.8
+20.7
+952
+6 523
+7 475
+12.8
+16.9
+16.3
+-
+-
+4 329 11.2
+9.4
+4 329
+591
+167
+757
+8.0
+0.4
+1.6
+7 425
+38 533
+45 957
+9.0
+46.7
+55.7
+B. Capacity-building and facilitation of inclusion
+Training and assistance to youth
+Strengthening of youth training-inclusion and advisory entities and
+mechanisms
+Subtotal
+15 901
+57.1
+1 296
+17 198
+61.5
+57.4
+C. Project management and monitoring and evaluation
+Coordination and management
+Planning, monitoring and evaluation, knowledge management and
+communication
+Subtotal
+Total
+6
+Table 2
+Project costs by expenditure category and financier
+(Thousands of euros)
+-
+-
+-
+-
+-
+-
+-
+-
+6 000
+21.6
+927
+3.3
+5 011 18.0
+27 838
+33.8
+432
+6 432
+20.5
+21.5
+-
+927
+-
+3.1
+379 18.0
+5 390 18.0
+2 108
+29 946
+2.6
+36.3
+1 356
+24.8
+-
+-
+48
+0.9
+5 471
+6.6
+4 067
+74.3
+692
+4 759
+45 855
+62.8
+72.4
+55.6
+-
+-
+9 498
+-
+-
+11.5
+231
+1 586
+15 493
+20.9
+24.1
+18.8
+-
+-
+5 256
+-
+-
+6.4
+179 16.2
+3.5
+227
+7.7
+6 374
+1 102
+6 572
+82 476
+1.3
+8.0
+100.0
+Expenditure category
+I. Investment costs
+A. Rural construction/engineering
+B. Vehicles
+C. Equipment and material
+D. Training and workshops
+E. Consultations
+F. Goods and services and inputs
+G. Grants and subsidies
+Total investment costs
+II. Recurrent costs
+A. Salaries and allowances
+B. Operating costs
+Total recurrent costs
+Total
+IFAD Loan
+Amount
+AfDB
+%
+Amount
+%
+Financing gap
+Amount
+Beneficiaries
+%
+Amount
+%
+Government
+Amount
+Total
+%
+Amount
+%
+3 876
+208
+898
+14 591
+4 325
+242
+18 022
+42 160
+2 718
+976
+3 695
+45 855
+28.3
+75.0
+61.5
+59.1
+53.6
+61.5
+62.2
+54.4
+75.0
+75.0
+75.0
+55.6
+9 498
+-
+-
+-
+-
+-
+-
+9 498
+-
+-
+-
+9 498
+69.4
+-
+-
+-
+-
+-
+-
+12.2
+-
+-
+-
+11.5
+168
+69
+299
+5 059
+1 945
+81
+6 640
+14 261
+906
+325
+1 232
+15 493
+1.2
+25.0
+20.5
+20.5
+24.1
+20.5
+22.9
+18.4
+25.0
+25.0
+25.0
+18.8
+-
+-
+-
+-
+-
+-
+2.4
+585
+4.2
+341
+-
+-
+4 329 14.9
+6.8
+5 256
+-
+-
+-
+5 256
+-
+-
+-
+6.4
+148
+-
+263
+4 442
+1 451
+71
+-
+6 374
+-
+-
+-
+6 374
+1.1
+-
+18.0
+18.0
+18.0
+18.0
+-
+8.2
+-
+-
+-
+7.7
+13 690
+277
+1 460
+24 677
+8 063
+393
+28 991
+77 550
+16.6
+0.3
+1.8
+29.9
+9.8
+0.5
+35.2
+94.0
+3 625
+1 302
+4 926
+4.4
+1.6
+6.0
+82 476 100.0
+E
+B
+2
+0
+1
+9
+/
+1
+2
+7
+/
+R
+.
+3
+4
+/
+R
+e
+v
+.
+1
+Table 3
+Project costs by component (and subcomponent) and by project year
+(Thousands of euros)
+EB 2019/127/R.34/Rev.1
+Component
+A. Development of profitable economic activities
+2020
+Total
+Amount Amount Amount Amount Amount Amount Amount
+2023
+2024
+2021
+2022
+2025
+Market inclusion of youth agripreneurs
+247
+1 847
+2 454
+2 032
+484
+361
+7 425
+Promotion of agripreneur economic activities and
+initiatives
+Subtotal
+B. Capacity-building and facilitation of inclusion
+2 648
+11 815
+12 219
+8 049
+2 970
+831
+38 533
+2 894
+13 662
+14 673
+10 082
+3 454
+1 192
+45 957
+Training and assistance to youth
+1 665
+7 899
+8 856
+7 483
+1 935
+Strengthening of youth training-inclusion and
+advisory entities and mechanisms
+Subtotal
+C. Project management and monitoring and
+evaluation
+156
+579
+585
+558
+229
+1 821
+8 478
+9 441
+8 042
+2 164
+-
+-
+-
+27 838
+2 108
+29 946
+Coordination and management
+1 248
+839
+851
+841
+839
+852
+5 471
+Planning, monitoring and evaluation, knowledge
+management and communication
+Subtotal
+Total
+293
+1 541
+118
+957
+177
+1 029
+124
+965
+127
+966
+263
+1 115
+1 102
+6 572
+6 257
+23 097
+25 143
+19 088
+6 585
+2 306
+82 476
+Project strategy and financing/cofinancing plan
+38. Parallel financing envisaged with AfDB. The possibility of a partnership between
+IFAD and AfDB Senegal, based on successful inter-project experiences 2014-2018
+(MOU PADAER and PNDRS at the regional level) has been envisaged since 2017.
+The Agrijeunes Tekki Ndawñi project (IFAD) and the Project to Improve the Water
+Supply for the Development of Value Chains (PROVAL) (AfDB) operations will
+receive parallel financing, and will work in complementarity in the field, merging
+some of their actions to maximize effectiveness and efficiency.
+39.
+40.
+Provale’s interventions are valued at EUR 9.5 million, equivalent to US$10.7 million,
+or approximately 11.5 per cent of the total cost of the Agrijeunes project. They will
+be focused essentially on production infrastructure. IFAD will make use of these
+investments through to support the mass entry of youth in agriculture and the
+facilitation of market access.
+Disbursement
+Flow of funds will be managed through a designated account opened in a leading
+bank. The funds from this account will be transferred to an operations account
+opened in Kaolack. This account will receive the funds in accordance with the
+disbursement procedures indicated in the letter to the borrower. For effective
+disbursement, a disbursement plan will be put in place and updated each month
+based on rolling quarterly planning. Cash requirements will be determined based on
+the available balance, IFAD's disbursement procedures and the implementation
+timetable.
+Summary benefits and economic analysis
+41. The project’s economic internal rate of return is 23.4 per cent. This result linked to
+the increase in agripreneur income is highly satisfactory and buttressed with social
+benefits: nutrition, well-being, climate resilience, the effects of capacity-building,
+etc. In addition, the sensitivity analysis indicates that the results obtained are
+highly robust.
+Exit strategy and sustainability
+42. The project’s sustainability will be ensured through: (i) the inclusion of rural youth
+in the value chain dynamic and sustainable interaction with outside actors;
+7
+EB 2019/127/R.34/Rev.1
+(ii) facilitation of access to land and secure land tenure, the dissemination of
+innovations and support for the adoption of effective techniques and specialized
+advisory support; (iii) assistance to youth over several production cycles to
+facilitate their sustainable integration into the local and national economic context
+and to lower their risk of failure; (iv) development of a sustainable diversified
+supply of quality vocational training to meet the needs of rural youth;
+(v) collaboration with professional organizations to mobilize expertise and youth
+advisory services; and (vi) the forging of partnerships with deconcentrated
+technical entities, local groups and delegated project management agencies.
+III. Risks
+A. Project risks and mitigations measures
+43. The most likely risks are linked to the implementation environment, notably the
+possibility that the project could be confused with other “youth” programmes or
+initiatives with different approaches and methods. These risks will be mitigated with
+the rapid launch of a major information and communication campaign, the adoption
+of an inclusive targeting approach, the development of a joint approach to attract
+other centres of interest to youth, as well as the dissemination of innovations that
+will enable youth to distinguish themselves from competitors. Regular
+communication with the technical services will smooth out any problems that arise
+in their activities and will also help mitigate risk.
+44. The integrated risk framework in appendix II indicates the other risks and their
+mitigation measures.
+B. Environmental and social category
+45. The project will be exposed to a series of risks linked to the sectoral and
+institutional reform context, and then to external factors such as fluctuations in
+international markets and climate risk. These risks have been identified and
+mitigation measures put in place. The project is classified in category B from the
+environmental and social standpoint, and its environmental and social impact
+should be less negative.
+C. Climate risk classification
+46. The project is categorized as having “high” climate risk. The technologies promoted
+will be climate-resilient with respect to both the variability of rainfall, which will
+require better water conservation and irrigation techniques, and the desertification
+of the northern regions, which will involve a greater need to protect and safeguard
+the agripreneurs' agricultural investments.
+D. Debt sustainability
+47. Senegal's economic growth rate has been over 6 per cent for the past three years,
+and the medium-term economic outlook is favourable. Despite this sustained
+growth, however, the debt-to-GDP ratio continues to increase, and the deterioration
+in the terms of trade has led to a rise in the budget and current account deficits.
+48.
+In order to manage the high debt service level, the debt management strategy
+should emphasize constant recourse to concessional loans. (Source: IMF).
+IV. Implementation
+A. Organizational framework
+Project management and coordination
+49. The project will be under the Ministry of Agriculture and Rural Equipment (MAER)
+and presided over by the national steering committee (NSC). The NSC will create a
+coordination and management unit to ensure that the project follows results-based
+management principles, supported by operational mechanisms and adherence to
+administrative, financial and procurement procedures.
+8
+EB 2019/127/R.34/Rev.1
+50.
+51.
+Implementation will rely on: (i) institutional partnerships; (ii) the delegation of
+implementation management through agreements and performance contracts with
+technical operators and specialized implementing agencies; training, technical
+assistance and advisory entities; local non-governmental organizations;
+(iii) strategic partnerships with professional organizations for rural youth,
+interprofessional associations, the Chamber of Trades, the Chamber of Commerce,
+financial institutions, etc.
+Financial management, procurement and governance
+In fiduciary management, the overall project risk is “high” in the design stage
+but will become “moderate” with mitigation measures. Analysis of the project’s
+financial management mechanism shows that the recommended architecture meets
+the basic requirements for the traceability of financial information (acquisition of
+accounting software, quality management tools and experienced personnel).
+52. Procurement will be governed by the code and procedures in force in Senegal,
+which are acceptable and consistent with IFAD principles in this regard. A
+procurement plan based on the annual workplan and budget will be prepared each
+year. This plan will specify procurement methods, estimated costs, the timetable,
+etc.
+53. Governance. Corruption in the public sector remains a problem. With a score of 45
+on Transparency International’s Corruption Perceptions Index in 2018 and 2017, the
+country has stagnated in this regard, dropping from 66th to 67th place out of 180
+countries in 2018.
+54. The project will apply the principles of good governance and transparency:
+(i) through the supervision of farmers’/producers’ organizations and rural youth for
+implementation of the production partnership business plans; (ii) through the
+monitoring of the compliance of farmers’ organizations with their internal by-laws
+and regulations, particularly in the matter of filling positions in elected bodies; and
+finally (iii) strict compliance with financial management and procurement
+procedures.
+B. Planning, monitoring and evaluation, learning, knowledge
+management and communication
+55. The monitoring and evaluation system will be aligned with the results-based
+management system. It will measure progress in implementation and review
+indicators according to the Operational Results Management System developed by
+IFAD. The monitoring and evaluation system will be strengthened through PRiME.
+Knowledge management and communication will be guided by a management plan
+prepared at project start-up.
+Innovations and scaling up
+C.
+56. The project is innovative in: (i) its overall response strategy of increasing income
+and improving the resilience of rural youth; (ii) the promotion of sustainable
+business models tailored to the situation of youth; (iii) its inclusive approach, which
+heightens the integration, leadership and civic engagement of rural youth in
+professional organizations and the economic and social development process.
+Certain innovations drawn from positive experiences in Africa will be scaled up,
+notably the development of effective partnerships with the myriad youth projects in
+Senegal and support for public authorities to set up a national programme for rural
+youth.
+57.
+Implementation readiness and start-up plans
+Implementation plan. In formulating the project, the legal requirements that
+often delay the start of activities were anticipated with the provision of start-up
+funds in the amount of CFA 300 million. This will enable the project to meet the
+requirements for the first disbursement, enabling it to maximize the time for the
+9
+EB 2019/127/R.34/Rev.1
+deployment of activities in the field. Its operational strategy contains a structured
+procedure for the support to rural youth: (i) identification-orientation; (ii) training –
+strengthening – economic planning; (iii) financing – assistance. This strategy
+organizes project support in three states: (a) preparatory and launch activities
+(year 1); (b) deployment phase (years 2-4); (c) consolidation and completion
+phase (years 5-6).
+Supervision, midterm review and completion plans
+58. The supervision and monitoring missions will be conducted jointly by IFAD and the
+Government of Senegal. The midterm review will be conducted jointly by IFAD and
+the Government at the end of year 3. The completion mission, combined with a
+concluding workshop, will be organized with all stakeholders on project completion.
+It will discuss the results, outcomes and impact of the project on the target groups
+and make it possible to capitalize on experiences.
+V. Legal instruments and authority
+59. A project financing agreement between the Republic of Senegal and IFAD shall
+constitute the legal instrument for extending the proposed financing to the
+borrower for implementation of the Rural Youth Agripreneur Support Project
+(Agrijeunes Tekki Ndawñi) in Senegal. A copy of the negotiated financing
+agreement is attached in appendix I.
+60. The Republic of Senegal is empowered under its laws to receive financing from
+IFAD.
+61.
+I am satisfied that the proposed financing will comply with the Agreement
+Establishing IFAD and the Policies and Criteria for IFAD Financing.
+VI. Recommendation
+62.
+I recommend that the Executive Board approve the proposed financing in terms of
+the following resolution:
+RESOLVED: that the Fund shall provide a loan on highly concessional terms to
+the Republic of Senegal in an amount of forty-five million eight hundred and
+fifty-five thousand euros (EUR 45,855,000) equivalent to US$51,900,000 and
+upon such terms and conditions as shall be substantially in accordance with
+the terms and conditions presented herein.
+Gilbert F. Houngbo
+President
+10
+Appendix I
+EB 2019/127/R.34/Rev.1
+Accord de financement négocié
+Projet d'appui à l'insertion des jeunes ruraux
+agripreneurs (Agri-jeunes Tekki Ndawñi)
+(Négociations conclues le 1er août 2019)
+Numéro du prêt:__________
+Nom du projet : Projet d'appui à l'insertion des jeunes ruraux agripreneurs (Agri-jeunes
+Tekki Ndawñi), (“le Projet”)
+La République du Sénégal (“l’Emprunteur”)
+et
+Le Fonds international de développement agricole (“le Fonds’’ ou “le FIDA”)
+(désigné individuellement par “la Partie’’ et collectivement par “les Parties”)
+PREAMBULE
+A)
+ATTENDU QUE l’Emprunteur  a  sollicité  du  Fonds  un  prêt  pour  le  financement
+du Projet décrit à l’Annexe 1 du présent Accord;
+B)
+ATTENDU QUE l’Emprunteur  entend  obtenir  de  la  Banque  Africaine  de
+Développement  (BAD)  un  prêt  pour  contribuer  au  financement  du  Projet  conformément
+aux  conditions  et  modalités  qui  seront  précisées  dans  un  accord  conclu  entre
+l’Emprunteur et la BAD;
+EN FOI DE QUOI, les Parties conviennent par les présentes de ce qui suit:
+Section A
+Le  présent Accord  comprend  l’ensemble  des  documents  suivants:  le  présent
+1.
+document,
+les  dispositions  relatives  à l'exécution
+(Annexe  1),  le  tableau  d’affectation  des  fonds  (Annexe  2)  et  les  clauses  particulières
+(Annexe 3).
+la  description  du  Projet et
+2.
+Les Conditions générales applicables au financement du développement agricole en
+date  du  29  avril  2009,  telles  qu'amendées  en  décembre  2018  et  toutes  éventuelles
+modifications  postérieures  (“les  Conditions  générales”)  sont  annexées  au  présent
+document,  et  l’ensemble  des  dispositions  qu’elles  contiennent  s’appliquent  au  présent
+Accord.  Aux  fins  du  présent  Accord,  les  termes  dont  la  définition  figure  dans  les
+Conditions générales ont la signification qui y est indiquée.
+3.
+Le  Fonds  accorde  à  l’Emprunteur  un  prêt  (“le  financement”),  que  l’Emprunteur
+utilise  aux  fins  de  l’exécution  du  Projet,  conformément  aux  modalités  et  conditions
+énoncées dans le présent Accord.
+1
+Appendix I
+Section B
+EB 2019/127/R.34/Rev.1
+Le  montant  du  prêt  est  de  quarante-cinq  millions  huit  cent  cinquante-cinq  mille
+1.
+Euros (45 855 000 Euros).
+2.
+Le  prêt  accordé  à  des  conditions  particulièrement  favorables est  exempt  d'intérêt
+mais  est  assorti  d'une  commission  de  service de  trois  quarts  de  point  (0,75%) l’an, et
+comporte un  délai  de  remboursement  de  quarante  (40)  ans  dont  un  différé
+d’amortissement  de  dix  (10)  ans,  à  compter  de la  date  d'approbation  du  prêt  par  le
+Conseil  d'administration  du  Fonds. Le  Principal  du  prêt  sera  remboursé  à  un  taux  de
+4,5 % du montant total du principal per annum à partir de l'année onze (11) et jusqu’à
+l'année trente (30), et à un taux de 1% du montant total du principal à partir de l'année
+trente-et-un (31) et jusqu'à l'année quarante (40).
+3.
+4.
+La monnaie de paiement au titre du service du prêt est l’Euro.
+L’exercice financier débute le 1er janvier et clôture le 31 décembre.
+Le remboursement du principal et le paiement de la commission de service du prêt
+5.
+sont exigibles le 15 avril et le 15 octobre.
+6.
+Un compte désigné, libellé en francs CFA, destiné à recevoir les fonds provenant du
+prêt,  est  ouvert  au  nom  du  Projet  auprès  d'une  banque  commerciale  crédible.
+L’Emprunteur informera le Fonds des représentants autorisés à gérer le compte désigné.
+7.
+Un  compte  d’opération,  alimenté  par  le  compte  désigné,  est  ouvert  à  Kaolack.  Le
+compte  sera mouvementé selon le principe de la double signature par le Coordonnateur
+et le Responsable administratif et financier du Projet.
+L’Emprunteur  fournira  des  fonds  de  contrepartie  aux  fins  du  Projet  pour  un
+8.
+montant total de 6 374 000 Euros, sous forme d'exonération de taxes.
+Section C
+Le Ministère en charge de l'agriculture et de l'équipement rural est l’agent principal
+1.
+du Projet en tant que tutelle technique.
+La  date  d’achèvement  du  Projet  est  fixée  au  sixième  anniversaire  de  la  date
+2.
+d’entrée en vigueur du présent Accord et la date de clôture du financement sera 6 mois
+plus tard, ou toute autre date désignée par le Fonds par notification à l'Emprunteur.
+3. Un examen à mi-parcours sera effectué conformément aux dispositions de la Section
+8.03  alinéas  b)  et  c)  des  Conditions  générales.  Toutefois,  les  parties  peuvent  convenir
+d'une date différente pour l'examen à mi-parcours de la mise en œuvre du Projet.
+4. L'acquisition de biens, travaux et services financés par l'accord sera régie par le code
+et les procédures en vigueur au Sénégal et acceptables au regard des principes du Fonds
+en  la  matière.  Un  plan  de  passation  des marchés  basé  sur  le Programme  de  travail  et
+budget  annuel  (PTBA) sera  élaboré  chaque  année. Ce  plan  spécifiera,  entre  autres,  les
+méthodes de passation des marchés, les coûts estimatifs, l’échéancier.
+Section D
+Le Fonds assure l’administration du financement et la supervision du Projet.
+2
+Appendix I
+Section E
+EB 2019/127/R.34/Rev.1
+Les  éléments  décrits  à  l’Annexe 3  constituent  des  causes  de  suspension  additionnelle  à
+celles prévues dans les Conditions Générales.
+Section F
+Les  éléments  suivants  constituent  des  conditions  préalables  aux  retraits,
+1.
+additionnelles aux conditions prévues dans les Conditions Générales:
+a)
+b)
+c)
+d)
+e)
+le Comité national de pilotage (CNP) et l'Unité de coordination du Projet (UCP) sont créés
+par arrêté du Ministre en charge de l'agriculture et de l'équipement rural;
+les huit Comités régionaux de planification (CRP) sont créés par arrêtés des Gouverneurs
+des régions bénéficiaires;
+le compte désigné, le compte d'opération et un sous compte d’opération au niveau de
+chaque antenne sont ouverts et les signataires sont désignés;
+le personnel clé est recruté (Coordonnateur, Responsable administratif et financier [RAF]
+et le Responsable du suivi-évaluation);
+la version préliminaire du Manuel des procédures administratives,
+comptables et le Manuel des opérations sont soumis au FIDA;
+financières et
+f)
+le Projet est inscrit au programme d'investissement public.
+Toutes  les  communications  ayant  trait  au  présent Accord  doivent  être  adressées
+2.
+aux représentants dont le titre et l’adresse figurent ci-dessous:
+Pour l’Emprunteur:
+______________
+______________
+______________
+Pour le Fonds:
+Président
+Fonds international de développement agricole
+Via Paolo di Dono 44
+00142 Rome, Italie
+3
+Appendix I
+EB 2019/127/R.34/Rev.1
+Le  présent  accord,  en  date  du ________,  a  été  établi  en  langue  française  en  deux  (2)
+exemplaires originaux, un (1) pour le Fonds et un (1) pour l’Emprunteur.
+REPUBLIQUE DU SENEGAL
+____________________
+(nom du Représentant autorisé)
+(titre)
+FONDS INTERNATIONAL
+POUR LE DEVELOPPEMENT AGRICOLE
+___________________
+Gilbert F. Houngbo
+Président
+4
+Appendix I
+EB 2019/127/R.34/Rev.1
+Annexe 1
+Description du Projet et dispositions relatives à l’exécution
+I.
+Description du projet
+1.
+Zone d'intervention du Projet. Le Projet interviendra dans 4 zones agro écologiques
+du Sénégal comprenant les Niayes, le Bassin arachidier, la zone sylvopastorale, la basse
+et  moyenne  Casamance  dans  lesquelles  il  développera  des  partenariats  avec  des
+programmes existants.
+2.  Population cible. Le  Projet  cible  les  jeunes  ruraux  âgés  de  15  à  35  ans  issus
+d’exploitations  familiales  et  des  ménages  ruraux  à  faibles  revenus.  Ce  groupe  cible
+comprend  les  jeunes  en  quête  d'une  insertion  économique  avec  ou  sans  niveau
+d'instruction  ou  de  formation  et  les  jeunes  agripreneurs  en  activité,  avec  ou  sans
+formation  de  base,  exerçant  une  activité  économique  agro-sylvopastorale  et  halieutique
+et/ou une activité connexe. Le groupe cible inclut également des jeunes ruraux apprentis,
+orphelins, handicapés, etc. vivant dans des familles ou centres d’accueil spécifiques.
+3.
+Finalité. Le Projet vise à renforcer les initiatives agricoles des jeunes ruraux exclus
+des  processus  de  création  de  richesse,  faute  d’emplois  productifs  et  innovants  dans  le
+secteur agro-sylvopastoral et halieutique, pour en faire des agripreneurs bénéficiant d'un
+revenu viable et durable.
+4.
+Objectif. L’objectif  du  Projet  est  de  promouvoir  l’inclusion  socioprofessionnelle  des
+jeunes dans les exploitations familiales et les activités rentables, créatrices de revenus et
+d’emplois  décents  et  durables  dans  les  chaines  de  valeur  agro-sylvopastorales  et
+halieutiques.
+5.
+Composantes. Le Projet s'articule autour de trois composantes ci-après:
+Composante 1: Développement  d’activités  économiques  rentables.  L'effet  attendu  par
+cette  composante  est  que  les  jeunes  ruraux  exercent  des  activités  économiques
+rémunératrices  leur  garantissant  un  revenu  décent  dans  les  chaines  de  valeur
+agro-sylvopastorales  et  halieutiques.  La  composante  est  organisée  en  deux
+intégration  des  jeunes  agripreneurs  dans  les  marchés; et
+sous-composantes: a)
+b) promotion des activités économiques et initiatives entrepreneuriales. Le Projet aidera
+l'intégration  des  jeunes  ruraux  dans  les  marchés  ainsi  que  leur  accès  aux  moyens  de
+production en fournissant un capital d'installation aux jeunes en formation-insertion et un
+crédit  productif pour  développer  une  activité  existante. Les jeunes  seront  appuyés  pour
+construire  des  partenariats  avec  les  organisations  de  producteurs,  les  faîtières  et  les
+interprofessions,  et  avec  d’autres  opérateurs  du  secteur  privé.  Ils  bénéficieront  de
+facilités  afin  de  leur  permettre  de:  a)  moderniser  les  techniques  de  production  et  de
+transformation,  b)  conquérir  des  marchés  de  niche  (marchés  locaux,  agriculture
+biologique,  marchés  sous régionaux  et  internationaux);  et  c)  tirer  profit  des  nouvelles
+technologies d’information et de communication.
+Composante 2: Renforcement des capacités et facilitation à l’insertion. L'effet attendu est
+que  les  jeunes  acquièrent  les  capacités  nécessaires  à  la  gestion  durable  de  leurs
+activités.  Pour  ce  faire,  un  dispositif  d'accompagnement  pour  environ  50  000  jeunes
+ruraux  sera  organisé  en  fonction  de  leurs  profils  et  leurs  besoins.  La  composante  2  est
+organisée  en  deux  sous-composantes:  a)  formation  et  accompagnement  des  jeunes
+ruraux; et b) renforcement des structures et dispositifs de formation-insertion et d’appui
+conseil aux jeunes ruraux. Le Projet établira un diagnostic des organisations locales pour
+la  mobilisation  des  jeunes,  identifiera  les  jeunes  ruraux  intéressés  à  établir  un  Projet
+professionnel  en  milieu  rural,  les  accompagnera  dans  la  préparation  de  microprojets  et
+de plans d’affaires et offrira également un accompagnement à leur réalisation. En outre,
+le  Projet  renforcera  la  qualité  et  la  diversité  des  formations  et  contribuera  ainsi  au
+5
+Appendix I
+EB 2019/127/R.34/Rev.1
+développement d’une offre de formation professionnelle durable, diversifiée et de qualité
+pour les besoins des jeunes ruraux.
+Composante  3: Coordination,  gestion  administrative et financière, et suivi-évaluation.
+Cette  composante  assurera  la  gestion  administrative  et
+fiduciaire du  Projet  en  se
+focalisant sur les résultats et la transparence, coordonnera la mise en œuvre des activités
+menées sur le terrain avec l’équipe technique et les partenaires d’appui, et organisera le
+système de suivi-évaluation, du genre, de la gestion des savoirs et de la communication.
+Enfin,  Agri-Jeunes Tekki  Ndawñi reliera  les  activités  du  Projet  aux  initiatives  nationales,
+publiera les données et mettra en œuvre un site Web dédié, contribuant ainsi à renforcer
+les  mécanismes  de  responsabilisation  nationaux.  Le  Projet  établira  également  un
+mécanisme de surveillance par une tierce partie.
+II. Dispositions relatives à l'exécution
+Organisation  et  gestion  du  projet. Le  Ministère en  charge  de  l'agriculture  et  de
+6.
+l'équipement  rural assure  la tutelle  technique  du  projet.  Il mettra  en  place  un  Comité
+national de pilotage (CNP) et une unité de coordination du Projet (UCP).
+6.1. Comité  national  de  pilotage  (CNP).  Le  CNP  sera  présidé  par  le  Ministre  chargé  de
+l'agriculture  et  de  l'équipement  rural.  Le  CNP  sera  composé  des  représentants  des
+ministères  en  charge  de  la  jeunesse,  de  l’emploi  et  de  la  formation  professionnelle,  de
+l’élevage, des pêches, de l’environnement, du commerce et des PME, du développement
+industriel et des PMI, du genre, de l’économie, du plan et de la coopération, des finances
+et  du  budget et  des  collectivités  territoriale,  des  organisations  de  jeunes  ruraux,  des
+faîtières d’organisations professionnelles et agricoles et plateformes agroalimentaires (et
+leurs  composantes “jeunes”),  des  interprofessions  des filières,  de  l’Office  national  de
+formation  professionnelle, du Conseil  national  de  la  jeunesse,  de  l’Agence  nationale  du
+Conseil agricole et rurale, de l’Agence nationale pour la promotion de l’emploi des jeunes,
+de  la  Chambre  des  métiers,  de  l’Association  nationale  des  maires  et  des  institutions
+financières partenaires. Au sein du CNP sera érigée une cellule technique avec un effectif
+limité ayant pour mandat d’examiner le PTBA avant approbation, d’analyser les rapports
+d’activités  et  de  préparer  les  questions  d’ordre  stratégique  à  discuter  au  cours  des
+sessions.
+6.2. Unité  de  coordination  du  Projet. La  coordination  du  Projet  sera  assurée  par  une
+unité  de  coordination  et  de  gestion  (UCP).  Elle  assurera  la  coordination  des  activités  du
+projet,  la  gestion  financière,  fiduciaire,  administrative,  la  préparation  des  PTBA,  le
+suivi-évaluation des activités et la gestion des savoirs. Elle sera basée à Kaolack et aura
+deux antennes qui seront installées à Louga et à Ziguinchor.
+la
+de 
+passation 
+L’UCP comprendra un Coordonnateur, un Responsable administratif et financier (RAF), un
+Responsable
+Responsable
+suivi-évaluation  également  en  charge  de  la  gestion  des  savoirs  (RSE),  un spécialiste  en
+inclusion sociale et genre, un spécialiste formation/insertion, un ingénieur polyvalent, un
+spécialiste  entrepreneuriat  rural,  un  comptable,  un  assistant  comptable/secrétaire  et  du
+personnel d’appui. Le personnel des antennes comprend un chef d’antenne, un technicien
+polyvalent,  un  assistant  en  suivi-évaluation,  un  assistant  comptable  et  du  personnel
+d’appui.
+des  marchés 
+(RPM), 
+un
+7. Mise en œuvre du projet et partenariat.
+7.1. Partenaires stratégiques. Le projet fera appel à des partenaires stratégiques, tels
+que les Directions régionales du développement
+les Services régionaux de
+l'élevage, les Agences régionales de développement (ARD), les Comités interrégionaux de
+planification (CIRP), les collectivités territoriales décentralisées (Conseils départementaux
+et communaux), des représentants du secteur privé, les organisations paysannes de
+producteurs, les organisations interprofessionnelles et organisations professionnelles des
+rural,
+6
+Appendix I
+EB 2019/127/R.34/Rev.1
+jeunes ruraux, les centres de formation professionnelle privés et publics, les associations
+culturelles et sportives, l’Agence Nationale pour la Promotion de l’Emploi des Jeunes
+(ANPEJ), le Conseil national de concertation et de coopération des ruraux du Sénégal
+(CNCR), le Collège des jeunes du CNCR, l'Agence Nationale de Conseil Agricole et Rural
+les
+(ANCAR),
+Chambres consulaires et les Services régionaux de planification pour la mise en œuvre
+des activités.
+les CDEPS (Centre Départemental d'éducation Populaire et Sportive),
+Les partenaires stratégiques seront chargés: a) de l'appui-conseil dans la mesure où
+leurs effectifs et leurs compétences le permettront; b) de la diffusion des informations et
+de la sensibilisation des jeunes ruraux; c) de l'appui à l'amorçage des activités
+économiques des jeunes ruraux, et du renforcement des capacités productives et
+partenariales; d) de l'appui en matière d'orientation et de formation des jeunes; et e) du
+suivi et du contrôle de l'exécution des activités.
+7.2. Partenariat  avec  les institutions  de  financement  et  les Chambres  consulaires.  Le
+Projet développera des  partenariats avec les institutions de financement afin de faciliter
+le  financement  des  jeunes  agripreneurs. Le  Projet  aidera  les  institutions  financières  à
+développer  des  mécanismes  de  financement  accessibles  et  adaptés  aux  activités
+économiques  dans  le  secteur  agricole.  Le  Projet  développera  également  un partenariat
+avec  les Chambres  consulaires  pour  faciliter  l'identification  des  opérateurs  privés  et  le
+développement  des  réseaux  et  partenariats  commerciaux  avec  les  opérateurs  privés  et
+d'autres  organisations  internationales,  dont  la  BAD,  et  s'efforcera  de  travailler  en
+collaboration avec d'autre projets.
+Le  projet  conclura  avec  ces  partenaires  des  conventions  de  partenariat,  basées  sur  des
+objectifs  de  performance  qui  seront  soumises  au  FIDA  pour  approbation  avant  la
+signature.
+7.3. Prestataires  de  services  privés.  Des  prestataires  de  services  privés  seront  chargés
+de  la  fourniture  de  tous  les  autres  biens  et  services.  Ils  seront  recrutés  selon  les
+procédures  du  Projet,  soit  en  contrat  court  terme  pour  des  prestations  ponctuelles,  soit
+dans  le  cadre  de  conventions de  partenariat  pour  des  interventions  plus  systématiques.
+Ils seront formés sur les stratégies de ciblage et genre du Projet et seront responsables
+de l'exécution des travaux qui leur seront confiés.
+7
+Appendix I
+EB 2019/127/R.34/Rev.1
+Annexe 2
+Tableau d’affectation des fonds
+Affectation  du  produit  du  prêt. a)  Le tableau  ci-dessous  indique  les  catégories  de
+1.
+dépenses admissibles à un financement sur le produit du prêt ainsi que le montant du prêt
+affecté  à  chaque  catégorie  et la  répartition  en  pourcentage  des  dépenses  à  financer  pour
+chacun des postes des différentes catégories:
+Catégories
+I.
+Travaux
+Montant alloué
+au titre du Prêt
+(exprimé en EUR)
+3 490 000
+Pourcentage des dépenses
+autorisées à financer
+100% HT et hors contribution
+de la BAD
+II.
+Équipements et Matériels
+1 210 000
+100% HT
+III. Formations et Ateliers
+17 025 000
+IV. Financement des sous
+16 220 000
+projets
+100% HT et hors contribution
+des bénéficiaires
+100% hors contribution des
+bénéficiaires
+V. Salaires et indemnités
+3 325 000
+100%
+Non alloué
+4 585 000
+TOTAL
+45 855 000
+b)
+Les termes utilisés dans le tableau ci-dessus se définissent comme suit:
+i)
+Les  dépenses  relatives  à  la  catégorie  II - Équipements  et  Matériels, incluent
+également les dépenses liées aux véhicules et celles relatives aux biens, services et
+intrants.
+Les  dépenses  relatives  à  la  catégorie  III - Formations  et  Ateliers,  incluent
+ii)
+également les dépenses liées aux consultants.
+Les  dépenses  relatives  à  la  catégorie  V - Salaires  et  Indemnités, incluent
+iii)
+également les dépenses liées aux coûts de Fonctionnement
+Coûts  de  démarrage.  Les  retraits  effectués  pour  couvrir  les  coûts  de  démarrage
+2.
+afférents  aux  catégories  II. Équipements  et  Matériels, III. Formations  et  Ateliers et
+V.  Salaires  et  indemnités,  encourus  avant  que les conditions  générales  préalables  aux
+retraits  ne  soient  satisfaites,  ne  doivent  pas  dépasser  un  montant  total  équivalant  à
+153 000 Euros.
+8
+Appendix I
+EB 2019/127/R.34/Rev.1
+Annexe 3
+Clauses particulières
+Conformément aux dispositions de la section 12.01 a) xxiii) des Conditions générales, le
+Fonds peut suspendre, en totalité ou en partie, le droit de l'Emprunteur de solliciter des
+retraits  du  compte  du prêt du  Fonds  si  l'Emprunteur  n’a  pas  respecté  l'une  quelconque
+des  clauses  énoncées  ci-dessous,  et  si  le  FIDA  a  établi  que  ladite  défaillance  a  eu,  ou
+risque d'avoir, un effet préjudiciable important sur le Projet.
+1.
+Suivi-évaluation et gestion des savoirs. Le Système de suivi-évaluation sera réalisé
+selon  le  schéma  de  gestion  axée  sur  les  résultats.  Il sera  conforme  aux  exigences  du
+gouvernement et du FIDA et utilisé comme un outil d’aide à la prise de décisions tout au
+long  du  cycle  de  vie  du  Projet.  Le  système  aura  pour  rôles  de  soutenir  une
+compréhension partagée  du  Projet,  d’en  améliorer  le  pilotage  et  l’efficacité,  et  de
+répondre  aux  fins  de  redevabilité,  de  capitalisation  et  d’apprentissage.  Le  système
+développera  sa  capacité  de  suivi  des  orientations  stratégiques  et  des  opérations  par  le
+développement de mécanismes et outils adaptés pour le Projet. Il permettra de mesurer
+l’état d’avancement de  l’exécution du Projet, l’atteinte des produits et effets escomptés,
+et  l’impact  des  interventions  sur  les  groupes  cibles; et  de  renseigner  une  liste
+d’indicateurs  conformément  au  Système  de  mesure  des  résultats  opérationnels  (SMRO)
+développé  par  le  FIDA.  Le  Projet  s’assurera  de  prévoir  les  ressources  humaines  et
+financières  appropriées  pour  mettre  en  place  et  opérationnaliser  le  système,  et  de  bien
+clarifier  les  rôles  des  acteurs  impliqués  aux  différents  niveaux.  La  capitalisation,  la
+gestion des savoirs  et la communication seront guidées chacune par  un plan de gestion
+qui  sera  élaboré  au  démarrage  du  Projet.  Ledit  plan  précisera  les  différents  produits  de
+communication  et  outils  spécifiques  à  développer,  les  formats  et  supports  les  plus
+appropriés  en 
+fréquences  de
+développement pour un public au niveau local, national et international.
+fonction  des  types  d’utilisateurs  ainsi  que 
+leurs 
+2.
+Sélection et recrutement du personnel du Projet. La sélection et le recrutement du
+personnel  du  Projet  se  feront  sur  une  base  compétitive  par  voie  d’appel  à  candidatures
+publié  dans  la  presse  nationale,  selon  les  procédures  actuelles  de  l'Emprunteur,  sur  la
+base  de  contrats, dont  la  durée  ne  pourra  excéder  la  durée  du  Projet et  dont  le
+renouvellement  sera 
+fondé  sur  des  évaluations  annuelles  de  performances. À
+compétences  égales  les  candidatures  des  jeunes  et  des  femmes  seront  privilégiées.  Le
+recrutement du Coordonnateur et le recrutement du personnel clé, le renouvellement de
+leur  contrat  et  le  cas  échéant,  la  décision  de  rompre  leur  contrat,  seront  soumis  à
+l’approbation  préalable  du  Fonds.  Il  pourra  être  mis  fin  à  leur  contrat  en  fonction  des
+résultats  de  ces  évaluations.  Tout  fonctionnaire  sélectionné  devra  obtenir  une  mise  à
+disposition  de  son  employeur  avant  qu’un  contrat  ne  lui  soit  proposé.  Toute
+discrimination  fondée  sur  le  sexe,  l’âge,  l’appartenance  ethnique  ou  religieuse  ne  sera
+pas admissible lors du recrutement du personnel du Projet. Le recrutement et la gestion
+du personnel d’appui seront soumis aux procédures décrites dans les Manuels du Projet.
+3.
+Conformité  aux  procédures  d'évaluation  sociale  environnementale  et  climatique
+(SECAP).  L'Emprunteur  veillera  à  ce  que  le  Projet  soit  mis  en  œuvre  conformément  au
+SECAP du FIDA.
+Logiciel comptable. Un Logiciel comptable, dûment paramétré, est mis en place
+4.
+dans les 6 mois suivant l'entrée en vigueur de l'Accord de financement. Les transactions
+du compte désigné seront auditées pendant la première mission d’audit externe et les
+documents justificatifs originaux serons revus par le FIDA à l’occasion de la première
+mission de supervision du Projet
+9
+Appendix II
+EB 2019/127/R.34/Rev.1
+Cadre intégré des risques
+Catégories de
+risques
+Risques
+Probabilité du
+risque
+Impact du
+risque
+Mesures d'atténuation/
+commentaires
+Réformes
+institutionnelles et
+stratégies
+sectorielles
+Lenteur dans le transfert des
+compétences et des moyens
+nécessaires à la bonne
+opérationnalisation de l’Acte III de
+la décentralisation, susceptible
+d’affecter l’implication des
+collectivités territoriales dans les
+processus d’appui aux jeunes
+ruraux
+Retard persistant dans la validation
+et la mise en œuvre du deuxième
+volet du Programme d’accélération
+de la cadence de l’agriculture
+sénégalaise
+Perception biaisée de l’approche et
+de la stratégie du Projet agri-
+jeunes Tekki Ndawñi et similarité
+inopportune avec des initiatives de
+promotion de l’emploi des jeunes
+utilisant des méthodes différentes
+voire contradictoires
+Modéré
+Modéré
+Identification d’axes
+spécifiques de collaboration
+liés aux compétences
+effectivement transférées
+Modéré
+Modéré
+Élevé
+Modéré
+Alignement des
+investissements et appuis
+prévus sur les priorités du
+PSE
+Stratégie de communication
+externe à travers les cadres
+de concertation, les dispositifs
+de contacts et d’échanges
+avec les groupes cibles, les
+acteurs institutionnels aux
+niveaux déconcentrés et
+décentralisés, etc.
+Respect des orientations du
+COSOP, mise en œuvre
+centrée sur les avantages
+relatifs du FIDA en matière de
+ciblage, de promotion des
+jeunes ruraux, des questions
+relatives au genre, etc.
+Formation des bénéficiaires
+sur les principes et les critères
+de ciblage et application
+rigoureuse desdits principes,
+suivi à travers mécanismes de
+gestion des plaintes,
+dispositifs d’appui, système de
+suivi-évaluation
+Ciblage économique,
+approche de co-construction
+de la demande, diffusion
+d’innovations
+Renforcement de l’attractivité
+des métiers ruraux, orientation
+vers des projets visant une
+forte rentabilité, autonomie
+financière
+Mise en place de mutuelles de
+cautionnement, promotion de
+l’assurance agricole,
+développement de produits
+financiers spécifiques
+Renforcement des capacités
+des opérateurs, mobilisation
+d’une équipe d’experts
+spécialisés pour des besoins
+spécifiques
+Partenariats tenant compte
+des moyens et des modalités
+opérationnelles nécessaires
+pour lever les difficultés
+pressenties (moyens,
+procédures, etc.)
+Options alternatives: i) autres
+projets; ii) autres sources de
+cofinancement; iii) prochain
+cycle d’allocation des
+ressources du FIDA pour le
+Sénégal, concertations
+Mise en œuvre:
+approche
+stratégique,
+technique et
+opérationnelle
+Risques réputationnels pour le
+FIDA et son portefeuille
+Modéré
+Modéré
+Biais de ciblage et capture des
+richesses par les élites
+Élevé
+Élevé
+Congestion de certains secteurs
+d'activité lié à une réplication
+excessive d’expériences réussies
+Abandon et détournement motivés
+par la tentation de l'émigration ou
+de l'exode rural dans certaines
+zones
+Aversion pour le risque des
+institutions financières par rapport
+aux jeunes agripreneurs et à leurs
+secteurs d’activités
+Offre de formation insuffisamment
+réactive aux besoins des jeunes
+ruraux ou trop peu qualifiante
+Élevé
+Modéré
+Élevé
+Modéré
+Modéré
+Élevé
+Modéré
+Élevé
+Risques liés aux contraintes
+administratives internes des
+partenaires institutionnels
+Modéré
+Modéré
+Retard ou défection dans le
+partenariat pour la réalisation des
+périmètres maraichers dans le cadre
+du Projet de valorisation des eaux
+pour le développement des chaînes
+de valeur
+Modéré
+Élevé
+10
+Appendix II
+EB 2019/127/R.34/Rev.1
+Catégories de
+risques
+Risques
+Probabilité du
+risque
+Impact du
+risque
+Gestion financière
+Risque de gestion financière
+Élevé
+Modéré
+Passation des
+marchés
+Lenteur administrative dans le
+traitement des dossiers de
+passation de marché
+Élevé
+Modéré
+Risques
+environnementaux
+et sociaux
+Impacts négatifs sur le plan
+environnemental et social
+Modéré
+Modéré
+Risque climatique
+Déficits pluviométriques
+Élevé
+Élevé
+Mesures d'atténuation/
+commentaires
+périodiques entre FIDA et la
+BAfD sur l’état d’avancement
+de la collaboration entre les
+deux projets
+Autonomie de gestion de
+l’unité de coordination du
+projet (UCP) et recrutement
+de personnel compétent;
+suivi conjoint du
+Gouvernement (Ministère de
+l’agriculture et de l’équipement
+rural et Ministère des
+Finances) et du FIDA, audits
+annuels externes, suivi et
+contrôle régaliens
+Recrutement d’un spécialiste
+en passation de marchés qui
+collaborera étroitement avec
+les structures des pouvoirs
+publics en la matière
+Sensibilisation des jeunes
+agripreneurs aux risques
+environnementaux, intégration
+de mesures appropriées dans
+les plans d'entreprise;
+promotion du marché bio, de
+l'utilisation de l'énergie solaire,
+etc.
+élaboration PGES
+Étude climat et vulnérabilité
+des filières,
+renforcement mesures
+d'atténuation PGES
+11
+Cadre logique
+Synthèse/Résultats
+Portée
+Indicateurs clés de vérification16&17
+Moyens de vérification
+Nom
+Référence
+Mi-parcours
+Fin
+Source
+Fréquence
+Responsabilité
+Hypothèses
+Estimation du nombre total
+correspondant de membres
+des ménages (1.b)
+0
+200 000
+500 000
+Agri-jeunes Tekki Ndawñi
+Nombre correspondant de
+ménages bénéficiaires (1.a)
+0
+20 000
+50 000
+1
+2
+Objectif général
+Nombre de personnes recevant
+des services promus ou
+soutenus par le Projet *18
+0
+20 000
+50 000
+Système de
+suivi-
+évaluation
+(SSE) du
+projet
+SSE du
+projet
+SSE du
+projet
+Trimestrielle
+Trimestrielle
+Trimestrielle
+UCP
+UCP
+UCP
+Contribuer à l’amélioration
+durable des moyens d’existence
+des jeunes ruraux et à la
+réduction de la pauvreté rurale
+1. Nombre de jeunes ruraux
+bénéficiaires d’une mobilité
+économique*19
+Objectif de développement du Projet
+Promouvoir l’inclusion
+socioprofessionnelle des jeunes
+ruraux dans les exploitations
+familiales et les activités
+rentables, créatrices de revenus
+2. Nombre de jeunes ruraux
+bénéficiant des activités de
+sensibilisation-orientation
+3. Nombre de lois, réglementations,
+politiques ou stratégies
+existantes/nouvelles présentées
+0
+0
+0
+15 000
+45 000
+Enquête de
+référence,
+évaluation
+de l’impact
+Années 1, 3 et
+6
+FIDA et
+Gouvernement
+90 000
+150 000
+1
+2
+SSE du projet
+Années 1, 3 et
+6
+Années 1, 3 et
+6
+UCP
+UCP
+Environnement
+macroéconomique
+favorable,
+suivi  sectoriel  de  la
+mise  en  œuvre  des
+orientations  pour  la
+promotion 
+de
+l’emploi  des  jeunes
+ruraux
+Mobilisation des
+dispositifs d’appui
+nécessaires et
+adoption de
+l’approche holistique
+du projet pour des
+16 Désagrégés par sexe et par âge (femmes, hommes et jeunes de 15-35 ans), et par filière autant que possible
+17 Indicateurs de base du Système de mesure des résultats opérationnels (SMRO ex-SYGRI)
+18 Dont bénéficiaires femmes/hommes/jeunes ; bénéficiaires des actions environnementales durables et bénéficiaires des interventions axées sur la nutrition
+19 Projection, fondée sur les évaluations de l’impact du FIDA, du nombre de ruraux dont la situation économique a évolué́  (10% ou plus), notamment du point de vue des revenus, de la
+consommation, de la richesse, de la diversité du régime alimentaire ou de la nutrition (Porter le Système de gestion des résultats et de l'impact à l'étape suivante, FIDA, avril 2017)
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+I
+E
+B
+2
+0
+1
+9
+/
+1
+2
+7
+/
+R
+.
+3
+4
+/
+R
+e
+v
+.
+1
+Indicateurs clés de vérification16&17
+Moyens de vérification
+Nom
+Référence
+Mi-parcours
+Fin
+Source
+Fréquence
+Responsabilité
+Synthèse/Résultats
+et d’emplois décents et durables
+dans les chaînes de valeur agro-
+sylvopastorales et halieutiques
+Effet direct 1: Les jeunes
+ruraux exercent des activités
+économiques rémunératrices
+leur garantissant un revenu
+décent dans les chaînes de
+valeur agro-sylvopastorales et
+halieutiques
+1
+3
+Produit 1.1: Les jeunes
+agripreneurs sont intégrés au
+marché
+Produit 1.2: Les activités
+économiques des jeunes ruraux
+sont financées
+aux décideurs politiques pour
+approbation,
+ratification ou modification
+4. Nombre d’emplois ruraux
+décents et durables créés ou
+renforcés
+5. Nombre d’entreprises ou
+d’activités économiques viables
+créées ou renforcées
+6. Pourcentage de jeunes soutenus
+par le projet déclarant une
+augmentation de leur profit d’au
+moins 30%* (2.2.2)
+7. Pourcentage de jeunes
+agripreneurs commercialisant leurs
+produits à travers les partenariats
+ou contrats avec les organisations
+paysannes, plateformes et
+opérateurs privés
+8. Nombre de centres d’appui à la
+commercialisation réhabilités ou
+construites* (2.1.6)
+9. Nombre de partenariats conclus
+au niveau des marchés émergents
+10. Nombre de jeunes financés
+11. Nombre de jeunes agripreneurs
+ayant accès aux services
+financiers* (1.1.5)
+Effet direct 2: Les jeunes
+ruraux ont acquis les
+capacités nécessaires à la
+gestion durable de leurs
+activités
+12. Pourcentage de jeunes ruraux
+bénéficiaires déclarant l’adoption
+de techniques, technologies et
+pratiques de gestion appropriées*
+(1.2.3)
+Produit 2.1: Les capacités
+techniques, d’organisation et de
+gestion des jeunes sont
+renforcées
+13. Nombre de jeunes formés aux
+pratiques et techniques de
+production, d’organisation et de
+gestion* (1.1.4)
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+15 000
+35 000
+10 000
+25 000
+75%
+85%
+Enquêtes
+d’évaluation
+des effets
+Enquêtes
+spécifiques
+Annuelle à
+partir de
+l’année 3
+Annuelle à
+partir de
+l’année 3
+UCP, sous-
+traitants
+UCP
+Annuelle
+UCP,
+prestataires
+50%
+80%
+SSE du projet
+Semestrielle
+UCP
+66
+16
+100
+SSE du projet
+Semestrielle
+UCP
+20
+SSE du projet
+Semestrielle
+20 000
+45 000
+SSE du projet
+Semestrielle
+9 000
+15 000
+SSE du projet
+Semestrielle
+UCP
+UCP
+UCP,
+institutions
+financières
+partenaires
+35%
+80%
+Enquêtes
+spécifiques
+Annuelle
+UCP,
+prestataires
+20 000
+50 000
+SSE du projet
+Semestrielle
+UCP
+Hypothèses
+interventions
+coordonnées
+Levée des obstacles
+externes qui limitent
+l’accès des jeunes
+ruraux aux
+opportunités dans
+les filières de
+croissance et de
+création de
+richesses
+Ouverture des
+organisations
+paysannes à la
+promotion du statut
+économique et du
+leadership des
+agripreneurs dans
+les filières
+Constituants des K7
+disponibles auprès
+des fournisseurs
+nationaux,
+bonne qualité des
+plans d’entreprise et
+solvabilité des
+agripreneurs
+Offre nationale de
+formation, appui-
+conseil et
+accompagnement
+modulable
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+I
+E
+B
+2
+0
+1
+9
+/
+1
+2
+7
+/
+R
+.
+3
+4
+/
+R
+e
+v
+.
+1
+Synthèse/Résultats
+Hypothèses
+Nom
+Référence
+Mi-parcours
+Fin
+Source
+Fréquence
+Responsabilité
+Indicateurs clés de vérification16&17
+Moyens de vérification
+Produit 2.2: L’offre de formation
+et d’appui-conseil aux jeunes
+ruraux est adaptée
+14. Nombre d’initiatives de jeunes
+agripreneurs adoptant des
+technologies vertes, adaptées aux
+changements climatiques
+15. Nombre de centre de formation
+renforcés
+16. Nombre de formateurs,
+conseillers et tuteurs formés
+17. Nombre de nouveaux
+référentiels développés
+0
+0
+0
+0
+1 500
+5 000
+SSE du projet
+Annuel
+UCP
+3
+40
+3
+8
+100
+SSE du projet
+Semestrielle
+8
+SSE du projet
+Semestrielle
+UCP
+UCP
+1
+4
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+I
+E
+B
+2
+0
+1
+9
+/
+1
+2
+7
+/
+R
+.
+3
+4
+/
+R
+e
+v
+.
+1

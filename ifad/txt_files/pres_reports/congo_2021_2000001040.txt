@@ -1,0 +1,2983 @@
+Document: 
+Agenda: 
+Date: 
+Distribution: 
+Original: 
+EB 2021/133/R.30/Rev.1 
+16(b)(iii)(b) 
+1 October 2021 
+Public 
+French 
+E 
+President’s report 
+Proposed loan 
+Republic of the Congo 
+Agriculture, Youth and Entrepreneurship 
+Project  
+Project No.: 2000001040 
+Note to Executive Board representatives 
+Focal Points: 
+Technical questions: 
+Dispatch of documentation: 
+Deirdre Mc Grenra 
+Chief 
+Institutional Governance and 
+Member Relations 
+Tel.: +39 06 5459 2374 
+e-mail: gb@ifad.org 
+Nadine Gbossa 
+Regional Director 
+West and Central Africa Division 
+Tel.: +39 06 5459 2388 
+e-mail: n.gbossa@ifad.org  
+Valantine Achancho 
+Country Director 
+Tel.: +243 843 214 444/811 024 828 
+e-mail: v.achancho@ifad.org 
+Executive Board — 133rd Session 
+Rome, 13-16 September 2021 
+For: Approval 
+EB 2021/133/R.30/Rev.1 
+Contents 
+Abbreviations and acronyms 
+Map of project area 
+Financing summary 
+I. 
+Context 
+A. National context and rationale for IFAD’s intervention 
+B. Lessons learned 
+II.  Project description 
+A. Objectives, geographical area of intervention and target groups 
+B. Components, outcomes and activities 
+C. Theory of change 
+D. Alignment, ownership and partnerships 
+E. Costs, benefits and financing 
+III.  Risks 
+A. Risks and mitigation measures 
+B. Environment and social category 
+C. Climate risk classification 
+D. Debt sustainability 
+IV.  Implementation 
+A. Organizational framework 
+B. Planning, monitoring and evaluation, learning, knowledge management  
+and communications 
+C. Implementation plans 
+Legal instruments and authority 
+V. 
+VI.  Recommendation 
+Appendices 
+I.  Negotiated financing agreement 
+II.  Logical framework 
+III.  Integrated project risk matrix 
+ii 
+iii 
+iv 
+1 
+1 
+2 
+2 
+2 
+3 
+4 
+4 
+5 
+9 
+9 
+11 
+11 
+11 
+11 
+11 
+12 
+13 
+13 
+13 
+Project delivery team 
+Regional Director: 
+Country Director: 
+Technical Lead: 
+Finance Officer: 
+Climate and Environment Specialist: 
+Legal Officer: 
+Nadine Gbossa 
+Valantine Achancho 
+Jean-Philippe Audinet  
+Aissata Bangoura 
+Yawo Jonky Tenou 
+Adriana Lucia Jauregui Zabalaga 
+i 
+EB 2021/133/R.30/Rev.1 
+Abbreviations and acronyms 
+AYEP 
+M&E 
+MALF 
+MSMEs 
+PMU 
+VC 
+Agriculture, Youth and Entrepreneurship Project 
+monitoring and evaluation 
+Ministry of Agriculture, Livestock and Fisheries 
+micro, small and medium-sized enterprises 
+project management unit  
+value chain 
+ii 
+Map of project area 
+EB 2021/133/R.30/Rev.1 
+The designations employed and the presentation of the material in this map do not imply the expression of any 
+opinion whatsoever on the part of IFAD concerning delimitation of the frontiers or boundaries, or the authorities 
+thereof. 
+Map compiled on 15/12/2020  
+iii 
+EB 2021/133/R.30/Rev.1 
+Financing summary 
+Initiating institution: 
+IFAD 
+Borrower/recipient: 
+Executing agency: 
+Total project cost: 
+Amount of IFAD loan: 
+Terms of IFAD loan:  
+Cofinanciers:  
+Republic of the Congo 
+Ministry of Agriculture, Livestock and Fisheries 
+EUR 20.3 million (equivalent to approximately 
+US$24.1 million) 
+EUR 6.6 million (equivalent to approximately 
+US$7.8 million) 
+Mixed-term loan (with a 25-year repayment period and 
+a 5-year grace period; service charge adjusted 
+quarterly and subject to a floor of 0.75%; interest rate 
+based on the special drawing rights rate and adjusted 
+quarterly subject to a floor of 0%) 
+Partner financial institutions (banks and microfinance 
+institutions)  
+Amount of cofinancing: 
+EUR 5.4 million 
+Terms of cofinancing:  
+Rates of bank loans negotiated with beneficiaries 
+Contribution of borrower/recipient: 
+EUR 0.5 million  
+Contribution of beneficiaries: 
+EUR 1.5 million  
+Financing gap: 
+EUR 6.3 million 
+Amount of IFAD climate financing: 
+0 
+Cooperating institution: 
+IFAD 
+iv 
+EB 2021/133/R.30/Rev.1 
+Recommendation for approval 
+The Executive Board is invited to approve the recommendation contained in 
+paragraph 64. 
+I.  Context 
+A.  National context and rationale for IFAD’s intervention 
+1. 
+2. 
+3. 
+National context  
+The Republic of the Congo's economy is highly dependent on oil, which accounts 
+for 78 per cent of exports and 74 per cent of the government1 budget. The value 
+added by the agricultural sector (including forestry and fisheries) amounts to 
+7 per cent of GDP – compared to 13 per cent in 1990 – far behind the oil sector 
+(58 per cent).2 
+Congo has been going through a serious economic crisis since 2014 because of a 
+drop in oil prices and the country's extreme dependence on this sector. Efforts to 
+diversify the economy are taking place in the midst of a liquidity crisis that limits 
+investment in key sectors, including agriculture. 
+Although the share of the population living below the poverty line fell from 
+51 per cent to 41 per cent between 2005 and 2011, the rate of extreme poverty 
+increased in 2016, especially in rural areas, due to the drop in oil prices. The 
+increase was from 35 per cent in 2016 to 40 per cent in 2017,3 making it clear that 
+the country is far from achieving Sustainable Development Goal (SDG) 1. Poverty 
+is more prevalent in rural areas, where seven out of ten people are poor. 
+Special aspects relating to IFAD's corporate mainstreaming priorities  
+4.  Gender. Congo ranked 138th out of 189 countries4 in 2018 for gender inequality. 
+Women suffer from discrimination, particularly in rural areas, where they have 
+difficulties in accessing education and paid employment. Indigenous people face 
+high levels of discrimination and have limited access to public services.5  
+5. 
+Youth. Young people (15–29) are among the groups most affected by 
+unemployment (the unemployment rate is 30.5 per cent and long-term 
+unemployment stands at 31 per cent).6 The proportion of young people aged 
+15–24 who did not benefit from education, employment or training was 
+22.5 per cent in 2017.7 
+6.  Nutrition. Undernutrition and malnutrition are the main health problems affecting 
+the most vulnerable segments of the population (children, pregnant women, 
+low-income households). The main causes of malnutrition are poverty, limited 
+access to health care, lack of hygiene and safe drinking water, inadequate child 
+and infant feeding practices, poor diet diversification and high levels of infectious 
+diseases. Food insecurity, which affects 14.2 per cent of households, is even higher 
+in rural areas. 
+1 World Bank, “Economic situation, Republic of Congo”, (World Bank, 2018). 
+2 World Bank, “Congo, country at a glance” (World Bank, 2019). 
+3 African Development Bank (AfDB), Republic of Congo – Country Strategy Paper 2018–2022 (AfDB, November 2018). 
+4 United Nations Development Programme (UNDP), Annual Report 2018 (UNDP, 2018). 
+5 Their economic and productive activities rely on forest resources and only a small minority of indigenous peoples practice 
+subsistence agriculture.  
+6 Directorate General for professional training and employment: “Report on transition towards an active life” with the support of 
+the National Statistics Institute and the International Labour Office (2015). 
+7 AfDB (2018). 
+1 
+EB 2021/133/R.30/Rev.1 
+7. 
+8. 
+9. 
+10. 
+In line with Eleventh Replenishment of IFAD’s Resources (IFAD11) mainstreaming 
+commitments, the Agriculture, Youth and Entrepreneurship Project (AYEP) has 
+been validated as: 
+☒ Youth-sensitive.  
+AYEP will target 60 per cent of people aged between 18 and 35 and 50 per cent of 
+women. 
+Climate and environment. Adaptation to climate change is a national priority as 
+stated in Congo’s nationally determined contribution (2015). The project will 
+strengthen local value chains (VCs) while supporting sustainable agricultural 
+practices such as conservation agriculture, agroforestry systems and sustainable 
+natural resource management to mitigate the effects of climate change. 
+Rationale for IFAD involvement 
+IFAD will support the Congolese Government in its commitment to inclusive and 
+sustainable growth with a focus on youth and women in rural areas. IFAD's 
+intervention is in line with the 2018–2022 National Development Plan, which is 
+designed around three pillars: (i) strengthening governance; (ii) human capital 
+development; and (iii) economic diversification. IFAD will contribute its experience 
+in the following areas: support for smallholder agriculture, promotion of essential 
+agricultural sectors, support for agropastoral entrepreneurship by young people 
+and support for decentralized financing systems targeting the rural poor. 
+B.  Lessons learned 
+11.  Previous IFAD-funded projects (Rural Development Projects 1, 2 and 3 and the 
+programme in support of the development of agricultural sectors) have had positive 
+effects on agricultural productivity8 and food security. However, marketing has 
+been neglected and there has been no corresponding impact on farmers' incomes. 
+Three lessons have been learned. First, the total absence of investment in 
+processing and marketing has significantly reduced the value of increased 
+production.9 AYEP investments will therefore be made further downstream in the 
+VC and in a smaller number of promising sectors in order to cover the different VC 
+segments. Secondly, the weak technical and management capacities of the 
+previous project team made it impossible to run the project well enough to achieve 
+its objectives. The new team will therefore be recruited strictly on merit and on a 
+competitive basis, and their knowhow will be strengthened through training and 
+ad hoc technical assistance. Finally, AYEP will build on the lessons learned from the 
+cost-sharing finance mechanism already piloted in The Gambia, Ghana, Mali, 
+Nigeria and Togo to address the investment needs of small farmers, while ensuring 
+profits for the borrower/recipient and the sustainability of the lender/investor. 
+II.  Project description  
+A. Objectives, geographical area of intervention and target groups 
+12.  Objective of the project is to contribute to improving the living conditions and 
+incomes of poor rural and peri-urban populations in the target areas. The 
+development objective is to promote the socio-professional integration of young 
+people and vulnerable groups in profitable activities that create income 
+opportunities and decent and sustainable jobs in the agrifood sector. 
+13.  Intervention areas. The project will be implemented in the departments of Pool, 
+Bouenza, Niari, Kouilou, Lékoumou and Plateaux. Interventions will be concentrated 
+along the corridors linking the selected production areas to the major marketing 
+8 Yields increased respectively by 217 per cent, 200 per cent, 67 per cent, 37.5 per cent and 25 per cent for yams, soy beans, 
+cassava, bananas and maize.   
+9 Programme in support of the development of agricultural sectors, Completion Report. 
+2 
+EB 2021/133/R.30/Rev.1 
+and consumption centres of Brazzaville and Pointe-Noire, as well as in the 
+Mpouya-Ngo-Gamboma trade corridor.  
+14.  Target groups. The project will directly target 25,424 households, or 
+127,200 people in total. The beneficiaries of the project will be: (i) small-scale 
+agricultural producers and producer groups in the target areas; (ii) young women 
+and men with business plans that could receive support from banks, but who lack 
+the means to start their business; (iii) micro, small and medium-sized enterprises 
+(MSMEs) run by young people and women operating in the agrifood sector; and 
+(iv) disabled people and indigenous populations. The target groups will include 
+60 per cent young people, 50 per cent women, 2 per cent disabled people and 
+2 per cent indigenous people in Lékoumou.10  
+B. Components, outcomes and activities 
+15.  Component 1: Strengthen agricultural supply chains and collaboration 
+between actors. 
+Subcomponent 1.1. Support to MSMEs in the agrifood sector. This 
+subcomponent will finance service providers to assist MSMEs in two ways: (i) by 
+providing business development services and technical advice to establish 
+exhaustive and sustainable business plans; and (ii) by stimulating collaboration 
+between actors in the different sectors involved through the organization and 
+promotion of events bringing together private sector actors (trade fairs and 
+professional visits). 
+16.  Subcomponent 1.2. Commercial partnerships between agro-industrial 
+operators and producers. This subcomponent will support the establishment of 
+sustainable commercial partnerships (purchase contracts and stable supply 
+mechanisms) between the actors in the sector. 
+17.  Subcomponent 1.3. Rehabilitation and improvement of market 
+infrastructure. This subcomponent will finance the rehabilitation of storage 
+infrastructure and equipment to reduce post-harvest losses, provide technical 
+expertise to improve the processes and methods involved in preserving agricultural 
+products. It will also train beneficiaries and strengthen market management 
+capacities. 
+Component 2: Creating an enabling environment for the agrifood sector.  
+18.  Subcomponent 2.1. Stimulating and supporting the growth of the agrifood 
+sector through targeted improvements in public policies and the regulatory 
+framework. This subcomponent will aim to structure and organize key VCs 
+(cassava, maize, feed, fresh fruit and vegetables, fish), and create the conditions 
+for public-private dialogue. The AYEP team will facilitate the creation of 
+representative bodies, promote dialogue and develop a master plan for the 
+development of financial services.  
+19.  Subcomponent 2.2. Improved access to finance for target groups through 
+an appropriate tripartite financing mechanism. This subcomponent will 
+contribute to the funding of approximately 957 MSMEs involving producer 
+organizations, collectors, agro-processors and young rural agripreneurs.  
+20.  Subcomponent 2.3. Capacity-building of partner financial institutions. This 
+subcomponent will provide support to financial partners to launch innovative 
+financial products, develop a methodological guide on agricultural and rural credit, 
+train partner financial institutions in agribusiness and farm credit, and organize 
+knowledge-sharing workshops on rural finance. 
+10 The Lékoumou region, where 80 per cent of the land is under forest cover, is home to 11,456 of the 15,210 indigenous 
+people surveyed in the project area. 
+3 
+EB 2021/133/R.30/Rev.1 
+Component 3: Project coordination and management, monitoring and 
+evaluation (M&E), and knowledge management. 
+21.  This component includes the overall and the administrative and fiduciary 
+management of the project.  
+22.  Subcomponent 3.1. Project coordination and management. This 
+subcomponent will ensure the management of the project’s human and financial 
+resources and establish the partnerships required for effective and results-based 
+project implementation. 
+23.  Subcomponent 3.2. M&E and knowledge management. This subcomponent 
+will ensure the proper functioning of M&E mechanisms and the establishment of a 
+project strategy to promote gender equity while also dealing with the capitalization 
+and management of knowledge produced.  
+C.  Theory of change 
+24.  The underlying reasons for the limited investment by rural households and notably 
+women and young people, in agriculture and farm animals in Congo are as follows: 
+(i) limited rural infrastructure and high transport costs leading to prohibitive 
+transaction costs; (ii) poor organization and structuring of VCs due to lack of 
+collaboration between actors in the same VC and weak support services; 
+(iii) significant post-harvest losses due to inadequate storage and transport 
+facilities; (iv) limited access to finance for agricultural MSMEs because banks lack 
+the skills to finance agricultural ventures; (v) large population of unemployed youth 
+due to inadequate support measures that are not suited to their needs; and 
+(vi) prevalence of chronic malnutrition due to poor eating habits. 
+25.  The result is: (i) the agropastoral sector is not very attractive to young people; 
+(ii) household productivity is low, leading to recurrent malnutrition and the scarse 
+resilience of vulnerable groups; and (iii) the agropastoral sector is not very 
+market-oriented.  
+26.  AYEP will therefore be structured around three complementary pillars: (i) improving 
+business linkages between different VC actors to create profitable business 
+opportunities, improved sharing of the added value generated in agricultural VCs 
+and increased, sustainable local agricultural production; (ii) improving productivity 
+by stimulating marketing and strengthening microfinance institutions; 
+and (iii) facilitating access to capital for young people and supporting their 
+agricultural start-ups.  
+D.  Alignment, ownership and partnerships 
+27.  Coherence with the objectives of sustainable development. The project will 
+directly contribute to achieving SDG 1 (no poverty), SDG 8 (decent work and 
+economic growth) and SDG 9 (industry, innovation and infrastructure).11 
+28.  National ownership. AYEP is in line with the 2018–2022 National Development 
+Plan, including its three key pillars: (i) human resources and focus on the 
+development, effective deployment and preservation of human capital; 
+(ii) economic transformation through agriculture, tourism and industry, which will 
+benefit from private sector investments; and (iii) cross-cutting elements, including 
+strengthening governance and improving the quality of infrastructure and social 
+services. 
+29.  Coherence with IFAD’s policies and priorities. The project is in line with: 
+(i) IFAD's Strategic Framework 2016–2025, aimed at bringing about inclusive and 
+sustainable rural transformation; (ii) the strategic orientations of IFAD11; 
+and (iii) the country strategic opportunities programme covering the period  
+11 AYEP will, to a lesser extent, contribute to achieving SDG 2 (zero hunger), SDG 5 (gender equality) and SDG 13 (climate 
+action). 
+4 
+EB 2021/133/R.30/Rev.1 
+2020–2025 and IFAD's policies on youth, gender, climate and environment, the 
+private sector, rural finance, food security and nutrition.  
+30.  Harmonization and partnerships. IFAD will continue to be an active member of 
+the Agriculture Sector Results Group established in the United Nations Sustainable 
+Development Cooperation Framework, co-chaired by the Ministry of Agriculture, 
+Livestock and Fisheries (MALF) and the Food and Agriculture Organization of the 
+United Nations (FAO). The project team will collaborate with other relevant 
+ministries, including the Ministry of Planning, the Ministry of Small and Medium 
+Enterprises and the Informal Sector, the Ministry of Trade, the Ministry of Women's 
+Development and the Ministry of Health. The Chambers of Commerce and Industry 
+will be implementing partners. 
+E.  Costs, benefits and financing  
+Project costs 
+31.  The total cost of the AYEP (over six years) amounts to EUR 20.3 million, taking into 
+account provision for physical contingencies and price increases. Base costs are 
+EUR 18.4 million (90.56 per cent of total costs). The provisions are 
+EUR 0.04 million for physical contingencies and EUR 1.9 million for financial 
+contingencies (9.44 per cent of total costs). Investment and recurrent costs are 
+estimated at EUR 18.6 million and EUR 1.8 million respectively, i.e. 91.2 per cent 
+and 8.8 per cent of total project cost. 
+32.  Costs per component are as follows: (i) component 1: EUR 5 million 
+(24.4 per cent); (ii) component 2: EUR 12.3 million (60.7 per cent); 
+and (iii) component 3: EUR 3.0 million (14.9 per cent). 
+33.  A financing gap of EUR 6.3 million may be covered under future IFAD 
+replenishment cycles, including IFAD12, or through possible cofinancing to be 
+determined. Climate activities are covered by the cofinancing of the Project for the 
+Reduction of Greenhouse Gas Emissions from Forests in Five Departments of the 
+Republic of Congo (PREFOREST). Therefore, IFAD funding does not cover climate 
+action.
+5 
+Table 1 
+Project costs by component and subcomponent and financier 
+(Thousands of euros) 
+Component/subcomponent 
+Amount 
+% 
+Amount 
+% 
+Amount 
+% 
+Cash  
+In kind 
+% 
+Cash  
+In kind 
+% 
+Amount 
+IFAD loan 
+Other cofinanciers 
+(private financial 
+sector) 
+Financing gap 
+Beneficiaries 
+Borrower/recipient 
+Total 
+Component 1: strengthen agricultural supply chains and 
+collaboration between actors 
+1.1. Support to MSMEs in the agrifood sector 
+2 111.99 
+64.4 
+1 117.32 
+34.1 
+50.53 
+1.5 
+3 279.85 
+1.2. Commercial partnerships between agro-industrial 
+179.94 
+operators and producers  
+19.5 
+691.58 
+75.1 
+1.3. Rehabilitation and improvement of market infrastructure  
+289.61 
+37.7 
+367.82 
+47.9 
+12.26 
+Subtotal 
+2 581.54 
+52.0 
+2 176.73 
+43.8 
+12.26 
+48.94 
+98.66 
+198.13 
+1.6 
+0.2 
+5.3 
+12.8 
+920.47 
+768.35 
+1.5 
+4 968.67 
+6
+Component 2: creating an enabling environment for the 
+agrifood sector  
+2.1. Stimulating and supporting the growth of the agrifood 
+sector through targeted improvements in public policies 
+and the regulatory framework  
+2.2. Improved access to finance for target groups through an 
+628.68 
+56.3 
+487.08 
+43.7 
+appropriate tripartite financing mechanism 
+1 364.89 
+12.5 
+5 437.73 
+50.0 
+2 621.15 
+24.1  1 461.51 
+13.4 
+2.3. Capacity-building of partner financial institutions 
+190.72 
+56.9 
+- 
+- 
+144.59 
+43.1 
+Subtotal 
+2 184.29 
+17.7 
+5 437.73 
+44.1 
+3 252.83 
+26.4  1 461.51 
+11.8 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+1 115.76 
+10 885.28 
+335.31 
+12 336.35 
+Component 3: project coordination and management, 
+M&E, and knowledge management 
+3.1. Project coordination and management 
+3.2. M&E and knowledge management 
+Subtotal 
+Total 
+1 341.41 
+52.8 
+479.66 
+98.0 
+1 821.07 
+60.1 
+883.99 
+34.8 
+8.98 
+1.8 
+892.97 
+29.5 
+217.58 
+99.47 
+12.5 
+2 542.45 
+1.03 
+0.2 
+489.67 
+218.61 
+99.47 
+10.5 
+3 032.12 
+6 586.9 
+32.4 
+5 437.73 
+26.7 
+6 322.53 
+31.1  1 473.77 
+7.2 
+416.74 
+99.47 
+2.5 
+20 337.14 
+E
+B
+2
+0
+2
+1
+/
+1
+3
+3
+/
+R
+.
+3
+0
+/
+R
+e
+v
+.
+1
+Table 2 
+Project costs by expenditure category and financier 
+(Thousands of euros) 
+Other 
+cofinanciers 
+(private financial 
+sector) 
+IFAD loan 
+Financing gap 
+Beneficiaries 
+Borrower/ 
+recipient 
+Expenditure category 
+Amount 
+% 
+Amount 
+% 
+Amount 
+1. Works 
+2. Equipment and materials 
+3. Vehicles 
+4. Technical assistance 
+5. Training 
+175.38 
+134.30 
+58.93 
+3 490.25 
+448.76 
+6. Contribution to the loan/subsidy 
+1 385.38 
+7. Wages, salaries and allowances  
+8. Operating costs 
+Total 
+657.01 
+236.89 
+6 586.90 
+40.4 
+26.8 
+16.6 
+63.1 
+54.5 
+12.7 
+50.4 
+48.9 
+32.4 
+180.67 
+28.10 
+196.86 
+2 031.26 
+374.91 
+5 437.73 
+49.9 
+2 617.76 
+645.80 
+247.17 
+5 437.73 
+26.7 
+6 322.53 
+% 
+41.6 
+5.6 
+55.4 
+36.7 
+45.5 
+24.0 
+49.6 
+51.1 
+31.1 
+7
+Cash  
+In kind 
+% 
+Cash 
+In kind 
+- 
+- 
+- 
+12.26 
+- 
+1 461.51 
+78.16 
+338.58 
+0.00 
+0.00 
+0.2 
+- 
+13.4 
+99.47 
+% 
+18.0 
+67.6 
+28.0 
+- 
+- 
+Total 
+Amount 
+434.21 
+500.98 
+355.27 
+5 533.77 
+823.67 
+10 902.37 
+1 302.81 
+484.06 
+1 473.77 
+7.2 
+416.74 
+99.47 
+2.5 
+20 337.14 
+E
+B
+2
+0
+2
+1
+/
+1
+3
+3
+/
+R
+.
+3
+0
+/
+R
+e
+v
+.
+1
+Table 3 
+Project costs by component and subcomponent and project year (PY)  
+(Thousands of euros) 
+Component and subcomponent 
+Amount 
+% 
+Amount 
+% 
+Amount 
+% 
+Amount 
+% 
+Amount 
+% 
+Amount 
+% 
+Amount 
+PY 1 
+PY 2 
+PY 3 
+PY 4 
+PY 5 
+PY 6 
+Total 
+Component 1: strengthen agricultural supply 
+chains and collaboration between actors 
+1.1.  Support to MSMEs in the agrifood sector  
+1.2.  Commercial partnerships between 
+agro-industrial operators and producers  
+1.3.  Rehabilitation and improvement of market 
+infrastructure 
+325.34 
+9.9 
+603.36 
+18.4 
+933.05 
+28.4 
+751.77 
+22.9 
+459.55 
+14.01 
+206.78 
+6.3 
+3 279.85 
+87.64 
+9.5 
+158.10 
+17.2 
+162.22 
+17.6 
+166.45 
+18.1 
+170.80 
+18.56 
+175.26 
+19.0 
+920.47 
+- 
+0.0 
+171.03 
+22.3 
+172.62 
+22.5 
+186.21 
+24.2 
+200.42 
+26.08 
+38.08 
+5.0 
+768.35 
+Subtotal 
+412.98 
+8.3 
+932.49 
+18.8 
+1 267.88 
+25.5 
+1 104.43 
+22.2 
+830.77 
+16.72 
+420.12 
+8.5 
+4 968.67 
+Component 2: creating an enabling 
+environment for the agrifood sector  
+2.1.  Stimulating and supporting the growth of the 
+8
+agrifood sector through targeted 
+improvements in public policies and the 
+regulatory framework 
+2.2.  Improved access to finance for target groups 
+through an appropriate tripartite financing 
+mechanism 
+2.3.  Capacity-building of partner financial 
+institutions 
+509.49 
+45.7 
+135.25 
+12.1 
+138.93 
+12.5 
+122.67 
+11.0 
+120.72 
+10.82 
+88.70 
+7.9 
+1 115.76 
+3.17 
+0.0 
+2 134.53 
+19.6 
+3 751.85 
+34.5 
+3 855.27 
+35.4 
+1 140.45 
+10.48 
+- 
+- 
+10 885.28 
+57.65 
+17.2 
+133.07 
+39.7 
+74.86 
+22.3 
+16.03 
+4.8 
+- 
+- 
+53.70 
+16.0 
+335.31 
+Subtotal 
+570.31 
+4.6 
+2 402.85 
+19.5 
+3 965.65 
+32.1 
+3 993.98 
+32.4 
+1 261.18 
+10.22 
+142.40 
+1.2 
+12 336.35 
+Component 3: project coordination and 
+management, M&E, and knowledge 
+management 
+3.1. Project coordination and management 
+3.2 M&E and knowledge management 
+890.78 
+35.0 
+331.44 
+13.0 
+341.22 
+13.4 
+335.73 
+13.2 
+323.50 
+12.72 
+319.79 
+12.6 
+2 542.45 
+151.74 
+31.0 
+27.01 
+5.5 
+25.23 
+5.2 
+121.05 
+24.7 
+20.42 
+4.17 
+144.22 
+29.5 
+489.67 
+Subtotal 
+1 042.52 
+34.4 
+358.44 
+11.8 
+366.45 
+12.1 
+456.78 
+15.1 
+343.92 
+11.34 
+464.01 
+15.3 
+3 032.12 
+Total 
+2 025.81 
+10.0 
+3 693.78 
+18.2 
+5 599.98 
+27.5 
+5 555.18 
+27.3 
+2 435.87 
+11.98 
+1 026.53 
+5.0 
+20 337.14 
+E
+B
+2
+0
+2
+1
+/
+1
+3
+3
+/
+R
+.
+3
+0
+/
+R
+e
+v
+.
+1
+EB 2021/133/R.30/Rev.1  
+Financing and cofinancing strategy and plan 
+34.  AYEP will be financed by: (i) an EUR 6.6 million loan from IFAD;(ii) private-sector 
+financing of EUR 5.5 million; (iii) a contribution of some EUR 1.5 million from 
+beneficiaries; and (iv) a contribution of EUR 0.5 million from the Government of 
+Congo in the form of tax exemptions and the supply of four vehicles formerly used 
+in the Inland Fisheries and Aquaculture Project (PD-PAC). The financing gap 
+amounts to EUR 6.3 million. As the country is over-indebted, the loan conditions 
+proposed by IFAD are mixed.  
+35. 
+Disbursement 
+IFAD resources will be transferred to a designated account in CFA francs managed 
+by the project management unit (PMU). Operational accounts in local currency will 
+be opened at the PMU and branch levels. Agreements will be signed between the 
+PMU and service providers. The flow of funds to partner financial institutions will be 
+governed by subsidiary agreements signed by the Ministry of Finance and approved 
+in advance by IFAD. 
+36.  Disbursement of financial resources will take place in accordance with the Loan 
+Disbursement Handbook for projects directly supervised by IFAD as soon as the 
+financing agreement enters into force and the conditions for the first disbursement 
+are met. 
+Summary of benefits and economic analysis 
+37.  The financial analysis demonstrates the profitability of all activities. The net present 
+value is CFAF 29.074 billion, or EUR 44.3 million. The economic internal rate of 
+return is 29.5 per cent. This result is satisfactory and does not include benefits 
+derived from market upgrading, the added value of processed products, the 
+development of agro-industries and beneficiaries’ activities not financed by AYEP. 
+38.  The sensitivity analysis indicates that the project remains profitable even if costs 
+increase (by 10 per cent, 20 per cent and 30 per cent), if benefits decrease 
+(10 per cent, 20 per cent and 30 per cent) and if project implementation is delayed 
+by one to three years, with a reduction or increase in the adoption rate. A 
+three-year delay in implementation of activities compared to the baseline scenario 
+would reduce the economic internal rate of return to 18.5 per cent, a figure that is 
+still above the discount rate. The project's profitability is also resilient to a 
+reduction in benefits and an increase in costs of 30 per cent, which would lower the 
+economic internal rate of return to 19.7 per cent.  
+Exit strategy and sustainability 
+39.  The project will ensure the sustainability of its investments through: 
+(i) capacity-building allowing youth to develop bankable investment projects; 
+(ii) facilitation of partnerships between agribusinesses, small-scale producers, 
+processors and promoters, and financial sector actors; and (iii) financing of 
+promoters' activities through a cost-sharing mechanism (equity, project grants, 
+business credit). 
+III.  Risks 
+A.  Risks and mitigation measures 
+40.  The project’s principal risks and corresponding mitigation measures are 
+summarized in the table below. 
+9 
+EB 2021/133/R.30/Rev.1  
+Table 4 
+Risks and mitigation measures 
+Risks 
+Mitigation measures 
+National context 
+(i) Activities slow down due to the 
+appointment of new managers by the new 
+Government elected in March 2021  
+(ii) High level of corruption 
+  Dialogue, information and constant 
+monitoring of the evolving situation by IFAD 
+to find concerted solutions to blockages 
+  Training and ownership by the project team 
+of IFAD’s anti-corruption policies  
+Inherent  
+risk  
+Residual  
+risk 
+Substantial  Moderate 
+Sectoral strategies and policies 
+Lack of an effective policy for promoting 
+the private sector  
+Environmental and climate context 
+(i) Increased use of plant protection 
+products, intensification of production and 
+environmentally harmful practices   
+(ii) Climate variability 
+Scope of project 
+Country’s high level of fragility, high youth 
+unemployment, persistent poverty and 
+food and nutrition insecurity undermining 
+the adoption of an innovative and 
+business-oriented approach aimed at 
+developing non-production VC segments 
+and promoting diversification of marketed 
+agricultural products 
+Institutional implementation capacity 
+and viability 
+(i) Small-scale producers and their 
+organizations have limited institutional and 
+technical capacities  
+(ii) Public and private service providers 
+have limited capacity; coordination and 
+communication are insufficient in the 
+principal ministries   
+Financial management 
+(I) Scarce capacity of available human 
+resources  
+(ii) Inadequate internal control system  
+Procurement 
+(i) Scarce ability to administer and 
+manage procurement procedures  
+(ii) Inefficient or anti-competitive 
+procurement procedures and market 
+structure leading to poor management 
+of project funds and suboptimal 
+implementation 
+Environmental, social and climate 
+impact 
+Unsustainable cultivation practices 
+(bush fires, slash-and-burn agriculture) 
+and uncontrolled use of pesticides 
+Stakeholders 
+Project benefits monopolized by certain 
+categories of beneficiaries and certain 
+vulnerable groups possibly excluded  
+  Public-private dialogue and support for 
+Substantial  Moderate 
+regulatory and policy change to support the 
+private sector (MSMEs) 
+  Sustainable management of natural 
+resources and rational use of plant 
+protection products 
+  Promotion of climate-compatible production 
+system 
+  Development of commercial partnerships 
+between operators in the sector to create 
+new dynamics and mobilize private 
+investment 
+  Adding value to agricultural production 
+through processing, marketing and 
+post-harvest management 
+  Strengthening the capacity of producers and 
+their organizations, facilitation of dialogue 
+between actors and assistance with 
+managing commercial partnerships 
+  Rigorous norms on hiring service providers 
+and synergies with the investments of other 
+donors  
+  Working Group at the Ministry of Agriculture 
+to monitor project implementation on a 
+monthly basis  
+  Competitive recruitment of staff by an 
+international firm, and performance 
+evaluations as a condition for the renewal of 
+employment contracts  
+  Technical assistance for implementation 
+  Accounting software set up according to 
+disbursement conditions 
+  Express agreements with systems of 
+accounting and financial management to 
+ensure the traceability of funds received 
+  Mobilization of technical assistance 
+  Conformity of the project’s procurement 
+manual with IFAD’s directives 
+Moderate 
+Low 
+Moderate 
+Low 
+Substantial  Moderate 
+High 
+Substantial 
+Substantial  Moderate 
+  Limits on cropping in sensitive ecosystems 
+and promotion of sustainable cultivation 
+practices  
+Moderate 
+Low 
+  Rigorous selection of private sector 
+Substantial  Moderate 
+“champions” to ensure effective targeting of 
+youth, women and other vulnerable groups 
+  Grievance and redress mechanism 
+conforming to IFAD procedures  
+10 
+Risks 
+Mitigation measures 
+Overall risk 
+EB 2021/133/R.30/Rev.1  
+Inherent  
+risk  
+Residual  
+risk 
+Substantial  Moderate 
+B.  Environment and social category 
+41.  AYEP is unlikely to have any significant environmental or social impact and is 
+therefore classified as category B. 
+42.  AYEP will help strengthen the resilience of agricultural production systems and 
+populations in the face of climate change. It will also contribute to creating 
+employment opportunities for young people and women, to the diversification of 
+incomes, to raising awareness concerning child labour and to the implementation of 
+measures aimed at countering COVID-19.  
+43.  Environmental risks will be mitigated through the following measures: 
+(i) sustainable management of natural resources;12 (ii) optimal use of plant 
+protection products and chemical fertilizers; and (iii) compliance with 
+environmental standards in developing targeted sectors. 
+C.  Climate risk classification 
+44.  Modelling of climate change impacts shows no increased risk of drought. Together 
+with experts from PREFOREST,13 the AYEP team will seek to increase climate and 
+environmental resilience by promoting agroforestry and conservation agriculture, 
+water management, integrated and sustainable soil fertility management, 
+sustainable management of natural resources, use of short-cycle and 
+climate-resilient varieties, access to climate information and dissemination of 
+climate-smart practices for adaptation to climate change.  
+45.  AYEP’s direct interventions will be implemented in such a way as to limit 
+greenhouse gas emissions to a minimum by promoting improved storage and 
+processing techniques for agricultural and fisheries products. Climate risks will be 
+taken into account when implementing AYEP subprojects. Consequently, the project 
+is considered to represent a moderate climate risk.  
+D.  Debt sustainability 
+46.  Congo is classified as "over-indebted". Despite the recent restructuring agreement 
+with China, external public debt remains unsustainable. Authorities have committed 
+not to take on new non-concessional loans until the sustainability of public finances 
+has been unequivocally restored. Authorities are also committed to repaying official 
+external bilateral arrears and restructuring commercial debt, in particular 
+oil-related debt. 
+IV.  Implementation 
+A.  Organizational framework 
+Project management and coordination 
+47.  AYEP will be implemented under the technical supervision of MALF. A PMU will be 
+established in Brazzaville, with a branch office in Dolisie. The PMU will collaborate 
+with advisers appointed by MALF to ensure close monitoring of project 
+implementation, in agreement with the departmental directorates of the six 
+departments concerned. It will maintain an active dialogue with the teams running 
+other agricultural initiatives funded by the African Development Bank, the World 
+Bank and the European Union. 
+12 Sustainable management of community forests, activities to combat erosion, brush fire and floods, together with agroforestry.   
+13 Financed by the Green Climate Fund and implemented by FAO. 
+11 
+EB 2021/133/R.30/Rev.1  
+Financial management, procurement and governance 
+48.  Financial Management. Project funds will be managed according to the 
+procedures in force in Congo and IFAD, which will be detailed in the letter to the 
+borrower and in the project's administrative, financial and management procedures 
+manual.  
+49.  Procurement. The works, supplies and consultancy services required will be 
+delivered in accordance with the procurement code in force in Congo, subject to its 
+compatibility with IFAD guidelines. For amounts subject to public procurement 
+procedures, the provisions for tendering will apply.  
+50.  Governance. Within the framework of AYEP, the principles of good governance 
+and transparency will be applied through: (i) the exercise of project ownership by 
+MSMEs and rural youth during the implementation of business plans; (ii) a 
+mechanism for monitoring compliance by MSMEs with their statutes and internal 
+regulations; and (iii) strict compliance with financial management and procurement 
+procedures through regular monitoring by IFAD and technical assistance. 
+Participation and feedback from target groups, and grievance process  
+51.  The participation of, and feedback from, target groups will be integrated in all 
+project activities involving the associations consulted during the preparatory phase 
+of the AYEP. A platform of young agripreneurs facilitated by FAO in Brazzaville will 
+be a key partner in securing the participation of project target groups.  
+52. 
+Grievance-handling process 
+In accordance with IFAD's procedures, AYEP will provide for the creation of a 
+mechanism for receiving, resolving and responding to grievances, thus allowing 
+those concerned to obtain a fair and timely response. 
+B.  Planning, monitoring and evaluation, learning, knowledge 
+management and communications 
+53.  Planning. The logical framework and the Results Management Framework will be 
+the planning and monitoring tools used. Activities will be planned, budgeted and 
+implemented on the basis of an annual workplan and budget in line with IFAD 
+standards. 
+54.  Monitoring and evaluation. An M&E system will be put in place in accordance 
+with IFAD and government requirements. It will have a youth and gender focus and 
+will identify, monitor and evaluate target groups, disaggregated by category.14  
+55.  Knowledge management and communication. At AYEP start-up, a 
+communication and knowledge management strategy together with an action plan 
+on M&E will be established.  
+Innovation and scaling up 
+56.  Under AYEP, several innovations are envisaged: (i) support to downstream 
+stakeholders in agricultural VCs; (ii) promotion of inclusive and sustainable 
+partnerships between small-scale producers and agro-industrial buyers, a practice 
+that has been successful in many African countries; and (iii) mobilization of the 
+financial sector and strengthening of the technical capacity of financial institutions 
+to provide appropriate financial products for agricultural financing. 
+14 Women, youth, men, disabled people and indigenous peoples. 
+12 
+EB 2021/133/R.30/Rev.1  
+C.  Implementation plans 
+Implementation readiness and start-up plans 
+57.  The AYEP team will draw on the experience of PD-PAC fisheries project and will use 
+the start-up funds to implement some specific activities pending initial 
+disbursement.  
+Supervision, midterm review and completion plans  
+58.  Project supervision will be handled directly by IFAD at least once a year together 
+with MALF. Support missions may be carried out by the Fund as necessary. 
+59.  A midterm review will be jointly carried out by IFAD and the Government of Congo 
+at the end of the third year and will evaluate the project’s pertinence and 
+implementation approach, whether objectives have been achieved and what 
+difficulties were encountered. 
+60.  A project completion mission together with a closing workshop will be organized in 
+the first semester of the sixth year. The mission will be backed up by a final 
+internal evaluation of the project’s effects. This assessment will include reviews, 
+specific studies and an analysis of data.  
+V.  Legal instruments and authority 
+61.  A project financing agreement between the Republic of the Congo and IFAD will 
+constitute the legal instrument for extending the proposed financing to the 
+borrower/recipient. A copy of the negotiated financing agreement is attached as 
+appendix I.  
+62.  The Republic of the Congo is empowered under its laws to receive financing from 
+IFAD. 
+63. 
+I am satisfied that the proposed financing will comply with the Agreement 
+Establishing IFAD and the Policies and Criteria for IFAD Financing. 
+VI.  Recommendation 
+64. 
+I recommend that the Executive Board approve the proposed financing in terms of 
+the following resolution:  
+RESOLVED: that the Fund shall provide a loan on mixed terms to the 
+Republic of the Congo in an amount of six million six hundred thousand 
+euros (EUR 6,600,000), equivalent to about seven million eight hundred 
+thousand United States dollars (US$7,800,000) and upon such terms and 
+conditions as shall be substantially in accordance with the terms and 
+conditions presented herein. 
+Gilbert F. Houngbo 
+President 
+13 
+Appendice I 
+EB 2021/133/R.30/Rev.1 
+Accord de financement négocié 
+Projet Agriculture, Jeunes et Entreprenariat (PAJE) 
+(Négociations conclues le 16 août 2021) 
+Prêt No: ___________ 
+Nom du Projet: Projet Agriculture, Jeunes et Entreprenariat (PAJE) (« le Projet ») 
+La République du Congo (« L’Emprunteur ») 
+et  
+Le Fonds international de développement agricole (le « Fonds » ou le « FIDA ») 
+(désignés individuellement par une « Partie » et collectivement par les « Parties ») 
+ATTENDU QUE l’Emprunteur a sollicité du Fonds un prêt pour le financement du Projet 
+décrit à l’Annexe 1 du présent accord (« l’Accord »); 
+ATTENDU  QUE  le  Projet  contribuera  à  la  mise  en  œuvre  des  activités  du  «  Projet  de 
+réduction des émissions de CO2 issues des forêts dans cinq départements de la République 
+du Congo (PREFOREST) » qui bénéficie d’un don du Fonds vert pour le climat (le « GCF ») 
+géré par l’Organisation des Nations Unies pour l'alimentation et l'agriculture (la « FAO »); 
+L’Emprunteur s’est engagé à fournir un soutien supplémentaire qui pourrait être nécessaire 
+au Projet. 
+Considérant que le Fonds a accepté de financer le Projet; 
+Par conséquent, les Parties conviennent de ce qui suit : 
+Section A 
+1. 
+L’Accord  comprend  l’ensemble  des  documents  suivants:  le  présent  document,  la 
+description  du  Projet  et  les  dispositions  relatives  à  l’exécution  (Annexe  1),  le  tableau 
+d’affectation des fonds (Annexe 2) et les clauses particulières (Annexe 3). 
+2. 
+Les conditions générales applicables au financement du développement agricole en 
+date  du  29  avril  2009,  telles  que  modifiées  en  décembre  2020  et  toutes  éventuelles 
+modifications  postérieures  (les  « Conditions  Générales  »)  sont  annexées  au  présent 
+document,  et  l’ensemble  des  dispositions  qu’elles  contiennent  s’appliquent  au  présent 
+Accord.  Aux  fins  de  l’Accord,  les  termes  dont  la  définition  figure  dans  les  Conditions 
+Générales ont la signification qui y est indiquée. 
+3. 
+Le  Fonds  accorde  à  l’Emprunteur  un  Prêt  (le  «  Financement  »),  que  l’Emprunteur 
+utilise  aux  fins  de  l’exécution  du  Projet,  conformément  aux  modalités  et  conditions 
+énoncées dans l’Accord. 
+Section B 
+1. 
+A. Le montant du Prêt est de six millions six cent mille euros (6 600 000 EUR). 
+2. 
+Le  Prêt  est  accordé  à  des  conditions  mixtes.  Les  prêts  accordés  à  des  conditions 
+mixtes ont une période d’échéance de vingt-cinq (25) ans et une période de grâce de cinq 
+1 
+Appendice I 
+EB 2021/133/R.30/Rev.1 
+(5)  ans.  La  commission  de  service  est  ajustée  trimestriellement  et  sous  réserve  d’un 
+plancher  de  0.75%  et  le  taux  d’intérêt  est  basé  sur  le  taux  libellé  en  droits  de  tirage 
+spéciaux (DTS); il est ajusté chaque trimestre sous réserve d’un plancher de 0%. 
+3. 
+La monnaie de paiement au titre du service du Prêt est l’Euro (EUR).  
+4. 
+L’exercice financier débute le 1 janvier et se clôture le 31 décembre. 
+Le  remboursement  du  principal,  le  paiement  des  intérêts  et  de  la  commission  de 
+5. 
+service du prêt sont exigibles le 1 février et le 1 août. 
+6. 
+Il y aura un compte désigné libellé en Francs de la Communauté Financière Africaine 
+(FCFA), pour l’utilisation exclusive du Projet ouvert à Brazzaville au nom de l’Emprunteur 
+auprès d’un établissement de son choix.  
+7. 
+L’Emprunteur fournira des fonds de contrepartie aux fins du Projet d’un montant de 
+cinq cent vingt mille euros (520 000 EUR) sous forme d’exonérations,  de loyers pour le 
+siège de l’UGP et l’antenne de terrain à Dolisie. 
+La  contribution  des  bénéficiaires  sera  apportée  sous  forme  de  main  d’œuvre  et 
+8.  
+d’apport en numéraire dans le cadre du mécanisme de financement des plans d’affaires. 
+Section C 
+L'Agent principal du Projet est le Ministère de l’Agriculture, de l’Elevage et de la Pêche 
+1. 
+(MAEP) de l’Emprunteur. 
+2.   Un examen à mi-parcours sera effectué conformément aux dispositions des alinéas 
+8.03  (b)  et  (c)  des  Conditions  Générales.  Toutefois,  les  Parties  peuvent  convenir  d'une 
+date différente pour l'examen à mi-parcours de la mise en œuvre du Projet. 
+3. 
+La Date d’achèvement du Projet est fixée au sixième anniversaire de la date d’entrée 
+en vigueur du présent accord et la Date de clôture du financement sera six (6) mois plus 
+tard, ou toute autre date désignée par le Fonds par notification à l'Emprunteur. 
+4. 
+L'acquisition de biens, travaux et services financés par le Financement est effectuée 
+conformément  aux  dispositions  de  la  réglementation  de  l'Emprunteur  en  matière  de 
+passation  des  marchés,  dans  la  mesure  où  elles  sont  conformes  aux  directives  pour  la 
+passation  des  marchés  relatifs  aux  projets  du  FIDA.  Un  plan  de  passation  des  marchés 
+basé sur le Plan de Travail et Budget Annuel sera élaboré chaque année. Ce plan spécifiera, 
+entre autres, les méthodes de passation, les coûts estimatifs, l’échéancier. 
+Section D 
+1. 
+Le Fonds administrera le Prêt et co-supervisera le Projet avec l’Emprunteur. 
+Section E 
+Les  éléments  suivants  sont  désignés  comme  des  motifs  supplémentaires  de 
+1. 
+suspension du présent Accord : 
+a)  Le  manuel  de  mise  en  œuvre  et/ou  l'une  de  ses  dispositions  a  fait  l'objet  d'une 
+renonciation,  d'une  suspension,  d'une  résiliation,  d'une  modification  ou  d'un 
+amendement sans l'accord préalable du Fonds, et le Fonds, après consultation avec 
+l'Emprunteur,  a  déterminé  qu'il  a  eu,  ou  est  susceptible  d'avoir,  un  effet 
+préjudiciable important sur le Projet. 
+2 
+Appendice I 
+EB 2021/133/R.30/Rev.1 
+b)  Un  ou/  des  personnel(s)  clé(s)  du  Projet  tel  que  décrit  dans  le  manuel  de 
+procédures administratives a/ont été nommé(s), transféré(s) ou démis de ses/leurs 
+fonctions sans l’accord préalable du FIDA.  
+c)  Un ou/ les accord(s) de partenariat négociés par l’Emprunteur, représenté par l’UGP 
+du Projet  et validés par le FIDA, a/ ont été dénoncés sans l’accord de toutes les 
+Parties à ou/aux accord(s).  
+Les 
+suivants 
+2. 
+(générales/spécifiques) préalables au premier décaissement: 
+constituent 
+éléments 
+des 
+conditions 
+additionnelles 
+a) 
+b) 
+c) 
+d) 
+e) 
+f) 
+g) 
+La non-objection du FIDA à l'égard du manuel de mise en œuvre du Projet a 
+été obtenue. 
+Le  personnel  clé  du  Projet,  (le  coordonnateur  du  Projet,  le  responsable 
+administratif et financier, le responsable en suivi-évaluation, le responsable en 
+passation des marchés de l’UGP et les responsables des composantes), a été 
+recruté par voie compétitive et a reçu la non-objection du FIDA conformément 
+aux dispositions de l’Accord. 
+Le compte désigné et les comptes d’opérations ont été ouverts et le personnel 
+habilité à les mobiliser a été officiellement désigné.  
+Le premier programme de travail et budget annuel (PTBA) pour les activités du 
+Projet et son plan de passation des marchés ont été approuvés par le Fonds.  
+Le manuel des procédures administratives, financières et comptables du Projet 
+est approuvé par le FIDA.  
+Le logiciel comptable a été acquis et paramétré afin de prendre en compte les 
+exigences comptables et financières spécifiques à ce financement.  
+Le  comité  de  pilotage  du  Projet  a  officiellement  été  créé  par  le  Ministère  de 
+l’Agriculture,  de  l’Elevage  et  de  la  Pêche  et  sa  composition  est  conforme  aux 
+orientations du document de conception du Projet.  
+3. 
+Cet Accord est soumis à la ratification de l'Emprunteur. 
+Toutes les communications ayant trait au présent Accord doivent être adressées aux 
+4. 
+représentants dont le titre et l’adresse figurent ci-dessous: 
+Pour l’Emprunteur : 
+Rigobert Roger ANDELY 
+Ministre des Finances, du Budget et du Portefeuille Public 
+Boulevard Dénis SASSOU NGUESSO & avenue Cardinal Emile BIAYENDA, BP 2083, 
+Brazzaville, République du Congo 
+Pour le Fonds : 
+Gilbert F. HOUNGBO 
+Président, Fonds international de développement agricole 
+Via Paolo di Dono 44 
+00142 Rome, Italie 
+Copie à : PD PAC  
+3 
+Appendice I 
+EB 2021/133/R.30/Rev.1 
+Le présent accord, a été établi en langue française en deux (2) exemplaires originaux, un 
+(1) pour le Fonds et un (1) pour l’Emprunteur. 
+REPUBLIQUE DU CONGO 
+____________________  
+Rigobert Roger ANDELY 
+Ministre des Finances, du Budget et du Portefeuille Public  
+Date : _________________ 
+FONDS INTERNATIONAL  
+POUR LE DEVELOPPEMENT AGRICOLE  
+___________________ 
+Gilbert F. Houngbo 
+Président 
+Date : ______________ 
+4 
+Appendice I –Annexe 1 
+EB 2021/133/R.30/Rev.1 
+Annexe 1 
+Description du Projet et dispositions relatives à l’exécution 
+I. 
+Description du Projet 
+1. 
+Population  cible.  La  population  cible  a  été  estimée  à  environ  25  424  ménages, 
+ventilés  comme  suit  :  (i)  9  124  ménages  bénéficieront  de  l’accès  à  crédit  ;  (ii) 
+16 300 ménages  bénéficieront  de  la  formation,  la  capacitation,  des  partenariats 
+commerciaux, etc. 
+2. 
+Zone d'intervention du Projet. Le Projet interviendra dans les départements du Pool, 
+de la Bouenza, du Niari, du Kouilou, de la Lékoumou, du Plateau et une partie de la Cuvette 
+et de la Cuvette Ouest. 
+3. 
+Finalité. La finalité du Projet est de contribuer à l’amélioration des conditions de vie 
+et des revenus des populations rurales et péri-urbaines pauvres dans les zones du Projet.  
+4.  Objectifs.  L’objectif  de  développement  du  Projet  est  de  « Promouvoir  l’inclusion 
+socio-professionnelle des jeunes et des groupes vulnérables dans des activités rentables, 
+créatrices de revenus et d’emplois décents et durables dans des chaînes de valeur agro-
+alimentaires ».  
+5. 
+Composantes.  Le Projet contient les composants ci-après:  
+Composante  1.  :  Renforcer  les  chaînes  d’approvisionnement  agricoles  et  les 
+collaborations entre les acteurs. À travers cette composante, le projet se montrera sensible 
+à  la  promotion  de  nouveaux  aliments,  l'amélioration  de  la  sécurité  alimentaire  et  la 
+diversification des options alimentaires, qui contribuent toutes à l'amélioration globale de 
+l'état  nutritionnel  de  la  population.  Pour  atteindre  ces  résultats,  la  composante  sera 
+structurée autour des sous-composantes suivantes: 
+Sous-composante  1.1. :  Soutien  des  MPMEs  le  long  des  chaînes  de  valeur  agro-
+alimentaires.  Le  Projet  financera  des  prestataires  de  services  pour  assister  les  MPMEs 
+suivant  deux  modalités  différentes  et  complémentaires  :  (i)  fourniture  de  services  de 
+développement des affaires et de conseils techniques – qui aideront les entrepreneurs à 
+développer  des  plans  d’affaires  compréhensifs  et  durables  ;  et  (ii)  stimulation  de  la 
+collaboration  entre  les  acteurs  des  différentes  chaînes  de  valeur  par  l'organisation  et  la 
+promotion  d'événements  rassemblant  différents  acteurs  du  secteur  privé  -  comme  les 
+foires commerciales et les visites professionnelles. 
+Sous-composante 1.2. : Partenariats commerciaux entre operateurs agro-industriels 
+et producteurs. Cette sous-composante 1.2. a pour objectif l'établissement de partenariats 
+commerciaux durables, grâce à la promotion de liens formalisés avec les fournisseurs qui 
+garantissent des conditions commerciales équitables pour les deux parties et protègent les 
+intérêts des petits exploitants dans le cadre d’accords contractuels. 
+Sous-composante  1.3. :  Réhabilitation  et  amélioration  des  infrastructures  de 
+marché. Le Projet visera à soutenir les activités commerciales en finançant la réhabilitation 
+ciblée  des  principales  infrastructures  du  marché  et  débloquer  ainsi  les  goulots 
+d'étranglement et réduire les pertes dues à de mauvaises installations de stockage. Les 
+investissements dans les infrastructures de stockage devraient contribuer à la réduction 
+des  pertes  post-récolte  et  par  conséquent  permettre  l’amélioration  de  la  qualité 
+nutritionnelle  des  produits,  et  une  augmentation  des  volumes.  Des  équipements  de 
+stockage adaptés et disponibles seront fournis pour réduire les pertes post-récolte (sacs 
+PICS, options de stockage hermétique de sacs de 50 kg, silos de petite à moyenne taille, 
+etc.).  L’appui  portera  aussi  sur  la  fourniture  d’une  expertise  technique  et  la  formation 
+nécessaires,  y  compris  le  choix  des  équipements,  etc.  L’IITA  apportera  à  cet  effet  une 
+5 
+Appendice I –Annexe 1 
+EB 2021/133/R.30/Rev.1 
+assistance technique dans l’amélioration des procédés et des moyens de conservation des 
+produits  agricoles  en  collaboration  avec  les  structures  locales  spécialisées  dans  ce 
+domaine. 
+Composante  2. :  Améliorer 
+l'environnement  habilitant  pour 
+le  secteur 
+agroalimentaire. L’effet attendu de cette composante est : « un environnement politique 
+et réglementaire soutenant les investissements dans le secteur agroalimentaire et accès 
+aux services financiers des acteurs des filières agricoles concernées amélioré » (957 MPME 
+ayant obtenu pour la première fois l’accès aux services financiers à la fin du projet). Pour 
+atteindre  ces  résultats,  la  composante  sera  structurée  autour  des  sous-composantes 
+suivantes : 
+Sous-composante  2.1. :  Stimuler  et  soutenir 
+la  croissance  du  secteur 
+agroalimentaire  grâce  à  des  améliorations  ciblées  des  politiques  publiques  et  du  cadre 
+réglementaire.  Prévoit  des  activités  au  niveau  national  et  local  et  aura  des  impacts  à 
+l'échelle nationale sur toutes les chaînes de valeur agricole. Elle visera à structurer et à 
+organiser  les  chaînes  de  valeur  clés  (manioc,  mais,  provende,  fruits  et  légumes  frais, 
+poisson)  et,  créer  les  conditions  nécessaires  à  un  dialogue  public-privé  significatif  et 
+participatif. Les résultats de ce dialogue alimenteront les processus décisionnels, au niveau 
+national,  visant  à  améliorer  l'environnement  et  à  éliminer  les  goulots  d'étranglement 
+systémiques pour un investissement accru. 
+Sous-composante 2.2. : Améliorer l’accès au financement des groupes cibles. Cette 
+sous-composante  mettra  en  œuvre  un  mécanisme  de  financement  adapté,  ciblé  et 
+contribuera à assurer le financement d’environ 957 MPME (y compris des organisations de 
+producteurs,  collecteurs  et  transformateurs  de  produits  agricoles,  jeunes  agripreneurs 
+ruraux et péri-urbains), intervenant dans les chaînes de valeur des filières retenues par le 
+projet. Tous ces acteurs seront impliqués dans des plans d’affaires approuvés dans le cadre 
+de la composante 1, soit en tant que promoteur (MPME), soit en tant que participant à un 
+partenariat  commercial  facilité  par  le  projet  entre  acheteurs  de  denrées  agricoles  et 
+organisations de petits producteurs. Le financement global (besoins en fonds de roulement 
+et équipement des plans d’affaires qui seront développés avec l’aide du projet) est estimé 
+à 10.875.000 EURO pour les 6 années du projet. 
+Sous-composante  2.3. :  Renforcement  de  la  capacité  des  Institutions  Financières 
+Partenaires. Le secteur financier finance très peu les MPMEs agroalimentaires, d’une part 
+à  cause  de  la  perception  de  risque  élevé  et  d’autre  part,  car  les  produits  et  services 
+financiers disponibles sont peu attractifs pour les clients opérant dans le secteur. En dehors 
+de la facilité de partage de risques (sous-composante 2.2), le PAJE accompagnera les IFP 
+dans la conquête et l’appropriation durable des segments de l’entrepreneuriat agricole et 
+rural. Pour ce faire, le projet financera : (i) un appui aux IFP pour mettre en œuvre des 
+produits  financiers  novateurs  y  compris  des  produits  financiers  numériques  ;  (ii)  la 
+préparation d’un guide méthodologique sur le crédit agricole et rural  ; (iii) la formation 
+des IFPs au secteur agroalimentaire et au crédit à l’entreprise agricole et (iv) l’organisation 
+des ateliers de partage de connaissances sur la finance rurale basés sur les expériences  
+d’autres pays d'Afrique de l'Ouest et du Centre soutenus par le FIDA dans le cadre de la 
+coopération technique Sud-Sud (SSTC). 
+II.  Dispositions relatives à l'exécution 
+L'agent principal du Projet. Le Ministère de l’Agriculture, de l’Elevage et de la Pêche 
+6. 
+(MAEP) est l’agent principal du Projet. 
+7. 
+Comité de surveillance du Projet. Le pilotage stratégique et la supervision du projet 
+seront  assurés  par  un  Comité  national  de  Pilotage  (CNP).  Le  CNP  sera  présidé  par  le 
+Ministère  en  charge  de  l’agriculture  et  co-présidé  par  la  Chambre  de  Commerce  et  de 
+l’Industrie  et  de  l’Agriculture  (CCIAM).    Les  membres  du  CNP  seront  recrutés  parmi  les 
+6 
+Appendice I –Annexe 1 
+EB 2021/133/R.30/Rev.1 
+parties  prenantes  clés  pour  la  mise  en  œuvre  du  PAJE,  notamment  un  représentant  du 
+Ministère  en  Charge  des  PMEs,  des  représentants  des  autorités  départementales 
+concernées  et les partenaires économiques et  sociaux (chambres de commerce, Maison 
+Agropastorale  du  Congo  et  autres  institutions  faîtières,  organisations  des  producteurs, 
+secteur privé, etc.). 
+8. 
+Unité de Gestion du Projet. Une Unité de Gestion du Projet (UGP) sera établie pour 
+le PAJE au niveau du Ministère de l’Agriculture, de l’Elevage et de la Pêche (MAEP). L’UGP 
+aura un siège au sein du MAEP à Brazzaville, et une antenne de terrain à Dolisie. Les deux 
+parties  de  l’UGP  seront  logées  dans  les  bâtiments  du  MAEP  construits  par  les  projets 
+antérieurs (PADEF, pour l’antenne à Dolisie) ou fournis par l’Emprunteur pour le siège à 
+Brazzaville, réduisant ainsi les frais de gestion du Projet. 
+Partenaires  stratégiques.  L’UGP  collaborera  avec  les  Conseillers  nommés  par  le 
+9. 
+Ministre MAEP pour le suivi rapproché de la mise en œuvre du projet, et avec les Directions 
+Départementales dans les Départements concernés dans la planification, la mise en œuvre 
+et  le  suivi-évaluation  des  activités.  Au  démarrage,  l’UGP  bénéficiera  d’une  assistance 
+technique dédiée pour la préparation des documents techniques clés  de mise  en  œuvre 
+(ToR des études spécifiques, dossier d’appel d’offre). Cette assistance technique apportera 
+également un appui à l’équipe du projet sous forme de coaching. 
+10.  Suivi et évaluation. Les rôles de suivi-évaluation seront intégrés dans la gestion du 
+Projet (TDR du spécialiste en suivi-évaluation et ceux des autres personnels) du Projet. 
+Cette approche servira à garantir que  le suivi-évaluation sera utilisé comme un outil de 
+gestion par tout le personnel de l’UGP, et pas seulement du rapportage. Le système de 
+suivi-évaluation sera aligné avec les exigences du MAEP et celles du Système de mesure 
+des résultats opérationnels (SMRO) du FIDA. Les indicateurs pertinents ont été détaillés 
+dans  le  Cadre  Logique  du  PAJE,  et  quantifiés  autant  que  possible.  Les  indicateurs  se 
+réfèrent  aux  différents  niveaux  (produits,  résultats  et  effets)  et  comprennent  des 
+indicateurs standards du FIDA ainsi que ceux spécifiques au projet. Ils sont alignés avec 
+la théorie du changement et démontrent les liens logiques entre les résultats aux niveaux 
+différents. 
+11.  Gestion des connaissances. L’UGP sera aussi en charge de la communication et de la 
+gestion  des  savoirs.  La  communication  sera  primordiale,  pour  la  mobilisation  des 
+partenaires,  petits  producteurs  et  agro-industriels  (Composante  1),  ou  les  EMF,  les 
+Banques (Composante 2) et les mécanismes financiers mis en place par l’Etat. L’approche 
+de communication sera focalisée sur la promotion de la transparence et la construction de 
+relations  de  confiance  entre  les  secteurs  agricole  et  financier,  et  entre  les  acteurs 
+concernés.  La  gestion  des  savoirs  sera  essentielle  pour  démontrer  la  réussite  des 
+partenariats  publics-privés  et  privés-privés  facilités  par  le  projet,  et  pour  convaincre  et 
+mobiliser d’autres acteurs à suivre les modèles élaborés par le projet. Dans ce cadre, l’UGP 
+cherchera  également  à  maintenir  un  dialogue  actif  avec  les  autres  initiatives  agricoles 
+financées  par  les  bailleurs,  comme  la  Banque  Africaine  de  Développement,  la  Banque 
+Mondiale et l’Union Européenne, entre autres. 
+12.  Manuel  de  mise  en  œuvre  de  Projet.  Au  démarrage  du  Projet,  un  consultant  avec 
+une  expérience  internationale  sera  recruté  pour  aider  le  projet  dans  l’élaboration  du 
+Manuel de suivi-évaluation du Projet, dont une introduction est décrite dans le manuel de 
+mise  en  œuvre  détaillant  les  procédures  et  les  outils,  et  incluant  la  liste  des 
+études/enquêtes d'effets à réaliser. Les responsabilités de chaque acteur concernant les 
+livrables  associés  au  SE  seront  spécifiées  dans  une  clause  spécifique  figurant  dans  les 
+contrats et conventions. 
+7 
+Appendice I –Annexe 2 
+EB 2021/133/R.30/Rev.1 
+Annexe 2 
+Tableau d’affectation des fonds 
+1. 
+Affectation du produit du Prêt. a)  Le  tableau  ci-dessous  indique  les  catégories  de 
+dépenses admissibles à un financement sur le paiement du Prêt ainsi que le montant du Prêt 
+affecté à chaque catégorie et la répartition en pourcentage des dépenses à financer pour 
+chacun des postes des différentes catégories: 
+Total 
+Montant alloué 
+au titre du Prêt 
+(exprimé en EUR) 
+I.  Génie civil 
+180 000 
+II.  Équipements et matériels 
+190 000 
+III.  Consultations 
+3 440 000 
+IV.  Contributions et subventions 
+1 230 000 
+V.  Coûts de fonctionnement 
+Non alloué 
+900 000  
+660 000 
+TOTAL 
+6 600 000 
+Pourcentage des dépenses 
+autorisées à financer 
+100% HT et hors contribution du 
+gouvernement 
+100% HT et hors contribution du 
+gouvernement 
+100% HT et hors contribution du 
+gouvernement  
+100% HT et hors contribution du 
+gouvernement  
+b) 
+Les termes utilisés dans le tableau ci-dessus se définissent comme suit: 
+i)  « Équipements et matériels » inclus les véhicules 
+ii)  « Consultations » inclus étude, formations, ateliers, séminaires, missions. 
+iii)  « Coûts de fonctionnement » inclus les salaires et les indemnisations  
+2.  Modalités de décaissement 
+a)  Les ressources du FIDA seront transférées sur un compte  désigné en francs CFA 
+géré  par  l’UGP.  Des  comptes  opérationnels  en  monnaie  locale  seront  ouverts  au 
+niveau de l’UGP et de l’antenne. Des conventions seront signées entre l’UGP et les 
+prestataires de services. Les flux de fonds aux IFPs seront régis par des accords de 
+financement  subsidiaires  signés  par  le  Ministère  des  finances,  préalablement 
+approuvés par le FIDA. 
+b)  Les décaissements des ressources financières se feront conformément au Manuel 
+des décaissements du FIDA, à l’entrée en vigueur de l’accord de financement, et 
+lorsque les conditions de premier décaissement auront été remplies. 
+c)  Frais de démarrage : les retraits relatifs aux dépenses de démarrage afférents 
+aux catégories III ‘Consultations’ et V ‘Coûts de fonctionnement’ engagés avant la 
+8 
+Appendice I –Annexe 2 
+EB 2021/133/R.30/Rev.1 
+satisfaction des conditions générales de retrait ne doivent pas dépasser un 
+montant total de trois cent mille euros (300 000 EUR). 
+3.  Modalités d'audit : Les comptes et la gestion du Projet seront vérifiés annuellement 
+par un cabinet d'audit comptable indépendant et qualifié, recruté par le projet, acceptable 
+pour le FIDA, sur la base de termes de référence préalablement approuvés par le FIDA et 
+conformément au manuel du FIDA relatif à l’information financière et audit. Les rapports 
+d’audit seront transmis au FIDA au plus tard six (6) mois suivant la clôture de l’exercice 
+fiscal. La non-soumission du rapport d’audit annuel dans ce délai constituera une clause 
+de suspension des décaissements. 
+9 
+Appendice I –Annexe 3 
+EB 2021/133/R.30/Rev.1 
+Annexe 3 
+Clauses particulières 
+Conformément aux dispositions de la section 12.01 a) xxiii) des Conditions Générales, le 
+Fonds peut suspendre, en tout ou partie, le droit de l'Emprunteur de solliciter des retraits 
+du compte du prêt du Fonds si l'Emprunteur n’a pas respecté l'une quelconque des clauses 
+énoncées ci-dessous, et si le FIDA a établi que ladite défaillance a eu, ou risque d'avoir, un 
+effet préjudiciable important sur le Projet:  
+1. Dans les six (6) mois suivant l'entrée en vigueur de l'Accord de financement, le Projet 
+achètera et installera un logiciel de comptabilité personnalisé, conformément aux pratiques 
+en vigueur dans les projets soutenus par le FIDA, afin de satisfaire aux normes comptables 
+internationales et aux exigences du FIDA. 
+2. Dans les six (6) mois suivant l'entrée en vigueur de l'Accord de financement, le Projet 
+conclura un protocole d'accord avec les partenaires de mise en œuvre qui structurera la 
+collaboration, définira les  rôles, les  responsabilités et les devoirs  en  matière de mise  en 
+œuvre et de gestion financière, comptabilité et rapport. 
+3.  Planification,  suivi  et  évaluation.  L'Emprunteur  veillera  à  ce  qu’un  système  de 
+Planification, de Suivi et d'Evaluation (PM&E) soit mis en place dans les douze (12) mois à 
+compter de la date d'entrée en vigueur du présent Accord. 
+4.  Genre.  L'Emprunteur  veillera  à  ce  que  les  orientations  de  la  stratégie  genre  tel 
+qu’énoncées dans le document de conception du Projet et son manuel de mise en œuvre y 
+inclus les quotas relatifs aux services et appuis en faveur des femmes, des jeunes et des 
+autres  couches  vulnérables  telles  que  les  personnes  vivant  avec  un  handicap  et  les 
+populations autochtones soient respectées et mises en œuvre. 
+5.  Peuples  autochtones.  L’Emprunteur  veillera  à  ce  que  les  préoccupations  des  peuples 
+autochtones soient dûment prises en compte dans la mise en œuvre du Projet et, à cette 
+fin, veillera à ce que: 
+a)  le Projet soit exécuté conformément aux dispositions applicables de la législation 
+nationale des peuples autochtones applicable; 
+b)  les peuples autochtones soient représentés de manière adéquate et équitable dans 
+toute la planification locale des activités de Projet; 
+c)  les droits des peuples autochtones soient dûment respectés; 
+d)  les communautés autochtones participent au dialogue politique et à la gouvernance 
+locale; 
+e)  les termes des Déclarations, Pactes et/ou Conventions ratifiés par l'Emprunteur à 
+ce sujet soient respectés; 
+f) 
+le Projet ne comporte pas d'empiètement sur les territoires traditionnels utilisés ou 
+occupés par les communautés autochtones. 
+6. Sécurité du régime foncier. L’Emprunteur veillera à ce que le processus d’acquisition des 
+terres  soit  déjà  achevé  et  que  les  processus  de  compensation  soient  conformes  aux 
+meilleures pratiques internationales et aux principes du consentement libre, préalable et 
+éclairé. 
+10 
+Appendice I –Annexe 3 
+EB 2021/133/R.30/Rev.1 
+7.  Conformité  aux  procédures  d'évaluation  sociale  environnementale  et  climatique 
+(SECAP).  L'Emprunteur  veillera  à  ce  que  le  Projet  soit  mis  en  œuvre  conformément  au 
+SECAP du FIDA et plus précisément aux mesures suivantes: 
+a)  toutes  les  activités  du  Projet  soient  mises  en  œuvre  dans  le  strict  respect  des 
+lois/réglementations pertinentes de l’Emprunteur;  
+b)  toutes les activités du Projet tiennent particulièrement compte de la participation et 
+des pratiques des populations de minorités ethniques, conformément à la Politique 
+du FIDA sur les peuples autochtones (2009), selon le cas;  
+c)  les  propositions  de  travaux  de  génie  civil  incluent  la  confirmation  qu'aucune 
+acquisition forcée de terres ou réinstallation involontaire n'est requise dans le cadre 
+du Projet.  
+d)  en cas d’acquisition de terres non prévue ou de réinstallation involontaire dans le 
+cadre du Projet l’Emprunteur devra immédiatement informer le Fonds et préparer 
+les  documents  de  planification  nécessaires  conformément  à  la  déclaration  de 
+politique de sauvegarde (2010);  
+e)  les  hommes  et  les  femmes  reçoivent  une  rémunération  égale  pour  un  travail  de 
+valeur égale au titre du Projet;  
+f) 
+le recours au travail des enfants n’est pas prévu dans le Projet; tous les contrats 
+avec des contractants, des fournisseurs et d'autres tiers financés par des fonds du 
+FIDA comprendront des dispositions interdisant le travail des enfants et favorisant 
+le travail décent ;  
+g)  les mesures incluses dans le plan d'actions pour l'égalité des sexes préparé pour le 
+Projet  sont  entreprises  et  les  ressources  nécessaires  à  leur  mise  en  œuvre  sont 
+mises à disposition en temps utile;  
+h)  toutes  les  mesures  nécessaires  et  appropriées  pour  mettre  en  œuvre  le  plan 
+d'actions en faveur de l'égalité des sexes afin de garantir que les femmes puissent 
+participer et bénéficier équitablement du Projet sont dûment prises ;  
+i) 
+les  mesures  d'atténuation  incluses  dans  la  matrice  du  plan  de  gestion 
+environnementale et sociale soient mises en œuvre ; et 
+j)  un mécanisme de règlement de griefs soit mis en place. 
+8.  Mesures  anticorruption.  L'Emprunteur  doit  se  conformer  à  la  politique  du  FIDA  en 
+matière  de  prévention  de  la  fraude  et  de  la  corruption  dans  le  cadre  de  ses  activités  et 
+opérations. 
+9. Harcèlement sexuel, exploitation sexuelle et abus. L’Emprunteur et les parties au projet 
+doivent s’assurer que le Projet est exécuté conformément aux dispositions de la politique 
+du FIDA en matière de prévention du harcèlement sexuel, de l’exploitation sexuelle et des 
+abus sexuels, qui peut être modifiée de temps à autre. 
+10. Utilisation des véhicules du Projet et autres équipements. L'Emprunteur doit s'assurer 
+que: 
+a)  tous  les  véhicules  et  autres  équipements  achetés  dans  le  cadre  du  Projet  sont 
+affectés exclusivement au Projet et aux autres agents d’exécution et de suivi de la 
+mise en œuvre du Projet;  
+11 
+Appendice I –Annexe 3 
+EB 2021/133/R.30/Rev.1 
+b)  les types de véhicules et autres équipements achetés dans le cadre du Projet sont 
+adaptés aux besoins du Projet; et  
+c)  tous  les  véhicules  et  autres  équipements  transférés  ou  achetés  dans  le  cadre  du 
+Projet sont exclusivement destinés à une utilisation pour le Projet.  
+11. Outil de Suivi des Contrats au sein du portail client du FIDA (ICP). L'Emprunteur doit 
+s'assurer qu'une demande pour accéder à l'outil de suivi des contrats du Projet sur le portail 
+client  du  FIDA  (ICP)  est  envoyée  au  FIDA. L'Emprunteur  doit  s'assurer  que  tous  les 
+contrats, protocoles d'accord, bons de commande et paiements connexes sont enregistrés 
+dans l'Outil de Suivi des Contrats sur ICP en ce qui concerne la passation de marchés de 
+biens, de travaux, de services, de services de conseil, de services autres que de conseil, 
+de contrats  communautaires, de dons et de  contrats de  financement.  L'Emprunteur doit 
+s'assurer  que  les  données  sur  les  contrats  sont  mises  à  jour  sur  une  base  trimestrielle 
+pendant la mise en œuvre du Projet. 
+12 
+Cadre logique 
+Synthèse/Résultats 
+Indicateurs1 
+Moyens de vérification 
+Noms 
+Référence 
+Mi-
+parcours 
+Fin 
+Sources 
+Fréquences 
+Responsabilité 
+Portée: 25 424 ménages ruraux et péri-
+urbains, dont 60% de jeunes, et 50% de 
+femmes), seront associés aux activités 
+de développement agroalimentaires du 
+projet. 
+1.  1. N personnes recevant services 
+promus/soutenus par le projet2 dont: 
+Hommes 
+Femmes 
+Jeunes 
+Handicap 
+Autochtones 
+1.a N de ménages touchés 
+1.b Estimation du nombre total de membres 
+des ménages 
+2.  Augmentation des revenus des jeunes 
+dans leurs activités commerciales 
+agroalimentaires (%)* 
+3.% d’entreprises rurales soutenues 
+déclarant augmentation profits (2.2.2) 3 
+4. N d’emplois nouveaux créés (2.2.1)* 
+5. Volume commercialisés dans les 
+nouveaux partenariats agroindustriels-petits 
+producteurs 
+6. N des relations commerciales tissées 
+entre acteurs agroalimentaires ayant 
+participé dans les foires agroalimentaires  
+7.% de ménages satisfaits des services 
+soutenus par le projet *  
+8. N organisations producteurs ruraux ayant 
+conclu des accords d’approvisionnement 
+avec organismes publics/privés (2.2.3)4 
+Ménages dont connaissances/pratiques de 
+nutrition sont améliorées (1.2.9) 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+10 000 
+25 424 
+5 000 
+5 000 
+6 000 
+200 
+200 
+10 000 
+50 000 
+12712 
+12712 
+15 254 
+500 
+500 
+25 424 
+127 200 
+10 
+30 
+20 
+80 
+740 
+3 650 
+AD 
+AD 
+150 
+315 
+20 
+57 
+80 
+115 
+400 
+1100 
+SSE 
+Semestrielle 
+UGP 
+& FIDA 
+Enquêtes de 
+référence et 
+finale 
+Enquêtes de 
+Effets  
+Enquêtes de 
+Effets  
+(SSE) 
+entreprises et 
+des 
+groupements 
+SSE et Rapport 
+d’activités projet 
+Enquêtes de 
+Effets  
+Enquêtes 
+d’effets  
+Enquêtes 
+d’effets  
+Année 1 et 6 
+UGP 
+Année 3 et 6 
+UGP 
+Année 3 et 6 
+UGP 
+Annuelle 
+(précédant 
+RMP) 
+UGP/Operateurs 
+Année 3 et 6 
+UGP/Op. 
+Année 3 et 6 
+UGP/Op. 
+Année 1,3 et 6 
+UGP/Op. 
+Année 1,3 et 6  
+UGP/Op. 
+But du projet: Contribuer à 
+l’amélioration des conditions de vie et 
+des revenues des population pauvres 
+rurales et péri-urbains  
+Objectif de développement: 
+Promouvoir l’inclusion 
+socioprofessionnelle des jeunes/groupes 
+vulnérables dans activités rentables, 
+d’emplois décents et durables dans des 
+chaines agroalimentaires. 
+Effet 1: les chaines d’approvisionnement 
+agricoles sont renforcés 
+1
+3
+Risques/ 
+Hypothèses 
+Taille de ménage 
+de 5 personnes. 
+H. Bonne 
+capacité de mise 
+en œuvre. 
+H. Programme de 
+réformes FMI se 
+poursuit comme 
+prévu 
+A
+p
+p
+e
+n
+d
+i
+c
+e
+I
+I
+E
+B
+2
+0
+2
+1
+/
+1
+3
+3
+/
+R
+.
+3
+0
+/
+R
+e
+v
+.
+1
+1 Indicateurs de base du Système de Mesure des Résultats Opérationnels (ORMS) avec ses codes. 
+2 Indicateurs à ventiler par sexe: homme adulte (HA), femme adulte (FA) jeune homme (JH) et jeune femme (JF), personnes en situation d’handicap (2%) et peuple autochtones (2% des cibles 
+dans la Lekomou) avec un ciblage croisé d’au moins 40% Femmes et 60% jeunes (60%) sur la base de la marge nette de leurs activités. 
+3 Différencié par micro, petit et moyenne.  
+4 Incluant producteurs individuels qui ne font pas partie des organisations.  
+Synthèse/Résultats 
+Indicateurs1 
+Moyens de vérification 
+Risques/ 
+Hypothèses 
+Noms 
+Référence 
+Mi-
+parcours 
+Fin 
+Sources 
+Fréquences 
+Responsabilité 
+Produit 1 .1: Prestations de service 
+conseil affaires et technique de qualité 
+rendues aux MPME 
+Produit 1.2: Établissement et 
+opérationnalisation des partenariats 
+commerciaux entre petits producteurs et 
+opérateurs agro industriels  
+Produit 1.3: Des marchés sont 
+réhabilités et bien gérés 
+1
+4
+Effet 2: l’environnement habilitant pour 
+le secteur agroalimentaire est amélioré 
+9. N de personnes formées à des 
+activités productrices de revenus ou à 
+la gestion des entreprises (2.1.2)* 
+10. N de plans d’affaires approuvés viables 
+après 3 ans 
+N de plans d’affaires adressant des 
+problématiques nutritionnelles 
+11. N d’organisations de producteurs ruraux 
+soutenues (2.1.3) 
+Ménages recevant un soutien ciblé pour 
+améliorer leur nutrition (1.1.8) 
+12. N de nouveaux partenariats 
+commerciaux conclus  
+13. N de partenariats commerciaux 
+fournissant des services financiers au 
+producteurs   
+14. N installations, transformation, stockage 
+construites/remises en état (2.1.6) 
+15. Plans de gestion des infrastructures des 
+marchés mis en place par les acteurs des 
+marchés 
+16. N de lois/réglementations/stratégies 
+existantes/nouvelles présentées pour 
+approbation/modification (Politique 3)5 
+17.% de personnes déclarant utiliser les 
+services financiers ruraux (1.2.5) 6* 
+Produit 2.1: Les acteurs économiques et 
+sociaux sont représentés et participent 
+activement au dialogue politique et aux 
+organismes nationaux 
+18.% de ménages influençant les décisions 
+des autorités locales et des prestataires de 
+services  
+19. N d’organes locaux multi acteurs 
+professionnels de représentation créés ou 
+dynamisés 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1057 
+2115 
+454 
+957 
+70 
+57 
+130 
+115 
+500 
+1300 
+3 
+3 
+4 
+4 
+1 
+7 
+7 
+8 
+8 
+3 
+UGP/Op. 
+UGP/Op. 
+UGP/Op. 
+UGP/Op. 
+UGP/Op. 
+UGP/Op. 
+SSE et Rapport 
+d’activités projet 
+SSE et Rapport 
+d’activités projet 
+Annuelle 
+(précédant 
+RMP) 
+Annuelle, à 
+partir année 3 
+SSE et Rapport 
+d’activités projet 
+Annuelle, à 
+partir année 3 
+Annuelle 
+(précédant 
+RMP) 
+Annuelle (dès 
+année 2) 
+Annuelle 
+SSE et Rapport 
+d’activités projet 
+SSE et Rapport 
+d’activités projet 
+SSE et Rapport 
+d’activités projet 
+SSE et Rapport 
+d’activités projet 
+SSE et Rapport 
+d’activités projet 
+SSE et Rapport 
+d’activités projet 
+Enquêtes de 
+Effets  
+Annuelle 
+UGP/Op. 
+Annuelle 
+UGP/Op. 
+Annuelle 
+UGP/Op. 
+Année 3 et 6 
+UGP/Op. 
+20 
+40 
+Enquêtes de 
+Effets  
+Année 3 et 6 
+UGP/Op. 
+5 
+8 
+20 
+18 
+Enquêtes de 
+Effets  
+SSE et Rapport 
+d’activités projet 
+Année 3 et 6 
+UGP/Op. 
+Annuelle 
+UGP/Op. 
+H. Règlement 
+permettant la 
+gestion des 
+marchés par les 
+acteurs 
+économiques   
+R. Banques/EMF 
+Congo évitent 
+financement 
+secteur 
+agroalimentaire. 
+H. Gouvernance 
+prêts agro-
+agroalimentaires 
+s’améliore avec 
+réforme 
+A
+p
+p
+e
+n
+d
+i
+c
+e
+I
+I
+E
+B
+2
+0
+2
+1
+/
+1
+3
+3
+/
+R
+.
+3
+0
+/
+R
+e
+v
+.
+1
+5 Défini comme des recommandations des reformes formulés par le dialogue public-privé. Dans les domaines généraux: agriculture contractuelle, bureaucratie des MPME et stratégie de 
+financement des MPME. 
+6 Cet indicateur mesure principalement l’accès au financement des MPMEs y compris en zones périurbaines.  
+Synthèse/Résultats 
+Indicateurs1 
+Moyens de vérification 
+Risques/ 
+Hypothèses 
+Noms 
+Référence 
+Mi-
+parcours 
+Fin 
+Sources 
+Fréquences 
+Responsabilité 
+Produit 2.2: La facilitation et la mise en 
+relation des bénéficiaires du projet avec 
+les acteurs financiers est assurée 
+Produit 2.3: Capacités techniques des 
+institutions financières renforcées pour 
+développer et gérer des services 
+appropriés pour le secteur 
+agroalimentaire 
+20. N de personnes ayant accès à des 
+services financiers dans les zones rurales 
+(1.1.5)4*  
+21. N de prestataires de services financiers 
+appuyés pour diffusion/fourniture produits et 
+services financiers aux zones rurales7 
+(1.1.6)* 
+22 N de groupes partenaires soutenus pour 
+gérer durablement ressources naturelles et 
+les risques liés au climat 
+0 
+0 
+0 
+454 
+957 
+SSE et Rapport 
+d’activités projet 
+Annuelle 
+UGP/Op. 
+4 
+4 
+12 
+12 
+SSE et Rapport 
+d’activités projet 
+SSE et Rapport 
+d’activités projet 
+Annuelle 
+UGP/Op. 
+Annuelle 
+UGP/Op 
+1
+5
+A
+p
+p
+e
+n
+d
+i
+c
+e
+I
+I
+E
+B
+2
+0
+2
+1
+/
+1
+3
+3
+/
+R
+.
+3
+0
+/
+R
+e
+v
+.
+1
+7 Cet indicateur inclut l’accès aux services financières dans les zones peri-urbaines. 
+Appendice III 
+EB 2021/133/R.30/Rev.1 
+Matrice intégrée des risques du projet 
+Substantiel 
+Moyen 
+Moyen 
+Moyen 
+Faible 
+Faible 
+Substantiel 
+Substantiel 
+Moyen 
+Moyen 
+Substantiel 
+Moyen 
+Contexte national 
+Engagement politique 
+Risque: 
+Les élections au Congo se sont déroulées en Mars 2020. 
+Quelques tensions subsistent dans cette période de transition 
+marquée par l’entrée en fonction d’un nouveau Gouvernement. 
+On pourrait craindre un ralentissement de la continuité des 
+services publics lié aux changements des postes et nouvelles 
+nominations au niveau des hauts cadres de l’administration. 
+Mesures d’atténuation: 
+Le FIDA fera le suivi continu de la situation politique, pour assurer 
+que la possible transition du gouvernement n’ait pas un impact sur la 
+mise en œuvre du projet et adoptera des mesures conservatoires en 
+concertation avec le gouvernement 
+Gouvernance 
+Risque: 
+Mauvaise gestion des ressources du projet, menant à la fraude et 
+à la corruption, contraire à la politique tolérance zéro du FIDA. 
+Mesures d’atténuation: 
+Formation et appropriation par l’équipe du projet des politiques anti- 
+corruption du FIDA. Missions conjointes proactives 
+FIDA/Gouvernement  afin de suivre l’application des standards 
+fiduciaires convenus; supervisions deux fois par an et audit une fois 
+par an; comité d’audit; rapportage financier en ligne. 
+Risque: 
+Risque de suspension du portefeuille du FIDA pour le pays à cause 
+des dépenses non éligibles. 
+Mesures d’atténuation: 
+Le portefeuille a été suspendu quasi toute l’année 2018, jusqu’au 
+début de 2019. Les dépenses non éligibles ont été remboursées 
+avant la reprise de la coopération. Une partie des dépenses non 
+éligibles du PDPAC a été compensée par les investissements en 
+natures faits par l’Etat. Le remboursement du reliquat sera une 
+condition au premier décaissement du PAJE. Un suivi financier 
+rapproché permettra d’éviter d’enregistrer plus de dépenses 
+inéligibles. 
+Macroéconomie 
+Risque: 
+Substantiel 
+Substantiel 
+Substantiel 
+Substantiel 
+Les fonds de contrepartie ne sont pas mobilisés, ou ne sont pas 
+décaissés à temps. 
+Mesures d’atténuation: 
+Minimiser la contrepartie du gouvernement dans le budget du projet 
+(ce qui est une pratique standard pour tous les bailleurs multilatéraux 
+actifs au Congo actuellement), mobiliser les partenaires non- 
+gouvernementales. 
+16 
+EB 2021/133/R.30/Rev.1 
+Substantiel 
+Moyen 
+Appendice III 
+Risque: 
+Risque lié aux impacts de la pandémie du Covid-19 sur les chaines 
+d’approvisionnement  agroalimentaires, et l’économie du pays dans 
+son ensemble. . 
+Mesures d’atténuation: 
+Monitorage constant du fonctionnement des marchés alimentaires, des 
+mesures prévues par le Gouvernement et proposition de mesures 
+concrètes pour résoudre les goulots d’étranglements constatés. Pour 
+éviter les contraintes d’accès aux intrants de qualité et aux services de 
+production normalement fournis par les importateurs, qui pourraient 
+être produits par la fermeture des frontières, le projet essaiera de 
+s’appuyer le plus possible sur les fournisseurs nationaux, qui devraient 
+pouvoir assurer la livraison des intrants et produits essentiels. 
+Fragilité et sécurité 
+Risque: 
+Moyen 
+Moyen 
+Faible 
+Faible 
+Insécurité dans les zones d’intervention du projet, et risque de reprise 
+des conflits armés internes. 
+Mesures d’atténuation: 
+Eviter les zones à haut risque, qui sont connues. 
+Stratégies et politiques sectorielles 
+Moyen 
+Faible 
+Alignement des politiques 
+Les stratégies et politiques sectorielles actuelles soutiennent les 
+approches proposés par le projet. 
+Aucun risque 
+anticipé 
+Élaboration et mise en œuvre des politiques 
+Risque: 
+Moyen 
+Sustantiel 
+Faible 
+Moyen 
+Le développement du secteur privé est entravé par la mise en œuvre 
+des politiques d’ajustement structurel qui n’ont pas bénéficié aux 
+MPME. En outre, il y a une absence d’une politique efficace de 
+promotion du secteur privé. 
+Mesures d’atténuation: 
+Le projet financera le dialogue public-privé et le processus de prise de 
+décision ou de changement de réglementation et de politique soit 
+pour soutenir le secteur privé (MPMEs), et pour appuyer l’élaboration 
+de la stratégie nationale d’inclusion financière, en veillant à mettre un 
+accent particulier sur le financement agricole et rural; 
+Contexte environnemental et climatique 
+Vulnérabilité du projet aux conditions environnementales 
+Moyen 
+Moyen 
+Faible 
+Faible 
+17 
+Appendice III 
+Risque: 
+Usage accru de produits phytosanitaires avec des impacts sur les 
+sols et les ressources en eau, et la santé; la contamination des 
+produits lors de la manutention post-récolte, aggravation des 
+conditions environnementales  avec effets négatifs significatifs sur la 
+sécurité alimentaire et nutritionnelle, la productivité agricole, l’accès 
+aux marchés, les filières, les infrastructures ou l’apparition 
+d’organismes nuisibles et de maladies, entraînant une vulnérabilité 
+accrue ou une détérioration des moyens d’existence et des 
+écosystèmes des populations cibles.  
+Mesures d’atténuation: 
+Les risques environnementaux seront atténués par la mise en œuvre 
+de mesures visant à promouvoir: (i) la gestion durable des ressources 
+naturelles (eau et sols); (ii) l’utilisation rationnelle des produits 
+phytosanitaires et des engrais chimiques; (iii) le respect des normes 
+environnementales  dans la réhabilitation des infrastructures de 
+marché, et (iv) la gestion durable des ressources naturelles. Cette 
+dernière mesure se traduira par des investissements majeurs dans la 
+gestion durable des forêts communautaires, la lutte contre l’érosion et 
+le développement de l’agroforesterie. 
+Vulnérabilité du projet aux impacts des changements 
+climatiques 
+Risque: 
+Le changement climatique pourrait avoir des effets négatifs 
+significatifs sur la productivité agricole, l’accès aux marchés, les 
+filières, les infrastructures. Entre ses effets: (i) l’augmentation de la 
+température annuelle moyenne, (ii) instabilité des saisons pluvio- 
+agricoles, (iii) l’augmentation des précipitations dans le nord et le 
+centre du pays, un raccourcissement de la saison sèche dans le nord 
+et le sud-est, l’élévation du niveau de la mer (de 20 à 86 cm d’ici 
+2100) qui pourraient causer la perte de sols propices à l’agriculture, 
+(v) dégradation avancée du couvert végétal due à la culture itinérante 
+extensive de la culture itinérante sur brûlis. 
+Mesures d’atténuation: 
+Les mesures d’atténuation passeront par l’adoption d’un système de 
+production climato- intelligents. Le projet cherchera ainsi à accroître la 
+résilience climatique et environnementale à travers l’utilisation de 
+variétés climato résilientes ainsi qu’une meilleure gestion de l’eau, la 
+promotion de l’agroforesterie, l’accès à l’information climatiques par 
+les producteurs, l’application des normes de construction climato- 
+résilience, le formation et sensibilisation des partenaires du projet sur 
+les risques climatiques. 
+Portée du projet 
+Pertinence du projet 
+Le contexte dans lequel le FIDA interviendra est caractérisé par un 
+haut niveau de fragilité, un taux élevé de chômage des jeunes, 
+pauvreté persistante, et insécurité alimentaire et nutritionnelle. Le 
+PAJE contribuera à attendre les trois priorités du Plan National de 
+Développement (PND) 2018-2022: (a) renforcement de la 
+gouvernance; (b) développement du capital humain; et (c) 
+diversification de l’économie.  
+Solidité technique 
+Risque: 
+18 
+EB 2021/133/R.30/Rev.1 
+Moyen 
+Faible 
+Moyen 
+Moyen 
+Faible 
+Faible 
+Moyen 
+Faible 
+Aucun risque 
+anticipé 
+Moyen 
+Moyen 
+Faible 
+Faible 
+Appendice III 
+EB 2021/133/R.30/Rev.1 
+Risque que le projet ne prenne pas en compte les enseignements 
+tirés des projets antérieurs, en particulier par rapport à leur impact 
+limité dans les maillons des chaines de valeur autres que la 
+production et dans la promotion de la diversification agricole, mais 
+aussi dans la mobilisation de partenaires et prestataires de services 
+compétents. 
+Mesures d’atténuation: 
+Pour pallier au manque d’impact des projets antérieurs, la conception 
+du projet garantit la mobilisation des agro-industriels et du secteur 
+financier, pour faciliter des partenariats avec des petits producteurs et 
+transformateurs. 
+Capacités institutionnelles  d’exécution et de viabilité 
+Modalités d’exécution 
+Risque: 
+Capacités institutionnelles et techniques limitées des petits 
+producteurs et de leurs organisations. 
+Mesures d’atténuation: 
+Inclusion des mesures innovatrices pour améliorer les capacités des 
+petits producteurs et de leurs organisations 
+Substantiel 
+Substantiel 
+Substantiel 
+Moyen 
+Moyen 
+Moyen 
+Risque: 
+Élevé 
+Moyen 
+Capacités limitées des prestataires de service publics et privés. 
+Coordination et communication insuffisantes parmi les ministères 
+pertinents 
+Mesures d’atténuation: 
+Mobilisation des institutions publiques clés (comme l’Institut de 
+Recherche Agricole pour les semences); application des standards 
+élevés pour le recrutement des prestataires de service privés; 
+recherche de synergies avec les investissements des autres bailleurs. 
+Risque: 
+Coordination et communication insuffisantes parmi les ministères 
+pertinents. 
+Mesures d’atténuation: 
+Implication forte du MAEP, Ministère du Plan et Ministère des PMEs 
+dans la préparation du projet, et Comité de Pilotage multi-sectoriel 
+pour la mise en œuvre. Task-force pour le suivi mensuel de 
+l’execution. Le dialogue avec les autres bailleurs actifs dans ce 
+secteur (BAD, BM, UE entre autres) et le dialogue au sein de 
+l’UNDAF pallieront également à ce problème. 
+Risque: 
+La capacité faible de l’équipe du projet a une incidence négative sur 
+l’effectivité du projet et compromet ses objectifs. 
+Mesures d’atténuation: 
+Définition rigoureuse des profils du personnel-clé à recruter; contrats 
+annuels renouvelable selon la performance; implication du FIDA pour 
+garantir des procédures de recrutement orientées sur les 
+compétences. 
+Risque: 
+Retard dans le démarrage du projet. 
+19 
+Sustantiel 
+Moyen 
+Eleve  
+Moyen 
+Moyen 
+Faible 
+Appendice III 
+EB 2021/133/R.30/Rev.1 
+Moyen 
+Moyen 
+Faible 
+Faible 
+Elevé 
+Élevé 
+Élevé 
+Moyen 
+Substantiel 
+Substantiel 
+Mesures d’atténuation: 
+Dans l’absence d’une facilité FIPS, les activités de mise en route du 
+projet sont programmées pour les premier six mois. 
+Suivi-évaluation  des dispositifs 
+Risque: 
+Le projet peut avoir des problèmes de coordination et d’harmonisation 
+des données. Il peut y avoir des difficultés à collecter des données en 
+raison d’une capacité de suivi et d’évaluation plus faible et de 
+problèmes pour collecter et traiter les données de manière appropriée 
+et en temps utile. 
+Mesures d’atténuation: 
+Sur la base des modalités de S/E du FIDA et du système déjà 
+opérationnel des projets en cours du FIDA, un système de S/E basé 
+sur les résultats (RBM) sera établi et géré par l’unité nationale de 
+gestion de projet. Il s’articulera autour d’un ensemble d’indicateurs 
+sélectionnés, décrits dans le cadre logique, en tenant compte des 
+indicateurs clés du FIDA et des indicateurs spécifiques au projet. Le 
+projet renforcera les capacités en matière de suivi et d’évaluation au 
+cours de la première année afin de permettre aux différents acteurs 
+de la mise en œuvre de collecter et de traiter les données. 
+Gestion financière du projet 
+Organisation et dotation en personnel du projet 
+Risque: 
+Faiblesse dans les capacités des ressources humaines disponible au 
+niveau Pays 
+Mesures d’atténuation: 
+Le recrutement du staff se fera sur base compétitive et effectué par un 
+cabinet sur la base de termes de référence préalablement approuvés 
+par le FIDA et d’un appel à candidatures avec la présence d’un 
+observateur. Tous les membres de l’équipe de projet seront soumis à 
+une évaluation externe de performance qui affectera le renouvellement 
+de leur contrat de travail. Un RAF et un(e) comptable seront recrutés 
+au niveau de l’UCG pendant qu’un(e) secrétaire/assistant comptable 
+sera recruté au niveau de l’antenne. Les 
+capacités du staff financier et de la coordination seront renforcés à 
+travers l’apport d’Assistance Technique au démarrage et pendant la 
+mise en œuvre (renforcement des capacités et coaching) et des 
+fréquentes missions d’appui du FIDA. 
+Budgétisation du projet 
+Risque: 
+Substantiel 
+Substantiel 
+Moyen 
+Moyen 
+Le budget ne fait pas l’objet d’un suivi régulière et il n’est pas 
+correctement saisi dans le logiciel comptable 
+Mesures d’atténuation: 
+Un logiciel comptable sera installé au niveau de l’UCG qui permettra 
+le saisi du PTBA et son suivi. L’installation du logiciel, son 
+paramétrage et le training sur son usage constitueront une des 
+conditions pour le premier décaissement. Des états financiers 
+intérimaires seront préparés par le projet et soumis au FIDA sur base 
+trimestrielle et un suivi du budget avec des explications sur les écarts 
+éventuels fera partie des états requis. Le manuel administrative et 
+financier du projet détaillera les procédures et les délais de 
+préparation et soumission du PTBA. 
+20 
+Appendice III 
+EB 2021/133/R.30/Rev.1 
+Flux de fonds et procédures de décaissement du projet 
+Risque: 
+Élevé 
+Élevé 
+Substantiel 
+Substantiel 
+Sur la base des leçons apprises des projets antérieurs, des retards 
+majeurs ont eu lieu dans la mise en œuvre à cause du manque de 
+prestataires de services compétents mobilisés par les projets et le 
+non-décaissement de cofinancements. Le faible taux de justification 
+des avances aux partenaires représente aussi un risque pour le 
+projet. 
+Retards dans le décaissement des fonds FIDA, tensions de trésorerie 
+et retardes dans la transmission des fonds aux centres de coût du 
+projet. 
+Mesures d’atténuation: 
+Pour éviter des blocages au niveau des décaissements, la sélection 
+des institutions financières partenaires et des prestataires de service 
+devra être se faire de toute urgence au démarrage. De plus, les 
+conventions signées avec les partenaires établiront la qualité et les 
+délais de soumission des pièces justificatives qui permettront au 
+projet de soumettre à temps les DRFs au FIDA. 
+Un compte désigné et un compte d’opération seront ouverts à 
+Brazzaville pour recevoir le fonds du FIDA de manière exclusive, 
+pendant qu’un sous-compte d’opération sera ouvert au niveau de 
+l’antenne. Des petites caisses seront établies au niveau de l’UGP et 
+de l’antenne, mais la manipulation d’espèces sera réduite au 
+minimum. 
+Contrôles internes du projet 
+Risque: 
+Un faible système de contrôle interne expose le projet à un risque 
+fiduciaire élevé. 
+Le projet n’est pas en mesure de faire un suivi efficace des fonds 
+confiés à ses partenaire d’exécution et à tracer ces fonds jusqu’aux 
+bénéficiaires finaux du projet spécialement dans le cadre des activités 
+de microfinance. 
+Élevé 
+Élevé 
+Substantiel 
+Substantiel 
+21 
+Appendice III 
+EB 2021/133/R.30/Rev.1 
+Mesures d’atténuation: 
+Le recrutement d’un RAF un comptable et un assistant comptable au 
+niveau de l’antenne, avec l’appui d’un responsable administratif, 
+garantirons un niveau acceptable de séparation fonctionnelle des 
+tâches entre les membres de l’équipe financière. 
+Les conventions seront axés sur les résultats (contrats d’objectifs) 
+avec des systèmes comptables et de gestion financière qui 
+permettent une traçabilité suffisante des fonds reçus du Projet. 
+Chaque convention devra donc prévoir: (a) l’ouverture de la part de 
+chaque partenaire d’un compte bancaire désigné à recevoir 
+exclusivement les fonds du PAJE; (b) un système d’octroi de fonds 
+basé sur de tranches de payement conditionnées au respect des 
+objectifs et à la justification des fonds; (c) des modèles de reporting 
+joints en annexe à chaque convention (d) requis minimum pour la 
+justification des dépenses. Des dispositions spécifiques seront prises 
+par rapport aux CMEC dont une partie des coûts récurrents et 
+d’investissement seront couvert par le projet. Ces institutions et les 
+autres institutions financières partenaires seront appuyées par le 
+Projet afin de pouvoir produire des rapports financiers et de 
+performance de bonne qualité. En outre, les conventions signées 
+avec ces institutions établiront un système de justification des 
+dépenses qui permettra une traçabilité des fonds FIDA jusqu’au 
+bénéficiaire final. Les systèmes de contrôle interne et la comptabilité 
+des CMEC fera l’objet de recommandations de la parte de l’UCN qui 
+se rendra en mission auprès de ces institutions sur base régulière 
+pour évaluer leur performance et renforcer leurs capacités en gestion 
+financières. 
+Information comptable et financière du projet 
+Risque: 
+Les systèmes comptables ne sont pas fiables, et entraînent à des 
+erreurs dans les rapports financiers qui ne sont pas de bonne qualité 
+et remis à temps au FIDA. 
+Mesures d’atténuation: 
+Le projet sera doté d’un logiciel comptable qui lui permettra de 
+produire de manière automatisée tous les rapports financiers requis 
+par le FIDA et de soumettre les DRF directement à partir du logiciel. 
+Des états financiers intérimaires seront produit par le projet et soumis 
+au FIDA sur base trimestrielle. Un exercice d’inventaire sera effectué 
+chaque année. Les modalités de gestion des espèces seront 
+détaillées dans le manuel du projet et les petites caisses feront l’objet 
+de contrôles inopinés sur base mensuelle. Le compte bancaire seront 
+rapprochés sur base mensuelle et un suivi se fera sur tous les écarts 
+constatés. 
+Audit externe du projet 
+Risque: 
+Une surveillance indépendante et compétente des états financiers du 
+projet n’est pas en place ou effectuée dans les délais. 
+Les audits externes du projet n’ont pas accès aux éléments 
+nécessaire pour juger l’utilisation des fonds de la parte des 
+partenaires d’implémentation du PAJE afin de pouvoir exprimer une 
+opinion complète sur l’éligibilité des dépenses du Projet. 
+22 
+Substantiel 
+Substantiel 
+Moyen 
+Moyen 
+Substantiel 
+Substantiel 
+Substantiel 
+Substantiel 
+Appendice III 
+EB 2021/133/R.30/Rev.1 
+Mesures d’atténuation: 
+Les comptes et la gestion du Projet seront vérifiés annuellement par 
+un cabinet d’audit comptable indépendant et qualifié, acceptable pour 
+le FIDA, sur la base de termes de référence préalablement approuvés 
+par le FIDA conformément au manuel d’audit. Les rapports d’audit 
+seront transmis au FIDA au plus tard six mois suivant la clôture de 
+l’exercice fiscal. La non-soumission du rapport d’audit annuel dans ce 
+délai constituera une clause de suspension des décaissements. Les 
+opérations d’audit seront étendues à la gestion de l’antenne régionale 
+du Projet ainsi qu’à la traçabilité des ressources auprès des 
+prestataires de service de façon sélective. Pour assurer ce 
+mécanisme, les principaux partenaires et prestataires devront tenir 
+des comptabilités séparées spécifiques en ce qui concerne les 
+activités financées par le projet. Toutes les institutions financières 
+partenaires de l’UCN devront faire l’objet d’un audit externe de leur 
+états financiers et systèmes de contrôle interne. Les rapport d’audit 
+seront transmis à l’UCN et au FIDA. 
+Passation des marchés relatifs au projet 
+Substantiel 
+Moyen 
+Cadre juridique et réglementaire 
+Risque: 
+Les appels d’offres ouverts sont publiés, mais pas les adjudications. Il 
+n’y a pas encore de publications statistiques sur les passations de 
+marchés publics 
+Mesures d’atténuation: 
+Soutenir le processus pour systématiser la publication des résultats 
+des processus engagés au niveau de la commande publique. 
+Risque: 
+Il n’existe pas un système de suivi des processus de passation des 
+marchés adéquat. 
+Mesures d’atténuation: 
+Améliorer le suivi et mettre en application les dispositions du code de 
+passation des marchés 
+Responsabilité et transparence 
+Risque: 
+Corruption perceptible et reconnu par les acteurs de la commande 
+publique ainsi que du public. 
+Mesures d’atténuation: 
+Plaidoyer pour le fonctionnement réel de l’organe indépendant de lutte 
+contre la corruption pour moraliser la chaîne de dépenses publiques 
+et permettre au pays de quitter la note de 19 (165 pays sur 180) sur 
+l’indice de perception de la corruption noté par Transparency 
+international en 2019. 
+Risque: 
+Les organes pour le traitement des recours existent mais la mise en 
+application des textes et les sanctions font souvent défaut 
+Mesures d’atténuation: 
+Assurer célérité dans le gestion des recours, un traitement équitable 
+des acteurs et une application rigoureuse des lois et règlements. 
+Capacités en matière de passation des marchés publics 
+Risque: 
+Il y a peu de marchés à passer sous le projet, mais il y a un risque lié 
+à une faible connaissance par l’UCP des systèmes pour assurer 
+l’administration et la gestion des processus de passation des 
+marchés. 
+23 
+Élevé 
+Élevé 
+Substantiel 
+Substantiel 
+Substantiel 
+Moyen 
+Élevé 
+Élevé 
+Substantiel 
+Substantiel 
+Substantiel 
+Moyen 
+Moyen 
+Moyen 
+Faible 
+Faible 
+Appendice III 
+EB 2021/133/R.30/Rev.1 
+Mesures d’atténuation: 
+Assurer un processus de recrutement transparent et compétitif, et la 
+mise en place de l’assistance d’un expert international dès le 
+démarrage pour booster la mise en œuvre. 
+Processus de passation des marchés publics 
+Risque: 
+Risque que les processus de passation de marchés et les structures 
+de marché (méthodes, planification, appels d’offres, attribution et 
+gestion des marchés) soient inefficaces ou anticoncurrentiels, 
+entraînant une mauvaise utilisation des fonds du projet ou une mise 
+en œuvre non optimale du projet et une réalisation insuffisante de ses 
+objectifs. 
+Mesures d’atténuation: 
+Le Manuel de passation des marchés du projet sera conforme aux 
+directive FIDA, et la gestion correcte des processus sera assurée par 
+le personnel de l’équipe, mais aussi par l’assistance qui sera recrutée 
+si nécessaire pour appuyer le projet dans les phases plus délicates 
+(élaboration du Manuel, préparation du plan de passation des 
+marchés, etc..). 
+Impact environnemental,  social et climatique 
+Conservation de la biodiversité 
+Risque: 
+Menaces importantes à la biodiversité ou la perte de celle-ci, par les 
+pratiques culturales non-durables (feux de brousse/agriculture sur 
+brûlis) et l’utilisation incontrôlé des pesticides 
+Mesures d’atténuation: 
+Sensibilisation à la limitation des cultures dans l’écosystème sensibles 
+et la promotion des pratiques culturales durables. 
+Efficience des ressources et prévention de la pollution 
+Risque: 
+Mesures d’atténuation: 
+Risque: 
+Pollution des eaux et du sol due à l’utilisation non contrôlée des 
+produits phyto sanitaires liée au développement du maraîchage.; 
+mauvaise gestion des déchets agrochimiques et déchets des marches 
+et centre de collectes. 
+Mesures d’atténuation: 
+Utilisation raisonnée de produits phytosanitaires; Minimisation de 
+l’utilisation d’engrais inorganiques en remplacement d’engrais 
+organiques biodégradables; formation des jeunes aux applications 
+agrochimiques durables en tant qu’entreprise pour promouvoir une 
+chaîne de valeur agricole respectueuse de l’environnement 
+Patrimoine culturel 
+Aucun risque que le projet puisse causer une dégradation importante 
+des ressources culturelles ou physiques, notamment des menaces 
+pour des ressources d’importance historique, religieuse ou culturelle, 
+ou leur perte. 
+Moyen 
+Moyen 
+Faible 
+Faible 
+Moyen 
+Moyen 
+Moyen 
+Faible 
+Faible 
+Faible 
+Moyen 
+Moyen 
+Faible 
+Faible 
+Moyen 
+Faible 
+Aucun risque 
+anticipé 
+Peuples autochtones 
+Moyen 
+Faible 
+24 
+EB 2021/133/R.30/Rev.1 
+Moyen 
+Faible 
+Moyen 
+Moyen 
+Faible 
+Faible 
+Appendice III 
+Risque: 
+Risque que le projet puisse avoir un impact physique, social ou 
+économique négatif important sur les peuples autochtones, ou qu’il 
+entraîne des menaces pour les ressources ayant une importance 
+historique ou culturelle pour eux, ou la perte de ces ressources. 
+Mesures d’atténuation: 
+Le projet cible les ménages très pauvres, qui incluent les peuples 
+autochtones. Ils seront ciblés directement et représenteront au moins 
+deux pour cent des personnes bénéficiant des services promus par le 
+projet. Les interventions du projet sont conformes à la politique du 
+FIDA concernant les peuples autochtones. S’appuyant sur les 
+expériences de l’IPAF, des partenariats seront explorés avec les 
+organisations de peuples autochtones de la région. 
+Conditions de travail 
+Risque: 
+Risque que le projet puisse entraîner des pratiques de travail 
+abusives (par exemple, le travail forcé ou le travail des enfants), des 
+cas de violence sexiste, des conditions de travail discriminatoires et 
+dangereuses/insalubres  pour les personnes employées 
+spécifiquement pour le projet, notamment les tiers et les principaux 
+fournisseurs. 
+Mesures d’atténuation: 
+Tous les contrats avec des entrepreneurs, fournisseurs et autres tiers 
+devant être financés sur les fonds du FIDA comprendront des 
+dispositions interdisant le travail des enfants et promouvant le travail 
+décent. Un plan d’action pour l’égalité des sexes sera élaboré, qui 
+examinera également les mesures de prévention et de lutte contre la 
+violence sexiste. Le projet prévoit de la sensibilisation et des 
+formations pour adresser et mitiger la violence sexiste. Une 
+collaboration sera explorée avec le Ministère de la Promotion de la 
+Femme. Une formation sur des questions telles que l’exploitation et 
+les abus sexuels, le travail des enfants et le travail décent sera 
+dispensée aux partenaires d’exécution au démarrage. 
+Santé et sécurité communautaires 
+ Faible  
+Risque 
+L’accentuation de la pandémie de COVID-19 entrainant des mesures de 
+restriction de mouvement  
+Moyen 
+ Faible 
+Mesures d’atténuation:   
+Intensification de la sensibilisation des communautés sur les mesures 
+barrières et de distanciation sociale   
+Réinstallation et réinsertion économique des populations 
+Aucun risque que le projet puisse avoir un impact physique, social, 
+culturel ou économique négatif important, notamment auprès des 
+groupes qui seront les bénéficiaires directs de PASA-NK du PAJE, du 
+fait de l’acquisition de terres et de la perte involontaire de terres, 
+d’actifs, d’accès aux actifs, de sources de revenus ou de moyens 
+d’existence. 
+Aucun risque 
+anticipé 
+Émissions de gaz à effet de serre 
+Faible 
+Faible 
+25 
+Appendice III 
+EB 2021/133/R.30/Rev.1 
+Faible 
+Faible 
+Moyen 
+Moyen 
+Faible 
+Faible 
+Substantiel 
+Substantiel 
+Substantiel 
+Moyen 
+Moyen 
+Moyen 
+Risque: 
+Augmentation considérablement des émissions de gaz à effet de 
+serre due au processus de transformation des produits 
+agroalimentaires et aux pratiques culturales sur brulis contribuant 
+ainsi aux changements climatiques anthropiques. 
+Mesures d’atténuation: 
+Promotion des activités de valorisation des systèmes agro- 
+écologiques et agroforestiers en partenariat avec le financement 
+parallèle du fonds vert climat 
+Vulnérabilité des populations cibles et des écosystèmes aux 
+fluctuations et aléas climatiques 
+Risque: 
+Impact sur les moyens d’existence et la santé des populations rurales 
+due au condition climatiques extrêmes (sècheresse, vent fort, 
+inondations) 
+Mesures d’atténuation: 
+Le projet en partenariat avec le projet fond vert de la FAO facilitera 
+l’accès à l’information climatiques incluant les mesures d’alerte 
+précoces sur les risques climatiques; formation des bénéficiaires du 
+projet et les prestataires de service (IMF) sur la prise en compte des 
+risques climatiques dans les plans d’affaires et sous projets 
+Parties prenantes 
+Coordination/participation  des parties prenantes 
+Risque: 
+Monopolisation des bénéfices du projet par certaines catégories de 
+bénéficiaires et possibilité d’exclusion de certains groupes 
+vulnérables. 
+Mesures d’atténuation: 
+Sélection rigoureuse des “champions” du secteur privé afin de 
+garantir le ciblage effectif des jeunes, des femmes et des groupes 
+vulnérables. Inclusion d’actions de soutien réservées aux jeunes, aux 
+femmes et aux groupes vulnérables. 
+Sous le PAJE, les objectifs du renforcement de capacité sont plus 
+clairs et les bénéfices plus directs que dans les projets antérieurs du 
+FIDA, à cause de l’intégration dans les filières performantes. De plus, 
+les agro-industriels ont montré un engouement fort pour s’engager 
+avec les petits producteurs. 
+ Risque: 
+Moyen 
+Faible 
+Manque d’intérêt des petits producteurs et transformateurs (et de 
+leurs OP) ainsi que du secteur financier pour participer dans le projet 
+Mesures d’atténuation: 
+Inclusion des activités de dialogue avec le secteur financier dans la 
+Composante 2 du projet et activités de sensibilisation et 
+communication ciblées auprès des OP. 
+Doléances des parties prenantes 
+Le PAJE mettra en place un mécanisme de doléances et de réparation 
+en cohérence avec la procédure du FIDA pour la réception des 
+plaintes afin de pour recevoir et faciliter le règlement des 
+préoccupations et des plaintes formulées pour non-respect présumé 
+26 
+Aucun risque 
+anticipé 
+Appendice III 
+EB 2021/133/R.30/Rev.1 
+des politiques sociales et environnementales et des procédures 
+d’évaluation sociale, environnementale et climatique. 
+27 

@@ -1,0 +1,2118 @@
+Document: 
+Date: 
+Distribution: 
+Original: 
+EB 2020/130/V.B.C.4 
+17 September 2020 
+Public 
+English 
+E 
+President’s report 
+Proposed loan 
+Republic of Ghana 
+Emergency Support to Rural Livelihoods and 
+Food Systems Exposed to COVID-19 
+Project ID: 2000003387 
+Note to Executive Board representatives 
+Focal points: 
+Dispatch of documentation: 
+Deirdre Mc Grenra 
+Chief 
+Institutional Governance and 
+Member Relations 
+Tel.: +39 06 5459 2374 
+e-mail: gb@ifad.org 
+Technical questions: 
+Lisandro Martin 
+Regional Director 
+West and Central Africa Division 
+Tel.: +39 06 5459 2388  
+e-mail: lisandro.martin@ifad.org 
+Hani Abdelkader Elsadani Salem 
+Country Director 
+Tel.: +233 55 255 9489 
+e-mail: h.elsadani@ifad.org 
+For: Approval 
+EB 2020/130/V.B.C.4 
+ii 
+iii 
+1 
+Contents 
+Map of the project area 
+Financing summary 
+I. 
+Context 
+A.  National context and rationale for IFAD involvement .............................1 
+II.  Project description 
+3 
+A.   Objectives, geographical area of intervention and target groups .............3 
+B.  Components, outcomes and activities ..................................................4 
+C.  Theory of change ..............................................................................6 
+D.  Alignment, ownership and partnerships ...............................................6 
+E.  Costs, benefits and financing ..............................................................6 
+III.  Risks 
+8 
+A.  Risks and mitigation measures ...........................................................8 
+B.  Environmental and social category ......................................................8 
+C.  Climate risk classification ...................................................................8 
+D.  Debt sustainability ............................................................................9 
+IV.  Implementation 
+9 
+A.  Organizational framework ..................................................................9 
+B.  Planning, monitoring and evaluation, learning, knowledge  
+  management and communications ......................................................9 
+C.  Implementation plans ...................................................................... 10 
+V. 
+Legal instruments and authority 
+VI.  Recommendation 
+10 
+10 
+Appendices 
+I.   Negotiated financing agreement 
+II.   Logical framework 
+Project delivery team 
+Regional Director: 
+Country Director 
+Technical Lead: 
+Finance Officer: 
+Climate and Environment Specialist: 
+Legal Officer: 
+Lisandro Martin 
+Hani Abdelkader Elsadani Salem 
+Mylene Kherallah 
+Ebele Ikezogwo 
+Rahul Antao 
+Itziar Garcia Villanueva 
+i 
+EB 2020/130/V.B.C.4 
+Abbreviations and acronyms 
+AWP/B 
+ESRF 
+FAO 
+FBO 
+GASIP 
+M&E 
+MoFA 
+ORMS 
+PCU 
+PFJ 
+REP 
+SDG 
+SERRP 
+WFP 
+annual workplan and budget 
+Emergency Support to Rural Livelihoods and Food Systems Exposed to 
+COVID-19 
+Food and Agriculture Organization of the United Nations 
+farmer-based organization 
+Ghana Agricultural Sector Investment Programme 
+monitoring and evaluation 
+Ministry of Food and Agriculture 
+Operational and Results Management System 
+project coordination unit 
+Planting for Food and Jobs 
+Rural Enterprises Programme 
+Sustainable Development Goal 
+socio-economic response and recovery plan 
+World Food Programme 
+ii 
+Map of the project area 
+EB 2020/130/V.B.C.4  
+iii 
+EB 2020/130/V.B.C.4 
+Financing summary 
+Initiating institution: 
+IFAD 
+Borrower/recipient: 
+Republic of Ghana 
+Executing agency: 
+Total project cost: 
+Amount of IFAD loan: 
+Terms of IFAD loan:  
+Ministry of Food and Agriculture 
+US$41.5 million 
+US$20 million  
+50 per cent highly concessional and 50 per cent blend 
+terms 
+Cofinancier:  
+World Food Programme (WFP) 
+Amount of cofinancing: 
+Terms of cofinancing:  
+Food and Agriculture Organization of the United 
+Nations (FAO) 
+Government of Canada 
+WFP: US$2.0 million 
+FAO: US$0.4 million 
+Government of Canada: US$2.6 million 
+The partners will implement their activities in parallel 
+with the Emergency Support to Rural Livelihoods and 
+Food Systems Exposed to COVID-19 (ESRF) 
+initiative, will target the same geographical areas and 
+will benefit the ESRF target group.  
+Contribution of borrower/recipient: 
+US$5.2 million 
+Contribution of beneficiaries: 
+US$11.2 million 
+iv 
+EB 2020/130/V.B.C.4  
+Recommendation for approval 
+The Executive Board is invited to approve the recommendation contained in 
+paragraph 55. 
+I.  Context 
+A.  National context and rationale for IFAD involvement 
+1. 
+2. 
+3. 
+4. 
+5. 
+National context 
+COVID-19’s impact on the IFAD target group. Currently, Ghana is among the 
+countries with the highest number of COVID-19 cases in Western Africa. The 
+number of cases has grown rapidly from 2,014 cases on 1 May 2020 to 43,094 
+cases on 19 August 2020. The disease has spread to all regions of the country and 
+has triggered an economic slowdown. The most recent estimate of the 
+International Monetary Fund is that GDP growth will drop to 1.5 per cent for 2020, 
+resulting in a decline in per capita income and an increase in poverty. The  
+COVID-19 crisis began just when the planting season was starting. The increasing 
+strain on the national budget and drop in revenue could reduce the planned 
+investments in the agricultural sector, resulting in threats to crop production, food 
+security and rural agribusiness linkages.  
+Crop production. The threat to crop production during the crisis and recovery 
+period arises from: (i) the Government’s budgetary constraints, which diminish its 
+ability to support subsidy programmes for the poor; (ii) disruptions in agricultural 
+input supply chains (seeds, fertilizers); (iii) disruptions in marketing linkages, 
+limiting the timely sale of produce and causing cash shortages for smallholder 
+families; (iv) limited access to extension services as a consequence of restrictions 
+on public gatherings; and (v) external price shocks that are reducing the capacity 
+of the market to offtake farmers’ harvests. 
+Food insecurity. The possibility of food insecurity, nutrition deficiencies and 
+hunger during the crisis and recovery period stems from: (i) the threat posed to 
+the production of field crops and vegetables; (ii) the rise in food prices caused by 
+artificial shortages and the closure and/or limitation of the maximum number of 
+people allowed inside food outlets; and (iii) cash shortages that limit people’s 
+ability to purchase sufficient and nutritious food.  
+Agribusiness. Under the current circumstances, there is a risk that agribusinesses 
+may be hesitant to develop or intensify their marketing linkages with smallholders 
+owing to: (i) demand uncertainties resulting from the potential shift in consumers’ 
+dietary habits; (ii) potential reductions in output and profits due to the economic 
+slowdown; and (iii) working capital shortages.  
+Impact on IFAD projects. IFAD supports two ongoing operations in Ghana: the 
+Ghana Agricultural Sector Investment Programme (GASIP) and the Rural 
+Enterprises Programme (REP). There is also a newly approved project, the 
+Affordable Agricultural Financing for Resilient Rural Development Project, and 
+another – Promoting Rural Opportunities, Sustainable Profits and Environmental 
+Resilience – is now at the concept stage. Most ongoing or upcoming  
+IFAD-supported operations are focusing on developing value chain linkages 
+between input suppliers, agribusinesses and targeted households. The current 
+disruptions can weaken the position of all value chain stakeholders, make them 
+risk-averse and diminish their ability to partner with the Fund, thus interfering with 
+the progress of the above-mentioned operations.  
+6. 
+The Government’s response to the crisis. The Ministry of Food and Agriculture 
+(MoFA) intends to supply and subsidize improved seeds and fertilizers to 1.2 million 
+farmers through its Planting for Food and Jobs (PFJ) programme in order to support 
+immediate crop production and mitigate food insecurity risks. Over the last few 
+1 
+EB 2020/130/V.B.C.4  
+years, the PFJ has made clear progress in increasing staple food production 
+(e.g. rice, maize and soya) by supplying improved inputs, strengthening extension 
+services and facilitating marketing linkages. Additionally, to mitigate the impact of 
+the crisis on rural youth, MoFA plans to supply young producers with poultry and 
+small ruminant production inputs (breeding stock, feed, medicines) through the 
+Youth in Agriculture Programme.  
+Special aspects relating to IFAD’s corporate mainstreaming priorities 
+7.  Gender and social inclusion. Since more women than men tend to engage in 
+informal work and vulnerable forms of employment, they can potentially be left out 
+of formal social protection measures targeted at workers. Quarantine measures can 
+also put women at a heightened risk of violence in the home, since they are cut off 
+from protection services and social networks. Census figures indicate that 
+3 per cent of the population of the country has some form of disability. Many 
+persons with disabilities have specific underlying conditions that make COVID-19 
+more dangerous for them, and they may find it harder to keep active and healthy 
+during the COVID-19 crisis, especially if they live in low-income households 
+impacted by food insecurity and nutritional deficits. 
+8. 
+Youth. The Government of Ghana defines “youth” as people from 15 to 35 years of 
+age. The country has a youth bulge, with 57 per cent of the total population below 
+the age of 25. The lack of employment opportunities in rural areas has resulted in 
+an increase in youth migration from rural to urban areas, and COVID-19-related 
+rural youth unemployment is likely to increase. At the same time, job losses in 
+urban areas have triggered an inflow of unemployed youth from urban to rural 
+areas, which is also likely to drive up rural unemployment levels. 
+9.  Nutrition. Overall, 6.1 per cent of the population was undernourished in 2017. 
+Loss of livelihoods and income as a consequence of COVID-19 and the limitation of 
+access to fresh foods and food markets may reduce the intake of nutrient-rich 
+foods. Under conditions of food insecurity, girls and women may reduce their intake 
+of nutrient-rich foods and calories in order to leave more for boys and men. At the 
+same time, the disruption of supply chains for nutrient-rich food and cash 
+shortages can undermine people’s nutritional status.  
+10.  Climate and environment. The average annual temperature in Ghana has risen 
+by 1.0° C since 1960. The number of hot days per year has increased by 
+13.2 per cent, while the number of hot nights per year has increased by 
+20 per cent. Experts have projected that rising temperatures will lower the yields of 
+major staple crops. Delayed or diminished rains in Ghana’s northern areas are 
+likely to cause total crop failure approximately once every five years. Smallholder 
+and subsistence farmers are particularly vulnerable, as they are more exposed to 
+pest and disease outbreaks, droughts (especially in northern Ghana) and extreme 
+weather events, which reduce production and increase food insecurity.  
+Rationale for IFAD involvement 
+11.  A serious threat to crop production and food security and the risk of 
+increased poverty. The COVID-19 crisis has heightened the risk of poor harvests 
+and the threat of food insecurity and poverty among vulnerable groups. The 
+pandemic has also reduced the flow of remittances to rural areas, exacerbating 
+cash shortages that can leave households without enough money to buy food. An 
+International Food Policy Research Institute assessment indicates that household 
+income losses resulting from the initial economic disruptions caused by COVID-19 
+are already substantial, ranging from 19.8 per cent for the poorest households to 
+29.8 per cent for the wealthiest. That assessment also estimates that income 
+losses could cause around 3.8 million Ghanaians to become temporarily poor. Many 
+vulnerable households will remain economically weakened over the next  
+6-12 months, and they will need support to recover, re-engage and restore their 
+productive capacities and income levels.  
+2 
+EB 2020/130/V.B.C.4  
+12.  IFAD’s deep concern about the well-being, livelihoods and food security of 
+poor people. IFAD has designed a response framework for channelling urgent 
+support to Member States though the Rural Poor Stimulus Facility and by 
+repurposing some funding, providing additional financing and organizing 
+emergency operations. The Government of Ghana has already formulated a 
+strategy for supporting rural households and has requested IFAD to support 
+emergency operations to mitigate the threats to production and to the food 
+security and livelihoods of the rural poor and persons with disabilities. 
+13.  Threat to the progress of other IFAD projects. The crisis may make 
+agribusinesses risk-averse and may lead them to reduce their contractual linkages 
+with smallholders (e.g. for pre-financing crop production and buying produce). This 
+situation can adversely impact smallholders’ market participation and their access 
+to finance, technology and support for institutional strengthening. This may hinder 
+the progress of IFAD projects that are structured around developing, expanding 
+and intensifying the commercial linkages between agribusinesses and target 
+households.  
+14.  IFAD’s capacity to provide a fast-track response. IFAD is well placed to 
+deliver fast-track responses to smallholders and vulnerable groups. IFAD has a 
+proven track record in Ghana in building resilience and social cohesion in rural 
+areas, promoting leadership and proactive roles for women and strengthening rural 
+youth employment opportunities. IFAD leads the donors’ agricultural coordination 
+group and is in a strong position to pursue collaborative donor initiatives in 
+complementary areas. The GASIP project coordination unit (PCU), which will also 
+implement the Emergency Support to Rural Livelihoods and Food Systems Exposed 
+to COVID-19 (ESRF), can capitalize on its existing network to fast-track ESRF 
+implementation. 
+15.  Ownership and sustainability of results. The ESRF will partner with the existing 
+rural development programmes of MoFA, such as the PFJ initiative and the Youth in 
+Agriculture Programme, to deliver crop inputs and small ruminants to the 
+beneficiaries. It will also collaborate with other partners in implementing different 
+project activities. For example, it will work with the World Food Programme (WFP) 
+to implement cash transfer and nutrition support activities using existing WFP 
+platforms. Building on the proven delivery mechanisms of existing 
+projects/initiatives will enable the ESRF to achieve quick results by supporting 
+existing solutions. These partnerships will also promote the ownership and 
+sustainability of the results achieved. 
+II.  Project description 
+A.  Objectives, geographical area of intervention and target 
+groups 
+16.  Goal. The ESRF will help to protect the livelihoods and incomes and to build the 
+resilience of the target groups suffering from the impacts of the COVID-19 
+pandemic and climate change. 
+17.  Objective. The ESRF will mitigate the threats to production, food security and 
+market access posed by the COVID-19 pandemic and climate change. 
+18.  Expected results. The ESRF’s expected results are: (i) targeted households will 
+maintain or increase their production, food security and climate change resilience 
+relative to their pre-COVID-19 situation; and (ii) targeted households will maintain 
+or increase their market linkages, sales volumes and income levels from market 
+participation relative to their pre-COVID-19 situation. 
+19.  Project duration. The ESRF’s duration is 18 months. 
+20.  Project outreach. The ESRF will provide services to 50,000 direct beneficiaries in 
+25,000 households. The group of beneficiaries will include equal proportions of 
+3 
+EB 2020/130/V.B.C.4  
+women, men and youth. Persons with disabilities will constitute 5 per cent of the 
+target group.  
+21.  Geographical area of intervention. The ESRF will be implemented at the 
+national level. Its national scope is consistent with the current spread of COVID-19 
+to almost all regions.  
+22.  Value chain support. The ESRF will support investments mainly for maize, rice, 
+soya bean, root and tuber, and small ruminant value chains. Its investments could 
+be expanded to include other value chains, such as those for fruits and vegetables, 
+based on local opportunities. Tree crops will be supported through extension work 
+and marketing activities. 
+23.  Target groups. The direct target group will comprise smallholders, youth, women 
+and persons with disabilities. The smallholders included in this group will come 
+from vulnerable semi-subsistence households that have up to 2 ha of cultivable 
+land and that are at risk of a decline in production, food shortages and nutritional 
+deficiencies as a result of the crisis. Some 50 per cent of the project target group 
+will be composed of rural youth between 18 and 35 years of age and young people 
+who are migrating back from urban areas to their villages because they have lost 
+their jobs. Women, including women heads of household and young mothers with 
+children under 5 years of age, will comprise 50 per cent of the target group. 
+Disadvantaged persons with disabilities will comprise 5 per cent of the target 
+group. This segment of the group will include persons with disabilities from the 
+poorest families experiencing major difficulties in keeping active and healthy during 
+the COVID-19 crisis. 
+24.  Targeting strategy. The ESRF will select beneficiaries by applying a combination 
+of geographical targeting, self-targeting and direct targeting mechanisms. 
+Geographical targeting will be used to identify areas with a higher concentration of 
+vulnerable groups and higher climate change vulnerabilities. In the GASIP areas, 
+the beneficiaries of that ongoing programme have developed linkages to input 
+suppliers and will be eligible for ESRF services other than crop input supplies.  
+Self-targeting will involve restricting the extent of ESRF assistance to levels that 
+are relevant and of interest only to poor target households. For example, the 
+subsidy for inputs offered to households with a maximum of 2 ha of cultivable land 
+will be too small to attract better-off farmers looking for larger support packages. 
+Direct targeting will include cash transfers to vulnerable people such as women 
+heads of household.  
+B.  Components, outcomes and activities 
+25.  The project will have the following components: (i) protecting against hunger and 
+building resilient livelihoods; (ii) safeguarding rural marketing linkages and food 
+security.  
+Component 1: Protecting against hunger and building resilient livelihoods 
+26.  This component will support the efforts of targeted households to maintain or 
+increase their production levels, food security, defences against the COVID-19 
+pandemic and climate change resilience by providing access to quality agricultural 
+inputs and ICT-driven extension services. It will make targeted households less 
+vulnerable to the COVID-19 pandemic by reducing their food insecurity and 
+nutritional deficiencies. It will also support income-generating activities aimed at 
+increasing their cash flow and supporting diversified sources of food and nutrition. 
+27.  Subcomponent 1.1: Secured access to agricultural inputs and food. This 
+subcomponent will: (i) provide 35,000 beneficiaries with timely access to 
+subsidized inputs, in collaboration with the Government’s PFJ programme, to help 
+them increase production levels; (ii) support 5,000 vulnerable beneficiaries, 
+including persons with disabilities, with direct cash transfers and nutritional 
+support, in collaboration with WFP, to overcome hunger and prevent nutritional 
+4 
+EB 2020/130/V.B.C.4  
+deficiencies; (iii) carry out market surveillance, in coordination with WFP in 
+relevant districts, to ensure the smooth supply of food items at a fair price; 
+(iv) help to prevent the spread of COVID-19 by disseminating awareness messages 
+and supplying protective equipment; and (v) strengthen ICT-driven extension 
+services to overcome the challenges posed to conventional extension services by 
+the COVID-19 pandemic. These activities will be implemented in coordination with 
+the Food and Agriculture Organization of the United Nations (FAO) early warning 
+and market surveillance e-systems and e-extension initiatives and the support 
+being provided by the Government of Canada to MoFA to strengthen its capacity to 
+offer digital extension services. 
+28.  Subcomponent 1.2: Income-generating activities and diversification of the 
+food and nutrient supply. This subcomponent will support income-generating 
+activities aimed at increasing the incomes and diversifying the sources of food and 
+nutrition of targeted households. It will support 6,000 women and youth with 
+subsidized breeding stock, inputs (feed, vaccines, etc.) and medicines for poultry 
+and small ruminant production. The ESRF will coordinate the implementation of 
+these activities with FAO’s upcoming project on developing the resilience of 
+smallholder farmers by diversifying their livelihoods into such activities as poultry 
+and small ruminant production. These activities will also improve the nutritional 
+status of target groups by increasing their protein intake.  
+29.  The ESRF will also provide support for the participation of 1,750 women and youth 
+in income-generating activities related to food processing, conservation and 
+preservation (e.g. root and tuber processing). This support will be provided in 
+coordination with WFP and will include training, capacity-building and the supply of 
+small equipment (e.g. dryers, canners, blenders), as preserved food can easily be 
+used as a supplementary source of nutrition during food crises. The ESRF will 
+coordinate with FAO’s upcoming project on household nutrition in response to 
+COVID-19 to educate targeted households about healthy nutritional diets and 
+backyard gardening. The ESRF will also collaborate with the Government of 
+Canada’s initiative to help MoFA to strengthen its capacity to support food 
+preservation and conservation activities for smallholders.  
+Component 2: Safeguarding rural marketing linkages and food security 
+30.  This component will provide support to help targeted households to maintain or 
+increase their market linkages with other value chain actors. The ESRF will connect 
+the target group up with a range of output marketing options and will also support 
+the use of digital marketing platforms. 
+31.  Subcomponent 2.1: Support for output marketing linkages. Under 
+subcomponent 2.1, the National Food Buffer Stock Company, the Ghana 
+Commodity Exchange and agribusinesses will be provided with an incentive in the 
+form of working capital for use in buying surplus stock from 25,000 beneficiaries, 
+including distressed smallholder producers of roots, tubers and tree crops who are 
+facing marketing challenges. The ESRF will reimburse these marketing partners for 
+25 per cent of the amounts they pay to purchase surplus stock from ESRF target 
+households. In coordination with WFP, the ESRF will facilitate output marketing 
+agreements between beneficiaries and marketing partners, training and capacity-
+building for beneficiaries in relation to the use of production technologies and post-
+harvest practices needed to meet the product quality standards required by their 
+marketing partners.  
+32.  Subcomponent 2.2: Support for digital marketing platforms. The ESRF, in 
+coordination with WFP, will help to build the digital marketing capacities of  
+farmer-based organizations (FBOs), strengthen their self-reliance in conducting 
+marketing activities and diversify their output markets. The ESRF will partner with 
+existing digital marketing platforms to support capacity-building for farmers and 
+their integration into existing marketing platforms. The ESRF activities in this 
+5 
+EB 2020/130/V.B.C.4  
+connection will be limited to providing targeted households with introductory 
+exposure to digital marketing initiatives, however. Then, based on the interest and 
+initiative demonstrated by targeted households, future IFAD project(s) will provide 
+follow-up support to strengthen these achievements. The ESRF will collaborate with 
+the Government of Canada’s ongoing programme for strengthening MoFA’s capacity 
+to support digital marketing opportunities for farmers and farmers’ organizations.  
+C.  Theory of change 
+33.  Component 1 will support crop and livestock input supply, ICT-driven extension 
+services, cash transfers, food rations delivery, COVID-19-related awareness 
+campaigns, supplies of personal protective equipment and income-generating 
+activities. These activities will help targeted households to maintain or increase 
+their production, food security and defences against COVID-19. Component 2 will 
+support crop marketing, income assurance and access to digital marketing 
+platforms, which will improve the beneficiaries’ market linkages. The outputs of the 
+two components will support progress towards the ESRF’s objective of mitigating 
+the threats to production, food security, market access and health posed by the 
+COVID-19 pandemic and climate change. 
+D.  Alignment, ownership and partnerships 
+34.  Alignment and ownership. The ESRF is aligned with Sustainable Development 
+Goal (SDG) 1 (no poverty), SDG 2 (zero hunger) and SDG 5 (gender equality), the 
+development strategies of the Government of Ghana and IFAD’s Strategic 
+Framework 2016-2025. The project interventions will help sustain gains made 
+under the current and previous country strategic opportunities programmes with 
+Ghana. The ESRF will also dovetail with the Government’s agricultural plan in 
+response to COVID-19, which spans the period from June 2020 to December 2021. 
+In addition, the ESRF will build on United Nations crisis response mechanisms, 
+including the United Nations Country Team COVID‐19 Strategic Preparedness and 
+Response Plan and the socio-economic response and recovery plan (SERRP) for 
+Ghana. More specifically, the ESRF aligns with the proposed SERRP pillar 2 
+(protecting people, social protection and basic services) and pillar 3 (protecting 
+jobs and economic recovery) of the plan. 
+35.  Synergies and partnerships. The ESRF will partner with MoFA’s PFJ programme 
+to supply subsidized inputs and purchases of surplus produce from beneficiaries. 
+Further, it will coordinate with WFP to carry out cash transfer activities, provide 
+nutrition support to the target group, conduct output marketing surveillance, 
+support income-generating activities, promote smallholders’ output marketing 
+linkages and build FBO digital marketing capacity. The ESRF will also coordinate 
+with upcoming FAO projects on market surveillance, e-extension development, 
+smallholder livelihood diversification, backyard gardening and nutrition education. 
+Additionally, the ESRF will coordinate with the Government of Canada’s initiative to 
+provide support to MoFA for its efforts to strengthen digital extension services, food 
+preservation and conservation activities, and digital marketing opportunities for 
+FBOs. 
+E.  Costs, benefits and financing 
+36.  Project costs: The total cost of the ESRF is estimated at US$41.5 million. 
+Component 1, “Protecting against hunger and building resilient livelihoods”, will 
+require US$33.7 million (81.0 per cent), while component 2, “Safeguarding rural 
+marketing linkages and food security”, will account for US$7.1 million (17.2 per 
+cent). Component 3, “Project management, monitoring and evaluation”, is 
+budgeted at US$0.7 million (1.8 per cent). 
+6 
+Table 1  
+Project cost by component, subcomponent and financier 
+(Millions of United States dollars) 
+Component/subcomponent 
+1. Protecting against hunger and building resilient livelihoods 
+  1.1. Secured access to agricultural inputs and food supply 
+  1.2. Income-generating activities and diversification of food and nutrition supply 
+Subtotal 
+2. Safeguarding rural marketing linkages and food security 
+  2.1. Support for output marketing linkages 
+  2.2. Support for digital marketing platforms  
+Subtotal 
+3. Project management, and monitoring and evaluation (M&E) 
+  3.1. Coordination and M&E 
+Total project costs 
+Table 2 
+Project costs by expenditure category and financier 
+(Millions of United States dollars) 
+7
+Expenditure category 
+I. Investment costs 
+  A. Equipment and materials 
+Equipment 
+Goods 
+Subtotal (equipment and materials) 
+  B. Agricultural inputs and produce 
+  C. Services 
+National technical assistance 
+Training 
+Workshops 
+Consultancies 
+Subtotal services 
+  D. Social and financial support to households 
+Grants 
+Total investment costs 
+II. Recurrent costs 
+  A. Salaries 
+  B. Operation and maintenance 
+Total recurrent costs 
+Total project costs 
+IFAD 
+WFP 
+FAO 
+Government 
+of Canada 
+Government  
+of Ghana 
+Beneficiaries 
+Total 
+Amount 
+%  Amount  %  Amount  %  Amount  %  Amount 
+%  Amount 
+%  Amount 
+% 
+13 828 
+3 808 
+17 636 
+1 543 
+136 
+1 679 
+54.8 
+45.2 
+52.4 
+25.4 
+12.9 
+23.5 
+1 766  7.0 
+200  2.4 
+1 965  5.8 
+210  0.8 
+206  2.4 
+416  1.2 
+1 424  5.6 
+417  4.9 
+1 841  5.5 
+139 
+450 
+590 
+7 887  31.2  25 254 
+0.6 
+5.3 
+8 430 
+3 349  39.7 
+1.8  11 236  33.4  33 683 
+48  0.8 
+9  0.9 
+57  0.8 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+803  76.3 
+803  11.3 
+4 492  73.8 
+105  10.0 
+4 597  64.4 
+- 
+- 
+- 
+- 
+- 
+- 
+6 083 
+1 053 
+7 136 
+685 
+20 000 
+92.2 
+48.1 
+- 
+- 
+2 022  4.9 
+- 
+- 
+416  1.0 
+- 
+- 
+2 644  6.4 
+IFAD 
+WFP 
+FAO 
+Government 
+of Canada 
+Amount 
+%  Amount  %  Amount  %  Amount  %  Amount 
+Government 
+of Ghana 
+Beneficiaries 
+%  Amount  % 
+58 
+743 
+5 245  12.6  11 236  27.0  41 562 
+7.8 
+- 
+- 
+60.8 
+20.3 
+81.0 
+14.6 
+2.5 
+17.2 
+1.8 
+100.0 
+- 
+- 
+1 496  25.0 
+1 496  24.0 
+15 059  55.8 
+1 434  32.9 
+91  20.4 
+68  95.0 
+73  90.0 
+1 666  33.6 
+40  16.5 
+- 
+0.6 
+0.7 
+- 
+40 
+200 
+178 
+- 
+- 
+- 
+178 
+4.1 
+- 
+- 
+- 
+3.6 
+1 506  48.4 
+19 726  47.8 
+1 604  51.6 
+4.9 
+2 022 
+181  100.0 
+93  88.7 
+274  95.8 
+20 000  48.1 
+- 
+- 
+- 
+2 022 
+- 
+- 
+- 
+4.9 
+- 
+- 
+- 
+101 
+- 
+- 
+- 
+0.4 
+210 
+4.8 
+105  23.5 
+- 
+- 
+6.3 
+- 
+- 
+315 
+- 
+416 
+- 
+- 
+- 
+416 
+- 
+1.0 
+- 
+- 
+- 
+1.0 
+168  69.4 
+- 
+2.7 
+- 
+- 
+168 
+- 
+2 263  51.9 
+212  47.4 
+- 
+- 
+- 
+- 
+2 475  49.9 
+- 
+2 644 
+- 
+- 
+- 
+2 644 
+- 
+6.4 
+- 
+- 
+- 
+6.4 
+34  14.1 
+4 487  75.0 
+4 521  72.6 
+- 
+- 
+- 
+1.4  11 236  41.6 
+- 
+- 
+- 
+384 
+6.4 
+277 
+8.8 
+39 
+4 
+5.0 
+8  10.0 
+6.6 
+328 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+5 233  12.7  11 236  27.2 
+- 
+- 
+- 
+- 
+12  11.3 
+4.2 
+12 
+- 
+- 
+- 
+5 245  12.6  11 236  27.0 
+- 
+- 
+- 
+Total 
+Amount 
+% 
+243 
+5 983 
+6 225 
+26 979 
+4 362 
+447 
+72 
+81 
+4 962 
+0.6 
+14.4 
+15.0 
+64.9 
+10.5 
+1.1 
+0.2 
+0.2 
+11.9 
+3 110 
+41 276 
+7.5 
+99.3 
+181 
+105 
+286 
+0.4 
+0.3 
+0.7 
+41 562  100.0 
+E
+B
+2
+0
+2
+0
+/
+1
+3
+0
+/
+V
+.
+B
+.
+C
+.
+4
+EB 2020/130/V.B.C.4 
+Table 3 
+Project cost by component, subcomponent and project year 
+(Millions of United States dollars) 
+Component/subcomponent 
+2020 
+2021 
+2022 
+Total 
+1. Protecting against hunger and building resilient livelihoods 
+  1.1. Secured access to agricultural inputs and food supply 
+  1.2. Income-generating activities and diversification of food and nutrition supply 
+Subtotal 
+2. Safeguarding rural marketing linkages and food security 
+  2.1. Support for output marketing linkages 
+  2.2. Support for digital marketing platforms  
+Subtotal  
+3. Project management, and monitoring and evaluation 
+  3.1. Coordination and M&E 
+Subtotal  
+Total project costs 
+23 085 
+3 916 
+27 001 
+4 835 
+375 
+5 210 
+1 982 
+4 514 
+6 496 
+1 248 
+422 
+1 670 
+- 
+- 
+137 
+137 
+186 
+- 
+186 
+- 
+255 
+255 
+606 
+606 
+25 254 
+8 430 
+33 683 
+6 083 
+1 053 
+7 136 
+743 
+743 
+32 211 
+8 303 
+1 048 
+41 562 
+37.  Financing and cofinancing strategy and plan. The IFAD loan will cover 
+US$20 million of the cost, the Government of Ghana will finance US$5.24 million 
+through taxes, duty exemptions and cash contributions, and beneficiaries will 
+provide US$11.2 million in the form of in-kind and cash contributions. The 
+Government had originally requested US$32 million from IFAD, but this sum was 
+later revised on the basis of subsequent discussions with the Government and a 
+review of the planned pipeline. 
+38.  Additionally, US$2 million in cofinancing will be provided by WFP, US$0.4 million by 
+FAO and US$2.6 million by the Government of Canada. These development 
+partners will implement their activities in parallel in the same geographical areas 
+for the benefit of the ESRF target group. FAO, WFP and the Government of Canada 
+have provided confirmation of their cofinancing arrangements. All of the above will 
+take the form of parallel cash financing under projects that are ongoing or under 
+design. 
+39.  Disbursement. Out of the total project cost, equipment and materials account for 
+US$6.2 million (15 per cent); agricultural inputs and produce are valued at 
+US$27.0 million (65 per cent); services (national technical assistance, training, 
+workshops and consultancies) represent US$5.0 million (12 per cent); and grants 
+to households correspond to US$3.1 million (7 per cent). Total recurrent costs of 
+US$0.3 million represent 0.7 per cent. The project will submit the projected 
+expenditures for a six-month period for the initial withdrawal of funds from the 
+loan. Subsequent withdrawals will be based on net cash requirements. The project 
+will use a cash-based accounting methodology and will submit quarterly interim 
+financial reports on the sources and uses of project funds.  
+40.  Exit strategy and sustainability. The ESRF exit strategy and sustainability are 
+based on three main pillars. First, it will develop strong implementation-level 
+linkages with ongoing and upcoming IFAD projects to ensure the smooth 
+integration of ESRF achievements into the outreach framework of the other IFAD 
+projects. Second, the emergency goods and services to be supplied by the ESRF 
+will be routed through commercial channels in order to develop the capacity for 
+these arrangements to operate on their own if they are needed in the future. Third, 
+the ESRF will work to ensure a high level of outreach for the digital extension and 
+digital marketing services, which will be likely to produce positive results even after 
+the end of the project. 
+7 
+III.  Risks 
+A.  Risks and mitigation measures 
+41.  Key project risks and mitigation measures are presented below. 
+EB 2020/130/V.B.C.4 
+Table 4 
+Risks and mitigation measures 
+Category 
+Country context 
+COVID-19 uncertainties may prompt market 
+actors to engage in profiteering that would 
+trigger an artificial food crisis and a high rate of 
+inflation in food prices.  
+The budgetary constraints that diminish the 
+Government’s ability to support subsidy 
+programmes for the poor could cause food 
+insecurity, especially among the very poor.  
+Inherent risk  Residual risk  Mitigation measures 
+Substantial  Moderate 
+Market surveillance (availability, prices) 
+in project areas 
+Substantial  Moderate 
+Support for crop and small ruminant 
+production, food processing/ 
+preservation activities and cash 
+transfers to vulnerable groups 
+Strict hygiene and sanitization 
+protocols, physical distancing, use of 
+personal protective equipment, digital 
+extension facilitation 
+COVID-19 infections may spread during project 
+activities. 
+High 
+Substantial 
+Environment and climate context 
+Climate change may negatively impact 
+agricultural productivity in project areas.  
+Project scope 
+High 
+Substantial 
+Distribution of drought-resilient, pest-
+resistant seed varieties 
+There is a risk of elite capture. 
+Substantial  Substantial 
+The use of self-, geographical and 
+direct targeting measures to identify 
+vulnerable groups and poor 
+households 
+Procurement 
+A lack of capacity or a failure to adhere to IFAD 
+guidelines may result in a weak regulatory 
+framework and delays. 
+Financial management 
+An insufficient flow of funds and disbursement 
+challenges (especially in the case of 
+counterpart funding) could be exacerbated by 
+the short implementation period.  
+Weaknesses have been identified in internal 
+auditing procedures, including the continuing 
+lack of an internal audit report.  
+Substantial  Moderate 
+Specific training, use of consultancy 
+services to support activities 
+implementation 
+Substantial  Moderate 
+The limitation of government 
+counterpart funding to tax exemptions 
+and activities with existing allocation, 
+such as buying produce from farmers; 
+making the submission of an internal 
+audit report by MoFA a condition for 
+disbursement 
+Overall 
+Substantial  Moderate 
+B.  Environmental and social category 
+42.  Based on an assessment of the main environmental and social issues in the project 
+area and the identification of (positive and negative) social concerns likely to be 
+associated with the ESRF, it has been classified as an environmental and social 
+category B operation. There is no risk of any significant negative impact. 
+Nevertheless, some light mitigation measures will be implemented for input use 
+and farming systems under COVID-19. 
+C.  Climate risk classification 
+43.  A significant portion of the project’s beneficiaries are located in northern Ghana, 
+where the impact of climate change is high. In line with the Social, Environmental 
+and Climate Assessment Procedures of IFAD, the project’s climate risk classification 
+has been deemed to be high. To mitigate this risk, given that the project focus is 
+primarily on input distribution, it is recommended that steps be taken to ensure 
+that the seeds to be distributed are climate-resilient and pest-resistant and that 
+they correspond to highly nutritious varieties of the plants concerned. Similarly, 
+organic fertilizers and crop protection inputs are recommended.  
+8 
+EB 2020/130/V.B.C.4 
+D.  Debt sustainability  
+44. 
+In December 2019, the International Monetary Fund and World Bank jointly 
+assessed Ghana’s overall risk of debt distress as high in view of its high external 
+debt service-to-exports and external debt service-to-revenue ratios. Ghana’s 
+external public debt amounted to an estimated 32 per cent of GDP at end-2019, 
+and the country is at risk of external debt distress owing to its increasingly  
+non-concessional borrowings from multilateral creditors, bilateral creditors and 
+lenders on the international market, as well as COVID-19-related fiscal impacts.  
+IV.  Implementation 
+A.  Organizational framework 
+Project management and coordination 
+45.  The GASIP PCU will implement the ESRF. The PCU is experienced in implementing 
+national projects, organizing the supply of inputs for crop production and 
+coordinating with FBOs and agribusinesses. The PCU works in close coordination 
+with the MoFA and relevant agricultural departments at the regional and district 
+levels. All staff positions are already filled and operational. The PCU has vehicles, 
+equipment and office space to support the ESRF. GASIP performance received a 
+rating of 4 on its two key supervision and implementation support indicators during 
+the last supervision mission. 
+Financial management, procurement and governance  
+46.  The project’s financial management risk is rated as substantial. GASIP’s finance 
+unit, headed by the finance manager and supported by three accountants, will be 
+responsible for the day-to-day fiduciary functions of the ESRF. An assessment done 
+in May 2020 found the capacity of the GASIP finance unit to be satisfactory. Ghana 
+Audit Service will carry out the annual external audits. The ESRF will submit annual 
+audited financial statements to IFAD within six months of the end of the 
+Government of Ghana’s fiscal year (31 December).  
+47.  The PCU will follow advance contracting procedures to ensure that beneficiaries 
+receive timely support, including the inputs they need in time for the planting 
+season. ESRF procurement procedures will follow IFAD’s Project Procurement 
+Guidelines. The project will be subject to the Revised IFAD Policy on Preventing 
+Fraud and Corruption in its Activities and Operations of December 2018. The MoFA 
+will be the Government’s lead agency and will be responsible for oversight of the 
+ESRF. GASIP’s national programme steering committee will be responsible for the 
+ESRF’s overall governance and strategic direction. 
+B.  Planning, monitoring and evaluation, learning, knowledge 
+management and communications 
+48.  The ESRF will use the annual workplan and budget (AWP/B) as its primary planning 
+tool. ESRF progress and performance will be measured against AWP/B targets and 
+periodic impact assessments. Baseline information will be collected from GASIP 
+baseline surveys in project areas. A results-based approach will be adopted 
+through the M&E system. The Operational Results Management System will be 
+incorporated into the M&E system to monitor the different programme indicators. 
+Key M&E activities will include quarterly, semi-annual and annual progress reports, 
+a beneficiaries’ database, outcome studies and a project completion survey.  
+49.  Knowledge management and learning will be addressed in coordination with 
+implementation partners, i.e. the Government, WFP, FAO and the Government of 
+Canada, on a basis of shared responsibility. Success stories, beneficiary 
+testimonials and lessons learned will be captured in the regular progress reports 
+and in separate bulletins where necessary. Knowledge management and lessons 
+learned will be part of the agenda of the review meetings held with financing 
+partners. The items identified for dissemination on a larger scale will be given 
+9 
+EB 2020/130/V.B.C.4 
+visibility through GASIP, MoFA and other financing partners’ knowledge 
+management structures.  
+C.  Implementation plans 
+Implementation readiness and start-up plans 
+50.  The GASIP PCU, which will be responsible for ESRF implementation, is already 
+active, fully staffed, well resourced and networked with government departments, 
+private sector actors, FBOs and community representatives across the country. In 
+coordination with IFAD, the PCU will immediately embark on beneficiary 
+identification routines. The PCU will engage with the National Food Buffer Stock 
+Company, the Ghana Commodity Exchange and agribusinesses to develop a surplus 
+produce purchasing plan for ESRF beneficiaries. The PCU will also enter into 
+partnership discussions with local digital extension and marketing platforms. The 
+cash transfer activities will be implemented in coordination with WFP in the 
+geographical areas where WFP nutrition activities are being implemented. The cash 
+transfers will be managed using SCOPE, which is the WFP corporate digital 
+beneficiary information and transfer management platform. WFP will provide 
+specialized supplies of nutritious food and other fortified foodstuffs to those cash 
+transfer beneficiary households that are also enrolled in WFP’s nutrition programme 
+through the WFP voucher distribution system.  
+Supervision, midterm review and completion plans 
+51.  The ESRF will be supervised directly by IFAD. One supervision mission and one 
+follow-up mission will be undertaken. An implementation support mission will be 
+conducted soon after start-up. Given that 73 per cent of IFAD’s US$20 million loan 
+will be spent on input subsidies and cash transfers, the fiduciary duty of care 
+necessitates careful monitoring of recipient identities and documentation of proof of 
+delivery to the thousands of direct beneficiaries. Financial management supervision 
+missions will therefore have a strong anti-fraud focus and will provide for continual 
+monitoring of the matching grant mechanism and seed/fertilizer utilization, as was 
+done in the February 2020 mission. The MoFA, as the lead project agency, will 
+organize the project completion review and will submit the report to the Fund after 
+the project completion date but no later than the financing closing date. 
+V.  Legal instruments and authority 
+52.  A project financing agreement between the Government of Ghana and IFAD will 
+constitute the legal instrument for extending the proposed financing to the 
+borrower/recipient. A copy of the negotiated financing agreement is attached as 
+appendix I.  
+53.  The Government of Ghana is empowered under its laws to receive financing from 
+IFAD. 
+54. 
+I am satisfied that the proposed financing will comply with the Agreement 
+Establishing IFAD and the Policies and Criteria for IFAD Financing. 
+VI.  Recommendation 
+55. 
+I recommend that the Executive Board approve the proposed financing in terms of 
+the following resolution:  
+RESOLVED: That the Fund shall provide a loan on fifty per cent highly 
+concessional and fifty per cent blend terms to the Republic of Ghana in the 
+amount of twenty million United States dollars (US$20 million) and upon such 
+terms and conditions as shall be substantially in accordance with the terms 
+and conditions presented herein. 
+Gilbert F. Houngbo 
+President 
+10 
+Appendix I 
+EB 2020/130/V.B.C.4 
+Negotiated financing agreement 
+"Emergency Support to Rural livelihoods and Food 
+systems exposed to COVID-19 (ESRF)” 
+(Negotiations concluded on 11 September 2020) 
+Loan No:  
+Loan No: 
+Project  name:  Emergency  Support  to  Rural  livelihoods  and  Food  systems  exposed  to 
+COVID-19 (“the ESRF/ the Project”) 
+Republic of Ghana (the “Borrower”), represented by the Ministry of Finance 
+and 
+The International Fund for Agricultural Development (the “Fund” or “IFAD”) 
+(each a “Party” and both of them collectively the “Parties”) 
+WHEREAS the Borrower has requested two loans from the Fund for the purpose of financing 
+the Project described in Schedule 1 to this Agreement;  
+WHEREAS, the Fund has agreed to provide financing for the Project; 
+NOW THEREFORE, the Parties hereby agree as follows: 
+Section A 
+1. 
+The  following  documents  collectively  form  this  Agreement:  this  document,  the 
+Project Description and Implementation Arrangements (Schedule 1), the Allocation Table 
+(Schedule 2) and the Special Covenants (Schedule 3). 
+2. 
+The  Fund’s  General  Conditions  for  Agricultural  Development  Financing  dated 
+29 April 2009, amended as  of December 2018, and as may be amended hereafter  from 
+time to time (the “General Conditions”) are annexed to this Agreement, and all provisions 
+thereof  shall  apply  to  this  Agreement.  For  the  purposes  of  this  Agreement,  the  terms 
+defined  in  the  General  Conditions  shall  have  the  meanings  set  forth  therein,  unless  the 
+Parties shall otherwise agree in this Agreement. 
+3. 
+The  Fund  shall  provide  two  Loans  (the  “Financing”)  to  the  Borrower,  which  the 
+Borrower shall use to implement the Project in accordance with the terms and conditions 
+of this Agreement. 
+Section B 
+The amount of the Loan eligible for highly concessional terms is ten million United 
+1. 
+States dollars (USD 10 000 000). 
+1 
+Appendix I 
+EB 2020/130/V.B.C.4 
+The amount of the Loan eligible for blend terms is ten million Unites States dollars 
+2. 
+(USD 10 000 000). 
+3. 
+The  Loan  granted  on  highly  concessional  terms  shall  be  free  of  interest  but  shall 
+bear  a  fixed  service  charge  as  determined  by  the  Fund  at  the  date  of  approval  of  the 
+Financing by the Fund’s Executive Board. The rate is fixed for the life of the loan based on 
+the related service charge in force at the time of approval of the Loan. The Loan is payable 
+semi-annually  in  the  Loan  Service  Payment  Currency.  The  Loan  shall  have  a  maturity 
+period of forty (40) years, including a grace period of ten (10) years starting from the date 
+of approval of the Loan by the Fund’s Executive Board. 
+The Loan granted on blend terms shall be subject to interest on the principal amount 
+4. 
+outstanding and a service charge as determined by the Fund at the date of approval of the 
+Loan by the Fund’s Executive Board. The interest rate and service charge determined will 
+be  fixed  for  the  life  cycle  of  the  loan  and  payable  semi-annually  in  the  Loan  Service 
+Payment Currency, and shall have a maturity period of twenty-five (25) years, including a 
+grace period of five (5) years starting from the date of approval of the Loan by the Fund’s 
+Executive Board.   
+5. 
+6. 
+The Loan Service Payment Currency shall be in United States Dollars (USD). 
+The first day of the applicable Fiscal Year shall be the first of January. 
+Payments of principal and service charge shall be payable on each 31 January and 
+7. 
+31 July. 
+8. 
+There shall be a Designated Account in United States dollars, for the exclusive use 
+of the Project opened in the Central Bank of Ghana, which will receive the Financing. Funds 
+shall  be  periodically  transferred  from  the  Designated  Account  to  the  Project  Operational 
+Account for the purpose of financing the Project’s eligible expenditures financed by IFAD. 
+The Borrower shall inform the Fund of the officials authorized to operate the Designated 
+Account. 
+9. 
+The  Borrower  will  provide  counterpart  financing  for  the  Project  in  the  amount  of 
+approximately  US$  5.3  million,  that  includes  taxes  and  duties  exemptions  as  well  as 
+payments  for  purchase  of  surplus  crop  from  target  households  through  existing 
+government channels. 
+Section C 
+The Lead Project Implementing Agency shall be the Ministry of Food and Agriculture 
+1. 
+(MoFA). 
+2. 
+The following are designated as additional Project implementing Partners: the World 
+Food Programme (WFP), the Food and Agriculture Organisation of the United Nations (FAO) 
+the Government of Canada (GoC), the Ministry of Health (MoH), the Ministry of Gender, 
+Children and Social Protection (MoGCSP) and the Ministry of Local Government and Rural 
+Development (MLGRD). 
+3. 
+The Project Completion Date shall be the 18 month anniversary of the date of entry 
+into  force  of  this  Agreement  and  the  Financing  Closing  Date  shall  be 6  months  later,  or 
+such other date as the Fund may designate by notice to the Borrower. 
+2 
+Appendix I 
+EB 2020/130/V.B.C.4 
+Procurement of goods, works and services financed by the Financing shall be carried 
+4. 
+out 
+in  accordance  with  the  provisions  of  the  procurement  section  of  the  Project 
+Implementation  Manual  (PIM),  as  approved  internally  and  shared  by  the  Parties  during 
+negotiations, or any amendments of such PIM provided that such amendment has received 
+IFAD  no  objection  as  well  as  the  Borrower's  procurement  laws,  to  the  extent  such  are 
+consistent with the IFAD Procurement Guidelines. 
+Section D 
+1. 
+The Fund will administer the Financing and supervise the Project, and the Borrower 
+will implement and conduct its own administration and supervision of  the Financing and 
+the Project. 
+Section E 
+The  following  are  designated  as  additional  grounds  for  suspension  of  this 
+1. 
+Agreement:  the  PIM  and/or  any  provision  thereof,  has  been  waived,  suspended, 
+terminated, amended or modified without the prior agreement of the Fund and the Fund, 
+after consultation with the Borrower, has determined that it has had, or is likely to have, 
+a material adverse effect on the Project. 
+2. 
+The  following  is  designated  as  an  additional  general  conditions  precedent  to 
+withdrawal: IFAD no objection to the change in the Project Coordinator, Finance Manager 
+or the Procurement Manager shall have been obtained. 
+3. 
+This Agreement is subject to ratification by the Borrower. 
+The following are the designated representatives and addresses to be used for any 
+4. 
+communication related to this Agreement: 
+For the Republic of Ghana: 
+Chief Director  
+Ministry of Finance 
+Finance Drive, Accra 
+PO Box MB 40 
+Accra 
+Republic of Ghana 
+For the Fund: 
+President 
+International Fund for Agricultural Development 
+Via Paolo di Dono 44 
+00142 Rome, Italy 
+3 
+Appendix I 
+EB 2020/130/V.B.C.4 
+This  Agreement,  [dated  _____],  has  been  prepared  in  the  English  language  in  two  (2) 
+original copies, one (1) for the Fund and one (1) for the Borrower. 
+REPUBLIC OF GHANA 
+Date: ____________ 
+INTERNATIONAL FUND FOR 
+AGRICULTURAL DEVELOPMENT  
+___________________ 
+Gilbert F. Houngbo  
+President 
+Date: ______________ 
+4 
+Appendix I 
+EB 2020/130/V.B.C.4 
+Schedule 1 
+Project Description and Implementation Arrangements 
+I. 
+Project Description 
+Target  Population.  The  ESRF  will  provide  services  directly  to  50,000  smallholder 
+1. 
+beneficiaries from 25,000 households. The beneficiaries will include an equal proportion of 
+women, men and youth. Persons with disabilities will constitute 5 percent of the target group. 
+Smallholders  will  consist  of  vulnerable  semi-subsistence  households  who  have  up  to  2ha 
+cultivable land, and risk a decline in production, food shortages and nutrition deficiency due 
+to the COVID-19 crisis. Geographical targeting will be used to identify areas with a higher 
+concentration of vulnerable groups and higher climate change vulnerabilities as well as those 
+hardest  hit  by  the  COVID-19  crisis.  In  the  GASIP  areas,  the  project  beneficiaries  have 
+developed  linkages  to  input  suppliers  through  GASIP’s  activities.  They  will  be  eligible  for 
+ESRF services other than crop inputs supply. Self-targeting will involve restricting the size of 
+the  ESRF  assistance  to  levels  that  are  relevant  and  of  interest  only  to  targeted  poor 
+households.  For  example;  inputs  supply  (seed  at  80  percent  and  fertilizer  at  50  percent) 
+subsidy to households with maximum 2ha cultivable land. Cash transfers will be restricted 
+to  vulnerable  people  such  as  women  headed  households.  ESRF  will  support  investments 
+mainly  for  maize,  rice,  soya  beans,  roots  and  tubers,  small  ruminants  and  poultry  value 
+chains. Its investments could expand to other value chains, such as fruits and vegetables, 
+based  on  local  opportunities.  Tree  crops  will  be  supported  through  extension  work  and 
+marketing activities. 
+2. 
+Project area. The ESRF will be implemented at the national level (the “Project Area”).    
+Goal. The ESRF will contribute to protecting the livelihoods, incomes, and resilience 
+3. 
+of the target groups suffering from the impacts of the COVID-19 pandemic and climate 
+change. 
+Objective. The ESRF will mitigate the threats to production, food security and market 
+4. 
+access posed by COVID-19 pandemic and climate change. 
+Components.  The  Project  shall  consist  of  the  following  Components:  (i)  Protect 
+5. 
+against hunger and build resilient livelihoods; (ii) Safeguard rural marketing linkages and 
+food security.  
+5.1.  Component 1: Protect against hunger and build resilient livelihoods.This component 
+will  support  the  efforts  of  targeted  households  to  maintain  or  increase  their  production, 
+food security, defence against COVID-19 pandemic and climate change resilience through 
+access  to  quality  agricultural  inputs,  and  ICT  driven  extension  services.  It  will  reduce 
+targeted households' vulnerability to COVID-19 pandemic by reducing food insecurity and 
+nutrition deficiency. It  will also support income generation activities aimed at increasing 
+cash flows and supporting diversified sources of food and nutrition. 
+5.1.1.  Subcomponent  (SC)  1.1:  Secured  access  to  agricultural  inputs  and  food  supply. 
+SC 1.1  will:  i)  provide  35,000  beneficiaries  with  timely  access  to  subsidised  inputs  in 
+collaboration  with  the  GoG’s  Planting  for  Food  and  Jobs  (PFJ)  programme  to  increase 
+production;  ii)  support  5,000  vulnerable  beneficiaries,  including  people  with  disabilities 
+with direct cash transfers and nutritional support, in collaboration with WFP, to overcome 
+hunger and prevent nutritional gaps; iii) carry out market surveillance, in coordination with 
+5 
+Appendix I 
+EB 2020/130/V.B.C.4 
+WFP in relevant districts, to improve the smooth supply of food items at a fair price; iv) 
+strengthen  ICT  driven  extension  services  to  overcome  the  challenges  to  conventional 
+extension  services  caused  by  COVID-19.  These  activities  will  be  implemented  in 
+coordination  with  the  Food  and  Agriculture  Organization’s  (FAO)  e-systems  for  early 
+warning, market surveillance and e-extension initiatives and the Government of Canada’s 
+(GoC) support to MoFA to strengthen MoFA’s capacity to offer digital extension services; 
+and v) contribute to preventing the spread of COVID-19 through awareness messages and 
+supply of protective equipment.   
+5.1.2.  Subcomponent  1.2:  Income  generation  activities  and  diversification  of  food  and 
+nutrition  supply.  SC  1.2  will  support  income  generation  activities;  it  will  increase  the 
+income  and  diversify  the  sources  of  food  and  nutrition  of  targeted  households.  It  will 
+support  6,000  women  and  youth  with  subsidised  breeding  stock,  inputs  (feed,  vaccine, 
+etc.) and medicines for poultry and small ruminants’ production. The ESRF will coordinate 
+the  implementation  of  these  activities  with  FAO’s  upcoming  project  on  developing  the 
+resilience of smallholder farmers by diversifying their livelihoods through activities such as 
+poultry  and  small  ruminants’  production.  These  activities  will  also  improve  the  food 
+nutritional quality of target groups through increased protein intake.  
+The ESRF will also support 1,750 women and youth with food processing, conservation and 
+preservation-based income-generating activities including roots and tubers processing. The 
+support will be implemented in coordination with WFP and will include training, capacity 
+building  and  small  equipment  supply  (e.g.  dryer,  canner,  blender).  Preserved  food  can 
+easily be used as supplementary resources of nutrition during situations of food crisis. The 
+ESRF will also coordinate with FAO’s upcoming project on household nutrition response to 
+COVID-19 for educating targeted households on healthy nutrition and backyard gardening. 
+Likewise,  the  ESRF  will  collaborate  with  the  GoC  support  to  MoFA  to  strengthen  MoFA’s 
+capacity to support food preservation and conservation activities for smallholders.  
+5.2.  Component  2:  Safeguard  rural  marketing  linkages  and  food  security.This 
+component  will  support  the  targeted  households  to  maintain  or  increase  their  market 
+linkages with other value chain actors. The ESRF will link the target group to a range of 
+output marketing options and will also support the use of digital marketing platforms. 
+5.2.1.  Subcomponent  2.1:  Support  to  output  marketing  linkages.  SC2.1  will  provide 
+National Food Buffer Stock Company (NAFCO), the Ghana Commodity Exchange (GCX) and 
+agribusinesses  with  a  working  capital  stimulus  for  buying  surplus  stock  from  25,000 
+beneficiaries  including  distressed  smallholders  facing  marketing  challenges  related  to 
+roots, tubers and tree crops. The ESRF will reimburse these marketing partners with 25 per 
+cent of amounts paid to the ESRF target households for purchasing surplus stock. ESRF in 
+coordination with WFP  will facilitate output marketing agreements between beneficiaries 
+and  marketing  partners,  training  and  capacity  building  of  beneficiaries  on  production 
+technologies  and  post-harvest  practices  needed  to  meet  the  product  quality  standards 
+required by the marketing partners.  
+5.2.2.  Subcomponent 2.2: Support digital marketing platforms. The ESRF, in coordination 
+with  WFP,  will  develop  the  Farmers  Based  Organizations  (FBO)'s  capacities  on  digital 
+marketing, strengthen their marketing self-reliance and diversify their output markets. The 
+ESRF  will  partner  with  existing  digital  marketing  platforms  to  support  farmers  capacity 
+building and integration in these existing marketing platforms. The ESRF will only provide 
+introductory  exposure to the targeted households on digital marketing initiatives.  Based 
+on  the  interest  and  the  initiatives  demonstrated  by  targeted  households,  future  IFAD 
+6 
+Appendix I 
+EB 2020/130/V.B.C.4 
+project(s) will provide follow-up support to strengthen these achievements. The ESRF will 
+collaborate  with  the  GoC  ongoing  programme  to  strengthen  MoFA’s  capacity  to  support 
+digital marketing opportunities for farmers and farmers’ organisations. 
+7 
+Appendix I 
+EB 2020/130/V.B.C.4 
+II. 
+Implementation Arrangements 
+A. 
+Organisation and Management 
+Lead Project Implementation Agency(LPIA). The LPIA shall be the Ministry of Food 
+6. 
+and Agriculture (MoFA). 
+7. 
+Project Steering Committee (PSC).  
+7.1.  Establishment and Composition. GASIP’s Programme Steering Committee will also 
+be responsible for ESRF. The PSC is chaired by the MoFA Chief Director. It has currently a 
+membership  of  the  directors  of  key  MoFA  departments  and  GASIP  National  Programme 
+Coordinator,  as  well  as  representatives  of  the  Ministry  of  Finance,  the  Environment 
+Protection Agency; a Civil Society Organisation and Ghana Agricultural Workers’ Union. To 
+strengthen the PSC capacity to oversee ESRF’s implementation, MoFA will invite additional 
+representatives to the PSC from the national government ministries  and agencies (such 
+as  Ministry  of  Trade  and  Industry,  Ministry  of  Health,  Ministry  of  Gender,  Children  and 
+Social  Protection  and  Ministry  of  Local  Government  and  Rural  Development),  regions  of 
+implementation,  both  public  and  private  institutions  representing  financial  sector 
+intermediaries  and  agricultural  market  intermediaries,  non-state  actors’  representatives 
+(such as NGOs), and representatives of youth and women who operate along the relevant 
+agricultural value chains as practitioners or advocates.  
+7.2.  Responsibilities.  The  main  responsibilities  of  the  steering  committee  will  include: 
+(i) providing  strategic  and  policy  guidance  to  the  Project  Coordination  Unit  (PCU)  for 
+implementation  and  coordination  of  activities;  (ii)  ensuring  overall  conformity  with 
+government  policies  and  strategies;  (iii)  reviewing  Project’s  progress  and  performance; 
+(iv)  approving  the  Annual  Work  Plan  and  Budget  (AWPB);  (v)  resolving  implementation 
+problems or conflicts; and (vi) assisting the PCU in obtaining government assistance and 
+contributions to the Project when needed.  
+8. 
+Technical committee. GASIP’s technical committee will also be responsible for ESRF. 
+The technical committee will oversee planning, review progress, facilitate linkages between 
+project stakeholders and remove bottlenecks affecting smooth implementation. The GASIP 
+technical  committee  currently  includes  the  Director  of  the  Directorate  of  Crop  Sciences 
+(MoFA), Director of the Policy Planning Monitoring and Evaluation Directorate (MoFA), Head 
+of AfDB and IFAD unit (Ministry of Finance); Representative of the National Board for Small-
+Scale Industries (NBSSI), Representative of the Environmental Protection Agency and the 
+National  Programme  Coordinator  (GASIP).  To  strengthen  the  technical  committee’s 
+capacity to oversee ESRF’s implementation MoFA will invite additional representatives to 
+the technical committee drawn from the Ministry of Health (MoH), the Ministry of Gender, 
+Children  and  Social  Protection  (MGSP);  the  Ministry  of  Local  Government  and  Rural 
+Development (MLGRD); and representative of ESRF co-financier (when finalised) as well 
+as any other additional membership that would be deemed necessary. 
+Project Implementation Structure. ESRF will be implemented through the two-level 
+9. 
+organisational  structure,  which  is  currently  in  place  for  managing  GASIP;  namely,  the 
+Project Coordination Unit (PCU) located in Accra and three Zonal Coordination Units (ZCUs) 
+located in the northern belt (Tamale), middle belt (Kumasi) and southern belt (Dodowa). 
+All staff in the PCU and the ZCUs are competitively recruited on a full-time basis. All staff 
+will be managing ESRF in addition to their current responsibilities in managing GASIP. 
+8 
+Appendix I 
+EB 2020/130/V.B.C.4 
+PCU  staff  and  responsibilities.  The  PCU  is  headed  by  the  National  Programme 
+9.1. 
+Coordinator (NPC) and is supported by a Finance Manager (FM), an Infrastructure Manager 
+(IM),  a  Value  Chain  and  Agribusiness  Manager  (VCAM),  a  Programme  Monitoring  and 
+Evaluation  Manager  (PMEM),  a  Climate  Change  Adaptation  Manager  (CCAM)  and  a 
+Procurement Manager (PPM). A gender strategy specialist on need basis  provides inputs 
+to the PCU and the ZCUs on the IFAD mainstreaming areas.   
+9.2.  Zonal Coordination Unit (ZCU). The ZCUs will be responsible for the zonal operations 
+of ESRF in addition to current responsibilities with regard to GASIP. The ZCUs shall carry 
+out  project  implementation  at  the  community  level  with  the  support  of  partners  in  the 
+public  and  private  sectors  (Regional  and  District  Departments  of  Agriculture,  Business 
+Advisory  Centers,  Business  Resources  Centers),  service  providers,  NGOs,  etc.  It  shall 
+monitor and ensure that implementation is coordinated in each community according to 
+these plans leading to harmonisation of resources and interconnectivity of the components. 
+The  key  staff  in  the  three  ZCUs  comprise  two  Monitoring  and  Evaluation  Officers,  three 
+Zonal Value Chain and Agribusiness Officers, three Accountants, one Procurement Officer 
+and one Zonal Infrastructure Officer. The staffing structure above and responsibilities for 
+both the PCU and the three ZCUs are outlined in detail in the PIM (as approved internally 
+and  shared  by  the  Parties  during  negotiations).  Where  changes  to  the  PCU  structure  or 
+staffing, as outlined in the PIM, becomes necessary, they should receive IFAD non objection 
+before they take effect. 
+Planning,  monitoring  and  evaluation,  knowledge  management  and 
+B. 
+communications 
+10.  Monitoring  and  Evaluation.  The  ESRF  will  use  the  Annual  Work  Plan  and  Budget 
+(AWPB) as the primary planning tool. ESRF progress and performance will be measured 
+against AWPB targets and periodic assessments of impact achieved. Baseline information 
+will be collected from GASIP baseline surveys in project areas. A results-based approach 
+will be adopted through the monitoring and evaluation (M&E) system. The Operational and 
+Results  Management  System  (ORMS)  will  be  incorporated  within  the  M&E  system  to 
+monitor  the  different  programme  indicators.  Key  M&E  activities  will  include  progress 
+reports (quarterly, semi-annual and annual), beneficiaries' database, outcome studies and 
+project completion survey. The ESRF will promote visibility and effective flow of information 
+and facilitate exchanges with other projects and agencies and disseminate results. 
+11. 
+ Knowledge Management. ESRF’s KM and learning will be addressed in coordination 
+and  through  shared  responsibility  of  the  co-financing/implementation  partners,  i.e. 
+Government of Ghana, WFP, FAO and Government of Canada. Success stories, beneficiary 
+testimonies and lessons learned will be captured in the regular progress reports as well as 
+separate bulletins where necessary. KM and lessons learned will be a part of the agenda 
+of  the  review  meetings  between  the  financing  partners.  The  items  identified  for  larger 
+publicity will be given visibility through the PCUs ongoing GASIP related KM structure, the 
+MoFA website (particularly the PFJ section) and the KM structures of the other financing 
+partners.  
+9 
+Appendix I 
+EB 2020/130/V.B.C.4 
+C. 
+Procurement and advance contracting  
+Procurement arrangements. Procurement arrangements under ESRF will follow the  
+12. 
+procurement section of the PIM, as approved internally and shared  by the parties during 
+negotiations. 
+Advance contracting. Number of procurement activities have been started ahead of 
+13. 
+ESRF  approval  in  order  to  allow  meeting  critical  timeline  and  support  the  beneficiaries 
+during the growing season. These activities include: 
+i) 
+Procurement starts ahead of ESRF approval, contracts signed and services 
+delivery / supply starts ahead of entry into force of this Agreement; such as supply 
+of seeds and fertilizers. 
+ii) 
+Procurement starts ahead of ESRF approval, contracts signed and services 
+delivery  /  supply  starts  after  entry  into  force  of  this  Agreement;  such  as 
+engagement of a firm to develop content and provide digital extension services. 
+14. 
+All  activities  that  would  be  procured  using  advance  procurement  arrangements 
+should be included in a provisional procurement plan that is subject to IFAD no objection. 
+15. 
+In such cases, for the activities procured using advance contracting to be eligible 
+for  IFAD  financing  after  entry  into  force  of  this  Agreement,  they  should  follow 
+implementation arrangements, set forth in the PIM as approved internally and shared  by 
+the  parties  during  negotiations,  or  any  amended  version  of  the  PIM  provided  that  such 
+amended version has received IFAD no objection. This includes compliance with inter alia 
+procurement arrangements, targeting approach, etc.  
+10 
+Appendix I 
+EB 2020/130/V.B.C.4 
+Schedule 2 
+Allocation Table 
+Allocation of Loan  Proceeds.    The  Table below  sets  forth the Categories of  Eligible 
+1. 
+Expenditures to be financed by the 2 Loans and the allocation of the amounts of the Loans 
+to  each  Category.  The  2  loans,  one  under  highly  concessional  terms  for  an  amount  of 
+USD 10 million and the other on blend terms for an amount of USD 10 million are aggregated 
+in the table below: Project expenditures will be split pari passu across both loans. All eligible 
+expenditures  belonging  to  the  categories  below  will  be  fully  apportioned  to  the  Loans 
+Financing as shown below.  
+Category 
+Loan Amount 
+Allocated in 
+USD 
+Loan Amount 
+Allocated in 
+USD 
+Percentage (net of taxes) 
+I. 
+Goods & Inputs 
+6 776 550 
+6 776 550  100% net of taxes, WFP, 
+GOC and beneficiaries 
+contributions 
+II. 
+Services 
+749 700 
+749 700  100% net of taxes, WFP, 
+III. 
+IV. 
+Grants & 
+Subsidies 
+Equipment & 
+Materials 
+V. 
+Salaries & 
+allowances 
+GOC and beneficiaries 
+contributions 
+677 700 
+677 700  100% net of WFP 
+contributions 
+673 200 
+673 200  100% net of taxes, WFP 
+and GOC contributions 
+122 850 
+122 850  100% net of taxes  
+Unallocated 
+1 000 000 
+1 000 000 
+Total 
+10 000 000 
+10 000 000 
+(a) 
+The terms used in the Table above are defined as follows: 
+I) 
+Category I. includes expenditures related to Agricultural inputs and produce.  
+II)  Category II. includes expenditures related to National Technical Assistance, 
+Consultancies, Trainings & Workshops; 
+III)  Category V. includes expenditures related to Operating Costs 
+11 
+Appendix I 
+EB 2020/130/V.B.C.4 
+Schedule 3 
+Special Covenants 
+In  accordance  with  Section  12.01(a)(xxiii)  of  the  General  Conditions,  the  Fund  may 
+suspend, in whole or in part, the right of the  Borrower to  request withdrawals from the 
+Loan Account if the Borrower has defaulted in the performance of any covenant set forth 
+below,  and  the  Fund  has  determined  that  such  default  has  had,  or  is  likely  to  have,  a 
+material adverse effect on the Project:  
+1. 
+Within six (6) months of entry into force of the Financing Agreement, the Project 
+will customize its own  accounting software to ensure alignment to International Accounting 
+Standards and IFAD's requirements. 
+Indigenous People Concerns. The Borrower shall ensure that the concerns of IPs are 
+2. 
+given due consideration in implementing the Project and, to this end, shall ensure that: 
+(a) 
+(b) 
+the Project is carried out in accordance with the applicable provisions of the 
+relevant IP national legislation; 
+indigenous people are adequately and fairly represented in all local planning 
+for Project activities; 
+IP rights are duly respected; 
+(c) 
+(d) 
+IP communities, participate in policy dialogue and local governance; 
+(e)  The terms of Declarations, Covenants and/or Conventions  ratified by the 
+(f) 
+Borrower on the subject are respected; 
+The Project will not involve encroachment on traditional territories used or 
+occupied by indigenous communities.  
+3. 
+Land tenure security. The Borrower shall ensure that the land acquisition process 
+has  already  been  completed  and  that  compensation  processes  were  consistent  with 
+international best practice and free prior and informed consent principles. 
+4. 
+Compliance  with  the  Social  Environmental  and  Climate  Assessment  Procedures 
+(SECAP).  The  Borrower  shall  ensure  that  the  Project  will  be  implemented  in  compliance 
+with IFAD's SECAP and more specifically that the following measures shall be taken:  
+implemented 
+in  strict  conformity  with 
+Environment  and  Social  Safeguards.  The  Borrower  shall  ensure  that:  (a) all  project 
+activities  are 
+the  Borrower’s  relevant 
+laws/regulations; (b) all Project activities give special consideration to the participation and 
+practices  of  ethnic  minority  population  in  compliance  with  IFAD’s  Policy  on  Indigenous 
+Peoples (2009), as appropriate; (c) proposals for civil works include confirmation that no 
+involuntary land acquisition or resettlement is required under the Project. In the event of 
+unforeseen  land  acquisition  or  involuntary  resettlement  under  the  Project,  the  Borrower 
+shall  immediately  inform  the  Fund  and  prepare  the  necessary  planning  documents; 
+(d) women and men shall be paid equal remuneration for work of equal value under the 
+Project;  (e) recourse  to  child  labour  is  not  made  under  the  Project;  (f) the  measures 
+included  in  the  Gender  Action  Plan  prepared  for  the  Project  are  undertaken,  and  the 
+resources needed for their implementation are  made available, in a timely manner; and 
+(g) all necessary and appropriate measures to implement the Gender Action Plan to ensure 
+that women can participate and benefit equitably under the Project are duly taken. 
+12 
+Appendix I 
+EB 2020/130/V.B.C.4 
+Anticorruption Measures. The Borrower shall comply with IFAD Policy on Preventing 
+5. 
+Fraud and Corruption in its Activities and Operations. 
+6. 
+Sexual Harassment, Sexual Exploitation and Abuse. The Borrower and the Project 
+Parties shall ensure that the Project is carried out in accordance with the provisions of the 
+IFAD Policy on Preventing and Responding to Sexual Harassment, Sexual Exploitation and 
+Abuse, as may be amended from time to time.  
+13 
+Logical framework 
+Indicators 
+Means of Verification 
+Name of Indicator 
+Unit 
+Baseli
+ne 
+Persons  0 
+Source 
+End 
+Target 
+50,000  Project 
+reports 
+Freque
+ncy 
+Semi-
+annual 
+Respons
+ibility 
+PCU 
+Results 
+Hierarchy 
+Outreach 
+ORM
+S No. 
+1. 
+1a 
+1b 
+Number of 
+persons/beneficiaries* 
+receiving services promoted 
+or supported by ESRF 
+Men 
+Women 
+Youth 
+Corresponding number of 
+households reached 
+Estimated corresponding 
+total number of households 
+members**  
+Percentage of households 
+reporting that income was 
+maintained or improved, 
+compared with before the 
+COVID-19 outbreak(same 
+month/period in 2019) 
+Persons  0 
+Persons  0 
+Persons  0 
+0 
+HH 
+25,000 
+25,000 
+25,000 
+25,000 
+Persons  0 
+150,000 
+ percent 
+0 
+70 
+percent 
+End of 
+project 
+PCU and 
+ZCUs 
+Ghana 
+Statistical 
+and 
+health 
+Services/ 
+ESRF 
+surveys/ 
+Completi
+on report 
+1
+4
+Goal:  
+Contribute to 
+Protecting the 
+livelihoods, 
+incomes, health 
+and resilience of 
+target groups 
+suffering from 
+the impacts of 
+the COVID-19 
+pandemic and 
+from climate 
+change. 
+Development 
+Objective: 
+Mitigate the 
+threats to 
+production, food 
+security, market 
+access and 
+health posed by 
+the COVID-19 
+pandemic and 
+climate change 
+Outcome 1 
+Target 
+households’ 
+production, food 
+security, 
+defence against 
+COVID-19 and 
+climate change 
+resilience is 
+maintained or 
+increased 
+Output 1.1 
+Target 
+households’ 
+access to good 
+quality, climate 
+resilient, 
+agricultural 
+inputs and 
+services is 
+established. 
+Output 1.2 
+Target 
+households’ 
+access to food 
+and nutrition is 
+1.2.2 
+1.1.3 
+1.2.4  Percentage of households 
+ percent  0 
+reporting that production 
+was maintained or 
+improved. 
+1.2.8  Percentage of women 
+ percent  0 
+PCU and 
+ZCUs 
+Political 
+stability. 
+Project 
+reports/ 
+Completi
+on report 
+Semi 
+annual 
+and end 
+of 
+project 
+70 
+percent 
+70 
+percent 
+70 
+percent 
+70 
+percent 
+50 
+percent 
+reporting minimum dietary 
+diversity (MDDW) 
+Households with at least 
+one woman 
+Percentage of households 
+reporting that their sales 
+volumes were maintained 
+or improved 
+Percentage of households 
+reporting that the adoption 
+of new/improved inputs, 
+technologies or practices 
+maintained or increased. 
+ percent 
+ percent 
+ percent 
+PCU and 
+ZCUs 
+Project 
+reports/ 
+Completi
+on report 
+Semi 
+annual 
+and end 
+of 
+project 
+ percent 
+ percent 
+Percentage of households 
+accessing improved 
+production inputs and/or 
+technological packages 
+Percentage of households 
+exposed to environmentally 
+sustainable and climate-
+resilient technologies and 
+practices  
+70 
+percent 
+50 
+percent 
+Project 
+reports/ 
+Completi
+on report 
+Semi 
+annual 
+and end 
+of 
+project 
+PCU and 
+ZCUs 
+1.1.8 
+Number of persons 
+provided with targeted 
+support to improve their 
+nutrition  
+HH 
+5,000 
+PCU and 
+ZCUs 
+Project 
+reports/ 
+Completi
+on report 
+Semi 
+annual 
+and end 
+of 
+project 
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+2
+0
+/
+1
+3
+0
+/
+V
+.
+B
+.
+C
+.
+4
+Assumpt
+ions 
+Effective 
+stakehold
+er 
+identificati
+on, and 
+gender/yo
+uth 
+targeting 
+is carried 
+out at the 
+communit
+y level  
+Macro-
+economic 
+condition
+s remain 
+stable or 
+improve. 
+COVID-
+19 
+situation 
+in the 
+country 
+remains 
+stable, 
+possibly 
+improving 
+over time. 
+No major 
+political 
+or social 
+shocks in 
+the 
+region. 
+maintained or 
+improved. 
+Output 1.3 
+1.1.4 
+Capacity to 
+produce and 
+diversify income 
+increased 
+2.1.2  
+1
+5
+Output 1.4 
+Awareness and 
+adoption of 
+preventive 
+measures 
+against the 
+spread of 
+COVID-19 
+increased. 
+Outcome 2 
+Market linkages 
+between 
+smallholder 
+farmers and 
+other value 
+chain actors 
+maintained or 
+improved 
+Output 2.1 
+Marketing 
+partnerships 
+developed 
+Output 2.2 
+Marketing 
+capacity 
+increased 
+Number of persons trained 
+in production practices 
+and/or technologies through 
+e-extension services 
+Number of persons trained 
+in income-generating 
+activities or business 
+management through e-
+extension services 
+Number of persons trained 
+on COVID-19 preventive 
+hygiene and sanitary 
+practices 
+Number of persons 
+supplied with personal 
+protective equipment 
+Persons 
+35,000 
+Persons 
+35,000 
+PCU and 
+ZCUs 
+Project 
+reports/ 
+Completi
+on report 
+Semi 
+annual 
+and end 
+of 
+project 
+Persons 
+30,000 
+Persons 
+30,000 
+PCU and 
+ZCUs 
+Project 
+reports/C
+ompletion 
+report 
+Semi 
+annual 
+and end 
+of 
+project 
+Percentage of households 
+reporting that marketing 
+linkages with 
+agribusinesses maintained 
+or increased 
+ percent 
+50 
+percent 
+PCU and 
+ZCUs 
+Project 
+reports/ 
+Completi
+on report 
+Semi 
+annual 
+and end 
+of 
+project 
+Percentage of households 
+formally linked to markets 
+through contracts with 
+agribusinesses 
+2.2.2  Percentage of supported 
+rural enterprises reporting 
+an increase in profit  
+Percentage of households 
+trained on using electronic 
+marketing platforms  
+Percentage of households 
+regularly accessing 
+electronic marketing 
+platforms  
+ percent 
+/ 
+Househ
+olds 
+ percent 
+ percent 
+ percent 
+ 50 
+percent 
+50 
+percent 
+50 
+percent 
+30 
+percent 
+PCU and 
+ZCUs 
+Project 
+reports/ 
+Completi
+on report 
+Semi 
+annual 
+and end 
+of 
+project 
+PCU and 
+ZCUs 
+Project 
+reports/ 
+Completi
+on report 
+Semi 
+annual 
+and end 
+of 
+project 
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+2
+0
+/
+1
+3
+0
+/
+V
+.
+B
+.
+C
+.
+4

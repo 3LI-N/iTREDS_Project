@@ -1,0 +1,1651 @@
+Document:
+Date:
+Distribution:
+Original:
+EB 2016/LOT/P.12/Rev.1
+26 November 2016
+Public
+English
+E
+President’s report
+Proposed loan and grant to the
+Cooperative Republic of Guyana for the
+Hinterland Environmentally Sustainable
+Agricultural Development Project
+Note to Executive Board representatives
+Focal points:
+Technical questions:
+Dispatch of documentation:
+Ladislao Rubio
+Country Programme Manager
+Latin America and the Caribbean
+Tel.: +39 06 5459 2575
+e-mail: l.rubio@ifad.org
+William Skinner
+Chief
+Governing Bodies Office
+Tel.: +39 06 5459 2974
+e-mail: gb_office@ifad.org
+For: Approval
+EB 2016/LOT/P.12/Rev.1
+ii
+iii
+iv
+1
+1
+1
+2
+3
+3
+3
+4
+4
+4
+4
+5
+5
+6
+6
+6
+6
+7
+7
+7
+8
+8
+9
+9
+9
+10
+10
+Contents
+Abbreviations and acronyms
+Map of project area
+Financing summary
+Recommendation for approval
+I.
+Strategic context and rationale
+A. Country and rural development and poverty context
+B. Rationale and alignment with government priorities and COSOP
+II. Project description
+A. Project area and target group
+B. Project development objective
+C. Components/outcomes
+III. Project implementation
+Approach
+A.
+B. Organizational framework
+C. Planning, monitoring and evaluation, and learning and
+knowledge management
+D. Financial management, procurement and governance
+E. Supervision
+IV. Project costs, financing, and benefits
+A. Project costs
+B. Project financing
+C. Summary benefit and economic analysis
+D. Sustainability
+E. Risk identification and mitigation
+V.
+Corporate considerations
+A.
+B.
+C.
+D.
+Compliance with IFAD policies
+Alignment and harmonization
+Innovations and scaling up
+Policy engagement
+VI. Legal instruments and authority
+VII. Recommendation
+Appendices
+I.
+II.
+Negotiated financing agreement
+Logical framework
+i
+EB 2016/LOT/P.12/Rev.1
+Abbreviations and acronyms
+ASDU
+CTP
+FAO
+IDB
+M&E
+NSC
+P/CIP
+UNDP
+Agriculture Sector Development Unit
+community training plan
+Food and Agriculture Organization of the United Nations
+Inter-American Development Bank
+monitoring and evaluation
+national steering committee
+public/collective investment plan
+United Nations Development Programme
+ii
+EB 2016/LOT/P.12/Rev.1
+Map of project area
+Cooperative Republic of Guyana
+IFAD-funded operations
+iii
+EB 2016/LOT/P.12/Rev.1
+Cooperative Republic of Guyana
+Hinterland Environmentally Sustainable Agricultural
+Development Project
+Financing summary
+Initiating institution:
+IFAD
+Borrower:
+Executing agency:
+Total project cost:
+Amount of IFAD loan:
+Amount of IFAD grant:
+Terms of IFAD loan:
+Cooperative Republic of Guyana
+Ministry of Agriculture
+US$11.15 million
+US$7.96 million
+US$0.5 million
+Blend: Maturity period of 25 years, including a grace
+period of five years, with a fixed interest rate of 1.25 per
+cent per annum plus a service charge of 0.75 per cent
+per annum.
+Contribution of borrower:
+US$2.43 million
+Contribution of beneficiaries:
+US$270,000
+Appraising institution:
+IFAD
+Cooperating institution:
+Directly supervised by IFAD
+iv
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2016/LOT/P.12/Rev.1
+Recommendation for approval
+The Executive Board is invited to approve the recommendation for the proposed
+financing to Cooperative Republic of Guyana for the Hinterland Environmentally
+Sustainable Agricultural Development Project, as contained in paragraph 59.
+Proposed loan and grant to the Cooperative Republic of
+Guyana for the Hinterland Environmentally Sustainable
+Agricultural Development Project
+I. Strategic context and rationale
+A. Country and rural development and poverty context
+1.
+Situated on the northern coast of South America, Guyana borders the Atlantic
+Ocean, Brazil, Suriname and Bolivarian Republic of Venezuela; it belongs to the
+Guiana Shield region, part of the Amazon Biome. Guyana hosts a vast expanse of
+primary tropical forest, freshwater resources and a unique savannah ecosystem. It
+covers an area of 215,000 km2 with a population of 747,883. Indigenous peoples
+account for more than three quarters of the population in regions 8 and 9
+(75.9 per cent and 89.2 per cent, respectively) and about two thirds of the
+population in region 1 (62.2 per cent).
+2.
+3.
+4.
+5.
+The World Bank estimates that Guyana’s GDP, based on the Atlas Method, was
+US$3,763 in 2014. According to the Economist Intelligence Unit, economic growth
+is expected to reach 3.2 per cent in 2016 and 3.7 per cent in 2017 as substantial
+new gold mining projects are launched.
+Agriculture and rural development. Agriculture is a significant contributor to the
+country’s development. It is predominantly undertaken by small-scale farmers and
+indigenous people farming less than 5 ha of land. Cultivated crops include rice
+(90,000 ha), sugar (48,000 ha) and coconut (25,000 ha); non-traditional crops
+occupy between 30,000 and 40,000 ha while 158,473 ha are used for livestock.
+Agricultural products, excluding forest products, make up approximately
+31 per cent of total exports; the main exported commodities are rice and sugar.
+Poverty, nutrition and food security. According to the United Nations
+Development Programme (UNDP), since 1992, the proportion of households living
+in moderate poverty (on US$2 per day) has declined from 43 per cent to
+36.3 per cent, and extreme poverty has dropped from 28.7 per cent to
+19.1 per cent. The outlook remains far less favourable for indigenous peoples,
+77 per cent of whom are poor, and inhabitants of the hinterland, where three out of
+four people are poor.
+Studies show that household food security in hinterland region 9 is compromised;
+the situation worsens during drought and flood seasons. A rising dependence on
+remittances, driven by migration towards mining and logging areas, is negatively
+affecting consumption patterns in indigenous areas. Changes in indigenous peoples’
+diets (which include increased consumption of refined carbohydrates, processed
+foods, sweetened and calorie-dense foods) are likely responsible for the rise in
+chronic diseases in this region.
+6. Main natural resource constraints for agriculture and rural people in
+regions 1 and 9. Agriculture and rural livelihoods in regions 1 and 9 are affected
+by increased variability in rainfall patterns. In region 9, severe floods and prolonged
+dry spells, coupled with a lack of adequate water-management technologies and
+1
+EB 2016/LOT/P.12/Rev.1
+low fertility of the savannah soil, are major challenges for agriculture and livestock.
+In region 1, salt water intrusion is a major impact of climate change, which over
+time will affect arable land and freshwater resources in coastal areas. Climate
+change is affecting the sustainability of established production patterns in both
+regions, and the transition to new production patterns needs to involve greater
+adaptability to changing climatic and economic conditions. This will require access
+to knowledge, investment and technologies for natural resource management,
+which are currently lacking.
+7.
+Economic constraints in regions 1 and 9. The remoteness of regions 1 and 9
+remains a challenge for the generation of business and income-generation
+opportunities. Poor transportation and telecommunication networks limit market
+access and hinder these regions’ integration into the national economy. There is
+also a lack of access to information, technology and energy needed to support
+investments in productive activities, and promote adaptation to changing economic
+and environmental conditions.
+8. Main challenges. Persistent poverty and climate change are severely straining the
+target group’s resilience and social cohesion. The capacity of hinterland
+communities to respond to new economic and environmental challenges is further
+limited by a lack of incentives for investments that reduce economic and climate
+risks.
+9.
+10.
+Opportunities to improve livelihoods of indigenous people and small
+farmers in the project area. Despite these challenges, both regions offer
+opportunities for improving the livelihoods of the target group and generating
+income from agriculture and related activities.
+In the long term, the Ministry of Agriculture intends to strengthen hinterland
+agriculture by moving production away from traditional export products and from
+coastal areas that are vulnerable to salinization. In the short term, consultations
+and field visits in regions 1 and 9 have confirmed that these regions offer: (i) high
+levels of human capital, including education, skills, motivation and entrepreneurial
+attitude; (ii) widespread awareness of the need to improve livelihood strategies to
+adapt to economic, environmental and climate challenges; (iii) appreciation of the
+value of ecosystems and biodiversity; (iv) common land titles, strong community
+governance and familiarity with participatory planning approaches; (v) local
+markets and local public procurement, which provide opportunities for small and
+medium-sized agricultural producers (with little competition from large businesses);
+and (vi) producer groups (including women’s associations) that have established
+partnerships with NGOs and local government agencies.
+B. Rationale and alignment with government priorities and the
+COSOP
+11. The favorable conditions highlighted above provide an opportunity for the project to
+support rural households and communities in identifying and developing value
+chains that generate new income opportunities and contribute to rural livelihood
+diversification. Both regions offer viable opportunities to increase the
+competitiveness, inclusiveness and sustainability of local value chains through
+improvements in natural resources management, production, processing, storage,
+quality-enhancing technologies and smallholder market access. Preliminary
+consultations have identified the following value chains as possible targets for
+development: cassava and its main by-products farine and cassava bread; peanuts,
+fruit and livestock in region 9; and spices such as ginger, turmeric and black pepper
+in region 1.
+12. The project strategy will combine decentralized participatory community
+development, natural resource management and value chain approaches to
+strengthen livelihood resilience by increasing income-generating opportunities,
+2
+EB 2016/LOT/P.12/Rev.1
+access to resilience-building assets and food and nutrition security. This strategy
+will also support an inclusive participatory planning process that strengthens the
+organizational capacities of communities and producer groups, and enhances
+institutional coordination among national and local institutions.
+13. The project is aligned with IFAD’s strategy for Guyana as defined in the country
+strategy note. Previous IFAD projects in Guyana mainly operated in the coastal
+region, focusing on strengthening producers’ capacity and expanding opportunities
+to develop small-scale enterprises. The proposed project applies experience gained
+in previous projects to remote hinterland areas largely populated by indigenous
+peoples. Through this strategy, IFAD supports the Government of Guyana in its
+efforts to bridge the coast-hinterland divide and reduce poverty in isolated rural
+communities.
+II. Project description
+A. Project area and target group
+14. The project will be carried out in all sub-regions of region 9 and in the Mabaruma
+and Moruca sub-regions of region 1. Beneficiaries will be located in approximately
+80 of the 128 communities in regions 1 and 9 (60 communities in region 9 and 20
+communities in region 1). Considering the remoteness, vastness and low population
+density of region 9, a phased implementation approach will be adopted for this
+region. The project will initially focus on North Rupununi in order to capitalize on
+government efforts to exploit this sub-region’s significant agricultural potential.
+Lessons learned from project implementation in North Rupununi will later be applied
+to Central and South Rupununi. The target group will include 6,000 poor
+households, equivalent to 94 per cent of all poor households in the project area. At
+least 15 per cent of these households (900) will be headed by women, reflecting
+the overall proportion of women-headed households in the project area.
+15. These 6,000 households represent approximately 30,000 direct and indirect
+beneficiaries, comprising men and women of different age groups. At least
+75 per cent of project beneficiaries will be from indigenous groups. At least
+30 per cent will be between 15 and 44 years old, and at least 50 per cent will be
+women. As a result of the project’s phased approach, figures for the target
+population may be revised at the midterm review.
+B. Project development objective
+16. The development objective of the project, responding to the priorities identified in
+the country strategy note, is improved livelihood resilience through income
+generation, access to assets, improved nutrition and adaptation to climate
+variability.
+17.
+Livelihood resilience will be strengthened by the following activities:
+(a)
+(b)
+Increasing income-generating opportunities through the identification of
+commodities drives the inclusion of small farmers in markets, increases local
+demand for services and labour, and supports beneficiaries’ inclusive and
+informed participation in market opportunities that improve household
+income.
+Improving access to public goods, knowledge and technologies builds
+community resilience and creates an enabling environment for production
+through: technology, knowledge and information for better planning and
+natural resource management; improved water availability for agriculture and
+human consumption; better soil-management practices; diffusion of
+information and communications technologies; adoption of renewable energy;
+and valuation of agro-biodiversity.
+(c)
+Enhancing food security and nutrition identifies and promotes
+commodities, including crops, fish and forest products that sustainably
+3
+EB 2016/LOT/P.12/Rev.1
+improve household diets and increase nutrition awareness through nutrition
+education and behaviour change activities, including food-based dietary
+guidelines.
+C. Components/outcomes
+18. Component 1. This component aims to support village and community councils
+(in region 9), value chain roundtables (in region 1) and regional development
+councils in planning and prioritizing investments in local value chains1 and resilient
+communities. As a result, communities and producer groups will have strengthened
+capacities to identify investment opportunities and manage economic and climate
+change risks. The main instruments to be developed through this component are
+community production development plans for region 9 and value chain action plans
+for region 1. These medium-term plans will be the basis for developing three types
+of investment plans to be implemented with project support: public/collective
+investment plans (P/CIPs), community training plans (CTPs) and business plans.
+19. Component 2. While component 1 will provide training, studies and
+capacity-building needed to develop investment plans, component 2 will support
+these plans’ implementation. Under component 2, an investment fund will be
+established to finance public and common goods and services, through
+non-reimbursable mechanisms, to be included in each type of investment plan.
+They will comprise: (i) investments that reduce climate and investment risks
+(included in P/CIPs); (ii) training, capacity-building and awareness-raising
+activities, and related research that contributes to a reduction in climate, economic
+and nutritional risks (included in CTPs); and (iii) technical assistance and services
+to support the diffusion of knowledge, technologies and capacities that improve
+livelihood resilience by reducing climate, economic and nutritional risks (included in
+business plans).
+20. Component 3. The third component will establish management and administrative
+procedures, including accounting and auditing, monitoring and evaluation
+mechanisms in accordance with IFAD and national guidelines. Evidence-based
+knowledge products will be developed on the basis of project experience in order to
+extract lessons and best practices, scale up innovative solutions and achieve better
+outcomes and greater impact from development resources.
+III. Project implementation
+Approach
+A.
+21. The project strategy aims to improve the target group’s livelihood resilience by
+addressing major risks arising from contextual challenges in the project area. Since
+natural resources and local governance systems are threatened by these economic
+and environmental risks, in order to strengthen the resilience of target
+communities, the prioritization of opportunities and the planning of investments and
+activities will be carried out through a participatory process, which will include local
+actors and governing bodies.
+B. Organizational framework
+22. The lead agency for the implementation of the hinterland project will be the
+Ministry of Agriculture through its Agriculture Sector Development Unit (ASDU). For
+activities such as consultative village planning, agricultural technology transfer,
+technical assistance, natural resource management and regional investment
+planning, the Ministry of Agriculture will be assisted by the Ministries of Indigenous
+People’s Affairs, Natural Resources, Communities and Business, other government
+agencies, NGOs, community-based organizations, academia and individual service
+providers.
+1 In region 1, there is also significant potential for developing linkages to international markets; this is particularly true for
+spices such as ginger and turmeric.
+4
+EB 2016/LOT/P.12/Rev.1
+23. The project management unit will comprise an office at the Ministry of Agriculture in
+Georgetown and regional offices in regions 1 and 9. A national steering committee
+and regional management committees will be established to provide policy
+direction, support implementation, advise on annual workplans and budgets, and
+encourage collaboration among stakeholders.
+C. Planning, monitoring and evaluation, and learning and
+knowledge management
+24. The project will provide support to strengthen the capacity of the Ministry of
+Agriculture’s Monitoring and Evaluation (M&E) Unit and ensure that project
+monitoring is linked to the Ministry’s performance monitoring and Agriculture
+Strategy indicators. M&E will be conducted using a participatory approach; data
+collection will be kept simple and brief, focusing on the reliability and usefulness of
+collected data. Evidence-based knowledge products will be developed to extract
+lessons and best practices from project experiences, replicate innovative solutions,
+maximize outcomes and impact from development resources, and disseminate
+knowledge to support national, regional and local decision-making and policy
+processes. A baseline study will be carried out immediately following the approval
+of the financing agreement and before implementation.
+D. Financial management, procurement and governance
+25. Financial management. Financial management and procurement for the project
+will be undertaken by ASDU, which has adequate capacity, an appropriate
+accounting system and extensive experience in implementing internationally funded
+projects, including the IFAD-funded Rural Enterprise and Agricultural Development
+Project. A qualified finance officer will be recruited through a competitive process as
+a condition of disbursement for the loan and grant. Due to the remoteness of
+project areas, an administrative/finance officer will be recruited at each regional
+office through a competitive process and will be responsible for performing
+administrative and basic accounting functions.
+26. Flow of funds. The borrower will open a designated account in United States
+dollars in the Central Bank of Guyana exclusively for the loan and grant, in which
+advance funds will be deposited and from which funds will be transferred to the
+project operational account in Guyanese dollars.
+27. Retroactive financing. As an exception to section 4.08(a)(ii) of the General
+Conditions for Agricultural Development Financing, specific eligible expenditures
+incurred from the date of approval by the Executive Board until the date of entry
+into force of the financing agreement will be considered eligible up to the amount of
+US$300,000 in accordance with and as specified in the financing agreement. These
+eligible expenditures will consist of the costs related to: the detailed value chains
+study for spices in region 1; a state of food and agriculture study in the Mabaruma
+and Moruca sub-regions of region 1; and the hiring of personnel.
+28. Procurement. Procurement of goods and services will be carried out by ASDU in
+line with national regulations, IFAD’s Project Procurement Guidelines and the
+provisions of the financing agreement. A procurement officer, exclusively assigned
+to the hinterland project, will be hired by ASDU.
+29. Audit. Annual consolidated financial statements for the project will be
+independently audited pursuant to the agreed terms of reference and in accordance
+with International Standards on Auditing and IFAD's guidelines on project audits. In
+line with the 2004 Guyana Audit Act, the Auditor General shall be responsible for
+conducting financial, compliance, performance and value-for-money audits of the
+accounts of all projects funded by loans or grants from any foreign state or
+organization. The Guyana Auditor General Audit Office will audit the project
+financial statements. Annual audit reports will be submitted to IFAD within six
+months of the end of each fiscal year.
+5
+EB 2016/LOT/P.12/Rev.1
+E. Supervision
+30.
+IFAD will directly supervise the project, complemented by implementation-support
+missions. One supervision mission will be planned each year. The first supervision
+mission, undertaken approximately six months after project effectiveness, will
+monitor progress against the timeframe defined in the implementation plan, and
+will assess fiduciary aspects, expenditures, counterpart contributions of funds and
+compliance with the financing agreement. Implementation-support missions will be
+planned to cover the issues recommended by supervision missions.
+IV. Project costs, financing, and benefits
+A. Project costs
+31. The total cost of the project is US$11.14 million over a period of six years. Of this
+total, US$10.54 million (95 per cent) are baseline costs and US$610,000 (5 per cent)
+are physical and price contingencies.
+Table 1
+Project costs by component and financier
+(Thousands of United States dollars)
+Component
+Amount
+%
+Amount %
+Amount
+%
+Amount
+%
+Amount
+IFAD loan
+IFAD grant
+Beneficiaries
+Borrower/
+counterpart
+Total
+1. Strengthening of
+community's and
+producer groups'
+investment planning
+2. Implementation of
+investment plans
+3. Project and
+knowledge
+management, and
+coordination
+Total
+2 142
+4 755
+1 055
+7 952
+71
+77
+54
+71
+247
+8
+637
+265
+4
+1 139
+253
+500
+13
+4
+265
+2
+650
+2 426
+21
+18
+33
+22
+3 025
+6 159
+1 959
+11 143
+B. Project financing
+32. The project will be financed by: (i) the Government, which will provide
+US$2.43 million in cash and in-kind – equal to 22 per cent of the total cost;
+(ii) IFAD in the amount of US$8.45 million (total performance-based allocation
+system (PBAS) allocation 2016-2018), 76 per cent of the total cost, including a loan
+of US$7.95 million and a grant of US$500,000; and (iii) beneficiaries, who will
+contribute US$270,000 – 2 per cent of the total cost. Some of the categories of
+expenditure indicated in table 2 below may be merged in the financing agreement.
+Table 2
+Project costs by expenditure category and financier
+(Thousands of United States dollars)
+IFAD loan
+IFAD grant
+Beneficiaries
+Borrower/
+counterpart
+Total
+Total
+Expenditure category
+Amount
+%
+Amount %
+Amount % Amount
+%
+Amount
+1. Vehicles and equipment
+2. Training
+3. Consultancy services
+4. Grants (for sub-projects)
+5. Salaries
+6. Operating expenses
+Total
+188
+614
+2 904
+3 202
+534
+510
+7 952
+84
+84
+66
+78
+50
+84
+71
+500
+11
+265
+6
+36
+117
+982
+660
+534
+97
+500
+4
+265
+2
+2 426
+16
+16
+22
+16
+50
+16
+22
+6
+224
+731
+4 385
+4 128
+1 068
+607
+%
+2
+7
+39
+37
+10
+5
+11 143
+100
+EB 2016/LOT/P.12/Rev.1
+C. Summary benefit and economic analysis
+33. Financial analysis. To verify the financial viability of project activities, the flow of
+annual incremental net benefits was calculated over a period of ten years, both for
+rural households’ agricultural production and for producer groups’ enterprises. All
+models confirmed increases in benefits, family net income, sales and labour.
+Financial viability was positive in all models, with financial internal rates of return
+between 23 per cent and 312 per cent.
+34. Economic analysis. Economic viability indicators are positive, with an economic
+internal rate of return of 21 per cent and an expected net present value of
+US$6.97 million. Viability indicators are not highly sensitive to the reduction of
+benefits and to delays in obtaining them; these indicators are moderately sensitive
+to cost increases.
+D. Sustainability
+35. Political and institutional sustainability. The project is aligned with the national
+policy framework, which: highlights the development of hinterland agriculture;
+seeks to reduce the poverty and isolation of indigenous communities; and supports
+the adoption of environmentally sustainable development. Coordination between
+national government agencies and local authorities is already taking place in region
+9, and the project will contribute to dialogue and coordination between government
+agencies, indigenous communities, international donors and civil society
+organizations operating in hinterland areas.
+36. Sustainability, upscaling and replication. Previous IFAD projects in Guyana
+mostly concentrated on coastal areas and communities. This project builds upon
+and adapts IFAD’s approach to the unique conditions in the hinterland, and paves
+the way for replication and scaling up in other remote areas of the country with
+similar conditions. Of particular relevance is the phased implementation approach
+adopted for region 1, where a state of food and agriculture study will be conducted
+in the first year of the project. The knowledge and lessons learned in Mabaruma
+and Moruca sub-regions can be used to replicate the project in other areas of
+region 1. Using a participatory planning approach, the project will build upon the
+planning capacity developed in villages that have already established community
+development plans, and it will strengthen skills and capacities for climate- and
+nutrition-sensitive planning.
+37. Food security and nutritional quality. Awareness-raising activities and training
+materials on nutritional quality will also be created through the project.
+38. Environmental sustainability. The adoption of climate-resilient measures such as
+the identification of drought-tolerant and climate-resilient crop varieties, and the
+definition of climate-proof agricultural technologies will sustain productivity and
+quality improvements. The state of food and agriculture study in region 1 will fill
+the knowledge gap on environmental and socio-economic conditions in the region,
+thus contributing to better planning.
+E. Risk identification and mitigation
+39. The risks identified during the project design include economic risks,
+climate-change risks, social risks and institutional risks.
+40. Economic risks include excessive specialization and competition for labour from
+other sectors. These risks will be mitigated through training and support activities
+that build awareness of specialization risks and help communities and producers’
+groups to integrate new income-generating activities into diversified livelihood
+strategies. The project will promote the strengthening of local value chains and
+increase access to information needed for target households’ equitable participation
+in agricultural markets. It will also provide technical assistance and investment
+incentives to maximize incomes and employment.
+7
+EB 2016/LOT/P.12/Rev.1
+41. Climate-change risks will be addressed through support for investments in public
+and collective goods included in P/CIPs and CTPs that increase access to
+knowledge, technology and information for improved water and natural resource
+management. The project will promote the adoption of good natural resource
+management practices and measures for adapting to climate change within
+business plans. Business plans will also include mitigation strategies to reduce the
+negative effects of productive specialization on climate change resilience and
+nutrition through the use of agro-biodiversity and the diversification of livelihoods.
+42. Social risks will be reduced through the adoption of free, prior and informed
+consent plans, and by strengthening participatory community planning. The
+participation of vulnerable groups, including women and youth, will be promoted
+through the targeting strategy, the inclusion of skills development and training for
+youth and women in CTPs, and by prioritizing business plans that involve vulnerable
+groups.
+43. Risks to nutrition and food security will be addressed through training and technical
+assistance that strengthens the links between income generation and nutrition
+quality in order to: (i) help households to make more informed dietary choices;
+(ii) increase the adoption of dietary recommendations; and (iii) increase the
+richness, variety and nutritional quality of the local food system.
+44.
+Institutional risks relate to limited regional coordination among stakeholders and to
+the weak organizational capacities of communities and producer groups. The
+project will strengthen national and regional coordination through its national
+steering committee and regional management committee, facilitating linkages
+among ministries, other government agencies and programmes, NGOs and other
+projects.
+45. Based on Guyana’s 2015 Transparency International Corruption Perceptions Index
+score of 29 and public financial management assessments, the project’s fiduciary
+risk has been rated as medium. The measures highlighted in section III.D of this
+report are considered sufficient to mitigate any fiduciary risks.
+V. Corporate considerations
+A.
+Compliance with IFAD policies
+IFAD’s target group comprises rural people living in poverty and experiencing food
+46.
+insecurity; IFAD proactively strives to reach extremely poor people (in line with
+Sustainable Development Goal 1) with the potential to benefit from improved
+access to agricultural production and rural income generation. In the case of
+Guyana, poor people principally live in hinterland areas. Therefore, the geographical
+focus of this project is in regions 1 and 9 – hinterland areas where indigenous
+peoples constitute the majority of the population. Targeting will be monitored using
+participatory monitoring and evaluation, and will be assessed at mid-term review.
+47. To meet the requirements of IFAD’s demand–driven and consultative targeting
+approach, participatory mapping of resource use and economic activities will be
+carried out under component 1. IFAD will work with the Government and other
+stakeholders to establish a shared understanding of the causes poverty and
+exclusion in hinterland areas.
+48. Compliance with IFAD policies for environment and natural resource
+management. The project complies with IFAD’s Climate and Natural Resources
+Management Policy, specifically principles 3 and 4, and will adopt an integrated
+climate-smart approach. Local value chains will be identified through participatory
+processes to ensure that their development contributes to increasing community-
+and household-level resilience to climate change. Priority will be given to initiatives
+that promote climate-related disaster risk reduction and management, and the
+establishment of agroecological systems. The project will also provide technical
+8
+EB 2016/LOT/P.12/Rev.1
+assistance for the incorporation of technologies and good practices for better
+national resource management and climate-change adaptation into investment
+plans.
+49. Compliance with IFAD’s Policy on Gender Equality and Women’s
+Empowerment. The hinterland project is aligned with IFAD’s Policy on Gender
+Equality and Women’s Empowerment through a participatory approach designed to
+ensure that the voices of different rural population segments are equally heard and
+valued. Specific gender actions to ensure gender equity have been included in the
+project design and budget. By working with entire households, the project will
+leverage the complementary knowledge and skills of women and men (in line with
+Strategic Objective 2).
+50. Compliance with IFAD’s Nutrition Action Plan 2016-2018. The project is
+nutrition sensitive as defined in the IFAD Nutrition Action Plan 2016-2018. It
+contributes to families’ improved food and nutrition security by linking local food
+production with the improved nutritional quality of diets.
+Alignment and harmonization
+B.
+51. The project is aligned with the national policy framework, which highlights the
+development of hinterland agriculture; reduction of poverty and isolation in
+indigenous communities; and adoption of environmentally sustainable development
+strategies to mitigate increased threats from climate change.
+52.
+In region 9, the project will harness complementarities with the Inter-American
+Development Bank (IDB) Sustainable Agricultural Development Project. This project
+aims to increase the productivity of the agricultural sector while maintaining the
+sustainable and climate-resilient use of natural resources in regions 5, 9 and 10.
+IDB will support the Ministry of Agriculture in the preparation and implementation
+of an extension strategy that includes incentives for small farmers to adopt
+technologies for cassava, peanuts, livestock, orchards and pastures. To enhance
+synergies and improve national and regional coordination, the two projects will use
+the same national steering committee and regional management committee in
+region 9. Collaboration will also be sought with IDB to utilize information and
+communication technologies in rural areas.
+53. The project will be harmonized with the IDB multilateral investment fund project
+Leveraging Natural Capital in the Rupununi Region (region 9). This project aims to
+create and strengthen environmentally sustainable local-level initiatives, and
+enhance market access for community-based enterprises. It will be also
+harmonized with Guyana’s Reducing Emissions from Deforestation and Forest
+Degradation Plus Investment Fund, which aims to invest in low-carbon approaches
+identified in the Low Carbon Development Strategy. In addition, collaboration will
+be sought with the Food and Agriculture Organization of the United Nations (FAO)
+on the state of food and agriculture study in region 1, and to support
+implementation of the Integrated Sustainable Agriculture Development Strategy for
+region 9 2015-2020 (developed by the Ministry of Agriculture, FAO and
+Conservation International).
+C.
+54.
+Innovations and scaling up
+Previous IFAD projects in Guyana were concentrated in coastal areas. This project
+builds upon and adapts IFAD’s approach to the unique conditions in the hinterland,
+and paves the way for replication and scaling up in other remote areas of the
+country with similar conditions.
+Policy engagement
+D.
+55. The project, which will be mainly implemented by the Ministry of Agriculture, is
+aligned with government decentralization strategies involving local governments
+and indigenous peoples’ institutions through the Ministries of Communities and
+9
+EB 2016/LOT/P.12/Rev.1
+Indigenous Peoples’ Affairs (in partnership with other government agencies,
+international donors and international NGOs). Coordination between national
+government agencies and local authorities is already taking place in region 9; closer
+cooperation will be sought throughout the project to strengthen capacities within
+the Government and civil society for natural resource management, nutrition- and
+climate-sensitive planning.
+VI. Legal instruments and authority
+56. A project financing agreement between the Cooperative Republic of Guyana and
+IFAD will constitute the legal instrument for extending the proposed financing to the
+borrower/recipient. A copy of the negotiated financing agreement is attached in
+appendix I.
+57. The Cooperative Republic of Guyana is empowered under its laws to receive
+financing from IFAD.
+58.
+I am satisfied that the proposed financing will comply with the Agreement
+Establishing IFAD and the Policies and Criteria for IFAD Financing.
+VII. Recommendation
+59.
+I recommend that the Executive Board approve the proposed financing in terms of
+the following resolutions:
+RESOLVED: that the Fund shall provide a loan on blend terms to the
+Cooperative Republic of Guyana in the amount of seven million nine hundred
+and sixty thousand United States dollars (US$7,960,000), and upon such
+terms and conditions as shall be substantially in accordance with the terms
+and conditions presented herein.
+RESOLVED FURTHER: that the Fund shall provide a grant to the Cooperative
+Republic of Guyana in the amount of five hundred thousand United States
+dollars (US$500,000), and upon such terms and conditions as shall be
+substantially in accordance with the terms and conditions presented herein.
+Kanayo F. Nwanze
+President
+10
+Appendix I
+EB 2016/LOT/P.12/Rev.1
+Negotiated financing agreement
+Hinterland Environmentally Sustainable Agricultural
+Development Project
+(Negotiations concluded on 4 November 2016)
+Loan Number: _________
+Grant Number: ________
+Project Title: Hinterland  Environmentally  Sustainable  Agricultural  Development  Project
+(the “Hinterland Project” or “the Project”)
+The Cooperative Republic of Guyana (the “the Borrower/Recipient”)
+and
+The International Fund for Agricultural Development (the “Fund” or “IFAD”)
+(each a “Party” and both of them collectively the “Parties”)
+HEREBY agree as follows:
+Section A
+1.
+The  following  documents  collectively  form  this  Agreement:  this  document,  the
+Project Description  and  Implementation  Arrangements  (Schedule  1)  and  the  Allocation
+Table (Schedule 2).
+2.
+The  Fund’s  General  Conditions  for  Agricultural  Development  Financing  dated
+29 April 2009, amended as of April 2014, and as may be amended hereafter from time to
+time (the “General Conditions”) are annexed to this Agreement, and all provisions thereof
+shall  apply  to  this  Agreement.  For  the  purposes  of  this  Agreement  the  terms  defined  in
+the General Conditions shall have the meanings set forth therein.
+The  Fund  shall  provide  a Loan  and  Grant
+3.
+“Financing”),  which the  Borrower/Recipient shall  use  to  implement  the Project
+accordance with the terms and conditions of this Agreement.
+to the  Borrower/Recipient
+(the
+in
+Section B
+1.
+A.
+The  amount  of  the  Loan  is  seven  million  nine  hundred  sixty  thousand
+US dollars (USD 7.96 million).
+B.
+The  amount  of 
+(USD 0.50 million).
+the  Grant 
+is 
+five  hundred 
+thousand  US  dollars
+2.
+The Loan is granted on blend terms, and shall be subject to interest on the principal
+amount  outstanding  at a  fixed  rate  of  1.25  per  cent  and in  addition  a service  charge  of
+0.75  per  cent  per  annum  payable  semiannually  in  the  Loan  Service  Payment  Currency
+and  shall  have  a  maturity  period  of  twenty  five  (25)  years,  including  a  grace  period  of
+five (5) years, starting from the date of approval by the Executive Board.
+1
+Appendix I
+EB 2016/LOT/P.12/Rev.1
+3.
+4.
+The Loan Service Payment Currency shall be the US dollar.
+The first day of the applicable Fiscal Year shall be 1 January.
+Payments of principal, interest and service charge shall be payable on each 15 June
+5.
+and 15 December.
+6.
+There shall be a designated account denominated in US dollars opened by and held
+in  the  name  of  the  Borrower/Recipient  in  the  Central  Bank  of  Guyana.  This  designated
+account shall be used exclusively for the deposit of Financing proceeds.
+7.
+There  shall  be  a  Project  Account  opened  by  and  held  in  the  name  of  the
+Borrower/Recipient in a bank selected by the Borrower/Recipient. It shall be in Guyanese
+Dollars  and this is  where  resources  from  the  Designated  Account  and counterpart funds
+shall be deposited.
+8.
+The Borrower/Recipient shall  provide  counterpart  financing  for  the Project in  an
+amount  equivalent  to  two  million  four  hundred  and  thirty  thousand  US  dollars
+(USD 2 430 000) in cash and in kind, including covering of taxes and duties in an amount
+equivalent to one million four hundred and eighty USD dollars (USD 1 480 000).
+Section C
+1.
+The Lead Project Agency shall be the Ministry of Agriculture.
+The Project Completion Date shall be the sixth anniversary of the date of entry into
+2.
+force of this Agreement.
+Section D
+1.
+The Financing will be administered and the Project supervised by the Fund.
+Section E
+The  following  is  designated  as  an  additional  ground  for  suspension  of  the  right  of
+1.
+the Borrower/Recipient  to request withdrawals from the Loan and the Grant Accounts:
+(a)
+the  Project  Implementation  Manual  (PIM)  referred  to  in  paragraph  10  of
+Schedule  1  hereto,  or  any  provision  thereof,  has  been  waived,  suspended,
+terminated,  amended  or  otherwise  modified  without  the  prior  consent  of  the
+Fund,  and  the  Fund  has  determined  that  such  waiver,  suspension,
+termination,  amendment  or  modification  has  had,  or  is  likely  to  have,  a
+material adverse effect on the Project.
+The  following  are  designated  as  additional  general  conditions  precedent  to
+2.
+withdrawal:
+(a)
+The Project Management Unit (PMU) shall have been duly established and the
+recruitment  of  key  personnel  such  as  the  Project  Coordinator,  a  Finance
+Officer, Procurement Officer and M&E Officer shall have been completed;
+(b)
+The Borrower/Recipient shall have prepared a draft PIM in form and substance
+satisfactory to the Fund; and
+(c)
+The Baseline study for Region 9 shall have been completed.
+2
+Appendix I
+EB 2016/LOT/P.12/Rev.1
+The  following  are  designated  as  additional  specific  conditions  precedent  to
+3.
+withdrawal for expenditures related to Component 2 in Region 1:
+(a)
+(b)
+The  detailed  value  chains  study  for  spices  in  Region  1  shall  have  been
+completed;
+The SOFA study in Mabaruma and Moruca sub regions of Region 1 shall have
+been completed;
+(c)
+The Baseline study for Region 1 shall have been completed.
+The following are the designated representatives and addresses to be used for any
+3.
+communication related to this Agreement:
+For the Borrower/Recipient:
+Minister of Finance
+Ministry of Finance
+49 Main and Urquhart Streets
+Georgetown, Guyana
+For the Fund:
+President
+International Fund for Agricultural Development
+Via Paolo di Dono 44
+00142 Rome, Italy
+This Agreement, dated _________, has been prepared in the English language in two (2)
+original copies, one (1) for the Fund and one (1) for the the Borrower/Recipient.
+COOPERATIVE REPUBLIC OF GUYANA
+____________________
+(Authorized Representative)
+(name and title)
+INTERNATIONAL FUND FOR
+AGRICULTURAL DEVELOPMENT
+___________________
+Kanayo F. Nwanze
+President
+3
+Appendix I
+EB 2016/LOT/P.12/Rev.1
+Schedule 1
+Project Description and Implementation Arrangements
+I.
+Project Description
+1.
+Project Area. The Project will operate in  Region 9 and in the Mabaruma and Moruca
+sub-regions  of  Region  1.  It  will  follow  IFAD’s  geographic  targeting  approach  as  it  will
+address the needs of the rural poor living in the Project area. The beneficiaries will come
+from approximately 80 of the 128 existing villages and communities in Regions 1 and 9
+(60  communities  in  Region  9  and  20  communities  in  Region  1). Phasing-in  of
+communities  will  be  used to  ensure  there  is  sufficient  time  to  assist  villages,
+communities,  and  producer  groups  with  the  implementation  of  their  Investment  and
+Business Plans. Considering the remoteness, vastness and low population density of the
+region, a phased implementation approach will be adopted for Region 9. The Project will
+initially only focus on North Rupununi, so as to capitalize on current government efforts
+to  exploit  the  significant  agricultural  potential  of  this  sub-region.  Lessons  learned  from
+Project  implementation  in  North  Rupununi  will  later  be  applied  to  Central  and  South
+Rupununi.
+Target  Population. The  target  group  includes  poor  indigenous  and  non-indigenous
+2.
+rural households living in the Project area, whose livelihoods are threatened by economic
+and  environmental  risks. The  target  group  will  include  6,000  poor  households  receiving
+Project services, which is equivalent to 94 per cent of the existing poor households in the
+Project  area.  At  least  15  per  cent  of  these  (900  households)  would  be  female-headed
+households  as  this  reflects  the  reality  in  the  Project  area.  The  6,000  households
+represent a total number of direct and indirect beneficiaries of approximately 30,000 men
+and  women  of  different  age  groups. The  Project  will  ensure  that  the  most  vulnerable
+groups  have  access  to  services  and  investment,  empowering  and  facilitating  the
+participation  of  indigenous  peoples,  youth,  and  women. At  least  75  per  cent  of  the
+Project beneficiaries would be from Amerindian tribes. At least 30 per cent would be from
+the  age  group  15-44  years  old  and  at  least  50  per  cent  would  be  women. Due  to  the
+adoption  of  a  phased  approach,  figures  for  the  target  population  may  be  revised  at  the
+mid-term review.
+3.
+Objective. The  Development  Objective  of  the  Project  is  “Improved  livelihood
+resilience  through  income  generation,  access  to  assets,  improved nutrition  and
+adaptation to climate variability”. Livelihood resilience will be strengthened by increasing
+income-generating  opportunities;  improving  access  to  public  goods,  knowledge  and
+technologies; and enhancing food security and nutrition.
+4.
+Components. In  order  to  achieve  Project  objectives  and  outcomes,  the  Project
+includes  two  main  components:  (a) Strengthening  of  communities  and  producer  groups’
+investment  planning;  and  (b) Implementation  of  investments  plans.  A  third  component
+will be dedicated to Project and knowledge management and coordination.
+4.1.
+Component  1: Strengthening  of  community  and  producer  groups  investment
+planning. The  objective  of  this  component  is  to  support  Village  and  Community
+Councils  (in  Region  9),  value  chain  roundtables (in  Region  1)  and  Regional
+Development  Councils 
+the
+in  planning  and  prioritizing 
+development of local value chains2 and resilient communities and livelihoods. The
+expected  outcome  is  that  communities  and  producer  groups  have  strengthened
+capacities to identify investment opportunities and manage economic and climate
+investments 
+for 
+2
+In the case of Region 1 there is significant potential for the production and marketing of species where other local and
+national market, there is a significant potential on international markets
+4
+Appendix I
+EB 2016/LOT/P.12/Rev.1
+change risks. The main instruments that will be developed by this component are
+Community  Production  Development  Plans  (CPDP)  for  Region  9  and  Value  Chain
+Action  Plans  (VCAP)  for  Region  1.  These  overall  medium-term  plans  will  be  the
+basis  for  the  development  of  three  types  of  concrete  investment  plans  to  be
+implemented with the project support: Public/Collective Investment Plans (P/CIP),
+Community Training Plans (CTP), and Business Plans (BP).
+4.1.1. Through the IFAD grant, under Component 1 the Project will finance a SOFA study
+for  Region  1  that  builds  on  the  methodology  and  approach  already  adopted  in
+Region 9. Likewise, to obtain a better understanding of the spices value chains the
+grant  will  also  finance  value  chain  studies.  These  studies  will  include  an
+identification  of  key  constraints  and  opportunities  for  the  development  of  the
+value  chains  with  the  inclusion  of  Amerindian  and  small  holder  farmers  including
+constraints  in  production  and  transport  costs,  produce  volume  and  quality
+compared to market demands. In order to avoid delays in project implementation
+for  Region  1,  resources  for  the  SOFA  and  the  value  chain  studies  can  be
+anticipated by the GOG as soon as the loan agreement has been signed. Expenses
+incurred  for  the  SOFA  study  will  be  considered  as  retroactive  expenses,  and  will
+therefore  be  reimbursed once  the  conditions 
+for  the  effectiveness  and
+disbursement of the Financing Agreement are fulfilled.
+4.2.
+Component  2: Implementation  of  investment  plans. While  Component  1  will
+provide  training,  studies  and  capacity  building  needed  to  develop  investment
+plans, Component 2 will support their actual implementation. Under Component 2
+an  Investment  Fund  will  be  established  to  finance,  through  non-reimbursable
+mechanisms, public and common goods and services in the following categories of
+investments  that  may  be  included  in  the  different  types  of  investment  plans:
+(a) investments  in  public  and  common  goods  and  services  that  contribute  to  the
+reduction  of  climate  and  investment  risks,  included  in  P/CIPs;  (b)  services  for
+related
+training,  capacity-building  and  awareness-raising  activities,  and 
+background  studies,  that  contribute  to  the  reduction  of  climate,  economic  and
+nutritional  risks,  included  in  CTPs;  (c)  technical  assistance  and  services  to  favor
+activities  that  have  positive  spillover  effects  on  the hosting  communities  since
+they contribute to the diffusion of models, knowledge, technologies and capacities
+that  improve  livelihood  resilience  by  reducing  the  climate,  economic  and
+nutritional risks, included in BPs.
+4.2.1. The administration and execution of the Investment Fund will be arranged through
+an agreement signed between MOA and a Financial Institution(s) with presence in
+the  regions.  The  selection  of  the  Financial  Institution(s)  will  be  through  a
+competitive  bidding  process.  The  PMU  will  be  responsible  for  monitoring  the
+implementation  of  the  Investment  Fund  and  evaluating  the  performance  of  the
+Financial Institution as well as the results achieved.
+4.3.
+Component 3: Project and knowledge management and coordination. The purpose
+of the third component is to establish management and administrative procedures
+including accounting and auditing as well as setting up monitoring and evaluation
+mechanisms 
+in  accordance  with  IFAD  and  national  guidelines.  Specific
+evidence-based  knowledge  products  will be  developed  on  the  basis  of  Project
+experiences  in  order  to  extract  lessons  and  best  practices,  up-scale  innovative
+solutions,  and  achieve  better  outcomes  and  greater  impact  from  development
+resources.  Also,  coordination  and  activities  to  link  project  and regional  planning
+will be supported.
+5
+Appendix I
+EB 2016/LOT/P.12/Rev.1
+II.
+Implementation Arrangements
+5.
+The Lead Project Agency.
+5.1. The Lead agency for the implementation of the Hinterland Project will be the Ministry
+of  Agriculture  through  its  Agriculture’s  Sector  Development  Unit (ASDU).  For
+activities  such  as  consultative  village  planning  processes,  agricultural  technologies
+and  technical  assistance,  natural  resource  management  and  regional  investment
+planning,  the  MOA  would  be  assisted  by  the  MIPA,  MNE,  MOC,  MOB  and  other
+government  agencies,  Non-Governmental  Organizations  (NGOs),  Community-Based
+Organizations (CBOs) and local educational institutes.
+5.2. The  Project  Management  Unit  (PMU)  will  comprise  the  office  at  the  MOA  in
+Georgetown  and  regional  offices  in  Regions  1  and  9. The  PMU  in  Georgetown  will
+have  a  Project  Coordinator,  a  Procurement  Officer,  a  Finance  Officer,  and  an  M&E
+Officer.  The  latter  will  be  located  at  the  M&E  Unit  of  the  MOA.  In  each  regional
+office,  the  Project  will  be  supported  by  a  Regional  Project  Officer (RPO)  and  Field
+Facilitators.  The  office  in  Region  9  will  also  have  a  Social  Inclusion  and  Gender
+Specialist  who  will  assist  both  Regional  Project  Officers  in  this  particular  area  of
+expertise.
+5.3. Effective  coordination  with  other  line  ministries,  Regional  Democratic  Councils  and
+private  sector  initiatives  in  the  regions  is  essential  to  create  synergies  and  ensure
+sustainability  of  Project  results.  To  this  end,  a  National  Steering  Committee  (NSC)
+and  Regional  Management  Committees  (RMC)  will  be  established  to  provide  policy
+direction  and  support  for  implementation,  advise  on  the  Annual  Workplan  and
+Budget, and encourage inter-organizational coordination and linkages.
+5.4. The  NSC  is  comprised  of  representatives  from  the:  Ministry  of  Finance  (MOF),
+Ministry  of  Agriculture  (MOA),  Ministry  of  Indigenous  People´s  Affairs  (MOIPA),
+Ministry of Natural Resources (MNR), Ministry of Business (MOB), Ministry of Public
+Health (MOPH), Ministry of Communities (MOC), Ministry of Social Protection (MSP),
+Office of Climate Change at the Ministry of the Presidency, and two Representatives
+from  the  beneficiaries  (one  from  Region  1  and  one  from  Region  9).  The  roles,
+responsibilities and composition of the NSC shall be detailed in the PIM. The RMCs
+will include, inter alia, the following representatives: (i) a regional chairman; (ii) a
+regional representative of the Ministry of Indigenous People’s Affairs; (iii) a regional
+representative  of  the  MNR;  (iv)  a  regional  representative  of  each  NAREI  (National
+Agricultural  Research  and  Extension  Institute)  or  GLDA  (Guyana  Livestock
+Development Authority); and (v) a regional representative of the Program targeted
+beneficiaries.  The  roles  and  responsibilities  and  composition  of  the  RMC  shall  be
+detailed in the PIM and shall include, inter alia to: (i) support the implementation of
+the Program at the Regional level; (ii) support the ASDU in the implementation of
+the Annual Workplan; and (iii) collaborate in coordinating with local and community
+leaders.
+5.5. The  Project  will  provide  support  to  strengthen  the  capacity  of  the  MOA  M&E  Unit,
+and  ensure  that  Project  implementation  monitoring  is  linked  to  MOA  performance
+monitoring  and  feeds  into  existing  Agriculture  Strategy  indicators.  Monitoring  and
+evaluation will be conducted using a participatory approach; data collection will be
+kept  simple  and  not  time-consuming,  focusing  on  the  reliability  and  usefulness  of
+collected  data.  Evidence-based  knowledge  products  will  be  developed  to  extract
+lessons and best practices from project experiences, replicate innovative solutions,
+maximize  outcomes  and  impact  from  development  resources,  and  disseminate
+generated  knowledge  to  support  national,  regional  and  local  decision  making  and
+policy  processes. The  Baseline  Study  will  be  carried  out  immediately  after  the
+approval  of  the  Financing  Agreement  by  IFAD’s  Executive  Board  and  before
+implementation.
+6
+Appendix I
+EB 2016/LOT/P.12/Rev.1
+Financial management. Financial Management (FM) and Procurement of the Project
+6.
+will be undertaken by the ASDU, which has adequate capacity, an appropriate accounting
+system  and  an  extensive  experience  in  implementing  internationally  funded  projects.  A
+qualified Finance Officer will be recruited through a competitive process as a condition of
+disbursement from the loan and grant accounts.
+7.
+Procurement. Project procurement of goods and services will be carried out by ASDU
+in  accordance to  national  regulation  as  long  as  it  is  compatible  with IFAD  Project
+Procurement Guidelines and in accordance with the provisions of the financing agreement.
+A procurement officer, exclusively assigned to the Hinterland Project will be hired by ASDU.
+8.
+Audit.    The  annual  consolidated  financial  statements  of  the  Project will  be
+independently audited, pursuant to the agreed terms of reference and in accordance with
+the International Standards on Auditing and the IFAD Guidelines on Project Audits. In line
+with  its  mandate  as  per  the  Guyana  Audit  Act  2004,  the  Auditor  General  shall  be
+responsible for conducting financial, compliance,  performance and value-for-money audits
+with  respect  to  the  accounts  of  all  projects  funded  by  the  way  of  loans  or  grants  by  any
+foreign  state  or  organization.  In  this  regard,  the  Guyana  Auditor General  Audit  Office  will
+conduct  the  audit  of  the  Project  financial  statements.  Annual  audit  reports  will  be
+submitted to IFAD within the six months of the end of the each fiscal year.
+Supervision. IFAD  will  provide  direct  supervision  for  the  Project,  complemented  by
+9.
+implementation  support  missions.  One  supervision  mission  is  generally  planned  for  each
+year. The first supervision mission, undertaken approximately six months after the date of
+entry  into  force,  will  monitor  progress  in  relation  to  the  timeframe  defined  in  the
+implementation  plan,  and  will  assess advancements in  fiduciary  aspects,  expenditures,
+contribution of funds from the counterpart and compliance with the terms of the financing
+agreement.  Implementation  support  missions  will  be  planned  to  cover  the  themes  and
+areas recommended by supervision missions.
+10.
+Project  Implementation  Manual  (PIM).    The  PIM  shall  be  prepared  by  the  PMU  and
+approved by the Permanent Secretary, who will have the responsibility to send to IFAD for
+its non-objection. The PIM may be amended or otherwise modified from time to time only
+with the prior consent of the Fund. The PIM provides the basis for the implementation of
+Hinterland  Environmentally  Sustainable  Agriculture  Development  Project  (Hinterland
+Project).  It  will  establish  the  Strategic  and  Institutional  Framework  and  provide  guidance
+for  the  overall  planning  and  implementation  of  activities.  It  will  detail  the  collaborative
+framework  for  project  implementation,  the  institutional  and  management  arrangements;
+the  administrative,  fiduciary  and  contractual  procedures;  monitoring,  evaluation  and
+reporting. The Manual will establish effective implementation procedures and mechanisms,
+which  will  ensure  the  achievement  of  the  overall  objectives  as  outlines  in  the  Project’s
+design document and log-frame.
+7
+Appendix I
+EB 2016/LOT/P.12/Rev.1
+Schedule 2
+Allocation Table
+1.
+Allocation  of  Proceeds. The  Table  below  sets  forth  the  Categories  of  Eligible
+Expenditures  to  be  financed  by  the Loan  and  Grant and  the  allocation  of  the
+amounts  of  the Loan  and  Grant to  each  Category  and  the  percentages  of
+expenditures for items to be financed in each Category:
+Category
+IFAD Loan
+Amount Allocated
+(expressed
+in USD)
+IFAD Grant
+Amount Allocated
+(expressed
+in USD)
+Percentage
+I. Vehicles and equipment
+170 000
+II. Training
+550 000
+-
+-
+100% net of taxes
+100% net of taxes
+III. Consultancy services
+2 620 000
+450 000
+100% net of taxes
+IV. Grants (for Sub-projects)
+2 880 000
+V. Salaries and operating
+940 000
+-
+-
+100% net of taxes
+100% net of taxes
+expenses
+Unallocated
+800 000
+50 000
+TOTAL
+7 960 000
+500 000
+2.
+Retroactive  Financing.  As  an  exception  to  section  4.08(a)(ii)  of  the  General
+Conditions,  specific  eligible  expenditures  incurred  from  the  date  of  approval  by  the
+Executive Board until the date of  entry into force  of this Agreement  shall be considered
+eligible up to an amount equivalent to three hundred thousand US dollars (USD 300 000)
+for activities relating to: (i) recruitment of key personnel, (ii) baseline study for Region 9
+and Region 1, (iii) detailed value chains study for spices in Region 1, (iv) SOFA study in
+Mabaruma and  Moruca  sub  regions  of  Region  1. Activities  to  be  financed  by  retroactive
+financing  and  their  respective  category  of  expenditures  and  source  of  financing  will
+require  prior  no  objection  from  IFAD  to  be  considered  eligible.  These  amounts  may  be
+reimbursed after the general conditions precedent to withdrawal have been met
+3.
+Start-up  Costs.  Withdrawals  in  respect  of  expenditures  for  start-up  costs  for  the
+same  activities  indicated  in  the  previous  paragraph  can  be  made  before  the  satisfaction
+of the conditions precedent to withdrawal.  Start-up costs shall not exceed an aggregate
+amount equivalent to three hundred thousand US dollars (USD 300 000). Activities to be
+financed by start-up costs and their respective categories of expenditures and source of
+financing will require prior no objection from IFAD to be considered eligible.
+8
+Logical framework
+Results Hierarchy
+Development Objective:
+Improved livelihood resilience
+through income generation,
+access to assets, improved
+nutrition, and adaptation to
+climate variability.
+Indicators
+Name
+Baseline
+End Target
+Source
+Frequency
+ 80% of targeted households
+have increased their score on
+the resilience scorecard by at
+least 2 points.
+ Baseline
+resilience
+TBD
+ 4,800 hh
+(15% female
+headed hh)
+Baseline studies
+Impact study
+Verification  in  the
+field
+Before
+Effectiveness
+Mid Term
+Before Closing
+Respons
+ibility
+PMU
+MOA
+Means of Verification
+Risks
+Component 1: Strengthening of community and producer groups investment planning
+Outcome 1
+Communities and producer
+groups have identified
+investment opportunities
+manage economic and climate
+change risk.
+ 80% of households in targeted
+
+0
+communities participate in
+development of public /
+collective investments plans.
+ People in targeted communities
+participating in producer groups
+with approved business plans.
+
+0
+9
+Component 2: Implementation of investment plans
+Reports M&E
+Supervision
+reports
+Progress reports
+Semi-annually
+Annually
+Mid Term
+Before Closing
+PMU
+MOA
+ 4,500 hh
+(15% female
+headed hh)
+ 2,500 people
+(50%
+women; 30%
+youth)
+
+2,000 hh
+(15%  female
+headed hh)
+ At least 80% of the households
+that invested in business plans
+have increased their income from
+agriculture and related activities
+by 50%.
+ Private
+assets
+baseline
+TBD
+Outcome 2.1
+Increased investments in
+business plans that increase
+agriculture and related
+income-generating
+opportunities and increase
+market access.
+Outcome 2.2
+Increased access to assets
+that build community
+resilience and create an
+enabling productive
+environment (water, energy,
+ITC).
+ Additional volume of water stored
+ Baseline
+ TBD
+in targeted communities.
+TBD
+ Number of households in targeted
+ Baseline
+ TBD
+communities with access to
+renewable energy sources.
+TBD
+ Number of Internet Access Points
+ Baseline
+ TBD
+available to households in
+targeted communities.
+TBD
+Baseline studies
+Impact study
+Progress reports
+Verification  in  the
+field
+Before
+effectiveness
+Annually
+Mid Term
+Before Closing
+PMU
+MOA
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+6
+/
+L
+O
+T
+/
+P
+.
+1
+2
+/
+R
+e
+v
+.
+1
+Economic risks:
+ Productive
+specialization (vs
+traditional
+diversification
+strategy):
+vulnerability to
+market shocks;
+increased
+seasonality effects
+on income and
+labour cycles
+ Competition for
+labour from other
+sectors (e.g.,
+mining)
+Climate change
+risks:
+ Productive
+transformation
+without access to
+adequate
+technology and
+information for
+water and soil
+management
+ Shift to less
+diversified farming
+systems
+Social risks:
+ Weakening of
+social capital and
+organization
+capacity at
+community level
+Outcome 2.3
+Improved diet of adequate
+quality and appropriate
+quantity, referring to context-
+appropriate food-based
+dietary guidelines and drawing
+insofar as possible on own-
+production and local markets
+in a context of effective
+behaviour change and
+nutrition education activities.
+ Number of households in target
+ Baseline
+ TBD
+communities that adopt
+technologies for integrated soil
+fertility management, integrated
+pest management, and technology
+for increasing efficient water use
+that improved adaptability to
+climate change
+ 60% of households have food
+consumption patterns that
+substantially reflect appropriate
+“best option food basket”.
+TBD
+ Baseline
+TBD
+ 3,600 hh
+(15% female
+headed hh)
+ Number of reference “best option
+ Baseline
+TBD
+food baskets,” reflecting
+nutritionally adequate, low-cost
+options, developed and
+communicated (based on food-
+based dietary guidelines and
+giving preference to foods
+available from local production).
+ Number of crops and animal
+varieties and wild species used as
+food or income generating source
+at community level.
+TBD
+ Baseline
+TBD
+ Same or
+more
+1
+0
+Component 3: Project and Knowledge management and Coordination
+Outcome 3
+Efficient and adequate
+management and
+implementation of planned
+activities and effective
+coordination and planning
+between institutions at the
+national, regional and local
+level.
+ At least 90 per cent of the AWPB
+is implemented each year.
+ Number of evidence based
+knowledge products developed
+(written, video or oral/radio).
+ Number of MOUs signed with
+public institutions to provide
+services to the project.
+ The project’s global investment
+plan and AWPBs are reflected in
+the regional budgets and plans for
+two regions.
+
+
+
+0
+0
+0
+ 90 per cent
+annual
+ At least four
+ At least four
+
+0
+ Two regions
+Baseline studies
+Impact study
+Progress 
+reports
+Verification  in  the
+field
+Before
+effectiveness
+Annually
+Mid Term
+Before Closing
+PMU
+MOA
+AWPB
+Supervision
+reports
+Progress reports
+Annually
+Mid Term
+Before Closing
+PMU
+MOA
+and 
+NSC 
+Minutes
+Progress reports
+RM
+ Exclusion of
+vulnerable groups
+including women
+and youth
+ Risks for nutrition
+and food security:
+ Increased
+complexity of
+nutritional
+problems (e.g.,
+transition to
+unhealthy diets)
+ Decrease of food
+security
+ Loss of traditional
+knowledge, food
+culture and agro-
+biodiversity
+Institutional
+risks:
+ Limited inter-
+institutional
+coordination for
+actions at the
+regional level
+ Incipient
+managerial and
+organizational
+capacity to
+implement
+investments at the
+local level
+(communities and
+producers’
+organizations)
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+6
+/
+L
+O
+T
+/
+P
+.
+1
+2
+/
+R
+e
+v
+.
+1

@@ -1,0 +1,1625 @@
+Document:
+Date:
+Distribution:
+Original:
+EB 2017/LOT/P.23
+23 November 2017
+Public
+English
+E
+President’s report
+Proposed loan to Grenada for the
+Climate-smart Agriculture and Rural
+Enterprise Programme
+Note to Executive Board representatives
+Focal points:
+Technical questions:
+Dispatch of documentation:
+William Skinner
+Chief
+Governing Bodies
+Tel.: +39 06 5459 2974
+e-mail: gb@ifad.org
+Lars Anwandter
+Country Programme Manager
+Latin American and the Caribbean Division
+Tel.: +39 06 5459 2308
+e-mail: l.anwandter@ifad.org
+Mattia Prayer Galletti
+Lead Technical Specialist
+Policy and Technical Advisory Division
+Tel.: +39 06 5459 2294
+e-mail: m.prayer@ifad.org
+For: Approval
+EB 2017/LOT/P.23
+ii
+iii
+iv
+1
+1
+1
+2
+2
+2
+3
+3
+4
+4
+4
+4
+5
+5
+6
+6
+6
+6
+8
+8
+9
+10
+10
+10
+10
+11
+11
+11
+Contents
+Abbreviations and acronyms
+Map of the programme area
+Financing summary
+Recommendation for approval
+I.
+Strategic context and rationale
+A. Country and rural development and poverty context
+B. Rationale and alignment with government priorities and the
+country strategy note
+II. Programme description
+A. Programme area and target group
+B. Programme development objective
+C. Components/outcomes
+III. Programme implementation
+Approach
+A.
+B. Organizational framework
+C. Planning, monitoring and evaluation, and learning and
+knowledge management
+D. Financial management, procurement and governance
+E. Supervision
+F. Exceptions to the General Conditions for Agricultural
+Development Financing and IFAD’s operating policies
+IV. Programme costs, financing and benefits
+A. Programme costs
+B. Programme financing
+C. Summary benefit and economic analysis
+D. Sustainability
+E. Risk identification and mitigation
+V.
+Corporate considerations
+A.
+B.
+C.
+D.
+Compliance with IFAD policies
+Alignment and harmonization
+Innovations and scaling up
+Policy engagement
+VI. Legal instruments and authority
+VII. Recommendation
+Appendices
+I. Negotiated financing agreement
+II. Logical framework
+i
+EB 2017/LOT/P.23
+Abbreviations and acronyms
+AWP/B
+CC
+CSA
+CSN
+GIDC
+M&E
+MoF
+PMU
+PSC
+SAEP
+SDG
+annual workplan and budget
+climate change
+climate-smart agriculture
+country strategy note
+Grenada Investment Development Corporation
+monitoring and evaluation
+Ministry of Finance
+programme management unit
+programme steering committee
+Climate-smart Agriculture and Rural Enterprise Programme
+Sustainable Development Goal
+ii
+Map of the programme area
+EB 2017/LOT/P.23
+iii
+EB 2017/LOT/P.23
+Grenada
+Climate-smart Agriculture and Rural Enterprise
+Programme
+Financing summary
+Initiating institution:
+Borrower:
+IFAD
+Grenada
+Executing agency:
+Ministry of Finance
+Total programme cost:
+Amount of IFAD loan:
+Terms of IFAD loan:
+US$12.00 million
+US$3.99 million
+Highly concessional terms, maturity period of 40 years,
+including a grace period of 10 years
+Amount of financing gap:
+US$2.41 million
+Cofinancier(s):
+Amount of cofinancing:
+Terms of cofinancing:
+Caribbean Development Bank (CDB)
+Grenada Investment Development Corporation (GIDC)
+CDB: US$3.00 million
+GIDC: US$0.33 million
+CDB: loan
+GIDC: grant
+Contribution of borrower:
+US$2.00 million
+Contribution of beneficiaries:
+US$0.27 million
+Appraising institution:
+IFAD
+Cooperating institution:
+Directly supervised by IFAD
+iv
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2017/LOT/P.23
+Recommendation for approval
+The Executive Board is invited to approve the recommendation for the proposed
+loan to Grenada for the Climate-smart Agriculture and Rural Enterprise Programme,
+as contained in paragraph 63.
+Proposed loan to Grenada for the Climate-smart
+Agriculture and Rural Enterprise Programme
+I. Strategic context and rationale
+A. Country and rural development and poverty context
+1.
+Grenada is an upper-middle-income small island developing state (SIDS), with a
+per capita GDP of about US$13,400. Its population of 110,096 (2015) lives in an
+area of 344 km2 (95 per cent on the main island of Grenada and 5 per cent on the
+two smaller islands of Carriacou and Petite Martinique). Over 90 per cent of the
+population is considered rural (excepting residents of the capital town of
+St. George’s).
+2.
+3.
+4.
+5.
+6.
+As a small island, Grenada is highly vulnerable to external shocks and
+climate-change (CC) effects. After being devastated by hurricanes in 2004 and
+2005, its tourism sector suffered a slump in the wake of the global financial crisis
+of 2008.
+Poverty, unemployment and youth. Approximately 38 per cent of Grenada’s
+population lives below the poverty line (2.4 per cent are considered indigent), and
+a further 14 per cent are highly vulnerable. In rural areas particularly, private
+investment is scarce and access to government programmes is limited.
+Unemployment (32-38 per cent) is a concern for rural communities, particularly
+among youth (37,540 young men and women from 15 to 34 years of age), whose
+unemployment rates are above 40 per cent (even higher in the case of women).
+Agriculture sector and nutrition. Grenada is a net food importer; roughly
+80 per cent of the food it consumes is not produced domestically. According to the
+Grenada Agricultural Census, in 2012 there were 9,200 farmers and 1,500 fishers
+(mostly men); 80 per cent of the farmers were smallholders and over 70 per cent
+were men. Agriculture and fishery activities account for 5.0-9.5 per cent of GDP,
+although they generate a significant share of exports (fish contribute 25 per cent of
+total exports, and nutmeg and mace 23 per cent).
+Owing to a heavy reliance on cheap food imports, the poor have switched to a less
+healthy diet. This trend, coupled with a sedentary lifestyle, lends itself to obesity
+and to a higher prevalence of nutrition-related non-communicable diseases, such
+as diabetes, hypertension, stroke, heart disease and cancer.
+In recent years, the Government of Grenada has put a high priority on the
+agriculture sector, approving several policies to stimulate local production (such as
+the “eat local, buy local‟ campaign) and to reduce internal barriers (such as high
+feed costs in the poultry sector and barriers limiting access to agricultural land).
+The National Agriculture Policy identifies priority commodities and classifies them
+according to their usefulness in increasing food security, exports, supplies to the
+tourism industry and import substitution. Most of the crop and livestock products
+identified – including fruit, vegetables, roots and tubers, poultry, pigs and goats –
+are produced by smallholders.
+1
+EB 2017/LOT/P.23
+B. Rationale and alignment with government priorities and the
+7.
+8.
+9.
+country strategy note
+Rationale and alignment with government priorities. Grenada’s structural
+transformation from an agriculture-based economy to a service-based one has
+generated heavy dependency on food imports, and has caused abandonment of
+agricultural land areas and high levels of unemployment in rural areas, particularly
+among young people. The Government’s national development policies have two
+major priorities for the rural sector: (i) job creation and youth empowerment; and
+(ii) climate-smart agriculture (CSA), to improve farmers’ resilience to the effects of
+climate change. The proposed new programme is designed to assist the
+Government in pursuing these priorities.
+Alignment with Sustainable Development Goals (SDGs) and the country
+strategy note (CSN). In terms of the SDGs, the new programme is expected to
+contribute mainly to SDG1 (end poverty); SDG2 (achieve food security and
+improved nutrition, and promote sustainable agriculture); SDG8 (promote
+sustained, inclusive and sustainable economic growth, full and productive
+employment, and decent work for all) and SDG10 (reduce inequality within and
+among countries).1
+The new programme is also aligned with IFAD’s CSN, which has the overall
+strategic goal of reducing the vulnerability of the rural poor to economic and
+climate shocks by promoting agricultural and non-agricultural employment
+opportunities and CC adaptation practices.
+10. Theory of change. The design of the new programme is founded on promoting
+new business start-ups run by young people with a strong entrepreneurial drive.
+These start-ups will target market opportunities for products and services arising
+from the adoption of CSA approaches, building CC resilience and thus increasing
+the prospects for sustainability. This requires an entrepreneurial drive and business
+approach that are scarce among an aging farming community in rural areas. By
+attracting youth into agriculture and promoting rural start-ups, with technology-
+driven approaches, and putting the required financial and technical support
+services in place, the programme is expected to provide the missing links that are
+currently preventing income growth among poor rural people.
+11.
+IFAD’s role. While IFAD is a smaller player than some other international financial
+institutions in the region (such as the World Bank, Inter-American Development
+Bank and CDB), its rural-sector expertise gives it a comparative advantage in:
+targeting poor rural people, supporting rural communities and agricultural
+development projects, strengthening rural enterprises, teaching participatory
+approaches and promoting gender equity and market-driven business
+development.
+II. Programme description
+A. Programme area and target group
+12. Geographical coverage. The programme area will encompass rural communities
+in all seven parishes of Grenada (six on the main island and the single parish that
+spans the two islands of Carriacou and Petite Martinique). Apart from the capital
+town of St. George’s, all other parishes are considered rural. The latest population
+census (2011) estimated the rural population at about 107,000 inhabitants (35,600
+households).
+13. Target group. The overall target group of the new programme includes: (i) poor
+rural households (both extremely poor and poor, approximately 13,900
+1 Inequality  in  Grenada  is  above  the Caribbean  average. According  to the Caribbean  Development  Bank (CDB),  the
+most affluent 10 per cent of Grenadians account for 30 per cent of consumption, while the poorest 10 per cent account
+for just 3 per cent. In the 2008 Country Poverty Assessment, the GINI index was estimated at 0.38.
+2
+EB 2017/LOT/P.23
+households); (ii) rural less-poor, but vulnerable (approximately 5,000 households);
+and (iii) small-scale farmers (approximately 2,700 households with access to a
+maximum of 7 acres of farmland, of whom at least 80 per cent have access to no
+more than 2.5 acres).
+14. The chief characteristics of poor rural households are: (i) more than the national
+average number of family members per household (i.e. more than three); (ii) one
+or more unemployed persons among adult family members; (iii) one or more adult
+family members without a secondary or tertiary education; and (iv) the head of the
+household is single.
+15. A total of 7,500 poor rural households are expected to benefit directly from the
+programme’s activities: some 4,500 households will receive technical and financial
+support services, while 3,000 will benefit from renovated rural roads and drainage
+works.
+16. Youth and gender targets. Roughly 75 per cent of beneficiaries are expected to
+be young people, and approximately 50 per cent will be women, with priority being
+given to young women heads of households (single mothers). The programme
+envisages affirmative action to attain these targets.
+B. Programme development objective
+17. The programme’s development objective is to improve beneficiaries’ livelihoods
+through access to new jobs, business start-ups or consolidation of new businesses
+and adoption of CSA practices.
+18. The programme’s expected impacts are: 4,500 poor households reporting an
+income increase of at least 10 per cent; (ii) 400 farmers with greater resilience
+(reporting adoption of at least one CSA practice); and (iii) 400 new jobs created.
+C. Components/outcomes
+19. The programme will be implemented through two technical components –
+(i) enterprise business development (EBD) and (ii) CSA – and one programme
+management component. While each technical component has its specific focus,
+target population and implementation arrangements, there will be many
+opportunities to develop synergies during the implementation phase. The CSA
+component will secure and improve the supply and quality of agricultural goods,
+providing grounds for microenterprise consolidation in the long term and creating
+opportunities for businesses along the value chain under the EBD component.
+20. Component 1: EBD. The objective of this component is to support ongoing and
+start-up businesses in rural areas through technical services and financing. Access
+to support services to develop a business idea and build the capacities needed to
+become sustainable is currently limited. This component will seek to make these
+services more readily available, promoting innovation and the engagement of
+young people in the most promising sectors of the rural economy, including both
+farming and non-farming activities. The expected outcomes of this component are
+(i) 120 new enterprises created/consolidated; and (ii) 400 new jobs created.
+21. Component 2: CSA. The objective of this component is to increase the resilience
+of small-scale farmers to the anticipated above-average temperatures and
+below-average dry-season rainfall, meaning longer drought periods. The
+component will thus promote the adoption of more efficient water management
+and conservation measures, as a key activity for responding to changing rainfall
+patterns. The component will also finance backyard gardens with CSA approaches
+to improve food security and nutrition among the most vulnerable population
+groups. The expected outcomes of this component are (i) 400 farmers increasing
+their production by an average of 20 per cent; and (ii) 3,000 farmers reporting
+improved physical access to markets.
+3
+EB 2017/LOT/P.23
+22. Component 3: Programme management. This component aims to ensure the
+programme’s effectiveness and efficiency by setting up key management systems
+and processes that will achieve the expected outcomes and outputs with the funds
+provided. Monitoring and evaluation activities are part of this component.
+III. Programme implementation
+A.
+Approach
+23. The implementation approach is based on five principles: (i) a demand-driven
+approach to selecting the activities and services to be supported by the
+programme; (ii) shortening the lengthy preparation period that characterized
+previous IFAD projects in Grenada, drawing on the lessons learned and capacities
+built under the earlier Market Access and Rural Enterprises programme;
+(iii) improving contractual arrangements with implementing partners to empower
+these partners in achieving the programme’s objectives and targets – fostering
+accountability; (iv) strengthening specific areas within the main service providers,
+to ensure high-quality and timely support services to beneficiaries; and
+(v) ensuring youth and social inclusion and gender equality through affirmative
+action. The programme has a proposed duration of six years.
+B. Organizational framework
+24. The programme’s executing agency will be the Ministry of Finance (MoF); and it will
+be implemented through a programme management unit (PMU) set up within MoF.
+The PMU will be responsible for the core services of accounting and financial
+management, monitoring and evaluation (M&E) and technical coordination.
+25. The PMU will have a reduced staff, since activities will be performed by specialized
+implementing partners with which memorandums of understanding will be signed.
+The technical capacity of the selected implementing partners is considered
+adequate, based on their expertise and technical skills and/or on the experience of
+their previous involvement in IFAD projects.
+26.
+Lastly, a programme steering committee (PSC) will be created, on which key
+stakeholders will be represented. The committee will play an overall guidance role,
+defining the main strategies and approving the programme operational manual,
+agreements and contracts with service providers, the annual workplan and budget
+(AWP/B), M&E reports and others submitted by the PMU for adequate supervision
+and guidance.
+C. Planning, monitoring and evaluation, and learning and
+knowledge management
+27. Monitoring and evaluation. M&E will be participatory, with stakeholders fully
+engaged in the collection, discussion and analysis of field data and in decision-
+making on changes that might be necessary for more effective or efficient
+programme implementation. This means that key implementers will play an active
+role in data collection, whereas the PMU will monitor the overall progress of the
+programme. The PMU will provide feedback on progress to the PSC and key
+implementers, and these actors will jointly decide on any corrective measures that
+might be required.
+28. Knowledge management. Specific evidence-based knowledge products will be
+developed from programme experiences, to extract lessons and best practices,
+replicate innovative solutions, achieve better outcomes and greater impact from
+the development resources, and strategically disseminate the knowledge generated
+to support national decision-making and policy processes. The knowledge products
+to be generated by the PMU and its implementing partners include: working
+papers, case studies, research reports, videos, blogs and vlogs, and policy briefs.
+At the end of the programme, the PMU will organize and implement closing
+4
+EB 2017/LOT/P.23
+workshops in Grenada, Carriacou and Petite Martinique to discuss experiences and
+results with stakeholders.
+D. Financial management, procurement and governance
+29. Financial management. MoF, acting through the PMU, is assigned overall
+fiduciary responsibility as the lead programme agency, and will thus ensure proper
+financial management and implementation of the programme. MoF has prior
+experience in managing IFAD projects and is familiar with the Fund’s policies and
+requirements for drawing on this financing and for financial accountability.
+Transparency International’s Corruption Perceptions Index 2016 rated Grenada’s
+inherent risk low, giving it a score of 56 which placed it 46th of 176 countries rated.
+The financial management risk for this programme is rated medium, due mainly to
+the need to: ensure that regular internal audits are carried out, establish
+appropriate segregation of duties, improve preparation and monitoring of AWP/Bs
+and strengthen controls over activities in the regions.
+30. Accounting and accounting system. Programme accounting will use the
+QuickBooks accounting system alongside the Standard Integrated Government
+Financial Information System (SIGFIS), which is used by all ministries and
+development projects in Grenada. SIGFIS is currently being upgraded to make it
+possible to configure reports that satisfy IFAD requirements. Once the upgrade and
+respective training have been completed successfully, the QuickBooks system will
+be discontinued.
+31. Financial reporting. Pursuant to IFAD requirements, annual financial statements
+will be prepared and submitted using International Public Sector Accounting
+Standards, including information by category of expenditure, component and
+financing source.
+32. Audits. The MoF Internal Audit Department will include the new programme in its
+internal audit plans, which will enable it to undertake reviews and submit findings
+to the PSC and IFAD. The external audit will be performed in accordance with
+International Standards on Auditing (ISAs), including ISA 701, by independent
+auditors acceptable to IFAD. The audit report and related management letter are to
+be submitted to the Fund within six months of each fiscal year-end.
+33. Flow of funds. In accordance with Grenada’s Public Financial Management Acts of
+2014 and 2015, the funds from IFAD, CDB and the Government will be channelled
+to the single treasury account held in the Grenada Cooperative Bank. Funds will be
+traced through coded designated ledger accounts, and regular reconciliations will
+be performed.
+34. Procurement. Procurement under the programme will be carried out by the PMU
+in accordance with provisions of the loan agreement, IFAD guidelines and the
+programme operational manual. Overall procurement risk is rated medium, in view
+of existing capacity and the programme’s implementation arrangements.
+35. Governance. The PSC will play a fiduciary oversight role, including approval of
+AWP/B submissions, discussion of key internal and external audit findings, review
+of programme progress and communication with all parties to ensure smooth and
+active implementation of activities from year to year.
+E. Supervision
+36.
+IFAD will supervise the programme directly, complemented by implementation
+support missions, the first of which will be undertaken during the first year of
+programme implementation. Key features to be assessed and monitored during
+this mission include: PMU staffing; programme start-up; understanding and
+application of targeting criteria; development of the AWP/B and procurement plan;
+progress in relation to the time frame defined in the implementation plan; progress
+on memorandums of understanding with key implementation partners;
+5
+EB 2017/LOT/P.23
+development of the baseline study, M&E and management information system;
+development of the programme operational manual; and progress on fiduciary
+issues, expenditures, contribution of funds from the counterparties, and fulfilment
+of the terms of the loan agreement.
+37. A midterm review will be take place no later than the midpoint of the
+implementation period, to assess progress towards achievement of logical
+framework indicators, programme objectives and outcomes.
+F. Exceptions to the General Conditions for Agricultural
+Development Financing and IFAD’s operating policies
+38. Retroactive financing. As an exception to section 4.08(a)(ii) of the General
+Conditions, up to US$400,000 equivalent in specific eligible expenses incurred and
+prefinanced by the Government during the preparatory period (from the first day of
+negotiations until the financing agreement’s entry into force), will be reimbursed
+from the IFAD loan after the financing agreement has entered into force and any
+conditions precedent to withdrawal have been met. The following expenditure
+categories are eligible for retroactive financing: (i) vehicles, equipment and
+materials; (ii) consulting services, training and technical assistance; (iii) salaries
+and allowances; and (iv) operating costs. Activities to be financed retroactively,
+and their respective expenditure categories and financing sources, will require
+IFAD’s prior “no objection‟ to be considered eligible.
+IV. Programme costs, financing and benefits
+A. Programme costs
+39. The base cost of the programme is estimated at US$11.29 million, with physical
+and price contingencies representing US$710,000 (about 6 per cent). The
+exchange rate used for calculations is US$1 = 2.7 East Caribbean dollars. Physical
+contingencies have been calculated at 10 per cent for selected expenditure
+accounts, while inflation was estimated at 2.6 per cent per annum for both
+imported and local products. Value added tax has been applied to nearly all goods
+and services at the current level of 15 per cent.
+B. Programme financing
+40. The programme will be financed as follows: (i) a highly concessional IFAD loan of
+US$3.99 million (33 per cent of total programme costs); (ii) a CDB loan under the
+Special Development Fund of US$3.00 million (25 per cent of the total); (iii) a non-
+refundable contribution by the Grenada Investment Development Corporation
+(GIDC) of US$330,000; (iv) counterpart contributions by the Government
+estimated at US$2.00 million (17 per cent of the total); (v) contributions in cash
+and in kind by the final beneficiaries worth US$270,000; and (vi) a financing gap of
+US$2.41 million (20 per cent of the total).
+41. The financing gap may be sourced from the subsequent IFAD performance-based
+allocation system cycle (under financing terms to be determined, subject to
+internal procedures and subsequent Executive Board approval), or by further
+cofinancing by CDB or another international financial institution operating in
+Grenada. The programme has been designed to be sustainable and stand-alone,
+even in the remote eventuality that the funding gap is not covered, in which case
+outreach would be reduced.
+6
+Table 1
+Programme costs by component and financier
+(Thousands of United States dollars)
+IFAD loan
+Financing gap
+CDB
+GIDC
+Borrower
+Beneficiaries
+Total
+Component
+1. Enterprise business
+development
+2. Climate-smart
+agriculture
+3. (a) Programme
+management
+(b) Monitoring and
+evaluation
+Amounta.
+1 702
+1 932
+258
+98
+%
+43
+48
+6
+2
+Amountb.
+1 844
+195
+177
+194
+%
+77
+8
+7
+8
+Amountc.
+%
+Amountd.
+% Amounte.
+%
+f.
+Amount
+%
+Amountg.
+%
+3 000
+100
+330
+100
+113
+266
+1 340
+281
+6
+13
+67
+14
+153
+117
+57
+43
+4 142
+5 510
+1 775
+573
+35
+46
+15
+5
+Total
+3 990
+100
+2 410
+100
+3 000
+100
+330
+100
+2 000
+100
+270
+100
+12 000
+100
+7
+Table 2
+Programme costs by expenditure category and financier
+(Thousands of United States dollars)
+Expenditure category
+1. Vehicles, equipment and
+materials
+2. Grants
+3. Consulting services, training
+and technical assistance
+4. Works
+Total investment costs
+5. Salaries and operating costs
+IFAD Loan
+Amount
+155
+1 605
+2 110
+3 870
+120
+%
+4
+40
+53
+97
+3
+5
+821
+1 374
+2 200
+211
+34
+57
+91
+9
+Financing
+gap
+CDB
+GIDC
+Borrower
+Beneficiaries
+Total
+Amount
+%
+Amount
+%
+Amount
+%
+Amount
+Amount
+%
+Amount
+%
+%
+2
+28
+330
+100
+245
+12
+3 000
+100
+3 000
+100
+330
+100
+273
+1 727
+14
+86
+269
+100
+9 942
+2 058
+188
+269
+100
+2 695
+4 059
+3 000
+2
+22
+34
+25
+83
+17
+Total
+3 990
+100
+2 411
+100
+3 000
+100
+330
+100
+2 000
+100
+269
+100
+12 000
+100
+E
+B
+2
+0
+1
+7
+/
+L
+O
+T
+/
+P
+.
+2
+3
+EB 2017/LOT/P.23
+C. Summary benefit and economic analysis
+42.
+In terms of benefits, programme interventions aim to reduce unemployment rates
+(mainly among young people) and increase family income generation, wages and
+new business incomes in rural areas.
+43. The following quantitative benefits have been considered for component 1
+activities: (i) for vocational skills training, at least a 20 per cent increase in
+expected future wages; (ii) for smaller grants (e.g. landscaping and birdwatching
+activities), income growth of at least 17 per cent; and (iii) for larger business
+grants (e.g. fisheries, health care and wellness, a shade-house for lettuce and
+agroprocessing of jellies and jams), at least a 23 per cent increase in income.
+44.
+For component 2 (climate-smart agriculture): (i) a 17 per cent increase in income
+for a typical farmer improving resilience and yields with water-harvesting
+technologies; (ii) a 26 per cent increase in income for innovative CSA shade-
+houses; and (iii) a 52 per cent increase in a participant’s income from small-
+ruminant CSA initiatives.
+45. The financial analysis considered the costs and benefits of the programme’s nine
+models over a 15-year period. All models are profitable at a 9 per cent discount
+rate, with a financial internal rate of return ranging from 9.3 per cent to 85.5 per
+cent.
+46. The economic analysis used economic prices to calculate total costs and benefits,
+and an economic discount rate of 6 per cent. In addition to the benefits mentioned
+in the financial analysis, externalities deriving from restoration of rural roads, in
+the form of time savings for users, were also included. The analysis yielded an
+economic internal rate of return of 11.47 per cent, with a net present value of
+US$3.34 million.
+D. Sustainability
+47. Political and institutional sustainability. The programme is aligned with the
+Government’s top priorities. Implementation arrangements will involve public-
+sector institutional partners providing the type of support services offered through
+the programme, as core responsibilities, and that are committed to maintaining the
+programme’s activities after the completion date.
+48. Financial sustainability. The programme will promote start-up businesses and
+put entrepreneurs and young people in contact with formal financial markets. The
+Grenada Development Bank and credit unions will participate in selecting matching
+grants. The programme will promote record-keeping activities in the new
+businesses – crucial for establishing a track record and gaining access to finance in
+the long term.
+49. Environmental sustainability. The programme’s CSA component will enhance
+the environmental sustainability of the agriculture sector. By promoting business-
+smart CSA and ensuring adequate maintenance activities, it is expected that
+farmers will adopt CSA practices on a sustainable basis.
+8
+E. Risk identification and mitigation
+50. The main risks identified and corresponding mitigation measures are described in
+the following table.
+EB 2017/LOT/P.23
+Main risks
+Economic risk: Grenada’s
+vulnerability, as a SIDS, to
+external shocks, particularly
+fluctuations in tourist arrivals,
+which could reduce demand for
+businesses promoted by the
+programme.
+Level of risk: moderate
+CC risks: Higher temperatures
+and more erratic rainfall patterns
+could undermine the production
+gains achieved during
+programme implementation and
+cause production losses.
+Level of risk: moderate
+Social risks: The programme’s
+capacity to reach the most
+vulnerable sectors of the target
+population (unemployed single
+mothers and at-risk youth
+susceptible to juvenile
+delinquency) unable to come
+forward to benefit from
+programme opportunities.
+Level of risk: moderate to low
+(decreasing over time)
+Institutional risks: Service
+providers’ capacity to target the
+right beneficiaries and provide
+quality, timely support.
+Level of risk: moderate
+Mitigation strategy
+- Small businesses will be promoted that are linked to
+agriculture, agroprocessing and related services and
+have the capacity to supply the domestic market.
+- Higher yields and quality control will be supported to
+gain competitiveness against imported products.
+- High-quality technical support services will
+contribute to increased competitiveness and instil
+entrepreneurial drive.
+- Different CSA practices and technologies will be
+tested and fostered to improve resilience.
+- Smallholder access to local markets will be improved
+to provide an economic incentive for CSA adoption
+and food processing.
+- Most of the opportunities will be made available to
+the target group through public calls for proposals.
+- SAEP implementation will mainstream enabling
+measures, including affirmative action when
+required, designed to empower the most vulnerable
+groups and create an enabling environment for their
+participation.
+-
+-
+-
+-
+In order to counteract young people’s lack of interest
+in farming, the SAEP will only promote profitable
+activities. Young men and women will be enabled to
+identify the best opportunities for increasing income
+sustainably through the capacity-building process.
+The PMU will monitor beneficiary participation by
+gender and age, taking affirmative action when
+necessary to correct imbalances, so that risk will
+decrease during implementation.
+The roles and responsibilities of the PMU and
+institutional partners will be clearly defined, vesting
+full implementation responsibility in the service
+providers.
+Institutional partners will participate in planning and
+will include activities and targets in their own
+workplans.
+- Contractual arrangements will be performance-
+based; payments will be approved and processed
+according to status reports; and beneficiaries will be
+involved in monitoring the quality of services at
+various levels.
+9
+EB 2017/LOT/P.23
+V. Corporate considerations
+A.
+Compliance with IFAD policies
+51. Overall, the programme is compliant with: (i) the IFAD Rural Enterprise Policy,
+which encourages IFAD to follow a holistic approach to enable entrepreneurial poor
+people to access various business support services; (ii) the Targeting Policy, by
+applying self-targeting (through participation in training courses and grant
+requests) and social targeting (focused on women and youth); (iii) the Policy on
+Improving Access to Land and Tenure Security, by promoting policy dialogue on
+land access; and (iv) the Policy on Gender Equality and Women’s Empowerment,
+through affirmative action to close the gender gap and increase women’s
+participation.
+52. Environmental and social category. In accordance with IFAD's Social,
+Environmental and Climate Assessment Procedures (SECAP), the programme is
+considered to pose moderate socio-environmental risks, and can be classified as
+category B, as it targets existing farms and promotes CSA practices, organic
+farming and/or integrated pest management.
+53. Climate-risk category. According to the Notre Dame Global Adaptation Index,
+Grenada is ranked 61st of 181 countries, in a ranking system in which countries are
+listed in reverse order of vulnerability. Safeguards against climate vulnerabilities
+are incorporated into the programme by promoting CSA practices that provide a
+buffer against extreme weather events and reduce the risk of crop failure. Based
+on the above, Grenada’s climate risk classification is moderate.
+Alignment and harmonization
+B.
+54. Alignment with the growth and poverty reduction strategy (GPRS). The
+programme is aligned with the 2014-2018 GPRS, in which the top priorities are
+economic growth and job creation.
+55. Synergies and harmonization with the programmes of other donors. The
+programme will seek to develop synergy with the Integrated CC Adaptation
+Strategies, funded by the German Agency for international Cooperation (GIZ),
+which aims to build capacity at diverse levels to mainstream CC issues in policies
+and community initiatives, and will finalize operations at the end of 2018. It will
+also seek synergy with the Regional Agricultural Competitiveness Project of the
+Organisation of Eastern Caribbean States (OECS), recently approved by the World
+Bank. That project targets the development of agricultural value chains in Grenada
+and St. Vincent (some US$4 million for Grenada) and will begin operations by end-
+2017. It promotes the development of competitive clusters in the agriculture and
+fisheries sectors, involving key players in each value chain. The new IFAD
+operation could complement this by enabling poor farmers to participate in the new
+value chains.
+C.
+Innovations and scaling up
+56. The SAEP will include innovations that could be scaled up and replicated at the
+national level. An important innovation is the promotion of an agricultural
+extension scheme based on a public/private partnership, which will encourage the
+Government to explore alternatives to the existing model of exclusively public
+extension services.
+57. The programme will also pioneer the mainstreaming of nutrition education in
+schools, extension services and training, generating valuable lessons for addressing
+the negative effects of changes in nutritional habits. In addition, it will introduce
+backyard gardens as a way to improve nutrition and allow home-based single
+mothers to engage in a productive economic activity.
+10
+EB 2017/LOT/P.23
+58.
+Lastly, the programme’s key technical elements could be replicated in other OECS
+countries that face similar problems (in terms of youth unemployment, reliance on
+food imports and vulnerability to climate change and variability).
+D.
+Policy engagement
+59. The following topics are considered of interest in promoting policy dialogue with the
+Government: (i) the programme’s innovative mechanism to develop extension
+services in rural areas; (ii) access to land for women and young people;
+(iii) development of renewable energy sources to reduce energy costs in rural
+areas; and (iv) the concessions scheme to import and ensure access to affordable
+agricultural equipment for poor rural people.
+VI. Legal instruments and authority
+60. A programme financing agreement between Grenada and IFAD will constitute the
+legal instrument for extending the proposed financing to the borrower. A copy of
+the negotiated financing agreement is attached as an appendix.
+61. Grenada is empowered under its laws to receive financing from IFAD.
+62.
+I am satisfied that the proposed financing will comply with the Agreement
+Establishing IFAD and the Policies and Criteria for IFAD Financing.
+VII. Recommendation
+63.
+I recommend that the Executive Board approve the proposed financing in terms of
+the following resolution:
+RESOLVED: that the Fund shall provide a loan on highly concessional terms to
+Grenada in the amount of three million nine hundred and ninety thousand
+United States dollars (US$3,990,000), and upon such terms and conditions as
+shall be substantially in accordance with the terms and conditions presented
+herein.
+Gilbert F. Houngbo
+President
+11
+Appendix I
+EB 2017/LOT/P.23
+Negotiated financing agreement
+Climate Smart Agriculture and Rural Enterprise
+Programme ("SAEP")
+(Negotiations concluded on 9 November 2017)
+Loan No: ________
+Climate Smart Agriculture and Rural Enterprise Programme (“SAEP” or the “Programme”
+Grenada(the “Borrower”)
+and
+The International Fund for Agricultural Development (the “Fund” or “IFAD”)
+(each a “Party” and both of them collectively the “Parties”)
+hereby agree as follows:
+Preamble
+The  Borrower  intends  to  obtain  co-financing  funds  for  the  implementation  of  the
+Programme from the Caribbean Development Bank (CDB).
+Section A
+1.
+The  following  documents  collectively  form  this  Agreement:  this  document,  the
+Programme  Description  and  Implementation  Arrangements  (Schedule  1),  the  Allocation
+Table (Schedule 2) and the Special Covenants (Schedule 3).
+2.
+The  Fund’s  General  Conditions  for  Agricultural  Development  Financing  dated
+29 April 2009, amended as of April 2014, and as may be amended hereafter from time to
+time (the ”General Conditions”) are annexed to this Agreement, and all provisions thereof
+shall  apply  to  this  Agreement.  For  the  purposes  of  this  Agreement  the  terms  defined  in
+the General Conditions shall have the meanings set forth therein.
+The  Fund  shall  provide  a  Loan  to  the  Borrower  (the  “Financing”),  which  the
+3.
+Borrower  shall  use  to  implement  the  Programme  in  accordance  with  the  terms  and
+conditions of this Agreement.
+Section B
+The amount of the Loan is three million nine hundred ninety thousand United Sates
+1.
+dollars (USD 3 990 000).
+2.
+The Loan is granted on highly concessional terms, and shall be free of interest but
+bear a service charge of three fourths of one per cent (0.75%) per annum payable semi-
+annually in the Loan Service Payment Currency, and shall have a maturity period of forty
+(40) years, including a grace period of ten (10) years starting from the date of approval
+of the Loan by the Fund’s Executive Board.
+3.
+The Loan Service Payment Currency shall be United States Dollar (USD).
+1
+Appendix I
+EB 2017/LOT/P.23
+4.
+The first day of the applicable Fiscal Year shall be 1st of January.
+Payments  of  service  charges  shall  be  payable  on  each  1  of  February  and  1  of
+5.
+August.
+6.
+The  proceeds  of  the  Financing  shall  be  channelled  to  the  coded  designated  ledger
+accounts opened in the Single Treasury Account maintained at the Grenada Cooperative
+Bank. All the arrangements regarding the functioning of this Account and the modalities
+of disbursement shall be detailed in the Letter to the Borrower.
+7.
+The  Borrower  shall  provide  counterpart  financing  for  the  Programme  in  the
+approximate amount of two million United States dollars USD 2 000 000 to cover mainly
+taxes, operative costs and staff salaries.
+Section C
+1.
+The Lead Programme Agency shall be the Ministry of Finance (MoF).
+2.
+The following are designated as additional Programme Parties: Grenada Investment
+Development  Cooperation  (GIDC),  the  Ministry  of  Agriculture  (MoA),  the  Ministry  of
+Carraicou and Petite Martinique Affairs (MCPMA), and the Ministry of Works (MoW).
+The Programme Completion Date shall be the sixth anniversary of the date of entry
+3.
+into force of this Agreement.
+Section D
+The Loan will be administered and the Programme supervised by the Fund.
+Section E
+1.
+The following is designated as additional grounds for suspension of this Agreement:
+(a)
+The  Programme  Implementation  Manual  (PIM),  or  any  provision  thereof,  has
+been  waived,  suspended, terminated, amended or modified without the prior
+consent  of  the  Fund,  and the  Fund  has  determined  that  such  waiver,
+suspension,  termination,  amendment  or  modification  has  had,  or  is  likely  to
+have, a material adverse effect on the Programme.
+(b)
+The  PMU  key  staff  have  been  appointed,  transferred  or  moved  from  the
+Programme  Management  Unit  (PMU)  without  the  prior  concurrence  of  the
+Fund in writing.
+The  following  are  designated  as  additional  general  conditions  precedent  to
+2.
+withdrawal:
+(a)
+(b)
+(c)
+The  designated  ledger  accounts  in  Single  Treasury  Account  specified  in
+paragraph B.6 above has been duly opened;
+The  Programme  Steering  Committee  (PSC)  and  the  PMU  have  been
+established in accordance with section II paragraph A.7 and A. 8 of Schedule
+1 to this Agreement;
+PMU  Key  staff  (the  Programme  Manager,  the  Financial  Manager,  the
+Monitoring  and  Evaluation  (M&E)  Specialist)  have  been  appointed  with  the
+prior consent of the Fund; and
+2
+Appendix I
+EB 2017/LOT/P.23
+(d) A draft PIM referred to under section II paragraph E of Schedule 1 under this
+Agreement has been prepared in form and substance satisfactory to the Fund.
+The following are the designated representatives and addresses to be used for any
+3.
+communication related to this Agreement:
+For the Borrower:
+Minister for Finance
+of Grenada
+Financial Complex
+The Carenage
+St. George's
+Grenada
+For the Fund:
+The President
+International Fund for Agricultural development
+Via Paolo di Dono 44
+00142 Rome, Italy
+This Agreement, dated ____________, has been prepared in the English language in two
+(2) original copies, one (1) for the Fund and one (1) for the Borrower.
+GRENADA
+(Authorized Representative)
+(Name and Title)
+INTERNATIONAL FUND FOR
+AGRICULTURAL DEVELOPMENT
+Gilbert F. Houngbo
+President
+3
+Appendix I
+EB 2017/LOT/P.23
+Schedule 1
+Programme Description and Implementation Arrangements
+I.
+Programme Description
+1.
+Target Population. The Programme shall benefit two of the most vulnerable groups of
+the population: (i) the unemployed and underemployed men and women, with a focus on
+youth and (ii) smallholder farmers, vulnerable to climate change and variability.
+2.
+Programme  Area. The  Programme  area  will  include  rural  communities  in  the
+7 parishes of Grenada (6 parishes in the main island and the parish covering Carriacou and
+Petite Martinique) (the “Programme Area”).
+Goal.  The  goal  of  the  Programme  is  to  contribute  to  the  reduction  of  poverty  and
+3.
+vulnerability of men and women in rural communities in the tri-island state of Grenada.
+4.
+Objectives.  The  objective  of  the  Programme  is  to  improve  the  livelihoods  of  the
+beneficiaries  through  accessing  new  jobs,  starting  up  businesses  or  consolidating  new
+businesses and adopting climate smart agriculture practices.
+5.
+Components. The Programme shall consist of the following Components:
+5.1 Component 1.
+Enterprise Business  Development (EBD).  This component aims
+at supporting ongoing and start-up businesses through the implementation of the following
+activities: (i) vocational and employment skills training especially focusing on women and
+youth  in  order  to  increase  their  possibilities  to  become  employed  through  certified
+trainings,  (ii) technical  support  services  to  promote  the  consolidation  of  ongoing
+businesses  or  the  creation  of  new  businesses  and  (iii) a  matching  grants  scheme
+promoting a step by step approach to support sustainable business ideas.
+5.2 Component 2.
+Climate  Smart  Agriculture  (CSA). This  component  aims  at
+increasing  the  sustainability  of  small  farmers  through  the  adoption  of  CSA  practices.  In
+this  respect  the  Programme  will  support  the  following  activities:  (i) knowledge  on  CC
+issues and training on CSA practices to farmers, MoA extensionists and vulnerable people
+in  rural  communities,  (ii) extension  services  to  farmers  on  CSA  practices  and  on
+improving marketing links, (iii) a matching grant financing scheme for individual farmers
+and/or  groups  to  promote  the  adoption  of  CSA  practices  and  technologies  and  (iv) the
+rehabilitation of rural roads and drainage systems to improve and/or maintain access to
+markets in extreme weather events, such as heavy rainfall.
+5.3 Component 3. Programme Management: This component aims at ensuring the
+effectiveness and efficiency of the Programme by establishing key management systems
+and processes.
+II.
+Implementation Arrangements
+A.
+Organisation and Management
+6.
+Lead Programme Agency (LPA). The Ministry of Finance (MoF) as the LPA will have
+the  overall  fiduciary  responsibility  of  the  Programme. The  MoF  shall  ensure  proper
+financial management and implementation of the Programme.
+4
+Appendix I
+EB 2017/LOT/P.23
+7.
+Programme Steering Committee (PSC)
+7.1 Establishment and  Composition.  A  PSC,  chaired  by  a  representative  of  the  MoF,
+shall  be  established  in  which  key  stakeholders  shall  be  represented  including  inter  alia:
+two  beneficiary  representatives;  private  sector  representatives  and,  public  sector
+institutions,  as  detailed  in  the  PIM. The  Programme  Manager  shall  attend  all  PSC
+meetings and serve as the Recording Secretary.
+7.2 Responsibilities. The PSC shall have an overall guidance role, establishing the main
+strategies  and  approving  the PIM,  the  agreements  and  contracts  with  service  providers,
+the  Annual  Work  Plan  and  Budget  (AWPB),  the    M&E  reports  and  any  other  reports
+submitted by the PMU for adequate supervision and guidance.
+8.
+Programme Management Unit (PMU)
+8.1. Establishment  and Composition.  A PMU  with  staff  as  detailed  in  the  PIM  shall  be
+established  and  shall report  directly  to  the  Permanent  Secretary  (PS)  in  the  MoF.  A
+number  of  key  staff  positions  (the  Programme  Manager,  Financial  Manager,  M&E
+Specialist) shall be filled with experienced staff from the MAREP Programme.
+8.2. Responsibilities.  The  PMU  shall  be  responsible  for  the  implementation  of  the
+Programme,  covering the  core  services  of  accounting  and  financial  management,  M&E
+and technical coordination.
+B.
+Programme Implementation
+9.
+Component  1.  The  Programme  will  develop  a  MoU  with  GIDC  for  the  business
+support activities of this component and for the preparation of business grant proposals,
+and  MoUs  with  the  main  training  service  providers    for  the  Vocational  Skills  Training
+(VST)  activities  including  Life  Skills  training  .  These  MoUs  shall  be  performance-based
+and  will  establish  (i) the  responsibility  of  the  service  provider  to  select  beneficiaries
+according  to  the  Programme’s  targeting  criteria  defined  in  the  PIM  and  also,  (ii) a
+minimum  retention  rates  that  the  trainer  commits  to  attain.  The  selected  service
+providers  will  report  to  the  PMU.  A  Business    Grant  selection  committee  will  be  set-up
+with expertise in assessing business proposals.
+10. Component  2.  The  PMU  will  enter  into  MoUs  with  key  implementing  partners
+such as:
+(i)
+the  MoA  for  ensuring  quality  technical  assistance  to  the  target  population,
+exploring  innovative  ways  of  delivering  climate  smart  agricultural  extension
+services  by  providing  training  to  Extension  Assistants  (EAs).  The  training  to
+EAs  will  be  contracted  through  competitive  processes  to  specialized  service
+providers  with  recognized  expertise  in  Climate  Change  and  adaptation  in  the
+Caribbean  region.  A  unit  within  the  MoA  will  be  established  to  report  directly
+to the PMU, which will recruit a technical coordinator for supervising the EAs.
+(ii)
+the Ministry of Carriacou and Petit Martinique Affairs in charge of agricultural
+extension services on these two small islands and;
+(iii) MoW for the rehabilitation of roads and drainage systems under component 2
+provided  that  the  Borrower  has  entered  into  a  co-financing  agreement  with
+CDB to finance such rehabilitation.
+In  addition,  under  this  component  a  CSA  Grant  selection  committee  will  be  set-up  with
+expertise in CSA practices and technologies.
+5
+Appendix I
+EB 2017/LOT/P.23
+C.
+Monitoring and Evaluation (M&E)
+11. M&E  under  this  Programme  will  be  conducted  using  a  participatory  approach
+through  which  stakeholders,  implementing  partners  and  service  providers  will  be  fully
+engaged  in  the  recollection  of  field  data,  discussion  of  this  data,  and  decision  making
+regarding  changes 
+for  a  more  effective  programme
+implementation. Key implementing partners and service providers will play an active role
+in data collection and monitoring the progress on the implementation of their respective
+AWPBs.  The  PMU  will  be  responsible  for  monitoring  the  overall  Programme  progress,
+providing feedback to the PSC.
+that  might  be  required 
+D.
+Mid-Term Review
+12. A review  of  Programme  implementation  shall  be  carried  out  no  later  than  the
+midpoint  of  the  Programme  implementation  period  (the  “Mid-Term  Review” or  “MTR”),
+based  on  terms  of  reference  prepared  by  the  PMU  and  approved  by  the  Fund.  Among
+other things the MTR shall assess progress in implementation and achievement of logical
+framework (LF) indicators, programme objectives and outcomes.
+E.
+Programme Implementation Manual (PIM)
+Preparation. The LPA shall prepare a consolidated draft PIM acceptable to the Fund.
+13.
+The PIM shall include among other arrangements: (i) institutional coordination and day-
+to-day  execution  of  the  Programme;  (ii) Programme  budgeting,  disbursement,  financial
+management,  procurement,  monitoring  and  evaluation, 
+related
+procedures;  (iii) detailed  description  of  implementation  and  targeting  arrangements  for
+each Programme  component;  and  (iv) other  administrative,  financial,  technical  and
+organizational arrangements and procedures as shall be required for the Programme.
+reporting  and 
+14. Approval  and  Adoption.  The  LPA  shall  forward  the  draft  PIM  to  the  Fund  for  no
+objection. The LPA shall adopt the PIM, substantially in the form approved by the Fund,
+and the LPA shall promptly provide copies thereof to the Fund. The Borrower shall carry
+out the Programme in accordance with the PIM and shall not amend, abrogate, waive or
+permit  to  be  amended,  abrogated,  or  waived,  the  aforementioned  manual,  or  any
+provision thereof, without the prior written consent of the Fund.
+6
+Appendix I
+EB 2017/LOT/P.23
+Schedule 2
+Allocation Table
+Allocation of Loan Proceeds. (a) The Table below sets forth the Categories of Eligible
+1.
+Expenditures  to  be  financed  by  the  Loan  and  the  allocation  of  the  amounts  to  each
+category of the Financing and the percentages of expenditures for items to be financed in
+each Category:
+Category
+IFAD Loan Amount
+Allocated
+(expressed in USD)
+Percentage
+I.
+II.
+Vehicles, equipment and materials
+140 000
+100% net of taxes
+Grants
+1 440 000
+100% net of taxes
+III. Consultancies, training and technical
+1 900 000
+100% net of taxes
+assistance
+IV.
+Salaries and operating costs
+Unallocated
+TOTAL
+100% net of taxes
+110 000
+400 000
+3 990 000
+(b)
+The terms used in the Table above are defined as follows:
+(i)
+(ii)
+Category  II – Grants  shall  cover  eligible  expenditures  for  costs  related  to
+Business grants and CSA grants.
+Category  III – Consultancies,  training  and  technical  assistance shall  cover
+eligible expenditures for costs related to Vocational and Skills Training (VST),
+Capacity  Building,  Extension  services,  Market  Promotion,  Studies,
+Workshops, M&E impact studies,  Audit reports, costs related to the business
+support activities of  EBD  Component  and  to  the  preparation  of  business
+grant proposals.
+(iii) Category  IV – Salaries and operating costs shall cover  eligible expenditures
+fuel,  DSA  and  other  operating
+for  salaries,  vehicle  maintenance, 
+expenditures
+2.
+Retroactive  Financing.  As  an exception  to  section  4.08(a)(ii)  of  the  General
+Conditions,  specific  eligible  expenditures  incurred  from  the  start  of  negotiations
+(9 November  2017)  until  the  date  of  entry  into  force  of  this  Agreement  shall  be
+considered eligible up to an amount equivalent to USD 400 000. The following categories
+are  eligible  to  be  covered  by  the  retroactive  financing:  (i) vehicles,  equipment  and
+materials;  (ii) consultancies,  training  and  technical  assistance;  (iii) salaries  and
+allowances;  (iv) operating  costs. Activities  to  be  financed  by  retroactive  financing  and
+their  respective  category  of  expenditures  and  source  of  financing  will  require  prior  no
+objection  from  IFAD  to  be  considered  eligible.  These  amounts  may  be  reimbursed  after
+the general conditions precedent to withdrawal have been met.
+Start-up Costs. Withdrawals in respect of expenditures for start-up costs for the for
+3.
+activities  relating  to:  (i) the  start-up  workshop;  (ii) the  baseline  survey;  and
+(iii) equipping  and  operating  the  PMU can  be  made  before  the  satisfaction  of  the
+conditions precedent to withdrawal. Start-up costs shall not exceed an aggregate amount
+Activities  to  be  financed  by  start-up  costs  and  their
+equivalent  to  USD 250 000.
+respective  categories  of  expenditures  and  source  of  financing  will  require  prior  no
+objection from IFAD to be considered eligible.
+7
+Appendix I
+EB 2017/LOT/P.23
+Schedule 3
+Special Covenants
+In  accordance  with  Section  12.01(a)(xxiii)  of  the  General  Conditions,  the  Fund  may
+suspend,  in  whole  or  in  part,  the  right  of  the Borrower  to  request  withdrawals  from  the
+Loan Account if the Borrower has defaulted in the performance of any covenant set forth
+below,  and  the  Fund  has  determined  that  such  default  has  had,  or  is  likely  to  have,  a
+material adverse effect on the Project:
+Gender. The Borrower shall ensure that appropriate measures will be taken in order
+1.
+to  support  women  and  youth  inclusion, particularly  of  young  males,  and  female-headed
+households.
+Counterpart  Funds. The  Borrower  shall  ensure  that  counterpart  funds  are  clearly
+2.
+identifiable in the financial management systems and all financial statements.
+3.
+Environmental  and  Social  Due  Diligence. The  Borrower  assures  that  an
+Environmental  and  Social  Management  Plan  (ESMP)  as  required  by  IFAD's  Social,
+Environmental and Climate Assessment Procedures (SECAP) will be adopted and that the
+Programme will be carried out in accordance with the aforementioned ESMP.
+8
+Logical framework
+Results Hierarchy
+Indicators [of which Core Indicators - CI - in square brackets]
+Means of Verification
+Assumptions (A)
+Outreach
+ Number of persons receiving services
+Name
+Baseline Mid-Term
+Target
+End
+Target
+Source
+Frequency Responsibility
+promoted or supported by the
+Programme
+ Corresponding number of households
+reached
+ Corresponding total number of household
+members
+ Number of indigent, poor and vulnerable
+HHs increasing their assets by more than
+10 per cent.
+ [N HHs reporting an increase of at least
+10 per cent of income (by sex and age of
+HH head)]
+ [CI 3.2.2: Number of farmers reporting
+adoption of at least one CSA practice]
+ [CI 2.2.1: N of new jobs created (by sex,
+age, and employed/self-employed)]
+ N of enterprises created/consolidated
+ N of youth (by sex, age) receiving
+vocational skills training
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3,200
+7,500
+3,200
+9,600
+7,500
+22,500
+1,500
+4,500
+1,500
+4,500
+200
+150
+500
+400
+40
+120
+Programme
+M&E system Annually
+M&E unit - PMU
+Baseline and
+final impact
+survey
+At start and
+completion
+M&E unit - PMU
+Baseline and
+final impact
+survey
+At start and
+completion
+M&E unit - PMU
+Programme
+M&E system
+Employment/
+national
+records
+Annually
+M&E unit - PMU
+250
+400
+Programme
+M&E system
+Semi-
+annually
+M&E unit - PMU
+A 1: Reasonable
+growth in the
+economy
+A 2: There are no
+natural disasters,
+such as hurricanes
+A 3: Focus on self-
+employment and
+youth is a
+successful strategy
+A 4: Technical
+support services are
+provided to
+enterprises in an
+9
+Goal
+Contribute to the reduction
+of rural poverty and
+vulnerability of men/women
+in rural communities in GOG
+Development Objective
+Project beneficiaries improve
+their livelihoods2 and
+resilience by accessing new
+jobs, starting-up
+/consolidating businesses3
+and adopting CSA practices4
+Component 1
+Enterprise and BD
+Outcome: Start up and new
+enterprises in rural areas are
+supported through capacity
+building, technical services
+and financing
+Outputs
+1.1
+Youth receive employment
+skill training
+2 Definition: In SAEP “livelihood”, is defined as the capabilities, assets and activities required for a means of living. Livelihood refers to economic production, employment, and household income,
+within a broader context of reduced vulnerability, and environmental sustainability.
+3 Definition: New businesses refers to businesses operating for less than 3 years, registered or not registered, and requiring support to become consolidated / sustainable.
+4 Definition:  Refers to  practices  and  technologies  (e.g.  clean  production,  aquaponics,  hydroponics,  solar  panels,  bio-gas)  that  sustainably  increase  agricultural  productivity  and  rural  household
+incomes, while building resilience and adapting production practices and technologies to climate change. These practices may or may not contribute to the reduction of greenhouse gas emissions.
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+7
+/
+L
+O
+T
+/
+P
+.
+2
+3
+1.2 Start-ups receive
+technical support services for
+business development
+1.3 Youth start-up
+businesses access grant
+financing
+1.4 Start-ups and new
+enterprises supported with
+capacity building and
+technical services
+Component 2
+CSA
+Outcome: Farmers have
+increased access to CSA
+practices
+Outputs:
+2.1 Farmers, MOA
+extensionists and vulnerable
+people in poor rural
+communities receive training
+on CC and CSA practices
+2.2 Farmers receive
+extension services on CSA
+practices and on improving
+marketing links
+2.3 Individual farmers
+and/or groups receive grant
+financing for CSA initiatives
+ N of people (by sex, age) receiving
+technical support services.
+ N of youth (by sex) accessing Youth
+Business Grant Fund
+ [CI 2.1.1: N of rural enterprises
+accessing business development
+services]
+ [CI 1.2.4: N of farmers increase
+production by 20 per cent (by sex and
+age of HH head)]
+ [CI 2.2.6: N of people reporting
+improved physical access to markets]
+ N of people (by sex, age) trained in
+innovative technologies, smart
+agriculture and CC
+ [CI 1.1.4: N of farmers (by sex, age)
+receiving extension services on CSA
+practices.]5
+ [CI 2.1.2: N of farmers (by sex, age)
+receiving market support services.]6
+ N of adaptation and climate smart
+investment projects financed through
+CSA Grant Fund
+ N of backyard gardens financed through
+CSA Grant Fund
+2.4 Rural roads rehabilitated
+to improve and/or maintain
+access to markets
+ N of rural roads rehabilitated in the
+project area
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+Reports of
+- NTA
+- GIDC
+300
+500
+250
+400
+80
+270
+efficient manner
+100
+400
+Programme
+M&E system
+Semi-
+annually
+1000
+3000
+700
+2 200
+600
+1 200
+MoA Reports
+Service
+providers
+Ministry of
+Work
+M&E unit - PMU A 5: Rural
+communities are
+aware of the
+challenges related
+to CC
+A 6: Services are
+provided to farmers
+in an efficient and
+well-coordinated
+way
+200
+60
+20
+10
+400
+120
+60
+30
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+7
+/
+L
+O
+T
+/
+P
+.
+2
+3
+5 Corresponds to the following Core indicator: 1.1.4 Number of persons trained in production practices and/or technologies.
+6 Corresponds to the following Core indicator: 2.1.2 Number of persons trained in income-generating activities or business management.

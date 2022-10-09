@@ -1,0 +1,1660 @@
+Document:
+Date:
+Distribution:
+Original:
+EB 2017/LOT/P.7
+20 July 2017
+Public
+English
+E
+President’s report
+Proposed loan and grant to the
+Kingdom of Tonga for the
+Tonga Rural Innovation Project – Phase II
+(TRIP II)
+Note to Executive Board representatives
+Focal points:
+Technical questions:
+Dispatch of documentation:
+Ron Hartman
+Country Director
+Asia and the Pacific Division
+Tel.: +62 21 2980 2300
+e-mail: r.hartman@ifad.org
+For: Approval
+William Skinner
+Chief
+Governing Bodies
+Tel.: +39 06 5459 2974
+e-mail: gb@ifad.org
+EB 2017/LOT/P.7
+ii
+iii
+iv
+1
+1
+1
+2
+2
+2
+2
+2
+3
+3
+3
+4
+4
+5
+5
+5
+6
+7
+7
+8
+8
+8
+8
+9
+9
+9
+10
+Contents
+Abbreviations and acronyms
+Map of the project area
+Financing summary
+Recommendation for approval
+I.
+Strategic context and rationale
+A. Country and rural development and poverty context
+B. Rationale and alignment with government priorities and
+RB-COSOP
+II. Project description
+A. Project area and target group
+B. Project development objective
+C. Components/outcomes
+III. Project implementation
+Approach
+A.
+B. Organizational framework
+C. Planning, monitoring and evaluation, and learning and
+knowledge management
+D. Financial management, procurement and governance
+E. Supervision
+IV. Project costs, financing and benefits
+A. Project costs
+B. Project financing
+C. Summary benefit and economic analysis
+D. Sustainability
+E. Risk identification and mitigation
+V.
+Corporate considerations
+A.
+B.
+C.
+D.
+Compliance with IFAD policies
+Alignment and harmonization
+Innovations and scaling up
+Policy engagement
+VI. Legal instruments and authority
+VII. Recommendation
+Appendices
+I. Negotiated financing agreement
+II. Logical framework
+i
+EB 2017/LOT/P.7
+Abbreviations and acronyms
+AWP/B
+CADP
+CDP
+DSF
+EIRR
+M&E
+MAFFF
+MFNP
+MIA
+annual workplan and budget
+community agricultural development plan
+community development plan
+Debt Sustainability Framework
+economic internal rate of return
+monitoring and evaluation
+Ministry of Agriculture, Food, Forests and Fisheries
+Ministry of Finance and National Planning
+Ministry of Internal Affairs
+MORDI TT
+Mainstreaming of Rural Development Innovation Tonga Trust
+PAC
+PMU
+RIMS
+TRIP
+TSDF
+project advisory committee
+project management unit
+Results and Impact Management System
+Tonga Rural Innovation Project
+Tonga Strategic Development Framework
+ii
+Map of the project area
+EB 2017/LOT/P.7
+iii
+EB 2017/LOT/P.7
+Kingdom of Tonga
+Tonga Rural Innovation Project – Phase II (TRIP II)
+Financing summary
+Initiating institution:
+IFAD
+Borrower/recipient:
+The Kingdom of Tonga
+Lead implementing agency:
+Mainstreaming of Rural Development Innovation Tonga
+Trust (MORDI TT)
+Total project cost:
+US$10.91 million
+Amount of IFAD loan:
+Amount of IFAD grant:
+Terms of IFAD loan:
+SDR 1,09 million (equivalent to approximately
+US$1.5 million)
+SDR 1,09 million (equivalent to approximately
+US$1.5 million)
+Highly concessional: Maturity period of 40 years,
+including a grace period of 10 years, with a service
+charge of 0.75 per cent per annum
+Financing gap:
+US$3.76 million
+Contribution of borrower:
+US$2.7 million
+Contribution of beneficiaries:
+US$1.4 million
+Appraising institution:
+IFAD
+Cooperating institution:
+Directly supervised by IFAD
+iv
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2017/LOT/P.7
+Recommendation for approval
+The Executive Board is invited to approve the recommendation for the proposed
+financing to the Kingdom of Tonga for the Tonga Rural Innovation Project – Phase
+II, as contained in paragraph 50.
+Proposed loan and grant to the Kingdom of Tonga for the
+Tonga Rural Innovation Project – Phase II (TRIP II)
+I. Strategic context and rationale
+A. Country and rural development and poverty context
+1.
+The Kingdom of Tonga is a small Pacific Island country with a population of 103,036.
+It covers a land area of 718 km2 comprising 170 islands spread over 700 km2 of
+ocean. Both the severity and depth of poverty have increased significantly in the last
+decade. The outer islands have experienced the sharpest increase in hardship. About
+half of Tonga’s poor live in the rural areas of Tongatapu, the main island.
+2. Some 85 per cent of the population resides in rural areas, with agriculture and
+fisheries being the main livelihood activities. Rural communities rely on traditional
+subsistence production systems of root crops for food security, employment and
+income generation. Despite underlying resilience, there are a number of factors
+seriously increasing rural peoples’ vulnerability, such as climate change and endemic
+non-communicable disease from poor nutrition and diets. Rural populations are
+declining. Outmigration and a lack of incentives for young people to remain in rural
+areas are leading to farm labour shortages, an aging farmer population and vacant
+land tax allotments. This has implications for staple food self-sufficiency in the longer
+term and an imbalance in favour of imports.
+3. Agriculture accounts for 18 per cent of GDP, 90 per cent of total exports (fisheries
+and agriculture) and about 35 per cent of employment. In 2015, 86 per cent of
+households were engaged in agriculture and about 70 per cent in fishing. Yet both
+sectors have been stagnant since 2011. Much of Tonga’s productive agricultural land
+is left uncultivated owing to limited interest in investing in the more isolated areas
+due to low profitability. The formal private sector is dominated by services largely
+determined by remittance levels, with limited growth potential and purchasing
+power. Consequently, the underlying structural constraints on Tonga’s economic
+performance, as well as recent global economic developments, have resulted in a
+decline in real incomes for many households.
+4.
+5.
+The country is heavily reliant on external finance (primarily development assistance)
+and is one of the most remittance-dependent countries in the world. Remittance
+inflows were equivalent to US$114 million in 2014 (World Bank 2014) and were sent
+by about 30,000 migrants living abroad (United Nations Department of Economic
+and Social Affairs [UN DESA] 2015). Almost all Tongan households rely on
+remittances from overseas members for a significant proportion of their incomes.
+Tonga has the world’s third highest level of risk from disasters, with the effects of
+climate change increasing their frequency and intensity. Successive economic shocks
+and continued outward migration, along with growing urbanization, continue to place
+pressure on traditional and informal social protection systems and to increase the
+vulnerability of poor people. Although remittances have reduced poverty, they have
+also increased dependency and raised expectations for living standards that are now
+difficult to satisfy within traditional Tongan communities.
+1
+EB 2017/LOT/P.7
+B. Rationale and alignment with government priorities and
+6.
+7.
+RB-COSOP
+The Tonga Rural Innovation Project II (TRIP II) builds on the success of a first-phase
+investment implemented from 2012 to 2017. TRIP I achieved significant results and
+policy impact by improving the livelihoods of remote outer island communities
+through enhanced community planning and delivery of improved public and private
+goods and services. The second phase will scale up this approach nationally and
+focus on building resilience to the effects of climate change and extreme weather
+events.
+TRIP II is aligned with the 2015-2025 Tonga Strategic Development Framework
+(TSDF), the current Climate Change Policy, and the Tonga Agriculture-Sector Plan
+(TASP). The project supports the TSDF’s outcome B – “a more inclusive, sustainable
+and balanced urban and rural development across island groups.” The TSDF
+recognizes that: (i) population dispersion across small islands presents challenges
+for inclusive development through access to infrastructure and services; and
+(ii) there is a need for an improved balance, and thus resource allocation, between
+urban and rural development across the island groups. TRIP II will contribute to the
+TASP’s goal of maximizing agriculture’s contribution to Tonga’s economic growth and
+to food security and nutrition in the face of a changing global economy, climate
+change and increased natural disasters.
+8.
+TRIP II is fully aligned with the IFAD Strategic Framework 2016-2025, the Fund’s
+strategy for Small Island Developing States (SIDS) and its Pacific Partnership
+Approach, which aims to enable rural people on Pacific Islands to achieve food
+security and sustainable, resilient livelihoods. TRIP II is also aligned with IFAD’s
+country strategy note for Tonga.
+II. Project description
+A. Project area and target group
+9. Project area. While TRIP I focused on the outer islands, TRIP II will have a national
+focus, excluding only large urban communities and those with very few households.
+10. Target group. The project targets poor women, men and youth living in rural
+communities. TRIP II’s targeting strategy combines self-targeting with specific
+operational measures that ensure inclusive and equitable processes. It has an
+estimated target of 28,650 people in 5,190 households in 122 communities.
+B. Project development objective
+11. TRIP II aims to contribute to improved and resilient livelihoods for Tonga’s rural
+population. Its development objective is to enable communities to plan and manage
+resilient infrastructure and livelihood activities (including addressing food security
+and nutrition).
+C. Components/outcomes
+12. Component 1. Community development aims to increase the resilience of
+community infrastructure built to required standards. This is a continuation of TRIP
+I’s component 1 (also community development), with the objective of covering the
+whole country by the end of TRIP II. Subcomponent 1.1 will support preparation of
+community development plans (CDPs) in target communities as the basis for
+subcomponent 1.2. This second subcomponent will support development of resilient
+community infrastructure based on CDPs, with activities focused on the construction,
+operation and maintenance of priority small-scale economic infrastructure.
+13. Component 2. Sustainable economic livelihoods aims to increase the resilience
+of economic livelihoods through climate-smart, nutrition-sensitive agricultural
+production systems. Subcomponent 2.1 will support the development of community
+agricultural development plans (CADPs), which will include activities to address
+2
+EB 2017/LOT/P.7
+climate change and the expressed wish of communities for support in improving
+their economic livelihoods. Subcomponent 2.2 will support farmers engaged in
+sustainable economic livelihoods through improved climate-resilient practices to:
+(i) improve agroforestry-based food production systems on tax allotments1 and
+demonstration farms; (ii) manage more productive homestead gardens; (iii) support
+agroforestry production of raw materials for crafts; and (iv) construct weaving halls
+for women.
+14. Component 3. Project management and coordination aims to enhance project
+management capacity for implementation and monitoring of project activities, with
+the component’s key output being effective project management.
+III. Project implementation
+Approach
+A.
+15. The TRIP II theory of change is that enhanced community capacity for sustainable
+infrastructure planning and development, when linked with investment in resilient
+agricultural production systems, will contribute to improved, sustainable livelihoods
+for vulnerable households. Building resilience to the effects of climate change and
+improving household nutrition are implicit in this approach. The project pursues a
+community development approach to expand economic livelihood opportunities
+through a combination of empowerment and technical inputs, such as sustainable
+resource management and targeted technical services. Project activities are
+complementary and, when implemented by target communities, are sequenced to
+create synergies for improved, sustainable and climate-smart economic livelihoods.
+Building cohesive and united rural communities through component 1 activities
+(planning and constructing resilient community infrastructure) will form a platform
+on which to design and implement component 2 (sustainable economic livelihoods).
+16. TRIP II builds on lessons learned during TRIP I, including: (i) avoiding complexity by
+focusing on a few core constraints on agriculture and rural development;
+(ii) enhancing component complementarity by focusing on common income-
+generating activities combined with the use of targeting mechanisms;
+(iii) strengthening and empowering rural communities for a greater influence on
+policy, and for engagement with government planning and sector support processes
+conducive to sustained community livelihood development; (iv) ensuring that
+addressing vulnerability to climate change and to over- and undernutrition is
+mainstreamed in all project activities; and (v) minimizing risk by adopting well
+proven approaches.
+B. Organizational framework
+17. The project will adopt the same implementation arrangements that functioned
+effectively under TRIP I, with some adjustments in targeting and approach based on
+learning. The Ministry of Finance and National Planning (MFNP) will be the
+representative of the borrower/recipient. The Mainstreaming of Rural Development
+Innovation Tonga Trust (MORDI TT), a locally registered NGO that has been
+implementing TRIP I through a memorandum of understanding with MFNP, will be
+the lead project agency. It will report to MFNP, and a project advisory committee
+(PAC) will be established to guide project implementation in areas of governance,
+policy, networking with other organizations and the strategic project overview.
+MORDI TT will establish a dedicated project management unit (PMU) to support
+project implementation.
+18. This arrangement is based on an assessment of MORDI TT’s implementation capacity
+and an institutional review done in the design phase. The Trust’s implementation of
+TRIP I has: (i) been cost-effective and cost-efficient; (ii) developed a credible
+reputation with non-governmental and government agencies (mainstreaming of the
+1 Defined as an eight-acre plot of farmland officially registered with the Government and inheritable from father to son.
+3
+EB 2017/LOT/P.7
+CDP planning process in national government planning processes) – evidenced by
+the interest expressed by development partners in funding the priorities identified in
+the CDPs; (iii) been instrumental in introducing the concept of CDPs;
+(iv) spearheaded the use of town officers as local development agents; and
+(v) demonstrated strong results after introducing a systematic process for
+community-level planning and development implementation.
+C. Planning, monitoring and evaluation, and learning and
+knowledge management
+19. Planning. Planning processes within TRIP II will be harmonized with the
+government planning process and guided by the CDPs and CADPs developed at the
+community level. The project manager, in consultation with town officers, will
+prepare a draft annual workplan and budget (AWP/B), submit it to the MORDI TT
+board for review and endorsement, and to the PAC for review. Draft AWP/Bs will
+then be shared with MFNP and the Ministry of Agriculture, Food, Forests and
+Fisheries (MAFFF), and finally submitted to IFAD for “no objection”.
+20. Monitoring and evaluation (M&E). The M&E system will monitor physical and
+financial progress, as well as progress towards project objectives, and will serve as a
+key management tool. Inputs, outputs, process and outcomes will be monitored in
+accordance with logical framework indicators based on the financial management
+system, staff reports and surveys. Special studies will complement this information
+through in-depth analysis of topics such as: (i) success factors in mobilizing and
+motivating youth; and (ii) strategies for investing remittances in productive local
+business opportunities. The PMU will collect baseline data in each targeted
+community, in accordance with the guidelines of IFAD’s Results and Impact
+Management System (RIMS). All data will be disaggregated by sex and age.
+21. Knowledge management. Knowledge management includes: (i) ensuring
+engagement with target communities and implementation partners; (ii) establishing
+an M&E framework that provides information and analysis for management decision-
+making against logical framework indicators and AWP/Bs; (iii) ensuring that
+knowledge and results are documented and shared with all stakeholders; and
+(iv) continuing the close relationship between MORDI TT and IFAD on a broad range
+of knowledge management activities. An addition to TRIP II is the focus on building
+partnerships with the objective of providing complete and timely information to key
+stakeholders and partners.
+D. Financial management, procurement and governance
+22. Financial management. MFNP will be the representative of the borrower/recipient,
+with responsibility for approving the AWP/B after endorsement by the PAC, and will
+have overall accountability for the project, including fiduciary aspects. MORDI TT will
+be responsible for day-to-day financial management activities, including accounting,
+reporting and coordinating audit processes.
+23. The inherent fiduciary risk is considered medium in Tonga. Project fiduciary risk was
+also assessed as medium during design. Financial management performance was
+judged to be moderately satisfactory by the latest supervision mission to TRIP I,
+suggesting room for improvement. Financial audits during TRIP I implementation
+have been consistently unqualified. However, some weaknesses were observed
+during supervision regarding staff turnover, adherence to IFAD's requirements for
+disbursement requests and procurement processes.
+24. Measures to mitigate fiduciary risk in TRIP II will include: (i) retention of TRIP I
+finance staff, subject to performance assessment; (ii) hiring of additional dedicated
+finance and procurement staff; (iii) improvement of the existing TRIP I finance and
+administration manual, with detailed accounting, procurement and documentation
+management processes; (iv) an automated accounting system and associated
+training (the current software used for TRIP I will be retained, subject to IFAD
+4
+EB 2017/LOT/P.7
+assessment; alternatively, a new system may be procured at start-up); (v) interim
+financial reporting submitted to MFNP and IFAD; (vi) periodic compliance audits by
+the Office of the Auditor General, reported to MFNP and IFAD, and focused on
+reviews of internal controls and procurement documentation; (vii) audit reports
+provided to MFNP and IFAD; and (viii) quarterly internal audits by the Internal Audit
+Office of MFNP.
+25. The financial statements for TRIP II will be prepared by MORDI TT on a cash
+accounting basis, supplemented as necessary by additional data so as to provide
+minimum disclosures under international accounting standards.
+26. Audit. Independent annual audits will be conducted by the Office of the Auditor
+General or a private auditor in line with international auditing standards. The choice
+of auditor will be determined within six months of effectiveness. IFAD's prior
+experience regarding the quality and timeliness of audits by private auditors during
+the implementation of TRIP I has been satisfactory.
+27. Flow of funds. A designated account in United States dollars will be opened by
+MFNP to receive the loan and grant funding from IFAD. A project account in local
+currency will also be opened by MORDI TT to cover day-to-day transactions.
+28. Procurement will be undertaken in accordance with national procurement rules and
+regulations to the extent that these are consistent with IFAD’s Project Procurement
+Guidelines. The Government of Tonga updated its public procurement regulations in
+2015. As procurement capacity has been identified as a risk, additional specialist
+human resources will be allocated to support efficient and effective procurement
+execution.
+29. Governance. Tonga has taken steps to improve the qualities of good governance,
+accountability, transparency, anticorruption, security and rule of law. As a sign of
+commitment, the Government is continuing with reform efforts made under the
+Economic Public-Sector Reform Programme to improve the effective provision of
+government services by focusing on three areas of public-sector management –
+public administration, financial management and enterprise reform. To ensure
+effective governance, the project will incorporate the following measures, to be
+monitored through a good governance framework: (i) information transparency;
+(ii) training and capacity-building; (iii) a complaint mechanism for community
+members; (iv) enhanced supervision and monitoring; and (v) zero tolerance towards
+fraud and corruption.
+E. Supervision
+30. TRIP II will be supervised by IFAD on a biannual basis to coincide with the
+preparation of AWP/Bs and approval of withdrawal applications. A midterm review
+will be undertaken at the end of the third project year. IFAD has strengthened its
+presence in the Pacific Islands with a subregional coordinator based at UNDP in
+Suva, Fiji. In addition, an IFAD country office has been established in Jakarta,
+Indonesia, managed by an outposted country director with responsibility for the
+Pacific Islands, allowing for more continuous follow-up and support.
+IV. Project costs, financing and benefits
+31. The financing gap of US$3.76 million may be sourced by subsequent performance-
+based allocation system (PBAS) cycles (under financing terms to be determined and
+subject to internal procedures and subsequent Executive Board approval) or through
+cofinancing identified during implementation.
+A. Project costs
+32. The total project cost is estimated at US$10.91 million over a five-year
+implementation period. Indicative component costs are detailed in table 1. Indicative
+project costs by expenditure category and financier are provided in table 2. The total
+5
+EB 2017/LOT/P.7
+cost includes physical and price contingencies, which amount to 4 per cent and
+3 per cent of base costs, respectively.
+33. Project costs have been calculated in prices current in Tonga as of June 2016. The
+allowance for price contingencies (3 per cent) is related to projected international
+and domestic inflation rates over the implementation period. It is based on projected
+inflation for Tonga (Asian Development Bank, mid-2016) and internationally (World
+Bank, Manufactures Unit Index (MUI) for G5 countries). Costs have been calculated
+in Tongan pa’anga (T$) and United States dollars at an exchange rate of US$1.0 =
+T$2.2.
+34. Approximately 21 per cent of the total base cost has been allocated to component 1,
+community development. Most of this is dedicated to CDPs and resilient community
+infrastructure. Component 2, sustainable economic livelihoods, has been allocated
+36 per cent of base costs, with most being allocated to supporting economic
+livelihoods in the form of grants. Component 3, project management and
+coordination, is estimated at 43 per cent of base costs and includes provision for
+technical and policy support, monitoring, evaluation and knowledge activities, and
+project staffing, with a significant government contribution for local government staff
+assigned to the project. The IFAD loan and grant will collectively finance
+25.2 per cent of component 3. To expedite early implementation, IFAD will finance
+eligible start-up costs up to a limit of US$125,000.
+Table 1
+Project costs by component and financier
+(Thousands of United States dollars)
+IFAD loan
+IFAD grant
+Financing gap
+Beneficiaries
+Borrower/
+counterpart
+Total
+Component
+Amount %
+Amount %
+Amount
+%
+Amount %
+Amount %
+Amount
+1. Community
+development
+2. Sustainable
+economic
+livelihoods
+3. Project
+management and
+coordination
+Total
+279
+12.2
+279
+12.2
+997
+43.6
+424
+18.5
+309
+13.5
+2 288
+627
+16.0
+627
+16.0
+1 156
+29.5
+1 004
+25.6
+506
+12.9
+3 920
+592
+1 498
+12.6
+13.7
+592
+1 498
+12.6
+13.7
+1 605
+3 758
+34.1
+34.4
+1 428
+13.1
+1 914
+2 730
+40.7
+25.0
+4 703
+10 911
+B. Project financing
+35. Tonga is classified as “yellow” under the Debt Sustainability Framework (DSF).
+Accordingly, IFAD funding will be provided at 50 per cent in the form of a loan and
+50 per cent in the form of a DSF grant. The total project cost of about
+US$10.91 million will be financed by: IFAD, for a total amount of some US$3 million
+(27.5 per cent of total cost), beneficiary contributions of US$1.43 million
+(13 per cent of total cost) and a government contribution of US$2.73 million
+(25 per cent of total cost). A financing gap of US$3.76 million may be funded by
+subsequent PBAS cycles (under financing terms to be determined and subject to
+internal procedures and subsequent Executive Board approval) or through
+cofinancing identified during implementation.
+6
+EB 2017/LOT/P.7
+Table 2
+Project costs by expenditure category and financier
+(Thousands of United States dollars)
+IFAD loan
+IFAD grant
+Financing gap
+Beneficiaries
+Borrower/
+counterpart
+Total
+Expenditure category
+Amt %
+Amt %
+Amt
+%
+Amt
+%
+Amt %
+Amt
+Investment costs
+1. Works
+2. Equipment and
+materials
+3. Vehicles
+4. Goods, services and
+inputs
+5. Training
+6. Workshops
+7. Consultancies
+Recurrent costs
+1. Salaries and
+allowances
+2. Operating costs
+Total
+573
+11.3
+573 11.3
+1 836
+36.3
+1 428
+28.3
+643
+12.7
+5 053
+31
+20
+123
+163
+30
+124
+357
+77
+1 498
+42.5
+42.5
+26.5
+29.6
+24.4
+22.3
+10.0
+16.6
+13.7
+31 42.5
+20 42.5
+123 26.5
+163 29.6
+30 24.4
+124 22.3
+148
+142
+45
+225
+357 10.0
+1 121
+77 16.6
+240
+1 498 13.7
+3 757
+31.9
+25.9
+36.2
+40.5
+31.3
+51.8
+34.4
+11
+7
+69
+82
+19
+83
+15.0
+15.0
+15.0
+15.0
+15.0
+15.0
+73
+47
+463
+550
+124
+556
+1 746
+70
+1 428
+13.1
+2 730
+48.7
+15.0
+25.0
+3 581
+463
+10 911
+C. Summary benefit and economic analysis
+36. Benefits will derive from: (i) reduced loss of life, repair costs, and transport and
+communication costs associated with new and improved climate-resilient
+infrastructure; (ii) increased household incomes from agricultural (annual and
+perennial crops) and craft production; (iii) improved community organization,
+empowerment and quality of life in remote communities; and (iv) improved food
+security and nutrition. The project benefits a total of 6,349 households or 35,538
+beneficiaries.
+37. The economic internal rate of return (EIRR) for the project is 20 per cent and the net
+present value at a discount rate of 12 per cent is US$8 million. Sensitivity analyses
+were completed based on changes in costs and benefits (marginal change and
+accrual of benefits over time). An increase in costs of up to 30 per cent decreases
+the EIRR to 16 per cent – the same impact as delaying benefits by two years. An
+increase in benefits of 20 per cent changes the EIRR to 22 per cent, while a decrease
+in benefits of 20 per cent changes the EIRR to 17 per cent.
+D. Sustainability
+38. Sustainability of project benefits for TRIP I households was high. TRIP II will further
+scale up improved and sustainable livelihoods of vulnerable rural communities by:
+(i) assisting beneficiaries in community and household planning and prioritization
+processes; (ii) involving beneficiaries in development, financing, operation and
+maintenance of community economic infrastructure, and sustainable livelihood
+investments; (iii) linking beneficiaries with markets, microfinance services and
+improved farmer field schools and agricultural extension services; and
+(iv) embedding participating and learning methods in CDPs, CADPs and government
+processes and systems.
+39. MORDI TT is an independent NGO that has acquired significant experience and
+recognition through successful implementation of the first phase of the TRIP. The
+fact that the Government has agreed to partner with civil society (and vice versa) to
+deliver TRIP II remains innovative in the Tongan context. The project will ensure
+that this relationship is developed further, so that, by completion, the capacity to
+further support and develop Tonga’s rural sector is enhanced and embedded in
+national systems.
+7
+EB 2017/LOT/P.7
+E. Risk identification and mitigation
+40. TRIP II is considered a relatively low-risk investment, as the design scales up a
+proven approach to supporting the development of remote rural communities. Main
+risks include: (i) remoteness, and transport and communication obstacles; (ii) lack
+of finance for community economic infrastructure and sustainable livelihoods; (iii) a
+declining population and migration of youth and able-bodied people; (iv) non-
+conducive land tenure systems under which land and tax allotments are allocated to
+elder male heirs and are often abandoned and unproductive; (v) climate change
+impact, including extreme weather events; (vi) MORDI TT staff retention;
+(vii) fiduciary risk relating to adherence to financial management and procurement
+processes; and (viii) inability of MAFFF to fulfil its role of providing extension officers
+for farmer field schools and related extension activities. Mitigation strategies have
+been developed during the design and include: (i) realistically designed activities and
+targets; (ii) specific targeting of income-generating activities; (iii) capacity-building
+and awareness-raising; (iv) strengthened project management and collaboration
+with relevant government agencies; and (v) financial management and procurement
+arrangements to mitigate fiduciary risk.
+V. Corporate considerations
+A.
+Compliance with IFAD policies
+41. TRIP is fully aligned with the goals and objectives of the IFAD Strategic Framework
+2016-2025, IFAD’s strategy for SIDS, and other relevant policies and strategies,
+including those for targeting, gender equality and women’s empowerment, the
+environment and natural resource management, and climate change. In addition,
+TRIP II has developed an explicit scaling up pathway – an area of strategic
+importance to IFAD.
+Alignment and harmonization
+B.
+42. The project is aligned with a number of key policies and contributes to Government
+priorities. Strategic partnerships between MORDI TT and various partners and
+external service providers were integral to the success of TRIP I and will thus form
+an integral part of TRIP II implementation, for example with: (i) the Pacific Risk
+Resilience Programme, for support to introducing climate change and disaster risk
+concepts into infrastructure planning; (ii) the private sector, for development and
+testing of extension approaches; and (iii) the Food and Agriculture Organization of
+the United Nations, to increase awareness of the impacts of climate change and
+natural disasters on farming practices.
+43. MORDI TT has also built strategic partnerships with a number of agencies and
+organizations in Tonga, particularly with MFNP, which is responsible for development
+planning, coordination and financing. TRIP II will promote partnerships with:
+(i) MAFFF and the Ministries of Education and Women’s Affairs; Labour, Commerce,
+Trade and Industries; and Training, Sports, Youth and Employment;
+(ii) representatives of development partners (e.g. the Asian Development Bank and
+World Bank; Australia and the New Zealand Aid Programme); and (iii)
+representatives of the private sector (e.g. commercial vanilla and vegetable growers
+and exporters) that work in rural development in Tonga. A feature of TRIP II will be
+a strengthened and more formal partnership with MAFFF for the provision of farmer
+extension services and tree seedlings, with the objective of developing extension
+packages and good practice modules for national adoption and use by MAFFF and
+others beyond the project. A close and ongoing partnership with the Ministry of
+Internal Affairs, which employs cooperating town and district officers, will be
+essential. These strategic partnerships, particularly those with the Ministries of
+Education and Women’s Affairs and of Training, Sports, Youth and Employment will
+ensure that TRIP II receives continuous strategic support and monitoring to further
+social, economic and gender inclusion objectives.
+8
+EB 2017/LOT/P.7
+Innovations and scaling up
+C.
+44. The design of TRIP II promotes innovation in rural empowerment and livelihood
+development, including: (i) impact on policy and local governance through
+collaboration with the Ministry of Internal Affairs; (ii) identifying and implementing
+strategic partnerships with, for example: (a) NGOs (Live & Learn Environmental
+Education), the Pacific Risk Resilience Programme and the Tonga Business Enterprise
+Centre; (iii) the negotiated partnership between the Government, IFAD and
+MORDI TT, which has proven to be one of the most effective in the country; and
+(iv) responding to challenges encountered in TRIP I’s component 2 with an
+innovative smallholder package of: (a) farmer field schools for training and learning;
+(b) short value-chain analysis to define local and import replacement markets;
+(c) appropriately timed microfinance support from South Pacific Business
+Development; (d) provision of farming inputs; and, importantly, (e) ensuring that
+the designs of community infrastructure and livelihood development activities
+contain interventions and responses that address the looming impact of climate
+change and increased natural disasters.
+45. Once TRIP II is completed, it is expected that 122 rural communities in Tonga will be
+empowered with CDPs, which will be the basis of community development across all
+island groups. In addition, about 60 rural communities will develop CADPs. These
+powerful and community-embedded plans should thus form the basis for a further
+scaling up of the TRIP II economic livelihoods initiative. A scaling up pathway has
+been developed as part of project design.
+Policy engagement
+D.
+46. TRIP I achieved significant policy impact. TRIP II will continue to promote an
+enabling environment for rural communities by addressing procedural and policy
+issues that affect inclusive development, including through: (i) working with public
+partners to integrate the development planning process into formal government
+processes; (ii) establishing partnerships that support inclusion objectives (e.g. for
+rural finance, nurseries and materials); (iii) piloting approaches tailored to the
+specific constraints and resources of the Tongan community (e.g. using social media,
+digital extension services and capture of remittance investment); and (iv) seeking
+practical solutions to policy constraints, such as land legislation that reduces the
+access of both women and younger siblings.
+VI. Legal instruments and authority
+47. A project financing agreement between the Kingdom of Tonga and IFAD will
+constitute the legal instrument for extending the proposed financing to the
+borrower/recipient. A copy of the negotiated financing agreement is attached as
+appendix I.
+48. The Kingdom of Tonga is empowered under its laws to receive financing from IFAD.
+49. I am satisfied that the proposed financing will comply with the Agreement
+Establishing IFAD and the Policies and Criteria for IFAD Financing.
+9
+EB 2017/LOT/P.7
+VII. Recommendation
+50. I recommend that the Executive Board approve the proposed financing in terms of
+the following resolutions:
+RESOLVED: that the Fund shall provide a loan on highly concessional terms to
+the Kingdom of Tonga in an amount equivalent to one million ninety thousand
+special drawing rights (SDR 1,090,000), and upon such terms and conditions
+as shall be substantially in accordance with the terms and conditions
+presented herein.
+RESOLVED FURTHER: that the Fund shall provide a DSF grant to the Kingdom
+of Tonga in an amount equivalent to one million ninety thousand special
+drawing rights (SDR 1,090,000), and upon such terms and conditions as shall
+be substantially in accordance with the terms and conditions presented
+herein.
+Gilbert F. Houngbo
+President
+10
+Appendix I
+EB 2017/LOT/P.7
+Negotiated financing agreement: “Tonga Rural
+Innovation Project – Phase II (TRIP II)”
+(Negotiations concluded on 8 June 2017)
+Loan Number: _____________________
+Grant Number: ____________________
+Project Title: Tonga Rural Innovation Project – Phase II (TRIP II) (“the Project”)
+The Kingdom of Tonga (the “Borrower/Recipient”)
+and
+The International Fund for Agricultural Development (the “Fund” or “IFAD”)
+(each a “Party” and both of them collectively the “Parties”)
+hereby agree as follows:
+Section A
+The  following  documents  collectively  form  this  Agreement:  this  document,  the
+1.
+Project Description and Implementation Arrangements (Schedule 1), the Allocation Table
+(Schedule 2), and the Special Covenants (Schedule 3).
+The  Fund’s  General  Conditions  for  Agricultural  Development  Financing  dated
+2.
+29 April 2009, amended as of April 2014, and as may be amended hereafter from time to
+time (the “General Conditions”) are annexed to this Agreement, and all provisions thereof
+shall  apply  to  this  Agreement.  For  the  purposes  of  this  Agreement the  terms  defined  in
+the General Conditions shall have the meanings set forth therein.
+3.
+The  Fund  shall  provide  a  Loan  and  a  Grant  to  the  Borrower/Recipient  (the
+“Financing”),  which  the  Borrower/Recipient  shall  use  to  implement  the  Project  in
+accordance with the terms and conditions of this Agreement.
+Section B
+1.
+(a)
+The amount of the Loan is one million ninety thousand Special Drawing Rights
+(SDR 1 090 000).
+(b)
+The  amount  of  the  Grant  is one  million  ninety  thousand  Special  Drawing
+Rights (SDR 1 090 000).
+2.
+The  Loan  is  granted  on  highly  concessional  terms  and  shall  be  free  of interest  but
+bear  a  service  charge  of  three  fourths  of  one  per  cent  (0.75  per  cent)  per  annum  and
+have a maturity period of forty (40) years, including a grace period of ten (10) years.
+3.
+4.
+The Loan Service Payment Currency shall be the United States dollar (USD).
+The first day of the applicable Fiscal Year shall be 1 July.
+Payments of principal and service charge shall be payable on each 01 February and
+5.
+01 August
+1
+Appendix I
+EB 2017/LOT/P.7
+6.
+There  shall  be  one  Designated  Account  denominated  in  US  dollars  opened  by  the
+Ministry  of  Finance  and  National  Planning  (MFNP)  at  a  commercial  bank,  through  which
+the  proceeds  of  the  Loan  and  the  Grant  will  be  channelled.  A  project  account  in  local
+currency will be opened at a commercial bank by MORDI TT to finance project activities.
+7.
+The  Borrower/Recipient  shall  provide  counterpart  financing  for  the  Project  in  an
+approximate  amount  of two  million  seven  hundred  thousand  United  States  dollars
+(USD 2 700 000) to cover participating government staff salaries, duties and taxes.
+Section C
+1.
+The MFNP will formally represent the Borrower/Recipient.
+The  Lead  Project  Agency  shall  be  the  Mainstreaming  of  Rural  Development
+2.
+Innovation Tonga Trust (MORDI TT).
+The Project Completion Date shall be the fifth anniversary of the date of entry into
+3.
+force of this Agreement.
+Section D
+The Loan will be administered and the Project supervised by the Fund.
+Section E
+The  following  are  designated  as  additional  grounds  for  suspension  of  this
+1.
+Agreement:
+(a) MORDI TT is not appointed by the MFNP as the Lead Project Agency (LPA);
+(b) MORDI TT is wound up;
+(c)
+The Project Implementation Manual (PIM), or any provision thereof, has been
+waived,  suspended,  terminated,  amended  or  modified  without  the  prior
+consent  of  the  Fund,  and  the  Fund  has  determined  that  such  waiver,
+suspension,  termination,  amendment  or  modification  has  had,  or  is  likely  to
+have, a material adverse effect on the Project; and
+(d)
+Key managerial staff as described in Schedule 1 paragraph 9.1 are appointed
+transferred  or  moved  from  the  Project  Management  Unit  (PMU)  without  the
+prior concurrence of the Fund.
+2.
+The following are designated as additional conditions precedent to withdrawal:
+(a)
+A Memorandum of Understanding (MoU) has been signed between MFNP and
+MORDI TT in order to appoint MORDI TT as the LPA for the implementation of
+the project;
+(b) MFNP  has  duly  opened  a  Designated  Account  and  MORDI  TT  has  opened  a
+Project Account as specified in Section B, paragraph 6 above;
+(c)
+PMU  within  MORDI  TT  shall  have  been  established  and  key  Project  staff,  as
+defined in Schedule 1, shall have been appointed to the satisfaction of IFAD;
+(d) MORDI TT has prepared a draft PIM as described in section II of Schedule 1,
+in form and substance satisfactory to the Fund.
+2
+Appendix I
+EB 2017/LOT/P.7
+The following are the designated representatives and addresses to be used for any
+3.
+communication related to this Agreement:
+For the Borrower/Recipient:
+Minister
+Ministry of Finance and National Planning
+Taufa’ahau Road, Tungi Colonade Building,
+Nuku’alofa,
+Kingdom of Tonga
+For the Fund:
+The President
+International Fund for Agricultural development
+Via Paolo di Dono 44
+00142 Rome, Italy
+This  Agreement,  dated _____,  has  been  prepared  in  the  English  language  in  two  (2)
+original copies, one (1) for the Fund and one (1) for the Borrower/Recipient.
+THE KINGDOM OF TONGA
+____________________
+(Authorised Representative)
+Minister of Finance and National Planning
+INTERNATIONAL FUND FOR
+AGRICULTURAL DEVELOPMENT
+___________________
+Gilbert F. Houngbo
+President
+3
+Appendix I
+EB 2017/LOT/P.7
+Schedule 1
+Project Description and Implementation Arrangements
+I.
+Project Description
+1.
+Project area. The Project will have a national geographic focus with only large urban
+communities  and  those  with  very  few  households  excluded  and  shall  benefit 122  rural
+communities (the “Project Area”).
+Target  population.  The  project  shall  focus  on  poor  women,  men  and  youth  living  in
+2.
+rural communities with an estimated target of 28,650 people.
+Goal. The goal of the Project is to contribute to improved and resilient livelihoods for
+3.
+Tonga’s rural population.
+Objectives.  The  development  objective  of  the  Project  is to  enable  communities  to
+4.
+plan and manage resilient infrastructure and livelihood activities.
+5.
+Components. The Project shall consist of the following Components:
+Component  1.  Community  Development.  This  component  will  aim  at  increasing
+community capacity to manage resilient infrastructure built to required standards. This will
+be achieved through the following sub-components:
+(a)
+(b)
+Sub-component  1.1.  Community  Development  Plans (CDPs).  Activities  under
+this sub-component will support development of CDPs in target communities;
+and  from  which  target  communities  select  and  develop  (with  Project
+support) priority economic infrastructure.
+Sub-component 1.2. Development of resilient community infrastructure based
+on CDPs.  Activities  under  this  sub-component  will  focus  on  the  construction,
+operation and maintenance of priority small-scale economic infrastructure.
+Component 2. Sustainable economic livelihoods. This component will aim at increasing the
+resilience  of  economic  livelihoods  based  on  climate  smart  agriculture  production  systems,
+and  agro-forestry  based  handicrafts.  This  will  be  achieved  through  the  following  sub-
+components:
+(a)
+(b)
+Sub-component  2.1.  Support  to  Community Agricultural Development  Plans
+(CADPs). Activities  under  this  sub-component  will  support  the  development
+of  CADPs,  which  reflect  activities  to  address  climate  change  and  natural
+disasters  and  communities’  expressed  wishes  for  support  to  improve  their
+economic livelihoods.
+Sub-component  2.2.  Support  to  Farmers  engaged  in  sustainable  economic
+livelihoods. Activities  under  this  sub-component  will  support  farmers
+engaged  in  sustainable  economic  livelihoods  through  improved  and  climate
+resilient  practices  to:  (i)  improve  agro-forestry  based  food  production
+systems  on  tax  allotments  and  demonstration  farms;  (ii)  manage  more
+productive  homestead  gardens;  (iii)  support  agro-forestry  production  for
+handicraft  raw  material  production;  and  (iv)  construction  of  multipurpose
+weaving halls for women.
+4
+Appendix I
+EB 2017/LOT/P.7
+Component  3.  Project  management.  This  component  aims  at  enhancing  project
+management  capacity  for  implementation  and  monitoring  of  project  activities. MORDI  TT
+will be appointed by MFNP on a sole source basis, through a MoU to be signed between
+both parties, to implement the Project. MORDI TT will establish a PMU and recruit staff as
+needed. The Project Manager will have overall responsibility for implementing the Project
+and for building and maintaining strategic partnerships, including proactively working to
+further  institutionalize  the  Project  approach  and  processes  into  formal  Government
+procedures.
+II.
+Implementation Arrangements
+A. Organisation and management
+6.
+Ministry of Finance and National Planning (MFNP)
+The MFNP will be responsible for the financing of the Project and more specifically for the
+receipt and disbursement of funds from IFAD and monitoring budget finance.
+7.
+Lead Project Agency (LPA).
+MORDI TT shall be the LPA and shall have overall responsibility for the implementation of
+the  Project.  MORDI  TT  shall  report  to  the  MFNP  on  all  matters  related  to  the  Project
+implementation.
+8.
+Project Advisory Committee (PAC)
+8.1 Establishment and  composition:  A  PAC  shall  be  established  and  maintained
+throughout  the  entire  Project  Implementation  Period.  The membership  of  the  PAC
+will be defined in the PIM.
+8.2 Responsibilities.  PAC  will  advise  in  areas  of  governance,  policy,  networking  with
+other organisations and strategic project overview. Among other activities, the PAC
+will: (i) review the Annual Work Plan and Budgets (AWPBs) approved by MORDI TT
+Board  Approval  prior  to  transmittal  to  IFAD  for  no  objection;  (ii)  oversee  six-
+monthly  reviews in  cooperation  with  joint  supervision  missions;  (iii)  promote
+cooperation and coordination between regional and national Government and non-
+government  agencies;  (iv)  identify  evidence  based  policy  issues  for  dialogue
+amongst  partners;  and  (v)  ensure  Project  management  transparency  and
+accountability.
+9.
+Project Management Unit (PMU)
+9.1. Establishment  and  composition:  MORDI  TT  shall  establish  a  PMU headed  by  a
+Project  Manager  and  composed  of,  but  not  limited  to,  the  following  key  staff
+recruited according  to  the  Borrower/Recipient  applicable  procedures,  to  the  extent
+these  are  acceptable  to  the  Fund: (i)  an  Administrator;  (ii)  a  Finance  and
+Procurement Manager; (iii) an M&E and Knowledge Management (KM) Coordinator;
+and (iv) two Component Coordinators. These senior staff will manage smaller teams
+with the specific skills and experience as required for the Project implementation.
+9.2. Responsibilities:  The  PMU  key  functions  will  relate  to  planning,  coordination,
+facilitation and brokerage of partnerships, and monitoring and evaluation. The PMU
+will also be responsible for implementing all operational-level fiduciary functions to
+ensure that the financial and administrative management of project resources is in
+line  with  the  IFAD  Financing  Agreement  and  IFAD  policies.  This  will  include:  (i)
+5
+Appendix I
+EB 2017/LOT/P.7
+preparation  of  the  AWPB  and  procurement  plan,  (ii)  submission  of  application  to
+withdraw  funds  from  the  Loan  and  Grant  Account;  (iii)  preparation  of  financial
+reports; and (iv) coordination of audit processes.
+10. Strategic  partnerships. MORDI  TT  will  build  strategic  partnerships  with  external
+service  providers,  and  also  with  a number  of  agencies  and  organisations  inter  alia,  with
+the  (i)  MFNP  and,  (ii)  MAFFF;  (iii)  Ministry  of  Internal  Affairs;  (iv)  Ministry  of
+Meteorology,  Energy,  Information,  Disaster  Management,  Environment  and  Climate
+Change; and (v) Ministry of Revenue and Customs.
+11.
+Project Review and Appraisal Committee (PRAC)
+11.1 Establishment and Composition: Membership of the PRAC will be defined in the PIM.
+11.2 Responsibilities:  PRAC  overall  purpose  shall  be  to  provide  an  executive
+management  function  for  the  Community  Economic  Infrastructure  Grant  Proposals
+(CEIG)  and  the  Community  Economic  Livelihood  Grant  (CELG)  and  will  interface
+with MORDI TT. PRAC will screen, discuss and report results of the CEIG and CELG
+proposals as defined in the PIM.
+12. MORDI TT specific tasks. MORDI TT will have specific tasks, further defined in the
+PIM, inter alia: (i) to train, and supervise PMU staff, in the use of participatory learning,
+action  and  planning  methods,  and  in  Project  implementation  practices,  (ii)  to  lodge
+consolidated  CDPs  and  CADPs,  (iii)  to  disburse  approved  CEIGs  and  CELGs,  (iv)  to
+monitor  and  evaluate  Project  performance,  including  collecting impact  data;  and  (v)  to
+identify evidence-based policy issues for dialogue through the PAC.
+B
+Mid-Term Review
+13. The LPA and the Fund shall jointly carry out a review of the Project Implementation
+at the end of project year three (the “MTR”) based on the terms of reference prepared by
+the LPA and agreed to by the Borrower/Recipient and the Fund.
+C.
+Project Implementation Manual
+14.
+Preparation. The LPA shall prepare a consolidated draft PIM acceptable to the Fund.
+The PIM shall include among other arrangements: (i) institutional coordination and day-
+to-day  execution  of  the  Project;  (ii) Programme  budgeting,  disbursement,  financial
+related
+management,  procurement,  monitoring  and  evaluation, 
+procedures;  (iii) detailed  description  of  implementation  arrangements  for  each  Project
+component;  and  (iv) such  other  administrative,  financial,  technical  and  organizational
+arrangements and procedures as shall be required for the Project.
+reporting  and 
+15. Approval  and  Adoption.  The  LPA shall  forward  the  draft  PIM  to  PAC  for  comments
+and to the Fund for no objection. The LPA shall adopt the PIM, substantially in the form
+approved  by  the  Fund,  and  the  LPA  shall  promptly  provide  copies  thereof  to  the  Fund.
+The  Borrower/Recipient  shall  carry  out  the  Project  in  accordance  with  the  PIM  and  shall
+not  amend,  abrogate,  waive  or  permit  to  be  amended,  abrogated,  or  waived,  the
+aforementioned manual, or any provision thereof, without the prior written consent of the
+Fund.
+6
+Appendix I
+EB 2017/LOT/P.7
+Schedule 2
+Allocation Table
+Allocation  of  Proceeds.
+(a) The  Table  below  sets  forth  the  Categories  of  Eligible
+1.
+Expenditures  to  be  financed  by  the  Financing  and  the  allocation  of  the  amounts  of  the
+Financing to each Category and the percentages of expenditures for items to be financed in
+each Category:
+Category
+Loan Amount
+Allocated
+(expressed in
+SDR)
+Grant Amount
+Allocated
+(expressed in
+SDR)
+Percentage
+(net of tax,
+co-financiers and
+beneficiary
+contributions)
+I.
+Works
+II.
+Equipment & materials
+380 000
+30 000
+380 000
+30 000
+III. Training & Workshops
+130 000
+130 000
+IV. Goods Services &
+80 000
+80 000
+Inputs
+V.
+Consultancies
+80 000
+80 000
+VI. Recurrent costs
+280 000
+280 000
+Unallocated
+110 000
+110 000
+TOTAL
+1 090 000
+1 090 000
+100%
+100%
+100%
+100%
+100%
+100%
+(b)
+The terms used in the Table above are defined as follows:
+“Equipment & materials” under Category II, shall mean eligible expenditures
+also for vehicles.
+“Works” under Category I, shall mean eligible expenditures incurred related to
+community infrastructure under Sub-component 1.2.
+“Recurrent  costs” under  Category  V, shall  mean  eligible  expenditures  for
+operating costs, salaries and allowances.
+2.
+Start-up  Costs.  Withdrawals  in  respect  of  expenditures  for  start-up  costs  (in
+Categories  II,  III,  IV,  V  and  VI)  incurred  before  the satisfaction  of  the  general
+conditions  precedent  to  withdrawal,  shall  not  exceed  an  aggregate  amount  of
+USD 120 000.
+7
+Appendix I
+EB 2017/LOT/P.7
+Schedule 3
+Special Covenants
+In  accordance  with  Section  12.01(a)  (xxiii)  of  the  General  Conditions,  the  Fund  may
+suspend, in whole or in part, the right of the Borrower/Recipient to request withdrawals
+from the Loan Account and the Grant Account if the Borrower/Recipient has defaulted in
+the performance of any covenant set forth below, and the Fund has determined that such
+default has had, or is likely to have, a material adverse effect on the Project:
+Gender.  The  Borrower/Recipient  shall  ensure  that  appropriate  measures  will  be
+1.
+taken in order to support women and youth inclusion.
+2.
+Social, Environmental and Climate Assessment Procedures. The Borrower/Recipient
+shall  ensure  that  appropriate  measures  for  screening  community  and  livelihood
+investments  are  built  into  the  Project  in  compliance  with  the  Environmental  Impact
+Assessment  requirements  of  the  Ministry  of  Meteorology,  Energy,  Information,  Disaster
+Management, Environment and Climate Change.
+3.
+Taxes.  The  Borrower/Recipient  shall  ensure  that  Project  is  granted  with  a  tax
+exempt status and that the proceeds from IFAD financing are not be used to pay taxes.
+As  mentioned  in  paragraph  7  above,  all  taxes  and  duties  related  to  the  Project  will  be
+considered counterpart financing.
+8
+Logical framework
+Results Hierarchy
+Key Performance Indicators
+Baseline
+Mid-term
+Target
+Tbd
+n/a
+Goal:
+Contribute to improved and
+resilient livelihoods for
+Tonga’s rural population
+Development Objective:
+Communities are enabled to
+plan and manage resilient
+infrastructure and livelihood
+activities (including
+addressing food security and
+nutrition)
+9
+Outcome 1
+Increased community
+capacity to manage resilient
+infrastructure built to required
+standards
+Outputs:
+1.1 Community Development
+Plans (CDP)
+ Improvement in household assets
+ownership index
+ Increased ability of people to
+manage environmental and
+climate-related risks
+ Number of persons receiving
+services promoted or supported
+by the project (RIMS)
+ Number / % persons/ HHs
+reporting adoption of
+environmentally sustainable and
+climate resilient technologies and
+practices (RIMS)
+ No/ % of persons/households
+reporting improved access to
+land, forests, water or water
+bodies for production purposes
+ % of persons/ hhs reporting
+improved physical access to
+markets, processing, and storage
+facilities (RIMS)
+ Number people trained in
+community management topics
+(RIMS) - Town and District
+Officers (TOs, DOs), Committee
+Members (CM), and Community
+Facilitators (CF)
+ Number of CDPs formulated
+1.2 Resilient community
+infrastructure based on CDPs
+ Number of market, processing or
+storage facilities constructed /
+rehabilitated (RIMS)
+ Number of community
+infrastructure management
+committees trained
+End
+Target
+Tbd
+Means of Verification
+Frequency
+Responsibility
+ RIMS impact surveys
+ 2016 HIES
+ EOP surveys
+ Focused group discussions
+(FGDs)
+ Case studies
+Beginning  and
+End  of  Project
+(EOP)
+Project Mgmt.
+Unit (PMU);
+Government
+of 
+Tonga
+(Government)
+Assumptions (A),
+Risks (R)
+ (A) No major changes in
+Government of Tonga’s
+Strategic Development
+Framework (2015 - 2025)
+Tbd
+Tbd
+n/a
+Tbd
+Tbd
+Tbd
+ Construction supervision and
+inspection reports
+ Mid-term and EOP surveys
+ FGDs
+ Case studies
+ FFS Project Reports
+EOP
+PMU
+0
+80%
+80%
+0 DOs
+0 TOs
+0 CMs
+0 CFs
+15 DOs
+62 TOs
+15 DOs
+62 TOs
+300 CMs
+620 CMs
+62 CFs
+62 CFs
+0
+0
+0
+40
+30
+62
+62
+30
+62
+ Mid-Term and EOP surveys
+ FGDs (gender
+disaggregated)
+ Case studies
+ Gender studies on
+community planning.
+ Study on youth inclusion.
+ Project/training records
+ Gender study to track
+women’s participation.
+ Survey on youth inclusion.
+ Project Records
+ Published CDPs
+ Mid-Term and EOP surveys
+ CDPs
+ Detailed grant applications
+ Construction supervision and
+inspection reports
+ Assessments as required by
+MoI
+ Mid-Term, EOP Reports
+ Detailed grant applications
+ Construction supervision and
+inspection reports
+Annual and
+PMU
+Mid-term  and
+EOP
+Biannual
+PMU
+Biannual
+Biannual
+PMU
+PMU
+Annual and
+PMU
+Mid-term  and
+EOP
+ (A) Communities are willing to
+participate in innovative forms
+of planning and support, and to
+contribute to their development
+- infrastructure and livelihoods
+ (A) MAFFF is prepared to
+cooperate with TRIP II at
+central, district and village
+levels
+ (A) MIA and MAFFF officials and
+technical staff willing to support
+plan preparation
+ (A) Communities prepared to
+participate in planning
+ (A) Communities willing to make
+in-kind and/or cash contributions
+for development of economic
+infrastructure
+ (A) Communities willing to
+maintain economic infrastructure
+ (A) Communities willing to
+participate in self-monitoring and
+reporting activities
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+7
+/
+L
+O
+T
+/
+P
+.
+7
+Results Hierarchy
+Key Performance Indicators
+Baseline
+Mid-term
+Target
+ Number / % of
+persons/households reporting
+adoption of new/improved inputs,
+technologies or practices (RIMS)
+0
+500
+End
+Target
+1,260
+Means of Verification
+Frequency
+Responsibility
+ Mid-Term and EOP  surveys
+ Projects Records (FFS
+Coordinator Reports)
+Annual and
+PMU
+Mid-term  and
+EOP
+Outcome 2:
+Increased resilience of
+economic livelihoods based
+on climate smart and
+nutrition-sensitive agricultural
+production systems.
+Outputs:
+2.1 Community Agricultural
+Development Plans (CADPs)
+- reflecting climate resilient
+agricultural systems
+2.2 Improved practices for
+increased climate resilience
+of agroforestry systems on
+households’ tax allotments
+1
+0
+ Number of people trained in
+climate change risks and
+responses for increased
+resilience in agricultural systems
+ Number of revised/updated
+village maps including data from
+village surveys, and included in
+CADPs
+ Number of persons/ groups
+supported to sustainably manage
+natural resources and climate-
+related risks (RIMS)
+Officials
+Officials
+Officials
+0
+FFS
+0
+Tbd,  current
+no, not
+known
+800
+FFS
+600
+60
+800
+FFS
+1,200
+60
+0
+600
+1,200
+Number of hectares of land
+brought under climate-resilient
+management (RIMS)
+Model
+Farms: 0ha
+Cluster
+Farms: 0 ha
+50 ha
+100 ha
+900 ha
+1900 ha
+ Annual Project Reports
+ Mid-Term and EOP surveys
+ Projects Records (Training
+Records)
+ Projects Records
+ Physical count of maps
+ Projects/training records
+Focused group discussions
+ Case studies
+ Participatory end of FFS
+cycle evaluations
+disaggregated by gender
+ Project records (village
+maps)
+ Mid-Term and EOP surveys
+Biannual
+PMU
+Periodic
+Biannual
+PMU
+Biannual
+PMU
+Periodic
+Periodic
+Periodic
+Biannual
+PMU
+2.3 Improved practices for
+increased climate resilience
+of homestead gardens
+2.4 Improved agro-forestry-
+based production and
+processing centres (weaving
+sheds) for handicrafts
+ Number of persons trained in
+production practices and/or
+technologies (RIMS)
+ Agricultural production facilities
+with increased water availability
+(rainwater tanks for 60 FFS
+model gardens)
+ Number of persons/households
+provided with targeted support to
+improve their nutrition
+ Number of processing facilities
+constructed or rehabilitated for
+cyclone proof weaving sheds
+ Number of women benefiting
+from cyclone-proof weaving
+sheds
+0
+0
+0
+0
+0
+400
+900
+ Projects/training records
+Biannual
+30
+0
+20
+60
+0
+60
+ Project records (village
+maps, procurement records)
+ Mid-Term and EOP surveys
+Biannual
+PMU
+PMU
+ Project records (village
+maps, procurement records)
+ Mid-Term and EOP surveys
+Biannual
+PMU
+400
+900
+ Mid-Term and EOP surveys
+ FGDs
+Biannual
+PMU
+Assumptions (A),
+Risks (R)
+ (A) MIA and MAFFF officials and
+technical staff are willing to
+support CADP preparation
+ (A) Communities prepared to
+participate in planning
+ (A) Communities willing to make
+in-kind and/or cash contributions
+for the development of economic
+livelihoods
+ (A) Communities willing to
+maintain their investments in
+economic livelihoods
+ (A) Communities willing to
+participate in in self-monitoring
+and reporting activities
+ (A) Farmers willing to attend and
+participate in structured FFS
+activities
+ (A) MAFFF significantly
+increases travel allowances
+beyond current levels
+ (R) MAFFF has further
+reductions in operational funding
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+7
+/
+L
+O
+T
+/
+P
+.
+7

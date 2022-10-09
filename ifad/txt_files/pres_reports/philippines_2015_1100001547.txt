@@ -1,0 +1,2038 @@
+Document:
+EB 2015/115/R.13
+Agenda:
+Date:
+Distribution:
+Original:
+6(b)(iv)
+12 August 2015
+Public
+English
+E
+President’s report
+Proposed loan to the Republic of the
+Philippines for the Convergence on Value
+Chain Enhancement for Rural Growth and
+Empowerment Project (CONVERGE)
+Note to Executive Board representatives
+Focal points:
+Technical questions:
+Dispatch of documentation:
+Benoit Thierry
+Country Programme Manager
+Asia and the Pacific Division
+Tel.: +39 06 5459 2234
+e-mail: b.thierry@ifad.org
+Alessandra Zusi Bergés
+Officer-in-Charge
+Governing Bodies Office
+Tel.: +39 06 5459 2092
+e-mail: gb_office@ifad.org
+Executive Board — 115th Session
+Rome, 15-16 September 2015
+For: Approval
+EB 2015/115/R.13
+ii
+iii
+iv
+1
+1
+1
+1
+2
+2
+2
+2
+4
+4
+5
+5
+5
+6
+6
+6
+7
+7
+7
+8
+8
+8
+9
+9
+9
+9
+9
+Contents
+Abbreviations and acronyms
+Map of the project area
+Financing summary
+Recommendation for approval
+I.
+Strategic context and rationale
+A. Country and rural development and poverty context
+B. Rationale and alignment with government priorities and RB-COSOP
+II. Project description
+A. Project area and target group
+B. Project development objective
+C. Components/outcomes
+III. Project implementation
+Approach
+A.
+B. Organizational framework
+C. Planning, monitoring and evaluation, and learning and knowledge
+management
+D. Financial management, procurement and governance
+E. Supervision
+IV. Project costs, financing, benefits
+A. Project costs
+B. Project financing
+C. Summary benefit and economic analysis
+D. Sustainability
+E. Risk identification and mitigation
+V.
+Corporate considerations
+A.
+B.
+C.
+D.
+Compliance with IFAD policies
+Alignment and harmonization
+Innovations and scaling up
+Policy engagement
+VI. Legal instruments and authority
+VII. Recommendation
+Appendices
+I. Negotiated financing agreement
+II. Logical framework
+i
+EB 2015/115/R.13
+Abbreviations and acronyms
+ARB
+ARC
+ARC-VIP
+CIS
+CONVERGE
+CPMO
+CPOT
+DA
+DAR
+DENR
+DOST
+DTI
+IP
+KM
+LGU
+M&E
+NCI
+NCIP
+PDP
+PIM
+PO
+PPMO
+RMSC
+RPMO
+agrarian reform beneficiary
+agrarian reform community
+ARC Value Chain Investment Plan
+communal irrigation scheme
+Convergence on Value Chain Enhancement for Rural Growth and
+Empowerment
+central project management office
+cluster project operations team
+Department of Agriculture
+Department of Agrarian Reform
+Department of Environment and Natural Resources
+Department of Science and Technology
+Department of Trade and Industry
+indigenous people
+knowledge management
+local government unit
+monitoring and evaluation
+National Convergence Initiative
+National Commission on Indigenous Peoples
+Philippines Development Plan
+project implementation manual
+people’s organization
+provincial project management office
+regional multi-stakeholders committee
+regional project management office
+ii
+Map of the project area
+EB 2015/115/R.13
+iii
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2015/115/R.13
+Republic of the Philippines
+Convergence on Value Chain Enhancement for Rural
+Growth and Empowerment Project (CONVERGE)
+Financing summary
+Initiating institution:
+IFAD
+Borrower:
+Executing agency:
+Total project cost:
+Amount of IFAD loan:
+Terms of IFAD loan:
+Republic of the Philippines
+Department of Agrarian Reform
+US$52.53 million
+EUR 22.8 million (equivalent to approximately
+US$25.01 million)
+Ordinary: Maturity period of 15-18 years, including a
+grace period of 3 years, with an interest rate per annum
+equal to 100 per cent of the IFAD reference interest
+rate
+Contribution of borrower:
+Contribution of beneficiaries:
+US$9.59 million
+US$17.93 million
+Appraising institution:
+IFAD
+Cooperating institution:
+Directly supervised by IFAD
+iv
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2015/115/R.13
+Recommendation for approval
+The Executive Board is invited to approve the recommendation for the proposed
+financing to the Republic of the Philippines for the Convergence on Value Chain
+Enhancement for Rural Growth and Empowerment Project (CONVERGE), as
+contained in paragraph 37.
+Proposed loan to the Republic of the Philippines for the
+Convergence on Value Chain Enhancement for Rural
+Growth and Empowerment Project (CONVERGE)
+I. Strategic context and rationale
+A. Country and rural development and poverty context
+1.
+In 2009 the population was 92.2 million and growing at 2.04 per cent annually. In
+2010, gross national income per capita was US$4,002 (in 2008 dollars). Since 1981
+GDP growth has averaged 3.1 per cent per annum, but only 2.3 per cent per
+annum from 2001 to 2010. Over the period 2004-2010, the headline inflation rate
+averaged 5.6 per cent. The Human Development Index of 0.638 in 2010 ranked
+the country 97th among 169 countries, whereas in 1998 it was 0.744, which shows
+that, over those 12 years, development efforts were unable to improve the human
+development status. The gender development index decreased from 0.768 in 2005
+to 0.742 in 2008 and the gender empowerment measure fell from 0.590 in 2005 to
+0.560 in 2008. The national poverty incidence decreased slightly, from
+21.1 per cent of families in 2006 to 20.9 in 2009. But with population growth, the
+number of poor families rose from 3.67 million to 3.86 million in the same period,
+higher than in 2003. Farmers and fishers were the poorest groups in the country,
+with a poverty incidence of 44 and 50 per cent, respectively, in 2006. Nationally,
+income inequality remains high, with a Gini coefficient of 0.448.
+2.
+The failure to reduce poverty in recent years reflects underinvestment and the slow
+growth of per capita incomes, high population growth and dependency rates,
+natural disasters and inflationary pressures, mainly from rising fuel and food
+prices. Despite the recent lack of progress in reducing the incidence of poverty, the
+Philippines Development Plan (PDP) 2011-2016 envisages that the country can still
+achieve Millennium Development Goal poverty reduction targets by 2015.
+Favourable factors exist that may help the country break out of its perennial
+condition of widespread rural poverty, inequity and lagging human development,
+including a healthy external payments situation, years of trade reform (leaving an
+industrial sector fairly undistorted by subsidies and heavy protection), a stable
+currency, low inflation and positive political developments.
+B. Rationale and alignment with government priorities and RB-
+3.
+COSOP
+The proposed project is consistent with the PDP 2011-2016, the IFAD Strategic
+Framework 2011-2015 and the IFAD country strategy for the Philippines for 2010-
+2014. The rationale for IFAD’s help in financing the project is to: (i) exploit
+opportunities to support the agrarian reform process and help meet the needs of
+under- and unserved agrarian reform beneficiaries (ARBs) – through a value chain
+approach to enhance agricultural growth and agribusiness development – in order
+to maximize benefits from the land distribution programme; (ii) support
+harmonization of rural development efforts by the Departments of Agrarian Reform
+(DAR), Agriculture (DA) and Environment and Natural Resources (DENR), and
+other agencies engaged in agribusiness development, in order to maximize impact
+in rural poverty reduction; and (iii) support the DAR approach of clustering
+agrarian reform communities to realize economies of scale for production, access to
+1
+EB 2015/115/R.13
+markets and service provision in order to benefit from value chain development.
+The project will contribute to the PDP’s goal of a competitive and sustainable
+agriculture and fisheries sector through improved food security and increased rural
+incomes, and it supports the national Comprehensive Agrarian Reform Programme.
+4.
+The project is part of the National Convergence Initiative (NCI), which seeks to
+synchronize the initiatives of the three departments engaged in rural development
+– DAR, DA and DENR – and optimize use of the resources available to support
+sustainable rural development. Linkages will be built with the Department of Trade
+and Industry (DTI) under the Rural Microenterprise Promotion Programme, with
+the DA under the Second Cordillera Highland Agricultural Resource Management
+Project and with the DENR under the Integrated Natural Resources and
+Environmental Management Project approved by the Executive Board in December
+2012. Lessons learned in ongoing and previous projects have been incorporated
+into the design.
+II. Project description
+A. Project area and target group
+5.
+The project will target Regions IX, X and Caraga, located in the west, north and
+north-east of Mindanao, which are the three poorest regions of the country,
+accounting for 18 per cent of those living below the national poverty line. Within
+the three regions, the project will target 11 agrarian reform community (ARC)
+clusters, including 93 ARCs in 48 municipalities in 10 provinces. The target group
+includes ARBs, other smallholders, under- or unemployed rural youth, indigenous
+peoples (IPs), women, and business development partners, including eligible
+people’s organizations (POs). The total size of the target group is estimated at
+144,732 agricultural households (about 773,106 people), including non-ARC
+barangays (villages) and IP households. Of this total, ARBs account for 59,217
+households, of which 30 per cent are headed by women. The major crops
+cultivated include coconut, rice, maize, rubber, banana, high-value vegetables, oil
+palm, coffee and cassava. Some 29 per cent of ARC average incomes are below the
+poverty line.
+B. Project development objective
+6.
+The overall goal of the project is to contribute to the reduction of poverty incidence
+in the 10 target provinces of Regions IX, X and Caraga. The project’s development
+objective is to enable ARBs and other smallholder farmers in the 10 target
+provinces of Regions IX, X and Caraga to become highly productive and
+competitive entrepreneurs and contribute to the achievement of broad-based rural
+economic growth. The expected impact and outcome indicators for the
+approximately 35,000 households and 100 POs (e.g. farmers’ cooperatives and
+associations) in the 11 ARC clusters include: (i) average annual income increased;
+(ii) increased farm income derived from new farming activities; (iii) increased
+ownership of household assets; and (iv) reduced prevalence of child malnutrition.
+C. Components/outcomes
+7.
+The project has the following components: (1) participatory value chain analysis
+and planning; (2) integrated smallholder agricultural and rural enterprise
+development; (3) subdivision of collective certificates of land ownership award and
+facilitation of land transfer programme; and (4) project management, monitoring
+and evaluation and knowledge management.
+8.
+Component 1: Participatory value chain analysis and planning. The expected
+outcome of this component will be that value-chain business development plans for
+selected crops are validated and implemented, resulting in improved farm income.
+In each of the 11 ARC clusters, the component will support: (i) validation of the
+proposals for value chain development as identified by the feasibility studies;
+(ii) identification of the gaps and inefficiencies in the value chains and of the
+solutions and investments required; (iii) identification of POs and private-sector
+2
+EB 2015/115/R.13
+organizations wishing to and capable of participating in value chain development;
+and (iv) updated ARC value chain investment plans (ARC-VIPs).
+9.
+Component 2: Integrated smallholder agricultural and rural enterprise
+development. The expected outcome of this component is improved production,
+value addition and marketing of selected agricultural commodities. The component
+has two subcomponents: (i) farm and value chain enterprise development; and
+(ii) investment in value chain-related rural infrastructure.
+10. Under farm and value chain enterprise development, the project will support
+improvement of the quantity and quality of production at the farm level and the
+phasing of production to meet market demand. It will achieve this through farmer
+training, capacity-building and the provision of technical and farm management
+advice in product testing, soil analysis, production technologies and management,
+adaptation to threats from climate change, environmental awareness-raising and
+good agricultural practices. This will involve the private sector (e.g. extension
+personnel employed by buyers or consolidators) and/or public-sector agencies (e.g.
+DAR development facilitators, technical staff of local government units (LGUs) and
+the Agricultural Training Institute). In the area of value addition and diversification,
+the project will facilitate the creation of appropriate business models and of the
+institutional structures required to enable smallholders and their organizations to
+engage in value addition and enterprise development, with private-sector
+management of these value chains. The project aims to increase farmer share in
+value chains through product differentiation and the already-mentioned value
+addition and diversification. Project interventions will be implemented through the
+provision of matching grants when there is a clear opportunity to improve
+profitability for the target group. Other investments to enhance value addition
+include the provision of assistance for product development, branding, packaging,
+logistics, certification/accreditation, technology and equipment upgrading, and
+organizational development through training with a focus on meeting market
+requirements. The project will provide investments, on a cost-sharing basis, to
+match the contributions of private-sector participants for eligible proposals and for
+financing the equipment associated with post-harvest facilities.
+In the area of market and investment facilitation, the project will develop linkages
+within the value chain among input providers, producers and buyers to enhance
+the profitability of farm enterprises. Assistance in consolidating supplies to meet
+the volume and frequency requirements of buyers and investors is part of this
+process. The assistance provided will include support for improving and/or
+extending existing market information systems, trade fairs, business and investors’
+forums, and assistance in negotiations with buyers and investors for leasehold,
+contract growing, joint venture or marketing arrangements. The project will make
+use of the expertise of agencies such as DA, DENR, DTI and the Department of
+Science and Technology (DOST) to enable target beneficiaries to optimize
+production of their chosen commodities, improve their market access and
+competiveness, generate greater profits and provide a more integrated package of
+services in the priority chains to be developed. The project will also assist project
+beneficiaries in accessing funding from the banking and microfinance sectors using
+a combination of approaches: private-sector enterprises involved in the value
+chain; project matching grant funds to farmers, POs and private-sector
+organizations meeting strict eligibility criteria for investments; development of the
+capacity of viable farmers’ organizations to access finance from the formal banking
+sector, government finance institutions and microfinance institutions; and linkages
+with financial institutions to develop appropriate financing packages and products
+for the value chain initiatives.
+11.
+3
+EB 2015/115/R.13
+12. Under investment in value chain-related rural infrastructure, after participatory
+planning with target ARCs and target group members, the project will invest in
+rural infrastructure subprojects meeting eligibility and priorities criteria to support
+value chain development. Eligible infrastructure includes farm-to-market roads,
+rehabilitation/restoration of communal irrigation schemes (CISs), water-harvesting
+and management, post-harvest facilities (storage, auction centres, etc.) and water
+supply required to process local produce for value chain development. Irrigators’
+associations and farmers’ groups/associations will operate and maintain CISs and
+post-harvest facilities, while LGUs will maintain the farm-to-market roads.
+Investments in additional road construction will take place only after firm funding
+has been secured from participating LGUs. In addition, the capacity of LGUs to fund
+and undertake maintenance of the roads will be closely monitored.
+13. Component 3: Subdivision of collective certificates of landownership
+award (CLOA) and facilitation of land transfer program. This component will
+cover the subdivision of CLOAs and facilitation of land transfer action to stabilize
+ownership and property rights in the project areas. This will provide incentive to
+farmers to make their lands more productive and enable them to access credit and
+engage in agribusiness projects with private investors. Target outputs and
+outcomes for this component will be under the regular programme of DAR and will
+be funded under the regular budget of DAR.
+14. Component 4: Project management, monitoring and evaluation and
+knowledge management. The expected outcome of this component is that the
+project is completed on time, within the agreed budget, and to the satisfaction of
+beneficiaries. The output will be timely, cost-effective and transparent
+management that is gender and culturally sensitive. The component will finance
+the costs of project management and coordination, monitoring and evaluation
+(M&E) and reporting activities at national, regional and provincial levels. It will also
+finance the costs of contracted project staff based in the central project
+management office (CPMO) in Mindanao, the three regional project management
+offices (RPMOs) and in the 11 provincial project management offices (PPMOs),
+honorariums of DAR regular staff assigned to the project, equipment, vehicles,
+short-term consultants, training, preparation of project manuals, case studies and
+operating costs.
+III. Project implementation
+Approach
+A.
+15. The key elements of the overall project approach are: (i) use of a participatory
+value chain development approach to enable target beneficiaries to optimize
+production of their chosen commodities, sustainably improve the profitability of
+household farm enterprises, improve their market access and competiveness and
+generate greater profits; (ii) application of convergence in implementing project
+activities under the leadership of DAR to enhance the investment and opportunity
+climate for agribusiness; (iii) use of the ARC clustering approach for the provision
+of support to ARCs for value chain development; (iv) implementation through DAR,
+at all levels, with the participation of the other agencies (e.g. DTI, DOST, LGUs and
+the National Commission on Indigenous Peoples [NCIP]); and (v) emphasis on
+knowledge management (KM) and learning to ensure that experience and lessons
+learned are available to improve project performance and for scaling up and wider
+dissemination.
+16. The project implementation period is six years. The implementation strategy will
+include: (i) geographic targeting to identify the project areas and provide a
+preliminary list of target commodities based on the 11 feasibility studies and
+investment plans already prepared; (ii) selection of private sector organizations to
+provide marketing and/or other services that meet the proposed eligibility criteria
+during the initial participatory value chain analysis and planning phase; (iii) self-
+targeting by members of the target group based on their interest in participating in
+4
+EB 2015/115/R.13
+project activities; (iv) non-poor households will be targeted through their inclusion
+in the POs or other types of organizations formed; and (v) provision of public
+goods, such as improved farm to market roads, rehabilitated CISs, post-harvest
+facilities, etc. Consultations were held with the NCIP, the organization charged with
+supporting the integration of IPs in the mainstream. The approach to working with
+IPs as a sub-group of the target group will work within the framework of the NCIP’s
+Ancestral Domain Sustainable Development and Protection Plan. This approach
+involves putting into practice the principle of free and prior informed
+consultation/consent on all project activities by providing adequate information.
+B. Organizational framework
+17. DAR will be the lead agency for project implementation, in cooperation with DA,
+DENR, DTI and DOST. DAR has the necessary institutional capacity and structure to
+undertake this role and the experience gained from implementing over 60
+externally funded projects – including two recently completed IFAD projects that
+were implemented satisfactorily in Mindanao. DAR has staff at all levels of
+government, down to the municipal level (municipal agrarian reform officers), and
+a development facilitator assigned to each of the 11 ARCs to work with
+beneficiaries. The project management structure involves a CPMO based in
+Cagayan de Oro (Region X); RPMOs in each of the three regions; and PPMOs in
+each of the 10 provinces (two operational divisions in Bukidnon). The oversight
+structure includes a project steering committee at the national level as the
+project’s policymaking body; a regional multi-stakeholders committee (RMSC) in
+each of the three regions to advise regional project implementers on major policy
+considerations and technical and operational issues and to ensure participation of
+the region-based agencies in project implementation; and a cluster project
+operations team (CPOT) in each of the 11 ARC clusters to serve as coordinating
+mechanisms for delivery of government services to the clusters.
+C. Planning, monitoring and evaluation, and learning and
+knowledge management
+18. At start-up, project staff and stakeholders at national and regional levels will
+prepare a multi-year global workplan and budget for achieving project objectives
+and targets, for approval by the project steering committee. Participatory planning
+of annual workplans and budgets (AWP/Bs) will start at the barangay and ARC
+cluster levels, involving representatives of the ARCs, CPOTs and PPMOs. The
+project will have a results-based M&E system to report the status of project
+implementation and progress on outputs, outcomes and impact. The overall M&E
+system will consist of regular reports and process monitoring by the CPMO, based
+on data provided by RPMOs, PPMOs and implementing agencies, and
+communicating the project’s physical progress data and financial accounts,
+maintained by the CPMO and regional/provincial offices. During the first project
+year (PY1), DAR will undertake a baseline survey to cover all indicators of the
+logical framework, including RIMS indicators, and, subsequently, midterm impact
+and completion impact surveys. M&E and KM units will be established in all
+implementation levels. M&E documentation results will contribute to policy studies
+to improve the business environment for smallholder farmers in the Philippines,
+with a view to scaling up within the country.
+D. Financial management, procurement and governance
+19.
+Financial management of the project will follow government systems, rules and
+regulations for receipts and disbursements of proceeds from the loan – to the
+extent that they are consistent with IFAD’s standard disbursement procedures. The
+Bureau of the Treasury, through DAR, will maintain one designated account
+exclusively for the loan. DAR, through the CPMO, will be responsible for overall
+management of project funds, which includes: oversight of project operations,
+procurement, internal control, accounting, review and consolidation of project
+AWP/Bs, physical and financial reporting, audits; and consolidation of accounts and
+5
+EB 2015/115/R.13
+withdrawal applications. RPMOs and PPMOs will be accountable for project funds
+received for implementation of the project. DAR will execute a memorandum of
+agreement with each of the partner implementing agencies at national, regional,
+provincial and municipal levels to specify the services and support to be provided
+by each agency and by the project.
+20.
+IFAD’s review of the project implementation manual (PIM) will be a precondition of
+disbursement. Guidelines in the PIM will be consistent with the Government’s and
+IFAD policies, systems and procedures. Annual financial statements on project
+funds will be prepared in accordance with acceptable accounting standards, such as
+the International Financial Reporting Standards (IFRS), the International Public
+Sector Accounting Standards (IPSAS), or national standards where these are
+converging towards internationally recognized best practice and/or are deemed to
+provide minimum disclosures.
+21. The project’s consolidated financial statements will be audited annually in
+accordance with IFAD Guidelines on Project Audits. All project accounts will be
+audited, including all sources of funding. Annual audit reports will be submitted to
+IFAD within six months after the end of each fiscal year.
+22. The project will follow government procurement regulations (RA 9184) using the
+latest implementing rules and regulations – to the extent that they are consistent
+with IFAD’s Project Procurement Guidelines. IFAD will apply a zero-tolerance policy
+to fraudulent, corrupt, collusive or coercive actions.
+E. Supervision
+23. Annually, IFAD and the National Economic Development Authority will jointly
+conduct a full supervision and implementation support mission, and a post-
+supervision mission 6 to 9 months later, depending on progress.
+IV. Project costs, financing, benefits
+A. Project costs
+24.
+Project costs are estimated at about US$52.53 million over a six-year
+implementation period, including taxes and duties estimated at US$5.96 million or
+11 per cent of total costs. Price contingencies of 3 per cent, and physical
+contingencies have been computed at 3.5 per cent of base costs on all items, both
+decided by the National Economic and Development Authority.
+Table 1
+Indicative project costs by component and financier
+(Thousands of United States dollars)
+Components
+Amount
+%
+Amount
+%
+Amount
+IFAD
+Loan
+Government
+LGUs
+0.58
+63.5
+0.34
+36.5
+-
+Beneficiary/
+proponent
+Amount
+-
+%
+-
+Total
+Amount
+0.92
+%
+-
+1. Participatory value chain analysis and planning
+Integrated smallholder agricultural and rural
+2.
+enterprise development
+i. Farm and value chain enterprise development
+ii. Value chain related rural Infrastructure
+Subtotal
+3. Project management, M&E and KM
+1. M&E and KM
+2. Project management
+Subtotal
+Total
+%
+1.8
+63.0
+26.2
+89.1
+3.5
+5.6
+9.1
+2.01
+1.47
+3.48
+6.1
+10.7
+7.4
+17.56
+53.1
+0.37
+2.7
+17.93
+38.3
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+33.07
+13.74
+46.81
+1.83
+2.96
+4.80
+3.48
+6.6
+17.93
+34.1
+52.53
+100.0
+11.78
+10.86
+22.63
+0.93
+0.86
+1.80
+25.01
+35.6
+79.0
+48.3
+50.9
+29.0
+37.4
+47.6
+1.72
+1.05
+2.77
+0.90
+2.10
+3.00
+6.11
+5.2
+7.6
+5.9
+49.1
+71.0
+62.6
+11.6
+6
+EB 2015/115/R.13
+B. Project financing
+25.
+Project financing comprises: (i) an IFAD loan of US$25.01 million (47.6 per cent);
+(ii) contribution of the borrower for US$9.59 made of national government
+counterpart funding of US$6.08 million (11.6 per cent) and LGU financing of
+US$3.51 million (6.6 per cent); and (iii) contributions from proponents and
+beneficiaries of about US$17.93 million (34.1 per cent). The financing plan by
+expenditure category and financier is presented in table 2 below. The categories of
+expenditures may be merged into broader categories in the financing agreement.
+Table 2
+Indicative project costs by expenditure category and financier
+(Thousands of United States dollars)
+IFAD
+Loan
+Government
+LGUs
+Beneficiary/
+Proponent
+Total
+Expenditure categories
+Amount
+%
+Amount
+9.79
+8.17
+80.0
+30.0
+0.61
+0.68
+%
+5.0
+2.5
+Amount
+%
+Amount
+%
+Amount
+%
+1.47
+1.50
+12.0
+5.5
+0.37
+16.88
+3.0
+12.24
+62.0
+27.23
+23.3
+51.8
+1.   Works
+2.   Equipment and materials (for farms and
+enterprise development)
+3.   Equipment and materials (for value
+chains)
+4.   Consultancies
+5.   Training and workshops
+6.   Equipment
+7.   Government support staff
+8.   Operation and maintenance
+1.87
+55.0
+0.34
+10.0
+0.51
+15.0
+0.68
+20.0
+3.40
+3.69
+1.32
+0.17
+-
+-
+73.0
+71.7
+35.0
+-
+-
+1.36
+0.52
+0.32
+0.80
+1.48
+6.11
+27.0
+28.3
+65.0
+100.0
+100.0
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+5.05
+1.85
+0.49
+0.80
+1.48
+6.5
+9.6
+3.5
+0.9
+1.5
+2.8
+Total
+25.01
+47.6
+11.6
+3.48
+6.6
+17.93
+34.1
+52.53
+100.0
+C. Summary benefit and economic analysis
+26.
+It is estimated that about 35,000 rural households will benefit directly from the
+project, including 3,000 jobs to be generated by the project in the value added
+subsector. Some 15,000 households, not counted elsewhere, will benefit from
+improved rural roads, bringing the total to 50,000 beneficiary households. The
+main incremental outputs following project investment in the target ARC clusters
+will derive from the priority products selected by the feasibility studies. Likely
+benefits at the farm level will stem from increased production and improved
+productivity, enhanced value added at the farm level and higher prices as a result
+of both quality improvements and more efficient marketing. Additional benefits will
+be generated by the project’s capacity-building programme, e.g. strengthened
+capacity to participate in value chain and rural enterprise development, and for
+implementing agencies, capacity to target and manage poverty reduction and rural
+development programmes in a gender-sensitive and participatory manner.
+27. The financial and economic impact of the project has been assessed by:
+(i) preparing detailed feasibility studies for the value chain investments that are
+likely to be undertaken under the project; and (ii) analysing each model to
+ascertain probable impact at the individual farmer level, in comparison with typical
+without-project incomes. The project shows an economic internal rate of return
+(EIRR) of 44.6 per cent and a cost-benefit ratio of 1.57 discounting benefits and
+costs at 15 per cent. The sensitivity analysis demonstrates that the results are
+robust. For example, the project would still be viable if all costs increased by
+20 per cent and benefits 20 per cent lower. The economic and farm budget
+analyses will be updated based on market demand and value chain analysis
+undertaken in the first year.
+D. Sustainability
+28. The following elements are built into project design to help ensure that the
+proposed investments and benefits are sustainable: (i) dedication of the first year
+of implementation to the analysis, identification and planning of the project’s
+investments in priority value chains involving famers, their organizations and the
+7
+EB 2015/115/R.13
+private sector; (ii) the experience and lessons learned in the implementation of the
+11 feasibility studies contribute to ensuring that subsequent investments are
+sustainable; (iii) the project has a strong focus on involvement of the private sector
+on a long-term basis to enhance the sustainability of investments and benefits;
+(iv) it will support contractual and other types of arrangements linking smallholders
+with the private sector to enable them to move up the supply chain and incorporate
+greater value addition; (v) beneficiaries and LGUs will be involved in providing
+counterpart funds for infrastructure facilities and will be responsible for their
+operation and maintenance; (vi) project design takes into account the knowledge,
+systems and practices of IPs, which will also help ensure the sustainability of
+project interventions in areas where IPs are present; and (vii) 18 months before
+the completion date, the CPMO will work closely with all stakeholders at national,
+regional, provincial and municipal levels, and with ARCs and barangays, to finalize
+an exit strategy and sustainability plan based on specific mechanisms to ensure
+sustainability after the end of the project.
+E. Risk identification and mitigation
+29. The first risk is that effective coordination among the three NCI agencies in the
+field will be more difficult than at the national level. Project design counters this
+risk as follows: (i) all agencies having a role in project implementation will be
+members of the project steering committee to be able to resolve inter-agency
+coordination issues; (ii) all implementing agencies will have an NCI focal point
+through whom the project will interact with the NCI at the national level; (iii) the
+three RMSCs will include representation of all relevant agencies to ensure effective
+coordination of implementation in the regions and ARC clusters; and (iv) within
+ARC clusters, CPOTs will include staff involved in day-to-day project
+implementation. The second risk is the degree of willingness of the private sector
+to be involved in implementation of component 2, which is essential for the success
+of the project. This risk is addressed through: (i) component 1 and the
+participatory analysis and planning process, which will involve all potential
+participants, including representatives of private-sector agencies involved in the
+particular value chains under analysis; and (ii) during the value chain analysis and
+planning process, publication of the availability of grants for value chain
+development to match investments from the private sector, the size of the grants
+available, and the terms and conditions of the grants for diverse interventions. The
+third risk is the weak capacity of poorer LGUs to provide the required counterpart
+funds for rural infrastructure investment. The project counters this risk by reaching
+an agreement with the Government on a financing plan for these investments
+based on a financing ratio of 80 per cent for the IFAD loan, 5 per cent for national
+government counterpart funds, 12 per cent on average for LGUs and 3 per cent for
+beneficiary contributions.
+V. Corporate considerations
+Compliance with IFAD policies
+A.
+IFAD policies relevant to the project include: the IFAD Targeting Policy: Reaching
+30.
+the Rural Poor; Gender Equality and Women’s Empowerment; Engagement with
+Indigenous Peoples; IFAD Rural Enterprise Policy; IFAD’s Private-Sector
+Development and Partnership Strategy; IFAD Climate Change Strategy; IFAD Rural
+Finance Policy; and IFAD Policy on Preventing Fraud and Corruption in its Activities
+and Operations. Project design has reflected these policies and lessons learned in
+the IFAD country programme. The project is classified as Category B and employs
+the following mitigation measures: value chain development is resilient to climate
+change, environmentally friendly and sustainable; training includes management
+and adaptation to the threats of climate change and environmental awareness;
+environmentally friendly and sustainable production systems will be promoted (e.g.
+use of the farming systems approach, good agricultural practices and varieties that
+can tolerate climate variability); and DENR and its local offices will be involved to
+ensure that value chain development is in line with good practices for
+8
+EB 2015/115/R.13
+environmental and natural resource management.
+Alignment and harmonization
+B.
+31. The project objective is aligned with the PDP’s goal of a competitive and
+sustainable agriculture and fisheries sector. The project will complement other
+donors working in the same sector – such as the Asian Development Bank, Japan
+International Cooperation Agency and World Bank – to increase project impact in
+poverty reduction and on policy dialogue with the government and other
+stakeholders. IFAD will also work with government programmes for an improved
+policy environment and governance. The project will explore diverse types of
+partnership arrangements between project beneficiaries and the private sector,
+ensuring that such arrangements are fair to farmers and ARC communities.
+Private-sector organizations and business development partners can take a leading
+role as innovators in improving the returns from existing and emerging value
+chains in an enterprise-oriented development approach.
+Innovations and scaling up
+C.
+32. The project will be the first foreign-assisted project under DAR to support the NCI.
+Its investment is quite small when compared with the growth needed to make a
+serious dent in rural poverty in Mindanao. However, the project could catalyse
+improved household incomes and attract further investment for scaling up – in
+order to fully realize the potential benefits of Mindanao’s comparative advantage in
+key agricultural commodities.
+Policy engagement
+D.
+33. The project will finance policy/case studies – for policy dialogue and consultation
+with relevant national and local institutions and with other stakeholders – on
+planning and implementation of the value chain approach to agro-enterprise
+development, mechanisms for convergence and other relevant studies. The studies
+envisaged could include: (i) consolidation of smallholder production to achieve
+economies of scale in production and marketing, appropriate business models, and
+contractual and legal arrangements; and (ii) innovative engagement of the private
+sector in providing rural infrastructure to support value chain development.
+VI. Legal instruments and authority
+34. A financing agreement between the Republic of the Philippines and IFAD will
+constitute the legal instrument for extending the proposed financing to the
+borrower. A copy of the negotiated financing agreement is attached as an
+appendix.
+35. The Republic of the Philippines is empowered under its laws to receive financing
+from IFAD.
+36.
+I am satisfied that the proposed financing will comply with the Agreement
+Establishing IFAD and the Policies and Criteria for IFAD Financing.
+VII. Recommendation
+37.
+I recommend that the Executive Board approve the proposed financing in terms of
+the following resolution:
+RESOLVED: that the Fund shall provide a loan on ordinary terms to the
+Republic of the Philippines in an amount equivalent to twenty-two million
+eight hundred thousand euros (EUR 22,800,000), equivalent to approximately
+US$25.01 million and upon such terms and conditions as shall be
+substantially in accordance with the terms and conditions presented herein.
+Kanayo F. Nwanze
+President
+9
+Appendix I
+EB 2015/115/R.13
+Negotiated financing agreement:
+"Convergence on Value-Chain Enhancement for Rural
+Growth and Empowerment Project "CONVERGE"
+(Negotiations concluded on 19 June 2015)
+Loan Number:
+Project  Title:  Convergence  on  Value-chain  Enhancement  for  Rural  Growth  and
+Empowerment Project (the “Project”)
+The Republic of the Philippines (the “Borrower”)
+and
+The International Fund for Agricultural Development (the “Fund” or “IFAD”)
+(each a “Party” and both of them collectively the “Parties”)
+hereby agree as follows:
+Section A
+1.
+The following documents collectively form this Agreement: this document, the
+Project Description and Implementation Arrangements (Schedule 1), the Allocation
+Table (Schedule 2), and the Special Covenants (Schedule 3).
+The Fund’s General Conditions for Agricultural Development Financing dated
+2.
+29 April 2009, as may be amended hereafter from time to time (the “General
+Conditions”), are annexed to this Agreement, and all provisions thereof shall apply
+to this Agreement. For the purposes of this Agreement the terms defined in the
+General Conditions shall have the meanings set forth therein.
+The Fund shall provide a Loan to the Borrower (the “Financing”), which the
+3.
+Borrower shall use to implement the Project in accordance with the terms and
+conditions of this Agreement.
+Section B
+The amount of the Loan is twenty-two million eight hundred thousand Euro
+1.
+(EUR 22 800 000).
+The Loan is granted on ordinary terms and shall have a rate of interest per
+2.
+annum equivalent to one hundred percent (100 percent) of the variable reference
+interest rate, as determined annually by the Executive Board, and a maturity period
+of eighteen
+(18) years including a grace period of three (3) years.
+The Loan Service Payment Currency shall be the United States Dollars (USD).
+3.
+Payments of the principal and interest shall be payable on each 01 May and
+01 November.
+4.
+The first day of the applicable Fiscal Year shall be 1 January.
+1
+A
+p
+p
+e
+n
+d
+i
+x
+E
+B
+2
+0
+1
+5
+/
+1
+1
+5
+/
+R
+Appendix I
+EB 2015/115/R.13
+Proceeds from the Loan shall be deposited in the account of the Treasurer of
+5.
+the Philippines, in the Designated Account for this Project, in the Bangko Sentral ng
+Pilipinas.
+The Borrower shall provide counterpart financing for the Project in the amount
+6.
+of approximately six million and eighty thousand United States Dollar (USD 6 080
+000). Additional counterpart funds for approximately three million five hundred ten
+thousand United States Dollar (USD 3 510 000) are expected to be mobilized during
+the Project Implementation Period by the Local Government Units (LGUs).
+Section C
+The Lead Project Agency shall be the Department of Agrarian Reform (DAR) or
+1.
+any successor thereof.
+The Project Completion Date shall be the sixth anniversary of the date of entry
+2.
+into force of this Agreement.
+Section D
+1.
+The following are designated as additional conditions precedent to
+withdrawal:
+(a) A national Project Steering Committee (PSC) shall have been set up as
+described in Schedule 1; and
+(b) A draft Project Implementation Manual (PIM) shall have been submitted
+to the Fund.
+The following are the designated representatives and addresses to be used for
+2.
+any communication related to this Agreement:
+For the Borrower:
+The Secretary of Finance
+Department of Finance
+DOF Building
+Roxas Boulevard
+Manila, Philippines
+For the Fund:
+The President
+International Fund for Agricultural Development
+Via Paolo di Dono 44
+00142 Rome, Italy
+2
+A
+p
+p
+e
+n
+d
+i
+x
+E
+B
+2
+0
+1
+5
+/
+1
+1
+5
+/
+R
+Appendix I
+EB 2015/115/R.13
+This Agreement, has been prepared in the English language in two (2) original
+copies, one (1) for the Fund and one (1) for the Borrower.
+REPUBLIC OF THE PHILIPPINES
+__________________________
+Name and title of
+Authorized Representative
+INTERNATIONAL FUND FOR
+AGRICULTURAL DEVELOPMENT
+__________________________
+Kanayo F. Nwanze
+President
+3
+A
+p
+p
+e
+n
+d
+i
+x
+E
+B
+2
+0
+1
+5
+/
+1
+1
+5
+/
+R
+Appendix I
+EB 2015/115/R.13
+Schedule 1
+Project Description and Implementation Arrangements
+I.
+Project Description
+Target Beneficiaries. The Project will directly benefit 300,512 farmer
+1.
+beneficiaries composed of 38,724 agrarian reform beneficiaries (ARBs) and
+261,788 other rural workers in eleven agrarian reform communities (ARC) Clusters
+in ten (10) provinces in Region IX (Zamboanga del Norte, Zamboanga del Sur and
+Zamboanga Sibugay), Region X (Misamis Oriental, Camiguin and Bukidnon) and
+CARAGA (Agusan del Norte, Agusan del Sur, Surigao del Sur and Surigao del Norte)
+(Project Area). The other rural workers are composed of smallholders, un- or
+underemployed rural youth, indigenous peoples (IPs), women, and business
+development partners, including eligible people’s organizations (POs – e.g. farmers’
+cooperatives and associations) involved in the value chains selected and willing and
+able to participate in Project interventions. The target are among the six poorest
+regions of the country. Within the three regions, the Project will target 91 ARCs and
+50 municipalities in ten (10) provinces with a possible extension to qualified ARC
+clusters within the Bangsamoro region.
+Goal. The Project aims to contribute to the reduction of poverty incidence ten
+2.
+(10) provinces of Regions IX, X and CARAGA through the promotion of sustainable
+livelihood activities based on key commodities e.g. rice, rubber, coffee, cassava and
+coco sugar that are deemed competitive in the Project Area. The agriculture and
+fishery sector through participatory value-chain development will improve and
+sustain the profitability of smallholder farmers.
+Objectives. Specifically, the Project intends to enable ARBs and other small
+3.
+farmers in ten (10) provinces of Regions IX, X and CARAGA to become highly
+productive and competitive entrepreneurs and contribute to the achievement of
+broa-based rural economic growth by: (i) increasing the quantity and improve the
+quality of commodity production; (ii) improving the phasing of production in
+conjunction to meet market demand; (iii) adding value to farm produced by
+improving post-harvest handling/management; (iv) strengthening/developing
+farmers’ linkage to selected value chains; and (v) diversifying sources of income
+through development of alternative livelihood/agri-enterprise activities in
+partnership with the private sector.
+Components. The Project shall consist of the following four components: (i)
+4.
+Participatory Value-Chain Analysis and Planning to Link Smallholder Farmers to
+Existing Value-Chain Systems; (ii) Integrated Smallholders Agricultural and Rural
+Enterprise Development; (iii) Subdivision of Collective Certificates of Landownership
+Award (CLOA) and Facilitation of Land Transfer Program and (iv) Project
+Management, Monitoring and Evaluation and Knowledge Management.
+4.1 Component A: Participatory Value-Chain Analysis and Planning to Link
+Smallholder Farmers to Existing Value-Chain Systems
+The expected outcome of this component will be that value chain business
+development plans for selected crops validated and implemented resulting in
+improved farm income. This component will provide in each of the 11 ARC clusters:
+(i) validation of priority commodities and market analysis of the potential of the
+major commodities for future value chain development; (ii) prioritization of the
+commodities, processing and rural-based enterprises for Project support and
+identification of the “anchor value chain” and the “secondary” enterprises; (iii)
+identification of the gaps and inefficiencies in the value-chains and solutions and
+4
+A
+p
+p
+e
+n
+d
+i
+x
+E
+B
+2
+0
+1
+5
+/
+1
+1
+5
+/
+R
+Appendix I
+EB 2015/115/R.13
+investments required; (iv) identification of POs (associations, cooperatives) and
+private sector organizations wishing to participate and capable of participating in
+the value-chain development; and (v) updated ARC Value-chain Investment Plans
+(ARC-VIPs).
+Commodity value-chain investment plans for the eleven ARC clusters were
+implemented in 2014/15 by DAR. Activities under this component include value-
+chain investment planning for secondary crops, as well as capacity building to
+ensure that small-scale producers/processors can adapt to market changes.
+4.2 Component B: Integrated Smallholders Agricultural and Rural Enterprise
+Development
+This component is developed based on the results of component A. It aims to
+improve production, value addition and marketing of the selected agricultural
+commodities.  The subcomponent on farm production will specifically focus on the
+improvement of quantity and quality of production at the farm level, and the
+phasing of production to meet market demands. The Project will finance the initial
+costs of inputs (seeds, seedlings, and fertilizers), tools and equipment, capacity
+building for the farmers and the provision of technical and farm management.
+Subcomponent on value addition and diversification, on the other hand aims to
+upgrade strategies to enhance enterprise development including: product
+development, branding, packaging, logistics, certification,/accreditation, technology
+upgrading and training on post-harvest handling and storage, food safety and
+product quality. The Project will also undertake market and investment facilitation
+to develop linkages within the value chain particularly among producers and buyers
+and input providers to enhance the profitability of the farm enterprises. This
+includes support for improving the existing market information systems, conduct of
+trade fairs, business and investor’s for a and assistance in negotiations with buyers
+and investors for leasehold, contract growing, joint venture or marketing
+arrangements.
+The Project will also provide financing assistance and raise the necessary capital
+investment through: (i) the private sector enterprises involved in the value-chain;
+(ii) matching grant funds to farmers, POs and private sector organizations; (iii)
+assisting eligible farmers and POs to access grant funds from other sources; (iv)
+developing capacity of viable farmers’ organizations, so they can access finance
+from the formal banking sector/government’s financing institutions and micro-
+finance institutions (MFIs); and (v) the financial institutions to develop appropriate
+financing packages and products.
+Importantly, the Project ConVERGE will invest on value-chain related rural
+infrastructure. This component includes provision of farm-to-market roads, bridges
+and drainage crossings, rehabilitation/restoration of communal irrigation systems
+(CIS), post-harvest facilities, and water supply required for the processing of local
+produce.
+4.3 Component C: Subdivision of CLOA and Facilitation of Land Transfer Program
+This component will cover the subdivision of CLOAs and facilitation of land transfer
+action to stabilize ownership and property rights in the project areas.  This will
+provide incentive to farmers to make their lands more productive and enable them
+to access credit and engage in agribusiness projects with private investors. Target
+outputs and outcomes for this component will be under the regular programme of
+DAR and will be funded under the regular budget of DAR.
+5
+A
+p
+p
+e
+n
+d
+i
+x
+E
+B
+2
+0
+1
+5
+/
+1
+1
+5
+/
+R
+Appendix I
+EB 2015/115/R.13
+4.4 Component D: Project Management, Monitoring and Evaluation and
+Knowledge Management
+The expected outcome of this component is that the Project is completed on time
+and within the agreed budget. This component will finance the costs of Project
+management and coordination, compilation, reporting and Monitoring and
+Evaluation (M&E) activities at national, regional and provincial levels. In addition,
+the Project will finance policy studies, stakeholders' consultations and other events
+related to the planning and implementation of the value-chain approach to agro-
+enterprise development, mechanisms for convergence, and any other relevant
+policy studies.
+II.
+Implementation Arrangements
+A.
+Approach
+5.
+The Project will use a convergence approach in implementing its activities
+under the leadership of DAR. The National Convergence Initiative combines the
+efforts of three national government agencies involved in the agriculture, agrarian
+reform and natural resource sector, namely Department of Agriculture (DA), DAR
+and the Department of Environment and Natural Resources (DENR) with the aim of
+providing more comprehensive and integrated support to smallholders and others in
+the rural areas. The Project implementation will extend the concept of convergence
+with DA and DENR as co-implementing agencies of DAR and to involve other
+agencies with a potential role to play in Project implementation, including
+Department of Trade and Industry (DTI), Department of Science and Technology
+(DOST), National Commission on Indigenous Peoples (NCIP) and Mindanao
+Development Authority (MinDA) as well as the Department of Interior and Local
+Government (DILG)-LGUs.
+The Project implementation involves essentially two phases. In the first year,
+6.
+the Project will use the value chain studies prepared by the DAR. Activities in the
+crops validated by the beneficiaries will start in those communities expressing
+interest in them. In tandem with the Project stakeholders, the Project will identify
+an appropriate package of activities to intensify production, improve productivity,
+and to determine the need for access to markets, roads, irrigation and other
+marketing infrastructure to support these crops. Once experience has been gained
+with activities pertaining to the selected crops, the Project will consider adding
+selectively other crops/farming activities of interest to the beneficiaries as
+expressed in the cluster development plans. Prior to doing so, the Project will
+conduct a simple market demand analysis and if found that there is ample demand,
+this will be followed (if necessary) by a simplified value chain analysis to consider
+providing support to other immediate points along the selected chains for which the
+Project will provide investment funds. The aim of this phase is to validate and
+review the preliminary analysis of potential priority commodities prepared during
+the Project design and identify the champion and secondary value chains in each of
+the 11 target ARC clusters in ten provinces for which the Project will provide
+investment funds. The next five years will be the main investment phase of the
+Project in developing the selected value-chains with Project support, winding down
+during the last year of the Project (PY6).
+The key elements of the overall Project approach are the following: (i)
+7.
+implementation through the DAR structure at national, regional, provincial and
+municipal levels, with the participation of the other convergence agencies using
+existing government staff to the maximum extent possible; (ii) use of the ARC
+clustering approach developed by DAR for the provision of support to the ARCs for
+value chain development; and (iii) an emphasis on knowledge management and
+learning to ensure that the experience and lessons learned are available to improve
+6
+A
+p
+p
+e
+n
+d
+i
+x
+E
+B
+2
+0
+1
+5
+/
+1
+1
+5
+/
+R
+Appendix I
+EB 2015/115/R.13
+Project performance and for wider dissemination.
+The implementation strategy will include: (i) geographic targeting to identify
+8.
+the Project areas and provide a preliminary list of target commodities for further
+assessment at the start of the Project for value chain development; (ii) selection of
+private sector organizations to provide marketing and/or other services that meet
+the proposed eligibility criteria (Annex 5) during the initial participatory value chain
+analysis and planning phase; (iii) self-targeting by members of the target group
+based on their interest in participating in Project activities; (iv) non-poor
+households will be targeted through their inclusion in the POs or other types of
+organizations formed; and (v) provision of public goods, such as improved farm to
+market roads, rehabilitated CIS, post-harvest facilities, etc.
+Consultations were held with the NCIP, the organization in charged with
+9.
+supporting the integration of IPs in the mainstream. The approach to working with
+IPs as a sub-group of the target group will work within the framework of the NCIP’s
+Ancestral Domain Sustainable Development and Protection Plan, as a way of
+involving the community
+members with the local government agencies and a vehicle to strengthen capacities
+of  IPs  in  the  process.  This  approach  involves  practicing  the  principle  of  free  and
+prior informed consultation/consent on all Project activities through the provision of
+adequate information.
+B.
+Organizational framework
+10. DAR will be the Lead Project Agency, which will also involve DA, DENR, DTI,
+DOST, MinDA and DILG-LGUs. In case there will be changes in the organisation of
+agencies providing support to farmers/ARBs, DAR will be the Lead Project Agency
+to continue the implementation of this Project. DAR has the necessary institutional
+capacity and structure to undertake this role and the experience gained from
+implementing over 60 externally funded Projects, including two completed IFAD
+Projects that were implemented satisfactorily in Mindanao. DAR has staff at all
+levels of government, down to the municipal level (municipal agrarian reform
+officers), and a development facilitator assigned to each of the 11 ARCs to work
+with beneficiaries. The Project management structure involves a Central Project
+Management Office (CPMO) based in Cagayan de Oro in Region X; Regional Project
+Management Offices (RPMOs) in each of the three regions; and Provincial Project
+Management Offices (PPMOs) in each of the 10 provinces (two operational divisions
+in Bukidnon).
+11. The PSC chaired by the Secretary of DAR shall be the policy making body for
+the Project. Other members shall be senior officials of the DA, DENR, DTI, DOST,
+DOF, DBM, National Economic and Development Authority (NEDA), DILG, MinDA
+and private sector representative. The PSC shall review and approve the Project’s
+Annual Work Plan and Budgets (AWPBs), Annual Procurement Plans and PIM, upon
+the recommendation of the CPMO.
+12. A CPMO located in Mindanao shall act as the PSC Secretariat, with the Project
+Director as the Committee’s secretary.  It will provide overall direction, and directly
+supervise project implementation in Regions IX, X and CARAGA.
+13. The Multi-Stakeholder’s Committee (RMSC) shall be located in Regions IX X
+and CARAGA. The DAR Regional Director (RD)shall chair the RMSC with senior staff
+representative from the DA, DENR, NEDA, DTI, DOST, NCIP, DPWH, DILG,
+beneficiaries representative as members. Other attached agencies, such as NIA,
+FIDA, and PCA, shall be invited as needed. The LGUs shall serve as resource
+persons when the RMSC reviews sub-project proposals prior to approval.
+7
+A
+p
+p
+e
+n
+d
+i
+x
+E
+B
+2
+0
+1
+5
+/
+1
+1
+5
+/
+R
+Appendix I
+EB 2015/115/R.13
+14. The RPMO shall be established in the three (3) regions covered by the Project,
+under the leadership of the DAR’s RD. It shall supervise and provide technical
+support to project implementation in the ARC clusters.
+15. A Provincial Project Management Office (PPMO) shall be located in every
+target province under the leadership of the DAR Provincial Agrarian Reform Officer
+II (PARO II). It shall implement project activities in the ARC cluster and prepare the
+ARC cluster AWPBs and procurement plans, monitor progress and report which shall
+be submitted to the RPMO.
+16. A Cluster Project Operations Team (CPOT) will be convened in each ARC
+cluster. The CPO shall be responsible for the implementation of Project activities in
+the respective ARC cluster. A DAR Municipal Agrarian Reform Officer will head the
+CPOT with member from the DAR’s development facilitators, LGUs (e.g., Municipal
+Agriculture Officer, Municipal Engineer, Municipal Planning and Development
+Officer, Municipal Environment and Natural Resources Officer), NCIP Service
+Center’s Officer, DENR’s Community Environment and Natural Resources Officer,
+private sector organizations and other implementing agencies as necessary.
+C.
+Planning,  monitoring  and  evaluation,  and 
+management
+learning  and  knowledge
+17. At start-up, the Project staff and stakeholders (representatives of
+beneficiaries, the private sector, etc.) at national and regional levels will prepare a
+multi-year global workplan and budget for achieving Project objectives and targets
+for approval by the Project steering committee. Participatory planning of AWPBs will
+start at the barangay and ARC cluster levels, involving representatives of the ARCs,
+CPOTs and PPMOs. The Project will have a results-based M&E system to report the
+status of Project implementation and progress on outputs, outcomes and impact.
+The overall M&E system will consist of regular reports and process monitoring by
+the CPMO, based on data provided by RPMOs, PPMOs and implementing agencies
+and based on the Project’s physical progress data and financial accounts,
+maintained by the CPMO and regional/provincial offices. During the first Project
+year (PY1), DAR will undertake a baseline survey to cover all indicators of the
+logical framework, including RIMS indicators, and, subsequently, midterm impact
+and completion impact surveys. Monitoring and evaluation and knowledge
+management units will be established in the CPMO and in each of the RPMOs and
+PPMOs. The outputs of these units will include documentation of innovative
+approaches and good practices in participatory value-chain analysis and planning
+methodology for sharing and replication. Based on these findings, policy studies will
+be prepared to contribute to improvement of the business environment for
+smallholder farmers in the Philippines, with a view to scaling up within the country.
+D.
+Financial management, procurement and governance
+Financial management of the Project will follow the government systems,
+18.
+rules and regulations for receipts and disbursements of proceeds from the Loan to
+the extent that they are consistent with IFAD’s standard disbursement procedures.
+The Bureau of Treasury, through DAR, will maintain one Designated Account for the
+loan. DAR, through the CPMO, will be responsible for overall management of Project
+funds, which includes: oversight of Project operations, finance and procurement,
+implementation support for Project implementers; review and consolidation of
+Project AWPBs; physical and financial reports and audits; and consolidation of
+accounts and withdrawal applications. RPMOs and PPMOs will be accountable for
+Project funds received for implementation of the Project. DAR will execute a
+memorandum of agreement with each of the partner implementing agencies at
+national, regional, provincial and municipal levels to specify the services and
+support to be provided by each agency and by the Project. Annual financial
+8
+A
+p
+p
+e
+n
+d
+i
+x
+E
+B
+2
+0
+1
+5
+/
+1
+1
+5
+/
+R
+Appendix I
+EB 2015/115/R.13
+statements on Project funds will be prepared in accordance with acceptable
+government accounting standards as long as these converge towards internationally
+recognized best practices and/or are deemed to provide minimum disclosures. The
+Project audit will follow the rules and regulations of the Commission on Audit and
+IFAD Guidelines on Project Audits. The Project will follow government procurement
+regulations (RA 9184) using the latest implementing rules and regulations – to the
+extent that they are consistent with IFAD’s Procurement. IFAD will apply a zero-
+tolerance policy in respect of fraudulent, corrupt, collusive or coercive actions.
+Where an investigation performed by IFAD, the Borrower or another competent
+entity has determined that fraudulent, corrupt, collusive or coercive actions have
+occurred in Projects financed through its loans and grants, IFAD will enforce
+sanctions in accordance with the provisions of applicable IFAD rules and regulations
+and this Agreement.
+E.
+Supervision
+Project supervision during the first 12-18 months will focus on ensuring that
+19.
+there are no delays in Project start-up and address any bottlenecks that may occur.
+Supervision will focus specifically: (i) the various aspects of overall Project
+management
+to ensure that the AWPB is prepared and approved and that the PY1 AWPB is
+operational; (ii) the PIM, which will be prepared by the CPMO following the design
+completion mission and before Project start-up is in use; (iii) assessment of the
+Project institutional arrangements and Project management and coordination
+related issues; (iv) assessment of the results of the validation of the priority crops
+of interest to the POs and review of the need for market demand and value chain
+analysis for additional crops; (v) assessment of the implementation of the pilot
+value chains to gain lessons, as a failure to undertake these activities in a timely
+fashion will delay Project implementation and/or lose the benefits learned from the
+initial stages of the pilots; (vi) review of terms of reference of the Project value-
+chain staff and consultants and making and agreeing changes, if necessary; (vii)
+re-examining the need for subsidies and review options for cost recovery through
+the use of guarantees for bank loans to participating enterprises and the ability of
+famers to obtain production credit; (viii) the Project financial management,
+accounting and internal controls processes are are satisfactory at central, regional,
+provincial levels and within the ARC clusters; (vi) the bank accounts have been
+opened and the initial deposit received from IFAD; (ix) a functioning M&E/KM
+system has been set up; (x) the initial procurement of goods and services,
+especially that of the Project management staff and value-chain consultants, is
+completed in a timely fashion; and (xi) the training relating to various aspects of
+Project management, e.g. financial management, procurement, physical and
+financial reporting, etc. is being implemented. By concentrating on these subjects,
+the delays that often affect the start-up of IFAD Projects can be avoided or
+addressed before they lead to significant delays.
+20. Annually, IFAD and the NEDA will conduct a full supervision and
+implementation support mission jointly with the government and a post-supervision
+mission 6-9 months later depending on progress. Expertise required will include: (i)
+a value-chain specialist familiar with Mindanao and value-chains that have
+provisionally been identified during Project design; (ii) a rural infrastructure
+specialist; (iii) a financial management specialist familiar with both IFAD and
+government procedures responsible for financial management, loan disbursements
+and procurement; and (iv) a community development specialist from time to time.
+Staff members from IFAD, the DAR SSO-FAP and NEDA will also be on the missions.
+9
+A
+p
+p
+e
+n
+d
+i
+x
+E
+B
+2
+0
+1
+5
+/
+1
+1
+5
+/
+R
+Appendix I
+EB 2015/115/R.13
+Schedule 2
+Allocation Table
+Allocation of Loan Proceeds. The Table below sets forth the Categories of
+1.
+Eligible Expenditures to be financed by the Loan and the allocation of the amounts
+of the Loan to each Category and the percentages of expenditures for items to be
+financed in each Category:
+Category
+I. Works
+farms  and  enterprise
+II. Equipment and materials
+(for 
+development)
+III. Equipment and materials
+(for value chains)
+Loan Amount
+Allocated
+(expressed in
+EUR)
+8 920 000
+7 450 000
+1 710 000
+IV. Consultancies
+3 360 000
+V. Training and workshops
+1 210 000
+VI. Equipment
+150 000
+TOTAL
+22 800 000
+Percentage
+100%  net  of  taxes  and  other
+contributions
+100%  net  of  taxes  and  other
+contributions
+100%  net  of  taxes  and  other
+contributions
+100%  net  of  taxes  and  other
+contributions
+100%  net  of  taxes  and  other
+contributions
+100%  net  of  taxes  and  other
+contributions
+2.
+Category n. VI "Equipment" includes office equipment and vehicles.
+Start-up Costs. Withdrawals in respect of expenditures for start-up costs for
+3.
+Categories IV, V, and VI incurred before the satisfaction of the general conditions
+precedent to withdrawal shall not exceed an aggregate amount of two hundred
+thousand United States Dollar (USD 200 000).
+10
+A
+p
+p
+e
+n
+d
+i
+x
+E
+B
+2
+0
+1
+5
+/
+1
+1
+5
+/
+R
+Appendix I
+EB 2015/115/R.13
+Schedule 3
+Special Covenants
+In accordance with Section 12.01(a)(xxiii) of the General Conditions, the Fund may
+suspend, in whole or in part, the right of the Borrower to request withdrawals from
+the Loan Account if the Borrower has defaulted in the performance of any covenant
+set forth below, and the Fund has determined that such default has had, or is likely
+to have, a material adverse effect on the Project:
+Private Sector. The Borrower confirms its commitment to engage with the
+1.
+private sector as implementing partners and service providers, in order to ensure
+that the Project objectives are met.
+Procurement. The Borrower shall ensure that the Project shall follow the
+2.
+government’s procurement regulations, as these may be amended from time to
+time, using national implementing rules and regulations to the extent that they are
+consistent with IFAD’s Procurement Guidelines.
+3.
+Monitoring and evaluation. The Project shall maintain its own monitoring
+system to be able to properly evaluate Project implementation, including the socio-
+economic and environmental impact thereof. The Lead Project Agency shall ensure
+that the criteria established and required by the Fund under its Results and Impact
+Monitoring System (RIMS), as communicated by the Fund to the Borrower, shall be
+incorporated into and form part of the Project’s monitoring and evaluation system.
+Anticorruption Measures. The Borrower shall comply with the requirements
+4.
+under IFAD’s Policy on Preventing Fraud and Corruption in Its Activities and
+Operations, as amended from time to time.
+11
+A
+p
+p
+e
+n
+d
+i
+x
+E
+B
+2
+0
+1
+5
+/
+1
+1
+5
+/
+R
+Logical framework
+Narrative Summary
+Goal
+Contribute to the reduction of
+poverty incidence in the ten
+target provinces of Regions IX,
+X and Caraga.
+Development Objective
+Enable ARBs and other
+smallholder farmers in the 10
+target provinces of Regions IX,
+X and Caraga to become
+highly productive and
+competitive entrepreneurs and
+contribute to the achievement
+of broad-based rural economic
+growth.
+Outcomes and Outputs
+Outcome Component 1:
+Value chain business
+development plans for selected
+crops validated and
+implemented resulting in
+improved farm income.
+Outputs:
+Market demand analysis and
+value chain analysis
+undertaken and ARC cluster
+value chain investment plans
+prepared.
+Outcome component 2:
+Improved production, value
+addition and marketing of the
+selected agricultural
+commodities.
+1
+2
+Verifiable Indicators
+Means of Verification
+Assumptions/Risks
+35,000 households and 70 People’s Organisations in the 11 ARC clusters:
+Increased ownership of household assets (household asset index)
+increased by 30% from baseline survey to xx by end of project (EOP).
+Prevalence of child malnutrition reduced by 30% at EOP from baseline
+survey.
+NSCB report.
+RIMS baseline, mid-
+term and completion
+surveys.
+300,512 farmer beneficiaries composed of 38,724 agrarian reform
+beneficiaries (ARBs) and 261,788 rural workers in 11 ARC clusters (includes
+women and IPs present in the target areas).
+Average annual income (in constant 2009 prices) increased from PHP 17,582
+in 2009 to about PHP 21,267 at EOP.
+Farm income derived from new farming activities increased by 10 % at MTR
+and by 30% at EOP.
+70 participating POs and other entities in the ARC clusters validated and
+implemented their value-chain investment plans from PY2 -7.
+At least 10% of increased farm income derived from new farming activities by
+MTR and 30% by end of project.
+11 updated ARC cluster prioritised value-chain investment plans (ARC-VIPs)
+prepared in PY1.
+11 ARC cluster value-chain investment plans (ARC-VIPs) updated each year
+during PY2-7.
+In the 11 ARC clusters:
+Gross value of agricultural production of 35,000 HHs increased by 15 % at
+MTR and 30% at EOP.
+8,000 HHs have entered into contractual marketing arrangements with buyers
+at MTR and 16,000 HHs at EOP.
+Traffic count on project financed roads increased by 20% at MTR and by 40%
+at EOP.
+Average farm-gate prices in real terms for the commodities selected by the
+target group members increased from baseline survey by 5% at MTR and by
+10% at EOP.
+Participating business enterprises have generated additional employment for
+3,000 households by EOP and 1,000 by the MTR.
+40,000 (90% of the total target group) households have improved access to
+ Consolidated annual
+RIMS reports, baseline,
+mid-term and
+completion surveys.
+ Annual participatory
+monitoring studies/
+outcome assessments.
+ DAR ALDA report.
+ Project MIS and annual
+outcome assessments.
+ Annual RIMS report.
+ Supervision Mission
+(SM) reports.
+ Project MIS and annual
+outcome assessments.
+ Annual RIMS report.
+ SM reports.
+ Project MIS and annual
+outcome assessments.
+ Annual RIMS report.
+ SM reports.
+Peace and Order in the areas covered by
+the target ARC clusters.
+No major financial shocks, a stable
+inflation rate and purchasing power of
+smallholders/ producers maintained or
+increasing.
+No major climate shocks.
+Key policy environment improved for
+competitiveness of the agri-business
+sector.
+Government remains committed to value-
+chain development.
+Highly competent value-chain staff and
+consultants appointed.
+ Government remains committed to value-
+chain development.
+ Businesses willing to work with farmers’,
+POs etc.
+ Sufficient competition allows farmers,
+POs, etc. choices.
+LGUs and local communities assume
+responsibility for infrastructure O&M.
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+5
+/
+1
+1
+5
+/
+R
+.
+1
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Narrative Summary
+Verifiable Indicators
+Means of Verification
+Assumptions/Risks
+Outputs:
+Services provided to improve
+the production, value addition
+and marketing of the selected
+agricultural commodities.
+1
+3
+Outcome Component 3:
+Project implementation is
+completed on time, within the
+agreed budget and to the
+satisfaction of the beneficiaries.
+Outputs:
+Project managed in a timely,
+cost effective, transparent and
+a gender and culturally
+sensitive manner.
+rural infrastructure and production/processing facilities by EOP, 20% by MTR.
+90% of project financed infrastructure and equipment is operating and
+being well maintained at end of project
+Target group smallholders receiving project services, increases from
+5,000 in PY2 to 35,000 by EOP.
+No. of business organisations/associations formed and/or assisted.
+No of contract farming agreements.
+No. of marketing agreements.
+No. of private service providers contracted.
+Around 136 km of road upgraded1
+About 150 ln.m. bridges constructed.
+Around 150 ha of irrigation rehabilitated/restored.
+Around 3 units of water supply schemes constructed.
+> 30% of the members of the management committees (POs etc.) are women
+PY1-6.
+> 15% of the members of the management committees (POs etc.) are IPs
+PY1-6.
+Project implementation is completed within 7 years and all accounts are
+closed within 6.5 years.
+At least 90% disbursement of IFAD Loan and Grant after 6.5 years of project
+implementation.
+95% of the financial and physical targets achieved, without cost overruns.
+Annual expenditures are >90% of the AWPB estimates, PY1-6.
+>75% of target households from PY3-6satisfied with the services provided.
+Complete, accurate financial records prepared and audited annually beginning
+PY1.
+Adherence to planning and reporting procedures and formats PY1-6
+M&E activities are timely, efficient and gender and culturally responsive PY1-
+6.
+Annual dissemination of lessons learned/knowledge from project
+implementation PY4-6.
+46 contract and 239 DAR regular staff are in post with qualifications and
+experience appropriate for their terms of reference PY1-6.
+At least 30% of the project staff are female PY1-6.
+ Project MIS and annual
+outcome assessments.
+ Annual RIMS report.
+ SM reports.
+Levels of trust in ARCs adequate for
+establishing effective POs, binding
+contracts etc.
+Adequate TA is provided.
+ Project MIS and annual
+outcome assessments.
+ SM reports.
+ Project progress reports.
+ SM reports.
+ M&E reports.
+ Audit reports.
+Effective coordination through the NCI.
+All implementing partners adhere to the
+financing agreements, project
+implementation guidelines as specified in
+the MOAs
+Timely fund flows from the Loan and
+Grant Accounts through the DAs to the
+Project Accounts at all levels.
+Government and LGU counterpart funds
+and beneficiary contributions provided in
+a timely fashion.
+1Assumption: Of the total allocation of USD 11.4 million for Investments in VC Related Rural Infrastructure, 96 % will be invested in farm to market roads and bridges; 3% in rehabilitation of
+irrigation schemes; and 1 in water supply. Investments for storage and drying facilities will be funded under the Farm and Value Chain Enterprise Development Sub-component.
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+5
+/
+1
+1
+5
+/
+R
+.
+1
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
