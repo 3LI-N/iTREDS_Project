@@ -28,6 +28,8 @@ class Project:
 		self.region = ""
 		self.borrower = ""
 		self.env_category = ""
+		# what report is present
+		self.report = "No report"
 
 
 	def print_data(self):
@@ -92,13 +94,28 @@ class Project:
 			print(self.id + " financing terms not working")
 			result = 1
 
+		with open(r'pres_report_files.txt', 'r') as fp:
+			lines = fp.readlines()
+			for row in lines:
+				word = self.get_filename()
+				if row.find(word) != -1:
+					self.report = "President's Report"
+					break
+
+		if self.report != "President's Report":
+			with open(r'dsgn_report_files.txt', 'r') as fp:
+				lines = fp.readlines()
+				for row in lines:
+					word = self.get_filename()
+					if row.find(word) != -1:
+						self.report = "Project Design Report"
+						break
+
 		return result
 
 
 	def get_csv_row(self):
-		
-		#filewriter.writerow(['Project ID', 'Status', 'Country', 'Region', 'Year approved', 'Borrowing entity', 'Project amount (total)', 'Committment amount', 'Environmental categor'])
-		return [self.id, self.status, self.country, self.region, self.year, self.borrower, self.project_amount, self.commitment_amount, self.env_category]
+		return [self.id, self.status, self.country, self.region, self.year, self.borrower, self.project_amount, self.commitment_amount, self.env_category, self.report]
 
 
 	
@@ -141,11 +158,7 @@ def main():
 
 	working_projects = []
 	error_projects = []
-	i = 0
 	for proj in current_projects:
-		i += 1
-		if i > 5:
-			break
 		print()
 		if proj.get_metadata() > 0:
 			error_projects.append(proj)
@@ -156,7 +169,7 @@ def main():
 
 	with open('ifad_metadata.csv', 'w') as csvfile:
 		filewriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
-		filewriter.writerow(['Project ID', 'Status', 'Country', 'Region', 'Year approved', 'Borrowing entity', 'Project amount (total)', 'Committment amount', 'Environmental category'])
+		filewriter.writerow(['Project ID', 'Status', 'Country', 'Region', 'Year approved', 'Borrowing entity', 'Project amount (total)', 'Committment amount', 'Environmental category', 'Report'])
 		for proj in working_projects:
 			#proj_row = proj.get_csv_row()
 			filewriter.writerow(proj.get_csv_row())
