@@ -1,0 +1,10 @@
+1. Find all projects listed in https://www.ifad.org/en/web/operations/projects-and-programmes that have an approval date of 2015 or later.
+2. Record listed title, id, country, and approval year for each project as listed on the website.
+3. Go to each project link (which is linked to each project table entry) and record its status, total project cost, and IFAD financing.
+4. Look at the bottom of each project page and see if it has a President's Report or Project Design Report.
+5. If it has a President's Report, mark that, and download the report.
+6. If it doesn't have a President's Report but has a Project Design Report, mark that, and download the report.
+7. If it has neither, mark that.
+8. For each report, convert the downloaded pdf to a .txt file and store it in either pres_reports directory or dsgn_reports directory depending on which report is collected.
+9. Name the .txt file <country>_<year>_<project id>.txt.
+10. With the recorded data, create a csv file that keeps track of the project id, status, country, year approved, total project cost, commitment amount, and what type of report has been downloaded.
