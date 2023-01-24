@@ -1,0 +1,6 @@
+The pdf webscraping code of the project documents from the gafsp website https://www.gafspfund.org/ follows the following steps:
+
+1. Using BeautifuSoup under the bs4 library, find all projects listed in https://www.gafspfund.org/ that have a call for proposal of 2015 or later.
+2. For each year, use the same method to narrow the search down to the project links
+3. Under each project link, get all pdf documents recorded on that page (if intending to save pdfs, open files, write to the files, and save the files with a pdf extension)
+4. convert these pdf documents into txt files using the pyPDF2 library modules
