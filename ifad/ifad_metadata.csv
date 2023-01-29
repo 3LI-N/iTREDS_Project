@@ -1,28 +1,37 @@
 Project ID,Status,Country,Region,Year approved,Borrowing entity,Project amount (total),Committment amount,Environmental category,Report
-2000002694,Approved,Brazil,,2022,,147.5,18.0,,No report
+2000003370,Approved,Mauritania,,2022,,8.19,5.0,,President's Report
+2000003920,Approved,Democratic Republic of the Congo,,2022,,213.55,45.2,,Project Design Report
+2000003433,Approved,Cambodia,,2022,,194.05,47.9,,Project Design Report
+2000004014,Approved,Mali,,2022,,100.0,39.0,,No report
+2000003944,Approved,Zimbabwe,,2022,,66.55,37.14,,Project Design Report
+2000003903,Approved,Cameroon,,2022,,61.57,46.97,,Project Design Report
+2000003989,Approved,Madagascar,,2022,,120.0,83.5,,Project Design Report
+2000003447,Approved,Ethiopia,,2022,,179.59,78.2,,Project Design Report
+2000003935,Approved,Bhutan,,2022,,30.06,8.93,,Project Design Report
+2000003934,Approved,Rwanda,,2022,,62.89,29.98,,Project Design Report
+2000003908,Approved,Ecuador,,2022,,26.58,20.0,,Project Design Report
+2000003760,Approved,Lao People's Democratic Republic,,2022,,48.3,13.23,,No report
+2000002694,Approved,Brazil,,2022,,147.5,18.0,,President's Report
 2000002357,Approved,Bangladesh,,2022,,225.0,42.98,,No report
 2000002673,Approved,Ghana,,2021,,124.65,52.49,,Project Design Report
 2000002335,Approved,Viet Nam,,2021,,136.38,42.99,,President's Report
-2000002204,Approved,Tajikistan,,2021,,47.9,13.5,,Project Design Report
 2000001978,Approved,Kyrgyzstan,,2021,,65.22,31.28,,President's Report
-2000003305,Approved,Chad,,2021,,74.86,26.2,,Project Design Report
+2000002204,Approved,Tajikistan,,2021,,72.25,37.85,,Project Design Report
 2000002253,Approved,Brazil,,2021,,217.83,30.0,,President's Report
 2000002250,Approved,Guatemala,,2021,,179.0,11.33,,No report
-2000003549,Signed,Burundi,,2021,,64.44,53.7,,Project Design Report
 2000002585,Signed,Dominican Republic,,2021,,33.38,12.35,,Project Design Report
-2000003066,Signed,Benin,,2020,,60.32,32.5,,No report
-2000002202,Signed,Egypt,,2019,,269.64,64.54,,Project Design Report
-2000001480,Signed,Lebanon,,2017,,12.5,5.5,,President's Report
+2000003305,Signed,Chad,,2021,,74.86,26.2,,Project Design Report
 2000002987,Ongoing,Brazil,,2022,,37.04,0.0,,Project Design Report
-2000002666,Ongoing,Senegal,,2021,,230.0,20.0,,President's Report
-2000003737,Ongoing,India,,2021,,378.05,105.0,,President's Report
-2000002247,Ongoing,Haiti,,2021,,26.6,14.0,,Project Design Report
-2000002333,Ongoing,Pakistan,,2021,,178.12,84.19,,Project Design Report
 2000003431,Ongoing,Kenya,,2021,,134.05,22.0,,Project Design Report
+2000002666,Ongoing,Senegal,,2021,,230.0,20.0,,President's Report
 2000003342,Ongoing,Nigeria,,2021,,491.18,49.97,,President's Report
+2000003737,Ongoing,India,,2021,,378.05,105.0,,President's Report
+2000003549,Ongoing,Burundi,,2021,,64.44,53.7,,Project Design Report
+2000002333,Ongoing,Pakistan,,2021,,178.12,84.19,,Project Design Report
+2000002247,Ongoing,Haiti,,2021,,20.84,14.0,,Project Design Report
+2000002249,Ongoing,Mexico,,2021,,55.0,38.45,,President's Report
 2000002284,Ongoing,Bolivia (Plurinational State of),,2021,,26.53,23.6,,No report
 2000003959,Ongoing,Madagascar,,2021,,11.02,10.0,,No report
-2000002249,Ongoing,Mexico,,2021,,55.0,38.45,,President's Report
 2000002350,Ongoing,Rwanda,,2021,,61.02,21.78,,Project Design Report
 2000002340,Ongoing,Lesotho,,2021,,46.35,11.3,,President's Report
 2000001040,Ongoing,Congo,,2021,,16.65,7.8,,President's Report
@@ -32,16 +41,17 @@ Project ID,Status,Country,Region,Year approved,Borrowing entity,Project amount (
 2000003444,Ongoing,India,,2021,,238.69,67.0,,No report
 2000003459,Ongoing,Haiti,,2021,,5.8,5.0,,Project Design Report
 2000002341,Ongoing,Zimbabwe,,2021,,67.44,35.7,,Project Design Report
-2000002359,Ongoing,China,,2020,,173.27,60.2,,No report
+2000003066,Ongoing,Benin,,2020,,60.32,32.5,,No report
+2000001519,Ongoing,United Republic of Tanzania,,2020,,78.63,58.85,,President's Report
 2000003067,Ongoing,Togo,,2020,,37.72,20.0,,No report
-2000001519,Ongoing,United Republic of Tanzania,,2020,,78.63,58.85,,No report
-2000002442,Ongoing,Central African Republic,,2020,,36.86,22.19,,No report
+2000002359,Ongoing,China,,2020,,173.27,60.2,,President's Report
+2000002442,Ongoing,Central African Republic,,2020,,39.86,22.19,,President's Report
 2000002282,Ongoing,Ecuador,,2020,,31.23,23.47,,Project Design Report
-2000003362,Ongoing,Mali,,2020,,31.99,23.68,,President's Report
-2000003358,Ongoing,Senegal,,2020,,8.5,6.5,,President's Report
 2000003359,Ongoing,Burkina Faso,,2020,,9.5,6.0,,President's Report
 2000003360,Ongoing,Chad,,2020,,7.0,5.0,,President's Report
-2000002081,Ongoing,Eritrea,,2020,,46.65,37.05,,No report
+2000003358,Ongoing,Senegal,,2020,,8.5,6.5,,President's Report
+2000003362,Ongoing,Mali,,2020,,31.99,23.68,,President's Report
+2000002081,Ongoing,Eritrea,,2020,,64.95,37.05,,President's Report
 2000002980,Ongoing,India,,2020,,413.28,51.4,,Project Design Report
 2000003387,Ongoing,Ghana,,2020,,41.56,20.0,,President's Report
 2000002697,Ongoing,Nepal,,2020,,196.92,97.67,,Project Design Report
@@ -49,83 +59,84 @@ Project ID,Status,Country,Region,Year approved,Borrowing entity,Project amount (
 2000002545,Ongoing,Djibouti,,2020,,14.54,6.61,,Project Design Report
 2000002416,Ongoing,Maldives,,2020,,12.89,4.5,,Project Design Report
 2000001878,Ongoing,Mauritania,,2020,,39.74,23.7,,Project Design Report
-2000002358,Ongoing,China,,2020,,234.51,74.78,,Project Design Report
 2000002331,Ongoing,Pakistan,,2020,,75.8,63.16,,Project Design Report
-2000002242,Ongoing,Republic of Moldova,,2020,,50.52,20.75,,No report
-2000001937,Ongoing,Sao Tome and Principe,,2020,,16.33,5.33,,Project Design Report
+2000002358,Ongoing,China,,2020,,234.51,74.78,,Project Design Report
+2000002242,Ongoing,Republic of Moldova,,2020,,50.52,20.75,,President's Report
+2000001937,Ongoing,Sao Tome and Principe,,2020,,20.83,9.83,,Project Design Report
 2000002563,Ongoing,Lesotho,,2019,,62.0,5.0,,No report
 2000002257,Ongoing,Peru,,2019,,71.47,24.0,,Project Design Report
-2000002672,Ongoing,Ghana,,2019,,69.67,14.98,,Project Design Report
 2000002075,Ongoing,Tunisia,,2019,,51.27,23.8,,Project Design Report
+2000002672,Ongoing,Ghana,,2019,,69.67,14.98,,Project Design Report
 2000002260,Ongoing,Uganda,,2019,,160.69,99.56,,Project Design Report
-2000002386,Ongoing,Democratic Republic of the Congo,,2019,,133.01,36.49,,President's Report
-2000001600,Ongoing,Malawi,,2019,,125.35,70.01,,President's Report
 2000002234,Ongoing,Indonesia,,2019,,151.66,50.0,,Project Design Report
-2000002332,Ongoing,Afghanistan,,2019,,395.93,40.0,,President's Report
-2000001981,Ongoing,Mozambique,,2019,,104.27,42.0,,President's Report
+2000002386,Ongoing,Democratic Republic of the Congo,,2019,,133.01,36.49,,President's Report
 2000001936,Ongoing,Cameroon,,2019,,69.4,47.0,,President's Report
+2000002332,Ongoing,Afghanistan,,2019,,395.93,40.0,,President's Report
+2000002202,Ongoing,Egypt,,2019,,269.64,64.54,,Project Design Report
+2000001981,Ongoing,Mozambique,,2019,,104.27,42.0,,President's Report
+2000001065,Ongoing,Gambia (The),,2019,,68.06,21.27,,No report
 2000002583,Ongoing,Sri Lanka,,2019,,82.06,42.76,,Project Design Report
-2000001065,Ongoing,Gambia (The),,2019,,80.0,21.27,,No report
+2000001600,Ongoing,Malawi,,2019,,125.35,70.01,,President's Report
 2000001605,Ongoing,Guinea-Bissau,,2019,,65.77,16.16,,President's Report
 2000002344,Ongoing,Ethiopia,,2019,,300.61,39.99,,Project Design Report
 2000002562,Ongoing,Indonesia,,2019,,702.03,34.35,,Project Design Report
 2000002071,Ongoing,Angola,,2019,,121.79,51.5,,Project Design Report
 2000001896,Ongoing,Mali,,2019,,50.76,29.97,,President's Report
 2000002349,Ongoing,Samoa,,2019,,31.08,3.6,,No report
-2000001925,Ongoing,Burkina Faso,,2019,,129.91,66.92,,President's Report
-2000001979,Ongoing,Mozambique,,2019,,53.23,43.01,,Project Design Report
 2000002356,Ongoing,Bangladesh,,2019,,200.0,81.0,,Project Design Report
-2000002342,Ongoing,Senegal,,2019,,83.61,51.86,,President's Report
+2000002342,Ongoing,Senegal,,2019,,94.29,51.86,,President's Report
+2000001979,Ongoing,Mozambique,,2019,,53.23,43.01,,Project Design Report
+2000001925,Ongoing,Burkina Faso,,2019,,129.91,66.92,,President's Report
 2000001598,Ongoing,Ethiopia,,2019,,451.0,90.0,,No report
 2000002105,Ongoing,Sudan,,2019,,93.59,62.94,,Project Design Report
 2000002278,Ongoing,Cambodia,,2019,,142.17,54.39,,President's Report
-2000001194,Ongoing,Liberia,,2019,,78.44,23.0,,President's Report
 2000002678,Ongoing,Niger,,2019,,185.91,83.38,,President's Report
+2000001194,Ongoing,Liberia,,2019,,107.15,51.71,,President's Report
+2000001892,Ongoing,Lao People's Democratic Republic,,2019,,85.3,21.03,,No report
 2000002073,Ongoing,Morocco,,2019,,93.54,36.69,,No report
 2000002243,Ongoing,Cuba,,2019,,63.65,15.5,,Project Design Report
 2000002564,Ongoing,Rwanda,,2019,,45.64,14.9,,Project Design Report
-2000001892,Ongoing,Lao People's Democratic Republic,,2019,,85.3,21.03,,No report
 2000002229,Ongoing,Rwanda,,2019,,24.73,17.79,,Project Design Report
-2000001051,Ongoing,Togo,,2018,,20.42,7.5,,President's Report
-2000001393,Ongoing,Georgia,,2018,,53.43,18.2,,No report
-2000001146,Ongoing,Burundi,,2018,,114.0,37.49,,Project Design Report
+2000001051,Ongoing,Togo,,2018,,35.98,23.06,,President's Report
+2000001393,Ongoing,Georgia,,2018,,63.43,18.2,,No report
 2000001202,Ongoing,Indonesia,,2018,,72.71,57.3,,No report
-2000001544,Ongoing,Sierra Leone,,2018,,102.18,52.61,,President's Report
+2000001146,Ongoing,Burundi,,2018,,114.0,37.49,,Project Design Report
 2000001489,Ongoing,Honduras,,2018,,46.48,16.33,,Project Design Report
-2000001543,Ongoing,Liberia,,2018,,40.44,25.83,,President's Report
-2000001810,Ongoing,Niger,,2018,,25.48,12.5,,President's Report
-2000001073,Ongoing,Benin,,2018,,91.71,45.6,,President's Report
+2000001544,Ongoing,Sierra Leone,,2018,,102.18,52.61,,President's Report
+2000001543,Ongoing,Liberia,,2018,,47.61,33.0,,President's Report
+2000001810,Ongoing,Niger,,2018,,116.73,52.5,,President's Report
 2000001060,Ongoing,Chad,,2018,,96.65,62.9,,No report
+2000001073,Ongoing,Benin,,2018,,106.41,60.3,,President's Report
 2000001067,Ongoing,China,,2018,,183.54,80.0,,No report
 2000000964,Ongoing,Myanmar,,2018,,15.79,12.96,,President's Report
 2000001804,Ongoing,Eswatini,,2018,,38.56,8.95,,No report
 2000001816,Ongoing,Central African Republic,,2018,,30.45,25.0,,President's Report
 2000001070,Ongoing,Gabon,,2018,,34.98,12.26,,President's Report
-2000001062,Ongoing,Mali,,2018,,105.55,45.73,,President's Report
-2000001184,Ongoing,China,,2018,,256.7,72.0,,No report
+2000001771,Ongoing,Palestine,,2018,,43.24,0.0,,Project Design Report
 2000001059,Ongoing,Guinea,,2018,,119.9,60.35,,Project Design Report
 2000001616,Ongoing,Senegal,,2018,,75.44,49.79,,President's Report
+2000001062,Ongoing,Mali,,2018,,105.55,45.73,,President's Report
 2000001464,Ongoing,Bangladesh,,2018,,111.81,66.5,,Project Design Report
 2000001200,Ongoing,Philippines,,2018,,95.12,65.4,,President's Report
-2000001771,Ongoing,Palestine,,2018,,64.36,0.0,,Project Design Report
-2000001484,Ongoing,Uganda,,2018,,210.44,77.03,,President's Report
+2000001184,Ongoing,China,,2018,,256.7,72.0,,No report
 2000001175,Ongoing,Mozambique,,2018,,72.54,62.15,,Project Design Report
+2000001484,Ongoing,Uganda,,2018,,210.44,77.03,,President's Report
 2000001782,Ongoing,Haiti,,2018,,76.86,10.86,,Project Design Report
-2000001247,Ongoing,Belize,,2018,,20.0,8.0,,No report
+2000001247,Ongoing,Belize,,2018,,25.0,8.0,,No report
 2000001813,Ongoing,Bosnia and Herzegovina,,2018,,34.06,14.5,,Project Design Report
 2000001475,Ongoing,Grenada,,2017,,14.0,6.4,,President's Report
-2000001465,Ongoing,Bangladesh,,2017,,92.37,64.5,,No report
 2000001280,Ongoing,Egypt,,2017,,81.6,62.87,,Project Design Report
-2000001284,Ongoing,Tajikistan,,2017,,40.64,30.66,,Project Design Report
-2000001063,Ongoing,Burkina Faso,,2017,,73.82,38.0,,President's Report
-2000001492,Ongoing,Madagascar,,2017,,250.0,136.5,,Project Design Report
-2000001517,Ongoing,Sudan,,2017,,49.69,26.02,,Project Design Report
 2000001043,Ongoing,Nigeria,,2017,,130.01,60.0,,Project Design Report
 2000001421,Ongoing,India,,2017,,161.71,69.75,,Project Design Report
 2000001418,Ongoing,Nepal,,2017,,65.55,40.0,,Project Design Report
 2000001132,Ongoing,Kenya,,2017,,144.5,67.9,,No report
+2000001465,Ongoing,Bangladesh,,2017,,92.37,64.5,,No report
+2000001492,Ongoing,Madagascar,,2017,,250.5,136.5,,Project Design Report
+2000001063,Ongoing,Burkina Faso,,2017,,73.82,38.0,,President's Report
+2000001284,Ongoing,Tajikistan,,2017,,40.64,30.66,,Project Design Report
+2000001517,Ongoing,Sudan,,2017,,49.69,26.02,,Project Design Report
+2000001501,Ongoing,Malawi,,2017,,102.73,72.0,,Project Design Report
 2000001283,Ongoing,Uzbekistan,,2017,,364.17,93.5,,President's Report
-2000001501,Ongoing,Malawi,,2017,,71.53,42.0,,Project Design Report
 2000001507,Ongoing,Dominican Republic,,2017,,40.84,11.88,,Project Design Report
 1100001730,Ongoing,Myanmar,,2017,,65.16,58.23,,President's Report
 2000000899,Ongoing,Papua New Guinea,,2017,,46.79,25.5,,Project Design Report
@@ -135,66 +146,67 @@ Project ID,Status,Country,Region,Year approved,Borrowing entity,Project amount (
 2000001478,Ongoing,Jordan,,2017,,25.93,8.9,,No report
 2000001145,Ongoing,Burundi,,2017,,38.61,24.93,,Project Design Report
 2000001577,Ongoing,Iraq,,2017,,31.84,18.23,,Project Design Report
+2000001480,Ongoing,Lebanon,,2017,,12.5,5.5,,President's Report
 2000001197,Ongoing,Tonga,,2017,,12.48,7.5,,President's Report
-2000002377,Ongoing,Paraguay,,2017,,14.83,10.5,,No report
+2000002377,Ongoing,Paraguay,,2017,,14.83,10.5,,Project Design Report
 2000001157,Ongoing,Comoros,,2017,,17.75,13.38,,Project Design Report
-2000000929,Ongoing,Sri Lanka,,2017,,105.04,54.4,,Project Design Report
 2000001142,Ongoing,Angola,,2017,,39.57,28.8,,Project Design Report
+2000000929,Ongoing,Sri Lanka,,2017,,105.04,54.4,,Project Design Report
 2000001076,Ongoing,Montenegro,,2017,,14.48,6.12,,Project Design Report
-2000001232,Ongoing,Kyrgyzstan,,2016,,40.59,23.76,,President's Report
+2000001491,Ongoing,Ecuador,,2016,,35.66,26.41,,President's Report
 2000001268,Ongoing,Cambodia,,2016,,61.61,36.26,,President's Report
-2000001405,Ongoing,Zambia,,2016,,31.21,22.26,,President's Report
-2000001491,Ongoing,Ecuador,,2016,,35.66,26.41,,No report
 2000000968,Ongoing,Viet Nam,,2016,,74.34,43.0,,President's Report
+2000001232,Ongoing,Kyrgyzstan,,2016,,37.99,21.17,,President's Report
 2000001527,Ongoing,Argentina,,2016,,25.45,13.32,,President's Report
-2000001159,Ongoing,Tunisia,,2016,,34.29,24.11,,President's Report
 2000001071,Ongoing,Mauritania,,2016,,45.21,28.08,,President's Report
-2000001199,Ongoing,Cuba,,2016,,60.51,11.9,,No report
+2000001159,Ongoing,Tunisia,,2016,,34.29,24.11,,President's Report
+2000001199,Ongoing,Cuba,,2016,,60.51,11.9,,President's Report
 2000001472,Ongoing,Guyana,,2016,,11.14,8.45,,President's Report
 2000001144,Ongoing,Eritrea,,2016,,37.71,15.0,,President's Report
 2000001156,Ongoing,Republic of Moldova,,2016,,38.73,23.7,,No report
-2000001195,Ongoing,Rwanda,,2016,,65.07,44.71,,President's Report
-2000001233,Ongoing,Zimbabwe,,2016,,53.34,25.46,,President's Report
 2000001403,Ongoing,Morocco,,2016,,61.25,46.5,,Project Design Report
+2000001233,Ongoing,Zimbabwe,,2016,,53.34,25.46,,President's Report
+2000001195,Ongoing,Rwanda,,2016,,70.14,48.45,,President's Report
 2000001134,Ongoing,Ethiopia,,2016,,149.03,114.5,,President's Report
-2000000732,Ongoing,Djibouti,,2016,,18.42,9.8,,No report
+2000000732,Ongoing,Djibouti,,2016,,18.03,10.1,,No report
 2000001242,Ongoing,Nicaragua,,2016,,48.46,20.5,,President's Report
 2000000897,Ongoing,Peru,,2016,,74.51,28.5,,President's Report
-2000001131,Ongoing,Lao People's Democratic Republic,,2016,,40.3,0.0,,No report
-1100001748,Ongoing,Liberia,,2015,,8.18,3.32,,President's Report
 1100001761,Ongoing,Liberia,,2015,,32.6,26.5,,President's Report
-2000000882,Ongoing,Benin,,2015,,49.64,28.5,,President's Report
-1100001658,Ongoing,Democratic Republic of the Congo,,2015,,54.19,33.78,,President's Report
-1100001670,Ongoing,Malawi,,2015,,83.95,60.09,,President's Report
-1100001706,Ongoing,Indonesia,,2015,,852.9,100.0,,President's Report
 1100001731,Ongoing,Sri Lanka,,2015,,65.4,25.76,,President's Report
-1100001749,Ongoing,Argentina,,2015,,38.87,24.33,,No report
+2000000882,Ongoing,Benin,,2015,,91.42,39.58,,President's Report
+1100001706,Ongoing,Indonesia,,2015,,852.9,100.0,,President's Report
+1100001749,Ongoing,Argentina,,2015,,38.87,24.33,,President's Report
+1100001658,Ongoing,Democratic Republic of the Congo,,2015,,59.47,33.78,,President's Report
+1100001670,Ongoing,Malawi,,2015,,118.88,87.79,,President's Report
 1100001736,Ongoing,El Salvador,,2015,,18.69,17.13,,President's Report
 1100001750,Ongoing,Paraguay,,2015,,23.83,22.47,,President's Report
 2000000850,Ongoing,Madagascar,,2015,,56.7,40.4,,President's Report
-1100001547,Ongoing,Philippines,,2015,,52.53,25.01,,President's Report
 1100001714,Ongoing,Uzbekistan,,2015,,39.41,24.6,,President's Report
-2000000423,Ongoing,Afghanistan,,2015,,54.79,48.46,,President's Report
 1100001721,Ongoing,Bolivia (Plurinational State of),,2015,,38.76,17.89,,No report
-1100001758,Ongoing,Bangladesh,,2015,,220.4,23.8,,President's Report
 1100001739,Ongoing,Bhutan,,2015,,40.37,25.64,,President's Report
-1100001665,Ongoing,Eswatini,,2015,,24.95,10.1,,President's Report
-1100001688,Ongoing,Niger,,2015,,206.85,110.0,,President's Report
+1100001758,Ongoing,Bangladesh,,2015,,220.4,23.8,,President's Report
+1100001688,Ongoing,Niger,,2015,,285.79,150.0,,President's Report
 1100001743,Ongoing,India,,2015,,130.4,51.21,,President's Report
-2000000836,Ongoing,Pakistan,,2015,,120.15,67.0,,President's Report
 1100001724,Ongoing,Nepal,,2015,,49.32,19.79,,President's Report
+2000000836,Ongoing,Pakistan,,2015,,120.15,67.0,,President's Report
+1100001665,Ongoing,Eswatini,,2015,,24.95,10.1,,President's Report
 1100001651,Ongoing,Kenya,,2015,,123.13,71.78,,President's Report
 1100001757,Ongoing,Guinea-Bissau,,2015,,36.68,24.04,,Project Design Report
 2000001468,Closed,Mexico,,2017,,54.61,35.37,,Project Design Report
 2000001767,Closed,Angola,,2017,,7.61,6.0,,Project Design Report
-2000001420,Closed,India,,2016,,86.76,13.42,,President's Report
+2000001420,Closed,India,,2016,,42.46,13.42,,President's Report
+2000001405,Closed,Zambia,,2016,,23.34,14.39,,President's Report
 1100001744,Closed,Lao People's Democratic Republic,,2016,,40.66,10.0,,No report
+2000001131,Closed,Lao People's Democratic Republic,,2016,,40.3,0.0,,No report
+1100001748,Closed,Liberia,,2015,,8.18,3.32,,President's Report
 1100001728,Closed,Bosnia and Herzegovina,,2015,,61.45,12.75,,Project Design Report
-2000000977,Closed,Tajikistan,,2015,,24.19,22.4,,No report
+2000000977,Closed,Tajikistan,,2015,,24.19,22.4,,President's Report
 2000000973,Closed,Mexico,,2015,,19.53,7.08,,President's Report
-1100001702,Closed,China,,2015,,125.25,43.48,,President's Report
 2000001009,Closed,Burundi,,2015,,52.57,41.57,,President's Report
 1100001548,Closed,Philippines,,2015,,43.05,29.96,,President's Report
+1100001702,Closed,China,,2015,,125.25,43.48,,President's Report
+1100001547,Closed,Philippines,,2015,,52.53,25.01,,President's Report
+2000000423,Closed,Afghanistan,,2015,,54.79,48.46,,President's Report
 1100001659,Closed,Congo,,2015,,14.8,7.7,,Project Design Report
 1100001734,Closed,Ecuador,,2015,,18.47,2.4,,President's Report
 1100001707,Closed,Fiji,,2015,,6.05,3.52,,President's Report

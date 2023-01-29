@@ -1,0 +1,1822 @@
+Document:
+Date:
+Distribution:
+Original:
+EB 2015/LOT/P.35/Rev.1
+12 December 2015
+Public
+English
+E
+President’s report
+Proposed loan and grant to the Republic of
+Tajikistan for the Livestock and Pasture
+Development Project II
+Note to Executive Board representatives
+Focal points:
+Technical questions:
+Dispatch of documentation:
+Frits Jepsen
+Country Programme Manager
+Near East, North Africa and Europe Division
+Tel.: +39 06 5459 2675
+e-mail: f.jepsen@ifad.org
+Alessandra Zusi Bergés
+Officer-in-Charge
+Governing Bodies Office
+Tel.: +39 06 5459 2092
+e-mail: gb_office@ifad.org
+For: Approval
+EB 2015/LOT/P.35/Rev.1
+ii
+iii
+iv
+1
+1
+1
+2
+3
+3
+3
+3
+4
+4
+4
+5
+5
+6
+6
+6
+6
+7
+7
+8
+8
+8
+8
+8
+8
+9
+9
+Contents
+Abbreviations and acronyms
+Map of the project area
+Financing summary
+Recommendation for approval
+I.
+Strategic context and rationale
+A. Country and rural development and poverty context
+B. Rationale and alignment with government priorities and
+RB-COSOP
+II. Project description
+A. Project area and target group
+B. Project’s development objective
+C. Components/outcomes
+III. Project implementation
+Approach
+A.
+B. Organizational framework
+C. Planning, monitoring and evaluation, and learning and
+knowledge management
+D. Financial management, procurement and governance
+E. Supervision
+IV. Project costs, financing and benefits
+A. Project costs
+B. Project financing
+C. Summary benefit and economic analysis
+D. Sustainability
+E. Risk identification and mitigation
+V.
+Corporate considerations
+A.
+B.
+C.
+D.
+Compliance with IFAD policies
+Alignment and harmonization
+Innovations and scaling up
+Policy engagement
+VI. Legal instruments and authority
+VII. Recommendation
+Appendices
+I. Negotiated financing agreement
+II. Logical framework
+i
+EB 2015/LOT/P.35/Rev.1
+Abbreviations and acronyms
+ASAP
+AWP/B
+CLPMP
+LPDP
+PMU
+PSC
+PUU
+RB-COSOP
+SDR
+Adaptation for Smallholder Agriculture Programme
+annual workplan and budget
+community livestock and pasture management plan
+Livestock and Pasture Development Project
+project management unit
+project steering committee
+Pastures Users’ Union
+results-based country strategic opportunities programme
+special drawing right(s)
+ii
+Map of the project area
+EB 2015/LOT/P.35/Rev.1
+iii
+EB 2015/LOT/P.35/Rev.1
+Republic of Tajikistan
+Livestock and Pasture Development Project II
+Financing summary
+Initiating institution:
+IFAD
+Borrower:
+Executing agency:
+Total project cost:
+Amount of IFAD loan:
+Amount of IFAD grant:
+Terms of IFAD loan:
+Other grants:
+Amount of ASAP grant:
+Republic of Tajikistan
+Ministry of Agriculture
+US$24.2 million
+SDR 6.2 million (equivalent to approximately
+US$8.7 million)
+SDR 6.2 million (equivalent to approximately
+US$8.7 million)
+Highly concessional: maturity period of 40 years,
+including a grace period of 10 years, with a service
+charge of 0.75% per annum
+Adaptation for Smallholder Agriculture Programme
+(ASAP)
+SDR 3.6 million (equivalent to approximately
+US$5 million)
+Contribution of borrower:
+US$0.5 million
+Contribution of beneficiaries:
+US$1.4 million
+Appraising institution:
+IFAD
+Cooperating institution:
+Directly supervised by IFAD
+iv
+A
+p
+p
+e
+n
+d
+i
+x
+I
+I
+[
+C
+l
+i
+c
+k
+h
+e
+r
+e
+a
+n
+d
+i
+n
+s
+e
+r
+t
+E
+B
+.
+.
+/
+.
+.
+/
+R
+.
+.
+]
+EB 2015/LOT/P.35/Rev.1
+Recommendation for approval
+The Executive Board is invited to approve the recommendations for the proposed
+financing to the Republic of Tajikistan for the Livestock and Pasture Development
+Project II, as contained in paragraph 38.
+Proposed loan and grant to the Republic of Tajikistan for
+the Livestock and Pasture Development Project II
+I. Strategic context and rationale
+A. Country and rural development and poverty context
+1.
+The Republic of Tajikistan is a landlocked country with mountainous areas
+accounting for some 93 per cent of the total land area, and a population of
+8.2 million. Tajikistan’s economy has grown by more than 8 per cent per annum
+since 2000, but growth slowed from 7.4 per cent in 2013 to 6.7 per cent in 2014 as
+remittance inflow, equivalent to almost half of Tajikistan’s GDP, fell by 8.3 per cent.
+Remittances from about one million labour migrants account for as much as
+25 per cent of total household income, making the country highly vulnerable to
+external economic shocks. The country’s remoteness, obsolescent infrastructure,
+deteriorating education and health systems, and lack of government resources are
+significant barriers to economic and social development.
+2.
+3.
+4.
+The agriculture sector accounts for only about 21 per cent of the country’s GDP, but
+plays a crucial role in the rural population’s livelihoods and food security. The
+population of Tajikistan was 73.4 per cent rural in 2013, with the majority engaged
+in agriculture, which accounted for 75 per cent of total employment. Of the total
+area of the country (14.3 million hectares [ha]), agricultural land accounts for
+about 34 per cent (4.8 million ha), of which 82 per cent is pasture and hay
+meadows. Individual households account for over 50 per cent of the country’s
+agricultural production, and in some agricultural subsectors their contribution
+reaches 80-90 per cent.
+The poverty level has been declining over the last 15 years, reaching 36 per cent in
+2013, with extreme poverty reduced to 14 per cent. Poverty is especially high in
+rural areas, where the population depends mainly on agriculture, livestock and
+remittances for livelihoods and food security. There are regional differences in the
+poverty level, with the majority of poor people living in the Khatlon and Sughd
+regions, which account for 65 per cent of Tajikistan’s total population. The
+Government of Tajikistan has an ambitious plan to reduce poverty to 20 per cent by
+2020. However, with the high annual population growth (3.8 per cent), lack of
+employment and decreasing remittances, this target presents a challenge and
+requires a strong commitment to, and advancement of, a wide range of reforms.
+Tajikistan ranks lowest in Europe and Central Asia on gender equality, although
+women are the main farmers in the country. Women’s status and position in society
+have undergone a critical change since independence in 1991: they now have less
+education, less formal employment and lower wages. Women head nearly half the
+households that suffer from a heavy burden of food insecurity. Agriculture is their
+largest employment sector – about 50 per cent of women were engaged in the
+sector in 2010. However, their participation in agriculture is characterized by
+seasonal and low-paid or unpaid positions. In the livestock sector, women are
+mainly responsible for the care of animals within the homestead and undertake
+much of the work of feed preparation, milking and cleaning.
+1
+EB 2015/LOT/P.35/Rev.1
+B. Rationale and alignment with government priorities and
+5.
+6.
+7.
+8.
+RB-COSOP
+Livestock ownership is a key coping strategy for the smallholder farmer in
+Tajikistan. Livestock inventories have grown to levels higher than in the immediate
+pre-independence period and livestock-raising is an activity in which nearly the
+entire rural population engages. However, livestock-sector productivity is very low
+and relies primarily on grazing, supplemented by limited cultivated feed crops and
+minimal concentrates. The simultaneous rise in inventories and fall in feed supplies
+mean that feed per animal has fallen dramatically, together with livestock
+productivity.
+The ability of livestock farmers to maximize the use of pastures is constrained by
+many problems, including a lack of technical knowledge among small livestock
+holders, poor governance arrangements on pasture management, inefficient
+management of community livestock, shortage of feed during winter months,
+environmental degradation, and lack of access to quality fodder seed and
+infrastructure – all of which are further exacerbated by climate change. The project
+will address these constraints in an effort to reduce the vulnerability of pasture
+communities to the increasing threat posed by changing climate conditions. This
+will ensure that livestock producer households maximize their returns, while
+safeguarding the sustainable management of pastures. With the growing number of
+livestock and further deterioration of natural pastures, a focus on pasture
+management reforms resulted in the adoption of the Law on Pastures in March
+2013. This law serves as a foundation for the pasture management decentralization
+reforms that are being piloted in selected areas. However, experience has shown
+that it is imperative to facilitate the reform process through further advancement of
+the policy and legal framework for pasture management.
+Improvement in livestock productivity would support poor households in dealing
+with food security issues and would enhance their nutritional status. Despite the
+relative decrease in poverty, many people are still poor and suffer from chronic
+malnutrition. The most critical situation relates to the consumption of meat, eggs,
+milk and dairy products. Investment in measures to overcome obstacles to
+increased livestock productivity and production will have an immediate impact on
+smallholders’ nutrition status, food security profile, income and livelihoods.
+Increased livestock will also make a significant contribution to other agricultural
+incomes through employment and productivity. IFAD is considered an ideal partner
+to provide such support to farmers in the Khatlon region, given its experience in
+working with smallholder farmers in Asia and in the Commonwealth of Independent
+States.
+Climate change adaptation interventions will address urgent environmental and
+poverty issues. The close link between livestock productivity and rational and
+efficient use of pastures requires a concurrent focus on the pasture/natural
+resource management aspects of livestock production. This in turn requires an
+effort to mainstream climate change adaptation in livestock and pasture
+management, given that this sector is extremely vulnerable. Despite the fact that
+the Khatlon region is among the areas most vulnerable to climate change and
+disaster-related risk, the growing impact of climate change has not yet been
+explicitly taken into account in the Livestock and Pasture Development Project
+(LPDP). Thanks to the availability of ASAP financing, the urgent issue of climate
+change adaptation has been integrated into both LPDP and the Livestock and
+Pasture Development Project II (LPDP-II). In addition to experiences gained from
+LPDP, the project also builds on past and ongoing experiences and policies of other
+international agencies and major stakeholders, including the World Bank, Asian
+Development Bank (AsDB), World Food Programme (WFP), Food and Agricultural
+Organization of the United Nations (FAO), German Agency for International
+Cooperation (GIZ), United Nations Development Programme (UNDP) and Aga Khan
+2
+EB 2015/LOT/P.35/Rev.1
+Foundation. During implementation, the project will actively seek synergies and
+complementarities with these and other agencies involved in livestock/pasture
+management and climate change and disaster risk reduction. The project has
+established links with the Pilot Program for Climate Resilience. This programme is
+funded by the World Bank, AsDB, European Bank for Reconstruction and
+Development (EBRD) and the United Kingdom’s Department for International
+Development (DFID) under the Strategic Climate Fund, which is one of two
+multi-donor trust funds within the Climate Investment Funds.
+II. Project description
+A. Project area and target group
+9.
+LPDP-II will reach some 38,000 rural households in at least 200 communities in five
+districts of the Khatlon region, which is located in the south-west of the country,
+and has a population of 2.64 million or approximately one third of the country’s
+total. It is divided into 25 districts, with a population ranging from 19,000 to
+175,000 in each. LPDP-II will target households with the potential for increased
+livestock productivity and high poverty level. Together, LPDP and LPDP-II target
+35 per cent of the Khatlon region’s population, 35 per cent of its pastures,
+43 per cent of large ruminants, 52 per cent of small ruminants and 30 per cent of
+the area under fodder crops.
+10. The project’s primary target group includes: (i) smallholder livestock households;
+(ii) private veterinary service providers and small-scale entrepreneurs with the
+potential to provide services to households and smallholder farmers; and
+(iii) woman-headed households and women belonging to poor households. Target
+group members will have a per capita income of less than US$2 per day, which is
+currently the case for 50 per cent of the total population of Khatlon.
+11. The project is taking the following approach: (i) geographical targeting to select
+jamoats (administrative divisions) with the potential for livestock and pasture
+development; (ii) selection of villages considering poverty data profiles;
+(iii) household targeting for selection of households that meet the project’s poverty
+and gender criteria; and (iv) gender targeting for the selection of women for
+specific project activities through quotas for their inclusion. The project will
+continue to emphasize the role of women in agricultural production and will make
+concerted efforts to enable women to move beyond subsistence production and into
+higher-value, market-oriented production.
+B. Project’s development objective
+12. The project’s development goal is to contribute to reduction of poverty in the
+Khatlon region. The development objective is to increase the nutritional status and
+incomes of some 38,000 poor households by enhancing livestock productivity and
+climate resilience sustainably.
+C. Components/outcomes
+13. The project’s investments and activities will be implemented through three
+components in addition to project management:
+(a) Component 1: Institutional development. This component seeks to
+enhance the capacity of targeted public-sector and community organizations
+to be more effective and efficient at pro-poor pasture management
+development. Two subcomponents are envisaged: (i) development of
+community organizations; and (ii) advancement of policy and legal
+frameworks and strengthening of national institutions.
+(b) Component 2: Productivity enhancement and improved animal health.
+The key objective of this component is to increase access to livestock and
+veterinary services and fodder supply for smallholder producers (mainly
+households), resulting in decreased mortality and increased productivity of
+3
+EB 2015/LOT/P.35/Rev.1
+sheep/goat flocks and cattle herds due to the reduced incidence and
+prevalence of disease. Two subcomponents are envisaged: (i) enhancement of
+livestock productivity; and (ii) improvement in animal health.
+(c) Component 3: Pasture development and diversification for
+vulnerability reduction. The key objective of this component is to increase
+access to more productive and climate-resilient pasture areas as well as
+diversified income-generating opportunities for livestock communities through
+sustainable, community-led management of natural resources. The
+participatory planning process will incorporate both climate-resilient pasture
+management and animal production/health planning, thus linking the work to
+be carried out under both the first and second components. This component
+will strengthen the adaptive capacity, governance and management skills of
+the Pasture Users’ Unions (PUUs) and their elected boards, reducing their
+vulnerability to climatic stress. This will be done by building an understanding
+within their constituent members of the importance of incorporating
+climate-risk reduction measures within community livestock and pasture
+management plans (CLPMPs) in order to ensure the long-term sustainability
+and health of pastures and the restoration of pasture landscapes. These
+measures will in turn improve livestock productivity and contribute to reduced
+feed shortfall and income loss.
+III. Project implementation
+Approach
+A.
+14. The LPDP-II approach is based on community-driven development to enhance
+adaptive capacity, reduce climate-induced risk and reduce poverty. Although LPDP
+provides opportunities to enhance pasture management at community and national
+levels, the growing impacts of climate change have not yet been explicitly taken
+into account, especially in terms of development of the CLPMP and setting priorities
+for wise, long-term investment in improving pastures. LPDP-II will address
+integration of this urgent issue of climate change adaptation, thanks to the
+availability of ASAP financing. LPDP and LPDP-II will be treated as one coherent
+project in all operational aspects and will complement each other, specifically in
+terms of the ‘one-project’ approach, implementation modalities and project
+activities.
+Organizational framework
+B.
+15. The Ministry of Agriculture will continue to have overall responsibility for
+management of the project on behalf of the Government. A national project
+steering committee (PSC) will continue to provide overall policy guidance for LPDP
+and LPDP-II and maintain oversight of the annual workplan and budget (AWP/B).
+The Deputy Minister responsible for the livestock sector will continue to chair the
+PSC, which will review project progress and approve the AWP/B and annual
+progress report.
+16. The Ministry will develop policies and processes – jointly with the State Committee
+for Land Management and Geodesy, and district hukumats (governments) – for
+allocation of pasture land-use rights to the PUUs.
+17. State Veterinary Inspection Services (SVIS) is a subdivision of the Ministry of
+Agriculture and is responsible for the provision of veterinary services to farmers.
+Under LPDP-II, SVIS will be responsible for: (i) providing data to the project
+management unit (PMU); (ii) assisting in identification of jamoats, villages and
+suitable veterinary candidates to participate in the strengthening of the private
+veterinary services subcomponent; and (iii) working closely with the PMU and
+community facilitators at the community level, particularly in ensuring that private
+veterinarians can develop into an effective and financially sustainable service.
+4
+EB 2015/LOT/P.35/Rev.1
+C.
+Planning, monitoring and evaluation, and learning and
+knowledge management
+18. The jamoats will approve the CLPMPs, which have been developed by the PUUs in
+an inclusive and participatory manner and submitted to the PMU for review and
+final approval. Based on the priority areas identified by the PUUs, community
+facilitators and the PMU will develop a preliminary plan to be fed into the AWP/B.
+The PMU will ensure that proposed activities are eligible for financing under the
+project, and that proposed plans take into account the extent to which they are
+realistic in terms of time frames and availability of resources. The PMU will prepare
+draft AWP/Bs for each project year, to be submitted to the PSC for review and
+approval. The PMU will submit semi-annual and annual progress reports to IFAD.
+19. The monitoring and evaluation (M&E) system will provide comprehensive
+information for the project’s effective and efficient management and will help
+stakeholders learn from implementation experience. Project impact will be
+monitored by undertaking surveys at three stages during the life of the project:
+baseline information at start-up, and impact evaluation at midterm and project
+completion.
+20. Knowledge generated by the project will be documented for dissemination to
+regional and national audiences using a variety of instruments, including electronic
+media, promotional meetings and workshops. LPDP-II will produce special policy
+briefs, case profiles and case studies from its learning in the field.
+Financial management, procurement and governance
+D.
+21. A financial management-capacity and risk assessment for this operation has been
+completed in accordance with the guidelines of the Controller’s and Financial
+Services Division. Overall, financial management risk is rated as medium. The latest
+Transparency International indicator rating of 2.3 implies a high risk of corruption.
+However, in the last few years, there has been good progress on, and strong
+government commitment to, public financial management reforms. The project
+design has some inherent financial management risks, given the substantial funds
+earmarked for community-driven subprojects that are geographically widespread.
+These risks will be mitigated somewhat by central PMU management of
+procurement and payments for the subprojects. The proposed PMU, which is
+currently managing the ongoing LPDP, has put in place financial accountability
+systems and procedures that are functioning reasonably well. These will help keep
+control risks at an acceptable level. The fiduciary performance of the current
+portfolio is generally satisfactory, with the exception of an outstanding matter of
+misprocurement in one project noted in 2010. While changes in project
+management have subsequently been made to improve compliance with IFAD’s
+procedures, the settlement of this case remains outstanding.
+22. A number of measures are in place to assure good governance as indicated by
+democratic accountability, transparency of financial management, gender
+equitability and mechanisms for complaints and remedies, including: (i) consistent
+stakeholder representation, through the PSC, in the project’s planning, monitoring,
+evaluation and impact assessment cycle – affording mechanisms for complaints and
+remedies; (ii) quotas for women beneficiaries; and (iii) application of guidelines and
+procedures for procurement consistent with current IFAD Project Procurement
+Guidelines. Specific actions needed to strengthen assurance of the correct use of
+funds include: strengthening oversight measures for procurement and distribution
+of goods, equipment and inputs to communities, based on approved subprojects;
+introducing periodic internal audit reviews of operational controls to complement
+external financial audits; adapting PMU accounting software for use in this project;
+and hiring additional accounting staff. Appropriate covenants have been proposed
+for these actions.
+5
+EB 2015/LOT/P.35/Rev.1
+E.
+23.
+Supervision
+LPDP-II will be directly supervised by IFAD. One or two supervision and
+implementation support missions will be organized each year, according to need.
+IV. Project costs, financing and benefits
+A. Project costs
+24. Total investment and incremental recurrent project costs, including physical and
+price contingencies, are estimated at US$24 million (163 million Tajikistan somoni
+[TJS] equivalent). Physical and price contingencies are low – at 3 per cent of total
+project costs – due to investments associated with the various grants, representing
+some 76 per cent of total project costs (expressed as a lump sum, with no
+contingencies). The foreign exchange component is estimated at US$10.7 million or
+about 44 per cent of total project costs. Taxes and duties make up approximately
+US$0.45 million or 2 per cent of total project costs, and are mainly associated with
+civil works and equipment and goods, which constitute some 15 per cent of total
+costs. Project management expenses comprise about 6.7 per cent of total project
+costs and are partly covered under LPDP.
+Table 1
+Project costs by component and financier
+(Thousands of United States dollars)
+IFAD grant
+IFAD loan
+ASAP grant
+Beneficiaries
+Borrower
+Total
+Amount
+% Amount
+% Amount
+%
+Amount
+%
+Amount
+%
+Amount
+%
+Component
+Institutional development
+1.
+(i) Development of
+community organizations
+(ii) Advancement of policy
+and legal framework and
+strengthening of national
+institutions
+Subtotal 1
+2. Productivity
+enhancement and
+improved animal health
+(i) Enhancement of livestock
+productivity
+(ii) Improvement in animal
+health
+Subtotal 2
+3. Pasture development
+and diversification for
+vulnerability reduction
+Community resilience
+pasture management and
+investments
+Income diversification
+Subtotal 3
+4. Project management
+Project management
+M&E
+Subtotal 4
+Total
+575
+54.6
+738
+1 313
+91.3
+70.6
+1 375
+496
+1 871
+4 002
+-
+4 002
+1 405
+109
+1 514
+8 699
+81.4
+89,3
+83,4
+22.3
+-
+21.6
+93.0
+98.9
+93.4
+35.9
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+8 700
+-
+8 700
+-
+-
+-
+48.5
+-
+47.0
+-
+-
+-
+153
+14.5
+269
+25.5
+56
+5.4
+1 053
+4.3
+-
+153
+-
+8.2
+-
+269
+-
+14.4
+70
+126
+8.7
+6.8
+808
+1 861
+-
+-
+-
+4 358
+525
+4 883
+-
+-
+-
+-
+-
+-
+24.3
+95.5
+26.4
+-
+-
+-
+154
+30
+184
+871
+25
+896
+-
+-
+-
+9.1
+5.4
+8.2
+4.9
+4.5
+4.8
+-
+-
+-
+160
+30
+190
+23
+-
+23
+106
+1
+107
+447
+9.5
+5.4
+8.5
+0.1
+-
+0.1
+7.0
+1.1
+6.6
+1.8
+1 689
+556
+2 245
+17 953
+550
+18 503
+1 511
+110
+1 621
+8 700
+35.9
+5 036
+20.8
+1 348
+5.6
+24 230
+100.0
+3.3
+7.7
+7,0
+2.3
+9.3
+74.1
+2.3
+76.4
+6.2
+0.5
+6.7
+B. Project financing
+25. An IFAD loan of US$8.7 million (36 per cent of total project costs) will finance
+47 per cent of the pasture development and diversification for vulnerability reduction
+component. An IFAD grant of US$8.7 million (36 per cent of total project costs) will
+finance: 71 per cent of the institutional development component (US$1.3 million), 83 per
+cent of the productivity enhancement and improved animal health component (US$1.9
+million), 22 per cent of the pasture development and diversification for vulnerability
+reduction component (US$4.0 million), and 93 per cent of the project management
+component (US$1.5 million). An ASAP grant of US$5.0 million (21 per cent of total
+project costs) will finance 8 per cent of the institutional development component
+(US$0.15 million) and 26 per cent of the pasture development and diversification for
+vulnerability reduction component (US$4.8 million). The government contribution is
+6
+EB 2015/LOT/P.35/Rev.1
+estimated at US$0.45 million (2 per cent) and includes contributions from its budget
+primarily to cover taxes (see next paragraph). Approximately US$1.4 million (5.6 per
+cent) will be provided by beneficiaries as cofinancing of the CLPMP and other grants.
+26. The government contribution will cover all taxes and duties on all project inputs
+that involve funding from the IFAD loan/grant and ASAP grant or any other external
+source of funding associated with the IFAD loan/grant and ASAP grant.
+Table 2
+Project costs by expenditure category and financier
+(Thousands of United States dollars)
+Expenditure account
+Amount
+%
+Amount
+%
+Amount
+%
+Amount
+% Amount
+%
+Amount
+IFAD grant
+IFAD loan
+ASAP grant
+Beneficiaries
+Gov’t of Tajikistan
+taxes
+Total
+I. Investment costs
+A. Civil works
+B. Goods, equipment
+and materials
+C. Vehicles
+D. Technical assistance
+and studies
+International TA
+National TA
+Studies
+Subtotal D
+E. Training and
+workshops
+F. CLPMP grants
+G. Diversification grants
+H. Other grants
+Total Investment
+costs
+II. Recurrent costs
+A. Salaries and
+allowances
+B. Social fund
+C. Operating expenses
+Vehicles
+Office
+Subtotal C
+Total recurrent costs
+69
+1 891
+88
+102
+1 476
+102
+1 680
+164
+3 495
+-
+440
+7 825
+343
+76
+246
+209
+455
+874
+Total project costs
+8 699
+84,7
+79,8
+75,0
+100,0
+75,8
+100,0
+78,1
+100,0
+20,1
+-
+93,6
+33,6
+100,0
+100,0
+84,7
+84,7
+84,8
+91,4
+35,9
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+8 700
+49,9
+-
+-
+-
+-
+8 700
+37,4
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+203
+-
+203
+-
+4 358
+475
+-
+5 036
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+10,4
+-
+9,4
+-
+25,0
+95,0
+-
+21,6
+-
+-
+-
+-
+-
+-
+-
+154
+-
+-
+269
+-
+269
+-
+871
+25
+30
+1 348
+-
+-
+-
+-
+-
+-
+-
+6,5
+-
+-
+13,8
+-
+12,5
+-
+5,0
+5,0
+6,4
+5,8
+-
+-
+-
+-
+-
+-
+12
+323
+29
+-
+-0
+0
+-0
+-
+0
+-
+-
+15,3
+13,7
+25,0
+-
+-
+-
+-
+-
+-
+-
+-
+81
+2 368
+117
+102
+1 947
+102
+2 152
+164
+17 423
+500
+470
+365
+1,6
+23 274
+-
+-
+44
+38
+82
+82
+-
+-
+15,3
+15,3
+15,3
+8,6
+1,8
+343
+76
+291
+246
+537
+956
+8 700
+35,9
+5 036
+20,8
+1 348
+5,6
+447
+24 230
+100,0
+%
+0,3
+9,8
+0,5
+0,4
+8,0
+0,4
+8,9
+0,7
+71,9
+2,1
+1,9
+96,1
+1,4
+0,3
+1,2
+1,0
+2,2
+3,9
+C. Summary benefit and economic analysis
+27. The main project benefits will accrue to households in the 200 PUUs that constitute
+the project area in the selected districts of the Khatlon region. Some 38,000
+households will benefit directly and indirectly from the project’s interventions
+(80 per cent of those targeted).
+28. Economic analysis indicates that the project is robust in economic terms, yielding
+an economic rate of return of 20 per cent and a net present value of US$8.6 million
+taken over 20 years. The benefit stream (discounted at 12 per cent) is based on the
+quantifiable benefits that relate directly to activities undertaken following
+component implementation.
+D. Sustainability
+29. Through its design, the project will adopt a balanced approach between
+environmental management, economic growth and strengthening of social capital.
+A key focus of the project will be to promote policy supporting sustainable pasture
+management, and to develop the adaptive capacity of PUUs to manage their
+pasture areas better and sustainably, taking into account the predicted impacts of
+climate change on pastures and pasture communities. PUUs with secure land-use
+rights and empowered with technical knowledge and organizational skills will
+continue to manage pastures on the ground.
+7
+EB 2015/LOT/P.35/Rev.1
+E. Risk identification and mitigation
+30. Technical and climate risks associated with the project may lead to reduced
+economic returns. Lack of capacity in governmental agencies and communities to
+effectively participate in project activities may result in delayed realization of
+benefits. The sensitivity analysis shows the project to be economically viable even if
+benefits were to be decreased by 41 per cent or if the realization of benefits were
+delayed by two years.
+V. Corporate considerations
+A.
+Compliance with IFAD policies
+31. The project is fully compliant with the IFAD Strategic Framework 2011-2015. The
+design is further aligned with: (i) the new IFAD Environment and Natural Resource
+Management Policy, which proposes greater attention to risk and resilience so as to
+manage environmental and natural resource-related shocks, and promotes
+livelihood diversification to reduce vulnerability and build resilience for sustainable
+natural resource management; and (ii) the IFAD Climate Change Strategy.
+Similarly, the design is fully compliant with the IFAD Policy on Targeting and the
+Policy on Gender Equality and Women’s Empowerment; and it adheres to the new
+social, environmental and climate assessment procedures. LPDP-II is classified as
+an environmental Category B project.
+Alignment and harmonization
+B.
+32. The project is strongly aligned with, and contributes to, the priorities of the Third
+National Communication of Tajikistan to the United Nations Framework Convention
+on Climate Change (UNFCCC), which identifies agriculture and livestock as being
+particularly vulnerable to climate change. The project is also in line with the
+Tajikistan National Action Plan for Climate Change Mitigation and the Tajikistan
+Strategic Programme for Climate Resilience. The project will contribute to
+integration of climate change adaptation considerations into the National
+Development Strategy (NDS). The NDS already includes environmental
+sustainability targets, a poverty reduction strategy explicitly mentioning climate
+change issues, and the climate change adaptation strategy for the period 2015-
+2030, which is being developed under the leadership of the State Agency for
+Hydrometeorology.
+Innovations and scaling up
+C.
+33. The ongoing LPDP has been a major intervention in the country in terms of
+advancement of pasture management reforms and livestock-sector development.
+Based on the experience and outcomes of the ongoing project, the Government has
+decided to scale up its approach to additional areas with livestock development
+potential. The established PMU – and the network of engaged institutions,
+partnership arrangements and capacity and expertise accumulated in the project –
+will facilitate smooth expansion of LPDP-II to the additional areas of the Khatlon
+region.
+D.
+34.
+Policy engagement
+LPDP already plays a key role in the GIZ-facilitated Pasture Management
+Networking Platform in Tajikistan, sharing its experience and lessons learned with
+other practitioners and policymakers in that field. LPDP-II will continue to provide
+assistance to formulation of a state policy and strategy for mainstreaming climate
+change adaptation in sustainable pasture management, and to elaboration of legal
+and regulatory documents to support implementation of the Law on Pastures,
+including the development of a strategy for pasture management and improvement
+for 2015-2020.
+8
+EB 2015/LOT/P.35/Rev.1
+VI. Legal instruments and authority
+35. A project financing agreement between the Republic of Tajikistan and IFAD will
+constitute the legal instrument for extending the proposed financing to the
+borrower/recipient. A copy of the negotiated financing agreement is attached as
+appendix I.
+36. The Republic of Tajikistan is empowered under its laws to receive financing from
+IFAD.
+37.
+I am satisfied that the proposed financing will comply with the Agreement
+Establishing IFAD and the Policies and Criteria for IFAD Financing.
+VII. Recommendation
+38.
+I recommend that the Executive Board approve the proposed financing in terms of
+the following resolutions:
+RESOLVED: that the Fund shall provide a loan on highly concessional terms to
+the Republic of Tajikistan in an amount equivalent to six million two hundred
+thousand special drawing rights (SDR 6,200,000), and upon such terms and
+conditions as shall be substantially in accordance with the terms and
+conditions presented herein.
+RESOLVED FURTHER: that the Fund shall provide a grant to the Republic of
+Tajikistan in an amount equivalent to six million two hundred thousand
+(SDR 6,200,000) and upon such terms and conditions as shall be substantially
+in accordance with the terms and conditions presented herein.
+RESOLVED FURTHER: that the Fund shall provide an ASAP grant to the
+Republic of Tajikistan in an amount equivalent to three million six hundred
+thousand (SDR 3,600,000) and upon such terms and conditions as shall be
+substantially in accordance with the terms and conditions presented herein.
+Kanayo F. Nwanze
+President
+9
+Appendix I
+EB 2015/LOT/P.35/Rev.1
+Negotiated financing agreement
+"Livestock and Pasture Development Project – II (LPDP-
+II)"
+(Negotiations concluded on 29 October 2015)
+IFAD Loan Number: ______
+IFAD Grant Number: ______
+ASAP Trust Grant Number: ______
+Project Title: Livestock and Pasture Development Project – II (LPDP-II) (the “Project”)
+The Republic of Tajikistan (the “Borrower/Recipient”)
+and
+The International Fund for Agricultural Development (the “Fund” or “IFAD”)
+and
+The Adaptation for Smallholder Agriculture Programme Trust Fund (”the ASAP Trust”)
+(each a “Party” and both of them collectively the “Parties”)
+Whereas the Executive Board of the Fund, at its 105th Session, approved the
+establishment of an Adaptation for Smallholder Agriculture Programme Trust Fund (“the
+ASAP Trust”);
+Whereas IFAD has agreed to extend a loan (the “IFAD Loan”) and a grant (the “IFAD
+Grant” to the Borrower/Recipient for the purposes of financing the Project, on the terms
+and conditions set forth in this Agreement;
+Whereas, on the basis of the above and other considerations, the ASAP Trust has agreed
+to extend a grant (the “ASAP Trust Grant”) to the Borrower/Recipient for the purposes of
+increasing the financing in respect of the Project, on the terms and conditions set forth in
+this Agreement; and
+Whereas the commitment of the ASAP Trust Grant is subject to availability of funds in the
+ASAP Trust;
+Now Therefore, the Parties hereby agree as follows:
+Section A
+The following documents collectively form this Agreement: this document, the
+1.
+Project Description and Implementation Arrangements (Schedule 1) and the Allocation
+Table (Schedule 2).
+The Fund’s General Conditions for Agricultural Development Financing dated
+2.
+29 April 2009, as may be amended from time to time (the “General Conditions”), are
+annexed to this Agreement, and all provisions thereof shall apply to this Agreement. For
+1
+Appendix I
+EB 2015/LOT/P.35/Rev.1
+the purposes of this Agreement the terms defined in the General Conditions shall have
+the meanings set forth therein.
+The Fund shall provide the IFAD Loan and IFAD Grant and the ASAP Trust shall
+3.
+provide the ASAP Trust Grant to the Borrower/Recipient (collectively the “Financing”),
+which the Borrower/Recipient shall use to implement the Project in accordance with the
+terms and conditions of this Agreement.
+Section B
+A.
+1
+Drawing Rights (SDR 6 200 000).
+The amount of the IFAD Loan is six million and two hundred thousand Special
+B.
+The amount of the IFAD Grant is six million and two hundred thousand Special
+Drawing Rights (SDR 6 200 000).
+C.
+The amount of the ASAP Trust Grant is three million and six hundred
+thousand Special Drawing Rights (SDR 3 600 000).
+The IFAD Loan is granted on Highly Concessional terms as defined in Paragraph
+2.
+15(a)(iii) of the Policies and Criteria for IFAD Financing dated 14 February 2013.
+3.
+4.
+The Loan Service Payment Currency for the Loan shall be US dollar.
+The first day of the applicable Fiscal Year shall be 1 January.
+Payments of principal and service charge of the Loan shall be payable on each 15
+5.
+May and 15 November.
+6.
+Designated account.
+(a)
+(b)
+There shall be one (1) designated account (the “Designated Account”) for the
+purposes of receiving the proceeds of the IFAD Loan, the IFAD Grant and the
+ASAP Trust Grant and financing the Project.
+The Designated Account shall be opened by the Borrower/Recipient in a
+financial institution acceptable to the Fund and on terms and conditions
+satisfactory to the Fund, including but not limited to appropriate protection
+against set off, seizure or attachment. The Project Management Unit (the
+“PMU”) referred to in Section E and Schedule 1 hereto, on behalf of the
+Borrower/Recipient, shall be fully authorized to operate the Designated Account
+in accordance with its procedures for the administration of accounts.
+7.
+Project accounts.
+There shall be three (3) Project accounts (the “Project Accounts”), one for each
+financing source and opened by the Borrower/Recipient in a financial institution
+acceptable to the Fund, in order to receive resources for the benefit of the Project
+from the Designated Account.
+The Borrower/Recipient shall bear all taxes that may be due in connection with the
+8.
+Project.
+Section C
+1.
+The Lead Project Agency shall be the Ministry of Agriculture (the “MOA”).
+2
+Appendix I
+EB 2015/LOT/P.35/Rev.1
+The Project Completion Date shall be the fifth anniversary of the date of entry into
+2.
+force of this Agreement.
+Section D
+The Financing shall be administered and the Project supervised by the Fund.
+Section E
+The following are designated as additional grounds for suspension of this
+1.
+Agreement:
+(a)
+Any competent authority has taken action without the prior consent of the
+Fund for institutional changes to the Project Steering Committee (PSC)
+referred to in Schedule 1 hereto, and/or institutional and key personnel
+changes to the PMU, including but not limited to modification of the
+membership composition, dissolution and merger; and the Fund has
+determined that any such event listed above is likely to have a material
+adverse effect on the Project; or
+(b)
+The Project Director referred to in Schedule 1 hereto has been removed from
+the Project without the prior concurrence of the Fund.
+The following are designated as additional general conditions precedent to
+2.
+withdrawal:
+(a)
+(b)
+(c)
+The State Enterprise “Project Management Unit “Livestock and Pasture
+Development” shall have been duly assigned for implementation of the
+Project;
+an accounting software acceptable to the Fund shall have been configured for
+the use by the Project; and
+the Project Implementation Manual (the “PIM”) referred to in Schedule 1
+hereto shall have been duly approved.
+The following is designated as an additional specific condition precedent to the
+3.
+second withdrawal: draft Terms of Reference for external and internal audit shall have
+been submitted to the Fund for approval.
+The following are the designated representatives and addresses to be used for any
+4.
+communication related to this Agreement:
+For the Borrower/Recipient:
+Minister for Finance of the
+Republic of Tajikistan
+Ministry of Finance
+3, Academicians Radzhabovych Street
+734025 Dushanbe, Tajikistan
+Fax: (+992 37) 2216410
+For the Fund:
+President
+International Fund for Agricultural
+3
+Appendix I
+EB 2015/LOT/P.35/Rev.1
+Development
+Via Paolo di Dono, 44
+00142 Rome, Italy
+This Agreement, dated ______, has been prepared in the English language in two (2)
+original copies, one (1) for the Fund and the ASAP Trust and one (1) for the
+Borrower/Recipient.
+REPUBLIC OF TAJIKISTAN
+[insert name and title]
+INTERNATIONAL FUND FOR
+AGRICULTURAL DEVELOPMENT
+Kanayo F. Nwanze
+President
+ADAPTATION FOR SMALLHOLDER AGRICULTURE
+PROGRAMME TRUST FUND
+Kanayo F. Nwanze
+President of the International Fund for Agricultural
+Development in its capacity as Trustee of the
+Adaptation for Smallholder Agriculture Programme
+Trust Fund
+4
+Appendix I
+EB 2015/LOT/P.35/Rev.1
+Schedule 1
+Project Description and Implementation Arrangements
+I.
+Project Description
+1.
+Target Population. The primary target group of the Project shall be the following:
+(i) smallholder livestock households; (ii) private veterinary service providers and small
+scale entrepreneurs with the potential to provide services to households and smallholder
+farmers; and (iii) women-headed households and women belonging to poor households.
+The Project is expected to reach approximately thirty-eight thousand (38 000) rural
+households in the Khatlon region at a high poverty level with a potential for increased
+livestock productivity.
+2.
+Goal and Objectives. The goal of the Project is to contribute to the reduction of
+poverty in the Khatlon Oblast. The development objective is to increase the nutritional
+status and incomes of the Target Population by enhancing livestock productivity and
+climate resilience in a sustainable manner.
+3.
+Components. The Project shall consist of the following Components:
+Component 1 – Institutional Development
+3.1. This Component shall seek to enhance the capacity of targeted public sector and
+Community Organizations (the “COs”) for more effective and efficient pro-poor pasture
+management development. Component 1 shall be achieved through the following two
+sub-components:
+Sub-component 1.1: Development of COs. Under this sub-component, the PMU shall
+select communities of a high level of poverty, but also recognized potential for livestock
+development. Mobilization and strengthening of the Pasture Users’ Union (the “PUUs”)
+will be conducted by Community Facilitators (the “CFs”) – non-governmental
+organizations (“NGOs”) experienced in social mobilization of rural communities – backed
+by the technical expertise and knowledge provided by the Project’s technical team. The
+CFs shall facilitate the formation of the Common Interest Groups (the “CIGs”) among
+eligible smallholder households interested in and capable of participating in livestock
+development activities, and Self-help Women Groups (the “SWGs”) for income
+diversification activities. They shall also assist the selected communities to undertake the
+preparation and implementation of the Community Livestock and Pasture Management
+Plans (the “CLPMPs”).
+Sub-component 1.2: Advancement of Policy and Legal Framework and Strengthening
+National Institutions. In order to ensure sustainability and advancement of pasture
+management reforms, the Project, under sub-component 1.2, shall extend support to
+institutional building, including that for the MOA. Technical guidance shall be provided for
+future pasture development in developing policy and legislation to advance pasture
+management transfer and monitoring pasture conditions, through assessing the quality of
+pastures and monitoring the performance of PUUs. The Project shall provide assistance in
+the formulation of a state policy and strategy for mainstreaming climate change
+adaptation into sustainable pasture management, and the elaboration of legal and
+regulatory documents to support the implementation of the Pasture Law. International
+and local technical assistance shall be mobilized to provide assistance to review and
+amend the Pasture Law.
+5
+Appendix I
+EB 2015/LOT/P.35/Rev.1
+Component 2 – Productivity Enhancement and Improved Animal Health
+3.2. The key objective of this Component is to increase access to livestock and
+veterinary services, and fodder supply for smallholder producers, aiming at decreased
+mortality and increased productivity of sheep/goat flocks and cattle herds. This
+Component includes two (2) sub-components as follows:
+Sub-component 2.1: Livestock Productivity Enhancement. Under this sub-component,
+livestock farmers/households will be organized into groups for the provision of training in
+improved animal husbandry and management practices, feed preparation and
+identification of hygiene and health aspects. The CFs shall deliver the training programme
+to the targeted communities. The sub-component shall promote fodder production and
+distribution through the establishment of a Seed Fund. It shall strengthen private
+entrepreneurs dealing with livestock input supply. Private sector participants dealing with
+marketing of dairy, meat and other livestock products shall be provided with business
+and technical assistance. The sub-component shall undertake an assessment of individual
+entrepreneurs and identify their specific needs for business development, equipment,
+credit and technical training. Business advisers recruited by the Project shall undertake a
+broker role by providing such services and linking individual entrepreneurs with the
+required service providers.
+Sub-component 2.2: Improved Animal Health. Sub-component 2.2 shall support the
+development of private veterinary services and the establishment of a private veterinary
+network, which shall provide both animal health and artificial insemination services. A
+facility shall be established under the sub-component, to which veterinarians selected to
+serve the rural communities may submit applications for funding of veterinary drugs,
+training, equipment, veterinary tools and veterinary clinics/centres. Based on its
+experience of implementing this activity, the Project shall provide policy input on how the
+existing policy on the establishment of these services at village level can be further
+refined for more cost-effective use and a higher level of impact.
+Component 3 – Pasture Development and Diversification for Vulnerability Reduction
+3.3. The main objective of this Component is to increase access to more productive and
+climate resilient pasture areas as well as to diversified income-generating opportunities
+for livestock communities through a sustainable, community-led management of natural
+resources. This Component is composed of two sub-components as follows:
+Sub-component 3.1: Community Resilient Pasture Management and Investments. The
+sub-component shall support PUUs in developing CLPMPs to address the degradation of
+pasture resources, deterioration of pasture infrastructure, climate adaptation needs in
+sustainable pasture management and restoration, winter feeding and livestock health and
+production. Training and capacity building shall be provided to the PUU members to carry
+out assessment and efficient planning, ensuring the active participation of the more
+vulnerable households and involvement of women in planning and decision-making. The
+sub-component shall build a monitoring and evaluation (“M&E”) system through
+modelling of pasture productivity to determine carrying capacity and identify remote
+pasture areas that could be accessed. Livestock-carrying capacity plans shall be based on
+flexible carrying capacity estimates to continuously adapt the stocking rates to the highly
+variable climatic conditions and biomass availability. These shall be done with support of
+technical assistance, and shall be part of the CLPMPs. To support the initial
+implementation of the CLPMPs, the Project shall provide investment grants through the
+PUUs. The exact amount of each grant shall be linked to the PUU population and
+performance of the PUU, including the collection of pasture use fees.
+6
+Appendix I
+EB 2015/LOT/P.35/Rev.1
+Sub-component 3.2: Income Diversification. This sub-component shall promote
+alternative sources of income to diversify household economies. It shall explore income-
+generating options beyond livestock to gradually reduce grazing pressure on pastures
+and mitigate the impact of climate change. The sub-component shall provide financing to
+encourage and nurture new economic activities through which the most vulnerable of the
+rural society – mainly women – can build and develop additional sources of income as a
+safety net against possible economic losses, to help build socio-economic resilience,
+enhance their nutritional status and increase their incomes. This shall be coupled with
+training and capacity enhancement activities for the identification, development and
+management of new climate-resilient businesses. The sub-component shall provide
+technical assistance, demand assessment, resource mapping, feasibility study and other
+related studies by a professional Technical Facilitator prior to micro-project funding.
+II.
+Implementation Arrangements
+The PSC. The PSC, as defined in the Financing Agreement between the
+4.
+Borrower/Recipient and the Fund for the Livestock and Pasture Development Project
+(Grant No. G-I-DSF-8083-TJ), entered into force on 5 August 2011 (the “LPDP Financing
+Agreement”), shall provide overall policy guidance for the Project and maintain oversight
+of the Project’s Annual Work Plans and Budgets (the “AWPBs”). The PSC shall review
+Project progress and approve its AWPBs and annual progress reports.
+5.
+The PMU. The State Enterprise “Project Management Unit “Livestock and Pasture
+Development”, as defined in the LPDP Financing Agreement and that has been assigned
+for implementation of LPDP, shall employ cluster officers for the Project and a Climate
+Adaptation Consultant, and additional procurement, financial, information dissemination
+and knowledge management and M&E staff to take on the additional workload arising
+from the implementation of the Project. The major functions of the PMU are to: (i) ensure
+that the Project is implemented in accordance with its design; (ii) prepare and implement
+AWPBs; (iii) ensure timely recruitment of service providers, staff and consultants; (iv)
+ensure effective coordination of all activities and agencies involved; (v) maintain
+appropriate accounts, including reports on withdrawal applications and disbursements;
+(vi) manage procurement in accordance with the Fund and the Borrower/Recipient’s
+guidelines; (vii) ensure compliance with environmental requirements and other safeguard
+measures; (viii) prepare semi-annual progress and annual reports in formats agreed with
+the Fund; (ix) conduct M&E activities including maintaining IFAD Results and Impact
+Management System (the “RIMS”); (x) assist local communities with participatory M&E;
+and (xi) assist supervision and evaluation missions by the Fund and the
+Borrower/Recipient.
+6.
+The MOA jointly with the State Committee for Land Management and Geodesy (the
+“SCLMG”), as well as district Hukumats shall develop policies and processes for allocation
+of pasture land use rights to the PUUs.
+7.
+The State Veterinary Inspection Services (the “SVIS”).  The SVIS, as the
+subdivision of the MOA responsible for the provision of veterinary services to farmers,
+shall be responsible for the provision of data to the PMU; assist with the identification of
+Jamoats, villages and suitable veterinarian-candidates to participate in the strengthening
+of private veterinary services sub-component; and work closely with the PMU and CFs at
+the community level, in particular in ensuring that the private vets are able to develop
+into an effective and financially sustainable service.
+The Tajik Agrarian University (the “TAU”).  The Project shall extend support, in the
+8.
+form of international and local technical expertise and financial resources, to the TAU for
+the development of curricula and a comprehensive educational programme for a degree
+7
+Appendix I
+EB 2015/LOT/P.35/Rev.1
+in pasture management, the refurbishment of a pasture fodder assessment laboratory,
+the Geographic Information System (the “GIS”) and a weather forecasting laboratory.
+PUUs.  The PUUs, as key stakeholders for pasture management, shall fulfil the
+9.
+following functions: (i) obtaining pasture lease rights and ensuring effective and
+sustainable use of pastures; (ii) capacity building for members; and (iii) dispute
+settlement related to the leased land area. PUU members shall participate in annual and
+medium-term pasture management planning, and report on pasture conditions. The
+Project shall facilitate the formation of PUUs and their Boards (the “PUUBs”). Smallholder
+farmers and households interested in participating in livestock development activities
+shall be organized into CIGs for the Project interventions in this field.  SWGs will be
+instrumental for the identification and implementation of income-generating activities for
+women.
+Project Implementation Manual (PIM). A PIM containing the detailed rules,
+10.
+procedures and requirements shall be prepared by the PMU and approved by the MOA and
+the Fund. The PMU shall, in fulfilling its mission, follow the PIM as approved by the Fund.
+8
+Appendix I
+EB 2015/LOT/P.35/Rev.1
+Schedule 2
+Allocation Table
+Allocation of Financing Proceeds. (a) The Table below sets forth the Categories of
+1.
+Eligible Expenditures to be financed by the IFAD Loan, IFAD Grant and the ASAP Trust
+Grant, the allocation of the amounts of the Financing to each Category and the
+percentages of expenditures for items to be financed in each Category:
+Category
+Grant
+Amount
+Allocated
+(SDR)
+Loan
+Amount
+Allocated
+(SDR)
+ASAP Trust
+Grant
+Amount
+Allocated
+(SDR)
+% of Expenditures to
+be financed
+1. Equipment, Goods,
+1 425 000
+See notes below
+Vehicles and Works
+2. Technical Assistance and
+1 000 000
+150 000
+Studies
+3. Training & Workshops
+100 000
+4. Grants
+a. Pasture Users Union for
+2 510 000
+6 200 000
+3 100 000
+Community Livestock
+and Pasture
+Management Plans
+(CLPMP) Grants
+b. Diversification Grants
+350 000
+c. Other grants
+5. Operating expenses
+6. Unallocated
+315 000
+600 000
+250 000
+Total
+6 200 000
+6 200 000
+3 600 000
+(b)
+The terms used in the Table above are defined as follows:
+Category 1: Expenditures to be financed entirely from the IFAD Grant, except
+counterpart financing which will be provided in the form of exemption of
+taxes on eligible expenditures under Categories 1.
+Category 2: Includes expenditures under individual consultancy contracts and contracts
+with the Community/Technical Facilitators. The contract involves related
+salaries and operational costs, provision of vehicles and other equipment as
+well as similar sub-contracted expenditure if required and the costs
+associated with issuance of pasture land use certificates for which PUUs will
+cover 50% of related costs. Amounts under this category that will be
+financed by the ASAP Trust Grant will include CLPMP grants and
+diversification grants, except counterpart financing which will be provided in
+the form of exemption of taxes on eligible expenditures.
+9
+Appendix I
+EB 2015/LOT/P.35/Rev.1
+Category 4: (a) Includes eligible expenditures for sub-projects made through grants to
+PUUs for CLPMPs sub-projects that will be derived from CLPMPs as defined in
+Schedule 1, Component 2 and will be financed on a pari passu basis from
+the IFAD Loan and IFAD Grant. Eligible climate change adaptation activities
+and expenditures, as defined in Schedule 1, Component 3, will be financed
+from the ASAP Trust Grant. Procurement and payments for these will be
+largely managed by the PMU. It is expected that beneficiaries would
+contribute at least 5%. PIM will provide modalities for allocation and use of
+such grants.
+(b) Includes eligible expenditures for sub-projects made through grants to
+CIGs for diversification, as defined in Schedule 1, Sub-component 3.2 to be
+financed by the ASAP Trust grant. It is expected that beneficiaries would
+contribute minimum 5%. PIM provides modalities for allocation and use of
+such grants.
+(c) Includes grants for Includes grants for private vets in agreement with
+PUUs; scholarships, practical studies and internships for students. PIM
+provides modalities for use of these grants. Private vets should contribute
+minimum 10% of the package cost.
+(d) Excludes counterpart financing which will be provided in the form of
+exemption of taxes on eligible expenditures.
+Category 5. Includes expenditures on salaries, social fund contributions and office and
+vehicle maintenance expenses, except counterpart financing which will be provided in the
+form of exemption of taxes on eligible expenditures.
+10
+Logical framework
+Narrative Summary
+Objectively Verifiable Indicators
+A. Project Goal
+Contribute  to  reduction  of  poverty  in  Khatlon  region
+(50%  of  people  in  Khatlon  are  estimated  as  being
+below the poverty line)
+18,000 households (50% of targeted households and
+40% of total population in the targeted districts) with
+improvement  in household  asset  ownership  index  by
+15%;
+3% reduction in the prevalence of chronic
+malnutrition (stunting)
+Baseline
+Value
+(LPDP1
+results)
+NA
+40%
+Monitoring Mechanism
+and 
+Sources
+Information
+Assumptions/Risks
+Quantitative baseline, mid-
+term 
+project
+review, 
+completion survey.
+Studies 
+indicator based data
+complement
+to 
+B. Project Purpose
+Increase the nutritional status, incomes and resilience
+livestock
+of 
+productivity in a sustainable manner
+poor  households 
+enhancing 
+by 
+80% of targeted HHs reporting increased incomes
+from livestock by minimum 15%;
+2932 TJS
+38000  of  poor  smallholder  households  whose  climate
+resilience has been increased (ASAP).
+NA
+mid-term,
+Baseline, 
+completion surveys
+Financial records of project
+Enterprise groups
+Qualitative studies
+1
+1
+COMPONENT 1: Institutional Development
+OUTCOME:
+Targeted  public  sector  and  community  organizations1
+(disaggregated by type, i.e: PUUs, VOs, MoA, Pasture
+Department,  TAU,  Jamoats)  are  more  effective  and
+efficient  at  pro-poor  pasture  management  and
+livestock development
+Satisfactory  levels  of  governance2 for  75%  of  PUUs
+facilitated by the project
+NA
+Technical 
+(disaggregated by type4) is increased
+capacity3
+targeted 
+of 
+institutions
+NA
+Project  M&E 
+records,
+progress  reports,  specific
+public records,
+policy  documents, 
+strategies
+laws,
+(A)  Political  stability  and  conducive
+macro-economic framework
+(A)  Commitment  and  cooperation
+among  all  concerned  institutional
+partners
+(R)  Influence  of  overall  economic
+development 
+concealing  project
+achievements
+(A)  A  sound  use  of  climate  change
+vulnerability  assessment 
+informs
+and drives adaptation work
+(A)  Risk  mitigation  management
+plans  are  implemented  by  targeted
+communities
+a
+(R) 
+of 
+Elite 
+the
+disproportionate  amount  of 
+gains from increased production and
+local  level  conversion  of  animal,
+milk and meat surpluses sold on the
+market and to processors
+capture 
+cross-sectoral 
+(A)  Favourable  government  policies
+and 
+cooperation
+between  state,  region  and  district
+authorities
+(A)  Interest  and  motivation  among
+community members
+(R)  Lack  of  capacity  in  government
+agencies 
+to
+effectively participate 
+in  project
+activities  and  transmit  information
+and know-how
+communities 
+and 
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+3
+5
+/
+R
+e
+v
+.
+1
+1 Public sector and community organizations are defined in Appendix 5 and PIM
+2 Governance levels of PUUs will be assessed through a specific study. Governance will be measured through levels of (i) democratic accountability (qualitative: if elections of board or head
+have been democratic), (ii) transparency of financial management (if members are informed of revenues and expenditures of PUUs); (iii) gender equitability (eg: presence of women’s sub-set
+organizations / women’s groups within the VO). Source of information will be a annual survey, conducted by community facilitators, and mid-term / end of project HHs survey.
+3 Technical capacity has been defined in LPDP, but needs to be further enhanced. Such level will be assessed when the project starts the interactions with the targeted organizations. Once
+the parameters of technical capacities are agreed, the M&E Consultant will develop a list of aspects (similarly to what done for Governance levels), with help from the company developing the
+MIS.
+4 MoA, Pasture Department, TAU, Hukumats, Jamoats, VOs, PUUs.
+COMPONENT  2:  Productivity  Enhancement  and
+Improved Animal Health
+OUTCOME:
+Healthier  livestock  with  lower  levels  of  mortality  and
+increased supplementary feed available to community
+livestock
+70%  of  livestock  households  report  reduction  in
+animal mortality
+15%  increase  in  average  milk  yields  and  10%
+increase in average weight of cattle, sheep and goats
+sold in local markets
+NA
+3.2lt/day;
+Average
+slaughter
+weights:
+91kg cattle
+47kg sheep
+45kg goat
+COMPONENT  3:  Pasture  Development  and
+Diversification for Vulnerability Reduction
+OUTCOME:
+Household  resilience  increased  through sustainable
+use of pastures and income diversification
+Beneficiaries’ household  income  increased at  least by
+20% from alternative income activities (ASAP)
+132,000 ha of accessible pasture managed in a more
+climate-resilient manner (ASAP)
+NA
+NA
+1
+2
+Baseline, 
+completion surveys,
+project  M&E 
+progress reports
+mid-term,
+records,
+Baseline, 
+completion surveys,
+Project  M&E 
+progress reports
+mid-term,
+records,
+(A)  Livestock  farmers  will  see  the
+benefits  of  a  collective  approach  to
+animal health and nutrition.
+(A)  Effective  cooperation  between
+private  vets  and  livestock farmers
+can be ensured
+(R)  Not  enough  livestock  farmers
+willing  and  able  to  pay  for  vet
+services make the business unviable
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+(A)  Effective  and  timely  technical
+assistance secured for investment
+(R)  The  project  fails  to  capture  the
+interest of local communities
+(R)  Poor  maintenance  of  CLPMP
+investments
+reduced
+results 
+benefits to the livestock farmers
+in 
+E
+B
+2
+0
+1
+5
+/
+L
+O
+T
+/
+P
+.
+3
+5
+/
+R
+e
+v
+.
+1

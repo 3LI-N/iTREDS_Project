@@ -83,7 +83,7 @@ class Project:
 						self.doc_link = http_match[0]
 						self.has_pres_report = True
 						return
-					elif "design" in cmp_text:
+					elif "design" in cmp_text or "pdr" in cmp_text:
 						if self.doc_link == '':
 							self.doc_link = http_match[0]
 			except:

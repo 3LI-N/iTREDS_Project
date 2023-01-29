@@ -1,0 +1,2785 @@
+Document: 
+EB 2020/131/R.5/Rev.1 
+Agenda: 
+Date: 
+Distribution: 
+Original: 
+5(b)(i)(a) 
+4 December 2020 
+Public 
+English 
+E 
+President’s report 
+Proposed loan and Debt Sustainability 
+Framework grant 
+State of Eritrea 
+Integrated Agriculture Development Project  
+Project ID: 2000002081 
+Note to Executive Board representatives 
+Focal points: 
+Dispatch of documentation: 
+Deirdre Mc Grenra 
+Chief 
+Institutional Governance and 
+Member Relations 
+Tel.: +39 06 5459 2374 
+e-mail: gb@ifad.org 
+Technical questions: 
+Sara Mbago-Bhunu 
+Regional Director 
+East and Southern Africa Division  
+Tel.: +39 06 5459 2838 
+e-mail: s.mbago-bhunu@ifad.org 
+Bernadette Mukonyora 
+Country Director 
+Tel.: +39 06 5459 2695 
+e-mail: b.mukonyora@ifad.org 
+Executive Board — 131st Session 
+Rome, 23 November 2020 
+For: Approval 
+EB 2020/131/R.5/Rev.1 
+Contents 
+Abbreviations and acronyms 
+Map of the project area 
+Financing summary 
+I. 
+Context 
+A.  National context and rationale for IFAD involvement 
+B.  Lessons learned 
+II.  Project description 
+A.  Objectives, geographical area of intervention and target groups 
+B.  Components, outcomes and activities 
+C.  Theory of change 
+D. Alignment, ownership and partnerships 
+E.  Costs, benefits and financing 
+III.  Risks 
+A.  Risks and mitigation measures 
+B.  Environment and social category 
+C.  Climate risk classification 
+D. Debt sustainability 
+IV.  Implementation 
+A.  Organizational framework 
+B.  Planning, monitoring and evaluation, learning, knowledge 
+management and communication 
+C.  Implementation plans 
+Legal instruments and authority 
+V. 
+VI.  Recommendation 
+Appendices 
+I.  Negotiated financing agreement 
+II.  Logical framework 
+III.  Integrated project risk matrix 
+Project delivery team 
+Regional Director: 
+Country Director 
+Technical Lead: 
+Finance Officer: 
+Climate and Environment Specialist: 
+Legal Officer: 
+Sara Mbago-Bhunu 
+Bernadette Mukonyora 
+Zainab Semgalawe 
+Virginia Cameron 
+Eric Patrick 
+Aspasia Tsekeri 
+ii 
+iii 
+iv 
+1 
+1 
+1 
+2 
+2 
+2 
+3 
+3 
+3 
+6 
+6 
+7 
+7 
+7 
+7 
+7 
+9 
+10 
+10 
+10 
+i 
+EB 2020/131/R.5/Rev.1 
+Abbreviations and acronyms 
+AWP/B 
+ESMF 
+FM  
+IADP 
+IFAD11 
+IMF 
+M&E 
+NAP 
+NPCO 
+PSD 
+SDG 
+TA 
+annual workplan and budget 
+environmental and social management framework 
+financial management 
+Integrated Agriculture Development Project 
+Eleventh Replenishment of IFAD's Resources 
+International Monetary Fund 
+monitoring and evaluation 
+National Agriculture Project 
+national project coordination office 
+Planning and Statistics Division 
+Sustainable Development Goal 
+technical assistance 
+ii 
+Map of the project area 
+EB 2020/131/R.5/Rev.1 
+iii 
+EB 2020/131/R.5/Rev.1 
+Financing summary 
+Initiating institution: 
+IFAD 
+Borrower/recipient: 
+State of Eritrea 
+Executing agency: 
+Ministry of Agriculture 
+Total project cost: 
+US$46.6 million 
+Amount of IFAD loan: 
+SDR 5.25 million (equivalent to approximately 
+US$7.4 million)   
+Terms of IFAD loan:  
+Highly concessional 
+Amount of IFAD Debt Sustainability 
+Framework grant: 
+SDR 21.10 million (equivalent to approximately 
+US$29.65 million) 
+Contribution of borrower/recipient: 
+US$4.9 million 
+Contribution of beneficiaries: 
+US$4.7 million 
+Financing gap: 
+N/A 
+Amount of IFAD climate finance: 
+US$19.4 million 
+Cooperating institution: 
+IFAD 
+iv 
+EB 2020/131/R.5/Rev.1 
+Recommendation for approval 
+The Executive Board is invited to approve the recommendation contained in  
+paragraph 54.  
+I.  Context 
+A.  National context and rationale for IFAD involvement 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+National context 
+The State of Eritrea is at a turning point in its development trajectory after the 
+signing of a peace agreement with Ethiopia in July 2018, which ended decades of 
+conflict dating back to 1991. In the same year, the United Nations Security Council 
+lifted international sanctions that had been in place for nine years. It is expected 
+that the peace dividend now offers Eritrea the opportunity to prioritize economic 
+and social development, and to enhance international cooperation. 
+Eritrea’s real GDP growth dropped from 11 per cent in 2011 to 4.8 per cent in 
+2016, and picked up slightly to 5.0 per cent in 2019, driven by public and private 
+investments in the mining sector and in port infrastructure. Real GDP is projected 
+to fall to -0.7 per cent in 2020 due to the impact of COVID-19.1 Agriculture and 
+fisheries contribute only 17.6 per cent to GDP, although the sector employs 65–70 
+per cent of the workforce. 
+Eritrea’s Human Development Index score remains low at 0.43 (the country ranks 
+182nd out of 189 countries). Its 2019 ease of doing business score placed it 189th 
+out of 190 countries. Private sector participation in the economy is limited due to 
+restrictive economic and financial policies. 
+Special aspects relating to IFAD's corporate mainstreaming priorities 
+In line with the mainstreaming commitments of the Eleventh Replenishment of 
+IFAD's Resources (IFAD11), the Integrated Agriculture Development Project (IADP) 
+has been validated as:  
+☒ Including climate finance  
+☒ Nutrition-sensitive  
+☒ Youth-sensitive 
+IADP will devote significant resources to addressing climate vulnerability, adopting 
+watershed management as the entry point for investments in climate-smart, 
+productivity-enhancing interventions. The project will also create off-farm jobs for 
+young people and women and promote nutrition-sensitive agricultural practices as 
+well as dietary behaviour change at household and community levels. 
+Rationale for IFAD involvement 
+Since 1995, IFAD has been one of the few international development entities that 
+has continued to finance agriculture in Eritrea. Earlier IFAD interventions focused 
+on re-establishing the livelihoods of crisis-affected rural households, while more 
+recent projects2 intervened in agricultural and fisheries development, with an 
+emphasis on sustainable natural resource management. IADP proposes a package 
+of interventions premised on watershed management as the starting point for 
+agriculture development suited to rural Eritrea’s unique agroecological conditions 
+and topography.  
+B.  Lessons learned 
+7.  Main lessons learned from past and ongoing interventions include:  
+1 Global Economic Prospects, World Bank, June 2020.  
+2 National Agriculture Programme, Fisheries Resource Management Programme. 
+1 
+EB 2020/131/R.5/Rev.1 
+(i)  Access to water is critical to the resilience of farming activities. IADP 
+will integrate watershed management as the entry point for enhancing 
+productivity and making small-scale farming more resilient.  
+(ii)  The lack of agribusiness orientation hampers the efficiency and 
+sustainability of interventions. IADP will gradually introduce business planning 
+to inform investments. 
+(iii)  Institutional capacity gaps have constrained project implementation in 
+Eritrea. The project will strengthen capacities, particularly in procurement, 
+financial management (FM) and monitoring and evaluation (M&E). 
+II.  Project description 
+A.  Objectives, geographical area of intervention and target 
+8. 
+groups 
+Project goal and objective. IADP’s goal is to contribute to poverty reduction and 
+food and nutrition security in rural households. The project’s development objective 
+is to enhance smallholder agricultural production and productivity in a sustainable 
+and climate-resilient manner and to improve rural livelihoods.  
+9.  Geographical area of intervention. IADP will be national in scope, targeting all 
+six Zobas (regions), with core interventions implemented in the four inland Zobas. 
+The two coastal regions will mostly be supported through environment and 
+ecosystem protection interventions. Activities, planned to cover approximately 40 
+per cent of the 36 sub-Zobas, will be phased in according to: (i) capacities of local 
+government agencies to manage additional area/activities, starting with watershed 
+management interventions; and (ii) status of watershed treatment.  
+10.  Target groups. IADP will directly benefit some 60,000 rural households, i.e. more 
+than 300,000 people, of which 40 per cent will be women and 40 per cent youth. 
+Priority beneficiaries will include: rural small-scale farmers involved in subsistence 
+agriculture; farmers and young people interested in establishing farmers’ 
+associations or cooperatives, or available to pilot micro enterprises; women; and 
+youth (18–35 years), including demobilized soldiers. 
+11.  Targeting strategy. The planning and implementation of activities will be 
+based on a territorial approach. IADP will make use of direct targeting,  
+self-targeting, facilitation (group formation, etc.) and empowerment measures. A 
+social inclusion strategy will be developed, informed by assessments of the needs 
+of women and youth. Methodologies such as the Gender Action Learning System 
+will be employed. 
+B.  Components, outcomes and activities 
+12. 
+IADP has three components:  
+(i)  Component 1. Integrated watershed management. This component will 
+enable communities to plan and implement integrated land and water 
+resource management in order to: (i) restore the hydrological and ecological 
+functioning of watersheds; (ii) enhance the sustainability of existing land use; 
+and (iii) improve resilience to climate shocks. Interventions will also support 
+the production and dissemination of energy-saving technologies (e.g. cooking 
+stoves, in selected watersheds). The expected outcome will be the 
+strengthened environmental sustainability and climate resilience of poor rural 
+people’s economic activities. 
+(ii)  Component 2. Crop and livestock productivity and rural livelihood 
+improvement. Building on the outcomes of component 1, this component 
+aims to sustainably invest in practices that enhance agriculture and small 
+livestock productivity. It also addresses the post-harvest handling of crops 
+and aims to improve the resilience of farmers to climate change through 
+2 
+EB 2020/131/R.5/Rev.1 
+climate-smart agriculture. The component will further support piloting micro 
+agroenterprises. Based on viable business plans, these are expected to create 
+about 6,500 jobs for young people. The expected outcome will be increased 
+diversification of livelihoods and the strengthened resilience of communities. 
+(iii)  Component 3. Institutional capacity-building and project support 
+services. This includes: (i) increasing the institutional capacity of the actors 
+(public and private sector/producers’ organizations) responsible for 
+overseeing and/or implementing IADP activities; (ii) improving and/or 
+reviewing and updating policies/strategies in selected subsectors to ensure 
+their effective and structured development; and (iii) providing overall 
+coordination to manage IADP efficiently and effectively. 
+C.  Theory of change 
+13. 
+In line with its development objective, IADP will address the strategic constraints 
+to crop and livestock production. This will be done through sustainable watershed 
+management – the entry point for investments in climate-smart interventions that 
+improve and diversify the diets of target populations. IADP will offer off-farm 
+livelihood opportunities for women and youth, and strengthen the capacity of rural 
+communities and implementing agencies. These investments will sustainably 
+enhance smallholder agricultural production and productivity, and improve rural 
+livelihoods in the targeted areas.  
+D.  Alignment, ownership and partnerships 
+14. 
+IADP will contribute to the achievement of the following Sustainable Development 
+Goals (SDGs): SDG 1 (no poverty), SDG 2 (zero hunger), SDG 5 (gender equality), 
+SDG 13 (climate action) and SDG 15 (life on land). IADP is also aligned with IFAD’s 
+Strategic Framework 2016-2025 and corporate priorities as well as the 2020-2025 
+country strategic opportunities programme. The project further reflects national 
+priorities, including: increasing agricultural, horticulture and livestock output; and 
+creating farm enterprises that engage in highly productive, profitable agricultural 
+value chains linked to domestic and international markets by 2023 (the Small and 
+Medium Commercial Farmers Strategy, 2019-2023).  
+15. 
+16. 
+IADP is aligned with various outcomes of all four pillars of the United Nations 
+Strategic Partnership Cooperation Framework 2017-2021. It should be noted that a 
+new engagement strategy is being elaborated for 2021-2026. IADP implementation 
+will explore the possibility of incorporating relevant elements of this new 
+cooperation framework, once available.  
+IADP will coordinate with IFAD’s ongoing portfolio as well as with development 
+partners who support IADP-related initiatives, including the Food and Agriculture 
+Organization of the United Nations, the African Development Bank and potentially 
+the Green Climate Fund’s Great Green Wall Initiative.  
+E.  Costs, benefits and financing 
+17.  Project costs are estimated at US$46.6 million to be disbursed over six years. All 
+three project components count in part as IFAD climate financing. IFAD climate 
+adaptation finance in the project amounts to US$19.4 million, which represents 
+52 per cent of total IFAD funding.  
+Project costs 
+18.  Table 1 summarizes IADP’s components and subcomponents’ costs by financier.
+3 
+Table 1  
+Project costs by component and subcomponent and financier 
+(Thousands of United States dollars) 
+Component/subcomponent 
+1. Integrated watershed management 
+1.1 Development & institutionalization of participatory Integrated watershed management plans 
+1.2 Operationalization of watershed management plans 
+1.3 Watershed restoration and water management infrastructure 
+Subtotal 
+2. Crop and livestock productivity and rural livelihood improvement 
+2.1 Access to advisory services 
+2.2 Sustainable access to inputs & technologies for enhanced production and post-harvest management 
+2.3 Producers’ organizations and cooperatives support 
+Subtotal 
+3. Institutional capacity-building and project support services 
+3.1 Institutional capacity-building & policy support 
+3.2 Project management and South-South and Triangular Cooperation 
+Subtotal 
+4. Disaster risk reduction and management 
+Total 
+4
+Table 2 
+Project costs by expenditure category and financier 
+(Thousands of United States dollars) 
+IFAD loan 
+IFAD grant 
+Beneficiaries  Borrower/recipient 
+Total 
+Amount 
+%  Amount 
+%  Amount   %  Amount 
+%  Amount 
+% 
+- 
+- 
+- 
+- 
+3 597  19.7 
+3 597  18.9 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+3 339  53.9 
+463  11.6 
+3 802  37.3 
+- 
+7 400  15.9 
+- 
+141 
+593 
+9 413 
+10 147 
+2 480 
+6 690 
+6 412 
+15 582 
+1 995 
+1 926 
+3 921 
+- 
+29 651 
+- 
+- 
+- 
+90.0 
+91.2 
+- 
+51.5  4 337  23.8 
+53.2  4 337  22.7 
+90.9 
+88.3 
+90.5 
+89.6 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+32.2 
+48.3 
+38.5 
+- 
+6.0 
+- 
+3.6 
+- 
+63.6  4 707  10.1 
+370 
+- 
+370 
+- 
+16 
+57 
+913 
+986 
+249 
+890 
+669 
+1 808 
+495 
+1 599 
+2 094 
+- 
+4 888 
+10.0 
+8.8 
+5.0 
+5.2 
+9.1 
+11.7 
+9.5 
+10.4 
+8.0 
+40.1 
+20.6 
+- 
+10.5 
+157 
+650 
+18 260 
+19 067 
+2 728 
+7 580 
+7 082 
+17 390 
+6 199 
+3 989 
+10 188 
+- 
+46 645 
+0.3 
+1.4 
+39.1 
+40.9 
+5.8 
+16.3 
+15.2 
+37.3 
+13.3 
+8.6 
+21.8 
+- 
+100 
+Expenditure category 
+Investment costs 
+1. Works 
+2. Services 
+a. Training and workshops 
+b. Consultancies 
+Subtotal - services 
+3. Investment capital 
+4. Equipment and inputs 
+a. Equipment 
+b. Crop and livestock inputs 
+Subtotal - equipment and inputs 
+Total investment costs 
+Recurrent costs 
+1. Salaries and allowances 
+2. Operations and maintenance 
+Total recurrent costs 
+Total 
+IFAD loan 
+Amount 
+% 
+IFAD grant 
+Amount 
+Beneficiaries 
+Borrower/recipient 
+% 
+Amount 
+% 
+Amount 
+% 
+Total 
+Amount 
+% 
+4 707 
+22.7 
+10 268 
+49.6 
+4 707 
+22.7 
+1 036 
+5.0 
+20 718 
+44.4 
+- 
+- 
+- 
+- 
+1 211 
+1 060 
+2 271 
+6 978 
+- 
+422 
+422 
+7 400 
+- 
+- 
+- 
+- 
+15.3 
+13.5 
+14.4 
+15.6 
+- 
+88.0 
+22.8 
+15.9 
+4 962 
+2 475 
+7 437 
+355 
+5 765 
+5 825 
+11 590 
+29 651 
+- 
+- 
+- 
+29 651 
+95.0 
+90.0 
+93.3 
+100 
+72.7 
+74.5 
+73.6 
+66.2 
+- 
+- 
+- 
+63.6 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+4 707 
+- 
+- 
+- 
+4 707 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+10.5 
+- 
+- 
+- 
+10.1 
+261 
+275 
+536 
+- 
+951 
+939 
+1 890 
+3 462 
+1 368 
+58 
+1 426 
+4 888 
+5.0 
+10.0 
+6.7 
+- 
+12.0 
+12.0 
+12.0 
+7.7 
+100 
+12.0 
+77.2 
+10.5 
+5 223 
+2 750 
+7 973 
+355 
+7 928 
+7 823 
+15 751 
+44 797 
+1 368 
+479 
+1 847 
+46 645 
+11.2 
+5.9 
+17.1 
+0.8 
+17.0 
+16.8 
+33.8 
+96.0 
+2.9 
+1.0 
+4.0 
+100 
+E
+B
+2
+0
+2
+0
+/
+1
+3
+1
+/
+R
+.
+5
+EB 2020/131/R.5/Rev.1 
+Table 3 
+Project costs by component and subcomponent and project year  
+(Thousands of United States dollars) 
+Component/subcomponent 
+1. Integrated watershed management 
+PY1 
+PY 2 
+PY3 
+PY4 
+PY5  PY6 
+Total 
+1.1 Development & institutionalization of participatory integrated 
+watershed management plans 
+144 
+8 
+5 
+1.2 Operationalization of watershed management plans 
+174 
+164 
+187 
+- 
+98 
+- 
+28 
+1.3 Watershed restoration and water management infrastructure 
+-  2 417 
+6 786 
+6 377  2 680 
+Subtotal 
+317  2 588 
+6 978 
+6 475  2 708 
+- 
+- 
+157 
+650 
+-  18 260 
+-  19 067 
+2. Crop and livestock productivity and rural livelihood improvement 
+2.1 Access to advisory services 
+795 
+818 
+406 
+492 
+185 
+33 
+2 728 
+2.2 Sustainable access to inputs & technologies for enhanced 
+production and post-harvest management 
+362  1 702 
+2 256 
+2 298 
+943 
+19 
+7 580 
+2.3 Producers’ organizations and cooperatives support 
+80 
+701 
+2 421 
+2 475  1 405 
+- 
+7 082 
+Subtotal 
+1 237  3 221 
+5 083 
+5 264  2 533 
+52  17 390 
+3. Institutional capacity-building and project support services 
+3.1 Institutional capacity-building & policy support 
+716 
+997 
+2 618 
+1 112 
+372 
+383 
+6 199 
+3.2 Project management and South-South and Triangular 
+Cooperation 
+Subtotal 
+920 
+660 
+586 
+655 
+516 
+652 
+3 989 
+1 637  1 657 
+3 204 
+1 766 
+888  1 035  10 188 
+4. Disaster risk reduction and management 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Total 
+3 191  7 466  15 266  13 506  6 130  1 087  46 645 
+19. 
+Financing and cofinancing strategy and plan 
+IFAD will provide US$37.05 million through the IFAD11 cycle. Under the Fund’s 
+new Debt Sustainability Framework, Eritrea is eligible to receive 80 per cent of that 
+amount as a grant, and 20 per cent as an optional loan on highly concessional 
+terms.  
+20.  The Government’s contribution is estimated at US$4.9 million, of which US$3.5 
+million as tax and duty waivers, in addition to US$1.4 million as the salaries of 
+some project staff.  
+21.  Beneficiaries will contribute in-kind, notably through labour and construction 
+materials for watershed management and dam construction. Beneficiary 
+contributions are preliminarily valued at US$4.7 million, or 22.7 per cent of the 
+total value of works under expenditure category 1. 
+22. 
+Disbursement 
+IADP will receive IFAD funding over six years. Disbursement will depend on budget 
+execution and timeliness of procurement processes. Judging by ongoing projects, 
+disbursement risk is assessed to be high. Main disbursement categories will be for 
+works, goods, services, inputs and training. Operational procedures for these 
+categories of expenditure, including criteria for providing goods, inputs and 
+equipment to beneficiaries, will be fully clarified in the project implementation 
+manual.  
+23.  Training foreseen in the annual workplan and budget (AWP/B) will need to be 
+supported by training, workshop and meeting plans and benchmarked against 
+lessons to determine effectiveness and efficiency. Recurrent costs represent 4 per 
+cent of the overall project and are mainly financed by the Government in the form 
+of salaries. Support services provided to ensure the project reaches its 
+development goal have been classified as investment costs given the longer-term, 
+institutional capacity-building objective.  
+Summary of benefits and economic analysis 
+24.  Based on the objective, results framework and component structure, the project is 
+expected to generate the following benefits: increased yields; reduced land 
+degradation and soil rehabilitation; increased resilience to climate change due to 
+5 
+EB 2020/131/R.5/Rev.1 
+water management and irrigation investments; enhanced food security and rural 
+poverty reduction.  
+25.  The economic analysis shows that IADP is economically viable. The analysis period 
+is 20 years to account for the phasing and gestation of the proposed interventions. 
+The economic rate of return for the overall project is equal to 19.04 per cent and 
+the net present value equals US$59.9 million. IADP is sensitive to changes in some 
+of the model’s variables. The risks factored in the sensitivity analysis include 
+weather variations, potential protracted procurement delays and generally weak 
+implementation capacity, and prolonged impact of the COVID-19 pandemic.  
+Exit strategy and sustainability 
+26.  Exit strategy. IADP’s exit strategy is embedded in the strategic approach of 
+working directly with administrative bodies and community leaders at the national, 
+Zoba, sub-Zoba and Kebabi (village) levels. By the fourth year of IADP, the 
+communities and producers’ organizations will have taken full responsibility for 
+planning and implementing watershed interventions as well as operating and 
+maintaining production infrastructure. The project will hand over major 
+infrastructure and equipment to the community together with a management plan 
+and comprehensive operations and management training.  
+III.  Risks 
+A.  Risks and mitigation measures 
+Table 4 
+Risks and mitigation measures  
+Main risks 
+Mitigation measures 
+Country context. Institutional capacity gaps and 
+inadequate policy framework, and limited participation of 
+private sector in agriculture. 
+IADP builds on the National Agriculture Plan’s (NAP’s) 
+foundations and will seek to strengthen capacities and 
+policy frameworks in the implementing agencies of the 
+Ministry of Agriculture. IADP will gradually integrate 
+business planning into project investments. 
+55.  Environment and climate context. Poor spatial and 
+temporal distribution of water as well as total scarcity of 
+rainfall in Eritrea, with over 90 per cent of the country 
+receiving less than 450 mm per annum. 
+Component 1 is built around integrated water resources 
+management to restore the hydrologic and ecological 
+functioning of watersheds, enhance the sustainability of 
+existing land uses and improve lands’ resilience to climate 
+shocks.  
+Financial management (FM). Inadequate internal 
+control and financial reporting systems.  
+FM requirements will be reflected in legal covenants and 
+technical assistance foreseen for first two years. 
+Procurement. Lack of acceptable national legal and 
+regulatory framework, procurement delays, limited 
+procurement capacity. 
+IFAD’s Project Procurement Guidelines, Procurement 
+Handbook and standard procurement documents will apply, 
+with continuous provision of technical assistance (TA) and 
+training.  
+Table 5 
+Overall risk summary  
+Risk areas 
+Country context 
+Sector strategies and policies 
+Environment and climate context 
+Project scope 
+Institutional capacity for implementation and sustainability 
+Financial management 
+Project procurement 
+Environment, social and climate impact 
+Stakeholders 
+Overall 
+Inherent risk rating 
+Residual risk rating 
+Substantial 
+Substantial 
+High 
+Moderate 
+High 
+High 
+Substantial 
+Moderate 
+Low 
+Moderate 
+Moderate 
+Substantial 
+Low 
+Substantial 
+Substantial 
+Moderate 
+Low 
+Low 
+Substantial 
+Moderate 
+6 
+EB 2020/131/R.5/Rev.1 
+B.  Environment and social category 
+27.  Project interventions include: construction of soil and water conservation 
+structures; small-scale irrigation; drought-tolerant crops; forage and livestock 
+breeds; tree planting along hill slopes; rangeland management; and establishment 
+of enclosures to reduce greenhouse gas emissions and provide carbon sinks. The 
+project has been preliminary classified as environmental and social category B 
+since the size of the irrigation schemes will not result in any loss of ecosystem 
+services, nor have significant negative implications over a broader area.  
+28.  The project will respect the environmental and social safeguards required by the 
+Government and IFAD. It will abide by the 2017 Eritrean Environmental Protection, 
+Management and Rehabilitation Framework, the 1999 National Environmental 
+Assessment Procedures and Guidelines, and the 2008 Environmental Assessment 
+Procedures and Guidelines for Agricultural Projects. An environmental and social 
+management framework (ESMF) reflecting these requirements with respect to 
+planned project activities, together with a free prior and informed consent 
+implementation plan will guide the project during implementation. The ESMF was 
+developed as part of project preparation.  
+C.  Climate risk classification 
+29.  Based on the analysis documented in the Social, Environmental and Climate 
+Assessment Procedures of IFAD, the project’s climate risk is preliminarily classified 
+as high. Risks will be mitigated by increasing the ability of the affected 
+communities to adapt to environmental and economic variability and long-term 
+changes. A climate risk vulnerability analysis has indicated the main risk as 
+increased temperatures and extreme temperatures, and reduction in precipitation, 
+which will all be addressed under IADP.  
+D.  Debt sustainability  
+30.  Eritrea has not undergone a debt sustainability analysis from the World Bank or the 
+International Monetary Fund (IMF), but is classified as a low-income country 
+eligible for the IMF’s Poverty Reduction and Growth Trust. IMF staff completed an 
+Article IV mission in May 2019, and a report is expected to be published soon. 
+According to the World Bank’s Macro Poverty Outlook (spring 2020), total public 
+debt, including external arrears, shrank to an estimated 232 per cent of GDP in 
+2019 from 291 per cent in 2017, driven by persistent primary surpluses and debt 
+relief. External public debt declined by 10 per cent to 52 per cent of GDP (or 
+US$1.1 billion) in 2018–2020, mainly due to debt relief by the Abu Dhabi Fund for 
+Development. Meanwhile, domestic debt dropped to 179 per cent of GDP in 2019 
+(US$3.8 billion) from 208 per cent in 2018, due to net repayments of Treasury 
+bonds to banks and of central bank advances to pay part of public sector wages. 
+However, the 2020 African Economic Outlook highlights that Eritrea is already at 
+high risk of debt distress and that the latter could culminate in a drop in the 
+sovereign rating and a rise in interest spreads, constraining growth. Given the 
+dominance of state-owned enterprises and their dependence on state financing, 
+spillover effects of sovereign debt on these entities could reduce output. 
+IV.  Implementation 
+A.  Organizational framework 
+Project management and coordination 
+31.  Project implementation arrangements. IADP will to a large extent emulate the 
+existing structures of the NAP, although technical component leads will be 
+introduced in IADP. The project will be implemented within the Government’s 
+decentralized institutional framework, comprising the Ministry of Agriculture 
+technical departments at national level, and their decentralized structures, 
+including the branches and units of Zobas and sub-Zobas, as well as Kebabis. The 
+Ministry of Agriculture will be the lead executing agency.  
+7 
+EB 2020/131/R.5/Rev.1 
+Project coordination framework 
+32.  A national project coordination office (NPCO) will be established under PSD. The 
+NPCO will ensure day-to-day management of the project and will be headed by a 
+project coordinator. The NPCO structure will include technical component leads and 
+the engagement of TA as needed.  
+33.  Zoba project coordination offices will be established in each of the six Zobas to 
+coordinate project implementation. Planning and implementation committees, set 
+up in every Kebabi and headed by the Kebabi administrator, will coordinate 
+planning and implementation of project activities at that level.  
+34.  The national project steering committee of NAP will be re-established under IADP 
+to ensure cross-sectoral coordination as well as strategic oversight of project 
+implementation across the six Zobas. Its main function will be to ensure that the 
+project is implemented within the national policy and strategy framework. It will 
+also provide strategic guidance and resolve critical implementation bottlenecks.  
+35.  Zoba project coordination committees will oversee operations at Zoba level. The 
+committees will meet on a quarterly basis. Chaired by the Zoba governors, they 
+will also include the directors of Zoba administration departments and heads of 
+agriculture divisions. The committees’ functions are similar to those of the national 
+project steering committee at national level. 
+Financial management, procurement and governance 
+36.  Financial management. Overall responsibility for FM and procurement will lie 
+with the Administration and Finance Department of the Ministry of Agriculture, 
+while the finance units of the Zoba project coordination committees will be 
+responsible for accounting, FM and procurement at the Zoba level. An assessment 
+of proposed FM arrangements has been undertaken. The risk is assessed to be high 
+at design, due to manual processes and inadequate staff capacity and oversight 
+mechanisms. With the adoption of the mitigation measures, residual FM risk 
+remains substantial at the outset, and will be reassessed during implementation.  
+37.  Adoption of country systems will be limited as there is no integrated FM mechanism 
+through which to report IADP expenditures. TA will be required for at least the first 
+two years of implementation, to ensure: (i) that an appropriate control framework 
+is adopted; and (ii) that finance capacity at NPCO and Zoba levels is built up, 
+including strengthening internal and external audit mechanisms. Agreed FM risk 
+mitigation measures will be reflected in legal covenants of the IADP financing 
+agreement, and detailed procedures will be clarified in the project implementation 
+manual. 
+38.  Procurement. While the overall responsibility for procurement rests with the 
+Administration and Finance Department of the Ministry of Agriculture, the NPCO 
+procurement team will be responsible for ensuring compliance with IFAD’s Project 
+Procurement Guidelines; Zoba project coordination committees will be responsible 
+for carrying out procurement activities at the Zoba level. Capacity-building 
+interventions will be guided by a capacity needs assessment, with regular 
+implementation support missions and targeted training activities, including support 
+on the use of IFAD’s standard procurement documents.  
+39.  Governance. While the enforcement of good governance would be the primary 
+responsibility of the Government of Eritrea, all IADP’s stakeholders will be made 
+aware of the Revised IFAD Policy on Preventing Fraud and Corruption in its 
+Activities and Operations. IFAD has zero tolerance towards fraudulent, corrupt, 
+collusive or coercive actions in programmes and projects. IADP will also apply 
+IFAD’s Framework for Operational Feedback from Stakeholders. Finally, IADP will 
+comply with the IFAD Policy to Preventing and Responding to Sexual Harassment, 
+Sexual Exploitation and Abuse.  
+8 
+EB 2020/131/R.5/Rev.1 
+40. 
+Project target group engagement and feedback, and grievance redress3 
+IADP will align with IFAD’s Framework for Operational Feedback from Stakeholders 
+and ensure beneficiary engagement in the entire project cycle from start-up to 
+completion. An indicator for tracking beneficiary engagement and feedback has 
+been included in the M&E system.  
+Grievance redress 
+41.  A project grievance and redress mechanism has been developed in the ESMF and 
+the Social, Environmental and Climate Assessment Procedures of IFAD, and 
+proposes recourse through a community-based route and formal legal procedures. 
+The community-based grievance redress mechanism uses existing traditional 
+structures and also facilitates grievance resolution at higher levels (including courts 
+of law, where necessary).  
+B.  Planning, monitoring and evaluation, learning, knowledge 
+management and communication 
+42.  Planning. The M&E team, in close collaboration with PSD, will be responsible for 
+the coordination of programming and preparation of the project’s AWP/B. AWP/Bs 
+will be key instruments for implementation and operational control. PSD will 
+consolidate AWP/Bs from all implementing partners, including at the community 
+level. The project will adopt multi-year, results-oriented planning, linked with 
+achievement of its development objective.  
+43.  Monitoring and evaluation. PSD will coordinate M&E processes, reporting, and 
+knowledge management. PSD will be responsible for preparing consolidated  
+six-monthly and annual progress reports, conducting outcome surveys and carrying 
+out thematic studies. A baseline study will be undertaken during the first year to 
+provide a benchmark for assessment of outcomes and impact. The survey will 
+include data for tracking progress on mainstreaming themes.  
+44.  Knowledge management and learning will serve as the foundation for 
+replication of successes, provide the analytical basis for resolving challenges, and 
+help to adapt activities to changing social and economic circumstances in the target 
+areas. A knowledge management action plan will be prepared to identify knowledge 
+gaps, and document and disseminate knowledge using various communication 
+tools (Ministry of Agriculture newsletter, brochures, websites and radio). South-
+South and Triangular Cooperation and exchange visits will be integrated into the 
+knowledge management and learning strategy. Knowledge management will also 
+inform the development of policy frameworks for food safety, the seed sector and 
+animal health.  
+45.  Communication. IADP will develop a strategic communication plan for 
+communication products targeting specific groups such as the general public and 
+donors to increase awareness of the project and its results. Improved 
+communication will support the project’s social inclusion interventions and improve 
+group engagement and feedback.  
+46. 
+Innovation and scaling up 
+IADP’s key areas for innovation include: advanced irrigation technologies; 
+cooperative development with a focus on promoting community-led 
+agroenterprises for youth; energy-efficient cooking stoves; and community 
+kitchens. Priority areas for scaling up will be: good practices and water use 
+efficiency in irrigation; sustainable land and water management, conservation 
+farming, and soil fertility; and Eritrea’s Minimum Integrated Household Agricultural 
+Package approach adapted to IFAD’s mainstreaming priorities.  
+3 See Framework for Operational Feedback from Stakeholders (https://webapps.ifad.org/members/eb/128/docs/EB-2019-
+128-R-13.pdf?attach=1) for further details. 
+9 
+EB 2020/131/R.5/Rev.1 
+C.  Implementation plans 
+Implementation readiness and start-up plans 
+47.  The project will build on NAP’s achievements, including its implementation 
+structure, which will contribute to a seamless transition. Implementation readiness 
+at start-up will include: (i) reappointment of staff, after performance evaluation, in 
+accordance with updated terms of references; (ii) expedited procurement of an FM 
+system and other related software; (iii) ESMF preparation, climate risk and 
+vulnerability assessment upfront, as well as feasibility studies and capacity needs 
+assessment; (iv) recruitment of key TA prior to project start-up.  
+Supervision, midterm review and completion plans 
+48.  Supervision. IADP will be supervised by IFAD and the Government of Eritrea 
+through joint supervision missions.  
+49.  Midterm review. This will be undertaken halfway through the project to ensure 
+that IADP is on track to achieving its development objective. The midterm review 
+will also be an opportunity to revisit key design elements (e.g. indicator targets) as 
+required, since IADP’s design was finalized under COVID-19 guidelines.  
+50.  Project completion. At the end of IADP’s implementation, the Government of 
+Eritrea will be required to undertake a project completion review, in close 
+coordination with IFAD. A beneficiary impact assessment will also be undertaken to 
+inform the review.  
+V.  Legal instruments and authority 
+51.  A project financing agreement between the State of Eritrea and IFAD will constitute 
+the legal instrument for extending the proposed financing to the 
+borrower/recipient. A copy of the negotiated financing agreement is attached as 
+appendix I. 
+52.  The State of Eritrea is empowered under its laws to receive financing from IFAD. 
+53. 
+I am satisfied that the proposed financing will comply with the Agreement 
+Establishing IFAD and the Policies and Criteria for IFAD Financing. 
+VI.  Recommendation 
+54. 
+I recommend that the Executive Board approve the proposed financing in terms of 
+the following resolution:  
+RESOLVED: that the Fund shall provide a Debt Sustainability Framework 
+grant to the State of Eritrea in an amount of twenty-one million one hundred 
+thousand special drawing rights (SDR 21,100,000)  and upon such terms and 
+conditions as shall be substantially in accordance with the terms and 
+conditions presented herein. 
+RESOLVED FURTHER: that the Fund shall provide a loan on highly 
+concessional terms to the State of Eritrea in an amount of five million two 
+hundred and fifty thousand special drawing rights (SDR 5,250,000)  and upon 
+such terms and conditions as shall be substantially in accordance with the 
+terms and conditions presented herein. 
+Gilbert F. Houngbo 
+President
+10 
+Appendix I 
+EB 2020/131/R.5/Rev.1 
+Negotiated financing agreement 
+Negotiated financing agreement: "Integrated Agriculture 
+Development Project" 
+(Negotiations concluded on 15 October 2020) 
+Loan No: __________ 
+Grant No: __________ 
+Project name: Integrated Agriculture Development Project (the “IAPD” or the “Project”) 
+The State of Eritrea (the “Borrower/Recipient”) 
+and 
+The International Fund for Agricultural Development (the “Fund” or “IFAD”) 
+each a “Party” and both of them collectively the “Parties” 
+WHEREAS  
+A.  The  Borrower/Recipient has requested a loan  and a grant from the Fund for the 
+purpose of financing the Project described in Schedule 1 to this Agreement;  
+B.  The Borrower/Recipient has undertaken to provide additional support, financially 
+or in kind that may be needed to the Project. 
+WHEREAS, the Fund has agreed to provide financing for the Project. 
+NOW THEREFORE, the Parties hereby agree as follows: 
+Section A 
+1. 
+The  following  documents  collectively  form  this  Agreement:  this  document,  the 
+Programme  Description  and  Implementation  Arrangements  (Schedule  1),  the  Allocation 
+Table (Schedule 2) and the Special Covenants (Schedule 3). 
+2. 
+The Fund’s General Conditions for Agricultural Development Financing dated 29 April 
+2009,  amended  as  of  December  2018,  and  as  may  be  amended  hereafter  from  time  to 
+time (the “General Conditions”) are annexed to this Agreement, and all provisions thereof 
+shall apply to this Agreement, except for the following: 
+“Section 7.05 (a) (Procurement); Procurement of goods, works and services financed by 
+the  Financing  shall  be  carried  out  in  accordance  with  the  provisions  of  the 
+Borrower/Recipient’s procurement regulations, to the extent such are consistent with the 
+IFAD Procurement Guidelines. Each Procurement Plan shall identify procedures which must 
+be implemented by the Borrower/Recipient in order to ensure consistency with the IFAD 
+Procurement Guidelines”;   
+For the purposes of this Agreement the terms defined in the General Conditions shall have 
+the meanings set forth therein, unless the Parties shall otherwise agree in this Agreement. 
+3. 
+The Fund shall provide a loan and a grant (the “Financing”) to the Borrower/Recipient 
+which the Borrower/Recipient shall use to implement the  Project in accordance with the 
+terms and conditions of this Agreement. 
+1 
+Appendix I 
+Section B 
+EB 2020/131/R.5/Rev.1 
+1. 
+A. 
+The amount of the loan (the “Loan”) is five million two hundred and fifty 
+thousand Special Drawing Rights (SDR 5 250 000). 
+B.   The amount of the grant (the “Grant”) is twenty one million and one hundred 
+thousand Special Drawing Rights (SDR 21 100 000). 
+The Loan is granted on highly concessional terms, and shall be free of interest but 
+2. 
+shall bear a fixed service charge as determined by the Fund at the date of approval of the 
+Loan by the Fund’s Executive Board, payable semi-annually in the Loan Service Payment 
+Currency. The Loan shall have a maturity period of forty (40) years, including a grace 
+period of ten (10) years starting from the date of approval of the Loan by the Fund’s 
+Executive Board. The principal is to be repaid at 4.5 per cent of the total principal per 
+annum for years eleven (11) to thirty (30), and 1 per cent of the total principal per 
+annum for years thirty first (31) to forty (40).  
+3. 
+The Loan Service Payment Currency shall be the USD. 
+4. 
+The first day of the applicable Fiscal Year shall be 1 January  
+Payments  of  principal  and  service  charge  shall  be  payable  on  15  May  and  15 
+5. 
+November. 
+6. 
+There  shall  be  a  Designated  Account  in  USD,  for  the  exclusive  use  of  the  Project 
+opened  in  Bank  of  Eritrea.  The  Borrower/Recipient  shall  inform  the  Fund  of  the  officials 
+authorized to operate the Designated Account. 
+7. 
+The Borrower/Recipient shall provide counterpart financing for the Programme in the 
+estimated amount equivalent to USD 4.9 million in the form salaries of project staff, and 
+taxes and duties on project expenditure. 
+Section C 
+The Lead Programme Agency shall be the Ministry of Agriculture (the “MoA”) of the 
+1. 
+State of Eritrea.  
+2. 
+A Mid-Term Review will be conducted as specified in Section 8.03 (b) and (c) of the 
+General Conditions; however, the Parties may agree on a different date for the Mid-Term 
+Review of the implementation of the Project. 
+3. 
+The Project Completion Date shall be the sixth anniversary of the date of entry into 
+force of this Agreement and the Financing Closing Date shall be six months later, or such 
+other date as the Fund may designate by notice to the Borrower/Recipient. The Financing 
+Closing Date will be established as specified in the General Conditions. 
+Procurement of goods, works and services financed by the Financing shall be carried 
+4. 
+out  in  accordance  with  IFAD’s  Project  Procurement  Guidelines  and  IFAD’s  Project 
+Procurement Handbook 
+Section D 
+1. 
+The  Fund  will  administer  the  Financing  and  undertake  a  full  supervision  of  the 
+Project. 
+2 
+Appendix I 
+Section E 
+EB 2020/131/R.5/Rev.1 
+1. 
+The following are designated as additional grounds for suspension of this Agreement:  
+(a)  The  PIM  and/or  any  provision  thereof,  has  been  waived,  suspended, 
+terminated, amended or modified without the prior agreement of the Fund and 
+the Fund, after consultation with the Borrower/Recipient, has determined that 
+it  has  had,  or  is  likely  to  have,  a  material  adverse  effect  on  the 
+Project/Programme. 
+(b)  The  Project  Coordinator,  Financial  Controller,  Project  Procurement  Specialist, 
+Monitoring  and  Evaluation,  Component  Leads  and  the  Safeguards  Specialist 
+(the  “National  Programme  Coordination  Unit  Key  Staff”  or  the  “NPCO  Key 
+Staff”)have been appointed, transferred or moved without a non-objection of 
+the Fund.  
+The following are designated as additional (general/specific) conditions precedent to 
+2. 
+withdrawal: 
+a)   The NPCO Key Staff, as defined in para 1 above shall be appointed subject to IFAD’s 
+no objection to the recruitment process; 
+b)  The  PIM  as  described  in  Section  II  of  Schedule  1,  shall  have  been  prepared  in  a 
+form and substance satisfactory to the Fund;  
+c)  An  Environment  and  Social  Management  Plan  (ESMP)  has  been  prepared  and 
+implemented, subject to IFAD’s non objection ; 
+d)  A suitable off-the-shelf accounting software shall have been procured, installed and 
+implemented at the NPCO; and  
+e)  The Project Steering Committee (PSC) shall have been established.  
+3. 
+This Agreement is subject to ratification by the Borrower/Recipient. 
+The following are the designated representatives and addresses to be used for any 
+4. 
+communication related to this Agreement: 
+For the [Borrower/Recipient]: 
+H.E Mr. Berhane Habtemariam 
+Minister of Finance of the State of Eritrea 
+Ministry of Finance 
+P.O. Box. 198 
+Asmara, Eritrea 
+H.E. Mr. Arefaine Berhe 
+Minister of Agriculture of the State of Eritrea 
+Ministry of Agriculture 
+P.O. Box. 1048 
+Asmara, Eritrea 
+3 
+Appendix I 
+EB 2020/131/R.5/Rev.1 
+For the Fund: 
+Sara Mbago-Bhunu  
+Regional Director 
+East and Southern Africa Division 
+International Fund for Agricultural Development 
+Via Paolo di Dono 44 
+00142 Rome, Italy 
+Bernadette Mukonyora  
+Country Director 
+East and Southern Africa Division  
+International Fund for Agricultural Development 
+Via Paolo di Dono 44 
+00142 Rome, Italy 
+This  Agreement,  [dated  _____],  has  been  prepared  in  the  English  language  in  two  (2) 
+original copies, one (1) for the Fund and one (1) for the Borrower/Recipient. 
+THE STATE OF ERITREA 
+____________________  
+"[Authorised Representative Name]"  
+"[Authorised Representative title]"  
+Date: ____________ 
+INTERNATIONAL FUND FOR 
+AGRICULTURAL DEVELOPMENT  
+___________________ 
+Gilbert F. Houngbo  
+President 
+Date: ______________ 
+4 
+Appendix I 
+EB 2020/131/R.5/Rev.1 
+Schedule 1 
+Programme Description and Implementation Arrangements 
+I. 
+Programme Description 
+1. 
+Target Population. The Project/Programme shall directly benefit approximately 60,000 
+rural households or more than 300,000 household members. Priority beneficiaries will be: a) 
+rural smallholder farmers involved in subsistence agriculture, horticulture and small livestock 
+keeping;  b)  farmers  and  youth  interested  in  establishing  farmers’  associations  or 
+cooperatives or pioneer small and medium enterprises (SMEs); c) women, especially woman-
+headed  households,  and  households  with  young  (0-5  years)  children,  with  priority  to 
+malnourished children; and d) youth (18-35 years), including demobilized soldiers. 
+2. 
+Project/Programme area. The Project/Programme will be national in scope, targeting 
+all  six Zobas (regions),  with  core  interventions  implemented  in  the  four  (4)  inland Zobas, 
+while  the  two  (2)  coastal Zobas will  mostly  be  supported  through  environment  and 
+ecosystem protection interventions.  Interventions  will cover  approximately 40 per  cent  of 
+the  sub-zobas  (i.e.  36  sub-zobas).  In  view  of  the  varied  institutional  capacity  across  the 
+different Zobas,  the  intervention  area will  be  expanded gradually,  using  a  phased 
+approach to ensure effective and sustainable achievement of outcomes and impacts. Among 
+other triggers the expansion will be determined by:  
+ 
+level of readiness of the decentralized implementing entities in the Zobas to 
+manage additional area/activities, starting from Component 1 on watershed 
+management interventions, with gradual expansion to Component 2; 
+  assessment of status of watershed treatment which will determine the appropriate 
+entry point for interventions under Components 1 and subsequently component 2; 
+ 
+impact assessment studies of NAP, which will provide guidance on the Zoba/sub-
+Zoba capacities, experiences and gaps to mitigate potential implementation 
+inefficiencies.   
+3.   Goal. The goal of the Programme is to contribute to poverty reduction and food and 
+nutrition security of rural households.  
+4.  Objectives.  The Programme  development  objective (PDO)  will  be  to  enhance 
+smallholder agricultural production and productivity in a sustainable way and improve rural 
+livelihoods.  
+5. 
+Components. The Programme shall consist of the following Components:  
+5.1    Component 1: Integrated Watershed Management – Given the poor spatial and 
+temporal distribution, as well as the scarcity of rainfall in Eritrea, with over 90 percent of 
+the total area receiving less than 450 mm per annum, soil moisture  deficiency is one of 
+the  important  risk  factors  to  the  country’s  food  security.  To  address  this  challenge,  this 
+Component  will  support  water-centred  interventions,  thereby  deploying  a  watershed 
+management approach (in the context of integrated water resources management (IWRM) 
+as the planning unit. The Component will finance activities required to plan and implement 
+IWRM  to  restore  the  hydrologic  and  ecological  functioning  of  watersheds,  enhance  the 
+sustainability of existing land uses and, improve its resilience to climate shocks. It will also 
+support the production and dissemination of energy-saving technologies, especially stoves 
+in  selected  watersheds.  The  expected  outcome  would  be  “Strengthened  environmental 
+sustainability and climate resilience of poor rural people’s economic activities”. 
+5.1.1   Sub-Component 1.1. Development and Implementation of Participatory Integrated 
+Watershed Management Plans  
+5.1.2.1 
+Sub-Component 1.2: Implementation of Watershed Management Plans  
+5 
+Appendix I 
+EB 2020/131/R.5/Rev.1 
+5.1.2.2 
+Sub-Component  1.3:  Watershed  Restoration  and  Water  Management 
+Infrastructure  
+5.2  Component  2:  Crop  and  Livestock  Productivity  and  Rural  Livelihood 
+Improvement – Building on the outcomes of the water-centred interventions in Component 
+1, the aim of this Component is to sustainably invest in agriculture and livestock productivity 
+enhancing interventions, post-harvest handling of agricultural commodities and improving 
+resilience of farmers to climate change, through climate smart agriculture (CSA). The CSA 
+and  livestock  technologies  and  good  practices  will  be  supported  and  implemented  in  the 
+targeted areas as a starting point to then be scaled up, prioritizing key commodities. At least 
+26,250 households would benefit from enhanced advisory and livestock services, improved 
+access  to  production  assets  and  seeds,  and  nutrition-sensitive  agriculture  practices.  This 
+component will support piloting of agro-SMEs, based on business plans, that are expected 
+to  create  about  6  500  jobs  for  the  young  people,  in  line  the  focus  of  the  Eritrea  COSOP 
+(2020-2025) to gradually move towards market-oriented production. The expected outcome 
+will be “Increased diversification of livelihoods and resilience of communities”. 
+5.2.1 Sub-Component 2.1. Access to Advisory Services 
+5.2.2.  Sub-Component  2.2  Sustainable  Access  to  Inputs  and  Technologies  for  Enhanced 
+Production and Post-harvest Management 
+5.2.3. Sub-Component 2.3 Producers' Organizations and Cooperatives Support 
+5.3. Component 3. Institutional Capacity Building & Project Support Services – This 
+will  be  a  cross-cutting  component  servicing  the  technical  components  and  facilitating 
+pathways  for  the  effective  implementation  of  planned  activities,  and  addressing  systemic 
+institutional  capacity  gaps.  The  component  aligns  with  SO3  of  the  Eritrea  COSOP  (2020-
+2025)  and  responds  to  the  need  to  strengthen  capacities. Accordingly,  it  will  aim  at:  a) 
+augmenting the capacity of the institutions (public and private sector/farmer organizations) 
+that will be responsible for overseeing and/or implementing the different IADP activities; b) 
+facilitating the development and/or review and update of policies and strategies of selected 
+subsectors  for  their  effective  and  structured  development;  and  c)  managing  IADP  in  an 
+efficient  and  effective  manner  by  providing  overall  coordination,  including  planning  and 
+implementation, financial management and control, procurement support, monitoring and 
+evaluation, knowledge management, and progress reporting. It will also ensure liaison and 
+linkage with all other relevant projects/programmes being implemented in the country that 
+seek to address similar or related constraints. 
+5.3.1. Sub Component 3.1 Institutional Capacity Building and Policy Support 
+5.3.2. Sub Component 3.2 Project Management and the South-South Triangular Cooperation 
+(SSTC)  
+5.4. Component 4. Disaster Risk Reduction and Management –This is a “zero budget 
+allocation” component. It is a response window to improve the project’s agility to respond to 
+crisis/emergencies  declared  by  the  Government  that  have  significant  adverse  impacts  on 
+IFAD’s target group, achievement  of project  objectives and the  overall viability of project 
+intervention. The objective will be to avail funds that can be quickly drawn, hence giving the 
+project adequate preparedness and timely response when adverse conditions manifest, such 
+as  recurrent  weather  extremities  or  any  other  calamities,  such  as  the  recent  COVID-19 
+pandemic. 
+6 
+Appendix I 
+EB 2020/131/R.5/Rev.1 
+II. 
+Implementation Arrangements 
+Lead  Programme  Agency.    IADP will  be  implemented within  the  Government’s 
+6.  
+decentralised  institutional  framework,  comprising  the  MOA  technical  departments  at 
+national  level,  and  their  decentralized  structures,  comprising  of  the  branches  and  units 
+of Zoba and Sub-zoba level, as well as at Kebabi level. The MoA will be the lead executing 
+agency for the Programme, and will delegate the role of the lead implementing agency to 
+the  Planning  and  Statistics  Department  (PSD).  It  will  liaise  with  the  other  participating 
+ministries/institutions  and  other  relevant  stakeholders  to  steer  effective  Project 
+implementation. 
+7.   Programme  Oversight  Committee.    The  National  Project  Steering  Committee 
+(NPSC) of NAP will be re-established under IADP to ensure cross-sectoral coordination as 
+well as strategic oversight of project implementation in accordance with the set objectives, 
+across the six (6) Zobas. Its functions will include: a) oversight of Project implementation; 
+b)  ensuring  that  the  Project  is  implemented  within  the  national  policy  and  strategy 
+framework;  c) approval of the AWPB; and d) providing strategic guidance and resolving 
+critical implementation bottlenecks. The NPSC will be chaired by the Minister of Agriculture 
+and include MoF, MoLWE and the six Zoba governors or their representatives, the Director 
+of PSD of MoA will be the secretary. 
+Zoba Project Coordination Committees (ZPCCs) will  provide  oversight  of  operations 
+at Zoba level, review and endorse the Zoba AWPB implementation progress and financial 
+reports before forwarding to PSD and NPCO for consolidation. The ZPCOCs will meet on a 
+quarterly basis and will be chaired by the Zoba Governors and comprising, inter alia, the 
+Directors  of Zoba Administration  Departments  and  Heads  of  Agriculture  Divisions.  Their 
+functions are similar to that of the NPSC at national level. 
+8.   Programme Management Unit.  National Project Coordination Office (NPCO) will 
+be established under MoA’s Planning and Statistics Division (PSD); thus, the NPCO will be 
+under  the  direct  supervision  of  the  PSD  Director.  The  NPCO  will  ensure  day-to-day 
+management of the Project; it will be headed by a full-time Project Coordinator (PC), fully 
+dedicated to IADP. The NPCO structure, as it is under NAP, will remain largely unchanged. 
+However, the PC and all IADP-NPCO staff will largely be expected to be fulltime and fully 
+dedicated  to  the  Project.  The  IADP-NPCO will  be  reinforced to:  a)  strengthen  technical 
+coordination  across  project  implementers;  b)  improve  planning,  fiduciary  functions,  and 
+M&E, and c) ensure compliance with environmental/safeguards and adherence to targeting 
+and  social  inclusion  requirements.  The  IADP-NPCO  will  be  organised  into:  a)  three 
+technical  teams  headed  by  component  heads  supported  by  sub-component  technical 
+expert; b) planning and monitoring team, headed by a Senior M&E Officer, supported by 
+planning,  M&E,  KM,  Social  Inclusion  and  Environmental  Monitoring  Officers;  and  c)  an 
+administration  team  consisting  of  a  Senior  Procurement  Officer  and  Financial  Controller 
+supported by 3 procurement assistants, an accountant and an assistant accountant. 
+Zoba Project  Coordination  Offices  (ZPCOs) will  be  established in  each  of  the 
+six Zobas,  to  coordinate  implementation  of  the  Project.  They  will  comprise  technical 
+experts seconded from the Zoba branches. The ZPCO structure will mirror that of the NCPO 
+at national level. The Zoba Administration will carry-out coordination and implementation 
+responsibilities at Zoba level. At Zoba level, the Directorate General for Agriculture, Land 
+and Environment will be responsible for implementation of the bulk of project activities, 
+through  the  Local  Government  structure.  In  particular,  the  branches  of  Soil,  Water  and 
+Irrigation;  Animal  Resources;  and  Crop  Development  will  implement  project  activities 
+through  the  various  units  and  sub-zoba structures.  In  addition,  the  Agricultural 
+Infrastructure branch of the Directorate General for Infrastructure Development will have 
+an implementation role in relation to dam infrastructure development. Within each Zoba, 
+the development process will largely be driven by the local communities through the Sub-
+zobas and Kebabi administrations following the GoSE decentralised participatory planning 
+7 
+Appendix I 
+EB 2020/131/R.5/Rev.1 
+system, whereby Village Development Plans are consolidated into Kebabi plans, which are 
+then  consolidated  into  Sub-zoba plans,  and  finally  then  into Zoba plans.  The  Sub-
+zoba Agricultural  Divisions  will  provide  direct  supervision  of  the Kebabi-based  technical 
+teams as well as prepare progress reports following Government guidelines. 
+Planning  and  Implementation  Committee  (PIC) in  each Kebabi headed  by 
+the Kebabi Administrator will coordinate planning and implementation of project activities. 
+PIC will receive technical support from the Sub-zoba line agencies. 
+the Zoba administrations, 
+Implementing partners.  AED of MoA will be a core implementing entity as it has a 
+9.  
+mandate  for  implementation  of  national  resources  management,  catchment  treatment, 
+irrigation development, horticulture and livestock development; agricultural extension and 
+communication; value addition, agro-input supply. AED will provide technical backstopping 
+implementation is 
+to 
+aligned with GoSE policy  and  strategy.  It  will  collaborate  with  the  RSD  and MoLWE in 
+ensuring  that  agricultural  production  activities are  carried  out within  the  environmental 
+guidelines  and  policies.  NSU,  under  AED,  in  collaboration  with Zoba seed  units,  will 
+technically  backstop  private-sector  seed  growers  for  multiplication,  processing  and 
+marketing of certified/improved seeds, as well as be responsible for development of the 
+national  annual  seed  plan  and  development  of  specifications  for  procurement  of  these 
+seeds.  The  Marketing  and  Credit  Unit  will  be  responsible  for  activities  related  to  input 
+distribution. 
+Project 
+ensure 
+that 
+and 
+the 
+targeted  on 
+following  subjects:  TLST, 
+NARI will assume responsibility for adaptive research and strengthen collaboration with the 
+AED 
+IPM,  bio-pesticides,  organic 
+fertilizers, rangeland management,  improvement  of  indigenous  poultry,  as  well  as  food 
+safety and nutrition. Seed variety screening and multiplication of foundation and breeder 
+seed,  will  be  supported  by  the  development  and  implementation  of  protocols  and  the 
+decentralization of the  seed distribution system.  Implementation will happen at national 
+level as well as through the Research Sub-Stations, as per the agro-ecological zones. 
+Other key stakeholders will include: a) RSD – will support inspection services of food, feed 
+seed,  pesticides,  drugs  and    vaccine  and  some  environmental  assignments,  through 
+their Zoba Inspection  Departments  as  well  as  providing  quarantine  services  and  seed 
+certification schemes; b) NAPHL – will work on food quality and safety, and start-up the 
+capacity to produce vaccines, in particular for small ruminants and poultry; c) AFD – will 
+foresee  the  financial  management  and  procurement  functions  of  the  Project;  and  d) 
+Agricultural  Colleges  –  will  be  a  potential  partner  for  capacity-building  activities 
+(Subcomponent 3.1). 
+10.   Monitoring and Evaluation.  PSD will coordinate monitoring and evaluation processes, 
+reporting,  and  knowledge  management.  PSD  will  be  responsible  for  the  preparation  of 
+consolidated  6-monthly  and  annual  progress  reports.  A  baseline  study will  be 
+undertaken during  the  first  year  of  Project  implementation  to  provide  a  benchmark  for 
+assessment of outcomes and impact of the Project; the study will incorporate appropriate 
+questionnaire to collect baseline data for tracking progress on mainstreaming themes (i.e. 
+MDD-W)  following  IFAD  COI  standard  guidelines  and  Appendixes.  It  will  also  conduct 
+impact  evaluation  and knowledge  management  activities,  production  of  annual  progress 
+reports,  conducting the annual outcome surveys and implementation review workshops, 
+carrying  out  special/thematic  studies,  Mid-term  review  (MTR)  and  Project  Completion 
+Report (PCR). 
+The  Project  will  adopt  a  results-based  management  and  check  systematically  the 
+contribution of each planned activity to outcome achievement. IFAD will undertake periodic 
+monitoring,  evaluation  and  supervision  Missions  to  assess  the  status  of  Project 
+implementation and evaluate the Project’s direction with respect to its objectives, outputs 
+and outcomes. IADP’s M&E strategy will be to establish an iterative process for identifying 
+issues and problems to ensure that the Project focus is maintained and expected outcomes 
+are  achieved.  This  will  rely  on  data  from  periodic  monitoring  within  the  context  of  the 
+operational M&E framework, and on specific thematic surveys, such as adoption, household 
+8 
+Appendix I 
+EB 2020/131/R.5/Rev.1 
+and outcome surveys. The team will document achievements through reflection meetings 
+with NPCO team, implementing agencies and beneficiaries. The reflection meetings shall 
+be organized on a quarterly basis for NPCO, ZPCOs and implementing agencies. PSD will 
+also  explore  innovative  ways  to  collect  qualitative  and  quantitative  data,  including  GIS, 
+focus group discussions, structured interviews and longitudinal panels. This will guide the 
+consolidation  of  input  and  output  data  provided  by  implementers  and  reporting  on 
+efficiency of implementation. 
+Quarterly, bi-annual and annual reports will be produced by the respective implementing 
+agencies with formal reporting responsibilities to the NPCO; the NPCO will consolidate the 
+different  reports  to  produce  a  Project-wide  report  for  submission  to GoSE and  IFAD. 
+Reports will provide information such as: a) overview of intervention activities undertaken 
+in the last quarter and cumulatively over the fiscal year; and b) progress and outputs in 
+terms of the agreed M&E indicators, provide lessons learnt, and knowledge gaps identified. 
+The reports will also seek to identify any constraints encountered so as to seek guidance 
+(where needed) from Project management for addressing the constraints. The project will 
+strengthen  MOA’s  M&E  capacity  (tools  and  methods)  for  data  collection  and  analysis  to 
+enhance reporting of project results. 
+The  above-indicated  monitoring  activities will  be  complemented by  frequent  monitoring 
+meetings  between  the  NPCO  and  the  Minister  of  Agriculture,  as  well  as  field  visits  by 
+members  of  the  NPSC.  IFAD  will  also  ensue  that  an  M&E  specialist  is  included  in  at 
+least 1 mission  per  year.  The  NPCO  will  ensure  adequate  beneficiary  monitoring  at  the 
+Zoba  level  to  address  potential  overlap  with  FREMP  and  other  development  projects  in 
+target areas. 
+11.   Knowledge  Management.    KM&L  will  serve  as  a  foundation  for  replication  of 
+successes, provide the analytical basis to resolve challenges, and help to adapt activities 
+to changing social and economic circumstances in the target areas. A KM action plan will 
+be prepared to: a) identify knowledge gaps and prioritization of knowledge products to be 
+developed; b) systematically document methods to ease the up-scaling of best practices 
+in Eritrea or repackaging of innovative approaches developed  elsewhere; c) disseminate 
+knowledge using various communication tools (MoA newsletter, brochures, websites, radio, 
+FFS). Regular reflection workshops, drawing on M&E data to improve performance, will be 
+held and information sharing mechanisms (internal and external) developed. The South-
+South cooperation and exchange visits will also be integrated in the KM&L  strategy (see 
+Subcomponent 3.3). 
+Supervision – IADP  will  be  jointly  supervised  by  IFAD  and GoSE.  Supervision will  be 
+seen as  a  continuous  process  including  joint  missions  with  the  Government,  as  well  as 
+continuous desk review to ensure that implementation is on track. Missions will be used as 
+an  opportunity  to  jointly  assess  achievements  and  lessons  learned  with  the  overall 
+objective  of  ensuring  effective  project  implementation  and  increase  the  likelihood  of 
+achieving the target objective. The composition of supervision and implementation support 
+missions will largely be determined by the prevailing circumstances. To the extent possible, 
+the composition of the supervision and implementation support team will be maintained to 
+ensure  continuity.  Implementation  support will  be  provided through  technical  assistance 
+especially on M&E and Procurement. 
+Mid-Term  Review  (MTR) –  An  MTR  will  be  undertaken  midway  through  project 
+implementation  and  will  evaluate  whether  the  project  is  on  course  to  achieve  the 
+objectives. The MTR will be a key reflection moment to assess implementation performance 
+and recommend adjustments to the project, as may be required.  The recommendations 
+will  take  into  consideration  the  likelihood  of  achieving  the  project's  targets  during  the 
+remaining implementation period and may modify these targets, if considered necessary. 
+The MTR will also be critical considering that this design has been finalised under COVID-
+19  guidelines  and  there  may  be  need  to  revisit  the  assumptions  of  the  project  since  a 
+validation  design  mission  could  not  take  place.  The  MTR  will  also  consider  a  potential 
+extension to the project if required. 
+9 
+Appendix I 
+EB 2020/131/R.5/Rev.1 
+Project Completion Plans – At the end of the IADP implementation, GoSE will be required 
+to  undertake  the  Project  Completion  Review  (PCR)  exercise,  in  close  coordination  with 
+IFAD, in order to report on the results achieved through project interventions. As part of 
+completion  activities,  a  Beneficiary  Impact  Assessment  will  be  undertaken  and  findings 
+used to inform the Project Completion Report. The main purposes of the completion review 
+process are to promote accountability, reflect on performance and elicit lessons learned to 
+inform  future  programme/project  design  and  to  define  an  appropriate  post-project 
+strategy. The  learning  dimension  of  the  completion  process  will  be  used  by  both  IFAD 
+and GoSE as  the  foundation for  improvements  in  future  programme/project  design  and 
+implementation.  The  completion  review  process  will  also  be  critical  for  identifying 
+opportunities for scaling-up best practices. 
+12.   Programme Implementation Manual. A draft Project Implementation Manual (PIM) is 
+included as one of annexes to the PDR (Annex 8). The PIM provides guidelines, procedures 
+and  processes  that  are  to  be  followed  in  the  implementation  of  IFAD  funded  initiatives 
+under IADP. As an annex to the PDR, the processes and procedures presented are to be 
+read in conjunction with the relevant sections in the PDR. It is envisaged that at start-up, 
+the NPCO will convene all the relevant implementing agencies and stakeholders to review, 
+clarify,  refine  and  confirm  the  activities  and  processes  outlined  in  the  PIM,  and  therein 
+finalise the PIM for submission to IFAD for No Objection. The PIM should give due attention 
+to the relevant arrangements for implementing the Environment and Social management 
+Plan (ESMP). It is emphasized that the PIM is a living document, which can be reviewed 
+periodically during the lifetime of the project, based on lessons learnt, subject to approval 
+by the Project Steering Committee and IFAD’s No Objection.  
+10 
+Appendix I 
+EB 2020/131/R.5/Rev.1 
+Schedule 2 
+Allocation Table 
+Allocation  of  Loan/Grant  Proceeds. (a)  The  Table  below  sets  forth  the  Categories  of 
+1. 
+Eligible Expenditures to be financed by the Loan/Grant and the allocation of the amounts to 
+each category of the Financing and the percentages of expenditures for items to be financed 
+in each Category: 
+Category 
+[Grant Amount Allocated] 
+[Loan Amount Allocated] 
+Percentage 
+(expressed in SDR) 
+(expressed in SDR) 
+(net of tax)  
+I. Works 
+II. Training and 
+Workshops                                           
+III. Consultancies  
+IV. Investment capital  
+V. Equipment 
+VI. Inputs 
+VII. Operating costs 
+Unallocated 
+TOTAL 
+6 570 000 
+3 180 000 
+1 590 000 
+230 000 
+3 690 000 
+3 730 000 
+2 110 000 
+21 100 000 
+100% 
+100% 
+100% 
+100% 
+100% 
+100% 
+100% 
+3 010 000 
+770 000 
+680 000 
+270 000 
+520 000 
+5 250 000 
+(b) The terms used in the Table above are defined as follows: 
+- 
+Investment Capital refers to the funds allocated towards the piloting of micro agro-enterprises 
+in sub-component 2.2. 
+2.  Disbursement arrangements  
+Start-up Advance.  
+Withdrawals in  respect  of  expenditure  for  start-up  costs  in  categories  III.  Consultancies 
+and V. Equipment, incurred before the satisfaction of the general conditions precedent to 
+withdrawal, shall not exceed an aggregate amount equivalent to USD 300,000. Activities 
+to be financed by Start-up Costs will require the no objection from IFAD to be considered 
+eligible. 
+11 
+Appendix I 
+EB 2020/131/R.5/Rev.1 
+Schedule 3 
+Special Covenants 
+In  accordance  with  Section  12.01(a)(xxiii)  of  the  General  Conditions,  the  Fund  may 
+suspend, in whole or in part, the right of the Borrower/Recipient to request withdrawals 
+from the Loan/Grant Account if the Borrower/Recipient has defaulted in the performance 
+of any covenant set forth below, and the Fund has determined that such default has had, 
+or is likely to have, a material adverse effect on the Project:  
+1.    Within six (6) months of entry into force of the Agreement, the Project will enter into 
+Memorandum  of  Understandings  (MoU)  or  implementation  agreements  with  relevant 
+implementing  partners  that  will  structure  the  collaboration,  define  roles,  responsibilities 
+and  duties  with  regards  to  implementation,  financial  management,  accounting  and 
+reporting. 
+2.   The Borrower/Recipient undertakes that within six (6) months of entry into force of 
+the Agreement:  
+a. both NCPO and ZPCO, as further defined in Schedule 1 of this present Agreement will 
+be fully staffed by all key personnel in line with the terms of reference agreed between the 
+Parties and to the satisfaction of the Fund; 
+b. the Zoba Coordinator, Technical Coordinator, and specialists in Procurement, Financial 
+Management, Monitoring and Evaluation and Social Inclusion  (the “Key Staff of the ZPCO”) 
+will be fully dedicated to the implementation of the Project. 
+Planning,  Monitoring  and  Evaluation.  The  Borrower/Recipient  shall  ensure  that  a 
+3. 
+Planning, Monitoring and Evaluation (PM&E) system shall be established within twelve (12) 
+months from the date of entry into force of this Agreement. 
+4.   Gender. The Borrower/Recipient shall ensure that a Social Inclusion Strategy has 
+been dully prepared and submitted to IFAD for No Objection 
+Compliance  with  the  Social  Environmental  and  Climate  Assessment  Procedures 
+5. 
+(SECAP).  
+a. The Borrower/Recipient shall ensure that the Project will be implemented in compliance 
+with  IFAD's  SECAP  and  Government  of  Eritrea’s  laws,  and  in  compliance  with  the 
+Environment  and  Social  Management  Framework  (ESMF),  Climate  Risk  Analysis  (CRA), 
+Environment and Social Management Plans (ESMPs), and the principles of Free Prior and 
+Informed Consent (FPIC), and international treaty to which Eritrea is a party. Specifically, 
+the  project  shall  maintain  appropriate  pest  management  practices  and  comply  with  the 
+principles of the international code of conduct on the distribution and use of pesticides of 
+the Food and Agriculture Organization of the United Nations (FAO) and WHO . 
+b. In case of a SECAP related complaint the Borrower/Recipient shall: 
+i) be responsible for proposing and implementing an easily accessible project-level 
+Grievance Redress Mechanism (GRM), including but not limited to workplace grievance, 
+contractor and third party, in order to receive and facilitate resolution of concerns and 
+grievances of people/parties in a transparent, responsive and timely manner; 
+ii) define clear roles, responsibility and authority for implementing and monitoring of 
+stakeholder engagement and compliance with IFAD’s SECAP;  
+iii) to the extent possible provide mediation where complainants are not satisfied with the 
+resolution; and  
+iv) notify IFAD promptly and provide information of any significant complaint. 
+6.  Anticorruption  Measures.  The  Borrower/Recipient  shall comply  with  IFAD  Policy  on 
+Preventing Fraud and Corruption in its Activities and Operations. 
+12 
+Appendix I 
+EB 2020/131/R.5/Rev.1 
+Sexual Harassment, Sexual Exploitation and Abuse. The Borrower/Recipient and the 
+7. 
+Project Parties shall ensure that the Project is carried out in accordance with the provisions 
+of  the  IFAD  Policy  on  Preventing  and  Responding  to  Sexual  Harassment,  Sexual 
+Exploitation and Abuse, as may be amended from time to time.  
+Use of Project Vehicles and Other Equipment.  The Borrower/Recipient shall ensure 
+8. 
+that: 
+(a) 
+(b) 
+The types of vehicles and other equipment procured under the Programme are 
+appropriate to the needs of the Project; and 
+All  vehicles  and  other  equipment  transferred  to  or  procured  under  the 
+Programme are dedicated solely to Project use. 
+13 
+Logical framework 
+Results hierarchy 
+Indicators 
+Means of verification 
+Assumptions 
+Name 
+Baseline  Mid-term 
+End 
+target 
+Source 
+Frequenc
+y 
+Responsibilit
+y 
+Outreach 
+25 000 
+60 000 
+125 000 
+300 000 
+Baseline 
+Midterm 
+End-line 
+Annual 
+Consolidat
+ed Project 
+Report – 
+beneficiary 
+database 
+PSD 
+NPCO 
+-The outreach of the delivery of 
+services, inputs, tools and equipment is 
+increased and diversified  
+Number of Households receiving 
+project services  
+Estimated corresponding number of 
+household members - C.I. 1.a 
+Persons receiving services promoted 
+or supported by the project 
+(disaggregated by age and gender)- 
+C.I. 1.b – 40% women; 40 % youth 
+(18-35 years) 
+ Indicator 1: Food deficit at the 
+national level reduced (%)4 
+0 
+0 
+385 
+ Indicator 2: % households reporting 
+0 
+an increase in household asset 
+index *** 
+Goal 
+To contribute to poverty 
+reduction, and food and 
+nutrition security of rural 
+households in the 
+targeted areas 
+1
+4
+30 
+15 
+22 
+30 
+MOA 
+Annual 
+Report 
+Annual 
+Outcome 
+surveys 
+Baseline 
+Midterm 
+End-line 
+PSD 
+NPCO 
+- The implementation of the peace deal 
+provides a conducive environment for 
+business and agribusiness 
+development 
+- COVID-19 situation recedes and 
+project operations & proceed normally 
+or guidelines for COVID-19 
+implemented 
+-The implementation of the peace deal 
+provides a conducive environment for 
+business and agribusiness 
+development 
+- Climatic conditions are conducive for 
+production 
+Project Development Objective 
+Enhancement of 
+smallholder agricultural 
+production and 
+productivity and 
+improvement of rural 
+livelihoods, in a 
+sustainable and 
+climate-resilient way 
+ Indicator 3: % increase in national 
+annual agricultural output in the 
+project target areas6 
+ Indicator 4: New jobs created 
+(2.2.1) 
+0 
+0 
+15 
+40 
+Outcome 
+Survey 
+2 500 
+6 500 
+Baseline 
+Midterm 
+End-line 
+PSD 
+NPCO 
+Component 1: Integrated Watershed Management 
+Outcome 1: 
+Strengthened 
+environmental 
+reporting reduced water shortage 
+vis-à-vis production needs (1.2.3) *** 
+ Indicator 5: % of households 
+0 
+30 
+70 
+Survey 
+Annual 
+outcome 
+surveys 
+NPCO 
+- Timely completion of procurement 
+processes and construction of water-
+related infrastructure  
+4 Ministry of Agriculture data - specific reference to cereals. Considering 10 year average 
+5 2019 data  
+6 Strategic crop, fruits, vegetables and livestock products – comparing With and Without project  
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+2
+0
+/
+1
+3
+1
+/
+R
+.
+5
+/
+R
+e
+v
+.
+1
+Results hierarchy 
+Indicators 
+Means of verification 
+Assumptions 
+Name 
+Baseline  Mid-term 
+Source 
+End 
+target 
+40 
+15 
+sustainability and 
+climate resilience of 
+poor rural people’s 
+economic activities  
+Outputs: 
+1.1: Climate resilient & 
+sustainable 
+management 
+1.2: Irrigation 
+production is promoted 
+ Indicator 6: % of households 
+reporting adoption of 
+environmentally sustainable and 
+climate-resilient technologies and 
+practices (3.2.2)** 
+ Indicator 7: No. ha brought under 
+climate resilient and sustainable 
+management practices (3.1.4) 
+ Indicator 8: No. ha of land under 
+irrigated crop production (1.1.2) 
+5 
+0 
+0 
+4 000 
+10 0007 
+645 
+1915 
+Project 
+M&E 
+Reports 
+Survey 
+Component 2: Crop and Livestock Productivity and Rural Livelihood Improvement 
+Outcome 2: Increased 
+diversification of 
+livelihoods and 
+resilience of 
+communities  
+improved quality of their diets-1.2.8) 
+**** 
+ Indicator 9: % of women reporting 
+ Indicator 10: % of persons 
+20 
+30 
+0 
+0 
+reporting adoption of new/improved 
+inputs, technologies or practices 
+(1.2.2) *** 
+1
+5
+80 
+40 
+Outputs 
+2.1 Improved access to 
+advisory services, 
+inputs and livelihood 
+support  
+2.2 knowledge on 
+nutrition enhanced 
+2.3 Strengthened POs 
+skills for collective 
+services and market 
+linkages 
+ Indicator 11: % of persons 
+engaging in new livelihood 
+opportunities derived from the 
+project8 *** 
+ Indicator 12: Number of persons 
+trained in production practices 
+and/or technologies (1.1.4)*** 
+ Indicator 13: Number of persons 
+trained in off-farm livelihood 
+opportunities *** 
+ Indicator 14: Number of 
+households provided with targeted 
+support to improve their nutrition 
+(1.1.8) *** 
+ Indicator 15: Number of rural 
+producer organizations supported 
+(2.1.3) *** 
+0 
+0 
+0 
+0 
+0 
+0 
+30 
+80 
+10 000 
+10 000 
+22 000 
+22 000 
+Project 
+M&E 
+Reports 
+3 000 
+6 000 
+2 000 
+5 000 
+50 
+120 
+7 An average of 3 integrated watershed management plans are expected to be developed and implemented per Zoba. 
+8 Ref. EFA – including berbere processing, beekeeping, sesame processing, tools workshops, service provision  
+Frequenc
+y 
+Baseline 
+Midterm 
+End-line 
+Annual 
+outcome 
+surveys 
+Baseline 
+Midterm 
+End-line 
+Annual 
+outcome 
+surveys 
+Baseline 
+Midterm 
+End-line 
+Annual  
+Baseline 
+Midterm 
+End-line 
+Responsibilit
+y 
+NPCO, ZPCO, 
+Project 
+implementing 
+agencies 
+NPCO 
+- Communities adopting climate 
+resilient soil and water management 
+practices  
+- Investments informed by watershed 
+management plans  
+- Gov. will assign staff & O&M recurrent 
+budget 
+- Inputs and technologies are effectively 
+disseminated to farmers in a timely 
+manner 
+- Nutrition education is effectively 
+delivered to households 
+- Beneficiaries successfully organised 
+into groups & producer organisations 
+providing services to their membership  
+NPCO 
+- Agricultural and nutrition extension is 
+effectively delivered to households 
+- Timely completion of procurement 
+processes 
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+2
+0
+/
+1
+3
+1
+/
+R
+.
+5
+/
+R
+e
+v
+.
+1
+Results hierarchy 
+Indicators 
+Means of verification 
+Assumptions 
+Name 
+Baseline  Mid-term 
+End 
+target 
+Source 
+Frequenc
+y 
+Responsibilit
+y 
+Component 3: Capacity Building & Project Support Services  
+Outcome 3: 
+Institutional capacity 
+and performance to 
+sustainably deliver 
+services to the targeted 
+beneficiaries enhanced 
+ Indicator 17: % of government staff 
+reporting enhanced skills from the 
+project interventions ** 
+ Indicator 16: % Cumulative project 
+disbursement targets met 
+ Indicator 18: % of HH reporting 
+they can influence decision-making 
+of local authorities and project-
+supported service providers (SF.2.2) 
+*** 
+ Indicator 19: % of HH satisfied with 
+project services (SF.2.1) *** 
+ Indicator 20:Capacity needs 
+assessment undertaken and 
+implementation plans developed 
+ Indicator 21: % of NPCO and 
+ZPCO staff supported with training 
+and capacity development initiatives 
+** 
+ Indicator 22: Number of policy-
+relevant knowledge products 
+completed (Policy 1) 
+Outputs 
+3.1 Staff trained on 
+project management  
+1
+6
+3.2 Knowledge 
+management, learning 
+and policy engagement 
+promoted  
+0 
+0 
+0 
+0 
+0 
+0 
+30 
+60 
+30 
+2 
+70 
+60 
+4 
+90 
+60 
+30 
+100 
+70 
+Assessmen
+t 
+NPCO, ZPCO, 
+Project 
+implementing 
+agencies 
+Baseline 
+Midterm 
+End-line 
+Annual 
+outcome 
+surveys 
+- Realistic planning processes by the 
+Government and timely execution of 
+procurement activities 
+- Grievance redress and consultation 
+platform set-up 
+- Feedback culture adopted by the 
+beneficiaries and communities  
+Annual 
+project 
+reports 
+Annually 
+Baseline 
+Midterm 
+End-line 
+NPCO, ZPCO, 
+Project 
+implementing 
+agencies 
+- Government leadership 
+- Consultation platform set-up 
+** Indicator to be disaggregated by gender and age / *** indicator to be disaggregated by gender, age and sector / **** Indicator to be disaggregated by age
+A
+p
+p
+e
+n
+d
+x
+i
+I
+I
+E
+B
+2
+0
+2
+0
+/
+1
+3
+1
+/
+R
+.
+5
+/
+R
+e
+v
+.
+1
+Appendix III 
+EB 2020/131/R.5/Rev.1  
+Integrated project risk matrix 
+Risk Categories and Subcategories 
+Country Context 
+Political Commitment 
+Inherent 
+Residual 
+Substantial  Moderate 
+Moderate  Low 
+Risk(s):  
+If the peace treaty between Ethiopia and Eritrea does not hold, the country 
+may remain in isolation, and further divert from the current development 
+trajectory. This may impact on the Country’s ability to invest in agriculture 
+and other development sectors, and mobilisation of counterpart funds 
+Mitigations: 
+• IADP will support investments that promote economic and social 
+empowerment of the rural communities to enhance their resilience  
+• Apply IFAD’s guidelines for accounting for in-kind contribution to fully 
+capture the contribution of the Government and beneficiaries, in lieu of 
+counterpart funds 
+Governance 
+High 
+Substantial 
+Risk(s):  
+Insufficient accountability and transparency due to weak financial internal 
+controls; gaps in financial reporting and lack of national legal regulatory 
+framework for procurement to curb fraud and corruption.  
+Inclusion of women and youth in decision making remains a challenge due 
+to socio-cultural and generational norms 
+Mitigations:  
+• TA will be provided to build capacity in Financial Management and put in 
+place internal control framework  
+• IFAD's Project Procurement Guidelines, Procurement Handbook and 
+standard procurement documents (SPDs) shall be used;  
+• AFDB has just initiated a project to support the Government in the 
+preparation of a framework for Public Procurement  
+• SECAP and specific quotas for the inclusion of women and youth. IADP 
+also includes self-targeting activities that are attractive to these social 
+categories (women and youth).  
+• An ESMF has been prepared which presents guidance on Free, Prior 
+and Informed Consent (FPIC) 
+Macroeconomic 
+Substantial  Moderate 
+Risk(s):  
+The Gross Domestic Product (GDP) of Eritrea relies heavily on services 
+(58.9 per cent) and industry (23.5 per cent). Agriculture and fisheries 
+contribute only 17.6 per cent, although the sector employs 65-70 per cent 
+of the population. The agriculture sector continues to underperform, and is 
+unable to meet the food demands of the population. Agriculture and 
+fisheries provide only a minor contribution to economic growth due to 
+persistent low productivity, lack of investments and vulnerability to 
+frequent droughts.  
+The 2019 Ease of Doing Business score of Eritrea is 23.1 and ranks 
+Eritrea 189th out of 190 countries. Private sector participation in the 
+economy is constrained by various economic and financial parameters. 
+Consequently, Eritrean agriculture has difficulties to compete in the 
+international markets combined with restricted cross-border movements of 
+capital, goods and services. 
+Mitigations:  
+• IADP will support investments that promote economic and social 
+empowerment of the rural communities to enhance their resilience  
+• IADP will also focus on addressing demand from local markets and 
+import substitution  
+17 
+Appendix III 
+EB 2020/131/R.5/Rev.1  
+Risk Categories and Subcategories 
+Inherent 
+Residual 
+• IADP will gradually integrate business planning to inform investments  
+• The resumption of relations with Ethiopia and neighbouring countries 
+may promote intra-regional trade on agriculture commodities 
+Fragility and security 
+Substantial  Moderate 
+Risk(s):  
+Negative impact of emergencies on the economy and livelihoods - COVID-
+19 & Desert Locust 
+Mitigations:  
+• IADP includes an un-costed component to address any potential 
+disasters and emergency situations arising from the project.  
+• IFADs Rural Poor Stimulus Facility (RPSF) will address short-term 
+disruptions to food supply chains, to ensure that beneficiaries are in a 
+position to absorb project interventions  
+• Reallocations under NAP are contributing to address the Desert Locust 
+emergency. The Government is also exploring biological pesticides, and 
+developing technology to convert the desert locust into animal feed. 
+Sector Strategies and Policies 
+Policy alignment 
+Substantial  Moderate 
+Substantial  Moderate 
+Risk(s):  
+-Limited coordination across sectors,  
+-Enabling environment may not be conducive for the realization of the 
+Small and Medium Commercial Farmers Strategy (SMCFS) with the goal 
+to create by 2023 farm enterprises that engage in highly productive, 
+profitable agriculture value chains linked to domestic and international 
+markets. 
+Mitigations:  
+• Continuous engagement with GoSE on coordination on watershed 
+management activities by FREMP and NAP when they converge in Zobas, 
+and within the context of the UNCT  
+• IADP is supporting the development of key policy frameworks that are 
+critical to the implementation of the SMCFS including the translation of 
+policies into regulations for the food safety and certification protocols; 
+seed sector development policy; cooperative proclamation, animal health 
+legislation; enabling conditions for engagement in market-oriented 
+production and nutrition sensitive agriculture. 
+Policy development & implementation 
+Substantial  Moderate 
+Risk(s):  
+Despite policy level aspirations for the development of a productive and 
+profitable agriculture sector and a very strong commitment by Government 
+to the country’s development agenda, there are significant systemic gaps 
+at the institutional and policy levels e.g. appropriateness of procedures 
+and regulatory frameworks to guide the implementation of rural 
+development projects (e.g. national procurement framework, limited 
+technical and institutional capacities at all levels, inadequate financial 
+management and M&E systems which impact on the ability to 
+quantitatively demonstrate development impact. 
+Mitigations:  
+• Capacity needs assessment, which will inform capacity development 
+interventions and the provision of specialised technical assistance. 
+Partnerships with ASARECA, Africa Capacity Building Foundation and 
+FAO will be explored.  
+• Analysis of economic sustainability and value for money to underpin new 
+investments;  
+• Strengthen M&E systems to demonstrate viability or inadequacies of 
+different policies/strategies.  
+18 
+Appendix III 
+EB 2020/131/R.5/Rev.1  
+Risk Categories and Subcategories 
+Inherent 
+Residual 
+• AFDB has just initiated a project to support the Government in the 
+preparation of a framework for Public Procurement 
+Environment and Climate Context  
+Project vulnerability to environmental conditions 
+High 
+High 
+Substantial 
+Substantial 
+Risk(s):  
+Given the poor spatial and temporal distribution of water as well as total 
+scarcity of rainfall in Eritrea, with over 90 percent of the total area 
+receiving less than 450 mm per annum, soil moisture deficiency remains 
+to be the single most important physical production related risk factor to 
+ensure food security in the country  
+The project takes place in the context of land degradation and over 
+exploitation of woody biomass 
+Mitigations:  
+• Component 1 is built around integrated water resources management 
+(IWRM) as the planning unit. It will finance activities required to plan and 
+implement IWRM to restore the hydrologic and ecological functioning of 
+watersheds, enhance the sustainability of existing land uses and, improve 
+its resilience to climate shocks.  
+• a high level of awareness by government and regular programs of 
+community level terracing and afforestation, which will also be reinforced 
+by project activities 
+Project vulnerability to climate change impacts 
+High 
+Substantial 
+Risk(s):  
+The climate risk of the Project is preliminarily classified as “high”. Climate 
+change and increased climate variability are severely affecting Eritrea, 
+through its significant impact on crop and livestock production, upland fish 
+farming and rural livelihoods 
+Based on trends, it is likely that most of the project sites will be exposed to 
+at least one season of very low rainfall over the life of the project 
+Mitigations:  
+• The climate risks will be mitigated by increasing the ability of the affected 
+communities to adapt to environmental and economic variability, and long 
+term changes. As per IFAD requirements, a detailed desk-based Climate 
+Risk Analysis will be undertaken during the pre-implementation, including 
+details of mitigating actions.  
+• Some of the climate smart technologies to be promoted include: a) 
+rainwater harvesting; b) drought tolerant and early maturing crop varieties; 
+c) drought tolerant forage and agroforestry fodder species; d) watershed 
+conservation and management; e) afforestation ;f) mangrove rehabilitation 
+and conservation; g) solar and other forms of renewable energy sources, 
+and energy saving approaches etc  
+• The project introduces an innovative approach to targeting, that takes 
+into account the agro-ecological conditions and overall environment and 
+climate suitability to the proposed interventions 
+Project Scope 
+Project relevance  
+Moderate  Low 
+Moderate  Low 
+Risk(s):  
+A national programme may result in resources (financial and technical), 
+spread too thinly, which may negatively impact implementation and affect 
+the achievement of the development objectives. 
+Mitigations:  
+• Phased implementation based on Zoba capacities, state of the 
+watershed treatment and findings of the NAP impact assessment will be 
+applied  
+19 
+Appendix III 
+EB 2020/131/R.5/Rev.1  
+Risk Categories and Subcategories 
+Inherent 
+Residual 
+• Targeting Strategy will take into account agro-ecological suitability, 
+beneficiary capacities, preference and prioritization  
+• Active contribution of local and national key institution partners 
+Technical soundness  
+Moderate  Low 
+Risk(s):  
+Limited capacities may impact on the implementation of the innovative 
+technical aspects of the project including remote sensing, sprinkler 
+irrigation, agribusiness approaches 
+Mitigations:  
+• Capacity needs assessment coupled with specialised technical 
+assistance and on-the-job training  
+• Farmer field schools approach will be adapted to include business 
+planning  
+• Phasing of project interventions to simplify the project component 
+structure 
+Institutional Capacity for Implementation and Sustainability 
+Implementation arrangements 
+Risk(s):  
+Institutional Capacity gaps to implement innovative technical aspects of 
+the project 
+Mitigations:  
+• Capacity needs assessment  
+• Provision of specialized international technical assistance.  
+• Institutional capacity development at all levels, with training of young 
+staff, as well as investments in equipment and systems. 
+High 
+High 
+Substantial 
+Substantial 
+M&E arrangements 
+High 
+Substantial 
+Risk(s):  
+Weak M&E systems and capacities to consolidate, analyse data and 
+report on outcomes. Different reporting systems across the Zobas 
+Mitigations:  
+• Specialised Technical Assistance  
+• Participation in PRIME training of project staff  
+• Development of project-level M&E manuals and standardized 
+approaches across Zobas  
+• Focus on outcome surveys 
+Procurement 
+Legal and regulatory framework 
+Substantial  Moderate 
+Substantial  Moderate 
+Risk(s):  
+• Lack of acceptable national legal and regulatory framework ;  
+• Lack of standard bidding documents ;  
+• Weak contract administration and management;  
+• Limited public access to procurement information also due to very weak 
+ICT systems. 
+Mitigations:  
+• Lack of acceptable national systems means IFAD's Project Procurement 
+Guidelines, Procurement Handbook and standard procurement 
+documents (SPDs) shall be mandatory;  
+• a highly competent, qualified and dedicated team will ensure compliance 
+with procurement monitoring;  
+• enable IFAD-financed projects to operate on a separate platform to 
+government or for IFAD to ensure government’s systems are upgraded. 
+20 
+Appendix III 
+EB 2020/131/R.5/Rev.1  
+Risk Categories and Subcategories 
+Accountability and transparency 
+Inherent 
+Residual 
+High 
+High 
+Risk(s):  
+• The Government of Eritrea has to date not confirmed the existence of a 
+procurement complaints mechanism;  
+• Transparency.org assigns a low country corruption perception index 
+score (23);  
+• lack of a 2-tiered system to handle complaints, a debarment system and 
+an independent and competent local authority responsible for investigating 
+corruption allegations. 
+Mitigations:  
+• IFAD can strongly encourage government through policy dialogue to 
+address these shortcomings;  
+• All procurement entities, as well as bidders, suppliers, contractors, 
+consultants and service providers, shall observe the highest standard of 
+ethics during the procurement and execution of contracts financed under 
+IFAD funded Projects, in accordance with paragraph 84 of the 
+Procurement Guidelines. The Revised IFAD Policy on Preventing Fraud 
+and Corruption in its Activities and Operations shall apply to all projects, 
+vendors and third parties, in addition to the relevant national anticorruption 
+and fraud laws. Adoption of IFAD’s Standard Procurement Documents will 
+mitigate the identified risk. 
+Capability in public procurement 
+Moderate  Low 
+Risk(s):  
+• Overall, capacity of the procurement team is low;  
+• World Bank templates for ICB, NCB and shopping are being used;  
+• There is no indication that legal and regulatory framework documents 
+are readily available to procurement staff. 
+Mitigations:  
+• Provision of regular training and Technical Assistance;  
+• support on preparation of bidding activities in compliance with IFAD’s 
+requirements;  
+• Government commitment to the recruitment of qualified project staff;  
+• With the use of IFAD’s SPDs, the quality of documents should improve 
+and be compliant with IFAD’s requirements 
+Public procurement processes 
+Moderate  Low 
+Risk(s):  
+• Procurement methods are consistent with IFAD Guidelines. However, 
+the choice of procurement methods should be revisited where national 
+market conditions warrant it;  
+• While ICBs are advertised on UNDB, bidding documents for other 
+procurement methods are shared with bidders in soft copy via a USB pen, 
+but they are only available at the MoA offices;  
+• Procurement plans are of low quality;  
+• Lack of secure storing capacity;  
+• Minutes of bid opening are not sent to bidders;  
+• Contacts are entered into after bid validity has expired.  
+• Contract awards are notified only to participating bidders and publicly 
+advertised. 
+Mitigations:  
+• With the use of IFAD's SPDs and the Procurement Handbook, the quality 
+of documents should improve and be compliant with IFAD's requirements;  
+• MoA should publish all bidding documents on their website;  
+• The use of IFAD’s procurement tools will mitigate many of the risks 
+associated to Procurement Planning and Contract Administration;  
+• It is recommended that adequate and secure archiving space is 
+guaranteed for both bids and securities;  
+21 
+Appendix III 
+EB 2020/131/R.5/Rev.1  
+Risk Categories and Subcategories 
+Inherent 
+Residual 
+• Project should have access to advertising on the Eritrean Government's 
+website;  
+• It is highly recommended that government hold bidders responsible for 
+the performance of contracts and cash in performance bonds/guarantees. 
+Financial Management 
+Organization and staffing  
+Risk(s):  
+• Capacity gaps of finance staff at NPCO level  
+• Weak capacity of finance staff at zoba level  
+• Lack of clarity on IFAD’s procedures 
+Mitigations:  
+• Full-time, qualified, finance staff assigned on basis of agreed TORs  
+• Finance team composed of full-time financial controller, chief accountant 
+and accounts assistant  
+• Selection of financial controller for IFAD approval  
+• Capacity building at start-up  
+• CIPFA FM training to be provided  
+• Specialised technical assistance, implementation support by IFAD  
+• Agreed training plan implemented from start-up 
+Budgeting 
+Risk(s):  
+• Delays in AWPB submission and approvals  
+• Weak budgetary control practices  
+• Low budget execution 
+Mitigations:  
+• Timeliness of AWPB submission monitored  
+• Adoption of automated budget monitoring and commitment tools  
+• Mandatory quarterly reporting on budget execution 
+High 
+Substantial 
+Substantial  Moderate 
+Substantial  Moderate 
+Funds flow/disbursement arrangements 
+High 
+Substantial 
+Risk(s):  
+• Low disbursements due to NPCO financial reporting capacities  
+• Delays in financial reporting and submission of returns at zoba level; 
+irregular/ delayed bank reconciliations 
+Mitigations:  
+• AWPB execution and procurement processes closely monitored by 
+NPCO and IFAD  
+• Quarterly submission of withdrawal applications  
+• Mandatory quarterly interim financial reports  
+• Close monitoring of zoba financial reporting and bank reconciliations by 
+NPCO finance team  
+• Adoption of IFAD’s client portal (ICP) 
+Internal controls 
+High 
+Substantial 
+Risk(s):  
+• Weak internal controls leading to ineligible expenditure  
+• Inadequate segregation of approvals  
+• Inadequate internal audit mechanisms 
+Mitigations:  
+• Internal control framework assessed through TA  
+• Segregation of duties ensured through adequate staff complement (at 
+least 3 full-time finance staff at NPCO)  
+• PIM finalised and adopted at start-up; training workshop on procedures 
+for all NPCO and concerned zoba staff  
+• Budgetary monitoring, management accounting & reporting procedures 
+monitored through interim financial reports  
+22 
+Appendix III 
+EB 2020/131/R.5/Rev.1  
+Risk Categories and Subcategories 
+Inherent 
+Residual 
+• External audit reviews of internal controls, Management Letter 
+recommendations  
+• Scope of internal audit agreed annually - risk-based program of work; 
+internal audit reports available to IFAD; reporting on follow-up to audit 
+recommendations  
+• Internal controls assessed through IFAD supervisions 
+Accounting and financial reporting 
+High 
+Substantial 
+Risk(s):  
+• Weak financial reporting; delays with data inputs, management and IFAD 
+not provided with timely financial information required for business 
+decisions  
+• Inaccurate financial reporting due to manual processes  
+• Weak budget monitoring systems leading to budget overruns  
+• Procurement of accounting software delayed  
+• Failure to report accurately on in-kind contributions 
+Mitigations:  
+• Training on IFAD’s financial reporting requirements  
+• Training on international accounting standards  
+• Adoption of accounting software at start-up, PIM updated to reflect 
+software work-flows  
+• Automated generation of financial reports, including withdrawal 
+applications and SOEs  
+• Procurement of accounting software: legal covenant  
+• Bidding documents for accounting software prepared prior to start-up; 
+processes launched at signature of financing agreement  
+• Cross-support to NPCO by finance staff of ongoing projects  
+• Procedure for calculating and recording in-kind contributions to be 
+documented in PIM at start-up 
+External audit 
+Substantial  Moderate 
+Risk(s):  
+• Delays in audit submission  
+• Quality of audit work not meeting IFAD’s requirements and best practice 
+international standards 
+Mitigations:  
+• Selection of auditor to be based on quality as well as cost (QCB)  
+• IFAD no objection to audit TOR and selection of auditor 
+Environment, Social and Climate Impact 
+Biodiversity conservation  
+Moderate  Low 
+Moderate  Low 
+Risk(s):  
+There are pressures on biodiversity due to population pressures. There 
+are protected natural reserves. 
+Mitigations:  
+There is a high level of inherent agro-biodiversity in production systems 
+across Eritrea and the project intends to build on this for dietary diversity 
+among other reasons  
+Project land use planning will ensure awareness of and avoidance of 
+areas of potential overlapping of project areas with protected areas of their 
+immediate dispersal/buffer areas. 
+Resource efficiency and pollution prevention 
+Low 
+Low 
+Risk(s):  
+The traditional production systems of Eritrea are resource optimizing and 
+use minimal external inputs, including few if any inorganic fertilizers, 
+pesticides or herbicides. In any case import costs make this prohibitive for 
+the target group but the project should not exclude for high value crops 
+23 
+Appendix III 
+EB 2020/131/R.5/Rev.1  
+Risk Categories and Subcategories 
+Inherent 
+Residual 
+Mitigations:  
+Project will explore the options of natural integrated pest management  
+Green manuring will be practiced, while being cognizant of potential 
+competing demands for these same materials  
+A ESMF will include materials on banned substances in terms of 
+pesticides and herbicides, which are in any case will controlled by 
+MoA/Regulatory Services 
+Cultural heritage 
+Low 
+Low 
+Risk(s):  
+There is little reason to believe that the project areas would be exposed to 
+or put at risk any protected cultural heritage artifacts 
+Mitigations:  
+SECAP2020 will be made available to the PMU at both central and zoba 
+levels 
+Indigenous Peoples 
+Low 
+Low 
+Risk(s):  
+Eritrea does not recognize the concept of ‘indigenous peoples’ however 
+there are various ethnic groups. 
+Mitigations:  
+The project targeting strategy has a focus on the vulnerable in each 
+project area, which in turn is selected on the basis of multiple and explicit 
+criteria. 
+Community health and safety 
+Substantial  Moderate 
+Risk(s):  
+There will be water retention structure rehabilitation and/or construction, 
+the exact dimensions of which are still to be determined but are expected 
+to be under IFAD SECAP thresholds 
+Mitigations:  
+The project will ensure that technically competent persons (engineers) 
+participate in the identification of sites and that any construction is 
+approved according to government regulations applicable and that the 
+same will be clearly documented. These structures will be inspected upon 
+each supervision by a qualified team member 
+Labour and working conditions 
+Substantial  Moderate 
+Risk(s):  
+The long standing national requirement of community labour contribution 
+for several weeks a year might represent a risk but a larger risk of 
+triggering IFAD labour related safeguards is the potential of conscript 
+(universal national service) labour being used unremunerated or 
+inadequately remunerated in infrastructure related activities either by 
+contractors and/or as a government contribution 
+Mitigations:  
+The project is not expecting to invest heavily in infrastructure 
+development, which significantly reduces exposure to this safeguard risk  
+The government position is that national service is universal and that 
+persons are deployed in a range of jobs throughout the civil service and 
+economy  
+The government has signed the relevant international treaties and 
+regularly exchanges with ILO.  
+IFAD will engage with ILO to potentially field joint technical assistance if 
+relevant to this project  
+Labour risk issues are also detailed in the ESMF 
+24 
+Appendix III 
+EB 2020/131/R.5/Rev.1  
+Risk Categories and Subcategories 
+Physical and economic resettlement 
+Inherent 
+Residual 
+Low 
+Low 
+Risk(s):  
+No activities anticipated to trigger IFADs very strict thresholds for 
+economic or in particular physical resettlement 
+Mitigations: n/a 
+Greenhouse gas emissions 
+Risk(s):  
+The nature of the production system leaves no reason to believe that there 
+will significant risks of GHGs apart possibly from small livestock. 
+Mitigations:  
+Improved fodder will reduce the already low level of GHGs. No 
+deforestation or additional biomass burning will result from project 
+activities 
+Vulnerability of target populations and ecosystems to climate 
+variability and hazards 
+Risk(s):  
+Note: this refers to the risk from the project in terms of inadvertently 
+exacerbating the vulnerability of the population by promoting maladaptive 
+practices. 
+Mitigations:  
+A detailed climate risk study will be prepared, which will cover both the 
+risks from the climate to the population and from the project to the 
+population in terms of climate vulnerability 
+Low 
+Low 
+Moderate  Low 
+Stakeholders 
+Stakeholder engagement/coordination 
+Moderate  Low 
+Moderate  Low 
+Risk(s):  
+Project Steering Committee (PSC) not meeting as planned  
+Harmonization between NPCO and Zoba PCOs – financial management, 
+M&E, implementation 
+Mitigations:  
+• Dialogue with GoSE on PSC;  
+• Government has adapted the PSC approach, with the Minister 
+Agriculture holding regular steering meetings with NPCO, complemented 
+by joint field visits of with other Ministers and Zoba Governors  
+• Deployment of participatory tools in AWPB preparation, implementation 
+and monitoring 
+Stakeholder grievances  
+Low 
+Low 
+Risk(s):  
+Potential grievances around water infrastructure and diversion of water 
+upstream 
+Mitigations:  
+• Undertake stakeholders’ feedback sessions.  
+• Government implements a bottom-up approach in the identification of 
+investments, hence there is free and prior consent of the communities  
+• Implementation of IFAD’s Framework for Operational Feedback from 
+Stakeholders: Enhancing Transparency, Governance and Accountability 
+25 
