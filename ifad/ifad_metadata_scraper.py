@@ -30,6 +30,9 @@ class Project:
 		self.env_category = ""
 		# what report is present
 		self.report = "No report"
+		# if there is a summary file
+		self.has_summary = False
+		self.summary = ""
 
 
 	def print_data(self):
@@ -57,6 +60,13 @@ class Project:
 		# want status, total project amount, ifad financing (commitment amount), financing terms?
 		response = requests.get(self.url)
 		content = BeautifulSoup(response.text, 'lxml')
+
+		main_content = content.find('div', class_="main-content")
+		summary_match = re.findall(">[^<]+<", str(main_content).replace('\n', ''))
+		if len(summary_match) > 0:
+			self.has_summary = True
+			for para in summary_match:
+				self.summary += str(para)[1:-1] + '\n'
 
 		d_tags = content.find_all('dd')
 		result = 0
@@ -113,9 +123,15 @@ class Project:
 
 		return result
 
+	def write_summary_file(self):
+		if self.has_summary:
+			filename = 'summary_' + str(self.get_filename()) + '.txt'
+			with open('./txt_files/summary/' + filename, 'w') as f:
+				f.write(self.summary)
+
 
 	def get_csv_row(self):
-		return [self.id, self.status, self.country, self.region, self.year, self.borrower, self.project_amount, self.commitment_amount, self.env_category, self.report]
+		return [self.id, self.status, self.country, self.region, self.year, self.borrower, self.project_amount, self.commitment_amount, self.env_category, self.report, str(self.has_summary)]
 
 
 	
@@ -158,18 +174,20 @@ def main():
 
 	working_projects = []
 	error_projects = []
-	for proj in current_projects:
+	for i, proj in enumerate(current_projects):
 		print()
+		print("Project {} of {}".format(str(i+1), str(len(current_projects))))
 		if proj.get_metadata() > 0:
 			error_projects.append(proj)
 			print("Error scraping metadata")
 		else:
 			working_projects.append(proj)
+			proj.write_summary_file()
 			proj.print_data()
 
 	with open('ifad_metadata.csv', 'w') as csvfile:
 		filewriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
-		filewriter.writerow(['Project ID', 'Status', 'Country', 'Region', 'Year approved', 'Borrowing entity', 'Project amount (total)', 'Committment amount', 'Environmental category', 'Report'])
+		filewriter.writerow(['Project ID', 'Status', 'Country', 'Region', 'Year approved', 'Borrowing entity', 'Project amount (total)', 'Committment amount', 'Environmental category', 'Report', 'Has summary'])
 		for proj in working_projects:
 			#proj_row = proj.get_csv_row()
 			filewriter.writerow(proj.get_csv_row())

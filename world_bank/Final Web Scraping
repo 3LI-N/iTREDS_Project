@@ -1,0 +1,63 @@
+import scrapy
+from scrapy import Spider
+# from bs4 import BeautifulSoup
+import pandas as pd
+import os, datetime, json, re
+ROOT_DIR = os.path.dirname(os.path.abspath(os.curdir))
+from scrapy.shell import inspect_response
+from ..items import WorldBankItem
+import time
+
+class WorldBank(Spider):
+    name = "worldbank"
+
+    def start_requests(self):
+        
+        meta = pd.read_csv("worldbank_metadata.csv")
+        project_id_list = meta["Project Id"]
+        for project_id in project_id_list:
+            url_list = ["https://search.worldbank.org/api/v2/wds? format=json&includepublicdocs=1&fl=docna,lang,docty,repnb,docdt,doc_authr,available_in&rows=200&proud="+project_id+"&apilang=en&fct=countryname&os=0&proid="+project_id+"&apilang=en&fct=countryname"] 
+        
+            for url in url_list:
+                yield scrapy.Request(url=url, callback=self.parse)
+
+    def parse(self, response):
+
+        file_list = pd.DataFrame(response.json()['documents']).transpose().dropna(how='all')
+        target_url = file_list.loc[file_list.docty.str.contains("(Project Information Document)|(Program Information Document)", regex=True)]
+        target_url.to_csv("../../documents_to_scrape.csv", mode='a')
+
+        for url in target_url.pdfurl:
+            temp_docx = re.sub(r'pdf$','docx', url)
+            temp_docx = re.sub(r'pdf\/','',temp_docx)
+            temp_txt = re.sub(r'pdf$','txt', url)
+            temp_txt = re.sub(r'pdf','text', temp_txt)
+
+            # yield scrapy.Request(url, callback=self.savePDF)
+            #yield scrapy.Request(temp_docx, callback=self.saveDOCX)
+            # yield scrapy.Request(temp_txt, callback=self.saveTXT)
+            item = WorldBankItem()
+            item['file_urls'] = [url, temp_txt] 
+            yield item
+        time.sleep(5)
+        
+
+    def savePDF(self, response):
+
+        with open('../../crawldata/'+response.url.split('/')[-1], 'wb') as fd:
+            fd.write(response.body)
+
+    def saveDOCX(self, response):
+
+        with open('../../crawldata/'+response.url.split('/')[-1], 'wb') as fd:
+            for chunk in response.body.iter_content(1024*8):
+                if chunk:
+                    fd.write(chunk)
+                    fd.flush()
+                    os.fsync(f.fileno())
+
+    def saveTXT(self, response):
+
+        with open('../../crawldata/'+response.url.split('/')[-1], 'wb') as fd:
+            fd.write(response.body)
+

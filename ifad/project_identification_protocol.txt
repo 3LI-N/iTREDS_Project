@@ -1,3 +1,4 @@
+General Protocol:
 1. Find all projects listed in https://www.ifad.org/en/web/operations/projects-and-programmes that have an approval date of 2015 or later.
 2. Record listed title, id, country, and approval year for each project as listed on the website.
 3. Go to each project link (which is linked to each project table entry) and record its status, total project cost, and IFAD financing.
@@ -7,4 +8,12 @@
 7. If it has neither, mark that.
 8. For each report, convert the downloaded pdf to a .txt file and store it in either pres_reports directory or dsgn_reports directory depending on which report is collected.
 9. Name the .txt file <country>_<year>_<project id>.txt.
-10. With the recorded data, create a csv file that keeps track of the project id, status, country, year approved, total project cost, commitment amount, and what type of report has been downloaded.
+10. With the recorded data, create a csv file that keeps track of the project id, status, country, year approved, total project cost, commitment amount, what type of report has been downloaded, and if a summary of the project exists.
+
+Protocol w/ Existing Code (in terminal):
+1. Run ifad_update.py
+2. Type "rm *.pdf" to remove faulty PDFs that aren't automatically cleaned up by the program
+3. Type "ls txt_files/pres_reports/ > pres_report_files.txt"
+4. Type "ls txt_files/dsgn_reports/ > dsgn_report_files.txt"
+5. Run ifad_metadata_scraper.py
+6. The "txt_files" directory should contain text files of all project documents and summaries and "ifad_metadata.csv" should contain relevant metadata of projects
