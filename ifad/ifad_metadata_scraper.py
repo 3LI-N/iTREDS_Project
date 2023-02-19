@@ -131,7 +131,7 @@ class Project:
 
 
 	def get_csv_row(self):
-		return [self.id, self.status, self.country, self.region, self.year, self.borrower, self.project_amount, self.commitment_amount, self.env_category, self.report, str(self.has_summary)]
+		return [self.id, self.status, self.country, self.region, self.year, self.borrower, self.project_amount, self.commitment_amount, self.env_category, self.report, str(self.summary)]
 
 
 	
@@ -187,7 +187,7 @@ def main():
 
 	with open('ifad_metadata.csv', 'w') as csvfile:
 		filewriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
-		filewriter.writerow(['Project ID', 'Status', 'Country', 'Region', 'Year approved', 'Borrowing entity', 'Project amount (total)', 'Committment amount', 'Environmental category', 'Report', 'Has summary'])
+		filewriter.writerow(['Project ID', 'Status', 'Country', 'Region', 'Year approved', 'Borrowing entity', 'Project amount (total)', 'Committment amount', 'Environmental category', 'Report', 'Summary'])
 		for proj in working_projects:
 			#proj_row = proj.get_csv_row()
 			filewriter.writerow(proj.get_csv_row())
