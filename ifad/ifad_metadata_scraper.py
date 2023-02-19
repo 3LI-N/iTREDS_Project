@@ -131,7 +131,7 @@ class Project:
 
 
 	def get_csv_row(self):
-		return [self.id, self.status, self.country, self.region, self.year, self.borrower, self.project_amount, self.commitment_amount, self.env_category, self.report, str(self.summary)]
+		return [self.id, self.status, self.country, self.region, self.year, self.borrower, self.project_amount, self.commitment_amount, self.env_category, self.report, "\"" + str(self.summary) + "\""]
 
 
 	
