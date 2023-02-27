@@ -1,0 +1,1562 @@
+Report and Recommendation of the President  
+to the Board of Directors 
+Project Number: 54179-001 
+November 2020 
+Proposed Countercyclical Support Facility Grant  
+Republic of Vanuatu: COVID-19 Fiscal Response 
+Program 
+Distribution of this document is restricted until it has been approved by the Board of Directors. 
+Following such approval, ADB will disclose the document to the public in accordance with ADB's 
+Access to Information Policy.
+CURRENCY EQUIVALENTS 
+(as of 12 November 2020) 
+Currency unit 
+Vt1.00 
+$1.00 
+– 
+= 
+= 
+vatu (Vt) 
+$0.0090 
+Vt111.61 
+ABBREVIATIONS 
+ADB 
+COVID-19 
+CPRO 
+ESP 
+GBV 
+GDP 
+HPRP 
+IMF 
+MFEM 
+MOH 
+MSMEs 
+NGO 
+RBV 
+VNPF 
+WHO 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+Asian Development Bank 
+coronavirus disease 
+COVID-19 pandemic response option 
+Economic Stimulus Program 
+gender-based violence 
+gross domestic product 
+Health Preparedness and Response Plan  
+International Monetary Fund 
+Ministry of Finance and Economic Management 
+Ministry of Health 
+micro, small, and medium-sized enterprises 
+nongovernment organization 
+Reserve Bank of Vanuatu 
+Vanuatu National Provident Fund 
+World Health Organization 
+NOTE 
+In this report, “$” refers to United States dollars, unless otherwise stated.  
+Vice-President 
+Director General 
+Deputy Director 
+General 
+Regional Director  Lotte Schou-Zibell, Pacific Liaison and Coordination Office (PLCO), 
+Ahmed M. Saeed, Operations 2 
+Leah C. Gutierrez, Pacific Department (PARD) 
+Emma Veve, PARD 
+PARD 
+Sector Director 
+Ananya Basu, Social Sectors and Public Sector Management Division 
+(PASP), PARD 
+Team leader 
+Team members 
+Shiu R. Singh, Financial Sector Specialist, PLCO, PARD 
+Tahmeen  Ahmad;  Financial  Management  Specialist;  Public  Financial 
+Management  Division;  Procurement,  Portfolio,  and  Financial 
+Management Department (PPFD) 
+Cindy  Bryson;  Safeguards  Specialist;  Portfolio,  Results,  and  Quality 
+Control Unit (PAOD-PRQ); PARD 
+Ninebeth  S.  Carandang,  Senior  Social  Development  Specialist,  PASP, 
+PARD 
+Jacqueline R. Connell, Senior Economics Officer, PLCO, PARD 
+Julian A. Doczi, Procurement Specialist, Procurement Division 2, PPFD 
+Oliver  Domagas,  Senior  Financial  Control  Specialist,  Loan  and  Grant 
+Disbursement Division, Controller's Department 
+David R. Fay, Senior Infrastructure Specialist, PLCO, PARD 
+Anna  M.  Fink,  Economist,  Regional  Cooperation  and  Integration 
+Thematic  Group,  Sustainable  Development  and  Climate  Change 
+Department (SDCC) 
+Elizabeth Hanghangkon, Senior Operations Assistant, PLCO, PARD 
+Belinda  Hewitt,  Disaster  Risk  Management  Specialist,  Climate  Change 
+and Disaster Risk Management Division, SDCC 
+Matthew Hodge, Senior Country Specialist, PLCO, PARD 
+Yukiko  Ito,  Senior  Social  Development  Specialist,  Social  Development 
+Thematic Group, SDCC 
+Vinoo Jose, Senior Operations Assistant, PLCO, PARD 
+Alexander Joseph Julian; Planning and Policy Specialist; Strategy, Policy 
+and  Business  Process  Division  (SPBP);  Strategy,  Policy  and 
+Partnerships Department (SPD) 
+Michiko  Katagami,  Principal  Natural  Resources  and  Agriculture 
+Specialist,  Rural  Development  and  Food  Security  Thematic  Group 
+(SDTC-AR), SDCC 
+Ki Fung Kelvin Lam, Young Professional, PASP, PARD 
+Hong  Soo  Lee,  Senior  Urban  Specialist  (Smart  Cities),  Urban  Sector 
+Group, SDCC 
+Sangjun  Lee,  Natural  Resources  and  Agriculture  Specialist,  SDTC-AR, 
+SDCC 
+Mairi  MacRae,  Social  Development  Specialist 
+(Gender  and 
+Development), PASP, PARD 
+Joel  V.  Mangahas,  Principal  Country  Specialist,  Myanmar  Resident 
+Mission, Southeast Asia Departmenta   
+Shinjini Mehta, Infrastructure Specialist, PLCO, PARD 
+Chris Morris, Head, NGO Center, SDCC 
+Kaukab  Naqvi,  Senior  Economist,  Economic  Analysis  and  Operational 
+Support  Division,  Economic  Research  and  Regional  Cooperation 
+Department 
+Lyailya T. Nazarbekova, Principal Counsel, Office of the General Counsel 
+Keiko  Nowacka,  Senior  Social  Development  Specialist  (Gender  and 
+Development), Gender Equity Thematic Group, SDCC 
+Lucille Ocenar, Senior Strategy and Policy Officer, SPBP, SPD 
+Hyun  Chol  Park,  Senior  Financial  Control  Specialist,  Loan  and  Grant 
+Disbursement Division, Controller's Department 
+Francesco  Ricciardi,  Environmental  Specialist,  Safeguards  Division, 
+SDCC 
+Annika  Seiler,  Senior  Advisor  to  the  Vice-President  (Finance  and  Risk 
+Management), Office of the Vice-President 
+Gary  Tsai,  Senior  Digital  Technology  Specialist,  Digital  Technology  for 
+Development Unit, SDCC 
+Samuel  Tumiwa,  Advisor  (Conflict-Affected  Situations),  Office  of  the 
+Cluster Head, Thematic Advisory Service Cluster, SDCC 
+Nancy Wells, Senior Country Coordination Officer, PLCO, PARD 
+Jean Williams, Principal Environmental Specialist, PAOD-PRQ, PARDb 
+Geoffrey  Wilson,  Senior  Water  Resources  Specialist,  Water  Sector 
+Group, SDCC 
+Hyun  Joo  Youn,  Senior  Results  Management  Specialist,  Results 
+Management and Aid Effectiveness Division, SPD 
+Hongwei  Zhang,  Senior  Finance  Specialist  (Energy),  Energy  Sector 
+Group, SDCC 
+Peer reviewer 
+Laisiasa  Tora,  Economist  (Public  Finance),  Public  Management, 
+Financial  Sector,  and  Trade  Division,  Central  and  West  Asia 
+Department 
+a Contributions were provided by the Strategy, Policy and Partnerships Department. 
+b Outposted to the Pacific Subregional Office, Suva, Fiji. 
+In preparing any country program or strategy, financing any project, or by making any designation 
+of  or  reference  to  a  particular  territory  or  geographic  area  in  this  document,  the  Asian 
+Development Bank does not intend to make any judgments as to the legal or other status of any 
+territory or area. 
+CONTENTS 
+PROGRAM AT A GLANCE 
+I. 
+II. 
+THE PROPOSAL 
+PROGRAM AND RATIONALE 
+A. 
+B. 
+C. 
+D. 
+E. 
+Background and Development Constraints 
+Government Responses to COVID-19 
+Proposed Program, Impact and ADB's Value Addition 
+Development Financing Needs, Budget Support and Debt Sustainability 
+Implementation Arrangements 
+III. 
+IV. 
+V. 
+DUE DILIGENCE 
+ASSURANCES 
+RECOMMENDATION 
+APPENDIXES 
+Design and Monitoring Framework  
+List of Linked Documents 
+Development Policy Letter 
+1. 
+2. 
+3. 
+4. 
+Assessment of Compliance with the Countercyclical Support Facility COVID-19 Pandemic 
+22 
+Response Option Access Criteria 
+Page 
+1 
+2 
+2 
+6 
+9 
+10 
+11 
+12 
+13 
+13 
+14 
+17 
+18 
+PROGRAM AT A GLANCE
+1. Basic Data
+Project Name 
+Country 
+Recipient
+Country Economic Indicators https://www.adb.org/Documents/LinkedD
+COVID-19 Fiscal Response Program
+Vanuatu
+Republic of Vanuatu
+Department/Division
+Executing Agency
+Project Number: 54179-001
+PARD/PLCO
+Ministry of Finance & 
+Economic Management
+Project Classification Information Status: Complete
+     ADB Financing ($ million)
+2.00
+1.93
+8.00
+Portfolio at a Glance
+2. Sector
+Public sector management
+Agriculture, natural 
+resources and rural 
+development
+Finance
+Health
+ocs/?id=54179-001-CEI
+https://www.adb.org/Documents/LinkedD
+ocs/?id=54179-001-PortAtaGlance
+Subsector(s)
+Public expenditure and fiscal management
+Social protection initiatives
+Agricultural production
+Small and medium enterprise finance and leasing
+Disease control  of communicable disease
+2.00
+3.00
+16.93
+0
+Low
+0.00
+0.00
+0.00
+0.00
+3. Operational Priorities
+Addressing remaining poverty and reducing inequalities
+Accelerating progress in gender equality
+Promoting rural development and food security
+Strengthening governance and institutional capacity
+Sustainable Development Goals
+SDG 1.5
+SDG 2.4
+SDG 3.3
+SDG 5.2
+SDG 8.1, 8.8
+SDG 9.3
+SDG 10.4
+SDG 17.4
+4. Risk Categorization:
+Low 
+Total
+Climate Change Information
+GHG reductions (tons per annum)
+Climate Change impact on the 
+Project
+ADB Financing
+Adaptation ($ million)
+Mitigation ($ million)
+Cofinancing
+Adaptation ($ million)
+Mitigation ($ million)
+Gender Equity and Mainstreaming
+Effective gender mainstreaming (EGM)
+Poverty Targeting
+General Intervention on Poverty
+.
+.
+5. Safeguard Categorization
+Environment: C   Involuntary Resettlement: C   Indigenous Peoples: C
+6. Financing
+Modality and Sources
+ADB
+     Sovereign COVID19 Pandemic Response Option:  Asian Development Fund
+Cofinancing
+     None
+Counterpart
+     None
+Total
+Currency of ADB Financing: US Dollar 
+Amount ($ million)
+16.93
+16.93
+0.00
+0.00
+0.00
+0.00
+16.93
+Source: Asian Development Bank
+This document must only be generated in eOps.
+19102020055427752015
+Generated Date: 03-Nov-2020 16:58:03 PM
+I. 
+THE PROPOSAL 
+1. 
+I submit for your approval the following report and recommendation on a proposed grant 
+to the Republic of Vanuatu for the COVID-19 Fiscal Response Program (the program) under the 
+Countercyclical Support Facility's COVID-19 pandemic response option (CPRO).1  
+2. 
+Vanuatu has avoided an outbreak of the coronavirus disease (COVID-19) through decisive 
+early  action  to  close  borders  and  adopt  prevention  and  containment  measures.  As  of 
+12 November  2020,  the  country  had  only  one  confirmed  case  of  COVID-19  contained  in 
+quarantine after being identified from a repatriation flight. Vanuatu's efforts to prevent the spread 
+of COVID-19 have come at significant economic and social costs. The program will help finance 
+the  implementation  of  the  government’s  countercyclical  response,  which  is  anchored  on  the 
+Health Preparedness and Response Plan (HPRP) and the Economic Stimulus Program (ESP), 
+to mitigate the socioeconomic consequences of COVID-19. The proposed program is aligned with 
+four operational priorities of the Asian Development Bank (ADB) Strategy 2030—(i) addressing 
+remaining  poverty  and  addressing  inequalities,  (ii)  accelerating  progress  in  gender  equality, 
+(iii) strengthening  governance  and  institutional  capacity,  and  (iv) promoting  rural  development 
+and  food  security.2 It  is  also  aligned  with  the  Pacific  Approach  priority  of  managing  risks  and 
+building  resilience  by  strengthening  the  health  and  agriculture  sectors.3 Vanuatu  meets  all  the 
+CPRO access criteria (Table 1).4  
+Table 1: Compliance with Access Criteria for the COVID-19 Pandemic Response Option 
+Access Criteria 
+1. Adverse 
+impact of 
+exogenous 
+shocks 
+ADB Staff Assessment 
+After growing by 2.8% annually during 2015–2019, Vanuatu’s GDP is likely to contract by 9.8% 
+in 2020 because of COVID-19-related declines in tourism, remittances, and exports, which are 
+exacerbated by damages from Cyclone Harold. A fiscal deficit of 6.0% of GDP is expected in 
+2020 driven by lower revenues and higher stimulus spending, after surpluses averaging 6.2% 
+annually in 2018–2019. The expected current account deficit of 5.8% of GDP in 2020 compares 
+with  an  average  annual  surplus  of  3.7%  in  2015–2019.  Up  to  70%  of  the  29,000  workers 
+employed in tourism in 2019 could lose their jobs by the end of 2020. It is estimated that the pre-
+COVID-19 share of the population living below $1.90/day was 13.9% in 2020. This could rise to 
+18.3%, with a 10% decline in consumption due to COVID-19.  
+The  government  is  implementing  a  $44  million  countercyclical  response  focusing  on  public 
+health  and  the  economy.  The  HPRP  aims  to  prevent  the  import  of  COVID-19  and  mitigate 
+infection risks while preparing to manage a potential outbreak through detection, isolation, and 
+clinical management. The ESP seeks to alleviate the impact of COVID-19 on individuals and 
+businesses. It includes employment support, grants and fee relief for MSMEs, and support for 
+agricultural production and education to assist poor and vulnerable groups, including women. 
+The  ESP  is  complemented  by  the  distribution  of  food  to  needy  households.  Assistance  to 
+agriculture will be extended, and MSMEs will have access to credit of up to $90,000 at 1.0% 
+interest to support the economic recovery. 
+The  government's  pre-pandemic  macroeconomic  management  record  was  generally  sound. 
+The  IMF  confirms  that  the  economy  was  growing,  prices  were  stable,  fiscal  balances  were 
+aligned  with  the  economy's  cyclical  position,  and  foreign  exchange  reserves  were  strong. 
+Vanuatu's economy grew by 2.9% in 2019 and was forecast to grow at a similar rate in 2020. 
+Inflation was 2.8% in 2019 and was expected to remain within the Reserve Bank of Vanuatu's 
+target of 0.0%–4.0% in 2020. The fiscal deficit fell from 7.3% of GDP in 2015 when Cyclone Pam 
+damages  required  reconstruction  expenditures.  The  government  reported  a  fiscal  surplus  of 
+4.9% of GDP in 2019. A fiscal deficit of 1.0% of GDP was expected in 2020 because of lower 
+revenues from its citizenship program. Foreign exchange reserves were equivalent to about 12 
+months of imports at the end of 2019 and were expected to remain at similar levels in 2020.  
+2. 
+Countercyclical 
+development 
+expenditures 
+3. Pre-shock 
+record of 
+generally sound 
+macroeconomic 
+management 
+1  Asian Development Bank (ADB). 2020. Policy Paper: ADB’s Comprehensive Response to the COVID-19 Pandemic. 
+Manila.  
+2  ADB.  2018.  Strategy  2030:  Achieving  a  Prosperous,  Inclusive,  Resilient,  and  Sustainable  Asia  and  the  Pacific. 
+Manila. 
+3   ADB. 2016. Pacific Approach 2016–2020. Manila. 
+4  A detailed assessment is in Appendix 4. 
+2 
+4. Structural 
+reforms 
+5. Debt 
+sustainability 
+6. Coordination 
+with the IMF 
+Public health measures were implemented early to prevent COVID-19 from entering Vanuatu 
+and to prepare the health system. Borders were closed on 23 March 2020, and a national state 
+of  emergency  has  been  in  place  since  26  March  2020.  Repatriation  flights  commenced  after 
+establishing  limited  testing  capacity  on  25  May  2020,  and,  with  a  single  case  of  COVID-19 
+identified  from  the  repatriation  flights,  the  system  has  proven  to  work  well.  Hospitals  were 
+upgraded, medical personnel were trained on infection prevention control and contact tracing, 
+and  personal  protective  equipment  was  distributed  to  Vila  Central  Hospital  and  Northern 
+Provincial Hospital. The government intends to maintain and expand public health programs and 
+requested  ADB  support  to  prepare  for  introducing  a  COVID-19  vaccine  when  it  becomes 
+available.  Measures  to  mitigate  the  pandemic's  economic  impact  were  implemented  early  to 
+support employment, including 4-month salary-equivalent payments to affected businesses, fee 
+relief for businesses, and grants for MSMEs, followed by education assistance. Support for food 
+security  is  ongoing.  Support  for  credits  to  MSMEs  through  a  government-owned  bank  and 
+support for the agriculture sector will be extended beyond 2020. 
+The Joint World Bank–IMF June 2019 DSA found that Vanuatu was at moderate risk of debt 
+distress. ADB's DSA, updated in October 2020, finds that Vanuatu's short-term growth prospects 
+deteriorated  with  COVID-19,  and  countercyclical  policy  will  sharply  worsen  fiscal  balances. 
+While  fiscal  deficits  put  Vanuatu's  public  debt  on  a  rising  path,  they  will  be  offset  by  higher 
+economic  growth  in  the  longer  term.  The  government  intends  to  finance  fiscal  deficits  using 
+development partner grants and domestic resources (including drawing down cash reserves). 
+The  ADB  grant  will  enable  it  to  prioritize  spending  on  countercyclical  measures.  The  DSA 
+concludes that with ADB grants, the public debt–GDP ratio will remain lower than the threshold 
+of 60%, as per Vanuatu's Debt Management Strategy (2019–2022) and will be sustainable.  
+The IMF supports ADB's response and provided an assessment letter. The letter presents the 
+IMF's  views  on  debt  sustainability,  is  consistent  with  ADB's  DSA  findings,  and  reports  that 
+Vanuatu's  risk  of  breaching  the  debt  threshold  will  be  elevated  if  another  disaster  occurs. 
+ADB coordinates macroeconomic monitoring with the IMF, and Vanuatu is on a standard 12-
+month  Article  IV  consultation  cycle.  The  country  continues  to  benefit  from  IMF  technical 
+assistance  in  areas  including  foreign  exchange  reserve  management,  finance  sector 
+supervision, and national statistics. ADB and the IMF also participate in annual public financial 
+management partner meetings and share updates. 
+ADB = Asia Development Bank; COVID-19 = coronavirus disease; DSA = debt sustainability analysis; ESP = Economic 
+Stimulus  Program;  GDP  =  gross  domestic  product;  HPRP  =  Health  Preparedness  and  Response  Plan;  IMF = 
+International Monetary Fund; MSMEs = micro, small, and medium-sized enterprises. 
+Source: Asian Development Bank. 
+II. 
+PROGRAM AND RATIONALE  
+A. 
+Background and Development Constraints 
+3. 
+Development context. Vanuatu is a small island developing state, vulnerable to natural 
+hazards and global economic shocks. According to the World Risk Index Report, Vanuatu is the 
+most  at  risk  of  disasters  from  natural  hazards  among  180  economies  worldwide. 5  It  had  a 
+population  of  about  305,000  in  2019  and  is  ranked  141st  of  189  economies  for  human 
+development.6 About  75%  of  the  population  lives  in  rural  areas.  The  main  contributors  to  the 
+economy are tourism and agriculture (crops and livestock). Major exports are beef, cocoa, copra, 
+kava,  and  timber.  Vanuatu  depends  on  imported  food,  fuels,  and  machinery  and  equipment. 
+The  most  recent  national  data, from  2013,  shows  that  38.8%  of  people are multidimensionally 
+poor (reflecting deprivations in health, education, and living standards), and another 32.3% are 
+vulnerable  to  multidimensional  poverty. 7 Modeled  estimates  of  pre-COVID  poverty  levels  put 
+13.9% of the population living below $1.90/day.8 
+5  Ruhr University. 2019. World Risk Report 2019. Bochum. 
+6  United Nations. http://hdr.undp.org/sites/all/themes/hdr_theme/country-notes/VUT.pdf (accessed on 24 June 2020).  
+7  Government of Vanuatu, Vanuatu National Statistic Office, and UNDP Pacific Centre. 2013. Vanuatu Hardship and 
+Poverty  Report  –  Analysis  of  the  2010  Household  Income  and  Expenditure  Report.  Port  Vila  and  Suva;  United 
+Nations. http://hdr.undp.org/sites/all/themes/hdr_theme/country-notes/VUT.pdf (accessed on 24 June 2020).  
+8  J. Bulan et al. 2020. "COVID-19 and Poverty: Some Scenarios." Unpublished note prepared for ADB’s Economic 
+Research and Regional Cooperation Department. 
+3 
+Cyclone  damage.  Soon  after  the  global  outbreak  of  COVID-19,  Vanuatu  was  hit  by 
+4. 
+Cyclone Harold on 6–7 April 2020.  Cyclone Harold was the most severe storm to strike Vanuatu 
+since Cyclone Pam in 2015. 9 It caused 3 deaths, affected 176,000 people, and damaged homes 
+and  infrastructure.  Agricultural  produce  was  destroyed,  reducing  potential  exports  and 
+jeopardizing food security. Damage and loss from Cyclone Harold are estimated at 51% of GDP 
+in  2020.  Cyclone  Harold  compounded  the  socioeconomic  stress  caused  by  COVID-19  as  the 
+government struggled to manage twin shocks. 
+Health system challenges. Vanuatu's health system faced significant challenges even 
+5. 
+before  COVID-19,  including  shortages  of  health care  workers to  deliver services.10 As  of  June 
+2020, more than 50 of 402 health facilities had closed because of inadequate staffing or absence 
+of  routine  maintenance.11 Despite  these  hurdles,  women's  health  in  Vanuatu  has  improved—
+skilled birth attendance rates are high, at about 90%, and maternal mortality ratios are declining 
+(down  from  225  deaths  per  100,000  live  births  in  1990  to  72  in  2017).  However,  this  remains 
+higher than the Sustainable Development Goal target of 70 deaths per 100,000 live births.12 The 
+major causes of deaths in Vanuatu are cardiovascular diseases and diabetes, and those affected 
+by these diseases are susceptible to severe COVID-19 symptoms.13 Vanuatu has established a 
+24-bed isolation capacity and five ventilators in its hospitals to prepare for COVID-19. The country 
+has a minimum 1-month supply of protective equipment, and more than 2,000 personnel were 
+trained in contact tracing and management of COVID-19. Vanuatu has established local testing 
+capacity but needs additional health sector support in the case of a COVID-19 outbreak.  
+6. 
+Prevention  and  containment  measures.  The  government  took  proactive  actions  to 
+prevent cases, starting from January 2020. It announced the $6 million HPRP on 24 January 2020 
+to  strengthen  prevention  and  containment  (para.  17)  and  protect  public  health.  This  included 
+issuance  of  health  advisories,  health  screenings  at  airports  and  seaports,  and  progressive 
+restrictions on international travel as the pandemic evolved—culminating in the closure of borders 
+on 23 March 2020. A state of emergency was declared on 26 March 2020 and remains in effect 
+until  31 December  2020.  Other  measures  implemented  include  social  distancing,  temporary 
+closure  of  schools,  restrictions  on  interisland  travel,  limited  passengers  on  public  transport, 
+cancellation  of  mass  gatherings  and  sporting  events,  early  closure  of  businesses,  and  an 
+overnight  curfew.  Limited  testing  capacity  was  established  with  support  from  the  World  Health 
+Organization  (WHO)  and  the  Pacific  Community. 14  The  government  allowed  the  phased 
+repatriation  of  residents  stranded  abroad.15 Quarantine  processes  are  in  effect  for  all  inbound 
+travelers to limit potential contact with the public. As of 12 November 2020, Vanuatu has only one 
+confirmed case of COVID-19 in border quarantine. The government has since ceased repatriation 
+flights and imposed domestic travel restrictions to minimize the risk of community transmission. 
+9  Government of  Vanuatu,  National  Disaster Management  Office. 2020.  Rapid  Technical  Assessment  Report.  Port 
+Vila. Cyclone Harold was the first category 5 severe tropical cyclone on the Australian scale to strike Vanuatu since 
+Cyclone Pam in 2015, bringing wind gusts above 275 kilometers per hour and 250–450 millimeters of rain. 
+10 World  Health  Organization  (WHO).  2014.  Human  Resources  for  Health  Country  Profiles:  Republic  of  Vanuatu. 
+Geneva. 
+11 Government of Vanuatu, Ministry of Finance and Economic Management, 2020. Government Assets Review. Port 
+Vila. 
+12 The  Royal  Australian  and  New  Zealand  College  of  Obstetricians  and  Gynecologists.  2017.  Improving  Women’s 
+Health in the Pacific. Melbourne and Wellington. 
+13 Government of Vanuatu, Ministry of Health. 2016. NCD Policy and Strategic Plan 2016-2020. Port Vila; and WHO. 
+2020. COVID-19: vulnerable and high-risk groups. Geneva. 
+14 The Pacific Community, formerly the South Pacific Commission, is an international development organization owned 
+and governed by 26 country and territory members, including Vanuatu. 
+15 Anyone entering Vanuatu had to complete an on-line Pre-Travel Health Registration Form within 72 hours of arrival. 
+Effective from 12 November 2020, all travelers are required to provide a negative COVID-19 test result within 72-
+hours of their departure. The quarantine period is also increased from 14 to 28 days.   
+4 
+Coordination of responses. The National COVID-19 Taskforce was formed in January 
+7. 
+2020 and merged into the National Disaster Management Office on 26 March 2020. The National 
+Health Emergency Operations Centre under the Ministry of Health (MOH) has been coordinating 
+COVID-19 preparedness activities. The capacity of the operations center was supplemented with 
+support from development partners such as Australia, France, Israel, the Pacific Community, Red 
+Cross, United Nations Children's Fund (UNICEF), United Nations Population Fund, and WHO. 
+Provincial health emergency operations centers were also set up.  
+Pre–COVID-19 record of generally sound macroeconomic management. Vanuatu's 
+8. 
+economy  experienced  growth  from  2004  to  2019,  driven  by  expanding  tourism,  public 
+investments, economic reforms, and a stable macroeconomy. Following Cyclone Pam in 2015, 
+economic growth averaged 2.8% during 2015–2019, driven by construction and tourism. Inflation 
+averaged  2.3%  over  the  same  period.  While  relief  and  rehabilitation  expenditure  resulted  in  a 
+fiscal deficit of 7.3% in 2015, this was reduced subsequently, and fiscal surpluses averaging 6.2% 
+of GDP were recorded in 2018 and 2019 (Table 2). Fiscal deficits largely related to Cyclone Pam 
+reconstruction have led to a rise in public debt from 34.4% of GDP in 2015 to 44.4% of GDP in 
+2019. Vanuatu's Debt Management Strategy (2019–2022) targets nominal public debt below 60% 
+and external debt below 40% of GDP. The strategy targets concessional debt for investment only. 
+Current  account  surpluses  were  recorded  in  2018  and  2019,  averaging  11.3%  of  GDP,  and 
+foreign exchange reserves equaled about 12 months of imports at the end of 2019. The IMF also 
+finds that the economy was growing, prices were stable, the external position was stronger than 
+expected, and public finances were sound.16 Vanuatu was expecting a fiscal deficit in 2020, on 
+the  back  of  declining  revenues  from  the  citizenship  by  investment  program,  and  this  had  also 
+negatively impacted the expected current account deficit. Nonetheless, the performance was in 
+line with the economy's cyclical position.  
+Table 2: Selected Macroeconomic Indicators, 2017–2021 
+(% of gross domestic product, unless otherwise specified) 
+2018 
+2019e 
+2017 
+  4.4 
+  3.1 
+  (6.1) 
+ 35.6 
+ 17.1 
+   7.0 
+ 11.4 
+ 36.8 
+  (1.2) 
+ 45.0 
+ 35.6 
+ 394 
+ 880 
+Real GDP growth (%) 
+Inflation (CPI % change) 
+Current account balance  
+Total revenues and grants  
+  Taxes  
+  Nontax revenues  
+  Grants  
+Total expenditures  
+Overall fiscal balance  
+Gross public debt  
+  External debt 
+Gross international reserves ($ million) 
+Nominal GDP ($ million) 
+  2.9 
+  2.3 
+10.2 
+38.8 
+17.8 
+12.4 
+  8.5 
+31.3 
+  7.5 
+45.5 
+38.2 
+434 
+915 
+COVID-19 = coronavirus disease, CPI = consumer price index, e = estimates, GDP = gross domestic production, p = 
+projections. 
+a Based on Asian Development Outlook Update, September 2019. 
+b Revenues from citizenship by investment program increased significantly during first half of 2020. 
+Sources:  Asian  Development  Bank  estimates  and  projections,  Reserve  Bank  of  Vanuatu,  Vanuatu  Department  of 
+Finance and Treasury, and International Monetary Fund. 
+  2.9 
+  2.8 
+12.4 
+42.0 
+17.6 
+14.0 
+10.4 
+37.1 
+  4.9 
+44.4 
+39.1 
+512 
+934 
+2020p 
+Pre– 
+COVID-19 a 
+ 2.8 
+ 2.2 
+  (5.0) 
+29.2 
+18.1 
+  7.5 
+  3.5 
+30.2 
+  (1.0) 
+43.2 
+38.5  
+562 
+975 
+2020p 
+With 
+COVID-19 
+(9.8) 
+  3.0 
+  (5.8) 
+44.3 
+15.4 
+ 16.8b 
+12.1 
+50.3 
+  (6.0) 
+55.2 
+39.9 
+583 
+852 
+2021p 
+With 
+COVID-19 
+  1.0 
+  2.2 
+  (9.6) 
+37.4 
+16.1 
+12.4 
+  8.9 
+40.4 
+  (3.0) 
+56.4 
+39.5 
+681 
+886 
+Transmission  mechanisms.  COVID-19  had  its  most  substantial  impact  on  Vanuatu's 
+9. 
+tourism industry, which in 2019 contributed almost 35% of GDP, 67.3% of exports, and 29,000 
+16 International Monetary Fund (IMF) Assessment Letter (accessible from the list of linked documents in Appendix 2).  
+5 
+jobs.17 Border closures have halted tourism, a source of income in urban and rural areas, and a 
+key generator of foreign exchange and government revenue. Service exports are expected to fall 
+by  68%  compared  with  2019.  Tourism  is  expected  to  recover  gradually,  given  the  economic 
+slowdown in the two largest visitor source markets: Australia (52% of visitors) and New Zealand 
+(13%). Remittances, estimated by the Reserve Bank of Vanuatu (RBV) at 13% of GDP in 2019, 
+are expected to fall since workers cannot freely travel to Australia and New Zealand, which have 
+dedicated  labor  mobility  schemes  for  the  Pacific.  More  than  10,000  workers  from  Vanuatu 
+participate in seasonal work in Australia and New Zealand annually.18 
+Economic  impacts.  Vanuatu's  economy  is  expected  to  contract  by  9.8%  in  2020 
+10. 
+(compared with 2.9% growth in 2019) because of COVID-19 and the impacts of Cyclone Harold. 
+Other  key  macroeconomic  variables  are  expected  to  worsen  in  2020  (Table  2).  Vanuatu's 
+merchandise  exports  are  expected  to  fall  by  43%  from  2019  because  of  lower  demand. 
+The current account deficit is forecast at 5.8% of GDP in 2020 (compared with a surplus of 12.4% 
+of GDP in 2019) because tourism stopped. Economic growth of 1.0% is expected in 2021, driven 
+largely by a recovery in tourism, agriculture, and post-cyclone construction activities. The duration 
+of the COVID-19 crisis poses significant risks to the outlook.  
+11. 
+Fiscal pressures. Declining tourism, combined with lower demand under the COVID-19 
+containment  measures,  will  result  in  lower  domestic  revenue  in  2020. 19  The  government's 
+countercyclical  response  will  further  strain  the  deteriorating  fiscal  position.  The  fiscal  deficit, 
+projected to reach 6.0% of GDP in 2020 (footnote 19), will be financed by domestic loans and 
+drawdown  of  cash  reserves  accumulated  from  fiscal  surpluses  in  2018  and  2019.  Economic 
+recovery will require substantial resources beyond 2020. A fiscal deficit of 3.0% is projected in 
+2021. The government intends to adhere to its debt strategies and maintain public debt below 
+60% of GDP (and external debt below 40% of GDP), while the Debt Management Strategy (2019–
+2022)  prevents  the  government  from  borrowing  for  operating  payments  (para.  8).  Financing 
+options are, therefore limited. 
+12. 
+Increased risks in the finance sector. An extended period of tourism shutdown is likely 
+to  cause  financial  difficulties  for  micro,  small,  and  medium-sized  enterprises  (MSMEs)  that 
+operate  in  tourism  and  related  industries.  About  20%  of  MSMEs  are  owned  and/or  led  by 
+women. 20  Failing  MSMEs  and  employment  losses  will  impact  the  commercial  banks'  loan 
+performance and dampen prospects for Vanuatu's economic recovery.21 About 10% of bank loans 
+are to the tourism sector, and 55% are for personal loans such as housing mortgages and car 
+leases, whose servicing may become challenging. The nonperforming loan ratio was 15.5% in 
+March 2020, increasing by 1.1 percentage points from September 2019.22 
+13. 
+Significant  poverty  and  social  impact.  It  is  estimated  that  Vanuatu's  share  of  the 
+population living below $1.90/day could rise from 13.9% (para. 3) to 18.3%, with a 10% decline 
+in  consumption  because  of  COVID-19  (footnote  6).  Poverty  is  higher  in  the  two  major  urban 
+centers  of  Port  Vila  and  Luganville  than  in  rural  areas.  While  those  living  in  rural  areas  are 
+vulnerable  to  multidimensional  poverty,  those  living  in  urban  areas  have  had  their  livelihoods 
+impacted by the collapse in tourism. Tourism, which employed 29,000 formal workers (of whom 
+17 World Travel and Tourism Council. 2020. Vanuatu: 2020 Annual Research. London. 
+18 Government of Vanuatu. https://dol.gov.vu/index.php/about-us/employment-services-unit (accessed 23 July 2020). 
+19 ADB. 2020. Asian Development Outlook Update. Manila. 
+20 Reserve Bank of Vanuatu. 2016. Vanuatu Micro, Small & Medium Enterprises (MSMEs) – Finance 2016 Survey: 
+Exploring the MSMEs' Survey Challenges / Understanding the MSMEs' Characteristics for Ways Forward. Port Vila. 
+21 Vanuatu has five commercial banks: three majority foreign-owned international banks, a foreign-owned bank that 
+operates in Vanuatu only, and a majority government-owned bank.   
+22 IMF. 2020. Vanuatu—Assessment Letter for the Asian Development Bank. Washington, DC. 
+6 
+about 43% are women) in 2019, is the hardest hit, with estimates of up to 70% job losses by year-
+end 2020.23 Job losses will exacerbate urban poverty since most of these workers live in urban 
+centers  and  contribute  to  the  welfare  of  the  vulnerable  and  informal  sector  workers  through 
+traditional support systems. While most tourism activities are in urban areas, the lack of demand 
+for agricultural produce from hotels and restaurants affects rural incomes as well. Even before 
+COVID-19, market vendors (of whom about 91% are women) were more vulnerable to poverty 
+than  other  groups.  24 Interventions  to  prevent  the  entry  and  spread  of  COVID-19  have  already 
+resulted  in  many  women  losing  their  livelihoods  in  the  formal  and  informal  sectors  (including 
+market  vendors  and  lower-skilled  employees  in  hotels  and  restaurants).  Strict  measures  also 
+resulted  in  declining  air  and  sea  freight  volumes,  which  restricts  the  availability  of  food. 
+These impacts could reduce assets, increase personal debt burdens, and lower food intake or 
+the quality of intake—with long-term detrimental effects on social welfare.  
+Impact  of  both  disasters  on  health.  The  co-occurrence  of  Cyclone  Harold  and  the 
+14. 
+COVID-19  pandemic made  it  even  more  difficult for  Vanuatu's  health  system to  overcome  the 
+impacts on health and well-being. These include interrupted access to health services, damaged 
+medical equipment such as the immunization cold chain, limited availability of essential medicines 
+and equipment because of disrupted supply chains, damaged crops undermining food supply and 
+nutrition,  and  contaminated  water  sources  catalyzing  the  spread  of  diseases.  Preliminary  data 
+show  an  increase  in  diarrheal  diseases,  respiratory  infections,  leptospirosis,  typhoid,  dengue, 
+malnourishment,  skin  infections,  and  an  elevated  risk  of  mental  illness  from  evacuation  and 
+unemployment.25 The gains made in improving women's health are likely to be compromised by 
+an outbreak of COVID-19, particularly if funding for essential services is not maintained. The WHO 
+Country Preparedness and Response Status for Vanuatu remains at Level 2 as of June 2020 in 
+the response category "high risk of imported cases," indicating the need for significant support.26 
+life-saving  emergency  obstetric  care, 
+15. 
+Gender impacts. In addition to job losses by women (para. 13), COVID-19 will exacerbate 
+gender  inequalities.  The  prioritization  of  COVID-19  responses  threatens  women's  continued 
+access to maternal and reproductive health services, a particular issue in Vanuatu where maternal 
+mortality  ratios  are  still relatively  high (para.  5).27 Poor  access  to  basic  health  services,  limited 
+availability  of 
+infrastructure,  difficult 
+transportation, and delayed referrals of life-threatening conditions are major contributing factors. 
+The  lifetime  prevalence  of  intimate  partner  violence  is  high  in  Vanuatu,  with  60%  of  women 
+reporting  some  form  of  this.  The  COVID-19 threat  and  associated  movement restrictions  have 
+increased gender-based violence (GBV) while simultaneously making it more difficult for women 
+and girls to access services. Data from GBV service providers suggest that already high levels of 
+GBV are rising further, and reports of sexual exploitation as a result of economic hardship and 
+economic abuse by partners are increasing.  
+inadequate 
+B. 
+Government Responses to COVID-19 
+16. 
+The  government's  countercyclical  response  to  COVID-19  amounts  to  5.2%  of  GDP, 
+focusing  on  health  since  January  2020  and  providing  economic  stimulus  since  April  2020. 
+The HPRP aims to keep COVID-19 out of Vanuatu and contain it if it does enter. The ESP seeks 
+23 World Travel and Tourism Council. 2020. Vanuatu: 2020 Annual Research. London; and Department of Tourism and 
+Vanuatu Tourism Office. 2020. National Tourism Business Impacts Survey—TC Harold and COVID-19 Pandemic. 
+Port Vila.  
+24 Government of Vanuatu, Vanuatu National Statistic Office and UNDP Pacific Centre. 2013. Vanuatu Hardship and 
+Poverty Report – Analysis of the 2010 Household Income and Expenditure Report. Port Vila and Suva. 
+25 National Health Emergency Operation Centre, 2020. Unpublished situation report. Port Vila. 
+25  WHO. 2020. COVID-19 Strategic Preparedness and Response Plan: Country Preparedness and Response Status 
+for COVID-19. Geneva.  
+27  WHO. https://www.who.int/gho/maternal_health/countries/vut.pdf?ua=1 (accessed on 01 October 2020).   
+7 
+to alleviate the socioeconomic impact of the pandemic on individuals and businesses. The initial 
+response to COVID-19 (paras. 6–7) was put in place before a new coalition government assumed 
+office on 20 April 2020. The new administration focused on immediate cyclone relief as well as 
+mitigation  of  COVID-19  impacts.  It  announced  additional  components  of  the  countercyclical 
+response  to support  economic recovery—$26.7 million  support to MSMEs  with  credit  provided 
+through  a  government-owned  bank  beyond  2020  and  expanded  support  to  agriculture  with  a 
+$10.6 million program in 2021 targeting agricultural production and employment while ensuring 
+the availability of fresh and nutritious food. The government's countercyclical response to COVID-
+19 will continue until December 2021, and several key measures are already being implemented 
+(paras. 17–21).  
+1. 
+Health Protection  
+The HPRP, implemented by MOH, outlines (i) containment measures to prevent the import 
+17. 
+of cases and interrupt local transmission through quarantine of clusters of sporadic cases; and 
+(ii) mitigation measures to  prevent  community  outbreaks through  isolation,  infection  prevention 
+control,  enhanced  contact  tracing  and  surveillance,  and  risk  communication  in  communities. 
+The  HPRP  adheres  to  the  WHO's  recommended  operational  guidelines  for  COVID-19 
+responses.28 Of the $6 million health budget, 20% is allocated for infrastructure; 40% for clinical 
+management  of  suspected  cases;  23%  for coordination,  communications,  and  prevention;  and 
+17% for early detection and isolation. Personal protective equipment was provided to all health 
+care  workers  who  would  tend  to  COVID-19  patients  in  Vila  Central  Hospital  and  Northern 
+Provincial  Hospital.  More  than  2,000  public  and  health  care  workers  were  trained  in  contact 
+tracing  to  improve  surveillance  and  clinical  management  of  COVID-19.  MOH  is  also  intent  on 
+improving  community  awareness  through  ongoing  public  information  campaigns,  including  a 
+dedicated online information page on key measures to prevent and contain the virus's spread.29 
+Hospitals  were  refurbished,  24  isolation  beds  were  prepared,  and  local  testing  capacity  was 
+established.  MOH  plans  to  keep  expanding  laboratory  facilities,  isolation  wards,  and  refresher 
+training  in  the  medium-  and  long-term.  Measures  to  prevent  and  respond  to  GBV  were  also 
+introduced (para. 34). The government intends to maintain and expand public health programs 
+and requested ADB support to prepare for the introduction of COVID-19 vaccines, once available. 
+2. 
+Economic Support 
+18. 
+The  government's  $38 million  initial  economic  support  will  alleviate  the  impact  of fewer 
+employment  opportunities  and  business  activities  and  provide  social  protection. 30  The  ESP 
+comprises the following measures.  
+(i)  Employment stabilization payment—$22.2 million. The government prioritized job 
+protection in recognition of the important role of informal social protection networks, 
+whereby  those  with  paid  employment  support  extended  families  and  communities. 
+The traditional social protection system has been an integral part of Vanuatu's post-
+disaster relief and recovery efforts. The employment stabilization payment supports 
+in  businesses  affected  by  COVID-19.  The  government  reimburses  affected 
+businesses  with  up to  $260  per  employee  on their  payroll  per month  for  4 months 
+(April–August). As a further incentive to retain employees, employers receive a further 
+12% of the amount they are reimbursed for employee wages for contributions to the 
+Vanuatu National Provident Fund (VNPF) and administrative costs. The support was 
+available to all industries affected by COVID-19. The scheme is available to all 7,391 
+28 WHO. 2020. Operational Planning Guidelines to Support Country Preparedness and Response. Geneva. 
+29 Government of Vanuatu, Ministry of Health. https://covid19.gov.vu/index.php (accessed on 21 September 2020). 
+30 Summary of Key Social Protection Mechanisms in Stimulus Packages (accessible from the list of linked documents 
+in Appendix 2). 
+8 
+registered  employers  in  the  VNPF  and  supports  an  estimated  6,000  of  77,231 
+employees  (29,530  women  and  47,701  men)  registered  with  the  VNPF. 31  The 
+scheme also includes part-time and casual workers who are registered with the VNPF. 
+About 40% of beneficiaries will be women.32 Payments for claims will be processed 
+retroactively and be made until the end of 2020.  
+(ii)  Grants  to  micro,  small,  and  medium-sized  enterprises—$3.5  million.  With  an 
+annual turnover of less than $1.7 million, MSMEs can access a maximum grant of 
+$520 to support their operating cash flow requirements. About 450 of 1,500 potential 
+recipients  are  MSMEs  owned  or  co-owned  by  women.  Recipients  also  include 
+licensed holders of small market stalls. The government waived business license fees 
+for 2020 or, if these were paid before 31 March 2020, will waive the fees for 2021. 
+(iii)  Agriculture  support—$3.5  million.  The  government  will  also  support  increased 
+production and marketing of copra, kava, cocoa, and other commodities through price 
+subsidies and transportation assistance from farms to urban centers. Price subsidies 
+will  supplement  the  incomes  of  smallholder  farmers  and  allow  larger  farmers  to 
+employ more  workers.  About  31,650  households  engaged  in  cash  crop production 
+could benefit from this support.33  
+(iv)  Tuition fee grant—$4.5 million. Support for households has primarily been through 
+the exemption of the 2020 tuition fees for early childhood care and education, and 
+primary  and  secondary  education,  along  with  exemptions  of  several  other  school 
+fees—92,644  primary  and  secondary  students  (48%  girls)  will  be  able  to  continue 
+schooling despite hardships faced by their families. Support for early childhood care 
+allows working mothers to balance work and caregiving responsibilities.  
+(v)  Tax  and  fee  exemptions—$4.3  million.  Additional  measures  include  (a) rent  tax 
+exemptions for property owners, (b) road tax exemptions for MSMEs and individuals, 
+(c)  residence  and  work permit  exemptions to  encourage  nonresidents to  remain  in 
+Vanuatu, and (d) exemptions from other fees and charges applying to MSMEs and 
+individuals. 
+19. 
+Support from the finance sector. In addition to the HPRP and ESP support, the RBV 
+set up a disaster recovery and import-export facility of up to $10 million to assist exporters and 
+importers.  The  RBV  also  reduced  official  interest  rates  from  2.90%  to  2.25%  and  the  capital 
+adequacy  ratio  from  12%  to  10%  to  align  with  expansionary  fiscal  policies.  It  requires  foreign 
+commercial  banks  to  seek  prior  approval  for  repatriation  of  capital  as  an  exchange  control 
+measure. Formal social protection is available to 53% of Vanuatu's workforce through the VNPF, 
+including those who are informally employed but have registered with the VNPF through voluntary 
+contributions (footnote 34). VNPF members who lost their jobs because of the COVID-19 crisis 
+can  access  interest-free  hardship  relief  loans  up  to  $850.  Commercial  banks  in  Vanuatu  also 
+offered repayment relief to their customers.  
+Other  government-supported,  pro-poor  programs.  Vanuatu  has  no  formal  social 
+20. 
+protection schemes for those who do not contribute to the VNPF. Still, the government supports 
+international and local nongovernment organizations (NGOs) that assist the poor and vulnerable. 
+The  Department  of  Agriculture  promotes  the  production  of  root  crops,  vegetables,  and  fish  by 
+providing seedlings and fingerlings for backyard gardening and fish farms to ensure affordable 
+food supply.34 The  National  Disaster Management Office, MOH, and several  NGOs  distributed 
+31 Of  the  workers  accessing  support,  683  are  staff  of  government-owned  enterprises.  Of  these,  438  Air  Vanuatu 
+(Operations) Limited staff and 245 Airports Vanuatu Limited staff have accessed support. 
+32 This is based on the percentage membership of women in the VNPF. 
+33 Government of Vanuatu, Vanuatu National Statistics Office. 2017. 2016 Post TC Pam Mini Census Report. Port Vila. 
+34 Food  and  Agriculture  Organization  of  the  United  States.  2020.  Impacts  of  COVID-19  on  the  food systems  in  the 
+Pacific Small Island Developing States and Responses. Rome. 
+9 
+food, health, and nutrition supplements to about 55,000 vulnerable families affected by COVID-
+19 restrictions and Cyclone Harold, which benefited many elderly people, children, people with 
+disabilities,  and  pregnant  women.  This  included  distributing  nutritional  supplements  to 
+malnourished children under 5 years in partnership with local NGOs and UNICEF. A $6 million 
+cash-transfer program, funded by development partners and piloted in partnership with Oxfam, 
+will support vulnerable households outside the employment stabilization program. The Ministry of 
+Trade, Tourism, and Industry is training farmers on food processing to add value to their produce 
+and improve livestock management and fish farming skills. 
+Recovery targeted. The initial $3.5 million support for agriculture under the ESP will be 
+21. 
+supplemented by $10.6 million financing in 2021 for ongoing agricultural assistance programs. 
+This  includes  targeting  partnerships  with  the  private  sector  to  deliver  extension  services,  food 
+crop  planting  materials,  and  additional  markets;  and  will  also  assist  mechanization.  To  further 
+boost economic recovery, the government will provide $26.7 million in financing to support lending 
+to MSMEs beyond 2020. MSMEs will be able to borrow up to $90,000 at an interest rate of 1.0%.   
+C. 
+Proposed Program, Impact and ADB's Value Addition 
+22. 
+Proposed program. ADB's fiscal response program will help the government implement 
+its  countercyclical  measures  to  mitigate  the  adverse  socioeconomic  impacts  of  COVID-19. 
+The program will provide the government with the fiscal space to meet critical public health needs 
+while managing the effects of the economic downturn on vulnerable groups and businesses. It is 
+aligned with the following overarching development objective: adverse impact of the COVID-19 
+pandemic on the economy, health systems, and social services minimized. The program outcome 
+will be: adverse effects of the COVID-19 pandemic on individuals and businesses mitigated. The 
+three program outputs are: (i) health sector responses to COVID-19 implemented; (ii) measures 
+for  supporting  employment  and  businesses  implemented;  and  (iii) food  security  and  education 
+support programs implemented. The design and monitoring framework is in Appendix 1. 
+23. 
+ADB's value addition. The program builds on a strong base of country knowledge and 
+relationships that supported investments in infrastructure, public sector management, and private 
+sector  development. 35  To  enhance  COVID-19  preparedness,  ADB  provided  test  cartridges, 
+swabs,  and  other  medical  supplies  totaling  $0.9  million. 36  ADB  also  provided  support  for 
+quarantine facilities, human resources, and the expansion of isolation facilities.37 A regional health 
+project is strengthening immunization programs and access to quality-assured safe vaccines at 
+affordable  prices. 38 Additional  financing  of  $3.8  million  is  proposed  under  the  regional  health 
+project  to  upgrade  cold  chains,  strengthen  surveillance,  and  procurement  of  the  COVID-19 
+vaccine,  once  available.  ADB  will  also  support  one  long-term  economic  advisor  in  the  Prime 
+Minister's  office  to  provide  policy  advice  on  economic  recovery,  and  another  in  the  Ministry  of 
+Finance and Economic Management (MFEM) to strengthen the oversight and monitoring of state-
+owned  enterprises.39 Technical  assistance  is  available  to  support  the  government  in  collecting 
+gender-based data and monitoring social implications, including the impact on women.40 
+35 ADB.  Vanuatu:  Cyclone  Pam  Disaster  Response  Project;  ADB.  Vanuatu:  Cyclone  Pam  School  Reconstruction 
+Project; ADB. Vanuatu: Energy Access Project; ADB. Regional: Pacific Private Sector Development Initiative, Phase 
+IV; and ADB. Regional: Pacific Economic Management, Phase 3.  
+36 ADB. Regional Technical Assistance: Regional Support to Address the Outbreak of Coronavirus Disease 2019 and 
+Potential Outbreaks of Other Communicable Diseases. 
+37 ADB. Regional: COVID-19 Emergency Response Project ($1.5 million was funded by the Japan Fund for Poverty 
+Reduction’s replenishment of the Asia Pacific Disaster Response Fund). 
+38 ADB. Regional: Systems Strengthening for Effective Coverage of New Vaccines in the Pacific.  
+39 ADB. Regional: Improving the Pacific Public Financial Management Facility. 
+40 ADB. Regional: Strengthening Gender Outcomes in Pacific COVID-19 Response and Recovery.   
+10 
+24. 
+The program is complemented by a contingent disaster financing program ($5.0 million 
+grant)  to  strengthen  resilience  to  disasters  triggered  by  natural  hazards  and  future  health 
+emergencies. 41  In  addition,  an  urban  infrastructure  project  ($9.6  million  grant)  to  construct 
+climate-resilient multipurpose community shelters that can also be used as triage facilities is under 
+preparation. 42 ADB will also complement the program with a proposed project ($3.5 million grant) 
+to assist informal workers and other vulnerable groups.43 ADB will provide additional financing to 
+improve the connectivity of the outer islands and complement the government's extended support 
+for agriculture.44 Infrastructure projects will play a critical role in stimulating growth and support 
+the recovery from COVID-19. ADB will provide grants and concessional loans for energy access, 
+urban infrastructure, and maritime transport during 2020–2023.45 
+25. 
+Development  partner  coordination.  Effective  development  partner  coordination  has 
+enabled  sequenced  financing  and  supplementation  of  government  capacity  in  preparing  the 
+health  sector  (para.  7). ADB  consulted  with the World  Bank, the  IMF,  Australia,  New  Zealand, 
+the  European  Union,  and  other  development  partners  on  Vanuatu's  financing  needs  and  the 
+timing of support. The World Bank, the European Union, Australia, and New Zealand provided 
+budget  support.  Australia  and  the  People's  Republic  of  China  contributed  essential  medical 
+equipment and supplies. For the public health response, ADB worked closely with United Nations 
+agencies in Vanuatu, including UNICEF and WHO, on technical support for health preparedness 
+and  response. 46  The  IMF  provides  advisory  and  technical  support  with  macroeconomic 
+assessments and monetary and financial policy advice, which is in addition to staff consultations 
+and  Article  IV  requirements.  The  IMF  shares  its  assessment  reports  with  the  ADB.  IMF  was 
+consulted  as  the  COVID-19  crisis  evolved  and  prepared  an  assessment  letter  to  confirm  that 
+Vanuatu's  macroeconomic  policy  before  COVID-19  had  generally  been  sound  and  that  the 
+pandemic significantly impacted Vanuatu's economy (footnotes 16 and 22). 
+26. 
+Lessons.  The  proposed  program  applies  lessons  from  ADB's  experience  in  providing 
+economic  recovery  support  in  the  Pacific  during  the  2008–2009  global  financial  crisis. 47 
+Earlier programs demonstrated the need to support aggregate demand while safeguarding the 
+fiscal  position  and  the  role  of  development  partner  coordination  in  a  comprehensive  crisis 
+response.  ADB's  past  engagement  with  Vanuatu  highlighted 
+to  overcome 
+implementation capacity constraints. Accordingly, the new program will use existing government 
+mechanisms for program monitoring and implementation. The ESP implementation will rely on 
+the existing database and records of the VNPF and key government agencies to verify potential 
+beneficiaries'  eligibility.  Tuition  fee  assistance  will  use  the  existing  school  grant  procedures. 
+To supplement the implementation capacity, ADB is mobilizing extensive TA support (para. 23).  
+the  need 
+D. 
+Development Financing Needs, Budget Support and Debt Sustainability 
+27. 
+Reduced government revenues and higher countercyclical development expenditures will 
+lead  to  a  larger  financing  need  in  2020  than  initially  expected  (Table  3).  A  fiscal  deficit  of 
+$51.1 million (6.0% of GDP) is estimated in 2020, and $26.5 million in 2021 (para. 11). The CPRO 
+budget  support  is  financing  17.4%  of  the  total  financing  needs  for  2020.  Other  development 
+partners  have  disbursed  budget  support  grants  equivalent  to  $29.0  million  in  2020.  Domestic 
+resources include $12.7 million in domestic debt and use of $38.4 million in cash reserves. It is 
+41 ADB. 2020. Pacific Disaster Resilience Program (Phase 3). Manila. 
+42 ADB. 2020. Port Vila Integrated Urban Improvement Project. Manila (proposed). 
+43 ADB. 2020. COVID-19 Response for Affected Vulnerable Groups in the Pacific. Manila (proposed). 
+44  ADB. Vanuatu: Interisland Shipping Support Project. 
+45 Vanuatu has requested grant-only financing from all its development partners. 
+46 Development Coordination (accessible from the list of linked documents in Appendix 2). 
+47 ADB. 2011. Policy-based programs for the Pacific islands. Manila. 
+11 
+estimated that support from development partners will be at pre-COVID-19 levels in 2021. 
+Table 3: Financing Needs and Support for 2020 
+($ million) 
+A. Total revenues and grants 
+   of which: other grants 
+B. Total expenditure 
+Financing requirement (A-B) 
+COVID-19 financing plan and budget support 
+Development partner budget support 
+  ADB CPRO 
+  Australia 
+  European Union 
+  New Zealand 
+  World Bank 
+Use of domestic resources (including cash reserves) 
+2020  
+(pre-COVID-19) 
+($) 
+277.7 
+  33.3  
+287.2 
+    (9.6) 
+(% of GDP) 
+32.0 
+  3.8 
+33.0 
+  (1.0) 
+(adjusted for COVID-19) 
+(% of GDP) 
+37.8 
+  5.6 
+49.2 
+(11.4) 
+($) 
+331.8 
+  57.3a 
+428.7 
+  (96.9) 
+  45.9 
+  16.9 
+    5.8 
+  11.3 
+    1.9 
+  10.0 
+  51.1 
+5.4 
+2.0 
+0.7 
+1.3 
+0.2 
+1.2 
+6.0 
+  9.6 
+1.0 
+( )  =  negative,  ADB  =  Asian  Development  Bank,  COVID-19  =  coronavirus  disease,  CPRO  =  COVID-19  pandemic 
+response option, GDP = gross domestic product.  
+a Includes additional grants for Cyclone Harold relief and rehabilitation. 
+Source: Asian Development Bank estimates. 
+The government has requested a grant not exceeding $16.925 million from ADB's Special 
+28. 
+Funds resources (Asian Development Fund) to help finance the program. The grant proceeds will 
+support development financing needs, excluding ineligible items.48  
+Vanuatu's  public  and  publicly  guaranteed  debt  was  44.4%  of  GDP  in  2019,  of  which 
+29. 
+domestic debt was 5.2% of GDP.49 Vanuatu is considered to be at moderate risk of debt distress 
+based on the IMF's 2019 debt sustainability analysis. A substantial component of the public debt 
+was  to  finance  the  post-Cyclone  Pam  reconstruction  activities  and  infrastructure  investments. 
+ADB's  October  2020  debt  sustainability  analysis  suggests  that  without  grants  from  its 
+development  partners,  the  debt–GDP  ratio  will  breach  the  threshold  of  60%  by  2024. 
+However,  with  grants,  the  public  debt–GDP  ratio  will  reach  48.7%  by  2024  and  remain 
+sustainable. 50  The  government  intends  to  use  development  partner  grants  and  domestic 
+resources  (including  the  drawdown  of  cash  reserves)  to  meet  its  financing  needs  in  2020. 51 
+The IMF's September 2020 assessment finds that even though the risk of debt distress remains 
+moderate, risks will be elevated with another disaster (footnotes 16 and 22). 
+E. 
+Implementation Arrangements 
+30. 
+The  program  will  be  implemented  from  1  February  2020  to  31  December  2021,  using 
+primarily existing mechanisms and platforms (para. 26). The MFEM will be the executing agency. 
+The government formed an implementation team to execute, supervise, and monitor compliance 
+with  set  guidelines,  and  ensure  communication  and  information  dissemination  to  potential 
+beneficiaries.  The  implementing  agencies  are  MOH  for  health  measures,  the  Ministry  of 
+Agriculture,  Livestock,  Forestry,  Fisheries  and  Biosecurity  and  the  Ministry  of  Education  and 
+Training. Through the MFEM, the government will monitor budget execution under the ESP and 
+48 List of Ineligible Items (accessible from the list of linked documents in Appendix 2). 
+49 ADB  estimates  based  on:  Reserve  Bank  of  Vanuatu.  2020.  Central  Government  Gross  Debt. 
+https://www.rbv.gov.vu/index.php/en/e-gdds-statistics. The IMF estimates public debt at 46.1% of GDP in its 2020 
+assessment letter to ADB (footnotes 16 and 22).   
+50 Debt Sustainability Analysis (accessible from the list of linked documents in Appendix 2). 
+51 Cash reserves held by government as at end of 2019 was $73.2 million. 
+12 
+produce quarterly and midyear reports. The government also separated bank accounts and cost 
+centers to facilitate reporting and monitoring. While general capacity constraints exist, risks are 
+mitigated  because  the  government  has  successfully  implemented  countercyclical  measures 
+through its regular systems. ADB technical assistance will support the government in collecting 
+sex-disaggregated data and monitoring social implications, including the impact on women (para. 
+23). Grant proceeds will be withdrawn in accordance with ADB's Loan Disbursement Handbook 
+(2017, as amended from time to time).  
+III. 
+DUE DILIGENCE 
+31. 
+Safeguards. In compliance with ADB's Safeguard Policy Statement (2009), the program 
+is  classified  as  category  C  for  environment,  involuntary  resettlement,  and  indigenous  peoples 
+safeguards. 52  The  actions  were  assessed  and  are  not  expected  to  have  any  adverse 
+environmental or social safeguard impacts within the meaning of the Safeguard Policy Statement.  
+32. 
+Poverty  and  social.  Despite  Vanuatu's  lack  of  formal  social  protection  programs,  the 
+employment  stabilization  payments  will  prevent  affected  workers  from  falling  into  poverty. 
+They  will  also  generate  traditional  support  for  those  outside  the  formal  support  schemes. 
+Assistance  to  MSMEs  will  help  them  stay  in  business,  including  self-employed  workers  who 
+depend on a single income source, such as market stall owners. Households have been relieved 
+of  paying  school  fees,  estimated  at  $290,  equivalent  to  3  months  of  household  income.  Most 
+producers in Vanuatu are smallholder farmers. Support for agriculture will address food security 
+and provide income to help meet nonfood essentials such as access to basic services, transport, 
+and communication, especially during the pandemic. Support to agriculture will be expanded in 
+2021. Transport and logistics are significant constraints and a critical cost component of supply 
+chains  for  cocoa,  copra,  and  other  crops.  Assistance  from  the  stimulus  package  will  support 
+smallholder farmers to maximize income opportunities from cash crops. Distribution of food and 
+health supplies to an estimated 55,000 households complements the ESP (para. 20).  
+Gender.  The  program  is  categorized  as  effective  gender  mainstreaming.53 The  health 
+33. 
+response to COVID-19 ensures that (i) health workers in hospitals and subnational laboratories, 
+including 40% women, receive personal protective equipment; (ii) proactive health messages on 
+COVID-19  and  pregnancy,  childbirth,  and  breastfeeding  are  disseminated  widely;  (iii)  nutrition 
+supplies are provided to 3,000 pregnant and lactating women, and children; and (iv) funding for 
+maternal  and  reproductive  health  services  will  be  continued.  Also,  socioeconomic  impacts  on 
+women  will  be  mitigated  through  support  for  employment  and  MSMEs.  The  ESP  also  assists 
+businesses owned by women in retaining employees and supports female employees in "at risk" 
+industries. The one-off grant provided to MSMEs will benefit women-owned businesses (about 
+18% of all MSMEs), including licensed microentrepreneurs such as market vendors. Public sector 
+employment, where women make up 40% of the workforce, will be maintained. Free tuition was 
+introduced for early childhood education and public schools to reduce hardships and safeguard 
+previous gender gap reductions in education enrollment.  
+34. 
+Finally, measures taken to prevent and respond to GBV include (i) activation of the gender 
+and protection subcommittee; (ii) provision of remote GBV services (through a telephone hotline); 
+(iii)  continued  employment  of  all  GBV  staff  (45  staff  in  five  centers);  (iv) upgrade  of  centers  to 
+include additional handwashing facilities; (v) public campaigns in national newspapers to provide 
+information on GBV and COVID-19; (vi) activation of "authorized persons" to help women access 
+services  in  rural  areas;  (vii)  police  training  on  GBV  and  the  provision  of  police  rotations  to 
+52 ADB. Safeguard Categories. 
+53 Gender Monitoring Matrix (accessible from the list of linked documents in Appendix 2). 
+13 
+investigate GBV; and (viii) agreement that GBV prevention and response services are mandated 
+as "essential services" in states of emergency and lockdown.  
+35. 
+Governance.  A  public  expenditure  and  financial  accountability  self-assessment  was 
+completed in 2015. Subsequently, the MFEM prepared a Public Financial Management Reform 
+Roadmap 2017–2021.  54 The road map focuses on (i) enhancing controls to ensure compliance 
+in procurement, debt management, and payroll management; (ii) adopting medium-term planning 
+and budgeting; (iii) strengthening budget accountability; (iv) improving domestic revenue; and (v) 
+improving public investment and asset management. Vanuatu has recently improved its rank from 
+71st  in  2017  to  64th  of  180  economies  in  2018  and  2019  in  Transparency  International's 
+Corruption Perception Index.55 Development partners such as Australia and the European Union 
+have  supported  public  financial  management  improvements  in  Vanuatu.  ADB's  Anticorruption 
+Policy (1998, as amended to date) was explained to and discussed with the government. 
+36.  Major risks and mitigating measures are summarized in Table 4 and described in detail in 
+the risk assessment and risk management plan.56 
+Table 4: Summary of Risks and Mitigating Measures 
+Risks  
+Prolonged COVID-19 pandemic and border 
+closures  render  the  ESP  less  effective, 
+leading to a continued economic slowdown, 
+disruption of business activities, and further 
+loss of income and employment. 
+Another external shock, such as a disaster, 
+plunges the country into a deeper recession 
+and debt distress. 
+Mitigation Measures 
+ADB  engages  continuously  with 
+the  government  and  other 
+development  partners  to  provide  an  effective  and  appropriate 
+response, including additional support if required. Other initiatives in 
+the  pipeline  will  continue  to  support  private  sector  investment, 
+alternative employment and generate additional economic activities. 
+ADB  will  coordinate  with  other  development  partners  to  provide 
+emergency support guided by follow-on International Monetary Fund 
+assessments.  ADB  is  providing  contingent  disaster  financing  for 
+future disasters caused by natural hazards and health emergencies.  
+ADB = Asian Development Bank, COVID-19 = coronavirus disease, ESP = Economic Stimulus Program. 
+Source: Asian Development Bank. 
+IV. 
+ASSURANCES  
+37. 
+The government has assured ADB that the implementation of the program shall conform 
+to all applicable ADB policies, including those concerning anticorruption measures, safeguards, 
+gender, procurement, consulting services, and disbursement, as described in detail in the grant 
+agreement. 
+V. 
+RECOMMENDATION 
+38. 
+I am satisfied that the proposed grant would comply with the Articles of Agreement of the 
+Asian Development Bank (ADB) and recommend that the Board approve the grant not exceeding 
+$16,925,000  to  the  Republic  of  Vanuatu  from  ADB's  Special  Funds  resources  (Asian 
+Development Fund) for the COVID-19 Fiscal Response Program, on terms and conditions that 
+are substantially in accordance with those set forth in the draft grant agreement presented to the 
+Board.  
+25 November 2020  
+Masatsugu Asakawa 
+President 
+54 Government of Vanuatu. 2016. Public Financial Management Reform Roadmap 2017–2021. Port Vila. 
+55 Transparency International. 2019. Corruption Perceptions Index 2019. Berlin (available at 
+https://www.transparency.org/en/countries/vanuatu). 
+56 Risk Assessment and Risk Management Plan (accessible from the list of linked documents in Appendix 2). 
+14 
+Appendix 1 
+DESIGN AND MONITORING FRAMEWORK a 
+Country's Overarching Development Objective 
+Adverse impact of the COVID-19 pandemic on the economy, health systems, and social services 
+minimized (Economic Stimulus Program and COVID-19 Health Sector Preparedness and Response 
+Plan)b 
+Performance Indicators with 
+Targets and Baselines 
+Data Sources and 
+Reporting Mechanisms 
+Risks 
+Results Chain 
+Effect of the Programc 
+Adverse effects of the 
+COVID-19 pandemic on 
+individuals and 
+businesses mitigated 
+By June 2022 
+a. At least 6,000 individuals 
+(of whom 40% are women) 
+cumulatively benefited from 
+short-term COVID-19–
+related support (April 2020 
+baseline: 0) 
+b. At least 1,500 businesses, 
+including 450 women-led 
+businesses, cumulatively 
+benefited from interventions 
+under the ESP (April 2020 
+baseline: 0) 
+c. All health care workers in 
+Vila Central Hospital and 
+Northern Provincial Hospital 
+(of whom 40% are women) 
+received PPE to deal with 
+COVID-19 (February 2020 
+baseline: 0) 
+a.–b. MFEM reports 
+c. MOH reports 
+1a.–d. MOH reports 
+Prolonged 
+COVID-19 
+pandemic and 
+border closures 
+render the ESP 
+less effective, 
+leading to 
+continued 
+economic 
+slowdown, 
+disruption of 
+business 
+activities, and 
+further loss of 
+income and 
+employment. 
+Another 
+external shock, 
+such as a 
+disaster, 
+plunges the 
+country into 
+deeper 
+recession and 
+debt distress. 
+Reform Areas 
+By December 2020 
+1. Health sector 
+responses to COVID-19 
+implemented 
+1a. Vila Central Hospital and 
+Northern Provincial Hospital 
+established capacity for 
+clinical management of 
+suspected or confirmed 
+COVID-19 patients, 
+including infection 
+prevention control and 
+isolation of case  
+(February 2020 baseline: 0) 
+1b. At least 40 public health 
+officers or health care 
+workers (40% of them 
+women) have improved their 
+ability to prevent and control 
+COVID-19 and other 
+infectious diseases 
+(February 2020 baseline: 0 
+health-related personnel) 
+1c. 100% of health care 
+workers in Vila Central 
+Results Chain 
+Performance Indicators with 
+Targets and Baselines 
+Data Sources and 
+Reporting Mechanisms 
+Risks 
+Appendix 1 
+15 
+2. Measures for 
+supporting employment 
+and businesses 
+implemented 
+3. Food security and 
+education support 
+programs implemented  
+Hospital and Northern 
+Provincial Hospital (at least 
+40% of them women) 
+equipped with PPE 
+appropriate for supporting 
+COVID-19 treatment as per 
+WHO guidelines on PPEd 
+(February 2020 baseline: 0) 
+1d. 5 GBV centers upgraded 
+to include additional 
+handwashing facilities 
+(February 2020 baseline: 0) 
+By December 2020 
+2a. At least 6,000 
+employees (including 40% 
+women) received 
+employment support (April 
+2020 baseline: 0) 
+2b. At least 1,500 
+businesses (including 450 
+businesses led by women) 
+accessed grant support 
+under the Economic 
+Stimulus Program (April 
+2020 baseline: 0) 
+By December 2021  
+3a. Agriculture support 
+program of at least 
+Vt1 billion in place  
+(2020 baseline: not 
+applicable) 
+By December 2020 
+3b. At least 90,000 students 
+enrolled for early childhood, 
+primary, and secondary 
+education (including 50% 
+girls) received tuition fee 
+subsidies (2019 baseline: 0) 
+2a.–b. MFEM reports 
+3a. MFEM–Ministry of 
+Agriculture, Livestock, 
+Forestry, Fishery and 
+Biosecurity reports 
+3b. Ministry of Education 
+and Training reports 
+Budget Support ADB: $16.925 million (grant) 
+ADB  =  Asian  Development  Bank,  COVID-19  =  coronavirus  disease,  ESP  =  Economic  Stimulus  Program,  GBV  = 
+gender-based  violence,  MFEM  =  Ministry  of  Finance  and  Economic  Management,  MOH =  Ministry  of  Health, 
+PPE = personal protective equipment, WHO = World Health Organization. 
+a  Contribution to the ADB Corporate Results Framework will be determined after project approval. 
+b  Government of Vanuatu, Ministry of Finance and Economic Management. Economic Stimulus Program. Port Vila; 
+Government of Vanuatu, Ministry of Health. COVID-19 Health Sector Preparedness and Response Plan. Port Vila.  
+16 
+Appendix 1 
+c  It is not possible to set more specific and realistic program target effects than those presented in the design and 
+monitoring framework because of uncertainties regarding how the outbreak will unfold, its economic effects, the need 
+for government responses to be flexible as the situation evolves, and since new data collection and reporting systems 
+to monitor the crisis are being developed and evolving. Additional indicators to measure the effects will be identified 
+later and reported on the program's effectiveness as comprehensively as possible in the program completion report. 
+d  WHO. 2020. Pacific-Adapted Guidance on Rational Use of Personal Protective Equipment. Suva. 
+Source: Asian Development Bank. 
+Appendix 2 
+17 
+LIST OF LINKED DOCUMENTS 
+http://www.adb.org/Documents/RRPs/?id=54179-001-3 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+Grant Agreement 
+Development Coordination 
+Country Economic Indicators 
+International Monetary Fund Assessment Letter  
+Summary of Poverty Reduction and Social Strategy 
+Risk Assessment and Risk Management Plan 
+Debt Sustainability Analysis 
+List of Ineligible Items  
+Supplementary Documents 
+9. 
+10. 
+11. 
+Gender Monitoring Matrix 
+Safeguards Assessment Matrix 
+Summary of Key Social Protection Mechanisms in Stimulus 
+Packages  
+18 
+Appendix 3 
+DEVELOPMENT POLICY LETTER 
+Appendix 3 
+19 
+20 
+Appendix 3 
+Appendix 3 
+21 
+22 
+Appendix 4 
+ASSESSMENT OF COMPLIANCE WITH THE COUNTERCYCYCLICAL SUPPORT FACILITY 
+COVID-19 PANDEMIC RESPONSE OPTION ACCESS CRITERIA 
+CPRO Criteria 
+and indicators 
+1. Adverse  
+  Impact of 
+  Exogenous 
+  Shocks 
+2. Counter-      
+cyclical  
+  Development 
+  Expenditures 
+ADB Staff Assessment 
+Vanuatu's  economy  is  forecasted  to  decline  significantly  in  2020  as  a 
+result of the COVID-19 pandemic. Its economic growth averaged 2.8% 
+from  2015 to  2019.  As  of  12  November  2020,  the  country  reported  its 
+first  confirmed  case  of  COVID-19  from  a  repatriation  flight,  in  border 
+quarantine.  Although  Vanuatu  did  not  have  any  confirmed  cases  of 
+COVID-19  until  11  November  2020,  border  closures  have  stopped  all 
+visitor arrivals since April 2020.  
+With tourism declining significantly and agricultural crops damaged due 
+to Cyclone Harold, the economy is forecast to decline by 9.8% in 2020.  
+ 
+Without tourism, the government's tax revenues are expected to decline 
+significantly, and combined with higher expenditures related to COVID-
+19, lead to reduced fiscal buffers. A fiscal deficit equivalent to 6.0% of 
+GDP  is  projected  in  2020,  and  a  further  deficit  of  3.0%  is  projected  in 
+2021.  
+With higher levels of expenditure and reduced revenue, the government 
+relies on development partner grants and domestic resources (including 
+cash reserves to meet financing shortfalls. At the end of 2019, Vanuatu 
+had foreign exchange reserves equivalent to about 12 months of imports. 
+Given  their  high  pre-pandemic  levels,  foreign  exchange  reserves  are 
+expected  to  remain  adequate  despite  a  decline  in  tourism  and  export 
+earnings. The final magnitude of the economic losses will depend on how 
+the outbreak evolves and the tourism industry's recovery.  
+The  government's  measures  for  addressing  COVID-19  impact  are 
+included in a HPRP and an ESP.  
+The  HPRP  has  been  iterated  with  the  evolution  of  the  pandemic  with 
+assistance  from  the  World  Health  Organization.  This  plan  focuses  on 
+preventing  the  virus  from  entering  the  country  and  getting  the  country 
+ready  if  it  enters,  particularly  the  health  sector.  Increasing  preventive 
+measures have been introduced since late January 2020 through travel 
+advisories, border closures, and quarantine measures. The government 
+is  conducting  community  awareness,  strengthening  public  health 
+systems, and enhancing preparedness for effective case management 
+while maintaining essential health services. 
+ 
+includes  revenue  measures  and  several 
+The  $38  million  ESP 
+expenditure  measures.  Approximately  60%  of  this  stimulus  package 
+consists  of  a  pro-employment  countercyclical  expenditure  program  to 
+support those likely to lose jobs because of the pandemic. Another 9% 
+is  allocated  to  help  MSMEs  to  retain  workers.  The  MSMEs  are  also 
+supported by revenue exemptions to reduce businesses' operating costs 
+to mitigate insolvency.  
+CPRO Criteria 
+and indicators 
+ADB Staff Assessment 
+Appendix 4 
+23 
+The  revenue  measures  include  exemptions  for  business  license  fees, 
+turnover taxes, rent tax, work permit fees, and several other smaller fees. 
+The  central  bank  has  also 
+reduced  banks'  capital  adequacy 
+requirements and policy interest rates to facilitate lower interest costs. 
+The government commenced the implementation of its stimulus program 
+approved on 30 March 2020.  
+On 10 April 2020, the government mandated the implementation of the 
+Family  Protection  Act  and  prioritized  preventing  and  responding  to 
+domestic violence.  
+Following  initial  short-term  measures,  the  government  has  planned 
+significant  support  to  the  agricultural  sector  to  facilitate  economic 
+recovery and ensure food security. The government has also provided 
+additional  liquidity  to  government-owned  commercial  banks  to  support 
+MSMEs through the provision of credit. 
+3. Pre-shock  
+  Record of  
+  Generally 
+Sound Macro-  
+  economic  
+  Management 
+record  of  generally  sound 
+The  government  has  a  pre-shock 
+macroeconomic  management.  The  economy  grew  by  an  average  of 
+2.8% between 2015 and 2019. Economic growth was driven by tourism 
+growth  and  post-Cyclone-Pam  reconstruction  activities.  Prices  were 
+relatively  stable,  with  inflation  averaging  2.2%  over  the  same  period, 
+within the Reserve Bank of Vanuatu's target range of 0%–4. The fiscal 
+deficit was high in 2015 due to relief and reconstruction needs following 
+Cyclone Pam but was reduced in the following years.  
+ 
+4. Structural 
+  Reforms 
+  (including 
+   health  
+  response) 
+As a result of significant reconstruction requirements following Cyclone 
+Pam in 2015 and a large existing infrastructure pipeline, external debt 
+rose from 25.6% of GDP in 2015 to 39.1% of GDP in 2019. The current 
+account surpluses averaged 3.7% from 2015 to 2019. Foreign exchange 
+reserves  were  equivalent  to  about  12 months  of imports  at  the  end  of 
+2019. 
+As  of  12  November  2020,  Vanuatu  had  only  one  confirmed  case  of 
+COVID-19  contained  in  quarantine  after  being  identified  from  a 
+repatriation flight.  
+With  a  fragile  health  system,  further  compromised  by  damages 
+sustained  as  a  result  of  Cyclone  Harold,  which  would  quickly  be 
+overwhelmed  if  the  virus  arrived  and  spread  rapidly,  the  government 
+implemented  strong  measures  to  prevent  the  entry  of  the  virus  and 
+prepare the country, particularly the health system, for an outbreak.  
+ 
+Borders  were  closed  on  23 March,  and  a  national  state  of  emergency 
+was declared on 26 March 2020. It has since been renewed and was last 
+extended  to  the  end  of  2020.  The  government's  Preparedness  and 
+Response  Plan  developed  in  February  2020  and  iterated  with  the 
+evolution of the pandemic, covers coordination and response, prevention 
+24 
+Appendix 4 
+CPRO Criteria 
+and indicators 
+ADB Staff Assessment 
+transmission, 
+of 
+risk  communications,  surveillance,  and  clinical 
+management. The  plan  is  being  iterated  with  the  evolving  COVID-19 
+situation.  
+Hospitals have been upgraded, particularly isolation units, which for use 
+as  intensive  care  units;  medical  personnel  are  trained  on  infection 
+prevention, control, and contact tracing to improve surveillance; testing 
+equipment  and  medical  supplies  have  been  procured;  and  public 
+awareness  campaigns  are  underway.  Development  partners  have 
+provided funding to supplement the government's efforts. 
+5. Debt 
+Sustainability 
+The IMF’s 2019 DSA found that Vanuatu was at moderate risk of debt 
+distress  and  could  take  on  more  concessional  borrowing.  Public  debt 
+remains sustainable, but its rising trend adds to fiscal vulnerabilities.  
+ 
+ADB's  DSA,  updated  in October  2020,  finds that  Vanuatu's short-term 
+growth  prospects  have  deteriorated  with  COVID-19  and 
+that 
+countercyclical policy will sharply deteriorate fiscal balances. The DSA 
+finds that higher fiscal deficits put Vanuatu's public debt on a rising trend, 
+with public debt–GDP projected to rise from 44.4% in 2019 to more than 
+55.0% in 2020. The higher fiscal deficit will be partially offset by higher 
+economic  growth  over  the  longer  term.  The  DSA  concludes  that 
+Vanuatu's  public  debt  level  is  sustainable,  as  most  debt  is  on 
+concessional  terms.  Without  grant  support  for  Vanuatu,  public  debt  is 
+likely to reach unsustainable levels. 
+Public  external  debt  constitutes  about  70%  of  the  total  debt  stock 
+outstanding. It is mostly contracted on concessional terms, which keeps 
+borrowing costs low and limits rollover and interest-rate risks. However, 
+the  foreign-currency  denomination  of  the  external  debt  constitutes 
+currency risk.  
+Additional  risks  stem  from  the  country's  heavy  exposure  to  disasters 
+triggered by natural hazards. Air Vanuatu was financially exposed, and 
+the government was likely to be required to guarantee debt servicing.  
+IMF has assessed that Vanuatu remains at moderate risk of debt distress 
+post-COVID-19,  and  risks  have  been  elevated  compared  to  its  2019 
+assessment.  
+ADB  and  IMF  collaborate  closely  on  macroeconomic  monitoring  and 
+policy issues in Vanuatu.  
+ 
+The IMF shares updates from missions and the IMF are updated about 
+ADB's  investment  pipeline  in  Vanuatu.  IMF  is  supportive  of  the  ADB 
+response and has provided an assessment letter.  
+6. 
+Coordination  
+  with the IMF 
+Appendix 4 
+25 
+CPRO Criteria 
+and indicators 
+ADB Staff Assessment 
+Vanuatu’s  foreign  exchange  reserves  levels  were  equivalent  to  12 
+months  of  imports  at  the  end  of  2019.  As  of  12  November  2020,  the 
+government had not requested IMF financing. 
+ADB = Asia Development Bank; COVID-19 = coronavirus disease; CPRO = COVID-19 pandemic 
+response option; DSA = debt sustainability analysis; ESP = Economic Stimulus Program; GDP = 
+gross domestic product; HPRP = Health Preparedness and Response Plan; IMF = International 
+Monetary Fund; MSMEs = micro, small, and medium-sized enterprises.  
+Source: Asian Development Bank. 

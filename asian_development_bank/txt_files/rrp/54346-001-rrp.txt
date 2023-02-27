@@ -1,0 +1,1748 @@
+Report and Recommendation of the President  
+to the Board of Directors 
+Project Number: 54346-001 
+November 2020 
+Proposed Countercyclical Support Facility Loan 
+Papua New Guinea: COVID-19 Rapid Response 
+Program 
+Distribution of this document is restricted until it has been approved by the Board of Directors. 
+Following such approval, ADB will disclose the document to the public in accordance with ADB's 
+Access to Information Policy after excluding information that is subject to exceptions to disclosure 
+set forth in the policy. 
+CURRENCY EQUIVALENTS 
+(as of 4 November 2020) 
+Currency unit 
+K1.00 
+$1.00 
+– 
+= 
+= 
+kina (K)  
+$0.2860 
+K3.4965 
+ADB 
+BPNG 
+COVID-19 
+CPRO 
+DOT 
+GBV 
+GDP 
+ICU 
+IMF 
+MSME 
+NCC 
+NCD 
+PFM 
+PNG 
+PPE 
+TA 
+UN 
+UNDP 
+UNOPS 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+ABBREVIATIONS 
+Asian Development Bank 
+Bank of Papua New Guinea 
+coronavirus disease  
+COVID-19 pandemic response option 
+Department of Treasury 
+gender-based violence 
+gross domestic product 
+intensive care unit 
+International Monetary Fund 
+micro, small, and medium-sized enterprise 
+National Control Centre 
+National Capital District 
+public financial management 
+Papua New Guinea 
+personal protective equipment 
+technical assistance 
+United Nations 
+United Nations Development Programme 
+United Nations Office for Project Services 
+NOTE 
+In this report, “$” refers to United States dollars, unless otherwise stated. 
+Vice-President 
+Director General 
+Deputy Director General  Emma Veve, PARD 
+Directors 
+Ahmed M. Saeed, Operations 2 
+Leah Gutierrez, Pacific Department (PARD) 
+Ananya  Basu,  Social  Sectors  and  Public  Sector  Management 
+Division (PASP), PARD 
+David  Hill,  Country  Director,  Papua  New  Guinea  Resident 
+Mission (PNRM), PARD 
+Team leaders 
+Matthew  Hodge,  Senior  Country  Specialist,  Pacific  Liaison  and 
+Team members 
+Coordination Office, PARD  
+Edward Faber, Country Economist, PNRM, PARD 
+Tahmeen  Ahmad;  Financial  Management  Specialist;  Public 
+Financial  Management  Division;  Procurement,  Portfolio  and 
+Financial Management Department 
+Md. Abul Basher, Natural Resources and Agriculture Specialist, 
+Rural  Development  and  Food  Security  (Agriculture)  Thematic 
+Group,  Sustainable  Development  and  Climate  Change 
+Department (SDCC) 
+Cindy  Bryson;  Safeguards  Specialist;  Portfolio,  Results,  and 
+Quality Control Unit (PAOD–PRQ); PARD 
+Ninebeth  Carandang,  Senior  Social  Development  Specialist, 
+PASP, PARD 
+Oliver Chapman, Social Development Specialist (Youth and Civil 
+Society  Organization  Partnerships),  NGO  and  Civil  Society 
+Center, SDCC 
+Andrew Cooper, Transport Specialist, PNRM, PARD 
+Joana Custoias, Counsel, Office of the General Counsel 
+Marko  Davila,  Operations  Coordination  Specialist  (Conflict-
+Afflicted  Situations),  Office  of  the  Cluster  Head,  Thematic 
+Advisory Service Cluster, SDCC 
+Marie Miel A. de Villa, Project Analyst, PAOD–PRQ, PARD 
+Oliver  Domagas,  Senior  Financial  Control  Specialist,  Loan  and 
+Grant Disbursement Section, Controller’s Department  
+Haidy  Ear-Dupuy,  Senior  Social  Development  Specialist  (Core 
+Labor Standards), Safeguards Division (SDSS), SDCC 
+Taniela Faletau, Safeguards Specialist, PAOD–PRQ, PARD 
+Anna  Fink,  Economist 
+(Regional  Cooperation),  Regional 
+Cooperation and Integration Thematic Group, SDCC 
+Belinda  Hewitt,  Disaster  Risk  Management  Specialist,  Climate 
+Change and Disaster Risk Management Division, SDCC 
+Alexander Julian; Planning and Policy Specialist; Strategy, Policy 
+and  Business  Process  Division;  Strategy,  Policy  and 
+Partnerships Department 
+Prabhjot  Rehan  Khan,  Social  Development  Specialist  (Gender 
+and Development), Gender Equity Thematic Group, SDCC  
+Magdelyn Kuari, Economics Analyst, PNRM, PARD 
+Jae Deuk Lee, Financial Sector Specialist, Finance Sector Group, 
+SDCC 
+Mairi  MacRae,  Social  Development  Specialist  (Gender  and 
+Development), PASP, PARD 
+Inez Mikkelsen-Lopez, Health Specialist, PASP, PARDa 
+Kee-Yung  Nam,  Principal  Energy  Economist,  Energy  Sector 
+Group, SDCC 
+Kaukab  Naqvi,  Senior  Economist,  Economic  Analysis  and 
+Operational  Support  Division,  Economic  Research  and 
+Regional Cooperation Department 
+Felix  Oku,  Senior  Social  Development  Specialist  (Safeguards), 
+SDSS, SDCC 
+Rommel Rabanal, Public Sector Economist, PASP, PARD 
+Francesco Ricciardi, Environment Specialist, SDSS, SDCC 
+David  Robinett,  Senior  Public  Management  Specialist  (State 
+Owned  Enterprise  Reform),  Governance  Thematic  Group, 
+SDCC 
+Michiel  Van  Der  Auwera;  Senior  Financial  Sector  Specialist 
+(Social  Security);  Public  Management,  Financial  Sector,  and 
+Trade  Division  (CWPF);  Central  and  West  Asia  Department 
+(CWRD)b 
+Geoffrey  Wilson,  Senior  Water  Resources  Specialist,  Water 
+Sector Group, SDCC 
+Peer reviewer 
+Cigdem  Akin,  Senior  Public  Management  Economist,  CWPF, 
+CWRD 
+a Outposted to the Pacific Liaison and Coordination Office.  
+b On short-term assignment with the Social Development Thematic Group, SDCC. 
+In preparing any country program or strategy, financing any project, or by making any designation 
+of  or  reference  to  a  particular  territory  or  geographic  area  in  this  document,  the  Asian 
+Development Bank does not intend to make any judgments as to the legal or other status of any 
+territory or area. 
+CONTENTS 
+Page 
+PROGRAM AT A GLANCE 
+I. 
+II. 
+THE PROPOSAL 
+PROGRAM AND RATIONALE 
+A. 
+B. 
+C. 
+Background and Development Constraints 
+The Government’s COVID-19 Countercyclical Responses 
+Proposed Program, Impact, ADB’s Value Addition, and Development Partner 
+Coordination 
+Development Financing Needs, Budget Support, and Debt Sustainability 
+Implementation Arrangements 
+D. 
+E. 
+III. 
+IV. 
+V. 
+DUE DILIGENCE 
+ASSURANCES 
+RECOMMENDATION 
+APPENDIXES 
+Design and Monitoring Framework 
+List of Linked Documents 
+Development Policy Letter 
+1. 
+2. 
+3. 
+4. 
+Assessment  of  Compliance  with  the  Access  Criteria  for  the  Countercyclical  Support 
+24 
+Facility and the COVID-19 Pandemic Response Option 
+1 
+2 
+2 
+6 
+8 
+10 
+11 
+11 
+13 
+13 
+14 
+17 
+18 
+PROGRAM AT A GLANCE
+1. Basic Data
+Project Name
+Country
+Borrower
+Country Economic Indicators https://www.adb.org/Documents/LinkedD
+COVID-19 Rapid Response Program
+Papua New Guinea
+Papua New Guinea
+Department/Division
+Executing Agency
+Project Number: 54346-001
+PARD/PASP
+Department of Treasury
+Project Classification Information Status: Complete
+     ADB Financing ($ million)
+57.00
+38.00
+20.00
+Portfolio at a Glance
+2. Sector
+Health
+Agriculture, natural 
+resources and rural 
+development
+Finance
+Public sector management
+ocs/?id=54346-001-CEI
+https://www.adb.org/Documents/LinkedD
+ocs/?id=54346-001-PortAtaGlance
+Subsector(s)
+Disease control  of communicable disease
+Health system development
+Agricultural production
+Small and medium enterprise finance and leasing
+Social protection initiatives
+100.00
+35.00
+250.00
+0
+Low
+0.00
+0.00
+0.00
+0.00
+3. Operational Priorities
+Addressing remaining poverty and reducing inequalities
+Accelerating progress in gender equality
+Promoting rural development and food security
+Strengthening governance and institutional capacity
+Sustainable Development Goals
+SDG 1.5
+SDG 2.1, 2.3, 2.c
+SDG 3.3, 3.7, 3.c, 3.d
+SDG 5.2, 5.4
+SDG 9.3
+SDG 10.4
+4. Risk Categorization:
+Complex 
+Total
+Climate Change Information
+GHG reductions (tons per annum)
+Climate Change impact on the 
+Project
+ADB Financing
+Adaptation ($ million)
+Mitigation ($ million)
+Cofinancing
+Adaptation ($ million)
+Mitigation ($ million)
+Gender Equity and Mainstreaming
+Effective gender mainstreaming (EGM)
+Poverty Targeting
+General Intervention on Poverty
+.
+.
+5. Safeguard Categorization
+Environment: C   Involuntary Resettlement: C   Indigenous Peoples: C
+6. Financing
+Modality and Sources
+ADB
+     Sovereign COVID19 Pandemic Response Option (Regular Loan):  Ordinary 
+capital resources
+Cofinancing
+     None
+Counterpart 
+     None
+Total
+Currency of ADB Financing: US Dollar 
+Amount ($ million)
+250.00
+250.00
+0.00
+0.00
+0.00
+0.00
+250.00
+Source: Asian Development Bank
+This document must only be generated in eOps.
+04112020141207741439
+Generated Date: 09-Nov-2020 8:18:10 AM
+I.  THE PROPOSAL 
+1. 
+I submit for your approval the following report and recommendation on a proposed loan to 
+Papua New Guinea (PNG) for the COVID-19 Rapid Response Program under the Countercyclical 
+Support Facility's COVID-19 pandemic response option (CPRO).1 
+2. 
+Among the Pacific developing member countries of the Asian Development Bank (ADB), 
+only PNG is currently affected by community transmission of the coronavirus disease (COVID-
+19). The country is classified as a small island developing state, in a fragile and conflict-affected 
+situation.2 It  exhibits  vulnerabilities in its  economy  and  health system,  limited fiscal space,  and 
+significant  reliance  on  development  partners  to  help  it  achieve  its  development  objectives. 
+The economy is projected to contract by 2.9% in 2020, and poverty and unemployment are rising. 
+To manage the adverse socioeconomic impacts of COVID-19, the government is implementing a 
+$769 million countercyclical program, including an economic stimulus package that encompasses 
+the  government’s  COVID-19  health,  education,  and  multisector  response  plans.3 Collectively, 
+these represent the government’s overall pandemic response plan, and the proposed CPRO will 
+help the government implement it. PNG meets the access criteria of the CPRO (Table 1).4  
+Table 1: Summary Assessment of Compliance with the Access Criteria for the 
+Countercyclical Support Facility and the COVID-19 Pandemic Response Option  
+Access Criterion 
+1.  Adverse impact 
+of exogenous 
+shocks 
+2.  Countercyclical 
+development 
+expenditures 
+Asian Development Bank Assessment 
+GDP is projected to contract by 2.9% in 2020 in real terms, against 2.1% growth projected 
+prior  to  the  pandemic,  driven  by  contractions  in  construction,  accommodation  and  food 
+services, and transport (main text, para. 8). The 2020 fiscal balance is estimated to worsen 
+from  –5%  of  GDP  pre-COVID-19  to  –8.2%  of  GDP  post-COVID-19.  Public  sector  debt  is 
+expected to reach 49.8% of GDP in 2020, compared with 39.8% in 2019. The 2020 current 
+account surplus is projected to decline to 15.9%, from 22.3% in 2019. The pandemic resulted 
+in immediate and significant negative impacts on unemployment (31% of household heads 
+lost their jobs) and poverty (increase by 4.5 percentage points) (main text, paras. 11–12). 
+total 
+Countercyclical  development  expenditures  approved  and  prepared 
+$769 million (3.2% of GDP). This includes support for pro-poor countercyclical expenditures 
+of $445 million through the budget and $324 million from domestic institutions—in the form 
+of  support  for  the  health  system  response;  improved  social  assistance;  better  hygiene; 
+support for agricultural development and food security; support for micro, small, and medium-
+sized enterprises; loan repayment holidays; and superannuation withdrawals to mitigate the 
+impacts of COVID-19, especially on vulnerable groups (main text, paras. 14–16). 
+for  2020 
+3.  Pre-shock record 
+of generally 
+sound 
+macroeconomic 
+management 
+Growth,  which  averaged  4.2%  during  2015–2019,  was  undermined  by  falling  commodity 
+prices, droughts, and an earthquake. Despite the multiple shocks, fiscal policy was generally 
+sound, and the deficit averaged 3.9% during 2015–2019. The government managed to limit 
+the fiscal deficit to 2.5% of GDP in 2017 and 2.6% of GDP in 2018 under a fiscal consolidation 
+strategy.  In  2019,  as  it  stepped  up  capital  expenditures  to  stimulate  growth,  the  deficit 
+1  Asian Development Bank (ADB). 2020. Policy Paper: ADB’s Comprehensive Response to the COVID-19 Pandemic. 
+Manila. 
+2  ADB  uses  the  harmonized  multilateral  development  bank  approach  for  categorizing  fragile  and  conflict-affected 
+situations. It is based on the average of ADB’s country performance assessment and the World Bank’s country policy 
+and institutional assessment. 
+3  Ministerial Statement on an Economic Stimulus Package. Address by the Treasurer to Parliament on 2 April 2020; 
+Government of PNG, Department of Health. 2020.  Papua New Guinea Emergency Preparedness and Response 
+Plan COVID-19. Port Moresby; Government of PNG, Department of Education. 2020. Papua New Guinea COVID-
+19 Education Emergency Response and Recovery Plan. Port Moresby; United Nations (UN). 2020. COVID-19 Multi-
+Sector  Response  Plan.  Port  Moresby.  The  COVID-19  Multi-Sector  Response  Plan  is  approved  by  the  Disaster 
+Management Team. The team is led by the Controller and the UN Resident Coordinator. Operations in each sector 
+are co-led by government departments and UN agencies. 
+4  A detailed assessment is in Appendix 4.  
+2 
+Access Criterion 
+Asian Development Bank Assessment 
+expanded to 4.9% of GDP. Fiscal reform is ongoing and supports revenue-raising measures 
+and expenditure control guided by IMF technical assistance under a Medium-Term Revenue 
+Strategy  (2018–2022)  and  an  IMF  SMP.  The  central  bank  has  managed  price  stability 
+(inflation averaged 5.3% during 2015–2019) through its exchange rate mechanism and other 
+monetary policy tools. However, the exchange rate mechanism, combined with a policy of 
+foreign currency rationing, resulted in foreign exchange shortages, which dampened growth 
+(main text, para. 7).  
+A  state  of  emergency  was  declared  on  23  March  2020,  accompanied  by  the  State  of 
+Emergency  Act  2020. This  was  replaced  by  the  National  Pandemic  Act  2020  on  16  June 
+2020. On 17 June 2020, the National Control Centre was set up to manage the response 
+and  coordinate  national  government  agencies  and  development  partner  support. 
+Borders have  been  closed  since  26  March  2020  and  remain  so,  but  initial  restrictions  on 
+domestic  movements  were  relaxed.  The  Department  of  Health  issued  the  Emergency 
+Preparedness and Response Plan in March 2020, which outlined key actions to respond to 
+COVID-19.  The  government  added  beds  in  intensive  care  units  and  isolation  facilities, 
+purchased  medical  and  personal  protective  equipment,  increased  COVID-19  testing, 
+strengthened contact tracing, and trained frontline health workers (main text, paras. 5 and 
+14). Lessons from the pandemic will feed into the preparation of the National Action Plan for 
+Health Security 2021–2030, with longer-term public health and preventative measures.  
+Public sector debt in 2020 is forecast to expand to 49.8% of GDP post-COVID-19, compared 
+with a 40.3% pre-pandemic projection. The IMF’s DSA prepared in June 2020 puts PNG at 
+high risk of debt distress, with no access to external market finance. The rating results from 
+the  COVID-19-induced  breaches  of  the  debt  service–revenue  ratio.  However,  debt  is  still 
+assessed as sustainable, conditional on the implementation of sound fiscal policies and SMP 
+commitments.  A  DSA  conducted  by  ADB  shows  that  the  negative  consequences  of  the 
+pandemic  are primarily short-to-medium term, with positive growth resuming  as pandemic 
+effects subside. ADB’s proposed loan is not expected to add significantly to the debt service 
+obligations or affect PNG’s debt sustainability (main text, para. 27). 
+ADB has been in close communication with the IMF on the CPRO. In June 2020, the IMF 
+disbursed  $364  million  to  PNG  under  an  RCF,  noting  the  need  for  additional  financing 
+support. The IMF’s RCF report is provided in lieu of an assessment letter. The IMF began an 
+SMP in February 2020, and ADB closely coordinated with the IMF on the proposed State-
+Owned Enterprise Reform Program, which is a benchmark in the SMP (main text, para. 24).  
+4.  Structural 
+reforms 
+(including health 
+response) 
+5.  Debt 
+sustainability 
+6.  Coordination 
+with the IMF 
+ADB = Asian Development Bank, COVID-19 = coronavirus disease, CPRO = COVID-19 pandemic response option, 
+DSA = debt sustainability analysis, GDP = gross domestic product, IMF = International Monetary Fund, PNG = Papua 
+New Guinea, RCF = Rapid Credit Facility, SMP = Staff-Monitored Program. 
+Source: Asian Development Bank. 
+II. 
+PROGRAM AND RATIONALE 
+A. 
+Background and Development Constraints 
+3. 
+Resource-rich but inherently vulnerable. PNG is a resource-dependent, lower middle-
+income country with an estimated population of 9.3 million and per-capita gross national income 
+of $2,685 in 2019.5 The mineral sector (mining, petroleum, and natural gas) accounted for 28% 
+of  gross  domestic  product  (GDP)  in  2019, while  agriculture,  forestry,  and  fisheries  contributed 
+another 17.1%.6 Micro, small, and medium-sized enterprises (MSMEs) account for about 25% of 
+GDP (of the formal economy) and 24% of the labor force.7 MSMEs are mainly engaged in retail 
+and service industries and operate in urban and peri-urban settings. PNG, despite its wealth of 
+natural resources, remains politically and socially fragile with high rates of violent crime, ethnic 
+5  ADB. 2020. Key Indicators for Asia and the Pacific 2020. Manila. 
+6  PNG. 2019. National Budget 2020. Port Moresby. 
+7  United  Nations  Development  Programme  (UNDP).  2020.  Socio-economic  Impact  Assessment  of  COVID-19  on 
+Papua New Guinea. Port Moresby. 
+3 
+violence, and one of the highest rates of gender-based violence (GBV) in the world.8 It has the 
+lowest life expectancy in the Pacific region (65.9 years in 2018). An estimated 48% of children 
+born  in  PNG  are  stunted  or  chronically  undernourished  (double  the  rate  of  countries  with  a 
+comparable GDP per capita), risking cognitive limitations in a population where a majority of the 
+workforce has completed a maximum of grade ten education.9 These fragilities are reflected in 
+the  United  Nations Development  Programme  (UNDP)  human  development  index,  which ranks 
+PNG 155th out of 189 economies.10 PNG is also prone to disasters caused by natural hazards. 
+Since 2016, PNG has experienced droughts, earthquakes, and a volcanic eruption.  
+4. 
+Fragile health system. PNG is making modest progress in improving its health outcomes. 
+However, its performance is uneven. The maternal mortality ratio declined from 470 deaths per 
+100,000 live births in 1990 to 215 deaths in 2015, and was estimated at 171 during 2016–2018.11 
+PNG’s human development index rose by 43% between 1990 and 2017 and its ranking remains 
+low (footnote 10). Health facilities are in poor condition and short of medical supplies. The country 
+does  not  have  enough  health  workers  and  is  generally  unprepared  to  respond  to  a  pandemic 
+(footnote 3). Financial constraints limit the number of outreach clinics, particularly in rural areas. 
+Only  12  of  the  22  provinces  have  pre-triaging  areas  and  isolation  facilities;  most  provincial 
+hospitals (16 of 22) have limited capacity in their intensive care units (ICUs)—only 93 ICU beds 
+and 12 functioning ventilators for COVID-19 patients are available nationwide; and the quality of 
+these  beds  and  the  adequacy  of  supplies  such  as  personal  protective  equipment  (PPE)  are 
+unknown.  According  to  the  World  Health  Organization,  PNG’s  preparedness  and  response 
+capacity for COVID-19 is at Level 2 (where Level 5 is best).  
+5. 
+Government quick to act on COVID-19. PNG’s first case of COVID-19 was detected on 
+20 March 2020. The following day, a state of emergency was declared, which also activated the 
+United  Nations  (UN)  Humanitarian  Cluster  system.  The  government  closed  the  borders  from 
+26 March  2020,  imposed  internal  travel  restrictions,  and  decreed  a  national  lockdown  on  23 
+March–27 April 2020. On 23 March 2020, the Prime Minister appointed the Police Commissioner 
+as "Emergency Controller," which Parliament confirmed in April 2020. Parliament also passed the 
+National Pandemic Act 2020 on 16 June 2020, which outlines the legal powers conferred to the 
+Controller, as well as the reporting obligations and financial management arrangements (including 
+the need for audits) for the medium-term response to the pandemic.12 With this act in place, the 
+state of emergency was lifted. On 17 June 2020, the National Control Centre (NCC) was set up 
+to manage the response and coordinate national government agencies and development partner 
+support,  including  the  implementation  of  the  pandemic  response  plan  (para.  2).  A  second 
+lockdown was imposed on 29 July–14 August 2020. The lockdowns meant that most businesses 
+and  institutions,  including  schools,  were  shut  for  about  7  weeks.  This  depressed  domestic 
+demand and required education to be delivered virtually (para. 15). No domestic flight restrictions 
+apply at present, but international travelers are admitted subject to strict entry regulations.13 
+8  Médecins Sans Frontières (Doctors Without Borders) estimates that up to 70% of women in PNG have experienced 
+physical or sexual assault in their lifetime. Médecins Sans Frontières. 2016. Return to Abuser: Gaps in Services and 
+a Failure to Protect Survivors of Family and Sexual Violence in PNG (accessed 24 October 2020).  
+9  World Bank. Papua New Guinea Economic Update. January 2020. pp. 47–48. 
+10 UNDP.  Human  Development  Report  2019—Inequalities 
+in  Human  Development 
+in 
+the  21st  Century. 
+http://hdr.undp.org/sites/all/themes/hdr_theme/country-notes/PNG.pdf (accessed 21 August 2020). 
+11 Government of PNG, National Statistical Office; and ICF. 2019. Papua New Guinea Demographic and Health Survey 
+2016-18: Key Indicators Report. Port Moresby; and Rockville, Maryland, United States. 
+12 Government of PNG. 2020. National Pandemic Act 2020. https://covid19.info.gov.pg/  
+13 The National Pandemic Act (Measure No. 2) outlines international travel measures. They restrict entry to four PNG 
+seaports (Port Moresby, Rabaul, Morobe, Madang) and Port Moresby’s international airport. No person is permitted 
+entry unless provided with an exemption by the Controller. A 14-day quarantine period is required upon arrival.   
+4 
+COVID-19 tally. As of 16 November 2020, PNG recorded 602 positive cases of COVID-
+6. 
+19  and  7  deaths  across  13  provinces  (out  of  22  administrative  regions),  and  had  carried  out 
+29,466  tests. 14 , 15  While  the  rate  of  testing  has  increased  since  March  2020,  testing  in  the 
+provinces (and the settlement areas of Port Moresby) remains inadequate given that most cases 
+are  not  epidemiologically  linked,  suggesting  widespread  community  transmission.  In  mid-July 
+2020, PNG recorded a dramatic upsurge in COVID-19 infections, reflecting increased testing.16 
+Testing  is  carried  out  through  a  network  of  public  and  private  clinics  with  samples  processed 
+through  two  laboratories  in  Port  Moresby  and  Goroka,  and  overseas.  However,  effective 
+surveillance  is  limited  by  the  slow  processing  time  and  lack  of  patient  identification  after  the 
+results.  The  ADB-financed  public  health  surveillance  system  (electronic  national  health 
+information  system)  is  supporting  surveillance  by  tracking  COVID-19-  associated  symptoms, 
+including pneumonia, and through death reports.  
+7. 
+Pre-shock  record  of  generally  sound  fiscal  management.  Growth  averaged  4.2% 
+between 2015–2019, but has been volatile because of falling commodity prices, droughts, and an 
+earthquake  (Table  2).  Despite  the  multiple  shocks,  fiscal  policy  was  generally  sound,  and  the 
+deficit averaged 3.9% during 2015–2019. The government managed to limit the deficit to 2.5% of 
+GDP in 2017 and to 2.6% of GDP in 2018 under a fiscal consolidation strategy. Additionally, the 
+government adopted fiscal reforms—including revenue-raising measures under a medium-term 
+revenue  strategy  guided  by  International  Monetary  Fund  (IMF)  technical  assistance  (TA),  and 
+measures  aimed  at  controlling  recurrent  expenditure.17 A  switch  to  a  more  expansionary  fiscal 
+policy in 2019 led to a deficit of 4.9% of GDP, largely driven by increased capital expenditure to 
+stimulate growth, but also in a context of weaker revenues and a revision to nominal GDP.18 
+Table 2: Selected Economic and Fiscal Indicators 
+2016 
+2017 
+2018 
+2019e 
+4.1 
+6.7 
+16.1 
+3.5 
+5.4 
+15.9 
+5.0 
+3.6 
+16.2 
+(0.8) 
+4.7 
+17.8 
+2020p 
+2.1 
+3.8 
+15.3 
+2015 
+9.5 
+6.0 
+18.3 
+Item 
+GDP growth (%, constant prices) 
+Inflation (CPI period average) 
+Total revenue and grants (% of GDP), of 
+which 
+12.8 
+13.9 
+    Domestic revenue (% of GDP) 
+22.2 
+20.9 
+Total expenditure (% of GDP), of which 
+14.3 
+14.0 
+   Recurrent expenditure (% of GDP) 
+(8.2) 
+(4.7) 
+Fiscal surplus (deficit) (% of GDP) 
+49.8 
+33.7 
+Gross public debt (% of GDP), of which 
+23.6 
+    Gross external public debt (% of GDP) 
+8.5 
+2,312.8  2,431.6  2,281.7 
+Gross official foreign reserves ($ million)  1,738.0  1,656.1 
+5.8 
+6.4 
+     In months of imports 
+15.9 
+25.0 
+Current account balance (% of GDP) 
+( ) = negative, COVID-19 = coronavirus disease, CPI = consumer price index, e = estimated, GDP = gross domestic 
+product, p = projected (pre-COVID-19), r = revised projection (post-COVID-19). 
+Source: International Monetary Fund, Article IV Reports. 
+13.9 
+18.4 
+14.0 
+(2.5) 
+32.7 
+8.8 
+1,735.6 
+5.1 
+23.5 
+15.5 
+20.4 
+14.5 
+(2.6) 
+38.3 
+15.2 
+2,214.8 
+6.7 
+23.0 
+14.1 
+21.1 
+13.9 
+(4.9) 
+39.8 
+17.0 
+16.9 
+22.9 
+14.0 
+(4.6) 
+29.9 
+6.7 
+14.3 
+20.3 
+13.5 
+(5.0) 
+40.3 
+18.5 
+2020r 
+(2.9) 
+3.3 
+14.0 
+5.4 
+22.3 
+6.2 
+22.3 
+10.0 
+20.2 
+Severe exogenous shock. The economy has been increasingly battered by the COVID-
+8. 
+19 pandemic. Forecasts of real GDP have changed drastically from an estimated growth of 2.1% 
+14 This count includes 20 provinces, the Autonomous Region of Bougainville, and the National Capital District. 
+15 World Health Organization (WHO). WHO Coronavirus Disease Dashboard (accessed on 17 November 2020). 
+16 On 15 July, PNG had 11 recorded cases with 7,690 cumulative tests. On 1 September, PNG had 460 recorded cases 
+with 16,518 cumulative tests. 
+17 2019 Article IV Consultation and Request for a Staff-Monitored Program (accessible from the list of linked documents 
+in Appendix 2). 
+18 The 2020 budget used the October 2019 Supplementary budget revised nominal GDP calculations for 2016–2020 
+which were down by 4.0% from the 2019 budget, driven by an exercise to more accurately value GDP. Without this 
+revaluation, the fiscal deficit would have been –4.7% (compared with –4.9% actual) and the debt stock would have 
+been 38.2% (compared with 39.8% actual). 
+5 
+to a contraction of 2.9% in 2020. Export revenues fell as global commodity prices weakened along 
+with weaker external demand, and declines in mining production also contributed to lower exports. 
+Lockdowns and restrictions on international and domestic travel hurt several industries: transport, 
+accommodation and food services, real estate, manufacturing, and construction. Cognizant that 
+adverse business conditions and lower economic activity are anticipated to continue into 2021 
+because  of  the  continued  spread  of  COVID-19  and  ongoing  depressed  regional  demand,  the 
+government is formulating the 2021 national budget with support from development partners in 
+an effort to continue critical pandemic response plan measures and identify opportunities for re-
+energizing productive economic sectors outside the extractive industries, such as infrastructure 
+(para. 21). In response to this uncertainty, the government indicated that several critical elements 
+of the pandemic response plan were likely to continue and be reflected in the 2021 budget.  
+Fiscal impact of COVID-19. The fiscal deficit is projected to expand to 8.2% of GDP, from 
+9. 
+5.0% of GDP before the pandemic. This reflects an estimated fall in revenues of 19.4% and a net 
+expenditure  cut  of  3.9%  in  2020  when  compared  to  projections  before  the  pandemic. 
+The  government  reduced  its  revenue  projection  from  15.3%  of  GDP  to  14.0%  of  GDP. 
+The  supplementary  budget  announced  expenditure  cuts  totaling  K2.3  billion  from  the  2020 
+budget, and directed K1.6 billion to fund COVID-19-related and other expenditures.19  
+10. 
+COVID-19 impact on finance sector. The impact on the finance sector is expected to be 
+limited.  Nonperforming  loans,  which  were  4.0%  of  total  loans  prior  to  the  pandemic,  including 
+those of MSMEs, are expected to increase moderately. Commercial banks are profitable and well 
+capitalized, and are expected to be able to absorb credit losses.20 Nonbank financial institutions 
+typically lend only against collateral, such as movable assets, and have limited exposure to the 
+high-risk market segment of MSMEs. While liquidity was sufficient prior to COVID-19, the Bank 
+of  Papua  New  Guinea  (BPNG)  has  subsequently  provided  additional  liquidity  through  a 
+quantitative easing program and continues to monitor this closely. 
+Socioeconomic  impacts  of  COVID-19.  Poverty  models  suggest  that  the  poverty  rate 
+11. 
+was about 27.2% before the pandemic; based on a 10% decline in mean per capita consumption, 
+the poverty rate could jump to 31.7% in 2020.21 As of June 2020, up to 31% of household heads 
+were  reported  to  have  lost  their  jobs  (footnote  7).  The  most  vulnerable  are  those  without  any 
+alternative sources of income, such as low-income earners and subsistence workers. Of these 
+vulnerable people, 79% are employed and 48% are women.22 Disruption in the food supply chain 
+and surges in food prices particularly threaten the 26.5% of the population below the national food 
+poverty  line  (with  an  incidence  of  28.5%  in  rural  areas).23 Protracted  impacts  on  employment 
+indicate a longer period of recovery, which could exacerbate pre-existing challenges of stunting, 
+wasting,  and  malnutrition  (para.  3).  With  limited  social  insurance  programs  in  the  country, 
+vulnerable  groups  such  as  poor  households,  older  people,  people  with  disabilities,  and 
+households headed by women are at risk of slipping into poverty. Of these vulnerable people, 
+80% currently have no income or only limited ability to generate income, and 67% do not have 
+access  to  basic  services  such  as  water  and  sanitation,  health  clinics,  and  primary  schools. 
+19 The supplementary budget showed a net reduction in recurrent expenditure of K0.8 billion, and a net increase in 
+capital expenditure of K0.1 billion. 
+20 Commercial banks reported a combined ratio of Tier 1 capital to risk-weighted assets of 34.9% as of June 2019. 
+21 J.  Bulan  et  al.  2020.  COVID-19  and  Poverty:  Some  Scenarios.  Unpublished  note  prepared  for  ADB’s  Economic 
+Research and Regional Cooperation Department. The poverty rate, based on a poverty line of $1.90 per day, was 
+last recorded at 39.9% (2009). Reflecting trends since 2009, including in GDP per capita, the poverty rate is modeled 
+to have fallen to 27.2% as of 2020, pre-COVID-19.  
+22 ADB. 2012. Papua New Guinea Poverty Profile: Technical Report. Manila. 
+23 Government  of  PNG,  National  Statistics  Office.  2010.  2009–2010  Household  Income  and  Expenditure  Survey. 
+Port Moresby. 
+6 
+Interrupted schooling because of domestic containment and lockdown measures will potentially 
+have long-term effects on students’ performance and learning (footnote 7).   
+12.  Women and girls particularly vulnerable. In addition to the risk of COVID-19 infection, 
+additional  health  impacts  on  women  and  girls  include  the  diversion  of  resources  from  other 
+essential  services  such  as  maternal  and  reproductive  health  care.  The  UN  Population  Fund 
+research  highlights  that  GBV  is  increasing  and  that  the  state  of  emergency  severely  curtailed 
+women and girls’ ability to access GBV services.24 The COVID-19 pandemic is also undermining 
+women’s  economic  security.  Women  are  more  vulnerable  to  economic  hardships  given  their 
+reliance on informal work (60% of informal entrepreneurs are women). Even before the state of 
+emergency, women's workforce participation was lower than men's—men were almost twice as 
+likely as women to have wage jobs in the formal sector. The Women’s Microbank is experiencing 
+95%  customer  default  on  either  single  or  multiple  loan  repayments  as  many  of  their  women 
+entrepreneur clients feel the impacts of COVID-19. While the data is not disaggregated by sex, a 
+UN survey of MSMEs found that 37% have temporarily ceased operations and a further 25% have 
+reduced  staff  or  wages  (footnote  7).  The  same  research  indicates  that  the  income  of  80%  of 
+households has been negatively affected, with debt increasing by up to 42%.  
+B. 
+The Government’s COVID-19 Countercyclical Responses 
+Strong countercyclical expenditure plan. The government’s pandemic response plan 
+13. 
+(para.  2)  totals  $769  million  (3.2%  of  GDP).  The  plan  (Table  3)  comprises  multiple  measures 
+(paras.  14–16) to  improve  core  health  sector  capacities,  respond  adequately to  the  pandemic, 
+minimize the impacts on vulnerable groups, and provide economic stimulus to boost aggregate 
+demand and help the economy through the recovery.  
+Table 3: Pandemic Response Plan, 2020 
+($ million) 
+Budget 
+Total 
+Government 
+Item 
+Health and safety  
+Health system strengthening  
+Water, sanitation, and hygiene 
+Safety 
+Social assistance, food security, and 
+protection of vulnerable groups  
+Social protection (e.g., against GBV) 
+Food security and nutrition  
+Education 
+Superannuation / unemployment  
+MSMEs and other economic support 
+MSMEs and agriculture 
+MSME lending through commercial banks 
+Infrastructure stimulus 
+Loan repayment holidays 
+90 
+33 
+18 
+39 
+35 
+35 
+208 
+61 
+59 
+88 
+166 
+92 
+35 
+39 
+213 
+6 
+38 
+22 
+147 
+390 
+66 
+59 
+88 
+177 
+769 
+Donor-
+Fundeda 
+76 
+59 
+17 
+31 
+6 
+3 
+22 
+5 
+5 
+Domestic 
+Institutions' 
+Support 
+0 
+147 
+147 
+177 
+177 
+324 
+Total 
+GBV = gender-based violence; MSMEs = micro, small, and medium-sized enterprises.  
+a  Development partners’ support though the multisector response plan. This expenditure will be recorded in the 2020 
+333 
+112 
+Final Budget Outcome.  
+Source: Papua New Guinea Supplementary Budget, September 2020. 
+24 United Nations Population Fund. 2020. The State of Gender-Based Violence During the COVID-19 Crisis and State 
+of Emergency. Port Moresby. 
+7 
+Health and safety ($166 million). Following confirmation of the first COVID-19 case in 
+14. 
+March  2020,  the  government,  with  development  partner  support,  is  expending  $92  million  on 
+health system strengthening, delivering (i) 400 non-ICU beds in temporary isolation facilities for 
+COVID-19  patients  across  the  country,  (ii)  clinical  guidelines  on  how  to  manage  COVID-19 
+patients  and  training  in  COVID-19  case  management  for  about  4,836  health  workers, 
+(iii) a community education campaign and establishment of logistic arrangements, and (iv) rapid 
+procurement  of  test  kits  and  PPE  to  support  national  testing  capacity.25 To  improve  access  to 
+water,  sanitation,  and  hygiene,  the  government  and  development  partners  are  implementing 
+actions to provide water supply to communities, schools, and health care facilities ($35 million). 
+To protect the people, the government set up the NCC to coordinate its pandemic response, and 
+is  strengthening  quarantine  facilities,  border  protection,  and  policing  ($39  million).  Lessons 
+learned during the pandemic will feed into the preparation of long-term activities to be designed 
+and presented in the National Action Plan for Health Security 2021–2030 (footnote 3). 
+Social  assistance, 
+15. 
+food  security,  and  protection  of  vulnerable  groups 
+($213 million).26 The government’s social assistance and food security programs targeted poor 
+further  marginalized  because  of  COVID-19. 
+and  vulnerable  groups  at  risk  of  being 
+The government, with development partners, is expending $38 million on nationwide food security 
+activities, including distribution of food rations during April–December 2020. The main recipients 
+are those affected by income and job losses, especially in urban areas where they have fewer 
+means  to  grow  their  own  food;  5,000  individuals  in  the  National  Capital  District  (NCD)  are 
+estimated to have received food rations to date. Implementation is channeled through churches 
+and  local  administration  bodies  to  ensure  correctly  targeted  and  timely  distribution  of  relief. 
+This scheme draws on the databases of nongovernment organizations involved in volunteer and 
+humanitarian work in the NCD. In addition, an estimated 10,000 smallholder farmers and poor 
+rural  households  are  receiving  support  to  purchase  seedlings  or  home  gardening  kits,  or  to 
+manage threats to plant and animal health. The aim is to help them sustain their crop and livestock 
+production for household consumption and/or market sale, and thus prevent income losses from 
+COVID-19-induced  disruptions  to  economic  activities.  A  rapid  assessment  revealed  that  most 
+schools find it difficult to deliver remote teaching. In response, the government, with development 
+partner  support,  is  spending  $22  million  on  broadcasting  educational  television  and  radio 
+programs nationwide three times a week for secondary students, and daily radio programs for 
+primary  students.  This  benefits  more  than  370,000  children,  including  168,000  girls,  and 
+minimizes  learning  disruptions.  The  humanitarian  cluster  system  has  been  activated (para.  5), 
+including  the  protection  cluster.  The  government  and  development  partners  are  implementing 
+$6 million worth of initiatives, e.g., through the GBV and child protection subclusters, to ensure 
+the safety and protection of women, children, older people, and people with disabilities across the 
+country. Women and community groups were encouraged to produce face masks as a source of 
+immediate income. At least 200,000 locally made masks were procured by the government and 
+are  being  distributed  around the  NCD.  At  least  14,000  superannuation fund  members  working 
+mostly  in  the  formal  sector  (about  38%  of  them  women)  will  get  early  access  to  their 
+superannuation equivalent to 20% of their own contributions to date, or a maximum of K10,000, 
+for immediate cash assistance. This is estimated to total $147 million, or less than 5% of overall 
+assets held by the superannuation funds, so is not considered to impact the funds' sustainability. 
+25 An amount of $57,000 was disbursed to each province in June 2020 to support local COVID-19 activities and procure 
+supplies. The PPE procurement follows the same advance procurement arrangements supported by the UN Office 
+for  Project  Services  (UNOPS)  and  the  United  Nations  Children's  Fund  (UNICEF)  as  does  the  World  Bank’s 
+$19.38 million COVID-19 Emergency Response Project (P173834). 
+26 Summary of Social Assistance Measures (accessible from the list of linked documents in Appendix 2). 
+8 
+16.  MSMEs  and  other  economic  support  ($390  million).  The  government  took  several 
+measures  to  safeguard  small  businesses  and  rural  producers,  and  improve  the  hygiene  in 
+markets  and  business  centers  to  allow  trading  to  continue,  especially  for  informal  traders  and 
+small vendors. This includes $66 million to support the prices for coffee, cocoa, and copra farmers 
+and  stabilize  their  income,  and  a  market  improvements  program  for  producers.  Smallholder 
+producers receive logistics and transportation support, including aggregation of products to urban 
+hubs and main commercial markets. To date, 14 shipments took place from Lae to Port Moresby, 
+each  containing  10,000  bags  of  produce  or  912  dry  and  refrigerated  containers.  Lending  to 
+MSMEs is also being supported with a $59 million credit guarantee program delivered through 
+Bank  South  Pacific  (about  65%  market  share)  and  National  Development  Bank  (about  2.2% 
+market share). This will enable MSMEs to retain their workers. The lending support comes with 
+business training to build the resilience of small businesses to withstand the COVID-19 impacts. 
+The package includes $11 million for agriculture-related businesses; $7 million for youth, women, 
+and micro businesses; and a further $2.2 million exclusively for women-run businesses. Interest 
+rates range between 4%–5% with a term of 15–20 years. The government allocated $88 million 
+to  support  short-term  employment  through  capital  works  in  the  education,  health,  judiciary, 
+transport, and other infrastructure sectors. Finally, in April 2020, PNG’s financial institutions began 
+granting loan repayment holidays for 3 months or longer, estimated to cost $177 million. Laid-off 
+workers and businesses impacted by COVID-19 are eligible for this support.  
+17.  Monetary policy response. The BPNG launched a 3-month quantitative easing program 
+in April 2020, which injected K643 million into the financial system. As a further policy measure to 
+support liquidity, it reduced the cash reserve ratio of commercial banks from 10% to 7%. It also 
+reduced its policy rate, the kina facility rate, from 5% to 3%, and commercial banks responded by 
+reducing lending rates. 
+C. 
+Proposed  Program,  Impact,  ADB’s  Value  Addition,  and  Development  Partner 
+Coordination 
+18. 
+ADB’s program will support the government in containing the pandemic and cushion its 
+social  and  economic  impact,  particularly  on  the  poor  and  vulnerable.  It  is  aligned  with  PNG's 
+overarching development objective of mitigating the health, social, and economic impact of the 
+outbreak (footnote 3). The outcome will be: adverse effects of COVID-19 on businesses and the 
+population  reduced.  The  program  has  three  outputs:  (i)  COVID-19  health  response  measures 
+implemented,  (ii)  measures  to  protect  and  provide  social  assistance  and  food  security  to 
+vulnerable  groups  enhanced,  and  (iii)  MSMEs  safeguarded  from  the  economic  downturn. 
+The design and monitoring framework is in Appendix 1. 
+19. 
+Lessons  learned.  The  COVID-19  pandemic  exacerbated  the  country's  fragilities  and 
+required the use and strengthening of existing systems to meet the needs of the people. Policy 
+dialogue and experiences from other CPROs have shown that support to areas where ADB is not 
+traditionally  involved,  such  as  social  protection,  requires  longer  and  more  substantive 
+engagement with the government. While ADB’s ability to influence the design of social protection 
+initiatives is limited, the CPRO provides a basis for greater ADB engagement and the opportunity 
+to improve  these areas through  future  projects  and/or  TA.  COVID-19  presented  time-sensitive 
+challenges  in  procurement  and  logistics  to  which  national  agencies  were  not  previously 
+accustomed.  Contracting  the  UN  Office  for  Project  Services  (UNOPS)  to  procure  and  import 
+medical supplies through both the government and development partners has worked well. The 
+design of the proposed CPRO incorporates these lessons and reflects evaluation findings from 
+9 
+previous disaster responses, such as that to the 2018 earthquake, its coordination with the cluster 
+system, and the use of both government and partner systems to respond most effectively.27 
+20. 
+ADB’s value addition. This CPRO is part of a wider package of assistance to meet short-
+term response requirements—it supports the stabilization of the fiscal situation and contributes to 
+recovery efforts. It is complemented by TA funds ($1.6 million) to directly procure health supplies, 
+Asia Pacific Disaster Response Fund assistance ($3 million) to further contribute to the health 
+response, and a proposed policy-based operation focused on public financial management (PFM) 
+reforms  in  the  health  sector  (an  additional  $50  million  added  to  the  originally  planned  $100 
+million).28 This operation has supported the government in achieving critical actions underlying 
+their  health sector response  plan (para.  3).29 In concert  with  other  development  partners,  ADB 
+contributed  to  policy  discussions  on  the  economic  response  and  the  development  of  the 
+supplementary budget, especially on managing higher debt levels.30 ADB also supported a public 
+health surveillance system, and PFM regulatory reforms at the Department of Health's subnational 
+agencies and four provincial health authorities (footnote 28). ADB will embed consultants in the 
+Department  of  Treasury  (DOT)  to  support  monitoring  and  reporting  of  the  program’s 
+implementation, and the development of a revised medium-term fiscal strategy that provides a 
+path  toward  longer-term  fiscal  sustainability.  ADB  will  also  mobilize  regional  TA  in  support  of 
+social  assistance  and  gender  equality  to  help  monitor  these  aspects  of  the  CPRO,  build  the 
+capacity  of  line agencies  for  social  policy  development,  help them  strengthen  their  systems to 
+deliver  social  protection,  and  supplement  their  efforts  to  report  on  the  effectiveness  of  these 
+initiatives,  particularly  for  women  and  girls. 31  This  work  will  also  inform  any  future  ADB 
+interventions. 
+ADB’s support for recovery. ADB expects to provide further budget support through the 
+21. 
+Health  Services  Sector  Development  Program  ($150  million  in  2020)  and  the  State-Owned 
+Enterprises Reform Program ($100 million in 2020, $150 million in 2021, $250 million in 2022). 
+These  policy-based  operations  provide  financial  resources  to  help  meet  PNG's  short-term 
+financing  needs  while  supporting  policy  reforms  that  promote  longer-term  growth  and  poverty 
+reduction. To assist the country’s medium-term economic recovery, ADB has planned significant 
+investments  in  infrastructure  to  support  road  transport,  maritime  links,  and  domestic  and  air 
+transportation.  Quality  infrastructure  is  a  central  component  of  the  government’s  economic 
+recovery strategy. This pipeline of programs and projects complements the CPRO by building on 
+the government’s desire for macroeconomic stability, fiscal sustainability, and greater economic 
+growth, including beyond the extractive industries. 
+Alignment with Strategy 2030 and country partnership strategy. The CPRO is aligned 
+22. 
+with ADB’s Strategy 2030, particularly the operational priorities of addressing remaining poverty 
+and reducing inequalities, promoting rural development and food security, accelerating progress 
+in  gender  equality,  and  strengthening  governance  and  institutional  capacity.32 The  program’s 
+design  reflects  Strategy  2030’s  approach  to  fragile  and  conflict-affected  situations  and  small 
+27 Australian Humanitarian Partnership. 2019. Response to the 2018 PNG Highlands Earthquake Evaluation. Canberra. 
+28 ADB.  Papua  New  Guinea:  Health  Services  Sector  Development  Program  (Subprogram  3)  (proposed);  ADB. 
+Regional: COVID-19 Emergency Response; and ADB. Regional Support to Address the Outbreak of Coronavirus 
+Disease 2019 and Potential Outbreaks of Other Communicable Diseases. 
+29 Policy  actions  support  effective  emergency  preparedness  and  response  for  COVID-19  as  well  as  for  future 
+pandemics and other health emergencies. Actions include passing the National Pandemic Act 2020; preparation of 
+a COVID-19 health emergency response plan, and operationalization of emergency response structures.  
+30 ADB. Papua New Guinea: Supporting Public Financial Management (Phase 3).  
+31 ADB. Regional: Strengthening Social Protection in the Pacific; and ADB. Regional: Strengthening Gender Outcomes 
+in Pacific COVID-19 Response and Recovery. 
+32 ADB. Strategy 2030: Achieving a Prosperous, Inclusive, Resilient, and Sustainable Asia and the Pacific. 
+10 
+island  developing  states,  particularly  by  overcoming  capacity  constraints  through  a  tailored 
+approach,  such  as  embedding  consultants  in  long-term  advisory  roles  in  DOT  (footnote  30). 
+The program is aligned with the PNG country partnership strategy, 2016–2020, particularly the 
+operational  priorities  relating  to  inclusive  economic  growth,  rural  primary  health  delivery,  and 
+public sector management improvements.33 
+23. 
+Development  partner  coordination.  The  support  of  development  partners  for  the 
+government’s  COVID-19  response  is  well  coordinated  through  the  NCC  and  the  UN  Disaster 
+Management  Team. 34  The  NCC  is  at  the  center  of  the  response,  while  the  UN  leads  the 
+coordination with the development partners. Several UN agencies also directly support the relief 
+efforts.35 The UN Disaster Management Team, of which ADB is a member, is the primary vehicle 
+for the UN to align the efforts of development partners, keep the partners abreast of developments, 
+and  advocate for more financing  to meet  pressing needs  as  described  in the  COVID-19  Multi-
+Sector Response Plan (footnote 3).  
+24. 
+ADB maintains a regular dialogue with the IMF on assessments of PNG's macroeconomic 
+and  fiscal  situation.  When  the  IMF  prepared  its  Rapid  Credit  Facility  and  reviewed  its  Staff-
+Monitored Program, it sought ADB’s views on the economic outlook in the context of ADB’s budget 
+support in 2020, the proposed State-Owned Enterprise Reform Program, which is a benchmark 
+in the Staff-Monitored Program, and forward pipeline.36 ADB also sought the IMF’s views on the 
+CPRO access criteria.37 
+D. 
+Development Financing Needs, Budget Support, and Debt Sustainability  
+The  budget  deficit  of  8.2%  in  2020  is  equivalent  to  a  financing  need  of  $1.95  billion. 
+25. 
+This is $558 million more than the pre-pandemic need. The deficit will be financed through a mix 
+of domestic ($566 million) and external ($1,246 million) sources, with a further drawdown on the 
+cash  balance  of  $138  million  with  the  BPNG,  which  indicates  an  overall  financing  shortfall. 
+External borrowing will be entirely financed by multilateral and bilateral partners (Table 4). 
+Table 4: Urgent Financing Needs and Support for 2020  
+($ million) 
+Item 
+Revenues 
+Grants (COVID-19 related)a  
+Expenditure 
+COVID-19 pandemic response plan expenditurea  
+Budget balance 
+Total budget financing needed: 
+    Net domestic borrowing 
+    Drawdown from cash balance 
+    Net external borrowing: 
+             Commercialb 
+2020 (before COVID-19)  2020 (adjusted for COVID-19) 
+              4,146  
+0 
+              5,508  
+0 
+            (1,362) 
+              1,362  
+               370  
+                     0    
+                992  
+300 
+                  3,341  
+112 
+                4,958  
+445 
+                (1,950) 
+                  1,950  
+                      566  
+                      131  
+                  1,253  
+                   0 
+                      364  
+         International Monetary Fund 
+                     0    
+33 ADB. 2015. Country Partnership Strategy: Papua New Guinea, 2016–2020. Manila.  
+34 Development coordination (accessible from the list of linked documents in Appendix 2). 
+35 The World Health Organization is providing direct support to the NCC across all functions and set up a surveillance 
+team. UNOPS and UNICEF are acting as procurement agents for the World Bank and the government’s procurement 
+of emergency PPE, and medical and diagnostic equipment. 
+36 IMF. 2020. Request for Disbursement under the Rapid Credit Facility. Washington, DC.  
+37 International Monetary Fund Assessment Letter (accessible from the list of linked documents in Appendix 2). The 
+IMF confirmed on 14 September 2020 that the Rapid Credit Facility report may serve as the IMF assessment letter. 
+11 
+Item 
+         ADB: CPRO 
+         ADB: policy-based loans 
+         Othersc  
+2020 (before COVID-19)  2020 (adjusted for COVID-19) 
+                     0    
+                200  
+                492 
+                      250  
+                      250  
+                      389  
+ADB = Asian Development Bank, COVID-19 = coronavirus disease, CPRO = COVID-19 pandemic response option.  
+a  Details are provided in Table 3. 
+b  Commercial financing originally included a facility of up to $300 million from international banks backed by an ADB 
+policy-based partial credit guarantee that did not progress due to changing market conditions. 
+c  This includes financing provided by ADB project investments, the Government of Australia, the Government of Japan, 
+and the World Bank, among others; and factors in loan repayment, including to ADB. 
+Source: Asian Development Bank. 
+26. 
+The government has requested a regular loan of $250 million from ADB’s ordinary capital 
+resources to help finance the program. The loan will have a 15-year term, including a grace period 
+of 3 years; an annual interest rate determined in accordance with ADB’s London interbank offered 
+rate (LIBOR)-based lending facility; and such other terms and conditions set forth in the draft loan 
+agreement. The government’s development policy letter is in Appendix 3. 
+Debt sustainability. Despite the IMF classifying PNG at high risk of debt distress, debt 
+27. 
+sustainability analyses conducted by ADB and the IMF have shown that the consequences of the 
+pandemic would primarily be short-to-medium term.38 In the longer term, as PNG’s major resource 
+projects generate higher growth, the economic effects of the pandemic would gradually dissipate. 
+Planned lending from development partners would lift public debt to 49.8% of GDP in 2020 and 
+to 52.6% in 2023, before a downward trajectory resumes. The breaches of debt service limits are 
+either one-off or short-lived. The longer-term sustainability of PNG’s external and public debt is 
+preserved. Debt management is guided by a medium-term debt strategy that seeks to make use 
+of low-cost external financing. ADB provides TA support in debt management (footnote 30). ADB’s 
+proposed loan, which represents 2.5% of PNG’s outstanding public debt stock, is not considered 
+to add significantly to the debt service obligations of the government or affect debt sustainability. 
+E. 
+Implementation Arrangements 
+28. 
+DOT  will  be  the  executing  agency.  The  implementing  agencies  are  the  departments  of 
+health,  education,  community  development  and  religion,  agriculture  and  livestock,  national 
+planning and monitoring, and commerce and industries. DOT will monitor budget execution and 
+the flow of funds for countercyclical measures, and submit a report to ADB by the end of May 
+2021. ADB will commit TA resources (para. 20) to monitor program implementation which will be 
+aligned  to  the  government’s  monitoring  arrangements  (para.  5).  The  program  implementation 
+period is February 2020 to June 2021. The proceeds of the loan will be withdrawn in accordance 
+with ADB’s Loan Disbursement Handbook (2017, as amended from time to time).  
+III. 
+DUE DILIGENCE 
+29. 
+Governance. The most recent public expenditure and financial accountability assessment 
+was in 2015.39 PNG scored relatively well on credibility of the fiscal strategy and budget, policy-
+based planning and budgeting, and comprehensiveness and transparency. However, it has scope 
+for improvement in accountability; management of public assets, liabilities and associated fiscal 
+risks;  and  timeliness  of  fiscal  accounts.  ADB  and  development  partners  are  supporting  the 
+government’s  improvements  in  PFM.  The  current  administration  set  up  several  institutional 
+arrangements  to  ensure  that  COVID-19  funds  are  expended  as  intended.  This  includes  the 
+38 Debt Sustainability Analysis (accessible from the list of linked documents in Appendix 2). 
+39 IMF. 2015. Public Expenditure and Financial Accountability Assessment. Washington, DC. 
+12 
+Pandemic  Act  (para.  5),  financial  instructions  that  prescribe  how  COVID-19  funds  are  to  be 
+disbursed,  and  the  reporting  required.  Despite  PNG  ranking  137th  out  of  179  economies  in 
+corruption perception, improving governance is a priority, as evidenced by the Whistleblowers Act 
+2020, which protects civil servants who report maladministration or misconduct from retaliation.40 
+ADB’s Anticorruption Policy (1998, as amended to date) was discussed with the government. 
+30. 
+Poverty.  Poverty  has  increased  with  COVID-19  (para.  11).  The  impacts  on  the 
+employment of heads of households are severe, and temporary relief such as cash support from 
+superannuation  funds  will  prevent  households  from  falling  into,  or  deeper  into,  poverty. 
+Food supplies are an essential immediate response for those at high risk of reduced food intake, 
+especially  affected  informal  workers  in  urban  areas.  Most  poor  households  are  in  rural  areas 
+dominated  by subsistence  and  cash  crop  production;  hence,  agriculture  support  through  price 
+subsidies,  payment  of  freight  costs for transporting  produce  and distributing  planting  materials 
+and  livestock  will  help  maintain  food  and  cash  crop  production,  a  source  of  food  security  and 
+income for small-scale producers. The government’s assistance to MSMEs and informal traders 
+through market improvements, small business training, provision of loans, and loan repayment 
+holidays will prevent enterprises from going out of business or having to dismiss workers.   
+Gender.  The  program  is  categorized  effective  gender  mainstreaming. 41  It  includes 
+31. 
+proactive actions across all three output areas to support women’s health, safety, and economic 
+empowerment. To protect women’s health, the National Guidelines on Clinical Management of 
+COVID-19  Cases  include  gender  actions  such  as  provisions  for  pregnant  women,  continued 
+antenatal care and prioritizing GBV risk assessments, training for frontline health workers (most 
+are women) on the clinical management of COVID-19 (which has been provided), and ringfenced 
+budget  for  maternal  health  care  services.  The  GBV  subcluster  continues  to  be  activated  and 
+meets regularly; agreements are in place to ensure that GBV services across PNG are considered 
+"essential services" and can operate during lockdowns; and the government approved a code of 
+conduct preventing sexual exploitation and abuse by humanitarian workers. To support women’s 
+economic  empowerment,  the  government’s  package  to  support  MSMEs  will  target  women 
+entrepreneurs through low-interest financial products, market improvements, training, and loan 
+repayment  holidays.  In  addition,  women  and  women’s  groups  in  the  NCD  are  producing  face 
+masks  as  an  additional  income-generating  opportunity;  200,000  masks  were  procured  by  the 
+government to be distributed to communities around the NCD. 
+32. 
+Safeguards. In compliance with ADB’s Safeguard Policy Statement (2009), the program 
+was  screened  and  classified  category  C  for  environment,  involuntary  resettlement,  and 
+indigenous peoples.42 Additional due diligence confirmed that the program’s component with the 
+greatest risk—comprising a guarantee arrangement for lending to MSMEs—will not result in any 
+adverse environmental impacts.43 The banks will apply ADB’s prohibited investment activities list 
+in their lending to MSMEs. The program is not expected to have any significant environmental or 
+social safeguards impacts as per the provisions in the Safeguard Policy Statement. 
+33. 
+in Table 5 and described in detail in the risk assessment and risk management plan.44  
+Risks and mitigating measures. Major risks and mitigation measures are summarized 
+40 Transparency  International.  Corruption  Perceptions  Index.  https://www.transparency.org/en/cpi/2019/results/table 
+(accessed 1 October 2020). Government of Papua New Guinea. 2018. Medium Term Development Plan III 2018–
+2022. Waigani. 
+41 Gender Monitoring Matrix (accessible from the list of linked documents in Appendix 2). 
+42 ADB. Safeguard Categories. 
+43 Safeguards Assessment Matrix (accessible from the list of linked documents in Appendix 2). 
+44 Risk Assessment and Risk Management Plan (accessible from the list of linked documents in Appendix 2). 
+13 
+Table 5: Summary of Risks and Mitigating Measures 
+Risks 
+Economic and fiscal conditions 
+deteriorate because of 
+accelerating COVID-19 infections, 
+which further depresses demand.   
+Poor execution of the 
+government’s countercyclical 
+policies, not least because of 
+limited capacity, results in fewer 
+benefits than envisaged. 
+Political instability or a breakdown 
+in law and order hampers the 
+government’s efforts to execute 
+its countercyclical program. 
+Mitigation Measures 
+The government  will continue  to  support  the economy  and focus expenditure  on 
+initiatives that will limit the economic impacts of COVID-19. The government, with 
+the support of development partners, will monitor the effectiveness of interventions 
+and make adjustments as required. The IMF will provide policy advice, through the 
+implementation  of  the  Staff-Monitored  Program,  to  ensure  a  balance  between 
+economic stimulus and fiscal sustainability.  
+The  government’s  countercyclical  policies  have  been  designed  to  limit  the 
+complexity of stimulus measures and use existing channels to ensure that they can 
+be  implemented.  Existing  channels,  particularly  for  social  assistance,  have  their 
+limitations, but comprehensive and localized support from development partners is 
+helping  overcome  these  constraints  and  improve  monitoring.  ADB  technical 
+assistance resources will help supplement capacity.a 
+ADB maintains strong relationships across the legislature, including those who may 
+form a new government. ADB has strong relationships with key public servants in 
+central government agencies. The government has increased funding to the police 
+and the defense forces to maintain law and order. 
+ADB = Asian Development Bank, COVID-19 = coronavirus disease, IMF = International Monetary Fund. 
+a  ADB. Papua New Guinea: Supporting Public Financial Management (Phase 3); ADB. Regional: Strengthening Social 
+Protection in the Pacific; and ADB. Regional: Strengthening Gender Outcomes in Pacific COVID-19 Response and 
+Recovery. 
+Source: Asian Development Bank. 
+IV. 
+ASSURANCES 
+34. 
+The government has assured ADB that the implementation of the program shall conform 
+to all applicable ADB policies, including those concerning anticorruption measures, safeguards, 
+gender, procurement, consulting services, financial management, and disbursement as described 
+in detail in the loan agreement.  
+V. 
+RECOMMENDATION 
+35. 
+I am satisfied that the proposed loan would comply with the Articles of Agreement of the 
+Asian  Development  Bank  (ADB)  and  recommend  that  the  Board  approve  the  loan  of 
+$250,000,000 to Papua New Guinea for the COVID-19 Rapid Response Program, from ADB’s 
+ordinary  capital  resources,  in  regular  terms,  with  interest  to  be  determined  in  accordance  with 
+ADB’s  London  interbank  offered  rate  (LIBOR)-based  lending  facility;  for  a  term  of  15  years, 
+including a grace period of 3 years; and such other terms and conditions as are substantially in 
+accordance with those set forth in the draft loan agreement presented to the Board.  
+Masatsugu Asakawa 
+President 
+19 November 2020
+14 
+Appendix 1 
+DESIGN AND MONITORING FRAMEWORK 
+Country’s Overarching Development Objectives 
+Health, social, and economic impact of the outbreak mitigated  
+(Papua New Guinea Emergency Preparedness and Response Plan Coronavirus Disease 2019)a 
+Results Chain 
+Effect of the Program 
+Adverse effects of 
+COVID-19 on businesses 
+and the population 
+reducedb 
+Performance Indicators with 
+Targets and Baselines 
+Data Sources and 
+Reporting Mechanisms 
+Risks 
+a. At least 70% of 
+businesses still in 
+operation as of 
+31 December 2020 
+(31 December 2019 
+baseline: 100% 
+[60,378 businesses]) 
+b. By 31 December 2020, at 
+least 400,000 (at least 
+50% of them women) 
+benefit from at least one 
+form of support under the 
+program, with data 
+disaggregated by sex 
+(February 2020 baseline: 
+0) 
+a. Papua New Guinea 
+Company Registry. 
+Tracking using sex-
+disaggregated data 
+b. Department of 
+Treasury report and 
+World Bank high 
+frequency phone 
+surveys 
+Economic and 
+fiscal 
+conditions 
+deteriorate 
+because of 
+accelerating 
+COVID-19 
+infections, 
+which further 
+depresses 
+demand. 
+Outputs 
+By 31 December 2020: 
+1. COVID-19 health 
+1.1 At least 4,500 health 
+response measures 
+implemented 
+care workers (at least 
+50% of them women) 
+have improved 
+knowledge and skills in 
+COVID-19 clinical 
+management (February 
+2020 baseline: 0) 
+1.2 Gender-sensitivec 
+National Guidelines on 
+Clinical Management of 
+COVID-19 Cases are 
+approved (February 
+2020 baseline: no such 
+guidelines) 
+1.1 National Department 
+of Health reports and 
+health cluster 
+minutes 
+1.2 COVID-19 Health 
+Situation reports  
+Poor execution 
+of the 
+government’s 
+countercyclical 
+policies, not 
+least because 
+of limited 
+capacity, 
+results in fewer 
+benefits than 
+envisaged. 
+Political 
+instability or a 
+breakdown in 
+law and order 
+hampers the 
+government’s 
+efforts to 
+execute its 
+countercyclical 
+program. 
+1.3 An additional 49 
+polymerized chain 
+reaction and/or 
+GeneXpert machines 
+procured (February 2020 
+baseline: 1 machine) 
+1.3 COVID-19 Health 
+Situation reports 
+Results Chain 
+Performance Indicators with 
+Targets and Baselines 
+1.4 $27.2 million of funding 
+Data Sources and 
+Reporting Mechanisms 
+1.4 Department of 
+Risks 
+Appendix 1 
+15 
+2.  Measures to protect 
+and provide social 
+assistance and food 
+security to vulnerable 
+groups enhanced 
+Treasury reports 
+2.1 Department of 
+Community 
+Development and 
+Religion reports, and 
+gender and 
+protection subcluster 
+minutes 
+2.2 Department of 
+Agriculture and 
+Livestock reports, 
+and food security 
+cluster minutes 
+is preserved for maternal 
+and reproductive health 
+services in 2020 (2019 
+baseline: $4.3 million) 
+2.1 At least 200,000 locally 
+made face masks 
+procured from 
+community and women’s 
+groups and distributed 
+around the National 
+Capital District (February 
+2020 baseline: 0) 
+2.2 At least 10,000 small-
+scale farmers are 
+provided with agriculture 
+inputs or animal health 
+support so they can 
+continue to generate 
+income and produce for 
+their families and 
+communities (February 
+2020 baseline: no 
+support provided to 
+small-scale farmers) 
+2.3 At least 5,000 people 
+2.3 Ministry of Women, 
+Youth, Children, and 
+Family Affairs 
+reports 
+2.4 National Control 
+Center report 
+affected by income and 
+job losses received food 
+rations through churches 
+and city councils 
+(February 2020 baseline: 
+0) 
+2.4 A code of conduct 
+preventing sexual 
+exploitation and abuse 
+by humanitarian workers 
+is endorsed by the 
+National Controller 
+(February 2020 baseline: 
+no code of conduct) 
+3. MSMEs safeguarded 
+from the economic 
+downturn 
+3.1 The government 
+3.1 Department of 
+provides $51.7 million to 
+at least 2 commercial 
+banks for new lending to 
+MSMEs (February 2020 
+baseline: 0) 
+Commerce and 
+Industry reports, and 
+reporting from 
+participating banks 
+16 
+Appendix 1 
+Results Chain 
+Performance Indicators with 
+Targets and Baselines 
+3.2 The government 
+Data Sources and 
+Reporting Mechanisms 
+3.2 Department of 
+Risks 
+Commerce and 
+Industry reports, and 
+reporting from 
+participating banks 
+3.3 Department of 
+Agriculture and 
+Livestock reports, 
+and food security 
+cluster minutes 
+provides $2.3 million to 
+at least 1 bank for a 
+dedicated loan product 
+for women-operated 
+MSMEs (February 2020 
+baseline: 0) 
+3.3 At least 10,000 small 
+cash-crop producers, 
+especially in the cocoa, 
+coffee, and copra 
+industries, are provided 
+with some price 
+subsidies (February 
+2020 baseline: no 
+subsidies provided to 
+small cash-crop 
+producers) 
+Budget Support 
+ADB: $250 million (loan) 
+ADB  =  Asian  Development  Bank;  COVID-19  =  coronavirus  disease;  MSMEs  =  micro,  small,  and  medium-sized 
+enterprises. 
+a  Government of Papua New Guinea, Department of Health. 2020. Papua New Guinea Emergency Preparedness and 
+Response Plan Coronavirus Disease 2019 (COVID-19). Port Moresby. 
+b  Because  of  uncertainties  over  how  the  pandemic  will  unfold  and  its  economic  effects,  because  of  the  need  for 
+government responses to be flexible as the situation evolves, and because new data collection and reporting systems 
+to monitor the crisis are being developed and evolving, it is not yet possible to set more specific and realistic program 
+effect targets than those presented in the  design and monitoring framework. Additional indicators to measure the 
+effects will be identified at a later stage and used to report on the program’s effectiveness as comprehensively as 
+possible in the program completion report. 
+c  Includes provisions for pregnant women, prioritization of antenatal care for particularly vulnerable groups  such as 
+adolescent girls, and prioritization of gender-based violence risk assessments. 
+Source: Asian Development Bank. 
+LIST OF LINKED DOCUMENTS 
+http://www.adb.org/Documents/RRPs/?id=54346-001-3 
+Appendix 2 
+17 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+Loan Agreement 
+Development Coordination 
+Country Economic Indicators 
+International Monetary Fund Assessment Letter1 
+Summary Poverty Reduction and Social Strategy 
+Risk Assessment and Risk Management Plan 
+List of Ineligible Items 
+Debt Sustainability Analysis 
+Supplementary Documents 
+9. 
+10. 
+11. 
+12. 
+Gender Monitoring Matrix 
+Safeguards Assessment Matrix 
+Summary of Social Assistance Measures 
+2019 Article IV Consultation and Request for a Staff-Monitored Program 
+1  An International Monetary Fund (IMF) assessment letter was requested on 13 September 2020. On 14 September 
+2020, the IMF confirmed that the attached staff report for the Papua New Guinea Rapid Credit Facility (1 June 2020) 
+may serve as the IMF assessment letter. 
+18 
+Appendix 3 
+DEVELOPMENT POLICY LETTER 
+Appendix 3 
+19 
+20 
+Appendix 3 
+Appendix 3 
+21 
+22 
+Appendix 3 
+Appendix 3 
+23 
+24 
+Appendix 4 
+ASSESSMENT OF COMPLIANCE WITH THE ACCESS CRITERIA FOR THE 
+COUNTERCYCLICAL SUPPORT FACILITY AND THE COVID-19 PANDEMIC RESPONSE 
+OPTION 
+Access Criterion 
+Asian Development Bank Assessment 
+1.  Adverse 
+Impact of 
+Exogenous 
+Shocks 
+GDP is projected to contract by 2.9% in 2020 in real terms, against 2.1% growth projected 
+prior to the pandemic. Revenue is projected to fall by $800 million or 3.4% of GDP, from 
+the  pre-COVID-19  target  or  to  fall  by  2.9%  of  GDP  compared  to  2019.  The  2020  fiscal 
+balance is estimated to worsen from –5% of GDP pre-COVID-19 to –8.2% of GDP post-
+COVID.  The  current  account  surplus  is  projected  to  reduce  to  15.9%  from  22.3%  pre-
+COVID-19.  
+The economy has been increasingly battered by the COVID-19 pandemic. The authorities 
+have managed to contain the spread of COVID-19, to some extent, by imposing lockdowns, 
+but  these  measures  have  depressed  economic  activity.  Further,  combined  with  falling 
+export revenue as global commodity prices weaken along with external demand, and with 
+the  closure  of  Porgera  gold  mine,  lockdowns  have  significantly  undermined  the  fiscal 
+position of the government. Recovery in 2021 is expected to be weak. 
+international  and  domestic 
+Several  industries  have  been  hampered  by  partial  business  closures  as  a  result  of 
+lockdowns  and  restrictions  on 
+transportation, 
+accommodation  and  food  services,  real  estate,  manufacturing,  and  construction. 
+Agriculture  and  forestry  have  also  been  constrained  by  disruption  to  transportation  and 
+trade,  notably  by  quarantine  requirements  on  shipments,  which  have  lengthened 
+turnaround  times.  Domestic  demand  and  household  spending  have  weakened  with 
+curtailed business activity and associated cost-cutting measures, most notably layoffs and 
+reduced work hours and salaries.  
+travel: 
+The  production  and  export  of  liquefied  natural  gas  are  not  expected  to  be  significantly 
+affected by COVID-19, but mining and quarrying have been hit by the recent suspension of 
+operations at the Ok Tedi gold and copper mine following a local outbreak of COVID-19. 
+Beyond the Ok Tedi suspension, mining and quarrying output overall is seen to contract by 
+15%  or  more  in  2020,  largely  reflecting  closure  of  Porgera,  following  the  government’s 
+decision not to renew the operator’s license, and by disappointing output from the Lihir gold 
+mine. 
+The forecast for inflation in 2020 is unchanged from before the pandemic, at 3.3%, as prices 
+track  persistently  weak  economic  activity.  Recent  economic  developments  have  applied 
+both downward and upward pressure on inflation. Downward pressures include a lower oil 
+price,  weaker  domestic  demand,  and  government  interventions  to  mitigate  the  effect  of 
+COVID-19, including price regulations on selected consumer goods and a freight subsidy 
+introduced  to  support  shipments  of  local  produce  to  the  capital  and  ill-served  offshore 
+islands. Upward pressures include the reduced supply of goods under restrictions intended 
+to contain COVID-19 and local currency depreciation. A lesser but still noteworthy upward 
+pressure  is  accelerated  increase  in  the  money  supply  fueled  by  a  quantitative  easing 
+program introduced by the BPNG, the central bank. 
+The current account surplus is seen to fall to 15.9% of GDP with lower commodity prices, 
+weaker external demand for exports, and disruption caused by transportation bottlenecks. 
+The gold price has increased, but its positive effect will be more than offset by lost gold 
+production  from  key  mines.  Imports  have  similarly  slowed  as  businesses  have  become 
+cautious  and  restrictions  have  reduced  trade.  Foreign  exchange  reserves  stood  at 
+$2.1 billion  at  the  end  of  March  2020,  providing  cover  for  5.1  months  of  imports.  The 
+reduction in the prices for hydrocarbons impacts PNG through the reduction in tax revenue 
+and  dividends  to  the  state,  and  reduced  foreign  exchange  transfers  to  the  government 
+because resource companies remit tax in US$. 
+Government revenue is expected to deteriorate significantly, with the authorities forecasting 
+that revenue in 2020 will fall to the equivalent of 3.4% of GDP, below earlier expectations. 
+Meanwhile, additional expenditure is needed to implement the government’s response to 
+the COVID-19 emergency.  
+Access Criterion 
+Asian Development Bank Assessment 
+Appendix 4 
+25 
+2.  Countercyclical 
+Development 
+Expenditures 
+3.  Pre-shock 
+Record of 
+Generally 
+Sound 
+Macroeconomic 
+Management 
+The shortfall will be funded in part through increased financing from development partners, 
+and the government initiated a supplementary budget to cut expenditure on other budget 
+items. PNG’s net borrowing for 2020 is projected to increase from 5% to 8.2% due to the 
+reduction  in  revenue  and  expenditure  re-appropriations  for  2020.  This  will  increase  the 
+gross domestic borrowing from a target of 40.3% to 49.8%. 
+The pandemic has also had a significant social and economic impact, with an increase in 
+poverty, unemployment and violence against women and children. 
+The  government,  development  partners  and  domestic  institutions  have  prepared 
+$769 million of countercyclical support or 3.2% of GDP (table 3). This includes $166 million 
+for  health  and  safety,  $213  million  for  social  assistance,  food  security  and  protection  to 
+vulnerable groups, and $390 million for MSMEs and other economic support. From the total 
+support of $769 million, $444 million is directed through the budget, of which $332 million 
+is  government  funded  and  $112  million  is  development  partner  financial  assistance. 
+The additional  $324  million  of  support  is  from  domestic  institutions,  including  for  loan 
+repayment  holidays, 
+for  superannuation 
+though  commercial  banks,  and  support 
+withdrawals. 
+The government funded portion of $332 million (K1.1 billion) is composed of (i) K645 million 
+announced  stimulus package,  (ii) additional  infrastructure stimulus of K305 million within 
+the supplementary budget, and (iii) K200 million of support for MSMEs through commercial 
+banks.  By  midyear,  the  government  has  already  released  75%  of  the  expenditures 
+announced form the K645 package, including for water, sanitation and hygiene programs 
+for  districts  (K60.0  million),  medical  drug  and  PPE  procurement  in  the  Health  Sector 
+(K67.0 million),  Reinforcing  security  and  defense  border  posts  (K113.0  million),  citizens 
+repatriation program (K15.0 million), food distribution programs through Churches and City 
+Authorities  (K5.0  million),  agriculture  market  development  for  Provinces  and  Districts 
+(K111.0 million), and logistics support for MSME’s and households (K44.5 million). 
+In the face of falling revenues of 3.4% of GDP, the government has announced the retention 
+of  the  full  capital  works  budget  for  2020.  Overall  share  of  development  or  capital 
+expenditure as share of total expenditure has been increased by 3%. With budget cuts of 
+100% directed towards non-productive operational expenditure for 2020, the government 
+has attempted, with the supplementary budget, to maintain a fiscal expansionary stance to 
+stimulate the economy within its limited fiscal space. 
+In May 2020, the government requested and received $363.3 million from the IMF under 
+the RCF made available to fund COVID-19 expenditures. The loan proceeds financed the 
+initial emergency response in health, helped to shore up foreign exchange reserves and 
+execute  a  re-prioritized  capital  and  operational  budget  of  the  government,  where 
+emergency expenditures in health and security were brought forward. The government has 
+committed to post details of all procurement awarded under a National State of Emergency 
+within  1  week,  present  weekly  reports  of  COVID-19  expenditures  in  the  Budget 
+Management  Committee,  and  submit  a  consolidated  report  to  the  National  Executive 
+Council published within 3 months of the end of the emergency period. 
+Growth averaged 4.2% between 2015–2019, and 0.9% in the non-mineral economy, despite 
+being impacted by multiple shocks—falling commodity prices, drought, and an earthquake.  
+In  this  very  challenging  context,  fiscal  policy  has  generally  been  sound,  with  the  deficit 
+averaging 3.9% over 2015–2019. The deficit was limited to 2.5% of GDP in 2017 and 2.6% 
+of GDP in 2018, before a switch to a more expansionary fiscal policy in 2019, with a deficit 
+of 4.9% of GDP, largely driven by increased capital expenditure, to stimulate growth of the 
+economy; although, the deficit was also impacted by falling revenues associated with weak 
+growth (revenues excluding grants fell to 14.1% of GDP in 2019 from 15.5% in 2018), and 
+to  a  lesser  extent  revisions  in  nominal  GDP.  Additionally,  the  government  has  worked  to 
+implement  fiscal  reform  measures,  including  revenue  raising  measures  under  a  Medium-
+Term Revenue Strategy (2018–2022), guided by IMF technical assistance, and measures 
+aimed  at  controlling  recurrent  expenditure  under  a  Medium  Term  Fiscal  Strategy  (2018–
+2022),  although  progress  has  been  slower  than  hoped  for.  An  IMF  SMP  commenced  in 
+February 2020, following a request from the Government to the IMF to oversee its reform 
+agenda.  
+26 
+Appendix 4 
+Access Criterion 
+4.  Structural 
+Reforms 
+(including 
+Health 
+Response) 
+Asian Development Bank Assessment 
+Inflation  averaged  5.3%  during  2015–2019  and  5.0%  during  2010–2014.  Key  drivers  of 
+inflation  were  exchange  rate  movements,  commodity  price  fluctuations,  and  demand  pull 
+associated with a large foreign direct investment, PNG LNG, a $19 billion liquified natural 
+gas  plant  constructed  during  2010-2014.  Inflation  may  also  have  been  impacted  by  a 
+program of purchasing government debt by the BPNG during 2014–2017; however, this was 
+terminated and wound down from 2018 (BPNG holdings of Government debt increased from 
+K766  million  in  December  2013,  to  K2.0  billion  in  December  2014,  and  to  K3.9  billion  in 
+December  2016,  and  were steadily  reduced  thereafter,  falling  to  K1.9  billion as of March 
+2020).  
+The  Kina  Facility  Rate  is  the  BPNG’s  policy  rate;  it  was  held  at  6.25%  during  2015–July 
+2019, above the rate of inflation; however, its effectiveness has been limited, as evidenced 
+by its weak transmission to lending rates, which remain primarily determined by credit risk 
+appetite,  and  to  deposit  rates,  which  remain  low  as  a  result  of  ample  system  liquidity. 
+The exchange rate mechanism has also limited the effectiveness of the Kina Facility Rate. 
+Key factors that influence PNG’s exchange rate are commodity price fluctuations and capital 
+flows associated with foreign direct investment. The kina appreciated against the US dollar 
+by 34.8% between June 2010 and June 2012, during a period of rising gold prices and large 
+inflows of foreign currency associated with the construction phase of PNG LNG; central bank 
+foreign exchange reserves grew to over $4 billion in 2012, compared to $2 billion in 2007. 
+However, this trend reversed in 2013 as PNG LNG construction ended and as commodity 
+prices began to slide. This put significant downward pressure on the kina, which depreciated 
+by 26.3% between June 2013 and June 2014, as well as on international currency reserves, 
+which reduced to $2.6 billion in July 2014. The central bank intervened to stem the pace of 
+depreciation and loss of reserves by introducing in June 2014 a trading band and a policy of 
+rationing foreign exchange. These interventions prevented the exchange rate and currency 
+trading  from  adjusting  to  market  conditions,  finally  appearing  as  shortages  of  foreign 
+exchange. A recent assessment by the IMF indicates that the currency remains overvalued 
+by 12% to 18%. This  is evidenced by a reported backlog of foreign currency  orders (i.e., 
+demand for foreign currency) with commercial banks, estimated at around $0.5 billion. This 
+has impeded growth and inhibited investment. In this context, the IMF SMP recommends 
+that PNG gradually devalue its currency, which could be achieved with a  real depreciation 
+of  3%  to  5%  per  annum  over  a  period  of  3  years,  and  to  complement  this  with  seeking 
+technical assistance for an appropriate exchange rate policy. During 2020, exchange rate 
+depreciation picked up after the commencement of the IMF SMP (the kina depreciated by 
+2.6%  versus  the  US  dollar,  between  January  and  September  2020).  In  addition,  the  IMF 
+SMP  recommends  that  an  amount  of  at  least  $60  million  per  month  be  released  from 
+reserves  under  the  SMP,  and  the  BPNG  is  broadly  on  track  with  this,  having  released 
+$330  million as of July 2020, against an annual target under the IMF SMP of $720 million.  
+The Department of Health released an Emergency Preparedness and Response Plan on 
+2 March  2020,  outlining  a  framework  for  key  actions  needed  to  prepare  and  respond  to 
+COVID-19.  On  23 March  2020,  a state  of emergency  was declared,  which  resulted in  a 
+lockdown  of  the  economy  and  restrictions  on  movements  of  people.  An  Emergency  Act 
+2020  was  passed  on  24  March  2020,  which  was  retroactively  applied  from  13  March, 
+empowering  authorities  to  respond.  The  Police  Commissioner  was  appointed  as  the 
+‘Emergency Controller’ by the Prime Minister. The borders were closed from 26 March and 
+the first lockdown was from 23 March to 1 April. A second lockdown was from 29 July to 
+14 August. The Emergency Act was superseded by the National Pandemic Act 2020, which 
+was  passed  on  16  June  2020.  The  National  Pandemic  Act  outlined  the  legal  powers 
+conferred to the Controller, including the imposition of border and quarantine controls, and 
+financial  management  arrangements  for  the  medium-term  response  to  the  pandemic. 
+On 17 June 2020, a NCC was established to manage the response and coordinate national 
+government agencies and development partner support. The NCC is led by the Controller, 
+and through the whole-of-government NCC governance structure, it is currently monitoring 
+and  enforcing  11  Pandemic Measures  including governing  of  international  and  domestic 
+travel,  provincial  coordination,  burial  of  deceased  persons,  customs  duties,  testing, 
+surveillance,  businesses  and  social  events,  health  protocols,  and  public  transport 
+restrictions in the capital. At present, physical borders are closed but land and sea borders 
+remain porous. The only formal points of entry are Port Moresby’s airport for travellers, and 
+the seaports of Port Moresby, Lae, Madang and Rabaul for cargo.  
+Access Criterion 
+Asian Development Bank Assessment 
+Appendix 4 
+27 
+5.  Debt 
+Sustainability 
+6.  Coordination 
+with the IMF 
+The government has initiated a countercyclical economic package to be implemented by 
+various agencies to support the economy and the vulnerable through support for MSMES, 
+food donation, freight subsidy scheme and superannuation support to those who have lost 
+their jobs due to COVID-19 among others. 
+The drastic economic and financial effects of the COVID-19 pandemic have deteriorated 
+PNG’s growth prospects. The government’s limited capacity to generate sufficient revenues 
+to fund its mounting expenditures in the face of the pandemic has widened the fiscal deficits 
+which must then be covered by borrowing. The current deteriorating fiscal deficits will raise 
+PNG’s public debt ratio to nearly 50% of GDP in 2020, well beyond the government’s 30% 
+medium-term target. This has forced the government to request adoption of amendment to 
+Fiscal  Responsibility  Act,  raising  the  legal  threshold  level  of  45%,  set  in  2019,  to  60%. 
+Current upward pressures come on the back of a marked trend of rising public debt during 
+recent years. Fiscal slippage, revaluation of foreign currency debt in 2018, and a revision 
+of public debt to include some SOE project loans taken over by the government caused 
+public  debt  to  rise  to  39.8%  in  2019  from  32.7%  of  GDP  in  2017.  Exceptionally  tough 
+circumstances this year will likely see the debt ratio jump to 49.8%, and to stabilize above 
+50% in the years to follow, as overall fiscal deficits are expected to more than outweigh 
+economic growth’s downward pull on the debt ratio. 
+Despite the IMF classifying PNG at high risk of debt distress, the DSAs conducted by ADB 
+(and  the  ones  conducted  by  the  IMF/WB),  have  shown  that  the  drastic  outcome  of  the 
+pandemic would be presenting themselves in the short to medium term and that over the 
+longer term, as PNG’s major resource projects will continue to generate higher growth, the 
+drastic  economic  effects  of  the  pandemic  would  gradually  dissipate.  Both  ADB’s  and 
+IMF/WB’s  DSAs  point  to  the  fact that  as  breaches  of  debt services are either  one-off  or 
+short  lived,  the  longer-term  sustainability  of  the  country’s  external  and  public  debt  are 
+preserved. ADB’s assessment points to the gradual decline of the projected present value 
+of the public debt-to-GDP to below 50% from 2024 and onwards (45% in IMF/WB’s DSA). 
+Both DSAs reach the conclusion that the short-term breaches of the external debt service-
+to-revenue  ratio  are  expected  to  be  financed  by  loans  with  concessional  terms.  ADB’s 
+proposed loan, which represents 2.5% of PNG’s outstanding debt stock, is not expected to 
+add significantly to the debt service obligations facing the government or affect PNG’s debt 
+sustainability. 
+ADB has been in close communication with the IMF on the CPRO. ADB undertook regular 
+dialogue with the IMF on issues such as an assessment of the macroeconomic and fiscal 
+situation, particularly related to how the increasing deficit would affect debt sustainability. 
+ADB also sought the IMF’s views on the access criteria for this CPRO. The IMF commenced 
+a SMP in Feb 2020, and ADB has been closely coordinating with the IMF on the SOE reform 
+program, which is a benchmark in the SMP. When the IMF prepared its RCF and undertook 
+a review of the SMP, the IMF sought ADB’s views on the economic outlook in the context 
+of ADB’s budget support in 2020 and forward pipeline. In June 2020, the IMF disbursed 
+$364 million to PNG, under a RCF and prepared an updated DSA. The RCF paper notes 
+the need for additional financing support for PNG. The IMF’s RCF report is provided in lieu 
+of an assessment letter. 
+ADB = Asian Development Bank; BPNG = Bank of Papua New Guinea; COVID-19 = coronavirus disease; CPRO = 
+COVID-19  pandemic  response  option;  DSA  =  debt  sustainability  analysis;  GDP  =  gross  domestic  product;  IMF  = 
+International Monetary Fund; K = kina; LNG = liquified natural gas; MSME = micro, small and medium-sized enterprise; 
+NCC = National Control Center; PHA = provincial health authority; PNG = Papua New Guinea; RCF = Rapid Credit 
+Facility; SMP = Staff-Monitored Program; SOE = state-owned enterprise; US = United States; WB = World Bank. 
+Source: Asian Development Bank. 

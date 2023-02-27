@@ -1,0 +1,1117 @@
+Report and Recommendation of the President  
+to the Board of Directors 
+Project Number: 46528-002 
+November 2017 
+Proposed Loan 
+Islamic Republic of Pakistan: Jalalpur Irrigation 
+Project 
+Distribution of this document is restricted until it has been approved by the Board of Directors. 
+Following such approval, ADB will disclose the document to the public in accordance with ADB’s 
+Public Communications Policy 2011. 
+CURRENCY EQUIVALENTS 
+as of 18 October 2017 
+Currency unit 
+PRe1.00 
+$1.00 
+– 
+= 
+= 
+Pakistan rupee (PRe/PRs) 
+$0.0094 
+PRs105.30 
+ADB 
+EIA 
+EMP 
+FAO 
+ha 
+HEIS 
+IBIS 
+km 
+LARP 
+m3 
+O&M 
+PAD 
+PAM 
+PDA 
+PID 
+PIO 
+PMO 
+TA 
+WUA 
+ABBREVIATIONS 
+Asian Development Bank 
+environmental impact assessment 
+environmental management plan 
+Food and Agriculture Organization of the United Nations 
+hectare 
+high-efficiency irrigation system 
+Indus Basin Irrigation System 
+kilometer 
+land acquisition and resettlement plan 
+cubic meter 
+operation and maintenance 
+Punjab Agriculture Department 
+project administration manual 
+project design advance 
+Punjab Irrigation Department 
+project implementation office 
+project management office 
+technical assistance 
+water user association 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+NOTES 
+(i) 
+(ii) 
+The fiscal year (FY) of the Government of Pakistan ends on 30 June. “FY” before 
+a calendar year denotes the year in which the fiscal year ends, e.g., FY2017 ends 
+on 30 June 2017. 
+In this report, “$” refers to United States dollars. 
+Vice-President 
+Director General 
+Director 
+Team leader 
+Team members 
+Peer reviewer 
+W. Zhang, Operations 1 
+S. O’Sullivan, Central and West Asia Department (CWRD) 
+A. Siddiq, Environment, Natural Resources and Agriculture Division, 
+CWRD 
+R. Takaku, Principal Water Resources Specialist, CWRD 
+G. M. Bui, Senior Natural Resources and Agriculture Economist, 
+CWRD 
+C. S. Cabrales-Chiong, Senior Operations Assistant, CWRD 
+N. Djenchuraev, Senior Environment Specialist, CWRD 
+L. Nazarbekova, Principal Counsel, Office of the General Counsel 
+J. T. Nicolas, Senior Social Development Specialist (Safeguards), 
+CWRD 
+N. Rive, Climate Change Specialist, CWRD 
+M. A. Rosero, Social Development Specialist (Gender and 
+Development), CWRD 
+A. Zafar, Senior Project Officer (Water Resources), CWRD 
+F. Radstake, Principal Environment Specialist, East Asia Department 
+In preparing any country program or strategy, financing any project, or by making any designation 
+of  or  reference  to  a  particular  territory  or  geographic  area  in  this  document,  the  Asian 
+Development Bank does not intend to make any judgments as to the legal or other status of any 
+territory or area. 
+PROJECT AT A GLANCE 
+CONTENTS 
+Page 
+MAP 
+I. 
+II. 
+III. 
+IV. 
+V. 
+THE PROPOSAL 
+THE PROJECT 
+A. 
+B. 
+C. 
+D. 
+E. 
+Rationale 
+Impact and Outcome 
+Outputs 
+Summary Cost Estimates and Financing Plan 
+Implementation Arrangements 
+DUE DILIGENCE 
+A. 
+Technical 
+B. 
+Economic and Financial 
+C. 
+Governance 
+D. 
+Poverty, Social, and Gender 
+E. 
+Safeguards 
+F. 
+Summary of Risk Assessment and Risk Management Plan 
+ASSURANCES AND CONDITIONS 
+RECOMMENDATION 
+APPENDIXES 
+1. 
+2. 
+Design and Monitoring Framework 
+List of Linked Documents 
+1 
+1 
+1 
+4 
+4 
+5 
+6 
+7 
+7 
+8 
+8 
+9 
+9 
+10 
+11 
+11 
+12 
+15 
+Project Classification Information Status: Complete
+PROJECT AT A GLANCE
+1. Basic Data
+Project Name
+Country
+Borrower
+2. Sector
+Agriculture, natural 
+resources and rural 
+development
+Jalalpur Irrigation Project 
+Pakistan
+Islamic Republic of Pakistan
+Subsector(s)
+Agricultural production
+Irrigation
+3. Strategic Agenda
+Inclusive economic growth 
+(IEG)
+Environmentally sustainable 
+growth (ESG)
+4. Drivers of Change
+Governance and capacity 
+development (GCD)
+5. Poverty and SDG Targeting
+Subcomponents
+Pillar 2: Access to economic 
+opportunities, including jobs, made 
+more inclusive
+Natural resources conservation
+Components
+Institutional development
+Geographic Targeting
+Household Targeting
+SDG Targeting
+SDG Goals        
+No
+No
+Yes
+SDG2, SDG6, SDG8
+Department
+/Division
+Executing Agency
+Project Number: 46528-002
+CWRD/CWER
+Punjab Irrigation Department
+     ADB Financing ($ million)
+41.19
+233.44
+Total
+Climate Change Information 
+Adaptation ($ million)
+Climate Change impact on the 
+Project
+Gender Equity and Mainstreaming
+Effective gender mainstreaming 
+(EGM)
+Location Impact
+Rural
+274.63
+1.70
+High
+High
+6. Risk Categorization:
+Complex
+.
+.
+7. Safeguard Categorization
+Environment: A   Involuntary Resettlement: A   Indigenous Peoples: C
+8. Financing
+Modality and Sources
+ADB
+     Sovereign Project (Regular Loan): Ordinary capital resources
+Cofinancing
+     None
+Counterpart 
+     Beneficiaries 
+     Government 
+Total
+Amount ($ million)
+274.63
+274.63
+0.00
+0.00
+85.96
+5.16
+80.80
+360.59
+Source: Asian Development Bank
+This document must only be generated in eOps.
+06092017160900401288
+Generated Date: 19-Oct-2017 14:50:20 PM
+I. 
+THE PROPOSAL 
+I submit for your approval the following report and recommendation on a proposed loan to 
+1. 
+the Islamic Republic of Pakistan for the Jalalpur Irrigation Project. 
+2. 
+The  project  will  build  a  new  kharif  season  (April  to  October)  surface  irrigation  system 
+covering about 68,263 hectares (ha) of less productive, predominantly rain-fed land in the Jhelum 
+and Khushab districts in Punjab province.1 The irrigation system will become part of the Indus 
+Basin Irrigation System (IBIS) by diverting the flows of the Jhelum River at the Rasul Barrage. It 
+will comprise a diversion structure, a 117-kilometer (km) main canal, 23 distributaries, 10 minor 
+canals,  485  watercourses,  and  associated  structures.  The  primary  beneficiaries  are  384,000 
+people in 80 villages in the project area.2 
+A. 
+Rationale 
+II. 
+THE PROJECT 
+3. 
+Sector  overview.  Agriculture  contributed  20%  of  gross  domestic  product  and  was 
+Pakistan’s largest employer, absorbing 42% of the country’s total labor force in fiscal year (FY) 
+2015.3 About 30% of the population lived below the poverty line during FY2014, or about 55 million 
+out of Pakistan’s estimated population of 186 million (footnote 3). At 36%, the poverty incidence 
+in rural areas in FY2014 was almost double the 19% rate in urban areas (footnote 3). Pakistan’s 
+major crops are wheat, rice, sugarcane, maize, and cotton, which account for 24% of the value 
+added  in  overall  agriculture  and  5%  of  gross  domestic  product.  Punjab’s  contribution  to  the 
+agriculture sector is estimated at more than 80%. The province produced 76% of the nation’s total 
+output of wheat, 51% of rice, 65% of sugarcane, 81% of maize, and 72% of cotton. 
+4. 
+The  Ministry  of  Planning,  Development  and  Reform  has  estimated  that  the  agriculture 
+sector has to grow 5% per year to reduce the poverty incidence and ensure food security, and for 
+the national economy to reach its 7%–8% annual growth target.4 But agriculture’s annual growth 
+rate only averaged 2.8% during 2010–2014, a significant drop from 4.4% average annual growth 
+rates  experienced  during  1990s  and  from  3.2%  during  2000s.5  The  sector  is  increasingly 
+dominated by small farmers who produce mostly for their own food needs. Only 17% of farms are 
+large, produce cash crops, and engage in value-added activities.6 
+In  the  Punjab  Growth  Strategy  2018,7  the  government  of  Punjab  sees  growth  in  the 
+5. 
+agriculture sector as a key element in achieving inclusive growth, and highlights the following: (i) 
+increased crop productivity through improved agriculture research and extension, on-farm water 
+management,  and farm  inputs; (ii)  better  value  chains; (iii)  better  use  of energy; (iv)  increased 
+high-value agriculture; (v) improved land resources and environment and adaptability to climate 
+1  Kharif refers to the sowing season for summer crops. 
+2  The  Asian  Development  Bank  (ADB)  provided  project  preparatory  technical  assistance  for  the  Jalalpur  Irrigation 
+Project (TA 8404-PAK). 
+3  Government of Pakistan, Ministry of Finance. 2016. Pakistan Economic Survey, 2015–16. Islamabad. 
+4  Government  of  Pakistan,  Ministry  of  National  Food  Security  and  Research.  2013.  Agriculture  and  Food  Security 
+Policy (Draft). Islamabad. 
+5  International  Food  Policy  Research  Institute.  2016.  How  to  Revitalize  Pakistan’s  Agriculture  Sector  and  Rural 
+Economy. 12 December. http://www.ifpri.org/blog/how-revitalize-pakistans-agricultural-sector-and-rural-economy 
+6  Food and Agriculture Organization of the United Nations (FAO), Investment Centre Division. 2012. Pakistan: Priority 
+Areas for Investment in the Agricultural Sector. Rome. 
+7  Government of Punjab, Planning and Development Department. 2015. Punjab Growth Strategy 2018: Accelerating 
+Economic Growth and Improving Social Outcomes. Lahore. 
+2 
+change  impacts;  (vi)  increased  cultivated  area;  (vii)  improved  productivity  of  water  use  by 
+improving  irrigation  infrastructures;  and  (viii)  improved  regulatory  and  institutional  changes, 
+mainly  on  agriculture  inputs.  The  Asian  Development  Bank  (ADB)  has  been  supporting  the 
+government of Punjab in strengthening on-farm water management, adapting to climate change 
+impacts, and rehabilitating irrigation systems, all of which require substantial financing resources. 
+6. 
+Because  of  the  country’s  semi-arid  climate,  with  an  average  annual  rainfall  of  240 
+millimeters  in  most  parts  of  the  country,  about  80%  of  arable  land  and  more  than  90%  of 
+agriculture  output  depends  on  irrigation.  One  of  the  strengths  of  the  agriculture  sector  is  the 
+availability of water from IBIS, the world’s largest contiguous irrigation system covering 15 million 
+ha  of  farmland,  which  accounts  for  74%  of  the  country’s  irrigated  area.8  The  operational 
+performance of irrigation systems, including IBIS, however, is less than satisfactory. Crop water 
+requirements have dramatically increased as a result of the increase in cropping intensities and 
+the  cultivation  of  high  water-consuming  crops.  While  demand  for  canal  irrigation  water  has 
+increased, surface water availability has essentially remained unchanged as no new reservoirs 
+have been constructed on the Indus River since 1976. Irrigation efficiency is also low at about 
+40%.  Agriculture  productivity  per  unit  of  water,  land,  and  other  inputs  is well  below  global  and 
+regional standards because of mismanagement of water resources.9 
+7. 
+IBIS  is  also  financially  unsustainable,  recovering  on  average  only  24%  of  the  costs 
+necessary  for  the  effective  management  of  the  irrigation  infrastructure.10  As  a  result,  asset 
+management remains a pervasive problem as irrigation departments routinely defer maintenance 
+because they lack funds to cover operation and maintenance (O&M) costs. To establish efficient 
+and sustainable irrigation and drainage institutions, the government of Pakistan launched a far-
+reaching sector reform initiative in 1997 across Pakistan’s four provinces with a view to converting 
+the provincial irrigation departments into autonomous and self-accounting irrigation and drainage 
+authorities. The reforms, however, were not fully successful and the self-accounting irrigation and 
+drainage  authorities  still  lack  the  capacity  to  carry  out  their  intended tasks.11  ADB,  through  its 
+technical assistance (TA), is reviewing the reforms and their related plans and actions and will 
+integrate  them,  as  appropriate,  into  the  transformation  process  of  the  Punjab  Irrigation 
+Department (PID) into the Water Resources Department.12 
+To  address  the  country’s  water  stress  in  the  short  to  medium  term,  Pakistan  needs  to 
+8. 
+invest more in (i) water conservation, (ii) high-efficiency irrigation, (iii) the capture of unclaimed 
+monsoon  flows  to  irrigate  rain-fed  areas,  and  (iv)  modern  irrigation  systems  and  measures  to 
+improve asset management and irrigation service delivery to ensure food security. 
+9. 
+About 20% of Pakistan’s cultivable area is outside IBIS. Farming in most of these areas 
+(about 3.24 million ha) is rain fed, resulting in low agricultural productivity. Some of the country’s 
+poorest people live in these areas and depend on agriculture for their income. Without a secure 
+source of water for irrigation, farming in rain-fed areas is both a low-productivity and a high-risk 
+8  FAO. 2012. Irrigation in Southern and Eastern Asia in Figures: AQUASTAT Survey 2011. FAO Water Reports. No. 
+37. Rome. 
+9  Friends  of  Democratic  Pakistan  Water  Sector  Task  Force.  2012.  A  Productive  and  Water-Secure  Pakistan: 
+Infrastructure, Institutions, Strategy. Islamabad. 
+10 Government of Pakistan, Planning Commission. 2012. Canal Water Pricing for Irrigation in Pakistan: Assessment, 
+Issues and Options. Islamabad. 
+11 Irrigation  subsector  reform  is  discussed  in  the  Project  Administration  Manual  (accessible  from  the  list  of  linked 
+documents in Appendix 2). 
+12 ADB. 2016. Technical Assistance to the Islamic Republic of Pakistan for the Institutional Transformation of the Punjab 
+Irrigation Department to a Water Resources Department. Manila. 
+3 
+venture. Although Punjab accounts for 57% of the nation’s cultivable area and accounts for 78% 
+of the nation’s irrigated area, about 13% of cultivable land in Punjab is still rain fed.13 
+10. 
+Proposed investment. The project aims to increase agriculture production by bringing 
+68,263 ha of less-productive, predominantly rain-fed agricultural land under new IBIS coverage. 
+More than 500,000 people live in the project area, and more than 70% of these people rely on 
+farming for their livelihood.14 Available water for farming is limited, as runoffs from the nearby hills 
+and  the  groundwater  are  highly  saline.  The  project  will  provide  as  much  as  284  million  cubic 
+meters of fresh and good quality water annually from the Jhelum River during the high-flow kharif 
+season,15 in accordance with the Water Apportionment Accord that determines the agreed share 
+of waters in the Indus Basin among the country’s four provinces.16 ADB first identified the project 
+for possible financing in 201317 and completed a feasibility study in 2015 (footnote 2). 
+11. 
+The analysis of climate change impacts in the project area for 2025 and 2050 shows that 
+annual  rainfall  is  likely  to increase  about  4.0% by  2025  and  6.5%  by  2050,  with the  maximum 
+increase  likely  to  occur  in  the  summer  (July–September).  The  analysis  also  suggested  a 
+maximum increase in extreme rainfall events of about 6% by 2025 and 10% by 2050 for a 100-
+year  return  period.  The  temperatures  will  also  rise  throughout  the  year,  increasing  the  water 
+requirements of crops. Such increase will be compensated for by increased precipitation.18 
+The project is consistent with ADB’s country partnership strategy for Pakistan, 2015–2019, 
+12. 
+which  prioritizes  the  promotion  of  better  water  resource  management  and  irrigation,19  and  is 
+included  in  ADB’s  country  operations  business  plan  for  Pakistan,  2017–2019.20  The  project  is 
+included in the list of upcoming irrigation subsector investments (footnote 7). It is consistent with 
+ADB’s Water Operational Plan, 2011–2020 and will contribute to some outputs expected in the 
+plan.21 Under the current partnership strategy, ADB has been financing two irrigation subsector 
+projects for the Punjab government. The first was the four-tranche multitranche financing facility 
+for the Punjab Irrigated Agriculture Investment Program in 2006. Except for slow progress in the 
+first tranche, all tranches were completed by the original program completion date of September 
+2017  and  delivered  major  intended  infrastructure  outputs.22  The  second  is  the  Trimmu  and 
+Panjnad Barrages Improvement Project approved in 2014, which is being implemented without 
+serious implementation problems.23 
+13 Government of Pakistan, Ministry of National Food Security and Research. 2013. Agricultural Statistics of Pakistan 
+2011–2012. Islamabad. 
+14 The Jalalpur Sharif, one of the beneficiary towns in the Jhelum district, is known as the camp site of Alexander the 
+Great and his troops in May 326 BC, prior to his last great Battle of Hydaspes River (now Jhelum River) against Raja 
+Porus. The Khewra Salt Mines is the world’s second-largest salt mine and is located near Khewra town, another 
+beneficiary town. 
+15 The volume of 284 million cubic meters (m3) considering the estimated conveyance efficiency of 68%. 
+16 Punjab’s water withdrawal entitlement from the Indus system during the high-flow season is 45.7 billion m3, while the 
+province’s average actual water withdrawal in the same period during 1991–2012 was 41.3 billion m3. Thus, Punjab 
+is entitled to an additional 4.4 billion m3 (the balance between the two). The total average water withdrawal of the 
+Jalalpur irrigation system would be about 6.4% of this unclaimed water entitlement. 
+17 ADB. 2013. Country Operations Business Plan: Pakistan, 2013–2014. Manila. 
+18 Climate  Change  Risk  Vulnerability  Assessment  and  Adaptation  Measures  (accessible  from  the  list  of  linked 
+documents in Appendix 2). 
+19 ADB. 2015. Country Partnership Strategy: Pakistan, 2015–2019. Manila. 
+20 ADB. 2016. Country Operations Business Plan: Pakistan, 2017–2019. Manila. 
+21 ADB. 2011. Water Operational Plan, 2011–2020. Manila. 
+22 ADB.  2006.  Report  and  Recommendation  of  the  President  to  the  Board  of  Directors:  Proposed  Multitranche 
+Financing Facility to the Islamic Republic of Pakistan for the Punjab Irrigated Agriculture Investment Program. Manila. 
+23 ADB. 2014. Report and Recommendation of the President to the Board of Directors: Proposed Loans to the Islamic 
+Republic of Pakistan for the Trimmu and Panjnad Barrages Improvement Project. Manila. 
+4 
+The community participatory approach for constructing 485 watercourses under output 2 
+13. 
+reflects the lessons identified in the country assistance program evaluation, 2002–2012: (i) past 
+projects  were  often  successfully  facilitated  by  community-based  organizations;  and  (ii)  ADB’s 
+desired shift to infrastructure operations, relying on only a few large contracts, should take into 
+account that certain types of projects may lead to more complete development outcomes when 
+nongovernment organizations and community-based organizations are involved.24 
+14. 
+The project is design and procurement ready. The PID completed the detailed engineering 
+design, successfully and in a timely manner, in August 2017 under the project design advance 
+(PDA)  approved  in January  2016  with $5  million financing.25  The  PID  has  already  been  in the 
+process of shortlisting the major project implementation consultants for this project. By the end of 
+May 2018, the PID is expected to complete international competitive bidding for the construction 
+of  the  main  irrigation  system,  and  engage  the  major  project  implementation  consultants.  Land 
+acquisition  for  the  main  irrigation  system  is  in  the  advanced  stage,  with  50%  completed  as  of 
+September 2017. The improved project readiness reflected the lesson identified in administering 
+the first-tranche of the Punjab Irrigated Agriculture Investment Program, which took 10 years to 
+complete because of the absence of its detailed design and draft bid document at the approval.   
+B. 
+Impact and Outcome 
+The project is aligned with the following impact: growth of agriculture sector enhanced and 
+15. 
+food  security  ensured  (footnote  7).  The  project  will  have  the  following  outcome:  agricultural 
+production in the project area increased.26 
+C. 
+Outputs 
+16. 
+Output  1:  Jalalpur  irrigation  distribution  system  established.  The  structures  to  be 
+constructed include an intake structure at the right bank of the Jhelum River at the Rasul Barrage, 
+with a design discharge capacity of 38.2 cubic meters per second. The flow will be conveyed to 
+the project area through a 117-km main canal and further distributed throughout the project area 
+via 23  distributaries  and  10  minor  canals. The  good  quality  water  that  will  be  delivered by  the 
+irrigation system will reduce the use of saline groundwater. Because the main canal will traverse 
+natural drainage channels that carry seasonal and saline flood water from the Salt Range,  the 
+project will construct 72 cross-drainage structures for the safe passage of flood water across the 
+main canal. The project will also construct 18 flood-carrier channels to drain saline flood water to 
+the Jhelum River, protect the project area from floods, and restore soil productivity. In addition, 
+the project will construct 253 associated structures, including 42 flow regulators and drops, 16 
+railway  and  road  bridges,  15  footbridges,  and  2  escapes.  The  project  will  also  construct  485 
+watercourses and 17 drinking water supply outlets and, for easy access to water by livestock, 30 
+cattle baths. 
+17. 
+The project will develop a monitoring and evaluation system using satellite remote sensing 
+technology to assess irrigation efficiency, crop growing, water productivity, and the abiana;27 and 
+will train staff from the PID and the Punjab Agriculture Department (PAD) to use the system. To 
+ensure sustainable O&M of the Jalalpur irrigation system, the project will develop a guideline and 
+a sustainable plan for the system’s O&M with improved asset management and irrigation service 
+24 Independent  Evaluation  Department.  2013.  Country  Assistance  Program  Evaluation:  Pakistan:  2002–2012—
+Responding to the Changing Development Conditions. Manila: ADB. 
+25 ADB. 2016. Project Design Advance: Jalalpur Irrigation Project in the Islamic Republic of Pakistan. Manila. 
+26 The design and monitoring framework is in Appendix 1. 
+27 The abiana is the irrigation service fee assessed based on expected crop production. 
+5 
+delivery using the government of Punjab’s committed budget allocation. To address potential risks 
+against extreme torrents from the hilly terrain and floods from the Jhelum River,  the project will 
+also develop a flood disaster risk management plan. 
+Output 2: Water-use capacity improved in project areas. The project will construct 485 
+18. 
+farm-level field channels (watercourses) to distribute irrigation water over 68,263 ha of farmland 
+during  April–October.  The  project  will  organize  the  beneficiary  farmers  into  water  user 
+associations  (WUAs)  that  will  be  responsible  for  the  O&M  of  the  watercourses  and  their 
+associated structures, and provide training to strengthen their capacity. The project will involve 
+the WUAs  in  planning,  designing,  and  constructing  the  watercourses;  and  will  provide  precast 
+parabolic concrete segments to cover 50% of the length of each watercourse.28 To increase crop 
+yields and irrigation application efficiency with minimum water wastage,29 the project will provide 
+the project area with precision land leveling covering about 12,140 ha, high-efficiency irrigation 
+systems (HEISs)  covering  more than  800 ha,  and 20  water  storage  ponds with solar  pumping 
+stations, under a cost-sharing arrangement with the beneficiary farmers. The project will train the 
+WUAs and the farmers on climate-smart irrigation practices covering (i) the use of solar pumping 
+stations,  (ii)  precise  land  leveling  and  HEISs,  (iii)  irrigation  schedules  based  on  crop  water 
+requirements, and (iv) other management techniques to maximize water productivity. 
+19. 
+Output  3:  Farm  management  capacity  improved  in  project  areas.  The  project  will 
+establish 664 agricultural demonstration farms of varying sizes covering 220 ha. The project will 
+provide  6,000  farm  households  with  advisory  services  and  training  on  climate-smart  irrigated 
+agriculture practices and more profitable farm management through demonstration activities and 
+farmer field schools. The services and training will cover cropping patterns for high-value crops, 
+selection  and  adequate  use  of  seeds  and  fertilizers,  soil  analysis  and  soil  improvement 
+techniques,  and  better  marketing.  The  project  will  (i)  organize  knowledge-sharing  events  to 
+promote modern water management and farming technologies, (ii) provide farmers with private 
+agriculture  support  services  for  marketing  and  supply  chain  management  of  high-value 
+agriculture, and (iii) help farmers develop links between growers and the market. 
+D. 
+Summary Cost Estimates and Financing Plan 
+The  project  is  estimated  to  cost  $360.59  million  (Table  1).  Detailed  cost  estimates  by 
+20. 
+expenditure category and by financier are included in the project administration manual (PAM).30 
+Table 1: Summary Cost Estimates 
+($ million) 
+Item 
+A.  Base Costb 
+1.  Jalalpur irrigation distribution system established  
+2.  Water-use capacity improved in project areas 
+3.  Farm management capacity improved in project areas 
+Subtotal (A) 
+B.  Contingenciesc 
+C.  Financial Charges During Implementationd 
+Total (A+B+C) 
+Amounta 
+263.19 
+34.48 
+2.34 
+300.01 
+43.22 
+17.36 
+360.59 
+a  Includes  taxes  and  duties  of  $33.01  million,  which  the  government  will  finance  through  cash  contribution.  Such 
+amount does not represent an excessive share of the project cost. Farmers’ contribution estimated at $5.16 million 
+is included in output 2. 
+28 The remaining watercourse length will remain unlined, as further water reduction losses when more than 50%–60% 
+is lined are not significant when compared with the cost of lining. 
+29 The field application efficiency is estimated at 75%. 
+30 Project Administration Manual (accessible from the list of linked documents in Appendix 2). 
+6 
+b  In mid-2017 prices as of July 2017. 
+c  Physical contingencies computed at 3% for all expenditure accounts given the detailed technical due diligence. Price 
+contingencies computed at an average of 2% on foreign exchange costs and 6% on local currency costs; includes 
+provision for potential exchange rate fluctuation under the assumption of a purchasing power parity exchange rate. 
+d  Includes interest and commitment charges. Interest during construction for the ordinary capital resources loan has 
+been  computed  at  the  5-year  United  States dollar  fixed  swap  rate  plus  an  effective  contractual  spread  of  0.5%. 
+Commitment charges for the ordinary capital resources loan are 0.15% per year to be charged on the undisbursed 
+loan amount. 
+Source: Asian Development Bank estimates. 
+The government of Pakistan has requested a regular loan of $274.63 million from ADB’s 
+21. 
+ordinary capital resources to help finance the project. The loan will have a 20-year term, including 
+a grace period of 5 years with straight-line repayment method; an annual interest rate determined 
+in  accordance  with  ADB’s  London  interbank  offered  rate  (LIBOR)-based  lending  facility;  a 
+commitment charge of 0.15% per year (the interest rate and other charges during construction to 
+be capitalized in the loan); and such other terms and conditions set forth in the draft loan and 
+project agreements. Based on these loan terms and repayment method, the average loan maturity 
+is 12.75 years and there is no maturity premium payable to ADB. The summary financing plan is 
+in Table 2.  
+Table 2: Summary Financing Plan 
+Source 
+Asian Development Bank 
+Ordinary capital resources (regular loan) 
+Governmenta 
+Total 
+a  Includes farmers’ contribution estimated at $5.16 million. 
+Source: Asian Development Bank estimates. 
+E. 
+Implementation Arrangements 
+Amount 
+($ million) 
+Share of Total 
+(%) 
+274.63 
+85.96 
+360.59 
+76.2 
+23.8 
+100.0 
+22. 
+The PID will be the executing agency and will oversee the entire project. It has experience 
+implementing  projects financed by  ADB,  the  Japan International  Cooperation Agency,  and the 
+World Bank, and has ample technical, procurement, and managerial capacity to oversee these 
+investments.  The  project  management  office  (PMO)  for  canals  (PMO-Canals)  for  the  Punjab 
+Irrigated Agriculture Investment Program will execute output 1 of this project.31 The PMO-Canals 
+staff has experience in managing ADB projects, such as the Lower Bari Doab Canal Improvement 
+Project under the Punjab Irrigated Agriculture Investment Program (footnote 22). The PAD will be 
+the implementing agency. A project implementation office (PIO) to be established in the PAD will 
+implement outputs 2 and 3, under the overall coordination and oversight of the PID. Except for 
+direct payments, all funds will be channeled through the PID and the PAD. The implementation 
+arrangements are summarized in Table 3 and described in detail in the PAM (footnote 30). 
+Table 3: Implementation Arrangements 
+Aspects 
+Implementation period 
+Estimated completion date 
+Estimated loan closing date 
+Management 
+(i)  Oversight body 
+Arrangements 
+February 2018–December 2023 
+31 December 2023 
+30 June 2024 
+Project Steering Committee 
+31 In September 2017, the PMO was transformed from the project management unit that implemented two loans under 
+the Punjab Irrigated Agriculture Investment Program multitranche financing facility for the Lower Bari Doab Canal 
+Improvement Project. 
+7 
+Aspects 
+(ii)  Executing agency 
+(iii)  Implementing agency 
+(iv)  Project management office 
+(v)  Project implementation office 
+Procurement 
+Consulting services 
+Arrangements 
+Chair: Chairperson, Planning and Development Board 
+Members: PID and PAD secretaries, Punjab Finance Department, Punjab 
+Environment Department, Board of Revenue member 
+PID 
+PAD 
+About 30 main staff in Lahore 
+About 35 main staff in Lahore and in the field 
+ICB 
+Shopping 
+QCBS 
+(90:10) 
+QCBS 
+(90:10) 
+QCBS 
+(90:10) 
+ICS 
+3 contracts 
+Multiple 
+18 person-months, international 
+524 key person-months, national 
+277 key person-months, national 
+$184.0 million 
+$26.2 milliona 
+$13.3 million 
+372 key person-months, national 
+$2.8 million 
+$2.3 million 
+$0.3 million 
+12 person-months, international 
+30 person-months, national 
+Retroactive financing and/or 
+advance contracting 
+Disbursement 
+The project will use advance contracting and has requested retroactive 
+financing for the engagement of the project implementation consultant. 
+The loan proceeds will be disbursed following ADB's Loan Disbursement 
+Handbook (2017, as amended from time to time) and detailed arrangements 
+agreed between the government and ADB. 
+ADB = Asian Development Bank, ICB = international competitive bidding, ICS = individual consultant selection, PAD = 
+Punjab Agriculture Department, PID = Punjab Irrigation Department, QCBS = quality- and cost-based selection, WUA 
+= water user association. 
+a  Includes $20.7 million for the construction of 485 watercourses through community participatory procurements. This 
+will  enhance  community  mobilization,  involvement  and  ownership  of  the  WUAs,  and  the  employment  of  labor-
+intensive techniques through a cost-sharing mechanism. The WUAs and the PAD will enter an agreement by which 
+WUAs will execute the works. 
+Source: Asian Development Bank estimates. 
+A. 
+Technical 
+III. 
+DUE DILIGENCE 
+23. 
+The  initial  7  km  of  the  Jalalpur  main  canal  from  the  intake  at  the  Rasul  Barrage  runs 
+through a narrow space between the right bank of the Jhelum River and the steep hilly terrain. 
+The PID, under the PDA, examined several alignment options of the initial section through a model 
+experiment, considering potential risks from extreme torrents from the hilly terrain and floods from 
+the Jhelum River, and selected the least-cost solution for capital investment and O&M. The project 
+will build 72 cross-drainages to let the flood flows pass safely across the main canal, and 18 flood-
+carrier channels to let the saline flood flows pass to the Jhelum River. The design capacity of the 
+cross-drainage structures and flood-carrier channels, with a 40-year return period for floods, is 
+sufficient to incorporate the risk of the increase in flood events because of climate change.  
+24. 
+Value added by ADB assistance. The project will incorporate innovative satellite remote 
+sensing  technology  into the monitoring  and  evaluation  system for  the  efficient  and  transparent 
+assessment of irrigation efficiency, crop growing, water productivity, and the abiana. Precise land 
+leveling  of  about  12,140  ha  and  HEISs  covering  more  than  800  ha  will  increase  irrigation 
+application efficiency to reduce water wastage. The project will build a concrete flume on 50% of 
+the length of each watercourse to avoid water losses. 
+8 
+B. 
+Economic and Financial 
+25. 
+The  project’s  main  economic  benefits  will  be  increased  agricultural  production  made 
+possible  by  the  provision  of  seasonal  irrigation  water  to  about  68,263  ha  of  land  with  low 
+agricultural productivity. Good quality irrigation, to be made available by the project during April–
+October every year, will help not only the summer crops but also the winter crops (October–May) 
+because  of  the  increased  soil  moisture  at  the  end  of  the  irrigation  season  and  the  gradual 
+improvement in groundwater quality. Over its 6-year implementation period, the project will bring 
+about  diversification,  increase  crop  intensity  from  13%  to  90%,  and,  depending  on  the  crop, 
+increase crop yield by between 12% and 141%. The estimated internal economic rate of return is 
+15%.32 The sensitivity analysis indicates that the economic viability of the project is most sensitive 
+to  a  2-year  delay  in  the  realization  of  benefits.  Therefore,  it  is  essential  that  the  project  is 
+implemented as scheduled through the provision of technical and extension support to the project 
+beneficiaries. 
+26. 
+The management and O&M of Punjab’s irrigation systems is estimated at $51.30/ha per 
+year.  During  2013–2016,  the  government  of  Punjab  has  allocated  $158  million  equivalent  or 
+$18.60/ha  annually  on  average  for  this  purpose.  Despite  the  financial  gap,  Punjab’s  irrigation 
+systems are in reasonably good condition and deliver an acceptable level of water to end users. 
+The government of Punjab will allocate adequate resources to fully implement the O&M plan to 
+be developed under the project. During the development of the O&M plan, the PID and ADB will 
+reassess and reconfirm the adequacy of the O&M requirement.33 ADB will provide small-scale TA 
+for the continued monitoring of the financial sustainability and O&M status of the Jalalpur irrigation 
+system after project completion. Ensuring the financial sustainability of irrigation systems is the 
+core agenda of irrigation sector reforms. ADB, through its TA, is reviewing the reforms and their 
+related plans and actions and will integrate them, as appropriate, into the transformation process 
+of the PID into the Water Resources Department under ADB TA (footnote 12). 
+C. 
+Governance 
+27. 
+The  financial  management  assessment  concluded  that  the  PID  and  the  PAD  have 
+satisfactory capability to record financial transactions and balances, provide regular records and 
+monitor  reports,  and  safeguard  assets.  But  their  financial  management  risks  were  assessed 
+substantial because the assessment identified an accounting staff shortage in the PID and a lack 
+of internal audit arrangement in the PID and the PAD. To address these weaknesses, the PID 
+and the PAD will need to be strengthened by appointing additional staff. 
+28. 
+Procurement of civil works and goods will follow ADB's Procurement Guidelines (2013, as 
+amended from time to time), while  consultant engagement will follow ADB’s Guidelines on the 
+Use of Consultants (2013, as amended from time to time). All civil works contracts valued at $10 
+million  and above will  be  procured  using international  competitive bidding.  Consulting services 
+will be recruited in two packages for the project management and construction supervision of the 
+PMO-Canals,  and one package for  implementation  support  of  outputs  2 and 3 under the  PIO, 
+using the quality- and cost-based selection method with a 90:10 ratio. Two individual consultants 
+(one  for  social  and  another  for  environment)  will  be  required  for  the  external  monitoring  of 
+safeguard  implementation under  the  PMO-Canals,  and  two  other  individual  consultants  will  be 
+required to support the PID  secretary. The procurement risks of the PMO-Canals and the PIO 
+32 Economic and Financial Analysis (accessible from the list of linked documents in Appendix 2). 
+33 A detailed financial sustainability assessment and a guidance note to develop a plan for the sustainable O&M of the 
+Jalalpur irrigation system are in the project administration manual. 
+9 
+were rated low.34 ADB’s Anticorruption Policy (1998, as amended to date) was explained to and 
+discussed with the government of Punjab, the PID, and the PAD. The specific policy requirements 
+and supplementary measures are described in the PAM (footnote 30). 
+D. 
+Poverty, Social, and Gender 
+29. 
+Agricultural land is turning barren because of groundwater salinity and the use of saline 
+flood  water  from  the  Salt  Range  for  agriculture,  which  ultimately  reduces  crop  production  and 
+leads  to  increasing  poverty  in  the  region.  The  majority  of  farmers  in  the  project  areas  have 
+smallholdings and are considered poor. The construction of a new irrigation system; provision of 
+irrigation supplies and agricultural support services; and training on the efficient use of irrigation 
+water,  irrigated  agriculture  practice,  and  more  profitable  farm  management  will  contribute  to 
+poverty  reduction  by  increasing  agricultural  production  and  improving  the  income  of  about 
+500,000  mostly  poor  rural  people.  Irrigated  agriculture  will  create  job  opportunities  for  on-farm 
+and off-farm labor in both farming and nonfarming communities. The communities will also benefit 
+from the reliable supply of irrigation water, as well as improved water-use skills. The project will 
+construct about 17 water supply outlets, which will help reduce poverty by increasing household 
+access to safe water. 
+30. 
+In addition to their household tasks, women perform a large proportion of agriculture- and 
+livestock-related  activities,  which  often  require  the  use  of  water.  Yet  women  farmers  are  often 
+excluded from training on improved agricultural practices and water-use skills. They also have 
+very  little participation  in  decision making as  they  are  often  not WUA  members. The  project  is 
+classified effective gender mainstreaming and will address these gender issues by (i) installing 
+water supply outlets, cattle baths, fencing, and crossing points in strategic places of the irrigation 
+system;  (ii)  encouraging women’s  participation  in  the WUAs;  (iii)  training  women  on  water-use 
+skills; and (iv) ensuring women farmers’ participation in training on irrigated agricultural practices 
+and profitable farming systems. 
+E. 
+Safeguards 
+31. 
+categories are as follows: 
+In  compliance  with  ADB’s  Safeguard  Policy  Statement  (2009),  the  project’s  safeguard 
+32. 
+Environment  (category  A).  The  PID  prepared  an  environmental  impact  assessment 
+(EIA)  following  the  Safeguard  Policy  Statement.  Major  anticipated  adverse  environmental  and 
+social impacts related to construction include soil erosion, noise, cutting trees, and impacts on 
+public structures and infrastructure. Among the potential adverse impacts during operation are 
+floods from hill torrents, disposal of solid waste in canals, and use of fertilizers and pesticides. 
+Protected zones near the project area are the Jalalpur Wildlife Sanctuary, which  is a breeding 
+area for the Punjab urial, and the Rasul Barrage Game Reserve. The EIA established that the 
+project will not have any significant impact on the avifauna and aquatic life of the game reserve, 
+nor  will  it  affect  wildlife  in  the  wildlife  sanctuary.  The  PID  incorporated  adequate  mitigation 
+measures into the project design and will implement them through an environmental management 
+plan (EMP). The environment experts of the project implementation consultant will supervise the 
+contractor in implementing the EMP. The PID will establish an environmental and social safeguard 
+unit, which will ensure that the project is implemented in an environmentally sustainable manner. 
+An  external  individual  environment  expert  will  ensure  that  all  contractual  obligations  related  to 
+environmental  and social  compliance are met.  The  EMP  includes provisions  on  environmental 
+34 Procurement Risk Assessment (accessible from the list of linked documents in Appendix 2). 
+10 
+and social management, as well as an occupational health and safety development program, and 
+the  PMO-Canals  and  contractors  will  implement  them  through  training  and  workshops  at  the 
+preconstruction  and  construction  stages.  The  project  complies  with  public  disclosure  and 
+consultation  requirements.  The  PDA  consultants  held  two  rounds  of  community  consultations 
+during the EIA process and disclosed the EIA on the ADB website on 4 July 2017. 
+33. 
+Involuntary resettlement (category A). The main canal, distributaries, and flood-carrier 
+channels  to  be  constructed  under  output  1  will  require  3,283  ha  of  land.  Almost  99%  of  the 
+required land is privately owned and will need to be acquired. Out of this, 1,370 ha is agricultural 
+land.  Only  about  5.6 ha is for residential  and/or commercial  purposes.  At  the  main  canal,  216 
+residential and 10 commercial structures may be affected, along with 43 tube wells and related 
+structures.  Construction  of  the  distributaries  may  also  affect  about  39  miscellaneous  private 
+structures. About 8,000 people may be affected. Of these, 2,920 landowners may lose 10% or 
+more of their agricultural land, while 166 owners of residential and commercial structures may 
+need to relocate. The PDA consultants prepared a draft land acquisition and resettlement plan 
+(LARP)  following  the  Safeguard  Policy  Statement  based  on  a  socio-economic  survey  of  400 
+potentially displaced persons and community consultations. The PID disclosed the draft LARP on 
+the  ADB  website  on  25  August  2017.  The  PID  will  prepare  the  final  LARPs  following  the 
+notification of land acquisition under Sections 4 and 6 of the Pakistan Land Acquisition Act (1894), 
+marking of the project boundaries in the field, census, detailed measurement surveys, and further 
+consultations with affected persons. Under output 2, land will be required for the 485 watercourses 
+to be constructed, along with more than 18,910 small farm turnout structures. The required land 
+will  be  provided  by  the  farmers  and  local  communities  as  counterpart  support,  including  other 
+assets,  therefore  involuntary  resettlement  is  not  involved.  Safeguard  measures  to  ensure  that 
+contributions are voluntary and documented are provided in the PAM. 
+34. 
+Indigenous peoples (category C). Punjabis comprise the majority of the population in 
+the project area, and there are no communities or groups that may be considered as indigenous 
+peoples as defined under the Safeguard Policy Statement. All ethnic groups are mainstreamed 
+into the general Pakistan society and culture. 
+F. 
+Summary of Risk Assessment and Risk Management Plan 
+35. 
+ADB has identified and assessed the risks associated in the implementation and sustained 
+performance  of  the  project  in  aspects  such  as  technical;  economic  and financial;  governance; 
+poverty, social, and gender; and safeguards. The project’s overall risk was assessed moderate. 
+Significant risks and mitigating measures are summarized in Table 4 and described in detail in 
+the risk assessment and risk management plan.35 
+Risks 
+Extreme weather events cause hill torrent 
+floods above design discharges, damaging 
+the irrigation system, farm land, and 
+properties. 
+Deteriorating irrigation cost recovery and 
+inadequate budget support lead to poor 
+asset management, reducing the financial 
+and economic returns of the irrigation 
+services. 
+Table 4: Summary of Risks and Mitigating Measures 
+Mitigation Measures 
+The PID examined several options for the initial section using a model 
+experiment and selected the least-cost solution for capital investment 
+and O&M. The PMO-Canals, with help from project implementation 
+consultants, will develop the flood disaster risk management plan and 
+will train PID staff to implement the plan. 
+The government of Punjab will provide an adequate O&M budget from 
+FY2023 onward for the completed Jalalpur irrigation system and its 
+associated facilities. The PID will monitor and record the actual O&M 
+expenses, budget allocation, and assessment and recovery of abiana 
+35 Risk Assessment and Risk Management Plan (accessible from the list of linked documents in Appendix 2). 
+11 
+Risks 
+Mitigation Measures 
+(irrigation service fee) on an annual basis, and make such information 
+available to ADB on request. 
+The PMO-Canals will establish an accountant and an assistant 
+accountant positions, and the PIO will establish an accountant 
+position. The PMO-Canals and PIO will adopt a financial management 
+manual that is tailored to the needs of the project. 
+The PMO-Canals and the PIO lack financial 
+management staff, which may cause project 
+delay. The absence of internal auditing at 
+provincial departments may affect effective 
+risk management and control. 
+ADB  =  Asian  Development  Bank,  FY  =  fiscal  year,  O&M  =  operation  and  maintenance,  PID  =  Punjab  Irrigation 
+Department, PIO = project implementation office, PMO = project management office. 
+Source: Asian Development Bank. 
+IV. 
+ASSURANCES AND CONDITIONS 
+The government and the PID have assured ADB that implementation of the project shall 
+36. 
+conform  to  all  applicable  ADB  policies,  including  those  concerning  anticorruption  measures, 
+safeguards, gender, procurement, consulting services, and disbursement as described in detail 
+in the PAM and loan documents. The government and the PID have agreed with ADB on certain 
+covenants for the project, which are set forth in the draft loan agreement and project agreements. 
+37. 
+The government of Punjab has assured ADB that (i) by 31 November 2021, the PID will 
+approve for the Jalalpur irrigation system (a) the guidelines and plan for sustainable O&M with 
+improved  asset  management  and  irrigation  service  delivery,  and  (b)  a  flood  disaster  risk 
+management plan; (ii) by no later than 30 June 2022, the PID will start the implementation of the 
+plans;  (iii)  an  adequate  O&M  budget  for  the  completed  Jalalpur  irrigation  system  and  its 
+associated  facilities  is  provided  starting  in  FY2023;  and  (iv)  actual  O&M  expenses,  budget 
+allocations,  and  assessment  of  recovery  of  abiana  are  monitored  and  recorded  annually  and 
+promptly provided to ADB for at least 5 years following the project completion. The government 
+of Punjab has also agreed that no withdrawals shall be made from the loan account until qualified 
+accounting staff are engaged at the PMO-Canals in the PID and the PIO in the PAD. 
+V. 
+RECOMMENDATION 
+38. 
+I am satisfied that the proposed loan would comply with the Articles of Agreement of the 
+Asian  Development  Bank  (ADB)  and  recommend  that  the  Board  approve  the  loan  of 
+$274,630,000 to the Islamic Republic of Pakistan for the Jalalpur Irrigation Project, from ADB’s 
+ordinary  capital  resources,  in regular  terms,  with interest  to  be  determined  in  accordance  with 
+ADB’s  London  interbank  offered  rate  (LIBOR)-based  lending  facility;  for  a  term  of  20  years, 
+including a grace period of 5 years; and such other terms and conditions as are substantially in 
+accordance with those set forth in the draft loan and project agreements presented to the Board. 
+2 November 2017 
+Takehiko Nakao 
+President 
+12 
+Appendix 1 
+Impact the Project is Aligned with 
+Growth of agriculture sector enhanced and food security ensured (Punjab Growth Strategy 2018)a 
+DESIGN AND MONITORING FRAMEWORK 
+Results Chain 
+Outcome 
+Agricultural 
+production in the 
+project area increased 
+Outputs 
+1. Jalalpur irrigation 
+distribution system 
+established 
+2. Water-use capacity 
+improved in project 
+areas 
+Performance Indicators with 
+Targets and Baselines 
+Data Sources and 
+Reporting Mechanisms 
+Risks 
+Shortage of water for 
+diversion from the 
+Jhelum River because 
+of competition with 
+other irrigation 
+schemes or erratic 
+river flows reduces 
+agricultural benefits. 
+Extreme weather 
+events cause hill 
+torrent floods above 
+design discharges, 
+damaging the 
+irrigation system, farm 
+land, and properties. 
+By 2024: 
+a. Cropping intensity during kharifb 
+season increased to 90% in the 
+project area of 68,263 ha (2008–
+2014 average baseline: 13%) 
+a–b. PAD’s crop reporting 
+services through PMO-
+Canals complemented by 
+M&E systems 
+b. Crop yield in the project area 
+during kharif season increased by 
+141% for cotton, 12% for maize, 
+17% for rice, 29% for tinda,c 45% for 
+sorghum, and 66% for wheat (2008–
+2014 baseline: cotton 0.58 t/ha; 
+maize 6.95 t/ha; rice 1.66 t/ha; tinda 
+7.56 t/ha; sorghum 7.95 t/ha; wheat 
+1.66 t/ha during the rabid season) 
+c. Coverage of topsoil with high 
+salinity reduced to 10,239 ha (2015 
+baseline: 20,478 ha) 
+By 2022: 
+1a. An intake structure with a design 
+discharge capacity of 38.2 m3/s, 117 
+km-long main canal, 23 
+distributaries, 10 minor canals, 72 
+cross-drainage structures, 18 flood-
+carrier channels, and more than 250 
+associated structures for kharif 
+season irrigation constructed (2017 
+baseline: 0) 
+1b. Guideline and sustainable O&M 
+plan for the Jalalpur irrigation system 
+approved by the PID (2017 baseline: 
+not applicable) 
+1c. Flood disaster risk management 
+plan approved by the PID (2017 
+baseline: not applicable) 
+1d. M&E system using satellite 
+remote sensing technology to assess 
+irrigation efficiency, crop growing, 
+and the abianae certified as fully 
+functional by the PID (2017 baseline: 
+not applicable) 
+By 2023: 
+2a. 485 watercourses covering all 
+project areas for kharif season 
+irrigation constructed (2017 baseline: 
+0) 
+2b. 485 WUAs formed and their 
+capacities improved for sustainable 
+O&M of watercourses and efficient 
+c. PMO-Canals and PID 
+data 
+1a–d. PMO-Canals and 
+PID data 
+2a–e. PAD and PIO data 
+through the PMO-Canals 
+Appendix 1 
+13 
+Data Sources and 
+Reporting Mechanisms 
+Risks 
+3a–c. PAD and PIO data 
+through the PMO-Canals 
+Results Chain 
+3. Farm management 
+capacity improved in 
+project areas 
+Performance Indicators with 
+Targets and Baselines 
+water use during kharif season (2017 
+baseline: 0) 
+2c. 12,140 ha of the project area 
+flattened (2017 baseline: 0) 
+2d. HEISs covering 809 ha of the 
+project area installed (2017 baseline: 
+0) 
+2e. More than 6,000 households 
+(about 20% of the total estimated 
+number of beneficiary households) 
+improved water-use skills, at least 
+30% of whom are women (2017 
+baseline: 0) 
+By 2023: 
+3a. More than 6,000 households 
+(about 20% of the total estimated 
+number of beneficiary households) 
+improved their capacities on irrigated 
+agriculture practices, at least 30% of 
+whom are women (2017 baseline: 0) 
+3b. More than 6,000 households 
+(about 20% of the total estimated 
+number of beneficiary households) 
+improved their capacities on 
+profitable farming systems, at least 
+30% of whom are women (2017 
+baseline: 0) 
+3c. More than 6,000 farmers 
+accessed private agriculture support 
+services in the project area (2017 
+baseline: 0) 
+Key Activities with Milestones 
+1.  Jalalpur irrigation distribution system established 
+1.1  Construct Jalalpur irrigation distribution structures (Q3 2018–Q2 2022) 
+1.2  Develop M&E system for Jalalpur irrigation system (Q2 2020) 
+1.3  Complete training of PID and PAD staff on the use of the M&E system (Q2 2022) 
+1.4  Develop guideline and sustainable O&M plan and flood disaster risk management plan (Q1 2021–Q4 2021) 
+1.5  Complete training of PID staff on the use of the plans (Q2 2022) 
+2.  Water-use capacity improved in project areas 
+2.1  Establish 485 WUAs (Q3 2018–Q1 2023) 
+2.2  Construct 485 watercourses with farmers’ participation (Q1 2019–Q2 2023) 
+2.3  Undertake WUA training for efficient O&M and their organizations (Q2 2021–Q3 2023) 
+2.4  Undertake precision land leveling of 12,140 ha of the project area (Q1 2019–Q4 2023) 
+2.5  Install HEISs (e.g., drip irrigation) covering 809 ha and 20 water storage ponds with solar pumping stations 
+(Q1 2019–Q4 2023) 
+2.6  Undertake farmer training for climate-smart irrigation practices (Q2 2021–Q3 2023) 
+3.  Farm management capacity improved in project areas 
+3.1  Establish 664 demonstration plots covering 220 ha (Q2 2021–Q3 2023) 
+3.2  Conduct farmer field schools and farmers’ training (Q2 2021–Q3 2023) 
+3.3  Hold farmer fairs and other knowledge-sharing events (Q2 2021–Q3 2023) 
+3.4  Provide private agriculture support services (Q2 2021–Q3 2023) 
+14 
+Appendix 1 
+Project Management Activities 
+Complete detailed engineering design (Q3 2017) 
+Initiate bid process for the major civil works contract (Q3 2017) 
+Mobilize project implementation consultant (Q4 2017) 
+Mobilize project support consultant for outputs 2 and 3 activities (Q1 2018–Q3 2018) 
+Award major civil works contract (Q3 2018) 
+Inputs 
+ADB: $274.63 million 
+Government: $80.80 million 
+Beneficiaries: $5.16 million 
+Assumptions for Partner Financing 
+Not applicable 
+ADB  =  Asian  Development  Bank,  ha  =  hectare,  HEIS  =  high-efficiency  irrigation  system,  M&E  =  monitoring  and 
+evaluation, m3/s = cubic meter per second, O&M = operation and maintenance, PAD = Punjab Agriculture Department, 
+PID  =  Punjab  Irrigation  Department,  PIO  =  project  implementation  office,  PMO  =  project  management  office,  Q  = 
+quarter, t/ha = ton per hectare, WUA = water user association. 
+a  Government of Punjab, Planning and Development Department. 2015. Punjab Growth Strategy 2018: Accelerating 
+Economic Growth and Improving Social Outcomes. Lahore. 
+b  Kharif refers to the sowing season for summer crops, which is generally from April to October. 
+c  Tinda is a small vegetable that is also referred to as Indian squash, round melon, Indian round gourd, apple gourd, 
+or Indian baby pumpkin. 
+d  Rabi refers to the sowing season for winter crops, which is generally from October to April. 
+e  Abiana is the irrigation service fee assessed based on expected crop production. 
+Source: Asian Development Bank. 
+Appendix 2 
+15 
+LIST OF LINKED DOCUMENTS 
+http://www.adb.org/Documents/RRPs/?id=46528-002-3 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+Loan Agreement 
+Project Agreement 
+Sector Assessment (Summary): Agriculture, Natural Resources, and Rural Development 
+Project Administration Manual 
+Contribution to the ADB Results Framework 
+Development Coordination 
+Economic and Financial Analysis 
+Country Economic Indicators 
+Summary Poverty Reduction and Social Strategy 
+Risk Assessment and Risk Management Plan 
+Gender Action Plan 
+Environmental Impact Assessment 
+Resettlement Plan 
+Supplementary Documents 
+14. 
+15. 
+16. 
+17. 
+Financial Management Assessment 
+Procurement Risk Assessment 
+Climate Change Risk Vulnerability Assessment and Adaptation Measures 
+Detailed Economic and Financial Analysis 

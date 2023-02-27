@@ -27,15 +27,55 @@ class Project:
 		print("Url: {}".format(self.url))
 
 	def download_txt(self):
+		with open('pam_docs.txt') as pam_docs:
+			if self.id in pam_docs.read():
+				print('Already downloaded PAM')
+				return 0
+
 		response = requests.get(self.url)
 		if response == None:
-			return
+			return 1
 
 		content_type = response.headers.get('content-type')
 
 		if 'application/pdf' in content_type:
 			pdf_filename = self.id + '-pam.pdf'
-			txt_filename = self.id + '-pam.txt'
+			txt_filename = 'pam/' + self.id + '-pam.txt'
+			try:
+				with open('./' + pdf_filename, 'wb') as f:
+					f.write(response.content)
+				print("PDF generated: " + pdf_filename)
+				txt_gen_return = os.system("pdf2txt.py ./" + pdf_filename + " > ./txt_files/" + txt_filename) #256 for error, 0 for okay
+				os.system("sed '/^\s*$/d' -i txt_files/" + txt_filename) # removes blank lines
+				print("txt generated: " + txt_filename)
+				os.system("rm ./" + pdf_filename) # saves space by deleting the pdf
+				print("PDF deleted")
+				if int(txt_gen_return) != 0:
+					os.system("rm ./" + txt_filename)
+					print("Error in generating txt: faulty txt deleted")
+				return int(txt_gen_return)
+			except:
+				print("Encountered issue downloading PDF and extracting txt")
+				pass
+		
+		print('No PAM, checking for RRP')
+
+		self.url = self.url.replace('pam', 'rrp')
+
+		with open('rrp_docs.txt') as rrp_docs:
+			if self.id in rrp_docs.read():
+				print('Already downloaded RRP')
+				return 0
+
+		response = requests.get(self.url)
+		if response == None:
+			return 1
+
+		content_type = response.headers.get('content-type')
+
+		if 'application/pdf' in content_type:
+			pdf_filename = self.id + '-rrp.pdf'
+			txt_filename = 'rrp/' + self.id + '-rrp.txt'
 			try:
 				with open('./' + pdf_filename, 'wb') as f:
 					f.write(response.content)
@@ -53,7 +93,7 @@ class Project:
 				print("Encountered issue downloading PDF and extracting txt")
 				pass
 		else:
-			print('no document')
+			print('No RRP')
 
 		return 1
 
@@ -103,7 +143,7 @@ class Project:
 
 def get_projects():
 	projects = []
-	with open('adb_projects.csv', mode ='r')as file:
+	with open('asian_development_bank_projects.csv', mode ='r')as file:
 		csvFile = csv.reader(file)
 		first_line = True
 		for lines in csvFile:

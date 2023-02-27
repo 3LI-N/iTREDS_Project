@@ -1,0 +1,1110 @@
+Report and Recommendation of the President  
+to the Board of Directors 
+Project Number: 45371-007 
+May 2018 
+Proposed Loan  
+India: Madhya Pradesh Irrigation Efficiency 
+Improvement Project 
+Distribution of this document is restricted until it has been approved by the Board of Directors. 
+Following such approval, ADB will disclose the document to the public in accordance with ADB’s 
+Public Communications Policy 2011. 
+CURRENCY EQUIVALENTS 
+(as of 20 April 2018) 
+Currency Unit 
+₹1.00 
+$1.00 
+– 
+= 
+= 
+Indian rupee (₹) 
+$0.0151 
+₹66.105 
+ABBREVIATIONS 
+ADB 
+DBO 
+EIRR 
+EMP 
+ha 
+KIP 
+KMMP 
+MMI 
+MOM 
+MPWRD 
+SSIP 
+Asian Development Bank 
+– 
+design–build–operate 
+– 
+economic internal rate of return 
+– 
+environmental management plan 
+– 
+hectare 
+– 
+Kundalia Irrigation Project 
+– 
+Kundalia Major Multipurpose Project 
+– 
+major- and medium-sized irrigation 
+– 
+– 
+management, operation and maintenance 
+–  Water Resources Department Madhya Pradesh 
+– 
+Sanjay Sarovar Irrigation Project 
+(i) 
+The fiscal year (FY) of the Government of India and its agencies ends on 31 March. 
+“FY” before a calendar year denotes the year in which the fiscal year ends, e.g., 
+FY2018 ends on 31 March 2018. 
+NOTES 
+(ii) 
+In this report, "$" refers to United States dollars. 
+Vice-President 
+Director General 
+Director 
+Team leader 
+Team members 
+Peer reviewer 
+Wencai Zhang, Operations 1 
+Hun Kim, South Asia Department (SARD) 
+Mio Oka, Environment, Natural Resources and Agriculture Division, 
+SARD 
+Arnaud Cauchois, Principal Water Resources Specialist, SARD 
+Cynthia Pancracia Ceniza, Operations Assistant, SARD 
+Debra Ann Cruz, Senior Portfolio Management Officer, Southeast 
+Asia Department (SERD) 
+Randall Jones, Senior Economist, SARD  
+Soo-Wan Kim, Senior Audit Specialist, Office of the Auditor General 
+Takako Morita, Senior Counsel, Office of the General Counsel 
+Dewi Utami, Principal Safeguards Specialist, SARD  
+Eric Quincieu, Senior Water Resources Specialist, SERD 
+In preparing any country program or strategy, financing any project, or by making any designation 
+of  or  reference  to  a  particular  territory  or  geographic  area  in  this  document,  the  Asian 
+Development Bank does not intend to make any judgments as to the legal or other status of any 
+territory or area. 
+CONTENTS 
+PROJECT AT A GLANCE 
+MAP 
+I. 
+II. 
+III. 
+IV. 
+V. 
+THE PROPOSAL 
+THE PROJECT 
+A. 
+B. 
+C. 
+D. 
+E. 
+Rationale 
+Impact and Outcome 
+Outputs 
+Summary Cost Estimates and Financing Plan 
+Implementation Arrangements 
+DUE DILIGENCE 
+A. 
+Technical 
+B. 
+Economic and Financial 
+C. 
+Governance 
+D. 
+Poverty, Social and Gender 
+E. 
+Safeguards 
+F. 
+Summary of Risks Assessment and Risk Management Plan 
+ASSURANCES AND CONDITIONS 
+RECOMMENDATION 
+APPENDIXES 
+1. 
+2. 
+Design and Monitoring Framework 
+List of Linked Documents 
+Page 
+1 
+1 
+1 
+3 
+3 
+4 
+5 
+6 
+6 
+7 
+7 
+8 
+8 
+9 
+10 
+10 
+11 
+14 
+PROJECT AT A GLANCE
+Madhya Pradesh Irrigation Efficiency 
+Improvement Project 
+India
+India
+Department
+/Division
+Executing Agency
+Subsector(s)
+Agricultural production
+Irrigation
+Subcomponents
+Pillar 2: Access to economic 
+opportunities, including jobs, made 
+more inclusive
+Global and regional transboundary 
+environmental concerns
+Project Classification Information Status: Complete
+Project Number: 45371-007
+SARD/SAER
+Water Resources Department 
+Madhya Pradesh
+     ADB Financing ($ million)
+11.25
+363.75
+Total
+Climate Change Information 
+Adaptation ($ million)
+Climate Change impact on the 
+Project
+375.00
+42.50
+High
+Components
+Institutional development
+Gender Equity and Mainstreaming
+Some gender elements (SGE)
+Pilot-testing innovation and learning
+Promotion of private sector investment
+No
+No
+Yes
+SDG2, SDG6, SDG13
+Complex
+Location Impact
+Rural
+High
+1. Basic Data
+Project Name
+Country
+Borrower
+2. Sector
+Agriculture, natural 
+resources and rural 
+development
+3. Strategic Agenda
+Inclusive economic growth 
+(IEG)
+Environmentally sustainable 
+growth (ESG)
+4. Drivers of Change
+Governance and capacity 
+development (GCD)
+Knowledge solutions (KNS)
+Private sector development 
+(PSD)
+5. Poverty and SDG Targeting
+Geographic Targeting
+Household Targeting
+SDG Targeting
+SDG Goals        
+6. Risk Categorization:
+.
+.
+7. Safeguard Categorization
+Environment: B   Involuntary Resettlement: B   Indigenous Peoples: C
+8. Financing
+Modality and Sources
+ADB
+     Sovereign Project (Regular Loan): Ordinary capital resources
+Amount ($ million)
+Cofinancing
+     None
+Counterpart 
+     Government 
+Total
+375.00
+375.00
+0.00
+0.00
+160.71
+160.71
+535.71
+Source: Asian Development Bank
+This document must only be generated in eOps.
+13032017113628904883
+Generated Date: 20-Apr-2018 17:16:33 PM
+I. 
+THE PROPOSAL 
+I submit for your approval the following report and recommendation on a proposed loan to 
+1. 
+India for the Madhya Pradesh Irrigation Efficiency Improvement Project. 
+2. 
+The project is designed to support higher irrigation efficiency and expansion of irrigation 
+in Madhya Pradesh. It will focus on developing 125,000 hectares (ha) of new, highly efficient and 
+climate-resilient irrigation networks and productive command area under the Kundalia Irrigation 
+Project  (KIP).  It  will  also  finance  a  feasibility  study  and  detailed  designs  for  modernizing  the 
+existing Sanjay Sarovar Irrigation Project (SSIP).1   
+A. 
+Rationale 
+II. 
+THE PROJECT 
+India requires irrigation water use efficiency and productivity improvement. Water 
+3. 
+plays  a  critical  role  in  India’s  food  security  and  welfare  of  the  rural  poor  as  84%  of  all  water 
+withdrawals are dedicated to agriculture and 42% of all agricultural land is irrigated. India benefits 
+from only 4% of the world’s renewable fresh water but has 16% of the world’s population.2 With 
+intense urbanization and industrialization, the need for water from the nonagriculture sector is fast 
+increasing  and  water  shortage  is  becoming  a  major  concern  for  industries.  At  the  same  time, 
+population growth and change in dietary habits require continued growth in agricultural production. 
+By 2050, annual water availability per capita in India is expected to drop from 1,530 cubic meters 
+to 1,140 cubic meters, indicating severe water stress.3 The current average irrigation water use 
+efficiency of 38% points towards the need for serious performance improvement in this sector.4 
+The productivity of irrigation water is further hampered by low crop yields and cultivation of low- 
+value  crops.  Therefore,  most  of  India’s  utilized  water  not  only  supports  activities  with  low 
+economic value but is also inefficiently used. In the meantime, water shortages are constraining 
+water-dependent power production and the development of high-value industries that are required 
+to fuel the country’s economic growth. These problems will worsen in the future with the projected 
+impacts of population and economic growth, and with climate change, which will increase both 
+irrigation water demand and uncertainty around the reliability of water resources.  
+4. 
+Irrigation  modernization  is  a  key  strategy  to  reducing  water  wastage.  The 
+Government of India recognizes the situation. Both the Three Year Action Agenda (2017–2018 to 
+2019–2020)5 and the 2015 Pradhan Mantri Krishi Sinchayee Yojana program have acknowledged 
+the necessity to improve water use efficiency in irrigation.6 In 2014, the Asian Development Bank 
+(ADB)  funded  the  Scoping  Study  for  a  National  Water  Use  Efficiency  Improvement  Support 
+Program.7 The  study  identified  the  following  three  main  causes  for  low  water  use  efficiency: 
+(i) inadequate  irrigation  and  drainage  infrastructure  because  of  faulty  designs  and  lack  of 
+maintenance; (ii) inadequate management,  operation and maintenance  (MOM)  of  the  irrigation 
+systems;  and  (iii) inadequate  capacity  building  and  training  services.  The  study  highlights  the 
+need  to  modernize  the  design  and  management  of  major-  and  medium-sized  irrigation  (MMI) 
+1   The  Asian  Development  Bank  (ADB)  provided  project  preparatory  technical  assistance  for  the  Madhya  Pradesh 
+Irrigation Efficiency Improvement Project (TA 9051-IND).  
+2  T. A. Bhat. 2014. An Analysis of Demand and Supply of Water in India. Journal of Environment and Earth Science.  
+4 (11). p. 67. 
+3   Government of India, Central Water Commission. 2010. Water and Related Statistics. New Delhi; Government of 
+India. 2001. Census of India. New Delhi. 
+4   Water use efficiency is the ratio between the fraction of irrigation water used for productive crop evapotranspiration 
+within the boundaries of the scheme and the total volume of water diverted at the intake to the irrigation system.   
+5   Government of India, NITI Aayog. 2017. Three Year Action Agenda (2017–2018 to 2019–2020). New Delhi. 
+6   Government of  India,  Ministry  of  Agriculture and  Farmers Welfare.  2015–2016.  Pradhan  Mantri  Krishi  Sinchayee 
+Yojana. New Delhi. 
+7   ADB. 2014. Support for the Implementation of the National Water Mission by State Governments in India: Scoping 
+Study for a National Water Use Efficiency Improvement Support Program. Manila. 
+2 
+schemes  to  reduce  system  inefficiencies  and  substantially  improve  water  delivery  services  to 
+farmers.  It  proposed  a  framework  for  assessing  and  improving  water  use  efficiency  on  MMI 
+schemes.  Under  a  subsequent  regional  technical  assistance,  the  framework  was  successfully 
+pilot  tested  on  such  schemes  within  South  Asia.  The  study  also  developed  comprehensive 
+modernization strategies for existing irrigation systems and recommended a tailored investment 
+plan for the SSIP.8   
+5. 
+Madhya  Pradesh  plan  to  expand  and  modernize  irrigation.  Since  2010,  the 
+Government  of  Madhya  Pradesh  has  embarked  on  an  ambitious  irrigation  expansion  and 
+infrastructure  modernization  and  substantial 
+modernization  plan.  New  developments, 
+management and operation improvement led to an increase in net irrigation area from 0.85 million 
+ha in 2006 to 3.6 million ha in 2017–2018. These efforts have been rewarded by record annual 
+agricultural growth of 20%  in 2013–2016. The state plans to further increase the total irrigated 
+area to 7.2 million ha by 2025. This will be achieved by maximizing irrigation efficiency and water 
+productivity in both new and existing irrigation systems. It includes development of pressurized 
+irrigation, adoption of micro-irrigation and production of high-value crops. The state has set the 
+ambitious target of developing pressurized irrigation in 80% of all irrigated areas by 2025. The 
+plan is estimated to cost $20 billion. 
+6. 
+The  Water  Resources  Department  Madhya  Pradesh  (MPWRD)  has  requested  ADB 
+assistance to help finance this plan and, more importantly, to provide advice on developing highly 
+efficient  and  sustainable  model  for  MMI  schemes  that  will  serve  as  reference  for  future 
+modernization investments. The KIP will include the design and construction of a highly efficient 
+and productive new pressurized irrigation system with automated volumetric control for efficient, 
+reliable and flexible water delivery services. The KIP will be supplied by the reservoir being built 
+under the Kundalia Major Multipurpose Project (KMMP). Modernization being conducted under 
+the  SSIP  will  include  (i) upgrading  infrastructure  to  improve  conveyance  efficiency  and  flow 
+regulation, and (ii) extending the command area and partially converting to pressurized irrigation 
+and micro-irrigation.9  
+Innovation and ADB value addition. The project supports both technical and institutional 
+7. 
+innovations.  The  technical  innovation  involves  designing  and  constructing  a  very  large  scale 
+pressurized  and  automated  irrigation  system  that  will  allow  considerable  gains  in  water  use 
+efficiency.  On  the  institutional  side,  the  project  introduces  the  design–build–operate  (DBO) 
+contracting modality. There are very few examples of irrigation DBO contracts in India and none 
+on such large systems and with such a long MOM period. The DBO approach addresses critical 
+lessons from past projects. It aims to address recurrent public sector inefficiencies in irrigation 
+MOM. The DBO modality will also substantially enhance irrigation service delivery to farmers and 
+encourage contractors to build quality and efficient irrigation systems to reduce MOM costs. Value 
+added by ADB assistance consists of providing state of the art technical support for designing the 
+KIP  and  SSIP,  supervising  KIP  construction,  MOM  and agriculture  support  services,  preparing 
+DBO bidding documents and providing support for efficient management of the DBO contracts. 
+The current limited expertise of MPWRD with pressurized irrigation, irrigation modernization and 
+performance-based irrigation management will be substantially enhanced through the project. 
+8. 
+The project is consistent with the objectives of ADB’s country partnership strategy, 2018–
+2022  for  India.10 It  will  support  the  country’s  Three  Year  Action  Agenda  (2017–2018  to  2019–
+8   ADB. 2011. Technical Assistance for Innovations for More Food with Less Water into Regional Cooperation. Manila.  
+(TA 7967-REG, completed in 2015).  
+9   Micro-irrigation is an irrigation method that is localized to the crop root zone and uses low volume of water and low 
+pressure. Micro-irrigation systems used under the project are drippers and micro-sprinklers. 
+10  ADB.  2017.  Country  Partnership  Strategy:  India,  2018–2022—Accelerating  Inclusive  Economic  Transformation. 
+Manila. 
+3 
+2020) (footnote 5) and the Pradhan Mantri Krishi Sinchayee Yojana program objectives (footnote 
+6) to increase irrigation water productivity.  
+B. 
+Impact and Outcome 
+9. 
+The project is aligned with the following impacts: (i) Indian farmers’ income doubled by 
+2022  (footnote  5);  (ii) India’s  “more  crop  per  drop”  achieved  (footnote  6);  and  (iii)  resilience  of 
+farmers  in  the  project  area  to  ongoing  and  uncertain  future  climate  change  increased.11 The 
+project will have the following outcome: higher irrigation efficiency, agricultural water productivity 
+and climate resilience in Madhya Pradesh achieved.12   
+C. 
+Outputs  
+10. 
+Output 1: Kundalia Irrigation Project infrastructure constructed. The KIP will consist 
+of two large pumping stations pumping water to distribution chambers from where water will be 
+distributed by gravity pressure through a network of buried pipelines that gradually reduce in size 
+up to end user and/or farm outlets (hydrants every 1–2 ha). The system is designed to provide 
+pressure of 200 kilopascal at the outlet for field micro-irrigation systems. 
+Output  2:  Kundalia 
+11. 
+Irrigation  Project  performance-based  operation  and 
+maintenance established. This output will be delivered by contracting a private sector operator 
+under a DBO contract. The contractor will be tasked to operate and maintain the system for a 
+period of 5 years after completion of the construction. During this period the contractor will need 
+to meet several performance indicators related to system leakage, electricity consumption, and 
+noninterruption of operation. The contractor will  provide on-the-job training to MPWRD staff.  A 
+supervisory control and data acquisition system and a decision support system will be installed to 
+facilitate the MOM of the system.  
+12. 
+Output  3:  Farmers  capacity  for rapid  uptake of micro-irrigation  technology  in  the 
+Kundalia  Irrigation  Project  command  area  enhanced.  This  output  will  be  achieved  by 
+(i) establishing and building the capacity of the water users’ associations, (ii) establishing micro-
+irrigation farm demonstration sites, and (iii) establishing farmers’ service centers and conducting 
+farmers’ field schools to support adoption of micro-irrigation and productive irrigated agriculture 
+including  high-value  crops.  These  activities  will  be  carried  out  by  the  DBO  contractor(s)  in  a 
+collaborative  relationship  with  government  agencies  and  stakeholders.  The  DBO  contracts 
+include performance guarantees for the area equipped with micro-irrigation systems at year 1, 3 
+and 5 after commissioning.  
+13. 
+Output 4: Modernization of the Sanjay Sarovar Irrigation Project well-designed with 
+project readiness criteria met. This output will be achieved by (i) preparing a comprehensive 
+SSIP modernization plan, (ii) undertaking a feasibility study and detailed design of the proposed 
+plan,  (iii)  developing  an  institutional  strategy  to  enhance  the  performance  and  sustainability  of 
+SSIP MOM, (iv) preparing bidding documents for the modernization works and consultant request 
+for  proposal  for  the  ensuing  project  implementation  and  construction  quality  supervision,  and 
+(v) supporting MPWRD and ADB to meet the project processing requirements. 
+11  Defined by the project. 
+12 The design and monitoring framework is in Appendix 1. 
+4 
+D. 
+Summary Cost Estimates and Financing Plan  
+14. 
+The project is estimated to cost $535.71 million (Table 1). 
+15. 
+Detailed  cost  estimates  by  expenditure  category  and  by  financier  are  included  in  the 
+project  administration  manual. 13  Major  expenditure  items  include  (i)  civil  works  and  electro-
+mechanical equipment for the construction of the KIP, (ii)  a project management unit including 
+staff  and  recurrent  expenditures,  (iii)  agriculture  support  services,  (iv)  environment  and  social 
+mitigation for temporary and permanent land acquisition and implementation of the environment 
+management plan (EMP) under the KIP, (v) KIP MOM, and (vi) consulting services for MPWRD 
+capacity  building  and  preparation  of  the  feasibility  study  and  detailed  design  for  the  SSIP 
+Modernization.  
+Table 1: Summary Cost Estimates 
+($ million) 
+Item 
+A.  
+Base Costb 
+Kundalia Irrigation Project infrastructure constructed 
+1. 
+2.          Kundalia Irrigation Project performance-based operation and 
+maintenance established 
+3.          Farmers capacity for rapid uptake of micro-irrigation technology in the 
+Kundalia Irrigation Project command area enhanced 
+4.          Modernization of the Sanjay Sarovar Irrigation Project well-designed with 
+project readiness criteria met 
+Subtotal (A) 
+B.  
+C.  
+Contingenciesc 
+Financing Charges During Implementationd 
+Total (A+B+C) 
+Amount a 
+396.74 
+19.10 
+15.47 
+3.57 
+434.88 
+60.48 
+40.36 
+535.71 
+a  Includes taxes and duties of $19.69 million to be financed in cash contribution from government resources.  
+b  In October 2017 prices. 
+c  Physical  contingencies computed  at 10%  for  civil  works  and  goods.  Price  contingencies computed  at  average of 
+1.5% on foreign exchange costs and  4.6% on local currency costs; includes provision for potential exchange rate 
+fluctuation under the assumption of a purchasing power parity exchange rate. 
+d  Includes interest and commitment charges. Interest during construction for ordinary capital resources loan has been 
+computed at the 5-year forward London Interbank Offered Rate plus a spread of  0.7% (including a maturity-based 
+premium of 0.1%). Commitment charges for an ordinary capital resources loan are 0.15% per year to be charged on 
+the undisbursed loan amount.  
+Source: Asian Development Bank estimates. 
+The government has requested a regular loan of $375 million from ADB’s ordinary capital 
+16. 
+resources to help finance the project. The loan will have a 26-year term, including a grace period 
+of 5 years; an annual interest rate determined in accordance with ADB’s London interbank offered 
+rate  (LIBOR)-based  lending  facility;  a  commitment  charge  of  0.15%  per  year;  and  such  other 
+terms and conditions set forth in the draft loan and project agreements. Based on the straight-line 
+method, the average maturity is 15.75 years, and the maturity premium payable to ADB is 0.10% 
+per year.  
+The summary financing plan is in Table 2. ADB will finance the expenditures in relation to 
+17. 
+civil works, consulting services and trainings. 
+13  Project Administration Manual (accessible from the list of linked documents in RRP Appendix 2). 
+5 
+Table 2: Summary Financing Plan 
+Source 
+Asian Development Bank  
+Ordinary capital resources (regular loan) 
+Government of Madhya Pradesh 
+Total 
+Source: Asian Development Bank estimates. 
+Amount ($ million) 
+Share of Total (%) 
+375.00 
+160.71 
+535.71 
+70.0 
+30.0 
+100.0 
+18. 
+Climate adaptation is estimated to cost $50 million exclusive of taxes and duties. ADB will 
+finance 85% of this cost. This includes financing part of the structural components of the project 
+aimed  at  increasing  water  supply  during  rabi  (the  dry  [winter]  cropping  season,  which  lasts 
+between November and March) and addressing the increase in uncertainty associated with water 
+availability under a changing climate, as well as the additional adaptation measure of agricultural 
+training  and field  pilot  demonstrations to  advance  planting  time  of  rabi  crops  and  benefit  from 
+residual soil moisture from the monsoon. Details are in the project climate risk assessment and 
+management report.14 
+E. 
+Implementation Arrangements 
+The implementation arrangements are summarized in Table 3 and described in detail in 
+19. 
+the project administration manual (footnote 13). 
+Aspects  
+Implementation period 
+Estimated completion date 
+Estimated loan closing date 
+Management 
+(i) Oversight body 
+(ii) Executing agency 
+(iii) Implementation unit 
+Procurement 
+Consulting services 
+Retroactive financing and/or 
+advance contracting 
+Disbursement  
+Table 3: Implementation Arrangements 
+Arrangements 
+May 2018–September 2025 
+30 September 2025 
+31 March 2026 
+State Project Steering Committee 
+Principal Secretary of the Water Resources Department (Chair)  
+Representatives  of  Department  of  Agriculture,  Department  of  Horticulture, 
+Department  of  Finance,  and  Department  of  Energy,  Department  of  Animal 
+Husbandry,  Department  of  Rural  Development,  Madhya  Pradesh  State 
+Cooperative  Bank,  and  Madhya  Pradesh  Water  and  Land  Management 
+Institute (members) 
+Water Resources Department Madhya Pradesh 
+Bhopal, 371 staff 
+International competitive 
+bidding 
+ICS  
+Consulting Firm QCBS 80:20  170 person-months  $3.85 million 
+Advance contracting and retroactive financing will be used for civil works and 
+consulting  services.  Retroactive  financing  will  be  considered  for  eligible 
+expenditures  not  exceeding  20%  of  the  loan  amount  incurred  prior  to  loan 
+effectiveness,  but  not  earlier than  12  months  before the loan  agreement  is 
+signed. 
+The loan proceeds will be disbursed in accordance with ADB's Loan 
+Disbursement Handbook (2017, as amended from time to time) and detailed 
+arrangements agreed between the government and ADB. 
+112 person-months  $2.019 million 
+$420.245 million 
+2 contracts 
+ADB = Asian Development Bank, ICS = individual consultant selection, QCBS = quality- and cost-based selection.  
+Source: Asian Development Bank. 
+14  Project Climate Risk Assessment and Management Report (accessible from the list of linked documents in Appendix 
+2). 
+6 
+A. 
+Technical 
+III. 
+DUE DILIGENCE 
+20. 
+The KMMP includes three main components: (i) the 44.5-meter high Kundalia dam across 
+the Kalisindh River, construction of which will be completed in October 2018 and is being funded 
+by the state; (ii) the KIP; and (iii) the supply of water for potable and industrial use. The KIP was 
+initially envisaged to cover 58,000 ha, of which 45,000 ha would have been gravity irrigation with 
+canals  and  13,000  ha  lift  irrigation.  In  2015,  MPWRD  decided  to  convert  the  KIP  to  a  100% 
+pumped pressurized pipeline system for spray and micro-irrigation.  
+21. 
+The feasibility design for the pressurized distribution system, including pumping stations, 
+electrical  substations  and  power  supply  systems,  transmission  pipelines,  valves,  controls  and 
+associated structures, was planned under the project preparatory technical assistance. Design 
+criteria were selected to allow delivery of reliable and flexible irrigation service with a pressurized 
+water  outlet  at  every  1–2  ha.  The  system  was  conceived  to  achieve  80%  overall  irrigation 
+efficiency.  With  such  gain  in  efficiency,  the  water  balance  assessment  confirmed  the  KIP 
+command area can be extended to 125,000 ha to provide full irrigation services in the rabi season 
+and  protective  irrigation  in  the  wet  season.  Several  design  options  were  studied.  The  best 
+compromise in terms of energy consumption, construction cost and robustness to local conditions 
+was retained as the base design. The power requirement is estimated at 63 megawatts. MPWRD 
+initially  envisaged  building  a  solar  power  plant  as  part  of  the  project  to  offset  the  power 
+requirement  of  the  KIP  scheme.  However,  construction  of  the  plant  was  deferred  as  Madhya 
+Pradesh has a large excess in generation capacity that remains unutilized and for which the state 
+pays  compensation  charges  to  private  companies.  In  addition,  the  state  is  finalizing  a  750-
+megawatt public–private partnership project for solar power generation. The KIP design provides 
+a  smart  water  management  system  to  increase  management  efficiency  and  reduce  energy 
+consumption. This includes (i) a supervisory control and data acquisition system to monitor and 
+control flow remotely throughout the command area, and (ii) a decision support system with an 
+irrigation planning and scheduling database to help organize efficient water distribution.  
+increase),  and  changes 
+22. 
+The  overall  climate-related  risk  associated  with  the  project  was  rated  as  high  by  the 
+AWARE rapid climate screening tool, mainly because of high risks associated with temperature 
+increase  (and  related  evapotranspiration 
+in  rainfall  patterns. 
+Consequently, a climate risk and vulnerability assessment  was undertaken to analyze this risk 
+more  rigorously  and  assess  the  need  for  and  economic  feasibility  of  potential  adaptation 
+measures.  The  assessment  confirmed  likely  increase  in  irrigation  demand  in  the  dry  season 
+because  of  an  increase  in  temperature.  This  increase  in  irrigation  water  demand  can  be  met 
+through  additional  groundwater  pumping.  The  aquifer  sustainable  yield  will  only  be  exceeded 
+under the most pessimistic climate change scenario. In such a case, a 1.5% reduction in area 
+planted with high water-use crops like oranges will be required towards the end of the economic 
+lifetime  of  the  project.  The  climate  risk  and  vulnerability  assessment  studied  the  economic 
+feasibility  of  alternative measures to  actively  increase  the  availability  of  irrigation  water. These 
+included infrastructure investments aiming to increase the supply of irrigation water, and initiatives 
+to  reduce  irrigation  water  demand  from  farmers.  The  only  measure  considered  economically 
+feasible  is  the  provision  of  agricultural  training  and  field  pilot  demonstrations  to  advance  the 
+planting  time  of  rabi  crops  and  benefit  from  residual  soil  moisture  from  the  monsoon.  This 
+additional adaptation measure is included under the project design.  
+7 
+B. 
+Economic and Financial 
+Economic  analysis.  An  economic  analysis  was  prepared  for  the  entire  KMMP.15 The 
+23. 
+economic net present value (discounted at the assumed economic opportunity cost of capital of 
+9%) of the project is estimated at ₹38.5 billion indicating that the KMMP is economically feasible. 
+The same conclusion can be derived from the project’s economic internal rate of return (EIRR), 
+which is estimated at 15.7%, well above the minimum required rate of 9.0%. Increased agricultural 
+production  is the  most  important  source  of quantifiable economic  benefits,  accounting for  over 
+95% of total benefits. The development of irrigation will support change in cropping patterns from 
+low-value  crops  towards  high-value  crops  such  as  vegetables  and  oranges.  It  will  support  an 
+increase  in  cropping  intensity  from  132%  to  180%,  thereby  extending  the  harvested  area  by 
+59,500  ha.  More  importantly,  sufficient  and  reliable  irrigation  supply  will  boost  yields  by  10%– 
+50%  depending  on  crop  type.  Benefits  from  increased  raw  water  provision  accounts  for  the 
+remainder.   
+24. 
+Sensitivity tests were conducted by varying the project’s investment cost, MOM cost, and 
+benefits. The results of the analysis indicate that the economic feasibility of the KMMP is more 
+sensitive to unfavorable changes to economic benefits than to the investment cost. If the benefits 
+are 43.8% lower or the investment cost is 127.5% higher than in the base case, the EIRR will fall 
+below 9.0%. The project’s EIRR is relatively insensitive to changes to the  MOM cost. A Monte 
+Carlo  simulation  indicates  that  the  EIRR  has  a  negligible  likelihood  of  dropping  below  the 
+economic opportunity cost of capital, even if benefits would be 50% lower and costs 50% higher 
+than in the base case.16 
+25. 
+Financial  analysis.  MPWRD  is  considering  a  gradual  increase  in  the  current  tariff  for 
+pressurized irrigation from ₹1,000 to ₹10,900 (in constant October 2017 prices, per ha per year). 
+At this much higher tariff, the financial internal rate of return of the KMMP is estimated at –5.7%, 
+which  is  lower  than  the  weighted  average  cost  of  capital  (2.2%).  This  is  mainly  because  the 
+proposed  incremental  tariff  does  not  include  repayment  of  the  capital  costs.  For  projects 
+implemented by government sector units such as MPWRD, the financial analysis focuses on the 
+capacity to finance the incremental recurrent costs which are required for the sustainability of the 
+investment. Despite the low financial internal rate of return the project is worth supporting based 
+on the large economic development benefits as indicated by the high estimated EIRR, the positive 
+impact on the state economy, and the substantial positive effect on reducing rural poverty in the 
+KIP command area.  
+26. 
+The proposed tariff was set to cover the full cost of routine MOM by 2026.  MPWRD would 
+only need to subsidize the MOM expenditure during 2021–2025 (about ₹1.2 billion in total for the 
+5-year period) and in 2050, the year in which hydraulic steel structures and mechanical equipment 
+will be replaced (about ₹3.9 billion). A review of MPWRD MOM annual budgets has indicated that 
+MPWRD would be able to cover these costs.  The state government has committed to adopt the 
+appropriate tariff scheme and to cover for any MOM budget shortfalls. This has been included as 
+a loan covenant. 
+C. 
+Governance 
+Financial  management.  A financial  management  assessment  of  MPWRD  was carried 
+27. 
+out  in  accordance  with  ADB’s  Guidelines  for  the  Financial  Management  and  Analysis  of 
+Projects.17 The overall risk assessment for the project is moderate. MPWRD has experience in 
+15 Because  the  construction  of  the  dam  is  needed  to  realize  the  economic  benefits  of  the  pipeline  network  and 
+pressurized distribution system, the economic analysis covered the entire KMMP, and not only the component that 
+will be cofinanced by ADB. 
+16  A  Monte  Carlo  simulation  is  a  mathematical  technique  that  generates  random  variables  for  modelling  risk  or 
+uncertainty of a certain system. 
+17 ADB. 2005. Financial Management and Analysis of Projects. Manila. 
+8 
+implementing  World  Bank  projects,  but  none  on  ADB  accounting  requirements  and  loan 
+disbursement  procedures.  Hence,  MPWRD  will  appoint  experienced  accounting  staff  to  the 
+project.  A  financial  management  consultant  will  be  provided  under  the  project  to  prepare  a 
+detailed procedure manual and undertake trainings on ADB’s policies and guidelines. MPWRD 
+will recruit independent audit firms to undertake periodical internal audits of the project accounts. 
+The project accounts will be audited annually by the state Controller and General Auditor.  
+28. 
+Procurement.  MPWRD  organized  consultation  workshops  and  a  roadshow  during  the 
+project  design  to  appraise  private  sector  interest  and  capacity  to  undertake  DBO  contracts 
+including  agriculture  support  services.  The  procurement  of  goods  and  works  will  follow  ADB’s 
+Procurement Guidelines (2015, as amended from time to time). All recruitment of consultants will 
+follow  ADB’s  Guidelines  on  the  Use  of  Consultants  (2013,  as  amended  from  time  to  time).  A 
+procurement capacity assessment concluded that the overall procurement risk for the project is 
+moderate. International and national procurement specialists were provided as part of the project 
+preparatory  technical  assistance  to  prepare  the  two  DBO  bidding  documents,  support  the 
+evaluation  process  and  assist  with  the  consultants’  recruitment.  Funds  were  allocated  in  the 
+project to provide procurement training to the implementing agency. In addition, India Resident 
+Mission trained MPWRD staff on ADB’s procurement and consultant recruitment guidelines. 
+29. 
+ADB’s Anticorruption Policy (1998, as amended to date) was explained to and discussed 
+with  the  government  and  MPWRD.  The  specific  policy  requirements  and  supplementary 
+measures are described in the project administration manual (footnote 13). 
+D. 
+Poverty, Social, and Gender 
+30. 
+Over  40%  of  the  population  in  the  KIP’s  future  cultivable  command  area  depends  on 
+agriculture  for  their  livelihoods.  Wheat  and  soybeans  are  the  two  main  crops  followed  by 
+chickpeas (pulses), spices, oranges, and vegetables. While agricultural growth has substantially 
+increased in the state over the last 5 years, it has stagnated in the project area because of a lack 
+of  irrigation  development.  The  KIP  is  expected  to  improve  farmers’  net  incomes  and  directly 
+benefit  about  838,262  people  in  419  villages  in  Rajgarh  and  Agar  Malwa  districts  of  Madhya 
+Pradesh. In general, it will also provide economic opportunities to improve nonfarm rural incomes, 
+and this will indirectly contribute to development and poverty reduction. The project poverty impact 
+ratio  was  estimated  at  30.1%.  This  represents  the  proportion  of  the  net  economic  benefits 
+designed  to  go  to  the  poor  compared  to  total  project  net  economic  benefits.  The  project  is 
+classified  as  having  some  gender  elements,  where  women  will  benefit  from  skills  training  for 
+farmers in improved agricultural practices using the new irrigation systems. 
+The contractors will be required to strictly implement government requirements regarding 
+31. 
+health and safety of men and women who work at the construction sites. The contractors, in close 
+coordination with the project management unit, will conduct awareness programs on prevention 
+of sexually transmitted diseases and drug use. The contractor will be required to strictly implement 
+equal pay for female and male workers.  
+E. 
+Safeguards 
+32. 
+safeguard categories are as follows.18 
+In  compliance  with  ADB’s  Safeguard  Policy  Statement  (2009)  (SPS),  the  project’s 
+33. 
+Environment (category B). The initial environmental examination including its EMP has 
+been prepared. The project’s initial environmental examination identified that most impacts—such 
+as noise, dust, impacts on vegetation because of land clearing and excavation—occur during the 
+construction periods. Mitigation measures were included accordingly in the EMP. Stakeholders 
+have  been  consulted  and  will  continue  to  be  consulted  during  implementation.  A  grievance 
+18  ADB. Safeguard Categories. https://www.adb.org/site/safeguards/safeguard-categories. 
+9 
+redress mechanism to address both social and environmental issues will be established prior to 
+project implementation.  
+34. 
+Involuntary  Resettlement  (category  B).  Permanent  land  acquisition  is  limited  for  the 
+pumping stations and distribution chambers. Most land acquisition will be temporary for laying the 
+irrigation pipelines underground and this will affect land owners during construction. Two sample 
+resettlement plans (land acquisition plans) were prepared. One resettlement plan was prepared 
+for distribution pipes covering 500 ha of cultivable command area that will affect 96 households 
+and  requires  4.81  ha  of  land  (4.78  ha  of  temporary  acquisition,  and  0.03  ha  of  permanent 
+acquisition). The second resettlement plan was prepared for installing a pumping station, which 
+will affect 25 households and require 31.14 ha of land, 2.21 ha of which is private land. For the 
+rest of the project areas, the DBO contractors will prepare the resettlement plan(s) in accordance 
+with  the  project’s  resettlement  framework.  The  resettlement  framework  for  this  project  was 
+prepared to guide the preparation of the resettlement plan(s) during project implementation. The 
+sample  resettlement  plans  and  resettlement  framework  were  prepared  in  accordance  with  the 
+ADB SPS, Madhya Pradesh Pipeline Act (2013), the Madhya Pradesh Consent Land Purchase 
+Policy  (2014),  and  the  Indian  land  legislation  on  The  Right  to  Fair  Compensation  and 
+Transparency in Land Acquisition, Rehabilitation and Resettlement Act (2013).   
+35. 
+Resettlement plans prepared by the DBO contractor will be reviewed and cleared by ADB. 
+MPWRD  has  adequate  capacity  to  implement  the  resettlement  plan  and  environmental 
+safeguards,  since  it  is  currently  implementing  projects  with  significant  resettlement  and 
+environmental  concerns.  The  grievance  redress  mechanism  that  has  been  established  for 
+MPWRD’s current project will also be established for this ADB-funded project. 
+Indigenous Peoples (category C). There are no indigenous peoples, as defined by the 
+36. 
+ADB SPS in the project-affected areas.  
+37. 
+ Associated facility. The water required for the irrigation network constructed under the 
+proposed  project  will  be  supplied  from  the  KMMP  reservoir.  Therefore,  the  KMMP  reservoir  is 
+considered as an associated facility. Due diligence was undertaken to assess the suitability of 
+measures  undertaken  under  the  KMMP  in  addressing  the  environmental  impacts.  The  due 
+diligence found that the KMMP planning and construction followed the guidance provided in the 
+environmental  impact  assessment  and  EMP  that  was  approved  by  Ministry  of  Environment, 
+Forest, and Climate Change in January 2015. The environmental impact assessment and EMP 
+for the KMMP has comprehensively addressed its environmental impacts and is in line with ADB 
+SPS requirements. MPWRD has allocated adequate resources to implement the EMP and other 
+associated plans. Therefore, no corrective action or additional actions need to be adopted under 
+the KMMP. 
+F. 
+Summary of Risks Assessment and Risk Management Plan  
+Significant  risks  and  mitigating  measures  are  summarized  in  Table  4  and  described  in 
+38. 
+detail in the risk assessment and risk management plan.19  
+Risks 
+Benefits of the project will be reduced if water 
+management 
+if  a 
+significant majority of the farmers do not adopt 
+micro-irrigation. 
+improved  and 
+is  not 
+Table 4: Summary of Risks and Mitigating Measures  
+Mitigating Measures 
+The  DBO  contractor  will  be  tasked  to  provide  farmers  support 
+services including WUA strengthening and extensive agricultural 
+support  program  component,  with  field  demonstrations  and 
+experiential  training.  Payment  to  the  contractor  will  depend  on 
+achievement of performance targets. 
+The DBO contractor will be responsible for MOM during a 5-year 
+operation service period, including meeting specific performance 
+guarantees. 
+MOM  of  the  pumping  stations  and  pipeline 
+distribution system is technically complex and 
+unfamiliar to MPWRD. 
+19 Risk Assessment and Risk Management Plan (accessible from the list of linked documents in Appendix 2). 
+10 
+Risks 
+KIP  power  consumption  increases  operation 
+and  maintenance  budget  requirement  of 
+MPWRD  and  recurrent  expenditures  of  the 
+Government of Madhya Pradesh. 
+External interferences affect the performance 
+of the DBO contractors 
+Mitigating Measures 
+The  Government  of  Madhya  Pradesh  is  committed  to  increase 
+budget  to  MPWRD  as  per  requirement  and  to  implement  cost 
+recovery  from  farmer  beneficiaries  through  gradual  increase  of 
+water tariff. A loan covenant is prepared for this purpose. 
+A project participation and communication strategy was prepared 
+to  enhance  communication  with  farmers  and  politicians  on  the 
+project design, benefits and progress. 
+MPWRD  and  the  DBO  contractors  will  organize  farmers  to 
+improve bargaining power for purchase of farm inputs. 
+Input prices  (fertilizers, pesticides, electricity) 
+increase sharply and affect farmers’ capacity 
+to invest in pressurized irrigation and intensive 
+agriculture. 
+If the climate change impacts exceed the projections used for the 
+Future  climate  change 
+impact  exceeds 
+CRVA, the Government of Madhya Pradesh will need to consider 
+projections which may reduce the benefits of 
+the project. 
+building the Lakundar diversion and groundwater recharge ponds. 
+CRVA  =  climate  risk  and  vulnerability  assessment,  DBO  =  design–build–operate,  KIP  =  Kundalia  Irrigation  Project,  MOM  = 
+management,  operation  and  maintenance,  MPWRD  =  Water  Resources  Department  Madhya  Pradesh,  WUA  =  water  users’ 
+association.  
+Source: Asian Development Bank. 
+IV. 
+ASSURANCES AND CONDITIONS 
+39. 
+The Government of India, Government of Madhya Pradesh and MPWRD have assured 
+ADB that implementation of the project shall conform to all applicable ADB policies including those 
+concerning anticorruption measures, safeguards, gender, procurement, consulting services, and 
+disbursement as described in detail in the project administration manual and loan documents. 
+40. 
+The  Government  of  India,  Government  of  Madhya  Pradesh  and  MPWRD  have  agreed 
+with ADB on certain covenants for the project, which are set forth in the draft loan and project 
+agreements.  
+V. 
+ RECOMMENDATION 
+41. 
+I am satisfied that the proposed loan would comply with the Articles of Agreement of the 
+Asian  Development  Bank  (ADB)  and  recommend  that  the  Board  approve  the  loan  of 
+$375,000,000 to India for  the  Madhya Pradesh  Irrigation  Efficiency  Improvement  Project, from 
+ADB’s ordinary capital resources, in regular terms, with interest to be determined in accordance 
+with ADB’s London interbank offered rate (LIBOR)-based lending facility; for a term of 26 years, 
+including a grace period of 5 years; and such other terms and conditions as are substantially in 
+accordance with those set forth in the draft loan and project agreements presented to the Board. 
+10 May 2018
+Takehiko Nakao 
+President 
+Appendix 1 
+11 
+DESIGN AND MONITORING FRAMEWORK 
+Impacts the Project is Aligned with 
+a. Indian farmers’ income doubled by 2022 (The Three Year Action Agenda, 2017–2018 to 2019–2020)a 
+b. India’s “more crop per drop” achieved (Pradhan Mantri Krishi Sinchayee Yojana)b 
+c. Resilience of farmers in the project area to ongoing and uncertain future climate change increasedc 
+Results Chain 
+Outcome 
+Higher irrigation 
+efficiency, agricultural 
+water productivity and 
+climate resilience in 
+Madhya Pradesh 
+achieved  
+Performance Indicators with 
+Targets and Baselines 
+Data Sources 
+and Reporting 
+Risks 
+By 2026 
+a. 125,000 ha new irrigated 
+area made climate resilientd 
+under KIP with an irrigation 
+efficiency of at least 80%             
+(2017 baseline: 37,300 ha 
+irrigated from groundwater with 
+average efficiency of 50%) 
+a. KIP DBO 
+contract third 
+party audit 
+performance 
+reports 
+b. Wheat water productivity 
+increased by 25% in KIP 
+command area. 
+(2012–2017 average baseline: 
+0.84 kg/m3) 
+b. MPWRD 
+remote sensing 
+water 
+productivity 
+report 
+c. Area cultivated with citrus 
+orchard in KIP command area 
+increased to 15,000 ha (2017 
+baseline: 8,000 ha) 
+c. Department of 
+Horticulture 
+annual statistical 
+report 
+Input prices (fertilizers, 
+pesticides, electricity) 
+increase sharply and 
+affect farmers’ capacity 
+to invest in pressurized 
+irrigation and intensive 
+agriculture. 
+Future climate change 
+impact exceeds 
+projections which may 
+reduce the benefits of 
+the project. 
+Outputs 
+1. Kundalia Irrigation 
+Project infrastructure 
+constructed  
+By 2022 
+1a. Two large pumping stations 
+installed and commissioned 
+(2017 baseline: 0) 
+1a–c. Project 
+quarterly 
+progress reports 
+External interferences 
+affect the performance 
+of the DBO contractors 
+2. Kundalia Irrigation 
+Project performance- 
+based operation and 
+maintenance 
+established 
+1b. 350 km pressurized main 
+pipeline distribution system 
+built (2017 baseline: 0) 
+1c. 4,000 outlets with 
+volumetric controls installed  
+(2017 baseline: 0) 
+By 2018 
+2a. DBO contract signed with 5 
+years operation and 
+maintenance period  
+(2017 baseline: none) 
+By 2025 
+2b. Plant operation interruption 
+limited to no more than 30 
+minutes in a day during 
+irrigation season   
+(2017 baseline: not applicable) 
+2a. DBO 
+contract 
+agreements 
+2b–e. DBO 
+contract third 
+party audit 
+report 
+12 
+Appendix 1 
+Results Chain 
+Performance Indicators with 
+Targets and Baselines 
+Data Sources 
+and Reporting 
+Risks 
+2c. Electricity consumption of 
+maximum 30 kWh/m3 not 
+exceeded 
+(2017 baseline: not applicable) 
+2d. Continuous discharge and 
+pressure monitoring at both 
+every 300 ha and 30 ha with 
+1% flow measurement 
+accuracy established 
+(2017 baseline: not applicable) 
+2e. 112 MPWRD staff capacity 
+to undertake MOM of the KIP 
+increased 
+(2017 baseline: 0) 
+By 2025 
+3a.  250 WUAs (with at least 
+20% women members) 
+registered with MPWRD  
+(2017 baseline: 0) 
+3a. MPWRD 
+registers 
+3b.  Micro-irrigation system 
+demonstration established on 
+1,250 ha 
+(2017 baseline: 0) 
+3b–d. DBO 
+contract third 
+party audit 
+report 
+3c. Eight farmers’ service 
+centers established  
+(2017 baseline: 0) 
+3d. At least 50,000 farmers 
+(with at least 20% women) with 
+increased knowledge and skills 
+of micro-irrigation technology 
+(2017 baseline: 0) 
+By 2020 
+4a. SSIP Modernization 
+feasibility study and detailed 
+designs approved by MPWRD 
+and ADB (2017 baseline: not 
+approved) 
+4b. 30% SSIP Modernization 
+civil works contract awarded.  
+(2017 baseline: not awarded) 
+4a. MPWRD and 
+ADB approved 
+report 
+4b. Signed 
+contract 
+agreements  
+3. Farmers’ capacity for 
+rapid uptake of micro-
+irrigation technology in 
+KIP command area 
+enhanced 
+4. Modernization of the 
+Sanjay Sarovar 
+Irrigation Project well-
+designed with project 
+readiness criteria met 
+Key Activities with Milestones 
+1. Output 1: Kundalia Irrigation Project infrastructure constructed 
+1.1. Finalize DBO bidding documents and award contracts for design and construction (Q2 2017–Q4 
+2018) 
+1.2. Supervise detailed design preparation (Q2 2018–Q2 2019) 
+Appendix 1 
+13 
+Results Chain 
+Performance Indicators with 
+Targets and Baselines 
+Data Sources 
+and Reporting 
+Risks 
+1.3. Supervise construction (Q4 2018–Q3 2021) 
+1.4. Commission scheme and monitor technical performance (Q1 2021–Q3 2022) 
+2. Output 2: Kundalia Irrigation Project performance-based operation and maintenance 
+established 
+2.1. Design and install SCADA (Q3 2018–Q3 2021) 
+2.2. Develop irrigation planning decision support system and prepare irrigation plan (Q3–Q4 2020) 
+2.3. Develop an MOM manual (Q4 2020) 
+2.4. Train MPWRD staff on MOM (Q1 2021–Q4 2025) 
+2.5. Supervise contractors’ MOM performance (Q1 2021–Q4 2025) 
+3. Output 3: Farmers capacity for rapid uptake of micro-irrigation technology in the Kundalia 
+Irrigation Project command area enhanced 
+3.1. Promote formation and capacity building of water users’ associations (Q2 2018–Q1 2021) 
+3.2. Establish farmers service centers and conduct farmers field schools (Q2 2019–Q1 2024) 
+3.3. Establish micro-irrigation demonstrations sites over 1% of the command area (Q1 2019–Q4 2025) 
+3.4. Monitor and evaluate the performance (Q1 2019–Q1 2026) 
+4. Output 4: Modernization of the Sanjay Sarovar Irrigation Project well-designed with project 
+readiness criteria met 
+4.1. Recruitment of PDPC SSIP Modernization preparation consulting services (Q2–Q4 2018) 
+4.2. Develop SSIP Modernization plan (Q1 2019) 
+4.3. Prepare feasibility study and detailed design (Q2 2019–Q2 2020) 
+4.4. Prepare bidding documents and award 30% civil works contract (Q1–Q3 2020) 
+Project Management Activities 
+Recruit the implementation support and capacity building consultants (Q1–Q2 2018) 
+Set up financial management system (Q1 2018) 
+Set up project performance monitoring system (Q2 2018) 
+Undertake midterm review (Q2 2021) 
+Prepare project completion report (Q1 2026) 
+Inputs  
+ADB: $375.00 million (OCR regular loan) 
+State Government of Madhya Pradesh: $160.71 million 
+Assumptions for Partner Financing 
+Not Applicable 
+ADB = Asian Development Bank, DBO = design–build–operate, ha = hectare, kg/m3 = kilogram per cubic meter, KIP = 
+Kundalia Irrigation Project, km = kilometer, kWh/m3 = kilowatt-hour per cubic meter, MOM = management, operation 
+and maintenance, MPIEIP = Madhya Pradesh Irrigation Efficiency Improvement Project, MPWRD = Water Resource 
+Department  Madhya  Pradesh,  MT=  metric  ton,  PDPC  =  project  design  and  procurement  consultant,  SCADA  = 
+supervisory control and data acquisition, SSIP = Sanjay Sarovar Irrigation Project, WUA= water users’ association. 
+a   Government of India, NITI Aayog. 2017. Three Year Action Agenda (2017–2018 to 2019–2020). New Delhi. 
+b  Government of  India,  Ministry  of  Agriculture and  Farmers Welfare.  2015–2016.  Pradhan  Mantri  Krishi  Sinchayee 
+Yojana. New Delhi. 
+c  Defined by the project. 
+d  Climate  change  is  expected  to  increase  (i)  crop  water  requirements  as  rising  temperature  increases 
+evapotranspiration; (ii) variability of rainfall within and between seasons; and (iii) frequency and intensity of dry spells 
+and droughts. The KIP design will improve the reliability of irrigation supply under a changing and uncertain climate 
+by providing highly efficient water conveyance, distribution and field application supported by reservoir storage. 
+Source: Asian Development Bank. 
+14 
+Appendix 2 
+LIST OF LINKED DOCUMENTS  
+http://www.adb.org/Documents/RRPs/?id=45371-007-3 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+Loan Agreement 
+Project Agreement 
+Sector Assessment (Summary): Agriculture, Natural Resources and Rural Development 
+Project Administration Manual  
+Contribution to the ADB Results Framework 
+Development Coordination 
+Economic and Financial Analysis 
+Country Economic Indicators 
+Summary Poverty Reduction and Social Strategy 
+Risk Assessment and Risk Management Plan 
+Initial Environmental Examination 
+Land Acquisition Plan (Pipelines) 
+Land Acquisition Plan (Pumping Stations) 
+Land Acquisition Framework 
+Supplementary Documents 
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
+Financial Management Assessment 
+Procurement Capacity Assessment 
+Climate Risk and Vulnerability Assessment Report 
+Project Climate Risk Assessment and Management Report 
+Poverty and Social Analysis 
+Economic Assessment 

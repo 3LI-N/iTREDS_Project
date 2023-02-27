@@ -1,0 +1,1635 @@
+Report and Recommendation of the President  
+to the Board of Directors 
+Project Number: 53353-001 
+July 2020 
+Proposed Programmatic Approach and 
+Policy-Based Loan for Subprogram 1 
+Republic of the Philippines: Competitive and 
+Inclusive Agriculture Development Program 
+Distribution of this document is restricted until it has been approved by the Board of Directors. 
+Following such approval, ADB will disclose the document to the public in accordance with ADB's 
+Access to Information Policy after excluding information that is subject to exceptions to disclosure 
+set forth in the policy. 
+CURRENCY EQUIVALENTS 
+(as of 15 July 2020) 
+Currency unit 
+₱1.00 
+$1.00 
+– 
+= 
+= 
+peso (₱) 
+$0.02023  
+₱49.43  
+ABBREVIATIONS 
+ADB 
+ANR 
+COVID-19 
+DOF 
+DWR 
+FRMMP 
+GDP 
+ha 
+NFA 
+NIMP 
+PBL 
+PDP 
+PFM 
+RCEF 
+RSBSA 
+RTL 
+SURE 
+TA 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+Asian Development Bank 
+agriculture, natural resources, and rural development 
+coronavirus disease  
+Department of Finance 
+Department of Water Resources 
+flood risk management master plan 
+gross domestic product 
+hectare 
+National Food Authority 
+National Irrigation Master Plan 
+policy-based loan 
+Philippine Development Plan 
+public financial management 
+Rice Competitiveness Enhancement Fund 
+Registry System for Basic Sectors in Agriculture 
+Rice Tariffication Law 
+survival and recovery 
+technical assistance 
+NOTE 
+In this report, "$" refers to United States dollars. 
+Vice-President 
+Director General 
+Directors 
+Team leaders 
+Team members 
+Peer reviewer 
+Ahmed M. Saeed, Operations 2 
+Ramesh Subramaniam, Southeast Asia Department (SERD) 
+Jiangfeng Zhang, Environment, Natural Resources and Agriculture 
+Division (SEER), SERD 
+Kelly Bird, Philippines Country Office (PHCO), SERD 
+Jose Antonio R. Tan III, Public Management, Financial Sector, and 
+Trade Division (SEPF), SERD 
+Takeshi Ueda, Principal Natural Resources and Agriculture Economist, 
+SEER, SERD 
+Cristina Lozano, Principal Country Specialist, PHCO, SERD 
+Meenakshi Ajmera, Principal Social Safeguards Specialist, Office of the 
+Director General (SEOD), SERD 
+Robert A. Boothe, Senior Public Management Specialist, SEPF, SERD 
+Elizabeth Burges-Sims, Senior Social Development Specialist (Gender 
+and Development), Human and Social Development Division (SEHS), 
+SERD 
+Shamit Chakravarti, Principal Social Sector Specialist, SEHS, SERD 
+Tatiana Golubko, Counsel, Office of the General Counsel 
+Matthias Leitner, Young Professional, SEER, SERD 
+Teresa Mendoza, Senior Economics Officer, PHCO, SERD 
+Antoine Morel, Principal Environment Specialist, SEOD, SERD 
+Cecile Ramiro, Senior Operations Assistant, SEER, SERD 
+Junko Sagara, Water Resources Specialist, SEER, SERD 
+Karen May B. Sanchez, Senior Project Assistant, SEPF, SERD 
+Indah Setyawati, Senior Safeguards Specialist (Resettlement), SEER, 
+SERD 
+Takashi Yamano, Senior Economist, Economic Analysis and Operation 
+Support Division, Economic Research and Regional Cooperation 
+Department 
+Akmal Siddiq, Chief of Rural Development and Food Security 
+(Agriculture) Thematic Group, Sustainable Development and Climate 
+Change Department 
+In preparing any country program or strategy, financing any project, or by making any designation 
+of  or  reference  to  a  particular  territory  or  geographic  area  in  this  document,  the  Asian 
+Development Bank does not intend to make any judgments as to the legal or other status of any 
+territory or area. 
+CONTENTS 
+PROGRAM AT A GLANCE 
+I. 
+II. 
+THE PROPOSAL 
+PROGRAM AND RATIONALE 
+A. 
+B. 
+C. 
+D. 
+E. 
+Background and Development Constraints 
+Policy Reform and ADB’s Value Addition 
+Impacts of the Reform 
+Development Financing Needs and Budget Support 
+Implementation Arrangements 
+III. 
+IV. 
+V. 
+DUE DILIGENCE 
+ASSURANCES 
+RECOMMENDATION 
+APPENDIXES 
+1. 
+2. 
+3. 
+4. 
+Design and Monitoring Framework 
+List of Linked Documents 
+Development Policy Letter 
+Policy Matrix 
+Page 
+1 
+1 
+1 
+4 
+10 
+10 
+11 
+11 
+13 
+13 
+15 
+18 
+19 
+22 
+Project Classification Information Status: Complete
+PROGRAM AT A GLANCE
+1. Basic Data
+Project Name
+Country
+Borrower
+Country Economic Indicators https://www.adb.org/Documents/LinkedD
+Competitive and Inclusive Agriculture 
+Development Program (Subprogram 1)
+Philippines
+Philippines
+Department/Division
+SERD/SEER
+Project Number: 53353-001
+Executing Agency
+Department of Finance
+ocs/?id=53353-001-CEI
+https://www.adb.org/Documents/LinkedD
+ocs/?id=53353-001-PortAtaGlance
+Subsector(s)
+Agricultural policy, institutional and capacity development
+     ADB Financing ($ million)
+400.00
+Portfolio at a Glance
+2. Sector
+Agriculture, natural 
+resources and rural 
+development
+3. Operational Priorities
+Addressing remaining poverty and reducing inequalities
+Accelerating progress in gender equality
+Tackling climate change, building climate and disaster resilience, and 
+enhancing environmental sustainability
+Promoting rural development and food security
+Strengthening governance and institutional capacity
+Fostering regional cooperation and integration
+Sustainable Development Goals
+SDG 1.3
+SDG 2.1, 2.4, 2.c
+SDG 5.a
+SDG 10.1
+SDG 13.a
+4. Risk Categorization:
+Complex 
+Total
+Climate Change Information
+GHG reductions (tons per annum)
+Climate Change impact on the 
+Project
+ADB Financing
+Adaptation ($ million)
+Mitigation ($ million)
+Cofinancing
+Adaptation ($ million)
+Mitigation ($ million)
+Gender Equity and Mainstreaming
+Some gender elements (SGE)
+Poverty Targeting
+General Intervention on Poverty
+400.00
+0
+Low
+40.00
+12.31
+0.00
+0.00
+.
+.
+5. Safeguard Categorization
+Environment: C   Involuntary Resettlement: C   Indigenous Peoples: C
+6. Financing
+Modality and Sources
+ADB
+     Sovereign Programmatic Approach Policy-Based Lending (Regular Loan):  
+Ordinary capital resources
+Cofinancing
+     None
+Counterpart 
+     None
+Total
+Currency of ADB Financing: US Dollar 
+Amount ($ million)
+400.00
+400.00
+0.00
+0.00
+0.00
+0.00
+400.00
+Source: Asian Development Bank
+This document must only be generated in eOps.
+26062020173422747600
+Generated Date: 26-Jun-2020 17:34:40 PM
+I. 
+THE PROPOSAL 
+1. 
+I  submit  for  your  approval  the  following  report  and  recommendation  on  (i)  a  proposed 
+programmatic approach for the Competitive and Inclusive Agriculture Development Program, and 
+(ii) a proposed policy-based loan (PBL) to the Republic of the Philippines for subprogram 1 of the 
+Competitive and Inclusive Agriculture Development Program. 
+2. 
+In  line  with  the  Philippine  Development  Plan  (PDP),  2017−2022,  the  program  aims  to 
+reduce income inequality by expanding economic opportunities in agriculture.1 The program will 
+support the government’s effort to increase competitiveness and inclusiveness of the agriculture 
+sector by (i) implementing agricultural trade policy and regulatory reforms, (ii) enhancing public 
+services and finance for the sector, and (iii) increasing social protection to rural families who may 
+be affected by the reforms. The program is included in the country operations business plan for 
+the Philippines, 2020–2022 of the Asian Development Bank (ADB).2 The program is consistent 
+with ADB’s Strategy 2030 and country partnership strategy for the Philippines, 2018–2023.3 
+II. 
+PROGRAM AND RATIONALE 
+A. 
+Background and Development Constraints 
+Prior  to  the  coronavirus  disease  (COVID-19)  pandemic,  the  Philippines  presented  very 
+3. 
+strong economic performance with an average annual economic growth rate of 6.4% from 2010 
+to 2019.4 This sustained high economic growth contributed to a reduction in the national poverty 
+rate  from  23.3%  in  2015  to  16.6%  in  2018. 5  However,  during  2010–2018,  the  Philippines’ 
+agriculture sector growth was stagnant with annual growth averaging  1.3%, which was lower than 
+that of Indonesia (3.9%), Viet Nam (2.7%), and Cambodia (2.0%).6 The poor sector performance 
+has been the result of decades of underinvestment, policy distortions, uncertainties linked to the 
+implementation  of  agrarian  reform,  and  periodic  extreme  weather  events.  It  has  significantly 
+impacted people’s livelihoods and rural poverty. First, it has resulted in low incomes for farmers 
+and  the  majority  of  the  rural  population,  which  has  impeded  the  government’s  efforts  to 
+significantly  reduce  rural  poverty.  The  rural  poverty  rate  remains  high  at  24.5%  while  national 
+poverty incidence has declined (paras. 4, 12). Second, it has pushed up rice prices about 30% 
+higher than global prices. As rice accounts for 50% of total household calorie intake in the country, 
+the high domestic rice prices (i) hurt poor households with high food expenses in proportion to 
+their total expenses, and (ii) threaten food security. 
+Impact  of  COVID-19.  These  development  challenges  have  been  compounded  by  the 
+4. 
+COVID-19  pandemic,  which  has  serious  economic  and  social  consequences.  Measures  to 
+contain the spread of the virus have resulted in job losses and reduction in household incomes.  
+According to ADB estimates, the unemployment rate in Luzon, which represents about 50.0% of 
+the  country’s  population  and  70.0%  of  economic  activity,  could  peak  at  22.0%  in  the  second 
+1  Government of the Philippines, National Economic and Development Authority. 2017. Philippine Development Plan, 
+2017–2022. Manila. 
+2  ADB. 2019. Country Operations Business Plan: Philippines, 2020−2022. Manila. The program was formerly known 
+as the Support for Agrifood System Competitiveness Program (for $300 million). The government later requested to 
+increase the amount to $400 million given the substantive reforms to be supported by the program. 
+3  ADB.  2018.  Strategy  2030:  Achieving  a  Prosperous,  Inclusive,  Resilient,  and  Sustainable  Asia  and  the  Pacific. 
+Manila; and ADB. 2018. Country Partnership Strategy: Philippines, 2018–2023—High and Inclusive Growth. Manila. 
+4  Government of the Philippines. Philippine Statistics Authority. National Accounts (accessed 25 June 2020). 
+5  Government  of 
+the  Philippines.  Philippine  Statistics  Authority.  http://www.psa.gov.ph/poverty-press-
+releases/nid/144752. 
+6  ADB. 2019. Key Indicators for Asia and the Pacific 2019. Manila. 
+2 
+quarter of 2020 and gradually decline to 9.6% by the first quarter of 2021, well above the pre-
+COVID-19  rate  of  5.4%  at  the  end  of  2019. 7 The  recent  Labor  Force  Survey  reports  Luzon 
+unemployment at 18.2% in April 2020. Poverty incidence is estimated to rise to 20.7% in 2020 
+from  16.6%  in  2018,  threatening  to  reverse  the gains  made on this  front  with  5.5 million  more 
+Filipinos  falling  into  poverty.  Disruptions  in  the  food  supply  chain  because  of  the  community 
+quarantine have severely affected the poorest citizens, including farmers and fisherfolk. Playing 
+a  pivotal role  in  poverty reduction  and  ensuring food  security,  agriculture  is  among the  priority 
+areas for reforms in the government’s COVID-19 economic recovery program. 
+5. 
+Development constraints. The Government of the Philippines recognizes the need for 
+competitive and inclusive agricultural development. However, this has been hampered largely by 
+(i) decades of protective policies and regulations for agricultural trade, (ii) inadequate provision of 
+public services and finance for agricultural development, and (iii) insufficient social protection of 
+rural families. 
+6. 
+Policy  and  regulatory  barriers  to  international  and  domestic  trade  of  agricultural 
+products. Agricultural policy over the past few decades has prioritized food (particularly rice) self-
+sufficiency  by  protecting  domestic  producers  through  import  restrictions  (including  quantitative 
+restrictions on rice imports).8 These protective policies make domestic rice prices artificially higher 
+than world prices, giving incentives for farmers to continue with basic rice production. This has 
+limited their potential to move up the value chain, and precludes them from diversifying into higher-
+value crops and earning higher income.9 The protective rice trade is one of the root causes of the 
+slow  progress  in  agriculture  diversification  and  commercialization,  resulting  in  low  sector 
+productivity and low farm incomes.10 
+7. 
+Under the protective trade regime, the National Food Authority (NFA) controls rice imports 
+through the issuance of licenses for importers, wholesalers, retailers, and rice mills operating in 
+the domestic market.11 To protect farmers, the NFA also buys domestic paddy at higher prices; 
+mills, distributes, and sells most of the rice at lower-than-market prices; and keeps the rest for 
+emergency stock. However, this procurement operation is poorly targeted and benefits only few 
+farmers,  as  the  NFA’s  operation  covers  only  1%  of  domestic  production.12 Further,  the  NFA’s 
+financially  inviable  operation  translates  into  substantial  liabilities  (₱169.7 billion  in  2017)  which 
+has considerable national budgetary implications.13 
+7  ADB.  2020.  Report  and  Recommendation  of  the  President  to  the  Board  of  Directors:  Proposed  Countercyclical 
+Support Facility Loans to the Republic of the Philippines for the COVID-19 Active Response and Expenditure Support 
+Program. Manila. 
+8  Organisation for Economic Co-operation and Development. 2017. Agricultural Policies in the Philippines. Paris. 
+9  Estimates of the effective rates of protection measure the net protection received by domestic producers from the 
+protection of their outputs and the penalty from protection of their inputs. In 2004 (the latest estimates available), the 
+average  effective  rates of  protection in  the  Philippines  were  14.2%  for  agriculture,  10.0%  for manufacturing,  and 
+18.1% for importable agricultural products (indicating protection afforded to agriculture, with a relatively high effective 
+rate  of  protection  for  rice).  R.M.  Aldaba.  2010.  Micro  Study:  Philippines  Does  Trade  Protection  Improve  Firm 
+Productivity? Evidence from Philippine Micro Data. In C.H. Hahn and D. Narjoko, eds. Causes and Consequences 
+of  Globalization  in  East  Asia:  What  Do  the  Micro  Data  Analyses  Show?  ERIA  Research  Project  Report  2009-2. 
+Jakarta: Economic Research Institute for ASEAN and East Asia. 
+10 Government of the Philippines, Department of Agriculture. 2018. The Philippine Rice Industry Roadmap 2030 (first 
+edition). Manila. 
+11 Sector Assessment (Summary): Agriculture, Natural Resources, and Rural Development (accessible from the list of 
+linked documents in Appendix 2). 
+12 Government of the Philippines, NFA. 2019. Beginning Rice Stock Inventory, by Month, by Sector, Philippines, 2013–
+2019. Manila. In 2018, the NFA held about 100,000 metric tons of rice (equivalent to about 150,000 metric tons of 
+paddy) as a retainer, while the total paddy production was about 19.07 million metric tons. 
+13 Government of the Philippines, Development Budget Coordination Committee. 2019. Fiscal Risks Statement 2020.  
+Manila. 
+3 
+High import tariffs and quantitative restrictions on rice imports, alongside the NFA’s near-
+8. 
+monopoly on rice trade, have resulted in inadequate rice supply and a serious distortion in the 
+domestic rice market. Additionally, administrative trade barriers, such as the issuance of sanitary 
+and phytosanitary certificates for import, and inadequate interagency coordination among trade 
+regulatory agencies also result in a high level of protection in agriculture. 
+9. 
+Uncertain  agricultural  land  ownership.  Piecemeal  and  incomplete  agrarian  reforms 
+have led to uncertainties in agricultural land ownership and titles.14 The uncertainties have been 
+partly caused by restrictions imposed by the Public Land Act enacted in 1936.15 The restrictions 
+comprise (i) prohibition on the sale and mortgaging of land within the first 5 years of the patent 
+grants; (ii) possible buy back of the land titles by original landowners within a 5-year period; and 
+(iii) prohibition on corporations, associations, or partnerships acquiring or owning land. Uncertain 
+land  ownership  prevents  farmers  from  using  their  land  as  collateral  to  access  credit.  It  also 
+impedes agricultural land transfer among farmers and agriculture-based corporations. Uncertain 
+land ownership results in creating disincentives for landowners to invest in their own land, which 
+leads to low agriculture productivity and poor sector performance. These restrictions inadvertently 
+encourage underpriced informal land transactions, leading to losses in tax revenue. Women also 
+remain  at  the  margins  of  agricultural  land  ownership,  comprising  about  30%  of  total  agrarian 
+reform beneficiaries with individual land titles during 2000–2016.16 
+Ineffective  water  resources  management.  A  complex  institutional  setup  and  poor 
+10. 
+coordination and planning for water resources management cause inadequate irrigation services 
+and uncontrolled flood risks, eroding agricultural productivity. There are more than 30 government 
+agencies  managing  water  resources  and  utilization  in  the  Philippines,  operating  without  an 
+effective  coordination  mechanism.  This  results  in  substantial  inefficiencies  in  the  development 
+and operation of irrigation systems and low irrigation coverage.17 To tackle increasingly intense 
+and  frequent  floods,  the  government  needs  to  prepare  flood  risk  management  master  plans 
+(FRMMPs) for major river basins. 
+11. 
+Limited  public  financing  and  provision  of  agriculture  extension  services. 
+Uncoordinated arrangements for public financing and fragmented institutional setup for extension 
+services  undermine  support  to  agriculture.  There  are  various  government  programs  and  credit 
+schemes to support agriculture, with a focus on rice production. However, there is a lack of overall 
+planning  and  coordination  of  those  programs.  Farm  extension  services  are  not  effectively 
+delivered because of the structural disconnect between the Department of Agriculture and local 
+14 Presidential Decree No. 2 issued on 26 September 1972 proclaimed the entire country as a land reform area, and 
+simultaneously the Agrarian Reform Program was decreed. On 15 June 1988, the Comprehensive Agrarian Reform 
+Law was enacted, and the government aims at distributing the targeted 5.43 million hectares (ha) of agricultural lands 
+to  landless  farmers  and  farm workers  under  the  Comprehensive  Agrarian  Reform  Program  (1988–2008)  and  the 
+Comprehensive Agrarian Reform Program Extension with Reforms (2009−ongoing). During 1972–2019, cumulative 
+land distribution and registration totaled 4.82 million hectares (88.8% of the targeted area) and the total number of 
+agrarian reform beneficiaries reached 2,887,914. Government of the Philippines, Philippine Statistics Authority. 2019. 
+Redistribution of Land. Agricultural Indicators System. No. 2019-7. Manila. 
+15 Government of the Philippines. 1936. Commonwealth Act (No. 141). Manila. The Commonwealth Act is also known 
+as the Public Land Act. 
+16 The 30% figure includes land ownership and emancipation patent holders. Government of the Philippines, Philippine 
+Statistics Authority. 2016. 2016 Statistical Handbook on Women and Men in the Philippines. Manila. 
+17 Irrigated  farmlands  in  2018  totaled  1.92  million  ha,  comprising  61.39%  of  the  estimated  total  irrigable  area. 
+Government of the Philippines, Philippine Statistics Authority. 2019. Selected Statistics on Agriculture 2019. Manila. 
+However, 0.36 million ha of irrigated farmlands have dysfunctional and aging canals in 2015 (there is no current data 
+available).  Government  of  the  Philippines,  National  Economic  and  Development  Authority.  2017.  Philippine 
+Development Plan, 2017–2022. Manila. 
+4 
+government  units.  This hinders  farmers  from  adopting  modern seed  varieties, modern farming 
+technologies and practices, and farm mechanization. This is particularly aggravated for female 
+farmers,  as they  are  not  recognized  as  farmers because  of  social  and  cultural  norms.  Despite 
+their  primary  role  in  the  family’s  food  security,  only  23%  of  female  farmers  have  access  to 
+extension services and only 14% of them receive financial assistance.18 
+12. 
+Persistent rural poverty and food insecurity. Despite recent strong economic growth, 
+annual incomes of households engaged in agriculture, forestry, and fishery are still low, leading 
+to high rural poverty. While the rural poverty rate has declined to 24.5% in 2018 from 34.0% in 
+2015, it remains substantially high.19 Poverty is also directly linked to malnutrition and stunting in 
+children.  The  2018  Expanded  National  Nutrition  Survey  showed  that  undernutrition  rates 
+remained  very  high  and  stunting  stood  at  30%  among  children  under  5,  affecting  3.5  million 
+children of the 11.7 million aged 0–5 years.20 Chronic malnutrition or stunting is strongly linked 
+with high rates of disease and premature death. It also has adverse effects on crucial stages of 
+child development, leading to cognitive and behavioral deficits, learning disabilities, and ultimately 
+an uncompetitive and suboptimal labor force. The Philippines is lagging behind other Southeast 
+Asian  countries  such  as  Thailand  and  Viet  Nam  in  terms  of  making  the  shift  from  low-value 
+agricultural commodities to products that can attract higher returns and improve farmer incomes. 
+This  is  largely  because  of  distortive  policies  favoring  low-value  commodities,  particularly  rice. 
+Moreover, rice is the largest expenditure item in the food basket for poor Filipinos. Among the 
+poorest 20% of households, including households headed by women, rice constitutes over 19% 
+of their total expenditure.21 Low farm incomes together with high rice prices reduce disposable 
+income of poor households for other necessities, including human capital investments such as 
+education and health care, that are critical for future employment prospects. 
+B. 
+Policy Reform and ADB’s Value Addition 
+13. 
+Government reform agenda. The PDP promotes inclusive growth and sets a strategic 
+target for the Philippines to reach upper middle-income status by 2022. To maximize the inclusive 
+growth  potential  of  agriculture,  the  PDP  lays  out  strategies  to  raise  sector  productivity  and 
+competitiveness. Prior to the onset of COVID-19, the government had set the following targets to 
+be achieved during 2016–2022: annual real gross domestic product (GDP) growth of 7%–8%, per 
+capita GDP increase from $3,550 to $5,000, and poverty rate reduction from 21.6% to 14.0%. To 
+accomplish  inclusive  growth,  the  government  has  emphasized  agriculture  sector  development, 
+because the sector is pivotal in generating employment for one-fourth of the country’s labor force 
+that is dependent on agriculture, including women, thereby reducing poverty and inequality for 
+three-fourths  of  the  poor  who  are  in  rural  areas.  Female  workers  account  for  22%  of  the 
+agricultural  labor  force. 22  The  sector  also  provides  raw  materials  to  the  manufacturing  and 
+services  sectors,  generating  higher-paying  and  more  stable  job  opportunities  through  forward 
+linkages. 
+18 Food and Agriculture Organization of the United Nations, International Fund for Agricultural Development, United 
+Nations  Children’s  Fund  (UNICEF),  World Food  Programme,  and World  Health  Organization.  2018.  The  State of 
+Food Security and Nutrition in the World, 2018: Building Climate Resilience for Food Security and Nutrition. Rome. 
+19 Government  of the  Philippines,  Philippine  Statistics  Authority.  2020.  Farmers,  Fisherfolks,  Individuals  Residing  in 
+Rural Areas and Children Posted the Highest Poverty Incidences Among the Basic Sectors in 2018. News release. 
+3 June. 
+20 Government of the Philippines, Department of Science and Technology, Food and Nutrition Research Institute. 2018. 
+The Expanded National Nutrition Survey Overview. Manila.  
+21 Government of the Philippines, Philippine Institute for Development Studies. 2018. Pass Rice Tariffication before 
+TRAIN2. News release. 18 May. 
+22 Government  of  the  Philippines,  Philippine  Statistics  Authority.  2019.  Population  and  Labor  Force.  Agricultural 
+Indicators System. No. 2019-8. Manila. 
+5 
+Proposed  policy  reforms.  The  reform  areas  are  (i)  agricultural  trade  policy  and 
+14. 
+regulatory  framework  improved,  (ii)  public  services  and  finance  for  the  agriculture  sector 
+enhanced, and (iii) social protection to rural families increased. The program will comprise two 
+subprograms. Subprogram 1 largely addresses constraints in the enabling environment and has 
+provided much-needed government-led direction and planning to support sustainable agriculture 
+productivity growth in the long term. Subprogram 2 will continue effective implementation of these 
+reforms to further boost competitiveness and expand economic opportunities for farmers, crucial 
+to accomplishing inclusive growth. A programmatic approach gives a flexible and effective way of 
+tackling complex policy and institutional reforms to increase agricultural competitiveness. Under 
+subprogram  1, the  government  has  accomplished  13  policy  actions,  including  5  policy  triggers 
+and 8 policy milestones. Subprogram 2 comprises 15 policy actions, of which 6 are policy triggers 
+and 9 are policy milestones. 
+15. 
+Reform Area 1: Agricultural trade policy and regulatory framework. Under this policy 
+reform  area,  the  government  has  liberalized  and  facilitated  rice  trade  to  make  sufficient  rice 
+available at affordable prices in the domestic market and to be a catalyst for resources to diversify 
+production and shift to higher-value agricultural products. This reform area will make agricultural 
+products and input markets more flexible and responsive to price signals. Under subprogram 1, 
+the  government  enacted  the  Rice  Tariffication  Law  (RTL),  2019  and  adopted  its  implementing 
+rules and regulations. The RTL removed (i) quantitative restrictions on rice imports and replaced 
+them  with  a  pure tariff system,  and (ii) the  NFA’s  regulatory  powers  and  commercial  functions 
+over  the  domestic  and  international  trade  of  rice  and  other  grains. 23  The  government  also 
+facilitated  trade  of  non-rice  agricultural  products  by  removing  administrative  barriers  for  their 
+import,  and  it  rolled  out  an  online  trade  facilitation  portal  (TradeNet)  with  the  Department  of 
+Agriculture  as  a  key  regulatory  agency.  Under  subprogram  2,  the  government  will  issue 
+implementing  rules  of  the  NFA’s  buffer  stock management to  better  cope  with  any  emergency 
+situations, including infectious disease outbreaks. 
+Reform  Area  2:  Public  services  and  finance  for  the  agriculture  sector.  Under  this 
+16. 
+policy reform area, the government has improved (i) land and water resources use planning and 
+management, which are key production factors for agriculture; (ii) financing to make the Philippine 
+rice  industry  competitive  under  the  liberalized  trade  regime;  and  (iii)  access  and  quality  of 
+extension services. 
+17. 
+Under subprogram 1, the government enacted the Agricultural Free Patent Reform Act, 
+2019  to  retroactively  remove  the  restrictions  on  the  sale  and  transfer  of  agricultural  land  to 
+facilitate efficient and effective utilization of land as an asset. The government (i) took steps to 
+create the Department of Water Resources (DWR) as a significant institutional reform aiming to 
+centralize  management  of  water  resources;  (ii)  formulated  and  adopted  the  National  Irrigation 
+Master Plan (NIMP)  24 for efficient and sustainable planning, and management of irrigation; and 
+(iii) developed FRMMPs for major river basins. 
+18. 
+The  government  set  up  the  Rice  Competitiveness  Enhancement  Fund  (RCEF)  to 
+strengthen the rice industry in 57 rice-competitive provinces during 2019–2024 in accordance with 
+the Philippine Rice Industry Roadmap (footnote 10). The RCEF provides an annual budget of ₱10 
+billion  from  increased  tariff  revenue  from  rice  imports  for  four  primary  programs:  (i)  rice  farm 
+machineries and equipment (₱5 billion); (ii) rice seed development, propagation, and promotion 
+23 The import tariff rates are set for ASEAN countries at 35% and for non-ASEAN countries at 40% within the minimum 
+access volume of 350,000 metric tons and 180% for over the minimum access volume. 
+24 Government of the Philippines, National Irrigation Administration. National Irrigation Master Plan 2020−2030. Manila. 
+Unpublished. 
+6 
+(₱3 billion); (iii) expanded rice credit assistance (₱1 billion); and (iv) rice extension services (₱1 
+billion). If the rice tariff revenue goes beyond the ₱10 billion, the RCEF will further support the 
+following: (i) rice farmer financial assistance, (ii) titling of agricultural rice lands, (iii) an expanded 
+crop insurance program on rice, and (iv) a crop diversification program. To improve the targeting 
+of RCEF programs, the government started updating the Registry System for Basic Sectors in 
+Agriculture (RSBSA) to identify the beneficiary farmers, farmworkers, and their dependents.  
+19. 
+Subprogram  2  will  help  consolidate  and  solidify  these  reforms  by  (i)  transforming  the 
+National  Water  Resources  Board  into  the  National  Water  Management  Council  to  streamline 
+water resources management as a provisional measure towards the establishment of the DWR, 
+and (ii) allocating national budget to implement priority investment projects under the NIMP and 
+the FRMMPs. The government will (i) develop a rice fund impact monitoring system to assess the 
+impact  of  the  RCEF  programs  on  farm  productivity  and  income;  (ii)  complete  updating  of  the 
+RSBSA; (iii) develop a national agriculture and fisheries modernization and industrialization plan 
+to  map  out  a  detailed  sector  strategy;  and  (iv)  develop  a  pilot  project  to  establish  provincial 
+agricultural and fishery extension centers to strengthen local government units’ extension services 
+for farmers, with measures to promote women’s meaningful participation and benefits. 
+20. 
+Reform Area 3: Social protection to rural families affected by the reforms. There are 
+two development objectives under this policy reform area: (i) mitigate the adverse impacts of the 
+RTL  on  potential  losers  from  the  reforms,  such  as  smallholder  rice  farmers,  as  well  as  the 
+unforeseen impact of COVID-19 on rural communities, and (ii) expand targeted social assistance 
+programs to rural communities including national feeding program to tackle persistent malnutrition 
+and  stunting  among  children  and  rural  poverty.  Under  subprogram  1,  the  government 
+(i) established unconditional cash transfer programs for smallholder rice farmers who were most 
+affected by low farmgate rice prices as a result of the RTL, and (ii) allocated ₱3 billion under the 
+Rice  Farmer  Financial  Assistance  Program  and  an  additional  ₱3  billion  under  the  Financial 
+Subsidy to Rice Farmers Program. 
+21. 
+The  government  also  established  (i)  the  Expanded  Survival  and  Recovery  (SURE) 
+Assistance Program for Rice Farmers (SURE Aid, which is one of the SURE assistance programs) 
+to  issue  no-collateral,  interest-free  loans  totaling  ₱2.5  billion  to  164,274  small  rice  farmers              
+(1 hectare [ha] or less), of which about 45% are female; and (ii) the SURE COVID-19 Program 
+with  an  additional  ₱2.5  billion  to  provide  no-collateral,  interest-free  loans  to  small  farmers  and 
+fisherfolk (3 ha or less) and agri- and fishery-based micro and small enterprises affected by the 
+COVID-19  pandemic.  The  government  institutionalized  through  legislation  a  national  feeding 
+program for undernourished children in public day care, kindergartens, and elementary schools 
+to  address  high  rates  of  child  malnutrition  and  stunting  rates,  improving  nutritional  status  of 
+children. 
+Under subprogram 2, the government will (i) provide an additional ₱2.5 billion for SURE 
+22. 
+assistance programs as part of emergency support for vulnerable groups, (ii) implement a national 
+feeding program, and (iii) commence planning for a nutritional food program for poor pregnant 
+women  as  part  of  its  zero-hunger  agenda  to  address  malnutrition  and  stunting  in  newly  born 
+babies. The Box summarizes the key achievements of the program thus far, and Table 1 shows 
+the alignment with Strategy 2030. 
+7 
+Box: Key Achievements under Subprogram 1 
+•  Enactment of Rice Tariffication Law and adoption of implementing rules and regulations, which has 
+considerably streamlined agricultural trade  
+•  Enactment of Agricultural Free Patent Reform Act, which has liberalized land markets 
+•  Land and water resources use planning improved, supported by adoption of National Irrigation 
+Master Plan and steps to establish an integrated Department of Water Resources 
+•  Access and quality of agricultural extension services improved 
+•  Establishment of Rice Competitiveness Enhancement Fund 
+•  Rolling out comprehensive social protection programs to compensate farmers affected by the reforms 
+Strategy 2030 Operational 
+Priorities 
+Promoting rural development 
+and food security 
+Accelerating progress in 
+gender equality 
+Addressing remaining 
+poverty and reducing 
+inequalities 
+Strengthening governance 
+and institutional capacity 
+Tackling climate change, 
+building climate and disaster 
+resilience, and enhancing 
+environmental sustainability 
+Fostering regional 
+cooperation and integration 
+Table 1: Alignment with Strategy 2030 
+Program Actions 
+The program will enhance food security by making sufficient rice available 
+at affordable prices for all Filipinos as a result of the rice trade liberalization. 
+The RCEF strengthens the rice industry and promotes crop diversification, 
+which will increase supply of other food products and boost farmers’ 
+incomes to increase their economic access to food. 
+The program will support gender mainstreaming in (i) water resources 
+management, (ii) master planning of irrigation development and flood risk 
+management, and (iii) RCEF programs and interest-free loans for small 
+farmers and fisherfolk under SURE assistance programs. 
+The program will comprise mostly pro-poor policy actions, including 
+strengthening social protection systems for rural families and making rice 
+available at affordable prices, which has the most significant impact on the 
+poor as rice is a key household expenditure. 
+The program will improve (i) governance in the food grain sector by 
+removing the NFA’s regulatory powers on rice trade and improving their rice 
+buffer stock management, and (ii) national water resources management by 
+taking a step to create the Department of Water Resources. 
+The program will strengthen climate resilience by (i) improving water 
+resources management, (ii) strengthening flood risk management, and 
+(iii) promoting climate-resilient seed development and distribution. Climate 
+mitigation will be realized by reducing (i) energy use as a result of improved 
+water resources planning and utilization, (ii) greenhouse gas emissions via 
+crop diversification, and (iii) food loss and water use. 
+The program will foster international trade of agricultural products by 
+replacing quantitative restrictions with tariffication and streamlining 
+administrative procedures. 
+NFA = National Food Authority, RCEF = Rice Competitiveness Enhancement Fund, SURE = survival and recovery. 
+Source: Asian Development Bank. 
+23. 
+ADB experience in the agriculture, natural resources, and rural development sector. 
+ADB  has  had  a  long  engagement  in  the  Philippines  agriculture,  natural  resources,  and  rural 
+development  (ANR)  sector through  policy  advice  and  investment  projects.  Through the Grains 
+2004), ADB developed an integrated package of policy and 
+Sector Development Program (2000
+institutional reforms linked to agriculture sector investment loans and technical assistance (TA).25 
+These  included  trade  policy  reforms  to  the  rice  sector  and  reforms  to  the  NFA.  However,  the 
+program was canceled in 2003 because of several reasons. First, the short period of the second 
+tranche (9 months  after effectiveness) required  strong  ongoing political  support  to meet timing 
+−
+25 ADB. 1999. Report and Recommendation of the President to the Board of Directors: Proposed Loans and Technical 
+Assistance Grant to the Republic of the Philippines for the Grains Sector Development Program. Manila. 
+8 
+objectives while there was opposition from some stakeholders. Second, the counterpart funding 
+requirements  were substantial  in  the  context  of  the  Philippines  budgetary  constraints  following 
+the  Asia  financial  crisis.  Third,  disbursements  under  the  investment  loan  were  linked  to  the 
+program  loan  conditions.  When  the  program  loan  failed  to  meet  its  policy  objectives,  the 
+investment loan also failed. ADB supported agricultural land reform through the Agrarian Reform 
+2019) and irrigation investments through the Second 
+Communities Project, phases 1 and 2 (1999
+Irrigation  Systems  Improvement  Project  (1995
+2006)  and  the  Southern  Philippines  Irrigation 
+2011). 26 Most  recently,  ADB  supported  the  preparation  of  FRMMPs  for 
+Sector  Project  (1998
+−
+major  river  basins  through  the  ongoing  Infrastructure  Preparation  and  Innovation  Facility 
+2021).27 The proposed program lays out the policy foundations for ADB’s future investment 
+(2017
+projects and programs in the ANR sector (Figure). 
+−
+−
+−
+24. 
+ADB’s value addition to the program. The program provides an overarching framework 
+for ADB’s investment projects and TA in the ANR sector under the current country partnership 
+strategy.  ADB  provided  the  government  with  critical  policy  advisory  support  to  draft  the 
+implementing  rules  and  regulations  of  the  RTL.  These  include  the  necessary  institutional 
+arrangements  that  will  enhance  competitiveness,  ensure  the  country’s  smooth  and  timely 
+transition  to  a  new  rice  production  and  trading  regime,  and  institute  safety  nets  to  assist  local 
+farmers. ADB is also providing TA on the preparation of the National Agriculture and Fisheries 
+Modernization and Industrialization Plan, 2020−2025 and the strengthening of the Philippine Rice 
+26 ADB. 1998. Report and Recommendation of the President to the Board of Directors: Proposed Loan to the Republic 
+of the Philippines for the Agrarian Reform Communities Project. Manila; ADB. 2008. Report and Recommendation 
+of  the  President  to  the  Board  of  Directors:  Proposed  Loan  and  Administration  of  Loan  to  the  Republic  of  the 
+Philippines for the Agrarian Reform Communities Project II. Manila; ADB. 1995. Report and Recommendation of the 
+President  to  the  Board  of  Directors:  Proposed  Loans  and  Technical  Assistance  Grant  to  the  Republic  of  the 
+Philippines  for  the  Second  Irrigation  Systems  Improvement  Project.  Manila;  and  ADB.  1998.  Report  and 
+Recommendation of the President to the Board of Directors: Proposed Loan to the Republic of the Philippines for the 
+Southern Philippines Irrigation Sector Project. Manila. 
+27 ADB. 2017. Report and Recommendation of the President to the Board of Directors: Proposed Technical Assistance 
+Loan to the Republic of the Philippines for the Infrastructure Preparation and Innovation Facility. Manila. 
+9 
+Industry Roadmap (footnote 10). ADB is preparing a TA to pilot farming cluster development with 
+measures  to  ensure  women’s  meaningful  participation  and  benefit.  ADB  will  support  (i)  the 
+implementation of the NIMP through the Mindanao Irrigation Development Project (for approval 
+in  2021);  and  (ii)  preparation  of  FRMMPs  for  the  major  river  basins  through  the  ongoing 
+Infrastructure  Preparation  and  Innovation  Facility,  and  implementation  of  these  master  plans 
+through the Integrated Flood Risk Management Sector Project (for approval in 2021). ADB will 
+also  help  promote  value  addition  and  diversification  through  the  Mindanao  Agro-Enterprise 
+Development Project (for approval in 2022). To further reduce hunger, the government created 
+the  Inter-Agency  Task  Force  on  Zero  Hunger  on  10  January  2020,  and  ADB  is  advising  the 
+government on the design of a nutritional food program for poor pregnant women as part of its 
+zero-hunger agenda. 
+Lessons. The program was designed based on relevant lessons from ADB’s experience, 
+25. 
+particularly the Grains Sector Development Program whose objectives are similar to those of the 
+PBL, 28 as  well  as  evaluation  findings  on  the  special  study  on  PBLs. 29 These  lessons  are  as 
+follows: 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+Agriculture reforms are complex, have a medium- to long-term gestation period, 
+and  require  proper  sequencing.  Programs  should  exhibit  sufficient  flexibility  to 
+accommodate  a  medium-  to  long-term  development  horizon  and  the  inevitable 
+changes that occur when dealing with complex reform areas. 
+Strong  high-level  government  resolve  and  ownership  are  key  to  successful 
+implementation of reforms. 
+Policy  reforms  create  winners  and  losers,  and  adverse  impacts  on  the  losers 
+should  be  mitigated  and  supplemented  with  expansion  of  social  assistance 
+programs to vulnerable rural families and communities. 
+A programmatic approach and PBL will help to promote structural policy reforms 
+in the sector and support downstream investment projects in irrigation, flood risk 
+management,  and  agribusiness  in  the  pipeline.  The  “One  ADB  approach”, 
+involving  extensive  coordination  within  ADB’s  Southeast  Asia  Department  and 
+across ADB’s departments, ensures an appropriate program design, the scope of 
+which goes beyond the agriculture sector. 
+26. 
+Development  coordination.  Major  development  partners  in  the  ANR  sector  in  the 
+Philippines  include  the  International  Fund  for  Agricultural  Development,  Japan  International 
+Cooperation  Agency,  Korea  International  Cooperation  Agency,  and  World  Bank.  Strong 
+development coordination and effective and efficient use of resources provided by development 
+partners are imperative for the program. ADB will continue communicating with key development 
+partners to gather lessons from partner programs and projects and further improve the program’s 
+impact. 
+27. 
+ADB  has  coordinated  closely  with  the  International  Monetary  Fund  on  macroeconomic 
+conditions  and  prospects  in  the  Philippines.  The  International  Monetary Fund  has  provided  an 
+assessment  letter  for  the  program.  The  government  had  demonstrated  a  sound  record  of 
+macroeconomic management before the COVID-19 crisis. The economy expanded by 6.4% on 
+average during 2010–2019. Inflation had been carefully managed and was only 2.5% in 2019. 
+28 ADB. 2007. Completion Report: Grains Sector Development Program in the Philippines. Manila. The list of previous 
+programs  and  projects  are  in  Sector  Assessment  (Summary):  Agriculture,  Natural  Resources,  and  Rural 
+Development (accessible from the list of linked documents in Appendix 2). 
+29 ADB. 2018. Policy Based Lending 2008–2017: Performance, Results and Issues of Design. Manila. 
+10 
+Slowing food price inflation served as the main inflationary brake following the enactment of the 
+RTL. ADB estimates that the GDP will contract by 3.8% in 2020 because of a significant fall in 
+household  spending  and  investment  as  a result of  COVID-19  impact,  down  from the  originally 
+projected 6.2% growth for 2020. With economic policies mitigating the impact of COVID-19 and 
+an acceleration in public investment, growth is projected to rebound to 6.5% in 2021.30 
+C. 
+Impacts of the Reform 
+Economic impact  of  the  program.  The  program  reforms  the  agriculture  sector  with  a 
+28. 
+specific focus on dismantling trade protection in the rice sector. Overall, through reforms to move 
+toward  market-based  rice  prices  the  program  is  expected  to  facilitate  a  transition  from  rice 
+production to higher value-added crops supported by enabling reforms to the management and 
+utilization  of  key  production  factors,  such  as  land  and  water  resources,  and  better  extension 
+services and targeted funding to the sector. The key effect of the program is increased agricultural 
+competitiveness  and  inclusiveness.  Reform  area  1  will  expose  the  rice  sector  to  international 
+competition; reform area 2 will enhance its competitiveness; and reform area 3 will enhance its 
+inclusiveness. The program will increase income opportunities in the agriculture sector as well as 
+in the industry and services sectors through backward and forward linkages. The assessment of 
+the economic impact of the program focused on the impact of rice trade liberalization (reform area 
+1) since the economic impact of the program is expected to result substantially from the enactment 
+of the RTL in 2019. 
+29. 
+The  welfare  impact  of  the  rice  trade  liberalization  is  estimated  at  $21  billion  during 
+2020−2040.31 This trade policy reform will benefit all rice consumers in the Philippines (i.e., nearly 
+the entire population) through reduced retail rice prices, making them as the winners of the reform. 
+On the other hand, it will hurt most of the about 2 million rice farmers who sell rice to markets 
+through reduced farmgate prices, making them as the losers of the reform. The consumer surplus 
+is estimated at $50.7 billion. Per capita rice consumption is expected to increase by 6.3% to 120 
+kilograms  per  year  by  2025  and  to  fall  to  117  kilograms  per  year  by  2040,  and the  number  of 
+malnourished children is expected to decline from 3.0 million in 2015 to 2.4 million by 2040. On 
+the other hand, the loss in producer surplus is estimated at $29.7 billion, which is expected to be 
+partly mitigated by the RCEF programs under reform area 2. Some farmers are expected to shift 
+to high-value crops, such as vegetables and fruits. The RCEF will be financed by the rice tariff 
+revenue, which is expected to increase from $487 million in 2020 to $640 million in 2040. The 
+RCEF  programs,  irrigation  expansion,  and  agricultural  extension  programs  are  expected  to 
+generate a producer surplus of $7.3 billion. Further, under reform area 3, the program will include 
+income distributive benefits, such as income transfers to marginal rice farmers affected by the 
+reforms and transfers to rural families to tackle long-term rural poverty, including dimensions such 
+as malnutrition and stunting of children residing in rural communities. 
+D. 
+Development Financing Needs and Budget Support 
+30. 
+The government has requested a regular loan of $400 million from ADB’s ordinary capital 
+resources to help finance subprogram 1.32 The loan will have a 15-year term, including a grace 
+period of 3 years; an annual interest rate determined in accordance with ADB’s London interbank 
+30 ADB.  2020.  Asian  Development  Outlook  Supplement  (June  2020):  Lockdown,  Loosening,  and  Asia’s  Growth 
+Prospects. Manila. The government projects that the GDP will contract by 2.0%–3.4% in 2020. 
+31 N. D. Perez and A. Pradesha. 2019. Philippine Rice Trade Liberalization: Impacts on Agriculture and the Economy, 
+and  Alternative  Policy  Actions.  NEDA-IFPRI  Policy  Studies.  June.  Washington,  DC:  International  Food  Policy 
+Research Institute. 
+32 The loan may be disbursed in one or more installments. 
+11 
+offered rate (LIBOR)-based lending facility; a commitment charge of 0.15% per year; and such 
+other terms and conditions set forth in the draft loan agreement. Based on the annuity repayment 
+method, the average maturity is 12.1 years, and there is no maturity premium payable to ADB. 
+The indicative loan amount for subprogram 2 is $400 million, which will be funded from ADB’s 
+ordinary capital resources. The annual budget deficit was originally programmed at 3.2% of GDP 
+in 2020 compared to 3.4% of GDP deficit in 2019. With significantly lower revenues because of 
+the economic contraction and higher spending to respond to the impacts of COVID-19, the deficit 
+is  expected  to  widen  to  8.4%  of  GDP  in  2020.  As  such,  the  financing  requirement  of  the 
+government is expected to reach record levels at  ₱2.9 trillion with a financing mix of 74% from 
+domestic borrowing and 26% from foreign borrowing.33 The loan size of subprogram 1 reflects 
+the government’s total financing needs, the strength of the program, and its economic benefits. 
+E. 
+Implementation Arrangements 
+31. 
+The Department of Finance (DOF) is the executing agency. The implementing agencies 
+are  the  National  Economic  and  Development  Authority,  the  Department  of  Agriculture,  the 
+Department  of  Environment  and  Natural  Resources,  the  Department  of  Public  Works  and 
+Highways,  the  Department  of  Social  Welfare  and  Development,  and  the  National  Irrigation 
+Administration.  A  steering  committee  chaired  by  the  DOF  with  the  implementing  agencies  as 
+members will oversee the program’s implementation. The implementation period is May 2018–
+April 2020 for subprogram 1 and May 2020–April 2022 for subprogram 2. The loan proceeds will 
+be withdrawn in accordance with ADB’s Loan Disbursement Handbook (2017, as amended from 
+time to time). 
+III. 
+DUE DILIGENCE 
+32. 
+Safeguards.  The  program  is  classified  category  C  for  environment,  involuntary 
+resettlement,  and  indigenous  peoples  in  accordance  with  ADB’s  Safeguard  Policy  Statement 
+(2009). The potential environmental and social impacts of the proposed policy reforms have been 
+assessed.34 No policy action will entail any involuntary resettlement or adversely affect indigenous 
+peoples  or  the  environment.  Indigenous  peoples  will  benefit  from the  program  (e.g.,  access to 
+finance,  food  security,  and  flood  risk  mitigation).  There  will  be  no  differential  impacts  on 
+indigenous peoples. 
+33. 
+Climate  change.  The  Philippines  is  highly  vulnerable  to  climate  change.  The  weak 
+performance of the crop subsector, the largest subsector in agriculture, is partly attributed to its 
+vulnerability to extreme weather events (e.g., droughts and typhoons). The program will contribute 
+to strengthening climate resilience of the agriculture and fishery sectors and reduce greenhouse 
+gas emissions. Climate resilience will be realized by (i) improving water resources management 
+through the legislation related to establishing the DWR, (ii) ensuring effective implementation of 
+the climate change adaptation and disaster risk reduction and management measures laid out by 
+the  FRMMP  and  NIMP,  (iii)  strengthening  flood  risk  management,  and  (iv)  promoting  climate-
+resilient seed development and distribution under the RCEF. Climate mitigation will be realized 
+by  reducing  (i)  energy  use  as  a  result  of  improved  water  resources  planning  and  utilization, 
+(ii) greenhouse gas emission from crop diversification, and (iii) food loss and water use as a result 
+of farmers’ investment in on-farm water management and post-harvest processing equipment and 
+facilities from credit assistance under the RCEF.35 The total estimated climate financing is $52.31 
+33 Government of the Philippines, Department of Finance. 2020. Medium-Term Fiscal Program. Manila. 
+34 Environmental and Social Impact Assessment (accessible from the list of linked documents in Appendix 2). 
+35 Rice production generally requires more water than non-rice crops. 
+12 
+million, including $12.31 million contributing to climate mitigation and $40.00 million contributing 
+to climate adaptation.36 
+34. 
+Poverty and social. The country’s overall poverty rate decreased from 23.3% in 2015 to 
+16.6% in 2018. The short-term impact of the program is twofold. First, smallholder farmers will 
+have increased access to extension services, credit, and other support programs (including farm 
+mechanization), which will help lift productivity and incomes over the medium to long term. Further, 
+the  RTL  has  already  pushed  down  domestic rice  prices  by  as much  as 22%,  which has  put  a 
+downward pressure to the national inflation rate, benefiting poor consumers.37 Second, with falling 
+rice prices, smallholder rice farmers, especially in marginal lands, will be adversely affected. The 
+program’s  extension  of  social  assistance  to  vulnerable  communities  will  help  mitigate  these 
+effects. In the longer term, part of labor and capital engaged in basic rice farming will be relocated 
+to more profitable and diversified agricultural activities including farming with improved and high-
+quality rice varieties as the basic rice farming becomes less profitable. The COVID-19 pandemic 
+has started having an adverse impact on poverty in the short term because of (i) loss of incomes 
+and livelihood, especially for informal sector workers; (ii) disruption of trade and markets affecting 
+small-scale  entrepreneurs  and  food  producers,  including  farmers;  (iii)  immense  increase  in 
+personal debt; and (iv) illnesses or deaths of primary income earners in families. The financial 
+relief and extension of social assistance programs will help alleviate these effects. 
+Gender. Subprogram 1 is categorized some gender elements at entry. The government 
+35. 
+has  accomplished  five  policy  actions  with  gender  considerations  under  subprogram  1.  The 
+program will promote (i) the incorporation of gender equality in water resources planning, policy 
+formulation, and management by the DWR (which is being proposed by the government) through 
+consultations  with  all  stakeholders,  including  women,  the  elderly,  and  people  with  disabilities; 
+(ii) the  inclusion  of  gender  analyses  in  the  NIMP  and  FRMMPs;  (iii)  the  collection  of  sex-
+disaggregated data for the RSBSA; and (iv) the provision of interest-free loans to smallholder rice 
+farmers, of which about 45% are female, under SURE Aid. 
+36. 
+Subprogram  2  is  expected  to  achieve  effective  gender  mainstreaming  through  (i)  the 
+compliance  of  the  DWR’s  operation  with  the  gender  and  development  framework,  (ii)  the 
+integration  of  gender  considerations  in  the  preparation  and  implementation  of  forthcoming 
+investment  projects  under  the  NIMP  and  FRMMPs,  (iii)  the  inclusion  of  gender  analyses  in 
+FRMMPs  for  other  priority  river  basins,  (iv)  the  inclusion  of  gender  impact  assessment  in  the 
+evaluation of the RCEF programs, (v) the targeting of female farmer beneficiaries of the SURE 
+assistance  programs,  (vi)  at  least  30%  participation  by  female  family  members  in  the  pilot 
+provincial agricultural and fisheries extension system, and (vii) the commencement of planning 
+for  a  nutritional  program  for  poor  pregnant  women  as  part  of  the  government’s  zero-hunger 
+agenda. 
+Governance.  Public  financial  management  (PFM)  reforms  implemented  during  2011–
+37. 
+2016  strengthened  fiscal  discipline  and  allocative  and  technical  efficiency,  while  improving 
+transparency and citizen empowerment. A 2016 public expenditure and financial accountability 
+assessment found that three of the seven core PFM areas had improved: policy-based budgeting, 
+transparency, and asset–liability management.38 The government has set an aggressive reform 
+agenda to promote effective and honest governance and to create an enabling environment for 
+36 Climate Change Assessment (accessible from the list of linked documents in Appendix 2). 
+37 Food and Agriculture Organization of the United Nations. Food Price Monitoring and Analysis (accessed 30 May 
+2020). 
+38 World  Bank.  2016.  Republic  of  the  Philippines:  PFM  Strategy  Implementation  Support—Public  Financial 
+Management and Accountability Assessment. Report No. 105753-PH. Washington, DC. 
+13 
+citizens and the private sector. The framework of the PFM Reform Roadmap, 2017–2022 aims to 
+strengthen  the  foundation  of  the  PFM  system  by  focusing  on  three  components:  (i)  a  shift  to 
+annual  cash  appropriations;  (ii)  automation  reform,  initially  through  the  Budget  and  Treasury 
+Management  System;  and  (iii)  the  creation  of  an  Office  of  the  Comptroller  General.  ADB’s 
+Anticorruption  Policy  (1998,  as  amended  to  date)  was  explained  to  and  discussed  with  the 
+government and the DOF. 
+Risks and mitigating measures. Major risks and mitigating measures are summarized 
+38. 
+in Table 2 and described in detail in the risk assessment and risk management plan.39 
+Table 2: Summary of Risks and Mitigating Measures 
+Risks 
+Prolonged COVID-19 pandemic 
+causes unprecedented economic 
+crisis, which may affect the benefits of 
+the policy and institutional reforms 
+Rice exports to the Philippines may be 
+restricted because of emergency 
+situations in major rice-exporting 
+countries 
+Reforms stall as they did in the Grains 
+Sector Development Program (footnote 
+25) 
+Mitigation Measures 
+The government is mounting a $12.9 billion pro-poor 
+countercyclical expenditure program with a focus on 
+providing social protection for the vulnerable, scaling up 
+resources for the health sector, protecting critical public 
+spending, and providing economic stimulus. The government 
+is also preparing a medium-term economic recovery strategy 
+to recommend programs and policies to support the 
+economy. 
+The government has diversified and increased the number of 
+countries from which to import rice. The government is also 
+strengthening the domestic rice sector. 
+Based on lessons learned from the Grains Sector 
+Development Program that had a similar reform objective, 
+the proposed program includes measures to mitigate impacts 
+on rice farmers of reduced farmgate rice prices resulting from 
+the rice trade liberalization, such as various competitiveness 
+enhancement programs under reform area 2 and financial 
+assistance programs under reform area 3. 
+COVID-19 = coronavirus disease. 
+Source: Asian Development Bank. 
+IV. 
+ASSURANCES 
+39. 
+The government has assured ADB that implementation of the program shall conform to 
+all  applicable  ADB  policies  including  those  concerning  anticorruption  measures,  safeguards, 
+gender,  procurement,  consulting  services,  and  disbursement as  described  in  detail  in  the  loan 
+documents. 
+V. 
+RECOMMENDATION 
+40. 
+I  am  satisfied  that  the  proposed  programmatic  approach  and  policy-based  loan  would 
+comply with the Articles of Agreement of the Asian Development Bank (ADB) and recommend 
+that the Board approve 
+(i) 
+the  programmatic  approach  for  the  Competitive  and  Inclusive  Agriculture 
+Development Program; and 
+39 Risk Assessment and Risk Management Plan (accessible from the list of linked documents in Appendix 2). 
+14 
+(ii) 
+21 July 2020 
+the loan of $400,000,000 to the Republic of the Philippines for subprogram 1 of the 
+Competitive and Inclusive Agriculture Development Program, from ADB’s ordinary 
+capital resources, in regular terms, with interest to be determined in accordance 
+with ADB’s London interbank offered rate (LIBOR)-based lending facility; for a term 
+of  15  years,  including  a  grace  period  of  3  years;  and  such  other  terms  and 
+conditions as are substantially in accordance with those set forth in the draft loan 
+agreement presented to the Board. 
+Masatsugu Asakawa 
+President 
+DESIGN AND MONITORING FRAMEWORK 
+Country’s Overarching Development Objective 
+Economic opportunities in agriculture expanded (Philippine Development Plan, 2017−2022)a 
+Appendix 1 
+15 
+Risks 
+Prolonged 
+economic crisis 
+induced by the 
+COVID-19 
+pandemic 
+undermines the 
+reform efforts. 
+Rice exports to 
+the Philippines 
+may be 
+restricted 
+because of 
+emergency 
+situations in 
+major rice-
+exporting 
+countries. 
+Performance Indicators with Targets and 
+Baselines 
+By 2023: 
+a. Labor productivity of farmers increased by 
+at least 5.0% annually (2016 baseline: 4.6%) 
+b. Poverty incidence reduced to 18.0% (2020 
+baseline: 20.7% as of 4 April 2020) 
+Data Sources 
+and Reporting 
+Mechanisms 
+a–b. Philippine 
+Statistics 
+Authority 
+website 
+Key Policy Actions 
+By 2020: 
+1.1 The government enacted the Rice 
+Tariffication Lawb (2018 baseline: Not 
+applicable) 
+1.1–1.2 
+Legislative 
+reports in 
+Official Gazette 
+Results Chain 
+Effect of the 
+Reform 
+Agricultural 
+competitiveness 
+and 
+inclusiveness 
+increased 
+Reform Areas 
+under 
+Subprogram 1 
+1. Agricultural 
+trade policy and 
+regulatory 
+framework 
+2. Public 
+services and 
+finance for the 
+agriculture 
+sector 
+1.2 The government removed the regulatory 
+powers and commercial functions of the 
+National Food Authority (2018 baseline: Not 
+applicable) 
+1.3 The government facilitated agricultural 
+trade by removing nontariff barriers and 
+streamlining administrative procedures on 
+the importation of agricultural products (2018 
+baseline: Not applicable) 
+1.3 Legislative 
+report in Official 
+Gazette; 
+Department of 
+Finance reports 
+2.1 The government enacted the Agricultural 
+Free Patent Reform Act, 2019 (2018 
+baseline: Not applicable) 
+2.1 Legislative 
+report in Official 
+Gazette 
+2.2 The government submitted a legislation 
+to Congress to create the Department of 
+Water Resources, an apex body for the 
+water resources sector, taking into 
+consideration gender equality, climate 
+resiliency, and disaster risk reductionc (2018 
+baseline: Not applicable) 
+2.2 Philippine 
+House of 
+Representatives 
+website 
+2.3 The National Irrigation Administration 
+Board adopted the National Irrigation Master 
+Plan, which promotes the integration of 
+climate change and gender aspects into 
+irrigation projectsd (2018 baseline: Not 
+applicable) 
+2.3 National 
+Irrigation 
+Administration 
+website 
+2.4  The  government  prepared  and  adopted 
+flood  risk  management  master  plans  for  six 
+major river basins, which include gender  
+2.4 Legislative 
+report in Official 
+Gazette; 
+Risks 
+Data Sources 
+and Reporting 
+Mechanisms 
+Department of 
+Public Works 
+and Highways 
+website 
+2.5–2.7 
+Department of 
+Agriculture 
+website 
+16 
+Appendix 1 
+Results Chain 
+Performance Indicators with Targets and 
+Baselines 
+analysis and safeguard impact assessmente 
+(2018 baseline: Not applicable) 
+2.5 The government (i) approved the Rice 
+Competitiveness Enhancement Fund to 
+support 57 potential rice-competitive 
+provinces during 2019–2024 and 
+(ii) allocated ₱10 billion annually in the GAA 
+2019 and 2020 (2018 baseline: Not 
+applicable) 
+2.6 The government issued implementing 
+guidelines for four Rice Competitiveness 
+Enhancement Fund programs (2018 
+baseline: Not applicable) 
+2.7 The government started updating the 
+Registry System for Basic Sectors in 
+Agriculture covering about 1.956 million rice 
+farmers, where data collected is 
+disaggregated by sex (2018 baseline: Not 
+applicable) 
+3. Social 
+protection to 
+rural families 
+3.1 The government approved unconditional 
+cash transfer programs (i) in total of ₱3 
+billion in the 2019 GAA, and (ii) in total of ₱3 
+billion in the 2020 GAA to assist small 
+farmers affected by low rice farmgate prices 
+(2018 baseline: Not applicable)  
+3.1–3.2 
+Department of 
+Agriculture 
+website 
+3.2 The government approved (i) the 
+Expanded SURE Assistance Program for 
+Rice Farmersf to provide no-collateral, 
+interest-free loans to 164,274 small rice 
+farmers, of which about 45% are female; and 
+(ii) the SURE COVID-19 Programg to provide 
+no-collateral, interest-free loans in total of 
+₱2.5 billion to small farmers and fisherfolk 
+and agri- and fishery-based micro and small 
+enterprises affected by COVID-19 pandemic 
+(2018 baseline: Not applicable) 
+3.3 The government enacted the National 
+Feeding Program for Undernourished 
+Children Acth and allocated ₱3.7 billion in the 
+2020 GAA (2018 baseline: Not applicable) 
+3.3 Legislative 
+report in Official 
+Gazette; 
+Department of 
+Social Welfare 
+and 
+Development 
+reports 
+Appendix 1 
+17 
+Budget Support 
+Asian Development Bank 
+Subprogram 1: $400 million (policy-based loan) 
+Subprogram 2: $400 million (policy-based loan, indicative) 
+COVID-19 = coronavirus disease, GAA = General Appropriations Act, SURE = survival and recovery. 
+a  Government of the Philippines, National Economic and Development Authority. 2017. Philippine Development Plan, 
+2017−2022. Manila. 
+b  Government of the Philippines, House of Representatives. 2018. Republic Act No. 11203: An Act Liberalizing the 
+Importation, Exportation and Trading of Rice, Lifting for the Purpose the Quantitative Import Restriction on Rice, and 
+for Other Purposes. Manila. 
+c  The language “gender equality, social inclusion, climate resiliency, and disaster risk reduction” is from House Draft 
+Substitute Bill 9 (consolidation of 35 bills) creating the Department of Water Resources, specifically Section 8, para. 
+I (j), which states the following: “Ensure that gender equality, social inclusion, climate resiliency and disaster risk 
+reduction  are  integrated  into  any  water  resource  management  planning,  policy  making,  and  the  design  and 
+construction of water infrastructure.” In addition, Section 3 of the bill contains a definition of “gender equality” as the 
+principle asserting the equality of men and women and their right to enjoy equal conditions realizing their full human 
+potential to contribute to and benefit from the results of development, and with the state recognizing that all human 
+beings are free and equal in dignity and rights. 
+d  The National Irrigation Master Plan, 2020−2030 includes sex-disaggregated data on employment in the agriculture 
+sector from 2015 to 2017 (p. 26), a social profile of rice-based farm households indicating that "rice-based farms are 
+heavily  dominated  by  males with  females  comprising  10%–12%  of  total”  (p.  29).  It  also recommends including a 
+gender action plan as part of the Environmental and Social Impact Assessment, as well as hiring a gender specialist 
+in the project team to formulate, ensure, and monitor gender action plan implementation (p. 388). 
+e  The flood risk management master plans include gender analysis of the current context. They also ascertain the 
+potential impact and benefits of solutions proposed in the various master plans, which include possible impacts on 
+involuntary resettlement, generation of employment, and occupational safety and health risks, among other impacts 
+and  benefits  indicators.  Gender  analysis  of  the  current  context  included  employment  and  means  of  generating 
+income for women and families, as well as issues they face related to flood risk management, as gleaned from focus 
+group discussions held at the (village) level. 
+f  The Expanded SURE Assistance Program for Rice Farmers (SURE Aid) is one of the SURE assistance programs. 
+g  The SURE COVID-19 Program, another of the SURE assistance programs, is an emergency loan program for small 
+farmers and fisherfolk and micro and small enterprises engaged in agriculture and fisheries affected by COVID-19. 
+h  Government of the Philippines, House of Representatives. 2017. Republic Act No. 11037: An Act Institutionalizing a 
+National Feeding Program for Undernourished Children in Public Day Care, Kindergarten and Elementary Schools 
+to Combat Hunger and Undernutrition among Filipino Children and Appropriating Funds Therefor. Manila. 
+Source: Asian Development Bank. 
+18 
+Appendix 2 
+LIST OF LINKED DOCUMENTS 
+http://www.adb.org/Documents/RRPs/?id=53353-001-3 
+Loan Agreement 
+Sector Assessment (Summary): Agriculture, Natural Resources, and Rural 
+Development 
+Contribution to the ADB Results Framework 
+Development Coordination 
+Country Economic Indicators 
+International Monetary Fund Assessment Letter 
+Summary Poverty Reduction and Social Strategy 
+Risk Assessment and Risk Management Plan 
+List of Ineligible Items 
+Environmental and Social Impact Assessment 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+Supplementary Documents 
+11. 
+12. 
+13. 
+Program Impact Assessment 
+Public Financial Management Assessment 
+Climate Change Assessment 
+Appendix 3 
+19 
+20 
+Appendix 3 
+Appendix 3 
+21 
+22 
+Appendix 4 
+POLICY MATRIX 
+Policy Actions 
+Subprogram 1 Accomplishments 
+(May 2018–April 2020) 
+Policy Triggers in bold 
+Subprogram 2 
+ (May 2020–April 2022) 
+Policy Triggers in bold 
+Medium-term Framework 
+and expected results 
+(2018–2025) 
+Reform Area 1. Agriculture trade policy and regulatory framework 
+ADB’s policy 
+advisory on 
+drafting of the 
+Rice 
+Tariffication 
+Law (RTL) 
+Implementing 
+Rules and 
+Regulations 
+The government eliminated market distortions in 
+the agriculture sector by enacting the RTL. Its 
+implementing rules and regulations laid 
+foundations for a transition to a diversified and 
+competitive agriculture sector. 
+1. The government removed quantitative 
+restrictions on rice imports converting these 
+into a simple tariff system to improve food 
+security by increasing rice availability for all 
+Filipinos and reduce poverty by increasing 
+disposable income through affordable rice 
+prices. 
+2. The government dismantled state monopoly 
+for rice and improved governance in the food 
+grains sector by removing the distortionary 
+regulatory powers and commercial functions 
+of the National Food Authority (NFA) and 
+transforming it into an emergency buffer stock 
+management agency. 
+3. The government facilitated agricultural trade by 
+streamlining administrative procedures on the 
+importation of agricultural products and rolling out 
+the government’s online trade facilitation portal 
+(TradeNet) with the Department of Agriculture 
+(DA) as a key regulatory agency. 
+The government consolidates reforms to 
+increase agriculture sector’s 
+competitiveness. 
+1. The NFA Council issues 
+implementing rules, regulations and 
+procedures to maintain sufficient rice 
+buffer stock to be sourced from local 
+farmers covering: (i) an optimal level 
+of rice inventory; (ii) composition, 
+storage, processing, replenishment 
+and release of rice stocks; 
+(iii) location and amounts of stocks in 
+anticipation of emergencies; and 
+(iv) transaction flows for release of 
+rice stocks to government agencies 
+as emergency response. 
+1. Stable supply of rice and 
+other key agriculture 
+commodities at affordable 
+prices in the domestic 
+market is ensured. 
+2. By 2022, the NFA 
+functions as a buffer stock 
+agency operating in an 
+efficient and fiscally 
+sustainable manner. 
+3. TradeNet has simplified 
+the import and export 
+documentary process of 
+over 900 regulated 
+agricultural products. 
+Appendix 4 
+23 
+Policy Actions 
+Subprogram 1 Accomplishments 
+(May 2018–April 2020) 
+Policy Triggers in bold 
+Subprogram 2 
+ (May 2020–April 2022) 
+Policy Triggers in bold 
+Medium-term Framework 
+and expected results 
+(2018–2025) 
+Reform Area 2. Public services and finance for the agriculture sector   
+2.1 Land and 
+water 
+management 
+reforms 
+implemented.  
+The government introduced regulatory and 
+institutional reforms for efficient management of 
+land and water resources that are critical to 
+agriculture sector. 
+The government implements key reforms 
+to land and water resource management. 
+ADB Loan 3589 
+“Infrastructure 
+Preparation  and 
+Innovation 
+Facility” 
+4. To remove restrictions on agricultural land 
+ownership, the government enacted the 
+Agricultural Free Patent (AFP) Reform Act (2019), 
+making the land titles held by AFP recipient 
+farmers immediately tradeable and bankable, 
+providing them access to capital and credit. 
+2. The government (through the 
+Department of Environment and Natural 
+Resources) issues implementing 
+guidelines for the AFP Reform Act 
+including use of the land titles as bank 
+collateral. 
+4. The AFP for the 
+remaining public agricultural 
+land of approximately 
+500,000 hectares (ha) are 
+granted to farmers without 
+the restrictions. 
+ADB Loan 3886 
+“Infrastructure 
+Preparation  and 
+Innovation 
+Facility 
+(additional 
+financing)” 
+5. The government submitted to Congress a 
+proposed legislation on the creation of an 
+apex body for the water resources sector, i.e., 
+the Department of Water Resources, in order 
+to: (i) address the fragmentation in important 
+activities such as water-related plans, policies 
+and program and/or project implementation; 
+(ii) separate water resource regulation from 
+economic regulation; and (iii) rationalize all 
+water related functions in the government, 
+taking into consideration, among others, 
+gender equality, social inclusion, climate 
+resiliency and disaster risk reduction. 
+6. To improve the country’s irrigation systems and 
+expand service areas including by addressing 
+climate change impacts and impacts on gender, 
+the National Irrigation Administration endorsed the 
+National Irrigation Master Plan. 
+3. As part of water sector reforms, the 
+government issues Executive Order, 
+reconstituting and transforming the 
+National Water Resources Board into 
+the National Water Management 
+Council, which shall be responsible 
+for the planning and policy 
+formulation, management and 
+protection of the country’s water 
+resources. 
+4. The government implements the 
+flood risk management master plans 
+and the National Irrigation Master Plan 
+by: (i) selecting priority investment 
+projects in 2021−2022, (ii) allocating 
+sufficient budget from the 2021−2022 
+General Appropriations Act (GAA) for 
+priority projects, and (iii) integrating 
+5. By 2022, substantial 
+progress made in reforming 
+the institutional set up in the 
+water resource planning, 
+policy, investment 
+framework, compliant with 
+the gender and 
+development framework of 
+the government and PCW 
+MC 2018–04 on the 
+preparation of the Gender 
+and Development Agenda. 
+6. Irrigated farmland are 
+expanded by at least 
+300,000 ha.  
+24 
+Appendix 4 
+Policy Actions 
+2.2. Public 
+financing 
+enhanced. 
+Subprogram 1 Accomplishments 
+(May 2018–April 2020) 
+Policy Triggers in bold 
+Subprogram 2 
+ (May 2020–April 2022) 
+Policy Triggers in bold 
+Medium-term Framework 
+and expected results 
+(2018–2025) 
+7. To reduce flood risk, the government (through 
+the Department of Public Works and Highways) 
+prepared and adopted flood risk management 
+master plans for six major river basins, integrating 
+flood protection infrastructure with enhanced flood 
+resilience and response measures in consultation 
+with basin stakeholders, including due 
+consideration given for safeguard impact 
+assessment, the rights of indigenous people and 
+gender aspects. 
+8. To improve rice sector competitiveness 
+under the liberalized trade regime, the 
+government (i) established the Rice 
+Competitiveness Enhancement Fund (RCEF) 
+to support 57 potential rice competitive 
+provinces during 2019−2024, and (ii) allocated 
+₱10 billion in the GAA 2019 and 2020. 
+9. The government issued implementing 
+guidelines for four RCEF programs: farm 
+mechanization, seeds development and 
+distribution, extension and training services, and 
+credit assistance. 
+in each priority investment project 
+climate change impact assessments 
+and gender analysis, considerations 
+and actions. 
+5. The government (through the 
+Department of Public Works and 
+Highways) develops flood risk 
+management master plans for additional 
+seven priority principal river basins, 
+including climate change impact 
+assessment and gender analysis.  
+6. The government allocates through the 
+GAA ₱10 billion annually to RCEF for 
+2021−2022. 
+7. The government (through the DA) 
+develops the Rice Fund Impact 
+Monitoring System to assess the 
+impact of RCEF on farm productivity 
+and income, including gender impact 
+assessment based on sex-
+disaggregated data. 
+8. The government (through the DA) 
+completes validating and updating the 
+7. Flood risk on agriculture 
+in the six river basins are 
+reduced. 
+8. RCEF benefits about 
+1.956 million rice farmers 
+listed in the Registry 
+System for Basic Sectors in 
+Agriculture (RSBSA) in 57 
+priority provinces to improve 
+productivity and farm 
+household income. 
+9. By 2022, RCEF 
+implementation is 
+evaluated. 
+Policy Actions 
+Subprogram 1 Accomplishments 
+(May 2018–April 2020) 
+Policy Triggers in bold 
+Subprogram 2 
+ (May 2020–April 2022) 
+Policy Triggers in bold 
+Medium-term Framework 
+and expected results 
+(2018–2025) 
+Appendix 4 
+25 
+10. For accurate targeting of RCEF beneficiaries, 
+the government started updating the RSBSA 
+covering around 1.956 million rice farmers, where 
+data collected is disaggregated by sex. 
+RSBSA with sex-disaggregated data and 
+includes this data in regular reporting. 
+9. The government develops National 
+Agriculture and Fisheries Modernization 
+and Industrialization Plan to enhance its 
+financing to agriculture sector for 
+modernization and industrialization. 
+10. The government implements the 
+Agriculture Dialogue and Information 
+Network Groups Program as DA’s 
+integrity management implementation 
+and advocacy program to ensure 
+accountability of DA’s programs and 
+activities. 
+11. The government (through the DA) 
+approves the budget and implements 
+the pilot Provincial Agricultural and 
+Fishery Extension System to 
+strengthen local government units’ 
+extension services to farmers with at 
+least 30% active participation by 
+female family members. 
+10. By 2022, Provincial 
+Agricultural and Fishery 
+Extension Centers are 
+established in 15 provinces. 
+2.3. Extension 
+services 
+strengthened. 
+Reform Area 3. Social protection to rural families 
+3.1 Impact of 
+RTL on 
+smallholder 
+farmers and 
+fisherfolks 
+mitigated. 
+11. The government established the Rice Farmer 
+Financial Assistance Program and allocated (i) ₱3 
+billion in 2019 GAA to provide unconditional cash 
+transfers to smallholder rice farmers that were 
+affected by low rice farmgate prices, and (ii) ₱3 
+billion in 2020 GAA under the Financial Subsidy to 
+Rice Farmers Program to provide unconditional 
+cash transfers to smallholder rice farmers also 
+affected by low farmgate prices in areas not 
+12. The government completes the 
+disbursements of unconditional cash 
+transfers in total of ₱6 billion to 
+smallholder rice farmers with active 
+participation of both male and female 
+family members. 
+11. By 2022, about 900,000 
+smallholder rice farmers 
+benefit from the 
+unconditional cash 
+transfers. 
+26 
+Appendix 4 
+Policy Actions 
+Subprogram 1 Accomplishments 
+(May 2018–April 2020) 
+Policy Triggers in bold 
+Subprogram 2 
+ (May 2020–April 2022) 
+Policy Triggers in bold 
+Medium-term Framework 
+and expected results 
+(2018–2025) 
+covered by the Rice Farmer Financial Assistance 
+Program. 
+12. The government, through the DA-
+Agricultural Credit Policy Council (ACPC), 
+established (i) the Expanded Survival and 
+Recovery Assistance Program for Rice 
+Farmers (SURE Aid, which is one of the SURE 
+Assistance Programs) that provided 164,274 
+smallholder rice farmers (holding 1 ha or 
+below), of which about 45% are female, with 
+interest-free loans from ₱2.5 billion credit 
+funds sourced from the 2019 GAA and ACPC 
+loan collections; and (ii) SURE COVID-19 
+Program and allocated an additional ₱2.5 
+billion credit funds sourced from the 2020 
+GAA and ACPC loan collections to provide 
+interest-free loans for smallholder farmers and 
+fisherfolks (holding 3 ha or below) and agri- 
+and fishery-based micro- and small-sized 
+enterprises affected by the coronavirus 
+disease (COVID-19) pandemic. 
+12. By 2022, various SURE 
+assistance programs benefit 
+443,827 smallholder 
+farmers and fisherfolks 
+adversely affected by 
+environmental and 
+economic shocks. 
+13. The government through DA-
+ACPC (i) provides interest-free loans 
+to about 40,000 smallholder farmers 
+and fisherfolks, of which 50% are 
+female,  and about 150 agri- and 
+fishery-based micro- and small-sized 
+enterprises under the SURE COVID-19 
+Program; and (ii) allocates an 
+additional ₱2.5 billion in 2021 GAA for 
+SURE COVID-19 Program and/or other 
+SURE assistance program(s) to help 
+smallholder farmers and fisherfolks 
+mitigate impacts of specific 
+environmental and economic shocks. 
+3.2 Delivery of 
+basic services 
+for the poor 
+institutionalized. 
+13. To improve child nutrition in poor households, 
+the government enacted the Act Institutionalizing 
+a National Feeding Program (NFP) for 
+Undernourished Children in Public Day Care, 
+Kindergarten, and Elementary Schools and 
+allocated ₱3.7 billion in 2020 GAA. 
+14. The government ensures that 
+adequate budget through the GAA is 
+provided to the NFP to improve 
+nutritional status of children.  
+13. By 2022, the NFP 
+benefits about 2 million 
+children annually. 
+15. The government commences 
+planning of a nutritional food program for 
+poor pregnant women as part of its zero- 
+hunger agenda. 
+Source: Asian Development Bank. 
