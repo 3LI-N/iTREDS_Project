@@ -1,0 +1,1751 @@
+Activity Administration Manual 
+Facility Number: 52256-003 
+Activity Subgrant Number: {XXXXX} 
+August 2019 
+Kyrgyz Republic: Small Expenditure Financing 
+Facility and Osh-Plotina Water Treatment Plant 
+Chlorine Neutralization Unit   
+AAM 
+ADB 
+DDWSSD 
+EA 
+EMP 
+IA 
+IEE 
+PMO 
+SAWR 
+SEFF 
+SEMP 
+SPS 
+WSS 
+ABBREVIATIONS 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+activity administration manual 
+Asian Development Bank 
+Department of Drinking Water Supply and Sewerage 
+Development 
+executing agency  
+environmental management plan 
+implementing agency 
+initial environmental examination 
+project management office 
+State Agency for Water Resources under the Government 
+of the Kyrgyz Republic 
+small expenditure financing facility 
+site-specific environmental management plan 
+Safeguard Policy Statement  
+water supply and sanitation 
+I. 
+II. 
+III. 
+IV. 
+V. 
+VI. 
+VII. 
+IMPLEMENTATION PLANS 
+CONTENTS 
+PROJECT MANAGEMENT ARRANGEMENTS 
+A. 
+B. 
+C. 
+Project Implementation Organizations: Roles and Responsibilities 
+Project Organization Structure 
+Key Persons Involved in Implementation 
+COSTS AND FINANCING 
+A. 
+B. 
+C. 
+D. 
+E. 
+F. 
+G. 
+Cost Estimates Preparation and Revisions 
+Key Assumptions 
+Allocation and Withdrawal of Grant Proceeds 
+Detailed Cost Estimates by Expenditure Category 
+Detailed Cost Estimates by Year 
+Contract and Disbursement S-Curve 
+Fund Flow Diagram 
+FINANCIAL MANAGEMENT FOR ACTIVITY SUBGRANT 
+A. 
+B. 
+C. 
+D. 
+Financial Management Assessment for SEFF Activity 
+Disbursement 
+Accounting 
+Auditing and Public Disclosure 
+PROCUREMENT AND CONSULTING SERVICES 
+A. 
+B. 
+C. 
+D. 
+E. 
+F. 
+G. 
+H. 
+Advance Contracting 
+Procurement of Goods, Works, and Consulting Services 
+Procurement Plan 
+Methods, Review and Procurement Plan 
+List of Active Procurement Packages (Contracts) 
+List of Indicative Packages (Contracts) Required under the Project 
+List of Awarded and Completed Contracts 
+Non-ADB Financing 
+SAFEGUARDS 
+PERFORMANCE MONITORING, EVALUATION, REPORTING, AND 
+COMMUNICATION 
+A. 
+B. 
+Monitoring 
+Reporting 
+VIII.  ANTICORRUPTION POLICY 
+IX. 
+X. 
+ACCOUNTABILITY MECHANISM 
+RECORD OF CHANGES TO THE ACTIVITY ADMINISTRATION MANUAL 
+1 
+2 
+2 
+3 
+4 
+5 
+5 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+11 
+13 
+14 
+15 
+16 
+16 
+16 
+16 
+17 
+17 
+18 
+18 
+19 
+19 
+20 
+20 
+21 
+21 
+22 
+23 
+Activity Administration Manual Purpose and Process 
+1.  The  activity  administration  manual  (AAM)  for  an  activity  subgrant  under  a  small  expenditure 
+financing facility (SEFF) is an abridged version of the regular AAM of the Asian Development 
+Bank  (ADB)  and  describes  the  essential  administrative  and  management  requirements  to 
+implement  the  SEFF  Activity  on  time,  within budget,  and  in accordance with  the  policies and 
+procedures of the government  and  ADB. The  AAM  should include references  to all  available 
+templates and instructions either through linkages to relevant URLs or directly incorporated in 
+the AAM.  
+2.  The Ministry of Finance as the borrower/recipient and the Department of Drinking Water Supply 
+and Sewerage Development (DDWSSD) under the State Agency for Water Resources under 
+the Government of the Kyrgyz Republic as the activity executing agency are wholly responsible 
+for the activity subgrant, as agreed jointly between the borrower and ADB, and in accordance 
+with  the  policies  and  procedures  of  the  government  and  ADB.  ADB  staff  is  responsible  for 
+supporting  implementation  including  compliance  by  the  Ministry  of  Finance  and  DDWSSD  of 
+their obligations and responsibilities for SEFF Activity implementation in accordance with ADB’s 
+policies and procedures. 
+3.  The borrower and ADB shall agree to the AAM and ensure consistency with the short form legal 
+agreement. In the  event  of  any  discrepancy  or  contradiction  between the  AAM  and the grant 
+agreement, the provisions of the grant agreement shall prevail. 
+4.  After  ADB’s  management  approval  of  the  activity  subgrant  summary  report,  changes  in 
+implementation  arrangements  are  subject  to  agreement  and  approval  pursuant  to  relevant 
+government  and  ADB  administrative  procedures  (including  the  Project  Administration 
+Instructions) and upon such approval, they will be subsequently incorporated in the AAM. 
+The key  implementation  activities,  including  monthly  or quarterly  small  expenditure financing facility  (SEFF)  implementation 
+1. 
+activities,  are  updated  annually  and  submitted  to  the  Asian  Development  Bank  (ADB)  with  updated  contract  and  disbursement 
+projections for the following year. The implementation schedule is prepared per subgrant activity (Table 1).  
+I. 
+IMPLEMENTATION PLANS 
+Table 1: Implementation Schedule  
+2019 
+2022 
+1  2  3  4  1  2  3  4  1  2  3  4  1  2  3  4  1  2  3  4  1  2  3  4  1  2  3  4 
+2020 
+2021 
+2023 
+2024 
+2025 
+Indicative Activities 
+A. Design and Monitoring Framework 
+Output 3 – Project Sustainability Enhanced 
+1. Chlorine Neutralization Unit at Osh-Plotina Water 
+Treatment Plant 
+  Construction 
+  Commissioning 
+B. Management Activities 
+1.  Procurement of Civil Works 
+Detailed-design bid document preparation and approval 
+Invitation to bid and bid period 
+Issue invitation to bid to first civil works 
+Bid evaluation and ADB/Government approvals 
+Contract negotiation and award 
+Construction works 
+Commissioning 
+Operation and maintenance 
+C. Other Implementation Plans 
+Submission of quarterly progress report 
+Submission of annual audit report 
+Annual/Midterm Reviews 
+Submission of PCR 
+ADB = Asian Development Bank, PCR = project completion report. 
+Source: Asian Development Bank. 
+2 
+II. 
+PROJECT MANAGEMENT ARRANGEMENTS 
+A. 
+Project Implementation Organizations: Roles and Responsibilities 
+Table 2: Project Implementation Roles and Responsibilities  
+Project Implementation 
+Organizations 
+Recipient 
+Ministry of Finance 
+Implementing agencya 
+Department of Drinking 
+Water Supply and 
+Sewerage Development 
+under the State Agency 
+for Water Resources 
+under the Government of 
+the Kyrgyz Republic  
+Project Management 
+Office 
+Project Manager 
+Financial Manager 
+Procurement Specialist 
+Environment Specialist, 
+as needed 
+Social Safeguards 
+Specialist, as needed 
+ADB 
+Management Roles and Responsibilities 
+•  Ensure overall oversight of the facility and SEFF Activity subgrant 
+projects 
+•  Approve and request subsequent SEFF Activity subgrant projects 
+•  Facilitate interagency coordination   
+•  Appoint competent staff for the SEFF Activity subgrant project (Osh-
+Plotina chlorine neutralization unit) 
+•  Ensure good coordination with Ministry of Finance for adequate 
+allocation of annual budget for the project 
+•  Provide office space for the project 
+•  Provide project management, technical and institutional support for the 
+SEFF Activity subgrant project 
+•  Conduct reviews, and approve detailed engineering designs and 
+estimates for the output-based contract 
+•  Responsible and accountable for financial management and use of the 
+funds for Advance Account and SOE procedure 
+•  Carry out periodic construction supervision and quality audit of the civil 
+works contracts 
+•  Guide, support, and monitor Project Management Office in 
+implementing SEFF Activity subprojects 
+•  Prepare withdrawal applications for the SEFF Activity subgrant project 
+•  Manage the day-to-day project implementation activities 
+•  Act as focal point for communications with ADB on project related 
+matters 
+•  Liaise with different division of DDWSSD on project implementation 
+•  Procure works and goods and administer works and goods contracts 
+•  Make payments for eligible activities performed under the scope of the 
+SEFF Activity subgrant project 
+•  Monitor and promptly address complaints and ensure their effective 
+and adequate resolution 
+•  Establish adequate financial management system and submit timely 
+withdrawal applications to ADB 
+•  Responsible and accountable for financial management and use of the 
+funds for Advance Account and SOE procedure 
+•  Prepare periodic progress reports identifying issues and action plans 
+and ensure their timely submission to ADB 
+•  Submit quarterly reports to ADB in agreed format 
+•  Implement, monitor, and prepare reports on gender action plan, initial 
+environment examination, environmental management plan, and land 
+acquisition and resettlement plan 
+•  Prepare and submit progress reports to ADB, as outlined in the activity 
+administration manual 
+•  Conduct field review missions, special project administration mission (if 
+required), midterm review mission, and project completion review 
+missions to assess project implementation progress and compliance of 
+grant covenants 
+3 
+Project Implementation 
+Organizations 
+Management Roles and Responsibilities 
+•  Review implementing agency’s submissions for procurement of goods, 
+civil works, and services and provide comments and no objection on 
+the submissions 
+•  Check statement of expenditure and disburse the grant funds as 
+agreed in grant agreement and activity administration manual 
+ADB  =  Asian  Development  Bank,  DDWSSD  =  Department  of  Drinking Water  Supply  and  Sewerage  Development, 
+SEFF = small expenditure financing facility, SOE = statement of expenditure. 
+a   Referred as Activity Executing Agency under the Activity Sub-Grant Agreement. 
+Source: Asian Development Bank. 
+B. 
+Project Organization Structure 
+Figure 1. Project Organization Structure 
+Asian Development 
+Bank 
+Grant Agreement 
+Ministry of Finance 
+(Borrower/Recipient) 
+(on behalf of the Government) 
+Department of Drinking Water Supply and 
+Sewerage Development  
+under the  
+State Agency for Water Resources  
+Project Management Office 
+supported by DSWSSD Consultants 
+Contractors  
+Construction 
+Supervision 
+Consultants 
+Consultants 
+4 
+Figure 2. Implementing Agency Structure 
+State Agency for Water Recourses under the  
+Government of Kyrgyz Republic   
+Chui Basin  Water  
+Management   
+Talas Basin Water  
+Management   
+7  head   departments  
+of water  
+management and  
+inter - rayon channels   
+Department of  
+Drinking Water  
+Supply and  
+Sewerage  
+Development   
+Issyk - Kul -   Tarim  
+Basin Water  
+Management   
+Naryn - Syrdar’ya  
+Basin Water  
+Management   
+40 rayon  units   of  
+water management   
+Melioration  and  
+Hydrogeological  
+Expedition   
+Management for the  
+construction of  
+water facilities   
+Self - supporting  
+enterprise of the  
+D esign engineering  
+institute   “Water  
+automation and  
+metrology”   
+Kara - Dar’ya - Syr - 
+Dar’ya - Amudar’ya  
+Basin Water  
+Management   
+5 departments for  
+water reservoir  
+management   
+Project  
+Implementation unit   
+Information Center  
+on Water   
+C. 
+Key Persons Involved in Implementation  
+Recipient for Facility 
+Ministry of Finance 
+Asian Development Bank 
+Urban Development and Water 
+Division (CWUW) 
+Mission Leader 
+Officer's Name: Bakyt Sadykov  
+Position: Head of International Cooperation Department, 
+Ministry of Finance 
+Telephone: + 996 312 625074 
+Email address: minfin@minfin.kg  
+Office Address: 58 Erkindik Boulevard, Bishkek, 720040 
+Kyrgyz Republic 
+Staff Name: Yong Ye 
+Position: Director, CWUW  
+Telephone No.: +63 2 632 6346 
+Email address: yyong@adb.org 
+Staff Name: Cesar Emilio Llorens Alvarez 
+Position: Senior Urban Development Specialist, CWUW  
+Telephone No.: +63 2 632 4470 
+Email address: cllorens@adb.org 
+5 
+Implementation Agency for 
+SEFF Subgrant Activity 
+Department of Drinking Water 
+Supply and Sewerage 
+Development 
+Project Management Office for 
+SEFF Subgrant Activity 
+Department of Drinking Water 
+Supply and Sewerage 
+Development 
+Asian Development Bank 
+Urban Development and Water 
+Division (CWUW) 
+Mission Leader 
+Officer's Name: Askarbek Toktoshev 
+Position: Director 
+Telephone: +996312610305; +996312610336 
+Email address: toktoshevv53@mail.ru  
+Office Address: 28 Manas Street, Bishkek, Kyrgyz 
+Republic 
+Officer's Name: Askarbek Toktoshev 
+Position: Director 
+Telephone: +996312610305; +99631261033 
+Email address: toktoshevv53@mail.ru 
+Office Address: 28 Manas Street, Bishkek, Kyrgyz 
+Republic 
+Staff Name: Yong Ye 
+Position: Director, CWUW  
+Telephone No.: +63 2 632 6346 
+Email address: yyong@adb.org  
+Staff Name: Cesar Emilio Llorens Alvarez 
+Position: Senior Urban Development Specialist, CWUW 
+Telephone No.: +63 2 632 4470 
+Email address: cllorens@adb.org  
+III. 
+COSTS AND FINANCING 
+A. 
+Cost Estimates Preparation and Revisions  
+2. 
+The  cost  estimates  have  been  prepared  in  July  2019  based  on  market  prices  for  civil 
+works. The cost estimates will be updated upon finalization of the detailed engineering design of 
+the chlorine neutralization unit at Osh-Plotina water treatment plant (WTP) civil works package in 
+October 2019. 
+B. 
+3. 
+Key Assumptions 
+The following key assumptions underpin the cost estimates and financing plan: 
+(i) 
+Price contingencies used an average of 1.6% on foreign exchange costs and 4.4% 
+on  local  currency  costs  and  include  provisions  for  potential  exchange  rate 
+fluctuations under the assumption of a purchasing power parity exchange rate. The 
+exchange rate used as of 13 August 2019 is Som69.8367= $1.00.  
+Price contingencies and exchange rates based on expected cumulative inflation 
+over the implementation period are as follows: 
+(ii) 
+6 
+Table 3: Escalation and Exchange Rates for Price Contingency Calculation 
+2021 
+Item 
+ 2022 
+2024 
+2023 
+2020 
+2019 
+Average 
+Escalation Rates (%) 
+Foreign rate of price inflation 
+Domestic rate of price 
+inflation 
+Exchange Rates (Som) 
+Rates actually used 
+Source: Asian Development Bank. 
+1.5% 
+3.0% 
+1.5% 
+3.5% 
+1.6% 
+5.0% 
+1.6% 
+5.0% 
+1.6% 
+5.0% 
+1.6% 
+5.0% 
+1.6% 
+4.4% 
+69.3 
+71.5 
+74.0 
+76.4 
+79.0 
+81.6 
+75.3 
+C. 
+Allocation and Withdrawal of Grant Proceeds  
+Table 4: Allocation and Withdrawal of Grant Proceeds for First Activity 
+Number 
+1 
+Item 
+Civil works, equipment and consulting 
+services 
+Total 
+Total Amount 
+Allocated for ADB 
+Financing ($) 
+500,000 
+500,000 
+Basis for Withdrawal from the 
+Grant Account 
+100.00% of total expenditure 
+claimed* 
+* Exclusive of taxes and duties for all items imposed within the territory of the recipient. 
+Source: Asian Development Bank. 
+7 
+D. 
+Detailed Cost Estimates by Expenditure Category  
+Table 5: Detailed Cost Estimates by Financier (Chlorine Neutralization Unit at Osh-Plotina Water Treatment Plant) 
+Item 
+A.  Consulting Services  
+1.  Consultants 
+2.  Surveys 
+3.  Equipment 
+Subtotal (A) 
+B.  Recurrent Costs (Post-implementation) 
+1.  Salaries 
+2.  Accommodation 
+Subtotal (B) 
+C.  Works and Goods (Post Implementation) 
+1.  Civil works 
+2.  Goods 
+3.  Equipment 
+Subtotal (C) 
+Total Base Cost  
+D.  Contingencies 
+E.  Financial Charges During Implementation 
+ADB = Asian Development Bank.  
+Note: Numbers may not sum precisely because of rounding. 
+Total Sub-Project Cost  
+ADB Grant 
+Government 
+Total Cost 
+Amount 
+% of Cost 
+Category 
+Amount 
+% of  
+Cost 
+Category 
+Amount 
+Taxes and 
+Duties 
+0.04 
+0.00 
+0.00 
+0.04 
+0.00 
+0.00 
+0.00 
+0.00 
+0.36 
+0.00 
+0.00 
+0.36 
+0.40 
+0.10 
+0.00 
+0.50 
+80.00 
+0.00 
+0.00 
+80.00 
+0.00 
+0.00 
+0.00 
+0.00 
+80.00 
+0.00 
+0.00 
+80.00 
+80.00 
+20.00 
+0.00 
+80.00 
+0.01 
+0.00 
+0.00 
+0.01 
+0.00 
+0.00 
+0.00 
+0.00 
+0.09 
+0.00 
+0.00 
+0.09 
+0.10 
+0.025 
+0.00 
+0.125 
+20.00 
+0.00 
+0.00 
+20.00 
+0.00 
+0.00 
+0.00 
+0.00 
+20.00 
+0.00 
+0.00 
+20.00 
+20.00 
+20.00 
+0.00 
+20.00 
+0.05 
+0.00 
+0.00 
+0.05 
+0.00 
+0.00 
+0.00 
+0.00 
+0.45 
+0.00 
+0.00 
+0.45 
+0.50 
+0.125 
+0.00 
+0.625 
+0.01 
+0.00 
+0.00 
+0.01 
+0.00 
+0.00 
+0.00 
+0.00 
+0.09 
+0.00 
+0.00 
+0.09 
+0.10 
+0.025 
+0.00 
+0.125 
+8 
+E. 
+Detailed Cost Estimates by Year 
+Table 6: Detailed Cost Estimates by Year 
+($ million) 
+Item 
+A.  Consulting Services  
+1.  Consultants 
+2.  Surveys 
+3.  Equipment 
+Subtotal (A) 
+B.  Good, Works and Services (Post-Implementation) 
+1.  Civil works 
+2.  Goods 
+3.  Equipment 
+Subtotal (B) 
+C.  Recurrent Costs (Post-Implementation) 
+1.  Salaries 
+2.  Accommodation 
+Subtotal (C) 
+D.  Pilot-testing (Post-Implementation) 
+1.  Civil Works 
+2.  Goods 
+3.  Equipment 
+Subtotal (D) 
+Total Base Cost 
+E.  Contingencies 
+F.  Financial Charges During Implementation 
+Total 
+Cost  Year 1  Year 2  Year 3  Year 4  Year 5 
+0.04 
+0.00 
+0.00 
+0.04 
+0.00 
+0.00 
+0.04 
+0.00 
+0.00 
+0.04 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.36 
+0.00 
+0.00 
+0.36 
+0.40 
+0.10 
+0.00 
+0.00 
+0.00 
+0.00 
+0.36 
+0.00 
+0.00 
+0.36 
+0.40 
+0.10 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+Total Project Cost (A+B+C+D+E) 
+0.50 
+0.50 
+0.00 
+0.00 
+0.00 
+0.00 
+Note: Numbers may not sum precisely because of rounding. 
+Source: Asian Development Bank. 
+F. 
+Contract and Disbursement S-Curve 
+Table 7 and Figure 3 show quarterly contract awards and disbursement projections over 
+4. 
+the life of the project. 
+Table 7: Contract Award and Disbursement Projections for Chlorine Neutralization 
+Unit at Osh-Plotina Water Treatment Plant 
+9 
+Contract Awards ($ million) 
+Q1 
+0.500 
+4. 
+Q2 
+0.000 
+Q3 
+0.000 
+Q4 
+0.000 
+Year 
+2020 
+Total 
+                           Source: Asian Development Bank. 
+Disbursements ($ million) 
+Q1 
+0.140 
+5. 
+Q2 
+0.135 
+Q3 
+0.135 
+Q4 
+0.090 
+Year 
+2020 
+Total 
+                           Source: Asian Development Bank. 
+Total 
+0.500 
+0.500 
+Total 
+0.500 
+0.500 
+Figure 3. Indicative Contract and Disbursement S-Curve 
+0.60
+0.50
+0.40
+0.30
+0.20
+0.10
+0.00
+Q4 2019
+Q1 2020
+Q2 2021
+Q3 2020
+Q4 2020
+Disbursements
+Contract Awards
+10 
+G. 
+5. 
+Fund Flow Diagram 
+The fund flow diagram can be seen below in Figure 4. 
+Figure 4: Project Funds Flow Arrangements 
+5b 
+Direct payment 
+by ADB 
+ADB 
+Ministry of 
+Finance 
+(Recipient) 
+5a 
+Withdrawal 
+Applications for 
+Advance & 
+Replenishments  
+Replenishment 
+of the Advance 
+Account 
+DDWSSD 
+(IA)a 
+Withdrawal 
+Applications  for 
+Direct Payment  
+4 
+Contracts 
+1 
+PMO  
+Certification 
+of IPCs and 
+Invoices 
+Invoice 
+IPCs 
+Contractors 
+Document flow 
+2 
+Funds flow 
+3 
+ADB = Asian Development Bank, DDWSSD = Department of Drinking Water Supply and Sewerage Development, EA 
+= executing agency, IA = implementing agency, IPC = interim payment certificate, PMO = project management office.  
+a   Referred as Activity Executing Agency under the Activity Sub-Grant Agreement. 
+11 
+IV. 
+FINANCIAL MANAGEMENT FOR ACTIVITY SUBGRANT1 
+6. 
+The DDWSSD within the State Agency for Water Resources under the Government of the 
+Kyrgyz Republic will be the implementing agency (IA). A Project Management Office (PMO) will 
+be established to manage day-to-day project implementation. Reporting directly to the DDWSSD, 
+the PMO’s responsibilities will include procurement, contract and financial management, project 
+administration, and safeguards compliance and reporting. The IA will be responsible for project 
+and safeguards compliance coordination. 
+A. 
+Financial Management Assessment for SEFF Activity  
+7. 
+The project financial management assessment (FMA) was conducted in June 2018 for the 
+Issyk-Kul Wastewater Management Project (50176-002) with same Implementing agency (IA) in 
+accordance with ADB’s Guidelines for the Financial Management and Analysis of Projects and 
+the Financial Due Diligence: A Methodology Note. The FMA considered the capacity of DDWSSD, 
+including funds-flow arrangements, staffing, accounting and financial reporting systems, financial 
+information systems,  internal  and  external  auditing  arrangements,  and  the  use  of statement  of 
+expenditure (SOE) procedures with the terms described. The financial management risk for the 
+implementing  agency  for  the  first  activity  is  substantial.  Mitigating  measures  have  been 
+incorporated under the approved Issyk-Kul Wastewater Management Project that will ensure that 
+the Department of Drinking Water Supply and Sewerage Development has (i) adequate staff to 
+handle  project  financial  management,  although  they  are  unfamiliar  with  ADB’s  disbursement 
+guidelines  and  procedures;  (ii)  an  adequate  accounting  system  that  integrates  project-specific 
+accounting, budgeting, auditing, and reporting requirements; on top of (iii) the experience as an 
+executing  agency  for  projects  financed  by  other  international  financial  institutions,  with 
+responsibilities for grant disbursements and advance account management; and (iv) capacity for 
+internal  audit.  The  financial  management  action  plan  (FMAP)  set  on  the  June  2018  financial 
+management  assessment,  is  in progress,  consultants  are being recruited,  and by  the  time the 
+SEFF becomes effective, capacity is expected to be in place and short-term initial action to be 
+implemented.  
+8. 
+The key identified financial management risks are in the areas of (i) staffing, (ii) internal 
+audit, (iii) external audit, and (iv) reporting and monitoring. The FMAP discussed with the EA and 
+the IA and its PMO addresses these risk areas is in Table 8.  
+Risk Description 
+Implementing Entity 
+Failure to report or 
+delays in reporting 
+suspected fraud, waste 
+or misuse of project 
+resources or assets 
+Fund Flow 
+Misunderstanding and 
+misinterpretation of 
+ADB’s guidelines on 
+disbursement and 
+withdrawals of the grant 
+proceeds 
+Table 8:  Financial Management Action Plan 
+Risk 
+Rating 
+Substantial 
+Action 
+Period 
+Responsible  
+Agency 
+Prepare and submit monitoring 
+reports on suspected fraud, 
+waste or misuse of project 
+resources or assets 
+Quarterly, 
+beginning end 
+of Q4 2019 
+DDWSSD/MOF 
+(Chamber of 
+Accounts)/ 
+PMO 
+Substantial 
+Provide online and on-the-job 
+training on ADB disbursement 
+and payment procedures using 
+an advance account to 
+DDWSSD/PMO 
+On-line 
+training:  
+Before project 
+start up at Q3 
+2019  
+On-the-job 
+training: 
+ADB/DDWSSD/PMO 
+1   This section does not need to show preceding SEFF activities.  
+12 
+Substantial 
+Staffing 
+Inadequate number of 
+staff and insufficient 
+knowledge and 
+understanding of ADB’s 
+disbursement policies 
+and procedures  
+Accounting Policies 
+and Procedures 
+Inadequate project 
+accounting and financial 
+reporting system  
+Moderate 
+Budgeting 
+Inability of the IAs to 
+develop realistic budget 
+and raise counterpart 
+funds 
+Moderate 
+Internal audit  
+Absence of internal audit 
+unit 
+Substantial 
+The PMO will be involved in the 
+preparation of supporting 
+documents for grant withdrawal 
+applications so they will also be 
+provided with online and on-the-
+job training on ADB 
+disbursement and payment 
+procedures 
+DDWSSD to recruit and/or 
+appoint additional staff to handle 
+project financial management in 
+the PMO to be established 
+under the project 
+ADB to facilitate training on 
+ADB’s disbursement policies 
+and procedures2  
+Configure the accounting 
+system of SAWR/DDWSSD to 
+incorporate project-specific 
+accounting and financial 
+reporting, training, and 
+monitoring.  
+Prepare and issue budgeting 
+policies and procedures for 
+requesting the counterpart 
+funding contribution of the 
+government for the project 
+promptly and accurately   
+SAWR to assign an internal 
+auditor from its Internal Audit 
+Unit to the PMO 
+DWSSD/PMO to prepare and 
+agree on a project work plan for 
+internal audit 
+SAWR/DDWSSD to agree on a 
+work plan for the internal audit of 
+the financial statements (FS) 
+and transactions throughout the 
+project implementation period   
+DDWSSD/ 
+ADB 
+ADB/DDWSSD/PMO 
+Beginning Q3 
+2019 
+On-line 
+training:  
+Quarterly 
+beginning Q3 
+2019  
+On-the-job 
+training: 
+Beginning Q3 
+2019 
+At project start-
+up, Q3 2019 
+through to 
+project 
+completion, Q4 
+2024 
+At project start 
+up, Q3 2019 
+ADB/DDWSSD/ 
+PMO 
+Before project 
+start up, by Q3 
+2019 
+MOF/DDWSSD/ 
+PMO/ 
+At project start-
+up, Q3 2019 
+through to 
+project 
+completion, Q4 
+2024 
+By Q3 2019 
+SAWR/ 
+DDWSSD/PMO 
+MOF/Chamber of 
+Accounts/ 
+DDWSSD/PMO and 
+ADB 
+MOF/Chamber of 
+Accounts/ 
+DDWSSD/PMO 
+ADB 
+Substantial 
+External audit 
+Delayed audit process 
+and submission of 
+audited financial 
+statements in 
+accordance with the 
+grant agreement  
+For the external audit of the 
+DDWSSD financial statements, 
+MOF/SAWR (DDWSSD) to 
+agree on a timetable with the 
+State Chamber of Accounts 
+Arrangements will be made by 
+DDWSSD/PMO for the annual 
+external audits of the project 
+financial statements and entity 
+For the 
+external audits 
+during the 
+project 
+implementation 
+period, 
+annually by Q1 
+of the following 
+year   
+2   ADB to provide the ADB Handbook on Financial Management and Loan Disbursement Handbook to facilitate training 
+and capacity development.   
+13 
+Substantial 
+Reporting and 
+Monitoring   
+Delay in submission of 
+audited financial reports 
+and non-compliance 
+with government 
+requirements and with 
+international public 
+accounting standards 
+financial statements of the 
+DDWSSD.   
+Configure the accounting 
+systems of SAWR/DDWSSD for 
+project financial reporting, 
+training, and monitoring  
+Conduct formal training and on-
+the-job training on the project 
+accounting system in 
+accordance with an agreed 
+training program  
+DDWSSD/PMO 
+ADB 
+During project 
+start-up, by Q3 
+2019, through 
+to project 
+completion, 
+2024 
+Moderate 
+Management 
+Information Systems 
+Lack of appropriate 
+safeguards or security 
+system measures to 
+protect records and 
+transactions in the 
+electronic MIS 
+ADB = Asian Development Bank, DDWSSD = Department of Drinking Water Supply and Sewerage Development, IA 
+=  implementing  agency,  MIS  =  management  information  systems,  MOF  =  Ministry  of  Finance,  PMO  =  project 
+management office, Q = quarter.  
+Configure the accounting 
+systems of SAWR/DDWSSD 
+with features that appropriately 
+safeguard and secure the 
+confidentiality and integrity of 
+the data in the system 
+DDWSSD/PMO 
+ADB 
+By Q3 2019 
+B. 
+Disbursement 
+1. 
+Disbursement Arrangements for ADB Funds 
+The  SEFF  Activity  grant  proceeds  will  be  disbursed  in  accordance  with  ADB’s  Loan 
+9. 
+Disbursement  Handbook  (2017,  as  amended  from  time  to  time),3  and  detailed  arrangements 
+agreed upon between the government and ADB. Online training for project staff on disbursement 
+policies and procedures is available.4 Project staff are encouraged to avail of this training to help 
+ensure efficient disbursement and fiduciary control. 
+Advance fund procedure. Separate advance account will be established and maintained 
+10. 
+by IA at a commercial bank to facilitate disbursements. The currency of the advance account is 
+the United States dollar. The advance account is to be used exclusively for ADB’s share of eligible 
+expenditures. The borrower/EA is accountable and responsible for appropriate bank selection for 
+the  advance  account.  The  IA  who  administers  the  advance  account  is  accountable  and 
+responsible for proper use of advances to the advance account. IA will establish the account in 
+its name and shall be accountable and responsible for proper use of advances to the advance 
+account.  
+11. 
+The total outstanding advance to the advance account should not exceed the estimate of 
+ADB’s  share  of  expenditures  to  be  paid  through  the  advance  account  for  the  forthcoming  6 
+months.  The  ADB’s  project  team  responsible  for  activity  administration  will  review  the 
+reasonableness of the 6-month estimates provided by IA. The PMO under IA administering the 
+advance account may request for initial and additional advances to the advance account based 
+on an estimate of expenditure sheet setting out the estimated expenditures to be financed through 
+3   The handbook is available electronically from the ADB website (http://www.adb.org/documents/ loan-disbursement-
+handbook 
+4   Disbursement eLearning. http://wpqr4.adb.org/disbursement_elearning  
+14 
+the account for the forthcoming 6 months.5 Supporting documents should be submitted to ADB or 
+retained by the IA in accordance with ADB’s Loan Disbursement Handbook (2017, as amended 
+from time to time) when liquidating or replenishing the advance account. 
+Statement of expenditure procedure for SEFF Activity.6 The SOE procedure may be 
+12. 
+used  for  reimbursement  of  eligible  expenditures  or  liquidation  of  advances  to  the  advance 
+account(s).  Supporting  documents  and  records  for  the  expenditures  claimed  under  the  SOE 
+should be maintained and made readily available for review by ADB's disbursement and review 
+missions, upon ADB's request for submission of supporting documents on a sampling basis, and 
+for independent audit. Any individual payments to be reimbursed or liquidated under SOE will not 
+exceed  the  equivalent  of  $200,000.  Reimbursement  and  liquidation  of  individual  payments  in 
+excess  of  the  SOE  ceiling  should  be  supported  by  full  documentation  when  submitting  the 
+withdrawal application to ADB. 
+13. 
+Before  the  submission  of  the  first  withdrawal  application  for  an  activity,  the  borrower 
+should  submit  to  ADB  sufficient  evidence  of  the  authority  of  the  person(s)  who  will  sign  the 
+withdrawal applications on behalf of the government, together with the authenticated specimen 
+signatures of each authorized person. The minimum value per withdrawal application is stipulated 
+in the Loan Disbursement Handbook (2017, as amended from time to time). Individual payments 
+below such amount should be paid (i) by the implementing agency and subsequently claimed to 
+ADB  through  reimbursement,  or  (ii)  through  the  advance  fund  procedure,  unless  otherwise 
+accepted  by  ADB.  The  borrower  should  ensure  sufficient  category  and  contract  balances  before 
+requesting disbursements. Use of ADB’s Client Portal for Disbursements system is encouraged for 
+submission of withdrawal applications to ADB.7   
+14. 
+Direct payment procedure. The PMO will submit direct payment withdrawal application 
+to ADB if the PMO could not pay the invoice from the advance account due to specific reasons 
+outside the control of the PMO. 
+2. 
+Disbursement Arrangements for Counterpart Fund 
+15. 
+The PMO will be responsible for (i) preparing disbursement projections, and (ii) requesting 
+budgetary allocations for counterpart funds. If the government will finance local taxes and duties 
+under the project, describe how the government will exempt, or provide funds to pay, such local 
+taxes  and  duties.  See  Appendixes  4C  of  ADB’s  Loan  Disbursement  Handbook  (2017,  as 
+amended from time to time) for further guidance on the proper presentation of local taxes and 
+duties  financing  in  the  detailed  cost  estimate  by  financier  and  allocation  table  in  the  grant 
+agreement. 
+C. 
+Accounting 
+16. 
+The implementation agency will maintain, or cause to be maintained, separate books and 
+records by funding source for all expenditures incurred under the activity following accrual-based 
+accounting following the equivalent national accounting standards. The implementation agency 
+5  Estimate  of  Expenditure  sheet  is  available  in  Appendix  8A  of  ADB’s  Loan  Disbursement  Handbook  (2017,  as 
+amended from time to time).  
+6   SOE forms are available in Appendix 7B and 7D of ADB’s Loan Disbursement Handbook (2017, as amended from 
+time to time). 
+7   The CPD facilitates online submission of withdrawal application to ADB, resulting in faster disbursement. The forms 
+to be completed by the Borrower are available online at https://www.adb.org/documents/client-portal-disbursements-
+guide.     
+15 
+will  prepare  consolidated  project  financial  statements  for  the  activity  in  accordance  with  the 
+government's accounting laws and regulations which are consistent with international accounting 
+principles and practices. 
+The implementing agency will maintain separate accounts and records by funding source 
+17. 
+for  all  expenditures  incurred  within  the  activity,  following  either  cash  or  accrual  basis  of 
+accounting. The activity accounts will follow international accounting standards. 
+D. 
+Auditing and Public Disclosure 
+18. 
+The implementing agency will cause the detailed activity financial statements to be audited 
+in accordance with International Standards on Auditing, by an independent auditor acceptable to 
+ADB. The audited financial statements together with the auditor’s opinion will be presented in the 
+English language to ADB within 6 months from the end of the fiscal year by the EA.  
+19. 
+The audited entity financial statements, together with the auditor’s report and management 
+letter, will be submitted in the English language to ADB within 1 month after their approval by the 
+relevant authority. 
+20. 
+The audit report for the activity financial statements will include a management letter and 
+auditor’s opinions, which cover (i) whether the project financial statements present an accurate 
+and fair view or are presented fairly, in all material respects, in accordance with the applicable 
+financial  reporting  standards;  (ii)  whether  the  proceeds  of  the  grant  were  used  only  for  the 
+purpose(s) of the activity; and (iii) whether the borrower, EA, or IA was in compliance with the 
+financial covenants contained in the short form agreements (where applicable). 
+21. 
+Compliance with financial reporting and auditing requirements will be monitored by review 
+missions and during normal program supervision, and followed up regularly with all concerned, 
+including the external auditor.  
+27. 
+The  government,  Ministry  of  Finance,  and  DDWSD  have  been  made  aware  of  ADB’s 
+approach to delayed submission, and the requirements for satisfactory and acceptable quality of 
+the audited project financial statements.8 ADB reserves the right to require a change in the auditor 
+(in  a  manner  consistent  with  the  constitution  of  the  borrower),  or  for  additional  support  to  be 
+provided to the auditor, if the audits required are not conducted in a manner satisfactory to ADB, 
+or if the audits are substantially delayed. ADB reserves the right to verify the activity's financial 
+accounts to confirm that the share of ADB’s financing is used in accordance with ADB’s policies 
+and procedures.  
+8   ADB’s approach and procedures regarding delayed submission of audited project financial statements:  
+(i)  When audited project financial statements are not received by the due date, ADB will write to the  EA advising 
+that (a) the audit documents are overdue; and (b) if they are not received within the next 6 months, requests for 
+new  contract  awards  and  disbursement  such as new  replenishment  of advance  accounts,  processing  of  new 
+reimbursement, and issuance of new commitment letters will not be processed. 
+(ii)  When audited project financial statements are not received within 6 months after the due date, ADB will withhold 
+processing  of  requests  for  new  contract  awards  and  disbursement  such  as  new  replenishment  of  advance 
+accounts, processing of new reimbursement, and issuance of new commitment letters. ADB will (a) inform the 
+executing agency of ADB’s actions; and (b) advise that the loan may be suspended if the audit documents are 
+not received within the next 6 months. 
+(iii) When  audited  project  financial  statements  are  not  received  within  12  months  after  the  due  date,  ADB  may 
+suspend the loan. 
+16 
+Public disclosure of the audited financial statements, including the auditor’s opinion on the 
+28. 
+financial statements, will be guided by ADB’s Access to Information Policy.9 After the review, ADB 
+will  disclose  the  audited  financial  statements  and  the  opinion  of  the  auditors  on  the  financial 
+statements no later than 14 days of ADB’s confirmation of their acceptability by posting them on 
+ADB’s website. The management letter, additional auditor’s opinions, and audited entity financial 
+statements will not be disclosed.10 
+V. 
+PROCUREMENT AND CONSULTING SERVICES 
+A. 
+Advance Contracting  
+29. 
+All  advance  contracting  will  be  undertaken  in  conformity  with  ADB  Procurement  Policy 
+(2017, as amended from time to time) and Procurement Regulations for ADB Borrowers (2017, 
+as amended from time to time). The issuance of invitations to bid under advance contracting will 
+be subject to ADB approval. The recipient and IA have been advised that approval of advance 
+contracting does not commit ADB to finance the project. 
+30. 
+Advance contracting will be applicable for Osh-Plotina chlorine neutralization unit and the 
+steps  to  be  concluded  in  advance  will  include  (i)  tendering  and  bid  evaluation  for  civil  works 
+packages;  (ii)  preparation  of  tender  documents  to  procure  materials  and  equipment;  and  (iii) 
+evaluation of bids. 
+B. 
+Procurement of Goods, Works, and Consulting Services 
+Procurement  (including  consulting  services)  to  be  financed  by  ADB  will  follow  ADB’s 
+31. 
+Procurement Policy (2017, as amended from time to time) and Procurement Regulations for ADB 
+Borrowers (2017, as amended from time to time).  
+Project procurement risk assessment has been undertaken for the Issyk-Kul Wastewater 
+32. 
+Management Project (50176-002) having the same EA and IA as the first activity less than 18 
+months  before  the  approval  of  this  activity.  The  overall  procurement  risk  assessment  is 
+“substantial.”   
+Open competitive bidding advertised international will be used for the procurement of civil 
+33. 
+works for Osh-Plotina chlorine neutralization unit, as indicated in the procurement plan.  
+C. 
+Procurement Plan 
+34. 
+The first procurement plan is indicated as below. The procurement plan will be updated 
+by  the  Ministry  of  Finance  for  approval  by  ADB,  at  least  annually,  and  more  frequently  if 
+necessary,  and  should  cover  the  next  18  months  of  procurement  activity.  A  delay  in  grant 
+effectiveness,  other  start-up  delays,  and  delays  during  implementation  will  require  an 
+unscheduled procurement plan update. ADB will review each updated procurement plan prior to 
+its  publication.  The  estimated  package  cost  in  the  procurement  plan  is  inclusive  of  taxes  and 
+duties.  
+9   ADB. 2018. Access to Information Policy. Manila.  
+10  ADB.  2011.  Public  Communications  Policy.  Manila  (para.  97(iv)  and/or  97(v)).  This  type  of  information  would 
+generally fall under public communications policy exceptions to disclosure. 
+Procurement Plan 
+Basic Data 
+17 
+Project Name: Osh-Plotina Water Treatment Plant Chlorine Neutralization Unit Activity 
+Project Number: 52256-003 
+Country: Kyrgyz Republic 
+Project Procurement Classification: B 
+Approval Number: 
+Borrower/Recipient: Ministry of Finance  
+Implementing Agency: State Agency for 
+Water Resources – Department of Drinking 
+Water Supply and Sewerage Development 
+Procurement Risk: Moderate 
+Project Financing Amount: $625,000 
+ADB Financing: $500,000 
+Cofinancing (ADB Administered): None 
+Non-ADB Financing: $125,000 
+Date of First Procurement Plan: 25 June 2019  
+Project Closing Date: 30 May 2022 
+Date of this Procurement Plan: July 2019 
+Procurement Plan Duration: 18 months  
+Advance contracting: Yes  
+eGP: No 
+D. 
+Methods, Review, and Procurement Plan 
+Except  as  the  ADB  may  otherwise  agree,  the  following  methods  shall  apply  to 
+35. 
+procurement of goods, works, non-consulting services, and consulting services.  
+Open competitive bidding (OCB) with 
+international advertising for works  
+Procurement of Goods, Works, and Non-consulting Services 
+Method 
+Comments 
+National contractors lack capacity on implementing the 
+package.  
+Method 
+Comments 
+Consulting Services 
+Least-cost selection with international 
+advertising (LCS) 
+Direct contracting for consulting firms (DC) 
+Individual consultants selection 
+(Competitive) 
+Not applicable 
+Not applicable 
+Not applicable 
+E. 
+List of Active Procurement Packages (Contracts) 
+36. 
+The following table lists goods, works, non-consulting services, and consulting services 
+contracts for which the procurement activity is either on going or expected to commence within 
+the procurement plan duration. 
+Package 
+Number1 
+CW-01  Chlorine 
+General 
+Description 
+Estimated 
+Value 
+$360,000 
+Procurement 
+Method 
+OCB 
+Review 
+Prior 
+Bidding 
+Procedure 
+1S1E  
+Advertisement 
+Date 
+Q3/2019 
+Goods, Works, and Non-Consulting Services 
+Neutralization 
+Unit at Osh-
+Plotina WTP 
+Plant 
+Comments 
+No. of 
+Contracts: 1 
+Prequalification 
+of Bidders: No 
+Domestic 
+Preference 
+Applicable: No 
+18 
+Advance 
+Contracting: 
+Yes 
+Bidding 
+Document: 
+Small Works 
+Advertising 
+Type:  
+International 
+e-GP: N  
+Consulting Services 
+Estimated 
+Value 
+30,000 
+Selection 
+Method 
+LCS 
+Review 
+Prior 
+Type of 
+Proposal 
+BTP 
+Advertisement 
+Date 
+Q4/2019 
+Comments 
+International 
+10,000 
+ICS 
+Prior 
+BTP 
+Q4/2019 
+National 
+Package 
+Number 
+CONS-
+01 
+CONS-
+02 
+General 
+Description 
+Audit of 
+activity 
+financial 
+statements 
+Project 
+Management 
+Office 
+Consultants 
+F. 
+List of Indicative Packages (Contracts) Required under the Project 
+The following table lists goods, works, non-consulting services, and consulting services 
+37. 
+contracts for which the procurement activity is expected to commence beyond the procurement 
+plan duration and over the life of the project (i.e., those expected beyond the current procurement 
+plan duration). 
+Package 
+Number1  General Description 
+Estimated 
+Value 
+Procurement 
+Method 
+Review 
+Bidding 
+Procedure 
+Comments 
+Goods, Works, and Non-Consulting Services 
+Package 
+Number 
+General Description 
+Estimated 
+Value 
+Selection 
+Method 
+Review 
+Type of 
+Proposal 
+Comments 
+Consulting Services 
+G. 
+List of Awarded and Completed Contracts  
+The following table lists the awarded contracts and completed contracts for goods, works, 
+38. 
+non-consulting services, and consulting services. 
+Package 
+Number 
+General 
+Description 
+Contract 
+Value 
+Date of ADB 
+Approval of Contract 
+Award 
+Date of 
+Completion 
+Comments 
+Goods, Works, and Non-Consulting Services 
+Package 
+Number 
+General 
+Description 
+Contract 
+Value9 
+Date of ADB 
+Approval of Contract 
+Award10 
+Date of 
+Completion11 
+Comments12 
+Consulting Services 
+19 
+H. 
+Non-ADB Financing 
+The following table lists goods, works, and consulting services contracts over the life of 
+39. 
+the project, financed by non-ADB sources.  
+General Description 
+Goods, Works, and Non-Consulting Services 
+Estimated 
+Value 
+(cumulative) 
+Estimated 
+Number of 
+Contracts 
+Procurement 
+Method 
+Comments 
+General Description 
+Consulting Services 
+Estimated 
+Value 
+(cumulative) 
+Estimated 
+Number of 
+Contracts 
+Selection 
+Method 
+Comments 
+VI. 
+SAFEGUARDS 
+40. 
+Environment (category B). An environmental assessment and review framework (EARF) 
+have been prepared for the facility in accordance with ADB’s Safeguards Policy Statement 2009 
+(ADB  SPS  2009)  to  guide  the  preparation  of  environmental  assessment  reports  (i.e.,  initial 
+environmental  examination  (IEE)).11  Activity  subgrant  (1)  of  the  project  covering  the  chlorine 
+neutralization unit in Osh-Plotina WTP is category B for environment. The IEE has been prepared 
+and  is  disclosed  on  DDWSSD  and  ADB’s  website.  Public  consultations  were  conducted  and 
+involved  affected  people  from  nearby  houses  and  other  project  stakeholders.  Project  impacts 
+during construction are expected to be site-specific and temporary and related to the construction 
+activities.  Expected  impacts  include,  among  others,  noise,  dust,  and  exhaust  emissions  from 
+equipment and construction vehicles; impacts on the river and surface water, waste management, 
+occupational  health  and  safety,  community  health  and  safety,  construction  traffic.  During 
+operation phase, potential impacts are related to limited local capacity to maintain functionality of 
+the  components,  with  expected  positive  impacts  due  to  the  rehabilitation  works.  Adequate 
+mitigation measures are included as part of the assessment, and will be implemented through, 
+the environmental management plan (EMP) and site-specific environmental management plans 
+(SEMP).  
+41. 
+PMO will be responsible for EMP and SEMP implementation, will ensure that EMP will be 
+adequately included in bidding documents and in construction contracts. PMO will be responsible 
+to ensure that contractor prepares and submits SEMP to DDWSSD, which will contain the method 
+statement for construction. SEMPs shall be reviewed and endorsed by the DDWSSD and submit 
+for PMO’s approval. PMO will approve all SEMPs before start of any construction works. 
+11  ADB. 2009. Safeguard Policy Statement. Manila.  
+20 
+42.  Monitoring of environmental quality and the implementation of mitigation measures will be 
+performed by the PMO in line with EMP, with sufficient terms of reference and staff-time for this 
+task. The monitoring results will be included in the project quarterly progress reports and semi-
+annual environmental reports to be submitted to ADB. The cost for EMP implementation will be 
+financed  under  the  grant,  specifically  the  costs  of  mitigation  measures  will  be  included  in  the 
+construction contracts.  
+43. 
+PMO  will  be  responsible  for  establishing  and  implementing  the  grievance  redress 
+mechanism  in  accordance  with  the  IEE  and  EMP.  PMO  will  promptly  inform  ADB  of  the 
+occurrence of any risks or impacts, with detailed description of the event and proposed corrective 
+action  plan  if  any  unanticipated  environmental  and/or  social  risks  and  impacts  arise  during 
+construction, implementation or operation of the project that were not considered in the IEE. PMO 
+will report any actual or potential breach of compliance with the measures and requirements set 
+forth in the IEE and EMP promptly after becoming aware of the breach. 
+44. 
+Involuntary resettlement (category C). A land acquisition and resettlement framework 
+has been prepared for the facility subsequent activities in accordance with the SPS. The SEFF 
+will include consulting services and upgrading or rehabilitation works within existing facilities. They 
+are not expected to involve any physical or economic displacement. For the first activity,  Osh-
+Plotina  WTP  chlorine  neutralization  unit,  no  land  acquisition  and  involuntary  resettlement  is 
+envisaged, as no household will experience severe impact on their livelihood and no household 
+was found to belong to vulnerable groups. 
+45. 
+Indigenous peoples (category C). There are no indigenous peoples in the project areas, 
+as defined in the ADB SPS 2009 for operational purposes. Accordingly, no indigenous peoples 
+planning documents will be required. 
+46. 
+Stakeholder  consultations  were  conducted  on  9  July  2019.  A  fully  functional  grievance 
+redress mechanism  is  already  in place  at the  PMO.  It  has  an  understandable and transparent 
+process, gender responsive, culturally appropriate, and readily accessible to all affected persons. 
+EA,  IA,  are  PMO  responsible  and  the  resources  required  to  implement  the  actions 
+47. 
+identified in the EMP. See Section VII for safeguards monitoring. 
+48. 
+Prohibited investment activities. Pursuant to ADB SPS 2009, ADB funds may not be 
+applied  to the  activities described on the  ADB  Prohibited  Investment  Activities  List  set forth at 
+Appendix 5 of the ADB SPS 2009.  
+VII. 
+PERFORMANCE MONITORING, EVALUATION, REPORTING, AND 
+COMMUNICATION 
+A. 
+Monitoring  
+49. 
+SEFF  Activity  performance  monitoring.  The  Ministry  of  Finance  will  monitor  SEFF 
+Facility and Activity performance semiannually and provide consolidated reports to ADB. These 
+reports  will  include  (i)  each  sub-activity’s  progress  measured  against  the  implementation 
+schedule, (ii) key implementation issues and solutions, (iii) an updated procurement plan, and (d) 
+an updated implementation plan for the next 12 months. To ensure SEFF Facility and the SEFF 
+Activity continues to be both viable and sustainable, the Ministry of Finance should adequately 
+review the SEFF Facility and Activity financial statements and the associated auditor's report. In 
+the event that: (i) an ensuing loan is not approved, or where the associated ADB-financed loan 
+21 
+has been issued, the Ministry of Finance will submit a SEFF Activity completion report to ADB 
+within 6 months of physical completion of the SEFF Activity.12 
+50. 
+Compliance monitoring. IA, on behalf of EA, will monitor compliance of grant covenants, 
+including that relating to policy, legal, financial, economic, environmental, and others and ensure 
+compliance  with  grant  covenants  and  assurances.  All  non-compliance  issues,  if  any,  will  be 
+updated  in  quarterly  progress  reports  together  with  remedial  actions.  PMO  and  ADB  review 
+missions (at least twice a year) will also monitor the status of compliance with grant covenants 
+and raise the noncompliance issues with the Ministry of Finance and EA and agree on remedial 
+actions. 
+Safeguards monitoring. The government will do the following or cause the EA and the 
+51. 
+IA to do the following: 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+submit  semi-annual  environmental  and  social  safeguards  monitoring  reports  to 
+ADB  and  disclose  relevant  information  from  such  reports  to  affected  persons 
+promptly upon submission; 
+if  any  unanticipated  environmental  and/or  social  risks  and  impacts  arise  during 
+construction, implementation, or operation of the project that were not considered 
+in the IEE and the EMP, promptly inform ADB of the occurrence of such risks or 
+impacts, with detailed description of the event and proposed corrective action plan;  
+report  any  actual  or  potential  breach  of  compliance  with  measures  and 
+requirements set forth in the EMP promptly after becoming aware of the breach; 
+and 
+the status of safeguards implementation will also be discussed at each ADB review 
+mission and with necessary issues and agreed actions recorded in aide memoires. 
+B. 
+Reporting  
+The  EA  will  provide  ADB  with  (i)  quarterly  progress  reports  in  a  format  consistent  with 
+52. 
+ADB's  project  performance  reporting  system;  (ii)  consolidated  annual  reports  including  (a) 
+progress achieved by output as measured through the indicator's performance targets, (b) key 
+implementation  issues  and  solutions,  (c)  updated  procurement  plan,  and  (d)  updated 
+implementation plan for the next 12 months; and (iii) if required, a SEFF activity completion report 
+within 6 months of physical completion of the project. To ensure that projects will continue to be 
+both  viable and sustainable,  project  accounts  and  the  EA  audited financial  statement together 
+with the associated auditor's report, should be adequately reviewed. 
+VIII. 
+ANTICORRUPTION POLICY 
+53. 
+ADB reserves the right to investigate, directly or through its agents, any violations of the 
+Anticorruption  Policy  relating  to  the  project.13  All  contracts  financed  by  ADB  shall  include 
+provisions specifying the right of ADB to audit and examine the records and accounts of the EA 
+and all project contractors, suppliers, consultants, and other service providers. Individuals and/or 
+entities on ADB’s anticorruption debarment list are ineligible to participate in ADB-financed activity 
+and may not be awarded any contracts under the project.14  
+12 ADB.  2018.  Project  Completion  Report  for  Sovereign  Operations.  Project  Administration  Instructions.  PAI  6.07A. 
+Manila. A new template for the SEFF Activity Completion Report has been added on {---2019}.  
+13  Anticorruption Policy: http://www.adb.org/Documents/Policies/Anticorruption-Integrity/Policies-Strategies.pdf 
+14  ADB's Integrity Office web site: http://www.adb.org/integrity/unit.asp 
+22 
+To  support 
+these  efforts,  relevant  provisions  are 
+form 
+54. 
+agreement/regulations and the bidding documents for the  SEFF Facility and SEFF Activity. All 
+contracts financed by  ADB  in  connection  with  the  project  will  include provisions  specifying  the 
+right  of  ADB  to  audit  and  examine  the  records  and  accounts  of  the  contractors,  suppliers, 
+consultants, and other service providers as they relate to the project. ADB will disseminate ADB’s 
+anticorruption policy to EA and IA. 
+the  short 
+included 
+in 
+55. 
+ADB's  Anticorruption  Policy  designates the  Office of  Anticorruption  and Integrity  as the 
+point of contact to report allegations of fraud or corruption among ADB-financed projects or its 
+staff. The Office of Anticorruption and Integrity is responsible for all matters related to allegations 
+of fraud and  corruption. For  a more  detailed  explanation refer  to the  Anticorruption  Policy  and 
+Procedures.  Anyone  coming  across  evidence  of  corruption  associated  with  the  project  may 
+contact  the  Anticorruption  Unit  by  telephone,  facsimile,  mail,  or  email  at  the  following 
+numbers/addresses:  
+by email at integrity@adb.org or anticorruption@adb.org  
+by phone at +63 2 632 5004  
+by fax to +6326362152  
+by mail at the following address (Please mark correspondence Strictly 
+Confidential):  
+Office of Anticorruption and Integrity  
+Asian Development Bank  
+6 ADB Avenue, Mandaluyong City  
+1550 Metro Manila, Philippines  
+IX. 
+ACCOUNTABILITY MECHANISM 
+People  who  are,  or  may  in  the  future  be,  adversely  affected  by  the  SEFF  Activity  may 
+56. 
+submit complaints to ADB’s Accountability Mechanism. The Accountability Mechanism provides 
+an independent forum and process whereby people adversely affected by ADB-assisted projects 
+can voice, and seek a resolution of their problems, as well as report alleged violations of ADB’s 
+operational  policies  and  procedures.  Before  submitting  a  complaint  to  the  Accountability 
+Mechanism, affected people should make an effort in good faith to solve their problems by working 
+with  the  concerned  ADB  operations  department.  Only  after  doing  that,  and  if  they  are  still 
+dissatisfied, should they approach the Accountability Mechanism.15 
+Contact details:  
+Secretary  
+Compliance Review Panel  
+Asian Development Bank  
+6 ADB Avenue  
+Mandaluyong City  
+1550 Metro Manila, Philippines  
+Tel + 63 2 632 4149  
+Fax +63 2 636 2088  
+Email: crp@adb.org  
+Web: www.compliance.adb.org 
+15  Accountability Mechanism. http://www.adb.org/Accountability-Mechanism/default.asp.  
+X. 
+RECORD OF CHANGES TO THE ACTIVITY ADMINISTRATION MANUAL 
+57. 
+All revisions and/or updates during the course of implementation should be retained in this 
+section to provide a chronological history of changes to implemented arrangements recorded in 
+the AAM, including revision to contract awards and disbursement s-curves.  
+23 

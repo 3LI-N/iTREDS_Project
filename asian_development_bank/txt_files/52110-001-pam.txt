@@ -1,0 +1,1956 @@
+Livestock Value Chain Development (RRP UZB 52110) 
+Project Administration Manual 
+Project Number: 52110-001 
+Loan Number: [xxxxx] 
+6 August 2019 (negotiated)  
+Uzbekistan: Livestock Value Chain Development 
+Project  
+Important Note: This Project Administration Manual is an active document. It will be updated and revised progressively 
+as and when necessary during each review mission. The contents herein are intended to assist and facilitate project 
+management and implementation. If there is any conflict with any other legal agreement(s) related to this project, the 
+provisions in the legal agreements will prevail. 
+ABBREVIATIONS 
+ADB 
+AIFSA 
+CBU 
+ESMS 
+GAP 
+IABS 
+IFRS 
+IPSAS 
+MOF 
+PFI 
+PIU 
+PMO 
+QQB 
+SLA 
+SOE 
+SPS 
+– 
+– 
+Asian Development Bank 
+Agency for Implementation of Projects in the Field of Agro-
+industry and Food Security  
+Central Bank of Uzbekistan 
+environmental and social management system 
+gender action plan 
+integrated automated banking system 
+International Financial Reporting Standards 
+International Public Sector Accounting Standards 
+– 
+– 
+– 
+– 
+– 
+– 
+–  Ministry of Finance 
+– 
+– 
+– 
+–  Qishloq Qurilish Bank 
+– 
+– 
+– 
+subsidiary loan agreement 
+statement of expenditure 
+Safeguard Policy Statement 
+participating financial institution 
+project implementation unit 
+project management office 
+CONTENTS 
+Page 
+I. 
+II. 
+III. 
+IV. 
+V. 
+VI. 
+PROJECT DESCRIPTION 
+IMPLEMENTATION PLANS 
+A. 
+Project Readiness Activities 
+B.  Overall Project Implementation Plan 
+PROJECT MANAGEMENT ARRANGEMENTS 
+A. 
+B. 
+C. 
+D. 
+E.  Qualified Participating Financial Institutions 
+Project Implementation Organizations: Roles and Responsibilities 
+Key Persons Involved in Implementation 
+Project Organization Structure 
+Eligibility Criteria for PFIs, Subborrowers, Subprojects and Subloans 
+Key Assumptions 
+Detailed Cost Estimates 
+COSTS AND FINANCING 
+A. 
+B. 
+C.  Contract Awards and Disbursement S-Curves 
+D. 
+Fund Flow Diagram 
+FINANCIAL MANAGEMENT 
+A. 
+B. 
+C. 
+D. 
+Financial Management Assessment 
+Disbursement 
+Accounting 
+Auditing and Public Disclosure 
+PROCUREMENT AND CONSULTING SERVICES 
+A. 
+B. 
+C. 
+Advance Contracting and Retroactive Financing 
+Procurement of Goods, Works, and Consulting Services 
+Procurement Plan 
+VII. 
+SAFEGUARDS 
+VIII.  GENDER AND SOCIAL DIMENSIONS 
+IX. 
+X. 
+XI. 
+PERFORMANCE MONITORING, EVALUATION, REPORTING, AND 
+COMMUNICATION 
+A. 
+B.  Monitoring and Reporting 
+C. 
+Project Design and Monitoring Framework 
+Evaluation 
+ANTICORRUPTION POLICY 
+ACCOUNTABILITY MECHANISM 
+XII. 
+RECORD OF CHANGES TO THE PROJECT ADMINISTRATION MANUAL 
+1 
+1 
+1 
+2 
+4 
+4 
+5 
+7 
+9 
+12 
+14 
+14 
+14 
+16 
+17 
+18 
+18 
+20 
+22 
+22 
+24 
+24 
+24 
+24 
+27 
+27 
+30 
+30 
+30 
+30 
+31 
+31 
+31 
+1.   
+Project Administration Manual Purpose  
+The  project  administration  manual  (PAM)  describes  the  essential  administrative  and 
+management requirements to implement the project on time, within budget, and in accordance 
+with the policies and procedures of the government and Asian Development Bank (ADB). The 
+PAM includes references to all available templates and instructions either through linkages to 
+relevant URLs or directly incorporated in the PAM. 
+The Ministry of Finance (MOF), the Agency for Implementation of Projects in the Field of Agro-
+industry  and  Food  Security  (AIFSA),  and  participating  financial  institutions  (PFIs)  are  wholly 
+responsible  for  the  implementation  of  ADB-financed  projects,  as  agreed  jointly  between  the 
+Government of Uzbekistan and ADB, and in accordance with the policies and procedures of the 
+government  and  ADB.  ADB  staff  is  responsible  for  supporting  implementation  including 
+compliance  by  MOF,  AIFSA,  and  PFIs  of  their  obligations  and  responsibilities  for  project 
+implementation in accordance with ADB’s policies and procedures. 
+2.  At loan negotiations, the Government of Uzbekistan and ADB shall agree to the PAM and ensure 
+consistency  with  the  loan  and  project  agreements.  Such  agreement  shall  be  reflected  in  the 
+minutes of the loan negotiations. In the event of any discrepancy or contradiction between the 
+PAM and the loan and project agreements, the provisions of the loan and project agreements 
+shall prevail. 
+After ADB Board approval of the project's report and recommendations of the President (RRP), 
+changes in implementation arrangements are subject to agreement and approval pursuant to 
+relevant government and ADB administrative procedures (including the Project Administration 
+Instructions) and upon such approval, they will be subsequently incorporated in the PAM. 
+I. 
+PROJECT DESCRIPTION 
+1. 
+The proposed project will support the development of livestock value chains by increasing 
+outreach  of  participating  financial  institutions  (PFIs)  to  livestock  farmers  and  entrepreneurs 
+throughout the country. The project impact will be contribution of the agriculture sector to inclusive 
+economic  growth,  income  and  employment  increased.  The  outcome  will  be  production  and 
+marketing of livestock products increased. The project has two outputs as outlined below: 
+(i)  Access to finance in the livestock subsector increased. The project will provide long-
+term funds to PFIs to extend subloans to eligible subborrowers for capital investment. To 
+be eligible, a subborrower must be a commercial entity registered under and compliant 
+with Uzbek laws and regulations, must not be a PFI related party as defined by the Central 
+Bank  of  Uzbekistan  (CBU),  and must  have  a maximum  total  asset  value of  $50  million 
+equivalent at the time of the application for a subloan. Investment subprojects will include 
+but not be limited to livestock production, processing, input supply, and service delivery. 
+The project will improve access to market-based bank finance for producers, processing 
+enterprises, input suppliers and service providers in the livestock value chain. As such, it 
+will  help  increase  livestock  productivity  and  sustainability,  processing  capacity  and 
+utilization, and marketing of inputs and livestock products. 
+(ii)  Support services to the livestock  subsector improved. The project will facilitate the 
+development of private sector veterinary practices to improve access to clinical veterinary 
+services  and  animal  management  and  health  advice,  including  effective  use  of  anti-
+microbial drugs. Specifically, the project will support the Institute of Veterinary Medicine 
+(IVM)  based  in  Samarkand  province  to  (i)  develop  and  deliver  a  continuing  education 
+program for veterinarians working in both public and private veterinary service provision; 
+(ii) establish a veterinary association and upgrade an existing veterinary journal to further 
+enhance  professionalism  and  effective  dissemination  of  veterinary  best  practices;  (iii) 
+establish a model private veterinary practice under the auspices of IVM as a model for the 
+development  of  private  veterinary  service  delivery  in  Uzbekistan;  and  (iv)  replicate  the 
+model practice for at least six private veterinary practices in other areas of Uzbekistan. 
+The project will also help develop capacity of PFIs in developing livestock lending policy 
+and  procedures,  credit  products,  training  staff  in  livestock  sector  lending,  and 
+implementing outreach strategy through increased client awareness of bank products and 
+services and application procedures. 
+II. 
+IMPLEMENTATION PLANS 
+A. 
+Project Readiness Activities 
+Table 1: Project Readiness Activities 
+2019–2020 
+Jan/
+Dec/ 
+20 
+19 
+Feb/ 
+20 
+Mar/ 
+20 
+Responsibility 
+Indicative Activities 
+National feasibility study review by the 
+government 
+Government approval (issuance of 
+government resolution) 
+Loan and project agreements signing 
+Government legal opinion provided 
+Nov/ 
+19 
+Oct/ 
+19 
+▲ 
+  ▲ 
+  ▲ 
+  ▲ 
+AIFSA 
+AIFISA, MOF 
+ADB, AIFSA, 
+MOF, PFIs 
+MOF, MOJ, 
+AIFSA 
+2 
+Indicative Activities 
+Government budget inclusion 
+Signing of the subsidiary loan agreements 
+between MOF and PFIs 
+PMO establishment (by January 2020)  
+PIU establishment (by January 2020) 
+Loan effectiveness  
+Establishment of environmental and social 
+management systems at PFIs 
+Disbursement of subloans to livestock 
+producers and enterprises 
+Oct/ 
+19 
+2019–2020 
+Nov/ 
+Jan/
+Dec/ 
+19 
+19 
+20 
+  ▲ 
+  ▲ 
+  ▲ 
+  ▲ 
+Responsibility 
+Feb/ 
+20 
+Mar/ 
+20 
+MOF 
+AIFSA, MOF, 
+PFIs 
+AIFSA 
+PFIs 
+ADB 
+ADB, AIFSA, 
+PFIs 
+ADB, AIFSA, 
+PFIs 
+  ▲ 
+  ▲ 
+  ▲ 
+Note: ADB Board consideration is expected on 30 September 2019. 
+ADB = Asian Development Bank, AIFSA = Agency for Implementation of Projects in the Field of Agro-industry and Food 
+Security, MOF =  Ministry of Finance, MOJ = Ministry of Justice,  PFI = participating finance institution, PMO = project 
+management office, PIU = project implementation unit.  
+Source: Asian Development Bank staff estimates. 
+B. 
+Overall Project Implementation Plan 
+Table 2: Project Implementation Plan 
+2020 
+Q
+Q
+3 
+2 
+2022 
+Q
+Q
+3 
+2 
+2021 
+Q
+Q
+3 
+2 
+Q
+1 
+Q
+1 
+Q
+4 
+Q
+4 
+Q
+1 
+Q
+4 
+2023 
+Q
+Q
+3 
+2 
+2024 
+Q
+Q
+3 
+2 
+2025 
+Q
+Q
+3 
+2 
+Q
+4 
+Q
+4 
+Q
+1 
+Q
+4 
+Q
+1 
+Indicative Activities 
+Q
+1 
+1. Access to finance in 
+the livestock sector 
+increased 
+1.1. Sign subsidiary loan 
+agreements with PFIs (by 
+January 2020) 
+1.2. Establish and/or 
+revise environmental and 
+social management 
+systems at PFIs (by 
+February 2020) 
+1.3. Disburse subloans to 
+livestock producers and 
+enterprises (Q1 2020–Q4 
+2024) 
+2. Support services to 
+livestock sector 
+improved 
+2.1. Develop continuing 
+education program at 
+IVM (by Q3 2020) 
+2.2. Implement 
+continuing education 
+program (Q4 2020–Q3 
+2024) 
+2.3. Establish the 
+veterinary association (by 
+Q4 2020) 
+Indicative Activities 
+2020 
+Q
+Q
+3 
+2 
+Q
+1 
+2021 
+Q
+Q
+3 
+2 
+Q
+4 
+Q
+1 
+2022 
+Q
+Q
+3 
+2 
+2023 
+Q
+Q
+3 
+2 
+Q
+4 
+Q
+1 
+Q
+4 
+Q
+1 
+2024 
+Q
+Q
+3 
+2 
+2025 
+Q
+Q
+3 
+2 
+Q
+4 
+Q
+4 
+Q
+1 
+Q
+4 
+Q
+1 
+3 
+2.4. Accredit veterinary 
+association members (Q1 
+2021–Q4 2024) 
+2.5. Establish model 
+private veterinary 
+services practice at IVM 
+(by Q4 2020) 
+2.6. Establish at least six 
+private veterinary 
+services practices 
+nationwide (Q1 2022–Q4 
+2024) 
+2.7. Deliver veterinary 
+advice to livestock 
+producers and 
+processors (Q1 2021–Q4 
+2024) 
+2.8. Support PFIs in 
+developing livestock 
+lending credit policy and 
+procedures, credit 
+products, and outreach 
+strategy, and train related 
+staff (by Q3 2020) 
+2.9. Assist PFIs in 
+promoting lending 
+products and loan 
+procedures for farmers, 
+producers, and livestock 
+business enterprises 
+(2020–2024) 
+Project Management 
+Activities 
+Mobilize capacity 
+development consultants 
+by Q1 2020 
+Replenish the project 
+management office with 
+required staff by Q1 2020 
+Establish project 
+implementation units at 
+each PFI by Q1 2020 
+Set up project 
+performance 
+management system by 
+Q3 2020 
+Prepare annual progress 
+reports (2020–2024) 
+Provide technical support 
+to and monitoring of 
+PFIs, private veterinary 
+service providers, and 
+4 
+Indicative Activities 
+2020 
+Q
+Q
+3 
+2 
+Q
+1 
+2021 
+Q
+Q
+3 
+2 
+Q
+4 
+Q
+1 
+2022 
+Q
+Q
+3 
+2 
+2023 
+Q
+Q
+3 
+2 
+Q
+4 
+Q
+1 
+Q
+4 
+Q
+1 
+2024 
+Q
+Q
+3 
+2 
+2025 
+Q
+Q
+3 
+2 
+Q
+4 
+Q
+4 
+Q
+1 
+Q
+4 
+Q
+1 
+subborrowers (2020–
+2024) 
+Prepare project 
+completion report (Q4 
+2024–Q1 2025) 
+IVM = Institute of Veterinary Medicines, PFI = participating financial institution, Q = quarter. 
+Source: Asian Development Bank. 
+III. 
+PROJECT MANAGEMENT ARRANGEMENTS 
+A. 
+Project Implementation Organizations: Roles and Responsibilities 
+Management Roles and Responsibilities 
+Project 
+implementation 
+organizations 
+Agency for 
+Implementation of 
+Projects in the 
+Field of Agro-
+industry and Food 
+Security (AIFSA) 
+(Executing 
+Agency) 
+➢  Be accountable and responsible for advance account and withdrawal application  
+➢  Be responsible for monitoring and compliance with loan covenants 
+➢  Certify compliance of participating financial institutions (PFIs) eligibility criteria  
+➢  Monitor and certify compliance subloan, subproject, and subborrower with 
+applicable criteria 
+➢  Together with the Ministry of Finance (MOF), execute subsidiary loan 
+agreements with the PFIs  
+➢  Monitor PFIs’ performance and compliance with project agreements against 
+design and monitoring framework (DMF) targets 
+➢  Coordinate capacity development activities with regard to PFIs and subborrowers 
+➢  Monitor timely disbursement of ADB loan funds to PFIs  
+➢  Submit project completion report to ADB within 6 months from project closing 
+date 
+Participating 
+financial 
+institutions (PFIs) 
+(Implementing 
+Agencies) 
+➢  Carry out credit origination and monitoring of eligible subborrowers in line with 
+sound banking principles 
+➢  Select subloans in accordance with eligibility criteria set out in the project 
+agreements    
+➢  Monitor and certify compliance subloan, subproject, and subborrower with 
+applicable criteria 
+➢  Be accountable for the use of advances and preparation of withdrawal 
+applications 
+➢  Establish environmental and social management systems and ensure that 
+subborrowers comply with ADB's Safeguard Policy Statement 2009 (SPS) and 
+applicable environmental, health and safety, and social laws and regulations of 
+the Republic of Uzbekistan 
+➢  Manage financial reporting, accounting, and auditing of project-related activities 
+➢  Designate dedicated staff for project implementation unit 
+➢ 
+➢  Submit annual audited statements of utilization of funds, and annual audited 
+Implement Gender Action Plan (GAP) 
+entity financial statements 
+➢  Submit to ADB quarterly progress reports within 30 days from the end of each 
+quarter, and respond to other information requests 
+➢  Submit to ADB annual safeguards monitoring report in February each year 
+➢  Monitor project achievements as described in the DMF and compliance of MOF 
+and the PFIs with covenants and safeguards as set out in the loan and project 
+agreements 
+➢  Conduct field reviews of implementation twice a year 
+Asian 
+Development 
+Bank (ADB) 
+5 
+Key Persons Involved in Implementation 
+B. 
+Executing Agency 
+Ministry of Finance 
+Officer's Name: Avaz Kamalov    
+Position: Deputy Head of International Financial Relations Department  
+Telephone: (+998 71) 239 1695 
+Email address: akamalov@mf.uz 
+Office Address: 29, Istiqlol str., Tashkent 100017,  
+Republic of Uzbekistan 
+Officer’s Name: Shokhrukh Shoakhmedov 
+Position: Director General 
+Telephone: (+998 71) 241 5144 
+Email address: info@rra.uz, info@uzaifsa.uz  
+Officer’s Name: Bakhtiyor Kamalov 
+Position: First Deputy General Director 
+Telephone: (+998 71) 241 0091 
+Email address: info@rra.uz, info@uzaifsa.uz 
+Office Address: 1A, block A, Labzak str., Tashkent, 100004,  
+Republic of Uzbekistan 
+Officer’s Name: Sakhi Annaklichev 
+Position: First Deputy Chairman of the Board 
+Telephone: (+998 78) 120 4582 
+Email address: annaklichev@uzpsb.uz 
+Officer’s Name: Akmal Palvanov 
+Position: Head of International Financial Institutions Division 
+Telephone: (+998 78) 120 4500 (ext.1105) 
+Email address: ak_palvanov@uzpsb.uz   
+Office Address:  3, Shakhrisabz str., Yunusabad District,  
+Tashkent, 100000, Republic of Uzbekistan 
+Officer’s Name: Chori Mirzaev 
+Position: Chairman of the Management Board 
+Telephone: (+998 71) 244 3232 
+Email address: mirzaev_ch@turonbank.uz  
+Officer’s Name: Sultan Kaldibaev  
+Position: Head of Center for Coordination of Investment Activity and 
+Project Management  
+Telephone: (+998 71) 202 0101 (ext.218), (+998 71) 244 27 95 
+Email address:  kaldibaev_s@turonbank.uz  
+Office Address:  4A, Abay str, Shayhontohur District,  
+Tashkent, 100011, Republic of Uzbekistan 
+Officer’s Name: Aziz Nizamov  
+Position: Deputy Chairman of the Management Board  
+Telephone: (+998 71) 202 9999 (ext. 1006) 
+Email address: a.nizamov@mkb.uz, a.nizamov@mikrokreditbank.uz    
+Officer’s Name: Shukhrat Elmuratov    
+Position: Deputy Director of Center for Investment Activities and Project 
+Management 
+Telephone: (+998 71) 202 9999 (ext. 1011)  
+Email address: sh.elmuratov@mikrokreditbank.uz, 
+invest@mikrokreditbank.uz   
+Office Address: 14, Lutfiy str., Chilonzor district, Tashkent, 100096, 
+Republic of Uzbekistan 
+Officer’s Name: Alisher Muratov 
+Position: Deputy Chairman of the Management Board 
+Agency for Implementation of 
+Projects in the Field of 
+Agroindustry and Food Security 
+(AIFSA) 
+Implementing Agencies 
+ “Uzbek Industrial and 
+Construction Bank” Joint-Stock 
+Commercial Bank 
+(Uzpromstroybank) 
+Joint-Stock Commercial Bank 
+“Turonbank” (Turonbank) 
+Joint-Stock Commercial Bank 
+“Microcreditbank” 
+(Microcreditbank) 
+Joint-Stock Commercial Bank 
+“Qishloq qurilish bank” (QQB) 
+6 
+Joint-Stock Commercial Xalq 
+Bank of the Republic of 
+Uzbekistan (Xalq Bank) 
+Asian Development Bank 
+Environment, Natural 
+Resources, and Agriculture 
+Division (CWER); 
+Central and West Asia 
+Department (CWRD) 
+Project Team Leader 
+Telephone: (+998 78) 150 7695 
+Email address: a.muratov@qqb.uz   
+Officer's Name: Saodat Niyazova  
+Position: Chief Specialist of Lending in Foreign Currency Department  
+Telephone: (+998 78) 150 76 41 
+Email address: invest@qqb.uz   
+Office Address: 18A, Navoiy str., Shayhontohur District, 
+Tashkent, 100011, Republic of Uzbekistan 
+Officer's Name: Tokhirjon Rakhmonov 
+Position: First Deputy Chairman of the Management Board 
+Telephone: (+998 78) 120 1704 
+Email address: info@xb.uz 
+Officer's Name: Sarvar Rasulov  
+Position: Head of Working with Foreign Credit Lines Division  
+Telephone: (+998 78) 120 1763 
+Email address: sarvar.rasulov@xb.uz   
+Office Address: 46, Qatartol str., Chilonzor district, Tashkent, 100096, 
+Republic of Uzbekistan 
+Donneth A. Walton 
+Director, CWER 
+Telephone: +632 632 5847 
+Email address: dwalton@adb.org 
+Bui Minh Giap 
+Principal Natural Resources and Agriculture Economist 
+Telephone: +632 632 6900 
+Email address: buigm@adb.org  
+Contact person in Uzbekistan Resident Mission: 
+Tal’at Nasirov 
+Senior Project Officer 
+Telephone: +998 78 1401920 
+Email address: tnasirov@adb.org 
+C. 
+Project Organization Structure  
+7 
+the  project 
+for  monitoring 
+implementation, 
+2. 
+The Agency for Implementation of Projects in the Field of Agro-industry and Food Security 
+(AIFSA) will be the executing agency. A project management office (PMO) will be set up under 
+the existing organization of AIFSA. The PMO will be provided with staff and operational costs and 
+be  responsible 
+training,  capacity 
+development, and providing technical support to PFIs. To enhance capacity of the AIFSA, PMO 
+staff will include in-house AIFSA staff and contracted experts to save the cost of engaging a large 
+team  of consultants for project management  and to  ensure  efficient  utilization  of the  loan fund 
+allocated to project management. The PMO will be responsible for (i) reviewing and monitoring 
+subproject  implementation,  (ii)  overseeing  project  financial  audits,  and  (iii)  implementing 
+veterinary services capacity development activities. AIFSA will recruit technical experts to support 
+PFIs in developing livestock lending credit policy and procedures, credit products, and outreach 
+strategy, and train PFI staff. A list of PMO staff is in Table 3. Each PFI will establish a project 
+implementation unit (PIU) under its existing structure to oversee the implementation of the credit 
+line activities at the respective PFI. The project organization chart is in Figure 1. 
+including 
+Figure 1:  Project Organization Chart 
+ADB 
+Loan Agreement between 
+ADB and MOF 
+MOF and AIFSA 
+CWER 
+under 
+CWRD 
+Project 
+Agreements 
+Project Agreement 
+between ADB and AIFSA 
+for project management 
+and AIFSA’s obligations to 
+monitor implementation of 
+PFI relending 
+During implementation, PFIs submit to ADB through AIFSA: 
+(1) quarterly progress report;  
+(2) annual audited financial statements and audited Annual 
+Statement of Utilization of Funds; and 
+(3) annual reports on safeguards compliance 
+PMO under 
+AIFSA 
+Subsidiary Loan 
+Agreements 
+Microcreditbank, Qishloq Qurilish Bank (QQB), 
+Turonbank, Uzpromstroybank, and Xalq Bank (plus other 
+financial institutions subject to further accreditation and 
+availability of loan fund at time of accreditation) 
+PIU 
+ADB = Asian Development Bank; AIFSA = Agency for Implementation of Projects in the Field of Agro-industry and Food 
+Security; CWER = Environment, Natural Resources, and Agriculture Division of Central and West Asia Department of 
+ADB;  CWRD  =  Central  and West  Asia  Department  of  ADB;  MOF  =  Ministry  of  Finance;  PFI =  participating  financial 
+institution; PIU = project implementation unit; and PMO = project management office. 
+Source: Asian Development Bank. 
+8 
+3. 
+The PMO staff list is in Table 3. 
+Table 3: Staff List of the Project Management Office 
+Staff Category/Title 
+A. Management staff 
+First Deputy Director General 
+Project Manager 
+Financial Management Specialist 
+Chief Accountant 
+Procurement Specialist 
+Project Monitoring and Evaluation Specialist 
+Subproject Monitoring Specialist 
+Legal Specialist 
+Livestock/Veterinary Specialist 
+Financial Institutions Specialist 
+Environment Specialist 
+Social and Gender Specialist 
+Credit Line Promotion Specialist 
+Subtotal (A) 
+B. Support Staff 
+Office Manager/Secretary 
+Translator/Interpreter 
+Drivers (2) 
+Guard 
+Cleaner 
+Subtotal (B) 
+Grand Total (A+B) 
+Number of Staff 
+Person-Month 
+Total Person-Months 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+2 
+1 
+1 
+24 
+60 
+60 
+60 
+60 
+60 
+60 
+60 
+60 
+60 
+60 
+60 
+60 
+60 
+60 
+60 
+60 
+60 
+24 
+60 
+60 
+60 
+60 
+60 
+60 
+60 
+60 
+60 
+60 
+60 
+60 
+744 
+60 
+60 
+120 
+60 
+60 
+360 
+1,104 
+Sources: Asian Development Bank and Agency for Implementation of Projects in the Field of Agro-industry and Food 
+Security. 
+9 
+D. 
+Eligibility Criteria for PFIs, Subborrowers, Subprojects and Subloans 
+1. 
+Eligibility Criteria for Participating Financial Institutions (PFI) 
+a. 
+Introduction 
+4. 
+A  financial  institution  wishing  to  participate  in  the  implementation  of  the  ADB-financed 
+Livestock Value Chain Development Project is required to qualify as a PFI by satisfying eligibility 
+criteria specified in ADB’s Operations Manual Bank Policies (OM D6/BP) of 2003, and undergoing 
+a due diligence assessment based on operational, financial, and management criteria defined in 
+this document and incorporated into the associated project documents. A PFI will also be required 
+to sign a tripartite Subsidiary Loan Agreement (SLA) with the Republic of Uzbekistan Ministry of 
+Finance  (MOF)  and  AIFSA.  A  PFI  is  required  to  satisfy  the  specified  eligibility  criteria  both  on 
+commencement of and on an ongoing basis throughout the implementation of the project. Each 
+PFI will be required to provide AIFSA with information to enable it to monitor its continued eligibility 
+during implementation. ADB reserves the right to disallow disbursements from the credit facility 
+to any PFI not conforming with any of the specified criteria until such time that the PFI is able to 
+satisfy the criteria. The PFI will be required to remedy any noncompliance with eligibility criteria 
+within 6 months of default and, in any event, within the disbursement period of the project. Terms 
+and conditions of the SLA will take precedence over eligibility criteria defined in this document. 
+5. 
+Potential PFIs will be assessed through a due diligence procedure in accordance with the 
+requirements of ADB. During the detailed due diligence assessment, particular attention will be 
+given to a PFI’s overall lending capabilities, and financial and loan portfolio performance. The PFI 
+will  be  required to  have a  satisfactory financial  and management  structure,  a satisfactory  risk-
+based capital adequacy, an acceptable asset quality and lending performance, adequate liquidity, 
+and  the  organization,  management,  and  technical  staff  and  other  resources  required  for  the 
+efficient operation of a financial institution.  
+b. 
+General Criteria 
+In order to be eligible to access the project credit line, a PFI will be required at the time of 
+6. 
+accessing the facility and on an ongoing basis to: 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+be in compliance with all banking laws of Uzbekistan and prudential regulations of 
+the  Central  Bank  of  Uzbekistan  (CBU),  including  laws  and  regulations  on  anti-
+money laundering and combating the financing of terrorism; 
+have sound, profitable performance in the two years preceding participation in the 
+project credit line in the delivery of credit to clients engaged in the agriculture value 
+chain; 
+have  in  place  or  be  prepared  to  put  in  place  lending  policies  and  a  strategy  for 
+lending to livestock clients; 
+be  committed  to  onlending  funds  from  the  credit  line  to  eligible  clients 
+(subborrowers), who are engaged in livestock activities; 
+have or be willing to engage and/or develop the necessary staff, knowledge, and 
+physical and other resources to implement the project credit line; and 
+undergo  an  annual  audit  that  is  conducted  in  accordance  with  International 
+Standards  of  Auditing  (ISA)  by  an  audit  company  acceptable  to  ADB  for  the 
+purposes of the audit of financial institutions. Eligibility will depend upon the audit 
+resulting in an unqualified audit opinion. 
+9. 
+basis, to: 
+(i) 
+(ii) 
+10 
+c. 
+Prudential Standards and Financial Performance Criteria 
+In order to be eligible to access the project credit line, a PFI will ensure that it remains 
+7. 
+financially sound throughout the project implementation period.  
+(i) 
+Prudential Standards 
+8. 
+Specifically, it will be required, at the time of accessing the credit line and on an ongoing 
+basis, to  comply with CBU criteria for corporate governance of financial institutions, which include 
+(i)  corporate  governance  structures  that  promote  effective  identification,  monitoring,  and 
+management of all material business risks; (ii) systems for ensuring compliance with all statutory 
+and  regulatory  requirements;  (iii)  implementation  of  financial  disclosure  requirements;  and  (iv) 
+setting of corporate governance objectives, strategies, and procedures. 
+(ii) 
+Financial Performance 
+Specifically,  it  will  be  required,  at  the  time  of  accessing  the  facility  and  on  an  ongoing 
+maintain a total capital adequacy ratio of not less than the minimum requirement 
+in the given financial year stipulated by the prudential regulations issued by CBU;  
+maintain a return on average assets ratio of not less than 0.5%, where the return 
+on average assets ratio is defined as net income after tax divided by the average 
+total assets in a financial year; 
+(iii)  maintain a cost to income ratio of under 75%, where the cost to income ratio is 
+calculated as the total operating expenses (comprising only employee costs and 
+administrative expenses) divided by the total operating income plus non-operating 
+income; 
+(iv)  maintain a maximum ratio of the value of non-performing loans to the total value 
+of loans outstanding of 5%, where a non-performing loan is defined as any loan 
+for which a repayment of principal or payment of interest has been overdue for a 
+period of more than 90 days after the due date; and 
+maintain  a maximum  limit  on  exposure  to  a  single  borrower  or  group  of  related 
+borrowers of 25% of Tier 1 capital (as defined by CBU regulations). 
+(v) 
+10. 
+The financial ratios specified above will be reported in the PFIs management accounts in 
+accordance with the International Financial Reporting Standards, and the capital adequacy ratio 
+in accordance with the Basel Committee on Banking Supervision (Basel III) methodology. 
+d. 
+Governance and Management Criteria 
+In order to be eligible to access the project credit line, a PFI will be required at the time of 
+11. 
+accessing the facility and on an ongoing basis, as assessed by ADB, to: 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+have  a  Supervisory  Board  responsible  for  setting  overall  bank  policy  and 
+performing appropriate oversight of the PFI’s operations; 
+have a qualified and capable management team; 
+have  a  sound  business  plan  and  appropriate  budgeting  and  budget  control 
+procedures; 
+have  acceptable  asset  quality  and  management  policies,  procedures,  and  staff 
+capacity; 
+have sound lending policies and procedures in respect of the entire credit cycle, 
+problem loan management, write-off of assets, credit approval authority, etc., 
+11 
+(vi) 
+(vii) 
+(viii) 
+(ix) 
+(x) 
+(xi) 
+(xii) 
+have effective risk management and adequate processes and/or procedures (e.g., 
+credit risk manual) that cover the credit and market (e.g., interest rate and foreign 
+exchange) risks, asset-liability risk, and operational risk. The PFI should have the 
+control  structure  and  capacity  to  systematically  evaluate  and/or  conduct  risk 
+appraisal, asset-liability management, internal control, and compliance; 
+have  satisfactory  internal  control  and  audit  procedures,  including  accounting 
+principles  and  procedures,  financial  documents,  internal  controls  and  reporting, 
+and operational controls, confirmed by an audit company acceptable to ADB for 
+the purposes of the audit of financial institutions; 
+not  be  exposed  to  undue  interest  rate  risk,  as  confirmed  by  annual  financial 
+statements audited by an audit company acceptable to ADB for the purposes  of 
+the audit of financial institutions; 
+have  an  internal  reporting  and  management  information  system  capable  of 
+providing  sufficient  information  necessary  for  managing  the  PFI's  operations, 
+performance, and risks; 
+have  an  environmental  and  social  management  system  (ESMS)  in  place  in 
+compliance with SPS,  
+ensure that the ESMS incorporates (a) third party monitoring of subprojects, (b) 
+guidelines  for  site  visits  to  subproject  sites,  and  (c)  a  tracking  system  of 
+subprojects; 
+ensure that adequately qualified and trained staff are designated to manage the 
+ESMS; and 
+(xiii)  monitor and supervise the implementation of subborrowers’ subprojects financed 
+through the credit facility. 
+2.  
+Eligibility Criteria for Subborrowers 
+12. 
+It will be the responsibility of the PFI to ensure that subborrowers at all times satisfy the 
+criteria defined below. Where a subborrower during the term of a subloan fails to comply with the 
+specified  criteria,  the  PFI  will  take  appropriate  steps  to  ensure  immediate  compliance.  Where 
+noncompliance continues, the PFI will implement measures in accordance with the SLA.  
+In order to be eligible to access subloans through a PFI, a subborrower will be required, 
+13. 
+at the time of accessing the credit facility and on an ongoing basis, to: 
+(i) 
+(ii) 
+(iii) 
+be  an  entity  established  and  registered  in  accordance  with  applicable  laws  of 
+Uzbekistan, and be in compliance with all laws and regulations of Uzbekistan; and 
+not be a related party with respect to the PFI under the laws of Uzbekistan and the 
+regulations of CBU; and 
+have  a  maximum  total  asset  value  of  $50  million  equivalent  at  the  time  of  the 
+application for a subloan (based on financial statements). 
+14. 
+A  PFI  will  be  responsible  for  conducting  due  diligence  on  prospective  subborrowers  in 
+accordance  with  the  PFI’s  prevailing  credit  and  risk management  policies and  procedures  and 
+following  appropriate  commercial  banking  criteria  together  with  the  past  and  ongoing 
+environmental  performance.  In  the  event  that  such  due  diligence  is  not  undertaken  or  is  not 
+undertaken with appropriate rigor, the subborrower may be required to immediately repay to the 
+PFI any funds disbursed, and the PFI to repay such funds to MOF, in accordance with the terms 
+of the SLA. 
+12 
+15. 
+16. 
+3.  
+Eligibility Criteria for Subprojects 
+Subprojects to be financed by subloans will be required to: 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+(vii) 
+compromise  activities  or  outputs  that  are  not  included  in  the  list  of  prohibited 
+investment activities provided in the SPS; 
+not involve in any environmental impacts defined under category A of the SPS, or 
+under  class  1  or  2  of  the  Government  of  Uzbekistan’s  environmental  laws  and 
+regulations, or that are included in the Environmental Exclusion Checklist; 
+have  no  involuntary  resettlement  or  ethnic  minority  and/or  indigenous  peoples 
+impact as defined in the SPS; 
+not involve mining or genetically modified organisms; 
+not involve in any activity included in ADB’s Prohibited Investment List;  
+demonstrate financial and economic viability; and 
+be related to the following activities (not necessarily the sole or primary activity) 
+which are deemed by the PFI to comply with the terms of the SLA: 
+(a) 
+the  manufacture  and/or  supply  of  farm  technology,  machinery,  and 
+infrastructure  (including  means  of  transportation  and  other  associated 
+facilities) related to livestock production, processing, marketing, input supply, 
+and service provision; 
+the  supply  of  animals,  inputs  and  services  related  to  livestock  production, 
+processing, marketing, input supply, and service provision; 
+the production of livestock products; and 
+the  handling,  collection,  storage,  processing,  and  marketing  of  livestock 
+produce. 
+(b) 
+(c) 
+(d) 
+4. 
+Eligibility Criteria for Subloans 
+Subloans to be provided under the credit facility will be required to: 
+(i) 
+(ii) 
+(iii) 
+be for investment purposes (purchase of capital assets) only; 
+be subject to a maximum subloan amount of $5 million (five million US dollars); 
+be for a maximum tenor of 10 years with a grace period to be negotiated between 
+the PFI and the subborrower; 
+carry a rate of interest determined by the PFI based on its prevailing credit and risk 
+management policies and procedures; 
+finance  a  maximum  of  75%  of  the  subproject  investment  costs.  The  balance  of 
+such costs shall be met from the subborrower’s own financial resources, which will 
+not include debt financing from other sources. Any valuation of a subborrower’s 
+share  of  financing  by  in-kind  contribution  shall  be  done  in  an  objective  and 
+transparent manner acceptable to ADB; 
+provide  collateral  in  the  form  of  realizable,  unencumbered  assets  equivalent  to 
+125% of the value of the subloan; and 
+(iv) 
+(v) 
+(vi) 
+(vii)  maintain a debt-service coverage ratio in relation to the subproject and/or subloan 
+financing of 1.2. 
+E. 
+Qualified Participating Financial Institutions 
+17. 
+The  following  ADB  eligibility  criteria  have  been  used  for  selection  of  PFIs:  (i)  financial 
+soundness as evidenced by adequate capital, asset quality, liquidity, and profitability; (ii) adequate 
+credit  and risk management  policies,  operating systems,  and  procedures;  (iii)  compliance with 
+prudential  regulations,  including  exposure  limits;  (iv)  acceptable  corporate  and  financial 
+governance  and  management  practices  including,  among  other  things,  transparent  financial 
+13 
+disclosure  policies  and  practices;  (v)  sound  business  objectives  and  strategy  and/or  plan;  (vi) 
+autonomy in lending and pricing decisions; and (vii) adequate policies, systems, and procedures 
+to  assess  and  monitor  the  economic,  social,  and  environmental  impact  of  subprojects  in 
+accordance with parameters established by ADB. 
+18. 
+The  financial  analysis  of  PFIs  participating  in  the  Livestock  Value  Chain  Development 
+Project  was  undertaken  as  part  of  a  broader  financial  due  diligence  that  included  financial 
+management assessment and integrity due diligence. The analysis comprised a review of each 
+PFI’s financial performance and an assessment of its compliance with Central Bank of Uzbekistan 
+(CBU) prudential regulations and Asian Development Bank (ADB) loan covenants established for 
+the Livestock Value Chain Development Project. PFI due diligence has considered current and 
+potential credit lines and loan funds from ADB, and other major development partners.1  
+19. 
+Five  PFIs  were  selected:  Microcreditbank,  Qishloq  Qurilish  Bank  (QQB),  Turonbank, 
+Uzpromstroybank, and Xalq Bank. Ipoteka Bank also expressed interest in participating but did 
+not complete due diligence requirements in time for project processing. It will be considered for 
+participation after project start-up. All selected PFIs satisfy ADB’s eligibility criteria for financial 
+intermediaries under ADB’s Operations Manual Bank Policies (OM D6/BP) of 2003. 
+1  Detailed  financial  due  diligence  and  financial  management  assessment  of  each  PFI  and  integrity  due  diligence 
+reports are available upon request for ADB’s internal review purpose only. 
+14 
+A. 
+Key Assumptions 
+IV. 
+COSTS AND FINANCING 
+The  following  key  assumptions  underpin  the  cost  estimates  and  financing  plan:  (i) 
+20. 
+exchange rate:  UZS8,440  =  $1.00;  and  (ii)  price  contingencies  based  on  expected  cumulative 
+inflation over the implementation period as in Table 4. It is important to note that most of the loan 
+fund ($146 million out of the total $150 million) will be channeled to PFIs for onlending and hence 
+this amount is subject to neither price nor physical contingencies. 
+Table 4: Escalation Rates for Price Contingency Calculation 
+Item 
+Foreign rate of price inflation 
+Domestic rate of price inflation 
+     Source: Asian Development Bank. 
+B. 
+Detailed Cost Estimates 
+2019 
+  1.5% 
+16.0% 
+2020 
+  1.6% 
+14.0% 
+2021 
+1.6% 
+9.3% 
+2022 
+1.6% 
+8.1% 
+2023 
+1.6% 
+7.7% 
+2024 
+1.6% 
+7.7% 
+Table 5: Detailed Cost Estimates by Expenditure Category 
+Table 6: Allocation and Withdrawal of Loan Proceeds 
+ (SUM Million)(US$ '000) % Total% TotalBaseBaseLocalForeignTotalCostsLocalForeignTotalCosts I. Investment Costs A. Subproject Finance - ADB 616,120616,1201,232,24064.073,00073,000146,00064.0B. Subproject Finance - Subborrowers' Contribution 236,970236,970473,94025.028,07728,07756,15425.0C. Subproject Finance - Government Contribution 189,579-189,57910.022,462-22,46210.0D. Capacity Development 3,79812,10315,9011.04501,4341,8841.0Total Investment Costs 1,046,467865,1931,911,66099.0123,989102,511226,50099.0II. Recurrent Costs A. Project Management Incremental Staff 9,894-9,8941.01,172-1,1721.0B. Project Management Office Operation 4,980-4,9800.0590-5900.0C. Preparation of Follow-on Project -1,0131,0130.0-1201200.0Total Recurrent Costs 14,8731,01315,8861.01,7621201,8821.0Total BASELINE COSTS 1,061,341866,2061,927,546100.0125,751102,631228,382100.0Physical Contingencies 942-9420.0112-1120.0Price Contingencies 5,5052,7978,3020.082401220.0Total PROJECT COSTS 1,067,787869,0031,936,791100.0125,945102,671228,616100.0Interest During Implementation -74,87574,8754.0-8,8388,8384.0Total Costs to be Financed 1,067,787943,8782,011,666104.0125,945111,510237,454104.0Source: ADB estimatesADB COL FINANCINGCategorySub-Category1Credit lines to participating financial institutions a146,000,000100 percent of total expenditure claimed (*)2Other expenditures: (i) capacity development; and (ii) recurrent costs (including [a] project management incremental staff; [b] project management office operation; and [c] preparation of follow-on project)4,000,000100 percent of total expenditureTotal150,000,000ADB = Asian Development Bank; COL = ordinary capital resources (concessional loan). a Subject to the disbursement conditions set forth in Schedule 2 of the Loan Agreement and the Schedule of the project agreements with each PFI.(*) Exclusive of taxes and duties, to be financed by the Government through exemptions.Source: ADB estimates.Livestock Value Chain Development ProjectCATEGORYNo.ItemAmount Allocated [$]Percentage and Basis for Withdrawal from the Loan Account 
+Table 7: Detailed Cost Estimates by Financier ($’000) 
+15 
+Table 8: Detailed Cost Estimates Output and Component ($’000) 
+Table 9: Detailed Cost Estimates by Year ($’000) 
+ ADB COLThe GovernmentSubborrowersTotalAmount%Amount%Amount%Amount%I. Investment Costs A. Subproject Finance - ADB 146,000100.000.000.0146,00061.5B. Subproject Finance - Subborrowers' Contribution 00.000.056,154100.056,15423.6C. Subproject Finance - Government Contribution 00.022,462100.000.022,4629.5D. Capacity Development 1,924100.000.000.01,9240.8Total Investment Costs 147,92465.322,4629.956,15424.8226,54095.4II. Recurrent Costs A. Project Management Incremental Staff 1,289100.000.000.01,2890.5B. Project Management Office Operation 666100.000.000.06660.3C. Preparation of Follow-on Project 120100.000.000.01200.1Total Recurrent Costs 2,076100.000.000.02,0760.9Total PROJECT COSTS 150,00065.622,4629.856,15424.6228,61696.3Interest During Implementation 00.08,838100.000.08,8383.7Total Disbursement 150,00063.231,30013.256,15423.6237,454100.0ADB = Asian Development Bank; COL = ordinary capital resource (concessional loan)Source: ADB estimates Access to Long-termSupport to LivestockProjectFinance in the Livestock SectorSectorManagement andIncreasedEnhancedImplementationTotal I. Investment Costs A. Subproject Finance - ADB 146,000--146,000B. Subproject Finance - Subborrowers' Contribution 56,154--56,154C. Subproject Finance - Government Contribution 22,462--22,462D. Capacity Development -1,924-1,924Total Investment Costs 224,6161,924-226,540II. Recurrent Costs A. Project Management Incremental Staff --1,2891,289B. Project Management Office Operation --666666C. Preparation of Follow-on Project --120120Total Recurrent Costs --2,0762,076Total PROJECT COSTS 224,6161,9242,076228,616Interest During Implementation 8,68474808,838Total Disbursement233,3001,9992,156237,454Source: ADB estimates20202021202220232024Total I. Investment Costs A. Subproject Finance - ADB 43,80058,40014,60014,60014,600146,000B. Subproject Finance - Subborrowers' Contribution 16,84622,4625,6155,6155,61556,154C. Subproject Finance - Government Contribution 6,7398,9852,2462,2462,24622,462D. Capacity Development 1,0343632171751351,924Total Investment Costs 68,41990,21022,67922,63722,596226,540II. Recurrent Costs A. Project Management Incremental Staff 2522562602592631,289B. Project Management Office Operation 238105106108110666C. Preparation of Follow-on Project --120--120Total Recurrent Costs 4893614863673732,076Total PROJECT COSTS 68,90890,57023,16523,00422,969228,616Interest During Implementation723        1,665     1,909     2,150     2,391     8,838Total Disbursement69,63192,23525,07425,15425,360237,454Source: ADB estimates 
+16 
+C. 
+Contract Awards and Disbursement S-Curves 
+21. 
+Contract awards and disbursement S-curves are in Table 10.  
+Table 10: Projections for Contract Awards and Disbursement 
+ADB's Concessional OCR Loan ($ million)Year Q1  Q2 Q3  Q4  Total  Q1  Q2  Q3  Q4  Total 20200.00.05.05.010.05.07.05.08.025.020215.05.09.010.029.010.015.010.07.042.0202210.010.010.010.040.015.010.010.05.040.0202310.010.010.010.040.010.015.012.03.040.020245.06.07.05.023.00.51.01.00.53.020255.03.00.00.08.00.00.00.00.00.0Total150.0150.0$ millionYearNote: The contract award curve runs under the disbursement curve since "contract awards" correspond to subloan liquidation [i.e., after fund advance (disbursement) to participating financial institutions].Source: ADB estimatesProjections for Contract AwardsProjections for Disbursement 0.020.040.060.080.0100.0120.0140.0160.0123456Contract AwardsDisbursement 
+D. 
+Fund Flow Diagram 
+Figure 2: Fund Flow Diagram 
+Asian Development Bank (ADB) 
+17 
+Advance and/or 
+replenishment for 
+on-lending to 
+subborrowers 
+Withdrawal applications for 
+advance, liquidation, and 
+replenishment for AIFSA and 
+PFIs  
+Advance and/or 
+replenishment for project 
+management and capacity 
+development 
+Agency for Implementation of Projects in the Field of 
+Agro-industry and Food Security (AIFSA) 
+Withdrawal applications for advance, 
+liquidation, and replenishment for verification 
+and onward submission to ADB 
+Participating Financial Institutions (PFIs) 
+Subloan 
+disbursement 
+Subloan 
+documentation 
+Eligible Subborrowers 
+Source: Asian Development Bank. 
+18 
+V. 
+FINANCIAL MANAGEMENT 
+A. 
+Financial Management Assessment 
+A  financial  management  assessment  of  the  proposed  project  was  conducted  between 
+22. 
+December  2018  and  April  2019  in  accordance  with  ADB’s  Guidelines  for  the  Financial 
+Management  and  Analysis  of  Projects,2  ADB’s  Financial  Due  Diligence: A  Methodology  Note,3 
+ADB’s Technical Guidance Note on Financial Management Assessment,4 and ADB’s Technical 
+Guidance  Note  on  Financial  Due  Diligence  for  Financial  Intermediaries.5  The  financial 
+management assessment  covered the role of the AIFSA as the executing agency for the project 
+and five PFIs as implementing agencies for the project (Microcreditbank, Qishloq Qurilish Bank 
+[QQB], Turonbank, Uzpromstroybank, and Xalq Bank). 
+23. 
+Agency  for  Implementation  of  Projects  in  the  Field  of  Agro-industry  and  Food 
+Security (AIFSA). Based on the assessment of AIFSA, there are no financial management risks 
+that would undermine implementation of the project in respect of AIFSA’s proposed role in project 
+management.  AIFSA  has  significant  experience  in  the  implementation  of  projects  financed  by 
+ADB,  the  World  Bank,  and  other  international  financial  institutions.  The  financial  management 
+arrangements in place for those projects are appropriate for the project. AIFSA is institutionally 
+capable and familiar with projects of similar nature.  
+24. 
+Participating Financial Institutions. No key financial management risks exist in relation 
+to the proposed PFIs that would undermine implementation of the project. Several of the PFIs 
+have limitations in staffing in respect of accounting, internal audit, and risk management. Some 
+PFIs also have other minor financial management limitations. However, these limitations have not 
+adversely affected the implementation of other projects or the delivery of credit funds financed by 
+the  government  or  international  financial  institutions.  No  specific  actions  to  address  the  PFIs’ 
+financial management limitations prior to the withdrawal of funds by PFIs are recommended.  
+25. 
+It  is  concluded  that  while  the  overall  pre-mitigation  financial  management  risks  of  the 
+AIFSA  and  PFIs  are  substantial,  AIFSA  and  all  selected  PFIs  have  adequate  experience  and 
+capacity,  as  observed  in  the  implementation  of  the  ongoing  ADB-financed  Horticulture  Value 
+Chain  Development  Project  and  its  additional  financing,  to  administer  advance  account 
+procedures with the six (6) month-expenditure limit proposed and the statement of expenditure 
+(SOE) procedures with no ceiling. Mitigating measures and  actions to address each PFI’s and 
+AIFSA’s  financial  management  limitations  have  been  discussed  with  each  entity  involved  and 
+included for time-bound compliance as outlined in Table 11. 
+2  ADB. 2005. Guidelines for the Financial Management and Analysis of Project. Manila. 
+3  ADB. 2009. Financial Due Diligence: A Methodology Note. Manila. 
+4  ADB. 2015. Financial Management Technical Guidance Note. Manila. 
+5  ADB. 2018. Financial Due Diligence for Financial Intermediaries: Technical Guidance Note. Manila. 
+Table 11: Financial Management Action Plans 
+Participating Financial Institution and Action Item 
+Microcreditbank 
+Upgrade the banking system IABS to produce project reports with required specific 
+loan information on subborrowers by livestock activity 
+Train staff on ADB procedures and reporting 
+Support existing staff to obtain IFRS, internal audit, and risk management 
+qualification and/or certification 
+Procure and/or implement specialized risk management software 
+Introduce individual professional development plans for all staff as part of a 
+performance evaluation system 
+Qishloq Qurilish Bank (QQB) 
+Hire staff to fill all vacancies to ensure full operation of the Risk Management 
+Division 
+Upgrade the banking system IABS to produce project reports with required specific 
+loan information on subborrowers by livestock activity 
+Support existing staff to obtain IFRS, internal audit, and risk management 
+qualification and/or certification 
+Procure and/or implement specialized risk management software 
+Turonbank 
+Upgrade the banking system IABS to produce project reports with required specific 
+loan information on subborrowers by livestock activity 
+Support existing staff to obtain IFRS, internal audit, and risk management 
+qualification and/or certification 
+Procure and/or implement specialized risk management software 
+Uzpromstroybank 
+Upgrade the banking system IABS to produce project reports with required specific 
+loan information on subborrowers by livestock activity 
+Support existing staff to obtain internal audit, and risk management qualification 
+and/or certification 
+Procure and/or implement specialized risk management software 
+Introduce individual professional development plans for all staff as part of the 
+performance evaluation system 
+Xalq Bank 
+Upgrade the banking system IABS to produce project reports with required specific 
+loan information on subborrowers by livestock activity 
+Train staff on ADB procedures and reporting 
+Finalize procurement of specialized risk management software 
+Support  existing  staff  to  obtain  internal  audit  and  risk  management  qualification 
+and/or certification 
+19 
+Complied by 
+Q4 2019 
+Q1 2020 
+Q4 2020 
+Q4 2020 
+Q4 2020 
+Q3 2019 
+Q4 2019 
+Q4 2020 
+Q4 2020 
+Q4 2019 
+Q4 2020 
+Q4 2020 
+Q4 2019 
+Q4 2020 
+Q4 2020 
+Q4 2020 
+Q4 2019 
+Q1 2020 
+Q1 2020 
+Q4 2020 
+Agency for Implementation of Projects in the Field of Agro-industry and Food Security 
+Finalize automated comparison of actual and budgeted expenditure in the 
+accounting system  
+Include a confidentiality clause into agreement with the 1-C franchisee which will be 
+providing technical support to AIFSA under the project 
+Recruit IPSAS qualified accounting staff and/or support existing accounting staff to 
+obtain IPSAS qualification and/or certification  
+AIFSA accounting staff to complete e-module on cash IPSAS 
+Develop and implement training plan for external and internal training on IPSAS and 
+changes in accounting and tax legislation for accounting staff 
+Q2 2019 
+Q1 2020 
+Q4 2020 
+Q4 2020 
+Q4 2020 
+ADB = Asian Development Bank, IFRS = International Financial Reporting Standards, IPSAS = International Public 
+Sector Accounting Standards, IABS = Integrated Automated Banking System, AIFSA = Agency for Implementation 
+of Projects in the Field of Agro-industry and Food Security, Q = quarter. 
+Source: Asian Development Bank. 
+20 
+In addition to financial management action plans, PFI must comply with all CBU prudential 
+26. 
+regulations and ADB financial covenants throughout project implementation. The assessment of 
+compliance  will  be  based  on  the  PFI’s  CBU  call  reports  and  financial  statements  prepared 
+according to International Financial Reporting Standards (IFRS) for the year ending 31 December 
+prior to the PFI’s withdrawal. 
+For  specific  PFIs  with  outstanding  issues  on  financial  covenants,  actions  plan  for 
+27. 
+compliances are as follows:   
+(i)  Microcreditbank shall be complied with  CBU regulation on provisioning for standard and 
+unsatisfactory loans by Q4 2019. 
+(ii)  QQB shall be complied with CBU regulation on provisioning for standard loans and on 
+the  maximum  exposure  per  single  borrower  or  group  of  related  borrowers  for 
+uncollateralized loans by Q4 2019. 
+(iii)  Turonbank shall be complied with (a) CBU regulation on provisioning for standard loans 
+and the maximum exposure per single borrower or group of related borrowers by Q4 
+2019; and (b) ADB financial covenant on single borrower exposure by Q4 2019.  
+(iv)  Uzpromstroybank shall be complied with CBU regulation on provisioning for  standard 
+and unsatisfactory loans by Q4 2019. 
+(v)  Xalq  Bank  shall  be  complied  with  CBU  regulation  on  provisioning  for  standard, 
+unsatisfactory, and bad loans by Q4 2019. 
+B. 
+Disbursement 
+28. 
+In  order  to  expedite  the  disbursement  process  for  the  proposed  project,  the  ADB’s 
+Statement of Expenditure (SOE) procedures for financial intermediary loans will be applied. The 
+advance fund processing sequence are described below and the fund flow diagram in Figure 2. 
+Advance  Fund  Processing  Sequence.  The  following  disbursement  sequence  will  be 
+PFI  prepares  the  first  six-month’s  disbursement  projections  (based  on  estimates  of 
+market  demand for  potential  livestock-related  subloans) for  the  initial  6 months  after 
+project start-up for ADB’s project division (CWER) endorsement. 
+PFI  submits  a  withdrawal  application  for  initial  advance  after  confirming  that  all  the 
+disbursement  conditions  have  been  met,  and  the  first  six-month’s  disbursement 
+projections to AIFSA for checking and transmission to ADB. 
+(iii)  ADB  reviews  the  withdrawal  application  and  makes  necessary  advance  to  PFI’s 
+advance account.6 
+(iv)  PFI submits the first three subloan applications to AIFSA for checking and forwarding 
+(v) 
+for review and approval by ADB’s project division. 
+For  subsequent  six-month  periods,  (a)  PFI  disburses subloans using the fund  in the 
+advance account; (b) PFI then submit documents (including list of disbursed subloans 
+and  withdrawal  application)  to  AIFSA  for  checking  of  eligibility  (if  any  issues,  AIFSA 
+clarifies with PFI); and (c) ADB reviews withdrawal and replenishes advance account 
+as necessary. PFI is required to certify that all the eligibility criteria are met for liquidated 
+subloans and AIFSA to confirm based on checking and regular monitoring. 
+6  All selected PFIs are capable of (i) executing foreign exchange and local currency transactions; (ii) handling a large 
+volume of transactions; and (iii) issuing detailed monthly bank statements promptly. Therefore, these PFIs can open 
+separate accounts and/or sub-ledgers for ADB funds in their own accounting systems for the project purpose. 
+29. 
+followed: 
+(i) 
+(ii) 
+21 
+The ADB’s loan proceeds will be disbursed in accordance with ADB’s Loan Disbursement 
+30. 
+Handbook  (2017,  as  amended  from  time  to  time),7  and  detailed  arrangements  agreed  upon 
+between the government and ADB. Online training for project staff on disbursement policies and 
+procedures  is  available.8  Project  staff  are  encouraged  to  avail  of  this  training  to  help  ensure 
+efficient disbursement and fiduciary control.  
+31. 
+The  PFIs  will  be  responsible  for  preparing  disbursement  projections,  collecting  and 
+retaining  supporting  documents,  and  preparing  and  sending  the  list  of  approved  subloans and 
+withdrawal applications to AIFSA. AIFSA will be responsible for checking and submitting the PFIs’ 
+disbursement  projections  and  PFIs’  withdrawal  applications  to  ADB.  PFIs  will  submit  the  all 
+withdrawal  applications  through  AIFSA.  In  addition,  AIFSA  will  be  responsible  for  preparing 
+disbursement  projections  related  to  project  management  and  capacity  development  expenses, 
+collecting  and  retaining  supporting  documents,  and  preparing  and  sending  withdrawal 
+applications related to project management and capacity development expenses to ADB. 
+32. 
+PFIs will disburse subloans based on the six-month disbursement projections approved 
+by ADB. PFIs are required to submit the first three subloan applications to AIFSA for checking 
+and forwarding for ADB’s review and approval. Before submitting a PFI’s withdrawal application 
+to ADB, AIFSA may request the respective PFI to provide a full set of documents for subloans 
+already  approved  by  the  respective  PFI.  Within  7  working  days  from  receipt  of  subloan 
+documents, AIFSA will check to ensure that such approved subloans meet all eligibility criteria 
+set forth in the PAM. In case a subloan does not meet all eligibility criteria, AIFSA will request the 
+respective PFI to (i) remove such an ineligible subloan from its list of subloans; (ii) make refund 
+to the advance account, if disbursement is made from the advance account; and (iii) adjust the 
+withdrawal application accordingly before AIFSA’s onward submission of the list of subloans and 
+withdrawal application to ADB. AIFSA reserves the right to check all approved subloans and/or a 
+specific number of approved subloans on a sample basis. 
+Advance  fund  procedure.  ADB’s  advance  fund  and  SOE  procedures  will  be  used for 
+33. 
+disbursement  under  the  ADB’s  loan.9  AIFSA  and  each  PFI  will  open  one  US  dollar  advance 
+account to facilitate disbursements. AIFSA and each PFI will establish an advance account in its 
+name  and  shall  be  accountable  and  responsible  for  proper  use  of  advances  to  the  advance 
+account. The outstanding advance to the advance account under AIFSA’s name will not exceed 
+AIFSA’s  estimated  six-month  budget  required  for  project  management  expenses.  The 
+outstanding advance to the respective advance account under each PFI’s name will not exceed 
+each  PFI’s  estimated  six-month  budget  required  for  payments  to  be  made  to  eligible 
+subborrowers. The request for initial and additional advances to the advance account should be 
+accompanied  by  an  Estimate  of  Expenditure  Sheet  detailing  (i)  the  estimated  expenditure  for 
+project management for the forthcoming six (6) months in the case of AIFSA, and (ii) the estimated 
+subloans for the forthcoming six (6) months in the case of PFI. The ADB’s project division (CWER) 
+responsible for  project  administration  will  review  the reasonableness of the  6-month  estimates 
+provided by AIFSA and each PFI. 
+34. 
+Statement  of  expenditure  procedure  (SOE).10  The  SOE  procedure  will  be  used  for 
+7 The handbook is available electronically from the ADB website (http://www.adb.org/documents/ loan-disbursement-
+handbook 
+8  Disbursement eLearning. http://wpqr4.adb.org/disbursement_elearning  
+9   Details about SOE procedures are available at    
+(http://www.adb.org/documents/handbooks/loan_disbursement/default.asp). 
+10  SOE forms are available in Appendix 7B and 7D of ADB’s Loan Disbursement Handbook (2017, as amended from  
+time to time). 
+22 
+reimbursement  of  eligible  expenditures  or  liquidation  of  advances  to  the  advance  account(s). 
+AIFSA and PFIs are required to ensure that supporting documents and records for the ADB’s loan 
+amounts  claimed  under  the  SOE  procedure  are  maintained  and  made  available  for  review  by 
+ADB's  disbursement  and  review  missions,  upon  ADB's  requests  for  submission  of  supporting 
+documents on a sampling basis, and for independent audit. 
+35. 
+Before submission of the first withdrawal application, the AIFSA and each PFI will submit 
+to  ADB  sufficient  evidence  of  the  authority  of  the  person(s)  who  will  sign  the  withdrawal 
+applications together with the authenticated specimen signatures of each authorized person. The 
+minimum  value  per  withdrawal  application  is  set  in  accordance  with  the  Loan  Disbursement 
+Handbook. Individual payments below this amount should be paid by each PFI and subsequently 
+claimed from ADB (i) through reimbursement; or (ii) from the advance account, unless otherwise 
+accepted by ADB. 
+36. 
+Each liquidation report financed from the ADB loan will include (i) withdrawal application 
+for liquidation of advance, (ii) statement of expenditures on the ADB loan, (iii) bank statement for 
+the  advance  account,  and  (iv)  the  Advance  Account  Reconciliation  Statements  required  to 
+reconcile all bank statements against the AIFSA’s and PFIs’ records. 
+37. 
+Supporting  documents  should  be  submitted  to  ADB  or  retained  by  AIFSA  and  PFIs  in 
+accordance  with  ADB’s  Loan  Disbursement  Handbook  (2017,  as  amended  from  time  to  time) 
+when liquidating or replenishing the advance accounts. 
+38. 
+Conditions for Loan Disbursement applicable to all PFIs. No withdrawal shall be made 
+under the project for any PFI until such time as the PFI has established an ESMS in accordance 
+with ADB’s Safeguard Policy Statement (2009) requirements. Other withdrawal conditions are in 
+para. 5, Schedule 2 of the Loan Agreement. 
+Specific  financial  covenants  are  presented  under  Section  A.  Financial  Management 
+39. 
+Assessment.  
+C. 
+Accounting 
+40. 
+The PFIs will maintain separate records relating to all subloans financed out of ADB loan 
+proceeds relating to this project. The PFIs will prepare and submit to ADB (through AIFSA) in the 
+English  language  within  six  (6)  months  of  the  end  of  each  financial  year  the  audited  Annual 
+Statement  of  Utilization  of  Funds  for  subloans  approved  and  reimbursed  by  ADB  (“Annual 
+Statement  of  Utilization  of  Funds”).  AIFSA  will  maintain separate  records  relating  to  all  project 
+management expenses financed out of ADB’s loan proceeds relating to the project. AIFSA will 
+prepare  and  submit  to  ADB  in  the  English  language  within  six  (6)  months  of  the  end  of  each 
+financial  year  the  audited  Annual  Statement  of  Utilization  of  Funds  for  project  management 
+approved and reimbursed by ADB (“Annual Statement of Utilization of Funds”). 
+D. 
+Auditing and Public Disclosure 
+41. 
+AIFSA  and  PFIs  shall  (i)  maintain  separate  accounts  and  records  for  the  project;  (ii) 
+prepare annual statements of utilization of funds for the  project in accordance with accounting 
+principles acceptable to ADB; (iii) have such statements audited annually by independent auditors 
+whose qualifications, experience, and terms of reference are acceptable to ADB, in accordance 
+with  auditing  standards  acceptable  to  ADB;  (iv)  as  part  of  each  such  audit,  have  the  auditors 
+prepare  a  report,  which  includes  the  auditors’  opinion(s)  on  the  statements  and the  use  of the 
+23 
+Loan proceeds, and a management letter (which sets out the deficiencies in the internal controls 
+of the project that were identified in the course of the audit, if any); and (v) furnish to ADB, no later 
+than  6  months  after  the  close  of  the  fiscal  year  to  which  they  relate,  copies  of  such  audited 
+financial statements, audit report and management letter, all in the English language, and such 
+other information concerning these documents and the audit thereof as ADB shall from time to 
+time reasonably request. 
+42. 
+PFIs shall (i) provide their annual financial statements prepared in accordance with IFRS; 
+(ii) have its financial statements audited annually by independent auditors whose qualifications, 
+experience and terms of reference are acceptable to ADB, in accordance with auditing standards 
+acceptable  to  ADB;  (iii)  as  part  of  each  such  audit,  have  the  auditors  prepare  the  auditors’ 
+opinion(s) on the financial statements and compliance with the financial covenants of the Project 
+Agreement; and (iv) furnish to ADB, no later than six months after the close of the financial year, 
+copies of such audited financial statements and auditors’ opinion(s), all in the English language, 
+and such other information concerning these documents and the audit thereof as ADB shall from 
+time to time reasonably request. 
+43. 
+AIFSA  and  PFIs  shall  enable  ADB,  upon  ADB's  request,  to  discuss  the  statements  of 
+utilization of funds for the project and the financial statements of the PFIs and its financial affairs 
+where they relate to the project with the auditors appointed by the PFIs and shall authorize and 
+require any representative of such auditors to participate in any such discussions requested by 
+ADB. AIFSA and PFIs shall enable ADB's representatives to inspect any Qualified Subborrower, 
+any Qualified Subproject, and any relevant records and documents. 
+The  Ministry  of  Finance,  the  AIFSA,  and  the  PFIs  have  been  made  aware  of  ADB’s 
+44. 
+approach to delayed submission, and requirements for satisfactory and acceptable quality of the 
+audited annual Statements of Utilization of Funds.11 ADB reserves the right to request a change 
+in the auditor, or request for additional support to be provided to the auditor, if the audits are not 
+satisfactory to ADB, or if the audits are substantially delayed. ADB reserves the right to verify the 
+project's  financial  accounts  to  confirm  that  ADB’s  financing  is  used  in  accordance  with  ADB’s 
+policies and procedures.  
+Public disclosure of the annual audited financial statements for the project, including the 
+45. 
+auditor’s opinion on the statements, will be guided by ADB’s Access to Information Policy 2018.12 
+After the review, ADB will disclose the audited financial statements for the project and the opinion 
+of the auditors no later than 14 days of the date of ADB’s confirmation of their acceptability by 
+posting them on ADB’s website. The auditors may not restrict the publication of their opinion. The 
+management letter and audited entity financial statements will not be disclosed.  
+11  Delayed submission of audited statements (i) of utilization of funds or (ii) financials will trigger the following: (a) ADB 
+will  remind  the  executing  agency  that  statements  are  overdue;  and  (b)  If  the  delay  exceeds  6  months,  ADB  will 
+discontinue disbursements and inform the executing agency that the loan may be suspended if the audit documents 
+are not received within 12 months after the due date. 
+12 ADB’s Access to Information Policy 2018: https://www.adb.org/documents/access-information-policy. 
+24 
+VI. 
+PROCUREMENT AND CONSULTING SERVICES 
+A. 
+Advance Contracting and Retroactive Financing 
+46. 
+Not applicable.  
+B. 
+Procurement of Goods, Works, and Consulting Services 
+Procurement of subloan-financed goods and works will be undertaken by subborrowers 
+47. 
+based on commercial practice. PFIs will monitor the subloan utilization based on their existing 
+regulations. Due diligence of PFIs indicated that PFIs’ loan monitoring procedures are adequate 
+in ensuring that loan funds are utilized for the purpose(s) agreed with PFIs.  
+48. 
+For  procurement  of  goods,  works,  non-consulting  services,  and  consulting  services  for 
+project  management  and  capacity  development,  ADB  Procurement  Policy  (2017,  as  amended 
+from time to time) and Procurement Regulations for ADB Borrowers (2017, as amended from time 
+to time) shall apply. 
+49. 
+Before  the  start  of  any  procurement,  ADB  and  the  government  will  review  the  public 
+procurement  laws  of the  central  and state governments  to  ensure that  the  grant  proceeds  are 
+used with due considerations to the core procurement principles and regulations defined in ADB’s 
+Procurement Regulations (2017, as amended from time to time). In case of any inconsistency, 
+the ADB regulations prevail in accordance with provisions of the grant agreement. 
+All consultants will be recruited in accordance with ADB’s Procurement Regulations (2017, 
+50. 
+as amended from time to time).13 Various consulting services for capacity development will be 
+engaged using the quality- and cost-based selection (QCBS) method with a standard quality-cost 
+ratio of 90:10. Consulting services for project financial audits will be engaged using the least-cost 
+selection (LCS) method.  
+An 18-month procurement plan indicating threshold and review procedures, goods, works, 
+51. 
+and consulting services is stated herewith. 
+C. 
+Procurement Plan 
+Various packages of the procurement plan are presented in the following sections.  The 
+52. 
+basic data of the project is given in table below. 
+13 Checklists for actions required to contract consultants by method available in e-Handbook on Project Implementation 
+at: http://www.adb.org/documents/handbooks/project-implementation/ 
+25 
+Project Name: Livestock Value Chain Development Project 
+Basic Data 
+Project Number: 52110-001-UZB 
+Approval Number: ……… 
+Country: Republic of Uzbekistan 
+Project Financing Amount: US$237.45 million 
+((ADB Financing: US$150.00 million; 
+Subborrowers’ Contribution: US$56.15 million; 
+Government Contribution: US$31.30 million) 
+Date of First Procurement Plan:  
+Executing Agency: Agency for Implementation 
+of Projects in the Field of Agro-industry and 
+Food Security (AIFSA) 
+Implementing Agency: AIFSA and Participating 
+Financial Institutions 
+Date of this Procurement Plan:  
+a. 
+Project Procurement Thresholds 
+Except as ADB may otherwise agree, the following process thresholds given in table below 
+53. 
+shall apply to procurement of goods and works. 
+Thresholds for Procurement of Goods and Works 
+Method 
+Open Competitive Bidding (OCB) for Goods (National Advertisement) 
+Request for Quotations for Goods (RFQs) 
+Threshold 
+Between $100,001 to $2,000,000 
+Up to $100,000 
+Source: Asian Development Bank. 
+b. 
+ADB Prior or Post Review  
+54. 
+Except  as  ADB  may  otherwise  agree,  the  following,  given  in  table  below,  prior  or  post 
+review requirements apply to the various procurement and consultant recruitment methods used 
+for the project. 
+Procurement Methods 
+Procurement Method 
+Procurement of Goods and Works 
+Open Competitive Bidding for Goods 
+Request for Quotations for Goods 
+Recruitment of Consulting Firms 
+Quality and Cost Based Selection (QCBS) 
+Least-cost Selection  
+Source: Asian Development Bank. 
+c. 
+18-Month Procurement Plan 
+Prior or Post 
+Comments 
+Prior 
+Prior 
+Prior 
+Prior 
+QCBS 90:10. 
+Consulting Services Contracts Estimated to Cost More Than $100,000. Table below 
+55. 
+lists the consulting services contracts for which procurement activity is either ongoing or expected 
+to commence within the next 18 months. 
+26 
+Consulting Services to be Procured during the First 18 Months 
+Note: Terms of reference for Package CS-001 are pending for documentation of actual implementation of the similar assistance under 
+Loan 3471-UZB: Horticulture Value Chain Development Project and Loan 3673-UZB: Horticulture Value Chain Development Project 
+(Additional  Financing),  while  those  for  CS-002  and  CS-003  packages  are  in  Supplementary  Document  16  (Veterinary  Services 
+Capacity Development) accessible from the list of linked documents in Appendix 2 of the RRP.  
+Goods Contracts Estimated to Cost Less than $1 Million and Consulting Services 
+56. 
+Contracts Less than $100,000. Table below groups smaller-value goods, works and consulting 
+services  contracts  for  which  procurement  activity  is  either  ongoing  or  expected  to  commence 
+within the next 18 months.  
+Smaller Value Contracts Estimated to Cost Less than $1,000,000 
+Package Number General DescriptionEstimated Value (US$)Recruitment MethodReview (Prior / Post)Type of ProposalAdvert. Date (Quarter/ Year) CommentsAIFSA = Agency for Implementation of Projects in the Field of Agro-industry and Food Security; LCS - least-cost selection; PFI = participating financial institution; and QCBS = quality- and cost-based selection.Q2/2020For improving subloan appraisal skills and social and environmental management in livestock lending.CS-001Capacity development for AIFSA and PFIs216,731QCBS (90:10)PriorSimplified Technical ProposalFor enhancing capacity in dissease controlQCBS (90:10)PriorSimplified Technical ProposalQ2/2020Capacity Development in Institute of Veterinary Medicine and State Veterinary and Livestock CommitteeCS-002731,338CS-003Consulting services for establishment of private veterinary practices586,325QCBS (90:10)PriorSimplified Technical ProposalQ2/2020For enhancing capacity in dissease controlQ3/2020For project managent and capacity development managed by AIFSA onlyCS-004Project financial audits for the first three years (2020, 2021, and 2022)103,717LCSPriorPackage Number General DescriptionEstimated Value (US$) Procurement Method Review (Prior/ Post/ Bidding Procedure Advert. Date (Quarter/ Year) CommentsGoodsGW-001Vehicles55,828RFQPriorQ1/2020Two (2) 4-wheel-drive vehicles for project management officeGW-002Office equipment, airconditioners, computers and peripherals51,362RFQPriorQ1/2020For project management officeGW-003Computer software10,228RFQPriorQ1/2020For project management officeGW-004Equipment for establishment of private veterinary practices300,000OCBPriorQ1/2021Subject to final details provided by consulting services under package CS-003Consulting servicesLCS - least-cost selection; OCB = open competitive bidding; RFQ = request for quotationsQ4/2023For project managent and capacity development managed by AIFSA onlyCS-005Project financial audit for the last two years (2023 and 2024)69,145LCSPrior 
+27 
+VII. 
+SAFEGUARDS 
+57. 
+This  project  is  categorized  as  FI  for  environment  and  FI  (treated  as  C)  for  involuntary 
+resettlement (IR), and indigenous peoples (IP) safeguards since there are no indigenous people’s 
+communities in Uzbekistan.  
+58. 
+ADB  funds  may  not  be  applied  to  the  activities  described  on  the  ADB  Prohibited 
+Investment Activities List set forth in Appendix 5 of the SPS, and the Project Prohibited Investment 
+Activities  List.  The  following  subproject  will  not  be  eligible  for  financing  under  this  project:  (i) 
+subprojects categorized A for environment within the meaning of ADB’s SPS or class 1 or 2 under 
+the government environmental impact assessment requirement, or (ii) subprojects falling under 
+the  Environmental  Exclusion  List  or  having  involuntary  resettlement  impacts  or  impacts  on 
+indigenous peoples.  
+59. 
+Each PFI will have in place an ESMS to be maintained as part of its overall management 
+system to meet Uzbekistan’s national laws and regulations and ADB’s SPS. Eligible subprojects 
+will follow Uzbekistan national environmental regulations. Each PFI is required to (i) demonstrate 
+to ADB that it has a satisfactory ESMS is in place prior to the first disbursement by ADB; and (ii) 
+provide to the AIFSA (the executing agency) annual reports on its ESMS performance. 
+The government shall cause each PFI to ensure that the preparation, design construction, 
+60. 
+implementation, operation and decommissioning of each Qualified Subproject comply with (i) all 
+applicable laws and regulations of the Government relating to environment, health, and safety; (ii) 
+the Environment Safeguards; and (iii) the ESMS, and any corrective or preventative actions set 
+forth in a Safeguards Monitoring Report. 
+61. 
+PFIs shall ensure that each subproject comply with (i) all applicable laws and regulations 
+of the Government relating to environment, health, and safety; (ii) ADB’s SPS; (iii) its ESMS; and 
+(iv) and any corrective or preventative actions set forth in an annual Environmental and Social 
+Performance Report. PFIs shall use their ESMSs for subproject screening, credit appraisal and 
+approval, and supervision and monitoring of subproject implementation. 
+VIII.  GENDER AND SOCIAL DIMENSIONS 
+62. 
+The project is categorized as “effective gender mainstreaming”. The AIFSA and PFIs will 
+carry out and monitor the progress of gender and social dimensions as described in the gender 
+action plan in Table 12. 
+Activities 
+Performance Targets/Indicators 
+Responsibility  
+Table 12: Gender Action Plan 
+Time 
+Frame  
+Output 1: Access to finance in the livestock subsector increased 
+1.1. Extend 
+At least 5% subloans (in number) extended to 
+female-owned livestock producers and 
+agribusiness enterprises (2019 baseline: 0) 
+subloans to 
+female-owned 
+producers and 
+agribusiness 
+enterprises 
+PFIs 
+2020–2024 
+28 
+Activities 
+Performance Targets/Indicators 
+Responsibility  
+At least 30% of subproject labor are female 
+workers in the subproject vicinity (2019 baseline: 
+5%) 
+PFIs 
+Time 
+Frame  
+2020–2024 
+Subloan monitoring system with sex-disaggregated 
+data established in all PFIs (by subloan amount, 
+number of subloans, new jobs created, number of 
+female loan officers, number of PFI female staff at 
+headquarters and branch levels including senior 
+management) (2019 baseline: not applicable) 
+Each PFI conducts at least two trainings for 
+potential subborrowers in preparing subloan 
+documentation (at least 30 participants per PFI, of 
+which at least 30% of participants are women) 
+(2019 baseline: 0) 
+PFIs 
+2020–2024 
+PFIs 
+2020–2024 
+Output 2: Support services to the livestock subsector improved  
+Continuing education program for veterinarians 
+2.1. Organize 
+established at IVM  
+and at least 500 veterinarians trained under the 
+program of which at least 150 are women (2019 
+baseline: 0, this is intended as a new initiative) 
+AIFSA, PMO, 
+and IVM 
+2020–2024 
+AIFSA, PMO, 
+and IVM 
+2020–2024 
+AIFSA, PMO, 
+and PFIs 
+2020–2024 
+Model private veterinary service practice 
+established and providing services to at least 150 
+livestock producers and/or processors, of which at 
+least 45 are of female-owned livestock farms 
+and/or processing enterprises  
+(2019 baseline: 0; this is intended as access to 
+private veterinary services to be piloted and 
+replicated under the project, due to the sporadic 
+services by the state veterinary system. As the pilot 
+is to be designed and replicated, the baseline is 
+zero) 
+At least 80 PFIs loan officers (including at least 25 
+women) applying knowledge gained from project-
+financed training and training in livestock lending 
+credit policy, product development, procedures, 
+and outreach strategy  
+(2019 baseline: 0; no female loan officer has been 
+trained in livestock lending. Training of trainer at 
+PFIs’ head offices is intended and replicated to 
+local branches) 
+1.2. Employ female 
+workers in 
+subprojects 
+financed by 
+PFIs’ subloans 
+1.3. Establish 
+gender 
+monitoring 
+system in PFIs 
+1.4. Support 
+potential 
+subborrowers 
+in preparing 
+subloan 
+documentation  
+training for 
+veterinarians 
+of  the public 
+and private 
+veterinary 
+services 
+2.2. Establish 
+model private 
+veterinary 
+services 
+2.3. Strengthen 
+capacity of 
+PFI’s staff in 
+agribusiness 
+lending  
+Project management and implementation 
+3.1. Establish PMO  PMO employs a gender and social development 
+AIFSA, PMO 
+2020 
+specialist to oversee execution and compliance of 
+the gender dimensions and social safeguards  
+(2019 baseline: not applicable, a new staff will be 
+engaged for the project) 
+Activities 
+Performance Targets/Indicators 
+Responsibility  
+PMO collects sex–disaggregated data, analyzes, 
+and reports annually as part of project progress 
+reports  
+AIFSA, PMO 
+(Note: the system is in place in AIFSA, project-
+specific data will be incorporated)  
+29 
+Time 
+Frame  
+2020–2024 
+PMO conducts at least 2 trainings for gender focal 
+points of PFIs (at least 24 participants are trained, 
+of which at least 8 participants are women) 
+(Note: Similar training has been conducted under 
+the ongoing projects at AIFSA. Additional training is 
+intended as refresher training) 
+AIFSA, PMO 
+2020–2021 
+3.2. Maintain 
+project specific 
+gender-
+disaggregated 
+database and 
+conduct 
+periodic 
+reviews and 
+consultation on 
+the GAP 
+implementation 
+3.3. Conduct 
+gender 
+awareness 
+training for 
+PFIs’ gender 
+focal points to 
+implement the 
+gender action 
+plan and 
+establish 
+gender 
+monitoring and 
+framework 
+AIFSA = Agency for Implementation of Projects in the Field of Agro-industry and Food Security, GAP = gender action 
+plan, IVM = Institute of Veterinary Medicines, PFI = participating financial institution, PMO = project management office. 
+Source: Asian Development Bank. 
+30 
+IX. 
+PERFORMANCE MONITORING, EVALUATION, REPORTING, AND 
+COMMUNICATION 
+A. 
+Project Design and Monitoring Framework  
+63. 
+Key  monitoring  indicators  for  the  project  are  presented  in  the  design  and  monitoring 
+framework (DMF) in Appendix 1 of the Report and Recommendation of the President to the Board 
+of Directors. The AIFSA will established a project performance monitoring system by Q2 2020 to 
+enable monitoring of detailed activities, output, outcome, and impact indicators. 
+B. 
+Monitoring and Reporting 
+Project  performance  monitoring.  Each  PFI  will  be  required  to  include  in  its  quarterly 
+64. 
+progress reports information on its subloan portfolio: (i) name or type of loan product, (ii) borrower 
+characteristics (male and female owned), (iii) loan tenor, (iv) interest rate, (v) repeat loan, new 
+loan, (vi) classification by size, (vii) sector of activity, (viii) region, (ix) number of employees (male 
+and female), and (x) loans approved and disbursed. The reporting template will be provided to 
+the  AIFSA  and  PFIs  prior  to  the  inception  mission.  These  reports  will  be  ADB‘s  basis  for 
+monitoring  and  updating  project  performance  and  measuring  the  development  impact  of  the 
+project.  
+65. 
+Compliance monitoring. Compliance of the PFIs to project agreement covenants will be 
+monitored through periodic ADB review missions, quarterly progress reports by the PFIs, random 
+spot  checks  of  subloan  documents,  and  review  of  the  PFIs'  audited  financial  statements.  An 
+environmental  specialist  will  be  recruited  by  the  PMO  (based  in  AIFSA)  to  help  monitor  PFIs’ 
+training  and  assist  PFIs  in  ESMS  establishment  and  operations  including  the  preparation  of 
+Annual Environmental and Social Performance Reports of the PFIs. 
+Safeguards monitoring. Monitoring and reporting of the implementation of safeguards 
+66. 
+requirements and procedures within the established ESMS will be prepared by PFIs. The PFIs’ 
+quarterly progress reports will include status of compliance with safeguards covenants. The PFIs 
+will submit to AIFSA (the executing agency) annual environmental and social performance reports 
+by the end of January every year. Based on the PFIs’ annual reports, AIFSA will submit to ADB 
+annual Safeguard Monitoring reports by mid-February of the following calendar year.  
+Gender  and  social  dimensions  monitoring.  PFIs  will  be  required  to  report  the  GAP 
+67. 
+achievements in their quarterly progress reports.  
+C. 
+Evaluation 
+ADB will conduct semiannual and midterm review missions to assess the progress of the 
+68. 
+project and review compliance with the loan agreement and project agreement covenants. The 
+midterm  review  mission  will  undertake  a  comprehensive  review  of  the  project  design  and  the 
+performance  of  the  project.  It  may  require  a  change  in  the  design  and  implementation 
+arrangements.  Within  six  (6)  months  after  the  loan  closing  date,  MOF  will  submit  a  project 
+completion report to ADB in a form acceptable to ADB.14 
+14 Project  completion  report  format  is  available  at:  http://www.adb.org/Consulting/consultants-toolkits/PCR-Public-
+Sector-Landscape.rar. 
+31 
+X. 
+ANTICORRUPTION POLICY 
+69. 
+ADB reserves the right to investigate, directly or through its agents, any violations of the 
+Anticorruption  Policy  relating  to  the  project.15  All  contracts  financed  by  ADB  shall  include 
+provisions  specifying  the  right  of  ADB  to  audit  and  examine  the  records  and  accounts  of  the 
+executing agency and all project contractors, suppliers, consultants, and other service providers. 
+Individuals and/or entities on ADB’s anticorruption debarment list are ineligible to participate in 
+ADB-financed  activity  and  may  not  be  awarded  any  contracts  under  the  project.16  To  support 
+these efforts, relevant provisions will be included in the legal agreements.  
+XI. 
+ACCOUNTABILITY MECHANISM 
+People  who  are,  or may  in the future  be,  adversely  affected  by the  project  may  submit 
+70. 
+complaints  to  ADB’s  Accountability  Mechanism.  The  Accountability  Mechanism  provides  an 
+independent forum and process whereby people adversely affected by ADB-assisted projects can 
+voice,  and  seek  a  resolution  of  their  problems,  as  well  as  report  alleged  violations  of  ADB’s 
+operational  policies  and  procedures.  Before  submitting  a  complaint  to  the  Accountability 
+Mechanism, affected people should make an effort in good faith to solve their problems by working 
+with  the  concerned  ADB  operations  department.  Only  after  doing  that,  and  if  they  are  still 
+dissatisfied, should they approach the Accountability Mechanism.17 
+XII. 
+RECORD OF CHANGES TO THE PROJECT ADMINISTRATION MANUAL 
+71. 
+All revisions and/or updates during course of project implementation should be retained in 
+this section to provide a chronological history of changes to implemented arrangements recorded 
+in the PAM.  
+Description of Revision 
+PAM Agreed with the Government, AIFSA, and PFIs at 
+loan negotiations 
+Inception mission 
+Date 
+06 August 2019 
+___/___/_____ 
+15  Anticorruption Policy: http://www.adb.org/Documents/Policies/Anticorruption-Integrity/Policies-Strategies.pdf 
+16  ADB's Integrity Office web site: http://www.adb.org/integrity/unit.asp 
+17  Accountability Mechanism. http://www.adb.org/Accountability-Mechanism/default.asp.  

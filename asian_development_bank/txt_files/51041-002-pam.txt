@@ -1,0 +1,2823 @@
+Horticulture Value Chain Infrastructure Project (RRP UZB 51041) 
+Project Administration Manual 
+Project Number: 51041-002 
+Loan Number: xxxx-UZB 
+October 2018  
+Uzbekistan: Horticulture Value Chain Infrastructure 
+Project 
+Important  Note:  This  Project  Administration  Manual  is  an  active  document.  It  will  be  updated  and  revised 
+progressively  as  and  when  necessary  during  each  review  mission.  The  contents  herein  are  intended  to  assist  and 
+facilitate project management and implementation. If there is any conflict with any other legal agreement(s) related to 
+this project, the provisions in the legal agreements will prevail. 
+ABBREVIATIONS 
+Asian Development Bank 
+agro-logistic center 
+– 
+– 
+–  Ordinary Capital Resources (concessional loan) 
+gender action plan 
+– 
+initial environmental examination 
+– 
+International Public Sector Accounting Standards 
+– 
+land acquisition and resettlement plan 
+– 
+– 
+least-cost selection 
+–  Ministry for Foreign Trade 
+–  Ministry of Finance 
+– 
+– 
+– 
+– 
+–  Rural Restructuring Agency 
+–  Report  and Recommendation  of the  President  to  the  Board of 
+national competitive bidding  
+project management office 
+project management and supervision consultant 
+quality- and cost-based selection 
+Directors 
+statement of expenditure 
+safeguard policy statement 
+– 
+– 
+ADB 
+ALC 
+COL 
+GAP 
+IEE 
+IPSAS 
+LARP 
+LCS 
+MFT 
+MOF 
+NCB 
+PMO 
+PSC 
+QCBS 
+RRA 
+RRP 
+SOE 
+SPS 
+CONTENTS 
+Page 
+I. 
+II. 
+III. 
+IV. 
+V. 
+VI. 
+VII. 
+VIII. 
+IX. 
+X. 
+XI. 
+XII. 
+PROJECT DESCRIPTION 
+IMPLEMENTATION PLANS 
+A. 
+B. 
+Project Readiness Activities 
+Overall Project Implementation Plan 
+PROJECT MANAGEMENT ARRANGEMENTS 
+A. 
+B. 
+C. 
+D. 
+Project Implementation Organizations: Roles and Responsibilities 
+Key Persons Involved in Implementation 
+Project Organization Structure 
+Establishment, Management and Operation of Agro-logistic Centers 
+COSTS AND FINANCING 
+A. 
+B. 
+C. 
+D. 
+Key Assumptions 
+Detailed Cost Estimates 
+Contract and Disbursement S-Curves 
+Fund Flow Diagram 
+FINANCIAL MANAGEMENT 
+A. 
+B. 
+C. 
+D. 
+Financial Management Assessment 
+Disbursement 
+Accounting 
+Auditing and Public Disclosure 
+PROCUREMENT AND CONSULTING SERVICES 
+A. 
+B. 
+C. 
+Advance Contracting and Retroactive Financing 
+Procurement of Goods, Works, and Consulting Services 
+Procurement Plan 
+SAFEGUARDS 
+GENDER AND SOCIAL DIMENSIONS 
+PERFORMANCE MONITORING, EVALUATION, REPORTING, AND COMMUNICATION 
+A. 
+B. 
+C. 
+D. 
+E. 
+Project Design and Monitoring Framework 
+Monitoring 
+Evaluation 
+Reporting 
+Stakeholder Communication Strategy 
+ANTICORRUPTION POLICY 
+ACCOUNTABILITY MECHANISM 
+RECORD OF CHANGES TO THE PROJECT ADMINISTRATION MANUAL 
+APPENDIXES 
+APPENDIX 1:  Project Management Office – Staff Requirement and Summary of Responsibilities 
+APPENDIX 2:  Terms of Reference for Project Management and Supervision Consulting Service 
+APPENDIX 3:  Detailed Cost Estimates of Agro-logistic Centers 
+1 
+1 
+1 
+2 
+3 
+3 
+3 
+5 
+8 
+13 
+13 
+13 
+15 
+17 
+18 
+18 
+20 
+21 
+21 
+22 
+22 
+22 
+24 
+25 
+27 
+30 
+30 
+30 
+30 
+30 
+31 
+31 
+31 
+31 
+33 
+36 
+46 
+Project Administration Manual Purpose  
+1.  The  project  administration  manual  (PAM)  describes  the  essential  administrative  and 
+management requirements to implement the project on time, within budget, and in accordance 
+with the policies and procedures of the government and Asian Development Bank (ADB). The 
+PAM  should  include  references  to  all  available  templates  and  instructions  either  through 
+linkages to relevant URLs or directly incorporated in the PAM. 
+2.  The  Ministry  of  Finance,  the  Rural  Restructuring  Agency  (RRA),  and the  Ministry  for  Foreign 
+Trade  (MFT)  are  wholly  responsible  for  the  implementation  of  ADB-financed  projects,  as 
+agreed  jointly  between  the  borrower  and  ADB,  and  in  accordance  with  the  policies  and 
+for  supporting 
+procedures  of 
+implementation  including  compliance  by  RRA  and  the  MFT  of  their  obligations  and 
+responsibilities for project implementation in accordance with ADB’s policies and procedures. 
+the  government  and  ADB.  ADB  staff 
+is  responsible 
+3.  At  loan  negotiations,  the  borrower  and  ADB  shall  agree  to  the  PAM  and  ensure  consistency 
+with the loan and project agreements. Such agreement shall be reflected in the minutes of the 
+loan negotiations. In the event of any discrepancy or contradiction between the PAM and the 
+loan and project agreements, the provisions of the loan and project agreement shall prevail. 
+4.  After ADB Board approval of the project's report and recommendations of the President (RRP), 
+changes in implementation arrangements are subject to agreement and approval pursuant to 
+relevant government and ADB administrative procedures (including the Project Administration 
+Instructions) and upon such approval, they will be subsequently incorporated in the PAM. 
+I. 
+PROJECT DESCRIPTION 
+1. 
+The  proposed  project  supports  the  government’s  plan  to  establish  horticulture  clusters 
+where  production  and  post-harvest  services  can  be  consolidated  to  improve  efficiency  and 
+economies  of  scale.  It  will  finance  the  establishment  of  agro-logistic  centers  (ALCs)  in  two 
+locations—Andijan  and  Samarkand  regions—taking  into  account  international  best  practices. 
+Such  infrastructure  will  provide  all  necessary  facilities  and  services  under  one  roof:  trading, 
+storage, processing, food safety certification, customs clearance, transport, shipping, marketing 
+advisory  services,  trade  finance,  and  commercial  banking,  etc.  Significantly  larger  volumes  of 
+product with improved quality will be marketed as a result of better post-harvest logistics that will 
+facilitate reduced post-harvest losses and increased domestic sales and exports. The ALCs will 
+enhance value-chain linkages with production, post-harvest processing, and handling following 
+international  quality,  and  safety  standards.  Increased  export  and  domestic  marketing  of 
+horticultural products will increase price transmission to small-scale producers, and small- and 
+medium-sized agribusinesses. It will also support further diversification of the agriculture sector 
+from cotton to horticulture, which generates higher financial and economic returns, and involves 
+fewer social and environmental concerns.  
+II. 
+IMPLEMENTATION PLANS 
+A. 
+Project Readiness Activities 
+Table 1: Project Readiness Activitiesa 
+2018–2019 
+Responsible 
+Nov 18  Dec 18 
+Jan 19 
+Feb 19  Mar 19  Apr 19  May 19 
+▲ 
+▲ 
+▲ 
+▲ 
+▲ 
+RRA, MFT, 
+and ADB 
+RRA and MFT 
+RRA 
+ADB, MOF, 
+RRA, MFT 
+MOF and MOJ 
+MOF 
+ADB 
+▲ 
+RRA, MFT, 
+and ADB 
+▲ 
+▲ 
+▲ 
+Indicative Activities 
+National feasibility study 
+finalization 
+National feasibility study 
+review by the government 
+Government approval 
+(issuance of government 
+resolution) 
+Loan and project 
+agreements signing 
+Government legal opinion 
+provided 
+Government budget 
+inclusion 
+Loan effectiveness 
+Recruitment and 
+mobilization of project 
+management and 
+supervision consultant 
+a Assuming Board approval in December 2018. 
+ADB  =  Asian  Development  Bank,  MFT  =  Ministry  for  Foreign  Trade;  MOF  =  Ministry  of  Finance,  MOJ  =  Ministry  of 
+Justice, RRA = Rural Restructuring Agency. 
+Source: Asian Development Bank staff estimates. 
+2 
+B. 
+Overall Project Implementation Plan 
+Table 2: Project Implementation Plan 
+2018 
+Q
+Q
+3 
+2 
+2020 
+Q
+Q
+3 
+2 
+2019 
+Q
+Q
+3 
+2 
+2021 
+Q
+Q
+3 
+2 
+Q
+4 
+Q
+1 
+Q
+4 
+Q
+1 
+Q
+4 
+Q
+1 
+Q
+4 
+Q
+1 
+2022 
+Q
+Q
+3 
+2 
+Q
+4 
+Q
+1 
+2023 
+Q
+Q
+3 
+2 
+Q
+4 
+Indicative Activities 
+Q
+1 
+1. ALCs established 
+1.1. Issue request for proposal 
+for management and supervision 
+consultant by Q4 2018 
+1.2. Mobilize project 
+management and supervision 
+consultant by Q2 2019 
+1.3. Issue turnkey bid documents 
+by Q3 2019 
+1.4. Sign turnkey contracts to 
+construct two ALCs by Q4 2019 
+1.5. Secure approval for the 
+detailed designs from the 
+government and ADB by Q2 
+2020 
+1.6. Undertake construction and 
+installation of fixtures (Q2 2020–
+Q3 2022) 
+1.7. Commission and hand over 
+ALCs from turnkey contractor to 
+ALC management company by 
+Q4 2022 
+1.8. Conduct test operations of 
+all facilities in ALCs (Q3–Q4 
+2022) 
+2. ALCs management capacity 
+enhanced 
+2.1. Conduct overseas study 
+visits by Q3 2019 
+2.2. Mobilize ALCs operation 
+and management consultant by 
+Q1 2020 
+2.3. Set up ALC management 
+company under the Ministry for 
+Foreign Trade by Q4 2019 
+2.4. Prepare operation and 
+management guidelines for 
+ALCs by Q1 2020 
+2.5. Conduct training in 
+management, operation, and 
+maintenance of ALCs (Q1 2021–
+Q2 2023) 
+2.6. Conduct training in 
+horticulture business 
+development and management 
+(Q1 2021–Q2 2023) 
+3. Project Management 
+Activities 
+3.1. Replenish project 
+management office with required 
+staff by Q1 2019 
+3.2. Set up project performance 
+management system by Q3 
+2019 
+3.3. Prepare annual progress 
+3 
+Indicative Activities 
+reports 
+3.4. Prepare project completion 
+report by Q4 2023 
+2018 
+Q
+Q
+3 
+2 
+Q
+1 
+Q
+4 
+Q
+1 
+2019 
+Q
+Q
+3 
+2 
+Q
+4 
+Q
+1 
+2020 
+Q
+Q
+3 
+2 
+Q
+4 
+Q
+1 
+2021 
+Q
+Q
+3 
+2 
+Q
+4 
+Q
+1 
+2022 
+Q
+Q
+3 
+2 
+Q
+4 
+Q
+1 
+2023 
+Q
+Q
+3 
+2 
+Q
+4 
+ADB = Asian Development Bank, ALC = agro-logistic center, Q = quarter.  
+Source: Asian Development Bank. 
+III. 
+PROJECT MANAGEMENT ARRANGEMENTS 
+A. 
+Project Implementation Organizations: Roles and Responsibilities 
+Project implementation 
+organizations 
+Rural Restructuring Agency 
+(RRA) (Executing Agency) 
+Ministry for Foreign Trade 
+(Supervising the ALC 
+management company) 
+Asian Development Bank (ADB) 
+ALC = agro-logistic center. 
+Management Roles and Responsibilities 
+➢  Coordinate implementation of all project activities, including 
+procurement, supervision of detailed design and construction with 
+assistance of the project management and supervision consultant 
+(PSC) 
+➢  Monitor timely contract awards and disbursement from ADB loan 
+proceeds 
+➢  Prepare payment documents including withdrawal applications 
+related to direct payment and advance account (advance, 
+projections, liquidation, and replenishment) 
+➢  Monitor safeguards and gender implementation progress and 
+compliance 
+➢  Prepare quarterly and annual progress reports, annual 
+safeguards monitoring reports, project completion report to ADB 
+within 6 months from project physical completion 
+➢  Set up the ALC management company  
+➢  Chair the supervisory board of the ALC management company 
+and monitor its operation  
+➢  Monitor project achievements as described in the design and 
+monitoring framework and compliance with covenants and 
+safeguards as set out in loan and project agreements 
+➢  Conduct field reviews of implementation twice a year 
+Key Persons Involved in Implementation 
+B. 
+Executing Agency 
+Rural Restructuring Agency 
+(RRA) 
+Officer’s Name: Sh. Shoakhmedov 
+Position: Director General 
+Telephone: (+998 71) 241 2002 
+Email address: info@rra.uz  
+Officer’s Name: Bakhtiyor Kamalov 
+Position: Deputy General Director 
+Telephone: (+998 71) 241 2002 
+Email address: hvp@rra.uz 
+Office Address: 1A, Labzak str., Tashkent, 100004, Republic of 
+Uzbekistan 
+Implementing Agency 
+Ministry for Foreign Trade 
+(Supervising the ALC management 
+company) 
+Officer's Name: Sakhib I. Saifnazarov 
+Position: Deputy Minister 
+Telephone: (+998 71) 238 5002 
+Email address: s.saifnazarov@mft.uz 
+4 
+ALC = agro-logistic center. 
+Asian Development Bank 
+Environment, Natural Resources, 
+and Agriculture Division (CWER); 
+Central and West Asia Department 
+(CWRD) 
+Project Team Leader 
+Office address: 51, Istiqlol Street, Tashkent 100047, Republic of 
+Uzbekistan 
+Donneth Walton 
+Director, CWER 
+Telephone: +632 632 5847 
+Email address: dwalton@adb.org 
+Bui Minh Giap 
+Senior Natural Resources and Agriculture Economist 
+Telephone: +632 632 6900 
+Email address: buigm@adb.org  
+5 
+C. 
+Project Organization Structure  
+The project organization chart is depicted in Figure 1 and the project management office 
+2. 
+(PMO) staff requirement and responsibilities are in Appendix 1. 
+Figure 1: Project Organization Chart 
+Asian 
+Development Bank 
+ (as the lender) 
+Loan Agreement  
+– governing terms and conditions of the ADB 
+loan 
+Reporting on 
+loan fund 
+utilization 
+Project 
+Agreement – 
+governing 
+project 
+implementation 
+and 
+Ministry of Finance  
+(as the sovereign 
+borrower) 
+Ministry for 
+Foreign Trade  
+(as the supervising agency) 
+Monitoring 
+and 
+reporting the 
+management 
+and 
+operation of 
+the ALCs 
+Rural Restructuring 
+Agency (RRA) 
+(the executing agency assisted 
+by the Project Management 
+and Supervision Consultant 
+[PSC]) 
+Coordination in the 
+ALCs 
+establishment 
+(design, 
+construction, and 
+handover) 
+ALC Management 
+Company 
+(to be established by and 
+under the Ministry for 
+Foreign Trade [MFT]) * 
+Two ALCs (one in Andijan and one in 
+Samarkand) established through 
+turnkey contract and handed over to 
+the ALC Management Company 
+Contracts governing terms of 
+lease and/or concession 
+Clients (enterprises and producers) using ALC facilities  
+on user-pay principle 
+ALC = agro-logistic center.  
+* The ALC management company will have a supervisory board which will be chaired by a MFT’s deputy minister with 
+senior representatives from the Ministry of Agriculture, the Chamber of Commerce, customs authority, regional 
+governments of Andijan and Samarkand, and other relevant sector agencies. 
+Source: Asian Development Bank. 
+6 
+3. 
+Project implementation and management structure. The Rural Restructuring Agency 
+(RRA)  will  be  the  executing  agency  of  the  project  and  will  be  responsible  for  the  overall 
+implementation of the project. The Ministry for Foreign Trade (MFT) and the ALC management 
+company (once established) will be the implementing agencies for the project. The MFT will be 
+responsible  for  the  establishment  of  the  ALC  management  company  as  a  limited  liability 
+company,  which  will  be  fully-owned  by  the  government.  The  ALC  management  company  will 
+own,  operate  and  manage  the  ALCs.  The  management  board  of  the  ALC  management 
+company,  comprising  of  one  managing  director  and  two  deputy  managing  directors,  will  be 
+responsible for the day-to-day operations of the ALC management company. 
+4. 
+The ALC management company will have a supervisory board which will be chaired by a 
+MFT’s deputy minister with senior representatives from the Ministry of Agriculture, the Chamber 
+of  Commerce,  customs  authority,  regional  governments  of  Andijan  and  Samarkand,  and/or 
+other relevant sector agencies. The supervisory board will hold its meeting on a quarterly basis 
+and will be responsible for ensuring that (i) the ALC management company operates with good 
+governance  and  in  accordance  with  applicable  laws  and  regulations  of  the  Republic  of 
+Uzbekistan; (ii) the products traded in each ALC comply with quality and safety standards; and 
+(iii) the ALCs provide regular and solution-oriented feedback to help the government formulate 
+policies,  strategies,  and  regulations  related  to  (a)  organizing  and  modernizing  the  horticulture 
+value  chain;  (b)  improving  linkages  between  value  chain  actors;  and  (c)  agro-product  safety, 
+traceability, and certifications. 
+5. 
+The  project  management  office  (PMO)  established  under  the  RRA,  and  the  project 
+management  and  supervision  consultant  (PSC)  engaged  under  the  project  will  assist  the  ALC 
+management company in setting up ALCs, including preparation of ALCs’ detailed designs, land 
+acquisition,  compliance  with  social  and  environmental  safeguards,  construction  of  civil  works 
+and purchase and installation of equipment. The RRA, through the PMO, will recruit the PSC as 
+an  international  firm  using  the  quality-and  cost-based  selection  (90:10)  method  in  accordance 
+with ADB’s  Procurement Guidelines  (2015,  as  amended from time to  time).  The  PMO  and the 
+PSC will assist the ALC management company in recruiting a turnkey contractor to design and 
+construct  the  ALCs.  The  ALC  management  company  will  supervise  the  detailed  design  and 
+construction with assistance of the PMO and the PSC. 
+6. 
+Operation  of  the  ALCs  and  private  sector  participation.  The  ALC  management 
+company  will  operate and manage the  ALCs  on commercial  and  cost-recovery  principles. The 
+ALC  management  company  will  lease  out  the  ALC  facilities  to  private  sector  users  and/or 
+operators  on  user-pays  principle.  Prospective  private  sector  clients  will  include  producers 
+(farmers), processors, traders, exporters, and other support service providers such as transport 
+companies,  banks,  insurance  companies  and  brokerage  houses,  among  others. With  all  post-
+harvest  activities  taking  place  within  the  premises,  the  ALCs  will  help  strengthen  linkages 
+among  value  chain actors,  both  upstream  and downstream,  and  increase efficiency gains and 
+value addition along the horticulture value chain.  
+To  ensure 
+7. 
+autonomous, it must have: 
+the  ALC  management  company 
+is  operationally  and  commercially 
+independent decision-making powers;  
+• 
+•  no involvement in trading activities at the ALCs; 
+• 
+the ability to own its assets;  
+7 
+• 
+• 
+• 
+• 
+• 
+the  power  to  incur  liabilities,  for  and  on  its  own  behalf,  and  accept  and  enter  into 
+future obligations and commitments;  
+the capacity to implement an appropriate accounting system to enable it to submit its 
+accounts to the national tax authorities in accordance with the applicable laws of the 
+Republic of Uzbekistan;  
+the power to borrow and raise funds;  
+the ability to function in a manner that shall generate sufficient revenue to keep the 
+ALCs in good working conditions and to enable them to meet the commercial, social, 
+and environmental criteria; and 
+the capacity to comply with prevailing legal and regulatory requirements.  
+limited 
+liability  enterprise, 
+Performance  Criteria.  As  a  state-owned 
+8. 
+the  ALC 
+management  company  will  be  subject  to  annual  performance  monitoring  by  the  government. 
+The  MFT  will  ensure  an  annual  assessment/audit  of  the  ALC  Management  Company,  starting 
+from the second year after commencement of commercial operation of the ALCs, by employing, 
+among  others,  a  combination  of  the  following  financial  and  physical  indicators:  (a)  Financial: 
+return on assets (of at least equal to annual inflation rate of the reporting year plus 2.0%); and 
+debt  to  equity  (not  exceeding  1.5  times);  and  (b)  Physical:  occupancy  rate  of  the  wholesale 
+market area (of no less than 65%); occupancy rate of the small-farmers’ market area for each 
+ALC  (of  no  less  than  70%);  total  processing  throughput  in  each  ALC  for  export  and  domestic 
+sales (of no less than 0.7 million tons); and utilization rate of cold storage capacity in each ALC 
+(of no less than 0.9 million tons).  
+Organization  Structure  of  the  ALC  Management  Company.  The  ALC  management 
+9. 
+company  will  have  three key  departments:  (i)  Administration  Department,  with subdivisions for 
+Finance, and Legal Affairs and Human Resources; (ii) Operations Department, with subdivisions 
+for  Sales  and  Marketing,  and  Business;  and  (iii)  Technical  Department,  with  subdivisions  for 
+Engineering  and  Services.  Each  department  and  subdivision  will  be  headed  by  a  manager. 
+Subsidiary  units  will  be  headed  by  a  unit  head  and  have  subject  specialists  and  support  staff 
+appropriate to each subdivision. The organization structure of the ALC management company is 
+in Figure 2.  
+8 
+Figure 2: Organization Structure of the ALC Management Company 
+D. 
+Descriptions of Agro-logistic Centers 
+1. 
+Location and Site Selection 
+10. 
+The selection of the location for the ALCs reflected an assessment of the potential of all 
+Uzbekistan’s  12  regions  and  the  Autonomous  Republic  of  Karakalpakstan  based  on  (i)  the 
+existing  and  potential  levels  of  horticulture  production;  and  (ii)  existing  market,  post-harvest, 
+transport,  and  utilities  infrastructure,  and  ease  of  access  to key  domestic  and  export  markets. 
+Discussions  were  held  with  horticulture  sector  stakeholders  and  potential  participants  in  ALC 
+management  and  operation  at  regional  and  national  levels.  Such  stakeholders  included 
+provincial  and  district  administrations,  market  operators  and  users,  owners  and  operators  of 
+post-harvest  facilities  (cold  storage,  processing,  etc.,),  farmers  (including  dehkan  [small-scale] 
+farmers) and traders, RRA, and concerned government ministries. 
+11. 
+The  choice  of  Andijan  and  Samarkand  is  based  on  their  greater  suitability  relative  to 
+other  areas  of  Uzbekistan.  In  particular,  Andijan  and  Samarkand  is  based  on  their  favorable 
+agro-climatic  conditions  that  allow  multiple  fruit  and  vegetable  crops  per  year.  Together,  they 
+account  for  25%  of  the  total  area  in  Uzbekistan  under  horticulture  crops  and  for  30%  of  total 
+9 
+production,  which  are  significantly  higher  than  other  regions.  They  have  large  dehkan  farmer 
+populations,  accounting  for  22%  of  all  dehkan  farmers  in  Uzbekistan,  who  will  benefit  from 
+increased  market  opportunities.  Andijan  and  Samarkand  also  have  significant  urban 
+populations,  are  well  connected  to  other  urban  centers  in  Uzbekistan,  and  are  strategically 
+located  for  access  to  export  markets.  1  There  was  also  strong  support  from  Andijan  and 
+Samarkand regional administrations for establishing the ALCs in their locality. 
+12.  Within  Andijan  and  Samarkand,  selection  of  the  specific  site  for  location  of  each  ALC 
+was based on a number of criteria, as follows: (i) availability of a land plot of at least 50 hectare 
+(ha)  (with  potential  expansion  up  to  100  ha)  not  currently  in  use;  (ii)  proximity  to  main  city 
+center;  (iii)  easy  (and  close)  access  to  transportation  infrastructure  (provincial  highways  and 
+railways);  (iv)  access to utilities  (electricity, gas, and water);  (v)  level  terrain (without  hills); (vi) 
+safe  distance  from  watercourses  (river,  streams,  and  springs);  (vii)  outside  environmentally 
+protected  area;  (viii)  safe  distance  from  large-scale  industrial  or  chemical  plants;  (ix)  minimal 
+impacts of land acquisition and resettlement;  (x) ease of access for construction works; and (xi) 
+supportive regional and district administration. 
+13. 
+Andijan  Site.  The  ALC  at  Andijan  comprises  (a)  approximately  25,000  square  meters 
+(m2) of trading area split evenly between wholesale and small farmer sales areas with an annual 
+throughput of around 425,000 tons; (b) approximately 60,000 cubic meters (m3) of cold storage 
+with an annual capacity of approximately up to 1.5 million tons; (c) 12 processing lines with an 
+approximate  annual  throughput  of  600,000  tons  for  export  and  80,000  tons  for  the  domestic 
+market;  and  (d)  provision  of  groundworks  for  future  expansion  of  the  ALC  for  an  increased 
+volume  of  horticulture  produce  and/or  trading,  storage,  and  processing  of  alternative  food 
+product. The ALC at Andijan will be located in Andijan district away from, but well connected to 
+Andijan city. The site is located on National Highway 4P112 and the A373 (Tashkent - Fergana 
+Valley road) and opposite the airport. It is in the center of the major production areas of Andijan 
+region  in  Andijan,  Asaka,  Jalalkuduk,  Pakhtaabad,  and  Shakhrihon  districts.  It  is  also  well 
+located  for  access  to  and from  neighboring  regions  of  Fergana  and  Namangan,  and  to  export 
+destinations.  The  identified  site  covers  a  gross  area  of  51.43  ha,  of  which  40.90  ha  will  be 
+developed under the proposed project, and the remaining area is reserved for future expansion. 
+Samarkand  Site.  The  ALC  at  Samarkand  comprises:  (a)  approximately  35,600  m2  of 
+14. 
+trading  area  split  evenly  between  wholesale  and  small  farmer  sales  areas  with  an  annual 
+throughput of around 550,000 tons; (b) approximately 60,000 m3 of cold storage with an annual 
+capacity of up to 1.5 million tons; (c) 17 processing lines with an approximate annual throughput 
+of  850,000  tons  for  export  and  150,000  tons  for  the  domestic  market;  and  (d)  provision  of 
+groundworks  for  future  expansion  of  the  ALC  for  an  increased  volume  of  horticulture  produce 
+and/or trading, storage and processing of alternative food products. The ALC at Samarkand will 
+be located in Jomboy district with good connection to Samarkand city. It is on National Highway 
+M39  connecting  Samarkand  with  Tashkent  and  is  close  to  Samarkand  airport.  The  location  in 
+Jomboy  will  enable  traders  from  southern  regions  of  Surkandarya  and  Kashkadarya  to  avoid 
+passing through Samarkand city thereby avoiding traffic congestion in the city. It is in the center 
+of the major production areas of Samarkand Region in Bulungur, Jomboy, Samarkand, Toyloq, 
+and Urgut districts. The identified site covers a gross area of 78.00 ha, of which 54.83 ha will be 
+developed  under  the  proposed  project,  and  the  remaining  area  is  reserved  for  future 
+1  ALCs  in  Tashkent  region  and/or  other  regions  may  be  considered  in  another  project  or  an  additional  financing, 
+subject to the government’s request and further due diligence by ADB. 
+10 
+expansion.2    Both  ALCs  will  include  on-site  trade  support  facilities  such  as  quality  and  safety 
+certification, online market information system, banking, and custom services, among others. 
+2. 
+Key Design Features of the ALCs 
+15. 
+Each ALC is designed as a hub, at the center of which is the administration building that 
+will  house  ALC  administration  offices,  and  complementary  services  for  market  users  such  as 
+financial services, laboratory services and certification, customs clearance, transport agencies, 
+accommodation,  and  restaurant.  Around  the  administration  building,  the  market  trading  areas, 
+cold  storage  buildings,  and  processing  buildings will  be  constructed.  All  buildings  and facilities 
+will be based on a modular format so that they may be replicated to cater for increased demand 
+for a particular type of service. This approach provides flexibility for the future expansion of the 
+ALC  to  handle  larger  volumes  of  horticulture  produce  or  to  diversify  into  alternative  products 
+such as meat and dairy (if needed). Detailed cost estimates are in Appendix 3. 
+16. 
+Key features and functions of each ALC are as follows.3 
+17. 
+Entrance Area features the following: 
+• 
+• 
+• 
+• 
+Arrival 
+Registration and document checking 
+Weighing (not mandatory) 
+Redirection to: 
+• 
+Market  building  –  areas  for  (i)  wholesale  traders,  brokers,  exporters, 
+medium-size farmers, and (ii) small farmers. 
+Post-harvest  services  building  –  area  for  washing,  weighing,  sorting, 
+grading,  and  packaging  for  local  distribution.  Areas  will  be  crop  specific, 
+combining produce of similar dimensions.  
+Post-harvest  services  building  –  area  for  washing,  weighing,  sorting, 
+grading, and packaging for export. Areas will be crop specific. 
+Processing area – peeling, cutting, and preserving depending on crop. In 
+the  Andijan  ALC  an  area  is  proposed  specifically  for  tomato  processing 
+given the volume of production in the Andijan area. 
+Cold storage for cold or frozen product storage. 
+Administrative building.  
+• 
+• 
+• 
+• 
+• 
+18.  Market  building  area  for  wholesale  traders,  brokers,  exporters,  medium-size 
+farmers.  This  is  the  fruit,  vegetables,  and  tubers  wholesale  area  within  warehouses  and/or 
+pavilions,  with  a  central  aisle  for  buyers  and  commercial  areas  (rentable  on  an  annual  or 
+monthly basis) to the side arranged in stalls (10m by 6m) with a door to a loading and unloading 
+dock  for  shipping  by  pallet  or  in  boxes.  Stalls  will  be  designed  to  include  cold  storage,  basic 
+processing and packing area, and office space at the cost of the tenant. Andijan ALC will have 
+three  warehouses,  around  18,000  m2,  capacity  400,000–450,000  tons  per  year;  while 
+Samarkand ALC will have four warehouses, around 25,000 m2, capacity 550,000–600,000 tons 
+per year. 
+19.  Market  building  area  for  small  farmers.  This  is  an  area  within  warehouses  and/or 
+2  ALCs  in  Tashkent  region  and/or  other  regions  may  be  considered  in  another  project  or  an  additional  financing, 
+subject to the government’s request and further due diligence by ADB.  
+3  The  specific  size  and  functional  capacity  of  each  ALC  are defined  in the  detailed  feasibility  studies of  each  ALC 
+(available on request). 
+11 
+pavilions  dedicated  for  use  by  small  farmers  and  rented  by  the  day  or  week  to  accommodate 
+sellers with smaller product volumes and selling on an intermittent basis. Sales areas comprise 
+floor space demarcated into 3m x 2m blocks. The area will have a cold store for common use. 
+The upper floor of the market building can be used to house additional storage, accommodation, 
+and restaurants. 
+20. 
+Post-harvest services building - areas for internal distribution and export of fresh 
+and  processed  fruits  and  vegetables.  This  is  a  building  incorporating  processing  lines  for 
+basic processing of fruit, vegetables, and tubers for domestic sale and export. There will be 12 
+processing lines in the Andijan ALC, and 17 processing lines in the Samarkand ALC, each with 
+a  capacity  of  10–15  tons/hour,  depending  on  the  projected  throughput  by  type  and  volume  of 
+fruit and vegetables. 
+21. 
+The envisaged processing flow is as follows: 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Arrival at the loading dock and unloading of produce 
+Reception and produce weighing 
+Precooling  
+Processing 
+Cleaning 
+Classification by size, weight, color, as appropriate 
+Conservation and product packing/packaging 
+Delivery to (i) wholesale market, (ii) cold storage, and (iii) exporters 
+Current  practice  is to transport  produce  in  bulk, which results  in significant  losses. The 
+22. 
+two  ALCs  will  operate  a  standardized  packing  management  system  for  all  fruit  and  vegetable 
+produce  chain.  All  users  of  processing  facilities  will  be  required  to  use  crates,  pallets,  and 
+containers. Their use will also be promoted for producers, consolidators, transporters, wholesale 
+and  retail  sellers,  and  exporters.  The  post-harvest  services  building  includes  the  following 
+infrastructure and/or facilities: 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Product reception area (from trucks, vans, cars, tractors) 
+Area for transfer of products from vehicles 
+Vehicle and driver waiting area 
+Weighing area, including scales 
+Area for transfer of products to processing facilities 
+Processing area (depending on the type of product to be processed) 
+Walkways between processing areas 
+Packing and packaging area 
+Area for preparation of delivery 
+Office for product control and monitoring 
+Laboratory for quality and/or safety analysis 
+Sanitary for both sexes for workers 
+Staff changing rooms and washrooms 
+Dining room  
+Administrative offices and conference room 
+Area for fork lift parking and battery charging, and maintenance equipment 
+Storage area for supplies, and processing chemicals  
+Fuel storage tanks 
+Area for washing and cleaning pallets, crates, and boxes 
+12 
+Cold storage building. The cold storage building will predominantly provide storage for 
+23. 
+produce  destined  for  export.  Each  refrigeration  or  freezing  chamber  will  be  15m  x  10m  x  7m 
+(1,050  m3)  with  three  storage  levels  using  a  rack  system.  At  each  ALC,  it  is  proposed  to 
+establish  60  chambers  providing  around  63,000  m3  with  a  capacity  of  21,000  tons,  and  an 
+annual  throughput  of  1.5  million  tons.  The  cold  storage  building  includes  the  following 
+infrastructure and/or facilities: 
+• 
+• 
+• 
+Administrative area  
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Administration and customer service office 
+Quality management office 
+Meeting room 
+User/customer room  
+Staff dining room 
+Staff washrooms and rest rooms 
+Storage for utensils and supplies 
+Warehouse area  
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Engine room 
+Electricity supply, transformer, distribution rooms 
+Cold storage control and monitoring room 
+Area for emergency power generation equipment 
+Maintenance area with office 
+Storage for cages, racks, pallets or structures used in cold storage 
+Storage for general supplies 
+Storage for chemicals used in cold storage 
+Office for health authorities 
+Area for cold storage  
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+• 
+Central entrance door to chambers  
+Freezing-resistant chamber floors 
+Handling area, heated to 5° Celsius 
+Freezing tunnel, with blast freezer 
+Disinfection areas in front of chamber entry points and on forklift ramp 
+Emergency exits 
+Office to control product entry and exit 
+Staff washrooms and rest rooms 
+Administrative building. This is a four-story building with 1,000 m2 usable area on each 
+24. 
+level. This will be where the ALC administration office of the management company is located. It 
+will also provide space for complementary services for ALC users, such as customs clearance, 
+laboratory facilities, health, first aid and pharmacy, communications, financial services (currency 
+exchange  and  banking),  restaurant,  and  accommodation.  It  is  proposed  to  rent  space  on  first 
+level  to  service providers  with  rentable  areas  ranging from  20  m2 to  100  m2. The  second  level 
+would house the offices of the ALC management company, the third level the business center, 
+meeting and training rooms and laboratory, and the fourth level is for the customs office. 
+13 
+IV. 
+COSTS AND FINANCING 
+A. 
+Key Assumptions 
+The  following  key  assumptions  underpin  the  cost  estimates  and  financing  plan:  (i) 
+25. 
+exchange rate:  UZS8,140  =  $1.00;  and  (ii)  price  contingencies  based  on  expected  cumulative 
+inflation over the implementation period are as follows: 
+Table 3: Escalation Rates for Price Contingency Calculation 
+Item 
+Foreign rate of price inflation 
+Domestic rate of price inflation 
+Source: Asian Development Bank. 
+2019 
+1.5% 
+14.0% 
+2020 
+1.5% 
+9.1% 
+2021 
+1.6% 
+7.9% 
+2022 
+1.6% 
+7.5% 
+2023 
+1.6% 
+7.5% 
+B. 
+Detailed Cost Estimates 
+Table 4: Detailed Cost Estimates by Expenditure Category 
+(UZS Million)(US$ '000)% TotalLocalForeignTotalLocalForeignTotalBase Costs I. Investment Costs A. ALC Civil Works 1,343,646.3201,265.11,544,911.4165,067.124,725.4189,792.686.0B. ALC Plant, Equipment and Vehicles 79,399.792,633.0172,032.79,754.311,380.021,134.210.0C. Project Management 19,688.67,326.027,014.62,418.8900.03,318.82.0D. Consulting Services Project Management and Supervision Consultants 4,647.930,052.934,700.8571.03,692.04,263.02.0E. Environmental Management 567.863.1630.969.87.877.50.0F. Resettlement 10,610.10.010,610.11,303.50.01,303.51.0G. Project Financial Audit 2,197.80.02,197.8270.00.0270.00.0Total BASELINE COSTS 1,460,758.2331,340.01,792,098.3179,454.340,705.2220,159.5100.0Physical Contingencies 48,718.68,531.857,250.45,985.11,048.17,033.23.0Price Contingencies 424,880.998,616.1523,497.07,273.51,681.18,954.74.0Total PROJECT COSTS 1,934,357.7438,487.92,372,845.7192,713.043,434.4236,147.4107.0Interest During Implementation 0.084,270.484,270.40.08,599.48,599.44.0Total Costs to be Financed 1,934,357.7522,758.32,457,116.0192,713.052,033.9244,746.8111.0ALC = agro-logistic centerSource: Asian Development Bank. 
+14 
+Table 5: Allocation and Withdrawal of Loan Proceeds 
+Table 6: Detailed Cost Estimates by Financier ($’000) 
+ADB COL FINANCINGCategorySub-CategoryInvestment Costs197,000,0001Goods and Works (Turnkey Contract)187,119,707100 percent of total expenditure (*)2Other Expenditures, including: (a) Project Management and Supervision Consultants; (b) Project Management; (c) Resettlement;(d) Project Financial Audit; and(e) Environmental Management9,880,293100 percent of total expenditureTotal197,000,000(*) Exclusive of taxes and duties, to be financed by the Government through exemptions.ALC = agro-logistic center; COL = Ordinary Capital Resources (concessional loan).Source: Asian Development Bank.Horticulture Value Chain Infrastructure ProjectCATEGORYNo.ItemAmount Allocated [$]Percentage and Basis for Withdrawal from the Loan ADB a/The GovernmentTotalDuties &Amount%Amount%Amount%TaxesA. ALC Civil Works 169,885.183.333,977.016.7203,862.183.333,977.0B. ALC Plant, Equipment and Vehicles 17,234.676.95,170.423.122,405.09.25,170.4C. Project Management b/ 3,526.6100.00.00.03,526.61.4108.0D. Consulting Services Project Management and Supervision Consultants 4,482.5100.00.00.04,482.51.80.0E. Environmental Management 90.7100.00.00.090.70.00.0F. Resettlement 1,500.0100.00.00.01,500.00.60.0G. Project Financial Audit 280.6100.00.00.0280.60.146.8Total PROJECT COSTS 197,000.083.439,147.416.6236,147.496.539,302.1Interest During Implementation 0.00.08,599.4100.08,599.43.50.0Total Disbursement 197,000.080.547,746.819.5244,746.8100.039,302.1ALC = agro-logistic centera/ Ordinary Capital Resource (concessional loan); ALC = agro-logistic centerb/ For project management expenses, ADB loan will cover social charges related to staff salaries, and miscellaneous expenses budgetunder project management will cover among others the office refurbishment expenses.Source: Asian Development Bank. 
+Table 7: Detailed Cost Estimates by Output and Component ($’000) 
+15 
+Table 8: Detailed Cost Estimates by Year ($’000) 
+ALCAndijanSamarkandManagementAgro-logisticAgro-logisticCapacityProjectCenterCenterEnhancedManagementTotalA. ALC Civil Works 87,572.4116,289.70.00.0203,862.1B. ALC Plant, Equipment and Vehicles 9,885.112,519.90.00.022,405.0C. Project Management 0.00.01,200.02,326.63,526.6D. Consulting Services Project Management and Supervision Consultants 0.00.01,300.03,182.54,482.5E. Environmental Management 0.00.00.090.790.7F. Resettlement 0.00.00.01,500.01,500.0G. Project Financial Audit 0.00.00.0280.6280.6Total PROJECT COSTS 97,457.5128,809.62,500.07,380.3236,147.4 Interest During Implementation 3,534.04,670.9126.9267.68,599.4Total Costs to be Financed100,991.5133,480.52,626.97,647.9244,746.8ALC = agro-logistic centerSource: Asian Development Bank.Agro-logistic Centers Established20192020202120222023TotalA. ALC Civil Works 0.052,306.295,772.855,783.10.0203,862.1B. ALC Plant, Equipment and Vehicles 0.00.00.022,405.00.022,405.0C. Project Management 461.51,012.3952.7659.9440.23,526.6D. Consulting Services Project Management and Supervision Consultants 1,237.71,369.71,373.4501.60.04,482.5E. Environmental Management 67.55.65.75.85.990.7F. Resettlement 1,500.00.00.00.00.01,500.0G. Project Financial Audit 54.455.256.157.057.9280.6Total PROJECT COSTS 3,321.254,749.098,160.779,412.4504.0236,147.4Interest During Implementation31.8475.71,623.32,940.73,527.88,599.4Total Costs to be Financed3,353.055,224.799,784.082,353.14,031.9244,746.8ALC = agro-logistic centerSource: Asian Development Bank. 
+16 
+C. 
+Contract and Disbursement S-Curves 
+Table 9: Projections for Contract Awards and Disbursement 
+ADB's Concessional OCR Loan ($ million)Year Q1  Q2 Q3  Q4  Total  Q1  Q2  Q3  Q4  Total 20190.04.50.00.04.50.00.50.30.21.020200.00.00.0187.1187.10.00.00.019.719.720210.02.00.00.02.010.015.010.043.878.820222.00.00.00.02.030.035.07.06.878.820230.00.90.50.01.43.03.03.83.012.820240.00.00.00.00.05.90.00.00.05.9Total197.0197.0$ millionYearSource: ADB estimatesProjections for Contract AwardsProjections for Disbursement 0.050.0100.0150.0200.0250.0123456Contract AwardsDisbursement 
+D. 
+Fund Flow Diagram 
+26. 
+The project fund flow diagram is in Figure 3.  
+Figure 3: Project Fund Flow Diagram 
+Asian Development Bank 
+ADB makes 
+direct 
+payments to 
+turnkey 
+contractor(s) 
+RRA and ALC 
+management 
+company 
+review and 
+approve 
+goods, works 
+and services, 
+and submit 
+withdrawal 
+applications 
+to ADB for 
+direct 
+payments  
+RRA submits 
+withdrawal 
+applications 
+for eligible 
+expenditures 
+for project 
+management 
+and operation 
+expenses of 
+the ALC 
+management 
+company 
+17 
+ADB makes 
+payments to 
+RRA’s 
+advance 
+account 
+Turnkey Contractor(s)
+ a
+, and 
+Project Management and 
+Supervision Consultant 
+Project Management 
+b
+Office under RRA
+ADB = Asian Development Bank, ALC = agro-logistic center, RRA = Rural Restructuring Agency. 
+a 
+For turnkey contract(s) for technical design, construction, and installation of agro-logistic centers;  
+For eligible expenses related to project management, safeguards, and operational cost of the ALC 
+b 
+management company. 
+Source: Asian Development Bank. 
+18 
+V. 
+FINANCIAL MANAGEMENT 
+A. 
+Financial Management Assessment 
+The  financial  management  assessment  (FMA)  was  conducted  during  February–March 
+27. 
+2018  for  the  RRA  and  in  September  2018  for  the  Ministry  for  Foreign  Trade  (MFT)  in 
+accordance with ADB’s Guidelines for the Financial Management and Analysis of Projects and 
+the Financial Due Diligence: A Methodology Note. The FMA considered the capacity of the RRA 
+and  MFT,  including  funds-flow  arrangements,  staffing,  accounting  and  financial  reporting 
+systems,  financial  information  systems,  and  internal  and  external  auditing  arrangements. 
+Although  no  project  fund  will  flow  through  the  MFT  during  the  project  implementation, 
+FMA  was  conducted  and  recommendations  were  made  to  help  them  better  able  to 
+supervise the ALC management company once set up.4 
+28. 
+Rural  Restructuring  Agency.  Based  on  the  assessment  of  the  RRA,  there  are  no 
+significant  financial  management  risks  in  respect  of  its  proposed  role  in  project  management 
+under  the  proposed  project.  The  RRA  has  significant  experience  in  the  implementation  of 
+projects  financed  by  ADB,  the  World  Bank,  and  other  international  financial  institutions.  The 
+financial management arrangements in place for those projects are appropriate for the proposed 
+project. 
+29. 
+It  is  concluded  that  the  overall  pre-mitigation  financial  management  risk  of  the  RRA  is 
+moderate.  As  the  executing  agency  of  the  project,  RRA  has  adequate  capacity  to  administer 
+advance  account  procedures  with  the  six  (6)  month-expenditure  limit  proposed  and  the 
+statement of expenditure (SOE) procedures. RRA has complied with all FMA actions under the 
+Horticulture Value Chain Development Project (Loan 3471-UZB) as of April 2018. 
+30.  Ministry  for  Foreign  Trade.  Based  on  the  assessment  of  MFT,  the  overall  pre-
+mitigation financial management risk is moderate in respect of its proposed role in  supervising 
+the ALC management company to be established. A number of key risks have been assessed 
+as requiring actions by the MFT, namely (i) the MFT staff are not experienced in managing ADB 
+projects and in ADB procedures; (ii) lack of accounting staff trained and certified in international 
+public  sector  accounting  standards  (IPSAS);  (iii)  fixed  assets  are  not  properly  registered  and 
+labelled  with  inventory  numbers;  (iv)  no  internal  audit  function  in  place;  and  (v)  no  risk 
+management  function  in  place.  Corresponding  financial  management  actions  to  address  the 
+stated risks are outlined in Table 10. 
+4  Detailed FMAs for RRA and MFT are accessible from the list of linked documents in Appendix 2 of the RRP. 
+Table 10: Ministry for Foreign Trade – Financial Management Action Plan 
+19 
+Risk 
+Rating 
+M 
+Action(s) 
+Complied by  Responsibility 
+MFT’s accounting staff attend 
+training in ADB monitoring and 
+reporting procedures. 
+Q3 2019 
+MFT  
+(with assistance 
+of ADB and RRA) 
+Risk Descriptions 
+MFT staff are not 
+experienced in managing 
+ADB projects and in ADB 
+procedures. 
+Lack of accounting staff 
+trained and certified in 
+IPSAS. 
+Fixed assets are not 
+properly registered and 
+labelled with inventory 
+numbers. 
+M 
+M 
+No internal audit function 
+in place. 
+M 
+No risk management 
+function in place. 
+M 
+Q4 2019 
+MFT 
+Q4 2018 
+MFT 
+MFT 
+Internal 
+auditing staff 
+mobilized by 
+Q3 2019 
+Q3 2019 
+MFT 
+Support accounting staff in 
+IPSAS training and 
+certification and access to e-
+module on cash IPSAS. 
+MFT accounting staff 
+complete e-module on cash 
+IPSAS.  
+Conduct inventory of fixed 
+assets and assign and label all 
+fixed assets with inventory 
+numbers (MFT has already 
+developed terms of reference 
+for conducting of inventory 
+with the help of outside 
+valuation company) 
+MFT shall include two internal 
+auditor positions into its staff 
+complement and budget for 
+starting 2019 and hire these 
+internal auditors after MOF’s 
+approval of the staff 
+complement and budget. 
+These staff will undertake 
+internal auditing functions for 
+both the MFT and ALC 
+management company. 
+Develop risk management 
+policy and procedures and 
+include relevant risk 
+management functions into job 
+descriptions of heads of 
+departments and divisions. 
+Monitoring to be conducted by 
+internal auditor. 
+ALC = agro-logistic center, IPSAS = International Public Sector Accounting Standards, M = Moderate, MFT = Ministry 
+for Foreign Trade, MOF = Ministry of Finance, RRA = Rural Restructuring Agency. 
+Sources: Asian Development Bank. 
+20 
+B. 
+Disbursement 
+The  loan  proceeds  will  be  disbursed  in  accordance  with  ADB’s  Loan  Disbursement 
+31. 
+Handbook  (2017,  as  amended  from  time  to  time),5  and  detailed  arrangements  agreed  upon 
+between the government and ADB. Online training for PMO staff on disbursement policies and 
+procedures is available.6 The PMO staff are encouraged to avail of this training to help ensure 
+efficient disbursement and fiduciary control. 
+The RRA will be responsible for (i) preparing disbursement projections, (ii) collecting and 
+32. 
+retaining supporting documents, and (iii) preparing and sending withdrawal applications to ADB. 
+33. 
+Advance  fund  procedure.  The  RRA  will  open  one  US  dollar  advance  account  to 
+facilitate  disbursements.  The  advance  account  is  to  be  used  exclusively  for  ADB’s  share  of 
+eligible  expenditures.  The  RRA  who  administers  the  advance  account  is  accountable  and 
+responsible  for  proper  use  of  advances  to  the  advance  account.  The  RRA  will  establish  the 
+advance  account  in  its  name  and  shall  be  accountable  and  responsible  for  proper  use  of 
+advances to the advance account. The outstanding advance to the advance account under the 
+RRA’s name will not exceed the RRA’s estimated six-month budget. The request for initial and 
+additional  advances  to  the  advance  account  should  be  accompanied  by  an  Estimate  of 
+Expenditure Sheet7 setting out the estimated expenditures to be financed through the account 
+for the forthcoming  six  (6)  months. The  ADB’s  project  division  (CWER)  responsible for  project 
+administration  will  review  the  reasonableness  of  the  6-month  estimates  provided  by  the  RRA. 
+Supporting documents should be submitted to ADB or retained by the RRA in accordance with 
+ADB’s Loan Disbursement Handbook (2017, as amended from time to time) when liquidating or 
+replenishing the advance account. 
+Statement  of  expenditure  procedure  (SOE).8  The  SOE  procedure  may  be  used  for 
+34. 
+reimbursement  of  eligible  expenditures  or  liquidation  of  advances  to  the  advance  account. 
+Supporting  documents  and  records  for  the  expenditures  claimed  under  the  SOE  should  be 
+maintained and made readily available for review by ADB's disbursement and review missions, 
+upon  ADB's  request  for  submission  of  supporting  documents  on  a  sampling  basis,  and  for 
+independent audit. 
+Direct  payment.  Direct  payments  to  contractors  and  consultants  will  be  made  in 
+35. 
+accordance with ADB’s Loan Disbursement Handbook (2017, as amended from time to time). 
+Before the submission of the first withdrawal application, the borrower should submit to 
+36. 
+ADB sufficient evidence of the authority of the persons who will sign the withdrawal applications 
+on  behalf  of  the  government,  together  with  the  authenticated  specimen  signatures  of  each 
+authorized  person.  The  minimum  value  per  withdrawal  application  is  stipulated  in  the  Loan 
+Disbursement  Handbook  (2017,  as  amended  from  time  to  time).  Individual  payments  below 
+such  amount  should  be  paid  (i)  by  the  RRA  and  subsequently  claimed  to  ADB  through 
+reimbursement, or (ii) through the advance fund procedure, unless otherwise accepted by ADB. 
+The  borrower  should  ensure  sufficient  category  and  contract  balances  before  requesting 
+5 The handbook is available electronically from the ADB website (http://www.adb.org/documents/ loan-disbursement-
+handbook). 
+6  Disbursement eLearning. http://wpqr4.adb.org/disbursement_elearning  
+7  Estimate  of  Expenditure  sheet  is  available  in  Appendix  8A  of  ADB’s  Loan  Disbursement  Handbook  (2017,  as 
+amended from time to time). 
+8  SOE forms are available in Appendix 7B and 7D of ADB’s Loan Disbursement Handbook (2017, as amended from 
+time to time). 
+21 
+disbursements. Use of ADB’s Client Portal for Disbursements (CPD)9 system, once rolled out for 
+Uzbekistan, is encouraged for submission of withdrawal applications to ADB. 
+37. 
+Conditions for Loan Disbursement. No withdrawal will be made from the loan account 
+relating  to  the  turnkey  contract  until  (a)  the  ALC  management  company  has  been  duly 
+established  and  is  adequately  staffed  and  fully  operational,  and  (b)  the  project  agreement,  in 
+form  and  substance  satisfactory  to  ADB,  has  been  entered  into  between  ADB  and  the  ALC 
+management company. 
+C. 
+Accounting 
+38. 
+The  RRA  will  maintain  or  cause  to  be  maintained,  separate  books  and  records  by 
+funding source for all expenditures incurred on the project. The RRA will prepare consolidated 
+project  financial  statements  in  accordance  with  the  government's  accounting  laws  and 
+regulations which are consistent with international accounting principles and practices. The RRA 
+will prepare and submit to ADB in the English language within six (6) months of the end of each 
+financial year the audited project financial statement. 
+D. 
+Auditing and Public Disclosure 
+The RRA will cause the detailed consolidated project financial statements to be audited 
+39. 
+in  accordance  with  the  International  Standards  on  Auditing,  by  an  independent  auditor 
+acceptable to ADB. The audited project financial statements together with the auditor’s opinion 
+will be presented in the English language to ADB within six (6) months from the end of the fiscal 
+year by the RRA.  
+40. 
+The audit report for the project financial statements will include a management letter and 
+auditor’s opinions, which cover (i) whether the project financial statements present an accurate 
+and fair view or are presented fairly, in all material respects, in accordance with the applicable 
+financial  reporting  standards;  (ii)  whether  the  proceeds  of  the  loan  were  used  only  for  the 
+purpose(s) of the project; and (iii) whether the executing agency and implementing agency were 
+in  compliance  with  the  financial  covenants  contained  in  the  legal  agreements  (where 
+applicable). 
+41. 
+Once  set  up  and operational,  ALC  management company  shall  (i)  provide  their  annual 
+financial  statements  prepared  in  accordance  with  International  Financial  Reporting  Standards; 
+(ii) have its financial statements audited annually by independent auditor acceptable to ADB, in 
+accordance  with  International  Standards  on  Auditing;  (iii)  as  part  of  each  such  audit,  have the 
+auditors  prepare  the  auditors’  opinion(s)  on  the  financial  statements  and  compliance  with  the 
+financial  covenants  of  the  Legal  Agreement;  and  (iv)  furnish to  ADB,  no  later  than  six  months 
+after  the  close  of  the  financial  year,  copies  of  such  audited  financial  statements  and  auditors’ 
+opinion(s), all in the English language, and such other information concerning these documents 
+and the audit thereof as ADB shall from time to time reasonably request. 
+Compliance  with  financial  reporting  and  auditing  requirements  will  be  monitored  by 
+42. 
+review  missions  and  during  normal  program  supervision,  and  followed  up  regularly  with  all 
+concerned, including the external auditor.  
+9  The CPD facilitates online submission of WA to ADB, resulting in faster disbursement.  The forms to be completed 
+by the Borrower are available online at https://www.adb.org/documents/client-portal-disbursements-guide.     
+22 
+The  government  and  the  RRA  have  been  made  aware  of  ADB’s  approach  to  delayed 
+43. 
+submission, and the requirements for satisfactory and acceptable quality of the audited project 
+financial  statements.10  ADB  reserves the right to  require  a change in the auditor  (in a manner 
+consistent with the constitution of the borrower), or for additional support to be provided to the 
+auditor, if the audits required are not conducted in a manner satisfactory to ADB, or if the audits 
+are  substantially  delayed.  ADB  reserves  the  right  to  verify  the  project's  financial  accounts  to 
+confirm  that  the  share  of  ADB’s  financing  is  used  in  accordance  with  ADB’s  policies  and 
+procedures.  
+44. 
+Public  disclosure  of  the  audited  project  financial  statements,  including  the  auditor’s 
+opinion  on  the  project  financial  statements,  will  be  guided  by  ADB’s  Public  Communications 
+Policy  2011.11  After  the  review,  ADB  will  disclose  the  audited  project  financial  statements  and 
+the  opinion  of  the  auditors  on  the  project  financial  statements  no  later  than  14  days  of  ADB’s 
+confirmation  of  their  acceptability  by  posting  them  on  ADB’s  website.  The  management  letter, 
+additional auditor’s opinions, and audited entity financial statements will not be disclosed.12 
+VI. 
+PROCUREMENT AND CONSULTING SERVICES 
+A. 
+Advance Contracting and Retroactive Financing 
+All  advance  procurement  will  be  undertaken  in  conformity  with  ADB  Procurement 
+45. 
+Guidelines  (2015,  as  amended  from  time  to  time)  and  ADB’s  Guidelines  on  the  Use  of 
+Consultants  (2013,  as  amended  from  time  to  time).  The  issuance  of  invitations  to  bid  under 
+advance contracting will be subject to ADB approval. The borrower and RRA have been advised 
+that approval of advance procurement does not commit ADB to finance the project. 
+46. 
+Advance  contracting.  No  contract  will  be  awarded  until  after  loan  effectiveness. 
+However,  to  ensure  smooth  implementation  startup,  recruitment  process  for  the  PSC  will  be 
+initiated  before  ADB’s  Board  approval,  which  entails  advertisement  to  call  for  expressions  of 
+interest, shortlisting, issuing request for proposals, and proposal evaluations. 
+47. 
+Retroactive financing. Not applicable. 
+B. 
+Procurement of Goods, Works, and Consulting Services 
+48. 
+All  procurement  of  goods  and  works  will  be  undertaken  in  accordance  with  ADB’s 
+Procurement Guidelines (2015, as amended from time to time). One turnkey contract package, 
+10 ADB’s approach and procedures regarding delayed submission of audited project financial statements:  
+(i)  When audited project financial statements are not received by the due date, ADB will write to the executing 
+agency advising that (a) the audit documents are overdue; and (b) if they are not received within the next 6 
+months,  requests  for  new  contract  awards  and  disbursement  such  as  new  replenishment  of  advance 
+accounts, processing of new reimbursement, and issuance of new commitment letters will not be processed. 
+(ii)  When  audited  project  financial  statements  are  not  received  within  6  months  after  the  due  date,  ADB  will 
+withhold processing of requests for new contract awards and disbursement such as new replenishment of 
+advance accounts, processing of new reimbursement, and issuance of new commitment letters. ADB will (a) 
+inform the executing agency of ADB’s actions; and (b) advise that the loan may be suspended if the audit 
+documents are not received within the next 6 months. 
+(iii)  When audited project financial statements  are not received within 12 months after the due date, ADB may 
+suspend the loan. 
+11 Public Communications Policy:  http://www.adb.org/documents/pcp-2011?ref=site/disclosure/publications 
+12  This  type  of  information  would  generally  fall  under  public  communications  policy  exceptions  to  disclosure.  ADB. 
+2011. Public Communications Policy. Paragraph 97(iv) and/or 97(v). 
+23 
+estimated  to  cost  $213.57  million,  will  be  used  to  procure  detailed  engineering  designs,  civil 
+works, buildings, and equipment supply to establish two ALCs (one in Andijan region and one in 
+Samarkand region). The turnkey contract will follow international competitive bidding  using the 
+two-stage  procedures.  The  turnkey  contract  is  proposed  to  ensure  that  (i)  civil  works 
+construction,  buildings,  and  equipment  installation  for  optimal  finishing  and  utility  will  be 
+consistent  with  the  overall  masterplan  for  each  ALC,  and  coherent  with  the  detailed  designs; 
+and  (ii)  ALCs  will  be  installed  with  most  up-to-date  equipment, furniture,  and fixtures,  which is 
+not the case if the detailed designs are prepared by a separate contractor(s) due to a time lag, 
+needs for adjustments, and design discrepancies. To minimize the risk of inflated cost estimates 
+by  the  turnkey  contractors,  the  PMO  and  ALC  management  company  with  technical  support 
+from  the  PSC  will  supervise  and  guide  the  ALCs  detailed  designs;  and  the  government’s 
+technical  agencies  will  review  such  detailed  designs  until  they  are  in  acceptable  forms  and 
+substance  for  the  government’s  approval.  Only  after  the  ALCs  detailed  designs are  approved, 
+can  the  turnkey  contractor(s)  be  notified  to  proceed  with  civil  works,  buildings,  and  equipment 
+installation.13  Shopping  will  be  used  for  contracts  for  procurement  of  office  equipment  and 
+vehicles for project implementation, worth less than $100,000. 
+49. 
+All consultants will be recruited according to ADB’s Guidelines on the Use of Consultants 
+(2013,  as  amended  from  time  to  time).14  The  PSC  will  be  engaged  by  the  RRA.  The  terms  of 
+reference for the PSC service are detailed in Appendix 2. The contract for consultant’s service 
+will  be  time-based.  The  PSC  comprises  a  total  of  314  person-months  (including  232  person-
+months  of  international  specialists  and  82  person-months  of  national  specialists).  An 
+international  consulting  firm  will  be  engaged  by  the  PMO  using  the  quality  and  cost-based 
+selection  (QCBS)  method  with  90:10  ratio  to  assist  in  overall  project  implementation  and 
+supervision. Key aspects of the PSC’s work will include, but not limited to the following:  (i) set 
+up  and  develop  capacity  of  the  ALC  management  company  in  managing  and  operating  the 
+ALCs through preparing and applying operational guides and protocol, coaching and on-the-job 
+training; (ii) assist the PMO in managing and implementing the project and ensuring compliance 
+with  the  project  implementation  plan,  the  loan  agreement,  and  the  project  agreement(s);  (iii) 
+assist  in reviewing  and revising  bid  documents  for  goods,  works,  and  services  for  the  turnkey 
+contracts  for  establishing  the  ALCs  in  selected  project  sites,  and  assist  PMO  and  ALC 
+management  company  in  bid  evaluation;  (iv)  prepare  requests  for  proposal  for  capacity 
+development consulting services, and assist  PMO in proposal evaluation; (v) provide technical 
+oversight  and  guidance  on  technical  aspects  related  to  the  turnkey  contracts  including  the 
+construction  supervision  and  capacity  development;  (vi)  supervise  the  implementation  of,  and 
+monitor  the  compliances  with  social  and  environmental  safeguards,  and  social/gender 
+development aspects; (vii) help set up systems and procedures including relevant management 
+and  monitoring  templates  for  PMO  and  ALC  management  company  to  follow;  and  (viii)  build 
+capacity of staff in the PMO and ALC management company to undertake their tasks.  
+An  18-month  procurement  plan  indicating  threshold  and  review  procedures,  goods, 
+50. 
+works, and consulting service contract packages and national competitive bidding guidelines is 
+in Section C. 
+13  The  draft  bid  document  for  the  turnkey  contract  will  be  drafted  by  the  national  consulting  firm,  which  has  been 
+engaged  for  preparing  the  national  feasibility  study.  This  document  will  be  reviewed  again  and  adjusted  if 
+necessary by the project management and supervision consultant. 
+14 Checklists  for  actions  required  to  contract  consultants  by  method  available  in  e-Handbook  on  Project    
+Implementation at: http://www.adb.org/documents/handbooks/project-implementation/  
+24 
+C. 
+Procurement Plan 
+Basic Data 
+Project Name: Horticulture Value Chain Infrastructure Project 
+Project Number: 51041-002 
+Country: UZBEKISTAN 
+Project Procurement Classification: B 
+Procurement Risk: Low 
+Project Financing Amount: $244.75 million 
+ADB Financing: $197.00 million 
+Non-ADB Financing: GOU: $47.75 million 
+Date of First Procurement Plan: 11 October 
+2018 
+Approval Number: xxxx 
+Executing Agency: Rural Restructuring Agency 
+(RRA) 
+Implementing Agency: 
+RRA, and the Ministry for Foreign Trade 
+Project Closing Date:  30 June 2024 
+Date of this Procurement Plan: 11 October 2018 
+A. 
+1. 
+Methods, Thresholds, Review and 18-Month Procurement Plan 
+Procurement and Consulting Methods and Thresholds 
+Except  as  the  Asian  Development  Bank  (ADB)  may  otherwise  agree,  the  following 
+51. 
+process thresholds shall apply to procurement of goods and works. 
+Procurement of Goods and Works 
+Method 
+International Competitive Bidding (ICB) for Works 
+International Competitive Bidding (ICB) for Goods 
+Shopping for Works 
+Shopping for Goods 
+Threshold 
+$5,000,000 
+$2,000,000 
+Below $100,000 
+Below $100,000 
+Comments 
+Prior review 
+Prior review 
+Prior review 
+Prior review 
+Consulting Services 
+Method 
+Comments 
+Quality- and cost-based selection (QCBS)  
+Least-cost Selection (LCS) 
+Prior review 
+Prior review 
+2. 
+Goods and Works Contracts Estimated to Cost $1 Million or More 
+The  following  table  lists  the  goods  and  works  contracts  for  which  the  procurement 
+52. 
+activity is either ongoing or expected to commence within the next 18 months. 
+Package 
+Number 
+General 
+Description 
+Estimated 
+Value 
+Procurement 
+Method 
+ICB 
+ICB-1: 
+Lot 1/ 
+ICB-1A 
+Establishment of 
+Agro-Logistic 
+Centers (ALCs): 
+Lot 1 for Andijan 
+ALC; 
+and Lot 2 for 
+Samarkand 
+ALC)a 
+$213.57 
+million 
+(Lot 1: 
+$92.04 
+million; 
+Lot 2: 
+$121.53 
+million) 
+a Figures are inclusive of taxes and duties, but exclusive of contingencies. 
+ALC = agro-logistic center, ICB = international competitive bidding, Q = quarter. 
+Lot 2/ 
+ICB-1S 
+Review 
+[Prior / 
+Post/Post 
+(Sampling)] 
+Prior 
+Bidding 
+Procedure 
+Advertisement 
+Date 
+(quarter/year) 
+2 stage 
+procedure 
+Q1 2019 
+Comments 
+Turnkey 
+contract 
+(design, build, 
+and supply) 
+3. 
+Consulting Services Contracts Estimated to Cost $100,000 or More 
+The following table lists consulting services contracts for which the recruitment activity is 
+53. 
+either ongoing or expected to commence within the next 18 months. 
+25 
+General 
+Description 
+Estimated 
+Value 
+Recruitment 
+Method 
+$4.48 
+million 
+QCBS 
+Review 
+(Prior / 
+Post) 
+Prior 
+Advertisement 
+Date 
+(quarter/year) 
+Q4 2018 
+Type of 
+Proposal 
+FTP 
+Comments 
+International, 
+90:10 ratio.  
+Package 
+Number 
+PSC-1 
+PFA-2 
+Project 
+management  and 
+supervision 
+consulting services 
+Project financial 
+audit 
+$280,600 
+LCS 
+Prior 
+Q4 2019 
+BTP 
+ALC  =  agro-logistic  center,  BTP  =  bio-data  technical  proposal,  CQS  =  consultant’s  qualification  selection,  FTP  =  full  technical 
+proposal, LCS = least-cost selection, QCBS = quality- and cost-based selection, STP = simplified technical proposal, Q = quarter. 
+Goods  and  Works  Contracts  Estimated  to  Cost  Less  than  $1  Million  and 
+4. 
+Consulting Services Contracts Less than $100,000 (Smaller Value Contracts) 
+The  following  table  groups  smaller-value  goods,  works,  and  consulting  services 
+54. 
+contracts  for  which  the  activity  is  either  ongoing  or  expected  to  commence  within  the  next  18 
+months. 
+Goods and Works 
+Package 
+Number 
+General 
+Description 
+Estimated 
+Value 
+Number 
+of 
+Contracts 
+Procurement 
+Method 
+PMO-5V 
+PMO-6IT 
+PMO-7AC 
+PMO-8F 
+Vehicles for 
+PMO 
+IT equipment 
+for PMO 
+Air 
+conditioners 
+for PMO 
+Furniture for 
+PMO 
+$75,000 
+$20,000 
+$6,000 
+$20,000 
+1 
+1 
+1 
+1 
+PMO = project management office, Q = quarter. 
+Review 
+[Prior / 
+Post/Post 
+(Sampling)] 
+Prior 
+Bidding 
+Procedure 
+1S/1E 
+Advertisement 
+Date  
+(quarter/ 
+year) 
+Q1 2019 
+Comments 
+Prior 
+Prior 
+1S/1E 
+Q1 2019 
+1S/1E 
+Q1 2019 
+Shopping 
+Shopping 
+Shopping 
+Shopping 
+Prior 
+1S/1E 
+Q1 2019 
+Indicative List of Packages Required Under the Project: All is included in Section A 
+B. 
+above. 
+C.  
+List of Awarded and On-going, and Completed Contracts: None. 
+D.    Non-ADB Financing: None. 
+E. 
+National Competitive Bidding: Not applicable. 
+VII. 
+SAFEGUARDS 
+Two sites selected for the proposed project are Andijan and Samarkand. Both sites are 
+55. 
+categorized  as  “B”  for  environment,  and  “B”  for  involuntary  resettlement.  The  project  is 
+categorized as “C” for indigenous peoples. Safeguard plans have been prepared for both project 
+sites.  These  plans  are:  (i) 
+the  environmental  management  plans  (see  Report  and 
+Recommendation of the President [RRP] to the Board of Director linked documents); and (ii) the 
+resettlement plans (see RRP’s linked documents).  
+26 
+The RRA is responsible for implementing these plans. Budget has been included in the 
+56. 
+project cost estimates for implementing activities as described in each plan. The PSC package 
+has  included  the  following  specialists:  (i)  international  environment  specialist;  (ii)  international 
+resettlement  specialist;  (iii)  national  environment  specialist;  and  (iv)  national  resettlement 
+specialist.  The  PMO  has  allocated  full-time  national  environment  and  resettlement  officers  to 
+ensure  proper  implementation  and  adequate  monitoring  of  the  plans  throughout  the  project 
+period.  The  PSC  and  PMO  staffing  and  terms  of  reference  are  in  Appendices  1  and  2, 
+respectively. 
+57. 
+Environment. Impacts from the project are expected to be limited in magnitude and site-
+specific,  mostly  related  to  construction  activities.  These  include  generation  of  dust,  waste 
+generation, noise and vibration, transportation of construction materials. Environmental impacts 
+during  operation  phase  include  solid  waste,  impacts  on  surface  and  ground  water  sources 
+(especially  for  the  Samarkand  ALC),  and  from  the  increased  traffic  of  goods  transportation. 
+These impacts could be mitigated by proper implementation of mitigation measures developed 
+in the environmental management plan (EMP). 
+58. 
+The  RRA’s  PMO  will  be  responsible  for  implementation  of  EMP  to  comply  with  ADB’s 
+safeguards requirements and environmental national regulations. For this purpose, the PMO will 
+hire  a  qualified full-time  environmental  officer.  International  and  national  environmental 
+specialists  of the  PSC  will  assist  the  PMO  and guide  the  contractors for EMP  implementation. 
+The cost for implementing EMP during construction will be financed by the project, specifically, 
+the  costs  of  mitigation  measures  and  environmental  monitoring  will  be  included  in  the 
+construction  contracts,  and  the  cost  for  environmental  supervision  will  be  included  in  the 
+consulting  service  of  the  PSC.  The  PMO  is  responsible  for  overall  environmental  compliance 
+with the ADB’s Safeguard Policy Statement (2009). During the operation, EMP implementation 
+will be included in the operating costs of the ALC management company. A grievance redress 
+mechanism to handle both environmental and social safeguard issues will be established after 
+the project effectivity.  
+59. 
+Land Acquisition and Resettlement. The PMO will ensure that land acquisition will be 
+carried out in accordance with Safeguard Policy Statement (2009) requirements, and applicable 
+laws  and  regulations  of  Uzbekistan  that  have  been  referred  to  in  the  land  acquisition  and 
+resettlement  plans (LARPs). The  RRA’s  PMO  will  ensure  that the  LARPs  will  be  implemented 
+and  monitored  to  ensure  that  no  project  affected  person  will  suffer  by  unattended  impacts 
+associated  with  land  acquisition.  The  draft  LARPs  indicated  that  the  project  will  require 
+approximately 130 ha of land, which will affect approximately 63 households. 
+60. 
+PMO  will  be  responsible  to  pay  compensation  to  the  affected  households  due  to  land 
+acquisition  according  to  the  process  outlined  in  the  LARPs.  The  civil  works  could  only  be 
+commenced  after  compensation  is  fully  paid  to  all  the  affected  households.  For  implementing 
+the LARP, the RRA will ensure that: 
+•  The  RRA,  as  the  executing  agency,  will  establish  a  PMO  with  required  staff, 
+including a social safeguards and resettlement specialist within the PMO; 
+•  The  draft  LARPs  will  be  updated  after  the  detailed  design  is  available.  The 
+resettlement  specialist  will  carry  out  adequate  consultations  with  the  affected 
+persons. The updated LARPs should indicate any change in land acquisition due to 
+the  detailed  design,  change  in  the  number  of  the  affected  persons,  and  change  in 
+budget for the LARP implementation. However, the standards set in the entitlement 
+matrix of the approved draft LARP cannot be lowered in the final LARP without any 
+clear reasons; 
+27 
+•  The  updated  LARPs  have  to  be  submitted  to  ADB  for  concurrence  prior  to 
+implementation  and  have  to  be  submitted  as  early  as  possible  after  the  detailed 
+engineering design becomes available; 
+•  The updated LARPs will be disclosed on the ADB and PMO website. The PMO will 
+be  responsible  to  disclose  relevant  information  from  the  updated  LARP  to  the 
+affected people; 
+•  The awarding of civil works contract will be done only after the affected households 
+receive full payment of compensation, and a report on full payment of compensation 
+needs to be submitted to ADB; 
+•  A report on monitoring the implementation of the LARP, including any grievances will 
+be submitted to ADB on semi-annual basis until the payment of compensation to the 
+affected households is completed; and 
+•  The  RRA,  through  the  resettlement  specialist  of  the  PMO  will  observe  any 
+unanticipated  impacts  due  to  land  acquisition  and  take  necessary  measures  in 
+accordance to the provision described in the LARPs. 
+Indigenous  Peoples.  The  project  has  been  classified  as  category  C  for  indigenous 
+61. 
+peoples’ safeguard. There are no indigenous people’s communities in the project area or in the 
+country  in  general,  as  defined  in  the  Safeguard  Policy  Statement  (2009)  for  operational 
+purposes. Accordingly, no indigenous peoples planning documents will be required. 
+62. 
+Prohibited investment activities. Pursuant to Safeguard Policy Statement (2009), ADB 
+funds may not be applied to the activities described on the ADB Prohibited Investment Activities 
+List set forth in the Appendix 5 of the Safeguard Policy Statement (2009). 
+VIII.  GENDER AND SOCIAL DIMENSIONS 
+The  proposed  project  is  categorized  as  “effective  gender  mainstreaming  (EGM)”.  The 
+63. 
+main  thrusts  of  gender  development  associated  with  the  project  investment  are  to  (i)  improve 
+female  entrepreneurship  in  horticulture  business  development  and  management,  and  (ii) 
+promote  job  creation  for  female  workers  directly  and  indirectly.  Detailed  gender  action  plan 
+(GAP) is presented in Table 11. 
+Activities 
+Table 11: Project Gender Action Plan 
+Performance Targets/ 
+Indicators 
+Responsibility 
+Project management 
+office (PMO) and ALC 
+management company 
+Outcome: Production and value addition of horticulture products increased   
+Direct incremental jobs in the 
+1. Promote jobs for 
+horticulture value chain created by 
+female workers in the 
+ALCs: 75,000 fulltime jobs 
+horticulture value chain  
+(equivalent), for on-farm, 
+transportation, sorting, packaging, 
+and certification, including 15,000 
+jobs for female workers (2017 
+baseline: 0.9 million) 
+Monitoring and reporting, on bi-
+annual basis, employment for 
+female workers and agribusiness 
+startups by female entrepreneurs  
+2. Monitor employment 
+created by ALCs for 
+female workers, and 
+agribusiness startups by 
+female entrepreneurs 
+PMO (social and gender 
+officer) in collaboration 
+with Council of Farmers 
+of Uzbekistan, 
+Khokimiyats, Women 
+Committee of 
+Uzbekistan, and ALC 
+Time Frame 
+By Q3 2023 
+2019- 2023 
+28 
+Activities 
+Performance Targets/ 
+Indicators 
+Output 1: ALCs Established 
+1.1. Ensure gender 
+inclusive designs of 
+ALCs logistics centers  
+1.2. Promote jobs for 
+female workers in the 
+agro-logistic centers 
+(ALCs) 
+Output 2: ALCs Management Capacity Improved 
+2.1. Ensure women 
+representation in the 
+company management 
+and operations 
+2 ALCs in Andijan and Samarkand 
+have adequate number of 
+separate sanitary facilities for men 
+and women. 
+320 employees working in ALCs 
+facilities in Andijan and 
+Samarkand, at least 25% of which 
+is female (2018 baseline: zero; 
+2023 target: 80 female 
+employees) 
+The management and operation 
+staff of ALC management 
+company has at least 20% female 
+members (2018 baseline: 0; 2023 
+target: 10 female staff) 
+At least 10 training workshops 
+with gender awareness modules 
+conducted for core staff of the 
+ALC management company and 
+ALCs facility lessees, and workers 
+in ALCs to enhance capacity to 
+manage, operate, and maintain 
+the ALCs (120 individuals, 
+including 30 female) (2018 
+baseline: 0) 
+At least 50 potential start-up 
+entrepreneurs, including 10 
+women entrepreneurs, in Andijan 
+and Samarkand provinces are 
+trained in horticulture business 
+development and management. 
+(2018 baseline: 0) 
+2.2. Improve capacity of 
+the ALC management, 
+core staff and 
+employees and lessees 
+in operations and 
+maintenance and 
+gender awareness 
+2.3. Improve 
+entrepreneurial abilities 
+for existing and potential 
+women entrepreneurs 
+3. Gender Actions related to Project Management 
+3.1. Recruit national 
+social and gender officer 
+in the PMO 
+3.2. Identify gender focal 
+points in the ALC 
+management company 
+Social and gender officer available 
+in the PMO on full time basis 
+Availability of gender focal point in 
+ALC management company to 
+implement and monitor GAP and 
+relevant targets 
+Sex-disaggregated socio-
+economic indicators are identified.  
+3.3. Ensure collection of 
+sex-disaggregated 
+baseline and end-line 
+information, and monitor 
+trends on number of 
+female beneficiaries 
+Baseline data collection is 
+undertaken, and gender analysis 
+is conducted and updated during 
+the project implementation period 
+Responsibility 
+Time Frame 
+management company 
+PMO and ALC 
+management company 
+2019–2023 
+PMO and ALC 
+management company 
+2019–2023 
+PMO and ALC 
+management company 
+2019–2023 
+PMO and ALC 
+management company 
+2019–2023 
+2019–2023 
+PMO and ALC 
+management company 
+in collaboration with 
+Council of farmers, WC 
+and Local government  
+PMO 
+By Q1 2019  
+PMO (social and gender 
+officer) and ALC 
+management company 
+PMO (social and gender 
+officer) in association 
+with ALC management 
+company 
+By Q1 2019 
+Baseline data 
+documented by 
+Q3 2019 
+Annual updates 
+during the 
+project 
+implementation 
+period 
+29 
+Activities 
+Performance Targets/ 
+Indicators 
+Responsibility 
+Time Frame 
+End-line data 
+documented by 
+Q2 2023 
+ALC = agro-logistic center, GAP = gender action plan, PMO = project management office, Q = quarter.  
+Source: Asian Development Bank. 
+64. 
+The RRA and the ALC management company will be responsible for the implementation 
+of  the  GAP.  Budget  has  been  included  in  the  project  cost  estimates  for  implementing  these 
+gender  actions.  The  PMO  has  allocated  full-time  national  social  and  gender  officer  to  ensure 
+proper implementation and adequate monitoring of the GAP throughout the project period. The 
+PMO staffing and terms of reference are in Appendix 1. 
+30 
+IX. 
+PERFORMANCE MONITORING, EVALUATION, REPORTING, AND 
+COMMUNICATION 
+A. 
+Project Design and Monitoring Framework  
+65. 
+Key  monitoring  indicators  for  the  proposed  project  are  presented  in  the  design  and 
+monitoring  framework  (DMF)  in  Appendix  1  of  the  RRP.  The  RRA  will  established  a  project 
+performance monitoring system  by  Q3  2019 to  enable monitoring  of  detailed  activities,  output, 
+outcome, and impact indicators. 
+B. 
+Monitoring 
+Project  performance  monitoring. The  RRA  will  be  required  to  include  in  its  quarterly 
+66. 
+and annual progress reports information on all aspects related to the project scope as stated in 
+the  DMF.  These  reports  will  be  ADB‘s  basis  for  monitoring  and  updating  project  performance 
+and measuring the development impact of the project.  
+67. 
+Compliance monitoring. Compliance of loan and project agreement covenants will be 
+monitored through periodic ADB review missions, annual progress reports by the RRA, random 
+checks of documents, and review of the project audited financial statements. 
+68. 
+Safeguards  monitoring.  The  RRA  will  undertake  monitoring  and  reporting  of  the 
+implementation of safeguards requirements and procedures specified in the resettlement plans 
+and environmental management plans. The RRA will submit the Annual Safeguards Monitoring 
+Report to ADB by end-January of the following calendar year.  
+Gender  and  social  dimensions  monitoring.  The  RRA  will  be  required  to  report  the 
+69. 
+GAP achievements in its quarterly and annual progress reports.  
+C. 
+Evaluation 
+70. 
+ADB will conduct semiannual and midterm review missions to assess the progress of the 
+project and review compliance with the loan agreement and project agreement covenants. The 
+midterm  review  mission  will  undertake  a  comprehensive  review  of  the  project  design  and  the 
+performance  of  the  project.  It  may  require  a  change  in  the  design  and  implementation 
+arrangements. Within six (6) months of physical completion of the project, the RRA will submit a 
+project completion report to ADB in a form acceptable to ADB.15 
+D. 
+Reporting 
+RRA  will  provide  ADB  with  (i)  quarterly  progress  reports  in  a  format  consistent  with 
+71. 
+ADB's  project  performance  reporting  system;  (ii)  consolidated  annual  reports  including  (a) 
+progress achieved by output as measured through the  indicator's performance targets, (b) key 
+implementation  issues  and  solutions,  (c)  updated  procurement  plan,  and  (d)  updated 
+implementation  plan  for  the  next  12  months;  and  (iii)  a  project  completion  report  within  six  (6) 
+months  of  physical  completion  of  the  project.  To  ensure  that  projects  will  continue  to  be  both 
+viable  and  sustainable,  project  accounts  and  the  RRA’s  audited  financial  statement  together 
+with the associated auditor's report, should be adequately reviewed. 
+15 Project  completion  report  format  is  available  at:  http://www.adb.org/Consulting/consultants-toolkits/PCR-Public-
+Sector-Landscape.rar. 
+31 
+E. 
+Stakeholder Communication Strategy 
+72. 
+Relevant  project  documents  will  be  disclosed  in  accordance  with  ADB’s  Public 
+Communication  Policy  2011.  Specifically,  the  resettlement  plans  and  initial  environmental 
+examinations  (IEEs)  contain  public  consultations  and/or  information  disclosure  plans  and 
+grievance reporting mechanism. These documents will be disclosed on ADB’s website after the 
+fact-finding  mission  and  communicated  with  the  project-affected  people  (in  addition  to 
+consultations during the project feasibility study).  
+Project Documents 
+Initial Environmental 
+Examination 
+Resettlement Planning 
+Documents 
+Table 12: ADB Public Communications Strategy 
+Responsible 
+Party 
+Means of 
+Communication 
+Frequency 
+ADB’s website 
+ADB 
+Post fact-finding mission 
+ADB’s website 
+ADB 
+Post fact-finding mission 
+Audience(s) 
+General Public, 
+project-affected 
+people in particular 
+General Public, 
+project-affected 
+people in particular 
+Source: Asian Development Bank. 
+X. 
+ANTICORRUPTION POLICY 
+73. 
+ADB reserves the right to investigate, directly or through its agents, any violations of the 
+Anticorruption  Policy  relating  to  the  project.16  All  contracts  financed  by  ADB  shall  include 
+provisions  specifying  the  right  of  ADB  to  audit  and  examine  the  records  and  accounts  of  the 
+executing  agency  and  all  project  contractors,  suppliers,  consultants,  and  other  service 
+providers.  Individuals  and/or  entities  on  ADB’s  anticorruption  debarment  list  are  ineligible  to 
+participate in ADB-financed activity and may not be awarded any contracts under the project.17 
+To support these efforts, relevant provisions will be included in the loan and project agreements 
+and the bidding documents for the project.  
+XI. 
+ACCOUNTABILITY MECHANISM 
+74. 
+People who  are,  or may  in the future  be,  adversely  affected  by the  project  may  submit 
+complaints  to  ADB’s  Accountability  Mechanism.  The  Accountability  Mechanism  provides  an 
+independent  forum  and  process  whereby  people  adversely  affected  by  ADB-assisted  projects 
+can voice, and seek a resolution of their problems, as well as report alleged violations of ADB’s 
+operational  policies  and  procedures.  Before  submitting  a  complaint  to  the  Accountability 
+Mechanism,  affected  people  should  make  an  effort  in  good  faith  to  solve  their  problems  by 
+working  with the  concerned ADB  operations  department. Only  after  doing  that,  and  if they  are 
+still dissatisfied, should they approach the Accountability Mechanism.18 
+XII. 
+RECORD OF CHANGES TO THE PROJECT ADMINISTRATION MANUAL 
+All revisions/updates during course of project implementation should be retained in this 
+75. 
+Section to provide a chronological history of changes to implemented arrangements recorded in 
+the PAM.  
+16  Anticorruption Policy: http://www.adb.org/Documents/Policies/Anticorruption-Integrity/Policies-Strategies.pdf 
+17  ADB's Integrity Office web site: http://www.adb.org/integrity/unit.asp 
+18  Accountability Mechanism. http://www.adb.org/Accountability-Mechanism/default.asp.  
+32 
+Description of Revision 
+PAM  Agreed  with  the  Government  during  the  fact-
+finding mission 
+PAM Agreed with the Government at loan negotiations 
+Inception mission 
+Date 
+12 September 2018 
+11 October 2018 
+APPENDIX 1: PROJECT MANAGEMENT OFFICE – STAFF REQUIREMENT AND SUMMARY OF RESPONSIBILITIES 
+Positions 
+No. of staff 
+1. 
+  Project Director 
+1 
+Person- 
+months 
+60 
+Summary of Responsibilities 
+•  Oversee and provide overall guidance for the project management and 
+implementation; and 
+•  Sign the project agreement with ADB, contracts with 
+contractors/consultants on behalf of the government, and communication 
+documents to ADB regarding the project management and 
+implementation. 
+2. 
+  Project Manager 
+1 
+60 
+•  Oversee day-to-day management and implementation of the project with 
+33 
+3. 
+  Finance Manager (or Chief 
+Accountant) 
+4. 
+  Accountant 
+5. 
+  Procurement Officer 
+1 
+1 
+assistance of the PSC; 
+•  Supervise deliverables of the PSC and capacity development consultants; 
+•  Liaise with the government ministries, regional administrations, ALC 
+management company, turnkey contractors, and consultants on a regular 
+basis to ensure smooth project implementation; and 
+•  Review and endorse project-related documents for final decisions by the 
+RRA’s Director General and ADB. 
+1 
+60 
+•  Manage the project accounts and reporting system to ensure compliances 
+with ADB’s and the government’s regulations; 
+•  Ensure that a sound financial management system is in place in 
+accordance with the national and international accounting standards;  
+•  Prepare project budget, and monitor project contract awards and 
+disbursement in coordination with the procurement specialist and other 
+specialists; 
+•  Facilitate project financial audits to ensure compliances with ADB’s and 
+the government’s requirements; and 
+•  Endorse direct payment requests and withdrawal applications to the 
+PMO’s management for final authorization for sending to ADB. 
+60 
+•  Review the direct payment requests from contractors and consultants in 
+consultation with the PSC and procurement officer; and 
+•  Prepare withdrawal applications for advance, liquidation, and 
+replenishment with regard to RRA’s PMO advance account in accordance 
+with ADB’s procedures.  
+60 
+•  Expedite the mobilization of the PSC (if required); 
+•  Work closely with the PSC to ensure quality of bid documents, bid 
+evaluation, and contracting for the turnkey contracts;  
+•  Work closely with the PSC to ensure quality of requests for proposal, 
+proposal evaluation, and contracting for the capacity development 
+consulting service contract;  
+34 
+Positions 
+No. of staff 
+Person- 
+months 
+Summary of Responsibilities 
+•  Monitor the contract clauses and progress for all project-related contracts; 
+and 
+•  Ensure all project-related procurements follow ADB’s procurement 
+guidelines and procedures. 
+6. 
+  Legal Officer 
+1 
+60 
+•  Work closely with the PSC to ensure quality of bid documents, bid 
+7. 
+  Monitoring and Evaluation Officer 
+1 
+60 
+8. 
+  Environment Officer 
+9. 
+  Resettlement Officer 
+10.    Social and Gender Officer 
+1 
+1 
+1 
+60 
+30 
+60 
+evaluation, and contracting for the turnkey contracts;  
+•  Work closely with the PSC to ensure quality of requests for proposal, 
+proposal evaluation, and contracting for the capacity development 
+consulting service contract;  
+•  Monitor the contract clauses and progress for all project-related contracts 
+from the legal perspectives; and 
+•  Provide legal advice and inputs on all project-related issues. 
+•  Work with the PSC and other PMO staff to ensure the project performance 
+and monitoring system (PPMS) is in place;  
+•  Collect data and update the system regularly and as/when required; and 
+•  Provide inputs, data and information into monthly briefs, quarterly progress 
+reports, and annual progress reports. 
+•  Together with the PSC, implement the EMPs for all project sites, and 
+ensure all is complied with ADB’s and the government’s laws and 
+regulations. 
+•  Together with the PSC, implement the resettlement plans for all project 
+sites, expedite the site clearance, and ensure all is complied with ADB’s 
+and the government’s laws and regulations. 
+•  Lead implementation of the gender action plan and other social 
+development initiatives related to the project; 
+•  Monitor GAP activities; 
+•  Collect and monitor employment indicators (including development of 
+monitoring tools and time frame); 
+•  Liaise with regional administrations and other stakeholders to ensure the 
+gender action plans are implanted properly; and 
+•  Provide inputs, data, and information related to gender and social 
+development to the PPMS, and to the monthly briefs, quarterly progress 
+reports, and annual progress reports. 
+11.    Regional Project Coordinators 
+(Andijan and Samarkand) 
+2 
+120 
+•  Coordinate and facilitate field work of the PSC, other PMO officers, and 
+ADB’s review missions in subproject areas; and 
+•  Provide support for all implementation issues in the subproject areas, 
+including site clearance construction, safeguards compliances, social and 
+35 
+Positions 
+No. of staff 
+Person- 
+months 
+Summary of Responsibilities 
+12.    Agro-Logistic Center Management 
+Officer 
+13.    Construction Manager/Coordinator 
+14.    Engineer 
+15.    Construction Site Inspectors 
+(technical supervision) (Andijan 
+and Samarkand) 
+Support Staff 
+16.    Office Administrator 
+1 
+1 
+1 
+2 
+1 
+gender development. 
+60 
+•  Work with capacity development consultant to conduct training and 
+experience and skill transfers to ALC management company, and other 
+stakeholders in terms of the management models, operation and 
+maintenance, rent and revenue management. 
+60 
+•  Work closely with the PSC on bid preparation, bid evaluation, and 
+contracting for the turnkey contracts; 
+•  Together with the PSC, review contract implementation progress with 
+turnkey contractors on a regular basis to ensure the progress is as 
+planned; and 
+•  Liaise with provincial administrations to ensure site clearance is obtained 
+on time and ready for construction. 
+60 
+84 
+•  Work with the PSC on various technical engineering areas related to the 
+agro-logistic centers, from bid documents to commissioning.  
+•  Together with the PSC, undertake on-site inspections and report to the 
+PMO management; and 
+•  Provide information, data and documentation of issues/evidence and 
+recommend corrective measures and action plans.  
+60 
+•  Provide administration support for the project management and 
+17.    Translator 
+18.    Drivers 
+19.    Guard 
+20.    Cleaner 
+ADB = Asian Development Bank,  ALC = agro-logistic center,  EMP = environmental management plan,  GAP = gender action plan,  PMO = project management 
+office, PPMS = project performance and monitoring system PSC = project management and supervision consultant, RRA = Rural Restructuring Agency.  
+• 
+•  Terms and conditions will be specified in the employment contract 
+•  Terms and conditions will be specified in the employment contract 
+•  Terms and conditions will be specified in the employment contract 
+60 
+180 
+60 
+60 
+1 
+3 
+1 
+1 
+implementation. 
+Interpret and translate project documents 
+36 
+APPENDIX  2:  TERMS  OF  REFERENCE  FOR  PROJECT  MANAGEMENT  AND 
+SUPERVISION CONSULTING SERVICE 
+Republic of Uzbekistan 
+Project No. 51041-002: Horticulture Value Chain Infrastructure Development Project 
+Terms of Reference for Project Management and Supervision Consulting Service 
+A.  
+PROJECT BACKGROUND 
+1. 
+The  proposed  project  supports  the  government’s  plan  to  establish  horticulture  clusters 
+where  production  and  post-harvest  services  can  be  consolidated  to  improve  efficiency  and 
+economies  of  scale.  It  will  finance  the  establishment  of  agro-logistic  centers  (ALCs)  in  two 
+locations—Andijan  and  Samarkand—taking  into  account  international  best  practices.  Such 
+infrastructure will provide all necessary facilities and services under one roof: trading, storage, 
+processing, food safety certification, customs clearance, transport, shipping, marketing advisory 
+services, trade finance and commercial banking, etc. Significantly larger volumes of product with 
+improved  quality  will  be  marketed  as  a  result  of  better  post-harvest  logistics  that  will  facilitate 
+reduced post-harvest losses and increased domestic sales and exports. The ALCs will enhance 
+value-chain 
+following 
+international  quality,  and  safety  standards.  Increased  export  and  domestic  marketing  of 
+horticultural products will increase price transmission to small-scale producers, and small- and 
+medium-sized agribusinesses. It will also support further diversification of the agriculture sector 
+from cotton to horticulture, which generates higher financial and economic returns, and involves 
+fewer social and environmental concerns.  
+linkages  with  production,  post-harvest  processing,  and  handling 
+2. 
+The  Rural  Restructuring  Agency  (RRA)  will  be  the  executing  agency,  and  the  project 
+management  office  (PMO)  under  the  RRA  will  oversee  implementation  activities,  including 
+monitoring of ALCs’ detailed designs, construction, land acquisition and resettlement, and social 
+and environmental safeguards. It will also manage the consultants for project management and 
+supervision and capacity building. An ALC management company will be established under the 
+Ministry for Foreign Trade as a limited liability company to  act as a special purpose vehicle of 
+the  government  in  (i)  organizing  and  modernizing  the  horticulture  value  chain;  (ii)  improving 
+linkages between value chain actors through the ALCs; and (iii) being conduits for agro-product 
+safety and traceability through sanitary and phytosanitary measures and product certifications. 
+The  ALC  management  company  will  work  closely  with  the  RRA  in  supervising  of  the 
+construction of the ALCs and undertaking the management of the ALCs upon completion. 
+B.  
+THE CONSULTING SERVICES 
+I.  
+Objective and Scope of work 
+3. 
+Objective.  International  consulting  services  will  be  required  to  assist  the  executing 
+agency  (the  RRA),  and  ALC  management  company  in  project  management  and  supervision. 
+The  project  management  and  supervision  consultant  (PSC)  will  be  selected  and  engaged  in 
+accordance with ADB’s Guidelines on the Use of Consultants (2013, as amended from time to 
+time).  The  RRA  will  recruit  the  PSC  following  the  quality-  and  cost-based  selection  procedure 
+with 90:10 ratio.  
+Scope of Work. An international consulting firm (the consultant) will be engaged by the 
+4. 
+Project  Management  Office  (PMO).  The  PSC  consultant  will  assist  PMO  and  management 
+company  in  overall  project  implementation  and  supervision.  Key  aspects  of  the  consultant’s 
+37 
+work will include, but not limited to the following:  
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+Set up and develop capacity of the ALC management company in managing and 
+operating  the  ALCs  through  preparing  and  applying  operational  guides  and 
+protocol, coaching and on-the-job training; 
+Assist the PMO and ALC management company in managing and implementing 
+the  project  and  ensuring  compliance  with  the  project  implementation  plan,  the 
+loan agreement, and the project agreement(s); 
+Assist in reviewing and revising bid documents for goods, works, and services for 
+the  turnkey  contracts  for  establishing  the  ALCs  in  selected  project  sites;  and 
+assist PMO and ALC management company in bid evaluation; 
+Prepare requests for proposal for capacity development consulting services, and 
+assist PMO in proposal evaluation; 
+Provide  technical  oversight  and  guidance  on  technical  aspects  related  to  the 
+turnkey contracts, and capacity development; 
+Supervise  the  implementation  of,  and  monitor  the  compliances  with  social  and 
+environmental safeguards, and social/gender development aspects;  
+(vii)  Help  set  up  systems  and  procedures  including  relevant  management  and 
+monitoring templates for PMO and management company to follow; and 
+(viii)  Build capacity of staff in PMO and ALC management company to undertake their 
+tasks.  
+5. 
+Consultant’s  General  Qualifications.  The  minimum  requirements  for  the  consultant 
+are: (i) an international firm with extensive and proven experience in agro-logistic infrastructure 
+project  management  and  development,  implementing  and  supervising  turnkey  contracts,  and 
+detailed  engineering  designs  of  agro-logistic  infrastructure  projects;  (ii)  familiarity  with 
+requirements of infrastructure development projects in the Republic of Uzbekistan is preferred; 
+and  (iii)  experience  in  implementation  and  supervision  of  similar  large-scale  agro-logistic 
+infrastructure  projects.  The  international  consulting  firm  may  associate  with  other  international 
+and national consulting firms as appropriate. 
+6. 
+Budget  and  Expertise  Schedule.  The  estimated  budget  for  the  PSC  service  is  $4.48 
+million. The  contract for consultant’s  service  will  be time-based. The  PSC  comprises  a total  of 
+314  person-months  (including  232  person-months  of  international  specialists  and  82  person-
+months of national specialists). A summary of input schedule is given in the table below. 
+Position 
+Summary Consultant Input Schedule 
+Total  Key or Non-key 
+Position 
+A. International Specialists 
+1. Team Leader/Design and Supervision Engineer 
+2. Logistic Facilities Planning Specialist 
+3. Supervision Engineer 1 – Civil Works and Road 
+4. Supervision Engineer 2 – Drainage and Wastewater 
+5. Supervision Engineer 3 – Refrigeration 
+6. Procurement and Contract Management Specialist 
+7. Environment Specialist 
+8. Resettlement Specialist 
+9. Unallocated: to assist in setting up ALC management company and 
+capacity development a 
+Sub-total (A) 
+B. National Specialists 
+1. Deputy Team Leader/Design and Supervision Engineer 
+2. Environment Specialist 
+26  
+12  
+24  
+24  
+12  
+21  
+6  
+7  
+100  
+232 
+34  
+24  
+Key 
+Key 
+Key 
+Key 
+Key 
+Key 
+Non-key 
+Non-key 
+Key 
+Non-key 
+38 
+Position 
+3. Resettlement Specialist 
+Sub-total (B) 
+Total (A+B) 
+Total  Key or Non-key 
+Position 
+Non-key 
+24  
+82 
+314 
+a The unallocated person months will be further broken down to include specific international and national expertise 
+by  position  before  calling  for expression of  interest  from  interested  consulting  companies. While  the overall budget 
+remains unchanged, the number of person months may vary depending on actual need of expertise mix.   
+Source: Asian Development Bank estimates. 
+II.  
+Outline Terms of Reference by Expertise 
+7. 
+Team  Leader/International  Design  and  Supervision  Engineer  (26  person-months); 
+Deputy Team Leader/National Design and Supervision Engineer (34 person-months). The 
+international  design  and  supervision  engineer  will  be  the  PSC  team  leader,  and  the  national 
+design  and  supervision  engineer  will  be  the  PSC  deputy  team  leader,  and  thus  together 
+responsible for overall team coordination, and delivery of quality and timely outputs as stated in 
+the consulting service  scope  of  work. Technically,  they  will  support  the PMO  in  the  delivery  of 
+the  project  outputs. They  will  be  qualified  engineers  (preferably  civil  engineers)  with  at  least  a 
+master’s  degree  in  civil  engineering  or  architecture,  and  at  least  15  years  of  continuous 
+experience  in  technical  designs  and  supervision  of  turnkey  contracts  for  construction  and 
+installation of similar logistic infrastructure projects. They will have had experience in setting up 
+supervision  systems  and  procedures  with  appropriate  quality  control.  The  international  design 
+and supervision engineer must have experience in setting up agro-logistic systems, experience 
+in the region (South and/or Central and West Asia), experience in providing training on design 
+and supervision, and experience in coordinating and managing teams. For the national design 
+and supervision engineer, experience with and familiarity with Uzbekistan’s national regulations 
+related  to  design  standards  and  parameters  for  infrastructure  project  are  required.  Both 
+engineers  are  required  to  have  significant  team  leadership  experience  in  similar  assignments. 
+They  will  report  to  the  PMO  and will  work  in  close coordination  with team  of  specialists of the 
+PSC and the PMO staff. They will: 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+Assist the PMO and ALC management company in managing and implementing 
+the  project  and  ensuring  compliance  with  the  project  implementation  plan,  the 
+loan agreement, and the project agreement(s); 
+Be responsible for (a) overall direction, coordination, and management of inputs 
+and deliverables of the PSC team; and (b) monitoring and reporting the progress 
+related to project management, implementation, and supervision; 
+Provide  technical  oversight  and  guidance  on  technical  aspects  related  to  the 
+turnkey  contracts,  and  capacity  development. In particular, they  are  responsible 
+for final contract documents, and final technical designs related to all facilities in 
+harmony  with  the  overall  design  of  the  ALCs,  and  supervising  the  construction 
+and installation of the ALCs until completion; 
+In  coordination  with  the  PSC  specialists  and  PMO  staff,  (a)  prepare  bid 
+documents  for  goods,  works,  and  services  for  the  turnkey  contracts  for 
+establishing  the  ALCs  in  selected  project  sites,  and  assist  PMO  and  ALC 
+management company in bid evaluation (in this regard, act as a member on bid 
+evaluation  committees  if  requested  to  do  so);  (b)  prepare  requests  for  proposal 
+for  capacity  development  consulting  services,  and  assist  PMO  in  proposal 
+evaluation (in this regard, act as a member on proposal evaluation committees if 
+requested  to  do  so);  (c)  supervise  the  implementation  of,  and  monitor  the 
+compliances  with  social  and  environmental  safeguards,  and  social/gender 
+development  aspects;  (d)  set  up  systems  and  procedures  including  relevant 
+39 
+(v) 
+(vi) 
+(vii) 
+management and monitoring templates for PMO and ALC management company 
+to follow; and (e) build capacity of staff in PMO and ALC management company 
+to undertake their tasks;  
+Measure  and  certify  quantities  of  work,  and  review  contractors’  claims  for 
+payments, and prepare payment certificates; 
+Assist  the  PMO  in  preparing  withdrawal  applications  and  keeping  track  of  the 
+contract  awards  and  disbursements/payment  from  the  loan  account  proceeds; 
+and 
+Prepare  the  PSC’s  quarterly  progress  reports  for  project  management  and 
+supervision,  plus  brief  monthly  summary  reports  (maximum  of  5  pages)  with 
+support as required from other PSC team members. These reports shall need to 
+highlight  potential  and  actual  issues/problems  in  all  areas  related  to  turnkey 
+contracts,  capacity  development,  safeguards  and  gender  development,  and 
+recommend corrective measures and/or actions for PMO’s actions.  
+8. 
+Logistic  Facilities  Planning  Specialist  (International:  12  person-months).  The 
+logistic  facilities  planning  specialist  must  be  a  qualified  engineer  or  architect  with  at  least  a 
+master’s  degree  in  engineering,  architecture  and/or  urban  planning,  with  at  least  15  years  of 
+continuous  experience  in  establishing  and  sketching  layouts  and  master  plans  for  logistic 
+centers  for  agriculture  produce.  (S)he  will  have  had  experience  in  setting  up  supervision 
+systems  and  procedures  for  product  flows  with  appropriate  quality  control.  Experience  of 
+working with companies having established food distribution system and/or market infrastructure 
+and/or logistics in developed or developing countries will be preferable. (S)he will: 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+Assist  the  team  leader  in  managing  and  implementing  the  project  and  ensuring 
+compliance  with  the  project  implementation  plan,  the  loan  agreement,  and  the 
+project agreement(s); 
+Provide  technical  oversight  and  guidance  on  technical  aspects  related  to  the 
+turnkey contracts. In particular, (s)he is responsible for reviewing and  endorsing 
+final contract documents, and final layouts and masterplans for the overall design 
+of the ALCs, and supervising the completion of all construction and installation of 
+buildings, associated infrastructure items and facilities until completion; 
+In  coordination  with  other  PSC  specialists  and  PMO  staff,  (a)  prepare  bid 
+documents for the turnkey contracts for establishing the ALCs in selected project 
+sites, and assist PMO and ALC management company in bid evaluation; (b) set 
+up  systems  and  procedures  including  relevant  management  and  monitoring 
+templates  for  PMO  and  ALC  management  company  to  follow;  and  (c)  build 
+capacity  of  staff  in  PMO  and  ALC  management  company  to  undertake  their 
+tasks; and 
+Contribute inputs to the PSC’s quarterly progress reports for project management 
+and  supervision  and  the  brief  monthly  summary  reports,  highlighting  potential 
+and  actual  issues  and/or  /problems  related  to  the  layouts  and  master  plans  in 
+turnkey  contracts  and  recommending  corrective  measures  and/or  actions  for 
+PMO’s actions. 
+Design  and  Supervision  Engineer  1  –  Civil  Works  and  Road  (International:  24 
+9. 
+person-months). The supervision engineer 1 – civil works must be a qualified engineer with at 
+least  a  bachelor’s  degree  in  civil  engineering,  with  experience  in  commercial,  logistic, 
+administrative buildings, roads, and railways, with at least 10 years of continuous experience in 
+supervising  and  monitoring  civil  construction,  including  logistic  infrastructure  works  related  to 
+food  distribution.  (S)he  will  have  had  experience  in  setting  up  supervision  systems  and 
+procedures  with  appropriate  quality  control.  Experience  of  working  with  civil  engineering 
+40 
+companies or companies having established market infrastructure and/or logistics in developed 
+or developing countries will be preferable. (S)he will: 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+Assist  the  team  leader  in  managing  and  implementing  the  project  and  ensuring 
+compliance  with  the  project  implementation  plan,  the  loan  agreement,  and  the 
+project agreement(s); 
+Provide  technical  oversight  and  guidance  on  technical  aspects  related  to  the 
+turnkey contracts. In particular, (s)he is responsible for reviewing and endorsing 
+final  contract  documents,  and  final  technical  designs  related  to  buildings  and 
+facilities,  land  levelling,  roads,  streets,  bridges,  and  utilities,  as  integral  parts  of 
+and  in  harmony  with  the  overall  design  of  the  ALCs,  and  supervising  the 
+construction of buildings and facilities until completion; 
+In  coordination  with  other  PSC  specialists  and  PMO  staff,  (a)  prepare  bid 
+documents for the turnkey contracts for establishing the ALCs in selected project 
+sites, and assist PMO and ALC management company in bid evaluation; (b) set 
+up  systems  and  procedures  including  relevant  management  and  monitoring 
+templates  for  PMO  and  ALC  management  company  to  follow;  and  (c)  build 
+capacity  of  staff  in  PMO  and  ALC  management  company  to  undertake  their 
+tasks; 
+In  coordination  with  Team  Leader,  undertake  the  following:  (a)  inspection  of 
+construction  works  and  related  activities  under  his/her  expertise  to  assure 
+compliance  with  technical  specifications,  supply  and/or  work  schedules  and  the 
+contract(s);  (b)  review  of  contractors’  submittals  (including  drawings  and  all 
+documents) and ensure their compliance with the technical specifications and the 
+contract(s); (c) measure and certify quantities of work, review contractors’ claims 
+for  payments,  and  prepare  payment  certificates;  (d)  prepare  instructions  to 
+contractors for  replacement  of  substandard  works  and equipment  and  rectifying 
+deviations;  (e)  provide  guidance 
+to  contractors  regarding  quality  control 
+procedures,  contracts’  provisions  and  technical  specifications;  (f)  supervise 
+testing  of  materials  on  site;  (g)  supervise  off-site  laboratory  testing,  where 
+necessary;  and  (h)  ensure  contractors  prepare  operation,  maintenance  and 
+management manuals for the facilities constructed under the project; and 
+Contribute inputs to the PSC’s quarterly progress reports for project management 
+and  supervision  and  the  brief  monthly  summary  reports,  highlighting  potential 
+and  actual  issues  and/or  problems  related  to  buildings  and  facilities,  land 
+levelling,  roads,  streets,  bridges,  and  utilities 
+turnkey  contracts  and 
+recommending corrective measures and/or actions for PMO’s actions.  
+in 
+10. 
+Design and Supervision Engineer 2 – Drainage and Wastewater (International: 24 
+person-months). The supervision engineer 2 – drainage, and wastewater must be a qualified 
+engineer  with  at  least  a  bachelor’s  degree  in  engineering,  specialized  in  road,  drainage,  and 
+wastewater, with at least 10 years of continuous experience in the supervision and monitoring of 
+drainage,  sewerage,  and  water  treatment.  (S)he  will  have  had  experience  in  setting  up 
+supervision systems and procedures with appropriate quality control. Experience of working with 
+companies having established market infrastructure and/or logistics in developed or developing 
+countries will be preferable. (S)he will: 
+(i) 
+(ii) 
+Assist  the  team  leader  in  managing  and  implementing  the  project  and  ensuring 
+compliance  with  the  project  implementation  plan,  the  loan  agreement,  and  the 
+project agreement(s); 
+Provide  technical  oversight  and  guidance  on  technical  aspects  related  to  the 
+turnkey contracts. In particular, (s)he is responsible for reviewing and  endorsing 
+final contract documents, and final technical designs and specifications related to 
+41 
+(iii) 
+(iv) 
+(v) 
+water  supply,  water  supply  plants,  wastewater  plants,  water  distribution,  and 
+wastewater  conveyance  facilities  as  integral  parts  of  and  in  harmony  with  the 
+overall design of the ALCs, and supervising the completion of these facilities; 
+In  coordination  with  other  PSC  specialists  and  PMO  staff,  (a)  prepare  bid 
+documents for the turnkey contracts for establishing the ALCs in selected project 
+sites, and assist PMO and ALC management company in bid evaluation; (b) set 
+up  systems  and  procedures  including  relevant  management  and  monitoring 
+templates  for  PMO  and  ALC  management  company  to  follow;  and  (c)  build 
+capacity  of  staff  in  PMO  and  ALC  management  company  to  undertake  their 
+tasks; and 
+In  coordination  with  Team  Leader,  undertake  the  following:  (a)  inspection  of 
+works  and/or  activities  under  his/her  expertise  to  assure  compliance  with 
+technical  specifications,  supply  and/or  work  schedules  and  the  contract(s);  (b) 
+review  of  contractors’  submittals  (including  drawings  and  all  documents)  and 
+ensure their compliance with the technical specifications and the contract(s); (c) 
+measure and certify quantities of work, review contractors’ claims for payments, 
+and  prepare  payment  certificates;  (d)  prepare  instructions  to  contractors  for 
+replacement  of  substandard  works  and  equipment  and  rectifying  deviations;  (e) 
+provide  guidance  to  contractors  regarding  quality  control  procedures,  contracts’ 
+provisions and technical specifications; (f) supervise testing of materials on site; 
+(g)  supervise  off-site  laboratory  testing,  where  necessary;  and  (h)  ensure 
+contractors  prepare  operation,  maintenance  and  management  manuals  for  the 
+facilities constructed under the project; and 
+Contribute inputs to the PSC’s quarterly progress reports for project management 
+and  supervision  and  the  brief  monthly  summary  reports,  highlighting  potential 
+and actual  issues  and/or  problems  related to  water supply,  water  supply  plants, 
+wastewater  plants,  water  distribution  and  wastewater  conveyance  facilities  in 
+turnkey  contracts  and  recommending  corrective  measures  and/or  actions  for 
+PMO’s actions. 
+11. 
+Design  and  Supervision  Engineer  3  –  Refrigeration  (International:  12  person-
+months). The supervision engineer 3 – refrigeration must be a qualified engineer with at least a 
+in  mechanical  engineering  or  other  similar  engineering  disciplines, 
+bachelor’s  degree 
+specialized  in  fresh  food  refrigeration,  with  at  least  10  years  of  continuous  experience  in 
+supervising  and  monitoring  setting-up  and  installation  of  refrigeration  facilities  related  to  food 
+distribution.  (S)he  will  have  had  experience  in  setting  up  supervision  systems  and  procedures 
+with appropriate quality control. Experience of working with companies having established fresh 
+food  refrigeration  system  and/or  market  infrastructure  and/or  logistics  in  developed  or 
+developing countries will be preferable. (S)he will: 
+(i) 
+(ii) 
+(iii) 
+Assist  the  team  leader  in  managing  and  implementing  the  project  and  ensuring 
+compliance  with  the  project  implementation  plan,  the  loan  agreement,  and  the 
+project agreement(s); 
+Provide  technical  oversight  and  guidance  on  technical  aspects  related  to  the 
+turnkey contracts. In particular, (s)he is responsible for reviewing and  endorsing 
+final contract documents, and final technical designs and specifications related to 
+refrigeration facilities as integral parts of and in harmony with the overall design 
+of  the  ALCs,  and  supervising  the  installation  of  refrigeration  facilities  until 
+completion; 
+In  coordination  with  other  PSC  specialists  and  PMO  staff,  (a)  prepare  bid 
+documents for the turnkey contracts for establishing the ALCs in selected project 
+sites, and assist PMO and ALC management company in bid evaluation; (b) set 
+42 
+(iv) 
+(v) 
+up  systems  and  procedures  including  relevant  management  and  monitoring 
+templates  for  PMO  and  ALC  management  company  to  follow;  and  (c)  build 
+capacity  of  staff  in  PMO  and  ALC  management  company  to  undertake  their 
+tasks;  
+In coordination with Team Leader, undertake the following: (a) inspection of cold 
+chamber  construction/installation,  and  other  related  activities  under  his/her 
+expertise to assure compliance with technical specifications, supply and/or work 
+schedules  and  the  contract(s);  (b)  review  of  contractors’  submittals  (including 
+drawings  and  all  documents)  and  ensure  their  compliance  with  the  technical 
+specifications  and  the  contract(s);  (c)  measure  and  certify  quantities  of  work, 
+review  contractors’  claims  for  payments,  and  prepare  payment  certificates;  (d) 
+prepare  instructions  to  contractors  for  replacement  of  substandard  works  and 
+equipment  and  rectifying  deviations;  (e)  provide  guidance  to  contractors 
+regarding  quality  control  procedures,  contracts’  provisions  and 
+technical 
+specifications;  (f)  supervise  testing  of  materials  on  site;  (g)  supervise  off-site 
+laboratory  testing,  where  necessary;  and  (h)  ensure  contractors  prepare 
+operation,  maintenance  and  management  manuals  for  the  facilities  constructed 
+under the project; and 
+Contribute inputs to the PSC’s quarterly progress reports for project management 
+and  supervision  and  the  brief  monthly  summary  reports,  highlighting  potential 
+and  actual  issues  and/or  problems  related  to  refrigeration  facilities  in  turnkey 
+contracts  and  recommending  corrective  measures  and/or  actions  for  PMO’s 
+actions. 
+Procurement  and  Contract  Management  Specialist  (International:  21  person-
+12. 
+months).  The  specialist  must  have  at  least  a  post-graduate  degree,  preferably  a  master’s 
+degree in civil engineering, law, economics, business administration, finance, or  other relevant 
+educational  background  with  at  least  15  years  of  experience  in  procurement  and  contract 
+management  and  familiarity  with  ADB  procurement  procedures  and  practices.  Experience  of 
+Uzbek finance and procurement systems is preferable. (S)he will: 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+(vii) 
+Assist  the  team  leader  in  managing  and  implementing  the  project  and  ensuring 
+compliance  with  the  project  implementation  plan,  the  loan  agreement,  and  the 
+project agreement(s); 
+Ensure that the ADB’s procurement directives and norms, described in the loan 
+and  project  agreements,  are  fully  respected  in  all  stages  of  the  procurement  of 
+goods, works and services for the project; 
+Assist  the  PMO  in  preparing  bidding  documents  for  the  turnkey  contracts  in 
+accordance with ADB guidelines taking into account the Uzbek Procurement Law 
+and  relevant  regulations.  Coordinating  and  supervising  all  project  procurement 
+activities, in close coordination with the PMO and ADB; 
+Review tender documents with particular reference to the commercial aspects to 
+ensure ADB comments are incorporated in the final version; 
+Assist in evaluation of bids and proposals if requested, and in the preparation of 
+any relevant evaluation reports; 
+Supervise the contract clauses and contractual compliances by the contractors; 
+Assist  the  PMO  in  regular  update  of  the  procurement  plan  in  coordination  with 
+the work plan and time schedule of the project and the financing plan; 
+(viii)  Support the PMO during contract negotiations and ensure meetings are properly 
+recorded  and  ADB  norms  and  applicable  national  regulations  are  followed  and 
+that these are attached as annexes to the contract form; 
+43 
+(ix) 
+(x) 
+(xi) 
+(xii) 
+Develop  systems  to  train  and  transfer  procurement  skills  on  various  aspects  of 
+ADB’s procedures for PMO; 
+Verify that correct documentation for each disbursement related to the execution 
+of the contracts is maintained and that the corresponding contractual obligations 
+have been fulfilled; 
+Assist in the planning and budgeting for the project program, taking the lead role 
+in the financial plan and budgets and ensuring that the assumptions, parameters, 
+guidelines and policies in planning are complied with; and 
+Ensure  timely  preparation  and  submission  of  progress  reports  related  to 
+procurement  and  disbursement;  particularly,  contributing  inputs  to  the  PSC’s 
+quarterly progress reports for project management and supervision and the brief 
+monthly  summary  reports,  highlighting  potential  and  actual  issues  and/or 
+to  procurement  and  disbursement  and  recommending 
+problems  related 
+corrective measures and/or actions for PMO’s actions. 
+13. 
+Environment  Specialists  (International:  6  person-months;  National:  24  person-
+months). The environment specialists must have at least bachelor’s degrees in environmental 
+science or natural resource management or the equivalent from a recognized institution, with at 
+least 10 years of continuous experience working in the field of environmental management, for 
+internationally  funded  infrastructure  development  projects.  They  are  also  required  to  have 
+considerable  experience  in  environmental  monitoring  and  be  familiar  with  the  laws  and 
+regulations of Uzbekistan related to environmental safeguards as well as having had experience 
+in ADB-financed infrastructure development projects as environmentalists. They will be guided 
+by  the  government’s  procedures  on  environmental  management,  ADB’s  Safeguards  Policy 
+Statement (2009), and the project environmental management plan (EMP) for each subproject. 
+Training skills would also be an advantage. They will: 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+(vii) 
+the 
+turnkey  contractors  during 
+Assist  the  team  leader  in  managing  and  implementing  the  project  and  ensuring 
+compliance  with  the  project  implementation  plan,  the  loan  agreement,  and  the 
+project  agreement(s),  particularly  with  Safeguard  Policy  Statement  (2009) 
+requirements and project environment-related legal covenants; 
+Review  the  initial  environmental  examinations  (IEEs)  for  subprojects  conducted 
+during the feasibility study stage to understand the EMPs, and assist the PMO in 
+updating the IEEs in case of technical design changes or unanticipated impacts; 
+Supervise 
+the  detailed  design  and 
+construction/installation of works and facilities to ensure EMPs and measures are 
+properly implemented; 
+Assist  PMO  in  ensuring  safeguard  compliance  of  civil  works  –  with  a  particular 
+emphasis  on  the  monitoring  of  implementation  of  the  EMPs  through  the  site-
+specific environmental monitoring plans and related aspects of the project; 
+Provide  on-the-job  trainings  to  the  PMO’s  environment  officer  and  contractor’s 
+environmental  staff  prior  to  the  start  of  construction  to  develop  their  knowledge 
+and understanding of the environmental, social, health and safety aspects of the 
+project,  and  build  capacity  of  staff  in  PMO  and  ALC  management  company  to 
+undertake their tasks in EMP monitoring; 
+In  coordination  with  other  PSC  specialists  and  PMO  staff,  and  with  regards  to 
+EMPs,  contribute  to  the  preparation  of  bid  documents  for  the  turnkey  contracts 
+for  establishing  the  ALCs  in  selected  project  sites,  and  assist  PMO  and  ALC 
+management company in bid evaluation when required;  
+Assist  PMO  in  preparation  of  bi-annual  environmental  monitoring  reports  for 
+further submission to ADB; and 
+44 
+(viii)  Contribute inputs to the PSC’s quarterly progress reports for project management 
+and  supervision  and  the  brief  monthly  summary  reports,  highlighting  potential 
+and actual issues and/or problems related to EMP and recommending corrective 
+measures and/or actions for PMO’s actions. 
+14. 
+Resettlement  Specialists  (International:  7  person-months;  National:  24  person-
+months). The resettlement specialists must have at least bachelor’s degrees in social sciences, 
+sociology,  anthropology  or  other  relevant  disciplines  for  the  assignment  from  a  recognized 
+institution,  with  at  least  10  years  of  continuous  experience  working  in  the  field  of  human 
+settlement and social safeguards for internationally funded development projects. They are also 
+required  to  have  considerable  experience  in  resettlement  planning  and  social  safeguards 
+monitoring  and  be  familiar  with  the  laws  and  regulations  of  Uzbekistan  related  to  social 
+safeguards  and  resettlement  as  well  as  having  had  experience  in  ADB-financed  infrastructure 
+development  projects.  They  will  be  guided  by  the  government’s  procedures  on  resettlement, 
+Safeguards  Policy  Statement  (2009),  and  the  project  resettlement  plan  for  each  subproject. 
+Training skills would also be an advantage. They will: 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+Assist  the  team  leader  in  managing  and  implementing  the  project  and  ensuring 
+compliance  with  the  project  implementation  plan,  the  loan  agreement,  and  the 
+project agreement(s); 
+Review  and  update  the  subproject  resettlement  plans  conducted  during  the 
+feasibility study stage based on detailed design in order to finalize them into an 
+implementation-ready  status,  in  particular,  conducting  the  detail  measurement 
+surveys,  census  and  socio-economic  survey  and  consultations  with  affected 
+people,  finalizing  the  replacement  cost  profiles and  entitlement  matrix,  updating 
+of  the  grievance  redress  mechanism  as  needed,  and  setting  up  detailed 
+monitoring framework; 
+Assist  the  PMO  in  implementation  of  resettlement  plans,  in  particular,  payment 
+for compensation and other practical arrangements to affected people as per the 
+final compensation and income restoration measures defined by the entitlement 
+matrix and stated in resettlement plans prior to construction commencement;  
+Assist  the  PMO  in  monitoring  of  the  resettlement  plan  implementation  for  each 
+subproject; 
+Assist the PMO in updating the resettlement plans for each subproject in case of 
+changes in subproject designs; 
+In  coordination  with  other  PSC  specialists  and  PMO  staff,  and  with  regards  to 
+resettlement  plans,  (a)  contribute  to  the  preparation  of  bid  documents  for  the 
+turnkey  contracts  for  establishing  the  ALCs  in  selected  project  sites,  and  assist 
+PMO and ALC management company in bid evaluation if and when required; (b) 
+set  up  systems  and  procedures  for  resettlement  plans  monitoring;  and (c)  build 
+capacity of staff in PMO and ALC management company to undertake their tasks 
+in resettlement plan preparation, implementation, and monitoring; and 
+(vii)  Contribute inputs to the PSC’s quarterly progress reports for project management 
+and  supervision  and  the  brief  monthly  summary  reports,  highlighting  potential 
+to  resettlement  plans  and 
+and  actual 
+recommending corrective measures and/or actions for PMO’s actions. 
+issues  and/or  problems  related 
+Assistance 
+15. 
+the  ALC  management  company  and  capacity 
+development  in  operations  and  management  of  ALCs  (unallocated:  International  100 
+in  setting  up 
+45 
+person-months).1 Since the ALC management company is not yet in place, the consultant will be 
+required  to  provide  these  services  in  parallel  with  the  project  supervision  activities  to  set  up  the 
+ALC  management  company  and  development  its  capacity  to  undertake  the  management  of  the 
+ALCs.  Since  this  kind  of  services  is  new  to  Uzbekistan,  it  is  expected  that  the  consulting  firm 
+indicate in the technical proposal the composition of the required expertise, detailed input schedule, 
+and  how  best  the  tasks  will  be  undertaken.  For  this  purpose,  an  allocated  100  person-months 
+international consulting input has been reserved.  
+16. 
+Indicative activities include but not limited to the following:  
+•  Set  up  ALC  management  company  taking  into  account  Uzbekistan’s  development  and 
+institutional context and international practices; 
+•  Assist the  ALC  management  company  to function  as  a professional  service firm  in line 
+with corporate governance principles and commercial law; 
+•  Prepare operation and management guidelines for ALCs, defining the management and 
+operation options upon completion of ALCs, quality and safety certification system, and 
+conducting coaching and training to ALCs management and staff members accordingly; 
+•  Assist  with  the  formation  of  producers’  and  traders’  associations,  contract  farming, 
+market linkages, and incentive system for various group of ALCs users; 
+•  Develop capacity in certification, sorting/grading, marketing, and exporting; 
+•  Assist  in  conducting  overseas  study  visits  to  learn  from  successful  international  agro-
+logistic models before the detailed designs and construction/installation take place; 
+•  Provide  overall  support  and  coordination  for  implementation  of  the  ALCs  by  means  of 
+devising management plan for operationalization of the ALCs; 
+•  Devise various strategies for further revenue generation in line with changing economic 
+scenarios and consumer preferences; 
+•  Assist in marketing activities of ALCs and promotion; 
+•  Mentor ALC management company in initial day to day operation; 
+•  Assist in budgeting for operational & administration cost; 
+to  popularize 
+•  Conduct  marketing 
+related  activities 
+the  ALCs  among  various 
+stakeholders; 
+•  Undertake  process  optimization  for  the  ALCs  facilities  in  terms  of  quality,  safety, 
+standard, sanitation;  
+•  Guide overall management of ALCs; cleaning, security, maintenance, etc.  
+•  Provide coaching to operate and manage the facilities efficiently and professionally; 
+•  Develop  capacity  in  handling  IT/software  related  activities  to  facilitate  price  and 
+information systems and record keeping; 
+•  Guide  in  management  of  waste  generated  from  wholesale  market,  cold  storage,  post-
+harvest and marketing facilities; 
+•  Guide  in  the  government  compliances/statutory  requirements  and  prevent  violations  of 
+any  government  order/law  related  to  labor  safety,  environment,  food  safety,  and 
+resource utilization; and 
+•  Organize the transfer/movement from truck-based sales parking and markets to the new 
+ALCs. 
+1 The unallocated person months will be further broken down to include specific international and national expertise 
+by position before calling for expression of interest from interested consulting companies. While the overall budget 
+remains unchanged, the number of person months may vary depending on actual need of expertise mix. 
+46 
+APPENDIX 3: DETAILED COST ESTIMATES OF AGRO-LOGISTIC CENTERS 
+Table 1. Andijan ALC Detailed Costs QuantitiesUnit CostBase Cost (US$ '000)Totals Including Contingencies (US$ '000)Unit20192020202120222023Total(US$)20192020202120222023Total20192020202120222023Total I. Investment Costs A. Groundwork and Infrastructure ALC Entrance m2-33.5167.5134-335885.00-29.6148.2118.6-296.5-38.2194.0157.7-389.8Land Levelling, Roads, Parking, etc m2-60,60248,481.612,120.4-121,204131.00-7,938.96,351.11,587.8-15,877.7-10,229.28,310.22,110.8-20,650.1Electricity Distribution Network m2---1,000-1,000690.00---690.0-690.0---917.3-917.3Water Supply m2-1,4501,450--2,900285.00-413.3413.3--826.5-532.5540.7--1,073.2Waste Water Treatment Plant m2-1,7501,750--3,500454.00-794.5794.5--1,589.0-1,023.71,039.6--2,063.3Solid Waste Management System m2-131.51,183.5--1,315230.00-30.2272.2--302.5-39.0356.2--395.1Railway Line m2-880220--1,100207.00-182.245.5--227.7-234.759.6--294.3Highway Access m2-1,600---1,600136.00-217.6---217.6-280.4---280.4Subtotal -9,606.38,024.82,396.4-20,027.4-12,377.610,500.23,185.7-26,063.5B. Buildings Fruit and Vegetable Storage/Sale - Wholesalers m2-1,250.56,252.55,002-12,505608.00-760.33,801.53,041.2-7,603.0-956.34,855.73,946.7-9,758.8Fruit and Vegetable Storage/Sale - Small Farmers m2-1,250.56,252.55,002-12,505608.00-760.33,801.53,041.2-7,603.0-956.34,855.73,946.7-9,758.8Post-harvest Processing Building (Export) m2-1,454.48,726.44,363.2-14,544665.00-967.25,803.12,901.5-9,671.8-1,216.57,412.33,765.5-12,394.3Post-harvest Processing Building (Domestic) m2-590.52,952.52,362-5,905545.00-321.81,609.11,287.3-3,218.2-404.82,055.31,670.6-4,130.7Cold Storage m2-1,8019,0057,204-18,010800.00-1,440.87,204.05,763.2-14,408.0-1,812.39,201.87,479.2-18,493.2Customs and Containers Area m2-27,092.521,6745,418.5-54,18553.00-1,435.91,148.7287.2-2,871.8-1,806.11,467.3372.7-3,646.1Administration m2-8644,3203,456-8,640300.00-259.21,296.01,036.8-2,592.0-326.01,655.41,345.5-3,326.9Subtotal -5,945.524,663.917,358.4-47,967.9-7,478.331,503.622,526.9-61,508.9C. Plant, Equipment and Vehicles 1. Processing Lines (Washing/Sorting) No---12-12384,200.00---4,610.4-4,610.4---6,323.7-6,323.72. Vehicles Pallet Trucks (Electric) No---26-269,477.00---246.4-246.4---338.0-338.0Forklift Trucks No---4-434,200.00---136.8-136.8---187.6-187.6Cold Storage Forklift Trucks No---8-843,115.00---344.9-344.9---473.1-473.1Wheelbarrows No---332-332383.00---127.2-127.2---174.4-174.4Subtotal ---855.3-855.3---1,173.1-1,173.13. Cleaning Equipment Road Sweeper (Electric) No---12-1245,000.00---540.0-540.0---759.2-759.2Scrub Driver No---12-129,500.00---114.0-114.0---160.3-160.3Skid Steer No---11-1140,000.00---440.0-440.0---618.6-618.6Refuse Bins (1,100 liter) No---100-100650.00---65.0-65.0---91.4-91.4Subtotal ---1,159.0-1,159.0---1,629.4-1,629.44. Security System Vehicle Access Control No---1-183,519.00---83.5-83.5---114.6-114.6Video Surveillance System No---1-1262,055.00---262.1-262.1---359.4-359.4Subtotal ---345.6-345.6---474.0-474.05. Administration Office Equipment Computers No---100-1001,458.00---145.8-145.8---210.0-210.0Office Desks No---100-100100.00---10.0-10.0---14.4-14.4Desk Drawer Set No---100-10070.00---7.0-7.0---10.1-10.1Office Cabinet No---100-100130.00---13.0-13.0---18.7-18.7Chairs No---200-200110.00---22.0-22.0---31.7-31.7Subtotal ---197.8-197.8---284.9-284.9Subtotal ---7,168.1-7,168.1---9,885.1-9,885.1Total -15,551.832,688.826,922.8-75,163.4-19,855.942,003.835,597.7-97,457.5 
+47 
+Table 2. Samarkand ALC Detailed Costs QuantitiesUnit CostBase Cost (US$ '000)Totals Including Contingencies (US$ '000)Unit20192020202120222023Total(US$)20192020202120222023Total20192020202120222023Total I. Investment Costs A. Groundwork and Infrastructure ALC Entrance m2-33.5167.5134-335885.00-29.6148.2118.6-296.5-38.2194.0157.7-389.8Land Levelling, Roads, Parking, etc m2-121,69297,353.624,338.4-243,384130.00-15,820.012,656.03,164.0-31,639.9-20,383.916,559.94,206.2-41,150.0Electricity Distribution Network m2---1,000-1,000690.00---690.0-690.0---917.3-917.3Water Supply m2-1,4501,450--2,900285.00-413.3413.3--826.5-532.5540.7--1,073.2Waste Water Treatment Plant m2-1,7501,750--3,500454.00-794.5794.5--1,589.0-1,023.71,039.6--2,063.3Solid Waste Management System m2-131.51,183.5--1,315230.00-30.2272.2--302.5-39.0356.2--395.1Railway Line m-1,500375--1,875207.00-310.577.6--388.1-400.1101.6--501.6Highway Access m2-6,9601,740--8,700136.00-946.6236.6--1,183.2-1,219.6309.6--1,529.3Subtotal -18,344.714,598.43,972.6-36,915.7-23,636.919,101.65,281.2-48,019.7B. Buildings Fruit and Vegetable Storage/Sale - Wholesalers m2-1,7818,9057,124-17,810573.00-1,020.55,102.64,082.1-10,205.1-1,283.66,517.65,297.5-13,098.7Fruit and Vegetable Storage/Sale - Small Farmers m2-1,7818,9057,124-17,810573.00-1,020.55,102.64,082.1-10,205.1-1,283.66,517.65,297.5-13,098.7Post-harvest Processing Building (Export) m2-1,454.48,726.44,363.2-14,544644.00-936.65,619.82,809.9-9,366.3-1,178.17,178.33,646.6-12,002.9Post-harvest Processing Building (Domestic) m2-590.52,952.52,362-5,905500.00-295.31,476.31,181.0-2,952.5-371.41,885.61,532.6-3,789.6Cold Storage m2-1,8019,0057,204-18,010762.00-1,372.46,861.85,489.4-13,723.6-1,726.28,764.77,123.9-17,614.8Customs and Containers Area m2-39,667.531,7347,933.5-79,33553.00-2,102.41,681.9420.5-4,204.8-2,644.42,148.3545.7-5,338.4Administration m2-8644,3203,456-8,640300.00-259.21,296.01,036.8-2,592.0-326.01,655.41,345.5-3,326.9Subtotal -7,006.827,140.919,101.7-53,249.5-8,813.334,667.424,789.3-68,270.0C. Plant, Equipment and Vehicles 1. Processing Lines (Washing/Sorting) No---17-17384,200.00---6,531.4-6,531.4---8,958.5-8,958.52. Vehicles Pallet Trucks (Electric) No---26-269,477.00---246.4-246.4---338.0-338.0Forklift Trucks No---4-434,200.00---136.8-136.8---187.6-187.6Cold Storage Forklift Trucks No---8-843,115.00---344.9-344.9---473.1-473.1Wheelbarrows No---332-332383.00---127.2-127.2---174.4-174.4Subtotal ---855.3-855.3---1,173.1-1,173.13. Cleaning Equipment Road Sweeper (Electric) No---12-1245,000.00---540.0-540.0---759.2-759.2Scrub Driver No---12-129,500.00---114.0-114.0---160.3-160.3Skid Steer No---11-1140,000.00---440.0-440.0---618.6-618.6Refuse Bins (1,100 liter) No---100-100650.00---65.0-65.0---91.4-91.4Subtotal ---1,159.0-1,159.0---1,629.4-1,629.44. Security System Vehicle Access Control No---1-183,519.00---83.5-83.5---114.6-114.6Video Surveillance System No---1-1262,055.00---262.1-262.1---359.4-359.4Subtotal ---345.6-345.6---474.0-474.05. Administration Office Equipment Computers No---100-1001,458.00---145.8-145.8---210.0-210.0Office Desks No---100-100100.00---10.0-10.0---14.4-14.4Desk Drawer Set No---100-10070.00---7.0-7.0---10.1-10.1Office Cabinet No---100-100130.00---13.0-13.0---18.7-18.7Chairs No---200-200110.00---22.0-22.0---31.7-31.7Subtotal ---197.8-197.8---284.9-284.9Subtotal ---9,089.1-9,089.1---12,519.9-12,519.9Total -25,351.541,739.332,163.4-99,254.2-32,450.353,769.042,590.4-128,809.6 

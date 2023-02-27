@@ -1,0 +1,4516 @@
+Project Administration Manual 
+Project Number: 44328-013 
+Loan Number: 3289 
+November 2017 
+Proposed Loan 
+Kingdom of Cambodia: Uplands Irrigation and Water 
+Resources Management Sector Project 
+Contents 
+ABBREVIATIONS 
+I. 
+II. 
+III. 
+IV. 
+V. 
+VI. 
+Project Implementation Organizations – Roles and Responsibilities 
+Key Persons Involved in Implementation 
+Project Organization Structure 
+Project Management Unit Staff at MOWRAM 
+Implementation Procedures 
+Detailed Cost Estimates by Expenditure Category (in million) 
+Allocation and Withdrawal of Loan Proceeds ($ Million) 
+Detailed Cost Estimates by Financier (in $ million) 
+Detailed Cost Estimates by Outputs/Components (in $ million) 
+Detailed Cost Estimates by Year (in $ million) 
+Contract and Disbursement S-curve 
+Fund Flow Diagram 
+Project Readiness Activities 
+Overall Project Implementation Plan 
+PROJECT DESCRIPTION 
+IMPLEMENTATION PLANS 
+A. 
+B. 
+PROJECT MANAGEMENT ARRANGEMENTS 
+A. 
+B. 
+C. 
+D. 
+E. 
+COSTS AND FINANCING 
+A. 
+B. 
+C. 
+D. 
+E. 
+F. 
+G. 
+FINANCIAL MANAGEMENT 
+A. 
+B. 
+C. 
+D. 
+PROCUREMENT AND CONSULTING SERVICES 
+A. 
+B. 
+C. 
+D. 
+SAFEGUARDS 
+Financial Management Assessment 
+Disbursement 
+Accounting 
+Auditing and Public Disclosure 
+Advance Contracting 
+Procurement of Goods, Works and Consulting Services 
+Procurement Plan 
+Consultant's Terms of Reference 
+VII. 
+VIII.  GENDER AND SOCIAL DIMENSIONS 
+IX. 
+COMMUNICATION 
+PERFORMANCE MONITORING, EVALUATION, REPORTING AND 
+Project Design and Monitoring Framework 
+Monitoring 
+Evaluation 
+Reporting 
+Stakeholder Communication Strategy 
+A. 
+B. 
+C. 
+D. 
+E. 
+ANTICORRUPTION POLICY 
+ACCOUNTABILITY MECHANISM 
+RECORD OF PAM CHANGES 
+APPENDIX 1. TERMS OF REFERENCE FOR CONSULTING SERVICES 
+APPENDIX 2: SCREENING FORM FOR IMPACTS ON INDIGENOUS PEOPLES 
+APPENDIX 3: PROJECT PERFORMANCE MONITORING SYSTEM 
+X. 
+XI. 
+XII. 
+4 
+1 
+2 
+2 
+3 
+4 
+4 
+6 
+7 
+8 
+10 
+11 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+18 
+21 
+22 
+22 
+24 
+24 
+24 
+25 
+31 
+34 
+35 
+37 
+37 
+39 
+39 
+39 
+40 
+41 
+42 
+43 
+44 
+59 
+62 
+Project Administration Manual Purpose and Process 
+1.  The  project  administration  manual  (PAM)  describes  the  essential  administrative  and 
+management  requirements  to  implement  the  project  on  time,  within  budget,  and  in 
+accordance with Government and Asian Development Bank (ADB) policies and procedures. 
+The  PAM  should  include  references  to  all  available  templates  and  instructions  either 
+through linkages to relevant URLs or directly incorporated in the PAM. 
+2.  The  Ministry  of  Water  Resources  and  Meteorology,  which  is  both  the  executing  and 
+implementing  agency  is  wholly  responsible  for  the  implementation  of  ADB  financed 
+projects,  as  agreed  jointly  between  the  borrower  and  ADB,  and  in  accordance  with 
+Government  and  ADB’s  policies  and  procedures.  ADB  staff  is  responsible  to  support 
+the  MOWRAM  of 
+implementation 
+their  obligations  and 
+responsibilities 
+in  accordance  with  ADB’s  policies  and 
+procedures. 
+including  compliance  by 
+implementation 
+for  project 
+3.  At loan negotiations the borrower and ADB shall agree to the PAM and ensure consistency 
+with  the  Loan  agreement.  Such  agreement  shall  be  reflected  in  the  minutes  of  the  Loan 
+Negotiations.  In  the  event  of  any  discrepancy  or  contradiction  between  the  PAM  and  the 
+Loan Agreement, the provisions of the Loan Agreement shall prevail. 
+4.  After  ADB  Board  approval  of  the  project's  report  and  recommendations  of  the  President 
+(RRP)  changes  in  implementation  arrangements  are  subject  to  agreement  and  approval 
+pursuant to relevant Government and ADB administrative procedures (including the Project 
+Administration Instructions) and upon such approval they will be subsequently incorporated 
+in the PAM. 
+ADB 
+AFS 
+DMF 
+EARF 
+EIA 
+EMP 
+ESMS 
+GACAP 
+GDP 
+ICB 
+IEE 
+LAR 
+LIBOR 
+NCB 
+NGOs 
+PAI 
+PAM 
+PIU 
+PMU 
+QBS 
+QCBS 
+RRP 
+SBD 
+SOE 
+SPS 
+SPRSS 
+TOR 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+Abbreviations 
+Asian Development Bank 
+audited financial statements 
+design and monitoring framework 
+environmental assessment and review framework 
+environmental impact assessment 
+environmental management plan 
+environmental and social management system 
+governance and anticorruption action plan 
+gross domestic product 
+international competitive bidding 
+initial environmental examination 
+land acquisition and resettlement 
+London interbank offered rate 
+national competitive bidding 
+nongovernment organizations 
+project administration instructions 
+project administration manual  
+project implementation unit 
+project management unit 
+quality based selection 
+quality- and cost based selection 
+report and recommendation of the President to the Board 
+standard bidding documents 
+statement of expenditure 
+Safeguard Policy Statement  
+summary poverty reduction and social strategy 
+terms of reference 
+I. 
+PROJECT DESCRIPTION 
+A.  
+Rationale 
+The  project  will  help  the  Government  of  Cambodia  increase  agricultural  production  by 
+1. 
+rehabilitating, modernizing, and climate-proofing selected irrigation systems in Kampong Thom 
+and  Battambang  provinces.  Subprojects  will  be  undertaken  to  (i)  enhance  the  efficiency  and 
+climate resilience of irrigation systems, and (ii) improve water resource management by building 
+the  capacity  of  government  agencies  and  of  farmer  water  user  communities  (FWUCs)  so  that 
+they  can  operate  and  manage  the  irrigation  systems  better.  The  project  will  contribute  to 
+achieving  targets  of  the  Government’s  Rectangular  Strategy  on  Growth,  Employment,  Equity 
+and Efficiency 2014–2018. The strategy aims to develop and expand the country’s irrigated land 
+and  manage  its  water  resources  more  effectively  by  improving  existing  irrigation  systems, 
+making water user communities more efficient, and reducing the vulnerability of the Cambodia’s 
+people to disasters caused by natural hazards.   
+B. 
+Impact and Outcome 
+2. 
+The  impact  will  be  inclusive  economic  growth  through  agriculture  and  irrigation,  in  line 
+with  phase  3  of  the  government’s  Rectangular  Strategy  on  Growth,  Employment,  Equity,  and 
+Efficiency  for  2014–2018.  The  outcome  will  be  water  and  agriculture  productivity  enhanced  in 
+the project areas. 
+C. 
+Outputs 
+3. 
+Output  1:  Enhanced  efficiency  and  climate resilience  of  irrigation  systems  in  the 
+project areas. The project will support rehabilitation, modernization, and climate proofing of at 
+least  three  irrigation  systems  to  increase  the  cultivated  area  in  the  project  areas  in  Kampong 
+Thom  and Battambang provinces  to  29,500  ha.1 It  will  (i)  rehabilitate the undersluices  and  the 
+spillway of the Taing Krasaing headworks, 22-kilometers (km) main Taing Krasaing canal, and 
+48.0  km  of  secondary  and  tertiary  canals;  (ii)  install  a  pumping  system  and  associated 
+distribution channels to lift water by a maximum of 3 meters for 2,960 ha of developed rain-fed 
+land  in  the  Taing  Krasaing  system  command  area;  (iii)  rehabilitate  the  Prek  Chik  headworks 
+(including  raising  the  spillway  by  1.5  meters),  28-km  main  Prek  Chik  canal,  and  70.2  km  of 
+secondary  and  tertiary  canals  to  cover  10,400  ha  net  irrigated  area;  (iv)  install  structures  and 
+gauges for water measurement, control, and distribution on the Taing Krasaing and Prek Chik 
+system’s  main  and  distribution  canals;  (v)  improve  drainage  facilities  for  1,800  ha  to  climate 
+proof  the  irrigation  facilities  against  floods;  (vi)  carry  out  laser  land  leveling  of  2,000  ha;  (vii) 
+improve 21,000 ha of land through irrigation, drainage, and/or flood protection; and (viii) conduct 
+feasibility studies, design, and improvement works for the O Kra Nahk irrigation system serving 
+about 1,500 ha in Kampong Thom province, and other noncore subprojects.2 
+4. 
+Output  2:  Improved  water  resource  management.  The  project  will  organize  FWUCs 
+and  provide  gender-inclusive  training  to  FWUC  members  on  (i)  O&M  of  canals,  (ii)  
+management  of  FWUCs,  (iii)  issues  related  to  climate  variability  and  change,  and  (iv)  water 
+management.  It  will  also  involve  them  in  the  design  and  implementation  of  subprojects.  It  will 
+1  Feasibility  studies  have  been  completed  for  the  Taing  Kraisang  and  Prek  Chik  irrigation  systems.  The  feasibility 
+study for the O Kra Nahk irrigation system will be carried out during project implementation.  
+2  If  savings  remain  from  the  loan  proceeds  after  awarding  the  contracts  for  the  three  identified  subprojects,  the 
+project may finance more subprojects. 
+2 
+install  hydrometeorological  stations  in  the  watersheds  and  establish  canal  flow  measurement 
+systems.  The  project  will  train  staff  of  the  Ministry  of  Water  Resources  and  Meteorology 
+(MOWRAM), MOWRAM’s Department of Farmer Water User Communities (DFWUC), provincial 
+departments of water resources and meteorology (PDWRAMs), the FWUCs, and the MAFF on 
+(i)  modern  canal  operation  techniques,  (ii)  irrigation  scheduling,  (iii)  watershed  management, 
+and (iv) water management. It will also strengthen their awareness of climate resilience in water 
+resource  management.  The  project  will  modernize  canal  operations,  undertake  irrigation 
+scheduling,  and  integrate  the  scheduling  with  the  canal  flow  gauging  system  to  manage 
+supplies,  particularly  during  droughts.  It  will  also  design  joint  reservoir  operations for  (i)  Stung 
+Chinit and Taing Krasaing reservoirs in Kampong Thom, and (ii) Bassac and Dauntri reservoirs 
+in  Battambang.  This  will  improve  water-sharing  arrangements  between  linked  systems  and 
+ensure equitable distribution, particularly during droughts. 
+II. 
+IMPLEMENTATION PLANS 
+Project Readiness Activities 
+Project readiness activities and their expected completion dates are shown in Table 1. 
+A. 
+5. 
+Table 1:   Project Readiness Activities 
+2015 
+2016 
+Indicative Activities 
+Jun 
+Jul  Aug  Sep  Oct  Nov 
+Dec 
+Jan 
+Feb 
+Fact finding mission 
+Advance contracting actionsa 
+Establish project implementation 
+arrangementsb 
+X 
+X 
+ADB Board approval 
+Loan signing 
+Government legal opinion provided 
+Government budget inclusion  
+X 
+Loan effectiveness 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+ADB  =  Asian  Development  Bank;  MEF  =  Ministry  of  Economy  and  Finance;  MOWRAM  =  Ministry  of  Water 
+Resources and Meteorology; RGC = Royal Government of Cambodia  
+a   Bids for the core subproject works and goods have been invited and shall be evaluated before loan effectiveness. 
+Expression of Interest for project implementation and management consultants has been invited. Proposals will be 
+evaluated before the loan effectiveness. 
+b  PMU was established before PPTA and PPMS is developed. 
+X 
+ADB/MEF 
+Who is 
+responsible 
+ADB/RGC 
+MOWRAM 
+MOWRAM 
+ADB 
+ADB/RGC 
+MEF 
+MEF 
+B. 
+Overall Project Implementation Plan  
+Activities 
+2016 
+Qtr 
+2017 
+Qtr 
+2018 
+Qtr 
+2019 
+Qtr 
+2020 
+Qtr 
+2021 
+Qtr 
+1 
+2 
+3 
+4 
+1 
+2 
+3 
+4 
+1 
+2 
+3 
+4 
+1 
+2 
+3 
+4 
+1 
+2 
+3 
+4 
+1 
+2 
+3 
+4 
+3 
+1. Recruitment of PMIC and 
+procurement of office equipment 
+and furniture 
+2. Award of Taing Krasaing Main 
+Canal Contract 
+3.  Construction  of  Taing  Krasaing 
+main canal 
+4. Detailed Engineering Design of 
+the other subprojects 
+5. Award of Contracts 
+6. Construction 
+7. Procurement and installation of 
+hydro-meteorological equipment 
+8. Joint reservoir operations 
+adopted 
+9. LARP activities 
+10. GAP Activities 
+11. Environmental Assessment and 
+Management Activities 
+12. Formation of FWUCs 
+13. Training of FWUCs 
+14. PPMS 
+▼ 
+▼ 
+▼ 
+▼ 
+▼ 
+▼ 
+▼ 
+▼ 
+▼ 
+▼ 
+4 
+III. 
+PROJECT MANAGEMENT ARRANGEMENTS 
+A. 
+Project Implementation Organizations – Roles and Responsibilities 
+6. 
+Ministry of Water Resources and Meteorology (MOWRAM) will be the executing agency 
+and  its  Department  of  Farmer  Water  User  Communities  (DFWUC)  will  be  the  implementing 
+agency.  A  PMU  has  been  established  in  DFWUC  before  commencement  of  the  project 
+preparatory technical assistance (PPTA). The PMU is headed by a Project Director who is the 
+Deputy  Director  General  for  Technical  Affairs  in  DFWUC  and  a  Project  Manager  who  is  the 
+Director  of  the  DFWUC.  The  PMU  was  fully  involved  in  the  preparation  of  the  project.  For 
+implementation  of  the  project,  the  PMU  will  be  composed  of  24  designated  personnel  from 
+MOWRAM,  MAFF,  DHRW,  and  PDWRAMs  of  Kampong  Thom  and  Battambang  provinces. 
+MAFF staff will coordinate the land levelling and other supporting activities to be provided from 
+the Climate-Resilient Rice Commercialization Sector Development Program including access to 
+quality  seed and  agriculture  value  chain facilities  and services.  PDWRAMs  will  be  responsible 
+for coordinating all field activities with FWUCs and DFWUC. DHRW will coordinate installation, 
+operation,  and  data  collection  of  hydro-meteorological  stations.  A  steering  committee,  chaired 
+by  H.E.  Minister  MOWRAM  and  comprising  senior  officials  from  MOWRAM,  MAFF,  MEF  and 
+Provincial  Governor’s  Office  of  Kampong  Thom  and  Battambang,  will  oversee  the  project 
+implementation  and  management  and  provide  policy  guidance  except  in  the  land  acquisition 
+and  resettlement,  which  shall  be  the  responsibility  of  the  Inter-Ministerial  Resettlement 
+Committee  (IRC).  Resettlement  and  land  acquisition  will  be  implemented  by  and  under  the 
+management of the IRC chaired by MEF with membership from the representatives of relevant 
+line  ministries  in  close  cooperation  with  the  Kampong  Thom  and  Battambang  Provincial 
+Resettlement  Sub-committees.  The  PMU  will  be  responsible  for  planning,  implementation, 
+organization, monitoring and reporting of the project. The PMU will be supported by the PMIC. 
+The  PMIC  will  comprise 58  person-months  of  international  and  610  person-months  of  national 
+experts  to  provide  technical  support  to  the  PMU  to  efficiently  manage  and  implement  the 
+project. ADB’s Guidelines on the Use of Consultants (2013, as amended from time to time) will 
+be  used  for  recruiting  the  consulting  firms.  The  anticipated  procurements  include  small  and 
+large  works  contracts,  which  will  be  procured  by  using  ADB’s  national  and  international 
+competitive  bidding  methods  for  ADB’s  financed  subprojects.  An  imprest  account  will  be 
+maintained at the PMU level for ADB’s loan and government funds. 
+Project Implementation 
+Organizations 
+Management Roles and Responsibilities 
+Project Steering Committee  Oversee project and provide policy guidance. 
+Chair: Minister, MOWRAM 
+Secretary: Deputy Director General, DFWUC/Project Director  
+Members: 
+Secretary of State, MOWRAM 
+Under Secretary of State, MEF 
+Under Secretary State, MAFF 
+Provincial Governor’s Offices (Battambang and Kampong Thom) 
+Ministry of Water Resources 
+and Meteorology 
+(MOWRAM) 
+Executing Agency 
+Overall supervision and guidance on implementation of the project. 
+Project Implementation 
+Organizations 
+DFWUC in MOWRAM (PMU) 
+5 
+Management Roles and Responsibilities 
+Implementing Agency 
+•  Procure civil works and goods 
+•  Supervise execution of works. 
+•  Payments to contractors/consultants/suppliers 
+•  Operate imprest account 
+•  Recruit and supervise PMIC 
+•  Maintain  project  accounts  and  accurate  records  of  both  financial 
+and physical progress 
+•  Provide  to  ADB  and  MEF  quarterly  progress  reports  and  six-
+monthly PPMS reports 
+•  Provide to ADB and MEF audited financial statements duly audited 
+as per the loan agreement 
+•  Ensure  compliance  with  social  and  environmental  safeguards  as 
+per ADB’s SPS 2009 
+•  Implement gender action plan 
+•  Submit internal safeguards monitoring reports 
+•  Prepare resettlement plans 
+Project Management and 
+Implementation Consultants 
+(PMIC) 
+•  Carry  out  field  surveys,  engineering  studies,  detailed  design, 
+preparation of engineering drawings 
+•  Assist PMU in preparing bid documents including design, review of 
+design/specification 
+•  Assist  PMU 
+preparation, 
+activities. 
+in  bids  evaluation/contracts  award/  Support 
+implementation  and  monitoring  of  safeguards 
+•  Support PMU in complying with LARF and EARF 
+•  Assist PMU in execution and supervision of works 
+•  Assist PDWRAM in mobilizing FWUCs 
+•  Provide trainings to FWUCs 
+•  Certify payments of works 
+•  Ensure  quality  of  construction  and  adherence 
+specifications 
+to  design 
+•  Help PMU in maintaining project accounts 
+•  Prepare quarterly progress reports and PPMS 
+•  Assist PMU in implementing GAP 
+•  Provide  on-job  capacity  building  to  MOWRAM,  PDWRAM  and 
+MAFF 
+•  Carry out hydrological studies and design joint reservoir operation 
+of  Stung  Chinit  and  Taing  Krasaing  reservoirs,  and  Bassac  and 
+Dauntri reservoirs 
+•  Design and implement modern canal operations system 
+Provincial Departments of 
+Water Resources and 
+Meteorology (PDWRAMs)  
+Under  the  supervision  of  DFWUC,  MOWRAM,  respective  PDWRAM 
+supervise the establishment and strengthening of the FWUCs at the 
+irrigation system level and provide support in project implementation 
+6 
+Project Implementation 
+Organizations 
+Management Roles and Responsibilities 
+Farmer Water User 
+Communities (FWUCs) 
+•  Participate in the subprojects’ design and implementation 
+•  Manage and operate distribution canals in close coordination with 
+Inter-Ministerial 
+Resettlement Committee 
+(IRC) 
+Asian Development Bank 
+the PDWRAMs. 
+•  Take over the roles and responsibilities as per the Sub-decree on 
+role and responsibilities of FWUCs 
+•  Represent the interest of the project beneficiaries and coordinate 
+closely with the PDWRAMs and PMU regarding project 
+implementation at project level. 
+•  Endorse the resettlement plans  
+•  Implement land acquisition and resettlement activities 
+•  Recruit external monitoring agency for safeguards 
+•  Ensure timely payment of compensations to the affected persons 
+•   
+•  provide financing for the project cost through an ADF Loan 
+•  monitor project implementation progress 
+•  monitor project arrangements, disbursement, procurement, 
+consultant selection, and reporting 
+•  monitor schedules of activities, including funds flow  
+•  review compliance with agreed procurement procedures 
+•  timely review documents that require ADB’s approval  
+•  review compliance with loan covenants 
+•  monitor compliance with safeguards procedures 
+•  monitor project conformity with ADB’s anti-corruption policies 
+•  undertake periodic review missions, including midterm review 
+jointly, with the Government 
+B. 
+Key Persons Involved in Implementation  
+Executing/Implementing 
+Agencies  
+Names of Key Personnel 
+Ministry of Water Resources 
+and Meteorology 
+(MOWRAM) 
+H.E. Chann Sinath  
+Deputy Director General Technical Affairs Department of FWUC, 
+MOWRAM 
+Mobile No: (855) 12 528777  
+Email address: channsinath78@gmail.com 
+Office Address: 364 Monivong Blvd, Khan Chamkamorn 
+Phnom Penh, Cambodia 
+Asian Development Bank 
+Samiuela T. Tukuafu 
+Country Director 
+Asian Development Bank-Cambodia Resident Mission 
+Tel (855) 23 215 805 
+Email address: stukuafu@adb.org 
+Piseth Long 
+Senior Project Officer 
+Asian Development Bank-Cambodia Resident Mission 
+Tel (855) 23 215 805 
+Email address: plong@adb.org 
+C. 
+Project Organization Structure  
+Figure 1: Project Organization Structure 
+7 
+Project Steering Committee 
+MOWRAM - EA 
+PMIC 
+DFWUC - IA 
+IRC 
+PDWRAM 
+FWUCs 
+8 
+D. 
+Project Management Unit Staff at MOWRAM 
+SN  
+1 
+Name 
+H.E. Chann Sinath 
+2  Mr. Huy Vantha 
+3  Mr. Mao Hak 
+4  Mr. Sreng Sotha 
+5  Mr. Um Rina 
+6  Mr. Phan Sophy 
+7  Mrs. Bun Sida 
+8  Mr. Kim Vann 
+9  Mr. Keo Sovathapheap 
+10  Mr. Im Soursdey 
+11  Mr. Srun Sokhom 
+12  Mr. Chea Hong 
+13  Mrs. Im Chinda 
+14  Mrs. Laing Sokim 
+15  Mr. Sran Chheav 
+16  Mr. Sok Boren 
+17  Mr. Tan Naren 
+18  Mrs. Kheth Chivy 
+19  Mrs. Nhim Sophea 
+20  Mr. Long Phalkun 
+21  Mr. Peng Sophy  
+22  Mr. You La 
+23  Mr. Hak Puthy 
+24  Mr. He Keun 
+Designation 
+Deputy Director General, Technical 
+Affair, DFWUC 
+Director, DFWUC 
+Deputy Director General for Technical 
+Affair, DHRW 
+Officer, DHRW 
+Director of Department of 
+Meteorology 
+Chief, Instrument & Equipment 
+Management Office 
+Vice Chief, Training and Research, 
+DFWUC 
+Officer, Training and Research, 
+DFWUC 
+Deputy Director, DFWUC 
+Vice Chief, DFWUC 
+Deputy Director General, MAFF 
+Chief Office of Agricultural Irrigation, 
+MAFF 
+Vice Chief, DFWUC 
+Vice Chief, Training and Research, 
+DFWUC 
+Chief, Administrative Office 
+Officer, Administrative Office 
+Chief, DFWUC  
+Officer, Training and Research, 
+DFWUC 
+Officer, Training and Research, 
+DFWUC 
+Director, PDWRAM Battambang 
+Province 
+Irrigation Officer, PDWRAM 
+Battambang Province 
+Director, PDWRAM Kampong Thom 
+Province 
+Deputy Director, PDWRAM Kampong 
+Thom Province 
+Irrigation Officer, PWDRAM Kampong 
+Thom Province 
+Role 
+Project Director 
+Project Manager 
+Hydrology Officer 
+Hydrology Assistant 
+Meteorology Officer 
+Meteorology Assistant 
+Administrative / 
+Financial Officer 
+Administrative / 
+Financial Assistant 
+Technical / Safeguards 
+Officer 
+Technical Assistant 
+Agriculture Officer 
+Agriculture Assistant 
+Gender Officer 
+Procurement Officer 
+Procurement Assistant 
+Procurement Assistant 
+FWUC Officer 
+FWUC Assistant 
+FWUC Assistant 
+Battambang Technical 
+Officer 
+Battambang Technical 
+Assistant 
+Kampong Thom 
+Technical Officer 
+Kampong Thom 
+Technical Assistant 
+Kampong Thom 
+Technical Assistant 
+Figure 2: Project Management Unit Organizational Chart 
+9 
+Project Director 
+Project Manager 
+FWUC 
+Officer 
+FWUC 
+Assistant 
+(2) 
+Administrat
+ive / 
+Financial 
+Officer 
+Procurement 
+Officer 
+Hydrology 
+Officer 
+(DHRW) 
+Meteorology 
+Officer 
+Safeguards 
+Officer 
+Gender 
+Officer 
+Administrati
+ve / 
+Financial 
+Assistant 
+Proc. 
+Assistant 
+(2) 
+Hydrology 
+Assistant 
+Meteorology 
+Assistant 
+Safeguards 
+Assistant 
+Source: MOWRAM, 2015. 
+Agriculture 
+Officer 
+(MAFF) 
+Agriculture 
+Assistant 
+PDWRAM 
+Kampong 
+Thom 
+Technical 
+Officer 
+Kampong 
+Thom 
+Assistant 
+(2) 
+PDWRAM 
+Battambang 
+Technical 
+Officer 
+Battambang 
+Technical 
+Assistant 
+10 
+E. 
+Implementation Procedures  
+7. 
+The core subproject Taing Krasaing main canal is designed and ready for bidding. The 
+feasibility studies of Taing Krasaing in Kampong Thom province and Prek Chik in Battambang 
+province have been done. Detailed designs of both main canals are ready for bidding. Bidding 
+of Taing Krasaing main canal will be started before loan effectiveness but Prek Chik main canal 
+bids  will  be  invited  after  water  availability  study  of  Bassac  reservoir  is  completed.  Detailed 
+engineering  design  of  distribution  system  of  both  irrigation  systems  will  be  done  by  the  PMIC 
+canal systems in phases. After completion of design of each phase, the contract for construction 
+will  be  awarded  by  the  PMU.  FWUCs  will  be  formed  and  trained  and  involved  in  the  design 
+process. Feasibility study of O Kra Nahk irrigation system in Kampong Thom province and other 
+non-core subprojects will be carried out by the PMIC. The subprojects will be assessed on the 
+following selection criteria before making final decision for investments.  
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v)  
+(vi) 
+(vi) 
+(vii) 
+Category  B  or  less  in  terms  of  environmental  impact  as  defined  in the  SPS  [do 
+not have any significant environmental impact]; 
+Category B or less in terms of involuntary resettlement impact as defined in the 
+SPS  [do  not  cause  involuntary  resettlement  and  land,  if  required,  will  be  within 
+the permissible limits for Category B; 
+Category C in terms of indigenous peoples impact as defined in the SPS [do not 
+have any impact on indigenous peoples]; 
+Irrigation  system  has  low  irrigation  efficiency  and  water  productivity,  and  would 
+have  scope  for  substantial  enhancement  of  both  irrigation  efficiency  and  water 
+productivity;  
+Subproject  should  involve  only  rehabilitation  of  existing  systems  or  related 
+schemes and should not involve construction of new systems;  
+Subproject should be located outside the Tonle Sap basin;  
+Subproject should involve rehabilitation of both primary and secondary canals to 
+ensure that water reached the farm;  
+Subproject  should  not  be  covered  by  other  ongoing  or  proposed  projects 
+financed by ADB or any other Development Partner;  
+(viii)  Beneficiaries  should  include  sharecroppers,  poor  farmers,  and  women  farmers; 
+(ix) 
+and  
+technically,  socially  and 
+Subproject  should  be  economically  viable;  and 
+environmentally  feasible.  The  economic  internal  rate  of  return  (EIRR)  of  each 
+subproject should be greater than 12% 
+In  case  a  subproject  is  not  considered  eligible  as  per  above  criteria,  PDWRAM  and 
+8. 
+MOWRAM will propose other subprojects, that will also undergo same assessment. 
+After  a  subproject  is  assessed  eligible  and  feasible  as  per  the  selection  criteria,  the 
+9. 
+feasibility study will be submitted for ADB’s concurrence prior to start of bidding process.  
+10. 
+After the detailed design, bidding documents will be prepared by the PMU with support 
+from  PMIC  and  bidding  will  be  done  according  to  the  methods  and  procedures  defined  in  the 
+procurement plan. PMU will award the contracts and PDWRAMs and PMIC will be responsible 
+for on-site supervision of works. 
+11 
+IV. 
+COSTS AND FINANCING 
+11. 
+The  total  project  cost  is  estimated  at  $66.12  million.  The  Government  has  requested  a 
+loan  of  SDR43,121,000  [$60.0  million  equivalent]  in  various  currencies  from  ADB’s  Special 
+Funds Resources (ADF) to help finance the project. The loan will have a 32-year term, including 
+a grace period of 8 years, an interest rate of 1.0% per annum during the grace period and 1.5% 
+per annum thereafter, and such other terms and conditions set forth in the draft loan agreement. 
+The  ADB  loan  represents  90.7%  of  total  project  costs.  It  will  be  utilized  for  civil  works, 
+12. 
+hydrometeorology  equipment,  vehicles,  office  equipment,  furniture,  consulting  services,  and 
+incremental  operating  cost.  The  government  will  also  borrow  for  financing  charges  during 
+implementation.  ADB  will  finance  taxes  and  duties  on  ADB  financed  expenditures  except  civil 
+works. 
+13. 
+The Government will finance the equivalent of $6.12 million (9.3% of total project costs), 
+from the central government budget allocations.  The Government counterpart funds will be for 
+(i) salaries of government staff working for the project, (ii) land acquisition and resettlement, and 
+(iii) taxes and duties on civil works through exemption.  
+A. 
+Detailed Cost Estimates by Expenditure Category  
+A.   Base Costs 
+1 
+2 
+3 
+4 
+5 
+6 
+Civil Works 
+Hydrometeorology Equipment 
+Office Equipment, Furniture and Vehicles  
+Consulting Services  
+Incremental Operating Cost  
+Land acquisition and resettlement 
+Subtotal (A) 
+ B.   Contingencies 
+1 
+2 
+Physical Contingencies 
+Price Contingencies 
+Subtotal (B) 
+ C.   Financing Charges During Implementation 
+1 
+Interests During Implementation 
+Subtotal (C) 
+ Total Cost (A+B+C)  
+Note: Some total may not sum up due to rounding off of decimals. 
+Source: ADB staff estimates. 
+Amount 
+($ millions) 
+%  of Total 
+Base Cost 
+45.14  
+84.7% 
+1.20  
+1.00  
+4.85  
+0.50  
+0.58  
+2.3% 
+1.9% 
+9.1% 
+0.9% 
+1.1% 
+53.26  
+100.0% 
+4.94  
+6.30  
+11.24  
+1.62  
+1.62  
+66.12  
+9.3% 
+11.8% 
+21.1% 
+3.0% 
+3.0% 
+124.1% 
+12 
+B.  Allocation and Withdrawal of Loan Proceeds  
+No. 
+Category 
+   1   Civil Works  
+Amount 
+($ million) 
+Percentage and Basis for Withdrawal 
+from the Loan Account 
+41.02   100% of total expenditure claimed*  
+   2   Hydrometeorology Equipment 
+1.20   100% of total expenditure claimed  
+   3   Office Equipment, Furniture and Vehicle 
+1.00   100% of total expenditure claimed  
+   4   Consulting Services 
+   5  
+Incremental Operating Cost 
+4.85   100% of total expenditure claimed  
+0.25   100% of total expenditure claimed  
+   6  
+Interests During Implementation 
+1.62   100% of amount due  
+   7   Unallocated 
+Total  
+10.06  
+60.00 
+* Exclusive of local taxes and duties imposed within the territory of the Borrower. 
+Source: ADB staff estimates. 
+13 
+C.  Detailed Cost Estimates by Financier (in $ million) 
+Items 
+Amount 
+% 
+Amount 
+Taxes 
+and 
+Duties 
+Total 
+% 
+TOTAL 
+ADB 
+Government 
+A.  
+Base Costs 
+1  Civil Works 
+2  Hydrometeorology Equipment 
+3  Office Equipment, Furniture and Vehicles 
+4  Consulting Services 
+Incremental Operating Costa 
+5 
+6  Land acquisition and resettlement 
+   Subtotal (A) 
+B.   Contingencies 
+1  Physical Contingencies 
+2  Price Contingencies 
+   Subtotal (B) 
+C.  
+41.02 
+90.9 
+1.20  100.0 
+1.00  100.0 
+4.85  100.0 
+50.0 
+0.25 
+0.0 
+- 
+90.7 
+48.32 
+4.38 
+5.67 
+10.06 
+88.8 
+90.0 
+89.5 
+- 
+- 
+- 
+- 
+0.24 
+0.58 
+0.82 
+0.55 
+0.63 
+1.18 
+4.12 
+- 
+- 
+- 
+0.01 
+- 
+4.13 
+- 
+- 
+- 
+4.12 
+- 
+- 
+- 
+0.25 
+0.58 
+4.94 
+0.55 
+0.63 
+1.18 
+9.1 
+- 
+- 
+- 
+50.0 
+100 
+9.3 
+11.2 
+10.0 
+10.5 
+45.14 
+1.20 
+1.00 
+4.85 
+0.50 
+0.58 
+53.26 
+4.94 
+6.30 
+11.24 
+Interests During Implementation 
+1 
+   Subtotal (C) 
+ Total Cost (A+B+C) 
+Some total may not sum up due to rounding off of decimals. 
+Source: ADB staff estimates. 
+a  ADB will finance the office operations cost while the government will finance supplementary salary of PMU staff. The audit cost will be shouldered by 
+1.62  100.0 
+1.62  100.0 
+90.7 
+1.62 
+1.62 
+66.12 
+- 
+- 
+6.12 
+- 
+- 
+4.13 
+- 
+- 
+9.3 
+- 
+- 
+2.0 
+60.00 
+the government as part of the total audit cost for a pool of ADB projects. The cost cannot be determined on a per project basis. 
+14 
+D.  Detailed Cost Estimates by Outputs/Components (in $ million) 
+Item 
+ A.  Base Costs 
+1  Civil Works 
+2  Hydrometeorology Equipment 
+3  Office Equipment, Furniture and Vehicles 
+4  Consulting Services 
+5 
+6 
+Incremental Operating Cost 
+Land Acquisition and Resettlement 
+Subtotal (A) 
+B. Contingencies 
+1 
+2 
+Physical Contingencies 
+Price Contingencies 
+Subtotal (B) 
+C. Financing Charges During Implementation 
+1 
+Interests During Implementation 
+Subtotal (C) 
+ Total Cost (A+B+C)  
+ Note: Some total may not sum up due to rounding off of decimals. 
+ Source: ADB staff estimates. 
+TOTAL  
+OUTPUT 1 
+OUTPUT 2 
+Project Management  
+Amount 
+% 
+Amount 
+% 
+Amount 
+ %   
+45.14 
+1.20 
+1.00 
+4.85 
+0.50 
+0.58 
+53.26 
+4.94 
+6.30 
+11.24 
+1.62 
+1.62 
+66.12 
+45.14 
+- 
+1.00 
+4.09 
+- 
+0.58 
+50.80 
+4.87 
+6.18 
+11.05 
+1.57 
+1.57 
+63.42 
+100.0 
+0.0 
+100.0 
+84.3 
+0.0 
+100.0 
+95.4 
+98.7 
+98.1 
+98.3 
+96.9 
+96.9 
+95.9 
+- 
+1.20 
+ - 
+0.11 
+-   
+-    
+1.31 
+0.0 
+100.0 
+0.0 
+2.3 
+0.0 
+0.0 
+2.5 
+- 
+0.01 
+0.01 
+0.05 
+0.05 
+1.38 
+0.0 
+0.2 
+0.1 
+3.1 
+3.1 
+2.1 
+- 
+- 
+- 
+0.64 
+0.50 
+- 
+1.14 
+0.06 
+0.12 
+0.18 
+0.00 
+0.00 
+1.32 
+0.0 
+0.0 
+0.0 
+13.2 
+100.0 
+0.0 
+2.1 
+1.3 
+1.9 
+1.6 
+0.0 
+0.0 
+2.0 
+E.  Detailed Cost Estimates by Year (in $ million) 
+15 
+Items 
+A.   Base Costs 
+1  Civil Works 
+2  Hydrometeorology Equipment 
+3  Office Equipment, Furniture and Vehicle 
+4  Consulting Services 
+5 
+6 
+Incremental Operating Cost 
+Land acquisition and resettlement 
+Subtotal (A) 
+B.   Contingencies 
+1  Physical Contingencies 
+2  Price Contingencies 
+Subtotal (B) 
+C.   Financing Charges During Implementation 
+1 
+Interests During Implementation 
+   Subtotal (C) 
+ Total Cost (A+B+C)  
+Note: Some total may not sum up due to rounding off of decimals. 
+Source: ADB staff estimates. 
+Total 
+Cost 
+45.14 
+1.2 
+1.00 
+4.85 
+0.50 
+0.58 
+53.26 
+4.94 
+6.30 
+11.24 
+1.62 
+1.62 
+66.12 
+2016 
+2017 
+2018 
+2019 
+2020 
+2021 
+4.51 
+1.20 
+1.00 
+0.50 
+0.08 
+0.58 
+7.88 
+0.74 
+0.21 
+0.95 
+0.04 
+0.04 
+8.87 
+4.51 
+- 
+- 
+0.48 
+0.08 
+- 
+5.08 
+0.47 
+0.27 
+0.74 
+0.11 
+0.11 
+5.93 
+6.77 
+- 
+- 
+0.72 
+0.08 
+- 
+7.58 
+0.70 
+0.65 
+1.35 
+0.18 
+0.18 
+9.12 
+9.03 
+- 
+- 
+0.96 
+0.08 
+- 
+10.08 
+0.93 
+1.22 
+2.15 
+11.28 
+- 
+- 
+1.21 
+0.08 
+- 
+12.57 
+1.16 
+1.98 
+3.14 
+9.03 
+- 
+- 
+0.96 
+0.08 
+- 
+10.08 
+0.93 
+1.97 
+2.90 
+0.29 
+0.29 
+12.52 
+0.43 
+0.43 
+16.15 
+0.57 
+0.57 
+13.54 
+16 
+F.  Contract and Disbursement S-curve  
+The  graph  below  shows  contract  awards  and  disbursement  over  the  life  of  the  project, 
+14. 
+and annually based on the contract awards and disbursement projections. 
+Figure 3: Contract and Disbursement S-curve 
+G.  Fund Flow Diagram 
+ The  figure  below  shows  how  the  funds  will  flow  from  ADB  and  the  Borrower  to 
+15. 
+implement project activities. 
+17 
+Figure 4:   Fund Flow Diagram 
+Asian Development Bank 
+MEF 
+Direct Payments 
+over $100,000a  
+  PMU in DFWUC, MOWRAM 
+Imprest Account at NBC 
+Under $100,000 
+•   Civil works 
+•   Consulting Services  
+• 
+•  Vehicle and equipment 
+Incremental Operating Expenses 
+•  Civil works 
+•  Consulting Services  
+•  Vehicle and equipment 
+Legend: 
+Imprest Fund 
+Direct Payment 
+DFWUC = Department of Farmer Water User Communities; MEF = Ministry of Economy and Finance, MOWRAM 
+= Ministry of Water Resources and Meteorology; NBC = National Bank of Cambodia  
+Source: Asian Development Bank and the Government of Cambodia.  
+18 
+V. 
+FINANCIAL MANAGEMENT 
+A.  Financial Management Assessment 
+16. 
+The financial management assessment (FMA) report (Supplementary Document 17) was 
+prepared  in  accordance  with  the  FMA  technical  guidance  note  (ADB,  2015).  It  was  initially 
+updated  by  a consultant, from the  FMA  done  by  the  MOWRAM  in 20143   and finalized  by  the 
+ADB’s  Senior  Financial  Management  Specialist,  during  a  fact-finding  mission,  from  22  to  26 
+June  2015.  This  FMA  incorporates  the  financial  management  internal  control  and  other  risk 
+assessment required by the guidance. It may need to be amended further to reflect subsequent 
+developments  and  agreements  during  the  project  implementation.  The  FMA  preparatory 
+activities included reviewing documents, interviewing staff of government agencies, consultants, 
+beneficiaries and other stakeholders, and completed with inputs from other references through 
+desk studies. 
+The  purpose  of  this  assessment  was  to  determine  the  robustness  of  the  accounting, 
+17. 
+financial  controls  and  internal  audit  arrangements,  and  the  capability  of  the  executing  and 
+implementing  agencies  to  meet  all  the  fiduciary  requirements  which  are  set  out  in  the  loan 
+agreement,  and  other  project  documents.  The  FMA  has  assessed  the  executing  and 
+implementing  agencies  and  financial  arrangements,  financial  responsibilities  and  perceived 
+financial  risks  and  risk  management.  This  FMA  also  provides  guidance  to  the  executing  and 
+implementing  agencies  for  mitigation  measures  to  ensure  the  effective  project  performance, 
+following  country  laws  and  regulations  as  well  as  ADB’s  requirements.    The  executing  and 
+implementing  agencies  have  worked  in  the  past  with  ADB  and  are  currently  implementing 
+several ADB funded projects. MOWRAM is also part of the government’s comprehensive Public 
+Financial Management Reform Program (PFMRP) which is being supported by an ADB Grant.4 
+The executing agency has the experience and capacity to administer the imprest fund and SOE 
+procedures. 
+18. 
+Summary of the assessment: The FMA overall is rated as “Moderate” and is expected to 
+become “Low” with mitigating measures.  General environment for public financial management 
+(PFM) in Cambodia is generally satisfactory due to large extent to the standardized policies and 
+guidelines  which  are  implemented  for  all  externally  financed  projects  and  programs.  The 
+following tables present the risk summary for both inherent- and project risks. 
+Table 2: Inherent and Project Risks 
+Risk Description 
+I. Inherent Risks 
+A. Country Specific:  PFM: (i) low 
+accountability for public expenditure and 
+service delivery; (ii) inadequate 
+delegation and build-up of capacity in 
+SNAs; (iii) weak Internal audit and 
+internal controls: (iv) External audit 
+capacity is improving, but remains 
+weak.  
+Risk 
+Assessment 
+Mitigation Measures 
+or Risk Management Plan 
+Moderate 
+(i) expand technical assistance under the CPS 
+to additional priority ministries including 
+MOWRAM; (ii) continue to support 
+decentralization and PFM reforms for SNAs; 
+(iii) provide capacity building for internal audit; 
+and (iv) support the NAA in addressing audit 
+findings and follow up on recommendations. 
+4 Grant No. 0222-CAM(SF): Public Financial Management for Rural Development Program, Subprogram 2. 
+Risk 
+Assessment 
+Risk Description 
+Procurement: risks of inefficiencies and 
+irregularities in procurement for line 
+ministries and SNAs, including e-
+procurement, complaint handling 
+mechanisms, and stronger institutions 
+and human capacity. 
+Corruption: (i) The ACU faces significant 
+challenges to effectively implement the 
+Anti-Corruption Law and systemically 
+address corruption. 
+B. Entity Specific:  Lack of control in 
+budget execution; accounting and 
+reporting, and budget credibility. 
+Moderate 
+Overall Inherent Risk 
+II. Project/Control Risks 
+Executing/Implementing entity: Potential 
+corruption due to weakness in internal 
+control and external control of the 
+Project  
+Moderate 
+Moderate 
+Fund Flows: - The PMU Finance Officer 
+is familiar with FMM, but she has not yet 
+received training on ADB’s LDH. 
+Moderate 
+Staffing:  Lack  of  capacity  (number  and 
+skills) of  staff for finance unit 
+Moderate 
+Accounting policies and Procedures: 
+The duties of finance officer are not 
+Moderate 
+5 Grant agreement was signed on 22 October 2010. 
+19 
+Mitigation Measures 
+or Risk Management Plan 
+Improve the government’s standard operating 
+procedures, procurement manual, and FM 
+manual; deliver training on ADB’s guidelines 
+and procurement procedures; and continue to 
+identify procurement risks and implement 
+mitigation measures. 
+In coordination with other DPs and NGOs, 
+ADB will continue to support the ACU in 
+fulfilling its mandate. 
+CARM/ MEF/ MOWRAM to continue to 
+monitor the progress and results of ADB Grant 
+No. 0222-CAM(SF)5: Strengthening Public 
+Financial Management for Rural Development 
+Program (PFMRDP) covering 3 ministries 
+including MOWRAM. These rural 
+development ministries are being supported in 
+budget preparation and execution, financial 
+management and accounting, procurement, 
+internal audit development, and in monitoring 
+and evaluation. 
+MOWRAM will require all contractors /bidders, 
+suppliers and consultants to sign declarations 
+of ethical conduct; strengthen transparency 
+through posting project information on the 
+executing agency websites; develop complaint 
+handling mechanisms; strict monitoring and 
+enforcement of procurement procedures and 
+contracts; and joint investigation by the NAA 
+and the ADB’s Office of Anticorruption and 
+Integrity on irregularities. 
+Provide  training  on  ADB’s  LDH    for  the 
+Finance  Officer  and  her  staff  as  part  of  the 
+PMU  consultancy  package  within  six  months 
+of  loan  effectiveness;  Most  funds  will  flow 
+through ADB direct payments  
+Start the selection process for the PMU 
+Project Accountant, who is experienced in 
+ADB disbursement procedures, to be 
+appointed before loan effectiveness, 
+preferably from Department of Finance of 
+MOWRAM, Loan consultants will be engaged 
+within three months of loan effectiveness to 
+assist with project management, including 
+project financial management. 
+Once assigned to the PMU, the Project 
+Accountant can handle preparing orders 
+20 
+Risk Description 
+segregated between preparing orders 
+and making payments. 
+Internal Audit: 
+Limited capacity in internal audit 
+Risk 
+Assessment 
+Moderate 
+Mitigation Measures 
+or Risk Management Plan 
+leaving the Finance Officer to be responsible 
+only for making payments. 
+MOWRAM will include the project to be 
+subject to internal audit to ensure that the 
+organization’s Internal Audit Unit carries out 
+regular reviews of the internal control 
+processes.  
+PMU will work with MEF to update the TOR 
+and to engage external auditors who can 
+provide qualified staff to audit the project 
+accounts 
+The PMU Finance Office’s capacity to prepare 
+FMRs can be improved by on the job training 
+conducted by the finance consultant to be 
+provided by the Loan consultancy package. 
+Moderate 
+Moderate 
+Moderate 
+PMU to coordinate with the Finance 
+Department for installation of this software at 
+the PMU and operated using double entry 
+accounting procedures will allow transactions 
+to be traced and followed during audit 
+Moderate 
+Moderate  
+The implementation of mitigation actions as 
+proposed will reduce to risk to low. 
+External Audit 
+Lack of analysis in reviewing 
+transactions and interpreting the project 
+financial statements. 
+Reporting and Monitoring: Finance 
+Officer has limited capacity to prepare 
+Financial Management Reports (FMRs) 
+and The current project reporting does 
+not have the capacity to link the 
+financial information with the project’s 
+physical progress. 
+Information System: (i) PMU has no 
+accounting software to record 
+accounting transactions and generates 
+FMRS) automatically: (ii) There have 
+been major improvements in the 
+information system as a result of the 
+PFMRD. This includes a new Chart of 
+Accounts and implementation of a 
+computerized system.   
+Overall Project/ Control Risk 
+Overall (Combined) Risk 
+ADB = Asian Development Bank, DP = development partners, FM = financial management, FMIS = FM information 
+system,  MEF  =  Ministry  of  Economy  and  Finance,  NAA  =  national  audit  authority,  NGOs  =  non-governmental 
+organizations,  OECD  =  Organization  for  Economic  Co-operation  and  Development  PFM  =  public  financial 
+management, SNAs = sub-national authorities. 
+Source: Asian Development Bank. 
+As  details  in  FMA  report,  risk  management  actions  include  measures  to  support  fund 
+19. 
+flow  arrangement  including  procurement  oversight  and strengthen financial  management  skills 
+have been prepared to avoid potential problems. These include (i) strengthen sector governance 
+and FM through comprehensive reforms to develop sector-wide national programs and support 
+for FM and accountability - based bottom up planning and good governance at all levels; (ii) will 
+develop  accounting  and  monitoring  systems  to  a  standard  format;  Reform  of  the  assets 
+registration  and  management;  and  (iii)  will  introduce  a  computerized  accounting  at  all  levels; 
+Financial  records  will  be  coupled  with  physical  records  for  management  and  preparation  of 
+annual performance assessments of the delivery of health services. Support will be provided to 
+facilitate  the  secure  storage  and  retrieval  system  for  records.  The  implementation  of  the  risk 
+management measures identified above will ensure that FM arrangements are adequate for the 
+overall program, especially for the investments funded by the project.  
+21 
+B. 
+Disbursement 
+ The  Loan  proceeds  will  be  disbursed  in  accordance  with  ADB’s  Loan  Disbursement 
+20. 
+Handbook  (2015,  as  amended  from  time  to  time),6  and  detailed  arrangements  agreed  upon 
+between  the  Government  and  ADB.  The  Loan  Disbursement  Handbook  describes  the 
+procedures and provides standard forms for withdrawal of funds. Online training for project staff 
+on disbursement policies and procedures is available at: http://wpqr4.adb.org/disbursement_ e-
+learning.  Project  staffs  are  encouraged  to  avail  of  this  training  to  help  ensure  efficient 
+disbursement and fiduciary control. 
+ The following are different financing and disbursement arrangements,7 of ADB Loan i.e. 
+21. 
+through  direct  payment  by  ADB,  reimbursement,  imprest  fund  procedures,  liquidation  and 
+replenishment,  and  the  statement  of  expenditures  (SOEs).  DFWUC  in  MOWRAM  will  be 
+responsible  for  (i)  preparing  contract  awards  and  disbursement  projections,  (ii)  requesting 
+budgetary  allocations  for  counterpart  funds,  (iii)  collecting  supporting  documents,  and  (iv) 
+preparing and sending withdrawal applications to ADB. 
+22. 
+Immediately  after  loan  effectiveness,  the  Government,  through  MEF,  will  open  a  US 
+dollar ($) imprest account at the National Bank of Cambodia or a commercial bank  exclusive for 
+the  project  loan. The  imprest  account  will  be  opened  and managed  by  MOWRAM,  as follows: 
+imprest  account  for  ADB  –  MEF  will  be  the  account  holder,  and  delegates  the  authority  to 
+DFWUC in MOWRAM, the authorized party. The imprest account is to be used exclusively for 
+ADB’s share of eligible expenditures. The executing agency is accountable and responsible for 
+proper  use  of  advances  to  the  imprest  account.  The  executing  agency  will  request  initial  and 
+additional  advances  from  ADB  based  on  its  estimate  of  ADB’s  share  of  eligible  project 
+expenditures for the forthcoming six months which are to be paid through the imprest account. 
+The total outstanding advance to the imprest accounts will not at any time exceed the estimated 
+ADB expenditures to be paid from the imprest account for the next six months. 
+23. 
+The  request  for  initial  advance  to  the  imprest  account  should  be  accompanied  by  an 
+Estimate  of  Expenditure  Sheet8  setting  out  the  estimated  expenditures  for  the  first  six  (6) 
+months  of  project  implementation,  and  submission  of  evidence  satisfactory  to  ADB  that  the 
+imprest account has been duly opened.  For every liquidation and replenishment request of the 
+imprest  account,  the  borrower  will  furnish  to  ADB  (a)  Statement  of  Account  (Bank  Statement) 
+where the imprest account is maintained, and (b) the Imprest Account Reconciliation Statement 
+(IARS)  reconciling  the  above  mentioned  bank  statement  against  the  executing  agency’s 
+records.9 
+24. 
+Statement  of  Expenditure  (SOE)  Procedure.  The  SOE  procedure  may  be  used  for 
+reimbursement and to liquidate and replenish the imprest account for eligible expenditures. Any 
+individual  payment  to  be  reimbursed  or  liquidated  under  this  procedure  shall  not  exceed  the 
+equivalent of $50,000 for the implementing agency. Reimbursement and liquidation of individual 
+payments  in  excess  of  the  SOE  ceiling  should  be  supported  by  full  documentation  when 
+submitting  the  withdrawal  application  to  ADB.  SOE  records  should  be  maintained  and  made 
+readily available for review by ADB's disbursement and review mission or upon ADB's request 
+for submission of supporting documents on a sampling basis, and for independent audit.10 The 
+6   Available at: http://www.adb.org/Documents/Handbooks/Loan_Disbursement/loan-disbursement-final.pdf 
+7   Available at: http://www.adb.org/documents/handbooks/loan_disbursement/chap-06.pdf 
+8   Available in Appendix 10B of the Loan Disbursement Handbook. 
+9   Follow the format provided in Appendix 10C of the Loan Disbursement Handbook. 
+10  SOE form available in Appendix 9B of the Loan Disbursement Handbook  
+22 
+project  team  should  revisit  the  appropriateness  of  the  SOE  ceiling,  in  consultation  with  ADB, 
+after the annual audit of the project. 
+25. 
+Before the submission of the first withdrawal application, the borrower should submit to 
+ADB  sufficient  evidence  of  the  authority  of  the  person(s)  who  will  sign  the  withdrawal 
+applications on behalf of the borrower, together with the authenticated specimen signatures of 
+each  authorized  person.    The  minimum  value  per  withdrawal  application  is  US$100,000 
+equivalent. 
+the 
+executing/implementing agency and subsequently claimed from ADB (i) through reimbursement; 
+or (ii) from the imprest account, unless otherwise accepted by ADB. 
+Individual  payments  below 
+should  be  paid  by 
+this  amount 
+26. 
+Disbursement  and  Liquidation  Procedures  for  Government  Funds.  Withdrawal  of 
+government counterpart funds must be carried out in accordance with the government policies 
+and procedures (Government’s Financial Management Manual). MOWRAM will be responsible 
+for submitting withdrawal applications to MEF. Counterpart funds withdrawal applications should 
+be made in accordance with the budget plan agreed between MOWRAM and MEF. Counterpart 
+funds may only be  withdrawn for expenditures of the project which are specified in the project 
+loan agreements.  
+27. 
+Key  Internal  Controls.  Withdrawal  applications  must  be  signed  by  an  authorized 
+signatory  or  signatories.  Withdrawal  applications  must  be  sequentially  numbered  starting  with 
+the number one.  
+28. 
+Counterpart  Funds  Initial  Advance/Liquidation/Replenishment.  The  PMU  completes  the 
+government  withdrawal  application  form  for  the  initial  advance/liquidation/replenishment  of 
+counterpart funds and submits to the MEF–Department of Cooperation and Debt Management 
+(DCDM).  The  maximum  amount  of  the  advance  of  counterpart  funds  will  be  the  estimated 
+expenditures for the first six (6) months of project implementation. The government withdrawal 
+application form must be signed by the authorized signatories of MOWRAM/PMU and submitted 
+to  the  MEF-DCDM.  The  government  withdrawal  application  must  be  recorded  in  the  project 
+counterpart funds withdrawal application register. 
+The  DCDM  reviews  the  completed  forms  and  in  conjunction  with  the  General 
+29. 
+Department of National Treasury (GDNT) transfers the funds to the project’s Counterpart Funds 
+Imprest Account and advises MOWRAM of the transfer. On receipt of advice from the NBC that 
+the funds have been deposited into the Counterpart Funds  Imprest Account, the receipt of the 
+funds  should  be  recorded  in  the  general  ledger  and  the  government  WA  register  must  be 
+updated. 
+C.  Accounting  
+30.  MOWRAM  will  maintain,  or  cause  to  be  maintained,  separate  books  and  records  by 
+funding  source for  all  expenditures  incurred  on  the  project. The  executing  agency  will  prepare 
+consolidated project financial statements in accordance with the government's accounting laws 
+and regulations which are consistent with international accounting principles and practices.   
+D.  Auditing and Public Disclosure 
+http://www.adb.org/documents/handbooks/loan_disbursement/SOE-Operating-Costs.xls 
+http://www.adb.org/documents/handbooks/loan_disbursement/SOE-Free-Format.xls 
+23 
+31.  MOWRAM will cause the detailed consolidated project financial statements to be audited 
+in  accordance  with  International  Standards  on  Auditing  and  with  the  Government's  audit 
+regulations,  by  an  independent  auditor  acceptable  to  ADB.  The  audited  project  financial 
+statements will be submitted in the English language to ADB within six months from the end of 
+the fiscal year by the executing agency.  
+32. 
+The annual audit report for the project accounts will include an audit management letter 
+and  audit  opinions  which  cover  (i)  whether the project financial  statements  present  a true  and 
+fair  view  or  are  presented  fairly,  in  all  material  respects,  in  accordance  with  the  applicable 
+financial reporting framework; (ii) whether loan proceeds were used only for the purposes of the 
+project  or  not;  (iii)  the  level  of  compliance  for  each  financial  covenant  contained  in  the  legal 
+agreements  for  the  project;  (iv)  use  of  the  imprest  fund  procedure;  and  (v)  the  proper  use  of 
+SOE procedure, certifying to the eligibility of those expenditures claimed under SOE procedures 
+and  imprest  procedures  in  accordance  with  ADB’s  Loan  Disbursement  Handbook  (2015,  as 
+amended from time to time) and the project documents. 
+Compliance  with  financial  reporting  and  auditing  requirements  will  be  monitored  by 
+33. 
+review  missions  and  during  normal  program  supervision,  and  followed  up  regularly  with  all 
+concerned, including the external auditor.  
+The  Government,  MOWRAM  and  DFWUC  have  been  made  aware  of  ADB’s  policy  on 
+34. 
+delayed submission, and the requirements for satisfactory and acceptable quality of the audited 
+project  financial  statements.11  ADB  reserves  the  right  to  require  a  change  in  the  auditor  (in  a 
+manner consistent with the constitution of the borrower), or for additional support to be provided 
+to the auditor, if the audits required are not conducted in a manner satisfactory to ADB, or if the 
+audits are substantially delayed. ADB reserves the right to verify the project's financial accounts 
+to  confirm  that  the  share  of  ADB’s  financing  is  used  in  accordance  with  ADB’s  policies  and 
+procedures.  
+35. 
+Public  disclosure  of  the  project  financial  statements,  including  the  audit  report  on  the 
+project  financial  statements,  will  be  guided  by  ADB’s  Public  Communications  Policy  (2011)12. 
+After review, ADB will disclose the project financial statements for the project and the opinion of 
+the  auditors  on  the  financial  statements  within  30  days  of  the  date  of  their  receipt  by  posting 
+them on ADB’s website. The Audit Management Letter will not be disclosed. 
+11 ADB Policy on delayed submission of audited project financial statements:  
+•  When  audited  project  financial  statements  are  not  received  by  the  due  date,  ADB  will  write  to  the  executing 
+agency  advising  that  (i)  the  audit  documents  are  overdue;  and  (ii)  if  they  are  not  received  within  the  next  six 
+months,  requests  for  new  contract  awards  and  disbursement  such  as  new  replenishment  of  imprest  accounts, 
+processing of new reimbursement, and issuance of new commitment letters will not be processed. 
+•  When audited project financial statements have not been received within 6 months after the due date, ADB will 
+withhold  processing  of  requests  for  new  contract  awards  and  disbursement  such  as  new  replenishment  of 
+imprest accounts, processing of new reimbursement and issuance of new commitment letters. ADB will (i) inform 
+the executing agency of ADB’s actions; and (ii) advise that the loan may be suspended if the audit documents 
+are not received within the next six months. 
+•  When audited project financial statements have not been received within 12 months after the due date, ADB may 
+suspend the loan. 
+12 Available from http://www.adb.org/documents/pcp-2011?ref=site/disclosure/publications. 
+24 
+VI. 
+PROCUREMENT AND CONSULTING SERVICES 
+A. 
+Advance Contracting 
+ All  advance  contracting  will  be  undertaken  in  conformity  with  ADB’s  Procurement  Guidelines  (April 
+36. 
+2015,  as  amended  from  time  to  time)13  and  ADB’s  Guidelines  on  the  Use  of  Consultants  (March  2013,  as 
+amended from time to time).14 The issuance of invitations to bids under advance contracting will be subject to 
+ADB approval. The borrower, MOWRAM and DFWUC have been advised that approval of advance contracting 
+does not commit ADB to finance the project. 
+37. 
+ For  advance  contracting  (i)  the  bidding  document  for  the  core  subproject,  Taing  Krasaing  main  canal 
+has  been  prepared,  bids  will  be  invited  after  SRM  and  bid  evaluation  will  be  completed  before  loan 
+effectiveness; (ii) the bidding documents for procurement of office equipment, furniture and vehicles have been 
+prepared, bids will be invited after SRM and evaluation will be completed by loan effectiveness; (iii) EOI, TOR 
+and  RFP  for  recruitment  of  the  project  management  and  implementation  consultants  (PMIC)  package  have 
+been  prepared,  EOI  will  be  invited  after  SRM  and  evaluation  of  technical  and  financial  proposals  will  be 
+completed by loan effectiveness. 
+B. 
+Procurement of Goods, Works and Consulting Services 
+ All  procurement  of  goods  and  works  will  be  undertaken  in  accordance  with  ADB’s  Procurement 
+38. 
+Guidelines (April 2015, as amended from time to time).  
+39. 
+ International  competitive  bidding  (ICB)  procedures  will  be  used  for  civil  works  contracts  estimated  to 
+cost  $3.0  million  or  more,  and  supply  contracts  valued  at  $1.0  million  or  higher.  Shopping  will  be  used  for 
+contracts  for  procurement  of  works  and  equipment  worth  less  than  $100,000.  National  competitive  bidding 
+(NCB) procedures will be used for civil works estimated to cost $100,000 or higher but less than $3.0 million, 
+goods and equipment worth $100,000 and higher but less than $1.0 million.  
+ An  18-month  procurement  plan  indicating  threshold  and  review  procedures,  goods,  works,  and 
+40. 
+consulting service contract packages and national competitive bidding guidelines is in Section C. 
+ All consultants will be recruited according to ADB’s Guidelines on the Use of Consultants (March 2013, 
+41. 
+as amended from time to time).15 The terms of reference for all consulting services are detailed in Section D. 
+42. 
+An estimated 668 person-months (58 international, 610 national) of consulting services are required to 
+(i) facilitate project management and implementation, (ii) design and construction supervision of civil works, (iii) 
+compliance with safeguards,  (iv)  implement  of GAP,  (v)  progress  and  performance  monitoring  and reporting, 
+and (v) strengthen the capacity of the PMU to ensure effective project implementation. The consulting firm will 
+be engaged using the quality- and cost-based selection (QCBS) method with a ratio of 80:20.  
+13  Available at: http://www.adb.org/Documents/Guidelines/Procurement/Guidelines-Procurement.pdf 
+14  Available at: http://www.adb.org/Documents/Guidelines/Consulting/Guidelines-Consultants.pdf 
+15  Checklists  for  actions  required  to  contract  consultants  by  method  available  in  e-Handbook  on  Project  Implementation  at: 
+http://www.adb.org/documents/handbooks/project-implementation/  
+25 
+C. 
+Procurement Plan 
+Basic Data 
+Project Name:   Uplands Irrigation and Water Resources Management Sector Project 
+Project Number:   44328-013 
+Country:   Cambodia 
+Approval Number:   3289 
+Executing Agency:  Ministry of Water Resources and  
+Meteorology 
+Project Procurement Classification: Category B 
+Project Procurement Risk: Moderate 
+Implementing Agency: 
+Department of Farmer Water User Communities 
+Project Financing Amount:   US$ 66,120,000 
+ADB Financing:   US$ 60,000,000 
+Cofinancing (ADB Administered):   
+Non-ADB Financing:   US$ 6,120,000 
+Project Closing Date: 30 September 2021 
+Date of First Procurement Plan:    24 September 
+2015  
+Date of this Procurement Plan:  15 November 2017, 
+Version 1 
+A. 
+Methods, Thresholds, Review and 18-Month Procurement Plan 
+1. Procurement and Consulting Methods and Thresholds 
+Except  as  the  Asian  Development  Bank  (ADB)  may  otherwise  agree,  the  following  process  thresholds  shall 
+apply to procurement of goods and works.  
+Procurement of Goods and Works 
+Method 
+International Competitive Bidding for Goods 
+National Competitive Bidding for Goods 
+Threshold 
+US$ 1,000,000 and Above 
+Between US$ 100,000 and US$ 999,999 
+Comments 
+The first NCB is subject to prior 
+review, thereafter post review.   
+Shopping for Goods 
+International Competitive Bidding for Works 
+National Competitive Bidding for Works 
+Shopping for Works 
+Up to US$ 99,999 
+US$ 3,000,000 and Above 
+Between US$ 100,000 and US$ 2,999,999  The first NCB is subject to prior 
+review, thereafter post review.   
+Up to US$ 99,999 
+Consultin g Services 
+Method 
+Comments 
+Consultant's Qualification Selection for Consulting Firm 
+Quality- and Cost-Based Selection for Consulting Firm 
+2. Goods and Works Contracts Estimated to Cost $1 Million or More 
+The  following  table  lists  goods  and  works  contracts  for  which  the  procurement  activity  is  either  ongoing  or 
+expected to commence within the next 18 months. 
+26 
+Package 
+Number 
+MOWRAM 
+/ICB-CW0 
+9 
+General Description 
+Estimated 
+Value 
+Procurement 
+Method 
+Review 
+(Prior/ 
+Post) 
+Bidding 
+Procedure 
+Advertisement 
+Date 
+(quarter/year) 
+3,800,000.00 
+ICB 
+Prior  
+1S2E 
+Q2 / 2018 
+Improvement of Otra 
+Cheakchit reservoir in 
+Battambang Province – 
+Package 3 
+2,886,000.00 
+NCB 
+Prior  
+1S1E 
+Q4 / 2017 
+MOWRAM 
+/  
+NCB-CW0 
+5 
+Upgrading, 
+modernizing and 
+extending the O 
+Kranhak main, 
+secondary and tertiary 
+canals of irrigation 
+system in Kampong  
+Thom Province 
+Comments 
+Prequalification 
+of Bidders: N 
+Domestic  
+Preference  
+Applicable: N 
+Bidding 
+Document:  
+Large Works 
+Comments: No  
+Prequalification 
+of Bidders: N 
+Domestic  
+Preference  
+Applicable: N 
+Bidding 
+Document:  
+Small Works 
+Comments: No 
+domestic 
+preference.  
+3. Consulting Services Contracts Estimated to Cost $100,000 or More 
+The  following  table  lists  consulting  services  contracts  for  which  the  recruitment  activity  is  either  ongoing  or 
+expected to commence within the next 18 months. 
+Package 
+Number 
+None 
+General 
+Description 
+Estimated 
+Value 
+Recruitment 
+Method 
+Review 
+(Prior/ 
+Post) 
+Advertisement 
+Date  
+(quarter/year) 
+Type of 
+Proposal 
+Comments 
+4. Goods and Works Contracts Estimated to Cost Less than $1 Million and Consulting Services 
+Contracts Less than $100,000 (Smaller Value Contracts) 
+The following table lists smaller-value goods, works and consulting services contracts for which the activity is 
+either ongoing or expected to commence within the next 18 months. 
+Goods and Works  
+Package 
+Number 
+General 
+Description 
+Estimated 
+Value 
+Number of 
+Contracts 
+Procurement 
+Method 
+Review 
+(Prior/ 
+Post) 
+Bidding 
+Procedure 
+Advertisement 
+Date (quarter/year)  Comments 
+PMU-ESM 
+-01* 
+Equipment for 
+Stream Flow  
+Measurement 
+Campaign 
+400,000.00  
+1  
+NCB 
+Post  
+1S1E 
+Q1 / 2018  
+27 
+Prequalificati 
+on of 
+Bidders: N 
+Domestic  
+Preference  
+Applicable: N 
+Bidding 
+Document: 
+Goods 
+10,000.00  
+1  
+SHOPPING 
+Post  
+Q4 / 2017  
+PMU-SOF- 
+01** 
+Procurement of 
+Licensed 
+accounting 
+software 
+(Peachtree  
+Accounting  
+System Sage 50) 
+Consulting Services  
+Package 
+Number 
+General 
+Description 
+Estimated 
+Value 
+Number of 
+Contracts 
+Recruitment 
+Method 
+Review 
+(Prior/ 
+Post) 
+Advertisement 
+Date  
+(quarter/year) 
+Type of 
+Proposal 
+Comments 
+None 
+B. 
+Indicative List of Packages Required Under the Project 
+The following table provides an indicative list of goods, works and consulting services contracts over the life of 
+the project, other than those mentioned in previous sections (i.e., those expected beyond the current period). 
+Goods and Works  
+Package 
+Number 
+None 
+General Description 
+Estimated  
+Value  
+(cumulative) 
+Estimated  
+Number of  
+Contracts 
+Procurement 
+Method 
+Review  
+(Prior/Post) 
+Bidding 
+Procedure  
+Comments 
+Consulting Services  
+Package 
+Number 
+None 
+General Description 
+Estimated  
+Value  
+(cumulative) 
+Estimated  
+Number of  
+Contracts 
+Recruitment 
+Method  
+Review  
+(Prior/Post) 
+Type of 
+Proposal 
+Comments 
+C. 
+List of Awarded and On-going, and Completed Contracts 
+The following tables list the awarded and on-going contracts, and completed contracts. 
+28 
+1. Awarded and Ongoing Contracts 
+Goods and Works  
+Package 
+Number 
+General 
+Description 
+Estimated 
+Value 
+Awarded   
+Contract 
+Value 
+Procurement 
+Method 
+Advertisement 
+Date  
+(quarter/year) 
+1,400,000.00 
+1,938,956.89 
+NCB 
+Q4 / 2016 
+Date of 
+ADB  
+Approval 
+of  
+Contract  
+Award 
+19-DEC-16 
+MOWRAM- 
+CW 03 
+MOWRAM- 
+CW 04 
+MOWRAM- 
+CW 07 
+MOWRAM- 
+CW 08 
+MOWRAM- 
+CW 06 
+Chroab  
+Distribution  
+System 
+Korkoah  
+Distribution  
+System 
+Prek Chik  
+Distribution 
+System-1 
+Prek Chik  
+Distribution  
+System-2 
+Prek Chik Main  
+Canal and  
+Headworks 
+8,800,000.00 
+5,879,592.80 
+ICB 
+Q3 / 2016 
+20-DEC-16 
+7,000,000.00 
+5,542,927.18 
+ICB 
+Q4 / 2016 
+10-APR-17 
+6,000,000.00 
+4,365,728.38 
+ICB 
+Q4 / 2016 
+07-JUL-17 
+4,000,000.00 
+3,499,407.63 
+ICB 
+Q4 / 2015 
+11-FEB-16 
+MOWRAMCW01  Taing Krasaing  
+Main canal and   
+Headworks 
+10,800,000.00 
+10,521,268.05 
+ICB 
+Q4 / 2015 
+09-DEC-15 
+Comments 
+SEAK CHHEAV  
+LENG  
+ENTERPRISE 
+CO., 
+LTD. , PCSS 0015 
+SEAK CHHEAV 
+LENG  
+ENTERPRISE 
+CO., 
+LTD., PCSS 0016   
+Anhui Shui'an  
+Construction  
+(Cambodia) Co.,  
+Ltd and M.T.A  
+Construction Co., 
+Ltd, PCSS 0017   
+SOEUN SOKHAN 
+CONSTRUCTION  
+CO., LTD. , PCSS  
+0018   
+K.B.H.  
+CONSTRUCTION  
+CO., LTD. AND  
+VIET REN   
+UNG SIMSIA  
+CONSTRUCTION  
+CO., LTD. AND 
+XINGIANG JV, 
+PCSS 0002   
+Consulting Services  
+Package 
+Number 
+General 
+Description 
+Estimated 
+Value 
+Awarded   
+Contract 
+Value 
+Recruitment 
+Method 
+Advertisement 
+Date  
+(quarter/year) 
+CS-01-PMI 
+C 
+Project  
+management 
+and 
+implementation 
+consultants 
+4,650,000.00 
+4,251,571.00 
+QCBS 
+Q4 / 2015 
+Date of ADB  
+Approval of  
+Contract  
+Award 
+28-JAN-16 
+Comments 
+PACIFIC RIM  
+INNOVATION &  
+MNGMNT  
+EXPONENTS,INC  
+, PCSS 0004   
+D. National Competitive Bidding 
+A. Regulation and Reference Documents 
+1. 
+The procedures to be followed for national competitive bidding shall be those set forth for the "National 
+Competitive Bidding" method in the Government's Procurement Manual issued under Sub-Decree Number 74 
+ANKR.BK,  updated  version  dated  22  May  2012  with  the  clarifications  and  modifications  described  in  the 
+following paragraphs. These clarifications and modifications are required for compliance with the provisions of 
+the Procurement Guidelines. 
+For the procurement of ADB financed contracts under National Competitive Bidding (NCB) procedures, 
+2. 
+the  use  of  harmonized  national  bidding  documents  (NCB  and  National  Shopping)  developed  in  consultation 
+with development partners including ADB, is mandatory except where the Government and ADB have agreed 
+to amendments to any part of the documents. The Procurement Manual also advises users to check the ADB 
+website  from  time  to  time  for  any  update  on  ADB  documents,  which  form  the  basis,  among  others,  of  the 
+existing harmonized national bidding documents. 
+29 
+B. Procurement Procedures 
+1. Application 
+3. Contract packages subject to National Competitive Bidding procedures will be those identified as such in the 
+project  Procurement  Plan.  Any  change  to  the  mode  of  procurement  of  any  procurement  package  in  the 
+Procurement  Plan  shall  be  made  through  updating  of  the  Procurement  Plan,  and  only  with  prior  approval  of 
+ADB. 
+2. Sanctioning 
+4.  Bidders  shall  not  be  declared  ineligible  or  prohibited  from  bidding  on  the  basis  of  barring  procedures  or 
+sanction lists, except individuals and firms sanctioned by ADB, without prior approval of ADB. 
+3. Rejection of all Bids and Rebidding 
+5. The Borrower shall not reject all bids and solicit new bids without ADB's prior concurrence. Even when only 
+one or a few bids is/are submitted, the bidding process may still be considered valid if the bid was satisfactorily 
+advertised and prices are reasonable in comparison to market values. 
+4. Advertising 
+6. Bidding of NCB contracts shall be advertised on the ADB website via the posting of the Procurement Plan. 
+Borrowers have the option of requesting ADB to post specific notices in the ADB website. 
+C. Bidding Documents 
+5. Use of Bidding Documents 
+7.  The  Standard  National  Competitive  Bidding  Documents  provided  with  the  Government's  Procurement 
+Manual shall be used to the extent possible both for the master bidding documents and the contract-specific 
+bidding documents. The English language version of the procurement  documents shall be submitted for ADB 
+review and approval in accordance with agreed review procedures (post and prior review) as indicated in the 
+Procurement  Plan.  The  ADB-approved  procurement  documents  will  then  be  used  as  a  model  for  all 
+procurement financed by ADB for the project. 
+6. Bid Evaluation 
+8. Bidders shall not be eliminated from detailed evaluation on the basis of minor, non-substantial deviations. 
+30 
+9. A bidder shall not be required, as a condition for award of contract, to undertake obligations not specified in 
+the bidding documents or otherwise to modify the bid as originally submitted. 
+7. Employer's Right to Accept or Reject Any or All Bids 
+10. The decision of the Employer to accept or reject any or all bids shall be made in a transparent manner and 
+involve an obligation to inform of the grounds for the decision through the bid evaluation report. 
+8. ADB Policy Clauses 
+11. 
+A provision shall be included in all NCB works and goods contracts financed by ADB requiring suppliers 
+and contractors to permit ADB to inspect their accounts and records and other documents relating to the bid 
+submission and the performance of the contract, and to have them audited by auditors appointed by ADB. 
+12. 
+A provision shall be included in all bidding documents for NCB works and goods contracts financed by 
+ADB stating that the Borrower shall reject a proposal for award if it determines that the bidder recommended 
+for award has, directly or through an agent, engaged in corrupt, fraudulent, collusive, or coercive practices in 
+competing for the contract in question. 
+A provision shall be included in all bidding documents for NCB works and goods contracts financed by 
+13. 
+ADB stating that ADB will declare a firm or individual ineligible, either indefinitely or for a stated period, to be 
+awarded  a  contract  financed  by  ADB,  if  it  at  any  time  determines  that  the  firm  or  individual  has,  directly  or 
+through  an  agent,  engaged  in  corrupt,  fraudulent,  collusive,  coercive  or  obstructive  practices  or  any  integrity 
+violation in competing for, or in executing, ADB-financed contract. 
+31 
+Consultant's Terms of Reference 
+a. 
+Scope and Objective of the Services 
+43. 
+The  objective  of  the  consulting  services  is  to  provide  management  and  technical 
+assistance  to  the  executing  agency  and  implementing  agency  in  the  implementation  of  the 
+project  and  strengthen  technical  and  management  capacities  of  the  participating  government 
+agencies and FWUCs. 
+44. 
+The scope of work will include but not be limited to the following: 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+(vii) 
+(viii) 
+(ix) 
+(x) 
+(xi) 
+(xii) 
+(xiii) 
+(xiv) 
+timely  completion,  adherence 
+to  specifications,  and  quality  of 
+Carry  out  detailed  engineering  design  of  the  secondary  and  tertiary  canals  in 
+the Taing Krasaing and Prek Chik irrigation systems; 
+Carry  out  feasibility  study  of  the  O  Kra  Nahk  Irrigation  system  in  Kampong 
+Thom and any other system if O Kra Nahk is not found feasible; 
+Carry  out  detailed  engineering  design  of  the  O  Kra  Nahk  or  other  subproject 
+that is considered feasible for financing; 
+Detailed planning of yearly activities in all aspects of the agreed and foreseen 
+construction schedule; 
+Prepare bidding documents of subprojects; 
+Provide assistance to PMU in procurement of works, goods, services;  
+Supervise construction of civil works; 
+Ensure 
+construction works; 
+Coordinate installation of hydro-met stations by ADB’s GMS Flood and Drought 
+Risk Management and Mitigation Project and ADB’s Flood Damage Emergency 
+Reconstruction Project–Additional Financing; 
+Establish modern canal operations systems; 
+Form FWUCs in the subprojects’ areas, and provide them trainings. Following 
+FWUC sub-decree approved by the Government in 2015, facilitate involvement 
+of FWUCs in the subproject implementation, and operation & maintenance; 
+Estimate operation and maintenance (O&M) cost of each subproject and assist 
+FWUCs in establishing O&M system;  
+Prepare irrigation scheduling of each system and train FWUCs and PDWRAMs; 
+Coordinate  with  ADB’s  Climate-Resilient  Rice  Commercialization  Sector 
+Development  Program  (CRRCSDP)  and  link  farmers  with  that  for  introducing 
+use  of  improved  seeds,  fertilizers,  and  benefiting  from  agriculture  value  chain 
+established under CRRCSDP; 
+Coordinate with CRRSCDP for laser levelling of 2,000 hectare;  
+Prepare quarterly progress reports (QPRs);  
+(xv) 
+(xvi) 
+(xvii)  Establish  project  performance  monitoring  system  (PPMS),  update  on  six 
+monthly basis; 
+(xviii)  Assist  the  PMU  in  the  financial  management  of  the  project  such  as  the 
+management  of  imprest  account,  preparation  of  withdrawal  applications, 
+accounting,  and  internal  audit,  coordination  with  finance  department  of  the 
+MOWRAM on project finance/accounting system; 
+Design joint  reservoir  operation  of  Stung  Chinit  and Taing  Krasaing  reservoirs 
+in Kampong Thom province, and Bassac and Dauntri reservoirs in Battambang 
+province  to  improve  water  sharing  arrangements  between  linked  systems  and 
+assist MOWRAM in adopting those; 
+(xix) 
+32 
+(xx) 
+(xxi) 
+(xxii) 
+Estimate  irrigation  service  fee  (ISF)  for  each  irrigation  system  based  on  the 
+estimate of annual O&M requirements of the secondary and tertiary canals and 
+prepare O&M plans; 
+Estimate  annual  O&M  cost  of  the  main  canals  and  prepare  O&M  plans  to  be 
+adopted by PDWRAM/MOWRAM; 
+Facilitate  tripartite  agreement  between  PDWRAM/MOWRAM,  FWUCs  and 
+Private  Land  Owners.  Estimate  the  amount  of  water  to  be  provided  to  the 
+private owners and service fee to be paid by them; 
+(xxiii)  Carry out environmental and social due diligence of each subproject;  
+(xxiv)  Prepare IEE of each subproject;  
+(xxv)  Prepare Resettlement Plan of category B subprojects; 
+(xxvi)  Ensure compliance with ADB'’ Safeguards Policy Statement (SPS-2009); 
+(xxvii)  Provide  trainings  to  PDWRAM,  PMU,  MOWRAM  and  Ministry  of  Agriculture, 
+Forestry  and  Fisheries  (MAFF)  staff  in  irrigation  and  water  management, 
+watershed  management,  operations  of  canals,  gender,  financial  management 
+and accounting.  
+(xxviii)  Ensure technology and know-how transfer from the PIMC to their counterparts 
+in the PMU;  
+(xxix)  Establish canals flow measurement systems; 
+(xxx)  Establish modern canal operation systems; 
+(xxxi)  Develop  and  conduct  Focused  Information  and  Awareness  program  for  the 
+FWUCs and other stakeholders;  
+(xxxii)  Conduct  a  study  for  assessing  the  gap  between  O&M  budget  allocations  and 
+requirements for irrigation systems in Cambodia; and 
+(xxxiii)  Any  other  activities  for  delivering  the  envisage  outputs  of  the  project  and 
+achieving desired outcome.  
+45. 
+ Consultancy  services  will  comprise  the  following  teams  for  providing  assistance  to  the 
+executing agency and the implementing agency in the implementation and management of the 
+project: 
+(i) 
+(ii) 
+(iii) 
+The  Project  Management  Team  will  be  located  within  PMU  at  Phnom  Penh. 
+The  team  will  provide  support  in  overall  coordination  and  management  of  the 
+project  including  procurement,  progress  and  performance  monitoring  and 
+reporting, financial management, safeguards compliance, organizing and training 
+FWUCs,  and  training  the  PMU  and  other  government  staff  to  ensure  effective 
+project implementation.  
+Feasibility  and  Design  Team  will  also  be  located  in  the  PMU.  This  team  will 
+carry  out  feasibility  studies  of  the  subprojects  and  prepare  detailed  engineering 
+design,  drawings,  bill  of  quantities,  construction  schedules  and 
+tender 
+documents. 
+Construction Supervision Teams will be located at PDWRAM Kampong Thom 
+and  PDWRAM  Battambang.  The  teams  will  be  responsible  for  supervising  the 
+construction works, progress reporting, and quality assurance. 
+b. 
+Duration of Assignment and Inputs Required 
+46. 
+The project implementation period of the consultant services is 60 months (1 April 2016 
+to  31  March  2021).  A  total  of  668  person  months  including  58  person-months  of  the 
+internationall  experts  and  610  person-months  for  the  natiponal  experts  will  be  required.    The 
+estimated staffing and expertise person-months requirements are summarized below. Detailed 
+Terms of Reference for experts are presented in Appendix 1. 
+33 
+Table 3: Summary of Consulting Services Requirements 
+Positions 
+Peron-Months Required 
+Team Leader/Water Resources Specialist 
+Institutional/Training Specialist for FWUCs  
+Procurement Specialist & Contract Specialist 
+Financial and Accounting Specialist 
+Hydrologist 
+Deputy Team Leader/ Irrigation Management Specialist 
+Hydraulic Structural Engineer 
+Monitoring and Evaluation Specialist 
+Construction Management Engineer 
+Agricultural Specialist/Agronomist 
+Materials/Quality Control Engineer 
+Gender Specialist 
+Social Safeguards/ Resettlement Specialist 
+Environment Specialist 
+Assistant Engineers 
+Total 
+International 
+24 
+4 
+12 
+- 
+12 
+- 
+- 
+6 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+58 
+National 
+- 
+12 
+24 
+54 
+24 
+54 
+24 
+24 
+108 
+10 
+24 
+18 
+24 
+18 
+192 
+610 
+34 
+A.  
+Environment 
+VII. 
+SAFEGUARDS 
+The  project  is  categorized  as  environment  category  B  in  accordance  with  ADB‘s 
+47. 
+Safeguard Policy Statement (SPS) (2009). Details about the procedures to ensure that potential 
+environmental impacts are avoided, reduced and mitigated in accordance with ADB SPS (2009) 
+and  regulations  from  the  Government  of  Cambodia  can  be  found  in  the  Environmental 
+Assessment  and  Review  Framework  (EARF)  (Linked  Document  11).  An  initial  environmental 
+examination (IEE) (Linked Document 10) report including an Environmental Management Plan 
+(EMP)  was  prepared  for  the  core  subprojects  in  Taing  Krasaing  and  Prek  Chik.  The  EMP 
+outlines  the  anticipated  environmental  adverse  impacts  of  the  subproject,  proposed  mitigation 
+and  monitoring  measures,  and  roles  and  responsibilities  of  the  executing  and  implementing 
+agencies, consultants, and contractors for each measure. 
+48. 
+Based on the screening for potential environmental impacts and risks, the IEE concluded 
+that  the  proposed  core  subprojects  can  be  implemented  in  an  environmentally  acceptable 
+manner with the corresponding EMP. For other subprojects to be prepared during the project’s 
+implementation,  the  EARF  will  be  followed  for  environmental  assessment  and  an  IEE  of  each 
+subproject will be prepared to ensure consistency with ADB’s SPS (2009), and respective EMPs 
+will be included in the IEEs and civil works contracts. No category B subproject for environment 
+will be selected.  
+49. 
+The  supervision  and  monitoring  of  environmental  activities  during  the  pre-construction, 
+construction  and  operation  phases  are  the  functions  of  the  PMU.  In  line  with  this,  it  is 
+appropriate  that  the  position  of  an  Environmental  Management  Officer  (EMO)  be  appointed  in 
+the  PMU,  responsible  for  supervision  of  environmental  management  and  for  environmental 
+monitoring.  Terms of reference for the EMO positions are at Annex C of the EARF. 
+B.  
+Involuntary Resettlement 
+50. 
+A resettlement framework (Linked Document 12) has been prepared to guide subproject 
+screening  and  resettlement  planning  and  implementation.  Subprojects  screened  to  involve 
+significant  involuntary  resettlement  impacts  (Category  A)  are  not  eligible  under  the  project. 
+Should  a  subproject  involve  insignificant  involuntary  resettlement  impacts  (Category  B),  the 
+Government  will  prepare  draft  resettlement  plan(s)  in  accordance  with  the  Resettlement 
+Framework.  The  Government  will  submit  the  draft  resettlement  plan(s)  to  ADB  for  approval 
+during  project  implementation.  After  approval,  the  Government  will  implement  the  RP. 
+Construction  can  be  started  only  in  areas  where  compensation  has  been  paid  and  an  income 
+restoration program has been put in place.  
+C.  
+Indigenous Peoples 
+51. 
+The project is Category C for Indigenous Peoples safeguards. To ensure that the project 
+remains in that Category, subprojects will be screened using the form in Appendix 2. As per the 
+subproject eligibility criteria, only Category C subprojects (no impact on Indigenous Peoples) are 
+eligible for financing under the project. 
+35 
+VIII.  GENDER AND SOCIAL DIMENSIONS 
+52. 
+The Summary Poverty Reduction and Social Strategy (Linked Document 8) identify the 
+implementation  of  a  Gender  Action  Plan  (GAP),  a  Stakeholders  Communication  Strategy  and 
+measures to address identified social risks. 
+53. 
+The  project’s  gender  classification  is  “Effective  Gender  Mainstreaming”  (EGM),  which 
+means  that  at  least  two  of  the  project  outputs  are  targeted  to  support  women’s  active 
+participation,  access to project  benefits  and  information  and empowered through various skills 
+development. A Gender Action Plan (GAP) is developed in accordance with the project activities 
+and  based  on  the  findings  of  the  gender  assessment  report  (Supplementary  Document  18) 
+conducted in the project area. In implementing the proposed GAP, the mitigation measures on 
+the  issues  identified  in  the  study  conducted  are  addressed.  The  GAP  proposes  to  include 
+gender issues in almost all project activities and training ensuring that both men and women get 
+benefit  from  the  project  equally.  The  GAP  also  pays  attention  to  the  project  management, 
+monitoring and reporting. Sex-disaggregated data should be included in project progress report.   
+Outputs  
+1.  Efficiency and climate 
+resilience of irrigation 
+systems in the project 
+areas enhanced 
+2.   Water resource 
+management improved 
+Table 4: Gender Action Plan 
+Gender Design Features/Activities 
+1.1  Orientation and training on construction work, such as on canal 
+measurements and work specifications, should be provided to 
+women to ensure the quality of construction work. 
+1.2  Women who can read and write are encouraged to be hired as 
+record keepers.  
+1.3  Orientation on gender equality should be provided to constructors 
+1.4  Gender equity and labor arrangements should be included in the 
+contract of construction companies, i.e. at least 25% of unskilled 
+labor will be given to local women during construction and there 
+should be equal pay for equal work.  
+1.5  At least 30% of women should participate during the presentation 
+of project design and in the discussion and planning of the water 
+distribution and cropping plans.  
+1.6  Conduct meeting with women farmers separately (especially on 
+the early stage of the project) to ensure that their ideas will be 
+collected in developing gender project plans. 
+2.1  Encourage  both  husband  and  wife  to  register  as  member  in  the 
+FWUC to ensure that at least 30% of the members are women. 
+2.2  Women,  as  FWUC  members,  are  given  equal  opportunity  with 
+men to participate in project training. 
+2.3  Develop  the  knowledge,  communication  and  leadership  skills  of 
+women  members  through  awareness-raising  and  training  to 
+enable them to be leaders of FWUC.  
+2.4  At  least  30%  of  FWUC  management  committee  members, 
+including design and construction committee, are women. 
+2.5  Ensure 
+that  women  will 
+the  operations  and 
+maintenance  activities  with  potential  for  payment  or  support  for 
+livelihood activity. 
+take  part 
+in 
+2.6  Provide  coaching  on  gender  awareness  and  leadership  for  the 
+gender  focal  person  to  ensure  that  they  are  able  to  conduct 
+training  within  MOWRAM  and  PDWRAM  officials  and  to  women 
+FWUCs. 
+FWUC  =  farmer  water  user  community,  PDWRAM  =  provincial  department  of  water  resources  and  meteorology, 
+PMIC = project management and implementation consultants, PMU = project management unit 
+36 
+54. 
+The project management unit (PMU) will be responsible for the overall implementation of 
+the project and a gender officer will be appointed within the PMU. She/He will be responsible for 
+the  implementation  and  monitoring  of  the  GAP  in  coordination  with  the  PMIC.  A  gender 
+specialist will be hired as part of PMIC. She/He will be responsible for monitoring and reporting 
+of  GAP  implementation  in  close  coordination  with  the  gender  officer  of  the  PMU,  as  well  as 
+responsible for  gender  awareness  training  and  ensuring  that  GAP  implementation  is  on  track. 
+Adequate  resources  (human  and  financial)  have  been  allocated  to  implement,  monitor  and 
+report on GAP. 
+37 
+IX. 
+PERFORMANCE MONITORING, EVALUATION, REPORTING AND 
+COMMUNICATION 
+A. 
+Project Design and Monitoring Framework  
+Impact the Project is Aligned with: 
+Inclusive economic growth through agriculture and irrigation (Rectangular Strategy on Growth, 
+Employment, Equity and Efficiency, Phase III, 2014 to 2018)a  
+Results Chain 
+Outcome 
+Water and 
+agriculture 
+productivity 
+enhanced in the 
+project areas 
+Outputs 
+1. Efficiency and 
+climate resilience of 
+irrigation systems in 
+the project areas 
+enhanced 
+Performance Indicators with 
+Targets and Baselines 
+Data Sources or 
+Reporting Mechanisms 
+Risks 
+Effects of 
+climate change 
+may damage 
+project outputs 
+and assets in 
+the future. 
+The planning 
+and funding of 
+the O&M of the 
+project irrigation 
+systems may be 
+inadequate. 
+By 2022: 
+Average annual crop production 
+increased to 4.25 ton per ha 
+(2015 baseline: 1.65 tons per 
+ha) 
+PPMS 
+Project completion report 
+By 2021: 
+1a. Irrigation infrastructure 
+improved, modernized and 
+made climate resilient. Dry- and 
+wet-season cultivated area 
+increased  to 29,500 ha (2015 
+baseline: 13,500 ha)  
+1b. Irrigation efficiency of three 
+irrigation systems increased by 
+100% (2015 baseline: 20% 
+efficiency) 
+1a. QPRs of the executing 
+agency, PPMS, LRM 
+reports 
+1b.  PPMS 
+1c. Drainage facilities for 1,800 
+ha improved (2015 baseline: 0 
+ha) 
+1c. PPMS 
+1d–f. QPRs, PPMS 
+1d. 2,000 ha land leveled by 
+laser leveling (2015 baseline: 0 
+ha) 
+1e. 21,000 ha land improved 
+through irrigation, drainage, 
+and/or flood protection 
+1f. 25% of unskilled laborers in 
+civil works are women 
+2. Water resource 
+management 
+improved 
+By 2021: 
+2a. Three FWUCs formed and 
+trained (2015 baseline: 0) 
+2a–d. QPRs, LRM reports 
+Communication 
+between 
+MOWRAM, the 
+PDWRAMs, and 
+38 
+Results Chain 
+Performance Indicators with 
+Targets and Baselines 
+2b. 30% of FWUC members 
+are women (2015 baseline: 0) 
+2c. 30% of FWUC management 
+committee members are 
+women (2015 baseline: 0) 
+2d. Annual O&M plan prepared 
+during design of each irrigation 
+system 
+2e. O&M funds allocated by the 
+government for main canals 
+and reservoirs 
+2f. Eight hydrometeorological 
+stations installed in the 
+watersheds (2015 baseline: 0) 
+Data Sources or 
+Reporting Mechanisms 
+Risks 
+the FWUCs may 
+be weak, 
+adversely 
+affecting project 
+implementation. 
+2e. Ministry of Economy 
+and Finance budget 
+documents, QPRs, LRM 
+reports 
+2f. QPRs, LRM reports, 
+PPMS 
+Key Activities with Milestones 
+1. Efficiency and climate resilience of irrigation systems in the project areas enhanced 
+1.1 Award contract for Taing Krasaing main canal by 30 September 2016, and complete works by        
+30 June 2017 
+1.2 Complete detailed design, cost estimates, and bidding documents for all subprojects by                  
+31 December 2018 
+1.3 Award all works contracts by 30 September 2019, and complete works by 31 March 2021 
+2. Water resource management improved 
+2.1 Form FWUCs by 30 June 2017 
+2.2 Complete FWUCs training by 30 September 2020 
+2.3 Install meteorological stations and river flow gauging stations by 31 December 2018 
+2.4 Design joint reservoir operation of Stung Chinit and Taing Krasaing reservoirs and Bassac and 
+Dauntri reservoirs by 30 June 2018 for adoption by MOWRAM, PDWRAMs, FWUCs, and provincial 
+authorities  by June 2019 
+Project Management Activities 
+Mobilize project management and implementation consultants by 30 June 2016 
+Procure office equipment, furniture, and vehicles by 30 June 2016 
+Establish PPMS by September 2016 
+Inputs 
+Asian Development Bank: $60,000,000 
+Government of Cambodia : $6,120,000 
+Assumptions for Partner Financing 
+Not applicable. 
+FWUC  =  farmer  water  user  community,  ha  =  hectare,  LRM  =  loan  review  mission,  MOWRAM  =  Ministry  of Water 
+Resources  and  Meteorology,  O&M  =  operation  and  maintenance,  PCR  =  project  completion  report,  PDWRAM  = 
+provincial department of water resources and meteorology, PPMS = project performance monitoring system, QPR = 
+quarterly progress report. 
+39 
+a Government of Cambodia. 2013.  Rectangular Strategy for Growth, Employment, Equity, and Efficiency, Phase III. 
+Phnom  Penh.  The  document  presents  the  5-year  policy  agenda  of  the  government  and  forms  the  basis  of  the 
+National Strategic Development Plan, 2014–2018. 
+Source: Asian Development Bank. 
+B. 
+Monitoring  
+55. 
+Project  performance  monitoring.  A  project  performance  monitoring  system  (PPMS), 
+has  been  developed  (Appendix  3)  based  on  the  key  indicators  and  targets  outlined  in  the 
+project design and monitoring framework (DMF). It shall be established after the  implementing 
+agency  has  develop  comprehensive  PPMS  procedures  and  plans  in  accordance  with  ADB's 
+Project Performance Monitoring System Handbook within six months of loan effectiveness with 
+support  of  PMIC.  The  PPMS  procedures,  performance  indicators,  and  their  targets  will  be 
+reviewed and approved by ADB. Benchmark review mainly focusing on secondary data will be 
+conducted.  With  the  help  of  PMIC,  the  implementing  agency  will  then  undertake  every  six 
+months quantitative and qualitative project-performance monitoring for each project component 
+to evaluate the delivery of planned facilities and the project benefits that accrued.  
+56. 
+Compliance monitoring. A number of assurances have been given by the Government 
+to ensure smooth implementation of the project. Those are subject to the Loan covenants (Loan 
+Agreement –schedule 5). ADB will monitor compliance with those covenants during the project 
+implementation  through  regular  review  missions,  quarterly  progress  reports  submitted  by  the 
+PMU, and review of project accounts and procurement procedures. 
+Social  safeguards  monitoring.  The  Resettlement  Framework  details  monitoring  and 
+57. 
+reporting  requirements  for  involuntary  resettlement.  In  essence,  both  internal  and  external 
+monitoring will be conducted. PMU will be responsible for internal monitoring while an external 
+monitoring  agency  will  be  hired  to  conduct  external  monitoring  and  evaluation  for  involuntary 
+resettlement. Internal and external monitoring will produce quarterly monitoring reports. 
+58.  Gender  and  social  dimensions  monitoring.  The  progress  of  gender  and  social 
+activities  outlined  in  the  GAP  will  be  reported  by  the  PMU  in  QPRs.  Achievement  of 
+performance  indicators  of  the  GAP  outlined  in  the  DMF  will  be  updated  six  monthly  in  the 
+PPMS. 
+C. 
+Evaluation 
+59. 
+ The implementing agency, with support of the PMIC, will provide six monthly updates of 
+the  project’s  performance  through  PPMS.  The  status  of  achievement  of  performance 
+targets/indicators  of  the  project’s  outcome  and  output  will  be  provided  in  the  six  monthly 
+updates.  ADB  review  missions  will  review  the  PPMS  bi-annually  to  evaluate  the  project’s 
+performance  and  likelihood  of  delivering  the  desired  outputs  and  achieving  the  envisaged 
+outcome.  The  corrective  actions  will  be  agreed  with  the  executing/implementing  agency  and 
+recorded  in  the  aid  memoirs/MOUs  and  subsequently  monitored  by  ADB  and  the  executing 
+agency. 
+D. 
+Reporting  
+The executing agency will provide ADB and MEF with (i) quarterly progress reports in a 
+60. 
+format  consistent  with  ADB's  project  performance  reporting  system;  (ii)  consolidated  annual 
+the 
+reports 
+(a)  progress  achieved  by  output  as  measured 
+including 
+through 
+40 
+indicator's/performance  targets,  (b)  key  implementation  issues  and  solutions;  (c)  updated 
+procurement  plan  and  (d)  updated  implementation  plan  for  next  12  months;  and  (iii)  a  project 
+completion  report  within  6  months  of  physical  completion  of  the  project.  To  ensure  projects 
+continue to be both viable and sustainable, project accounts and the executing agency’s audited 
+financial  statements,  together  with  the  associated  auditor's  report,  should  be  adequately 
+reviewed. 
+E. 
+Stakeholder Communication Strategy  
+61. 
+The main stakeholders of the project are categorized into government, beneficiaries and 
+affected  persons/groups,  civil  society  organizations  and  NGOs,  the  Private  Sector  and  the 
+development partners.  The stakeholders communication strategy is explained as follows: 
+Who will provide 
+Strategy/Means 
+Stakeholders 
+Government 
+Key Stakeholders 
+•  MOWRAM, PDWRAMs 
+•  DFWUC  
+•  PMU 
+•  MEF 
+•  MAFF 
+Beneficiaries and Project 
+Affected Persons/Groups 
+•  Farmers 
+•  FWUC 
+•  Other Water users 
+(private companies, 
+domestic water supply) 
+Information Required 
+Full access to all 
+information on all 
+aspects of project 
+planning and 
+implementation 
+PMU, 
+ADB  
+Information on project 
+planning, design, 
+implementation, and 
+expected contributions   
+MOWRAM, 
+PDWRAMs, 
+ADB 
+Civil Society Organizations and 
+NGOs 
+Project plans and 
+activities and impact on 
+target groups 
+MPWRAM, 
+PDWRAMs, 
+ADB 
+Private Sector 
+•  Construction Companies 
+Procurement of 
+contracts 
+PMU 
+QPRs, PPMS, 
+External 
+monitoring reports 
+of safeguards, 
+ADB website, ADB 
+mission aid 
+memoirs 
+Consultations with 
+FWUCs and 
+beneficiaries, 
+QPRs, PPMS, 
+External 
+monitoring reports 
+of safeguards, 
+ADB website, ADB 
+mission aid 
+memoirs 
+Consultations with 
+FWUCs and 
+beneficiaries, 
+QPRs, PPMS, 
+External 
+monitoring reports 
+of safeguards, 
+ADB website, ADB 
+mission aid 
+memoirs 
+MOWRAM website 
+International Development 
+Partners 
+Project progress and 
+performance 
+MOWRAM, 
+PMIC, 
+MEF 
+MOWRAM 
+website, QPRs, 
+PPMS 
+41 
+X. 
+ANTICORRUPTION POLICY  
+62. 
+ADB reserves the right to investigate, directly or through its agents, any violations of the 
+Anticorruption  Policy  relating  to  the  project.16  All  contracts  financed  by  ADB  shall  include 
+provisions  specifying  the  right  of  ADB  to  audit  and  examine  the  records  and  accounts  of  the 
+executing agency and all project contractors, suppliers, consultants and other service providers. 
+Individuals/entities  on  ADB’s  anticorruption  debarment  list  are  ineligible  to  participate  in  ADB-
+financed activity and may not be awarded any contracts under the project.17  
+63. 
+To support these efforts, relevant provisions are included in the loan agreement, project 
+agreement  and  the  bidding  documents  for  the  project.  In  particular,  all  contracts  financed  by 
+ADB  in  connection  with  the  project  will  include  provisions  specifying  the  right  of  ADB  to  audit 
+and examine the records and accounts of the executing agency and all contractors, suppliers, 
+consultants, and other service providers as they relate to the project. 
+16  Available at: http://www.adb.org/Documents/Policies/Anticorruption-Integrity/Policies-Strategies.pdf 
+17  ADB's Integrity Office web site is available at: http://www.adb.org/integrity/unit.asp 
+42 
+XI. 
+ACCOUNTABILITY MECHANISM 
+64. 
+People who  are,  or may  in the future  be,  adversely  affected  by  the  project may  submit 
+complaints  to  ADB’s  Accountability  Mechanism.  The  Accountability  Mechanism  provides  an 
+independent  forum  and  process  whereby  people  adversely  affected  by  ADB-assisted  projects 
+can voice, and seek a resolution of their problems, as well as report alleged violations of ADB’s 
+operational  policies  and  procedures.  Before  submitting  a  complaint  to  the  Accountability 
+Mechanism, affected people should make a good faith effort to solve their problems by working 
+with  the  concerned  ADB  operations  department.    Only  after  doing  that,  and  if  they  are  still 
+dissatisfied, should they approach the Accountability Mechanism.18 
+18  For further information see: http://www.adb.org/Accountability-Mechanism/default.asp.  
+XII. 
+RECORD OF PAM CHANGES  
+65. 
+All revisions/updates during the course of implementation will be retained in this section 
+to provide  a  chronological  history  of  changes to implementation  arrangements  recorded in  the 
+PAM. 
+43 
+44 
+Appendix 1 
+TERMS OF REFERENCE FOR CONSULTING SERVICES 
+I. 
+BACKGROUND 
+ The  Uplands Irrigation  and Water  Resources  Management  Sector  Project  will  enhance 
+1. 
+agricultural  and  rural  economic  productivity  through  increased  efficiency  of  irrigation  and 
+improved management of water resources in uplands, areas away from the Tonle Sap Lake, in 
+Kampong Thom (KT) and Battambang (BA) provinces. 
+A. 
+Outputs 
+2. 
+Enhanced  efficiency  and  climate  resilience  of  irrigation  systems  in  the  project 
+areas.  The  project  will  support  rehabilitation,  modernization,  and  climate  proofing  of  Taing 
+Krasaing  and  O  Kra  Nahk  irrigation  systems  in  the  Kampong  Thom  province  and  Prek  Chik 
+irrigation system in Battambang province. It will (i) rehabilitate main and distribution canals and 
+appurtenant structures, (ii) install water measurement gauges at all inlets and outlets of canals, 
+and (iii) reinstate/improve drainage facilities to protect agricultural land and canals from potential 
+flooding that may be caused by high intensity-long duration rains due to climate change. 
+3. 
+Improved water resource management. The project will (i) organize farmer water user 
+communities  (FWUCs)  and  provide  gender  inclusive  trainings  to  members  of  the  FWUCs  in 
+operation and maintenance of canals, management of FWUCs, (ii) install hydro-meteorological 
+stations  in  the  watersheds,  (iii)  establish  canals  flow  measurement  system,  (iv)  train  staff  of 
+PDWRAM,  FWUCs  and  MAFF  on  modern  canal  operation  techniques,  irrigation  scheduling, 
+watershed  management,  and  water  management,  (v)  modernize  canal  operations;  (vi)  design 
+joint  reservoir  operation  of  Stung  Chinit  and  Taing  Krasaing  reservoirs  in  Kampong  Thom 
+province, and Bassac and Dauntri reservoirs in Battambang province to improve water sharing 
+arrangements between linked systems. 
+B. 
+Impact and Outcome 
+4. 
+The  impact  will  be  inclusive  economic  growth  through  agriculture  and  irrigation,  in  line 
+with  phase  3  of  the  government’s  Rectangular  Strategy  on  Growth,  Employment,  Equity,  and 
+Efficiency  for  2014–2018.  The  outcome  will  be  water  and  agriculture  productivity  enhanced  in 
+the project areas. 
+II. 
+PROJECT MANAGEMENT AND IMPLEMENTATION CONSULTANTS 
+5. 
+ The  project  will  construct/rehabilitate/improve/modernize the Taing  Krasaing,  Prek  Chik 
+and  O  Kra  Nahk  irrigation  systems  and  other  non-core  subprojects,  selected  during  the 
+preparation period. Full feasibility studies for both Taing Krasaing and Prek Chik systems have 
+been carried out. The detailed engineering design of the main canal and preliminary design of 
+the  distribution  system  have  been  done.  The  detailed  engineering  design  of  the  distribution 
+system  is to  be  done  after carrying  out topographic  surveys. The feasibility  study  and  detailed 
+design  of  the  O  Kra  Nahk  irrigation  system  in  Kampong  Thom  will  be  done  by  PMIC,  if  the 
+subproject is found feasible, otherwise another irrigation system will be selected for carrying out 
+feasibility  study  and  detailed  design.  Same  approach  will  be  adopted  for  other  non-core 
+subprojects. 
+Appendix 1 
+45 
+A. 
+Scope and Objective of the Services 
+6. 
+The  objective  of  the  consulting  services  is  to  provide  management  and  technical 
+assistance  to  the  executing  agency  and  implementing  agency  in  the  implementation  of  the 
+project  and  strengthen  technical  and  management  capacities  of  the  participating  government 
+agencies and FWUCs. 
+7. 
+The scope of work will include but not be limited to the following: 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+Carry out detailed engineering design of the secondary and tertiary canals in the 
+Taing Krasaing and Prek Chik irrigation systems; 
+Carry out feasibility study of the O Kra Nahk Irrigation system in Kampong Thom 
+and any other system if O Kra Nahk is not found feasible; 
+Carry out detailed engineering design of the O Kra Nahk or other subproject that 
+is considered feasible for financing; 
+Detailed  planning  of  yearly  activities  in  all  aspects  of  the  agreed  and  foreseen 
+construction schedule; 
+Prepare bidding documents of subprojects; 
+Provide assistance to PMU in procurement of works, goods, services;  
+Supervise construction of civil works; 
+timely  completion,  adherence 
+to  specifications,  and  quality  of 
+(v) 
+(vi) 
+(vii) 
+(viii)  Ensure 
+(ix) 
+(x) 
+(xi) 
+(xii) 
+construction works; 
+Coordinate installation of  hydro-met  stations by  ADB’s  GMS  Flood  and  Drought 
+Risk  Management  and Mitigation  Project  and ADB’s  Flood Damage  Emergency 
+Reconstruction Project–Additional Financing; 
+Establish modern canal operations systems; 
+Form  FWUCs  in  the  subprojects’  areas,  and  provide  them  trainings.  Following 
+FWUC  sub-decree  approved  by  the  Government  in  2015,  facilitate  involvement 
+of FWUCs in the subproject implementation, and operation & maintenance; 
+Estimate  operation  and  maintenance  (O&M)  cost  of  each  subproject  and  assist 
+FWUCs in establishing O&M system;  
+(xiii)  Prepare irrigation scheduling of each system and train FWUCs and PDWRAMs; 
+(xiv)  Coordinate with ADB’s CRRCSDP and link farmers with that for introducing use 
+of  improved  seeds,  fertilizers,  and  benefiting  from  agriculture  value  chain 
+established under CRRCSDP; 
+(xv)  Coordinate with CRRCSDP  for laser levelling of 2,000 hectare;  
+(xvi)  Prepare quarterly progress reports (QPRs);  
+(xvii)  Establish  the  project  performance  monitoring  system  (PPMS),  update  on  six 
+monthly basis; 
+(xviii)  Assist  the  PMU  in  the  financial  management  of  the  project  such  as  the 
+management  of 
+imprest  account,  preparation  of  withdrawal  applications, 
+accounting,  and  internal  audit,  coordination  with  finance  department  of  the 
+MOWRAM on project finance/accounting system; 
+(xix)  Design joint reservoir operation of Stung Chinit and Taing Krasaing reservoirs in 
+Kampong  Thom  province,  and  Bassac  and  Dauntri  reservoirs  in  Battambang 
+province  to  improve  water  sharing  arrangements  between  linked  systems  and 
+assist MOWRAM in adopting those; 
+(xx)  Estimate  irrigation  service  fee  (ISF)  for  each  irrigation  system  based  on  the 
+estimate of  annual O&M  requirements  of  the  secondary  and tertiary  canals  and 
+prepare O&M plans; 
+(xxi)  Estimate  annual  O&M  cost  of  the  main  canals  and  prepare  O&M  plans  to  be 
+adopted by PDWRAM/MOWRAM; 
+46 
+Appendix 1 
+(xxii)  Facilitate  tripartite  agreement  between  PDWRAM/MOWRAM,  FWUCs  and 
+Private Land Owners. Estimate the amount of water to be provided to the private 
+owners and service fee to be paid by them; 
+(xxiii)  Carry out environmental and social due diligence of each subproject;  
+(xxiv)  Prepare IEE of each subproject;  
+(xxv)  Prepare Resettlement Plan of category B subprojects; 
+(xxvi)  Ensure compliance with ADB Safeguard Policy Statement (2009); 
+(xxvii)  Provide  trainings  to  PDWRAM,  PMU,  MOWRAM  and  Ministry  of  Agriculture, 
+Forestry  and  Fisheries  (MAFF)  staff  in  irrigation  and  water  management, 
+watershed management, operations of canals  
+(xxviii)  Ensure technology and know-how transfer from the PIMC to their counterparts in 
+the PMU;  
+(xxix)  Establish canals flow measurement systems; 
+(xxx)  Establish modern canal operation systems; 
+(xxxi)  Develop  and  conduct  Focused  Information  and  Awareness  program  for  the 
+FWUCs and other stakeholders;  
+(xxxii)  Conduct  a  study  for  assessing  the  gap  between  O&M  budget  allocations  and 
+requirements for irrigation systems in Cambodia and 
+(xxxiii)  Any  other  activities  for  delivering  the  envisage  outputs  of  the  project  and 
+achieving desired outcome.  
+8. 
+ Consultancy  services  will  comprise  the  following  teams  for  providing  assistance  to  the 
+executing agency and the implementing agency in the implementation and management of the 
+project: 
+(i) 
+(ii) 
+(iii) 
+The  Project  Management  Team  will  be  located  within  PMU  at  Phnom  Penh. 
+The  team  will  provide  support  in  overall  coordination  and  management  of  the 
+project  including  procurement,  progress  and  performance  monitoring  and 
+reporting, financial management, safeguards compliance, organizing and training 
+FWUCs,  and  training  the  PMU  and  other  government  staff  to  ensure  effective 
+project implementation.  
+Feasibility  and  Design  Team  will  also  be  located  in  the  PMU.  This  team  will 
+carry  out  feasibility  studies  of  the  subprojects  and  prepare  detailed  engineering 
+tender 
+design,  drawings,  bill  of  quantities,  construction  schedules  and 
+documents. 
+Construction Supervision Teams will be located at PDWRAM Kampong Thom 
+and in PDWRAM Battambang. The teams will be responsible for supervising the 
+construction works, progress reporting, and quality assurance. 
+B. 
+Duration of Assignment and Inputs Required 
+The project implementation period of the consultant services is 60 months (1 April 2016 
+9. 
+to  31  March  2021).  A  total  of  668  person  months  including  58  person-months  of  the 
+International  experts  and  610  person-months for the  National  experts  would  be required.  The 
+estimated  staffing  and  expertise  person-months  requirements  per  component  are  summarized 
+below: 
+Table A1.1: Summary of Consulting Services Requirements 
+Appendix 1 
+47 
+Positions 
+Team Leader/Water Resources Specialist 
+Institutional/Training Specialist for FWUCs  
+Procurement Specialist & Contract Specialist 
+Financial Management and Accounting Specialist 
+Hydrologist 
+Deputy Team Leader/ Irrigation Management Specialist 
+Hydraulic Structural Engineer 
+Monitoring and Evaluation Specialist 
+Construction Management Engineer 
+Agricultural Specialist/Agronomist 
+Materials/Quality Control Engineer 
+Gender Specialist 
+Social Safeguards/ Resettlement Specialist 
+Environment Specialist 
+Assistant Engineers 
+Total 
+C. 
+Terms of Reference of Experts 
+1. 
+International Experts  
+Peron-Months Required 
+International 
+24 
+National 
+- 
+4 
+12 
+- 
+12 
+- 
+- 
+6 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+58 
+12 
+24 
+54 
+24 
+54 
+24 
+24 
+108 
+10 
+24 
+18 
+24 
+18 
+192 
+610 
+for 
+create  a 
+strong  working 
+consultants  and 
+relationship  with 
+technical  support  during 
+10. 
+Team Leader/Water Resources Specialist, (24 person-months). The expert will have a 
+Master’s  degree  in  water  resources  engineering/management  with  preferably  15  years  of 
+experience  in  design,  implementation  and  management  for  water  sector  projects  including 
+dams,  barrages  and  irrigations  systems;  and  team  leadership  of  preferably  2  ADB  financed 
+projects. The candidate must have demonstrated ability to lead teams composed of international 
+the 
+and  national 
+executing/implementing  agency.  Excellent  communication  (written  and  oral)  skills  and  strong 
+inter-personal  skills  will  be  considered  an  asset.  The  Team  Leader  will:  (i)  provide  overall 
+including  preparation  and 
+responsibility 
+implementation  of  work  plans;  (ii)  coordinate  financial  management;  (iii)  monitor  progress 
+against project implementation schedule and coordinate preparation and submission of periodic 
+progress  reports  and  technical  reports;  (iv)  work  closely  with  MOWRAM-PMU  and  advise  the 
+Project  Director  (PMU);  (v)  maintain  good  coordination  among  ADB,  PMU  and  others 
+stakeholders  and  assure  links  with  key  institutions  as  MAFF,  MEF  and  Local  Authorities;  (vi) 
+Provide  guidance  to  Team  to  ensure  that  the  quality  of  works  meet  a  required  standard;  (vii) 
+monitor  work  of  the  Civil  Works  Contractors;  (viii)  assist  PMU  in  contracts  management;  (ix) 
+monitor  financial  performance  of  the  project;  (x)  monitor  the  environment,  health  and  safety, 
+quality  assurance  &  control,  resettlement  and  social  safeguards  aspects  to  bring  minimum 
+delays  to  the  project  work;  (xi)  Conduct  a  study  for  assessing  the  gap  between  O&M  budget 
+allocations and requirements for irrigation systems in Cambodia and (xii) coordination with on-
+going ADB-financed projects for the installation of hydro-met and telemetry, FWUC training and 
+other support to provincial and district agencies, 
+implementation, 
+11. 
+ Institutional/Training Specialists for FWUCs, (4 person-months). The expert will have 
+48 
+Appendix 1 
+a  Master’s  degree  in  related  field  with  preferably  10  years  of  experience  in  similar  work  with 
+donor  financed  projects.  The  candidate  will  have  demonstrated  ability  to  work  in  a 
+multidisciplinary team and will possess excellent communication (written and oral) skills.  Tasks 
+include: (i) review of the project related documentation to assess current capacity and capacity 
+building  objectives  and  implications  of  proposed  investments  under  the  project;  (ii)  undertake 
+need  assessment  at  various  levels  of  implementation  (PMU  and  FWUCs)  to  determine  the 
+capacity  building  needs  at  these  levels;  (iii)  prepare  training  programs  for  FWUCs/other 
+stakeholders;  (iv)  prepare  training  program  for  PMU  staff  and  coordinate  with  existing  ADB-
+financed  projects  with  capacity  development  components  on  sharing  of resources;  (v)  prepare 
+guidelines  for  FWUC  selection,  establishment,  and  trainings;  (vi)  map  existing  FWUCs  and 
+prepare a plan for organizing and/or strengthening FWUCs in coordination with the MOWRAM 
+and PDWRAM; (vii) work closely with PDWRAMs to establish the important link of PDWRAMs 
+with FWUCS; and (viii) provide trainings. 
+Hydrologist,  (12  person-months).  The  expert  will  have  a  Master’s  degree 
+12. 
+in 
+hydrology/water  resources  engineering  with  preferably  10  years  of  experience  in  hydrological 
+studies,  modelling  and  estimating  flows.  He  /She  will  have  demonstrated  ability  to  work  in  a 
+multidisciplinary team and excellent communication skills in spoken and written English. Tasks 
+include: (i) design joint reservoir operation of Bassac and Dauntri reservoirs and Stung Chinit an 
+Taing Krasaing reservoirs and facilitate MOWRAM in adopting those; (ii) carry out hydrological 
+studies  for  subprojects  and  update  the  hydrological  analysis  and  data  for  the  purpose  of 
+determining  water  availability;  (iii)  in close  coordination  with the  GMS  Flood  and  Drought  Risk 
+Management and Mitigation Project, facilitate and monitor installation of the Hydro-met stations 
+and  assure  institutional  operations,  data  collection  and  processing,  and  develop  linkage  with 
+reservoir  operators  (PDRWAM)  to  use  data  made  available  for  joint  reservoir  operations  and 
+irrigation scheduling; (iv) supervise installation of canal flow measurement gauges; (v) assist in 
+modernizing  canal  operations;  (vi)  assist  in  designing  discharge capacity  of  distribution  canals 
+based on crop water requirements in command area of each tertiary and secondary canal; and 
+(vii) provide awareness and trainings on watershed management. 
+13. 
+ Procurement and Contract Management Specialists, (12 person-months). The expert 
+will have a Master’s degree in business administration, engineering or other related fields with 
+preferably 10 years’ experience in procurement of works and goods, preparation of tender and 
+contract  documents,  evaluation  of  bids,  and  contracts  managements  of  projects,  and 
+recruitment  of  consultants  including  at  least  one  ADB  financed  project.  The  specialist  should 
+have demonstrated experience with developing and managing FIDIC contracts for large works. 
+Tasks  include:  (i)  assist  the  PMU  in  preparing  bidding  documents;  (ii)  assist  the  PMU  in 
+preparing RFP for external monitoring agency (EMA); (iii) assist PMU in the evaluation of bids/ 
+proposal, prepare bid evaluation reports/submission for recruitment of EMA; (iv) assist PMU in 
+negotiations and finalizing contract agreements for works, goods and services;  (v) develop, and 
+organize  contract  management  capacity  building  and  training  covering  FIDIC,  and  ADB 
+procurement  guidelines  and  procedures  for  the  project  implementation  staff  of  the  executing 
+agency and PMU; (vi) advise Team Leader/team on the progress reporting, quality control and 
+inspection systems to be followed during execution of civil work contracts; and (vii) advice  PMU 
+in resolving contractual issues.  
+14.  Monitoring  and  Evaluation  Specialist,  (6  person-months).  The  expert  will  have  a 
+Master’s  degree  in  related  field  with  preferably  10  years  of  relevant  work  experience.  He  /she 
+will have experience working with international consultants preferably in donor funded projects. 
+He/she  will  have  demonstrated  ability  to  work  in  a  multidisciplinary  team  and  will  possess 
+excellent  communication  skills  in  spoken  and  written  English.  The  expert  will:  (i)  establish  the 
+Appendix 1 
+49 
+project performance monitoring system (PPMS) and update every six months; (ii) establish data 
+collection, analysis and reporting mechanism for the PPMS; (iii) collet benchmark/baseline date 
+for  performance indicators  in the  DMF;  (iv)  prepare quarterly  progress reports  (QPRs),  annual 
+reports and Borrower’s project completion report. 
+2. 
+National Experts  
+15. 
+Deputy Team Leader/Irrigation Management Specialist, (54 person-months). The expert 
+will have a Master’s degree in water resources/irrigation engineering and preferably 10 years of 
+experience  in  design,  implementation  and  management  of  irrigations  systems.  Experience  of 
+working  with  international  consulting  firms  in  donor  funded  projects  and  government  institutes 
+will  be  considered  an  asset.  The  candidate  must  have  demonstrated  ability  to  work  in  a 
+multidisciplinary team and excellent communication skills in spoken and written English.  In the 
+absence  of  the  Team  Leader,  the  Deputy  Team  Leader  will  assume  the  management  of  the 
+project.  Tasks  include:  (i)  assist  the  Team  Leader  in  management  and  implementation  of  the 
+project;  (ii)  supervise  feasibility  studies,  detailed  design  and  construction  supervision  of  the 
+subprojects; (iii) ensure effective coordination with the executing agency and other government 
+agencies; (iv) prepare O&M plans for subprojects; (iv) assist M&E specialist on data collection 
+for  QPRs  and  PPMs;  (v)  assess  irrigation  efficiency  and  water  productivity  and  incorporate 
+measures  to  improve  efficiency  and  water  productivity  in  design  of  subprojects;  (vi)  prepare 
+irrigation schedules based on crop water requirements; (vii) ensure timely completion of works 
+contracts and other activities; (viii) ensure timely preparation of QPRs and PPMS; and (ix) assist 
+team leader in conducting a study for assessing the gap between O&M budget allocations and 
+requirements for irrigation systems in Cambodia. 
+16. 
+Procurement & Contract Specialists, (24 person-months). The national procurement & 
+contracts specialist will have a Master’s degree in business administration, engineering or other 
+related field with preferably 7 years’ experience in procurement of works and goods, recruitment 
+of  consultants,  preparation  of  tender  and  contract  documents,  evaluation  of bids,  and  contract 
+management including one ADB loan project. He /she will have demonstrated ability to work in a 
+multidisciplinary team and excellent communication (written and oral) skills. The national expert 
+will  provide  support  to  the  Team  Leader  and International  Procurement &  Contract  Specialists 
+to: (i) assist the PMU in preparing bidding documents; (ii) assist the PMU in preparing RFP for 
+external monitoring agency (EMA); (iii) assist PMU in the evaluation of bids/ proposal, prepare 
+bid  evaluation  reports/submission  for  recruitment  of  EMA  (iv)  assist  PMU  in  negotiations  and 
+finalizing  contract  agreements  for  works,  goods  and  services;    (v)  develop,  and  organize 
+contract  management  capacity  building  and  training  covering  FIDIC,  and    ADB  procurement 
+guidelines  and  procedures  for  the  project  implementation  staff  of  the  executing  agency  and 
+PMU  (vi)  advise  Team  Leader/team  on  the  progress  reporting,  quality  control  and  inspection 
+systems  to  be  followed  during  execution  of  civil  work  contracts;  and    (vii)  advice    PMU  in 
+resolving contractual issues.  
+17. 
+ Financial  and  Accounting  Specialist,  (54  person-months).  The  expert  will  have  a 
+Master’s  degree  in  Finance/Accounting  with  preferably  7  years  of  relevant  work  experience 
+including experience working with international consultants preferably in donor funded projects 
+and  government  institutes  He  /she  will  have  experience  in  financial  management  and 
+accounting  of  preferably  on  one  ADB  financed  project  and  will  have  excellent  communication 
+skills in spoken and written English. Tasks include: (i) assist the executing agency in preparing 
+withdrawal  applications  to  ADB,  management  of  impress  account,  in  accordance  with  ADB 
+disbursement  guidelines;  (ii)  assist  in  developing  procedures  for  financial  disbursement, 
+50 
+Appendix 1 
+accounting,  reporting  and  auditing  of  O&M  budget  for  the  subprojects  in  accordance  with 
+procedural  requirements  of  the  Government  and  ADB;  and  (iii)  assist  in  processing  ADB  loan 
+withdrawal including certificates and reporting formats for efficient flow of funds between ADB, 
+Government, and contractors. 
+18. 
+ Institutional/Training  Specialists  for  FWUCs,  (12  person-months).  The  expert  will 
+have  a  Bachelor’s  degree  in  related  field  and  preferably  5  years  of  relevant  work  experience; 
+including experience working with international consultants preferably in donor funded projects 
+and government institutes.  He /she will have demonstrated ability to work in a multidisciplinary 
+team  and  excellent  communication  skills  in  spoken  and  written  English.  The  National 
+Institutional/Training  Specialists  will  assist  the  International  expert  to:  (i)  review  the  project 
+related  documentation,  to  assess  current  capacity  and  capacity  building  objectives  and 
+implications  of  proposed  investments  under  the  project;  (ii)  undertake  need  assessment  at 
+various levels of implementation (PMU and FWUCs) to determine the capacity building needs at 
+these levels; (iii) prepare training programs for FWUCs/other stakeholders; (iv) prepare training 
+program  for  PMU  staff  and  coordinate  with  existing  ADB-financed  projects  with  capacity 
+development components on sharing of resources; (v) prepare guidelines for FWUC selection, 
+establishment, and trainings; (vi) map existing FWUCs and prepare a plan for organizing and/or 
+strengthening FWUCs in coordination with the MOWRAM and PDWRAM; (vii) work closely with 
+PDWRAMs  to  establish  the  important  link  of  PDWRAMs  with  FWUCS;  and  (viii)  provide 
+trainings. 
+19. 
+ Monitoring  and  Evaluation  Specialist,  (24  person-months).  The  expert  will  have  a 
+Master’s degree in related field with preferably 5 years of relevant work experience. He /she will 
+have  experience  working  with  international  consultants  preferably  in  donor  funded  projects. 
+He/she will have demonstrated ability to work in a multidisciplinary team and will have excellent 
+communication skills in spoken and written English. The expert will:  (i) assist in establishing the 
+project performance monitoring system (PPMS) and update every six months; (ii) establish data 
+collection, analysis and reporting mechanism for the PPMS; (iii) collet benchmark/baseline date 
+for  performance indicators  in the  DMF;  (iv)  prepare quarterly  progress reports  (QPRs),  annual 
+reports and Borrower’s project completion report. 
+including  experience  working  with 
+ Hydraulic  Structural  Engineer,  (24  person-months).  The  expert  will  have  a  Master’s 
+20. 
+degree  in  water  resources  engineering/hydraulics  engineering  with  preferably  5  years  of 
+experience in design of hydraulic structures including small dams, weirs, and irrigation systems; 
+cost  estimation,  preparation  of  BOQs, 
+international 
+consultants preferably in donor funded projects.  He /she will have demonstrated ability to work 
+in  a  multidisciplinary  team  and  excellent  communication  skills  in  spoken  and  written  English. 
+The National Hydraulic Structural Engineer will assist the International expert in: (i) review and 
+update  of  hydraulic  calculation  of  canal,  drain  and  hydraulic  structures  of  the  Taing  Krasaing 
+and  Prek  Chik  main canals;  (ii)  design  canals,  drains and appurtenant structures of  all     other 
+subprojects; (ii) estimate cost of subprojects, prepare BOQs, tender drawings and complete all 
+other  requirements  for  award  and  construction  of  work  contracts;  (iii)  supervise  topographic 
+surveys, review the results of the topographical survey and geotechnical studies and integrate 
+these  considerations  in  the  design;  and  (iv)  assist  team  leader  in  conducting  a  study  for 
+assessing the gap between O&M budget allocations and requirements for irrigation systems in 
+Cambodia. 
+ Hydrologist,  (24  person-months).  The  expert  will  have  a  Master’s  degree 
+in 
+21. 
+hydrology/water  resources  engineering  with  preferably  5  years  of  relevant  work  experience; 
+including experience working with international consultants preferably in donor funded projects.  
+Appendix 1 
+51 
+He  /She  will  have  demonstrated  ability  to  work  in  a  multidisciplinary  team  and  excellent 
+communication  skills  in  spoken  and  written  English.  Tasks  include  assisting  international 
+hydrologist to: (i)  design  joint  reservoir  operation  of  Bassac  and Dauntri reservoirs,  and Stung 
+Chinit  an  Taing  Krasaing  reservoirs  and  facilitate  MOWRAM  in  adopting  those;  (ii)  carry  out 
+hydrological  studies  for  subprojects  and  update  the  hydrological  analysis  and  data  for  the 
+purpose  of  determining  water  availability;  (iii)  In  close  coordination  with  the  GMS  Flood  and 
+Drought  Risk  Management  and  Mitigation  Project,  facilitate  and  monitor  installation  of  the 
+Hydro-met  stations  and  assure  institutional  operations,  data  collection  and  processing,  and 
+develop  linkage  with  reservoir  operators  (PDRWAM)  to  use  data  made  available  for  joint 
+reservoir  operations  and  irrigation  scheduling;  (iv)  supervise  installation  of  canal  flow 
+measurement  gauges;  (v)  assist  in  modernizing  canal  operations;  (vi)  assist  in  designing 
+discharge capacity of distribution canals based on crop water requirements in command area of 
+each  tertiary  and  secondary  canal;  (vii)  provide  awareness  and  trainings  on  watershed 
+management. 
+22. 
+ Agriculture  Specialist/Agronomist,  (10  person-months).  The  expert  will  have  a 
+Master’s  degree  in  agronomy  with  preferably  5  years’  experience  in  estimating  crop  water 
+requirements,  designing  cropping  patterns  and  cropping  intensities.  He  /she  will  have 
+demonstrated  ability  to  work  in  a  multidisciplinary  team  and  excellent  communication  skills  in 
+spoken  and  written  English.  Tasks  include:  (i)  work  closely  with  hydraulics  design  engineer  to 
+map  out  the  existing  cropping  patterns  in  the  subprojects’  command  area;  (ii)  identify  current 
+practices of famers within the subproject area on the farming technique; (iii) identify agro input 
+(fertilizer,  pesticide,  herbicide)  and  agro-tools  which  are  used  in  the  project  area;  (iv)  propose 
+cropping  pattern  and  intensities  to  farmers  by  taking  into  account  the  soils  quality,  climatic 
+condition, crop water requirement and water availability; (v) prepare cropping calendars for the 
+each  subproject;  (vi)  provide  inputs  in  the  feasibility  studies  and  design;  (vii)  track  yields  and 
+harvest and post-harvest issues faced by FWUCS; (viii) assess seed types used and impact on 
+cropping  calendars  proposed  and  agreed  by  PDWRAMs  –  FWUC;  and  (ix)  facilitate  farmers 
+access to quality seed and agriculture value chains through coordination with CRRCSDP. 
+23.  Materials/Quality  Control  Engineers,  (2  positions,  12  months  each).  The  experts  will 
+have  a  Bachelor’s  degree  in  Civil  Engineering  with  preferably  5  years’  experience  in  quality 
+control  of  construction  projects  preferably  canals  and  hydraulic  structures  with  an 
+International/Multinational consultancy/construction firm. Their task will be to ensure the quality 
+of construction is as per the design specifications. They will carry out on site quality tests as well 
+as review the laboratory tests of the materials submitted by the contractors.  
+24. 
+ Social Safeguards/Resettlement Specialist, (24 person-months). The expert will have  
+Bachelor’s  degree  in  social  sciences  with  preferably  5  years  of  relevant  work  experience 
+including experience working with international consultants, preferably in donor funded projects 
+and  government  institutes.  He/she  will  have  experience  of  working  on  ADB  financed  projects 
+and  fully  familiar  with  ADB’s  Safeguard  Policy  Statement  (SPS),  2009.  He/she  will  have 
+demonstrated  ability  to  work  in  a  multidisciplinary  team  and  excellent  communication  skills  in 
+spoken  and  written  English.  Tasks  include:  (i)  screen  subprojects  for  involuntary  resettlement 
+impacts  to  determine  eligibility  of  the  subproject  for  financing  under  the  project;  (ii)  for 
+subprojects  with  involuntary  resettlement  impacts,  prepare  Resettlement  Plans  in  accordance 
+with  the  Resettlement  Framework;  (iii)  assist  and  supervise  detailed  design  of  subprojects  to 
+ensure  involuntary  resettlement  impacts  are  minimized,  if  not  avoided;  (iv)  based  on  detailed 
+design, conduct detailed measurement survey and update the Resettlement Plan in accordance 
+with  the  Resettlement  Framework;  (v)  assist  in  organizing  and  conducting  consultations  with 
+affected people to ensure that the Resettlement Plan have been fully discussed and agreed; (vi) 
+52 
+Appendix 1 
+assist PMU and field staff  in the implementation of Resettlement Plans in the subproject areas; 
+(vii)  develop and conduct training modules to ensure proper understanding and implementation 
+of  Resettlement  Plans; (viii)  monitor  implementation  of  Resettlement  Plans;  and  (ix)  contribute 
+to  the  PPMS  for  monitoring  and  reporting  on  resettlement  by  developing  monitoring  and 
+evaluation indicators for involuntary resettlement and assisting in the preparation of monitoring 
+reports for involuntary resettlement. 
+25. 
+ Gender  Specialist,  (18  person-months).  The  Gender  specialist  will  have  a  Bachelor’s 
+degree  with  preferably  5  years  of  experience  in  gender  and  development.  He/she  will  have 
+experience  of  working  with  ADB  financed  projects  and fully  familiar  with  ADB’s  gender  policy. 
+He/she  will  have  demonstrated  ability  to  work  in  a  multidisciplinary  team  and  excellent 
+communication  skills  in  spoken  and  written  English.  The  specialist  will:  (i)  lead  the 
+implementation,  monitoring  and  reporting of gender  action  plan (GAP);  (ii)  train project gender 
+focal persons while working closely with executing/implementing agency gender team as well as 
+other  projects  Specialists;  and  (iii)  provide  trainings  and  ensure  achieving  the  targets.  The 
+specialist  will  prepare  periodic  gender  monitoring  reports  and  provide  gender  disaggregated 
+data to M&E Specialist. 
+to  communicate  and  work  effectively  with 
+26. 
+ Environment  Specialist,  (18  person-months).  The  specialist  will  have:  (i)  an 
+undergraduate  degree  or  higher  in  environmental  management  or  related  field;  (ii)  at  least  10 
+years of experience in environmental management, monitoring, and/or impact assessment; (iii) 
+familiarity  with  ADB  environmental  safeguards  requirements  and  national  environmental 
+management  procedures;  (iv)  ability 
+local 
+communities,  contractors,  and  government  agencies;  (v)  ability  to  analyze  data  and  prepare 
+technical  reports;  (vi)  willingness  and  health  to  regularly  visit  the  sub-project  sites;  and  (vii) 
+proficiency  in  spoken  and  written  English.  Working  closely  with  the  PMO  and  the  PMO 
+Environmental  Management Officer,  and  other relevant  personnel  and agencies, the  specialist 
+will  assist  in  all  aspects  of  the  implementation  of  the  project  EARF  and  subproject  IEEs.  The 
+specialist  will:  (i)  Ensure  that  the  steps  of  the  EARF  covering  environmental  screening  and 
+impact  assessment  are  followed  by  PMUs;  (ii)  Deliver  training  in  (a)  EARF  procedures  for 
+screening,  and  assessing  environmental  impact  (IEEs);  and  (b)  record-keeping  and  reporting; 
+(iii)  Assist  the  PMO  and  PMUs  to  establish  and  publicize  the  grievance  redress  mechanism 
+(GRM)  for  sub-projects,  ensuring  that  the  GRM  publicity  is  appropriate  to  the  scale  and 
+complexity of the sub-project and includes, as a minimum, the disclosure of all contact persons 
+for  lodging  complaints;  and  (iv)  Assist  the  PMO  to  prepare  quarterly  (during  construction)  and 
+semi-annual  project  monitoring  progress  reports  (otherwise)  for  submission  to  ADB  within  2 
+months after each reporting period. 
+27. 
+ Construction Management Engineers, (2 positions, 54 months each). The experts will 
+be qualified Civil Engineers, with Master’s degree in construction management with 7 years of 
+experience of managing construction canals and hydraulic structures of donor financed projects. 
+They  will  have  demonstrated  ability  to  work  in  a  multidisciplinary  team  and  excellent 
+communication skills in spoken and written English.  Their tasks include: (i) prepare construction 
+schedules; (ii) ensure construction progress adheres to the schedules; (iii) supervise the work of 
+assistant  engineers;  (iv)  monitor  progress  and  quality  of  construction  works;  (v)  review 
+measurements for completed works, and verify bills for payment; (vi) take measures to minimize 
+contract variations; (vii) assess adequacy of contractors’ input in terms of materials, equipment, 
+construction machinery, workers, and construction approach and methodologies; (viii)  monitor 
+physical  and  financial  progress  against  the  milestones,  for  timely  completion;  (ix)  review  and 
+approve  the  construction  drawings  of  the  contractor  and  permit  the  contractors  to  carry  out 
+construction  work  effectively  and  efficiently  and  to  the  highest  standards  of  quality;  and  (x) 
+Appendix 1 
+53 
+report progress, disputes and all the other matters to the Team Leader.  
+28. 
+ Assistant  Engineers,  (4  positions,  48  person-months  each).  Qualified  Engineer,  with 
+Bachelor’s degree in Civil Engineering and preferably 5 years of experience in site supervision 
+of  construction  works  preferably  canals  and hydraulic  structures. They  will  have  demonstrated 
+ability  to  work  in  a  multidisciplinary  team  and  excellent  communication  skills  in  spoken  and 
+written  English.  Tasks  include:  (i)  reporting  to  the  Construction  Management  Engineer;  (ii) 
+supervise  and  monitor  the  construction  of  works,  prepare  measurements  for  works  completed 
+and in progress; (iii) certify contractors’ bills; (iv) Check the construction schedule submitted by 
+contractor,  and  assist  contractor’s  site  manager  to  make  detailed  construction  plan;  (v)  report 
+weekly  and  monthly  construction  progress  and  issues  to  the  Construction  Management 
+Engineer;  (vi)  report  field  variations  to  the  Construction  Management  Engineer  and  regularly 
+monitor  physical  and  financial  progress  against  the  milestones,  according  to  the  contracts  to 
+ensure  the  completion  of  the  contracts  on  time;  (vii)  examine  contractors’  claims  for  time 
+extension, variations, and additional compensation, etc., and recommend appropriate decisions 
+to the Construction Management Engineer; (ix) Assist PMU in resolving contractual issues and 
+overall  contract  management;  and  (x)  ensure  quality  of  construction  as  per  design 
+specifications. 
+D. 
+Deliverables 
+29. 
+Deliverables will include: 
+(i) 
+Inception  Report  –  within  3  months  of  mobilization  –  presenting  approach  to 
+tasks  and  reporting,  with  details  of  how  each  task  will  be  performed,  and 
+identifying what resources will or may be required. 
+Quarterly  Progress  Reports  (QPRs)  -  summarizes  the  highlights  per  quarter, 
+the  activities  undertaken  and  a  summary  of  disbursements;  physical  and 
+financial progress of the project; achievements of targets for outputs and inputs 
+defined in the DMF, to be submitted within 7 working day of the first month of the 
+succeeding quarter.  
+Project  Performance  Monitoring  Reports  (PPMS)  -  shall  be  submitted  every 
+six months, highlighting the performance based on the DMF targets  
+Borrower’s Project Completion Report (At completion of the project). 
+(ii) 
+(iii) 
+(iv) 
+E. 
+Client’s Input and Counterpart Personnel 
+30. 
+Services, facilities and property to be made available to the Consultant by the Client: 
+(i) 
+All available project reports and data. Feasibility Reports of Taing Krasaing and 
+Prek  Chik  irrigation  systems  and  detailed  engineering  design  and  drawings  of 
+main canals; 
+Office  space  with  furniture  and  office  equipment  at  Phnom  Penh,  Battambang 
+and Kampong Thom; and 
+(ii) 
+(iii)    Vehicles. 
+54 
+Appendix 1 
+III. 
+EXTERNAL MONITORING AGENCY FOR SAFEGUARDS 
+A. 
+Objectives 
+The project requires the services of external monitoring and evaluation experts1/qualified 
+31. 
+non-government  organizations  (NGOs)  to  conduct  an  external  assessment  of  the  extent  to 
+which  resettlement  and  rehabilitation  objectives  are  being  met.    Specifically,  the  objectives  of 
+the monitoring program are:   
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+To verify ongoing internal monitoring information; 
+To verify whether the overall project and resettlement objectives are being met 
+in  accordance  with  the  Resettlement  Framework  (RF),  and  if  not  to  suggest 
+corrective measures;  
+To  assess  the  extent  to  which  implementation  of  Resettlement  Plans  (RPs) 
+complies with the RF;  
+To identify problems or potential problems;  
+To identify methods of responding immediately to mitigate problems and advise 
+MOWRAM and IRC accordingly; and 
+To verify if the livelihoods and the standard of living of affected persons (APs), 
+including those of the non-titled displaced persons, are restored or improved;  
+B. 
+Tasks 
+32. 
+(ii) 
+(iii) 
+that  all  APs  are  eligible 
+The external experts will address specific issues such as the following: 
+(i) 
+Verify  the  detailed  measurement  survey  (DMS)  database  generated  by  the 
+project  management  unit  (PMU),  identify  differences  in  inventory  of  loss  (IOL) 
+and/or DMS recorded in the RP, and document changes to the database; 
+Confirm 
+for  compensation,  resettlement  and 
+rehabilitation  assistance,  irrespective  of  tenure  status,  social  or  economic 
+standing,  and  any  such  factors  that  may  discriminate  against  achieving  the 
+project objectives; Payment of compensation, allowances and other assistance 
+are as per approved RP;  
+Confirm  timing  of  disbursement  of  payment  and  assess  that  the  level  of 
+compensation is sufficient to replace their losses;   
+Public consultation and awareness of key information in the resettlement plan;2 
+Coordination of resettlement activities with construction schedule; 
+Land acquisition and transfer procedures; 
+(iv) 
+(v) 
+(vi) 
+(vii)  Construction/rebuilding of replacement houses and structures on residual land, 
+(viii) 
+(ix) 
+(x) 
+(xi) 
+relocation sites (outside the residual land), and self-selected land; 
+Implementation of gender and/or Indigenous Peoples measures as indicated in 
+the RP; 
+Level of satisfaction of APs with the provisions and implementation of the RP;   
+Effectiveness  of  grievance  redress  mechanism  (accessibility,  documentation, 
+process, resolution); 
+Effectiveness, sufficiency, impact, and sustainability of entitlements and income 
+restoration  programs  and  the  need  for  further  improvement  and  corrective 
+measures, if any; 
+1  External experts mean experts not involved in day-to-day project implementation or supervision. 
+2  Key  information  in  the  RP  include:  Scope  of  Land  Acquisition  and  Resettlement  Impacts,  Entitlement  Matrix, 
+Grievance Redress Mechanism. 
+Appendix 1 
+55 
+(xii)  Relocation  site  development  (civic  infrastructure  and  community  services  as 
+required), identification and selection of sites in consultation with APs and host 
+communities,  equivalent  or  enhanced  access  to  livelihood  opportunities,  
+process and timeliness of providing land titles/certificates; 
+(xiii)  Capacity of APs to restore/re-establish livelihoods and living standards. Special 
+attention will be given to severely affected APs and vulnerable APs; 
+Involuntary resettlement impacts caused during construction activities; 
+(xiv) 
+(xv)  Participation of APs in RP implementation; and 
+(xvi)  Adequacy  of budget  and  human  resources3  at  executing  agency/implementing 
+agency level for resettlement activities, including internal monitoring. 
+C. 
+Methodology 
+33. 
+The methods for external monitoring activities include: 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+Review  of  DMS  process  to  be  able  to  establish  a  baseline  for  monitoring  and 
+evaluating  project  benefits.  The  external  monitoring  organization  (EMO)  to 
+check  on  a  random  basis4  the  DMS  process  with  APs,  from  identification  to 
+agreement  on  DMS  results.  The  EMO  will  also  evaluate  the  DMS  process  to 
+determine and assess if DMS activities are being carried out/was carried out in 
+a participatory and transparent manner.  
+Resettlement  audit  conducted  during  monitoring.  The  EMO  will  carry  out 
+random checks of payments5 disbursed to APs during monitoring. The EMO will 
+submit  a  resettlement  audit  report  upon  completion  of  compensation  payment 
+to APs. 
+Review  of  socioeconomic  data6  prepared  during  the  project  preparatory 
+technical  assistance  (PPTA).  With  this  review,  the  DMS  data,  and  additional 
+data compiled, the EMO will provide the baseline data to be used in comparison 
+to  the  post-resettlement  survey.  A  post-resettlement  survey  will  be  carried  out 
+one  year  following  completion  of  all  resettlement  activities,  including  livelihood 
+restoration  activities.  Sampling  will  include  at  least  20%  of  severely  affected 
+and  vulnerable  households,  as  well  as  at  least  10%  of  all  other  APs.  Special 
+attention  will  be  paid  to  the  inclusion  of  women,  ethnic  groups,  the  very  poor, 
+the  landless  and  other  vulnerable  groups,  with  set  questions  for  women  and 
+other  target  groups.  The  database  will  disaggregate  information  by  gender, 
+vulnerability, and ethnicity. 
+Participatory  Rapid  Appraisal  (PRA),  which  will  involve  obtaining  information, 
+identifying  existing  or  potential  problems,  and  finding  specific  time-bound 
+solutions  through  participatory  means  including:  a)  key  informant  interviews 
+including  representatives  of  civil  society,  community  groups,  and  NGOs;  b) 
+focus  group  discussions  (FGDs)  on  specific  topics  such  as  compensation 
+payment,  income  restoration  and relocation7;  c)  community  public  meetings  to 
+discuss  community 
+in  host 
+communities or construction work employment; d) direct field observations, for 
+example,  of  resettlement  site  development;  e)  formal  and  informal  interviews 
+with  affected  households,  women,  ethnic  minorities,  and  other  vulnerable 
+integration  of  resettled  households 
+losses, 
+3  Assessment of human resources is in terms of both number of staff assigned, as well as capacity. 
+4  Depending on number of affected households (AHs). 
+5  Depending on number of AHs. 
+6  Possible data sources include: census, IOL, socioeconomic survey, village records/documents. 
+7   Groups that may be targeted for involvement in FGDs include AHs in general, and vulnerable AHs such as women-
+headed households, the poor, and ethnic minorities 
+56 
+Appendix 1 
+groups to monitor and assess the progress the APs are making to restore their 
+living  standards,  APs’  perceived  need  for  additional  assistance  (and  type  of 
+assistance),  and  their  individual  satisfaction  with  current  economic  activities; 
+and  f)  in-depth  case  studies  of  problems  identified  by  internal  or  external 
+monitoring that required special efforts to resolve.  The PRA will also focus on 
+good  practices  in  land  acquisition  and  involuntary  resettlement  objectives, 
+approaches, and implementation strategies. 
+Review the results of internal monitoring.   
+(v) 
+D. 
+Timing & Team Composition  
+34. 
+The  external  experts  will  conduct  monitoring  missions  to  be  carried  out  on  a  quarterly 
+basis starting from the completion of DMS for the first batch of subprojects until the completion 
+of  livelihood/income  restoration  activities  in  all  subprojects. For  subprojects  where  payment  of 
+compensation/allowances  has  been  substantially  completed,  the  external  experts  will  also 
+conduct  resettlement  audit  mission  to  validate  status  of  compensation  and  hand-over  of  plots 
+and recommend issuance of (no-objection letter) NOL for the commencement of civil works. 
+35. 
+The external monitoring and evaluation experts/qualified NGOs will be composed of one 
+team leader with extensive experience in monitoring and evaluation of resettlement activities in 
+the  country  with  strong  ability  in  preparing  resettlement  reports.  He/she  should  demonstrate 
+good  communication  skills  and  have  at  least  a  bachelor  degree  in  a  relevant  field.  The  team 
+leader  will  be  assisted  by  at  least  1  specialist  with  similar  experience  and  background.  All 
+reports  will  be  submitted  in English (and  in  local language,  if  required) to  the government  and 
+ADB simultaneously.   
+E. 
+Deliverables 
+Inception  report,  including  findings  of  review  of  baseline  data,  monitoring  methodology 
+36. 
+and detailed work plan (in terms of sampling, timing, budget, other required resources)  
+37. 
+Quarterly  monitoring  report,  including  (a)  methods  used  by  the  EMO  during  the 
+monitoring  period;  (b)  progress  of  RP  implementation,  including  any  deviations  from  the 
+provisions of the RP; (c) identification of problem issues and recommended corrective actions to 
+inform  implementing  agencies  and  resolve  issues  in  a  timely  manner  (refer  to  Table  A.1);  (d) 
+identification of specific gender and ethnic minorities issues, as relevant; (e) report on progress 
+of the follow-up of issues and problems identified in the previous reports; (f) lessons learned that 
+might be useful for future activities; and, (g) resettlement audit report. 
+Table A1.2: Sample Corrective Action Plan Summary Table 
+No. 
+Survey 
+code 
+Project Component 
+Village 
+Name of head of 
+Affected Household/ 
+Name of AP 
+Name or 
+use of 
+affected 
+structure 
+Status of 
+structures 
+Corrective 
+Action 
+Budget 
+(USD) 
+Schedule of 
+implementation of 
+corrective action 
+By (date) 
+Appendix 1 
+57 
+Include  Monitoring  and  Evaluation  indicators  (commonly  a  table  in  the  RP).  A  set  of 
+38. 
+suggested indicators are in Table A1.3,8 to be replaced with RP table as required: 
+Table A1.3: Indicators for Verification by External Experts 
+Total 
+Monitoring Indicator 
+Basic information on displaced 
+persons’ households 
+(Gender disaggregated data 
+essential for all aspects) 
+Restoration of living standards 
+Basis for Indicator 
+•  Location of the project 
+•  Composition and structure, ages, educational, and skill levels 
+•  Gender of household head 
+•  Ethnic group 
+•  Access to health, education, utilities, and other social services 
+•  Housing type 
+•  Land and other resource-owning and resource-using patterns 
+•  Occupations and employment patterns 
+• 
+•  Agricultural production data (for rural households) 
+•  Participation in neighborhood or community groups 
+•  Access to cultural sites and events 
+•  Valuation of all assets 
+•  Were house compensation payments made free of depreciation, 
+Income sources and levels 
+fees, or transfer costs to the displaced persons?  
+•  Have displaced persons adopted the housing options developed? 
+•  Have perceptions of community been restored? 
+•  Have displaced persons achieved replacement of key social and 
+cultural elements? 
+Restoration of livelihoods  
+•  Were compensation payments free of deductions for depreciations, 
+(Disaggregate data for 
+displaced persons moving to 
+group resettlement sites, self-
+relocating displaced persons, 
+displaced persons with 
+enterprises affected) 
+fees, or transfer costs to the displaced persons? 
+•  Were compensation payments sufficient to replace lost assets? 
+•  Was sufficient replacement land available of suitable standard? 
+•  Did income substitution allow for reestablishment of enterprises and 
+production?  
+•  Have affected enterprises received sufficient assistance to 
+reestablish themselves? 
+•  Have vulnerable groups been provided income-earning 
+opportunities?  
+•  Are these opportunities effective and sustainable?  
+•  Do jobs provided restore pre-project income levels and living 
+standards? 
+Levels of displaced persons’ 
+satisfaction 
+•  How much do the displaced persons know about resettlement 
+procedures and entitlements?  
+•  Do the displaced persons know their entitlements? 
+•  Do they know whether these have been met? 
+•  How do the displaced persons assess the extent to which their own 
+living standards and livelihoods have been restored? 
+•  How much do the displaced persons know about grievance 
+procedures and conflict resolution procedures? 
+8  ADB.  2012.  Involuntary  Resettlement  Safeguards:  A  Planning  and  Implementation  Good  Practice  Sourcebook  – 
+Draft Working Document. Manila.  
+58 
+Appendix 1 
+Monitoring Indicator 
+Effectiveness of resettlement 
+planning 
+Basis for Indicator 
+•  Were the displaced persons and their assets correctly enumerated? 
+•  Was the time frame and budget sufficient to meet objectives, were 
+there institutional constraints? 
+•  Were entitlements too generous? 
+•  Were vulnerable groups identified and assisted? 
+•  How did resettlement implementers deal with unforeseen 
+problems? 
+Appendix 2 
+59 
+SCREENING FORM FOR IMPACTS ON INDIGENOUS PEOPLES 
+KEY CONCERNS 
+(Please provide elaborations 
+on the Remarks column) 
+A.  Indigenous Peoples Identification 
+YES 
+NO 
+NOT 
+KNOWN 
+Remarks 
+1.  Are  there  socio-cultural  groups  present  in  or  use  the 
+project  area  who  may  be  considered  as  "tribes"  (hill 
+tribal  peoples),  "minorities" 
+tribes,  schedules 
+(ethnic 
+"indigenous 
+communities" in the project area? 
+national  minorities), 
+tribes, 
+or 
+or 
+2.  Are there national or local laws or policies as well as 
+anthropological  researches/studies  that  consider  these 
+groups present in or using the project area as belonging 
+to  "ethnic  minorities",  scheduled  tribes,  tribal  peoples, 
+national minorities, or cultural communities? 
+3. Do such groups self-identify as being part of a distinct 
+social and cultural group?  
+4.  Do  such  groups  maintain  collective  attachments  to 
+distinct  habitats  or  ancestral  territories  and/or  to  the 
+natural resources in these habitats and territories? 
+5.  Do  such  groups  maintain  cultural,  economic,  social, 
+and political institutions distinct from the dominant society 
+and culture? 
+6. Do such groups speak a distinct language or dialect? 
+7.  Has  such  groups  been  historically,  socially  and 
+economically  marginalized,  disempowered,  excluded, 
+and/or discriminated against? 
+8.  Are such groups represented as "Indigenous Peoples" 
+or  as  "ethnic  minorities"  or  "scheduled  tribes"  or  "tribal 
+populations" in any formal decision-making bodies at the 
+national or local levels? 
+B.  Identification of Potential Impacts 
+9.    Will  the  project  directly  or  indirectly  benefit  or  target 
+Indigenous Peoples?  
+10.  Will the project directly or indirectly affect Indigenous 
+Peoples'  traditional  socio-cultural  and  belief  practices? 
+child-rearing,  health,  education,  arts,  and 
+(e.g. 
+governance) 
+11.    Will  the  project  affect  the  livelihood  systems  of 
+Indigenous  Peoples?  (e.g.,  food  production  system, 
+trade, 
+resource  management,  crafts  and 
+natural 
+employment status) 
+60 
+Appendix 2 
+KEY CONCERNS 
+(Please provide elaborations 
+on the Remarks column) 
+YES 
+NO 
+NOT 
+KNOWN 
+Remarks 
+12.    Will  the  project  be  in  an  area  (land  or  territory) 
+occupied, owned, or used by Indigenous Peoples, and/or 
+claimed as ancestral domain?  
+C. Identification of Special Requirements 
+Will the project activities include: 
+13.  Commercial  development  of  the  cultural  resources 
+and knowledge of Indigenous Peoples? 
+14.  Physical  displacement  from  traditional  or  customary 
+lands? 
+15.  Commercial development of natural resources (such 
+as  minerals,  hydrocarbons,  forests,  water,  hunting  or 
+fishing  grounds)  within  customary  lands  under  use  that 
+would  impact  the  livelihoods  or  the  cultural,  ceremonial, 
+spiritual  uses  that  define  the  identity  and  community  of 
+Indigenous Peoples?  
+16.    Establishing  legal  recognition  of  rights  to  lands  and 
+territories  that  are  traditionally  owned  or  customarily 
+used, occupied or claimed by indigenous peoples? 
+17.    Acquisition  of  lands  that  are  traditionally  owned  or 
+customarily  used,  occupied  or  claimed  by  indigenous 
+peoples? 
+Anticipated project impacts on Indigenous Peoples 
+Subproject activity 
+Anticipated positive 
+effect 
+Anticipated negative 
+effect 
+1. 
+2. 
+3. 
+4. 
+5. 
+Appendix 2 
+61 
+Indigenous Peoples Category (Encircle 1) 
+Category 
+Description 
+Subproject Eligibility 
+A 
+B 
+C 
+Significant impacts on Indigenous Peoples 
+Not Eligible 
+Insignificant impacts on Indigenous Peoples 
+Eligible 
+No impact on Indigenous Peoples 
+Eligible 
+62 
+Appendix 3 
+PROJECT PERFORMANCE MONITORING SYSTEM 
+I. 
+Introduction 
+This  document  presents  the  project  performance  monitoring  system  (PPMS)  for  the 
+1. 
+Cambodia: Uplands Irrigation and Water Resources Management Sector Project, funded by the 
+Asian Development Bank (ADB) and the Government of Cambodia. The PPMS is developed for 
+monitoring the indicators and targets for outcome and outputs outlined in the project design and 
+monitoring framework (DMF).  
+II. 
+Project Description 
+A. 
+Components 
+2. 
+The project will have the following two outputs:  
+Output  1:  Enhanced  efficiency  and  climate resilience  of  irrigation  systems  in  the 
+3. 
+project areas. The project will support rehabilitation, modernization, and climate proofing of at 
+least  three  irrigation  systems  to  increase  the  cultivated  area  in  the  project  areas  in  Kampong 
+Thom  and Battambang provinces  to  29,500  ha.1 It  will  (i)  rehabilitate the  undersluices  and  the 
+spillway of the Taing Krasaing headworks, 22-kilometers (km) main Taing Krasaing canal, and 
+48.0  km  of  secondary  and  tertiary  canals;  (ii)  install  a  pumping  system  and  associated 
+distribution channels to lift water by a maximum of 3 meters for 2,960 ha of developed rain-fed 
+land  in  the  Taing  Krasaing  system  command  area;  (iii)  rehabilitate  the  Prek  Chik  headworks 
+(including  raising  the  spillway  by  1.5  meters),  28-km  main  Prek  Chik  canal,  and  70.2  km  of 
+secondary  and  tertiary  canals  to  cover  10,400  ha  net  irrigated  area;  (iv)  install  structures  and 
+gauges for water measurement, control, and distribution on the Taing Krasaing and Prek Chik 
+system’s  main  and  distribution  canals;  (v)  improve  drainage  facilities  for  1,800  ha  to  climate 
+proof  the  irrigation  facilities  against  floods;  (vi)  carry  out  laser  land  leveling  of  2,000  ha;  (vii) 
+improve 21,000 ha of land through irrigation, drainage, and/or flood protection; and (viii) conduct 
+feasibility studies, design, and improvement works for the O Kra Nahk irrigation system serving 
+about 1,500 ha in Kampong Thom province, and other noncore subprojects. 
+4. 
+Output  2:  Improved water  resource  management.  The  project  will  organize  FWUCs 
+and provide gender-inclusive training to FWUC members on (i) O&M of canals, (ii) management 
+of FWUCs, (iii) issues related to climate variability and change, and (iv) water management. It 
+will  also  involve  them  in  the  design  and  implementation  of  subprojects.  It  will  install 
+hydrometeorological stations in the watersheds and establish canal flow measurement systems. 
+The  project  will  train  staff  of  the  Ministry  of  Water  Resources  and  Meteorology  (MOWRAM), 
+MOWRAM’s Department of Farmer Water User Communities (DFWUC), provincial departments 
+of  water  resources  and  meteorology  (PDWRAMs),  the  FWUCs,  and  the  MAFF  on  (i)  modern 
+canal operation techniques, (ii) irrigation scheduling, (iii) watershed management, and (iv) water 
+management.  It  will  also  strengthen  their  awareness  of  climate  resilience  in  water  resource 
+management. The project will modernize canal operations, undertake irrigation scheduling, and 
+integrate  the  scheduling  with  the  canal  flow  gauging  system  to  manage  supplies,  particularly 
+during  droughts.  It  will  also  design  joint  reservoir  operations  for  (i)  Stung  Chinit  and  Taing 
+Krasaing  reservoirs  in Kampong Thom,  and (ii) Bassac  and Dauntri reservoirs  in  Battambang. 
+1  Feasibility  studies  have  been  completed  for  the  Taing  Kraisang  and  Prek  Chik  irrigation  systems.  The  feasibility 
+study for the O Kra Nahk irrigation system will be carried out during project implementation.  
+Appendix 3 
+63 
+This  will  improve  water-sharing  arrangements  between  linked  systems  and  ensure  equitable 
+distribution, particularly during droughts. 
+B. 
+Project Area 
+5. 
+The  project  area  comprises  selected  irrigation  systems  in  Kampong  Thom  and 
+Battambang  provinces,  away  from  the  Tonle  Sap  Lake.  Population  living  below  poverty  line  is 
+25% in Battambang and 29% in Kampong Thom.2 
+III. 
+Project Costing 
+6. 
+The project cost is estimated at $60 million ADB and $6.12 million from the Government 
+of Cambodia. The indicative financing plan for the project is given in Table 2 and figure 2 below. 
+Component wise project cost is presented in Table 1 and Figure 1 below.  
+Table A3.1: Indicative Financing Plan 
+Source 
+Asian Development Fund (ADF) 
+Government of Cambodia 
+Total 
+Amount ($ Million) 
+60.00 
+6.12 
+66.12 
+Share of Total (%) 
+90.7 
+9.3 
+100.0 
+7. 
+The project investment plan is given in Table A3.2 below.  
+Table A3.2: Component-wise Cost of Project 
+Item 
+A.  Base Costb 
+     1.        Efficiency and climate resilience of irrigation systems 
+     2.        Water resource management 
+2 Annex 8: Summary Poverty Reduction and Social Strategy. 
+Amounta 
+50.80 
+  1.31  
+63 
+64 
+Appendix 3 
+Item 
+     3.        Project management  
+     Subtotal (A) 
+B.  Contingenciesc 
+C.  Financing Charges During Implementationd 
+Total (A+B+C) 
+Amounta 
+  1.15  
+53.26  
+11.24  
+  1.62  
+66.12  
+IV. 
+Project Implementation Arrangements 
+8. 
+MOWRAM will be the executing agency and DFWUC will be the implementing agency. A 
+PMU  has  been  established  in  DFWUC  before  commencement  of  the  project  preparatory 
+technical  assistance  (PPTA).  The  PMU  is  headed  by  a  Project  Director  who  is  the  Deputy 
+Director General for Technical Affairs, DFWUC and a Project Manager who is the Director of the 
+DFWUC.  The  PMU  was  fully  involved  in  the  preparation  of  the  project.  For  implementation  of 
+the  project, the  PMU  will  be  composed  of  24  designated  personnel from  MOWRAM,  DFWUC, 
+MAFF, Department of Hydrology and River Work (DHRW), and (PDWRAMs) of Kampong Thom 
+and  Battambang  provinces.  MAFF  staff  will  coordinate  the  land  levelling  and  other  supporting 
+activities to be provided from CRRCSDP including access to quality seed and agriculture value 
+chain  facilities  and  services.  PDWRAMs  will  be  responsible  for  coordinating  all  field  activities 
+with FWUCs and DFWUC. DHRW will coordinate installation, operation, and data collection of 
+hydro-meteorological stations.  
+9. 
+A  steering  committee,  chaired  by  H.E.  Minister  MOWRAM  and  comprising  senior 
+officials  from  MOWRAM,  MAFF,  Ministry  of  Economy  and  Finance  (MEF)  and  Provincial 
+Governor’s  Office  of  two  provinces,  will  oversee  the  project  implementation  and  management 
+and  provide  policy  guidance.  Resettlement  and  land  acquisition  will  be  implemented  by  and 
+under the management of the Inter-Ministerial  Resettlement  Committee  (IRC)  chaired  by  MEF 
+with  membership  from  the  representatives  of  relevant  line  ministries  in  close  cooperation  with 
+the Kampong Thom and Battambang Provincial Resettlement Sub-committees. The PMU will be 
+responsible for  implementation,  planning,  organization,  monitoring  and reporting  of  the  project 
+and will be supported by the project management and implementation consultants (PMIC). The 
+PMIC  will  comprise  64  person-months  of  international  and  610  person-months  of  national 
+experts  to  provide  technical  support  to  the  PMU  to  efficiently  manage  and  implement  the 
+project. ADB’s Guidelines on the Use of Consultants (2013, as amended from time to time) will 
+be  used  for  recruiting  the  consulting  firms.  The  anticipated  procurements  include  small  and 
+large  works  contracts  and  goods,  which  will  be  procured  by  using  ADB’s  national  and 
+international competitive bidding and shopping methods. An imprest account will be maintained 
+at the PMU level for ADB loan funds.  
+Appendix 3 
+65 
+V. 
+Implementation Progress 
+10. 
+[Brief write-up on the status of implementation of activities]  
+Implementation  progress  in  terms  of  start-up  activities,  safeguards,  procurement  of 
+11. 
+goods and services, contracts, and physical progress are presented below.   
+A. 
+Start-up Activities 
+12. 
+[Brief write-up on the status of activities] 
+Table A3.3: Start-up Activities 
+Deadline 
+Activity 
+Opening of Imprest account 
+Recruitment of PMIC 
+Award of Works Package TK  
+Procurement of Goods 
+Status 
+B. 
+Safeguards 
+[Brief  write-up  on the  status  of activities]. The  table below  presents  the  project’s  status 
+13. 
+on safeguards.  
+Table A3.4: Safeguards 
+Sub-project/ 
+Contract 
+Social 
+Safeguard 
+Assessment 
+Sub-project 1 
+Sub-project 2 
+Sub-project 3 
+Completed 
+Completed 
+Completed 
+Social 
+Safeguard 
+Screening 
+(Y/N) 
+Y 
+Y 
+Y 
+C. 
+Procurement 
+Resettlement Plan 
+Environment 
+Assessment 
+Completed  On-going  Completed  Ongoing 
+Yes/No/NR 
+Yes/No/NR 
+Yes/No/NR 
+Yes/No 
+Yes/No 
+Yes 
+- 
+- 
+- 
+- 
+- 
+- 
+[Brief write-up on the status of procurements]. The tables and graphs below present the 
+14. 
+project progress on procurement of goods and equipment, works, and works contracts.  
+Table A3.5: Goods and Equipment 
+Package 
+Package 1 
+Package 2 
+Package 3 
+Estimated amount ($)  Date of Award 
+Insert Amount 
+Insert Amount 
+Insert Amount 
+Insert Date 
+Insert Date 
+Insert Date 
+Contract Amount ($) 
+Insert amount 
+Insert amount 
+Insert amount 
+66 
+Appendix 3 
+Package 
+Description 
+Table A3.6: Works 
+Estimated amount 
+($) 
+Date of 
+Award 
+Contract Amount 
+($) 
+Contract 1 
+Contract 2 
+Contract 3 
+Sub-project/ Contract 
+Contract 1 
+Contract 2 
+Contract 3 
+Table A3.7: Progress of Works Contracts 
+Time elapsed 
+(Months) 
+Scheduled completion 
+date 
+Insert date 
+Insert date 
+Insert date 
+Appendix 3 
+67 
+Physical 
+Progress (%) 
+Table A3.8: Disbursements 
+Loan Category 
+ADB 
+Government 
+Amount Allocation ($) 
+60,000,000 
+6,120,000 
+Amount Disbursed ($) 
+Insert amount 
+Insert amount 
+67 
+68 
+Appendix 3 
+Table A3.9: Financial Progress 
+Item 
+Amount 
+Allocated ($) 
+Amount 
+Committed ($) 
+Amount Paid by 
+IA($) 
+Goods 
+Contract 1 
+Contract 2 
+Contract 3 
+Consulting Services  
+Contract 1 
+Contract 2 
+Works 
+Contract 1 
+Contract 2 
+Contract 3 
+Appendix 3 
+69 
+A. 
+Performance Against DMF 
+VI. 
+Project Performance 
+The  project’s  performance  against the targets  set  out  in the  DMF for  outcome,  outputs 
+15. 
+and inputs is reported in the table below.  
+Table A3.10: DMF Targets vs Achievements 
+Achievements 
+Project Results 
+Chain 
+Outcome 
+Water and 
+agriculture 
+productivity 
+enhanced in the 
+project areas 
+Outputs 
+1. Efficiency and 
+climate resilience of 
+irrigation systems in 
+the project areas 
+enhanced 
+Performance Indicators with 
+Targets and Baselines 
+By 2022: 
+Average annual crop production 
+increased to 4.25 ton per ha 
+(2015 baseline: 1.65 tons per 
+ha) 
+By 2021: 
+1a. Irrigation infrastructure 
+improved, modernized and made 
+climate resilient. Dry- and wet-
+season cultivated area increased  
+to 29,500 ha (2015 baseline: 
+13,500 ha)  
+1b. Irrigation efficiency of three 
+irrigation systems increased by 
+100% (2015 baseline: 20% 
+efficiency) 
+1c. Drainage facilities for 1,800 
+ha improved (2015 baseline: 0 
+ha) 
+1d. 2,000 ha land leveled by 
+laser leveling (2015 baseline: 0 
+ha) 
+1e. 21,000 ha land improved 
+through irrigation, drainage, 
+and/or flood protection 
+1f. 25% of unskilled laborers in 
+civil works are women 
+2.  Water  resource 
+management 
+improved 
+By 2021: 
+2a. Three FWUCs formed and 
+trained (2015 baseline: 0) 
+2a–d. QPRs, LRM reports 
+2b. 30% of FWUC members are 
+women (2015 baseline: 0) 
+2c. 30% of FWUC management 
+committee members are women 
+(2015 baseline: 0) 
+Achievements 
+70 
+Appendix 3 
+Project Results 
+Chain 
+Performance Indicators with 
+Targets and Baselines 
+2d. Annual O&M plan prepared 
+during design of each irrigation 
+system  
+2e. O&M funds allocated by the 
+government for main canals and 
+reservoirs 
+2f. Eight hydrometeorological 
+stations installed in the 
+watersheds (2015 baseline: 0) 
+Activities with Milestones 
+1.  Efficiency  and  climate  resilience  of  irrigation 
+systems in the project areas enhanced 
+1.1 Award contract for Taing Krasaing main canal by 30 
+September 2016, and complete works by 30 June 
+2017 
+1.2  Complete detailed design, cost estimates, and 
+bidding documents for all subprojects by                  
+31 December 2018 
+1.3  Award all works contracts by 30 September 2019, 
+and complete works by 31 March 2021 
+2. Water resource management improved 
+2.1  Form FWUCs by 30 June 2017 
+2.2  Complete FWUCs training by 30 September 2020 
+2.3  Install meteorological stations and river flow 
+gauging stations by 31 December 2018. 
+2.4  Design joint reservoir operation of Stung Chinit and 
+Taing Krasaing reservoirs and Bassac and Dauntri 
+reservoirs by 30 June 2018 for adoption by 
+MOWRAM, PDWRAMs, FWUCs, and provincial 
+authorities  by June 2019 
+Project Management Activities  
+Mobilize project management and implementation 
+consultants by 30 June 2016 
+Procure office equipment, furniture, and vehicles by 30 
+June 2016 
+Establish PPMS by September 2016 
+B. 
+Gender Action Plan  
+16. 
+The project’s progress against the Gender Action Plan is presented in the table below.  
+Outputs  
+1.  Efficiency and climate 
+resilience of irrigation 
+systems in the project 
+areas enhanced 
+Table A3.11: Gender Action Plan 
+Gender Design Features/Activities 
+1.1  Orientation and training on construction work, such as on canal 
+measurements and work specifications, should be provided to 
+women to ensure the quality of construction work. 
+1.2  Women who can read and write are encouraged to be hired as 
+record keepers.  
+1.3  Orientation on gender equality should be provided to constructors 
+1.4  Gender equity and labor arrangements should be included in the 
+Outputs  
+2.  Water resource 
+management improved 
+Appendix 3 
+71 
+Gender Design Features/Activities 
+contract of construction companies, i.e. at least 25% of unskilled 
+labor will be given to local women during construction and there 
+should be equal pay for equal work.  
+1.5  At least 30% of women should participate during the presentation 
+of project design and in the discussion and planning of the water 
+distribution and cropping plans.  
+1.6  Conduct meeting with women farmers separately (especially on 
+the early stage of the project) to ensure that their ideas will be 
+collected in developing gender project plans. 
+2.1  Encourage  both  husband  and  wife  to  register  as  member  in  the 
+FWUC to ensure that at least 30% of the members are women. 
+2.2  50%  of  project  training  to  FWUC  members  to  be  participated  by 
+women 
+2.3  Develop  the  knowledge,  communication  and  leadership  skills  of 
+women  members  through  awareness-raising  and  training  to 
+enable them to be leaders of FWUC.  
+2.4  At  least  30%  of  FWUC  management  committee  members, 
+including design and construction committee, are women. 
+2.5  Ensure 
+that  women  will 
+the  operations  and 
+maintenance  activities  with  potential  for  payment  or  support  for 
+livelihood activity. 
+take  part 
+in 
+2.6  Provide  coaching  on  gender  awareness  and  leadership  for  the 
+gender  focal  person  to  ensure  that  they  are  able  to  conduct 
+training  within  MOWRAM  and  PDWRAM  officials  and  to  women 
+FWUCs. 
+FWUC  =  farmer  water  user  community,  PDWRAM  =  provincial  departments  of  water  resources  and  meteorology, 
+PMIC = project management and implementation consultants, PMU = project management unit 
+C. 
+Data Management System  
+The  process  of  Data  Management  consists  of  Data  Collection,  Data  Communication, 
+17. 
+Analysis and Reporting. This is discussed in detail below.  
+18. 
+Data will be collected on all the indicators defined in the DMF by PMIC and PDWRAM. It 
+shall  be  reported  to  the  M&E  specialist  of  the  PMIC  in  the  PMU.  This  will  include  data  on 
+irrigation  infrastructure  improved,  irrigation  efficiency,  upgrades  of  drainage  facilities,  land 
+leveling,  percentage  of  women  employed  as  unskilled  laborers,  FWUCs  formed  and  trained, 
+O&M, and installation of hydro-meteorological stations.  
+The  PMIC  and  PDWRAM  will  compile  the  information  in  respect  of  the  individual 
+19. 
+schemes  carried  out  by  the  project  and  submit  this  to  the  PMU  once  they  have  collected  the 
+necessary details required for evaluating the output of the activities.  The PMU would review the 
+data submitted and will accordingly update the PPMS with support of PMIC. 
+20. 
+Data  on  indicators  related  to  laser  land  leveling  and  FWUC  will  be  collected  by 
+MOWRAM and PMIC through MAFF. Data on indicators related to irrigation, O&M planning, and 
+allocation  of  government  funds  for  O&M  of  main,  secondary  and  primary  canals  and 
+storage/diversion structures will be collected by MOWRAM.  
+72 
+Appendix 3 
+ Data will be collected by MOWRAM through their PDWRAM in the two project focused 
+21. 
+provinces.  PDWRAM  will  assign  a  focal  point  in  their  respective  province.  This  person  will  be 
+responsible for collecting and communicating data to MOWRAM. The focal point in MOWRAM 
+will also analyze the data and then report it to the PMIC and PMU.  
+22. 
+PPMS will be updated every 6 months from the start to end of the project. It will be sent 
+to  ADB  by  30  January  and  30  July  every  year.  The  diagram  presenting  the  data  flow  is 
+presented as Figure 7 below. 
+73 
+Appendix 3 
+Figure 7: Flow Diagram – Data Management System 
+74 
+Appendix 3 
+D. 
+Status of Compliance with Loan Covenants 
+23. 
+There are [number] loan covenants, out of which [number] are complied with, [number] 
+are partly complied, [number] are ongoing, [number] and are still not met, [number] are not yet 
+due. The list of covenants under relevant categories and their status of compliance as of [date] 
+is provided in the table below.  
+Table A3.12: Status of Compliance with Loan Covenants 
+Covenant 
+Reference in Loan 
+Agreement (LA) 
+Status of 
+Compliance 
+Remarks 
+Financial Covenants 
+Safeguard Covenants 
+Social Covenants 
+Economic Covenants 
+Others Covenants 
+Sr. 
+No. 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+E. 
+Problems and Issues during Implementation 
+Describes  problems caused  by  delayed  project  implementation over the last  6 months. 
+The list of actions taken and the status of proposed actions are recorded 
+Appendix 3 
+75 
+Annex 1: Design and Monitoring Framework  
+Impact the Project is Aligned with: 
+Inclusive economic growth through agriculture and irrigation (Rectangular Strategy on Growth, 
+Employment, Equity and Efficiency, Phase III, 2014 to 2018)a  
+Performance Indicators with 
+Targets and Baselines 
+Data Sources or 
+Reporting Mechanisms 
+Risks 
+Results Chain 
+Outcome 
+Water and 
+agriculture 
+productivity 
+enhanced in the 
+project areas 
+Outputs 
+1. Efficiency and 
+climate resilience of 
+irrigation systems in 
+the project areas 
+enhanced 
+By 2022: 
+Average annual crop production 
+increased to 4.25 ton per ha 
+(2015 baseline: 1.65 tons per 
+ha) 
+PPMS 
+Project completion report 
+By 2021: 
+1a. Irrigation infrastructure 
+improved, modernized and 
+made climate resilient. Dry- and 
+wet-season cultivated area 
+increased  to 29,500 ha (2015 
+baseline: 13,500 ha)  
+1b. Irrigation efficiency of three 
+irrigation systems increased by 
+100% (2015 baseline: 20% 
+efficiency) 
+1a. QPRs of the executing 
+agency, PPMS, LRM 
+reports 
+1b.  PPMS 
+1c. Drainage facilities for 1,800 
+ha improved (2015 baseline: 0 
+ha) 
+1c. PPMS 
+1d–f. QPRs, PPMS 
+1d. 2,000 ha land leveled by 
+laser leveling (2015 baseline: 0 
+ha) 
+1e. 21,000 ha land improved 
+through irrigation, drainage, 
+and/or flood protection 
+1f. 25% of unskilled laborers in 
+civil works are women 
+2. Water resource 
+management 
+improved 
+By 2021: 
+2a. Three FWUCs formed and 
+trained (2015 baseline: 0) 
+2a–d. QPRs, LRM reports 
+2b. 30% of FWUC members 
+are women (2015 baseline: 0) 
+2c. 30% of FWUC management 
+committee members are 
+women (2015 baseline: 0) 
+Effects of 
+climate change 
+may damage 
+project outputs 
+and assets in 
+the future. 
+The planning 
+and funding of 
+the O&M of the 
+project irrigation 
+systems may be 
+inadequate. 
+Communication 
+between 
+MOWRAM, the 
+PDWRAMs, and 
+the FWUCs may 
+be weak, 
+adversely 
+affecting project 
+implementation. 
+76 
+Appendix 3 
+Results Chain 
+Performance Indicators with 
+Targets and Baselines 
+2d. Annual O&M plan prepared 
+during design of each irrigation 
+system 
+2e. O&M funds allocated by the 
+government for main canals 
+and reservoirs 
+2f. Eight hydrometeorological 
+stations installed in the 
+watersheds (2015 baseline: 0) 
+Data Sources or 
+Reporting Mechanisms 
+Risks 
+2e. Ministry of Economy 
+and Finance budget 
+documents, QPRs, LRM 
+reports 
+2f. QPRs, LRM reports, 
+PPMS 
+Key Activities with Milestones 
+1. Efficiency and climate resilience of irrigation systems in the project area enhanced 
+1.1 Award contract for Taing Krasaing main canal by 30 September 2016, and complete works by        
+30 June 2017 
+1.2 Complete detailed design, cost estimates, and bidding documents for all subprojects by                  
+31 December 2018 
+1.3 Award all works contracts by 30 September 2019, and complete works by 31 March 2021 
+2. Water resource management improved 
+2.1 Form FWUCs by 30 June 2017 
+2.2 Complete FWUCs training by 30 September 2020 
+2.3 Install meteorological stations and river flow gauging stations by 31 December 2018 
+2.4 Design joint reservoir operation of Stung Chinit and Taing Krasaing reservoirs and Bassac and 
+Dauntri reservoirs by 30 June 2018 for adoption by MOWRAM, PDWRAMs, FWUCs, and provincial 
+authorities  by June 2019 
+Project Management Activities 
+Mobilize project management and implementation consultants by 30 June 2016 
+Procure office equipment, furniture, and vehicles by 30 June 2016 
+Establish PPMS by September 2016 
+Inputs 
+Asian Development Bank: $60,000,000 
+Government of Cambodia : $6,120,000 
+Assumptions for Partner Financing 
+Not applicable. 
+FWUC  =  farmer  water  user  community,  ha  =  hectare,  LRM  =  loan  review  mission,  MOWRAM  =  Ministry  of Water 
+Resources  and  Meteorology,  O&M  =  operation  and  maintenance,  PCR  =  project  completion  report,  PDWRAM  = 
+provincial department of water resources and meteorology, PPMS = project performance monitoring system, QPR = 
+quarterly progress report. 
+a  Government of Cambodia. 2013. Rectangular Strategy for Growth, Employment, Equity, and Efficiency, Phase III. 
+Phnom  Penh.  The  document  presents  the  5-year  policy  agenda  of  the  government  and  forms  the  basis  of  the 
+National Strategic Development Plan, 2014–2018. 
+Source: Asian Development Bank. 
+Annex 2: DATA 
+[Provide data for indicators] 
+Appendix 3 
+77 

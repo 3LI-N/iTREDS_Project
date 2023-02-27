@@ -1,0 +1,4730 @@
+Alternative Renewable Energy pilot Project: (GAR BHU 53365-001)  
+Japan Fund for Poverty Reduction 
+Project Administration Manual 
+Project Number: 53365-001 
+Grant Number: G9211  
+October 2020 
+Kingdom of Bhutan: Alternative Renewable Energy 
+Pilot Project 
+Financed by the Japan Fund for Poverty Reduction  
+ABBREVIATIONS 
+Bhutan Electricity Authority 
+Bhutan Power Corporation 
+country operations business plan 
+Druk Green Power Corporation 
+Department of Public Accounts 
+Department of Renewable Energy 
+Department of Technical Education 
+Enterprise Resource Planning 
+Financial Management Assessment 
+greenhouse gas 
+Gross National Happiness Commission  
+Intended Nationally Determined Contribution 
+International Renewable Energy Agency  
+Japan Fund for Poverty Reduction 
+Ministry of Economic Affairs 
+Ministry of Finance 
+Public Financial Management 
+project management unit 
+Public Expenditure and Financial Accountability 
+Public Expenditure Management System  
+Royal Audit Authority 
+Rural Economic Advancement Program 
+Royal Government of Bhutan 
+Technical Training Institution 
+Village Electrical Entrepreneur and Electrical Technician 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+BEA 
+BPC 
+COBP 
+DGPC 
+DPA 
+DRE 
+DTE 
+ERP 
+FMA 
+GHG 
+GNHC 
+INDC 
+IRENA 
+JFPR 
+MOEA 
+MOF 
+PFM 
+PMU 
+PEFA 
+PEMS 
+RAA 
+REAP 
+RGOB 
+TTI 
+VEEET 
+PROJECT AT A GLANCE 
+CONTENTS 
+I. 
+II. 
+III. 
+IV. 
+V. 
+VI. 
+PROJECT DESCRIPTION 
+IMPLEMENTATION PLANS 
+A. 
+B. 
+Project Readiness Activities 
+Overall Project Implementation Plan 
+PROJECT MANAGEMENT ARRANGEMENTS 
+A. 
+B. 
+C. 
+D. 
+Project Implementation Organizations: Roles and Responsibilities 
+Key Persons Involved in Implementation 
+Project Organization Structure 
+Grant Management 
+COSTS AND FINANCING 
+A. 
+B. 
+C. 
+D. 
+E. 
+F. 
+G. 
+Cost Estimates and Financing Plan 
+Allocation and Withdrawal of Grant Proceeds 
+Detailed Cost Estimates by Financier 
+Detailed Cost Estimates by Outputs 
+Estimated Disbursement Schedule by Year  
+Contract and Disbursement S-Curve 
+Funds Flow Diagram 
+FINANCIAL MANAGEMENT 
+Disbursement 
+A. 
+Accounting 
+B. 
+Auditing and Public Disclosure 
+C. 
+PROCUREMENT AND CONSULTING SERVICES 
+A. 
+B. 
+C. 
+D. 
+Advance Contracting and Retroactive Financing 
+Procurement of Goods, Works, and Consulting Services 
+Procurement Plan 
+Consultant's Terms of Reference 
+VII. 
+SAFEGUARDS 
+VIII.  GENDER AND SOCIAL DIMENSIONS 
+IX. 
+X. 
+XI. 
+PERFORMANCE MONITORING, EVALUATION, REPORTING, AND 
+COMMUNICATION 
+A. 
+B. 
+C. 
+D. 
+E. 
+Project Design and Monitoring Framework 
+Monitoring 
+Evaluation 
+Reporting 
+Stakeholder Communication Strategy 
+ANTICORRUPTION POLICY 
+ACCOUNTABILITY MECHANISM 
+XII. 
+RECORD OF CHANGES TO THE JFPR PROJECT ADMINISTRATION MANUAL 
+APPENDIXES 
+1 
+2 
+2 
+3 
+4 
+4 
+5 
+7 
+7 
+8 
+8 
+11 
+12 
+13 
+14 
+14 
+14 
+15 
+20 
+21 
+21 
+22 
+22 
+22 
+23 
+27 
+27 
+28 
+30 
+30 
+33 
+33 
+33 
+34 
+34 
+35 
+35 
+1. 
+2. 
+3. 
+4. 
+5. 
+Guidance Note on Visibility of Japan 
+Guidance Note on Coordination with the Embassy of Japan 
+Terms of References  
+Safeguard Checklists 
+Strategic Procurement Plan  
+JFPR Project Administration Manual Purpose and Process 
+1.  The  JFPR  project  administration  manual  (PAM)  describes  the  essential  administrative  and 
+management  requirements  to  implement  the  Japan  Fund  for  Poverty  Reduction  (JFPR)-funded 
+project on time, within budget, and in accordance with the government and Asian Development Bank 
+(ADB) policies and procedures. The JFPR PAM should include references to all available templates 
+and instructions either through linkages to relevant URLs or directly incorporated in the JFPR PAM. 
+2.  The Department of the Renewable Energy (DRE) and Bhutan Power Corporation (BPC) are wholly 
+responsible for the implementation of the project, as agreed jointly between the grant recipient and 
+ADB, and in accordance with the Royal Government of Bhutan and ADB’s policies and procedures. 
+ADB staff is responsible to support implementation including compliance by DRE and BPC of their 
+obligations  and responsibilities  for  project  implementation  in  accordance  with  ADB’s  policies and 
+procedures. 
+3.  DRE, BPC and ADB shall agree to the JFPR PAM and ensure consistency with the grant agreement. 
+In the event of any discrepancy or contradiction between the JFPR PAM and the grant agreement, 
+the provisions of the grant agreement shall prevail. 
+4.  After  ADB  Board  approval  of  the  project's  grant  assistance  report,  changes  in  implementation 
+arrangements  are  subject  to  agreement  and  approval  pursuant  to  relevant  RGOB  and  ADB 
+administrative  procedures  (including  ADB’s  Project  Administration  Instructions)  and  upon  such 
+approval, they will be subsequently incorporated in the JFPR PAM. 
+5.   
+I. 
+PROJECT DESCRIPTION 
+1. 
+The  Alternative  Renewable  Energy  Pilot  Project  aims  to  demonstrate  viability  and 
+sustainability  of  solar  power  as  an  alternative  energy  and  income  source  in  Bhutan  through:             
+(i) conducting a study on regulatory requirements for alternative renewable energy resources and 
+preparing a tariff structure for residential solar photovoltaic systems; (ii) assessing the adequacy 
+of the national electricity grid and pilot-testing solar photovoltaic  systems in rural villages; and  
+(iii)  enhancing  energy-based  livelihood  skills  through  vocational  education  and  energy-based 
+livelihood  equipment  support.  The  project  has  strong  pro-poor,  socially  inclusive  and  gender-
+sensitive features. The project will directly benefit 300 poor households in rural villages. 
+2. 
+This  project  aims  to  enable  the  Royal  Government  of  Bhutan  to  reduce  electricity 
+subsidies, and the households to secure reliable and sustainable energy supply while providing 
+an opportunity to generate income for the rural households. One of the important programs of the 
+government’s  rural  poverty  alleviation  strategy  is  provision  of  a  lifeline  electricity  supply  to 
+households  with  100%  subsidy  (Nu5.81/kWh,  2017–2019)  up  to  100  kilowatt  hour  (kWh)  of 
+monthly  consumption  for  each  household.1 In  2018  alone,  Nu104.93  million  was  spent  by  the 
+Ministry  of  Finance  (MOF)  as  subsidy  for  the  rural  electricity  supply,  which  is  a  significant 
+component  of  the  annual  budget  allocation  for  the  energy  sector.2 Although  100%  subsidy  for 
+electricity is aligned with poverty reduction efforts, it is not sustainable. Further, solar photovoltaic 
+energy  supports  strong  gender  equality  and  social  inclusion  (GESI)  elements  by  improving 
+income  generating  sources  through  solar  photovoltaic  power  trading  and  energy-based 
+livelihoods with a focus on women.   
+ The  proposed  project  is  included  in  the  country  operations  business  plan  (COBP)      
+3. 
+2020–2022 for Bhutan and is in line with 5 of the 7 operational priorities of ADB Strategy 2030 for 
+addressing poverty reduction, accelerating gender equality, tackling climate change, promoting 
+rural development and strengthening governance and institutional capacity. The impact is aligned 
+with the energy security of the society enhanced by providing reliable and sustainable electricity 
+supply  through  promotion  of  alternative  renewable  energy.  The  outcome  will  be  viability  and 
+sustainability of solar power as an alternative energy and income source demonstrated in pilot 
+rural villages. The project has three outputs which are described below. 
+4. 
+Output 1: Regulatory requirements for alternative renewable energy identified and 
+a  tariff  structure  for  residential  solar  photovoltaic  systems  prepared.  RGOB  adopted  the 
+Alternative  Renewable  Energy  Policy  in  2013  which  aims  to  promote  the  development  of 
+alternative renewable energy resources, design appropriate tariffs and facilitate investment in the 
+alternative  renewable  energy  sector.  To  implement  the  policy,  RGOB  needs  to  develop 
+guidelines, rules, and regulations to accommodate alternative renewable energy sources in the 
+existing power generation and trading system. The project will support a study on key regulatory 
+and development issues associated with different alternative renewable energy technologies and 
+recommendations on the design and implementation of pricing and other regulatory arrangements 
+consistent  with  the  Policy  and  Electricity  Act  2001.  For the  pilot testing  of  the  residential  solar 
+photovoltaic  systems,  an  indicative  tariff  structure  for  electricity  purchase  from  residential 
+households will be prepared considering market price of solar photovoltaic systems, cost of the 
+transportation and installation, economic benefits, and poverty alleviation aspects. Based on the 
+experience in installations and operation under output 2, further recommendations on the tariff 
+structure for residential solar photovoltaic system will be provided. 
+1  Bhutan Electricity Authority. 2017. Electricity Tariff in Bhutan. Table 2. Royal Government of Bhutan. 
+2   RGOB’s statistic in 2017 and 2018. It increased by 28% from the subsidy in 2017 which was Nu81.96 million.  
+2 
+Output 2: Small-scale solar photovoltaic system pilot tested. Technical adequacy of 
+5. 
+the grid will be assessed, and specifications and requirements for connecting solar photovoltaic 
+systems to the grid will be identified. The grid connection is necessary as part of pilot testing solar 
+photovoltaic systems, and purchase of excess electricity from the households under an indicative 
+tariff  structure  is  proposed.  The  small-scale  solar  photovoltaic  systems  will  be  procured  and 
+installed in 300 households in the rural villages selected based on Multidimensional Poverty Index 
+(MPI),  geographical  and  atmospheric  conditions, 
+technical  viability,  and  availability  of 
+telecommunication3 and  other  infrastructures.  The  data  of  generation  and  consumption  profile 
+throughout a year will be collected and analyzed. To mobilize pilot rural villages, an awareness 
+campaign on benefit and limitation of the solar photovoltaic system and safe and efficient use of 
+the electricity will be conducted.  
+Output 3: Energy-based livelihood skills enhanced. A curriculum for solar photovoltaic 
+6. 
+system  operation  and  maintenance  (O&M)  will  be  developed.  Training  programs  on  solar 
+photovoltaic  system  O&M  will  be  delivered  to  selected  villagers  and/or  Village  Electrical 
+Entrepreneur  and  Electrical  Technician  (VEEET).  The number  of the trainees will  be  300,  and 
+among them 30% will be women. Further, to maximize poverty reduction impact, energy-based 
+livelihood  equipment  will  be  provided  with  the  required  skills  training  based  on  a  needs 
+assessment to the villages benefitted from the solar photovoltaic systems. About 10 to 15 villages 
+are  expected  to  be  provided  with  the  solar  photovoltaic  systems  and  at  least  10  units  of          
+energy-based livelihood equipment will be installed.  
+A. 
+Project Readiness Activities 
+II. 
+IMPLEMENTATION PLANS 
+Table 1: Project Readiness Activities 
+Indicative Activities 
+Month 2020 
+1 
+2 
+3 
+4  5 
+6  7  8 
+Advance contracting 
+actions  
+Retroactive financing 
+actions 
+Establish project 
+implementation 
+arrangements 
+ADB approval 
+Grant agreement and 
+Project agreement 
+signing 
+Government legal 
+opinions provided 
+Grant effectiveness 
+  X 
+Responsible Unit 
+10 
+9 
+X 
+X 
+DRE 
+DRE 
+DRE 
+X  ADB 
+X  MOF/ BPC/ ADB 
+X  MOF/ DRE/ BPC 
+X  MOF/ ADB 
+Source: Asian Development Bank and Department of Renewable Energy 
+3  To collect the data automatically from the solar photovoltaic systems and meters, the villages should be connected 
+to either Bhutan Telecommunication Company or Tashicell network. 
+B. 
+Overall Project Implementation Plan 
+Table 2: Implementation Schedule 
+3 
+DMF = design and monitoring framework 
+Source: Asian Development Bank and Department of Renewable Energy 
+4 
+III. 
+PROJECT MANAGEMENT ARRANGEMENTS 
+A. 
+Project Implementation Organizations: Roles and Responsibilities 
+Table 3: Project Implementation Organizations: Roles and Responsibilities 
+Project Implementation 
+Organizations 
+Ministry of Finance (MOF) 
+Executing Agency: 
+Department of Renewable 
+Energy (DRE), Ministry of 
+Economic Affairs (MOEA) 
+Project management unit4 
+Management Roles and Responsibilities  
+•  enter into the grant agreement with ADB and provide the grant to 
+DRE 
+•  oversee fund flow 
+•  establish project steering committee with members from MOF, 
+MOEA, BPC, and BEA 
+•  establish project management unit (PMU) headed by a project 
+director, provision of counterpart staff for efficient operation of 
+the PMU 
+•  provide operational support and budget for project activities 
+including administration of PMU 
+•  coordinate with higher-level government and regulatory 
+agencies, and BPC for successful implementation of the project 
+report project progress, status, and information to ADB 
+•  monitor and evaluate project activities and outputs  
+•  assure quality of project outputs 
+• 
+•  encourage participation of 100 % eligible women officials from 
+DRE, PMU and other relevant agencies in workshops, and 
+seminars regarding study on regulatory requirements for the 
+alternative renewable energy regulatory framework 
+•  undertake day-to-day project implementation activities 
+• 
+recruit a consulting firm for the project implementation  
+•  supervise contractors and consultants to focus on tasks assigned 
+to them, and review performance and their progress reports 
+•  prepare bid documents, manage the bidding process, submit to 
+• 
+• 
+ADB for required clearances 
+implement project design, procurement, and safeguards activities 
+review surveys, finalize selection criteria and select beneficiaries 
+for the project   
+•  be responsible for overall project management including 
+• 
+procurement, accounting, quality assurance, safeguards, and 
+coordination with government agencies 
+review the study report on regulatory requirements for alternative 
+renewable energy prepared 
+review the tariff structure prepared  
+• 
+•  coordinate regulatory agencies to achieve project outputs 
+•  prepare and submit withdrawal applications and meet reporting 
+requirements including audit reports and financial statements 
+Project steering committee5  
+•  provide quarterly project progress reports to ADB and the 
+steering committee 
+•  provide general oversight of project activities and decisions  
+•  provide policy guidance on project implementation 
+•  approve the study report on regulatory requirements for 
+alternative renewable energy 
+4   The PMU will be operated by the two implementing agencies, DRE, and BPC.  
+5   MOF, MOEA, BEA and BPC are the members of the steering committee.  
+5 
+Project Implementation 
+Organizations 
+Bhutan Power Corporation 
+(BPC)6 
+Management Roles and Responsibilities  
+•  provide staff and resources to the PMU established with DRE 
+•  assess technical adequacy of the grid and identify specifications 
+and requirements for connecting solar photovoltaic systems to 
+the grid 
+•  prepare bid documents, manage the bidding process, submit to 
+ADB for required clearances for output 2  
+•  procure the solar photovoltaic systems (including installation), 
+• 
+meters, and meter reading system upgrade 
+inspect the solar photovoltaic systems with necessary facilities 
+installed by a contractor  
+install meters at the households 
+• 
+•  collect data from photovoltaic systems and meters 
+• 
+report project progress, status, and information to ADB through 
+DRE 
+ADB 
+Contractors 
+•  undertake regular project reviews and facilitate in implementation 
+of the project including compliance by the executing agency with 
+obligations and responsibilities for project implementation 
+• 
+implement the project in accordance with the design guidelines, 
+and the required safeguards stated in project documents 
+•  support grievance redress mechanism and safeguards 
+implementation 
+Consultants 
+•  provide services in a timely manner 
+ADB  =  Asian  Development  Bank.  BEA  =  Bhutan  Electricity  Authority,  BPC  =  Bhutan  Power  Corporation,                        
+DRE  =  Department  of  Renewable  Energy,  MOEA  =  Ministry  of  Economic  Affairs,      MOF  =  Ministry  of  Finance,             
+PMU = project management unit.                     .  
+Sources: Asian Development Bank and Department of Renewable Energy. 
+B. 
+Key Persons Involved in Implementation 
+Executing Agency and 
+Implementing Agency 
+Department of Renewable 
+Energy 
+Staff name: Phuntsho Namgyal 
+Position: Director  
+Telephone No. +975-2-334826 
+Email address: phuntshonamgyal@moea.gov.bt 
+Staff name: Passang  
+Position: Chief Engineer, Alternate Energy Division 
+Telephone No. +975-2-322709 
+Email address: passang@moea.gov.bt  
+Staff name: Damchu Dema 
+Position: Deputy Executive Engineer  
+Solar Energy Section, Alternate Energy Division 
+Telephone No. +975-2-329831 
+Email address: ddema@moea.gov.bt  
+6  BPC is one of the two IAs, the parent company of which is Druk Holding and Investments (DHI). BPC is owned by 
+MOF through the DHI.  
+6 
+Implementing Agency 
+Bhutan Power Corporation 
+ADB 
+Energy Division, South Asia 
+Department (SARD) 
+Mission Leader 
+Mission Leader 
+Staff name: Sandeep Rai 
+Position: Director, Distribution Services  
+Telephone No. +975-2-333577 
+Email address: sandeeprai@bpc.bt  
+Staff name: Pema Wangchuk  
+Position: Manager, Renewable Energy Division  
+Telephone No. +975-176-70073 
+Email address: pema_wangchuk@bpc.bt  
+Staff name: Mr. Priyantha Wijayatunga 
+Position: Director, Energy Division, SARD 
+Telephone No.: +63 2 8632 6131 
+Email address: pwijayatunga@adb.org 
+Staff Name: Ms. Yoojung Jang 
+Position: Social Development Specialist, Energy Division, 
+SARD 
+Telephone No. +63 2 8683 1978 
+E-mail address: yjang@adb.org 
+Staff Name: Mr. Takayuki Sugimoto 
+Position: Energy Specialist, Energy Division, SARD 
+Telephone No. +63 2 8683 1718 
+E-mail address: tsugimoto@adb.org 
+C. 
+Project Organization Structure 
+7 
+Asian 
+Development 
+Bank (ADB) 
+[Recipient] 
+Ministry of 
+Finance 
+(MOF) 
+Ministry of 
+Economic Affairs 
+(MOEA) 
+Bhutan Electricity 
+Authority (BEA) 
+Project Steering Committee 
+(DRE, MOF, MOEA, BEA and BPC) 
+- General oversight 
+- Decision making 
+- Policy guidance 
+- Approval of reports 
+[EA/IA] 
+Department of 
+Renewable Energy 
+(DRE), MOEA 
+[IA] 
+Bhutan Power 
+Corporation 
+(BPC)a 
+Project Management Unit (PMU) 
+(DRE and BPC) 
+- Project implementation 
+- Contracts (Procurement) 
+- Finance/Accounts 
+- Monitoring 
+a BPC will have an internal project management team which will liaise with PMU.    
+D. 
+Grant Management 
+7. 
+The project will be implemented over a period of 4 years and 3 months from October 2020 
+to December 2024. DRE will be the executing agency of the project, and a project management 
+unit (PMU) will be established at DRE. DRE will also be the implementing agency responsible for 
+outputs 1 and 3, while BPC will be the implementing agency for output 2. DRE will be responsible 
+for disbursement of grant proceeds and preparation of audited project financial statement (APFS) 
+covering  all  interventions.  A  project  steering  committee  led  by  DRE  will  convene  after  project 
+approval with members from MOF, MOEA, BPC, and BEA. A consulting firm will be recruited to 
+support the PMU’s project implementation. In addition, a project implementation analyst will be 
+recruited for ADB’s project supervision, review, and monitoring with the administrative budget7 of 
+JFPR.  Terms  of  References  for  the  consulting  firm  and  an  individual  consultant  have  been 
+developed and attached to the PAM. 
+8. 
+Currently, there are 42 poorest villages identified based on the MPI. To ensure proximity 
+of the target  project  sites, the  42  villages are  categorized  into 4  zones based  on their  locality. 
+During  the  project  Implementation,  the  villages  will  be  further  shortlisted  and  among  4  zones, 
+maximum of 2 will be selected with 10–15 villages for the solar photovoltaic system installation 
+as per the selection criteria such as geographical and atmospheric condition, technical viability 
+7  Administrative budget support of up to 3% of the grant amount may be provided on exceptional circumstances where 
+projects  of  unusual  complexity  would  need  additional  resources  beyond  grant  amount  subject  to  JFPR’s 
+endorsement.  
+8 
+and availability of the telecommunication and other infrastructures. The final selection criteria will 
+be developed based on the site assessments to be carried out during project implementation. In 
+the selected villages, solar photovoltaic systems and energy-based livelihood equipment will be 
+provided.  Solar  photovoltaic  systems  will  be  installed  by  an  engineering,  procurement,  and 
+construction contractor and ownership will be transferred to households. Bi-directional meters will 
+be purchased, installed, and owned by BPC. For implementation of output 3, DRE with support 
+from BPC will develop a curriculum on solar photovoltaic system O&M and deliver the training in 
+consultation with Department of Technical Education (DTE). The trainings will be held at DTE’s 
+or affiliated organization’s facilities around 10 times with 30 trainees per class. The selection of 
+trainees will be based on socio-economic survey conducted during project implementation.  
+A. 
+Cost Estimates and Financing Plan 
+IV. 
+COSTS AND FINANCING 
+9. 
+The estimated project cost is $3.5 million equivalent (Table 4), of which $3 million will be 
+financed on a grant basis by JFPR8 to be administered by ADB.9 Government counterpart support 
+of $0.5 million will be in the form of counterpart staff, office space and equipment for the PMU, 
+meeting venues, access to data and information, staff time to review outputs of consultants and 
+periodic field visits, tax exemption, and other in-kind contributions. 
+Table 4: Cost Estimates 
+Item 
+A. Base Costb 
+1.  Regulatory requirements for alternative renewable 
+energy identified and a tariff structure for 
+residential solar photovoltaic system prepared  
+2.  Small-scale solar photovoltaic system pilot tested 
+3.  Energy-based livelihood skills enhanced 
+Subtotal (A) 
+B. Contingenciesc 
+Total (A+B) 
+C. Administrative Budget Supportd 
+Amounta 
+($ million) 
+Share of Total  
+(%) 
+0.81 
+2.21 
+0.28 
+3.30 
+0.20 
+3.50 
+0.09 
+23.2 
+63.1 
+8.0 
+94.4 
+5.7 
+  100.0 
+a The Asian Development Bank will not finance any taxes and duties imposed in Bhutan. Income withholding tax will 
+not  be  excluded  from  financing  under  this  grant  as  guided  in  the  ADB  Loan  Disbursement  Handbook,  (2017,  as 
+amended from time to time). 
+b  In end-2019 prices as of April 2020. 
+c  Maximum of 10% of the total project cost.    
+d  Includes  renumeration  for  a  project  implementation  analyst  and  activities  for  implementation  support,  review  and 
+monitoring.  This  additional  budget  support  provided  by  JFPR  for  grant  implementation  is  exclusive  of  the  grant 
+amount.  
+Source: Asian Development Bank estimates. 
+The  Japan  Fund  for  Poverty  Reduction  will  provide  grant  financing  equivalent  to              
+10. 
+$3.0 million, to be administered by ADB.  
+The financing plan is in Table 5. The government has assured ADB that it will cover any 
+11. 
+shortfall in financing required to meet the agreed outputs.  
+8  JFPR is the funding source of the project and it was approved by the Government of Japan on 20 August 2020. 
+9 An additional budget support of $90,000 is to be provided by JFPR for grant implementation, which is exclusive of the 
+grant amount. The administrative budget support is not included in the project cost of $3.5 million. 
+Table 5: Financing Plan 
+9 
+Source 
+Japan Fund for Poverty Reductiona 
+Governmentb 
+Total 
+a Administered by the Asian Development Bank.  
+b in-kind contribution. 
+Source: Asian Development Bank estimates. 
+Amount 
+($ million) 
+3.0 
+0.5 
+3.5 
+Share of Total  
+(%) 
+85.7 
+14.3 
+100.0 
+12. 
+JFPR  will  finance  eligible  expenditures  in  relation  to  the  mechanical  and  equipment, 
+consulting service, training, and workshop. JFPR will not finance ineligible expenditures such as 
+academic research, purchase of vehicles for project administration, salaries for civil servants, and 
+foreign  travel,  scholarships  or  long  internships,  and  detailed  engineering.  RGOB  will  provide         
+in-kind counterpart support, through executing agency and implementing agencies, in the form of 
+project management (including project audit costs) and remuneration of counterpart staff, office 
+space, furniture and equipment, general purpose vehicles for the project management unit, tax 
+exemption and other required in-kind contributions for implementation. 
+13. 
+Administrative budget support. The project needs additional resources beyond those 
+provided  by  the  regular  administration  budget  considering  the  complexity  of  the  project 
+implementation. A project implementation analyst will be recruited for ADB’s project supervision, 
+review, and monitoring. The detailed cost is provided in Table 6 for this purpose. Administrative 
+budget  support  will  be  financed  from  the  JFPR  administrative  budget  separately,  not  from  the 
+project grant of $3 million. 
+Table 6: Administrative Budget Support Details  
+Administrative Budget Support 
+Total amount requested  
+Justification 
+Details 
+interventions  with                            
+project 
+various 
+includes 
+$90,000 
+The 
+5 procurement packages. Checking invoices and withdrawal 
+applications  will  occupy  substantial  working  hours.  In 
+addition,  livelihood  skills  enhancement  activities  required 
+lots  of  administrative  work  including  organizing  workshops 
+from  ADB  as  well  as  executing  agency  and  implementing 
+agencies. Due to remoteness and geographical hardness of 
+the project sites, working days required for review mission 
+would be longer than other projects, which needs teamwork 
+and  support  from  the  consultant.  BHRM  has  grown  since 
+2017 and established working units including a finance and 
+administration unit, an economic and knowledge unit, and a 
+project administration unit. However, it is still under-staffed 
+to  digest  required  workload  and  address  requests  from 
+project stakeholders.   
+Type of work to be rendered by ADB 
+In close coordination with the ADB project officer, executing 
+agency,  implementing  agencies,  and  consulting  firm,  the 
+consultant will oversee the grant’s financial transactions and 
+maintain a financial management system in a manner that is 
+compliant with generally accepted accounting principles and 
+harmonized  with  ADB’s  policies  and  procedures  in  close 
+coordination with concerned officers within ADB (e.g. SDPF, 
+CTL, PPFD). The consultant will report to the ADB project 
+10 
+ADB = Asian Development Bank, PAM = project administration manual, TOR = Terms of Reference.  
+Source: Asian Development Bank estimates. 
+officer, on an intermittent bases, and will report for work to 
+ADB. The TOR is attached in the Appendix 3 of the PAM.  
+11 
+Table 7: Cost Estimate of Administrative Budget Support 
+Expenditure Category 
+Quantity 
+Unit Cost 
+Total 
+A project implementation analyst (International/national staff consultant) 
+Remuneration 
+(22 days/month, 3 months/year, 4 years) 
+Travel Expenses 
+(4 review and 1 project completion missions, 5 
+days/mission)  
+Communication 
+(Lumpsum) 
+Insurance 
+(30 days/month, 4 years)  
+Contingency 
+Total Cost 
+264 Days 
+$220 
+$58,080 
+5 Times 
+$5,890 
+$29,450 
+1 Time  
+$500 
+$500 
+1,440 Days 
+$0.84 
+$1,210 
+1 
+$760 
+$760 
+$90,000 
+B. 
+Allocation and Withdrawal of Grant Proceeds 
+Table 8: Allocation and Withdrawal of Grant Proceeds 
+CATEGORY 
+ADB FINACING BASIS 
+Number 
+Item 
+1 
+2 
+3 
+4 
+5 
+Equipment 
+Training 
+Consulting service 
+Capacity Developmentb   
+Unallocated 
+Total 
+Amount 
+Allocated for 
+ADB Financing  
+($ million) 
+1.99 
+0.19 
+0.59 
+0.03 
+0.20 
+3.00 
+Percentage and Basis for Withdrawal 
+from the Grant Accounta 
+100% of total expenditure claimed 
+100% of total expenditure claimed 
+100% of total expenditure claimed 
+100% of total expenditure claimed 
+a   Exclusive of taxes and duties imposed within the territory of the recipient. 
+b  It includes costs related to workshops, seminars, and meetings of executing agency and implementing agencies 
+with major stakeholders.  
+ADB = Asian Development Bank. 
+Source: Asian Development Bank estimates. 
+12 
+C. 
+Detailed Cost Estimates by Financier 
+Table 9: Detailed Cost Estimate by Financier 
+($ million)
+Note: In mid-2019 prices. Numbers may not sum precisely because of rounding.  
+Source: Asian Development Bank estimates. 
+D. 
+Detailed Cost Estimates by Outputs 
+Table 10: Detailed Cost Estimate by Outputs 
+($ million) 
+13 
+Note: In mid-2019 prices. Numbers may not sum precisely because of rounding.  
+Source: Asian Development Bank estimates. 
+14 
+E. 
+Estimated Disbursement Schedule by Year 
+Table 11: Estimated disbursement schedule by year 
+Fiscal Year (FY) 
+FY2020 
+FY2021 
+FY2022 
+FY2023 
+FY2024 
+Total Disbursements 
+Source: Asian Development Bank estimates. 
+F. 
+Contract and Disbursement S-Curve 
+Amount ($) 
+79,000 
+360,000 
+1,283,000 
+843,000 
+435,000 
+3,000,000 
+Figure 1-1. Contract Award and Disbursement Projections 
+3.50
+3.00
+2.50
+2.00
+1.50
+1.00
+0.50
+0.00
+2020
+2021
+2022
+2023
+2024
+Contract Award
+Disbursement
+15 
+G. 
+Funds Flow Diagram 
+Asian Development Bank 
+Withdrawal 
+Applications 
+Advance Fund 
+[Recipient] 
+Dept. of Macroeconomic 
+Affairs (DMEA) 
+Ministry of Finance (MOF) a 
+Direct 
+Payment 
+Commitment 
+Reimbursement 
+Withdrawal 
+Applications 
+Advance Fund 
+[Conduit] 
+Dept. of Public Accounts 
+(DPA), MOFb 
+Advance Fund/ 
+ Reimbursement  
+[EA/IA] 
+Department of Renewable Energy (DRE)c 
+Invoices 
+/ Claims 
+[IA] 
+Bhutan Power 
+Corporation (BPC) 
+Invoices / Claims 
+Contractors’ / 
+Suppliers’ / 
+Consultants’ Bank 
+Fund Flow 
+Document Flow 
+Contractors / Suppliers / Consultants 
+a An advance account is opened and managed by DMEA, MOF. 
+b It is a pass-through account managed by DPA, MOF. 
+c A project account is opened and managed by DRE.  
+V. 
+FINANCIAL MANAGEMENT10 
+14. 
+The  financial  management  assessment  (FMA)  was  conducted  in  November  2019 
+following  ADB’s  Guidelines  for  the  Financial  Management  and  Analysis  of  Projects  (2005), 
+Financial  Due  Diligence  Methodology  Note  (2009),  and  Financial  Management  Technical 
+Guidance  Note  (2015).11 The FMA considered the  capacity  of  DRE  and BPC  as implementing 
+agencies including funds flow arrangements, staffing, accounting and financial reporting systems, 
+financial information systems, and internal and external auditing arrangements.  
+15. 
+DRE,  a  department  under  MOEA,  Bhutan  has  the  mandate  to  serve  as  the  central 
+coordination  agency  and  the  focal  point  of  RGOB  on  all  matters  related  to  renewable  energy 
+10 Refer to the Technical Guidance Notes for Financial Management: http://www.adb.org/projects/operations/financial-
+management-resources. 
+11 ADB.  2005.  Financial  Management  and  Analysis  of  Projects.  Manila;  ADB.  2009.  Financial  Due  Diligence:                        
+A Methodology Note. Manila; ADB. 2015. Financial Management Technical Guidance Note. Manila.   
+16 
+development. DRE is classified as general government sector units (GGSU), which are primarily 
+engaged in nonmarket operations (e.g., ministries and departments). Following the guideline, for 
+GGSUs,  the  proposed  financial  management  arrangements  would  tend  to  adopt  the  country’s 
+Public Financial Management (PFM) arrangements. 
+16. 
+BPC  has  the  mandate  of  distributing  electricity  throughout  the  country,  transmission 
+access for generating stations for domestic supply and exports, and acts as the system operator. 
+It purchases power generated by the Druk Green Power Corporation (DGPC) and sells the power 
+to its customers through its transmission and distribution network. BPC, as a public corporation, 
+its own financial management arrangements are assessed.  
+Strengths.  Based  on  the  assessment,  DRE  and  BPC’s  financial  management  has  the 
+17. 
+following strengths and no significant weakness are identified:  
+BPC 
+(i)  Has significant experience in managing externally financed projects including ADB-funded 
+projects and has qualified personnel who are familiar with the requirements for reporting, 
+financial management and disbursement of ADB projects. 
+(ii)  Has good corporate governance, complied with the statutory provision and proper board 
+processes and compliance mechanism in place. 
+(iii) Fixed  asset  and  inventory  register  are  properly  maintained  in  Enterprise  Resource 
+Planning (ERP) system and the assets have been physically verified by the management 
+in a phased/periodical manner. 
+(iv) Robust risk management and internal control framework is in place. 
+(v)  Effective human resource management by the management and board is in place based 
+on strong manpower. 
+(vi) Adequate and effective IT access management in the financial reporting process and ERP 
+is fully functional. 
+DRE 
+(i)  Has experience in managing externally financed projects including ADB-funded projects 
+and has qualified personnel who are familiar with the requirements for reporting, financial 
+management and disbursement of ADB projects. 
+(ii)  Equipped  with  effective  financial  reporting  and  monitoring  system  using  a  web-based 
+government-wide software which is Public Expenditure Management System (PEMS). 
+(iii) Finance section is staffed with qualified and experienced accountants. 
+(iv) Effective budgetary planning and control are in place. 
+(v)  Has improved transparency and government service through online grievance redressal 
+system called “eKaaSel”. 
+(vi) Robust external audit system and well-established supreme audit institution exists. 
+18. 
+The FMA reviewed two types of risks: (i) inherent risks (risks outside the direct control of 
+the  DRE  and  BPC  financial  management)  and  (ii)  control  risks  (risk  concerning  the  internal 
+functioning  and  control  of  the  DRE  and  BPC’s  finance  and  accounting  section).  Based  on  the 
+assessment,  no  specific  risks  are  identified  to  hamper  the  achievement  of  project  outcomes 
+and/or  outputs  and  hinder  effective  project  implementation.  Therefore,  it  is  concluded  that  the 
+overall pre-mitigation financial management risk of DRE and BPC is moderate.  
+Table 12: Financial Management and Internal Control Risk Assessment (DRE)  
+17 
+Risk description 
+Inherent risks 
+The  2016  Public  Expenditure  and 
+assessment 
+Financial  Accountability 
+indicates that the country has made good 
+progress 
+the  previous 
+assessment  in  2010.  The  PFM  reforms 
+are, however, still incomplete. If progress 
+in  national  PFM 
+line 
+ministries  will  also  be  affected,  and  the 
+PFM  performance  in  the  project  may  be 
+lower than expected. 
+in  PFM  since 
+reforms  stall, 
+Executing and/or Implementing 
+Entities 
+Overall Inherent Risk Rating 
+Control risks 
+Funds Flow 
+The government has issues with timely 
+release of counterpart funds in other 
+donor funded projects and this 
+experience may be repeated with this 
+project. 
+Staffing 
+MOEA/DRE will depute full-time accounts 
+officer for this project, but all government 
+accounting staff are centrally recruited 
+and frequently rotated across ministries. 
+Continuity in project management 
+support may be disrupted if movement of 
+account staff assigned to the project are 
+frequent and delay project 
+implementation. 
+Accounting Policies and Procedures 
+DRE prepares its accounts based on 
+2016 Financial Rules and Regulations. 
+These rules incorporate the latest trends 
+in finance & accounts and are in line with 
+the computerized Multi-year Rolling 
+Budgets (MYRBS) and PEMS software. 
+Internal Audit 
+There is an internal audit unit with 3 
+auditors, but additional manpower is 
+required for the project to have proper 
+recording.  
+Risk Rating 
+Risk Mitigation Measures 
+Moderate 
+Low 
+Low 
+Low 
+Moderate 
+Low 
+While the country PFM systems 
+are more robust than comparable 
+countries, implementation of PFM 
+Reforms Strategy 2017–2021 is 
+still underway. 
+The Royal Government of 
+Bhutan, with World Bank support, 
+is expected to establish a multi-
+donor trust fund to support PFM 
+reform program., Implementation 
+progress will be monitored closely 
+by the World Bank. ADB will 
+closely coordinate with DRE to 
+discuss emerging issues. 
+DRE has good track record of 
+implementing the projects from 
+ADB and other multilateral donor 
+agencies. 
+Government counterpart support 
+in this project will be in-kind and 
+in the form of counterpart staff, 
+and administrative support to 
+avoid any potential delays in 
+counterpart financing.  
+There is a clear and systematic 
+way of handing/taking overs that 
+needs to be undertaken between 
+the incoming and the moving out 
+accounts officer. Also, the 
+incoming finance personnel have 
+similar experience to the 
+transferred personnel and as 
+such there are no major issues 
+envisaged. 
+The DRE maintains the project 
+related data in MYRBS and 
+PEMS software.  
+Moderate 
+DRE will engage a consultant for 
+proper accounting and 
+documentation.  
+18 
+Risk description 
+External Audit 
+Compliance Risk—Audit requirements 
+are not fully complied with due to external 
+auditor’s limited understanding of ADB’s 
+requirements.  
+Risk Rating 
+Moderate 
+Reporting and Monitoring/Information 
+System 
+MOEA uses PEMS for preparation of 
+financial statement. The PEMS is a web-
+based government-wide system for 
+financial reporting and monitoring, but 
+PEMS cannot generate customized 
+financial reports for donor funded 
+projects. 
+Overall Control Risk 
+Moderate 
+Moderate 
+Risk Mitigation Measures 
+Royal Audit Authority (RAA) has a 
+good understanding of audit 
+requirements for donor-funded 
+projects. It provides audit reports 
+for certification of donor-assisted 
+projects implemented by various 
+agencies, both budgetary and 
+non-budgetary. However, an 
+update on ADB’s requirements 
+would be beneficial for RAA’s 
+staff. 
+The PEMS will be used for the 
+accounting purposes for the 
+project, but financial data will be 
+transferred to Microsoft Excel 
+sheet to generate reports. 
+ADB = Asian Development Bank, DRE = Department of Renewable Energy, MOEA = Ministry of Economic Affairs, 
+PEMS = Public Expenditure and Financial Accountability, PFM = Public Financial Management. 
+Table 13: Financial Management and Internal Control Risk Assessment (BPC) 
+ Risk Type 
+1. Implementing 
+Risk Rating 
+Moderate 
+Risk Description 
+No significant risk 
+entities 
+2. Funds Flow 
+Moderate 
+No significant risk 
+3. Staffing  
+Moderate 
+No significant risk 
+4. Accounting 
+Policies and 
+Procedures 
+Moderate 
+No significant risk 
+5. Internal Audit 
+Moderate 
+6. External Audit 
+Moderate 
+BPC has a strong Internal Audit 
+Department, which is headed by a 
+qualified accountant, reports to the 
+audit committee. 
+RAA appoints an external auditor 
+from its panel to audit BPC on an 
+annual basis. However, ADB 
+Risk Mitigation Measures 
+BPC has good track record of 
+implementing the Rural 
+Renewable Energy 
+Development Project. 
+BPC is familiar with the ADB 
+procedures through the 
+previous project. Fund from 
+ADB is managed primarily by 
+direct payments. 
+BPC has experienced staff in 
+all project executing 
+departments led by General 
+Manager such as 
+Transmission, Distribution 
+Department etc.  
+Accounting policies and 
+procedures are in place 
+based on international best 
+practice and are also being 
+implemented. 
+The internal audit committee 
+will also periodically audit the 
+activities. 
+PAM includes detailed audit 
+requirements.  
+ Risk Type 
+Risk Rating 
+Risk Description 
+specific audit requirements will be 
+communicated to the auditor if any. 
+No significant risk 
+Moderate 
+Moderate 
+No significant risk 
+7. Reporting and 
+Monitoring 
+8. Information 
+Systems 
+19 
+Risk Mitigation Measures 
+BPC has experienced set of 
+staff. 
+An integrated computerized 
+system has already been 
+introduced.  Continuous 
+training in the use of the ERP 
+by BPC has been provided to 
+concerned staff.  
+Overall Control 
+Risk 
+Moderate 
+ADB = Asian Development Bank, BPC= Bhutan Power Corporation, ERP = enterprise resource system, PAM = project 
+administration manual, RAA = Royal Audit Authority.  
+19. 
+DRE together with BPC and ADB have agreed on an action plan to address the following 
+issues that the financial management assessment identified. The financial management action 
+plan is provided in Table 14. 
+Table 14. Financial Management Action Plan  
+Key Risk 
+Delays in release of funds 
+Lack of dedicated financial 
+management staffs may result in 
+delays in execution of project’s 
+related activities. 
+Timely monitoring of project and 
+addressing issue 
+Documentation for adequate 
+internal audit may not be 
+conducted. 
+Description 
+MOF will release funds for 
+project activities within 5 
+working days upon receiving 
+request from the MOEA-DRE. 
+Appoint adequate staffs in 
+PMU for implementation of 
+this project. 
+DRE, executing agency, will 
+develop quarterly physical 
+and financial targets for the 
+project with respect to 
+activities to be undertaken 
+and budget required.  
+Submit regular progress 
+reports to ADB including 
+financial progress. 
+There will be a consultant 
+under the consulting firm to 
+be hired by DRE for proper 
+accounting and 
+documentation. 
+Timeline 
+Within 5 
+working days 
+upon receipt 
+of request 
+from the 
+MOEA-DRE 
+Before grant 
+negotiation 
+Responsibility 
+MOF 
+MOEA, DRE 
+Quarterly 
+DRE 
+Hiring a 
+consulting firm 
+in 2020.  
+DRE 
+ADB = Asian Development Bank, DRE = Department of Renewable Energy, MOEA = Ministry of Economic Affairs, 
+MOF = Ministry of Finance, PAM = project administration manual. 
+20 
+A. 
+Disbursement 
+The JFPR grant proceeds will be disbursed in accordance with ADB’s Loan Disbursement 
+20. 
+Handbook  (2017,  as  amended  from  time  to  time),12 and  detailed  arrangements  agreed  upon 
+between the government and ADB.  
+Online  training  for  project  staff  on  disbursement  policies  and  procedures  is  available.13 
+21. 
+Project  staff  are  encouraged  to  avail  of  this  training  to  help  ensure  efficient  disbursement  and 
+fiduciary control. 
+22. 
+Advance  fund  procedure.  The  advance  account  will  be  opened  and  managed  by 
+Department of Macroeconomic Affairs (DMEA), MOF. The currency of the advance account will 
+be dollar. A signed withdrawal application for the advance account will be submitted to ADB by 
+DRE  through  DMEA.  The  advance  fund  will  be  converted  to  local  currency  and  transferred  to 
+DRE’s  sub-account  through  a  conduit  account  of  Department  of  Public  Accounts  (DPA),  MOF 
+upon DRE’s request. It will take 3–5 working days for the fund to pass through the conduit account. 
+In  case  of  reimbursement,  the  fund  will  be  transferred  by  ADB  to  the  Borrower’s  nominated 
+account indicated on the withdrawal application. All withdrawal applications and payments under 
+the project will be initiated by DRE. For expenses under output 2, BPC will verify and forward the 
+invoices from consultants and contractors to DRE for payment. 
+23. 
+The total outstanding advance to the advance account should not exceed the estimate of 
+JFPR’s  share  of  expenditures  to  be  paid  through  the  advance  account  for  the  forthcoming                
+6 months. DRE may request for initial and additional advances to the advance account based on 
+an estimate of expenditure sheet14 setting out the estimated expenditures to be financed through 
+the account for the forthcoming 6 months. Supporting documents should be submitted to ADB or 
+retained by DRE in accordance with ADB’s Loan Disbursement Handbook (2017, as amended 
+from time to time) when liquidating or replenishing the advance account. 
+Statement  of  expenditure  (SOE)  procedure.15 The  SOE  procedure  may  be  used  for 
+24. 
+reimbursement of eligible expenditures or liquidation of advances to the advance account.  The 
+ceiling of the SOE procedure is the equivalent of $100,000 per individual payment.  Supporting 
+documents  and records for  the  expenditures  claimed  under  the  SOE  should  be maintained  by 
+DRE and made readily available for review by ADB's disbursement and review missions, upon 
+ADB's request for submission of supporting documents on a sampling basis, and for independent 
+audit. Reimbursement and liquidation of individual payments more than the SOE ceiling should 
+be supported by full documentation when submitting the withdrawal application to ADB. 
+25. 
+Before the submission of the first withdrawal application, the borrower should submit to 
+ADB enough evidence of the authority of the person(s) who will sign the withdrawal applications 
+on  behalf  of  the  government,  together  with  the  authenticated  specimen  signatures  of  each 
+authorized  person.  The  minimum  value  per  withdrawal  application  is  US$20,000  equivalent.  
+Individual payments below this amount should be paid: (i) by DRE and subsequently claimed to 
+ADB  through  reimbursement  or  (ii)  through  the  advance  fund  procedure,  unless  otherwise 
+accepted by ADB. 
+12 Available at http://www.adb.org/Documents/Handbooks/Loan_Disbursement/loan-disbursement-final.pdf. 
+13 Disbursement eLearning. http://wpqr4.adb.org/disbursement_elearning. 
+14 See 8A of ADB’s Loan Disbursement Handbook (2017, as amended from time to time). 
+15 SOE forms are available in Appendix 7B, 7D, or 10B of ADB’s Loan Disbursement Handbook (2017, as amended 
+from time to time). 
+21 
+B. 
+Accounting 
+26. 
+DRE  will  maintain,  or  cause  to  be  maintained,  separate  books  and  records  by  funding 
+source for all expenditures incurred on the project by adopting the cash-based accounting system 
+following the government’s financial regulations.  DRE will prepare consolidated project financial 
+statements  in  accordance  with  the  government's  accounting  laws  and  regulations,  which  are 
+consistent with international accounting principles and practices.  
+C. 
+Auditing and Public Disclosure 
+27. 
+DRE  will  cause  the  detailed  consolidated  project  financial  statements  to  be  audited  in 
+accordance with the International Standards for Supreme Audit Institutions, by an independent 
+auditor  acceptable to ADB.  It  is  proposed  that, there  will  be  a  project  account created  only  by 
+DRE. As such one audited project financial statement (APFS) covering entire project interventions 
+will  be  prepared  and  submitted  to  ADB.  The  audit  of  the  project  financial  statements  will  be 
+conducted by the Royal Audit Authority (RAA). The audited project financial statements together 
+with the auditors’ opinion will be submitted in the English language to ADB within 6 months of the 
+end of each fiscal year by the DRE.  
+28. 
+BPC  will  cause  the  entity-level  financial  statements  to  be  audited  in  accordance  with 
+International Standards for Supreme Audit Institutions, by an independent auditor acceptable to 
+ADB.  The  audited  entity-level  financial  statements,  together  with  the  auditors’  report  and 
+management  letter,  will  be  submitted  in  the  English  language  to  ADB  within  1  month  after 
+approval, but no later than 6 months from the end of each fiscal year, by the relevant authority.  
+29. 
+The annual audit report for the project accounts will include an audit management letter 
+and audit opinions which cover: (i) whether the project financial statements present a true and fair 
+view or are presented fairly, in all material respects, in accordance with the applicable financial 
+reporting framework; (ii) whether loan and grant proceeds were used only for the purposes of the 
+project or not; and (iii) the level of compliance for each financial covenant contained in the legal 
+agreements for the project. 
+Compliance with financial reporting and auditing requirements will be monitored by review 
+30. 
+missions and during normal program supervision, and followed up regularly with all concerned, 
+including the external auditor.  
+The  government  and  DRE  have  been  made  aware  of  ADB’s  approach  to  delayed 
+31. 
+submission, and the requirements for satisfactory and acceptable quality of the audited project 
+financial  statements.16 ADB  reserves  the  right  to  require  a  change  in  the  auditor  (in  a  manner 
+consistent with the constitution of the borrower), or for additional support to be provided to the 
+16 ADB approach and procedures regarding delayed submission of audited project financial statements:  
+(i)  When audited project financial statements are not received by the due date, ADB will write to the executing 
+agency  advising  that:  (i)  the  audit documents  are  overdue; and  (ii) if  they  are  not  received  within  the next             
+6  months,  requests  for  new  contract  awards  and  disbursement  such  as  new  replenishment  of  advance 
+accounts, processing of new reimbursement, and issuance of new commitment letters will not be processed. 
+(ii)  When audited project financial statements have not been received within 6 months after the due date, ADB 
+will withhold processing of requests for new contract awards and disbursement such as new replenishment of 
+advance  accounts,  processing  of  new  reimbursement,  and  issuance  of  new  commitment  letters.  ADB  will                               
+(i) inform the executing agency of ADB’s actions, and (ii) advise that the loan may be suspended if the audit 
+documents are not received within the next 6 months. 
+(iii)  When audited project financial statements have not been received within 12 months after the due date, ADB 
+may suspend the loan. 
+22 
+auditor, if the audits required are not conducted in a manner satisfactory to ADB, or if the audits 
+are  substantially  delayed.  ADB  reserves  the  right  to  verify  the  project’s  financial  accounts  to 
+confirm  that  the  share  of  ADB’s  financing  is  used  in  accordance  with  ADB’s  policies  and 
+procedures.  
+32. 
+Public  disclosure  of  the  project  financial  statements,  including  the  audit  report  on  the 
+project financial statements, will be guided by ADB’s Access to Information Policy (2018).17 After 
+review, ADB will disclose the project financial statements for the project and the opinion of the 
+auditors on the financial statements within 14 calendar days of the date of their acceptance by 
+posting them on ADB’s website. The audit management letter will not be disclosed. 
+VI. 
+PROCUREMENT AND CONSULTING SERVICES 
+A. 
+Advance Contracting and Retroactive Financing18 
+33. 
+All  advance  contracting  and  retroactive  financing  will  be  undertaken  in  conformity  with 
+ADB’s Procurement Policy (2017, as amended from time to time)19 and Procurement Regulations 
+for ADB’s Borrowers (2017, as amended from time to time).20  The issuance of invitations to bid 
+under  advance  contracting  and  retroactive  financing  will  be  subject  to  ADB  approval.  The 
+recipient, DRE and BPC have been advised that approval of advance contracting and retroactive 
+financing does not commit ADB to finance the project. 
+Advance  contracting.  To  expedite  project 
+34. 
+the 
+government’s  request  for  advance  contracting  actions  for  procurement  of  goods,  works  and 
+consulting services. The steps to be concluded in advance includes: (i) recruitment of consultants; 
+and (ii) preparation of tender documents, inviting and receiving bids for contract packages, and 
+awarding contracts. 
+implementation,  ADB  endorsed 
+Retroactive  financing.  ADB  also  endorsed  the  government’s  request  for  retroactive 
+35. 
+financing for the eligible expenditures up to $600,000, the equivalent of 20% of the total grant, 
+incurred before grant effectiveness, but not more than 12 months before the signing of the grant 
+agreement.  
+B. 
+Procurement of Goods, Works, and Consulting Services 
+36. 
+All procurement of goods, works and consulting service will be undertaken in accordance 
+with ADB’s Procurement Policy (2017, as amended from time to time). An 18-month procurement 
+plan indicating review procedures, goods, works, and consulting service contract packages is in 
+section C.  
+Open competitive bidding (OCB) procedures will be used for the procurement of goods, 
+37. 
+works and consulting service, except for direct contracting procedure for the bi-directional meters 
+and update of existing meter-reading software. Entire OCB process only for 300 meters is less 
+efficient, because less competition is expected. Also, the update of the existing software should 
+be done by its original supplier due to requirement for the integration with the current system. In 
+17 Available at https://www.adb.org/documents/access-information-policy. 
+18 Prior approval on the use of advance contracting and retroactive financing must be obtained from the management.   
+19 Available at https://www.adb.org/documents/adb-procurement-policy. 
+20 Available at https://www.adb.org/documents/procurement-regulations-adb-borrowers. 
+23 
+addition, request for quotation procedure will be used for energy-based livelihood equipment. The 
+strategic procurement plan has been prepared with details of the procurement options.    
+38. 
+The terms of reference for all consulting services are detailed in section D. A consulting 
+firm will be engaged requiring an estimated 77.5 person-months (25 international, 52.5 national) 
+input to: (i) study regulatory requirements for alternative renewable energy and prepare a tariff 
+structure  for  residential  solar  photovoltaic  systems;  (ii)  support  the  executing/implementing 
+agency in technical adequacy assessment and small-scale photovoltaic system installation; (iii) 
+undertake an awareness campaign on the benefits of the solar photovoltaic system and safe and 
+efficient use of energy including socio-economic baseline data collection; (iv) make record of the 
+project  progress  and  achievement;  and  (v)  assist  PMU  in  implementation  of  the  project.  
+Consulting firms will be engaged using the quality and cost-based selection (QCBS) method with 
+a quality-cost ratio of 90:10.  
+C. 
+Procurement Plan 
+Project Name: Alternative Renewable Energy Pilot Project 
+Project Number: 53365-001 
+Approval Number: G9211 
+Basic Data 
+Country: Bhutan 
+Procurement Risk: Low 
+Project Financing Amount: $3.5 million   
+ADB Financing: $0 
+Cofinancing (ADB Administered): $3 million   
+Non-ADB Financing: $0.5 million (in-kind support) 
+Date of First Procurement Plan: 21 October 2020 
+Executing Agency: Department of Renewable 
+Energy, Ministry of Economic Affairs 
+Implementing Agency: Department of 
+Renewable Energy, Ministry of Economic 
+Affairs; and Bhutan Power Corporation 
+Limited 
+Project Closing Date: 31 December 2024 
+Date of this Procurement Plan: 21 October 
+2020 
+Procurement Plan Duration: 18 months 
+Advance contracting: yes 
+eGP: no 
+ADB = Asian Development Bank. 
+D. 
+Methods, Review and Procurement Plan 
+39. 
+Except  as  the  Asian  Development  Bank  (ADB)  may  otherwise  agree,  the  following 
+methods  shall  apply  to  procurement  of  goods,  works,  nonconsulting  services,  and  consulting 
+services.  
+Procurement of Goods, Works, and Nonconsulting Services  
+Comments 
+Method 
+Open competitive bidding (OCB) with international 
+advertising for goods 
+Request for quotation for goods 
+As there are not many contractors for solar 
+photovoltaic systems within the country, 
+international advertising is warranted. 
+For energy-based livelihood equipment, ready-
+made products can be purchased from local 
+market. There are several well-known 
+suppliers in the country. 
+24 
+Direct contracting for goods 
+For electric meters, entire OCB process is less 
+efficient, because less competition is expected 
+for this small amount of package. 
+For the update of the existing software, it 
+should be done by the original supplier due to 
+technical requirements. 
+Method 
+Comments 
+Consulting Services 
+Open competitive bidding with international 
+advertising, using quality- and cost-based selection 
+for consulting services 
+One consulting firm is required to conduct a 
+study and to assist the executing/implementing 
+agency’s implementation. International 
+advertising is warranted. 
+E. 
+List of Active Procurement Packages (Contracts) 
+The following table lists goods, works, nonconsulting, and consulting services contracts 
+40. 
+for  which  the  procurement  activity  is  either  ongoing  or  expected  to  commence  within  the 
+procurement plan’s duration. 
+Goods, Works, and Nonconsulting Services 
+Procureme
+Package 
+nt Method 
+Number 
+OCB 
+1 
+Estimated 
+Value ($) 
+1,655,500 
+General 
+Description 
+Supply and 
+installation of 
+solar 
+photovoltaic 
+systems 
+including 
+remote 
+monitoring 
+device 
+Review 
+Prior 
+Bidding 
+Procedure 
+1S2E 
+Advertisement 
+Date 
+Q2 2021 
+2 
+3 
+Supply of bi-
+directional 
+electric 
+meters with 
+modem 
+99,330 
+Direct 
+contractin
+g 
+Prior 
+Q4 2020 
+Update of 
+existing 
+software for 
+metering 
+25,000 
+Direct 
+contractin
+g 
+Prior 
+Q4 2020 
+Comments 
+Advertising: 
+International 
+Prequalification 
+of bidders: No 
+Domestic 
+preference: No 
+Bidding 
+documents: 
+Goods 
+Advance 
+contracting: Yes 
+E-procurement: 
+No 
+Bidding 
+documents: 
+Goods 
+Advance 
+contracting: Yes 
+E-procurement: 
+No 
+Bidding 
+documents: 
+Goods 
+Advance 
+25 
+contracting: Yes 
+E-procurement: 
+No 
+Bidding 
+documents: 
+Goods 
+Advance 
+contracting: Yes 
+E-procurement: 
+No 
+Comments 
+Quality-Cost 
+Ratio: 90:10 
+Advertising: 
+International 
+Advance 
+contracting: Yes 
+E-procurement: 
+No 
+4 
+Supply of 
+energy-based 
+livelihood 
+equipment 
+30,000 
+Request 
+for 
+Quotation 
+Prior 
+Q3 2021 
+            1S2E = single-stage-two-envelope, OCB = open competitive bidding, Q = quarter. 
+Estimated 
+Value ($) 
+$ 590,000 
+Selection 
+Method 
+QCBS 
+Review 
+Prior 
+Type of 
+Proposal 
+STP 
+Advertisement 
+Date 
+Q4 2020 
+Consulting Services 
+General 
+Package 
+Description 
+Number 
+5 
+(i) Study 
+regulatory 
+requirements 
+and prepare 
+a tariff 
+structure for 
+photovoltaic 
+systems. 
+(ii) Support of 
+technical 
+adequacy 
+assessment. 
+(iii) 
+Awareness 
+campaign 
+and baseline 
+data 
+collection. 
+(iv) Make 
+record of 
+project 
+progress, 
+challenges, 
+and 
+achievement. 
+(v) Assist 
+PMU in 
+project 
+implementati
+on. 
+Q = quarter, QCBS = quality- and cost-based selection, STP = simplified technical proposal. 
+F. 
+List of Indicative Packages (Contracts) Required under the Project 
+The following table lists goods, works, nonconsulting, and consulting services contracts 
+41. 
+for  which  the  procurement  activity  is  expected  to  commence  beyond  the  procurement  plan 
+26 
+duration and over the life of the project (i.e. those expected beyond the current procurement plan’s 
+duration). 
+Goods, Works, and Nonconsulting Services 
+Package 
+Number 
+[None] 
+General Description 
+Estimated 
+Value ($) 
+Procurem
+ent 
+Method 
+Revie
+w 
+Bidding 
+Procedur
+e 
+Comments 
+Consulting Services 
+Packag
+e 
+Number 
+[None] 
+General Description 
+Estimated 
+Value ($) 
+Selection 
+Method 
+Revie
+w 
+Type of 
+Proposal 
+Comments 
+G. 
+List of Awarded and Completed Contracts  
+The following table lists the awarded contracts and completed contracts for goods, works, 
+42. 
+non-consulting, and consulting services. 
+Goods, Works and Nonconsulting Services  
+Package 
+Number 
+General 
+Description 
+Contract 
+Value 
+Date of ADB 
+Approval of Contract 
+Award 
+Date of 
+Completion 
+Comments 
+[None] 
+ADB = Asian Development Bank. 
+Consulting Services 
+Package 
+Number 
+General 
+Description 
+Contract 
+Value 
+Date of ADB 
+Approval of Contract 
+Award 
+Date of 
+Completion 
+Comments 
+[None] 
+ADB = Asian Development Bank. 
+H. 
+Non-ADB Financing 
+The following table lists goods, works, nonconsulting, and consulting services contracts 
+43. 
+over the life of the project, financed by non-ADB sources.  
+Goods, Works and Nonconsulting Services 
+General Description 
+[None] 
+Estimated 
+Value 
+(cumulative, $) 
+Estimated 
+Number of 
+Contracts 
+Procurement 
+Method 
+Comments 
+27 
+Consulting Services 
+General Description 
+[None] 
+Estimated 
+Value 
+(cumulative, $) 
+Estimated 
+Number of 
+Contracts 
+Recruitment 
+Method 
+Comments 
+I. 
+Consultant's Terms of Reference 
+A consulting firm will be recruited to support the PMU’s project implementation. Terms of 
+44. 
+Reference (TOR) for the consulting firm have been developed and attached as Appendix 3.  
+VII. 
+SAFEGUARDS 
+45. 
+The  safeguard  categories  for  environment,  involuntary  resettlement,  and  indigenous 
+peoples  are  all  proposed  as  “C.”  The  project  has  only  one  physical  component,  which  is 
+installation of the solar photovoltaic systems within the existing premises of the households. The 
+project has a minimal or minor environmental impact and does not require any land acquisition. 
+The  installation  of  residential  solar  photovoltaic  systems  is  not  included  in  the  list  of  activities 
+published  by  National  Environment  Commission  (NEC)  requiring  environmental  clearance.  A 
+safeguard  checklist  (Appendix  4)  has  been  developed  for  screening  and  selection  of  the 
+households and sites. The PMU of the project will be responsible for screening locations based 
+on  the  checklists  to  ensure  the  project’s  compliance  with  ADB’s  Safeguard  Policy  Statement 
+(2009).  For  safety,  rooftop  structures  will  be  examined  to  check  its  solidity  and  presence  of 
+asbestos  and  necessary  measures  will  be  taken  by  implementing  agencies  and  contractor  in 
+accordance  with  the  safeguard  checklist.  The  project  activities  will  not  trigger  any  impact  on 
+indigenous people. At the end of the life cycle of the solar photovoltaic system, it will be retrieved 
+by DRE and will be handed over to the Department of National Properties (DNP) under MOF for 
+disposal. For grievances redressal, DRE will provide the contact details of the nearest Electricity 
+Service Division (ESD) under BPC which has offices in all 20 districts for any queries/questions 
+regarding the project interventions. DRE will try to solve issues raised at the working level together 
+with  BPC  engineers  and  technicians  and  escalate  the  issues  to  management,  if  required. 
+Guideline  on  risks  of  and  prevention  measures  against  COVID-19  has  been  developed  and 
+attached to the safeguard checklist.  
+46. 
+Climate  change  impact.  The  project  has  low  climate  change  risk  as  it  is  renewable 
+energy pilot testing. The amount of climate change mitigation financed by ADB is $3 million. The 
+21 in total 
+total amount of the CO2 reduction is expected as 720tCO2 per annum or 14,401 tCO2
+considering 20 years lifetime of the solar photovoltaic systems. 
+21 Assumptions for calculation are 2 kW unit capacity, 300 number of households, 4.0 sun hours per day , 365days per 
+year, 0.7%/year degradation of the solar photovoltaic system, and 20 years lifetime of the solar photovoltaic systems. 
+Thus,  16,402  MWh  of  generation  is  expected  in  20  years.  In  Bhutan,  the  national  electricity  demand  is  met  by 
+domestic generation of hydropower except for dry season and the excess energy has been exported to India through 
+the  grid  connected.  Assuming  the  total demand in  Bhutan will  be  maintained,  it  is  fair to  assume  that  equivalent 
+amount  of  electricity  with  the generation  from  this  project  will  be  additionally  exported  and  contribute  to  the  CO2 
+reduction in India. During the dry season when the hydropower generation does not meet the demand in Bhutan, 
+electricity has been imported from India. Thus, the solar photovoltaic system of this project will reduce the amount of 
+electricity to be imported by replacing it with domestic generation by the solar photovoltaic systems. As the solar 
+photovoltaic  generation  of  this  project  will  solely  contribute  to  the  increase  of  export  (other  than  dry  season)  or 
+reduction of  import  (dry  season)  without  replacing  the  generation  of  hydropower  in  Bhutan,  using  India  emission 
+factor (0.878 tCO2/MWh) for the project is justifiable, and 14,401 tCO2 of reduction is expected in 20 years.  
+28 
+Prohibited  investment  activities.  Pursuant  to  ADB’s  Safeguard  Policy  Statement 
+47. 
+(2009),  ADB  funds  may  not  be  applied  to  the  activities  described  on  the  ADB  Prohibited 
+Investment Activities List set forth at Appendix 5 of the Safeguard Policy Statement (2009).  
+VIII.  GENDER AND SOCIAL DIMENSIONS 
+48. 
+Gender.  The  project  is  categorized  as  effective  gender  mainstreaming  and  a  gender 
+action plan (GAP)  has  been  prepared.  The  persistent  poverty  in rural  areas  is  also caused  by 
+labor-intensive unpaid care work of women. Women and girls in Bhutan, particularly in rural areas, 
+shoulder  the  responsibility  for  many  of  the  household  work  such  as  cooking,  washing,  and 
+cleaning.  This has  been  caused  by  high  level  of  household  workload and low  skill  sets  due  to 
+limitations such as lack of reliable energy supplies and educational opportunities, among others. 
+Having access to clean and efficient energy offers the potential to reduce the time and effort spent 
+by women and girls on household work, which can have positive impacts not only on their health 
+and level of educational attainment but can also enhance their economic opportunities. In project 
+outputs  2  and  3,  the  project  stresses  on  ensuring  women’s  participation  in  the  design  and 
+implementation of relevant activities, 50% women participation in awareness raising campaigns 
+and  30%  women  participation  in  training  programs.  In  addition,  to  further  encourage  women 
+participation  in  solar  photovoltaic  O&M  skills  training,  preferential  scoring  system  will  be 
+established and included in trainee selection criteria. 
+Table 15. Gender Action Plan 
+29 
+Activities 
+Output 1: Regulatory requirements for alternative renewable energy identified and a tariff 
+structure for residential solar photovoltaic system prepared 
+1.1  Capacity building for 
+Indicator and Targets 
+Responsibility 
+2021 
+Timeline 
+1.1.1  One-time training provided to 
+DRE and PMU staff on 
+mainstreaming GESI in renewable 
+energy projects 
+DRE, PMU, and 
+consulting firm 
+project implementation 
+and monitoring in terms of 
+gender equality and social 
+inclusion (GESI) 
+supported 
+1.2  Participation of women 
+officials in project’s 
+workshops and seminars 
+encouraged 
+1.1.2  GESI design features of the 
+project integrated and highlighted in 
+the project’s visual clip 
+1.2.1  100% eligible women officials 
+from DRE and PMU participated in 
+workshops and seminars for 
+dissemination of the study on 
+requirements for the alternative 
+renewable energy regulatory 
+framework. 
+2024 
+2021 
+conducted in poor rural 
+villages selected for 
+installation of small-scale 
+solar photovoltaic systems 
+Output 2: Small-scale solar photovoltaic system pilot-tested 
+2.1.1    Awareness campaign on 
+2.1 Awareness campaign 
+benefit of solar photovoltaic systems 
+and safe and efficient use of 
+electricity delivered to 600 people, of 
+whom 50% are women with 
+distribution of GESI-sensitive 
+campaign material in English and 
+Dzongkha 
+2.1.2    Informative street signs on 
+safety and energy conservation 
+posted in JFPR grant-supported 
+villages 
+Output 3: Energy based livelihood skills enhanced 
+3.1 Solar photovoltaic O&M 
+technical skills training 
+provided 
+3.1.1 Preferential scoring system to 
+promote women’s participation in 
+solar photovoltaic O&M technical 
+skills training established and 
+included in trainee selection criteria 
+3.2 Energy based livelihood 
+equipment and skills training 
+provided 
+3.1.2 Solar photovoltaic O&M 
+technical skills training provided to 
+300 individuals, of whom 30% are 
+women 
+DRE, PMU, BPC, 
+and consulting 
+firm 
+2023 
+2023 
+DRE, PMU, and 
+consulting firm 
+2022 
+2023 
+2023 
+3.2.1 Energy-based livelihood 
+equipment provided to all benefitted 
+villages with skills training on 
+operation of the equipment to 300 
+benefitted households. The skills 
+trainings will be provided separately 
+to male and female members.22 
+22 There will be separate sessions, one for male and another for female.  
+30 
+3.3 Conduct socio economic 
+and end-line survey 
+2024 
+3.3.1  Sex-disaggregated data 
+collected by the consulting firm 
+during baseline and end-line surveys 
+to enable the monitoring of gender-
+related impacts of the project, 
+including: (i) number of women 
+villagers trained and continue 
+working for solar photovoltaic O&M, 
+(ii) change in women’s time spent on 
+household chores, and (iii) change in 
+women’s earnings 
+BPC = Bhutan Power Corporation, DRE = Department of Renewable Energy, JFPR = Japan Fund for Poverty 
+Reduction, O&M = operation and maintenance, PMU = project management unit. 
+49. 
+Health. DRE and BPC will ensure that contractors adequately provide health and safety 
+measures for the construction workers and further ensure that bidding documents include clauses 
+on how contractors will address this, including an information and awareness raising campaign 
+for construction workers on sexually transmitted diseases, including HIV/AIDS and COVID-19 and 
+human trafficking. 
+50. 
+Labor. DRE and BPC will ensure that works contractors comply with all applicable labor 
+laws  and  regulations  including:  (i)  no  employment  of  child  labor  for  construction  activities,  (ii) 
+provision of appropriate facilities for women and children in construction campsites, and (iii) no 
+difference in wage between men and women for work of equal value. DRE and BPC will ensure 
+that specific clauses ensuring these will be included in bidding documents. 
+IX. 
+PERFORMANCE MONITORING, EVALUATION, REPORTING, AND 
+COMMUNICATION 
+A. 
+Project Design and Monitoring Framework 
+Impact the Project is Aligned with  
+Energy security of the society enhanced.a  
+Results Chain 
+Performance Indicators with Targets 
+and Baselines 
+Outcome 
+By 2024 
+Social and economic 
+benefits of solar power 
+demonstrated in pilot 
+rural villages 
+a. Improved electricity supply reported 
+by 80% of the households benefitted 
+with small-scale solar photovoltaic 
+systems (2019 baseline: 0) 
+b. Average income of the 300 
+benefitted households increased by 7% 
+in the selected villages of the solar 
+photovoltaic intervention   
+(2019 baseline: 0)   
+c. Government subsidy for the 300 
+benefitted households reduced by 20% 
+(2019 baseline: 0) 
+Data 
+Sources and 
+Reporting 
+Mechanisms 
+a-c. DRE 
+reports, and 
+project 
+completion 
+report 
+Risks 
+Lack of consensus 
+on the indicative 
+tariff for the pilot 
+test and 
+unsynchronized 
+timeline between 
+project 
+implementation 
+and BEA’s tariff 
+approval  
+31 
+The project result 
+not leading to 
+formulating 
+regulatory 
+framework due to 
+inadequate 
+intragovernmental 
+coordination 
+Rugged 
+geographical 
+condition and lack 
+of infrastructure 
+imposing 
+challenges 
+1a. DRE 
+report 
+1b. DRE 
+report 
+2a. BPC 
+report 
+2b-2c.  
+Quarterly 
+project 
+progress 
+reports and 
+project 
+completion 
+report 
+3a-3c. 
+Quarterly 
+project 
+progress 
+reports and 
+project 
+completion 
+report 
+Reduced 
+household income 
+during training 
+participation 
+leading to low 
+attendance rate 
+Outputs  
+By 2024 
+1. Regulatory 
+requirements for 
+alternative renewable 
+energy identified and a 
+tariff structure for 
+residential solar 
+photovoltaic system 
+prepared 
+1a. A study report on regulatory 
+requirements for alternative renewable 
+energy prepared  
+(2019 baseline: NA) 
+1b. A tariff structure for power 
+purchase from residential solar 
+photovoltaic systems drafted  
+(2019 baseline: NA)  
+2. Small-scale solar 
+photovoltaic system 
+pilot-tested 
+3. Energy based 
+livelihood skills 
+enhanced 
+By 2023 
+2a. Technical adequacy of the 
+electricity grid assessed and 
+specifications/requirements for 
+connecting solar photovoltaic systems 
+to the grid identified  
+(2019 baseline: 0) 
+2b. 300 households in poor rural 
+villages provided with small-scale solar 
+photovoltaic systems              
+(2019 baseline: 0) 
+2c. Awareness campaign on benefit of 
+the solar photovoltaic system and safe 
+and efficient use of the electricity 
+conducted for 600 people from the 
+benefitted households of which 50% 
+are women participants 
+(2019 baseline: 0) 
+By 2023 
+3a.  A curriculum for solar photovoltaic 
+system operation and maintenance 
+(O&M) developed  
+(2019 Baseline: 0) 
+3b. Improved solar photovoltaic O&M 
+technical skills demonstrated by 300 
+trainees of which 30% are women  
+(2019 baseline:0) 
+3c. Energy-based livelihood equipment 
+with skills training provided to at least 
+10 benefited villages of the solar 
+photovoltaic systems 
+(2019 baseline: 0) 
+32 
+Key Activities with Milestones 
+1. 
+Regulatory requirements for alternative renewable energy identified and a tariff structure 
+for residential solar photovoltaic system prepared 
+1.1  Advertise recruitment of a consulting firm [Q4 2020] 
+1.2  Recruit a consulting firm [Q4 2020] 
+1.3  Draft a study report on regulatory requirements for alternative renewable energy resources      
+[Q2 2021] 
+1.4  Finalize the study report [Q4 2021] 
+1.5  Prepare an indicative tariff for pilot-testing solar photovoltaic systems with 300 households       
+[Q4 2021] 
+1.6  Draft a tariff structure incorporating the pilot-testing result for power purchase from the residential 
+solar photovoltaic systems [Q2 2024] 
+2.       Small-scale solar photovoltaic system pilot tested 
+2.1     Undertake an assessment and identify specifications and requirements for the grid connection of 
+the solar photovoltaic system [Q3 2020–Q4 2020] 
+2.2     Prepare selection criteria and select 300 households [Q1 2021] 
+2.3     Float bidding for solar photovoltaic systems [Q2 2021]  
+2.4     Award contract for solar photovoltaic systems [Q4 2021]  
+2.5     Install solar photovoltaic systems [Q1 2022–Q4 2023] 
+2.6     Conduct an awareness campaign on benefit of the solar photovoltaic system and safe and 
+efficient use of electricity [Q4 2021–Q3 2023] 
+2.7     Issue RFQ for smart meters [Q4 2020]  
+2.8     Award contract for the smart meters [Q2 2021]  
+2.9     Install the smart meters [Q1 2022–Q4 2023] 
+2.10   Issue RFQ for updating metering software [Q4 2020]  
+2.11   Contract award for the metering software [Q1 2021]  
+2.12   Update the metering software [Q2 2021–Q4 2021] 
+2.13   Data collection on generation and consumption profile [Q1 2022–Q2 2024] 
+3.       Energy based livelihood skills enhanced  
+3.1     Establish a curriculum for solar photovoltaic system O&M [Q1 2022] 
+3.2     Prepare selection criteria for training participants and select 300 participants [Q2 2022–Q3 2022] 
+3.3     Provide solar photovoltaic system O&M training based on the curriculum developed [Q4 2022– 
+Q4 2023] 
+3.4     Conduct socio economic survey and needs assessment for energy-based livelihood equipment 
+[Q2 2021]  
+3.5     Issue RFQ for energy-based livelihood equipment [Q3 2021] 
+3.6     Contract award for the energy-based livelihood equipment [Q1 2022] 
+3.7     Install the energy-based livelihood equipment [Q2 2022–Q4 2023] 
+3.8     Undertake end line survey on livelihood enhancement through power purchase, skills training, and 
+equipment support [Q1–Q2 2024] 
+Inputs 
+Japan Fund for Poverty Reduction (JFPR):  $3 million grant (Administered by ADB) 
+Government: $0.5 Million  
+Assumptions for Partner Financing 
+Not Applicable 
+ADB=Asian Development Bank, BEA=Bhutan Electricity Authority, DRE=Department of Renewable Energy, Q=quarter, 
+RFQ = request for quotation. 
+a  Gross National Happiness Commission. 2018–2023. 12th Five-Year Plan. Thimphu. 
+Source: Asian Development Bank. 
+33 
+B. 
+Monitoring 
+51. 
+Project performance monitoring. Overall monitoring of each project component in terms 
+of progress will be undertaken by the DRE and DRE will submit quarterly project progress report 
+to  ADB.  These  quarterly  reports  will  provide  information  necessary  to  update  ADB's  project 
+performance reporting system.23 In addition, ADB will undertake semi-annual review missions and 
+provide guidance to the project director, the project PMU, and to project consultants. ADB  and 
+DRE  will  regularly  monitor  the:  (i)  project  output  quality;  (ii)  implementation  arrangements;  (iii) 
+implementation  progress;  and  (iv)  disbursements.  Performance  will  be  monitored  based  on 
+indicators and targets stipulated in the design and monitoring framework.  
+52. 
+Compliance  monitoring.  The  grant  and  project  agreements  specify  undertakings  and 
+covenants  that  will  be  monitored  through  regular  review  missions  and  on  a  quarterly  basis  in 
+discussion with DRE and BPC. Compliance with undertakings and grant covenants, social and 
+environmental safeguards, and financial and economic aspects will be jointly monitored by ADB 
+and DRE. 
+53. 
+Safeguards  monitoring.  An  environment  and  social  safeguard  checklist  has  been 
+developed for the project. ADB will ensure that the eligibility requirements are adhered to and the 
+safeguard categorization is “C” for all installations.  
+54. 
+Gender  and  social  dimensions  monitoring.  The  compliance  with  labor  standards, 
+health  and  gender  aspects  will  be  monitored  through  review  of  bidding  documents,  contract 
+awards, and progress reports. 
+C. 
+Evaluation 
+55. 
+ADB will conduct regular semi-annual review missions to review, discuss progress, and 
+report  on  the  project  performance.  A  midterm  review  will  be  carried  out  two  years  after 
+effectiveness of the grant. Within 6 months of physical completion of the project, DRE will submit 
+a project completion report to ADB.24 
+D. 
+Reporting 
+56. 
+The DRE will provide ADB with (i) quarterly progress reports in a format consistent with 
+ADB's  project  performance  monitoring  including  the  status  of  grievance  redress  mechanism 
+(GRM) implementation and the use of environment and social safeguard screening checklist; (ii) 
+consolidated annual reports including (a) progress achieved by output as measured through the 
+indicator's  performance  targets  against  the  baseline  data,  (b)  key  implementation  issues  and 
+solutions, (c) updated procurement plan, and (d) updated implementation plan for next 12 months; 
+and (iii) a project completion report within 6 months of physical completion of the project. Financial 
+and  disbursement  information,  variance  analysis  of  physical  and  financial  progress,  details  of 
+utilization of funds and reconciliation with ADB loan financial information system (LFIS) should be 
+included  in  the  quarterly  progress  report  and  be  reviewed  periodically  by  the  team.  The 
+consolidated project financial statements and BPC audited financial statements, together with the 
+associated  auditor's  report,  will  also  be  adequately  reviewed.  DRE,  as  the  project  executing 
+23 ADB's project performance reporting system is available at:  
+  http://www.adb.org/Documents/Slideshows/PPMS/default.asp?p=evaltool. 
+24 Project completion report format is available at:  
+  http://www.adb.org/Consulting/consultants-toolkits/PCR-Public-  Sector-Landscape.rar. 
+34 
+agency, will have overall responsibility for submission of project reports and shall coordinate with 
+BPC and other agencies as necessary for these purposes.  
+E. 
+Stakeholder Communication Strategy 
+Table 16: Stakeholder Communication Strategy 
+Project 
+Information to be 
+Communicated 
+Grant Assistance 
+Report with linked 
+documents   
+Means of 
+Communication 
+Responsibility 
+Audience 
+Frequency 
+ADB website 
+ADB 
+Project information 
+while planning/ 
+designing  
+Discussions and 
+stakeholder 
+consultations 
+DRE 
+Status of 
+implementation 
+during construction 
+Project performance 
+reports and project 
+information 
+documents 
+Periodic progress 
+reports 
+Boards at site 
+DRE/BPC/ 
+contractors 
+ADB website 
+ADB 
+Website of DRE 
+DRE 
+Project completion 
+report 
+ADB website 
+ADB 
+Once 
+ADB, RGOB, 
+development 
+partners, civil 
+society, and 
+individuals 
+Project beneficiaries  Regular 
+intervals during 
+planning and 
+design 
+Project beneficiaries  All time at 
+construction 
+sites 
+Every quarter 
+Quarterly 
+Once 
+ADB, RGOB, 
+development 
+partners, civil 
+society, and 
+individuals 
+ADB, RGOB, 
+development 
+partners, civil 
+society, and 
+individuals 
+ADB, RGOB, 
+development 
+partners, civil 
+society, and 
+individuals 
+ADB = Asian Development Bank, BPC = Bhutan Power Corporation, DRE = Department of Renewable Energy, 
+RGOB = Royal Government of Bhutan. 
+X. 
+ANTICORRUPTION POLICY 
+57. 
+ADB reserves the right to investigate, directly or through its agents, any violations of the 
+Anticorruption Policy (1998, as amended to date) relating to the project.25 All contracts financed 
+by ADB shall include provisions specifying the right of ADB to audit and examine the records and 
+accounts of the executing agency and all project contractors, suppliers, consultants, and other 
+service providers. Individuals and entities on ADB’s anticorruption debarment list are ineligible to 
+participate in ADB-financed activity and may not be awarded any contracts under the project.26 
+25 Available at http://www.adb.org/Documents/Policies/Anticorruption-Integrity/Policies-Strategies.pdf. 
+26 ADB's Integrity Office web site is available at: http://www.adb.org/integrity/unit.asp. 
+35 
+To  support  these  efforts,  relevant  provisions  are  included  in  the  grant  and  project 
+58. 
+agreements and the bidding documents for the project. 
+XI. 
+ACCOUNTABILITY MECHANISM 
+59. 
+People  who  are,  or may  in the  future  be,  adversely  affected  by the  project  may  submit 
+complaints  to  ADB’s  Accountability  Mechanism.  The  accountability  mechanism  provides  an 
+independent forum and process whereby people adversely affected by ADB-assisted projects can 
+voice,  and  seek  a  resolution  of  their  problems,  as  well  as  report  alleged  violations  of  ADB’s 
+operational  policies  and  procedures.  Before  submitting  a  complaint  to  the  accountability 
+mechanism, affected people should make a good faith effort to solve their problems by working 
+with  the  concerned  ADB  operations  department.  Only  after  doing  that,  and  if  they  are  still 
+dissatisfied, should they approach the accountability mechanism.27 
+XII. 
+RECORD OF CHANGES TO THE JFPR PROJECT ADMINISTRATION MANUAL 
+All revisions and/or updates during course of implementation should be retained in this 
+60. 
+section to provide a chronological history of changes to implemented arrangements recorded in 
+the JFPR PAM. 
+27 For further information, see: http://www.adb.org/Accountability-Mechanism/default.asp.  
+36 
+Appendix 1 
+I.  
+1. 
+JAPAN FUND FOR POVERTY REDUCTION 
+GUIDANCE NOTE ON JAPANESE VISIBILITY 
+Introduction  
+The Revised Operating Framework for the Japan Fund for Poverty Reduction (JFPR) was 
+approved on 6 October 2009, combining Japan’s project grant and technical assistance 
+support under one umbrella, and paving the way for a more comprehensive approach to 
+the  use  of  these funds  towards  addressing  poverty,  building  up  human  resources,  and 
+empowering institutions and communities in the region. Japan has been making generous 
+contributions for technical assistance activities through the Japan Special Fund, and for 
+poverty reduction projects through JFPR, since they were established in 1988 and 2000, 
+respectively. It is but fitting and proper that said contributions are acknowledged and the 
+recipients and general public are informed of the source of the funding assistance both at 
+the Fund level and at the level of the individual TA and project grants. The purpose of this 
+note  is  to  provide  guidance  on  measures  to  ensure  that  the  contribution  of  Japan  in 
+supporting JFPR is widely recognized.1  
+II.  
+Statement on Japanese Visibility  
+2. 
+Project teams are required to help promote the visibility and local awareness of JFPR in 
+recipient countries through the following:  
+(a) 
+(b) 
+(c) 
+All press releases issued by ADB with respect to JFPR should refer to the financial 
+contribution from the Government of Japan (GOJ);2  
+Signing  ceremonies  and  other  publicity  events  should  be  encouraged,  inviting 
+Japan embassy officials, JICA staff, local and international press;3 
+Civil  works,  project  billboards/signages, vehicles,  and  equipment must carry  the 
+JFPR and Japan ODA logos (see below). Likewise, all publications and training 
+programs  must  bear  the  said  logos,  including  all  collaterals  used  (i.e.,  training 
+materials, banners, posters, flyers, etc.) that are financed by JFPR; these logos 
+are available in the SDPF-JFPR website;4  
+1  A copy of the Guidance Note on Japanese Visibility is appended to the Project Administration Manual as guide to 
+the project team and the government, during project implementation.    
+2   Staff may coordinate with the Department of Communications.  
+3  Coordination with resident missions are necessary. 
+4   https://lnadbg1.adb.org/oco0006p.nsf/0/EEE594E105EAC26A482576C7002240AB/?OpenDocument  
+Appendix 1 
+37 
+(d) 
+(e) 
+Publications,  reports,  training  programs,  seminars  and  workshops  financed  by 
+JFPR should acknowledge receipt of funding from GOJ;  
+Recipients should be encouraged to ensure that JFPR-financed activities are well 
+covered by local print and electronic media, and that all related publicity materials, 
+and  official  notices  explicitly  acknowledge  funding  from  GOJ.    Below  is  the 
+suggested standard text to be used by those who prepare publicity materials:  
+"The grant fund for (project name/activity) was received from the Japan Fund for 
+Poverty  Reduction  financed  by  the  Government  of  Japan  through  the  Asian 
+Development Bank”.   
+III.  
+Participation of Japanese Entities in Implementation  
+3. 
+It  is  also  important  to  generate  visibility  of  the  project  within  Japan.  Involvement  or 
+cooperation with Japanese experts, financial resources and technologies are encouraged; 
+occasional  information  sessions  on  JFPR  for  Japanese  organizations  may  also  be 
+conducted. It is also highly recommended that ADB involve and cooperate with Japanese 
+organizations including NGOs, civil society organizations, aid agencies in particular JICA 
+and JBIC, the private sector enterprises or academic institutions.  
+IV.  
+Reporting  
+4. 
+At  the  end  of  the  project,  the  completion  report  submitted  by  the  project  team  should 
+include evidences of Japanese visibility such as photos (preferably high resolution), press 
+releases,  articles  or  write-ups,  and 
+from  project  recipients  and/or 
+implementers.  Sample  products  generated  from  the  project  grant  are  requested  to  be 
+made available to SDPF for inclusion in future exhibits. Copies of publications5 that are 
+outputs of the project should also be provided to SDPF.    
+testimonials 
+V.  
+Visibility Support by ADB  
+5. 
+6. 
+SDPF promotes visibility of JFPR by: (i) informing Office and Department Heads of the 
+importance of achieving high visibility in order to garner support for JFPR from Japanese 
+officials  and  taxpayers;  (ii)  informing  Country  Directors  of  the  importance  of  signing 
+ceremonies  to  Japanese  officials  and  the  public  to  ensure  recognition  and  support  for 
+JFPR  funding;  and  (iii)  continuing  widespread  distribution  of  the  JFPR  Annual  Report, 
+inclusion  of  JFPR  information  in  relevant  ADB  documents,  and  occasional  information 
+sessions for Japanese organizations.   
+Resident Mission staff are requested to forward copies of all visibility materials, such as 
+press releases, newspaper and magazine articles, and photographs (including descriptive 
+captions) to SDPF’s assigned focal staff for JFPR or e-mail to (jfpr@adb.org).    
+__________  
+22 April 2019 
+5  This particularly applies to knowledge and support TAs.  Links to publication available online may be provided in lieu 
+of print copy.    
+38 
+Appendix 2 
+JAPAN FUND FOR POVERTY REDUCTION  
+GUIDANCE NOTE ON COORDINATION WITH THE EMBASSY OF JAPAN AND JICA 
+I.  
+1. 
+INTRODUCTION  
+The  Final  Report  on  the  Review  of  Japanese  Official  Development  Assistance1 (ODA) 
+underscores  the  need  for  strategic  and  effective  aid.  One  way  to  ensure  alignment  of 
+Japan  Fund  for  Poverty  Reduction  (JFPR)  projects  and  technical  assistance  (TA)  with 
+Government  of  Japan’s  (GOJ)  bilateral  assistance  strategy  for  a  particular  developing 
+member  country  (DMC)  is  by  bringing  on  board  the  comments  and  suggestions  of  the 
+Embassy of Japan (EoJ) and the Japan International Cooperation Agency (JICA).2 Thus, 
+the summary of consultations with EoJ and JICA (to include, date of consultation, name 
+and position of staff met, and EoJ and JICA's response) should be included in the proposal 
+submitted  to  SDPF. 3  This  Guidance  Note  provides  detailed  instructions  regarding 
+coordination activities with EoJ and JICA.4  
+II.  
+EOJ AND JICA CONTACT PERSONS  
+2. 
+As soon as project officer informs SDPF of the intent to apply for JFPR funding,5 SDPF 
+will  identify  the  appropriate  contact  persons  in  EoJ  and  JICA.  The  contact  persons’ 
+information6 will be provided by SDPF to the project officer to start consultation.  
+III.  
+CONSULTATION WITH EOJ AND JICA – PROPOSAL PREPARATION  
+3. 
+4. 
+At  concept  stage,  project  officer  should  consult  with  EoJ  and  JICA7 through  e-mail  the 
+proposed  project  to,  (i)  seek  if  it  is  in  line  with  Japan  ODA  priorities;  (ii)  ensure  no 
+duplication; and (iii) present the concept itself, with copy to SDPF.  
+Upon SDPF’s confirmation to proceed with proposal preparation, the project officer may 
+arrange the project design meeting with EoJ and JICA. This meeting intends to explain 
+and  discuss  the  actual  project  design.    This  is  ideally  conducted  during  the  fact-finding 
+mission.8  The proposal,9 should be provided to EoJ and JICA with copy to SDPF at least 
+5 working days before the meeting to give ample time for review and consideration. After 
+the meeting, if needed, SDPF in coordination with the project officer, may follow-up with 
+EoJ and JICA, and respond to requests for clarification.  
+5. 
+In the case of regional TAs, the draft TA Summary and Report should be sent by email to 
+EoJ and JICA contact persons on no-objection basis.    
+1  Ministry of Foreign Affairs of Japan. 2010.  ODA Review - Summary of the Final Report. Tokyo.   
+2   Incorporated administrative agency in charge of administering Japan’s ODA.   
+3   GOJ gives importance on the inputs provided EoJ and JICA during the internal approval process.  
+4   A  copy  of  the  Guidance  Note  on  Coordination  with  Embassy  of  Japan  and  JICA  is  appended  to  the  Project 
+Administration Manual as guide to the project team and the government, during project implementation.  
+5   Project name and brief outline of proposal should be provided to SDPF.   6 Name, status, telephone number and 
+email address. 
+6   Name, status, telephone number and email address. 
+7   Please refer to the contact persons provided by SDPF.  
+8   If  a  meeting  with  EoJ  and/or  JICA  is  not  possible,  email  exchange,  telephone  discussion  or  any  other  form  of 
+communication may be used.  
+9   Draft Grant assistance report (for project grants) and draft TA Summary and Report (for TAs).   
+Appendix 2 
+39 
+IV.  
+ROLE OF THE RESIDENT MISSION AND SDPF  
+6. 
+7. 
+8. 
+Project officer’s communications with EoJ and JICA should be done in coordination with 
+the  resident  mission 10 with  copy  to  SDPF.  If  needed,  SDPF  supports  to  identify  the 
+appropriate staff to be consulted.   
+Resident mission also arranged the Grant Agreement/TA letter signing event (section V) 
+and in the overall coordination/relationship management with EoJ and JICA.  
+SDPF’s role are as follows: (i) provide contact details of relevant staff from EoJ and JICA 
+for project consultation; (ii) liaise any need for clarification by EoJ and JICA in coordination 
+with the project officer, during project consultation; (iii) inform EoJ and JICA when there is 
+withdrawal  or  cancellation  of  a  project;  and  (iv)  forward  all  completion  reports  to  both 
+agencies.    
+V.  
+COORDINATION WITH EOJ AND JICA – UPON APPROVAL OF THE PROPOSAL  
+9. 
+10. 
+VI.  
+11. 
+Project  officer  should  inform  EoJ  and  JICA  about  ADB’s  approval.  Project  officers  are 
+strongly encouraged to conduct signing or launching ceremonies with the attendance of 
+EoJ officials.11  
+In coordination with the resident mission, the project officer should inform EoJ and SDPF 
+of the signing ceremony– at least 10 working days in advance. SDPF then informs GOJ 
+of this activity. The project officer should also draft news release in consultation with the 
+Department of communications and coordinate arrangements with the resident mission.  
+Local and international press are invited to these ceremonies.  
+COORDINATION WITH EOJ AND JICA – DURING PROJECT IMPLEMENTATION AND 
+UPON PROJECT COMPLETION  
+Throughout implementation, the project officer should inform EoJ about project progress, 
+milestones, and outcomes, and discuss when major changes in scope and objectives are 
+required. Progress and outcomes of JFPR projects are also requested to be shared with 
+JICA. From time to time, EoJ and JICA may also wish to join completion review missions 
+in order to see project results and to interact first-hand with project recipients. Lessons 
+from the JFPR projects are also requested to be shared to enable both sides to explore 
+and seek potential collaboration. Completion reports are required to be submitted by the 
+project officer to SDPF for forwarding to EoJ and JICA.12  
+_____________  
+22 April 2019  
+10  Please inquire respective resident missions on their protocols or coordination arrangements with EoJ and JICA.   
+11  Please refer to the Guidance Note on Japanese Visibility for details on visibility requirements under JFPR.  12 Links 
+to the completion reports will suffice.     
+12  Links to the completion reports will suffice. 
+40 
+Appendix 3 
+TERMS OF REFERENCE 
+ALTERNATIVE RENEWABLE ENERGY PILOT PROJECT 
+1.1   Background 
+1. 
+The Royal Government of Bhutan requested ADB’s assistance to pilot test the installation 
+of small-scale solar photovoltaic systems to the marginalized rural households and integrate them 
+to the national grid. This will enable rural households to produce energy for their own consumption 
+and  RGOB to  reduce  electricity  subsidies,  while  also  lessening  electricity  import  during  winters 
+when solar radiation is at its peak. For the proposed intervention, ADB applied for $3 million grant 
+financing from Japan Fund for Poverty Reduction (JFPR), and it was approved by the Government 
+of Japan on 20 August 2020.  
+2. 
+This project pursues to enable the RGOB to reduce budget for expenditure on electricity 
+subsidies,  and  the  households  to  secure  reliable  and  sustainable  energy  supply  and  generate 
+income by selling power to enhance their livelihoods. An important program of the government’s 
+rural  poverty alleviation strategy  is  a  provision  of  a  lifeline  electricity  supply  to  households  with 
+100% subsidy (Nu5.81/kilowatt hour (kWh), 2017–2019) up to 100 kWh of monthly consumption 
+for each household.1 In 2018 alone, Nu104.93 million was spent by the Ministry of Finance (MOF) 
+as subsidy for the rural electricity supply, which is a significant component of the annual budget 
+allocation  for  the  energy  sector.2 Although  100%  subsidy  for  electricity  is  aligned  with  poverty 
+reduction efforts, it is not sustainable. Further, solar photovoltaic energy supports strong gender 
+equality and social inclusion (GESI) elements by improving income generating sources through 
+solar photovoltaic power trading and energy-based livelihoods with a focus on women.  
+3. 
+The  Alternative  Renewable  Energy  Pilot  Project  aims  to  demonstrate  viability  and 
+sustainability  of  solar  power  as  an  alternative  energy  and  income  source  in  Bhutan  through:              
+(i) conducting a study on regulatory requirements for alternative renewable energy resources and 
+preparing a tariff structure for residential solar photovoltaic systems; (ii) assessing the adequacy 
+of the national electricity grid and pilot-testing solar photovoltaic systems in rural villages; and  (iii) 
+enhancing  energy-based  livelihood  skills  through  vocational  education  and  energy  based 
+livelihood  equipment  support.  The  project  has  strong  pro-poor,  socially  inclusive  and  gender-
+sensitive features. The project will directly benefit 300 poor households in rural villages. 
+4. 
+For  the  interventions,  the  Department  of  Renewable  Energy  (DRE)  plans  to  hire  an 
+international  consulting  firm  to  assist  the  project  management  unit  (PMU)  to  implement  project 
+components  under  the  grant.  The  international  consulting  firm  has  experience  of  implementing 
+similar  initiatives  for  at  least  5  years  with  access  to  international  and  national  experts  and 
+specialists required for the different outputs. Experience in developing member countries in the 
+region is desirable.  
+1.2   Objective of the Assignment 
+5. 
+The key objective of the assignment is to implement the planned activities under the JFPR 
+grant in line with international best practices and as described in grant assistant report (GAR) and 
+provide required deliverables.  
+The assignment is expected to commence in the first quarter of 2021 and will continue until 
+6. 
+the third quarter of 2024. 
+1  Bhutan Electricity Authority. 2017. Electricity Tariff in Bhutan. Table 2. Royal Government of Bhutan. 
+2   RGOB’s statistic in 2017 and 2018. It increased by 28% from the subsidy in 2017 which was Nu81.96 million.  
+Appendix 3 
+41 
+1.3   Scope of Services 
+7. 
+The consultant team will have access to PMU, DRE, and Bhutan Power Corporation (BPC) 
+offices  particularly  for  interactions  with  their  staff.  There  is  a  staff  member  under  PMU  who  is 
+assigned as a focal point for the task. A renewable energy policy specialist (team leader) of the 
+grant consultant team will lead the team and support the PMU’s project implementation.  
+The  consultant  team  will  carry  out  following  tasks  to  achieve  the  objectives  of  the 
+8. 
+assignment:  
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+(vii) 
+Review  the  GAR  and  project  administration  manual  (PAM)  and  prepare  an 
+inception report with a detailed plan and timeline for implementation of the grant 
+and hold an inception workshop with DRE, BPC, and BEA staff. 
+Review related laws, policies, reports etc., including Alternative Renewable Energy 
+Policy  (2013)  and  regulatory  frameworks  in  other  countries,  and  outline  the 
+regulatory  requirements  for  the  promotion  and  development  of  alternative 
+renewable  energy3 in  Bhutan  (herewith  “pre-requisite  for  regulatory  framework”) 
+and finalize the outline with DRE, BPC, and BEA. 
+Draft  the  pre-requisite  for  regulatory  framework  in  coordination  with  DRE,  BPC, 
+BEA,  relevant  agencies,  and  ADB  to  finalize  the  draft  of  the  pre-requisite  for 
+regulatory framework after incorporating views/comments. 
+Prepare selection criteria for solar photovoltaic system installation and conduct site 
+assessments at the 42 villages (list will be provided by DRE) and assist PMU in 
+selecting 10‒15 villages with 300 households from the list provided. Efforts will be 
+made to ensure that all households with the selected villages will be provided with 
+the solar photovoltaic systems subjected to the detailed assessments carried out. 
+Visit and conduct feasibility analysis with the 300 selected households and figure 
+out  necessary  measures  (i.e.  strength  of  rooftops,  roof  strengthening  measures, 
+accessibility,  special  transportation  needs)  to  be  undertaken  by  contractor  and 
+households.  
+Assist BPC to assess capacity and adequacy of the existing distribution networks 
+nationwide4  and impacts of connecting residential solar photovoltaic systems to 
+the network, and to identify specifications and requirements for the connection of 
+residential  solar  photovoltaic  systems  to  the  grid  of  the  selected  rural  area  and 
+recommend solutions, if any. 
+Assist BPC in preparing bidding documents and procurement of: (a) the residential 
+solar photovoltaic systems; (b) smart meters; and (c) update of existing metering 
+software.  
+(viii)  Estimate the cost for installation and operation & maintenance (O&M) of residential 
+solar  photovoltaic  systems  and  identify  nationwide  benefit  in  scaling  up  the 
+installation  of  more small-scale solar  photovoltaic  systems  and other renewable 
+energy resources. 
+Assist PMU to prepare an indicative tariff5 based on the estimation described in 
+the  para  (viii)  above  for  power  purchase  from  the  residential  solar  photovoltaic 
+systems, and support DRE, BPC and BEA to endorse the indicative tariff for this 
+(ix) 
+3   This includes expectation of the availability and capacity of the renewable energy resources in Bhutan considering 
+climate change impacts.   
+4   For nationwide, the kinds and settings of protection relays will be checked, and capacity of feeders and substations 
+will be assessed considering future investment. In the selected rural villages, more detailed and in-depth assessment 
+will be undertaken based on field conditions identified through site visits.   
+5  This will be applied to this pilot project with 300 households only.  
+42 
+Appendix 3 
+(x) 
+(xi) 
+pilot project. Assess and outline the incentives and any other mechanisms to make 
+this intervention economically and financially viable. 
+Analyze data of generation and consumption profile, and support PMU to draft the 
+tariff structure for residential solar photovoltaic system based on the data collected 
+and analyzed.  
+Conduct  baseline  socio  economic  survey  with  the  300  households  for  the  solar 
+photovoltaic  systems  to  gather  baseline  household  income  level  and  undertake 
+needs assessment to find the most effective livelihood enhancement equipment for 
+each selected village. During the survey, sex disaggregated baseline data collected 
+to  enable  monitoring  project  impacts  toward  women  including:  (a)  number  of 
+women  villagers  trained  and  continue  working  for  solar  photovoltaic  O&M,  (b) 
+change in women’s time spend on household chores; and (c) change in women’s 
+earnings. 
+(xii)  Develop awareness campaign materials on (a) introduction of solar photovoltaic 
+system  installation  and  operation;  (b)  benefit  of  the  solar  photovoltaic  system 
+including power selling opportunities; (c) readiness requirement for power selling 
+such  as  creating  bank  account;  and  (d)  safe  and  efficient  use  of  electricity  and 
+facilitate  trainings  on  these  with  at  least  600  persons  from  the  selected  300 
+households of which 50% must be female.  
+(xiii)  Support DRE to procure livelihood enhancement equipment based on the needs 
+assessment  and  distribute  them  to  the  selected  villages  and  provide  skills 
+enhancement trainings on these equipment’s. 
+(xiv)  Support  PMU  in  preparing  selection  criteria  for  solar  photovoltaic  system  O&M 
+training  and  select  300  trainees  among  300  households  and/or  Village  Electrical 
+Entrepreneur and Electrical Technicians (VEEETs).  
+(xv)  Conduct end line survey with 300 households selected for the solar  photovoltaic 
+system to understand: (a) reliability6 improvement of the electricity supply, and (b) 
+income generation through selling power from the solar photovoltaic systems and 
+using  the  energy-based  livelihood  units  considering  the  baseline  information 
+collected during the socio-economic survey with sex disaggregated data.  
+(xvi)  Conduct end line survey with 300 participants of the solar photovoltaic system O&M 
+to assess the level of their knowledge improvement and change in incomes with 
+sex disaggregated data. 
+(xvii)  Support PMU to consult the MOF to evaluate the subsidy savings after the project 
+implementation. Also assess whether part of the subsidy savings could be used to 
+enable the households fetch better tariff from sale of their surplus electricity to the 
+grid. 
+(xviii)  Provide  training  to  DRE  and  PMU  staff  on  mainstreaming  GESI  in  renewable 
+energy projects 
+(xix)  Support  PMU  in  undertaking  activities  for  gender  action  plan  (GAP),  safeguard 
+information  dissemination  and 
+checklist,  grievance 
+consultation  with  ensuring  iInformative  signs  on  safety  and  energy  conservation 
+posted in the villages properly with JFPR logos.  
+redress  mechanism, 
+(xx)  Support  the  PMU  to  implement  the  GAR  and  PAM  and  report  the  project 
+implementation  progress  to  PMU for them  to  submit  quarterly  progress report  to 
+ADB.  
+In  close  coordination  with  PMU,  executing  agency,  implementing  agencies,  and 
+ADB, plan and carry out tasks to organize preparation, record, and production of 
+the video clip. This is to capture the key implementation of the planned activities 
+(xxi) 
+6 The reliability indicator (i.e. number of outage) will be developed and included in the end-line survey sheet. 
+Appendix 3 
+43 
+under the project and as described in GAR, analyze, and record the impacts of the 
+project intervention.  
+(xxii)  Draft a final grant report based on all tasks undertaken including end line survey 
+result.  
+1.4  
+Team composition, qualification requirements and tasks 
+9. 
+International firm shall have at least 5 years of experience in overall project management 
+of  similar  assignments.  They  shall  also  have  experience  in  regulatory  work  for  alternative 
+renewable energy and understanding on gender equality and social inclusion in development. The 
+firm  shall  have  international  and  national  consultants  with  relevant  expertise.  Experience  in 
+implementing  similar  projects  in  Bhutan  will  be  an  added  advantage.  The  approach  and 
+methodology for the project, the qualifications of each proposed expert will need to be detailed by 
+each  shortlisted  firm  in  their  proposal.  Outline  terms  of  references  (TORs)  associated  with 
+international and national experts are presented below.  
+10. 
+The team composition of the key consultants along with their estimated person months is 
+provided  in  table  1  and  the  required  qualification  of  the  key  experts  are  provided  in  following 
+paragraphs:  
+Table 1: Indicative Expertise and Person-Months 
+Number 
+Positions 
+Person-Months 
+International 
+Renewable energy regulation specialist (Team leader) 
+Electricity distribution and photovoltaic connection specialist 
+(Deputy team leader) 
+Procurement Specialist 
+Energy tariff specialist  
+Sub-total (international) 
+National 
+Photovoltaic System data analyst 
+Gender Equity and Social Inclusion specialist 
+Survey specialist  
+Administration staff 
+Recording specialist  
+Sub-total (national) 
+Total 
+1 
+1 
+1 
+1 
+4 
+1 
+1 
+1 
+1 
+1 
+5 
+9 
+12 
+4 
+4 
+5 
+25 
+12 
+12 
+12 
+12 
+4.5 
+52.5 
+77.5 
+Renewable  energy  regulation  specialist  (Team  leader,  international,  12  person- 
+11. 
+months, intermittent). The specialist should have at least 10 years working experience related 
+to  policy/regulation  of  renewable  energies.  The  specialist  will  be  the  team  leader  for  the  grant 
+implementation team and manage all planned activities. The specialist will supervise consultant 
+team members, will take responsibility for reporting to ADB in consultation with PMU with relevant 
+deliverables and will maintain day-to-day coordination with assigned staff(s) of PMU at the field 
+level. The specialist will draft the inception report, quarterly project progress reports, final grant 
+report and other reports indicated in  Table 2. Indicative List of Reports in coordination with the 
+team  members,  PMU,  and  relevant  agencies.  The  specialist  should  have  a  master’s  or  higher 
+degree in Energy Economics, Policies or Engineering. 
+44 
+Appendix 3 
+Electricity distribution and photovoltaic connection specialist (Deputy team leader, 
+12. 
+international,  4  person-months,  intermittent).  The  specialist  should  have  at  least  10  years 
+working  experience  in  planning,  design  and  operation  of  power  distribution  grid,  together  with 
+installation, connection and operation of solar photovoltaic systems. The specialist will assist BPC 
+to assess the impact on the existing distribution grid in rural areas by connecting residential solar 
+photovoltaic systems, to assess the grid’s adequacy including the capacity of solar photovoltaic 
+systems which can be accommodated in the existing grid, and to identify the specifications and 
+requirements for the connection of residential solar photovoltaic systems to the grid in the rural 
+areas. The specialist will support the team leader to draft the inception report, quarterly project 
+progress reports, final grant report and other reports required under the TOR in coordination with 
+the team members, PMU, and relevant agencies. The specialist should have a master's degree or 
+above in electrical engineering or relevant renewable energy technology field. 
+13. 
+Project  procurement  specialist  (international,  4  person-months,  intermittent).  The 
+specialist will support and monitor the procurement activities of the equipment under the project 
+including, not limited to, drafting bidding documents, and bid evaluation reports. The specialist will 
+identify areas to garner community support such as transportation and strengthening structures 
+with a support from the survey specialist. The specialist will provide inputs for the team leader to 
+draft the inception report, quarterly project progress reports, final grant report and other reports 
+required  under  the  TOR.  A  minimum  of  10  years’  working  experience  in  procurement  for 
+international development project is required. Master's degree in engineering, finance, economics, 
+or related fields is required.  
+14. 
+Energy tariff specialist (international, 5 person-months, intermittent). The specialist 
+will  assist  PMU  to  determine  an  indicative  tariff  for  power  purchase  from  the  residential  solar 
+photovoltaic systems under this pilot project based on the estimation of cost and benefit in keeping 
+with the extant rules and regulations, and assist DRE, and BPC to get the indicative tariff endorsed 
+by  the  regulator,  BEA.  The  specialist  will  also  assist  PMU  to  prepare  tariff  structure  for  power 
+purchase  from  residential  solar  photovoltaic  systems  based  on  the  analysis  of  the  data  of 
+generation  and  consumption  profile  obtained  from  the  pilot  project.  The  specialist  will  provide 
+inputs  for  the  team  leader  to  draft  the  inception  report,  quarterly  project  progress  reports,  final 
+grant  report  and  other  reports  required  under  the  TOR.  The  specialist  should  have  at  least  10 
+years work experience in financial/economic analysis related to electricity tariff. Master's degree 
+in Finance, Economics and/or Engineering is required. 
+15. 
+Photovoltaic  system  data  analyst  (national,  12  person-months,  intermittent).  The 
+expert  will  analyze  the  data  of  generation,  consumption  and  injection  to  the  grid  from  the 
+households, and provide the energy tariff specialist with the inputs which contribute to preparation 
+of tariff structure. The data will be collected by BPC from smart meters and power conditioning 
+systems (PCS) and be provided to photovoltaic system data analyst. The specialist will provide 
+inputs  for  the  team  leader  to  draft  the  inception  report,  quarterly  project  progress  reports,  final 
+grant report and other reports required under the TOR. The expert should have at least 5 years 
+work experience in data analysis in energy sector. Bachelor’s degree in Engineering or related 
+field is required. 
+16. 
+Gender  equity  and  social  inclusion  specialist  (national,  12  person-months, 
+intermittent). The specialist should be familiar with gender analysis tools and methodologies in 
+the energy sector. The specialist will be in charge of implementation and reporting of the GAP and 
+be responsible for checking whether the gender targets for each activity have been achieved and 
+taking necessary actions to achieve. The specialist will support PMU to prepare selection criteria 
+for both solar photovoltaic system installation, and solar photovoltaic system O&M training. The 
+Appendix 3 
+45 
+specialist will identify nationwide social benefit from adopting more solar photovoltaic systems and 
+developing renewable energy resources. In coordination with the survey specialist, the specialist 
+will analyze social economic survey and needs assessment results and end line survey result. The 
+specialist  will  provide  necessary  inputs  to  prepare  awareness  campaign  materials  and  deliver 
+related  trainings  together  with  the  survey  specialist.  The  specialist  will  also  assist  PMU  in 
+information dissemination, consultation, and grievance redress activities. In addition, the specialist 
+will  support  the  PMU  in  implementation  of  the  livelihood  activities  under  output  3.  Lastly,  the 
+specialist  will  provide  inputs  for  the  team  leader  to  draft  the  inception  report,  quarterly  project 
+progress reports, final grant report and other reports required under the TOR. The specialist should 
+have at least 5 years work experience in gender and social sector. Bachelor’s degree in  Social 
+Sciences or related discipline is required and an additional degree in engineering is an advantage. 
+Survey specialist (national, 12 person-months, intermittent). The survey specialist will 
+17. 
+be responsible for socio economic survey, needs assessment, and end line survey. In addition, 
+the survey specialist will also prepare the set of questionnaires and carry out the necessary site 
+assessments to help the PMU in selecting the 300-potential solar photovoltaic beneficiaries from 
+the list of 42 villages provided by DRE.  Also, the specialist will provide necessary inputs to prepare 
+awareness  campaign materials and  deliver  related training together  with the  social  and  gender 
+specialist.  The  specialist  will  identify  areas  which  need  communities’  support  such  as 
+transportation and strengthening structures in consultation with the procurement specialist. The 
+specialist will also assist PMU in information dissemination, consultation, and grievance redress 
+activities. The specialist will take the lead in preparation including development of methodology, 
+protocols  and  questionnaires  and  administration  of 
+the  socio-economic  survey,  needs 
+assessment, solar photovoltaic beneficiary identification and the end line survey. In addition, the 
+specialist works as a liaison between PMU and relevant agencies to undertake these surveys. The 
+specialist will recruit, train, and prepare enumerators for conducting the surveys and take lead in 
+data analysis, presentation, and finalization of the survey findings in a format acceptable to PMU 
+and ADB. Lastly, the specialist will provide inputs for the team leader to draft the inception report, 
+quarterly  project  progress reports, final  grant  report  and  other  reports required  under the  TOR. 
+The specialist should have at least 5 years work experience in socio-economic survey. Bachelor’s 
+degree in development or related disciplines is required.  
+Recording  specialist  (national,  4.5  person-months,  intermittent).  The  recording 
+18. 
+specialist will develop the video concept, scripts, and scenarios. The person should be available 
+for  major  stakeholder’s  workshops  and  important  site  visits  to  the  benefitted  villages  to  record 
+video and take photographs, The specialist will process full usage rights for music and scenes that 
+need to be used in the video and  carry out video editing, narration/translation in English/Dzongkha 
+with English subtitles wherever necessary. The specialist should have all necessary equipment 
+in-house  to  undertake  the  assignment  and  provide  a  report  on  all  photography  and  filming 
+locations including names and contact details of all individuals photographed or that will appear 
+on film. Also, the specialist will provide overall guidance to the executing agency, implementing 
+agencies,  and  PMU  for  visual  recording.  The  specialist  should  have  a  minimum  of  5  years 
+experience  in  similar  assignments  and  possess  at  least  a  bachelor’s  degree  in  Media,  Mass 
+Communications  or  Publication  or  related  studies.  The  person  should  demonstrate  strong 
+communications skills and ability to work well with others and excellent writing and interpersonal 
+skills.  
+Administration staff (national, 12 person-months, intermittent). The administrator will 
+19. 
+provide  project  implementation  support  to  accounting,  reporting,  recording,  submission  of 
+withdrawal  applications  for  the  grant,  selecting  trainees  and  participants,  and  facilitate  fund 
+46 
+Appendix 3 
+requests and releases and other administrative support required by the PMU. The administrative 
+specialist's office will be based in the DRE office to provide timely ad-hoc support to the PMU. The 
+specialist  should  have  at  least  5  years  of  relevant  finance  experience  at  national  level  and 
+familiarity with government accounting system and ADB standards. The administrator will have at 
+least a bachelor’s degree in Accounting, Finance or Administration and a qualification of certified 
+public accountant from a national recognized institute of accountancy.  
+№ 
+1 
+2 
+3 
+4 
+5 
+6 
+Table 2: Indicative List of Reports  
+Activity 
+Due by Month 
+Inception report and workshop 
+Social economic survey and need assessment results 
+Draft a study report on pre-requisite for regulatory framework 
+Finalize the study report on pre-requisite for regulatory framework 
+Indicative  tariff  for  residential  solar  photovoltaic  system  of  the  pilot 
+project  
+Awareness  campaign  material  on  benefit  of  the  solar  photovoltaic 
+system and safe and efficient use of Energy  
+3 
+6 
+6 
+12 
+12 
+12 
+Draft a tariff structure for residential solar photovoltaic system 
+Video clip recording project implementation and achievement 
+Draft a project completion report with end line survey result  
+7 
+8 
+9 
+10  Project progress report 
+42 
+42 
+45 
+Quarterly 
+Appendix 3 
+47 
+PROJECT ADMINISTRATION ANALYST – INDIVIDUAL CONSULTANT  
+Project: 
+Expertise: 
+Source : 
+BHU 53365-001 Alternative Renewable Energy Pilot Project 
+Implementation, Administration, Coordination, and Management 
+International 
+Objective and Purpose of the Assignment 
+The  consultant  will  support  the  ADB  project  officer  in  the  implementation  of  the  project.  The 
+consultant will oversee financial as well as administrative aspects of the project. Will also be in 
+close coordination with the executing agency, implementing agencies, and consulting firm other 
+than the ADB project officer. 
+Scope of Work 
+In close coordination with the ADB project officer, executing agency, implementing agencies, and 
+consulting  firm,  the  consultant  will  oversee  the  project’s  financial  transactions  and  maintain  a 
+financial management system in a manner that is compliant with generally accepted accounting 
+principles  and  harmonized  with  ADB’s  policies  and  procedures  in  close  coordination  with 
+concerned  officers  within ADB (e.g.,  SDPF,  CTL,  and  PPFD).  The  consultant  will  report  to the 
+ADB project officer on an intermittent basis. 
+Detailed Tasks and/or Expected Output 
+The international project implementation analyst, under the guidance of the ADB project officer, 
+will undertake, including but not limited to, the following tasks: 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+Oversee the processing of project documents (e.g., project activities, claims, contracts, 
+and other pertinent documents). 
+Supervise the financial management and implementation of the project, including budget 
+preparation and liquidation of all activities under the project. 
+Help  manage  processing  of  contract  variations,  procuring  other  required  inputs,  and 
+providing inputs to project performance and completion report. 
+Engage in monitoring and progress tracking of all project activities and report to the ADB 
+project  officer  to  ensure  that  all  the  activities  are  carried  out  according  to  the  activities 
+listed in the project. 
+Monitor key technical and administrative milestones. 
+(v) 
+(vi)  Maintain an information system for technical and administrative purposes. 
+(vii)  Coordinate activities through working with the consulting firm. 
+(viii)  Provide  timely  inputs  to  the  ADB  project  officer  for  preparation  of  relevant  reports  and 
+(ix) 
+(x) 
+(xi) 
+documents. 
+Liaise  with  concerned  offices  in  securing  appropriate  decisions  and  actions  to  support 
+project activities. 
+Provide overall support and management of the project, by following up on outstanding 
+obligations  of  implementing  agencies  such  as  submission  of  project  reports,  financial 
+statements,  monitoring  progress  in  terms  of  outputs  and  deliverables,  assisting  in 
+processing 
+and 
+preparing/reviewing data input for procurement contract summary sheet (PCSS) to update 
+the Financial Information System (FIS). 
+Participate in various missions as required such as review, mid-term review, and project 
+completion  report  missions  by  providing  support  to  the  collection  of  data  on  contract 
+awards and disbursements. 
+reviewing  withdrawal 
+disbursements 
+applications, 
+and 
+48 
+Appendix 3 
+(xii)  Undertake other associated project support as required. 
+Minimum Qualification Requirements 
+The  assignment  requires  a  qualified  university  degree  in  business  administration,  finance, 
+economics, or other related fields suitable for the assignment. At least 10 years of experience in 
+project implementation and project management, including proficiency in up to date ADB project 
+implementation  procedures  and  systems,  including  consultant  recruitment,  disbursement,  and 
+project processing. The person must demonstrate ability to work well with others and excellent 
+writing  and  interpersonal  skills.  Recent  experience  in  ADB  project  implementation  is  required, 
+preferably with gender and energy sector project in South Asian countries. 
+Appendix 4 
+ 49
+Safeguard Checklist for Alternative Energy Development Pilot Project 
+A. 
+SOCIAL SAFEGUARD SCREENING CHECKLIST  
+Date: 
+Completed by 
+(name): 
+Position: 
+Signature: 
+1. Household name (as on land & building certificate):  
+2. Location:  
+3. Installation description  
+i) Total capacity:                kW 
+ii) Solar panels:   
+Number:   
+Capacity per panel:           kW  
+iii) Connection line length:             m  
+iv) Ownership of the land or facility:    private   government   community  
+v) Ownership of the land and rooftop structure:   single owner    multiple owners 
+vi) Total area available for solar photovoltaic system installation:  
+m2 
+To be completed for all solar photovoltaic installations 
+Yes  No  Remarks 
+Social Impact Screening Questions 
+Only installations with ‘NO’ checked against all 
+social items can proceed with processing 
+Will there be land acquisition for the installation? 
+Will there be residential house demolition causing 
+loss of shelter due to land acquisition or 
+construction activities? 
+Will there be any temporary occupation of land 
+that affects the land, housing, assets or 
+livelihoods/business of people except the 
+beneficiaries? 
+Will there be losses of crops, trees, graves and 
+fixed assets of people except the beneficiaries 
+during installation civil works? 
+Are there socio-cultural groups present at the 
+installation site who may be considered "tribes" 
+(hill tribes, schedules tribes, tribal peoples), 
+"minorities" (ethnic or national minorities), or 
+"indigenous communities"? 
+Will the installation directly or indirectly target, 
+displace or impact ethnic minority or indigenous 
+households? 
+Can the installation proceed at this location:  Yes       No  
+50 
+Appendix 4 
+Attachments to Form: 
+ Photo of installation location 
+ Building/land ownership certificate 
+All solar photovoltaic system installations shall meet the following social criteria: 
+Social Screening Criteria: 
+(i)  All project sites will be screened through safeguards checklists. 
+(ii)  All installations are limited to rooftops of the existing structures or premises of the 
+beneficiaries only. No installations with new grid connections that require the right of way will 
+be financed. 
+(iii) The installation does not involve any land acquisition or housing demolition and cause any 
+adverse impacts on ethnic minorities.  
+(iv) The installation does not support activities involving commercial development of cultural 
+resources of indigenous peoples. 
+Appendix 4 
+ 51
+B. 
+ENVIRONMENT SAFEGUARD SCREENING CHECKLIST  
+Date: 
+Completed by 
+(name): 
+Position: 
+Signature: 
+1. Household name (as on land & building certificate):  
+2. Location:  
+3. Installation description  
+i) Total capacity:                kW 
+ii) Solar panels: -  
+Number:   
+Capacity per panel:           kW  
+iii) Connection line length:             m  
+iv) Ownership of the land or facility:    private   government   community  
+v) Ownership of the land and rooftop structure:   single owner    Multiple owners 
+Vi) Total area available for solar photovoltaic system installation:    
+m2 
+To be completed for solar photovoltaic installations  
+Yes  No  Remarks 
+Screening Questions 
+A.  PROJECT SITING 
+Is  the  site  adjacent  to  or  within  any  of  the  following 
+environmentally sensitive areas? Only the installations 
+with ‘No’ checked against all siting items can proceed 
+with processing. 
+▪  Physical cultural heritage site 
+▪ Located in or near to legally protected area or buffer 
+zone 
+▪  Located in or near to special habitats for biodiversity     
+   (modified or natural habitats) 
+▪  Wetland 
+▪  Mangrove  
+▪  Estuarine 
+▪  Offshore (marine) 
+B. POTENTIAL ENVIRONMENTAL IMPACTS 
+Will the installation cause… 
+If  more  than  3  ‘Yes’,  then  due  diligence  and  EMP 
+required 
+▪  disturbance  due  to  noise,  vibration  and  dust  from 
+construction activities? 
+▪  disturbance due to an increase in local traffic during 
+construction? 
+▪  environmental  disturbances  such  as  soil  erosion, 
+land  contamination,  water  quality  deterioration,  air 
+pollution,  noise  and  vibrations  during  construction 
+phase? 
+52 
+Appendix 4 
+Screening Questions 
+▪  a  threat  to  bird  or  bat  life  from  colliding  with  the 
+Yes  No  Remarks 
+project facilities? 
+▪  industrial  liquid  (dielectric  fluids,  cleaning  agents, 
+solvents,  lubricating  oils,  compressor  oils,  and 
+hydraulic fluids) and solid wastes generated during 
+construction and operations likely to pollute land and 
+water resources?  
+▪  soil/water  contamination  due  to  use  of  hazardous 
+materials  or  disposal  of  broken  or  damaged  solar 
+cells 
+technologies  contain  small 
+amounts of cadmium, selenium and arsenic) during 
+installation, operation and decommissioning? 
+(photovoltaic 
+▪  noise  disturbance  during  operation  due  to  the 
+proximity of settlements or other features? 
+▪  visual impacts due to reflection from solar panels on 
+roof tops? 
+▪  is there any asbestos presence observed?  
+▪  large  population  influx  during  project  construction 
+and  operation  that  causes  increased  burden  on 
+social  infrastructure  and  services  (such  as  water 
+supply and sanitation systems)? 
+▪  medium-high  risks  and  vulnerabilities  related  to 
+occupational  health  and  safety  due  to  physical, 
+chemical, biological, and radiological hazards during 
+construction, 
+and 
+decommissioning? 
+installation, 
+operation, 
+▪  medium-high  risks  to  community  health  and  safety 
+due  to  the  transport,  storage,  and  use  and/or 
+disposal  of  materials  and  wastes  such  as 
+fuel  and  other  chemicals  during 
+explosives, 
+construction and operation? 
+▪  community  safety  medium-high  risks  due  to  both 
+accidental and natural causes, especially where the 
+structural elements or components of the project are 
+accessible to members of the affected community or 
+where  their  failure  could  result  in  injury  to  the 
+community 
+construction, 
+operation and decommissioning? 
+throughout 
+project 
+Appendix 4 
+ 53
+All sites shall meet the following criteria, in particular:  
+Environmental Screening Criteria: 
+(i)  All sites will be screened through safeguards checklists. 
+(ii)  The installation has only minimal or no adverse environmental impacts. 
+(iii) The facilities are not located in any designated environmental protection zone and cultural 
+heritage site. 
+(iv) The installations do not increase the amount of water consumption compared to prior status. 
+(v)  The installations do not directly or indirectly result in significant conversion or degradation of 
+natural habitat. 
+(vi) The facilities are not located within, abstract water from, or discharge to a critical habitat and 
+a legally protected area. 
+(vii)  Each facility should be designed, constructed, and operated in accordance with all relevant 
+domestic environmental and social regulations and must acquire necessary environment 
+permits, if any. 
+(viii) Based on the visual preliminary screening of asbestos presence in the selected 
+households, in case asbestos is detected, it is suggested to avoid activities that could mobilize 
+asbestos fibers in the environment. If the rooftop is already damaged or at risk of release, an 
+asbestos removal should be arranged or an alternative location where no asbestos is present 
+should be selected. 
+(ix) The installations should be in compliance with relevant domestic occupational health and 
+safety standard. 
+(x)  Persons involved in any field work should be trained on risks and prevention measures for 
+COVID 19.  
+54 
+Appendix 4 
+I.   Overview 
+1.  
+Objectives  
+C.  GUIDELINE FOR COVID 19  
+•  This guideline is designed with a set of procedures and actions to prevent and contain the 
+spread of novel Coronavirus (COVID-19) in public and multi-purpose facilities.  
+•  Examples  of  public  facilities:  schools,  workplaces,  facilities  for  youths  and  families, 
+daycare centers, kindergartens, social welfare facilities, postnatal care centers, medical 
+institutions, etc.  
+•  Examples of multi-purpose facilities: performance halls, sports facilities, religious facilities, 
+shopping malls (large-scale retail stores, markets, department stores, etc.), movie theaters, 
+large-scale restaurants, public bathhouses, etc.  
+•  This  guidance  outlines  the  strategies  and  actions  that  will  be  implemented  by 
+representatives or managers  of  the  above-mentioned  facilities  (hereinafter  “managers”) 
+for effective prevention and control of COVID-19 within their facilities. 
+Characteristics of COVID-19 
+Symptoms  
+•  The  symptoms  of  COVID-19  are  fever,  fatigue,  cough,  shortness  of  breath,  pneumonia,  severe 
+acute respiratory syndromes, etc. Most infected people experience mild symptoms, but those with 
+underlying health conditions are likely to be at higher risk of developing a severe illness.  
+• Other symptoms include sore throat, headache, phlegm, hemoptysis, nausea, and diarrhea.  
+Mode of Transmission  
+•  Droplets:  Respiratory  droplets  (saliva)  produced  when  a  person  infected  with  COVID-19  coughs  or 
+sneezes  allow  the  virus  to  infiltrate  another  person’s  mucous  membranes  in  the  respiratory  system, 
+thereby causing the infection. 
+• Contact: When droplets produced by an infected person land on objects, surfaces, etc., the virus 
+can be transmitted to those who touch these objects or surfaces with their hands and then touch 
+their eyes, nose, mouth, and other body areas.  
+Transmission characteristics  
+(1) COVID-19 is highly contagious and can be transmitted even at early stages of infection with mild 
+symptoms.  
+(2) The scale of transmission can become much larger when people come into close contact with each 
+other in confined spaces. 
+2.  
+Guiding Principles  
+•  Managers of public and multi-purpose facilities where a large number of people gather or 
+stay  should  follow  and  implement  “a  National  Preparedness  and  Response  Plan  for 
+Outbreak  of  COVID-19  (National  Plan  for  COVID  -19) 51    as  well  as  a  coordination 
+mechanism with relevant agencies.  
+•  Measures must be implemented to protect employees, users, and visitors from COVID-
+19, enhance early detection of the disease, and prevent community transmission.  
+51 https://www.cabinet.gov.bt/wp-content/uploads/2020/03/National-Preparedness-and-Response-Plan-3rd-ed-1-1.pdf. 
+Appendix 4 
+ 55
+•  Specific  measures  include  ensuring  good  hygiene  practices,  and  routine  cleaning, 
+disinfection, and ventilation; improving working conditions; regularly monitoring for fever 
+and other symptoms; excluding individuals with such symptoms from work.  
+•  Any  confirmed  case  must  be  immediately  reported  to  a  local  public  health  center  and 
+necessary measures must follow suit to prevent further contraction. 
+II.  
+1.  
+Coronavirus Disease (COVID-19) Countermeasures 
+Establishment of a COVID-19 management and coordination mechanism  
+•  Facilities should follow and implement National Plan for COVID-19, and to  this purpose, 
+facilities should designate specific persons who are responsible for COVID-19 infection 
+control  (called  “Inspection  Manager”)  in  order  to  ensure  accountability  in  disease 
+prevention and mitigation efforts.  
+•  Also,  it  is  highly  advised  for  facilities  to  assign  responsibilities  to  monitor  employees’ 
+symptoms,  file  reports  of  confirmed  cases,  locate  hygiene  supplies  in  facilities,  etc.  to 
+specific persons.  
+It  is  essential  that  facilities  install  and  maintain  a  COVID-19  emergency  hotline  with 
+relevant agencies (i.e. public health centers and medical institutions) for an effective and 
+imminent  response  to  possible  and  probable  COVID-19  cases  and  other  emergency 
+situations.  
+• 
+2.  
+Thorough management for infection prevention  
+Education and promotion for effective prevention 
+•  Facilities  should  provide  their  employees,  users,  and  visitors  with  information  about 
+COVID-19  and  conduct  education  sessions  on  the  code  of  conduct  on  proper 
+handwashing, cough etiquette, etc.  
+It is necessary to notify facility users and visitors that their access to the facilities can be 
+limited  if  they  have  a  fever  or  respiratory  symptoms  and  display  such  notification  in 
+common areas.  
+• 
+•  Also  important  is  to  exhibit  a  set  of  promotional  materials  in  common  areas  within  the 
+facilities, including precaution guidelines for prevention of COVID-19 transmission, which 
+cover handwashing, cough etiquette, etc.  
+Hygiene and environmental management 
+•  Facilities should place hand wash, such as liquid soaps and hand sanitizers (containing 
+at least 70% alcohol), paper towels, etc. in sufficient quantity on sinks (those with non-
+manual faucets, etc. preferred) in restrooms and other areas in the facilities.  
+•  Waste  baskets  and  trash  cans  should  be  placed  at  several  locations  in  the  facilities to 
+allow the immediate disposal of tissues used for coughing.  
+•  Cleaning,  disinfection,  and  ventilation  should  be  increased  in  common  areas  within 
+facilities, commuter buses, dormitories, etc. 
+•  Particular attention should be paid to enhance disinfection for areas and objects* that are 
+frequently touched with hands.  
+•  As to door handles, handrails, various touch devices, desks, tables, chairs, telephones, 
+and  computer  keyboards,  disinfection  must  be  implemented  at  least  once  a  day,  while 
+entrance doors, elevators and similar public-using objects should be disinfected on a more 
+frequent basis.  
+•  Also, it is necessary to regularly purify air and ventilate in the facilities.  
+56 
+Appendix 4 
+3.  
+Strengthening management of employees, users and visitors  
+•  Facilities must conduct temperature checks for fever at entry points and in the office.  
+•  Temperature  and  respiratory  symptom  screening  of  employees  and  others  should  be 
+conducted twice a day.  
+•  For facility users and visitors, temperature checks should be offered when they enter the 
+facilities.  
+•  A  list  of  users  and  visitors  which  contains  their  personal  details,  contact  information, 
+temperature check results, etc. should be kept at the facilities.  
+•  Employees or users who have fever or respiratory symptoms should not be permitted to 
+work or use the facilities.  
+•  Workers with a fever or respiratory symptoms will stay at home and refrain from contacting 
+others or leaving home.  
+•  No employee who recently travelled overseas will be permitted to work in office for three 
+weeks and working from home (or telecommuting) and other cautionary measures should 
+be recommended.  
+•  Example: A person who entered Bhutan on March 6 will be prohibited from work in office 
+until March 27 (21 days from the day of arrival).  
+•  Children's absence from daycare centers, kindergartens, schools, etc. will be processed 
+as attendance, and isolated children should be provided with temporary daycare. Other 
+measures should be followed as needed.  
+•  When  staying  at  home,  employees  should refrain  from  making  contact  with  others  and 
+going  outside  the  house  and  keep  monitoring  themselves  for  any  fever  or  respiratory 
+symptoms.  
+•  Employers or facility managers should grant leave or other forms of relief to workers who 
+are excluded from work and ensure that these workers face no disadvantage.  
+•  Employers,  facility  managers  and  others  in  relevant  positions  should  actively  provide 
+advanced  notice  that  workers  are  required  to  stay  home  if  they  develop  a  fever  or 
+respiratory symptoms.  
+•  Those engaged in social care services, such as care workers, caregivers, home helpers, 
+etc., should be thoroughly managed and allowed to work only after 21 days from the day 
+of their arrival if they have an overseas travel record. They are prohibited from providing 
+services until 21 days from their arrival.  
+If there is a suspected patient of COVID-19, an isolation area where the suspected patient 
+can stay should be secured within the facilities.  
+• 
+•  The designated isolation space must be well-ventilated with doors that can be closed, and 
+access to this space must be restricted to those who wear medical masks. 
+Excerpt from Guidance for COVID-19 Patients with Symptoms 
+1. Stay home from school or work and refrain from going outside.  
+2. Take sufficient rest at home and monitor your health. 
+3. If there is an ongoing fever of 38℃ or higher, or the symptoms do not improve, contact 
+designated public health center.  
+4. Use your own vehicle and wear a mask when visiting a medical institution.  
+5.  Inform  the  medial  staff  about  your  overseas  travel  history  and  any  contact  with  a  person  showing 
+respiratory symptoms. 
+Appendix 4 
+ 57
+4.  
+Practicing physical distancing  
+•  Avoid physical contact including handshakes, etc. with other employees, visitors, etc.  
+• 
+Improve  the  working  environment,  including  enlarging  the  space  between  employees’ 
+seats in the office (keeping a distance of at least 1 meter).  
+•  Adopt alternate start/end times for work and lunch hours.  
+•  Use flexible work schedules and adjust lunch hours.  
+•  Temporarily  suspend  the  operation  of  public  space  such  as  indoor  lounges  and  multi-
+functional spaces. Avoid having refreshments or lunch together in lounges, etc.  
+•  Postpone  or  cancel  mass  gatherings,  small-group  events,  business  trips,  etc.  These 
+gatherings and events include social functions at home and abroad, events, interest-based 
+societies, hobby clubs, and company get-togethers. 
+5.  
+Actions following detection of suspected patients  
+•  Facility  managers  should  immediately  report  to  a  public  health  center  if  a  suspected 
+patient is identified.  
+•  The suspected patient should wear a mask and stay in a separated space until transferred 
+to a screening station.  
+•  After undergoing a test, the suspected patient should be placed in home quarantine until 
+the test result comes out.  
+•  After the suspected patient is transferred to a public health center, the place where the 
+patient stayed should be properly disinfected with disinfectants such as alcohol, sodium 
+hypochlorite, etc. 
+58 
+Appendix 4 
+Figure 1. COVID–19 Prevention Measures 
+Source: www.cdc.go.kr (erased country specific instructions)  
+Appendix 5 
+59 
+STRATEGIC PROCUREMENT PLANNING FOR BHU 53365-001 
+(July 2020) 
+Section 1: Project Concept 
+Project Title 
+Alternative Renewable Energy Pilot Project 
+Country 
+Bhutan 
+Executing agency 
+Department of Renewable Energy (DRE), Ministry of Economic Affairs 
+(MOEA) 
+Implementing agency 
+- Department of Renewable Energy, Ministry of Economic Affairs  
+- Bhutan Power Corporation Limited (BPC) 
+Project development 
+objectives 
+Demonstrate viability and sustainability of solar power as an alternative energy 
+and income source in pilot rural villages in Bhutan. 
+Project description 
+Description of 
+indicative contract 
+packages 
+Summary of the 
+financing agreement 
+The project intends to (i) conduct a study on regulatory requirements for the 
+promotion of alternative renewable energy resources and prepare a tariff 
+structure for residential solar photovoltaic systems, (ii) assess the adequacy of 
+the national electricity grid and pilot-test solar photovoltaic systems in rural 
+villages, and (iii) enhance energy-based livelihood skills through vocational 
+education and energy based livelihood equipment support. 
+The estimated cost is $3.5 million. Out of the $3.5 million, ADB is seeking $3.0 
+million grant financing from Japan Fund for Poverty Reduction (JFPR). Royal 
+Government of Bhutan will provide $0.5 million of in-kind support. 
+DRE will be the executing agency. DRE and BPC will be the implementing 
+agencies.  
+The contract packages are set out as below: 
+- Supply and installation of 300 residential solar photovoltaic systems (BPC); 
+- Supply of 300 bi-directional electric meters (BPC); 
+- Update of existing metering software (BPC); and 
+- Supply of energy-based livelihood equipment (DRE). 
+Out of $3.5 million of estimated cost, ADB will provide 85.7% ($3.0 million) 
+which ADB is seeking grant financing from JFPR. RGOB will provide $0.5 
+million of in-kind support. 
+ADB = Asian Development Bank, AREP = Alternative Renewable Energy Policy, BPC = Bhutan Power Corporation, 
+DRE = Department of Renewable Energy, SCADA = supervisory control and data acquisition. 
+Section 2: Operating Environment 
+A.  
+Capacity and capability assessment of the executing agency/implementing agency 
+(DRE & BPC) 
+Strengths 
+Weaknesses 
+●  Have a pool of professionals with prior 
+experience in renewable energy projects 
+and procurements 
+●  Experience in delivering ADB financed 
+projects 
+●  Prosumer concept is the first of its kind and 
+therefore less knowledge on the prosumer 
+working modality. 
+●  No specific renewable energy equipment 
+standards for Bhutan 
+60 
+Appendix 5  
+●  Robust oversight and governance 
+requirements and a clear chain of 
+accountability in place 
+●  The funding and investment into renewable 
+energy development is viewed as capital 
+intensive.  
+●  DRE/BPC enjoys support of other relevant 
+●  Lack of fund support from the government for 
+the promotion of renewable agency 
+technologies 
+Threats 
+●  Lack of operating and maintaining skills among 
+the beneficiaries  
+●  Transportation & logistics challenges.  
+●  Issues regarding possibility of disruption of the 
+national grid due to integration of Solar 
+photovoltaic with the existing grid. 
+●  Specific periods of the year would have issues 
+with the works delivery due to the inherent 
+difficulties arising from monsoon season. 
+●  Non availability of required tools, tackles, 
+machines, and cranes in the remote villages 
+during the project implementation. 
+agencies. 
+●  Nodal agency for the implementation of 
+AREP  2013 and have institutional linkages 
+to most of the key stakeholders. 
+●  BPC has access to many competent 
+suppliers and consultants providing proven 
+design and new technologies.  
+●  All the stakeholders will provide the 
+necessary support for the implementation 
+of the project. 
+Opportunities 
+●  New technology penetration in Bhutan related 
+to solar photovoltaic (smart meters, solar 
+photovoltaic and SCADA remote monitoring 
+and control). 
+●  Livelihood improvement of villagers through 
+energy sales. 
+●  Economic growth through energy 
+displacement.  
+●  Project will help enhance reliability and energy 
+security. 
+●  Adequacy assessment of the entire distribution 
+networks can be undertaken which will help 
+ascertain the networks capability for injection of 
+electricity from such renewable energy 
+technologies. 
+●  Promote private sector participation in 
+renewable energy projects. 
+●  Platform for enhancing skills development on 
+renewable energy technologies. 
+ADB = Asian Development Bank, AREP = Alternative Renewable Energy Policy, BPC = Bhutan Power Corporation, 
+DRE = Department of Renewable Energy, SCADA = supervisory control and data acquisition. 
+B. 
+Support Requirements  
+Procurement capability and 
+capacity 
+As and when there is a project, Department of Renewable Energy 
+(DRE) creates a specific project management unit (PMU) team to carry 
+out all the project activities including the procurement. In addition, we 
+have access to the skills and expertise of the Ministry’s procurement 
+officials.  
+Within Bhutan Power Corporation (BPC), a dedicated team has been 
+formed to deliver the project with expertise in procurement, monitoring 
+and implementing the project.  
+BPC has experience in tendering and procurement related to Japan 
+International Cooperation Agency (JICA) and ADB funded projects as 
+per their rules and guidelines.  
+Experience in implementing 
+similar projects 
+Contract management 
+capability and experience 
+Level of reliance on external 
+consultants 
+Existence and description 
+of complaints management 
+system 
+Appendix 5 
+61 
+To avoid potential procurement risks, prior review of all contract 
+packages should be considered by ADB. 
+Most of the Projects carried out by DRE are ADB funded e.g. RREDP 
+0228, ACEF, Energy Plus, Japan Fund for Poverty Reduction (JFPR) 
+9158. Therefore, DRE have enough experience in implementing ADB 
+funded projects.   
+BPC has implemented rural electrification project funded by JICA and 
+ADB. BPC has also implemented the wind power project and JFPR 
+9158 project funded by ADB.  However, it is noted that the previous 
+ADB funded projects followed ADB Procurement Guidelines (2015).  
+Therefore, further training / support for the executing 
+agency/implementing agency staff to conduct procurement activities 
+under New Procurement Framework following ADB Procurement Policy 
+(2017, as amended from time to time) / Procurement Regulations for 
+ADB Borrowers (2017, as amended from time to time) should be 
+considered by ADB. 
+As mentioned above, DRE has executed and implemented all the 
+previous ADB and other donor funded projects without any issues. The 
+RGOB has a clear set of rules & regulations for procuring such 
+works/consultancy which DRE is very familiar with. In addition, the DRE 
+is also well versed in the relevant ADB guidelines for procuring such 
+works/activities. 
+A project team (Renewable Energy Division in BPC) exists to oversee 
+the implementation of the project including contract management and 
+implementation however no contract management plan has been 
+produced. The team has previous experience in delivering similar 
+procurements and handling similar projects. The pilot wind power 
+project was also handled by the same team.  
+DRE is the nodal agency of the RGOB which oversees and administers 
+all the plans and policies regarding the promotion and development of 
+renewable energy technologies in the country. The department is also 
+responsible for outlining the long-term plans, policies, guidelines for 
+setting out the overall national targets on the renewable energy front. 
+Most of the aforesaid activities are carried out through International 
+consultants while we also endeavour to entrust whatever is doable in-
+house to our national firms. 
+BPC being a profit-making company and one of the highest revenue 
+contributors to the government, it has a minimum reliance on external 
+consultants regarding the energy business (distribution, transmission, 
+and embedded generation system). 
+DRE has a clear mechanism to handle any complaints/grievances. At 
+department level, the complaints will be brought out to PMU level which 
+if cannot be resolved will be put up to the Director, DRE who will bring it 
+in the departmental committee meeting. If the issue is still unresolved at 
+the department level, it will then be directed to the ministerial committee 
+where an amicable solution could be reached.  
+Complaints can also be logged with RGOB’s Anti-Corruption 
+Commission and settled as arbitration in accordance with the laws of 
+Bhutan. 
+Any unresolved grievances could be also taken up in the court of law for 
+final arbitrations.  
+ACEF = Asia Clean Energy Forum, ADB = Asian Development Bank, RGOB = Royal Government of Bhutan,        
+62 
+Appendix 5  
+RREDP = Rural Electrification and Renewable Energy Development Project.  
+C.  
+Key Procurement Conclusions 
+DRE and BPC have procurement experience in ADB financed projects under ADB Procurement 
+Guidelines (2015) for rural electrification projects and the pilot wind power projects. The project team is 
+aware of the ADB’s loan and grant disbursement and information system along with ADB’s payment 
+methods and withdrawal application system.  
+A dedicated team has been formed to deliver the project with expertise in procurement and work 
+monitoring. There is wide range and depth of experience across not only the Procurement team but also 
+delivering similar projects. 
+To avoid potential procurement risks, prior review of all contract packages is recommended and should 
+be considered by ADB. BPC has a standard procurement manual and guidelines for any procurement 
+related to distribution and transmission works. Any pilot projects shall be given in EPC basis depending 
+upon the past work experience of the bidders and success history of their brand of the solar panels and 
+equipment. In addition, training / support for the executing agency/implementing staff to conduct 
+procurement activities under New Procurement Framework following ADB Procurement Policy (2017, as 
+amended from time to time) / Procurement Regulations for ADB Borrowers (2017, as amended from time 
+to time) should be considered by ADB. 
+D.  
+External Influences Analysis 
+Governance 
+●  There is a stable central and local government environment for 
+Economic 
+this project to operate within. 
+●  There is a strong and established oversight and governance 
+structures that oversees both national and international 
+procurement. 
+●  There is a strong integrity pact established by Anti-Corruption of 
+Bhutan that needs to be followed for any procurements 
+●  The project is delivered in an area which has no conflict. 
+The economic environment presents a predictably stable environment 
+for the life of the project. 
+Economic Growth – Economic growth is high. At current prices, the 
+Gross Domestic Product (GDP) of Bhutan stands at about Nu. 
+164,627.92 million in 2017‒ 2018. The GDP (in Nu) of Bhutan grew at 
+the rate of 4.63% in 2017‒2018, though it is envisaged to be 2.4% in 
+2020 due to COVID-19 pandemic. 
+Inflation – Inflation rose moderately to 2.7 % in June 2019 from 2.6% 
+in June 2018. It is envisaged to be 2.8% in 2020. Domestic CPI 
+inflation over the medium term is projected at 4.7%, remaining within 
+the range of Indian inflation target of 4 percent with a band +/-2 
+percent. 
+Unemployment –Bhutan has an overall unemployment rate of 3.4% 
+as of 2018. 
+Exchange Rate–The Bhutanese Ngultrum is relatively 
+stable/predictable and is pegged with the Indian Rupee. The import 
+component to the project from other third countries is low. 
+Labor Supply–Unskilled labor is relatively low cost and in supply. 
+Skilled labor needs to be hired from other countries. 
+Sustainability 
+Technology 
+Appendix 5 
+63 
+Climatic Change and Impact – Climate Change (CC) will have 
+minimal impact on this project. This project would in fact support and 
+promote the RGOB’s effort in the mitigation of CC impacts, especially 
+by way of curtailing firewood consumption through providing reliable 
+electricity supply to the people. 
+Waste Disposal and Recycling Capabilities – Waste disposal scheme 
+is in place regulated by the government  
+Local Environmental Standards – Strict standards and monitoring 
+systems are in place which require adherence.   
+Environmental Impact and Remedies – Potential impacts are 
+mostly temporary, predictable, and reversible on air, water, soil and 
+noise during construction period, and can be mitigated through 
+adherence to national regulations and ADB’s Safeguard Policy 
+Statement (2009), design criteria, and implementation of 
+Environmental Management Plan. 
+All the invoices/bills related to the procurement shall be through the 
+government’s EGP system. Project system module in EGP system 
+shall be used to monitor the financial and physical progress of the 
+project. Smart meters and optic fiber shall be used to monitor the 
+generation, consumption, and injection of the energy from solar 
+photovoltaic systems remotely. Net metering technology shall be 
+used for energy accounting purposes. 
+Manufacturing – Absence of a domestic manufacturing base in the 
+country will entail us importing all the materials/ equipment from other 
+countries. 
+E.  
+Key Procurement Conclusions 
+The external influences that could affect this project are low. There is a strong central and local government 
+environment for the project to operate and a strong oversight and governance framework in place. 
+Due to the need to import the materials and equipment from outside of the country there is some risk from 
+exchange rate fluctuations and supply, but these will be minimal due to the low value of the pilot project.  
+F.  
+Stakeholder Analysis and Communication Plan 
+64 
+Appendix 5  
+Keep Satisfied 
+Key Stakeholders 
+●  Policy and framework authorities 
+●  Utilities Sector 
+●  Regulatory Authorities  
+●  Department of Hydropower and Power 
+Systems (DHPS), Ministry of Economic Affairs 
+(MOEA) 
+●  Department of Technical Education (DTE), 
+Ministry of Labour and Human Resources 
+(MOLHR) 
+●  Ministry of Finance 
+●  Asian Development Bank 
+●  Beneficiary households 
+●  Bhutan Electricity Authority 
+●  Contracted suppliers 
+●  Consulting firm 
+Minimal Effort 
+Keep Informed 
+●  Bhutan Chamber of Commerce and Industry 
+●  Druk Green Power Corporation Limited 
+●  Druk Holdings and Investments 
+●  Construction sector of Bhutan 
+●  National Environment Commission 
+●  DRC and Department of Trade for 
+BSTEC/IDEC 
+G.  
+Stakeholder Communication Plan 
+●  Local governments (Dzongkhag & Gewogs) 
+●  Royal Monetary Authority (RMA) General 
+Community/Public 
+●  Supplier market 
+●  Potential bidders 
+Internal staffs 
+● 
+Key Stakeholder Group 
+Stakeholder name and role 
+Interest in the project? 
+Support and influence level 
+●  Ministry of Finance 
+●  Asian Development Bank 
+●  Beneficiary Households 
+●  Bhutan Electricity Authority 
+●  Contracted suppliers 
+●  Consulting firm 
+High Interest 
+High Power and Influence 
+High Level of Support 
+Objections, drivers, needs, and 
+levers 
+Action 
+Responsible, accountable, 
+consulted, or informed? 
+Communicate what, when, and 
+how? 
+Appendix 5 
+65 
+Successful project delivery, 
+Fulfilment of the project requirements, 
+Timeframes, 
+Quality and cost, and  
+Compliance. 
+The objectives of the key stakeholder group are linked to 
+knowledge on: 
+• 
+• 
+• 
+• 
+• 
+The drivers for this group are quite varied, and include: 
+Project development objectives, 
+• 
+Benefit realization, and 
+• 
+• 
+Seeking information (to pass on to consumers). 
+Generally, the stakeholders in this group have a positive 
+approach and outlook to the project. 
+Actions required will support the continuation of this supportive 
+approach and outlook. 
+The stakeholders in this group are either responsible, 
+accountable or consulted depending on their drivers and 
+involvement in the management of the project. 
+Most communication with the key stakeholders will be led by 
+face-to-face communications for this stakeholder group, however 
+face to face opportunities will also be supported by: 
+1. Regular reporting; 
+2. Online content and communications; 
+3. Presentations; 
+4. Meetings; and 
+5. Paper documentation (as required). 
+DRE will have responsibility for communicating to this 
+stakeholder group. 
+Communication will be scheduled and regular, as well as ad-hoc 
+as required. 
+Keep Satisfied Stakeholder Group 
+Stakeholder name and role 
+•  Policy and framework authorities 
+•  Utilities sector 
+•  Regulatory authorities  
+•  Department of Hydropower and Power Systems (DHPS), 
+MOEA 
+Interest in the project? 
+•  Department of Technical Education (DTE), MOLHR 
+Low Interest 
+Support and influence level 
+High level of Power and Influence 
+Objections, drivers, needs, and 
+levers 
+Action 
+The objectives of the keep satisfied stakeholder group are linked 
+to knowledge on: 
+•  General updates, 
+•  Scheduling, and specific impacts. 
+•  The drivers for this group are quite varied, and include: 
+• 
+• 
+•  Coordination of activities, and  
+•  Minimization of disruptions. 
+Generally, the stakeholders in this group have a positive approach 
+and outlook to the project. 
+Joint inspections with contractors, 
+Least shutdown times, 
+66 
+Appendix 5  
+Administrative approvals and co-ordination of efforts to minimize 
+disruption are an important part of the requirements of this group. 
+Therefore, the important actions include: 
+• 
+• 
+The stakeholders in this group are to be informed and consulted. 
+Timely consultation/information on any disruptions, and 
+Advance information on co-ordination requirements. 
+Most communication will be electronic communication via email, 
+website and online data or face to face. 
+Responsible, accountable, 
+consulted, or informed? 
+Communicate what, when, and 
+how? 
+Minimal Effort Stakeholder Group 
+Stakeholder name and role 
+Interest in the project? 
+•  Bhutan Chamber of Commerce and Industry 
+•  Druk Green Power Corporation Limited 
+•  Druk Holdings and Investments 
+•  Construction sector of Bhutan 
+•  National Environment Commission 
+•  DRC and Department of Trade for BSTEC/IDEC 
+Low interest 
+Support and influence level 
+Low power and influence 
+Objections, drivers, needs, and 
+levers 
+Action 
+Responsible, accountable, 
+consulted, or informed? 
+Communicate what, when, and 
+how? 
+The objectives of the minimal effort stakeholder group are linked 
+to knowledge on: 
+•  Project timings and schedule (especially in relation to 
+implementation periods) 
+•  Development of works and impacts 
+•  Good news stories 
+The drivers for this group are quite varied, and include: 
+•  Area development 
+•  Possible revenue 
+•  Public support 
+•  Business development 
+Generally, the stakeholders in this group have a positive approach 
+and outlook to the project. 
+The needs of the group are linked to: 
+•  Timely information (especially for approval items which could 
+delay the progress of the project), and 
+•  Compliance to regulations. 
+This stakeholders in this group are to be informed. 
+Communication in this area will be a mixture of: 
+1. Media-Based 
+2. Online 
+3. Marketing and Information dissemination materials (brochures, 
+newsletters, flyers) 
+DRE will have responsibility for communicating to this 
+stakeholder group. 
+Communication will be scheduled and regular to ensure that the 
+stakeholders are appropriately informed. 
+Appendix 5 
+67 
+Keep Informed Stakeholder Group 
+Stakeholder name and role 
+●  Local governments (Dzongkhag & Gewogs) 
+●  Royal Monetary Authority (RMA) General Community/Public 
+●  Supplier market 
+●  Potential bidders 
+Internal staffs 
+● 
+Interest in the project? 
+High Interest 
+Support and influence level 
+High to Medium Power and Influence 
+Objections, drivers, needs, and 
+levers 
+Action 
+Responsible, accountable, 
+consulted, or informed? 
+Communicate what, when, and 
+how? 
+The objectives of the keep informed stakeholder group are linked 
+to knowledge on: 
+•  Project timings and schedule (especially in relation to 
+implementation periods) 
+•  Development of works and impacts 
+•  Good news stories 
+The drivers for this group are quite varied, and include: 
+•  Area development 
+•  Possible revenue 
+•  Public support 
+•  Business development 
+Generally, the stakeholders in this group have a positive 
+approach and outlook to the project. 
+The needs of the group are linked to: 
+•  Timely information (especially for approval items which could 
+delay the progress of the project) 
+•  Compliance to regulations 
+This stakeholders in this group are to be informed. 
+Communication in this area will be a mixture of: 
+1. Media-Based 
+2. Online 
+3. Marketing and Information dissemination materials (brochures, 
+newsletters, flyers) 
+DRE will have responsibility for communicating to this 
+stakeholder group. 
+Communication will be scheduled and regular to ensure that the 
+stakeholders are appropriately informed. 
+H.  
+Key Procurement Conclusions 
+There are many stakeholders that have a keen interest in this project. 
+Communication with the stakeholder groups as mapped above include a range of methods that are 
+deemed suitable in line with the mapping. 
+The project team is responsible for communicating with all stakeholder groups and should produce a 
+communication schedule with a regular reporting as set out in the plan.  
+68 
+Appendix 5  
+Section 3: Market Analysis 
+A.  
+Porter’s Five Forces 
+Supply and installation of 300 residential solar photovoltaic systems 
+Competitive rivalry 
+There are several contractors in the international and domestic market to 
+bid for the supply and installation of 300 residential solar photovoltaic 
+systems packages such as: 
+●  Trina Solar – PRC 
+●  Jinko Solar - PRC 
+●  Vikram Solar – India 
+●  Sunrun - US 
+●  Vivint Solar - US 
+●  Panasonic – Japan 
+●  Hanwha Solar – Korea 
+●  SunPower – US 
+●  Canadian Solar – Canada 
+●  Jattu Solar – Dealer (Bhutan) 
+Bargaining power of 
+buyers 
+Bargaining power of 
+suppliers 
+Risk of new entrants 
+The bargaining power of buyer is medium as although there are multiple 
+suppliers in the market the relatively low value of the packages may 
+affect interest levels from suppliers.  
+All would be interested in taking up projects in Bhutan on EPC basis with 
+project worth above $1 million. The bargaining power of suppliers is 
+medium due to the number of possible suppliers who can deliver the 
+work on EPC basis.  
+Risk of new entrant would be unlikely to impact the market significantly. 
+Risk of substitutes 
+There is a low risk of substitutes. 
+Supply of 300 bi-directional smart energy meters 
+Competitive rivalry 
+Bargaining power of 
+buyers 
+Bargaining power of 
+suppliers 
+Risk of new entrants 
+Risk of substitutes 
+Itron – America 
+There are several contractors in the international market to bid for the 
+packages such as: 
+• 
+•  Secure - India 
+•  Actaris – India 
+•  Siemens – Germany 
+The bargaining power of buyers is medium due to the relatively low value 
+of the package. 
+The bargaining power of suppliers is medium due to the number of 
+possible suppliers who can deliver the work in EPC basis. 
+Risk of new entrant would be unlikely to impact the market significantly. 
+There is a low risk of substitutes. 
+Supply of Energy Based Livelihood Equipment 
+Competitive rivalry 
+The equipment is small and off the shelf, there are many local suppliers in 
+the market who be willing to provide quotations. 
+Appendix 5 
+69 
+Bargaining power of 
+buyers 
+Bargaining power of 
+suppliers 
+Risk of new entrants 
+The bargaining power of buyer is high considering that there are multiple 
+suppliers. 
+The bargaining power of suppliers is low due to the huge number of suppliers 
+who can deliver the equipment.  
+There will be new entrants, but the risk is low as this is small contract. 
+Risk of substitutes 
+There is a low risk of substitutes. 
+B.  
+Key Procurement Conclusions 
+Overall, there is considerable interest from the market for supply of both the solar equipment, software 
+and livelihood supplies. The relatively low value of the procurement items may increase the supply risk 
+somewhat. 
+To combat these risks, bid packaging must be carefully considered to ensure maximum attraction of the 
+bid to interested suppliers. 
+As most goods will be sourced from outside of Bhutan, packages must be advertised internationally to 
+ensure maximum exposure to interested suppliers. 
+C. 
+Supply Positioning 
+For  all  packages  to  be  procured  under  this  project,  all  suppliers  would  fall  into  the  tactical 
+acquisition  category.  Whilst  the  various  packages  are  low  in  value,  as  this  is  a  pilot  project, 
+70 
+Appendix 5  
+suppliers should be interested in providing the services due to the possibility of a larger project 
+being procured after successful pilot implementation. 
+E.  
+Supplier Preferencing 
+For most of the packages in this project the suppliers would be positioned in the develop category. 
+As previously mention, as this is a pilot project, whilst the revenue would be relatively small for 
+the supply market, there would be a reasonably high level of attractiveness due to the potential 
+for future business. 
+For  the  equipment  category,  as the  goods  are  routine and off  the  shelf,  they  may  fall  with the 
+nuisance category, however due to the high number of suppliers this poses little risk to project 
+delivery.  
+Section 4: Risk Management 
+A.  Project Procurement Risk Assessment Risk Register 
+No. 
+Risk Type 
+Risk Description 
+Impact 
+1 
+Procurement risk  Risk of international 
+bidders not bidding for 
+the project. 
+2 
+Procurement risk  Risk of complaints 
+challenging the 
+procurement process 
+or outcome could 
+cause delays due to 
+legal action or changes 
+required. 
+The desired amount 
+and quality of suppliers 
+are unavailable to 
+respond to the 
+procurement resulting 
+delaying the project.  
+The procurement 
+process is delayed. 
+Appendix 5 
+71 
+(L) 
+(I) 
+(1-5) 
+(1-5) 
+Risk 
+Score 
+(L x I) 
+2 
+2 
+4 
+Proposed Mitigation 
+Risk 
+Owner 
+Conduct pre-market engagement to raise 
+awareness. 
+Project 
+team 
+Incentivize new entrants, attractiveness 
+(including more lucrative), better 
+management, communications and fast 
+and easy payments or early completion 
+incentives. 
+1 
+4 
+4 
+Follow open and transparent process. 
+3 
+Procurement risk  Bids received are of a 
+higher cost than the 
+estimates indicated. 
+4  Contract 
+implementation 
+Lack of capacity to 
+implement the project. 
+5  Contract 
+implementation 
+All relevant documents 
+for the procurement 
+are not submitted 
+according to the 
+schedule. 
+The project must 
+secure extra funding, 
+reduce the final project 
+outputs or to rerun the 
+procurement. 
+Project implementation 
+delays and cost 
+increases. 
+Project implementation 
+delays and cost 
+increases. 
+2 
+4 
+8 
+Pre-market engagement. 
+More detailed cost estimation. 
+More due diligence. 
+2 
+3 
+6 
+Conduct capability building and formulate 
+contract management plan along with the 
+bidding documents. 
+3 
+4 
+12 
+Suitable project monitoring. 
+Install competent contract management 
+team, provide damages for delaying time 
+for completion. 
+Project 
+team 
+Project 
+team  
+Project 
+team 
+Project 
+team 
+72 
+Appendix 5  
+6  Contract 
+implementation 
+7  Contract 
+implementation 
+Sub-optimal 
+collaboration with 
+various departments 
+and stakeholders.  
+Selection of 
+incompetent 
+contractor/s 
+(technically & 
+financially). 
+8  Contract 
+implementation 
+Quality of the works 
+delivered is sub-
+optimal. 
+Increased inefficiencies 
+and potential disruption 
+to project schedule. 
+Delays in supply of 
+materials. 
+Works may not be 
+implemented 
+professionally. 
+These factors may lead 
+to the cancellation of 
+the contract and 
+redoing the 
+procurement all over. 
+Such a situation will 
+delay the project & 
+increase costs. 
+Delays as work needs 
+to be re-completed and 
+additional costs of 
+sourcing potential 
+replacements. 
+3 
+3 
+9 
+Communication (between all parties and 
+contractors). 
+1 
+5 
+5 
+Frame stringent criteria for selection; 
+increase the work experience requirement 
+of bidders; ask for similar prior work 
+experiences; and increase the financial 
+stability requirement of bidders. 
+Project 
+team and 
+selected 
+contractor 
+Project 
+team 
+2 
+4 
+8 
+Photovoltaic systems have been widely 
+adopted all over the world, and the 
+technology is matured. While the likelihood 
+is not high, implementing agency will 
+conduct regular checks and inspections. 
+Capable team of consultants for contract 
+management and construction supervision. 
+Project 
+team 
+9  Contract 
+implementation 
+Reduced availability of 
+raw materials needed 
+to complete the project. 
+Project is delayed, 
+and/or additional costs 
+incurred. 
+3 
+3 
+9 
+Realistic schedule. 
+Timely approval of orders. 
+Bid evaluation criteria. 
+Project 
+teams and 
+selected 
+contractor 
+10  Contract 
+implementation 
+Quality standards of 
+the equipment 
+delivered is sub-
+optimal. 
+Reduces the project 
+intervention value. 
+2 
+4 
+8 
+Conduct proper checks and inspections (if 
+required at the manufacturer’s premises). 
+Project 
+team 
+Consult with the experts before 
+procurement. 
+11  Contract 
+implementation 
+Timely approval of the 
+relevant procurement 
+documents. 
+Project implementation 
+delays and cost 
+increases. 
+1 
+4 
+4 
+Communication (between all parties and 
+contractors). 
+Project 
+team/ADB,  
+Proper scheduling. 
+12  Contract 
+implementation 
+Price escalation due to 
+currency exchange. 
+Additional 
+costs 
+incurred 
+2 
+13  Contract 
+implementation 
+Change in scope of 
+work. 
+Project is delayed, 
+and/or additional costs 
+incurred. 
+1 
+3 
+4 
+6 
+4 
+Accept the risk and reflect it in the contract 
+condition. Prepare some price contingency. 
+Project 
+team 
+Detailed project planning. 
+Well defined specifications. 
+Project 
+team 
+Clear  mechanism  in  the  contract  to  deal 
+with the variations. 
+Appendix 5 
+73 
+14  Contract 
+implementation 
+15  Contract 
+implementation 
+16  Contract 
+implementation 
+17  Contract 
+implementation 
+Reputational risk 
+damage to borrower 
+due to contractors’ 
+behaviour. 
+Scheduling of activity 
+does not account for 
+local activities such as 
+festivals, harvests, 
+holidays, or other 
+specific local events. 
+Process of required 
+permits, license, and 
+clearances. 
+Transportation issues 
+due to the rough and 
+narrow terrain roads at 
+villages.  
+Project delays. 
+2 
+3 
+6 
+Effective contract and supplier 
+management. 
+Project is delayed, 
+and/or additional costs 
+incurred. 
+1 
+3 
+3 
+Effective scheduling and contract 
+implementation schedule. 
+Project 
+team 
+Project 
+team 
+Project is delayed due 
+to not getting permits, 
+license, and clearances 
+on time 
+Project is delayed due 
+to transportation delay.  
+1 
+2 
+2 
+Effective scheduling on permit documents 
+before the start of the project. 
+Project 
+team 
+4 
+3 
+12 
+Effective transportation scheduling 
+depending on the monsoon rainy season 
+in Bhutan. 
+Project 
+team 
+74 
+Appendix 5  
+18  After project 
+completion 
+Operation and 
+maintenance of the 
+solar photovoltaic 
+system and smart 
+meters. 
+Breakdown of the 
+system. 
+2 
+3 
+6 
+BPC should take care of the system and 
+mitigate by O&M training for better 
+utilization of the asset. 
+Project 
+team/DRE 
+Section 5: Option Analysis  
+Appendix 5 
+75 
+A.  Option Analysis 
+Package 
+Solar photovoltaic 
+system 
+Option 
+Procurement Method 
+1.  OCB with 
+international 
+advertisement 
+2.  Merit-point 
+evaluation 
+Bidding Documents 
+1. Goods 
+2. Plant 
+Analysis 
+This is the standard competitive bidding procedure which 
+results in optimum transparency. 
+This procedure introduces competition among bidders and 
+make the bidders to propose the lowest rate or proper 
+market rate.  
+As the solar photovoltaic technology is mature and has 
+been widely adopted, certain quality can be assured by 
+preparing bidding documents with proper technical 
+requirements. Also considering that there are enough 
+potential suppliers, there are no disadvantages in using 
+OCB method. 
+Merit-point evaluation criteria for goods & works contracts 
+is like QCBS on consulting service contracts. Instead of 
+selecting the lowest price bidder, the executing agency 
+may select a bidder that offers better quality at higher price 
+based on the merit-point evaluation criteria.  
+However, the executing agency must spend additional time 
+to prepare detailed evaluation criteria for merit point 
+evaluation and to evaluate the proposals submitted by the 
+bidders.  
+This evaluation method ensures that the executing agency 
+will receive the highest quality product whilst still achieving 
+a competitive price. 
+The executing agency may consider using the standard 
+bidding documents (SBD) for plant due to the installation 
+component. However, as the installation may be simple 
+and shares a small proportion of the contract, the SBD for 
+goods can be used. 
+Preferred option: 
+Department of Renewable Energy (DRE) and Bhutan Power Corporation (BPC) have experience in 
+procurement of facility, equipment, and goods with OCB under ADB projects, and are familiar with this 
+option. This will also save project implementation time compared with the other option, while the timespan 
+is one of the challenges of the project implementation. The use of merit-point evaluation will balance 
+quality with cost maximizing value for money. However, the solar photovoltaic market is homogeneous 
+and competitive. The technical and/or geographical challenges of the project will be addressed through 
+village selection criteria and the conditions in the bidding document. OCB is the preferred option using 
+the SBD for goods with installation services.  
+Package 
+Bi-directional electric 
+meter 
+Option 
+1.  OCB 
+2.  RFQ 
+Analysis 
+This is the traditional and most prevail procurement method 
+and transparent in terms of procedure.  
+Considering the low value of the package, RFQ would be 
+an option to make the process more efficient. 
+76 
+Appendix 5 
+3.  Direct 
+contracting  
+The amount of the package is less than 100,000, it is 
+eligible for the direct contracting.  
+Preferred option: 
+The project requires only 300 meters. To procure this small amount through OCB is not preferable as (i) 
+there may be less or no competition as not many suppliers are expected to be attracted to this small 
+package, and (ii) it is not efficient to go through all procedures spending much resource and time for this 
+small package. Furthermore, as some customizations are required for the meters to make them 
+compatible to the implementing agencies’ existing metering system, lower price is not expected from 
+other suppliers than the current supplier for this small package. Under the circumstances, direct 
+contracting, with due diligence in the assessment of the reasonability of the offered prices and eligibility of 
+the supplier (Secure Meters Limited), is the most preferred option.   
+Package 
+Software upgrade 
+Option 
+Direct contracting 
+Package 
+Energy-based 
+livelihood equipment 
+Option 
+1.  RFQ 
+2.  Direct 
+contracting 
+Analysis 
+The amount of the contract is very small, which is $25,000, 
+and this is upgrading the existing software currently used 
+by the BPC to add some functions for collecting data from 
+bi-directional meters and integrating it to the existing billing 
+system. Only the supplier who provided the existing 
+software system can upgrade it without any interface issue. 
+Direct contracting is considered only one option. 
+Analysis 
+The amount of the contract is very small which is $25,000. 
+As there have been country wide activities undertaken by 
+the Ministry of Agriculture and Forest in Bhutan, the market 
+is mature and there are several well know suppliers in the 
+country.  
+This is eligible for direct purchase however it may cause 
+the executing agency a problem in terms of reputation and 
+fairness, the executing agency is not keen to this option for 
+the package.  
+Preferred option: 
+To seek competition among the several suppliers in the market and to encourage them to proposed 
+adequate market price with proper orientation, RFQ is more suitable and preferred option.   
+ADB = Asian Development Bank, OCB = open competitive bidding, QCBS = quality- and cost-based selection,           
+RFQ = request for quotation.  
+Appendix 5 
+77 
+Section 6: Procurement Plan 
+Procurement of Goods, Works, and Consulting Services 
+Advance Contracting and Retroactive Financing1 
+61. 
+All  advance  contracting  and  retroactive  financing  will  be  undertaken  in  conformity  with 
+ADB’s Procurement Policy (2017, as amended from time to time)2and Procurement Regulations 
+for  ADB’s  Borrowers  (2017,  as  amended  from  time to time)3.The issuance of  invitations to bid 
+under  advance  contracting  and  retroactive  financing  will  be  subject  to  ADB  approval.  The 
+recipient, DRE and BPC have been advised that approval of advance contracting and retroactive 
+financing does not commit ADB to finance the project. 
+Advance  contracting.  To  expedite  project 
+62. 
+the 
+government’s  request  for  advance  contracting  actions  for  procurement  of  goods,  works  and 
+consulting services. The steps to be concluded in advance includes (i) recruitment of consultants; 
+and (ii) preparation of tender documents, inviting and receiving bids for contract packages, and 
+awarding contracts. 
+implementation,  ADB  endorsed 
+63. 
+Retroactive  financing.  ADB  also  endorsed  the  government’s  request  for  retroactive 
+financing for the eligible expenditures up to $600,000, the equivalent of 20% of the total grant, 
+incurred before grant effectiveness, but not more than 12 months before the signing of the grant 
+agreement.  
+Procurement of Goods, Works, and Consulting Services 
+64. 
+All procurement of goods, works and consulting service will be undertaken in accordance 
+with ADB’s Procurement Policy (2017, as amended from time to time). An 18-month procurement 
+plan indicating review procedures, goods, works, and consulting service contract packages is in 
+section C.  
+65. 
+Open competitive bidding procedures will be used for the procurement of goods, works 
+and consulting service, except for direct contracting procedure for the bi-directional meters and 
+update of existing meter-reading software, and request for quotation procedure for energy-based 
+livelihood equipment.  
+for 
+residential  solar  photovoltaic  systems; 
+The terms of reference for all consulting services are detailed in section D. A consulting 
+66. 
+firm,  estimated  77.5  person-months  (25  international,  52.5  national),  is  required  to  (i)  study 
+regulatory  requirements  for  the  promotion  of  alternative  renewable  energy  and  prepare  tariff 
+structure 
+the  executing 
+agency/implementing agencies in technical adequacy assessment and small-scale photovoltaic 
+system  installation;  (iii)  undertake  an  awareness  campaign  on  the  benefits  of  the  solar 
+photovoltaic system and safe and efficient use of energy including socio-economic baseline data 
+collection; (iv) make record of the project progress, challenges and achievement; and (v) assist 
+PMU in implementation of the project. A consulting firm will be engaged using the quality- and 
+cost-based selection (QCBS) method with a quality–cost ratio of 90:10. 
+(ii)  support 
+1   Prior approval on the use of advance contracting and retroactive financing must be obtained from the management.   
+2  Available athttps://www.adb.org/documents/adb-procurement-policy. 
+3   Available at https://www.adb.org/documents/procurement-regulations-adb-borrowers. 
+78 
+Appendix 5 
+Procurement Plan 
+Basic Data 
+Project Name: Alternative Renewable Energy Pilot Project 
+Project Number: 53365-001 
+Approval Number: G9211 
+Country: Bhutan 
+Procurement Risk: Low 
+Project Financing Amount: $ 3,000,000 
+ADB Financing: $ 0 
+Cofinancing (ADB Administered): $3,000,000 
+Non-ADB Financing: $ 0 
+Executing Agency: Department of Renewable 
+Energy, Ministry of Economic Affairs 
+Implementing Agency: Department of Renewable 
+Energy, Ministry of Economic Affairs; and Bhutan 
+Power Corporation Limited 
+Project Closing Date: 31 December 2024 
+Date of First Procurement Plan: 21 October 2020 
+Date of this Procurement Plan: 21 October 2020 
+Procurement Plan Duration: 18months 
+Advance contracting: yes 
+eGP: no 
+ADB = Asian Development Bank. 
+A. 
+Methods, Review and Procurement Plan 
+Except as the Asian Development Bank (ADB) may otherwise agree, the following methods shall 
+apply to procurement of goods, works, nonconsulting services, and consulting services.  
+Procurement of Goods, Works and Nonconsulting Services  
+Method 
+Comments 
+Open competitive bidding with international advertising for 
+goods 
+Request for quotation for goods 
+Direct contracting for goods 
+As there are not many contractors for solar 
+photovoltaic systems within the country, international 
+advertising is warranted. 
+For energy-based livelihood equipment, ready-made 
+products can be purchased from local market. There 
+are several well know suppliers in the country. 
+For electric meters, entire OCB process is less 
+efficient, because less competition is expected for 
+this small amount of package. 
+For the update of the existing software, it should be 
+done by original supplier due to technical 
+requirements. 
+Consulting Services 
+Method 
+Open competitive bidding with international advertising, using 
+quality- and cost-based selection for consulting services with 
+90:10 ratio. 
+Comments 
+One consulting firm is required to conduct a study 
+and to assist the executing agency/implementing 
+agencies implementation. International advertising is 
+warranted. 
+B. 
+List of Active Procurement Packages (Contracts) 
+The following table lists goods, works, nonconsulting, and consulting services contracts for which 
+the procurement activity is either ongoing or expected to commence within the procurement plan’s 
+duration. 
+Appendix 5 
+79 
+Goods, Works, and Nonconsulting Services 
+Package 
+Number 
+1 
+Estimated Value 
+($) 
+1,655,500 
+General Description 
+Supply and 
+installation of solar 
+photovoltaic systems 
+including remote 
+monitoring device. 
+Procurement 
+Method 
+OCB 
+Review 
+Prior 
+Bidding 
+Procedure 
+1S2E 
+Advertisement 
+Date 
+Q2 2021 
+2 
+Supply of bi-
+directional electric 
+meters with modem 
+99,330 
+3 
+Update of existing 
+software for metering 
+25,000 
+Direct 
+contracting 
+(Supplier: 
+Secure 
+Meters 
+Limited) 
+Direct 
+contracting 
+(Supplier: 
+Thimphu 
+Tech Park 
+Limited) 
+Prior 
+Q4 2020 
+Prior 
+Q4 2020 
+4 
+Supply of energy-
+based livelihood 
+equipment. 
+30,000 
+Request for 
+Quotation 
+Prior 
+Q3 2021 
+1S2E = single-stage-two-envelope, OCB = open competitive bidding, Q = quarter. 
+Comments 
+Advertising: 
+International 
+Prequalification 
+of bidders: No 
+Domestic 
+preference: No 
+Bidding 
+documents: 
+Goods 
+Advance 
+contracting: Yes 
+E-procurement: 
+No 
+Bidding 
+documents: 
+Goods 
+Advance 
+contracting: Yes 
+E-procurement: 
+No 
+Bidding 
+documents: 
+Goods 
+Advance 
+contracting: Yes 
+E-procurement: 
+No 
+Bidding 
+documents: 
+Goods 
+Advance 
+contracting: Yes 
+E-procurement: 
+No 
+80 
+Appendix 5 
+Consulting Services 
+Package 
+Number 
+5 
+General Description 
+(i) Study regulatory 
+requirements and 
+prepare tariff structure 
+for photovoltaic 
+systems 
+(ii) Support of 
+technical adequacy 
+assessment 
+(iii) Awareness 
+campaign and 
+baseline data 
+collection 
+(iv) Make record of 
+project progress, 
+challenges, and 
+achievement 
+(v) Assist PMU in 
+project 
+implementation 
+Estimated Value 
+($) 
+$590,000 
+Selection 
+Method 
+QCBS 
+Review 
+Prior 
+Type of 
+Proposal 
+STP 
+Advertisement 
+Date 
+Q3 2020 
+Comments 
+Quality-Cost 
+Ratio: 90:10 
+Advertising: 
+International 
+Advance 
+contracting: 
+Yes 
+E-procurement: 
+No 
+Q = quarter, QCBS = quality- and cost-based selection, STP = simplified technical proposal. 
+C. 
+List of Indicative Packages (Contracts) Required under the Project 
+The following table lists goods, works, nonconsulting, and consulting services contracts for which 
+the  procurement  activity  is  expected to  commence beyond the  procurement  plan  duration and 
+over the life of the project (i.e. those expected beyond the current procurement plan’s duration). 
+Goods, Works and Nonconsulting Services 
+Package 
+Number 
+[None] 
+General Description 
+Estimated 
+Value ($) 
+Procurement 
+Method 
+Review 
+Bidding 
+Procedure 
+Comments 
+Consulting Services 
+Package 
+Number 
+[None] 
+General Description 
+Estimated 
+Value ($) 
+Selection 
+Method 
+Review 
+Type of 
+Proposal 
+Comments 
+D. 
+List of Awarded and Completed Contracts  
+The  following  table  lists  the  awarded  contracts  and  completed  contracts  for  goods,  works, 
+nonconsulting, and consulting services. 
+Goods, Works and Nonconsulting Services  
+Contract 
+Value 
+General Description 
+Package 
+Number 
+[None] 
+ADB = Asian Development Bank 
+Date of ADB Approval of 
+Contract Award 
+Date of 
+Completion 
+Comments 
+Appendix 5 
+81 
+Consulting Services 
+Package 
+Number 
+[None] 
+General Description 
+Contract 
+Value 
+Date of ADB Approval of 
+Contract Award 
+Date of 
+Completion 
+Comments 
+ADB = Asian Development Bank 
+E. 
+Non-ADB Financing 
+The following table lists goods, works, nonconsulting, and consulting services contracts over the 
+life of the project, financed by non-ADB sources.  
+Goods, Works and Nonconsulting Services 
+Estimated Value 
+(cumulative, $) 
+General Description 
+[None] 
+Estimated Number of 
+Contracts 
+Procurement 
+Method 
+Comments 
+Consulting Services 
+General Description 
+[None] 
+Estimated Value 
+(cumulative, $) 
+Estimated Number 
+of Contracts 
+Recruitment 
+Method 
+Comments 
+F. 
+Consultant's Terms of Reference 
+A consulting firm will be recruited to support the PMU’s project implementation. Terms of 
+67. 
+Reference (TOR) for the consulting firm has been developed. 

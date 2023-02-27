@@ -1,0 +1,4622 @@
+Coffee and Agroforestry Livelihood Improvement Project (RRP TIM 51396) 
+Project Administration Manual 
+Project Number: 51396-001 
+Grant Number: __ 
+May 2020 
+Timor-Leste:  Coffee  and  Agroforestry  Livelihood 
+Improvement Project 
+Financed by the Japan Fund for Poverty Reduction 
+ACT 
+ADB 
+DMF 
+DNCPI 
+EOJ 
+JFPR 
+GA 
+GAP 
+GOTL 
+MAF 
+MOF 
+NCB 
+NGO 
+PAM 
+PIU 
+PMU 
+QCBS 
+SCP 
+SPDF 
+URL 
+ABBREVIATIONS 
+Timor Coffee Association 
+Asian Development Bank 
+design and monitoring framework 
+National Directorate for Coffee and Industrial Crops 
+Embassy of Japan 
+Japan Fund for Poverty Reduction 
+Grant Agreement 
+good agricultural practices  
+Government of Timor-Leste 
+Ministry of Agriculture and Fisheries 
+Ministry of Finance 
+national competitive bidding 
+non-governmental organization 
+project administration manual 
+Project Implementation Unit 
+Project Management Unit 
+quality and cost based selection 
+Stakeholder Communication Plan 
+Strategy, Policy and Partnerships Department and the 
+Partners Funds Division 
+Uniform Resource Locator 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+PROJECT AT A GLANCE 
+CONTENTS 
+I.
+II.
+III.
+IV.
+V.
+VI.
+PROJECT DESCRIPTION 
+Introduction 
+A.
+Project Rationale 
+B. 
+Impact and Outcome 
+C.
+Outputs and Key Activities 
+D.
+IMPLEMENTATION PLANS 
+A.
+B.
+Project Readiness Activities 
+Overall Project Implementation Plan 
+PROJECT MANAGEMENT ARRANGEMENTS 
+A.
+B.
+C.
+D.
+Project Implementation Organizations: Roles and Responsibilities 
+Key Persons Involved in Implementation 
+Project Organization Structure 
+Project Management 
+COST AND FINANCING 
+A.
+B.
+C.
+D.
+E.
+F.
+Cost Estimates and Financing Plan 
+Allocation and Withdrawal of Grant Proceeds 
+Detailed Cost Estimates by Financier 
+Detailed Cost Estimates by Outputs 
+Estimated Disbursement Schedule by Year 
+Contract and Disbursement S-Curve 
+FINANCIAL MANAGEMENT 
+PROCUREMENT AND CONSULTING SERVICES 
+A.
+B.
+C.
+D.
+Advance Contracting and Retroactive Financing 
+Procurement of Goods, Works, and Consulting Services 
+Procurement Plan 
+Consultant's Terms of Reference 
+VII.
+SAFEGUARDS 
+VIII.
+GENDER AND SOCIAL DIMENSIONS 
+IX.
+X.
+XI.
+PERFORMANCE MONITORING, EVALUATION, REPORTING, AND 
+COMMUNICATION 
+A.
+B.
+C.
+D.
+E.
+Project Design and Monitoring Framework 
+Monitoring 
+Evaluation 
+Reporting 
+Stakeholder Communication Strategy 
+ANTICORRUPTION POLICY 
+ACCOUNTABILITY MECHANISM 
+XII.
+RECORD OF CHANGES TO THE PROJECT ADMINISTRATION MANUAL 
+1
+1
+1
+4
+4
+6
+6
+7
+9
+9
+11
+11
+12
+13
+13
+16
+17
+18
+19
+19
+20
+26
+26
+27
+28
+31
+36
+36
+40
+40
+43
+44
+44
+45
+45
+45
+46
+APPENDIX 1. DELEGATION OF CONSULTANT RECRUITMENT ACTIVITIES TO ADB - 
+MATRIX OF RESPONSIBILITIES 
+APPENDIX 2:  GUIDANCE NOTE ON JAPANESE VISIBILITY 
+47
+49
+APPENDIX 3: GUIDANCE NOTE ON COORDINATION WITH THE EMBASSY OF JAPAN       
+AND JICA 
+APPENDIX 4: STAKEHOLDER CONSULTATION AND PARTICIPATION PLAN 
+51
+53
+Coffee and Agroforestry Livelihood Improvement Project (RRP TIM 51396) 
+JFPR Project Administration Manual Purpose and Process 
+  The JFPR project administration manual (PAM) describes the essential administrative and management 
+requirements to implement the JFPR funded project on time, within budget, and in accordance with the 
+government  and  Asian  Development  Bank  (ADB)  policies  and  procedures.  The  PAM  should  include 
+references to all available templates and instructions either through linkages to relevant URLs or directly 
+incorporated in the JFPR PAM. 
+  The Ministry of Agriculture and Forestry (MAF) as the executing agency, and the National Directorate for 
+Coffee and Industrial Crops (DNCPI) and Timor Coffee Association (ACT) as the implementing agencies 
+are wholly responsible for the implementation of the project, as agreed jointly between the grant recipient 
+and  ADB,  and  in  accordance  with  the  government  and  ADB’s  policies  and  procedures.  ADB  staff  is 
+responsible to support implementation including compliance by MAF, DNCPI and ACT of their obligations 
+and responsibilities for project implementation in accordance with ADB’s policies and procedures. 
+  The MAF, DNCPI, ACT and ADB shall agree to the PAM and ensure consistency with the grant agreement. 
+In the event of any discrepancy or contradiction between the PAM and the grant agreement, the provisions 
+of the grant agreement shall prevail. 
+  After  ADB  Board  approval  of  the  project's  grant  assistance  report,  changes  in  implementation 
+arrangements  are  subject  to  agreement  and  approval  pursuant  to  relevant  government  and  ADB 
+administrative procedures (including ADB’s Project Administration Instructions) and upon such approval, 
+they will be subsequently incorporated in the PAM. 
+1 
+A. 
+Introduction 
+I.  PROJECT DESCRIPTION 
+Coffee and Agroforestry Livelihood Improvement is an innovative project to improve the 
+1. 
+lives of Timor-Leste’s coffee farmers. The project will underpin implementation of Timor-Leste’s 
+new Coffee Sector Development Plan and pilot a new model for delivering extension services to 
+2,000 coffee farming households in the Aileu, Ainaro, Bobonaro, Ermera, Liquica, and Manufahi 
+municipalities. These households will receive training on good agricultural practices for production 
+of coffee and related crops and assistance with access to finance. The project will also provide 
+indirect benefits to all coffee producers by strengthening industry management and supporting 
+initiatives to improve coffee quality and strengthen linkages with key markets for specialty coffee. 
+B.  
+Project Rationale 
+2. 
+Improvements in coffee production and processing offer one of the clearest pathways for 
+reducing  poverty  and  growing  Timor-Leste’s  non-oil  economy.  Coffee  is  Timor-Leste’s  largest 
+non-oil export and is grown by 37.5% of all Timorese households with half of these households 
+relying  on  the  crop  for  cash  income.  Despite  its  significance,  the  coffee  sector  is  currently 
+operating far below its long-term potential. Production is low and volatile, quality is inconsistent, 
+and sector management is weak. As a result, many coffee producing households live in extreme 
+poverty.  Strengthening  sector  management  and  providing  targeted  support  to  smallholder 
+producers can generate sustained increases in household income, reduce poverty and contribute 
+to the growth of non-oil exports.  
+3. 
+There  is  a  long  history  of  coffee  production  in  Timor-Leste.  Development  of  the  sector 
+began  in  the  1860s  and  was  initially  driven  by  establishment  of  large  private  and state-owned 
+plantations. The importance of smallholder farmers increased steadily over time and by the 1970s 
+they accounted for a majority of production. During 1975-1994 coffee marketing was consolidated 
+into  a  government  backed  monopoly.  Prices  paid  to  farmers  during  this  time  were  low  and 
+underinvestment  in  the  sector  led  to  a  steady  decline  in  production.  Beginning  in  1994,  and 
+accelerating after Timor-Leste regained independence in 2002, coffee marketing was liberalized 
+and the number of actors in the supply chain has increased. This has brought benefits to farmers 
+but the extended period of under-investment means that yields remain low and volatile.  
+4. 
+Coffee in Timor-Leste is grown under the shade of larger trees that form continuous areas 
+of forest. This agroforestry system provides a range of important ecosystem services. The shade 
+trees stabilize the soils on steep slopes, increase the infiltration of rainfall to aquifers, sequester 
+carbon,  and  provide  a  habitat  for  diverse  flora  and  fauna.  They  can  also  help  to  improve  soil 
+fertility by fixing nitrogen and provide a source of timber and edible fruits. Other economic crops, 
+including  foods  like  banana, taro,  and  arrowroot,  and  spices  such  as  ginger,  turmeric,  pepper, 
+vanilla, and cloves can also be grown within this system. However, many coffee farmers do not 
+make use of simple practices to ensure reliable production of coffee and other products. Coffee 
+yields  are  among  the  lowest  in  the  world  but  implementation  of  a  simple  package  of  good 
+agricultural practices can triple coffee yields. 
+5. 
+In  2019  the  Government  of  Timor-Leste  approved  a  comprehensive  long  term  plan  to 
+modernize  Timor-Leste’s  coffee  sector.  The  National  Coffee  Sector  Development  Plan,  2019-
+2030  (NCSDP)  was  prepared  with  support  from  the  Asian  Development  Bank  (ADB)  and  the 
+Coffee  Quality  Institute.    The  plan  prioritizes  the  welfare  of  smallholder  coffee  farmers  and 
+emphasizes  evidence-based  decision  making,  social  and  environmental  sustainability, 
+2 
+collaboration  between  the  public  and  private  sectors,  and  inclusion  of  women  and  other 
+disadvantaged  groups.  The  plan  targets  a  doubling  of  coffee  production  by  2030  and  a  270% 
+increase  in  export  earnings.  To  achieve  these  goals,  the  NCSDP  plans  for  investment  of 
+approximately  $38  million  during  2019-2030  to  fund  activities  under  six  core  focus  areas:  i) 
+research  and  development;  ii)  production  and  productivity;  iii)  quality  and  value  addition;  iv) 
+market  access;  v)  domestic  consumption  and  tourism;  and  vi)  sector  management  and 
+coordination. Further information on the goals and activities under each focus area is provided 
+below.  
+6. 
+Applied research and development is the foundation of any successful agricultural export 
+industry.  However, there  is  currently  almost  no  applied  research  on  coffee  in  Timor-Leste  and 
+research capacity in the Ministry of Agriculture and Fisheries (MAF) and other relevant agencies 
+is  limited.  This  is  unfortunate  given  the  special  role  that  Timor-Leste  has  played  in  the 
+development  of  coffee  production  around  the  world.  The  Hibrido  de  Timor  (HdT)  -  a  unique 
+naturally occurring hybrid between the Arabica and Robusta coffee species - was discovered in 
+Timor-Leste  in  1927  and  has  been  used  to  breed  new  coffee  varieties  that  are  now  grown  in 
+almost every coffee producing country. Some of these improved varieties have been introduced 
+in Timor-Leste but there is almost no information about which varieties are currently being grown 
+and no systematic research to determine which coffee varieties will perform best in each of the 
+country’s  agro-ecological  zones.  There  is  also  very  little  formal  research  to  assess  the 
+performance  of  the  agricultural  technologies  and  practices  that  are  recommended  to  coffee 
+farmers or analyze the socio-economic dimensions of coffee production and farmer welfare. 
+7. 
+The NCSDP includes several actions to strengthen applied research and to link this with 
+farmer support programs. Using genetic fingerprinting to profile the range of coffee varieties that 
+is currently being grown is an essential first step. ADB is supporting initial genetic analysis through 
+an  ongoing  technical  assistance  project.    The  results  of  this  analysis  will  be  used  to  guide 
+immediate  improvement  of  the  systems  for  production  and  distribution  of  coffee  seedlings  by 
+helping to ensure purity and quality. Genetic analysis will also guide longer term efforts to map 
+local genetic diversity and new local varieties. In addition to mapping and cataloging its existing 
+genetic resources, Timor-Leste also plans to assess the suitability of coffee varieties from other 
+countries and regions. The NCSDP includes a commitment for Timor-Leste to participate in two 
+international  research  programs  that  have  been  designed  and  managed  by  World  Coffee 
+Research  (WCR).  WCR’s  International  Mulit-Location  Variety  Trial  (IMLVT)  is  a  program  to 
+evaluate the performance of 31 elite coffee varieties in a wide range of growing conditions. This 
+program  is  currently  being  implemented  in  22  countries  and  results  from  the  trials  are  shared 
+across participating countries. The IMLVT is complemented by WCR’s On Farm Technology Trial 
+(OFTT) program. OFTT’s are farmer managed trials in which nine different combinations of coffee 
+variety  and  agronomic  practice  are  implemented  on  a  farmer  managed  plot  for  up  to  5  years. 
+OFTT’s are used to generate high quality data about the actual performance of different varieties 
+and agronomic practices.  
+8. 
+Research and development will help to refine the package of technologies being offered 
+to  coffee  farmers  but  the  system  for  transmitting  this  to  farmers  must  also  be  strengthened. 
+Training by public extension officers and private companies has been poorly coordinated and well 
+below the required levels. A 2011 survey of 825 households from the main coffee growing region 
+of Timor-Leste found that only 14% had received training on coffee production during the past 4 
+years.    The  NCSDP  aims  to  rectify  this  through  an  ambitious  program  to  expand  training  and 
+extension,  rehabilitate  old  and  unproductive  coffee  farms,  and  facilitate  farmers  access  to 
+supporting  services  such  as  banking.  Financial  services  are  important  because  income  from 
+coffee production is highly seasonal. Households that lack access to formal financial services may 
+3 
+use informal mechanisms to smooth their consumption but a 2011 survey found that 45% of coffee 
+producing households significantly reduced their food consumption in the months preceding the 
+harvest, with half of the surveyed households eating one or less meals per day.   Hunger, and the 
+need to seek other sources of cash income, are likely to constrain household labor input during 
+the  pre-harvest  period  and  discourage  the  adoption  of  new  technologies.  Because  of  this,  the 
+NCSDP  includes  several  activities  to  help  coffee  farmers  access  formal  financial  services  to 
+facilitate saving and enable access to credit.  
+Women play an important role in coffee production in Timor-Leste and are highly involved 
+9. 
+in  all  stages  of  production.  However,  women’s contribution  to  coffee  is often  overlooked.  Male 
+household leads may assume responsibility for representing the household in farmer groups and 
+cooperatives  and  receiving  income  from  the  household’s  coffee  sales.  Experience  from  other 
+projects to support the coffee sector in Timor-Leste shows that it is important for training to be 
+provided to all ‘active farmers’ within a household, including women. However, women are likely 
+to be under-represented in formal training and extension activities unless very deliberate actions 
+are taken to address the social and time pressures that prevent them from attending training. 
+10. 
+Timor-Leste  currently  exports  most  of  its  coffee  as  a  commodity-grade  product  with 
+minimal  differentiation.  However,  global  demand  for  differentiated  specialty  coffees  is  growing 
+rapidly and this provides a significant opportunity for Timor-Leste to achieve better export prices. 
+High quality is a defining feature of specialty coffee and the NCSDP includes activities to refine 
+local technologies for coffee processing, provide training and support to coffee producers, and 
+design  and  implement  policies  to  encourage  quality  improvement.  These  policies  will  include 
+development of a common framework for measuring quality at each stage of processing and the 
+introduction  of  quality-based  pricing mechanisms  that  provide  farmers  with  clear  incentives for 
+quality improvement.  
+11. 
+Recent  analysis  has  highlighted  several  factors  that  influence  the  relationship  between 
+coffee  quality  and  pricing  including  supply  chain  transparency,  product  traceability,  and  the 
+knowledge and perception of value chain partners and consumers.  The NCSDP aims to improve 
+Timor-Leste’s access to specialty coffee markets and to increase the value of Timorese coffees 
+by making the supply chain more transparent, improving traceability, and using carefully targeted 
+marketing to stimulate demand. Under the NCSDP, promotion of Timorese coffees in consuming 
+markets will be reinforced by development of the domestic market for coffee consumption and 
+coffee related tourism. Festival Kafe Timor, is one example of these linkages. Since 2016, this 
+annual  festival  has  supported  the  development  of  Timor-Leste’s  coffee  sector  through 
+competitions that encourage and celebrate excellence and events that celebrate the history and 
+culture of coffee production in Timor-Leste.  
+12. 
+The success of initiatives to upgrade production, improve quality, and develop specialty 
+markets  hinges  on  close  coordination  across  the  value  chain  and  between  government,  the 
+private  sector  and  other  stakeholders.  During  1999-2015  numerous  studies  and  assessments 
+identified  weak  coordination  as  a  constraint  to  developing  the  coffee  sector  in  Timor-Leste.  In 
+2016,  following  an  initiative  from  ADB,  a  group  of  stakeholders  representing  all  stages  of  the 
+coffee value chain came together to form the Timor Coffee Association (ACT).  Since 2016 ACT 
+has  organized  a  wide  range  of  activities  including  the  annual  festival  and  coffee  quality 
+competitions,  establishment  of  a  coffee  quality  lab,  and  training  programs  to  help  farmers  to 
+improve quality. ACT works closely with MAF and other government agencies and was one of the 
+main contributors to development of the NCSDP. Representatives from MAF and ACT co-chair a 
+special taskforce which meets on a quarterly basis to coordinate implementation of the plan and 
+ACT is responsible for leading implementation of some activities under the plan.  
+4 
+13.  While productivity improvement is a key focus of the NCSDP, some of the key foundations 
+of  an  effective  national  system  for  farm  rehabilitation  are  still  being  established.  MAF  has  a 
+network  of  extension  workers  at  Suco  level  but  these  staff  are  responsible  for  supporting 
+production for all crops, livestock, and aquaculture. This is an extremely challenging mandate and 
+it is generally accepted that extension services need to be improved. MAF has identified training 
+partnerships  with  NGOs  and  private  businesses as  a model  with  excellent  potential.  However, 
+there is currently no shared system for tracking the replanting and rehabilitation of coffee farms 
+or  the  provision  of  training.  There  is  also  no  established  system  for  engaging  businesses  and 
+NGOs  to  implement  public  funded  programs.  This  makes  it  difficult  to  assess  resource 
+requirements, plan and implement rehabilitation and training programs, evaluate the efficacy of 
+different training models, and maximize the returns on public investment.  
+14. 
+Under  the  NCSDP,  MAF  has  committed  to  developing  an  ICT  based  farm  information 
+system to track the delivery of training and support to smallholder coffee farmers. This system will 
+facilitate  the  outsourcing  of  some  training  and  extension  services  and  management  of  other 
+activities that are planned under the NCSDP. ADB is currently providing technical assistance to 
+Olam,  a  large  multinational  commodity  trader,  to  support  the  initial  deployment  of  the  Olam 
+Farmer  Information  System  (OFIS)  in  Timor-Leste.  Deployment  of  OFIS  will  generate  useful 
+lessons to inform development of a national farm information system and Olam could consider 
+licensing OFIS for use across the whole of the coffee sector.  
+15. 
+Development  of  the  coffee  sector  is  a  clear  national  priority.  It  is  highlighted  in  Timor-
+Leste’s Strategic Development Plan 2011-2030 and features prominently in the program of Timor-
+Leste’s VIIIth Constitutional Government 2018-2023. Development of the non-oil economy is the 
+overarching goal of ADB’s Timor-Leste Country Partnership Strategy 2016-2020 and the strategy 
+identified the coffee sector as an area with notable potential. The project was included in ADB’s 
+country  operations  and  business  plan  for  Timor-Leste  for  2020-2022  and  responds  to  clear 
+demand from the Government of Timor-Leste and industry stakeholders.  
+16. 
+The  project  is  designed  to  leverage  some  of  the  activities  that  are  being  implemented 
+through  a  related  non-sovereign  investment  and  technical  assistance  project.  It  also  builds  on 
+previous initiatives and incorporates lessons learned from completed and ongoing projects in the 
+coffee  sector.  The  project’s  training  approach  has  been  informed  by  lessons  learned  from 
+investments  in  coffee  farm  rehabilitation  that  have  been  financed  by  the  Government  of  New 
+Zealand and implemented by the National Cooperative Business Association of America. Grant 
+financing is proposed because the project will trial several innovative approaches to addressing 
+long-standing  sector  challenges  and  is  expected  to  have  a  substantial  positive  impact  on  the 
+livelihoods of participating households. 
+C. 
+Impact and Outcome 
+17. 
+The impact is a doubling of coffee production by 2030 and a 270% increase in the value 
+of coffee exports.  The outcome will be improved productivity and price realization in the coffee 
+sector. The project has three outputs.  
+D. 
+Outputs and Key Activities 
+18. 
+Output 1. More productive coffee and agroforestry production systems established. 
+The project will strengthen the systems for producing and distributing planting materials and will 
+pilot  a  new  model  for  delivering  extension  services  to  smallholder  coffee  farmers.  This  will  be 
+5 
+achieved  through  i)  development  and  implementation  of  improved  protocols  for  seed  selection 
+and  nursery  management  ii)  establishment  of  at  least  one  multi-variety  trial  and  ten  farmer 
+managed demonstration research and plots; and ii) delivery of a 2.5 -year training program on 
+productivity improvement and improved farm management to 2,000 coffee producing households. 
+The project will strengthen the seed sector by completing the genetic profiling of locally available 
+varieties,  analyzing  the  most  suitable  varieties  for  each  major  agro-ecological  zone  and 
+implementing  actions  to  strengthen  nursery  management  and  ensure  the  integrity  of  the  seed 
+supply.  The  multi-variety  research  site  and farmer-managed research  and  demonstration  plots 
+will form part of a new national network and will serve as local hubs for delivering training and 
+showcasing improved practices. The design of the plots will be consistent with best practices for 
+farm  level  demonstration  in  Timor-Leste  and  each  plot  will  be  managed  by  a  local  community 
+member with support from MAF and the project implementation partners.1 The training program 
+for  households  will  span  three  coffee  harvests  thus  providing three  opportunities to  implement 
+pruning and coffee plant-rejuvenation immediately following completion of the coffee harvest. The 
+project will deliver provide training to coffee farmers who have not received training through recent 
+and ongoing projects and will apply a community level screening tool to select the locations where 
+training  will  be  offered. The technical  specialists  engaged through the  project  will  help  MAF to 
+provide  a  suite  of  recommended  best  practices  and  associated  training  materials.  These  best 
+practices and training materials will form a menu of options that can be tailored according to farm 
+location  and  conditions  and  the  priorities  of  participating  households.    Households  will  be 
+empowered to exercise agency in selecting the trainings and activities that they judge to be most 
+relevant to their situation. Project support to farm households will also promote improved financial 
+literacy and financial inclusion. This will be achieved through partnerships with financial service 
+providers  and  by  encouraging  the  companies  that  procure  coffee  directly  from  smallholders  to 
+work more closely with banks and microfinance institutions.2  
+19. 
+Output 2. Coffee quality and market linkages improved. The project will help industry 
+stakeholders to design and implement a program to improve coffee quality and market linkages. 
+This will be done through i) design and implementation of a national grading system for coffee 
+cherries  and  parchment;  ii)  continuation  of  the  annual  Festival  Kafe  Timor  coffee  quality 
+competitions and associated communication and training for farmers; and iii) development and 
+implementation of a coffee industry marketing plan to provide comprehensive product information 
+to key consuming markets. The grading system will provide a simple set of standards to support 
+rapid evaluation of the quality of fresh coffee cherries and dried coffee parchment using simple 
+and readily available equipment. Companies that procure coffee in cherry and parchment form 
+will  be  encouraged  to  incorporate  the  new  standards  into  their  procurement  practices  and  to 
+provide  a  clear  linkage  between  quality  and  price.  Dissemination  of  the  standards  and  their 
+adoption by coffee buyers will help to reduce information asymmetries between coffee farmers 
+and buyers and provide clearer incentives for quality improvements. The project will support the 
+coffee quality competition that is a key part of the annual coffee festival and will fund associated 
+communication with farmers on quality improvement. Other festival activities are expected to be 
+supported by other sponsors. The project will also help to develop an industry marketing plan to 
+1 Coffee Quality Institute. 2018. Baseline Assessment and Gap Analysis of Systems for Training Extension Workers 
+and Delivering Extension Services to Farmers. Dili.The broad principles are: i) manageable plot size – the plot should 
+not be so big that it cannot be managed using the labor resources available within the household that is responsible 
+for the plot; ii) replicability -  the treatments and overall design should enable replication in other locations; iii) use of 
+comparable treatments – differentiated use of treatments within the plot should enable ordinary observers to clearly 
+see  the  incremental  impacts  of  specific  treatments;  iv)  relatable  –  the  plot  should  resemble  the  conditions  and 
+characteristics of coffee farms in the surrounding community to maximize perceived relevance.  
+2 A partnership may take the form of a non-binding memorandum of understanding between the entities delivering the 
+training and financial service providers. 
+6 
+help Timor-Leste to identify target markets, develop a clear and consistent message about the 
+positive attributes of Timorese coffees and provide timely information to consumers.  
+20. 
+Output 3. Sector management and coordination improved. The project will work with 
+MAF  and  ACT  to  strengthen  information  management,  ensure  that  sector  activities  are  well 
+coordinated,  and  promote  knowledge  sharing  and  exchange.  This  will  be  achieved  through  i) 
+strengthening  of  the  secretariat  coordinating  implementation  of  the  NCSDP;  ii)  design  and 
+implementation  of  a farm  information  management  system;  iii)  implementation  of  a knowledge 
+sharing platform for the coffee sector. The NCSDP secretariat will be housed in MAF and will help 
+to  coordinate  the  quarterly  meetings  of  the  NCSDP  implementation  taskforce  and  other  data 
+collection and reporting for the NCSDP. The farm information management system will leverage 
+information  communications  technology  to  improve  the  quality  and  efficiency  of  support  to 
+smallholder  farmers  and  support  monitoring  and  evaluation  of  activities  under  Output  1.  The 
+potential to use or adapt an existing system such as OFIS will be considered before design of a 
+new  system  commences.  At  a  minimum,  the  system  will  capture  data  about  the  geographical 
+location  of  each  household  and  farm  being  supported  through  the  project,  the  demographic 
+profiles of active farmers, and the trainings provided under the project. If possible, the scope of 
+the system will be made broader so that it can integrate information on support to smallholder 
+farmers that is being provided through other channels, and can support other capabilities such as 
+the traceability needed for some forms of product certification. The knowledge sharing platform 
+will  provide  a  mechanism  for  improved  flow  of  information  between  sector  stakeholders. 
+Convened by MAF and ACT, the platform will be open to all interested parties and will be designed 
+to  accelerate  the  identification  and  dissemination  of  improved  practices  relating  to  coffee 
+production,  processing,  quality  improvement,  etc.  Industry  stakeholders  will  be  encouraged  to 
+share  their  own  experiences  through  the  platform  and  this  will  be  supplemented  by  external 
+expertise to help to address shared priorities relating to production and quality improvement.  
+A.  Project Readiness Activities 
+II.  IMPLEMENTATION PLANS 
+Table 1: Preparatory Activities 
+2019 
+2020 
+Indicative Activities 
+Jan 
+Feb  Mar  Apr  May 
+Jun 
+  Advance contracting actions 
+  Grant negotiations 
+Establish project implementation 
+arrangements 
+  ADB approval 
+  Grant Agreement signing 
+  Government legal opinion provided 
+  Grant effectiveness 
+Responsible 
+Agencies 
+ADB, MAF, ACT 
+ADB, MAF, MOF 
+MAF, MOF 
+ADB 
+ADB, MOF 
+MOF 
+ADB 
+ACT = Timor Coffee Association, ADB = Asian Development Bank, MAF = Ministry of Agriculture and 
+Fisheries, MOF = Ministry of Finance 
+Source: Asian Development Bank 
+B.  Overall Project Implementation Plan  
+7 
+Table 2: Project Implementation Schedule 
+2020 
+2021 
+Qtr 
+1 
+Qtr 
+2 
+Qtr 
+3 
+Qtr 
+4 
+Qtr 
+1 
+Qtr 
+2 
+Qtr 
+3 
+Qtr 
+4 
+Qtr 
+1 
+2022 
+Qtr 
+2 
+2023 
+2024 
+Qtr 
+3 
+Qtr 
+4 
+Qtr 
+1 
+Qtr 
+2 
+Qtr 
+3 
+Qtr 
+4  
+Qtr 
+1 
+Qtr 
+2 
+Activities 
+A.     DMF  
+Output 1 
+1.1 Genetic profiling and suitability analysis of 
+local varieties 
+1.2 Design and implementation of improved 
+protocols for nursery management 
+1.3 Final confirmation of target Sucos and 
+procurement of training service providers 
+1.4 Enrollment of participating farmer groups 
+and establishment of research and 
+demonstration plots. 
+1.6 Delivery of training and extension 
+programs 
+Output 2 
+2.1 Organization and delivery of Festival Kafe 
+Timor and associated competitions 
+2.2 Development and implementation of 
+marketing plan 
+2.3 Development of draft quality standards for 
+national grading system  
+2.4 Initial trial deployment of proposed quality 
+standards  
+2.5 Revision and rollout of revised quality 
+standards and grading system 
+Output 3  
+3.1 Options analysis and design of farm 
+information management system  
+3.2 Operation of FMIS 
+3.3 Information and knowledge sharing 
+platform meetings 
+B.     Management Activities 
+1.  Procurement  plan  key  activities  to  procure 
+contract packages 
+2. Consultant selection procedures 
+8 
+3.   Gender action plan  
+4. Communication strategy key activities 
+Quarterly Review 
+Inception Report 
+Annual and Midterm Review 
+Project completion report 
+DMF = design and monitoring framework, Qtr = quarter. 
+Source: Asian Development Bank 
+9 
+III. 
+PROJECT MANAGEMENT ARRANGEMENTS 
+A.  Project Implementation Organizations: Roles and Responsibilities 
+Project Implementation 
+Organizations 
+Executing agency: MAF 
+Oversight body: PSC 
+Project specific 
+management body: PMU 
+Table 3: Key Roles  
+Management Roles and Responsibilities  
+•  Assumes  overall  responsibility  and  accountability  for  project 
+planning, management, and implementation;  
+•  Establishes and chairs the PSC;  
+•  Appoints the Project Director and oversees establishment of the 
+PMU;  
+•  Ensures  timely  and  effective  execution  of  the  grant  agreement 
+including  availability  of  agreed  in-kind  contributions  to  support 
+project activities; 
+•  Co-signs  (with  MOF)  applications  for  withdrawals  from  project 
+advance account;  
+•  Reviews  PMU progress reports and  ensures  timely submission 
+of project progress reports to ADB, and MOF;  
+•  Facilitates timely annual auditing of project accounts;  
+•  Review  and  endorse  PMU’s  recommendations  on  recruiting 
+consultants and procurement 
+•  Provides overall guidance to the PMU;  
+•  Four-member  committee  comprised  of:  Director  General  of 
+Forestry  (Chair),  the  Project  Director,  one  each  from  ACT,  and 
+MOF;  
+Includes ADB and EOJ as observers with officials from MAF and 
+other Ministries invited to attend as appropriate.   
+• 
+•  Reviews and assesses project plans and progress reports;  
+•  Provides advice on policy matters related to the project; and  
+•  Meets at least semi-annually. 
+•  Comprised  of  national  consultants  reporting  to  the  Project 
+Director;  
+•  Assumes  direct  oversight,  responsibility  and  accountability  for 
+implementation  of  project  outputs  1a-d  and  3a,  and  indirect 
+responsibility for implementation of project outputs 2a-c and 3b-
+c;  
+•  Responsible 
+for  project  planning, 
+financial  management, 
+procurement,  coordination,  and  project  monitoring  including 
+organization of site visits;  
+•  Responsible for ensuring compliance with PAM, GA, GAP, SCP, 
+and other relevant policies and procedures;  
+•  Responsible for preparing quarterly progress reports for MAF and 
+ADB;  
+•  Responsible for preparing semi-annual progress for submission 
+by MAF to MOF, ACT, and ADB;  
+•  Coordinates  steering  committee  meetings,  and  the  preparation 
+and delivery of steering committee papers 
+•  Facilitates  project  stakeholder  activities  e.g.,  meetings  and 
+trainings with government, communities 
+•  Engages service contractors and manages vendors;  
+10 
+Implementing Agency: ACT 
+•  Coordinates DNCPI field visits and manages travel expenses;  
+•  Manages project advance accounts.  
+Includes national consultant and ACT staff;  
+• 
+•  Assumes  direct  oversight,  responsibility  and  accountability  for 
+implementation  of  project  outputs  2a-c  and  3c  and  provides 
+quarterly progress reports to the PMU.  
+•  Manages  inputs  from  international  consultants  and  resources 
+persons to ensure timely completion of outputs 2 and 3b.  
+•  Verifies payment request and progress payments for consultants 
+supporting the delivery of outputs 2a-c and 3b.  
+•  Coordinates  with 
+the  PMU 
+to  ensure  effective 
+financial 
+management and reporting.  
+ADB 
+•  Oversees project administration and timely execution of the grant 
+agreement by the executing agency 
+•  Disburses grant proceeds 
+•  Reviews  and,  as  needed  and  required,  approves  procurement, 
+consultant recruitment, progress reports, and audit reports 
+•  Reviews project compliance and targets against the DMF, GAP 
+and PAM 
+•  Monitors project progress and conducts review missions 
+•  Disclose monitoring reports on ADB public website 
+•  Acts as observer on the project steering committee 
+•  Undertakes  coordination  with  EOJ  in  Timor-Leste,  JICA,  and 
+ADB’s SPDF–Japan team. Specifically 
+o 
+Invites EOJ, JICA, and SPDF–Japan team to project events 
+and missions (for SPDF, inform up to 4 months ahead) 
+o  Provides information on project progress and supplies key 
+reports 
+o  and materials 
+o  Discusses potential changes in scope 
+o  Responds to inquiries and requests for information 
+o  Supports donor visibility for dissemination of outcomes and 
+lessons 
+MOF 
+•  Represents GoTL in grant negotiations 
+•  Signs grant agreement and project approval on behalf of GoTL 
+•  Co-signs  (with  MAF)  applications  for  withdrawal  from  project 
+advance account 
+•  Reviews project progress and/or audit reports as needed 
+ACT  =  Timor  Coffee  Association,  ADB  =  Asian  Development  Bank,  DNCPI  =  National  Department  for  Coffee  and 
+Industrial Crops, DMF = design and monitoring framework, EOJ = Embassy of Japan, GA = grant agreement, GAP = 
+gender  action  plan,  GoTL  =  Government  of  Timor-Leste,  JICA  =  Japan  International  Cooperation  Agency,  MAF  = 
+Ministry of Agriculture and Fisheries, MOF = Ministry of Finance, PAM = project administration manual, PMU = project 
+management unit, SCP = stakeholder communications plan, SPDF = Strategy, Policy and Partnerships Department 
+and the Partners Funds Division, UPMA = planning, monitoring, and evaluation unit.  
+Source: Asian Development Bank 
+B.  Key Persons Involved in Implementation  
+11 
+Executing Agency  
+Ministry of Agriculture and 
+Fisheries 
+Raimundo Mau 
+Director General of Forestry, Coffee and Industrial Crops 
++670 77570780 
+Ministry of Agriculture and Fisheries, Caicoli, Dili, Timor-
+Leste 
+Fernando Santana 
+National Director for Coffee and Industrial Crops 
++670 77546397 
+Ministry of Agriculture and Fisheries, Caicoli, Dili, Timor-
+Leste 
+ADB 
+Timor-Leste Resident Mission 
+Mission Leader 
+Sunil Mitra 
+Country Director 
++670 332 4801 
+smitra@adb.org 
+R. Cabo Verde, Díli, Timor-Leste 
+David Freedman 
+Country Economist 
++670 332 4801 
+dfreedman@adb.org 
+C.  Project Organization Structure  
+The  flow  chart  below  provides  an  overview  of  the  project  governance  and  reporting 
+21. 
+arrangements:  
+12 
+ACT = Timor Coffee Association, ADB = Asian Development Bank, DG = Director General, DNCPI = 
+National  Directorate  for  Coffee  and  Industrial  Crops,  EOJ  =  Embassy  of  Japan,  MAF  =  Ministry  of 
+Agriculture and Fisheries, MOF = Ministry of Finance.  
+Source: Asian Development Bank 
+D.  Project Management  
+22. 
+The project will be implemented over 4 years from June 2020 to June 2024. MAF will be 
+the executing agency and will establish a PMU in its National Directorate for Coffee and Industrial 
+Crops  (DNCPI)  to  ensure  successful  project  implementation.  A  streamlined  PIU  will  be 
+established  in  ACT  to  support  implementation  of  selected  project  outputs.  A  project  steering 
+committee will provide guidance and quality assurance for project implementation.  
+Project  Management  Unit.    The  PMU  will  comprise  staff  and  consultants  and  a 
+23. 
+supporting firm or non-government organization. The PMU will be responsible for daily running of 
+the project including planning, implementation administration, financial management, monitoring 
+and reporting. It will have direct responsibility for delivery of project outputs 1a-d and 3a-b and 
+will coordinate and oversee the implementation of Outputs 2a-c and 3c by the ACT PIU.3  The 
+PMU will be staffed by three full time national consultants recruited for the project, one or more 
+part  time  consultants  and  MAF  counterparts.    The  PMU  will  be  supported  by  a  firm  or  non-
+government organization (NGO) that will provide 44 months of international consultant inputs and 
+3 See tables 9-10 and the project Design and Monitoring Framework (Section IX) for a more detailed breakdown of 
+outputs and activities.  
+13 
+12 months of national consultant inputs. The PMU will be responsible for managing contractors 
+and consultants.  
+24. 
+Project Implementation Unit.  The PIU at ACT will be responsible for day-to-day running 
+of  the  project  activities  for  output  2a-c  and  3c.  The  PIU  will  comprise  one  full  time  consultant 
+recruited for the project and ACT counterparts and will be supported by a specialized firm or NGO 
+that will provide 8 months of international consultant inputs to support the outputs delivered by 
+the  PIU.    The  PIU  will  coordinate,  manage  contractors  and  consultants,  and  support 
+implementation and administration of the project activities relevant for output 2a, 2b, 2c and 3c.  
+The PIU will work closely with PMU and provide regular progress reports to PMU.  
+to 
+  Up 
+three 
+Project 
+implementation  support  firms. 
+25. 
+firms,  non-government 
+organizations or other entities will be contracted to support project implementation. One firm will 
+be  engaged  to  provide  56  person  months  of  consulting  inputs  to  the  PMU  to  support 
+implementation  of  outputs  1a-d  and  3a-b.  This  firm  will  be  recruited  through  quality-  and cost-
+based selection with simplified technical proposals. The second firm will provide 8 person months 
+of international consultant inputs to the PIU to support implementation of outputs 2a-c and 3b and 
+will be recruited using consultants’ qualification selection (CQS). A third specialized entity will be 
+recruited to provide specific support on research and demonstration using consultant qualification 
+selection.  Procurement  and  recruitment  of  consultants  will  be  conducted  in  accordance  with 
+ADB’s Procurement Policy and Regulations (2017, as amended from time to time). 
+26. 
+Project  steering  committee.  A  project  steering  committee  will  be  established  for  the 
+duration  of  the  project.  It  will  meet  at  least  semi-annually  to  review  and  monitor  project 
+implementation and its plans and advise on project-related policy matters. It will be chaired by the 
+Director General of Forestry and will include the MAF Project Director, and representatives from 
+ACT,  ADB,  the  Embassy  of  Japan,  and  the  Ministry  of  Finance.  Where  relevant  other 
+development partners and private sector stakeholders will be invited to participate as observers. 
+IV. 
+COST AND FINANCING 
+A.  Cost Estimates and Financing Plan 
+The  project  is  estimated  to  cost  $3.2  million  (Table  1).    The  JFPR  will  provide  grant 
+27. 
+financing equivalent to $3.0 million to be administered by ADB. Some taxes and duties have been 
+included in the base cost. The executing agency will provide in-kind counterpart support in the 
+form of office space, workshop and training venues, and staff time for project implementation and 
+monitoring.  
+Item 
+I.  Grant Funding  
+A.  Base Costb 
+Table 4:  Cost Estimates 
+Amounta 
+($ million) 
+Share of Total 
+(%) 
+  1.  Output 1: More productive coffee & agroforestry 
+production systems established 
+ 2.  Output 2: Coffee quality and market linkages 
+improved 
+ 3.  Output 3: Sector management and coordination 
+improved 
+Subtotal (A) 
+B.  Contingencies 
+2.61 
+0.22 
+0.27 
+3.12 
+0.08 
+81.4 
+6.9 
+9.3 
+97.6 
+2.4 
+14 
+Total (A+B) 
+C.  Administrative Budget Supportc 
+3.20 
+0.09 
+100.0 
+a  Includes taxes and duties of $7,000. Such amount does not represent an excessive share of the project cost. ADB      
+administered cofinancing will finance taxes and duties of $7,000.  
+b  In 2019  prices. 
+c  This additional budget support for grant implementation is provided under JFPR's administrative budget and is 
+exclusive of the grant amount. This budget will be used for staff consultants to support implementation support 
+and monitoring and production and dissemination of project case studies.  
+ Source: ADB staff estimates  
+The executing and implementing agencies, a project design team and ADB project team 
+28. 
+prepared the cost estimates and financing plan. For any proposed revisions to the project budget 
+during project implementation, the Government of Timor-Leste will submit a request for project 
+cost reallocation to ADB for review and endorsement. If the revision is endorsed, the PMU will 
+revise the cost estimates under the guidance of ADB project officer. 
+29. 
+Exceptional  one-off  approval  from  the  Government  of  Japan  for  two  project 
+vehicles.    Cost  estimates  include  the  purchase  of  two  cars  for  project  use.  There  is  strong 
+justification  for  purchase  of  vehicles:  (i)  project  activities  include  establishment  of  at  least  one 
+multi-location variety trial and ten demonstration plots and training of active farmers from 2,000 
+households across six municipalities; (ii) the project is employing a participatory approach and 
+most of the activities will be conducted directly with coffee farmers in the municipalities and will 
+require supervision by PMU staff and consultants who will need frequent access to the field; (iii) 
+public transportation to remote areas is extremely limited due to continued problems with road 
+quality; and (iv) vehicle rental over 4 years will be more expensive than purchase. Upon project 
+completion and in accordance with ADB guidelines, the project vehicles will be handed over to 
+MAF.  Specific details will be determined at the completion of the project along with justification 
+for ADB and the JFPR. 
+Administrative budget support. Administrative budget support of 3% of the total grant 
+30. 
+amount ($90,000), exclusive from the project grant, will be provided in recognition of the technical 
+complexity  of  the  project  and  the  geographical  scope  of  the  project  (establishing  farm-level 
+demonstration activities and delivering training in up to 40 remote communities spread across five 
+mountainous municipalities). This additional resources for project administration will be funded 
+from the JFPR administrative budget rather than from the project grant. The administrative budget 
+support  will  be  used  to  (i)  engage  a  national  staff  consultant  to  support  initial  project  start  up 
+activities, provide support to the ADB project officer and MAF and ensure that initial activities are 
+completed on time and to the required standards;  (ii) engage an international staff consultant to 
+provide technical expertise for project review missions and on-demand advice and support to the 
+project officer; (iii) produce and disseminate knowledge products including a video-case study.  
+ The administrative support budget will be used to recruit a technical specialist to advise 
+31. 
+on  the  implementation  of  project  activities  related  to  farm  productivity  improvement  as  these 
+activities account for a majority of the project budget and will have the most immediate and direct 
+impact  on  poverty  reduction.  If  the  specialist  that  is  recruited  also  has  skills  and  experience 
+relating  to  coffee  quality  and  marketing,  then  they  may  also  be  asked  to  advise  on  the 
+implementation of these activities. 
+32. 
+The special administrative budget support will be administered by ADB. The processing 
+and implementing project officer will manage and track the utilization of the administration budget 
+support  and  will  provide  the  Strategy,  Policy  and  Partnerships  Department  and  the  Partners 
+Funds Division  (SDPF) with an annual update on its utilization. Any deviation from the proposed 
+expenditures should be consulted with, and endorsed by . 
+Table 5: Administrative Budget Support Details  
+ Administrative Budget Support 
+Details 
+15 
+Total amount requested  
+Justification 
+Type of work to be rendered by ADB 
+is 
+$90,000 
+The  project 
+geographical dispersion.  
+1. Support for initial establishment of PMU and project start-
+up activities:  
+technically  complex  and  has  wide 
+•  Support  for  EA  procurement  actions  as  per  the 
+• 
+PAM and procurement plan;  
+Initial orientation of PMU staff and consultants on 
+PAM,  and  relevant  ADB  and  JFPR  policies  and 
+procedures;  
+•  Organization  of  initial  project  activities  including 
+inception workshop and community outreach;  
+•  Other support as needed to ensure project remains 
+on-track and in compliance with all covenants and 
+administrative requirements.  
+2. Quality assurance of on farm level demonstration, data 
+collection, and farmer training programs:  
+•  Field visits and community consultations to support 
+project review missions;  
+•  Quality assurance and technical review of relevant 
+training  materials, 
+including 
+project  outputs, 
+guidelines on demo-plot management, etc.  
+3. Video case studies 
+•  Production  and  dissemination  of  two  short  (3 
+minute)  videos  to  showcase  project  innovations 
+and the impacts of the project on beneficiaries.  
+  ADB = Asian Development Bank, EA = executing agency, JFPR = Japan Fund for Poverty Reduction, PAM = project     
+administration manual, PMU = project management unit.  
+  Source: ADB estimates.  
+Table 6: Cost Estimate of Administrative Budget Support  
+Expenditure Category 
+Quantity 
+Unit Cost 
+Total 
+Staff Consultant (National) 
+Renumeration 
+Communications 
+Staff Consultant (International)  
+Renumeration 
+Communications 
+Travel 
+110 
+5 
+50 
+4 
+4 
+$200 
+$150 
+$800 
+$50 
+$2000 
+$22,000 
+$750 
+$40,000 
+$200 
+$8000 
+16 
+Per diem 
+MTE 
+Video case studies 
+Contingency 
+Total Cost 
+28 
+4 
+2 
+$180 
+$200 
+$4,500 
+$5,040 
+$800 
+$9,000 
+$4,210 
+$90,000 
+B.  Allocation and Withdrawal of Grant Proceeds  
+33. 
+The grant covers five categories: (i) consulting services; (ii) training and demonstration; 
+(iii) events; (iv) project management; and (v) contingency. Taxes and duties are included in the 
+base cost.  
+34. 
+There  is  no  land  acquisition  or  resettlement  or  related  costs  under  the  project.  The 
+government  will  provide  in-kind  counterpart  in  the  form  of  office  space,  training  venues,  and 
+government staff time. There are no parallel or joint-financing arrangements. 
+The  following  table  summarizes  the  allocation  and  withdrawal  of  grant  proceeds  and  is 
+35. 
+from the project Grant Agreement. 
+Table 7: Allocation and Withdrawal for Grant Proceeds 
+Number 
+Item 
+1 
+and 
+Goods 
+Training 
+Demonstration, 
+Project 
+Contingency 
+Services, 
+and 
+Events, 
+Management, 
+Total Amount 
+Allocated for JFPR 
+Financing ($) 
+Category 
+Basis for 
+Withdrawal from 
+the Grant Account 
+$3,000,000 
+total 
+100%  of 
+expenditure claimed 
+the 
+Total 
+$3,000,000 
+JFPR = Japan Fund for Poverty Reduction. 
+Source: Asian Development Bank. 
+C.  Detailed Cost Estimates by Financier  
+17 
+Table 9: Expenditure estimates by category ($’000) 
+Financier 1 
+Amount 
+% of Cost 
+Category 
+Government 
+Amount 
+% of Cost 
+Category 
+Total Cost 
+A.  Project Costs 
+1. 
+1a 
+1b 
+2 
+2a 
+2b 
+2c 
+3 
+3a 
+3b 
+3d 
+3e 
+3g 
+4. 
+Consulting Services 
+National consultants 
+International consultants 
+Subtotal consulting services 
+Training and demonstration 
+Nursery Improvement 
+Training 
+Demonstration 
+Subtotal training and demonstration 
+Goods and Services 
+Project office operations 
+Project vehiclesa 
+FMIS 
+Gender survey 
+Festival Kafe Timorb 
+Subtotal goods and services 
+Project management 
+Travel allowances 
+Subtotal project management 
+Subtotal (A) 
+B. 
+In Kind Contributions 
+Salaries 
+1. 
+Office Space & Training venues 
+2. 
+Subtotal (B) 
+Total Base Cost 
+C.  Contingencies 
+Total Project Cost (A+B+C) 
+387.2 
+956.0 
+1,343.2 
+50.0 
+1,000.0 
+150.0 
+1,200.0 
+24.0 
+130.0 
+80.0 
+20.0 
+75.0 
+389.0 
+50.0 
+50.0 
+2,922.2 
+0 
+0 
+0 
+2,922.2 
+77.8 
+3,000.0 
+100.0% 
+100.0% 
+100.0% 
+100.0% 
+100.0% 
+100.0% 
+100.0% 
+100.0% 
+100.0% 
+100.0% 
+100.0% 
+100.0% 
+100.0% 
+50.0 
+50.0 
+100.0% 
+0.0% 
+0.0% 
+0.0% 
+93.6% 
+100.0% 
+93.8% 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+100 
+100 
+200 
+200 
+0 
+200 
+0.0%  
+0.0% 
+0.0% 
+0.0% 
+0.0% 
+0.0% 
+0.0% 
+0.0% 
+0.0% 
+0.0% 
+0.0% 
+0.0% 
+0.0% 
+0.0% 
+0.0% 
+0.0% 
+100% 
+100% 
+100% 
+6.4% 
+0.0% 
+6.3% 
+387.2 
+1,096.0 
+1,483.2 
+50.0 
+1,000.0 
+150.0 
+1,200.0 
+24.0 
+130.0 
+80.0 
+20.0 
+75.0 
+389.0 
+50.0 
+50.0 
+2,922.2 
+100.0 
+  100.0 
+200.0 
+3,122.2 
+77.8 
+3,200.0 
+Note: Numbers may not sum precisely because of rounding. 
+a  Includes the cost of vehicle purchase, fuel, and periodic servicing and maintenance. 
+18 
+b Includes cost of venue rentals, communications, travel for participants, refreshments, training materials, etc.   
+Source: Asian Development Bank 
+D.  Detailed Cost Estimates by Outputs 
+Item 
+A. 
+Training and Demonstration 
+Project Costsa 
+1. 
+1a 
+1b 
+1c 
+Nursery Improvement 
+Training 
+Demonstration 
+2. 
+2a 
+2b 
+2c 
+2d 
+2e 
+3. 
+3a 
+3b 
+4.  
+Subtotal  
+Goods and Services 
+Vehiclesb  
+FIMS 
+Printing and Miscellaneous 
+Travel and Accommodation 
+Baseline gender survey 
+Subtotal  
+Consulting Services  
+       National 
+International 
+Subtotal 
+Festival Kafe Timorc 
+Subtotal (A) 
+B. 
+In Kind Contributions 
+Salaries 
+1. 
+Office Space & Training venues 
+2. 
+Subtotal (B) 
+Total Base Cost 
+C.  Contingencies 
+Total Project Cost (A+B+C) 
+Table 10: Cost Estimates by Output ($’000)  
+Output 1 
+Output 2 
+Output 3 
+Total Cost 
+Amount 
+% of Cost 
+Category 
+Amount 
+% of Cost 
+Category 
+Amount 
+% of Cost 
+Category 
+50.0 
+1,000.0 
+150.0 
+1,200.0 
+130.0 
+80.0 
+24.0 
+50.0 
+20.0 
+304.0 
+387.2 
+956.0 
+1,343.2 
+75.0 
+2,922.2 
+100.0 
+100.0 
+200.0 
+3,122.2 
+77.8 
+3,200.0 
+50.0 
+1,000.0 
+150.0 
+1,200.0 
+110.1 
+0.0 
+20.3 
+42.4 
+20.0 
+192.8 
+328.0 
+754.8 
+1,082.9 
+0.0 
+2,475.7 
+80.0 
+50.0 
+130.0 
+2,605.7 
+77.8 
+2,671.6 
+100.0% 
+100.0% 
+100.0% 
+100.0% 
+84.7% 
+0.0% 
+84.7% 
+84.7% 
+100.0% 
+63.4% 
+84.7% 
+79.0% 
+80.6% 
+0.0% 
+84.7% 
+80.0% 
+50.0% 
+65.0% 
+83.5% 
+65.9 
+83.5% 
+0.0 
+0.0 
+0.0 
+0.0 
+9.8 
+0.0 
+1.8 
+3.8 
+0.0 
+15.4 
+29.2 
+100.5 
+129.7 
+75.0 
+220.0 
+0.0 
+0.0 
+0.0 
+220.0 
+84.7% 
+225.9 
+0.0% 
+0.0% 
+0.0% 
+0.0% 
+7.5% 
+0.0% 
+7.5% 
+7.5% 
+0.0% 
+5.1% 
+7.5% 
+10.5% 
+9.7% 
+100.0% 
+7.5% 
+0.0% 
+0.0% 
+0.0% 
+7.0% 
+5.9 
+7.1% 
+0.0 
+0.0 
+0.0 
+0.0 
+10.1 
+80.0 
+1.9 
+3.9 
+0.0 
+95.8 
+30.0 
+100.6 
+130.7 
+0.0 
+226.5 
+20.0 
+50.0 
+70.0 
+296.5 
+7.5% 
+302.5 
+0.0% 
+0.0% 
+0.0% 
+0.0% 
+7.7% 
+100.0% 
+7.7% 
+7.7% 
+0.0% 
+31.5% 
+7.7% 
+10.5% 
+9.7% 
+0.0% 
+7.7% 
+20.0% 
+50.0% 
+35.0% 
+9.5% 
+6.0 
+9.5% 
+FIMS = farm information management system 
+a In mid-2019 prices. 
+b Includes the cost of vehicle purchase, fuel, and periodic servicing and maintenance. 
+c Includes cost of venue rentals, communications, travel for participants, refreshments, training materials, etc.   
+Source: ADB estimates 
+E.  Estimated Disbursement Schedule by Year  
+Table 11. Contract Awards and Disbursements by quarter and year 
+Contract Awards ($’000) 
+Disbursements ($’000) 
+Year  Q1 
+Q2 
+Q3 
+Q4 
+Total 
+  Q1 
+Q2 
+Q3 
+Q4 
+2020  0.0 
+2,672.7 
+22.2 
+2021  12.8 
+2022  12.8 
+2023  12.8 
+12.8 
+12.8 
+12.8 
+22.2 
+22.2 
+22.2 
+37.2 
+37.2 
+37.2 
+37.2 
+2024  12.8 
+0.0 
+0.0 
+Source: Asian Development Bank 
+0.0 
+2,732.1 
+85.0 
+85.0 
+85.0 
+12.8 
+0.0 
+192.2 
+12.8 
+114.4 
+198.1 
+12.8 
+224.3 
+201.1 
+22.2 
+151.3 
+212.7 
+37.2 
+188.7 
+176.7 
+213.1 
+186.1 
+764.6 
+89.1 
+0.0 
+0.0 
+0.0 
+89.1 
+19 
+Total 
+490.0 
+804.1 
+85.0 
+F.  Contract and Disbursement S-Curve  
+Cumulative Contract Awards and Disbursement
+$ million 
+ 3.5
+ 3.0
+ 2.5
+ 2.0
+ 1.5
+ 1.0
+ 0.5
+ -
+Awards
+Disbursement
+0
+2
+0
+2
+-
+2
+Q
+0
+2
+0
+2
+-
+3
+Q
+0
+2
+0
+2
+-
+4
+Q
+1
+2
+0
+2
+-
+1
+Q
+1
+2
+0
+2
+-
+2
+Q
+1
+2
+0
+2
+-
+3
+Q
+1
+2
+0
+2
+-
+4
+Q
+2
+2
+0
+2
+-
+1
+Q
+2
+2
+0
+2
+-
+2
+Q
+2
+2
+0
+2
+-
+3
+Q
+2
+2
+0
+2
+-
+4
+Q
+3
+2
+0
+2
+-
+1
+Q
+3
+2
+0
+2
+-
+2
+Q
+3
+2
+0
+2
+-
+3
+Q
+3
+2
+0
+2
+-
+4
+Q
+4
+2
+0
+2
+-
+1
+Q
+20 
+G.  Funds Flow Diagram 
+ACT = Timor Coffee Association, ADB = Asian Development Bank, MOF = Ministry of Finance, PIU = project 
+implementation unit, PMU = project management unit. 
+V. 
+FINANCIAL MANAGEMENT 
+A.  Financial Management Assessment 
+As part of the project due diligence, a financial management assessment (FMA) of MAF, DNCPI 
+36. 
+and ACT was undertaken in accordance with ADB’s Guidelines for Financial Management Assessment 
+and  ADB’s  Financial  Due  Diligence,  a  methodology  note,  and  Technical  Guidance  Note:  Financial 
+Management Assessment. MAF will be the executing agency for the project.  
+37. 
+The FMA was conducted through interviews, review of artefacts and analysis of information. 
+ADB’s FMA questionnaire was used as the basis for discussions. The scope of the FMA was to assess 
+the  financial  management  capacity  of  the  executing  agency  and  implementing  agencies.  The 
+assessment included a review of fund-flow arrangements, staffing, accounting policies and procedures, 
+internal  and  external  auditing  arrangements,  reporting  and  monitoring,  and  financial  information 
+systems.  A  summary  of  the  Financial  Management  and  Internal  Control  risks  that  were  identified 
+through the FMA is presented in table 12 below.  
+Table 12: Financial Management and Internal Control Risks 
+21 
+Risk  
+Inherent Risk 
+1. Country Specific 
+High 
+Risk Assessment  Risk Description 
+2. Entity-specific 
+Moderate 
+Overall Inherent Risk 
+Project Risk 
+1. Implementing Entity 
+Moderate 
+High 
+2. Funds Flow 
+High  
+3. Staffing 
+Moderate 
+4. Accounting policies and procedures  Moderate 
+4. Internal Audit 
+High 
+5. External Audit 
+Moderate 
+6. Reporting and Monitoring 
+Moderate 
+7. Information systems 
+High 
+National-level  assessments  have  documented 
+significant weaknesses in procurement, internal 
+controls, and internal audit.a 
+The division of responsibilities between ACT and  
+MAF  may  be  unclear.  Likewise  the  roles  and 
+responsibilities  of  MAF  staff  and  PMU 
+consultants may be unclear.  
+is  supervised  by 
+Neither MAF or ACT have been EA/IA for ADB 
+financed  projects.  ACT  is  recently  established 
+and is still in the process of establishing policies 
+and procedures for financial management. MAF 
+does not have a centralized project management 
+function.  
+Configuration  of  government  PFM  system  and 
+weak  financial  capacity  of  ACT  mean  that  the 
+MAF and ACT will not be able to use their own 
+resources  to  cover  project  expenses  before 
+seeking reimbursement from ADB.  
+ACT has limited full time staffing and accounting 
+and  financial  management  is  carried  out  by  an 
+admin  officer  who 
+the 
+Treasurer. MAF accounting staff already have a 
+regular workload. They have limited knowledge 
+of  ADB  requirements,  may  resist  taking  on 
+additional  responsibilities,  and  may  struggle  to 
+provide timely support to the project.  
+simple  accounting 
+ACT  has  developed 
+procedures which are appropriate to its current 
+operations  but  do not  enable clear  segregation 
+of  project  accounts.  MAF  uses  general 
+government  systems  for  payment  processing 
+and financial reporting but these systems are not 
+well suited to project activities.  
+Internal  audit  is  not  well-developed.  MAF  staff 
+perform  inspection  and  monitoring  but  there  is 
+currently no value-adding internal audit function. 
+ACT  has  an  internal  audit  function  that  is 
+independent of its executives and management.  
+The 
+financial 
+statements are audited by the SAI. Individual line 
+ministries including MAF are audited by the SAI 
+from  time  to  time,  but  not  on  an  annual  basis. 
+ACT’s statute has a provision for external audit 
+of its annual financial statements but this is not 
+always implemented.  
+MOF  assumes  responsibility  for  most  GoTL 
+financial  reporting  using  the  GoTL  FMIS.  MAF 
+therefore has limited reporting experience. MAF 
+monitoring tends to focus on budget execution. 
+ACT produces general financial statements and 
+reports  on  activities  and  projects  but  is  still 
+building its capacity.  
+MAF  uses  the  GoTL  FMIS  as  its  primary 
+information  system  but  relies  on  MS  excel  for 
+consolidated 
+government 
+22 
+auxiliary  functions.  The  FMIS  is  not  readily 
+available  for  use  for  grant  financed  projects  so 
+use  of  excel  for  project  reporting  is  likely.  ACT 
+uses ‘Quickbooks’ for accounting but would need 
+to update its systems to enable clear tracking of 
+project expenses.  
+Overall Project Risk 
+Overall (Combined) Risk 
+Moderate 
+Moderate 
+ACT  =  Timor  Coffee  Association,  ADB  =  Asian  Development  Bank,  EA  =  executing  agency,  FMIS  =  financial 
+management information system, GoTL = Government of Timor-Leste, IA = implementing agency, MAF = Ministry of 
+Agriculture and Fisheries, MS = Microsoft, PFM = public financial management, PMU = project management unit, SAI 
+= supreme audit institution 
+Table 13: Risk Management Plan 
+Risk Description 
+National-level  assessments  have  documented 
+significant weaknesses in procurement, internal 
+controls, and internal audit.  
+Risk mitigation action 
+Timor-Leste  is  currently  preparing  an  updated 
+PFM reform plan. ADB will work in partnership 
+with  GoTL  and  other development  partners  to 
+support implementation of this plan.  
+Timeframe 
+Ongoing 
+through  life  of 
+project 
+The  division  of  responsibilities  between  ACT 
+and   MAF  may be unclear.  Likewise  the  roles 
+and  responsibilities  of  MAF  staff  and  PMU 
+consultants may be unclear. 
+full 
+Neither MAF or ACT have been EA/IA for ADB 
+financed projects.  ACT  is  recently  established 
+and is still in the process of establishing policies 
+and procedures for financial management. MAF 
+does  not  have  a 
+centralized  project 
+management function. 
+Configuration of government PFM system and 
+weak  financial  capacity  of  ACT  mean  that  the 
+MAF and ACT will not be able to use their own 
+resources  to  cover  project  expenses  before 
+seeking reimbursement from ADB. 
+time  staffing  and 
+ACT  has 
+limited 
+is 
+financial  management 
+accounting  and 
+carried  out  by  an  admin  officer  who 
+is 
+supervised  by  the  Treasurer. MAF  accounting 
+staff  already  have  a  regular  workload.  They 
+have limited  knowledge  of  ADB  requirements, 
+may resist taking on additional responsibilities, 
+and  may  struggle  to  provide  timely  support  to 
+the project.  
+ACT  has  developed  simple  accounting 
+procedures which are appropriate to its current 
+operations but do not enable clear segregation 
+of  project  accounts.  MAF  uses  general 
+government  systems  for  payment  processing 
+and  financial  reporting  but  these  systems  are 
+not well suited to project activities.  
+Internal audit is not well-developed. MAF staff 
+perform inspection and monitoring but there is 
+currently  no  value-adding 
+internal  audit 
+function. ACT has an internal audit function that 
+A  clear  project  structure  will  be  prepared 
+showing the division of responsibilities between 
+MAF  and  ACT.  Terms  of  reference  will  be 
+prepared  for  the  project  functions  that  will  be 
+performed  by  MAF  staff  and  MAF  will  review 
+and all terms of reference for PMU consultants 
+to ensure that the roles are clearly understood.  
+A  PMU  will  be  established  in  DNCPI  with 
+specific responsibility for the project. MAF and 
+ACT  staff  will  be  trained  on  ADB  policies  and 
+procedures 
+for  disbursement.  Additional 
+support will be provided to ACT if needed.  
+Q1–Q2 2020 
+Q1–Q2 2020 
+An  advance  account  will  be  established  with 
+clear funds flows procedures. Project staff and 
+consultants  will  be  trained  on  funds  flow  and 
+use of the advance account.   
+Q1–Q2 2020 
+The GA will include a covenant on assignment 
+of  MAF  staff.  The  MAF  Project  Director,  MAF 
+finance  staff,  and  ACT  Staff  and  Board 
+members  will  be  offered  training  on  ADB 
+requirements  for  financial  management  and 
+reporting.  A  consultant  will  be  recruited  to 
+support the PMU with accounting and financial 
+management.  
+ACT’s accounting procedures will be updated to 
+enable segregation of project accounts. An off-
+the shelf accounting system will be purchased 
+for  use  by  the  MAF  PMU  to  ensure  proper 
+accounting 
+project 
+expenditures.  
+reporting 
+and 
+of 
+Q1–Q2 2020 
+Q1–Q2 2020 
+MAF  will  be  encouraged  to  apply  existing 
+inspection and monitoring capabilities to ensure 
+that the existing controls including segregation 
+Throughout 
+project 
+government 
+consolidated 
+independent  of 
+its  executives  and 
+is 
+management.  
+The 
+financial 
+statements  are  audited  by  the  SAI.  Individual 
+line ministries including MAF are audited by the 
+SAI  from  time  to  time,  but  not  on  an  annual 
+basis. ACT’s statute has a provision for external 
+audit of its annual financial statements but this 
+is not always implemented.  
+MOF  assumes  responsibility  for  most  GoTL 
+financial reporting using the GoTL FMIS. MAF 
+therefore has limited reporting experience. MAF 
+monitoring tends to focus on budget execution. 
+ACT produces general financial statements and 
+reports  on  activities  and  projects  but  is  still 
+building its capacity.  
+MAF  uses  the  GoTL  FMIS  as  its  primary 
+information  system  but  relies  on  MS  excel  for 
+auxiliary  functions.  The  FMIS  is  not  readily 
+available for use for grant financed projects so 
+use of excel for project reporting is likely. ACT 
+uses  ‘Quickbooks’  for  accounting  but  would 
+need  to  update  its  systems  to  enable  clear 
+tracking of project expenses.  
+23 
+of  duties  and  signatories  at  different  levels  of 
+authority are maintained.  
+A reputable private firm will be engaged to audit 
+the annual project financial statements.  
+Throughout 
+project 
+terms  of 
+The 
+for  PMU/PIU 
+reference 
+consultants  will  include  support  for  project 
+reporting.  
+Q1-Q2 2020 
+Project  accounts  will  be  maintained  using  an 
+off-the-shelf  accounting  system.  ACT  will 
+update  its  configuration  of  Quickbooks  to 
+enable  clear  separation  and  accounting  of 
+project expenses.  
+Q1-Q2 2020 
+ACT = Timor Coffee Association, ADB = Asian Development Bank, DNCPI = National Directorate for Coffee and Industrial 
+Crops,  EA  =  executing  agency,  FMIS  =  financial  management  information  system,  GA  =  grant  agreement,  GoTL  = 
+Government of Timor-Leste, IA = implementing agency, MAF = Ministry of Agriculture and Fisheries, MS = Microsoft, PFM = 
+public financial management, PMU = project management unit, Q = quarter, SAI = supreme audit institution 
+B.  Disbursement 
+38. 
+The  principles  and  procedures  that  are  described  in  ADB’s  Loan  Disbursement  Handbook 
+(2017, as amended from time to time) apply to ADB’s grant financed investment projects and policy 
+based grants.JFPR grant proceeds will be disbursed in accordance with ADB’s Loan Disbursement 
+Handbook (2017, as amended from time to time), and detailed arrangements agreed upon between 
+the government and ADB.4  
+Online training for project staff on disbursement policies and procedures is available. Project 
+39. 
+staff are encouraged to avail of this training to help ensure efficient disbursement and fiduciary control. 
+Advance fund procedure. A separate advance account should be established and maintained 
+40. 
+by  MAF for  the  project  in  collaboration  with MOF.    The  currency  of the advance  account  is the US 
+dollar.  The advance account is to be used exclusively for ADB’s share of eligible expenditures.  MAF 
+will establish the advance account in its name and is accountable and responsible for proper use of 
+advances  to  the  advance  account.  Requests  by  the  executing  agency  for  initial  advance  and 
+subsequent replenishments  of the  advance  account  will  be  supported  by  withdrawal  applications to 
+ADB  and  will  be  based  on  the  executing  agency’s  estimate  of  ADB’s  share  of  eligible  project 
+expenditures for up to, and not exceeding, the next 6 months, supported by a 6-month activity plan and 
+Estimate  of  Expenditure  Sheet.5  Subsequent  applications  for  account  replenishment  will  be 
+accompanied by a Summary Sheet, as well as the advance account reconciliation statement. 
+41. 
+The total outstanding advance to the advance account should not exceed $100,000. Supporting 
+documents  should  be  submitted  to  ADB  and  retained  by  MAF  in  accordance  with  ADB’s  Loan 
+4   Available at http://www.adb.org/Documents/Handbooks/Loan_Disbursement/loan-disbursement-final.pdf 
+5 Form available in Appendix 8A of ADB Loan Disbursement Handbook (2017, as amended from time to time). 
+24 
+Disbursement Handbook (2017, as amended from time to time) when liquidating or replenishing the 
+advance account. 
+42. 
+Before the submission of the first withdrawal application, MOF should submit to ADB sufficient 
+evidence of the authority of the person(s) who will sign the withdrawal applications on behalf of the 
+government,  together  with  the  authenticated  specimen  signatures  of  each  authorized  person.  The 
+minimum value per withdrawal application is in accordance with the Loan Disbursement Handbook. 
+Individual payments below this amount should be paid (i) by MAF and subsequently claimed to ADB 
+through  reimbursement,  or  (ii)  through  the  advance  fund  procedure,  unless  otherwise  accepted  by 
+ADB.  The  recipient  should  ensure  sufficient  category  and  contract  balances  before  requesting 
+disbursements.    Use  of  ADB’s  Client  Portal  for  Disbursements  (CPD)6  system  is  encouraged  for 
+submission of withdrawal applications to ADB.  
+43. 
+The  withdrawal  application  for  advances  or  replenishments  to  the  advance  account    will  be 
+prepared  in  the  currency  of  the  advance  account  i.e.,  US  dollars.  Withdrawal  applications  for 
+reimbursement and direct payment will be made in the currency in which the cost of goods and services 
+has been paid or is payable. Withdrawal applications will be co-signed by the project director and MOF. 
+The  initial  advance  will  be  prepared  by  the  project  director.  Thereafter,  once  the  PMU  project 
+coordinator  and  finance  specialist  have  been  recruited,  the  PMU  will  prepare  the  withdrawal 
+applications for review and co-signing by the project director and MOF. The schematic fund flow for 
+the project is in the PAM section IV.G.Treasury Management.  The PMU will administer the financial 
+resources of the Project through effective cash management and timely replenishment of the advance 
+account.    The  PMU  will  prepare  cashflow  forecasts  to  ensure  liquidity  in  the  advance  account  is 
+maintained. 
+44. 
+Expenditure eligibility. All expenditures must be reasonable and facilitate achievement of the 
+project  objectives.    Project  funds  shall  not  be  used  for  payments  to  civil  servants,  entertainment, 
+alcohol, donations, gifts and other similar payments or as defined ineligible in the grant agreement are 
+not eligible for financing with project fund. 
+45. 
+Petty cash. Management of petty cash will be subject to the following conditions.  
+i. 
+A petty cash limit is set to an amount approved by MAF. 
+ii. 
+iii. 
+iv. 
+v. 
+vi. 
+The petty cash must be securely locked with access only by the Finance Officer. 
+The  project  manager  shall  perform  unannounced  independent  counts  of  petty  cash 
+periodically. 
+The Project Manager shall approve the replenishment of petty cash. 
+Petty cash disbursements shall restrict the use of IOU.  
+A  simple  manual  record  will  be  maintained  to  record  payments  from  petty  cash  and 
+replenishments.  
+46. 
+Cheque payments. The following conditions will be maintained for payments made by cheque: 
+i.  Use pre-numbered cheques and ensure serial continuity.  Cheques not used due to errors 
+are clearly marked “Cancelled” and filed in sequential order of paid cheques returned from 
+the bank.  
+ii. 
+Limit access to blank cheques to the MAF project accountant. 
+iii.  No cheques shall be issued without an approved payments voucher. 
+6 The CPD facilitates online submission of WA to ADB, resulting in faster disbursement. The forms to be completed by the 
+Recipient are available online at https://www.adb.org/documents/client-portal-disbursements-guide.     
+25 
+iv. 
+Payments shall require original supplier’s invoices and/or other properly raised requests.  
+Duplicates or photocopies of invoices are not allowed for issuing cheques.  
+v.  Direct bank transfer shall be used when possible.  
+vi. 
+vii. 
+All payment documents, invoices are stamped PAID after payment 
+The cheque number shall be inserted on the payment voucher immediately after recording 
+payment. 
+viii. 
+The dates on cheques shall be the dates when they are written/ printed. 
+ix.  Cheques shall be issued to the person / entity named in the vouchers, strict enforcement 
+shall be adopted to restrict cheques issued to “Cash”.   
+x. 
+xi. 
+Signatory  signing  a  cheque  shall  perform  reasonable  diligence  to  ensure  the  cheque  is 
+correctly drawn and that the payee and the amount correspond with the supporting details, 
+invoices and/or receipts.  
+The  officer  making  the  payment  shall  stamp  "PAID"  across  the  face  of  the  voucher  and 
+accompanying documents.    
+47. 
+Cash Advance.  Advances are recorded in a register and tracked until adequate supporting 
+documentation (such as invoices, receipts or signatures from third parties) to demonstrate eligibility 
+and the amount spent is presented. 
+48. 
+Payment Date.  For recording purpose, the payment date is the date when a cheque payment 
+voucher (CPV) is generated.  All payments shall be made within 30 days after the receipt of invoice or 
+claims received after satisfactory delivery of service.  
+49. 
+Supporting Documents. All payments shall be supported by payment vouchers (CPV) which 
+contains full details of the goods / service for which payment is made, such as dates, numbers, etc. 
+Payment  vouchers  shall  be  properly  supported  with  appropriate  documents  including  requisitions, 
+purchase  orders,  suppliers’  invoices,  delivery  notes,  an  inspection  /  performance  note  and  goods 
+received document. 
+50. 
+Reasonableness check:  The Project Manager shall be accountable for ensuring that:  
+The services specified in the invoice / claim have been satisfactorily completed; 
+i. 
+ii. 
+iii. 
+iv. 
+v. 
+vi. 
+The prices charged are either according to contracts or approved agreement or are based 
+on quoted price; 
+The calculations and price have been verified and are accurate; 
+The classification of the expenditure is correct and in line with the budget.  
+The persons named in the voucher are those entitled to receive payment; and 
+All payments are recorded.  
+C.  Accounting  
+51. 
+The PMU and PIUs will maintain, or cause to be maintained, separate books and records by 
+funding source for all expenditures incurred on the project. For their respective components, the PMU 
+and  PIUs  will  follow  the  cash  basis  of  accounting  which  are  broadly  based  on  the  cash-basis 
+International Public Sector Accounting Standards. 
+26 
+D.  Auditing and Public Disclosure 
+52. 
+The  PMU  and  PIUs  will  cause  the  detailed  project  financial  statements  to  be  audited  with 
+International Standards on Auditing or International Standards for Supreme Audit Institutions and with 
+the government's audit regulations, by an independent auditor acceptable to ADB. The audited project 
+financial  statements  together  with  the  auditors’  opinion  will  be  submitted  to  ADB  by  MAF  within  6 
+months of the end of the fiscal year. All audit reports will be written in English.  
+The annual audit report for the project accounts will include an audit management letter and 
+53. 
+audit opinions which cover (i) whether the project financial statements present a true and fair view or 
+are  presented  fairly,  in  all  material  respects,  in  accordance  with  the  applicable  financial  reporting 
+framework; (ii) whether grant proceeds were used only for the purposes of the project or not; and (iii) 
+the level of compliance for each financial covenant contained in the legal agreements for the project. 
+54. 
+Compliance  with  financial  reporting  and  auditing  requirements  will  be  monitored  by  review 
+missions  and  during  normal  program  supervision,  and  followed  up  regularly  with  all  concerned, 
+including the external auditor. 
+55. 
+The  government,  MAF  and  DNCPI  have  been  made  aware  of  ADB’s  approach  to  delayed 
+submission, and the requirements for satisfactory and acceptable quality of the audited project financial 
+statements.7 ADB reserves the right to require a change in the auditor or for additional support to be 
+provided to the auditor, if the audits required are not conducted in a manner satisfactory to ADB, or if 
+the audits are substantially delayed. ADB reserves the right to verify the project's financial accounts to 
+confirm that the share of ADB’s financing is used in accordance with ADB’s policies and procedures. 
+56. 
+Public disclosure of the project financial statements, including the audit report on the project 
+financial statements, will be guided by ADB’s Public Communications Policy (2011).8 After review, ADB 
+will disclose the project financial statements and the opinion of the auditors on the financial statements 
+within 14 calendar days of the date of their acceptance by posting them on ADB’s website. The audit 
+management letter will not be disclosed. 
+VI. 
+PROCUREMENT AND CONSULTING SERVICES 
+A.  Advance Contracting  
+57. 
+All advance contracting will be undertaken in conformity with ADB’s Procurement Policy and 
+Regulations  (2017,  as  amended  from  time  to  time)  and  their  associated  Staff  Instructions.9  The 
+issuance  of  invitations  to  bid  under  advance  contracting  will  be  subject  to  ADB  approval.  MAF  and 
+MOF have been advised that approval of advance contracting does not commit ADB to finance the 
+project. 
+7 ADB approach and procedures regarding delayed submission of audited project financial statements:  
+(i)  When audited project financial statements are not received by the due date, ADB will write to the executing agency 
+advising that (i) the audit documents are overdue; and (ii) if they are not received within the next 6 months, requests 
+for new contract awards and disbursement such as new replenishment of advance accounts, processing of new 
+reimbursement, and issuance of new commitment letters will not be processed. 
+(ii)  When  audited  project  financial  statements  have  not  been  received  within  6 months  after  the  due  date,  ADB  will 
+withhold processing of requests for new contract awards and disbursement such as new replenishment of advance 
+accounts,  processing  of  new  reimbursement,  and  issuance  of  new  commitment  letters.  ADB  will  (i)  inform  the 
+executing agency of ADB’s actions; and (ii) advise that the loan may be suspended if the audit documents are not 
+received within the next 6 months. 
+(iii)  When audited project financial statements have not been received within 12 months after the due date, ADB may 
+suspend the loan. 
+8    Available at http://www.adb.org/documents/pcp-2011?ref=site/disclosure/publications   
+9  Available at http://www.adb.org/Documents/Guidelines/Procurement/Guidelines-Procurement.pdf 
+27 
+58. 
+Advance contracting. Advance contracting of consulting services is planned to enable early 
+commencement  of  project  activities  following  grant  effectiveness.  The  advertisement,  shortlisting, 
+evaluation, and consultant selection committee recommendations under advance contracting will be 
+completed  according  to  the  matrix  of  procurement  responsibilities  presented  in  Appendix  1.  The 
+government and the executing agency have been advised that approval of advance contracting prior 
+to signing of the grant agreement does not commit ADB to financing the project. Retroactive financing 
+will not be utilized under the project. 
+B.  Procurement of Goods, Works, and Consulting Services 
+All procurement of goods and works will be undertaken in accordance with ADB’s Procurement 
+59. 
+Policy  (2017,  as  amended  from time to time)  and  the  Procurement  Regulations  for  ADB  Borrowers 
+(2017,  as  amended  from  time  to  time)  and  their  associated  Staff  Instructions.  The  purpose  of  the 
+Procurement Regulations for ADB Borrowers is to inform those carrying out a project that is financed 
+in  whole  or  in  part  by  way  of  an  investment  loan  from  ADB,  ADB-financed  grant,  or  by  ADB-
+administered funds of the policies and procedures that govern the procurement of goods, works, and 
+nonconsulting and consulting services required for the project. The PMU, on behalf of the MAF, will be 
+responsible for procurement. The selection and engagement of contractors for works and/or consulting 
+services to be financed by the grant will be subject to ADB approval with ADB providing support for 
+procurement as per the matrix of procurement responsibilities presented in Appendix 1. 
+Before  the  start  of  any  procurement,  ADB  and  the  government  will  review  the  public 
+60. 
+procurement laws  to ensure consistency with ADB’s procurement  policy. 
+61. 
+Shopping will be used for procurement of equipment estimated to cost over $10,000 equivalent 
+and  less  than  $100,000  equivalent.  Direct  contracting  will  be  used  for  goods  and  services  supply 
+contracts valued $10,000 or below. 
+62. 
+All consultants and nongovernment organizations (NGOs), will be recruited according to ADB’s 
+Procurement Policy and Regulations (2017, as amended from time to time) and their associated Staff 
+Instructions.10 The terms of reference for all consulting services are detailed in Section D. 
+63. 
+An 18-month procurement plan indicating threshold and review procedures, goods, works, and 
+consulting  service  contract  packages  has  been  prepared.  The  plan  describes  the  procurement 
+methods  and review  procedures,  and  contract  packages for  goods,  works,  and  consulting  services. 
+Any  necessary  modifications  or  clarifications  to  the  recipient  procurement  procedures  will  be 
+documented in the procurement plan 
+An  estimated  262  person-months  (56  international,  206  national)  of  consulting  services  are 
+64. 
+required to (i) facilitate project management and implementation, and (ii) strengthen the institutional 
+and operational capacity of the executing agency. Consulting firms will be engaged using the quality- 
+and  cost-based  selection  (QCBS)  method  with  a  standard  quality–cost  ratio  of  90:10  or  where 
+appropriate, the consultants qualification selection (CQS) method. 
+10 Checklists for actions required to contract consultants by method available in e-Handbook on Project Implementation at 
+http://www.adb.org/documents/handbooks/project-implementation/  
+28 
+C.  Procurement Plan 
+Basic Data 
+Project Name: Coffee and Agroforestry Livelihood Improvement Project 
+Project Number: 51296-001 
+Country:  TIMOR LESTE 
+Project Procurement Classification: B 
+Procurement Risk: Moderate 
+Project Financing Amount: $3 million 
+   ADB Financing: $0 
+   Cofinancing (ADB Administered): $3 million 
+   Non-ADB Financing: 
+Date of First Procurement Plan September 2019 
+Approval Number: xxxxxx 
+Executing Agency: MAF 
+Implementing Agency: MAF, ACT 
+Project Closing Date: June 2024 
+Date of this Procurement Plan: 09 / 01 / 2020 
+ACT = Timor Coffee Association, ADB = Asian Development Bank, MAF = Ministry of Agriculture and Fisheries 
+Methods, Review and 18-Month Procurement Plan 
+1. 
+Procurement  and Consulting Methods and Thresholds 
+Except as the Asian Development Bank (ADB) may otherwise agree, the following process thresholds 
+shall apply to procurement of goods and works.  
+Method 
+Comments 
+Consulting Services 
+Quality and Cost Based Selection (QCBS) 
+Consultant Qualification Selection (CQS) 
+Individual Consultant Selection (ICS) 
+Least-Cost Selection 
+Prior approval  
+Prior approval 
+Prior approval 
+Prior approval 
+A.  Consulting Services Contracts Estimated to Cost $100,000 or More 
+The following table lists consulting services contracts for which the recruitment activity is either ongoing 
+or expected to commence within the next 18 months. 
+29 
+Package 
+Number 
+General 
+Description 
+Estimated 
+Value 
+Recruitment  
+Method 
+$1,828,000 
+QCBS 90:10 
+Review 
+(Prior / 
+Post) 
+Prior 
+Advertisement  
+Date 
+(quarter/year) 
+Q2 2020 
+Type of 
+Proposal 
+Comments 
+FTP 
+International 
+C01 
+C02 
+C03 
+C04 
+Technical 
+services to 
+support output 
+1a-d, 3a-b 
+including 
+agronomist, 
+training 
+specialist, farm 
+information 
+system and 
+baseline 
+gender survey 
+Technical 
+services to 
+support output 
+1a-b 
+Technical 
+services to 
+support outputs 
+2a-c and 3c 
+including 
+marketing 
+specialist, 
+quality 
+specialist.  
+MAF Project 
+manager 
+$200,000 
+CQS 
+Prior 
+Q2 2020 
+STP 
+International 
+$192,000 
+CQS 
+Prior 
+Q2 2020 
+STP 
+International 
+$192,000 
+ICS 
+Prior 
+Q2 2020 
+EOI 
+National 
+consultant with 
+project 
+management 
+experience 
+2. 
+Goods  and  Works  Contracts  Estimated  to  Cost  Less  than  $1  Million  and  Consulting 
+Services Contracts Less than $100,000 (Smaller Value Contracts) 
+The following table groups smaller-value goods, works and consulting services contracts for which the 
+activity is either ongoing or expected to commence within the next 18 months. 
+National 
+consultant, 
+accounting 
+and financial 
+management 
+National 
+consultant, 
+project 
+admin 
+experience 
+National 
+consultant, 
+project and 
+program 
+management 
+Project 
+vehicle 
+30 
+Consulting Services 
+Package 
+Number 
+General 
+Description 
+Estimated 
+Value 
+Number 
+of 
+Contracts 
+Recruitment  
+Method 
+Review 
+(Prior / 
+Post) 
+$51,200 
+1 
+ICS 
+Prior 
+EOI 
+Advertise
+ment 
+Date 
+(quarter/ 
+year) 
+Q2 2020 
+Type of 
+Proposal 
+Comments 
+C06 
+C07 
+C08 
+MAF PMU 
+accounts 
+assistant 
+MAF PMU 
+Assistant 
+ACT 
+Program 
+manager 
+$24,000 
+1 
+ICS 
+Post 
+Q2 2020 
+EOI 
+$96,000 
+1 
+ICS 
+Prior 
+Q2 2020 
+EOI 
+C09 
+Audit 
+Goods purchases 
+Project 
+G01 
+vehicles 
+$60,000 
+$80,000 
+1 
+1 
+LCS 
+RFQ 
+Prior 
+Q4 2020 
+EOI 
+Prior 
+Q2 2020 
+Quotation 
+B. 
+List of Awarded and On-going, and Completed Contracts  
+The following tables list the awarded and on-going contracts, and completed contracts. 
+1.   Awarded and On-going Contracts 
+Consulting Services 
+Package 
+Number 
+General 
+Description 
+Estimated 
+Value 
+Awarded 
+Contract  
+Value 
+Recruitment  
+Method 
+Advertisement 
+Date 
+(quarter/year) 
+Date of 
+ADB 
+Approval 
+of 
+Contract 
+Award 
+Comments 
+2.  Completed Contracts 
+Consulting Services 
+Package 
+Number 
+General 
+Description 
+Estimated 
+Value 
+Contract  
+Value 
+Recruitment  
+Method 
+Advertisement 
+Date 
+(quarter/ 
+year) 
+Date of 
+ADB 
+Approval 
+of 
+Contract 
+Award 
+Date of 
+Completion 
+Comments 
+31 
+D.  Consultant's Terms of Reference 
+D.1 Project Implementation Support Firm/NGO/Entity  
+Profile.  The  Firm/NGO/Entity  shall  have  demonstrated  experience  in  implementing  coffee 
+value chain projects in Timor-Leste or in similar conditions elsewhere. Experience of working 
+with smallholder farmers to improve the productivity of coffee and agroforestry systems is highly 
+desirable.  Experience  with  ADB  or  World  Bank  projects  and  familiarity  with  the  coffee value 
+chain  in  Timor-Leste  is desirable.  Knowledge  of  ADB’s  guidelines  on  the  use  of  consultants 
+would be a plus. 
+Duration: 4 years, 60 person months 
+Post location:  Dili,  with  regular  travel to  project  sites  in  Aileu,  Ainaro,  Ermera,  Liquica,  and 
+Manufahi 
+Expected timing: Starting in July 2020 
+Scope  of  work:  The  firm/NGO/entity  will  be  responsible  for  providing  technical  services  to 
+support the delivery of output 1a-d and output 3a-b. The firm/NGO/entity is expected to provide 
+technical  leadership  for:  i)  design  of  the  overall  training  package  and  training  materials;  i) 
+development of materials to support the contracting, monitoring, and evaluation of third party 
+training  service  providers;  iii)  procurement,  monitoring,  and  evaluation  of    training  service 
+providers; and iv) design and implementation of the farm management information system.   
+Detailed Tasks and Expected Outputs 
+i. 
+Assistance with the final selection of target Sucos for project training;  
+ii.  Completion  of  initial  gender  baseline  survey  and  development  of  gender  sensitive 
+training  approaches  and  training  materials;  and  monitoring  implementation  of  the 
+gender action plan. 
+iii.  Needs assessment, options analysis, and design of the farm information management 
+system;  
+iv. 
+v. 
+Support for initial roll-out and operation of the farm information management system.  
+Establishment of information management capabilities to support coordination across 
+demonstration plots and partners;  
+vi.  Development of manual on coffee production and associated training materials;  
+vii.  Development of documentation to support procurement, monitoring, and evaluation of 
+training providers; 
+viii. 
+Procurement and contracting of training providers; 
+ix.  Delivery of training of trainers and pre-commencement orientation for training providers;  
+x.  Ongoing monitoring and evaluation of training activities;  
+xi. 
+Periodic updating of training manuals and associated training materials;  
+xii.  Delivery of progress reports on implementation of training activities;  
+32 
+xiii. 
+xiv. 
+Provision of technical support for meetings of the NSCDP implementation taskforce; 
+Support  for  implementation  of  the  project’s  gender  action  plan  including  delivery  of 
+gender related capacity building programs to ACT, MAF, and other project stakeholders.  
+D.2  Project Implementation Support Firm – Agronomic Research and Testing 
+Profile. The Firm/NGO/Entity will have experience relating to the identification and breeding of 
+coffee varieties, the management of coffee seed and seedling production, and the development 
+of applied agronomic research programs to compare the performance of coffee varieties and 
+test  the  on-farm  performance  of  different  combinations  of  coffee  coffee  variety  and  farming 
+practices.  Experience  with  ADB  or  World  Bank  projects  and  familiarity  with  the  coffee  value 
+chain in Timor-Leste is desirable.  
+Duration: 4 years,  
+Post location: Dili, with travel to project sites in Aileu, Ainaro, Ermera, Liquica, and Manufahi 
+as required.  
+Expected timing: Starting in July 2020 
+Scope  of  work:  The  firm/NGO/entity  will  be  responsible  for  providing  technical  services  to 
+support  the  delivery  of  outputs  1a-1b,  including  completion  of  any  required  genetic  profiling, 
+development  of  improved  protocols  for  nursery  management,  and  the  establishment  of 
+research and demonstration plots.  
+Detailed Tasks and Expected Outputs 
+i.  Review of existing knowledge base on the genetic profile of coffee varieties growing in 
+Timor-Leste and completion of further analysis as needed.  
+ii.  Review  of  current  practices  for  procurement  of  coffee  seed  and  production  and 
+distribution of coffee seedlings; 
+iii.  Development of protocols for improved seed procurement and nursery management;  
+iv. 
+Support for implementation of the protocols for improved nursery management;  
+v.  Design and implementation of a research and development program including one or 
+more sites for long term testing of a large number of varieties and at least 10 farmer-
+managed trial plots in different agro-economic zones.  
+D3. Project Implementation Support Firm – Quality Improvement and Marketing 
+Profile.  The  Firm/NGO/Entity  shall  have  demonstrated  experience  relating  to  coffee  quality 
+improvement  and  the  marketing  of  specialty  coffees.    Experience  of  working  with  industry 
+associations  and  supporting/organizing  coffee  quality  competitions  is  highly  desirable. 
+Experience with ADB or World Bank projects and familiarity with the coffee value chain in Timor-
+Leste is desirable. Knowledge of ADB’s guidelines on the use of consultants would be a plus.  
+Duration: 4 years, 8 person months 
+33 
+Post location: Dili, with travel to project sites in Aileu, Ainaro, Ermera, Liquica, and Manufahi 
+as required.  
+Expected timing: Starting in July 2020 
+Scope  of  work:  The  firm/NGO/entity  will  be  responsible  for  providing  technical  services  to 
+support the delivery of output 2a-c and output 3c.The firm/NGO/entity is expected to provide 
+technical leadership for i) development of the national quality standards and grading system; ii) 
+development and implementation of an industry marketing plan; iii) supporting the annual coffee 
+quality competitions; and iv) the information and knowledge sharing platform.  
+Detailed Tasks and Expected Outputs 
+vi. 
+Provision  of  technical  support  to  enable  annual  coffee  quality  competitions  and 
+associated activities in Festival Kafe Timor;  
+vii.  Development  of  industry  marketing  plan  and  support  for  initial  implementation  of 
+selected activities within the plan;  
+viii.  Development of national quality standards and grading system for fresh coffee cherries 
+and parchment coffee;  
+ix.  Development of initial roll-out plan for the quality standards;  
+x.  Revision and updating of the quality standards and grading system following the initial 
+roll-out;  
+xi. 
+xii. 
+Support for planning and operationalization of the information and knowledge sharing 
+platform; and 
+Provision  to  technical  expertise  to  the  knowledge  sharing  platform  to  respond  to  
+selected knowledge gaps and priorities.  
+D.4 Individual Consultant (National) – Project Manager 
+Profile: The Project Manager will have a bachelor’s degree in a relevant discipline and previous 
+experience managing large-scale projects.  The specialist will have at least 10 years of general 
+working  experience  and  8  years  of  experience  that  is  relevant  to  the  assignment.  Previous 
+experience  managing  donor-financed  projects  and  working  on  agricultural  and  rural 
+development will be highly desirable. Fluency in English and Tetun is mandatory.  
+Duration:  April 2020 – April 2024 
+Post  location:  Ministry  of  Agriculture  and  Fisheries,  National  Directorate  of  Coffee  and 
+Industrial Crops, Dili 
+Scope  of  work:  The  Project  Manager  will  report  to  the  National  Director  at  DNCPI  and  the 
+project  steering  committee.  The  Project  Manager  will  be  responsible  for  day  to  day 
+administration  of  the  project,  including  procurement  and  supervision  of  consulting  services, 
+coordination of project activities, liaison with DNCPI and ACT staff and implementation of the 
+stakeholder  communication  plan.  The  Manager  will  ensure  the  timely  submission  of  project 
+reports and documentation as outlined in the Project Administration Manual, prepare annual 
+workplans and budgets, provide strategic plans for project activities and prepare reports to be 
+submitted to the PSC.   
+34 
+Detailed Tasks and Expected Outputs 
+i.  Oversees the establishment of the project management unit in a timely manner; 
+ii.  Manages day-to-day implementation of the project; 
+iii. 
+iv. 
+v. 
+vi. 
+vii. 
+viii. 
+ix. 
+Ensures the approved Procurement Plan is executed in line with ADB’s procurement 
+policies; 
+Provides  stakeholders,  including  the  ADB  and  MAF,  with  regular  updates  on  project 
+implementation, in line with the requirements of the Project Administration Manual; 
+Processes  all  necessary  documentation  for  requesting  ADB  approval  for  selected 
+project procurement activities; 
+Ensures compliance with ADB and MAF’s governance framework and policies; 
+Establishes project management controls, ensures compliance to project controls and 
+retains relevant documents; 
+Ensures  good  collaboration  and  flow  of  information  between  MAF,  DNCPI,  ADB 
+contractors / implementing partners, ACT and the PSC;  
+Prepares project reports and other documentation for submission to the Project Director, 
+PSC, and project partners.  
+D.5 Individual Consultant (National)– PMU Accounts Assistant 
+Profile: The PMU Accounts Assistant will have a bachelor’s degree in accounting or finance 
+with at 5 years of experience in a senior financial management position. Previous experience 
+with  donor-financed  projects  is  highly  desirable.  Computer  literacy,  including  with  Microsoft 
+Word, Excel and PowerPoint and accounting software is required. The consultant is expected 
+to be fluent in English and Tetum and to have a proven ability to produce project and financial 
+reports.  
+Duration:  April 2020 – April 2024 
+Post  location:  Ministry  of  Agriculture  and  Fisheries,  National  Directorate  of  Coffee  and 
+Industrial Crops, Dili 
+Scope  of  work:  The  PMU  Accounts  Assistant  will  be  responsible  for  supporting  the  project 
+manager and MAF Project Accountant with financial matters related to Coffee and Agroforestry 
+Livelihood  Development  project,  including  i)  ensuring  effective  management  of  the  project’s 
+finances and disbursement; ii) 
+upholding of standards of financial management required 
+by the Government of Timor-Leste and the Asian Development Bank; and iii) timely recording 
+of financial transactions. 
+Detailed Tasks and Expected Outputs 
+The Accounts Assistant will work with designated staff at MAF to deliver the following tasks and 
+outputs:  
+i.  Using  MAF’s  standard  financial  procedures,  strengthen  financial  controls  to  ensure 
+compliance with ADB’s requirements;  
+35 
+ii. 
+iii. 
+Ensure project accounts conform with required standards for accounting and auditing, 
+and maintain financial records (including contracts, orders, invoices, bills, receipts, and 
+other evidence of expenditure) for audit trails; 
+Ensure proper planning, budgeting, accounting and reporting as set out in the Project 
+Administration Manual to support implementation of the project; 
+iv.  Monitor project costs and expenditures periodically and ensure funds are available to 
+meet the project commitments and forecast expenditures; 
+v. 
+vi. 
+vii. 
+viii. 
+Prepare  quarterly  financial  reports  for  the  grant  and  submits  it  timely  to  the  Project 
+Manager and Project Director; 
+Establishes  the  project  advance  account  with  proper  documentation;  and  maintain 
+appropriate  accounting  records  and  internal  control  procedures  for  authorizing 
+payments  and  recording  transactions,  petty  cash,  expense  reimbursements  and 
+participatory cash disbursements; 
+Ensure the effective management of all financial management and disbursement under 
+the project; 
+Prepare withdrawal applications for disbursement of JFPR funds administered by the 
+Asian  Development  Bank  for  replenishment  of  the  ‘advance’  account  and  direct 
+payments; 
+ix.  Works closely with internal and external auditors; 
+x.  Uphold standards for financial management required by the Government and donors; 
+and 
+xi. 
+Perform analysis of project financials. 
+D.6 Individual Consultant (National) – PIU Project Officer 
+Profile:  The  PIU  Project  Officer  will  have  a  bachelor’s  degree  in  a  relevant  discipline  and 
+previous experience managing large-scale projects. He or she will be expected to have at least 
+8  years  of  general  experience,  of  which  at  least  5  should  be  relevant  to  the  assignment. 
+Familiarity  with  the  coffee  sector  in  Timor-Leste  is  highly  desirable.  Fluency  in  English  and 
+Tetun is required.  
+Duration:  April 2020 – April 2024 
+Post location: Timor Coffee Association, Dili, Timor-Leste 
+Scope  of  work:  The  PIU  Project  Officer  will  report  to  the  PMU  Project  Manager  and  the 
+President of ACT. The Project Officer will oversee the delivery of project output 2a-c and 3.b 
+They will be responsible for coordinating consultant inputs and liaising with all stakeholders for 
+these outputs. The Project Officer is expected to ensure the timely submission of project reports 
+and  other  required  documentation  to  ACT  management  and  the  PMU.    This  includes 
+preparation  of  annual  workplans  and  budgets,  strategic  plans  for  project  activities  and 
+preparation of PSC reports related to ACT activities. 
+Detailed Tasks and Expected Outputs 
+i.  Oversees the establishment of the ACT project implementation unit in a timely manner; 
+36 
+ii.  Manages day-to-day implementation of the project activities related to output 2a-c and 
+output 3.c quality in coordination with the project manager; 
+iii. 
+iv. 
+v. 
+vi. 
+vii. 
+Provides  the  PMU  with  regular  updates  on  project  implementation,  in  line  with  the 
+requirements of the PAM; informs stakeholders on project progress, including the ADB 
+and MAF, as required by the PAM.  
+Processes all necessary documentation to request PMU approval for procurement and 
+payments; 
+Ensures compliance with ADB and MAF’s governance framework and policies; 
+Establish  project  management  controls,  ensure  compliance  to  project  controls  and 
+retain relevant documents; 
+Ensures  good  collaboration  and  flow  of  information  between  contractors  (quality 
+improvement, market improvement and event management), PMU, Asian Development 
+Bank, MAF and steering committee. 
+VII. 
+SAFEGUARDS 
+Environment (category C). The project is categorized as C for environmental safeguards. Under 
+65. 
+ADB’s Safeguard Policy Statement (SPS, 2009), only activities likely to have minimal or no adverse 
+environmental impacts will be implemented under the project. No environmental assessment report is 
+required  for  category  C  projects,  although  environmental  aspects  will  be  considered  as  part  of  the 
+standard preparatory activities for each project component.  
+66. 
+Involuntary resettlement and indigenous peoples (category C). No involuntary resettlement or 
+land acquisition is envisaged, as the farming activities will be conducted on existing farm lands owned 
+by beneficiary households. There are no communities of distinct and vulnerable indigenous peoples 
+as  defined  under  ADB  SPS  living  in  the  project  sucos,  as  confirmed  by  due  diligence  and  national 
+census  data.  The  project  does  not  trigger  the  SPS  requirements  on  involuntary  resettlement  and 
+indigenous peoples. 
+67. 
+Prohibited  activities.  Pursuant  to  ADB's  SPS  (2009)  ADB  funds  may  not  be  applied  to  the 
+activities described on the ADB Prohibited Investment Activities List set forth at Appendix 5 of the SPS. 
+All project activities will comply with applicable national laws and regulations. 
+VIII. 
+GENDER AND SOCIAL DIMENSIONS 
+Poverty and social impacts. The project is designed to support inclusive growth and poverty 
+68. 
+reduction.  Key  considerations  and  design  elements  to  support  achievement  of  this  objective  are 
+described in the project’s summary poverty reduction and social strategy (SPRSS) and summarized 
+below.  
+69. 
+Profiling and selection of beneficiaries. Data from the 2015 national census has been used 
+to profile the main characteristics of coffee producing households, including household composition 
+and  educational  attainment,  productive  activities,  income,  and  asset  ownership.  This  profiling  has 
+confirmed  that  most  commercial  coffee  producers  exhibit  characteristics  associated  with  poverty 
+through low or volatile income or other non-income dimensions that are typically considered in multi-
+dimensional poverty measures. Consultations with coffee producers during preparation of the National 
+Coffee Sector Development Plan confirmed strong demand for additional training and support that is 
+37 
+focused on productivity improvement, quality improvement, and diversification. This was reconfirmed 
+through extensive community consultations on the project design.  
+70. 
+The  selection  of  Aileu,  Ainaro,  Bobonaro,  Ermera,  Liquica,  and  Manufahi,  as  target 
+municipalities  was  confirmed  during  project  preparation.  There  are  121  sucos  within  these 
+municipalities with significant concentrations of commercial coffee farmers.11 The project is expected 
+to deliver training in 20-40 of these sucos. The final selection of target sucos will be made by MAF with 
+support  from  project  consultants  with  the  aim  of  i)  ensuring  coordination  with  recently  completed, 
+ongoing,  and  planned  training  activities;    ii)  targeting  support  to  the  poorest  and  least  served 
+commercial  coffee  farmers;  and  iii)  ensuring  the  overall  feasibility  and  efficiency  of  project 
+implementation.  
+Participatory  approach  to  implementation.  The  project  design  is  rooted  in  strong 
+71. 
+participation  of  local  households.  Opportunities  to  promote  participation  in  project  activities  were 
+identified  during  consultations  with  potential  beneficiaries  and  two  distinct  channels  have  been 
+confirmed. Firstly, the training that is provided to coffee producing households will be delivered using 
+participatory approaches. Training service providers will be guided on community engagement and the 
+use of participatory approaches. They will be expected to work with beneficiaries to identify learning 
+priorities and develop an overall training plan and calendar of activities that responds to these priorities. 
+The knowledge sharing platform that will be implemented by ACT under output 3 is also designed to 
+promote  stakeholder  participation.  Training  service  providers  will  be  encouraged  to  share  their 
+experiences and learnings through this platform. Project stakeholders will be encouraged to identify 
+knowledge gaps and priorities to be addressed through the platform.  
+Gender. The participation of women in project activities is critical for delivery of project outputs 
+72. 
+and achievement of the project outcome. The project is classified as effective gender mainstreaming. 
+A gender action plan (GAP) has been prepared for the project and features 12 actions and 19 indicators 
+relating to gender inclusion. A summary of the GAP is presented in table 13 below. A desktop review 
+of relevant literature confirmed that women play a very important role in households’ coffee production 
+and  suggested  that  production  activities  are  gendered,  with  women  playing  a  lead  role  in  some 
+activities. However, consultations with potential beneficiaries in three of the five target municipalities 
+suggested  that  the  degree  to  which  production  activities  are  gendered  may  have  been  overstated. 
+Indeed,  it  seems that  women  play  an  important role  in  most  if  not  all  the  discrete  activities that  are 
+involved in coffee production. This means that including women farmers in training activities is crucial 
+for successful transmission of improved practices to farm households.  
+Activities 
+Targets & Indicators 
+Responsible 
+Table 13. Gender Action Plan 
+(i) 
+to: 
+conducted 
+Output 1: More productive coffee and agroforestry production systems established   
+1.1  A  Baseline  Sample  Survey  of 
+farm households in coffee production 
+identify 
+is 
+male/female 
+youth) 
+participation in coffee harvesting and 
+agroforestry  (ii)  identify  time  use  by 
+men and women in domestic labour, 
+and 
+other 
+production 
+coffee 
+agroforestry 
+(iii)  develop 
+tasks 
+poverty  profiles  and  identify  survival 
+1.1.1  Baseline  Sample  Survey 
+conducted  in  project  areas  and 
+report  with  sex-disaggregated 
+data submitted. 
+1.1.2 Information on the Gender 
+division  of  labour  in  coffee  and 
+agroforestry 
+informs  project 
+activities. 
+-Outsourced 
+academic 
+with 
+-Implementing 
+Partner 
+(adult  and 
+capacity 
+-MAF  supported  by 
+SEII 
+to 
+institution 
+in 
+Time 
+Frame 
+Q3 2020 
+11 A suco is considered to contain a ‘significant concentration of commercial coffee producers if at least 20% of all households 
+within the Suco are commercial coffee proucers.  
+38 
+Activities 
+Targets & Indicators 
+Responsible 
+Time 
+Frame 
+1.1.3  Technical  Capacity  gaps 
+identified  for  training  program 
+design. 
+gender  and  research 
+surveys 
+(vi) 
+longer 
+strategies (iv) assess intra-household 
+dynamics  of  decision-making  and 
+asset  (land, 
+finances,  equipment) 
+ownership  and  control  (v)  identify 
+willingness to sustain participation in 
+project  and  improve  productivity  in 
+the 
+identify 
+term 
+willingness to expand participation in 
+the  coffee  value  chain  (vii)  identify 
+access to and participation in training 
+programs 
+technical 
+capacity  gaps  in  coffee  production 
+and agroforestry. 
+1.2 Involve women actively in training 
+for  2,000 
+in 
+productivity and quality improvement. 
+farm  households 
+identify 
+(viii) 
+1.3  Include  female-managed  farms, 
+level 
+10 
+the 
+among 
+demonstration 
+be 
+plots, 
+established  to  strengthen  production 
+systems.  
+farm 
+to 
+in 
+respond 
+1.2.1  Training  Modules  and 
+training  delivery 
+to 
+technical  capacity  gaps  of 
+farmer 
+women  and  men 
+households. 
+1.2.2  Training  Schedules  are 
+prepared. 
+1.2.3  Training  programs  are 
+conducted  with  participation  of 
+at 
+female 
+farmers. 
+1.2.4  Training  programs  are 
+conducted  in  locations  and  at 
+times  convenient 
+female 
+participants. 
+1.3  10%  (to  be  confirmed  by 
+female-
+Survey) 
+Baseline 
+managed farms are established 
+as demonstration plots.  
+least  60%  active 
+to 
+1.4 Involve women actively in training 
+provided to 2,000 farm households to 
+improve  their  financial  literacy  and 
+support them to establish formal links 
+with banks. 
+1.4.1  Women  account  for  at 
+least  50%  of  participants 
+in 
+financial inclusion trainings. 
+1.4.2 At least 50 female headed 
+household  (overall  target  1000 
+HH) 
+from 
+increased financial inclusion. 
+1.4.3  Training  is  conducted  at 
+venues and times convenient to 
+women. 
+benefiting 
+are 
+Output 2: Coffee quality and market linkages improved 
+2.1 Ensure that women’s participation 
+the  Festival  Kafe  Timor  and 
+in 
+competitions 
+associated 
+continues 
+to  be  supported  and 
+encouraged. 
+quality 
+2.1.1  Women’s  participation 
+increases from 5% – 25% over 3 
+years. 
+2.1.2  20% 
+the 
+number of samples from women 
+are 
+coffee 
+increase 
+farmers 
+that 
+in 
+Q4 2020 – 
+Q1 2024 
+-MAF 
+-Implementing 
+Partner 
+-Training Provider 
+Monitoring 
+-GAP 
+reports  attached 
+to 
+Project  Monitoring 
+Reports 
+-Reports  on  Training 
+conducted 
+Q4 2020 – 
+Q1 2024 
+Q4  2020  –
+Q1 2024 
+-MAF 
+-Implementing 
+Partner 
+Monitoring 
+-GAP 
+reports  attached 
+to 
+Project  Monitoring 
+Reports  
+-MAF 
+-Implementing 
+Partner 
+Monitoring 
+-GAP 
+reports  attached 
+to 
+Project  Monitoring 
+Reports 
+-Festival  Kafe  Timor 
+Organizers 
+>Festival Report 
+Q3  2020  – 
+Q1 2024 
+Activities 
+Targets & Indicators 
+Responsible 
+submitted to competitions (to be 
+confirmed by Baseline Survey).  
+2.2 Ensure that both men and women 
+participate in training associated with 
+coffee quality competitions. 
+access 
+on 
+to 
+2.2  Women’s 
+communications 
+and 
+participation in training related to 
+coffee 
+competitions 
+increases over 3 years (baseline 
+and  target  to  be  confirmed  by 
+Baseline Survey).  
+quality 
+-MAF 
+-Implementing 
+Partner 
+-Project  and  GAP 
+Monitoring reports  
+-Annual 
+MAF and ACT 
+reports  of 
+Output 3: Sector management and coordination improved 
+39 
+Time 
+Frame 
+Q3  2020  – 
+Q1 2024 
+to  deliver 
+3.1  Conduct  a  Training  Needs 
+Assessment 
+training 
+programs  to  strengthen  the  gender 
+project-related 
+capacity 
+government  agencies,  implementing 
+partner  organizations,  participating 
+financial  institutions,  and  associated 
+NGOs.   
+of 
+A 
+Training 
+3.1 
+Needs 
+Assessment  is  conducted  and 
+the 
+sex-
+disaggregated data submitted.  
+report 
+with 
+-MAF 
+-Implementing 
+Partner  
+-Outsourced 
+NGO/Private sector 
+to 
+Q3-Q4 
+2020 
+3.2  Training  modules  are  designed, 
+and  training  programs  are  delivered 
+to  improve  gender  sensitivity  and 
+responsiveness  of  project-related 
+implementing agencies. 
+3.2  There  will  be  at  least  40% 
+female  participation  in  gender 
+sensitization  training  programs 
+(to  be  confirmed  by  2019 
+Baseline Survey).  
+-MAF 
+-Implementing 
+Partner  
+-Outsourced 
+NGO/Private sector 
+to 
+3.3.  Design  and  operationalize 
+Information 
+gender-sensitive  Farm 
+Management System (FIMS) 
+3.3  The  FIMS  will  reflect  the 
+in 
+gender  division  of 
+coffee  farming  and  agroforestry 
+and 
+sex-
+will 
+disaggregated data. 
+include 
+labour 
+3.4 Ensure that both men and women 
+in  farm  households  are  trained  to 
+maintain  records  and  provide  sex-
+disaggregated and other data for the 
+FIMS. 
+3.4 At least 60% of active female 
+farmers  participate 
+the 
+training  (to  be  confirmed  by 
+Baseline Survey).  
+in 
+that 
+3.5  Ensure 
+Implementing 
+service 
+Partners 
+providers employ female staff for field 
+outreach/extension services 
+training 
+and 
+of 
+3.5  Staff  recruitment  policy  and 
+implementing 
+practice 
+partners  and  service  providers 
+support  increased  number  of 
+female staff with required skills. 
+3.6    A  stakeholder  platform  to  share 
+knowledge  and  on-going 
+industry 
+learning is established.  
+3.6  Challenges  in  and  lessons 
+from  GAP  implementation  and 
+are 
+Gender-related 
+shared.  
+issues 
+Project management activities 
+-Implementing  
+Partner 
+-Project  monitoring 
+reports  with  GAP 
+monitoring 
+report 
+attached 
+-MAF 
+-Implementing 
+Partner  
+-Project  monitoring 
+reports  with  GAP 
+monitoring 
+report 
+attached 
+-MAF 
+-Implementing 
+Partner  
+-Project  monitoring 
+reports  with  GAP 
+report 
+monitoring 
+attached 
+-MAF 
+-Implementing 
+Partner  
+-Project  monitoring 
+reports  
+Q3-Q4 
+2020 
+Q3-Q4 
+2020 
+Q4 2020 – 
+Q1 2024 
+Q2 2020 – 
+Q1 2024 
+Q2 2020 – 
+Q1 2024 
+2020-2024 
+40 
+Activities 
+Targets & Indicators 
+Responsible 
+Time 
+Frame 
+•  Mobilize a Gender and Social Inclusion Consultant as part of the project team (part-time) 
+to ensure GAP implementation, monitoring dan reporting (Year 1) 
+•  Design and operationalize a GAP monitoring and reporting format for quarterly reporting 
+on GAP deliverables (Year 1 – 4) 
+•  Translate the GAP into Tetun for easy reference (Year 1) 
+• 
+ Ensure regular monitoring and reporting (at least semi-annually to ADB) on the progress 
+of GAP implementation (Year 1-4) 
+ACT = Timor Coffee Association, FIMS = farm information management system, GAP = gender action plan, MAF = Ministry 
+of Agriculture and Fisheries, NGO = non-governmental organization, Q = quarter, SEII = Secretariat of State for Equality and 
+Inclusion (women’s ministry). 
+Source: Asian Development Bank 
+IX. 
+PERFORMANCE MONITORING, EVALUATION, REPORTING, AND 
+COMMUNICATION 
+A.  Project Design and Monitoring Framework  
+Impacts the Project is Aligned with 
+1. Coffee production doubles by 2030a 
+2. The value of coffee exports increases by 270% by 2030a 
+Data Sources and 
+Reporting 
+Mechanisms 
+a. Coffee export 
+statistics prepared by 
+DGE, MTCI, and MAF.  
+b. Coffee farm 
+information system 
+1a – 1c. Project 
+monitoring reports from 
+MAF and ACT 
+Results Chain 
+Outcome 
+Improved 
+productivity and 
+price realization in 
+the coffee sector. 
+Performance Indicators with 
+Targets and Baselines 
+By 2025: 
+a. The proportion of coffee 
+exports achieving price premia 
+increased by 15% (2020 
+baseline: to be confirmed)  
+Outputs 
+1. More productive 
+coffee and 
+agroforestry 
+production systems 
+established 
+b. The proportion of coffee 
+farms in the target 
+municipalities that require 
+rehabilitation has fallen by 
+10% (2020 baseline: to be 
+confirmed)   
+By 2024: 
+1a. Genetic profiling and 
+suitability analysis of existing 
+varieties completed and 
+updated protocols for nursery 
+management developed and 
+implemented (2020 baseline: 
+initial genetic samples 
+collected) 
+1b. At least one multi-variety 
+research trial and 10 on farm 
+technology trials established 
+as part of a national network, 
+with at least one trial on 
+Risks 
+Capacity constraints 
+result in delays in 
+identification and 
+establishment of 
+demo plots or failure 
+to follow guidelines for 
+design and monitoring  
+Household demand 
+for training is below 
+expected levels or the 
+costs of delivering 
+41 
+training exceed 
+project estimates  
+The willingness of 
+smallholder producers 
+and their value chain 
+partners to move 
+transactions onto 
+banking platforms is 
+below the expected 
+level 
+1d. Project monitoring 
+reports and annual 
+reports of MAF and ACT 
+2a. Project monitoring 
+reports and annual 
+reports of MAF and 
+ACT, including 
+information on women’s 
+participation 
+Other stakeholders do 
+not provide the in-kind 
+support and 
+sponsorships needed 
+to deliver the festival 
+as envisaged  
+female-managed farms. (2019 
+baseline: 0) 
+1c. Regular training on 
+productivity, quality 
+improvement, and financial 
+inclusion provided to at least 
+2,000 households, with at 
+least 60% of active female 
+farmers participating in coffee 
+related training and women 
+accounting for at last 50% of 
+participants in financial 
+inclusion trainingb 
+1d. At least 1,000 smallholder 
+farm households, including at 
+least 50 female-headed 
+households, report benefiting 
+from increased financial 
+inclusionc  (2019 baseline: 0) 
+2a. Platform for strengthening 
+value chain, market linkages, 
+and womens’ participation 
+provided by Festival Kafe 
+Timor and associated quality 
+competitions annually from 
+2020-2024 (2020 baseline: 
+festival held in 2016, 2017, 
+2018 and 2019). 
+2. Coffee quality 
+and market 
+linkages improved 
+2b. A grading system to 
+classify fresh and processed 
+coffee adopted (2020 
+baseline: 0) 
+2b – 2c. Project 
+monitoring reports and 
+annual reports of MAF 
+and ACT 
+Lack of industry 
+support impedes the 
+finalization and rollout 
+of the grading system 
+3. Sector 
+management and 
+coordination 
+improved 
+2c. Comprehensive 
+information about coffee 
+production in Timor-Leste 
+available to prospective 
+buyers in consuming 
+countries. (2020 baseline: 0) 
+3a. A farm information 
+management system in place 
+to monitor farm conditions and 
+sex-disaggregated delivery of 
+training and extension 
+services (2020 baseline:0) 
+3b. Quarterly meetings held 
+and annual action plans and 
+budgets for NCSDP 
+implementation prepared by 
+3a. Project monitoring 
+reports from MAF 
+3b. Annual reports of 
+MAF and ACT  
+Technical challenges, 
+capacity constraints, 
+and a lack of 
+stakeholder 
+consensus lead to 
+delays in system 
+development and 
+implementation 
+42 
+the NCSDP implementation 
+task force from 2020-2024 
+(2019 baseline: first two 
+taskforce meetings held) 
+3c. A platform for knowledge 
+sharing and ongoing industry 
+learning provided by ACT 
+(2020 baseline, no established 
+platform) 
+3c. Annual reports of 
+ACT  
+Key Activities with Milestones 
+1. More productive coffee and agroforestry production systems established 
+1.1 Conduct genetic profiling and suitability analysis of local varieties (Q4 2020 – Q1 2021) 
+1.2 Design and implement improved protocols for nursery management (Q4 2020 – Q2 2021) 
+1.3 Confirm target Sucos and procure training service providers (Q4 2020 – Q2 2021) 
+1.4 Enroll participating farmer groups and establish research and demonstration plots (Q1 2021 - Q3 2021) 
+1.5 Monitor and supervise research and demonstration plots (Q3 2021 – Q2 2024) 
+1.6 Deliver training and extension programs (Q2 2021 – Q1 2024) 
+2. Coffee quality and market linkages improved 
+2.1 Organize and deliver Festival Kafe Timor and associated competitions (Q3 2020 – Q4 2023)  
+2.2 Develop and implement industry marketing plan (Q3 2020 – Q2 2024) 
+2.3 Develop draft quality standards for national grading system (Q4 2020 – Q1 2021) 
+2.4 Conduct initial trial deployment of proposed quality standards (Q2-Q3 2021) 
+2.5 Revise and rollout revised quality standards and grading system (Q4 2021 – Q4 2023) 
+3. Sector management and coordination improved 
+3.1 Conduct options analysis and design farm information management system (Q3 2020 – Q4 2020) 
+3.2 Rollout the farm information management system (Q1 2021 – Q2 2024) 
+3.3 Conduct NCSDP taskforce meetings (quarterly from Q4 2020  – Q2 2024) 
+3.4 Conduct information and knowledge sharing activities (Q4 2020 – Q2 2024) 
+Project Management Activities 
+Recruit consultants for project management unit by month 2.  
+Establish a PMU to support grant implementation and technical capacity of MAF by month 3. 
+Monitor and evaluate project activities, outputs, and outcomes, using the project performance management 
+system; submit quarterly progress reports until project closing 
+Prepare inception (Q3 2020), midterm (Q1 2022) and final (Q2 2024) reports.  
+Inputs 
+Japan Fund for Poverty Reduction: $3.0 million (grant) 
+Government: $0.2 million  
+Note: The government will provide in-kind counterpart support in the form of office space, workshop and 
+training venues, and staff time for project implementation. 
+ACT = Timor Coffee Association, ADB = Asian Development Bank, DGE = General Directorate of Statistics, MAF = Ministry 
+of  Agriculture  and  Fisheries,  MTCI  =  Ministry  of  Tourism,  Commerce,  and  Industry,  NCSDP  =  National  Coffee  Sector 
+Development Plan 2019-2030, PMU = project management unit, Q = quarter. 
+a Government of Timor-Leste. 2019. National Coffee Development Plan 2019-2030. Dili 
+b An active farmer is an adult household member who is involved in farming. The training will be provided to all active farmers 
+within a household, include women 
+c Defined as access to additional financial products or services, or improved usage of existing financial services 
+43 
+B.  Monitoring  
+73. 
+Project performance monitoring. A project performance monitoring system (PPMS) will be 
+established  for  the  project.29  The  design  and  monitoring  framework  (DMF)  forms  the  basis  for 
+monitoring  the  project  progress.  During  project  implementation,  the  PPMS,  through  project 
+performance report, will monitor the likelihood that key milestone dates for activities, outputs, outcome, 
+and impact will be achieved. The project’s impact, fully assessed 5 years after project completion, will 
+be anticipated during project implementation through monitoring assumptions and risks. The DMF will 
+be  reviewed  during  the  project  implementation  and  if  needed,  adjusted  to  reflect  changing 
+circumstances.  Following  project  completion,  the  project  will  be  subject  to  an  assessment  of  the 
+outcome along with recommendations for enhancing and sustaining the outcome. A project completion 
+report will also include a preliminary assessment of the impact. The project impact, outcome, outputs, 
+and targets and indicators are presented the DMF. 
+74. 
+The PMU will monitor project implementation as well as feedback from the executing agency, 
+project steering committee, project beneficiaries, and other stakeholders. ADB will monitor five aspects 
+of  project  performance  i.e.,  technical,  procurement,  disbursement,  financial  management,  and 
+safeguards  (social  and  environment),  through  the  executing  agency’s  semiannual  progress  reports 
+(prepared by the PIU and endorsed by the executing agency), day-today communication with the PIU, 
+and ADB review missions. 
+75. 
+The PIU will prepare and submit semi-annual progress reports. These will include compliance 
+monitoring with any conditions and covenants stipulated in the grant agreement; DMF activities and 
+targets; environmental and social safeguards monitoring; and gender and social dimensions. 
+76. 
+Compliance monitoring. The PMU will monitor compliance with covenants stipulated in the 
+grant agreement on behalf of the executing agency. ADB will monitor the compliance status through 
+the executing agency’s semi-annual progress reports, day-to-day communication with the PMU, and 
+ADB review missions; and take necessary remedial measures for any noncompliance. 
+77. 
+Environmental  safeguards  monitoring.  No  specific  environmental  safeguards  have  been 
+adopted  for  the  project.  Nevertheless,  during  the  preparation  of  project  activities,  relevant 
+environmental aspects will be considered and monitored during implementation as needed. The PIU 
+will monitor and report the observations as part of the project performance monitoring and report on 
+them in the semi-annual progress reports. The PMU will immediately inform the executing agency and 
+ADB of any unanticipated environmental concerns. Corrective actions will be developed as needed, 
+and agreed between the executing agency, PMU, affected persons, and any other relevant agencies. 
+An environmental management checklist will be developed to monitor and mitigate impacts from the 
+civil works and facilities operations. 
+Social safeguards monitoring. The PMU will monitor project performance, including social 
+78. 
+safeguards  as  part  of the  project  performance monitoring  and report  it  in  the  semi-annual  progress 
+reports. The PMU will immediately inform the executing agency and ADB of any unanticipated social 
+safeguard concerns. No involuntary resettlement impacts will occur due to the project. 
+79. 
+Gender and social dimensions monitoring. The PMU social and gender specialist will record 
+sex-disaggregated data and information on the social, gender, and participatory aspects of the project 
+during the project activities. Monitoring and evaluation of the GAP will be incorporated into the project 
+reporting. The social and gender specialist will prepare a semiannual report on GAP implementation 
+and  progress,  as  part  of  the  semi-annual  progress  reports,  and  will  work  closely  with  the  project 
+communities. 
+44 
+C.  Evaluation 
+80. 
+Project performance will be regularly monitored and rated through ADB’s e-Operations project 
+implementation  module.  ADB’s  overall  grant  implementation  rating  will  be  made  based  on  five 
+performance indicators: technical, procurement, disbursement, financial management, and social and 
+environmental safeguards (Section IX.B). Such rating will be updated semiannually based on executing 
+agency’s  semi-annual  progress  reports  and/or  ADB  review  missions.  Within  6  months  of  physical 
+completion of the project, the executing agency (MAF) will submit a grant completion report to ADB. 
+81. 
+ADB  will  conduct  an  inception  mission  when  the  grant  becomes  effective.  ADB  and  the 
+government  will  jointly  field  one  to  two  project  review  missions  a  year.  The  missions  will  (i)  review 
+overall implementation of the project and update, in consultation with the executing agency, the project 
+implementation schedule, (ii) examine existing and potential implementation problems, work with the 
+executing agency to resolve them, (iii) review progress in procurement and disbursement, (iv) review 
+the grant recipient's compliance with grant covenants and, where there is any noncompliance or delay, 
+discuss proposed remedial measures, and (v) assess the likelihood of attaining the project’s outcome. 
+82. 
+ADB and the government will undertake a midterm review at the beginning of the third year of 
+project  implementation, to  assess  implementation  status  and take  appropriate measures—including 
+modification  of  scope  and  implementation  arrangements,  and  reallocation  of  grant  proceeds,  as 
+appropriate—to achieve the project’s outcomes and impact. 
+83. 
+A  final  ADB  review  mission  will  take  place  within  6  months  after  physical  completion  of  the 
+project. This mission will (i) assess project performance against targets and benchmarks including any 
+revision(s) as agreed during the midterm review, (ii) identify any incomplete activities, or unused project 
+funds, and (iii) determine the project’s performance rating. A project completion report will be prepared, 
+in cooperation with the government. In case the project is selected as a sample of projects for project 
+performance evaluation reporting, the project will be subject to more detailed performance evaluation 
+and impact assessment about 3 or more years after completion. 
+D.  Reporting 
+84. 
+The PMU, on behalf of the executing agency, will provide ADB with: (i) semi-annual progress 
+reports in a format consistent with ADB's project performance reporting system; (ii) consolidated annual 
+reports including (a) progress achieved by output as measured through the indicator's performance 
+targets  against  the  baseline  data,  (b)  key  implementation  issues  and  solutions;  (iii)  updated 
+procurement plan; (iv) updated implementation plan for each 12 months; and (v) a project completion 
+report within 6 months of physical completion of the project.12 The completion report will present the 
+government’s assessment of the project’s effectiveness and will take account of findings of the ADB’s 
+final review. To ensure that the project continues to be viable and sustainable, project accounts and 
+the executing agency audited financial statements, together with the associated auditor's report, should 
+be adequately reviewed. 
+The PMU shall include the results of implementing the GAP and summary poverty reduction 
+85. 
+and social strategy in the semi-annual reports to be submitted by the executing agency to ADB. 
+86. 
+Donor visibility. All project reports, training programs, seminars, workshops, materials, and 
+equipment financed by the JFPR grant will clearly indicate the funding from the Government of Japan 
+12  While activity reporting may be consolidated across the two implementing agencies, separate financial reportingmust be 
+maintained for each implementing agency. The Executing Agency and PMU will review and compile the annual project 
+financial statements prepared by each implementing agency for onward submission to ADB. 
+45 
+and  display  the  JFPR  and  Japan  Official  Development  Assistance  logos.  All  project  press  releases 
+issued by ADB will refer to the financial contribution from the Government of Japan. The Government 
+of Timor-Leste, including the executing agency, are requested to ensure that JFPR-financed activities 
+are  well  covered  by  local  print,  electronic  and  social  media,  and  that  all  related  publicity  materials, 
+official  notices,  reports  and  publications  explicitly  acknowledge  Japan  as  the  source  of  funding 
+received.  The  executing  agency  and  PMU  will  collect  and  maintain  a  database  of  high-resolution 
+photographs of the project activities, for use in project communication activities and for provision to the 
+GoTL, ADB, and Embassy of Japan in Timor-Leste, which may use them  for public awareness and 
+visibility purposes. 
+87. 
+Dissemination of project results to the Government of Japan. The PMU will provide MAF 
+and ADB with reporting materials on the project activities, including high resolution photos, testimonials 
+from project recipients and implementers, publications, and other knowledge products. In turn, the ADB 
+project team will provide this information to ADB’s Office of Cofinancing Operations–Japan team, as 
+well  as  back-to-office  reports,  inception,  midterm  review,  and  completion  reports.  Information  and 
+methods for donor visibility and coordination are described in Appendices 2 and 3. 
+E.  Stakeholder Communication Strategy  
+88. 
+A stakeholder communication strategy has been prepared for the project (Appendix 4). By its 
+design,  the  project  requires  and  benefits  from  stakeholder  participation  and  ownership.  The 
+communication  strategy  prescribes  timely  and  inclusive  dissemination  of  project  progress  and  the 
+opportunity for public feedback. The strategy focuses on three objectives: (i) effective communication 
+with the project stakeholders to achieve informed and supportive engagement; (ii) project visibility in 
+the media; and (iii) coordination and alignment of the project activities with other donor programs. 
+Public disclosure of project documents and activities will be made through the MAF website 
+89. 
+and using other dissemination approaches. 
+X. 
+ANTICORRUPTION POLICY  
+ADB  reserves  the  right  to  investigate,  directly  or  through  its  agents,  any  violations  of  the 
+90. 
+Anticorruption Policy relating to the project.13 All contracts financed by ADB shall include provisions 
+specifying the right of ADB to audit and examine the records and accounts of the executing agency 
+and all project contractors, suppliers, consultants, and other service providers. Individuals and entities 
+on ADB’s anticorruption debarment list are ineligible to participate in ADB-financed activity and may 
+not be awarded any contracts under the project.14  
+To  support  these  efforts,  relevant  provisions  are  included  in  the  grant  agreement  and  the 
+91. 
+bidding documents for the project.  
+XI. 
+ACCOUNTABILITY MECHANISM 
+People  who  are,  or  may  in  the  future  be,  adversely  affected  by  the  project  may  submit 
+92. 
+complaints  to  ADB’s  Accountability  Mechanism.  The  Accountability  Mechanism  provides  an 
+independent  forum  and  process  whereby  people  adversely  affected  by  ADB-assisted  projects  can 
+voice, and seek a resolution of their problems, as well as report alleged violations of ADB’s operational 
+policies  and  procedures.  Before  submitting  a  complaint  to  the  Accountability  Mechanism,  affected 
+people should make a good faith effort to solve their problems by working with the concerned ADB 
+13  Available at http://www.adb.org/Documents/Policies/Anticorruption-Integrity/Policies-Strategies.pdf 
+14  ADB's Integrity Office web site is available at http://www.adb.org/integrity/unit.asp 
+46 
+operations department. Only after doing that, and if they are still dissatisfied, should they approach the 
+Accountability Mechanism.15 
+XII. 
+RECORD OF CHANGES TO THE PROJECT ADMINISTRATION MANUAL  
+All revisions and/or updates during course of implementation should be retained in this section 
+93. 
+to provide a chronological history of changes to implemented arrangements recorded in the PAM. 
+15  For further information, see http://www.adb.org/Accountability-Mechanism/default.asp.  
+Appendix 1       
+47 
+APPENDIX 1. DELEGATION OF CONSULTANT RECRUITMENT ACTIVITIES TO ADB - MATRIX 
+OF RESPONSIBILITIES 
+Project Name: 51296-001 TIM: Coffee and Agroforestry Livelihood Improvement 
+Executing Agency: Ministry of Agriculture and Fisheries 
+Name of Consulting Services: Recruitment of two project implementation support firms, and three 
+individual consultants to support project management and implementation.  
+Purpose of this Matrix 
+This matrix aims to clarify the roles and responsibilities of the executing agency and ADB in recruiting 
+consultants  to  be  financed  by  ADB-administered  funding  whereby  the  executing  agency  requested 
+ADB to assist with recruiting the consultant.  
+i.  Recruitment of individual consultants 
+No.   Stage 
+1. 
+Pre-advertisement 
+procurement plan 
+Activity 
+Preparation  of  detailed 
+terms  of 
+reference, budget estimates, shortlisting 
+criteria  and  recommended  method  of 
+selection 
+Advertisement  of  consulting  services 
+assignment 
+of 
+expressions of interest 
+collection 
+and 
+Advertisement 
+/ 
+Consulting  Services 
+Recruitment  Notice 
+(CSRN) 
+Preparation  of  long 
+list 
+Shortlisting 
+consultants 
+of 
+EOIs  received  electronically 
+through 
+CMS  and  by  email/fax  are  summarized 
+[Note: all EOIs will be shared with the EA] 
+ADB  project  officer  and  MAF  jointly 
+evaluate EOIs and submit the proposed 
+shortlist to PPFD for concurrence.  
+ADB approves shortlist.  
+ADB  project  officer  notifies  MAF  of  the 
+final  ranking  and  recommendation  of 
+contract  award 
+ranked 
+to 
+individual.  
+Approval of shortlist 
+final 
+Notification  of 
+ranking 
+and 
+recommendation  of 
+contract award.  
+Contract negotiations  MAF  negotiates  the  contract  with  input 
+first 
+the 
+Draft contract 
+Signed contract 
+10.   Notice to proceed  
+from ADB  as required.  
+MAF  sends  draft  contract  to  ADB  for 
+review 
+MAF  submits  a  copy  of  the  signed 
+contract to ADB.  
+MAF  issues  a  notice  to  proceed  to  the 
+consultant 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+Responsibility 
+ADB  in  coordination 
+with MAF 
+ADB 
+ADB 
+ADB and MAF jointly 
+ADB 
+ADB/MAF 
+MAF 
+MAF and ADB 
+MAF 
+MAF 
+48  
+Appendix 1 
+ii.  Recruitment of Firms (not including training service providers) 
+No.   Stage 
+1. 
+Pre-advertisement 
+procurement plan 
+Activity 
+Preparation  of  detailed 
+terms  of 
+reference, budget estimates, shortlisting 
+criteria  and  recommended  method  of 
+selection 
+Advertisement  of  consulting  services 
+of 
+assignment 
+expressions of interest 
+collection 
+and 
+Advertisement 
+/ 
+Consulting  Services 
+Recruitment  Notice 
+(CSRN) 
+Preparation  of  long 
+list 
+Shortlisting 
+consultants 
+of 
+EOIs  received  electronically 
+through 
+CMS  and  by  email/fax  are  summarized 
+[Note: all EOIs will be shared with the EA] 
+ADB  project  officer  and  MAF  jointly 
+evaluate EOIs and submit the proposed 
+shortlist to PPFD for concurrence.  
+ADB approves shortlist.  
+ADB issues RFP to approved shortlist 
+ADB  project  officer  and  MAF  jointly 
+evaluate EOIs and submit the proposed 
+shortlist to PPFD for concurrence. 
+ADB  project  officer  notifies  MAF  of  the 
+final  ranking  and  recommendation  of 
+contract award to the first ranked firm.  
+Approval of shortlist 
+Issuance of RFP 
+Evaluation 
+technical 
+financial proposals 
+final 
+Notification  of 
+ranking 
+and 
+recommendation  of 
+contract award.  
+Contract negotiations  MAF  negotiates  the  contract  with  input 
+of 
+and 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10.  Draft contract 
+11.  Signed contract 
+12.   Notice to proceed  
+from ADB  as required. 
+MAF  sends  draft  contract  to  ADB  for 
+review 
+MAF  submits  a  copy  of  the  signed 
+contract to ADB.  
+MAF  issues  a  notice  to  proceed  to  the 
+firm.  
+Responsibility 
+ADB  in  coordination 
+with MAF 
+ADB 
+ADB 
+ADB and MAF jointly 
+ADB 
+ADB 
+ADB and MAF jointly 
+ADB/MAF 
+MAF 
+MAF and ADB 
+MAF 
+MAF 
+Appendix 2       
+49 
+APPENDIX 2:  GUIDANCE NOTE ON JAPANESE VISIBILITY 
+I. 
+Introduction 
+1. 
+The Revised Operating Framework for the Japan Fund for Poverty Reduction (JFPR) was 
+approved on 6 October 2009, combining Japan’s project grant and technical assistance 
+support under one umbrella, and paving the way for a more comprehensive approach to 
+the  use  of  these  funds  towards  addressing  poverty,  building  up  human  resources,  and 
+empowering institutions and communities in the region. Japan has been making generous 
+contributions for technical assistance activities through the Japan Special Fund, and for 
+poverty reduction projects through JFPR, since they were established in 1988 and 2000, 
+respectively. It is but fitting and proper that said contributions are acknowledged and the 
+recipients and general public are informed of the source of the funding assistance both at 
+the Fund level and at the level of the individual TA and project grants. The purpose of this 
+note  is  to  provide  guidance  on  measures  to  ensure  that  the  contribution  of  Japan  in 
+supporting JFPR is widely recognized.1
+II. 
+STATEMENT ON JAPANESE VISIBILITY 
+2. 
+Project teams are required to help promote the visibility and local awareness of JFPR in 
+recipient countries through the following: 
+(a) 
+(b) 
+(c) 
+All press releases issued by ADB with respect to JFPR should refer to the financial 
+contribution from the Government of Japan (GOJ)2; 
+Signing  ceremonies  and  other  publicity  events  should  be  encouraged,  inviting 
+Japan embassy officials, JICA staff, local and international press3; 
+Civil  works,  project  billboards/signages,  vehicles,  and  equipment must  carry the 
+JFPR and Japan ODA logos (see below). Likewise, all publications and training 
+programs  must  bear  the  said  logos,  including  all  collaterals  used  (i.e.  training 
+materials, banners, posters, flyers, etc.) that are financed by JFPR; these logos 
+are available in the SDPF-JFPR website; 4
+1 A copy of the Guidance Note on Japanese Visibility is appended to the Project Administration Manual as guide to 
+the project team and the government, during project implementation. 
+2 Staff may coordinate with the Department of Communications. 
+3 Coordination with resident missions are necessary. 
+4 https://lnadbg1.adb.org/oco0006p.nsf/0/EEE594E105EAC26A482576C7002240AB/?OpenDocument 
+50  
+Appendix 2 
+(d) 
+(e) 
+Publications,  reports,  training  programs,  seminars  and  workshops  financed  by 
+JFPR should acknowledge receipt of funding from GOJ; 
+Recipients should be encouraged to ensure that JFPR-financed activities are well 
+covered by local print and electronic media, and that all related publicity materials, 
+and  official  notices  explicitly  acknowledge  funding  from  GOJ.  Below  is  the 
+suggested  standard  text  to  be  used  by  those  who  prepare  publicity  materials: 
+"The grant fund for (project name/activity) was received from the Japan Fund for 
+Poverty  Reduction  financed  by  the  Government  of  Japan  through  the  Asian 
+Development Bank”. 
+III. 
+PARTICIPATION OF JAPANESE ENTITIES IN IMPLEMENTATION 
+3. 
+It  is  also  important  to  generate  visibility  of  the  project  within  Japan.  Involvement  or 
+cooperation with Japanese experts, financial resources and technologies are encouraged; 
+occasional  information  sessions  on  JFPR  for  Japanese  organizations  may  also  be 
+conducted. It is also highly recommended that ADB involve and cooperate with Japanese 
+organizations including NGOs, civil society organizations, aid agencies in particular JICA 
+and JBIC, the private sector enterprises or academic institutions. 
+IV.  Reporting 
+4. 
+At  the  end  of  the  project,  the  completion  report  submitted  by  the  project  team  should 
+include evidences of Japanese visibility such as photos (preferably high resolution), press 
+releases,  articles  or  write-ups,  and  testimonials  from  project  recipients  and/or 
+implementers.  Sample  products  generated  from  the  project  grant  are  requested  to  be 
+made available to SDPF for inclusion in future exhibits. Copies of publications5 that are 
+outputs of the project should also be provided to SDPF. 
+V. 
+VISIBILITY SUPPORT BY ADB 
+5. 
+6. 
+SDPF promotes visibility of JFPR by: (i) informing Office and Department Heads of the 
+importance of achieving high visibility in order to garner support for JFPR from Japanese 
+officials  and  taxpayers;  (ii)  informing  Country  Directors  of  the  importance  of  signing 
+ceremonies to  Japanese  officials  and the  public to  ensure  recognition  and  support  for 
+JFPR  funding;  and  (iii)  continuing  widespread  distribution  of the  JFPR  Annual  Report, 
+inclusion  of  JFPR  information  in  relevant  ADB  documents,  and  occasional  information 
+sessions for Japanese organizations. 
+Resident Mission staff are requested to forward copies of all visibility materials, such as 
+press  releases,  newspaper  and  magazine  articles,  and  photographs  (including 
+descriptive captions) to SDPF’s assigned focal staff for JFPR or e-mail to (jfpr@adb.org). 
+22 April 2019 
+5 This particularly applies to knowledge and support TAs. Links to publication available online may be provided in 
+lieu of print copy. 
+APPENDIX 3: GUIDANCE NOTE ON COORDINATION WITH THE EMBASSY OF JAPAN       
+Appendix 3       
+51 
+AND JICA  
+I. 
+INTRODUCTION 
+1. 
+2. 
+3. 
+4. 
+The  Final  Report  on  the  Review  of  Japanese  Official  Development  Assistance1 (ODA) 
+underscores  the  need  for  strategic  and  effective  aid.  One  way  to  ensure  alignment  of 
+Japan  Fund  for  Poverty  Reduction  (JFPR)  projects  and  technical  assistance  (TA)  with 
+Government  of  Japan’s  (GOJ)  bilateral  assistance  strategy  for  a  particular  developing 
+member  country  (DMC)  is  by  bringing  on  board  the  comments  and  suggestions  of  the 
+Embassy of Japan (EoJ) and the Japan International Cooperation Agency (JICA).2 Thus, 
+the summary of consultations with EoJ and JICA (to include, date of consultation, name 
+and position of staff met, and EoJ and JICA's response) should be included in the proposal 
+submitted  to  SDPF.3  This  Guidance  Note  provides  detailed  instructions  regarding 
+coordination activities with EoJ and JICA.4
+II. 
+EOJ AND JICA CONTACT PERSONS 
+As soon as project officer informs SDPF of the intent to apply for JFPR funding,5 SDPF 
+will  identify  the  appropriate  contact  persons  in  EoJ  and  JICA.  The  contact  persons’ 
+information6 will be provided by SDPF to the project officer to start consultation. 
+III. 
+CONSULTATION WITH EOJ AND JICA – PROPOSAL PREPARATION 
+At  concept  stage,  project  officer  should  consult  with  EoJ  and  JICA7 through  e-mail  the 
+proposed  project  to,  (i)  seek  if  it  is  in  line  with  Japan  ODA  priorities,  (ii)  ensure  no 
+duplication, and (iii) present the concept itself, with copy to SDPF. 
+Upon SDPF’s confirmation to proceed with proposal preparation, the project officer may 
+arrange the project design meeting with EoJ and JICA. This meeting intends to explain 
+and  discuss  the  actual  project  design.  This  is  ideally  conducted  during  the  fact-finding 
+mission.8 The proposal,9 should be provided to EoJ and JICA with copy to SDPF at least 
+5 working days before the meeting to give ample time for review and consideration. After 
+the meeting, if needed, SDPF in coordination with the project officer, may follow-up with 
+EoJ and JICA, and respond to requests for clarification. 
+5. 
+In the case of regional TAs, the draft TA Summary and Report should be sent by email to 
+EoJ and JICA contact persons on no-objection basis. 
+1 Ministry of Foreign Affairs of Japan. 2010. ODA Review - Summary of the Final Report. Tokyo. 
+2 Incorporated administrative agency in charge of administering Japan’s ODA. 
+3 GOJ gives importance on the inputs provided EoJ and JICA during the internal approval process. 
+4  A  copy  of  the  Guidance  Note  on  Coordination  with  Embassy  of  Japan  and  JICA  is  appended  to  the  Project 
+Administration Manual as guide to the project team and the government, during project implementation. 
+5 Project name and brief outline of proposal should be provided to SDPF. 
+6 Name, status, telephone number and email address 
+7 Please refer to the contact persons provided by SDPF. 
+8  If  a  meeting  with  EoJ  and/or  JICA  is  not  possible,  email  exchange,  telephone  discussion  or  any  other  form  of 
+communication may be used. 
+9 Draft Grant assistance report (for project grants) and draft TA Summary and Report (for TAs). 
+52 
+Appendix 3 
+6. 
+7. 
+8. 
+IV. 
+ROLE OF THE RESIDENT MISSION AND SDPF 
+Project officer’s communications with EoJ and JICA should be done in coordination 
+with the resident mission10 with copy to SDPF. If needed, SDPF supports to identify 
+the appropriate staff to be consulted. 
+Resident mission also arranges the Grant Agreement/TA letter signing event (section 
+V) and in the overall coordination/relationship management with EoJ and JICA. 
+SDPF’s role are as follows: (i) provide contact details of relevant staff from EoJ and 
+JICA  for project consultation; (ii) liaise any need for clarification by EoJ and JICA in 
+coordination  with the project officer, during project consultation; (iii) inform EoJ and 
+JICA  when  there  is  withdrawal  or  cancellation  of  a  project;  and  (iv)  forward  all 
+completion reports to both agencies. 
+V. 
+COORDINATION WITH EOJ AND JICA – UPON APPROVAL OF THE PROPOSAL 
+9. 
+10. 
+VI. 
+11. 
+Project officer should inform EoJ and JICA about ADB’s approval. Project officers are 
+strongly encouraged to conduct signing or launching ceremonies with the attendance 
+of EoJ officials.11
+In  coordination  with  the resident mission,  the  project  officer  should  inform  EoJ  and 
+SDPF  of  the  signing  ceremony–  at  least  10  working  days  in  advance.  SDPF  then 
+informs  GOJ  of  this  activity.  The  project  officer  should  also  draft  news  release  in 
+consultation  with  the  Department  of  communications  and  coordinate  arrangements 
+with  the  resident  mission.  Local  and  international  press  are  invited  to  these 
+ceremonies. 
+COORDINATION WITH EOJ AND JICA – DURING PROJECT IMPLEMENTATION 
+AND UPON PROJECT COMPLETION 
+Throughout  implementation,  the  project  officer  should  inform  EoJ  about  project 
+progress, milestones, and outcomes, and discuss when major changes in scope and 
+objectives are required. Progress and outcomes of JFPR projects are also requested 
+to  be  shared  with  JICA.  From  time  to  time,  EoJ  and  JICA  may  also  wish  to  join 
+completion review missions in order to see project results and to interact first-hand 
+with  project  recipients.  Lessons  from  the  JFPR  projects  are  also  requested  to  be 
+shared to enable both sides to explore and seek potential collaboration. Completion 
+reports are required to be submitted by the project officer to SDPF for forwarding to 
+EoJ and JICA.12
+22 April 2019 
+10 Please inquire respective resident missions on their protocols or coordination arrangements with EoJ and JICA. 
+11 Please refer to the Guidance Note on Japanese Visibility for details on visibility requirements under JFPR. 
+12 Links to the completion reports will suffice. 
+APPENDIX 4: STAKEHOLDER CONSULTATION AND PARTICIPATION PLAN 
+Appendix 4       
+53 
+Objective 
+Risk 
+Target 
+Groups 
+Desired 
+Behavior 
+Information Needs  Activity 
+Time 
+Responsibil
+ity 
+Anticipated 
+outcome 
+OBJECTIVE 1 – EFFECTIVE COMMUNICATION WITH PROJECT STAKEHOLDERS 
+Output 1. Coffee and agroforestry systems are more productive 
+Participation  by 
+men and women 
+is  limited  owing 
+insufficient 
+to 
+and 
+timely 
+information. 
+1.  Timely  and 
+effective 
+communica-
+tion  with  men 
+women 
+and 
+farmers 
+for 
+informed  and 
+active 
+engagement 
+with the project 
+and 
+Men 
+in 
+women 
+farmers 
+in 
+the  selected  
+Aldeas, 
+Sucos  and 
+Municipalitie
+s 
+Men and women 
+are 
+farmers 
+actively 
+and 
+consistently 
+involved 
+project 
+interventions  to 
+make coffee and 
+agroforestry 
+more productive 
+in 
+2.  Timely  and 
+effective 
+communica-
+tion with Govt., 
+private  sector 
+NGOs 
+and 
+Engagement  of 
+implementing 
+stakeholders    is 
+not  maximized 
+owing  to  lack  of 
+information 
+Govt. 
+agencies 
+(EA, 
+private 
+sector 
+(Implemen-
+IA), 
+are 
+Staff 
+to 
+committed 
+and 
+effective 
+efficient  project 
+implementation, 
+of 
+the 
+Details 
+project 
+interventions, 
+expected  levels  of 
+effort, 
+potential 
+benefits to families 
+and communities, 
+responsibilities  of 
+participating 
+house-holds  and 
+implementing 
+partners/other 
+stakeholders 
+the 
+of 
+Details 
+project 
+interventions, 
+implementa-tion 
+arrangements, 
+responsibilities 
+Orientation  meetings 
+for  men  and  women 
+farmers 
+central 
+in 
+locations  convenient 
+to farmers. 
+of 
+Identification 
+project 
+focal  points 
+and extension officers 
+in each location. 
+Posters  in  Tetun  and 
+languages  are 
+local 
+local 
+in 
+up 
+put 
+government offices. 
+Leaflets  in  Tetun  and 
+languages  are 
+local 
+distributed 
+to 
+participating 
+communities. 
+them 
+Regular  meetings  are 
+conducted  with  men 
+and women farmers to 
+on 
+update 
+project 
+activities, 
+review  progress  and 
+address 
+implementation  and 
+other issues. 
+inception 
+Project 
+inform 
+meetings 
+to 
+of 
+stakeholders 
+project  outcome  and 
+outputs; 
+implementation, 
+MAF,  ACT, 
+Implementi
+ng  Partner 
+and  service 
+providers 
+Men and women 
+in 
+farm 
+households  are 
+informed, 
+well 
+willing 
+to 
+participate  and 
+engage  actively 
+with  the  project 
+to  make  coffee 
+and agroforestry 
+more 
+productive. 
+Q1 
+2021 
+Q1 
+2021 
+Q1 
+2021 
+2020  – 
+2024 
+Q1 
+2020 
+ADB,  MAF, 
+ACT, 
+Implementi
+ng  Partners 
+and  service 
+providers 
+Men and women 
+staff  of  govt., 
+private  sector, 
+NGOs  are  well 
+informed 
+and 
+engage  actively 
+54 
+Appendix 4 
+Objective 
+Risk 
+involved  in  the 
+project.  
+in  a 
+and 
+provided 
+timely 
+effective 
+manner 
+Desired 
+Behavior 
+monitoring  and 
+reporting.  
+Target 
+Groups 
+ting  Partner/ 
+service 
+provider), 
+NGOs 
+(service 
+providers)   
+expected 
+and 
+levels  of  effort, 
+potential  benefits 
+to 
+and 
+coffee 
+agroforestry 
+sectors. 
+Information Needs  Activity 
+Time 
+Responsibil
+ity 
+and 
+monitoring 
+reporting 
+arrangements;  GAP 
+and  Stakeholder  C  & 
+P Plan delivery. 
+inform 
+Identify  and 
+project 
+focal  points 
+and extension officers 
+of 
+and 
+roles 
+responsibilities. 
+project 
+Regular 
+review  meetings 
+to 
+review  progress  and 
+address 
+implementation  and 
+other issues. 
+Training 
+consultations 
+coffee 
+improvement 
+value addition. 
+and 
+on 
+quality 
+and 
+Community 
+consultations to share 
+information and solicit 
+inputs  to  develop  a 
+coffee grading system 
+and  a  national  coffee 
+marketing plan.  
+Interactions 
+with 
+others  in  the  coffee 
+sector at coffee quality 
+competitions. 
+Stakeholders  design 
+and operationalize 
+Anticipated 
+outcome 
+with  the  project 
+to  make  coffee 
+and agroforestry 
+more 
+productive. 
+Q4 
+2020 
+2020  - 
+2024 
+2020  - 
+2024 
+MAF,  ACT, 
+Implementi
+ng Partners 
+Men and women 
+farmers produce 
+quality 
+better 
+interact 
+coffee, 
+with other coffee 
+by 
+producers 
+participating 
+in 
+coffee 
+quality 
+competition  and 
+establish 
+new 
+market links.  
+2020  - 
+2024 
+MAF,  ACT, 
+Implementi
+ng 
+Stakeholders 
+support 
+production 
+of 
+Output 2. Quality and market linkages are improved 
+and 
+Men 
+in 
+women 
+farmers 
+in 
+the  selected 
+Aldeas, 
+Sucos  and 
+Municipalitie
+s 
+Men and women 
+are 
+farmers 
+willing 
+to 
+increase 
+engagement 
+in 
+the  value  chain 
+by  adding  more 
+value  to  coffee 
+harvested  and 
+building  more 
+market links. 
+of 
+the 
+Details 
+coffee 
+national 
+grading 
+system, 
+the coffee industry 
+marketing 
+plan 
+and information on 
+coffee 
+quality 
+competitions. 
+1.  Timely  and 
+effective 
+communica-
+tion  with  men 
+women 
+and 
+farmers 
+to 
+improve quality 
+of 
+coffee 
+produced  and 
+their 
+improve 
+access 
+to 
+markets. 
+Men and women 
+farmers  do  not 
+have 
+the 
+capacity  and/or 
+interest 
+in 
+improving coffee 
+quality 
+and 
+increasing 
+access 
+markets. 
+to 
+Women’s 
+participation 
+is 
+constrained  by 
+domestic  duties 
+and 
+of 
+lack 
+information. 
+and 
+Timely 
+effective 
+communica-
+Stakeholders do 
+work 
+not 
+to 
+together 
+Govt. 
+agencies 
+(EA, 
+IA), 
+Stakeholders 
+collaborate  and 
+to 
+cooperate 
+Data 
+information 
+support 
+and 
+to 
+Information Needs  Activity 
+Time 
+Target 
+Groups 
+private 
+sector 
+(Implemen-
+ting  Partner/ 
+service 
+provider) 
+NGOs 
+(service 
+providers)   
+Desired 
+Behavior 
+and 
+develop 
+implement 
+a 
+national  coffee 
+grading  system, 
+a coffee industry 
+marketing  plan 
+organize 
+and 
+coffee 
+quality 
+competitions. 
+Objective 
+Risk 
+improve  coffee 
+quality 
+and 
+market linkages. 
+tion with Govt., 
+private  sector 
+and 
+NGO 
+stakeholders to 
+and 
+develop 
+a 
+implement 
+national  coffee 
+grading 
+system, 
+a 
+coffee  industry 
+marketing  plan 
+and  organize 
+coffee  quality 
+competitions. 
+Output 3. Sector management and coordination are improved 
+Timely, 
+1. 
+effective  and 
+regular 
+communication 
+with 
+Govt., 
+private  sector 
+and 
+NGOs 
+involved  in  the 
+project.  
+Project 
+implementation 
+faces 
+delays 
+owing  to  lack  of 
+information, 
+data 
+management 
+capacity  of  key 
+stakeholders. 
+Stakeholders 
+engage 
+actively 
+project 
+implementa-
+tion,  monitoring 
+and reporting. 
+pro-
+in 
+and 
+IA), 
+Govt. 
+agencies 
+(EA, 
+private 
+sector 
+(Implementin
+g 
+Partner/ 
+service 
+provider), 
+NGOs 
+(service 
+providers)   
+Stakeholders 
+share 
+information  and 
+knowledge 
+on 
+the sector.  
+development  of  a 
+coffee 
+national 
+grading 
+system 
+and 
+the  coffee 
+industry  marketing 
+plan. 
+and 
+to 
+coffee 
+Content 
+logistics 
+information 
+conduct 
+quality 
+competitions. 
+farm 
+Data  and  analysis 
+on  coffee  sector 
+locally 
+and 
+internationally, 
+coffee 
+maintenance, 
+harvesting, 
+processing 
+marketing, 
+information 
+and 
+data  on  project 
+activities. 
+and 
+coffee 
+grading 
+a 
+system and a national 
+coffee marketing plan.  
+Stakeholders 
+collaborate to hold the 
+annual Festival  
+Kafe  Timor  and  other 
+coffee 
+quality 
+competitions. 
+Stakeholders 
+communicate 
+regularly  with  and 
+provide 
+to 
+training 
+(men  and 
+farmers 
+women)  on  coffee 
+quality competitions. 
+The Farm Information 
+Management  System 
+(FIMS)  is  developed, 
+sex-disaggregated 
+data  is  gathered,  a 
+knowledge-sharing 
+platform 
+established. 
+is 
+Project 
+Committee meetings 
+Steering 
+OBJECTIVE 2 – EFFECTIVE COMMUNICATION WITH DEVELOPMENT PARTNERS AND SOCIETY 
+Timely, 
+effective  and 
+regular 
+communication 
+with the public, 
+development 
+partners 
+and 
+donors  create 
+Details 
+project 
+scope, 
+and 
+implementa-tion 
+structure, 
+challenges 
+and 
+successes, project 
+The 
+development 
+partners 
+donors 
+continued 
+interest  in  and 
+support  for  the 
+project. 
+The  interest  of 
+the  public  and 
+development 
+partners  is  not 
+sustained  owing 
+insufficient 
+to 
+information 
+being  provided 
+The  public, 
+develop-
+ment 
+partners, 
+donors 
+signing 
+Grant 
+ceremony  with  Govt. 
+of  Timor  Leste,  ADB, 
+Govt. 
+Japan 
+of 
+officials  covered  by 
+the media. 
+Press 
+project  and 
+the 
+of 
+rationale, 
+outputs 
+activities, 
+on 
+launch 
+and 
+show 
+release 
+public, 
+Appendix 4       
+55 
+Responsibil
+ity 
+Partners, 
+private 
+sector, 
+NGOs 
+Anticipated 
+outcome 
+quality 
+better 
+coffee, establish 
+grading 
+a 
+system 
+for 
+coffee 
+and 
+provide  product 
+information 
+to 
+consumer 
+markets.  
+2020  - 
+2024 
+ADB,  MAF, 
+ACT, 
+Implementi
+ng Partner 
+2020  - 
+2024 
+ADB,  MAF. 
+ACT, 
+Implementi
+ng  Partner, 
+private 
+sector 
+agencies, 
+NGOs  
+are 
+is 
+The  FIMS 
+operationa-lized 
+efficiently, 
+reports with sex-
+disaggregatedd
+ata 
+generated 
+regularly 
+shared, 
+knowledge-
+sharing 
+meetings 
+conducted 
+regularly. 
+and 
+are 
+and 
+public, 
+The 
+development 
+partners 
+donors 
+understand 
+the 
+benefits  of  the 
+project 
+and 
+support  project 
+56 
+Appendix 4 
+Objective 
+Risk 
+Target 
+Groups 
+Desired 
+Behavior 
+Information Needs  Activity 
+Time 
+Responsibil
+ity 
+awareness  of 
+and support for 
+project 
+objectives. 
+and  information 
+the  project  
+on 
+not 
+being 
+regularly 
+updated  
+results and human 
+interest stories. 
+and 
+developed 
+distributed  to/through 
+media. 
+Briefing  meetings  for 
+politicians, 
+development 
+partners.  
+Anticipated 
+outcome 
+activities 
+objectives. 
+and 
+ACT = Timor Coffee Association, ADB = Asian Development Bank, C & P = Consultation and Participation, FIMS = Farm Information Management System, MAF = 
+Ministry of Agriculture and Fisheries 

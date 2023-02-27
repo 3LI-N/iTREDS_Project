@@ -1,0 +1,4474 @@
+Emergency Assistance for Rehabilitation and Reconstruction (RRP INO 52316-001) 
+Project Administration Manual 
+Project Number: 52316-001 
+Loan Number: LXXXX 
+23 May 2019 
+Republic of Indonesia: Emergency Assistance for 
+Rehabilitation and Reconstruction 
+Component 1: Public Works Infrastructure 
+ADB 
+CPMU 
+DGHS 
+DGWR 
+DMF 
+EARF 
+EARR 
+EMP 
+FMA 
+IEE 
+MPWH 
+PAM 
+PMC 
+PMU 
+PIU 
+RCCDF 
+RCCDP 
+RRP 
+SBD 
+SPS 
+ABBREVIATIONS 
+Asian Development Bank 
+Central Project Management Unit 
+Directorate General of Human Settlements 
+Directorate General of Water Resources 
+Design and Monitoring Framework 
+Environmental Assessment and Review Framework 
+Emergency Assistance for Rehabilitation and 
+Reconstruction 
+Environmental Management Plan 
+Financial Management Assessment 
+Initial Environmental Examination 
+Ministry of Public Works and Housing 
+Project Administration Manual  
+Project Management Consultant 
+Project Management Unit 
+Project Implementation Unit 
+Resettlement and Customary Communities Development 
+Framework 
+Resettlement and Customary Communities Development 
+Plan  
+Report and Recommendation of the President to the 
+Board 
+Standard Bidding Documents 
+Safeguard Policy Statement 2009 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+CONTENTS 
+I. 
+PROJECT DESCRIPTION 
+A. 
+B. 
+Impact and Outcome 
+Outputs 
+II. 
+IMPLEMENTATION PLANS 
+A. 
+B. 
+Project Readiness Activities 
+Overall Project Implementation Plan 
+III. 
+PROJECT MANAGEMENT ARRANGEMENTS 
+A. 
+B. 
+C. 
+D. 
+Project Implementation Organizations 
+Key Persons Involved in Implementation 
+Project Organization Structure 
+Selection and Approval of Subprojects 
+IV. 
+COSTS AND FINANCING 
+A. 
+B. 
+C. 
+D. 
+E. 
+F. 
+Cost Estimates Preparation and Revisions 
+Key Assumptions 
+Breakdown of Cost Estimates 
+Allocation and Withdrawal of Loan Proceeds 
+Contract and Disbursement S-Curve 
+Fund Flow Diagram 
+V. 
+FINANCIAL MANAGEMENT 
+A. 
+B. 
+C. 
+D. 
+Financial Management Assessment 
+Disbursement 
+Accounting 
+Auditing and Public Disclosure 
+VI. 
+PROCUREMENT AND CONSULTING SERVICES 
+A. 
+B. 
+C. 
+D. 
+Advance Contracting and Retroactive Financing 
+Procurement of Goods, Works, and Consulting Services 
+Procurement Plan 
+Consultant's Terms of Reference 
+VII. 
+SAFEGUARDS 
+VIII.  GENDER AND SOCIAL DIMENSIONS 
+IX. 
+PERFORMANCE MONITORING, EVALUATION, REPORTING, AND 
+COMMUNICATION 
+A. 
+B. 
+C. 
+D. 
+E. 
+Project Design and Monitoring Framework 
+Monitoring 
+Evaluation 
+Reporting 
+Stakeholder Communication Strategy 
+ANTICORRUPTION POLICY 
+ACCOUNTABILITY MECHANISM 
+RECORD OF CHANGES TO THE PROJECT ADMINISTRATION MANUAL 
+X. 
+XI. 
+XII. 
+1 
+1 
+1 
+2 
+2 
+3 
+5 
+5 
+6 
+8 
+9 
+12 
+12 
+12 
+13 
+16 
+16 
+17 
+18 
+18 
+20 
+22 
+22 
+23 
+23 
+23 
+24 
+24 
+25 
+27 
+31 
+31 
+33 
+33 
+34 
+34 
+35 
+35 
+36 
+APPENDIXES 
+1. 
+2. 
+3. 
+4. 
+5. 
+Profiles of Potential Subprojects under Outputs 1 and 2 
+Outline Project Progress Report and Subproject Summary Report 
+Contract Awards and Disbursement Plan 
+Procurement Plan 
+Terms of Reference of Consultants 
+Project Administration Manual Purpose and Process 
+The  project  administration  manual  (PAM)  describes  the  essential  administrative  and 
+management requirements to implement the project on time, within budget, and in accordance 
+with the policies and procedures of the government and Asian Development Bank (ADB). The 
+PAM should include references to all available templates and instructions either through linkages 
+to relevant URLs or directly incorporated in the PAM. 
+The  executing  and  implementing  agencies  are  wholly  responsible  for  the  implementation  of 
+ADB-financed  projects, as  agreed jointly  between  the  borrower  and  ADB,  and  in  accordance 
+with  the  policies  and  procedures  of  the  government  and  ADB.  ADB  staff  is  responsible  for 
+supporting  implementation  including  compliance  by  executing  and  implementing  agencies  of 
+their  obligations  and  responsibilities  for  project  implementation  in  accordance  with  ADB’s 
+policies and procedures. 
+At loan negotiations, the borrower and ADB shall agree to the PAM and ensure consistency with 
+the loan agreement. Such agreement shall be reflected in the minutes of the loan negotiations. 
+In  the  event  of  any  discrepancy  or  contradiction  between  the  PAM  and  loan  agreement,  the 
+provisions of the loan agreement shall prevail. 
+After ADB Board approval of the project's report and recommendations of the President (RRP), 
+changes in implementation arrangements are subject to agreement and approval pursuant to 
+relevant government and ADB administrative procedures (including the Project Administration 
+Instructions) and upon such approval, they will be subsequently incorporated in the PAM. 
+I. 
+PROJECT DESCRIPTION 
+1. 
+The Government of Indonesia has requested Asian Development Bank (ADB) a loan in 
+the amount of $297.75 million for the Emergency Assistance for Rehabilitation and Reconstruction 
+(EARR),  which  supports  the  government  in  rebuilding  infrastructure  damaged  by  devastating 
+disaster  events  in  Central  Sulawesi  in  September  2018.  It  will  support  rehabilitation  and 
+reconstruction  of  education  facilities,  water  supply  treatment  and  distribution  facilities,  water 
+resources infrastructure, ports, and airport. All infrastructure will be built to higher standards of 
+disaster resilience.  
+A. 
+Impact and Outcome 
+The  EARR  is  aligned  with  the  following  impact:  socio-economic  impact  of  disasters 
+2. 
+reduced. 1  The  EARR  will  have  the  following  outcome:  access  for  affected  people,  including 
+women and children, to resilient and inclusive infrastructure restored. 
+B. 
+3. 
+4. 
+(ii) 
+(ii) 
+Outputs 
+Component 1: Public Works Infrastructure: 
+(i) 
+Output  1:  Human  settlement  infrastructure  constructed,  rehabilitated,  and 
+upgraded.  The  output  will  construct,  rehabilitate,  and/or  upgrade  (a)  education 
+facilities 2  and (b) water supply (treatment and distribution facilities) infrastructure. 
+The  facilities  will  be  built  back  better  to  higher  standards  of  disaster  resilience, 
+which  will  ensure  that  risks  from  future  hazards  are  reduced  through  structural 
+design  features.  At  the  same  time,  nonstructural  measures  such  as  disaster 
+preparedness  plans  will  also  be  implemented.  The  output  will  ensure  that 
+sustainability plans are in place and the capacity of agencies is strengthened to 
+better manage water supply services. 
+Output  2: Water  resources  infrastructure  constructed,  rehabilitated and  or 
+upgraded. The output will construct, rehabilitate, and/or upgrade (i) the Gumbasa 
+irrigation  system;  (ii)  the  PASIGALA  raw  water  supply  system;  and  (iii)  coastal 
+protection to prevent coastal erosion and tidal flooding. Where possible, nature-
+based solutions will be promoted. The river basin organization will be strengthened 
+to better design resilient infrastructure, improve O&M of assets, and stay equipped 
+with  hydrometeorological  instruments  for  managing  water  flows  across  the  river 
+basin.  
+Component 2: Transportation Infrastructure: 
+(i) 
+Output 3: Ports rehabilitated and reconstructed. The output will (a) rehabilitate 
+the  damaged  ports  in  Pantoloan,  Donggala,  and Wani;  (b)  restore  and  improve 
+their operating capacity; and (c) establish safety and emergency response plans 
+for the rehabilitated ports. 
+Output 4: Airport rehabilitated and reconstructed. The output will repair and/or 
+reconstruct the runway, terminal building, and related infrastructure of Mutiara Sis 
+Al Jufri Airport in Palu and will establish a safety and emergency response plan for 
+the rehabilitated airport. 
+1  Government of Indonesia. National Medium-Term Development Plan 2016–2019. Jakarta 
+2  This includes reconstruction of the National Islamic University, one of the main universities in Central Sulawesi, which 
+was severely damaged as a result of the tsunami. 
+2 
+Subprojects.  The  EARR  will  apply  a  sector  lending  approach  in  selecting  subprojects 
+5. 
+under each of the outputs. To be financed under the project, these subprojects will need to comply 
+with  the  applicable  selection  criteria  described  in  Section  III.  D  Subprojects  Selection  Criteria.  
+Brief profiles of potential subprojects linked to Output 1 and Output 2, together with description of 
+how such subprojects are to be supported through ADB’s technical assistance resources, are in 
+Appendix 1. 3  
+6. 
+The Ministry of Public Works and Housing (MPWH) will be responsible for activities under 
+Component 1 (Outputs 1 and 2), while the Ministry of Transportation (MOT) will cover activities 
+under Component 2 (Output 3 and 4).  
+This Project Administration Manual (PAM) sets out the implementation arrangements for 
+7. 
+Component 1: Public Works Infrastructure.  
+II. 
+IMPLEMENTATION PLANS 
+A. 
+Project Readiness Activities 
+Table 1: Schedule of Project Readiness Activities 
+2019 
+April 
+X 
+May  
+X 
+June 
+X 
+July 
+X 
+Aug 
+X 
+Sept 
+Responsible Party 
+MPWH, ADB 
+Indicative 
+Activities 
+  Advance 
+contracting 
+actions  
+  Government 
+budget inclusion  
+  Retroactive 
+X 
+financing actions 
+  Establish project 
+implementation 
+arrangements 
+  Loan 
+Negotiations 
+  ADB Board 
+approval 
+  Loan signing 
+  Government 
+legal opinion 
+provided 
+  Loan 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+MPWH, MOF 
+MPWH, ADB 
+MPWH, BAPPENAS 
+(steering committee)  
+ADB, MOF 
+ADB 
+ADB, MOF 
+MOLHR 
+X 
+ADB, MOF 
+effectiveness 
+ADB = Asian Development Bank, BAPPENAS = Badan Perencanaan Pembangunan Nasional (National Development 
+Planning Ministry), MOF =  Ministry of Finance, MOLHR =  Ministry of Law and Human Rights, MPWH = Ministry of 
+Public Works and Housing. 
+Source: Asian Development Bank. 
+3Technical  assistance  from  various  ADB  sources  supported  the  government  in  undertaking  post-disaster  needs 
+assessment, preparing the Reconstruction Master Plan. Ongoing technical assistance includes facilitating distribution 
+of housing reconstruction grants, preparing pre-feasibility study for water supply and water distribution interventions 
+and preparing a framework for monitoring the implementation of the Master Plan. Funds from ongoing loans including 
+the Accelerating Infrastructure Delivery through Better Engineering Services Project and the Flood Management in 
+Selected River Basins Sector Project are used to prepare detailed engineering designs for water resources and urban 
+infrastructure facilities under the EARR. 
+B. 
+Overall Project Implementation Plan 
+Outputs and Activities
+Table 2: Implementation Plan 
+2019
+2020
+2021
+2022
+2023
+M J J A S O N D J F M A M J J A S O N D J F M A M J J A S O N D J F M A M J J A S O N D J F M
+3 
+Output 1: Human settlement and associated infrastructure reconstructed and upgraded (DGHS)
+A
+B
+Reconstruction of Islamic University of Palu
+1 Recruit consultant (including preparation of the TOR & Cost Estimate)
+2 Technical works: Appraise subproject, prepare SSR, prepare engineering DED and bidding document
+3 Undertake safeguard activities
+4 Procure Works (1S1E postqualification)
+5 Construction (including mobilization and commissioning)
+Rehabilitation and construction of water supply system (including distribution networks for Palu and 
+Sigi and construction of WTP) 
+1 Recruit consultants under the Accelerating Infrastructure Delivery through Better Engineering Services 
+(including finalization of the TOR and Cost Estimate)
+2 Technical works: Appraise subproject, prepare SSR, prepare engineering DED and bidding document
+3 Undertake safeguard activities
+4 Procure Works (1S1E postqualification)
+5 Construction (including mobilization and commissioning)
+Output 2: Water resources infrastructure rehabilitated and reconstructed (DGWR)
+A
+Construction of Coastal Protection: Sea Dyke
+1 The DED is prepared by engineering consultant of ongoing Flood Management in Selected River Basin 
+Project (L3440-INO) starting from November 2018. 
+Technical works: Appraise subproject, prepare SSR, prepare engineering DED and bidding document
+2
+3 Undertake safeguard activities
+4 Procure Works (1S1E postqualification)
+B
+B.1
+5 Construction (including mobilization and commissioning)
+Reconstruction of Gumbasa Irrigation networks
+Reconstruction Gumbasa (primary, secondary, tertiary and weir) including liquefaction counter 
+measures (deep well, parallel drain and others) upstream - 2,500 ha 
+1 Recruit consultants under the Accelerating Infrastructure Delivery through Better Engineering Services 
+(including finalization of the TOR and Cost Estimate)
+Technical works: Appraise subproject, prepare SSR, prepare engineering DED and bidding document
+2
+3 Undertake safeguard activities
+4 Procure Works (1S1E postqualification)
+5 Construction (including mobilization and commissioning)
+4 
+Outputs and Activities
+2019
+2020
+2021
+2022
+2023
+M J J A S O N D J F M A M J J A S O N D J F M A M J J A S O N D J F M A M J J A S O N D J F M
+B.2
+Reconstruction Gumbasa (primary, secondary, tertiary) including liquefaction counter measures 
+(deep well, parallel drain and others) middle stream - 2,500 ha
+1 Recruit consultants under the Accelerating Infrastructure Delivery through Better Engineering Services 
+(including finalization of the TOR and Cost Estimate)
+Technical works: Appraise subproject, prepare SSR, prepare engineering DED and bidding document
+2
+3 Undertake safeguard activities
+4 Procure Works (1S1E postqualification)
+5 Construction (including mobilization and commissioning)
+B.3
+Reconstruction Gumbasa (primary, secondary, tertiary) including liquefaction counter measures 
+(deep well, parallel drain and others) downstream  - 2,000 ha
+1 Recruit consultants under the Accelerating Infrastructure Delivery through Better Engineering Services 
+(including finalization of the TOR and Cost Estimate)
+2 Technical works: Appraise subproject, prepare SSR, prepare engineering DED and bidding document
+C
+D
+3 Undertake safeguard activities
+4 Procure Works (1S1E postqualification)
+5 Construction (including mobilization and commissioning)
+Upgrading/Construction of Raw Water Supply System of WUNO, PASIGALA, and PANEKI
+1 Recruit consultants under the Accelerating Infrastructure Delivery through Better Engineering Services 
+(including finalization of the TOR and Cost Estimate)
+Technical works: Appraise subproject, prepare SSR, prepare engineering DED and bidding document
+2
+3 Undertake safeguard activities
+4 Procure Works (1S1E postqualification)
+5 Construction (including mobilization and commissioning)
+Procurement of Hydrometeorological and Telemetry equipment 
+1 Technical review and preparation of specifications
+2 Procurement of Goods (RFQ)
+3 Installation (including mobilization and commisioning)
+E
+Engineering and Management Consultant  BWSS III (DGWR)
+1 Consultant recruitment (including preparation of TOR and Cost Estimate) QCBS
+2 Consulting service delivery 
+F
+Engineering and Management Consultant  Central Sulawesi Settlement Infrastructure Agency (DGHS)
+1 Consultant recruitment (including preparation of TOR and Cost Estimate) QCBS
+2 Consulting service delivery 
+F
+Project Management, PMU, DGWR
+1 Consultant recruitment (including preparation of TOR and Cost Estimate) QCBS
+2 Consulting service delivery 
+BWSS III = Regional River Basin Organization Sulawesi III, DED = Detailed Engineering Design, DGHS = Directorate General of Human Settlements, DGWR = 
+Directorate General of Water Resources, PMU = Project Management Unit, SSR = Subproject Summary Report, UKL-UPL = Environmental Monitoring Planning & 
+Management, IAIN = State Islamic University, WTP = Water Treatment Plant. 
+III. 
+PROJECT MANAGEMENT ARRANGEMENTS 
+A. 
+Project Implementation Organizations 
+Table 3: Roles and Responsibilities of Implementation Organizations 
+5 
+Project Implementation 
+Organizations 
+National Steering Committee 
+Ministry of Finance  
+National Development Planning 
+Ministry 
+Ministry of Public Works and Housing 
+Ministry of Transportation 
+Ministry of Religious Affairs 
+Regional Steering Committee 
+Governor (Sekda),  
+Mayor/District Head 
+Subnational sectoral agencies 
+Executing Agency 
+Ministry of Public Works and Housing 
+through the Directorate General of 
+Water Resources 
+Project Management Units 
+Directorate General of Water 
+Resources and Directorate General of 
+Human Settlements  
+Project Implementing Units 
+Output 1: 
+Central Sulawesi Settlement 
+Infrastructure Agency under the 
+Directorate General of Human 
+Settlements  
+Management Roles and Responsibilities  
+•  Oversee progress and provide guidance on the project 
+implementation 
+•  Monitor and evaluate the overall project performance and 
+outcomes 
+•  Review and endorse annual work plans 
+•  Ensure integration between project and subnational funded 
+reconstruction activities  
+•  Provide guidance on land use planning and land acquisition for the 
+subprojects 
+•  Overall responsible for implementation of subprojects  
+•  Will establish a Central Project Management Unit (CPMU) within 
+the Directorate General of Water Resources (DGWR) to 
+consolidate activities and reporting from Project Management Units 
+(PMUs) in the two Directorate Generals of Water Resources and 
+Human Settlements in Jakarta and Project Implementing Units 
+(PIUs) in Central Sulawesi. 
+•  Supported by a secretariat consisting of representatives of 
+concerned Directorates. The CPMU secretariat will be headed by 
+Director of Water Resources Development, DGWR and staffed with 
+financial management, monitoring and reporting, procurement, 
+social and environmental safeguards, gender, and technical 
+personnel. 
+•  Ensure that loan covenants are complied with 
+•  Maintain project accounts, monitor financial and physical progress, 
+and report such progress to ADB 
+•  Prepare withdrawal applications (WA) including retention of 
+supporting documents and submit the WAs (through MOF) to ADB. 
+•  Lead and coordinate activities related to financial management and 
+financial audit 
+•  Consolidate quarterly and annual reports, including safeguards and 
+audited annual project financial statements and submit to ADB.  
+•  Establish PMUs headed by a project director and staffed with social 
+and environmental safeguards, gender, procurement, financial 
+management and technical personnel 
+•  Select and appraise subprojects according to subproject selection 
+criteria. 
+•  Provide quarterly and annual reports including audited annual 
+financial statements as required under the loan agreement 
+•  Provide operational support for project activities 
+•  Coordinate with the government and partner agencies for 
+successful implementation of the project 
+•  Prepare annual contract awards and disbursement projections, 
+requesting budgetary allocations for counterpart funds;  
+•  Establish PIUs headed by a project director and staffed with social 
+and environmental safeguards, gender, procurement, financial 
+management and technical personnel 
+•  Responsible for implementation of all subprojects under each 
+implementing agency’s purview  
+•  Recruit design and supervision consultant for all subprojects under 
+its purview 
+6 
+Project Implementation 
+Organizations 
+Output 2: 
+Central Sulawesi River Basin 
+Organization (Balai Wilayah Sungai 
+Sulawesi III) under the Directorate 
+General of Water Resources  
+Ministry of Finance 
+DKI Jakarta II and Central Sulawesi 
+Procurement Agency (MPWH) 
+Experts panel 
+Provincial  and  Local  Implementation 
+Partners 
+Asian Development Bank 
+Source: Asian Development Bank. 
+Management Roles and Responsibilities  
+•  Prepare safeguards planning documents, implement environmental 
+and social safeguards plans, and monitor safeguards-related 
+activities for ADB and government requirements. 
+•  Undertake day-to-day implementation activities 
+•  Supervise design, supervision and management consultants 
+•  Manage the procurement process (prepare bidding documents, 
+manage bidding process, submit required documents to ADB for 
+required clearances) in coordination with Central Sulawesi 
+Procurement Agency 
+Implement procurement, safeguards activities and gender action 
+plan  
+• 
+•  Manage financial management including prepare budget, annual 
+projections, process invoices and withdrawal applications etc 
+•  Establishment of advance account on behalf of the executing 
+agency.  
+•  Allocation and timely release of counterpart funds 
+•  Authorize withdrawal application submitted by the executing 
+agency. 
+•  Communicate with ADB for any amendments in the reallocation of 
+the loan amount. 
+•  Administer advance account 
+•  Conduct procurement for packages under the CPMU and PIU  
+authorities 
+•  Composed of experts in seismologist, paleo seismologist, 
+geotechnical, tsunami science and engineering, tsunami hazard 
+assessment and mitigation, port harbor and coastal infrastructure, 
+coastal engineering, coastal natural protection, structural 
+engineering, civil engineering, earthquake geodetic, architect, 
+socio-cultural expert.  
+•  Advise on planning and detailed engineering designs to ensure 
+technical soundness and higher resilience  
+Issuing of master plan and spatial plan 
+• 
+•  Facilitate land clearance 
+•  Ensure issuing of relevant permits 
+• 
+•  Undertake regular project reviews and facilitate implementation of 
+the project, including compliance by the executing agency and 
+implementation agencies to obligations and responsibilities 
+Integration of activities  
+B. 
+Key Persons Involved in Implementation  
+Table 4: Key Persons Involved in Implementation 
+Executing Agency 
+Ministry of Public Works and Housing 
+CPMU/DGWR PMU Secretariat  
+Officer's Name  
+Position 
+Office Address 
+Email address 
+Telephone No. 
+Officer's Name  
+Position 
+Office Address 
+:  Mr. Hari Suprayogi 
+:  Director General Water Resources 
+: 
+: 
+: 
+Jl. Pattimura No.20 – Jakarta Selatan 
+dirjen.sda01@gmail.com  
++62 722 2804 
+:  Mr. Edy Juharsyah 
+:  Director of Water Resources Development, 
+Directorate General of Water Resources 
+Jl. Pattimura No.20 - Jakarta Selatan 
+: 
+7 
+DGHS PMU Secretariat  
+Implementing Agencies 
+Central Sulawesi River Basin 
+Organization (Balai Wilayah Sungai 
+Sulawesi III) 
+Email address 
+Telephone No. 
+Officer's Name  
+Position 
+Office Address 
+Email address 
+Telephone No. 
+: 
+binaprogramsda@gmail.com 
+:  Mr. Edward Abdurrahman 
+:  Director of Integration on Settlements 
+Infrastructure, Directorate General of 
+Human Settlement 
+Jl. Pattimura No.20 - Jakarta Selatan 
+keterpaduan@gmail.com  
++62 8158012999 
+: 
+: 
+Officer's Name  
+:  Yusuf M. Tambing 
+Position 
+Office Address 
+Email address 
+Telephone No. 
+Jl. Abdurahman Saleh no 230 Palu 
+:  Head of Balai 
+: 
+: 
+: 
++62 451 482147 
+Central Sulawesi Settlement 
+Infrastructure Agency 
+Officer's Name  
+:  Ferdinan Kanalo 
+Position 
+Office Address 
+:  Head of Balai 
+:  Kantor PIPB2 Jl. Soekarno-Hatta No. 20 
+Email address 
+Telephone No. 
+: 
+: 
++62 81338433101 
+Kota Palu 
+Asian Development Bank  
+Indonesia Resident Mission 
+Mission Leaders 
+Officer's Name  
+Position 
+:  Mr. Winfried Wicklein 
+:  Country Director, Indonesia Resident 
+Office Address 
+Email address 
+Telephone No. 
+Officer's Name  
+Position 
+Office Address 
+Email address 
+Telephone No. 
+Officer's Name  
+Position 
+Office Address 
+Email address 
+Telephone No. 
+Officer's Name  
+Position 
+Office Address 
+Email address 
+Telephone No. 
+Mission 
+:  The Plaza Office Tower, 11th Floor, Jl. MH 
+Thamrin 28-30, Central Jakarta, Indonesia 
+10350 
+:  wwicklein@adb.org 
+: 
++62 21 29927388 
+:  Mr. Vijay Padmanabhan 
+:  Director, Urban Development and Water 
+Division 
+6 ADB Avenue, Mandaluyong City  
+1550 Metro Manila, Philippines 
+vpadmanabhan@adb.org  
++63 2 632 6379/5613 
+: 
+: 
+: 
+:  Mr. Joris van Etten 
+:  Senior Urban Development Specialist 
+:  The Plaza Office Tower, 11th Floor, Jl. MH 
+Thamrin 28-30, Central Jakarta, Indonesia 
+10350 
+jvanetten@adb.org 
++62 21 2992 7388 
+: 
+: 
+:  Mr. Eric Quincieu  
+:  Senior Water Resources Specialist  
+:  The Plaza Office Tower, 11th Floor, Jl. MH 
+Thamrin 28-30, Central Jakarta, Indonesia 
+10350 
+equincieu@adb.org 
++62 21 2992 7388 
+: 
+: 
+8 
+C. 
+Project Organization Structure  
+Figure 1: Project Organization Structure  
+BAPPENAS  =  Badan  Perencanaan  Pembangunan  Nasional  (National  Development  Planning  Ministry),  CPMU  =  Central  Project  Management  Unit,  DGHS  = 
+Directorate General of Human Settlements, DGWR = Directorate General of Water Resources, MPWH = Ministry of Public Works and Housing, PMC = Project 
+Management Consultant, PIU = Project Implementation Unit. 
+Source: Asian Development Bank 
+9 
+D. 
+Selection and Approval of Subprojects 
+8. 
+The project implementation units (PIUs) established under each implementing agency will 
+identify, evaluate, and select subprojects for endorsement by the project management unit (PMU), 
+based on the following criteria: (i) consistency of subproject objectives with the overall purpose of 
+the  Project  and their  inclusion  in the  Master  Plan for  Recovery  and  Reconstruction for  Central 
+Sulawesi  and/or  MPWH  Action  Plan;  (ii)  quality  and  resilience  standards;  (iii)  safeguards 
+compliance; and (iv) economic viability and financial sustainability. 
+1. 
+Subproject Selection Criteria 
+a. 
+Criterion 1: Subproject Objectives  
+9. 
+Subproject will be included if:  
+(i) 
+(ii) 
+(iii) 
+(iv) 
+it is listed in the Master Plan for Recovery and Reconstruction for Central Sulawesi 
+and/or MPWH Action Plan;  
+it  will  reconstruct,  retrofit,  or  repair  damaged  infrastructure  consistent  with  the 
+EARR outputs description; and  
+it will restore and/or improve or build back better damaged facilities to pre-disaster 
+conditions.  
+it will not finance deferred operation and maintenance activities. 
+b. 
+Criterion 2: Quality Control Standards  
+10. 
+Reconstruction  or  rehabilitation  of  infrastructures  will  be  in  accordance  with  (i)  best 
+practices  in  disaster  risk  reduction  and  management,  multi-hazard  resistance  standards,  cost 
+effectiveness  alternatives  based  on  a  review  of  technical  options  available  to  address  the 
+identified  problems,  and  lessons  learned  from  previous  disasters  and/or  similar  projects  in  the 
+country or region; and (ii) incorporation of technological improvements and the Government of 
+Indonesia’s  and  ADB  requirements  for  quality  control.  The  design  will  (i)  consider  a  range  of 
+technical alternatives and select options based on least life-cycle costs and economic viability; (ii) 
+maximize support to communities and minimize adverse environmental and social impacts; and 
+(iii) optimize timescales for implementation. 
+Subprojects  will  use  appropriate  design  and  construction  standards.  As  applicable, 
+11. 
+geotechnical and relevant surveys and investigations will be undertaken.  
+c. 
+Criterion 3: Environmental and Social Safeguards  
+12. 
+Subprojects  will  conform  with  ADB’s  Safeguards  Policy  Statement  (SPS)  2009  with 
+respect to social and environment considerations. Subprojects with significant environmental and 
+involuntary resettlement impact (category A), or with significant impacts on indigenous peoples 
+or customary communities (category A), will be excluded. Subprojects with activities described in 
+ADB’s Prohibited Investment Activities List (Appendix 5 of ADB’s SPS 2009) will also be excluded. 
+i. 
+Environment 
+13. 
+The following subprojects are not eligible for funding under the project: 
+(i) 
+Subprojects classified as Category A per ADB’s SPS 2009; 
+10 
+(ii) 
+(iii) 
+Subprojects  located  in  or  with  foreseeable  adverse  impacts  on  any  legally 
+protected area; 4 or 
+Subprojects that fall in part or in whole within an area supporting high biodiversity 
+value. 5  
+Subprojects  should  be  screened  and  assessed  based  on  procedures  defined  in  the 
+14. 
+Project’s environmental assessment and review framework (EARF).  
+ii. 
+Social  Safeguards,  Involuntary  Resettlement  and  Indigenous 
+People or Customary Communities 
+Involuntary resettlement is considered when the affected persons have no right to refuse 
+15. 
+the land acquisition by the government that result in their displacement. This occurs when land is 
+acquired through (i) expropriation by invoking the eminent domain power of the state or (ii) land 
+is  acquired  through  negotiated  settlement  when  the  pricing  is  negotiated  in  a  process  where 
+expropriation will be the consequence of a failure in the negotiation. 
+Subprojects with significant impacts classified as Category A for involuntary resettlement 
+16. 
+will not be financed under the Project, with significant impact being defined as:   
+(i) 
+(ii) 
+200 or more persons being physically displaced from housing, and/or  
+200 or more persons losing 10% or more of their productive (income generating) 
+assets. 
+17. 
+Subprojects  classified  as  Category  A  for  indigenous  people  or  customary  communities 
+(CC) as per ADB’s SPS 2009 will not be eligible under the emergency assistance project. The 
+subproject likely to have significant (category A) CC impacts when a subproject, among others: 
+(i) 
+Acquires a huge land area or forest that makes villagers unable to continue their 
+existing traditional livelihood system;  
+(ii)  Changes  the  status  of  CC  from  self-subsistence  farmers  and  forest  products 
+gatherers to factory workers;  
+(iii)  Results  in  physically  displacing  a  sub-community  far  away  from  its  wider 
+community of origin;  
+(iv)  Causes  contamination  of  the  major  communal  water  sources  resulting  in  water 
+borne diseases of the CC;  
+(v)  Restricts  forest-dependent  CC  from  accessing  the  forest  area  where  for 
+generations they used to hunt boars and collect rattan, wild fruits and other forest 
+products; and 
+(vi)  Undermines 
+the  existing 
+traditional 
+irrigating  system  and  the  associated 
+institutional arrangement for water distribution. 
+18. 
+Subprojects  should  be  screened  and  assessed  based  on  procedures  defined  in  the 
+EARR’s  Resettlement  and  Customary  Communities  Development  Framework  (RCCDF)  which 
+combines  the  involuntary  resettlement  framework  with  the  indigenous  people’s  development 
+framework. 
+4 Protected Areas as defined in Annex III of Minister of Environment Regulation No. 5/2012 on Types of Business Plans 
+and/or Activities Requiring AMDAL. 
+5 Key Biodiversity Areas as defined in the World Database of Key Biodiversity Areas. 
+11 
+d. 
+Criteria 4: Economic Viability and Financial Sustainability  
+19. 
+The design of the subproject will ensure the adoption of the least-cost approach, both in 
+respect  of  capital,  as  well  as  operation  and  maintenance  (O&M)  costs,  keeping  in  view 
+achievement of the EARR’s objective(s) and without compromising quality and disaster resilience.  
+Financial  analysis  to  ensure  subprojects  viability  and/or  sustainability  will  be  conducted.  The 
+subproject will need to demonstrate full recovery of recurring costs as a minimum qualification 
+requirement. 
+20. 
+For subprojects that are estimated to cost more than $1 million, an Economic Internal Rate 
+of Return (EIRR) should be calculated. The subproject will need to register an EIRR in excess of 
+9% with economic benefits quantified based on reliable data.  
+2. 
+Prior Review and Approval by ADB  
+21. 
+The first subproject to be carried out by each implementing agency will be subject to prior 
+review and approval by ADB. Subsequent subprojects exceeding $500,000 equivalent shall be 
+sent to ADB for information only, while all subprojects exceeding $5 million equivalent will require 
+prior review and approval by ADB. 6  
+Subproject  safeguards  categorizations  will  be  sent  to  ADB.  Subproject  safeguard 
+22. 
+documents  will  need  prior  approval  by  ADB,  including  resettlement  plans,  resettlement  and 
+customary  community  development  plan  (RCCDP),  due  diligence  report  completed  with 
+corrective  action  plan  (DDR  –  CAP),  and  initial  environmental  examinations  (IEE)  with 
+environmental  management  plans  (EMP),  as  needed.  Safeguards  documents  will  need  to  be 
+consistent  with  the  EARR’s  EARF  and  RCCDF,  ADB’s  SPS  2009,  and  government  laws  and 
+regulations.  
+3. 
+Procedures  
+Each  subproject  will  be  prepared  and  processed  in  accordance  with  the  following 
+23. 
+procedures:  
+(i) 
+(ii) 
+(iii) 
+Technical  study,  for  all  subprojects,  will  be  conducted  by  the  implementing 
+agencies including its cost estimate. The implementing agencies will also prepare 
+and  categorize  for  (a)  involuntary  resettlement;  (b)  indigenous  peoples;  and  (c) 
+environment and send all categorization results to ADB.  
+The implementing agencies will translate resettlement plans in the local language 
+and  disclose  it  to  affected  people,  incorporating  results  of  consultations.  The 
+implementing agencies will prepare the appraisal reports for all subprojects to be 
+considered following the selection criteria, together with the required attachments, 
+i.e.,  safeguards  documents  and  submit  these  to  ADB  for  approval.  Safeguards 
+documents will be disclosed on ADB’s website and the website of the executing 
+agencies.  
+ADB  will  review  the  summary  appraisal  report  together  with  the  required 
+attachments. If ADB finds that a proposed subproject does not satisfy the selection 
+criteria and/or agreed procedures, ADB will advise the implementing agency either 
+6 ADB approval of a subproject does not guarantee automatic approval of the withdrawal application for this 
+subproject to be submitted by the Borrower. 
+12 
+(iv) 
+(a)  to  modify  the  subproject  proposal  in  a  manner  that  will  make  it  eligible  for 
+approval; or (b) that the subproject be rejected.  
+The above procedure described in item (iii) will be applied only to those subprojects 
+whose  estimated  cost  exceeds  $5  million.  Subprojects  equal  to  or  less  than  $5 
+million will be reviewed by the implementing agencies and ADB will conduct post-
+facto review of such subprojects on a sample basis. 
+IV. 
+COSTS AND FINANCING 
+24. 
+Component 1 of the EARR is estimated to cost $235.45 million, including contingencies. 
+ADB will finance $188 million and the Government will fund $47.45 million. Cost estimates are 
+presented in the table below. 
+A. 
+Cost Estimates Preparation and Revisions  
+The cost estimate was prepared jointly by ADB and implementing agencies using 2019 
+25. 
+prices. The cost estimate will be revised at the loan midterm review stage (planned in 2020).  
+B. 
+Key Assumptions 
+26. 
+The following key assumptions underpin the cost estimates and financing plan: 
+(i) 
+(ii) 
+Exchange rate: Rp14,000= $1.00 (1 February 2019)  
+Price  contingencies  based  on  expected  cumulative 
+implementation period are as follows: 
+inflation  over 
+the 
+Item 
+Foreign rate of price 
+inflation 
+Domestic rate of price 
+inflation 
+            Source: Asian Development Bank. 
+Table 5: Escalation Rates for Price Contingency Calculation 
+2019 
+2018 
+2020 
+2021 
+2022  Average 
+1.50% 
+1.50% 
+1.50% 
+1.60% 
+1.60% 
+1.54% 
+3.40% 
+3.20% 
+3.30% 
+3.00% 
+3.00% 
+3.18% 
+C. 
+Breakdown of Cost Estimates  
+Table 6: Cost Estimates by Expenditure Category and by Output 
+($ million) 
+13 
+Total Cost 
+Output 1 
+% of Cost 
+Category 
+Output 2 
+% of Cost 
+Category 
+Item 
+A. 
+Investment Costs 
+1. Civil works 
+2. Mechanical and equipment 
+3. Consultants 
+a. Design/Supervision 
+b. Capacity Development 
+4. Tax 
+Subtotal (A) 
+B.  Recurrent Costs 
+  1. Salaries 
+  2. Accommodation 
+  3. Equipment operation and maintenance 
+Subtotal (B) 
+  Total - Base Cost 
+C.  Contingencies 
+  1. Physical 
+  2. Price 
+Subtotal ( C) 
+Financial Charges During 
+Implementation 
+D. 
+  1. Interest During Construction 
+  2. Commitment Charges 
+Subtotal (D) 
+165.14  
+0.36  
+10.02  
+9.60  
+0.43  
+17.88  
+193.40  
+0.96  
+2.40  
+0.24  
+3.60  
+35.86  
+- 
+2.45  
+2.45  
+- 
+3.86  
+42.17  
+0.48  
+1.20  
+0.12  
+1.80  
+197.00  
+43.97  
+10.87  
+16.28  
+27.15  
+10.72  
+0.58  
+11.30  
+2.43  
+3.63  
+6.06  
+2.39  
+0.13  
+2.52  
+22% 
+- 
+24% 
+26% 
+- 
+22% 
+22% 
+50% 
+50% 
+50% 
+50% 
+22% 
+22% 
+22% 
+22% 
+22% 
+22% 
+22% 
+22% 
+129.28  
+0.36  
+7.58  
+7.15  
+0.43  
+14.02  
+151.23  
+0.48  
+1.20  
+0.12  
+1.80  
+78% 
+100% 
+76% 
+74% 
+100% 
+78% 
+78% 
+50% 
+50% 
+50% 
+50% 
+153.03  
+78% 
+8.44  
+12.65  
+21.09  
+8.33  
+0.45  
+8.78  
+78% 
+78% 
+78% 
+78% 
+78% 
+78% 
+182.90  
+78% 
+   Total Project Cost 
+235.45  
+52.55  
+Notes: 1. The government will finance tax through exemption and/or cash contribution.            
+            2. Numbers may not tally due to rounding. 
+Source: ADB estimates. 
+14 
+Item 
+Investment Costs 
+A. 
+1. Civil works 
+2. Mechanical and equipment 
+3. Consultants 
+a. Design/Supervision 
+b. Capacity Development 
+4. Tax 
+Subtotal (A) 
+B.  Recurrent Costs 
+1. Salaries 
+  2. Accommodation 
+  3. Equipment operation and maintenance 
+Subtotal (B) 
+Total - Base Cost 
+C.  Contingencies 
+1. Physical 
+  2. Price 
+Subtotal ( C) 
+D.  Financial Charges During Implementation 
+1. Interest During Construction 
+  2. Commitment Charges 
+Subtotal (D) 
+   Total Project Cost 
+Table 7: Cost Estimate by Financier  
+($ million) 
+ Base Cost  
+ ADB  
+ %  
+ Govt  
+ %  
+165.14  
+0.36  
+10.02  
+9.60  
+0.43  
+17.88  
+193.40  
+0.96  
+2.40  
+0.24  
+3.60  
+165.14 
+0.36 
+10.02 
+9.60 
+0.43 
+0.00 
+175.52 
+- 
+- 
+- 
+- 
+100% 
+100% 
+100% 
+100% 
+100% 
+0% 
+91% 
+- 
+- 
+- 
+- 
+- 
+0% 
+0% 
+0% 
+0% 
+0% 
+17.88 
+17.88 
+100% 
+9% 
+- 
+- 
+- 
+- 
+0.96 
+2.40 
+0.24 
+3.60 
+100% 
+100% 
+100% 
+100% 
+197.00  
+175.52 
+89% 
+21.48 
+11% 
+10.87  
+16.28  
+27.15  
+10.72  
+0.58  
+11.30  
+235.45  
+5.37 
+7.10 
+12.48 
+49% 
+44% 
+46% 
+5.50 
+9.23 
+14.67 
+51% 
+57% 
+54% 
+- 
+- 
+- 
+- 
+- 
+- 
+10.72 
+0.58 
+11.30 
+100% 
+100% 
+100% 
+188.00 
+80% 
+     47.45  
+20% 
+Notes: 1. The government will finance tax through exemption and/or cash contribution.             
+            2. Numbers may not tally due to rounding. 
+               Source: ADB estimates. 
+Table 8: Detailed Cost Estimates by Year 
+($ million) 
+ Base 
+Cost  
+2019 
+2020 
+15 
+2021 
+2022 
+Item 
+Investment Costs 
+A. 
+1. Civil works 
+2. Mechanical and equipment 
+3. Consultants 
+a. Design/Supervision 
+b. Capacity Development 
+4. Tax 
+Subtotal (A) 
+B.  Recurrent Costs 
+1. Salaries 
+2. Accommodation 
+3. Equipment operation and maintenance 
+Subtotal (B) 
+Total - Base Cost 
+C.  Contingencies 
+1. Physical 
+2. Price 
+Subtotal ( C) 
+D.  Financial Charges During Implementation 
+1. Interest During Construction 
+2. Commitment Charges 
+Subtotal (D) 
+165.14  
+0.36  
+10.02  
+9.60  
+0.43  
+17.88  
+193.40  
+0.96  
+2.40  
+0.24  
+3.60  
+4.69  
+0.14  
+3.93  
+3.86  
+0.06  
+0.88  
+116.30  
+39.85  
+4.31  
+-    
+-    
+0.21  
+2.84  
+2.67  
+0.17  
+12.12  
+2.95  
+2.80  
+0.15  
+4.35  
+9.63  
+131.48  
+47.15  
+0.24  
+0.60  
+0.06  
+0.90  
+0.24  
+0.60  
+0.06  
+0.90  
+0.24  
+0.60  
+0.06  
+0.90  
+197.00  
+10.53  
+132.38  
+48.05  
+10.87  
+16.28  
+27.15  
+10.72  
+0.58  
+11.30  
+0.25  
+0.25 
+0.50  
+0.06  
+0.28  
+0.34  
+4.67  
+5.41  
+5.46  
+9.41  
+10.08  
+14.87  
+1.30  
+0.21  
+1.51  
+3.91  
+0.08  
+3.99  
+0.31  
+0.26  
+0.04  
+0.53  
+5.14  
+0.24  
+0.60  
+0.06  
+0.90  
+6.04  
+0.50  
+1.20  
+1.70 
+5.45  
+0.01  
+5.46  
+Total Project Cost 
+235.45  
+11.37 
+143.97  
+66.91  
+13.20  
+Notes: 1. The government will finance tax through exemption and/or cash contribution.   
+            2. Numbers may not tally due to rounding. 
+Source: ADB estimates.
+16 
+D. 
+Allocation and Withdrawal of Loan Proceeds  
+Table 9: Allocation and Withdrawal of Loan Proceeds 
+Number 
+Item 
+1 
+Project Cost (Component 
+1) 
+TOTAL 
+Total Amount 
+Allocated for ADB 
+Financing 
+$ 
+Category 
+188,000,000 
+188,000,000 
+Basis for Withdrawal from the 
+Loan Account 
+100 % of total expenditure 
+claimed* 
+* Exclusive of taxes and duties imposed in the territory of the Borrower. 
+E. 
+Contract and Disbursement S-Curve  
+27. 
+The projections for contract award and disbursement are in Appendix 3.  
+F. 
+Fund Flow Diagram 
+Figure 2: Funds Flow 7 
+17 
+Asian 
+Development 
+Bank 
+(Loan) 
+Government of 
+Indonesia 
+(Counterpart 
+fund) 
+Ministry of Finance 
+(Advance Account) 
+t
+n
+e
+m
+y
+a
+P
+t
+c
+e
+r
+i
+D
+Executing Agency  
+Central Project Management Unit 
+Project Management Unit 
+Implementing Agencies 
+Project Implementing Units 
+Contractors, Consultants, Suppliers, Service Providers 
+Funds Flow 
+Document Flow 
+7  Fund flow from the advance account to the EA/IA and/or contractors, consultants, suppliers and service providers 
+will be based on submission of an Instruction Order and Payment Voucher and its supporting documents from the 
+EA/IAs to Office of State Treasury, MOF. ADB provides initial deposit to the account. The EA/IA will submit withdrawal 
+applications for replenishment to the account.   
+18 
+V. 
+FINANCIAL MANAGEMENT 
+A. 
+Financial Management Assessment 
+The Financial Management Assessment (FMA) was conducted in accordance with ADB’s 
+28. 
+guidelines  on  Financial Management Technical Guidance  Note  (2015) 8  and  the  Financial  Due 
+Diligence:  A  Methodology  Note  (2009). 9  The  FMA  considered  the  capacity  of  the  executing 
+agency and the implementing agencies, including funds-flow arrangements, staffing, accounting 
+and financial reporting systems, financial information systems, and internal and external auditing 
+arrangements.  
+29. 
+The Public Financial Management assessment indicates that the government’s prevailing 
+financial,  accounting,  auditing  rules,  and  systems  meet  generally  accepted  international 
+accounting  and  auditing  standards.  The  2017  Public  Expenditure  and  Financial  Accountability 
+Assessment  for  Indonesia  showed  that  17  of  the  31  indicators  scored  A  or  B,  which  are  both 
+considered above the basic alignment with international good practice. Indicators with particularly 
+good assessment results included transparency of public finance, and accounting and reporting—
+all key for the successful implementation of the Project. 10 The assessment also identified some 
+areas for improvement, including the strategic allocation of resources and the efficiency of public 
+spending  by  linking  performance  information  more  effectively  to  planning  and  budgeting.  The 
+established legal and regulatory framework for public financial management was strengthened in 
+2017 through the government regulations mandating coordination between the National Planning 
+Agency and the Ministry of Finance (MOF) to improve the policy orientation of budgeting. 
+The  FMA  is  updated  for  MPWH  and  respective  implementing  agencies  part  of  MPWH, 
+30. 
+based on previous ADB-financed projects. 11 MPWH’s financial management is governed by the 
+government’s prevailing financial, accounting, auditing rules and systems, which are assessed as 
+meeting generally accepted international accounting and auditing standards. The overall financial 
+systems  and  policies  of  the  executing  agency  is  acceptable.  The  executing  agency  and 
+implementing  agencies  have  the  capacity  to  implement  the  project,  since  they  have  extensive 
+experience  in  implementing  ADB-funded  projects.  Furthermore,  as  most  ADB  project  loans  in 
+Indonesia  have  used  advance  account  procedures,  MOF  as  the  borrower  has  extensive 
+experience and capacity to establish and administer advance account.   
+31. 
+The pre-mitigated financial management risk level for the project is moderate. Focus on 
+quick implementation and limited capacity at subnational level contribute to the risk rating. Overall, 
+emergency  projects  require  FM  Specialist  support  and  oversight  during  implementation  to 
+address risks and mitigation activities identified in this FMA. 
+32.  Major fiduciary risks identified are considered manageable due to the following mitigation 
+measures: (i) providing financial management training to project financial management staff and 
+8  ADB. 2015. Financial Management Technical Guidance Note. Manila 
+9  ADB. 2009. Financial Due Diligence: A Methodology Note. Manila 
+10 World  Bank.  2018.  Indonesia  Public  Expenditure  and  Financial  Accountability  (PEFA)  Assessment  Report  2017. 
+Jakarta. 
+11 ADB. Republic of Indonesia: Rural Infrastructure Support to the PNPM Mandiri Project II (Loan 2575-INO); 
+    ADB. Republic of Indonesia: Urban Sanitation and Rural Infrastructure Support to PNPM (Loan 2768-INO); 
+    ADB. Republic of Indonesia: Flood Management in Selected River Basins Sector Phase 2 (Loan 3440-INO); 
+    ADB.  Republic  of  Indonesia:  Integrated  Participatory  Development  and  Management of  Irrigation  Program  (Loan 
+3529-INO); 
+    ADB. Republic of Indonesia: Accelerating Infrastructure Delivery through Better Engineering Services Project Loan 
+(Loan 3455-INO). 
+19 
+recruitment  of  FM  consultancy,  (ii)  recruitment  of  a  project  management  consultants  (PMC)  to 
+support  the  DGs  in  all  fiduciary  aspects  of  the  EARR  implementation;  (iii)  ensuring  PIU’s 
+responsibility for aligning the project preparation schedules with the budgeting process. 
+Appropriate  actions  plan  was  prepared  to  mitigate  these  risks.  This  will  be  closely 
+33. 
+monitored during the Project implementation.   
+Table 10: Financial Management, Internal Control, Risk Assessment and Mitigating 
+Action Plan 
+Risk Description 
+Risk 
+Rating 
+Mitigation Measures or  
+Risk Management Plan 
+Responsibility 
+Timing 
+A.  Country / Sector Risk 
+capacity 
+at 
+of 
+Lack 
+subnational level 
+Some government 
+procedures for accounting 
+and financial reporting 
+have weaknesses, i.e., 
+different system and 
+regulation between central 
+government (line ministry) 
+and local government. 
+Overall Inherent Risk 
+B.  Project Risk 
+Reporting and 
+Monitoring  
+Findings raised in the 
+auditor’s reports not timely 
+addressed 
+Funds Flow 
+Late availability of funds 
+during Project 
+implementation 
+Human Resource and 
+Staffing 
+Existing EA staff will be 
+assigned to the Project 
+implementation. There is 
+no enough information on 
+availability of staff and 
+their experience in projects 
+FM 
+S 
+M 
+M 
+S 
+S 
+M 
+a. EA, IAs 
+a.  prior  to  project 
+implementation 
+a. EA, IAs 
+a. 4Q 2019 
+to  coordinate 
+local/provincial 
+a.  Establish  PIU 
+implementation  at 
+level 
+b. Development partners’ continuous 
+the  public 
+support 
+to  strengthen 
+in 
+financial  management  systems 
+Indonesia 
+policy-based, 
+through 
+projects,  and  technical  assistance 
+activities. 
+a.  Establish  coordination  between 
+(line  ministry)  and 
+central 
+agencies 
+of 
+government. 
+b.  Build  capacity  and  strengthen 
+monitoring  in  financial  management 
+and reporting. 
+level 
+at 
+levels 
+local 
+EA  to  ensure  all  findings  raised  in 
+are 
+External  Auditors’ 
+properly  addressed  and  closed  prior 
+to the subsequent financial year end. 
+reports 
+MPWH 
+throughout  project 
+implementation 
+and 
+flow 
+agreed 
+procedures 
+Fund 
+and 
+disbursement  arrangements  to  be 
+discussed 
+with 
+Government  and  EA  to  avoid  any 
+delays  in  replenishment  of  advance 
+accounts and disbursements  
+a. EA to properly assess FM 
+resource requirements for the 
+Project and ensure PIUs are staffed 
+adequately 
+b. Trainings and capacity building 
+activities to be delivered to staff 
+involved into Project implementation 
+MPWH and MOF  
+during 
+negotiations 
+loan 
+EA, IAs, and ADB 
+a. prior to loan 
+effectiveness 
+b. throughout 
+project 
+implementation 
+20 
+Risk Description 
+Human Resource and 
+Staffing 
+Unclear job descriptions or 
+delineated roles of the 
+project staff to affect 
+accountability 
+Implementing Entity 
+Inefficient coordination and 
+information flow between 
+the EAs, IAs and PIUs. 
+Internal Control 
+The policies and 
+procedures of EA do not 
+clearly define conflict of 
+interest and related party 
+transactions and 
+safeguards to protect the 
+organization from fraud 
+and corruptions. 
+External Audit 
+Limited time provided to 
+auditors compared to the 
+much longer period 
+required to carry out an 
+extensive audit of public 
+works 
+Internal Audit 
+Information Systems 
+Overall Project Risk 
+Overall (Combined) Risk 
+Risk 
+Rating 
+M 
+Mitigation Measures or  
+Risk Management Plan 
+EA and IAs to establish clear 
+organizational structure of the 
+CPMU, PMU and PIUs 
+Responsibility 
+Timing 
+EA, IAs 
+prior to loan 
+effectiveness 
+M 
+M 
+a. Establishment of PMU to ensure 
+regular coordination, communication 
+and resolution of issues.  
+b. Development of clear working 
+arrangements and protocols. 
+EA to establish relevant procedures 
+and policies. 
+Project Steering 
+Committee, 
+MPWH 
+prior to loan 
+effectiveness 
+MPWH 
+2019-2020 
+M 
+EA to ensure timely submission of 
+project financial statements for audit  
+MPWH 
+throughout project 
+implementation 
+L 
+L 
+M 
+M 
+ADB = Asian Development Bank, CPMU = central project management unit,  EA = executing agency, H = 
+High,  IA = implementing agency, L = Low or Negligible, M = Moderate, MOF = Ministry of Finance, MPWH 
+= Ministry of Public Works and Housing, PIU = project implementation unit, PMU = project management 
+unit, S = Substantive. 
+B. 
+Disbursement 
+1. 
+Disbursement Arrangements for ADB Funds 
+The  loan  proceeds  will  be  disbursed  in  accordance  with  ADB’s  Loan  Disbursement 
+34. 
+Handbook  (2017,  as  amended  from  time  to  time), 12  and  detailed  arrangements  agreed  upon 
+between the government and ADB. Online training for project staff on disbursement policies and 
+procedures  is  available. 13  Project  staff  are  encouraged  to  avail  of  this  training  to  help  ensure 
+efficient disbursement and fiduciary control. 
+35. 
+Advance account procedure. The government (MOF) will establish an advance account 
+for MPWH at the central bank (Bank Indonesia) to facilitate the timely release of loan funds. The 
+12 The handbook is available electronically from the ADB website (http://www.adb.org/documents/ loan-disbursement-
+handbook). 
+13  Disbursement eLearning. http://wpqr4.adb.org/disbursement_elearning  
+21 
+currency of the advance account will be US Dollar. The advance account will be administered by 
+the  MOF.  The  advance  accounts  will  be  established,  managed,  replenished,  and  liquidated  in 
+accordance  with  ADB’s  Loan  Disbursement  Handbook  (2017,  as  amended  from  time  to  time). 
+The advance account is to be used exclusively for ADB’s share of eligible expenditures. The MOF, 
+who administers the advance account, is accountable and responsible for proper use of advances 
+to the advance account.  
+36. 
+The total outstanding advance to the advance account should not exceed the estimate of 
+ADB’s  share  of  expenditures  to  be  paid  through  the  advance  account  for  the  forthcoming  6 
+months. MOF will request for initial and additional advances to the advance account based on an 
+Estimate of Expenditure Sheet 14 setting out the estimated expenditures to be financed through 
+the accounts for the forthcoming 6 months. Supporting documents should be submitted to ADB 
+or  retained  by  the  Borrower  (MOF,  the  executing  agency,  and  the  implementing  agencies)  in 
+accordance  with  ADB’s  Loan  Disbursement  Handbook  (2017,  as  amended  from  time  to  time) 
+when liquidating or replenishing the advance account. 
+Statement of expenditure procedure. 15 The statement of expenditure (SOE) procedure 
+37. 
+may be used for reimbursement and liquidation of the advance account. Supporting documents 
+and records for the the expenditures claimed under the SOE rds should be maintained and made 
+readily available for review by ADB’s disbursement and review mission or upon ADB’s request for 
+submission of supporting documents on a sampling basis, and for independent audit.  
+38. 
+Before the submission of the first withdrawal application (WA), the borrower should submit 
+to ADB, sufficient evidence of the authority of the persons who will sign the WAs on behalf of the 
+government, together with the authenticated specimen signatures of each authorized person. The 
+minimum  value  per WA is  stipulated  in the  Loan  Disbursement  Handbook  (2017,  as  amended 
+from time to time). Individual payments below such amount should be paid (i) by the executing 
+agency/implementing agencies and subsequently claimed to ADB through reimbursement, or (ii) 
+through the advance fund procedure, unless otherwise accepted by ADB. The borrower should 
+ensure sufficient category and contract balances before requesting disbursements. Use of ADB’s 
+Client Portal Disbursement (CPD). 16 System is mandatory for submission of WAs to ADB. Sample 
+forms for withdrawal applications of loan proceeds can be downloaded from the ADB website. 
+39. 
+Sufficient supporting documentation, as defined in ADB’s Loan Disbursement Handbook 
+(2017, as amended from time to time) will be kept at each level of the EARR implementation to 
+substantiate all expenditures incurred from the loan proceeds. Relevant project staff will be trained 
+in ADB’s disbursement procedures.  
+2. 
+Disbursement Arrangements for Counterpart Fund 
+The  implementing  agencies  are  responsible  for  preparing  and  requesting  budgetary 
+40. 
+allocations  for  counterpart  funds  to  be  included  in  the  DIPA.  Disbursement  procedures  for  the 
+counterpart funds will follow the government regulations. Local taxes and duties under the EARR 
+will be financed by the government and budgeted in the counterpart funds. 
+14  Estimate  of  Expenditure  sheet  is  available  in  Appendix  8A  of  ADB’s  Loan  Disbursement  Handbook  (2017,  as 
+amended from time to time),  
+15  SOE forms are available in Appendix 7B and 7D of ADB’s Loan Disbursement Handbook (2017, as amended from 
+time to time). 
+16 The CPD facilitates online submission of WA to ADB, resulting in faster disbursement. The forms to be completed 
+by the Borrower are available online at https://www.adb.org/documents/client-portal-disbursements-guide. 
+22 
+C. 
+Accounting 
+41. 
+Each implementing agency will maintain, or cause to be maintained, separate books and 
+records by funding source for all expenditures incurred by the EARR. The executing agency will 
+prepare  consolidated  project  financial  statements  in  accordance  with  the  government's 
+accounting laws and regulations which are consistent with international accounting principles and 
+practices.  
+D. 
+Auditing and Public Disclosure 
+42. 
+The executing agency will cause the detailed consolidated project financial statements to 
+be  audited  in  accordance  with  International  Standards  on  Auditing  and  with  the  Government's 
+audit regulations, by an independent auditor acceptable to ADB. In addition, the MOF will cause 
+the  EARR  advance  account  opened  in  Bank  Indonesia  to  be  audited  in  accordance  with 
+International  Standards  on  Auditing  and  with  the  Government's  audit  regulations,  by  an 
+independent auditor acceptable to ADB.  
+43. 
+Such  audited  consolidated  project  financial  statements  and  audited  EARR  advance 
+account will be submitted in the English language to ADB within six months of the end of the fiscal 
+year by executing agency. 
+44. 
+The audit report for the EARR financial statements and special bank account will include 
+auditor’s opinions, which cover (i) whether the EARR financial statements present an accurate 
+and fair view or are presented fairly, in all material respects, in accordance with the applicable 
+financial  reporting  standards;  (ii)  whether  the  proceeds  of  the  EARR  were  used  only  for  the 
+purpose(s) of the EARR; and (iii) whether the borrower or the executing agency was in compliance 
+with the financial covenants contained in the legal agreements (where applicable). In addition, the 
+audit report for the EARR financial statements will include a management letter.  
+45. 
+Compliance with financial reporting and auditing requirements will be monitored by review 
+missions and during normal program supervision, and followed up regularly with all concerned, 
+including the external auditor.  
+46. 
+The government, the executing agency and the implementing agencies have been made 
+aware  of  ADB’s  approach  to  delayed  submission,  and  the  requirements  for  satisfactory  and 
+acceptable quality of the audited project financial statements. 17 ADB reserves the right to require 
+a  change  in  the  auditor  (in  a  manner  consistent  with  the  constitution  of  the  borrower),  or  for 
+additional  support  to  be  provided  to  the  auditor,  if  the  audits  required  are  not  conducted  in  a 
+manner satisfactory to ADB, or if the audits are substantially delayed. ADB reserves the right to 
+17 ADB’s approach and procedures regarding delayed submission of audited project financial statements:  
+(i)  When audited EARR financial statements are not received by the due date, ADB will write to the EA advising 
+that (a) the audit documents are overdue; and (b) if they are not received within the next 6 months, requests 
+for new contract awards and disbursement such as new replenishment of advance accounts, processing of 
+new reimbursement, and issuance of new commitment letters will not be processed. 
+(ii)  When  audited  EARR  financial  statements  are  not  received  within  6  months  after  the  due  date,  ADB  will 
+withhold processing of requests for new contract awards and disbursement such as new replenishment of 
+advance accounts, processing of new reimbursement, and issuance of new commitment letters. ADB will (a) 
+inform the EA of ADB’s actions; and (b) advise that the project may be suspended if the audit documents are 
+not received within the next 6 months. 
+(iii)  When audited EARR financial statements are not received within 12 months after the due date, ADB may 
+suspend the EARR. 
+23 
+verify  the  project's  financial  accounts  to  confirm  that  the  share  of  ADB’s  financing  is  used  in 
+accordance with ADB’s policies and procedures.  
+47. 
+Public disclosure of the audited financial reports, including the auditor’s opinion, will be 
+guided by ADB’s Public Communications Policy 2011. 18 After the review, ADB will disclose the 
+audited  EARR  financial  statements  and  the  opinion  of  the  auditors  on  the  EARR  financial 
+statements no later than 14 days of ADB’s confirmation of their acceptability by posting them on 
+ADB’s website. The management letter, additional auditor’s opinions, and audited entity financial 
+statements will not be disclosed. 19 
+VI. 
+PROCUREMENT AND CONSULTING SERVICES 
+A. 
+Advance Contracting and Retroactive Financing 
+48. 
+All  advance  contracting  and  retroactive  financing  will  be  undertaken  in  conformity  with 
+ADB Procurement Policy (2017, as amended from time to time) and the Procurement Regulations 
+for ADB Borrowers (2017, as amended from time to time). The issuance of invitations to bid under 
+advance contracting and retroactive financing will be subject to ADB approval. The borrower, the 
+executing agency, and the implementing agencies have been advised that approval of advance 
+contracting and retroactive financing does not commit ADB to finance the EARR. 
+49. 
+Advance  Contracting.  Advance  contracting  under  the  EARR  will  be  applicable  for 
+recruitment of Engineering and Project Management Consultants and procurement of civil works 
+including  advertisement,  receiving  bids,  and  evaluation  of  bids,  prior  to  loan  effectiveness. 
+Detailed engineering designs and bidding documents for selected subprojects may be prepared 
+under  the  ongoing  Loan  3455  Accelerating  Infrastructure  Delivery  through  Better  Engineering 
+Services Project and Loan 3440 Flood Management in Selected River Basin Project. Individual 
+consultant  selections  to  support  the  project  at  various  levels  may  follow  advance  contracting 
+actions. 
+50. 
+Retroactive  financing. Retroactive  financing  will  be  allowed  for  up to  30%  of  the  loan 
+amount for eligible expenditures incurred under the EARR, provided that such expenditures have 
+been incurred not earlier than 28 September 2018. 20 
+B. 
+Procurement of Goods, Works, and Consulting Services 
+51. 
+All  procurement  of  goods  and  works  and  consulting  services  will  be  undertaken  in 
+accordance  with  ADB  Procurement  Policy  (2017,  as  amended  from  time  to  time)  and  the 
+Procurement Regulations for ADB Borrowers (2017, as amended from time to time).  
+52.  Most civil works and goods contracts will be procured through open competitive bidding 
+(OCB)  and  the  national  advertisement  method.  To  ensure  efficiency,  special  procedures  for 
+18 Public Communications Policy:  http://www.adb.org/documents/pcp-2011?ref=site/disclosure/publications 
+19 This type of information would generally fall under public communications policy exceptions to disclosure. ADB. 2011. 
+Public Communications Policy. Paragraph 97(iv) and/or 97(v). 
+20  If  the  borrower  proceeds  with  the  initial  steps  of  procurement  before  signing  the  financing  agreement,  the 
+procurement procedures shall be acceptable to ADB and in accordance with the Procurement Plan for any contracts 
+subsequently awarded to be eligible for ADB financing. Furthermore, if the contract is signed, reimbursement by ADB 
+of any expenses incurred by the borrower under the contract prior to effectiveness of the financing agreement is 
+referred to as retroactive financing. 
+24 
+emergency  lending  will  be  used  as guided  by the  Guidance  Note  on  Fragile,  Conflict-affected, 
+and Emergency Situations (2018, as amended from time to time), including (i) wider use of post 
+qualification, (ii) reducing the bidding period to 15 working days for international competition and 
+7 working days for national competition when appropriate, (iii) using single-stage one-envelope 
+bidding  procedures,  (iv)  developing  a  time-bound  action  plan  to  award  contracts,  including  a 
+contract management plan.  The national electronic public procurement system (SPSE) may be 
+used for OCB national advertisement provided the system accommodates the agreed Standard 
+Bidding Document (SBD) and uses the central SPSE’s MPWH that has been enhanced to comply 
+with the ADB requirements.  
+53. 
+Procurement  risk  assessments  of  the  ongoing  projects  financed  by  ADB, 21  found  the 
+overall  procurement  risk  of  implementing  agencies  of  MPWH  as  medium.  Based  on  the 
+assessment, ADB’s review type have been established. In case of works and goods contract, the 
+first contract of similar nature for each implementing agency shall be prior reviewed by ADB and 
+the remaining may be post reviewed by ADB. A sampling approach will be applied for the contract 
+packages less than $20 million while full post review will be used for the package between $20 
+million and $40 million. All contract packages above $40 million will be prior reviewed.  
+54. 
+Some  civil  works  and goods  contracts,  and  consulting  services may  be  procured  using 
+direct contracting, where appropriate, following procedures acceptable to ADB. Small and simple 
+works and goods up to $100,000 may be procured using international and/or national request for 
+quotations.  ADB  encourages  community  participation  in  the  procurement  of  small  works  of  a 
+simple nature.  
+To support the EARR implementation, Engineering and Project Management Consultant 
+55.  
+firms  will  be  recruited  through  OCB  procedures  using  a  quality-  and  cost-  based  selection. 
+Individual  consultants  will  be  recruited  using  the  individual  selection  method  with  international 
+and/or national advertisements, based on the EARR’s requirements. Consultants who are already 
+engaged in ADB-financed projects and provide similar services as those required for the Project 
+may be recruited directly under the project, subject to satisfactory performance.22 The Consultants 
+will  support  the  implementing  agencies  in  undertaking  procurement  in  line  with  procurement 
+arrangements agreed for the EARR. 
+56.   Before  the  start  of  any  procurement,  ADB  and  the  government  will  review  the  public 
+procurement laws of the government to ensure consistency with ADB’s Procurement Policy and 
+Procurement Regulations for ADB Borrowers (2017, both as amended from time to time).  
+C. 
+Procurement Plan 
+57. 
+The initial procurement plan is in Appendix 4. The information in the procurement plan is 
+indicative  and  will  be  further  detailed  during  the  EARR  start  up  period  through  a  discussion 
+between ADB and MPWH. 
+D. 
+Consultant's Terms of Reference 
+The  terms  of  reference  for  engineering  and  project  management  consultants  are  in 
+58. 
+Appendix 5.  
+21 Accelerating Infrastructure Delivery through Better Engineering Services Project. Procurement Risk Assessment is 
+available at https://www.adb.org/sites/default/files/linked-documents/49141-001-sd-02.pdf 
+22  ADB.  2018.  Guidance  Note on  Procurement:  Fragile,  Conflict-Affected,  and  Emergency  Situations.  Manila  (para. 
+3.27). 
+25 
+VII. 
+SAFEGUARDS 
+59. 
+Environment. The  EARR  is  classified  as  category  B for  environmental safeguards  per 
+ADB’s Safeguards Policy Statement (SPS), 2009. Subprojects classifying as category A, 23 and 
+subprojects  with  activities  described  in  ADB’s  Prohibited  Investment  Activities  List  shall  not  be 
+eligible  for  financing  under  the  EARR.  Subprojects  will  not  be  undertaken  in  protected  areas 
+including those either legally protected or officially proposed for protection. 24 
+60. 
+The  exclusion  of  subprojects  classifying  as  category  A  from  the  EARR  scope  will  be 
+ensured  through  screening  of  all  subprojects  in  accordance  with  the  EARR’s  environmental 
+assessment and review framework (EARF) 25 that was prepared for the EARR and endorsed by 
+the  executing  agency.  Each  subproject  will  be  classified  individually  using  the  screening 
+procedure  and  the  rapid  environmental  assessment  (REA)  screening  checklists  defined  in  the 
+EARF. Only subprojects classifying as category B or C are eligible. 
+For  subprojects  classifying  as  category  B  for  environment,  initial  environmental 
+61. 
+examinations (IEE) and environmental management plans (EMP) will be prepared consistent with 
+the  EARF.  These  will  be  submitted  to  and  cleared  by  ADB  and  disclosed  on  the  executing 
+agency’s  website  and  to  potentially  affected  communities.  The  IEEs  and  EMPs  will  be 
+incorporated into bidding documents and contract documents to be implemented by contractors.  
+62. 
+Indonesia  environmental  assessment  procedure  will  also  be  followed,  and  consultation 
+with  district/provincial  DLH  will  be  undertaken  prior  to  commencing  the  activity.  All  subproject 
+proposals  will  undergo  screening  according  to  relevant  government  laws  and  regulations  to 
+classify whether a project proposal would need AMDAL, or UKL/UPL (equal to category B), or 
+SPPL (equal to category C). All subprojects will undertake environmental assessment and shall 
+obtain environmental clearance before proceeding to implementation. In addition, all applicable 
+government environmental permits/ approvals/ concurrences and ADB approval must be obtained 
+prior to any contract award for civil works. 
+63. 
+A grievance redress mechanism (GRM) should be established during construction of the 
+project  to  address  unforeseen  problems  and  issues  that  may  arise  due  to  construction  and 
+operational impacts. The executing agencies will establish a mechanism to receive and facilitate 
+resolution  of  affected  peoples’  concerns,  complaints,  and  grievances  about  the  EARR’s 
+environmental safeguard performance.  
+64. 
+Involuntary  Resettlement.    The  project  is  classified  as  category  B  for  involuntary 
+resettlement (IR) in accordance with ADB’s SPS 2009 because the EARR is likely to have minor 
+impact on IR. Subproject triggering category A for IR will be excluded. implementing agencies will 
+screen  potential  subprojects  early  to  identify  past,  present,  and  future  land  acquisition  and 
+resettlement  impacts  and  will  adopt  measures  to  avoid  or  minimize  these  impacts.  Subproject 
+with category B and C will be eligible.    
+23 Subprojects likely to have significant impacts that are irreversible, diverse, or unprecedented as per ADB’s Safeguard 
+Policy Statement (2009) 
+24 Including (i) Protected Areas as defined in Annex III of Minister of Environment Regulation No. 5/2012 on Types of 
+Business Plans and/or Activities Requiring AMDAL; and (ii) Key Biodiversity Areas as defined in the World Database 
+of Key Biodiversity Areas managed by BirdLife International on behalf of the KBA Partnership. World Database of. 
+Key Biodiversity Areas. 
+25 Environmental assessment and review framework (EARF). Available from list of linked documents. 
+26 
+65.  Meaningful consultations will be conducted with affected persons and concerned parties 
+to ensure their participation from planning, implementation, and monitoring.  Special attention will 
+be  provided  to  the  needs  of  vulnerable  groups  (especially  those  below  the  poverty  line,  the 
+landless,  the  elderly,  women  and  children,  those  without  legal  title  to  land,  and  indigenous 
+peoples).    Establish  a  grievance  redress  mechanism  to  receive  and  facilitate  resolution  of  the 
+affected persons’ concerns. 
+66. 
+Negotiated land acquisition and voluntary donation will follow procedure in a transparent, 
+consistent,  and  equitable  manner  and  be  confirmed  through  written  record  and  verified  by  an 
+independent  third  party.  Ensuring  that  voluntary  donations  do  not  severely  affect  the  living 
+standards of the affected persons.  
+Indigenous  Peoples.  The  EARR  is  classified  as  category  B  for  Indigenous  People   
+67. 
+because the project is likely to have limited impact (positive and negative) on Indigenous People 
+or  Customary  Communities  (IP/CC).  The  implementing  agencies  shall  screen  each  subproject 
+and  ensure  that  subprojects  triggering  A  for  IP  as  per  ADB  SPS  2009  will  be  excluded.  The 
+magnitude of impact is assessed through the following aspects; (i) customary rights of use and 
+access  to  land  and  natural  resources;  (ii)  socioeconomic  status;  (iii)  cultural  and  communal 
+integrity;  (iv)  health,  education,  livelihood,  and  social  security  status;  and  (v)  recognition  of 
+indigenous people. 
+68.  Meaningful  consultations  with  customary  communities  (including  women  and  youth)  at 
+each  stage  of  the  project  will  be  conducted  to  identify  customary  communities’  perspectives, 
+issues and concerns. Culturally appropriate and gender inclusive grievance mechanism to receive 
+and facilitate resolution of the Indigenous Peoples’ concerns will be set up. 
+69. 
+Social  Safeguards  Plans.  As  most  of  project  activities  cover  infrastructure  in  various 
+sectors with almost similar impacts, an RCCDF has been prepared for the project in line with (a) 
+applicable  Indonesian  laws  and  regulations  related  to  land  acquisition  and  customary 
+communities; (b) ADB Safeguards Policy of 2009 specifically on IR and IP Safeguards. Impact 
+assessments and safeguard plans are prepared during subproject preparation in conformity with 
+the RCCDF. 
+The  RCCDF  is  to  guide  subproject  selection,  screening  and  categorization,  social 
+70. 
+assessment,  and  implementation  of  social  safeguard  plan  during  project  implementation.   
+Screening guidance is provided to establish the type of social safeguards document required for 
+future  sub  projects.  There  are  three  possible  documents  that  may  be  required  during  project 
+implementation: resettlement plan, RCCDP, and Due Diligence Report – Corrective Action Plan 
+(DDR-CAP), if any. The implementing agencies shall prepare a safeguard planning document for 
+the subproject if land acquisition and involuntary resettlement and/or indigenous people safeguard 
+is triggered. These documents will be disclosed to the affected persons and posted on ADB and 
+project websites.  
+Institutional arrangements for safeguards. The executing agency will be responsible 
+71. 
+for  overall  project  implementation  including  safeguards.  The  executing  agency  will  establish  a 
+CPMU which will be supported by the Project Management Consultant (PMC). The PMC will have 
+environment  and  social  safeguards  specialists  to  support  the  PMU  to  prepare  consolidated 
+environmental and social safeguards monitoring reports to be submitted to ADB for review and 
+disclosure  on  its  website,  provide  guidance  to  safeguards  specialist  consultants  at  PIU,  and 
+capacity building on safeguards at regions.  
+27 
+The implementing agencies will form PIUs which will have Safeguards Focal Persons to 
+72. 
+supervise and coordinate environmental and social safeguards planning and implementation. The 
+PIUs will be assisted by engineering and management consultants (EMC) for DGHS and DGWR. 
+The EMC will include environment specialists and social safeguards specialists engaged during 
+Project  implementation  to  assist  the  PIUs  in  preparing,  implementing,  and  monitoring  the 
+safeguards.  The  PIUs  will  ensure  that  the  EARF  and  RCCDF  are  followed  during  subproject 
+preparation and implementation. PIUs   will undertake screening and classification of subprojects 
+consistent with the EARF and RCCDF for submission to the executing agency and implementing 
+agencies, relevant local agencies, 26 and ADB. The PIUs will prepare the respective safeguards 
+documents (IEE, resettlement plan, RCCDP, DDR-CAP) for proposed subprojects. Safeguards 
+documents  will  be  reviewed  and  approved  by  implementing  agencies    and  ADB.  PIUs  will  be 
+tasked  with  the  day-to-day  implementation  and  monitoring  of  safeguards  plans.  PIUs  will  also 
+obtain  all  clearances  and  fulfill  government  requirements  and  safeguard  permits.  PIUs  will  be 
+responsible  for  data  required  for  safeguards  plan  preparation  and  monitoring  and  progress 
+reports,  and  coordination  with  relevant  agencies  including  provincial  or  district  environmental 
+agency (Dinas Lingkungan Hidup, DLH), land office, regional development acceleration team to 
+consult  and/or  obtain  endorsement  if  necessary.  Institutional  roles  and  responsibilities  are 
+detailed in the EARF and RCCDF.  
+VIII.  GENDER AND SOCIAL DIMENSIONS 
+73. 
+Gender  category  at  entry.  The  EARR's  gender  classification  is  "Effective  Gender 
+Mainstreaming" (EGM) which means that at least 50% of the outputs integrate gender targets and 
+design features. It is expected that women, children, people living with disabilities and the elderly 
+can participate and fully benefit from the disaster rehabilitation and reconstruction interventions 
+supported by the EARR. 
+Key actions. The EARR’s gender action plan (GAP) includes the following actions and 
+74. 
+targets:  (i)  reconstruction/rehabilitation  of  infrastructure  (education  institutions,  irrigation,  water 
+supply)  integrate  gender  responsive  and  inclusive  design  features  and/or  safety  measures  for 
+women, children, the elderly and people with disability; (ii) safety standards for disaster resilient 
+infrastructure and/or disaster preparedness and response plans developed in consultation with 
+local stakeholders including women (45% women’s participation); and (iii) labor opportunities, and 
+ensuring equal pay for work of equal value.  
+GAP  implementation  arrangements.  MPWH  will  be  responsible  for  ensuring  the 
+75. 
+implementation  of  the  GAP,  more  particularly  the  gender  actions  and  targets  related  to  the 
+relevant  components  of  their  respective  sectors/sub-sectors.  The  measures  included  in  the 
+Project’s GAP are in line with Head of National Disaster Agency Regulation No. 13 Year 2014 on 
+Gender Mainstreaming in Disaster Management that mandates gender responsive planning and 
+budgeting during rehabilitation and reconstruction phase. 
+(i) 
+two  national  Gender  Consultants  will  be  hired  on  an  intermittent  basis  in  the  executing 
+agency  and  will  be  responsible  to  support  the  executing  agency  and  implementing 
+agencies  in  implementing,  monitoring  and  reporting  on  the  GAP  for  the  concerned 
+sectors/sub-sectors  and  ensuring  that  GAP  implementation  is  on-track.  The  Gender 
+Consultant will also be responsible for delivering gender awareness training.  
+26 Environment categorization of subprojects per Minister of Environment Regulation No. 5/2012 shall be confirmed by 
+the relevant provincial or district environmental agency (Dinas Lingkungan Hidup, DLH). 
+28 
+(ii) 
+(iii) 
+the GAP will be implemented by the implementing agencies with assistance of consultant 
+teams  and  gender  focal  points.  Gender  focal  points  (from  existing  government  Gender 
+and  Development  Focal  Point  System)  will  be  appointed/designated  for  the  Project  to 
+manage  day-to-day  GAP  activities  and  monitoring  in  coordination  with  the  executing 
+agency  and  implementing  agencies;  confirming  sex-disaggregated  baseline  data  at 
+Project inception; maintain sex-disaggregated data during project implementation; and be 
+responsible for reporting on the GAP implementation progress.  
+project  monitoring  and  evaluation  systems  will  track  sex-disaggregated  data  and 
+quantitative  and  qualitative  information  on  GAP  implementation.  Status  and  monitoring 
+reports will be included in the Project’s quarterly progress reports reviewed by ADB and 
+EARR steering committee.  
+The gender staff/consultant based in the ADB’s Indonesia Resident Mission will participate 
+76. 
+in the Project review missions when deemed necessary. ADB will conduct in-depth GAP reviews 
+as part of the Project’s mid-term and final evaluations. 
+Outputs 
+Output 1. 
+Human 
+settlement 
+infrastructure 
+constructed, 
+rehabilitated, 
+and upgraded 
+Output 2. Water 
+resource 
+infrastructure 
+constructed, 
+rehabilitated, 
+and upgraded 
+Table 11: Gender Action Plan 
+GAP Actions & Targets 
+29 
+Education Component 
+1.1. 
+1.2. 
+1.3. 
+1.5. 
+At  least  one  educational  institution  rehabilitated  with  disaster  resilience, 
+gender  responsive  and  inclusive  features 27  (concrete  examples  of  such 
+designs will need to be reported). 
+Safety instructions and standards established (e.g. levelling, fence, lights in 
+proper places, stairs, ramps etc.) in education institutions, taking into account 
+the needs of women, men, including people with disabilities (PWDs). 
+Disaster preparedness and response plan developed with prior consultation 
+and integrating features that address the different needs and promote active 
+involvement of both women and men, including PWDs. 
+Water Supply Component 
+1.4. 
+At  least  35,000  household  service  connections  (HSC)  (benefitting  at  least 
+66,000 women and girls) for water supply established with prior consultation 
+with women (45% participation women in consultations).  
+Conduct  gender  sensitive  awareness  raising  programs  on  water  use 
+efficiency, water quality and hygiene education including menstrual hygiene 
+(Target: 45% women and girls). 
+2.2. 
+2.1.  Gumbasa irrigation scheme reconstructed  with disaster resilient standards 
+and  safety  measures  for  women,  children,  the  elderly  and  PWDs  (e.g. 
+irrigation  fences  installed  in  strategic  points  to  ensure  safety),  to  serve  an 
+area of 6,968 ha. (Baseline: 0). 
+42  km  of  Palu-Sigi-Donggala  (PASIGALA)  raw  water  transmission  system 
+upgraded benefiting about 25,480 women and girls. 
+Compile gender sensitive social, economic, technical and institutional profile 
+(PSETK) in irrigation area. 
+Ensure  women are made well aware  of and have access to possible paid 
+jobs in O&M. 
+Provide  skills  training  in  O&M  of  water  infrastructure  to  women  who  are 
+interested.   
+2.3. 
+2.4. 
+2.5. 
+Common GAP Actions Across Outputs 1 and 2: 
+1.  Ensure that land acquisition and compensation process is transparent, and that compensation is 
+equal for male and female APs, and where applicable compensation and allowances are provided 
+in the name of both spouses and/or female-headed households/widows. 
+2.  Contractors  will  be  encouraged  to  employ  local  workers  and  at  least  10%  women  in  skilled  and 
+unskilled positions in civil works (this will need to be reported by skilled/unskilled positions).  
+3.  Ensure equal pay for work of equal value for women and men in all construction and maintenance 
+work. 
+4.  Ensure  that  basic  facilities  (separate  toilets  and  clean  water)  are  provided  for  female  as  well  as 
+male construction workers at construction sites. 
+5.  Ensure that contractors have mechanisms in place to raise awareness on zero tolerance to sexual 
+harassment and gender-based violence among workers and against women/girls and men/boys in 
+the communities and respond adequately to any such incidents.  
+Project Management: 
+1.  Recruitment  of  two  national  Gender  Specialist  for  total  of  30  pm  intermittent  to  support  GAP 
+implementation,  monitoring  and  reporting  for  the  relevant  components/sub-sectors  under  each 
+Directorate.  
+27  Gender  responsive  designs  take  into consideration the  different  needs  of  women and  men such  as the  need  for 
+separate female and male toilets (with adequate female:male toilet ratio), with doors and features that ensure security 
+and privacy; lactation room; adequate lighting and visibility inside and around the facilities. Inclusive designs refer to 
+buildings  that  are  accessible  by  PWDs,  e.g.  accessible  routes,  curb  ramp,  ramp/lift/stair  lift,  accessible  toilets, 
+dedicated parking, and signs. Also refer to Regulation of Minister of Public Works and Housing No. 45/PRT/M/2007 
+on  State  Buildings,  Regulation  of  Minister  of  Public  Works  and  Housing  No.  14/PRT/M/2017  on  Ease-of-Access 
+Requirements to Building, and Law No. 8/2016 on Persons with Disabilities. 
+30 
+2.  Formal  appointment/designation  of  gender  focal  points  (from  existing  government  gender  and 
+development Focal Point System [GAD-FPS]): 1 gender focal each in Directorate General of Human 
+Settlements, and Directorate General of Water Resources;  
+3.  Orientation and capacity building on GAP implementation and related requirements is conducted for 
+the EA, IAs/IC, contractors and other key implementing partners. 
+4.  Collection of sex-disaggregated and gender-related information relevant to the design and monitoring 
+framework GAP is integrated in the overall project performance and monitoring system. 
+5.  Project annual, mid-term and completion reports include details on progress against GAP indicators 
+and results (good practices, lessons learnt, etc.). 
+6.  GAP implementation is integrated in the Annual Gender and Development (GAD) Plans and Budgets 
+and Annual GAD Reports of MPWH and other government partners, where applicable. 
+7.  Representatives of the GAD Focal Point System (GAD-FPS) of each government agency-member 
+of  the  steering  committee  shall  form  the  GAD-FPS  of  the  committee,  tasked  to  oversee  GAP 
+implementation. 
+31 
+IX. 
+PERFORMANCE MONITORING, EVALUATION, REPORTING, AND 
+COMMUNICATION 
+A. 
+Project Design and Monitoring Framework  
+Table 12: Design and Monitoring Framework   
+Impact the EARR is Aligned with 
+Socioeconomic  impact  of  disasters  reduced  (National  Medium-Term  Development  Plan  [RPJMN]  2016–
+2019)a 
+Results Chain 
+Performance Indicators with 
+Targets and Baselines 
+Outcome 
+By end of 2023: 
+Data Sources and 
+Reporting 
+Mechanisms 
+Risks 
+Access for affected 
+people, including 
+women and children, 
+to resilient and 
+inclusive 
+infrastructure 
+restored 
+Outputs 
+1. Human settlement 
+infrastructure 
+constructed, 
+rehabilitated, and 
+upgraded  
+2. Water resource 
+infrastructure 
+constructed, 
+rehabilitated, and 
+upgraded 
+At least 200,000 individuals 
+have access to infrastructure 
+that is resilient, inclusive, and 
+operational (2019 baseline: 0) 
+Periodic progress 
+reports prepared by the 
+executing agencies 
+Disaster events occur 
+during 
+implementation 
+period 
+1a-b. Periodic progress 
+report prepared by 
+Ministry of Public 
+Works and Housing 
+and local governments 
+Delay in 
+implementation due 
+to labor and material 
+shortages 
+2a-c. Periodic progress 
+report prepared by 
+Ministry of Public 
+Works and Housing 
+and local governments. 
+By 2023: 
+1a. At least one educational 
+institution reconstructed to 
+disaster-resilient standards and 
+with gender-responsiveb and 
+inclusivec  features (2019 
+baseline: 0) 
+1b. At least 35,000 household 
+service connections (benefiting 
+at least 66,000 women and 
+girls)d  for potable water supply 
+established with prior 
+consultation (45% participation 
+of women in consultations) 
+(2019 baseline: 10,000 
+household service connections) 
+2a. Gumbasa irrigation system 
+reconstructed to disaster-
+resilient standards and with 
+safety measurese to serve an 
+area of 6,968 hectares (2019 
+baseline: 0) 
+2b. 42 kilometers of Palu–Sigi–
+Donggala raw water 
+transmission system 
+reconstructed and upgraded 
+(2019 baseline: 0) 
+32 
+2c. Seven kilometers of coastal 
+protection constructed (2019 
+baseline: 0) 
+Key Activity with Milestone 
+A.  Human settlement infrastructure constructed, rehabilitated and upgraded 
+1.1  Recruit consultants under the Accelerating Infrastructure Delivery through Better Engineering 
+Services Projectf (by Q4 2019) 
+1.2  Identify and appraise subprojects, as required (by Q2 2020) 
+1.3  Prepare engineering designs and bidding documents and undertake social and environmental 
+safeguards activities (by Q3 2020) 
+1.4  Procure works (by Q1 2021) 
+1.5  Construct assets (by Q4 2022) 
+1.6  Assets operational (by Q1 2023) 
+B.   Water resources infrastructure rehabilitated and upgraded 
+2.1  Recruit consultants under the Accelerating Infrastructure Delivery through Better Engineering 
+Services Projectf (by Q4 2019) 
+2.2  Identify and appraise subprojects, as required (by Q1 2020) 
+2.3  Prepare engineering designs and bidding documents and undertake social and environmental 
+safeguards activities (by Q1 2021) 
+2.4  Procure works (by Q2 2021) 
+2.5  Construct assets (by Q3 2022) 
+2.6  Assets operational (by Q3 2022) 
+Inputs 
+ADB: $188 million (loan) 
+Government: $47.45 million 
+Assumptions for Partner Financing 
+Not Applicable 
+ha = hectares, RPJMN = National Medium-Term Development Plan.  
+a  Government of Indonesia. National Medium-Term Development Plan 2016–2019. Jakarta. 
+b  The  term  “gender-responsive  features”  refers  to  the  different  needs  of  women  and  men.  In  the  context  of 
+infrastructure,  this may  include  lactation  rooms, separate  toilets  for  men  and  women  (the  ratio  depending on  the 
+expected number of respective users), and doors and features that ensure privacy. 
+c  The term “inclusive features” refers to features in a building that improve the accessibility of people with disabilities, 
+e.g., accessible routes, ramp, accessible toilets, dedicated parking, and signage. Also refer to Regulation of Minister 
+of Public Works and Housing No. 45/PRT/M/2007 on State Buildings, Regulation of Minister of Public Works and 
+Housing No. 14/PRT/M/2017 on Ease-of-Access Requirements to Building, and Law No. 8/2016 on Persons with 
+Disabilities. 
+d  The population in Palu, Sigi, and Donggala is about 51% male and 49% female, and the average household size for 
+Indonesia is 3.9 (Badan Pusat Statistik, Central Statistics Agency 2017). 
+e  For example, irrigation fences installed in strategic points to ensure safety. 
+f  ADB. 2016. Report and Recommendation of the President to the Board of Directors: Proposed Technical Assistance 
+Loan to the Republic of Indonesia for the Accelerating Infrastructure Delivery through Better Engineering Services 
+Project. Manila. (Loan 3455-INO). 
+Source: Asian Development Bank. 
+33 
+B. 
+Monitoring  
+77. 
+Project  performance  monitoring.  The  CPMU  in  coordination  with  PMUs  will  be 
+responsible  for  all  aspects  of  monitoring  and  evaluation,  including:  (i)  performance  evaluation 
+against  project  milestones;  (ii)  safeguards  monitoring;  (iii)  financial  commitments  and  (iv) 
+implementation of risk mitigating actions plan. Reports on project achievements will be provided 
+quarterly  and  summarized  annually.  Quarterly  reports  will  contain  update  contract  awards  and 
+disbursements  projections  based  on  Project  Performance  Review  requirement  presented  in 
+Appendix  3.  In  addition,  the  consultants  will  develop,  and  the  PMU  will  approve,  a  project 
+performance monitoring system (PPMS) based on existing PPMS in use for other ADB projects 
+and  will  include  spatial  visualization  interface  (GIS  based).  28  The  PIUs  will  conduct  regular 
+monitoring, using the same indicators and submit reports to PMU and ADB.   
+78. 
+Compliance monitoring. The status of compliance with loan covenants will be reviewed 
+at  each  ADB  review  mission.  Any  non-compliance  issues  will  be  specified  in  the  quarterly 
+progress reports together with remedial actions. 
+79. 
+Safeguards  monitoring.  The  executing  and  implementing  agencies  will  brief  the  PIU 
+Safeguards  Focal  Persons  on  monitoring  requirements  for  IEE/EMP,  RP,  RCCDP,  and  CAP 
+implementation and RCCDP implementation. Monitoring data will be generated by the PIUs. The 
+PIUs will submit semi-annual safeguards monitoring reports to the CPMU. The CPMU supported 
+by the consultants will prepare consolidated semi-annual monitoring reports (one for environment 
+and  one  for  involuntary  resettlement)  that  describe  progress  of  safeguards  implementation, 
+compliance issues, and corrective actions. Reports will be posted on the project website, and the 
+implementing  agencies  (through  the  PIUs)  will  make  hard  copies  accessible  to  the  public. 
+Safeguards  monitoring  requirements  including  suggested  monitoring  report  formats  are  in  the 
+EARF and RCCDF. 
+Gender  and  social  dimensions  monitoring  Regular  monitoring  of  gender  related 
+80. 
+indicators/targets included in the DMF and the GAP will be done during project implementation. 
+The  PPMS  will  ensure that  data  disaggregated by  sex  is  collected,  analyzed,  and reported  on 
+wherever relevant and will allow to monitor women’s participation in all construction and capacity-
+building activities supported by the project. Progress reports on the implementation of the GAP 
+will  be  submitted  to  ADB  at  least  on  a  semi-annual  basis  using  the  GAP  progress  monitoring 
+template as part of the quarterly progress report. Participatory monitoring of project impacts will 
+be implemented at the mid-term of the project and this will include focus group discussions and 
+interviews with women and adolescent girls who are direct beneficiaries of activities supported by 
+the project to obtain both quantitative and qualitative data.   
+C. 
+Evaluation 
+81. 
+An  inception  mission  will  be  scheduled  shortly  after  loan  effectiveness.  Implementation 
+review missions will be held every three to six months. A midterm review is tentatively scheduled 
+for end of 2020. Within 6 months of physical completion of the Project, the executing agency will 
+submit a project completion report to ADB. 
+28   ADB's project performance reporting system is available at  
+  http://www.adb.org/Documents/Slideshows/PPMS/default.asp?p=evaltool 
+34 
+D. 
+Reporting 
+82. 
+The  executing  agency  will  provide  ADB  with  (i)  quarterly  progress  reports  in  a  format 
+consistent  with  ADB's  project  performance  reporting  system;  (ii)  consolidated  annual  reports 
+including  (a)  progress  achieved  by  output  as  measured  through  the  indicator's  performance 
+targets,  (b)  key  implementation  issues  and  solutions,  (c)  updated  procurement  plan,  and  (d) 
+updated  implementation  plan  for  the  next  12  months;  (iii)  semi-annual  safeguards  monitoring 
+reports (one for environment and one for involuntary resettlement); and (iv) a project completion 
+report  within  6  months  of  physical  completion  of  the  project.  To  ensure  that  the  Project  will 
+continue  to  be  both  viable  and  sustainable,  Project  accounts  and  the  EA’s  audited  financial 
+statement  together  with  the  associated  auditor's  report,  should  be  adequately  reviewed.  An 
+outline of quarterly report progress format is in Appendix 2. 
+E. 
+Stakeholder Communication Strategy  
+83. 
+The project will comply with the policy of transparency and accountability of the ADB Public 
+Communications Policy (PCP) 2011 and –beginning 1 January 2019– the Access to Information 
+Policy (AIP). To do so, it will establish a communications strategy that will ensure an efficient and 
+continuous  two-way  communication  about  ADB  projects  with  stakeholders  with  a  focus  on 
+managing stakeholders’ expectation during all phases of the project implementation. The strategy 
+will follow the following approaches: 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+Stakeholders. Critical stakeholders for the project include people affected by the 
+disasters, project-affected persons in general, and women and vulnerable groups. 
+Other key stakeholders include but are not limited to executing and implementing 
+agencies,  government  officials  at  national  and  sub-national  levels,  interested 
+community-based organizations, interested civil society organizations, interested 
+private  sector  entities,  and  interested  development  partners  especially  those 
+working on the rehabilitation and reconstruction of the area;  
+Disclosure.  PMUs  and  PIU  will  disclose  on  their  respective  websites  all  key 
+project-related information, including the scope, cost, and financial and institutional 
+arrangements of the project, project safeguard reports, project progress such as 
+procurement  and  contract  award,  and  the  audited  financial  project  financial 
+statements.  The  project  will  also  provide  contact  details  on  the  PMU  and  PIUs 
+counterpart staff; 
+Communication  focal  point.  PMUs  and  PIUs  will  be  responsible 
+for 
+implementation and monitoring of information dissemination and disclosure of the 
+project’s components. PMUs and PIUs shall also designate a focal point to identify, 
+strategize, and coordinate such implementation and monitoring as well as being 
+the custodian of all project’s information; 
+Awareness-raising  materials.  The  project  will  at  the  minimum  prepare:  (a)  a 
+Project Fact Sheet or Project Information Booklet which contains details such as 
+project’s  objectives,  components,  activities,  timeline,  the focal  point’s  name  and 
+contact  details,  and  grievance  redress  mechanism;  (b)  a  Project  Brief  which 
+summarizes all the project’s details in a simple language and utilizing stories and 
+infographics targeting a wider group of audience, including the poor and women. 
+Both  documents  will  be  made  in  Indonesian  and  English  languages  and  will  be 
+available  for  public  in  print  at  the  project  information  desk,  distributed  during  all 
+35 
+(v) 
+stakeholders’  consultations  and  outreach  activities,  and  posted  online  on  ADB 
+website.  Other  information  materials  may  be  developed  for  distinct  stakeholder 
+groups; 
+Channels.  For  an  effective  dissemination  and  efficient  use  of  resources, 
+collaboration  with  other  readily  available  channels  should  be  highly  prioritized, 
+including but not limited to government websites both at national and subnational 
+levels; government social media accounts; and ADB website and its other online 
+platforms. All online platforms will be optimally utilized to ensure unrestricted public 
+access  to  information  and  documents  repository.  Meanwhile,  conventional 
+methods  will  remain  be  used  as  appropriate  to  ensure  that  all  interested 
+stakeholders have access to information, including but not limited to: setting up a 
+project  information  desk  at  a  designated  spot  in  the  project  area;  face-to-face 
+communications  during  stakeholders’  consultations  and  outreach;  setting  up 
+project signage at the areas of civil works; displaying posters and banners at the 
+relevant government offices; making project fact sheets and brief available at these 
+offices;  and  re-using  project  information  as  interview  materials,  articles,  and 
+advertorials in media. The project will explore partnership with national and local 
+print,  electronic  and  digital  media  organizations 
+to  disseminate  project’s 
+information.  The  project  will  also  proactively  seek  opportunities  to  participate  in 
+local community activities and provide information about the projects; 
+(vi) 
+Coordination.  The  project  through  the  focal  point  will  coordinate  with  relevant 
+government agencies and development partners particularly those working on the 
+rehabilitation  and  reconstruction  of  the  area  to  ensure  effective  communication 
+effort by avoiding overlaps and identity potential collaboration if possible.  
+84. 
+This strategy will be presented in detail as a project’s communications strategy matrix of 
+the government and ADB. The matrix will outline project’s communications context and outcomes, 
+objectives, key messages, specific channels and activities, timeline of delivery, work responsibility 
+and resource allocation. 
+X. 
+ANTICORRUPTION POLICY 
+85. 
+ADB reserves the right to investigate, directly or through its agents, any violations of the 
+Anticorruption  Policy  relating  to  the  EARR. 29  All  contracts  financed  by  ADB  shall  include 
+provisions  specifying  the  right  of  ADB  to  audit  and  examine  the  records  and  accounts  of  the 
+executing agency and all project contractors, suppliers, consultants, and other service providers. 
+Individuals and/or entities on ADB’s anticorruption debarment list are ineligible to participate in 
+ADB-financed activity and may not be awarded any contracts under the EARR. 30  
+To support these efforts, relevant provisions are included in the loan agreement and the 
+86. 
+bidding documents for the EARR.  
+XI. 
+ACCOUNTABILITY MECHANISM 
+87. 
+People  who  are,  or may  in the future  be,  adversely  affected  by the  project  may  submit 
+complaints  to  ADB’s  Accountability  Mechanism.  The  Accountability  Mechanism  provides  an 
+29 Anticorruption Policy: http://www.adb.org/Documents/Policies/Anticorruption-Integrity/Policies-Strategies.pdf 
+30  ADB's Integrity Office web site: http://www.adb.org/integrity/unit.asp 
+36 
+independent forum and process whereby people adversely affected by ADB-assisted projects can 
+voice,  and  seek  a  resolution  of  their  problems,  as  well  as  report  alleged  violations  of  ADB’s 
+operational  policies  and  procedures.  Before  submitting  a  complaint  to  the  Accountability 
+Mechanism, affected people should try in good faith to solve their problems by working with the 
+concerned  ADB  operations  department.  Only  after  doing  that,  and  if  they  are  still  dissatisfied, 
+should they approach the Accountability Mechanism. 31 
+XII. 
+RECORD OF CHANGES TO THE PROJECT ADMINISTRATION MANUAL  
+88. 
+The PAM will be subject to change after ADB Board approval of the project and during the 
+period of project implementation. All revisions and updates of the PAM made should be recorded 
+in  this  section  to  provide  a  chronological  history  of  the  changes  to  the  implementation 
+arrangements recorded in PAM. 
+31 Accountability Mechanism. http://www.adb.org/Accountability-Mechanism/default.asp.   
+Appendix 1     37 
+PROFILES OF POTENTIAL SUBPROJECT UNDER OUTPUTS 1 AND 2 
+Output  
+Subproject  
+Agency in 
+charge 
+Human settlement infrastructure constructed, rehabilitated, and 
+upgraded 
+Reconstruction of Islamic University of Palu  
+Central Sulawesi Settlement Infrastructure Agency with support from Center of 
+Educational,  Sport,  Market  Facilities  and  Building  Arrangement,  Directorate 
+General Human Settlements 
+Description  
+Preparation 
+The EARR will finance the rehabilitation and reconstruction of academic facilities 
+to include classrooms, laboratories, teachers’ room, and auditorium of IAIN Palu. 
+It supports the development of “green belt” along the beach within the campus 
+area, which is categorized as “red zone”. This green belt will be integrated with 
+the dikes to protect from tsunami. The university currently serve 7,691 students 
+(2,657  male  and  5,034  female),  and  employs  159  academic  staff  and  57 
+administrative staff.  About 80% of the campus facilities were severely damaged 
+due to the earthquake and tsunami. 
+•  The MPWH Central Sulawesi Task Force has assigned consultants to prepare 
+initial  plan  for  reconstruction  and  rehabilitation  of  the  campus  building  and 
+facilities financed by the government; 
+•  Ministry  of  Religious  Affairs  has  initiated  to  build  a  campus  office  which  is 
+considered urgent to ensure the academic activities running; 
+•  Site plan has been developed and agreed among stakeholders. The plan will 
+include  an  open  space  for  green  belt  approximately  100  m  from  the  beach 
+line; where the existing buildings in this area will be demolished; 
+•  Architectural  plan  has  been  prepared.  The  campus  building  will  include  an 
+auditorium which will be functioned as tsunami shelter. Detail design will be 
+prepared further, based on the agreed EARR’s scope. 
+•  TOR for the DED consultant has been drafted. 
+•  The design of the buildings will include “open space” at the ground floor, 
+which will function as common area. There is no brick wall in the ground 
+floor, to minimize risk from tsunami hazards; 
+•  The campus will provide facilities for tsunami shelter, which functions as the 
+Proposed 
+enhancements 
+save place for people to gather if tsunami happens; 
+•  The campus will provide more open and green space along the beach line 
+to reduce the risks from tsunami hazards;  
+•  The new buildings will adopt earthquake resistance standard; (b) the site 
+plan will adopt an integrated and green campus design features. 
+38 
+Appendix 1 
+Output  
+Subproject  
+Agency in 
+charge 
+Human settlement infrastructure constructed, rehabilitated, and upgraded 
+Water Supply and Distribution Network System  
+Central Sulawesi Settlement Infrastructure Agency with support from Directorate 
+of  Settlement  Infrastructure  Integration  Directorate  of  Water  Supply  System 
+Development  
+Description  
+Preparation 
+Proposed 
+enhancements 
+the  construction  of  up 
+The project will finance upgrading of up to 100 kilometers of water distribution 
+pipelines  and 
+to  300-kilometer  new  pipelines.  
+Furthermore, the project will finance the construction of a new Water Treatment 
+Plant  with  a  capacity  of  250  liters  per  second  as  well  as  23,000  household 
+connection in area affected by liquefaction and 12,000 household connection in 
+new Palu relocation sites.  
+Up to 35,000 households will benefit from the subproject.  
+With  proceed  from  L3455:  Accelerating  Infrastructure  Delivery  through  Better 
+Engineering Services Project, the Directorate of Water Supply, Ministry of Public 
+Works and Housing will recruit engineers to redesign the central Sulawesi water 
+supply system through a staged approach: (i) master planning to water supply 
+system,  (ii)  LIDAR  surveys,  and  field  investigation  ;  (ii)  Feasibility  study;  (iii) 
+Detail Engineering Design. The planning will incorporate plans for water supply 
+to new Palu relocation sites and will work closely with the Directorate General 
+for Water Resource to ensure sufficient water resources. The L3455 consultants 
+will  also  prepare  social  and  environment  safeguards  document,  and  bidding 
+documents as per ADB’s requirements.  
+The  team  will  ensure  that  disaster  countermeasures  are  embedded  into  the 
+detailed design especially liquefaction and seismic countermeasures. 
+To anticipate the  engineering designs to be financed  under  L3455,  a team of 
+individual  consultants  has  been  mobilized  since  March  2019  to  support  the 
+design of the investments.  
+a.  At planning stage, the subproject will develop a master plan to integrate 
+infrastructure, institutional and urban development, considering smart water 
+supply systems for improved operation and maintenance in a 
+comprehensive way.  
+b.  To address future disasters, the subproject will develop standard operation 
+procedure for quick response to the local water utilities (PDAMs) to 
+minimize water shortage after disasters.  
+c.  PDAMs will be strengthened to better design resilient infrastructure, 
+improve operation and maintenance (O&M) of assets, and stay equipped 
+with appropriate instruments for managing water flows across the river 
+basin 
+Appendix 1     39 
+Output  
+Subproject  
+Agency in 
+charge 
+Water resource infrastructure constructed, rehabilitated, and upgraded 
+Gumbasa irrigation system 
+Balai Wilayah Sungai Sulawesi III 
+The  project  will  finance  reconstruction  and  upgrading  of  the  5,500  ha  of  the 
+Gumbasa  irrigation  system.  This  includes  main  canal  works  (26.5  km),  12 
+Secondary canals (48.5 km), diversion gates and other associated facilities. 
+Description  
+This  will  be  complemented  by  downstream  works  proposed  under  JICA 
+financing.  
+Around  5,000  farmers  without  access  to  irrigation  water  will  benefit  from  the 
+subproject.  
+With  proceed  from  L3455:  Accelerating  Infrastructure  Delivery  through  Better 
+Engineering  Services  Project,  the  Directorate  of  Irrigation  and  Low  Land, 
+Ministry  of  Public  Works  and  Housing  will  recruit  engineers  to  redesign  the 
+Gumbasa irrigation system through a staged approach: (i) master planning to 
+integrated  infrastructure,  institutional  and  agriculture  development,  (ii)  LIDAR 
+surveys,  and  field  investigation;  (ii)  Feasibility  study;  (iii)  Detail  Engineering 
+Design. The planning  will incorporate agriculture development to complement 
+infrastructure  works.  The  consultant  will  also  prepare  social  and  environment 
+safeguards document, and bidding documents as per ADB’s requirements.  
+Preparation 
+The JICA specialists will work closely with the DILL team to ensure that disaster 
+countermeasures are embedded into the detailed design especially liquefaction 
+and seismic countermeasures. 
+To  complement  the  engineering  works  to  be  financed  under  L3455,  and  to 
+ensure  that  aquifer  interaction  with  the  Gumbasa  system  will  not  lead  to 
+liquefaction, it is proposed to mobilize Swiss researchers to conduct a detailed 
+study on the aquifer and its dynamic. The National Research Center for Water 
+Resources 
+(PUSAIR)  conducted  surveys  and  prepare  a  preliminary 
+hydrodynamic  model  for  the  aquifer.  Further  analysis  is  needed  to  better 
+understand the aquifer dynamic due to ground movement around the canal and 
+infiltration 
+liquefaction 
+from 
+countermeasures. 
+the  canal  system,  and 
+formulate 
+to 
+Proposed 
+enhancements 
+a.  At planning stage, the subproject will develop a master plan to integrate 
+infrastructure, institutional and agriculture development, considering smart 
+agriculture, access to market and improved operation and maintenance in a 
+comprehensive way for improved farmers livelihood.  
+b.  To reduce infiltration of irrigation water from the channel and paddy-fields 
+into the aquifer, the subproject will consider: (i) Horizontal wells and 
+intercepting drain; (ii) Concrete lining of the channels; (iiI) Deep wells. 
+c.  To address future disasters, the subproject will develop standard operation 
+procedure for quick response to farmers to minimize water shortage after 
+disasters.  
+d.  The river basin organization will be strengthened to better design resilient 
+infrastructure, improve operation and maintenance (O&M) of assets, and 
+stay equipped with hydrometeorological instruments for managing water 
+flows across the river basin 
+Output  
+Subproject  
+Water resource infrastructure constructed, rehabilitated, and upgraded 
+PASIGALA raw water supply system restored 
+40 
+Appendix 1 
+Agency in 
+charge 
+Description  
+Preparation 
+Proposed 
+enhancements 
+Balai Wilayah Sungai Sulawesi III 
+The project will finance reconstruction and upgrading of the PASIGALA raw 
+water supply (RWS) system. It will be synchronized with water treatment and 
+distribution  (WTD)  works  proposed  under  output  1.  The  subproject  will 
+restore the 42 km long pipe, the construction of the Wuno weir and PANEKI 
+intake. The PASIGALA raw water supply system fully restored and upgraded 
+will serve 52,000 households through 2040.   
+Asset will be inventoried, and O&M plan developed. 
+With proceed from L3455: Accelerating Infrastructure Delivery through Better 
+Engineering  Services  Project,  the  Center  for  Ground  and  Raw  Water 
+(PUSATAB), Ministry of Public Works and Housing will recruit engineers to 
+redesign  the  PASIGALA  RWS  system  and  associated  facilities  through  a 
+staged approach: (i) master planning to integrated infrastructure, institutional 
+and WTD development, (ii) Feasibility study; (iii) Detail Engineering Design. 
+The  consultant  will  also  prepare  social  and  environment  safeguards 
+document, and bidding documents as per ADB’s requirements.  
+The JICA specialists will work closely with the PUSATAB team to ensure that 
+disaster countermeasures are embedded into the detailed design especially 
+liquefaction and seismic countermeasures. 
+The subproject will ensure close coordination with the Directorate General of 
+Human Settlement to synchronize WTD works.  
+a.  The subproject will consider earthquake proof material for the piping 
+system, the intake and other facilities 
+b.  To address future disasters, the subproject will develop standard 
+operation procedure for quick response to minimize water shortage after 
+disasters.  
+c.  Smart water supply management (decision support system) might be 
+considered under KOICA financing 
+d.  The river basin organization will be strengthened to better design 
+resilient infrastructure, improve operation and maintenance (O&M) of 
+assets, and stay equipped with hydrometeorological instruments for 
+managing water flows across the river basin 
+Appendix 1     41 
+Output  
+Subproject  
+Agency in 
+charge 
+Description  
+Preparation 
+Proposed 
+enhancements 
+Water resource infrastructure constructed, rehabilitated, and upgraded 
+Coastal protection in Palu City reconstructed 
+Balai Wilayah Sungai Sulawesi III 
+The project will finance reconstruction of around 7 km of coastal infrastructure 
+to protect around 10,000 households in the area prone to tidal floods. 
+The subproject will be synchronized with the tsunami dyke under the Directorate 
+General of Highway, proposed for JICA financing. Asset will be inventoried and 
+O&M plan developed. 
+With proceed from L3440: Flood Management in Selected River Basins Sector 
+Project,  the  Directorate  of  River  and  Coastal,  Ministry  of  Public  Works  and 
+Housing  prepared  the  detailed  engineering  design.  Several  workshops  with 
+coastal management and tsunami experts confirmed the design. 
+a.  The design considers potential earthquake and tsunami  
+b.  To address future disasters, the subproject will develop standard operation 
+procedure for quick response to minimize tidal damage after disasters.  
+c.  Government of the Netherlands has been providing technical expertise to 
+further proof the design. The report is being prepared.  
+d.  The river basin organization will be strengthened to better design resilient 
+infrastructure, improve operation and maintenance (O&M) of assets, and 
+stay equipped with hydrometeorological instruments for managing water 
+flows across the river basin 
+42 
+Appendix 1 
+Output  
+Subproject  
+Agency in 
+charge 
+Water resource infrastructure constructed, rehabilitated, and upgraded 
+Capacity building for resilient water resources infrastructure  
+Balai Wilayah Sungai Sulawesi III 
+To  complement  investments  in  resilient  infrastructure,  the  project  will  strengthen 
+the capacity of the river basin organization to better design and manage resilient 
+infrastructure. The project will:  
+-  Mobilize a pool of experts (coastal, irrigation, geotechnical, liquefaction, 
+groundwater etc) to advise the RBO in subproject design. 
+Description  
+-  Provide exposure to international best practices in designing and managing 
+resilient water resources assets, such as in Japan 
+-  Prepare guidelines to design and manage water resources resilient 
+infrastructure 
+-  Prepare disaster response operation guidelines for Central Sulawesi  
+Appendix 2     43 
+OUTLINE QUARTERLY PROGRESS REPORT  
+All information will be provided for quarter preceding issuance of report.  
+Section A: Implementation Progress  
+1.  General data on progress in implementation  
+2.  Problems encountered and resolved  
+3.  Other issues pending  
+4.  Other information or data relevant for project  
+5.  Safeguard compliance on projects 
+6.  GAP implementation progress 
+7.  Risk mitigating action plan implementation progress  
+8.  Updated implementation progress  
+Section B: Procurement Information  
+1.  Detailed report on procurement activities  
+a.  Status of bidding documents  
+b.  Status of bids in progress  
+c.  Contracts awarded  
+d.  Contracts closed  
+e.  Contracts with issues  
+2.  Procurement plan for next quarter (or updated procurement plan spreadsheet) 
+Section C: Financial Information  
+1.  Disbursement status  
+2.  Special account status  
+3.  Loan and Grant commitments  
+4.  Contract payments  
+5.  Status of audits  
+6.  Other financial management issues 
+Section D: Other Information  
+1.  Major/minor change in scope  
+a.  Cost escalations  
+b.  Revision in cost category  
+c.  Change in implementation procedures  
+2.  2 Major activities planned for next quarter 
+Attachments:  
+1.  PPR: The quarterly report will be accompanied by an updated Project Performance 
+Review (PPR) spreadsheet comprising (i) updated project implementation plan, (ii) 
+contract awards and disbursement graphs and (ii) contract awards and disbursement 
+plan. 
+2.  GAP: GAP monitoring will accompany the quarterly report and provide information on 
+progress achieved to meet each target identified in the GAP. 
+3.  Stakeholder Communication Strategy: At EARR inception, the government and ADB 
+will agree on a strategy and action plan to disseminate information on the EARR’s 
+objective, outcome, and outputs. The quarterly report will provide details on activities 
+and progress towards EARR outcome
+44 
+Appendix 2 
+OUTLINE SUBPROJECT SUMMARY REPORT  
+i. FOREWORD  
+1 GENERAL  
+1.1 Project Background  
+1.2 Objectives and Scope of the Project  
+1.3 Objective and Scope of the SSR  
+1.4 Information Basis  
+2 PROFILE OF PROJECT AREA IN THE PRESENT SITUATION  
+2.1 General  
+2.2 Flooding  
+2.3 Hydrology  
+2.4 Soil and Land Use  
+2.5 Infrastructure  
+2.6 Socio-Economic Aspects  
+2.7 Climate Change  
+2.8 Determination of Flood Event and Flooding Situation  
+3 WORKS PROPOSED UNDER THE PROJECT  
+3.1 Project Objective  
+3.2 Scope of Work  
+A. Civil Works  
+B. Non-civil Works  
+3.3 Estimated Construction/Implementation Cost of the Proposed Works  
+3.4 Project Implementation  
+4 PROJECT IMPACT  
+4.1 Future “Without-the-Project” Situation  
+4.2 Project Beneficiaries  
+4.3 Project Benefits  
+4.3.1 Direct Benefits  
+4.3.2 Indirect Tangible Benefits  
+4.3.3 Intangible Benefits  
+4.3.4 Summary of Project Benefits  
+4.4 Social Impact  
+4.5 Environmental Impact  
+5 ECONOMIC ANALYSIS  
+5.1 Cost-Benefit Analysis  
+5.1.1 Project Economic Costs and Benefits  
+5.1.2 Economic Evaluation  
+5.2 Sensitivity Analysis  
+6 CONCLUSIONS AND RECOMMENDATIONS 
+CONTRACT AWARD AND DISBURSEMENT PLAN 
+A. 
+Project - to - Date Contract Awards and Disbursement 
+Appendix 3     45 
+ 200.00
+ 180.00
+ 160.00
+ 140.00
+ 120.00
+ 100.00
+ 80.00
+ 60.00
+ 40.00
+ 20.00
+ -
+n
+o
+l
+l
+i
+M
+$
+Award
+Disbursement
+Year  
+Contract Awards (in USD million) 
+2019 
+2020 
+2021 
+2022 
+2023 
+Q1 
+0.00 
+36.26 
+188.00 
+188.00 
+188.00 
+Q2 
+0.00 
+102.44 
+188.00 
+188.00 
+Q3 
+0.15 
+149.78 
+188.00 
+188.00 
+- 
+- 
+Q4 
+36.26 
+188.00 
+188.00 
+188.00 
+- 
+Note: Numbers may not tally due to rounding. 
+Disbursements (in USD million) 
+Q1 
+Q2 
+0.00 
+6.66 
+119.61 
+184.02 
+188.00 
+0.00 
+23.60 
+Q4 
+Q3 
+3.31 
+0.02 
+85.10 
+49.03 
+144.67  171.22  180.49 
+187.55  188.00  188.00 
+- 
+- 
+- 
+B. 
+Year - to - Date Contract Awards and Disbursement 
+Award
+Disbursement
+n
+o
+l
+l
+i
+M
+$
+ 70.00
+ 60.00
+ 50.00
+ 40.00
+ 30.00
+ 20.00
+ 10.00
+ -
+Year 
+to 
+Date 
+2019 
+2020 
+2021 
+2022 
+2023 
+Contract Awards (in USD million) 
+Disbursements (in USD million) 
+Q1 
+Q2 
+Q3 
+Q4 
+Total 
+Q1 
+Q2 
+Q3 
+Q4 
+Total 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+66.18 
+0.00 
+0.00 
+0.00 
+0.15 
+47.34 
+0.00 
+0.00 
+0.00 
+36.26 
+151.74 
+0.00 
+0.00 
+0.00 
+Total Contract Awards: 188.00 
+36.11 
+38.22 
+0.00 
+0.00 
+0.00 
+0.00 
+3.35 
+34.51 
+3.53 
+0.00 
+0.00 
+16.94 
+25.06 
+3.53 
+0.00 
+0.02 
+25.43 
+26.55 
+0.45 
+0.00 
+3.30 
+36.07 
+9.28 
+0.00 
+0.00 
+3.31 
+81.79 
+95.39 
+7.51 
+0.00 
+Total Disbursement: 188.00 
+Note: Numbers may not tally due to rounding. 
+46 
+Appendix 4 
+PROCUREMENT PLAN 
+Basic Data 
+Project Name: Emergency Assistance for Rehabilitation and Reconstruction 
+Project Number: 53216-001 
+Approval Number:  
+Country: Indonesia 
+Project Procurement Classification: A 
+Procurement Risk: Medium 
+Project Financing Amount: $235.45 million 
+ADB Financing: $188 million 
+Non-ADB Financing: $47.45 million 
+Executing Agencies: Ministry of Public 
+Works and Housing  
+Implementing  Agencies:  Directorate  General 
+of Human Settlements (Output 1), Directorate 
+General of Water Resources (Output 2)  
+Project Closing 30 September 2023 
+Date of First Procurement Plan: 23 May 2019 
+Date of this Procurement Plan: 23 May 2019 
+Procurement Plan Duration: 18 months  
+Advance contracting: Yes 
+eGP: Yes  
+A.  Methods, Review and Procurement Plan 
+Except as the Asian Development Bank (ADB) may otherwise agree, the following methods shall 
+apply to procurement of goods, works, non-consulting services, and consulting services.  
+Method 
+OCB (Open Competitive 
+Bidding) for Works 
+OCB (Open Competitive 
+Bidding) for Goods 
+RFQ (Request for Quotation) 
+Applicability 
+Default 
+method 
+Procurement of Goods, Works, and Non-consulting Services 
+Comments 
+Prior review will be applied for the first OCB national, and large 
+works contracts. Post review (sampling) for the remaining 
+packages. 
+Prior review will be applied for the first OCB national and large 
+goods contracts. Post review (sampling) for the remaining 
+packages. 
+Post Review 
+Default 
+method 
+Up to 
+$100,000 
+Consulting Services 
+Quality and Cost Based Selection (QCBS) 
+Method 
+ Individual Consultant Selection (ICS) 
+Resource Person (RP) 
+Comments 
+Default method, for consulting team contracts that do not meet 
+the criteria of other selection methods.   
+For individual consultant contract. 
+For panel of experts 
+B.  List of Active Procurement Packages (Contracts) 
+The  following  table  lists  goods,  works  and  consulting  services  contracts  for  which  the 
+procurement activity is either ongoing or expected to commence within the procurement plan 
+duration. 
+Goods and Works 
+Appendix 4     47 
+Procurement 
+Method 
+Review 
+Bidding 
+Procedure 
+Advertisement 
+Date 
+Comments 
+Package 
+Number 
+General 
+Description 
+CW 
+University 
+Works- 
+Reconstruction of 
+Islamic University of 
+Palu 
+Estimated 
+Value 
+($ million) 
+net of VAT 
+6.93 
+OCB 
+28.71 
+OCB 
+CW 
+Water 
+Supply 
+System 
+(Multiple 
+contracts) 
+Works -
+Rehabilitation and 
+construction of 
+water supply system 
+(including 
+distribution networks 
+for Palu and Sigi 
+and construction of 
+WTP)  
+CW 
+Irrigation 
+(Multiple 
+contracts) 
+Works – 
+Reconstruction and 
+modernization of 
+Gumbasa irrigation 
+system 
+73.57 
+OCB 
+1S1E 
+Q4 2020 
+1S1E 
+Q3 2020 for the 
+first package 
+1S1E 
+Q3 2020 for the 
+first package 
+Prior review 
+if the first 
+OCB of the 
+procurement 
+working 
+group. 
+Otherwise, 
+post review 
+(sampling) 
+Prior review 
+if the first 
+OCB of the 
+procurement 
+working 
+group. 
+Otherwise, 
+post review 
+(sampling) 
+Prior review 
+if (i) the first 
+OCB of the 
+procurement 
+working 
+group or (ii) 
+large works 
+($40 million 
+and above) 
+contracts. 
+Post review 
+(sampling) 
+for the 
+remaining 
+packages. 
+Advertisement: 
+National,  
+Prequalification 
+of Bidders: No 
+Domestic 
+Preference 
+Applicable: No 
+Type of bidding 
+document: 
+ADB’s SBD 
+Small Works 
+Advertisement: 
+National,  
+Prequalification 
+of Bidders: No 
+Domestic 
+Preference 
+Applicable: No 
+Type of bidding 
+document: 
+ADB’s SBD 
+Large Works (if 
+the estimated 
+contract value is 
+above $10 
+million) or Small 
+Works (if less 
+than $10 million)  
+Advertisement: 
+National,  
+Prequalification 
+of Bidders: No 
+Domestic 
+Preference 
+Applicable: No 
+Type of bidding 
+document: 
+ADB’s SBD 
+Large Works (if 
+the estimated 
+contract value is 
+above $10 
+million) or Small 
+Works (if less 
+than $10 million)  
+48 
+Appendix 4 
+Goods and Works 
+Package 
+Number 
+General 
+Description 
+CW Raw 
+Water 
+(Multiple 
+contracts) 
+Works – Upgrading 
+of Raw Water 
+Supply System of 
+Wuno, PASIGALA, 
+and Paneki 
+Estimated 
+Value 
+($ million) 
+net of VAT 
+32.28 
+Procurement 
+Method 
+Review 
+Bidding 
+Procedure 
+Advertisement 
+Date 
+Comments 
+OCB 
+1S1E 
+Q3 2020 for the 
+first package 
+Advertisement: 
+National,  
+Prior review 
+if the first 
+OCB of the 
+procurement 
+working 
+group. Post 
+review 
+(sampling) 
+for the 
+remaining 
+packages. 
+Prior if the 
+first OCB of 
+the 
+procurement 
+working 
+group. 
+Otherwise, 
+post 
+(sampling).  
+CW River 
+and 
+Coastal  
+Works - Coastal 
+protection  
+23.43  
+OCB 
+1S1E 
+Q3 2019 
+EQ 01 
+Goods - 
+Hydrometeorological 
+and telemetric 
+equipment  
+0.36 
+RFQ 
+Post review 
+1S1E 
+Q1 2020 
+Prequalification 
+of Bidders: No 
+Domestic 
+Preference 
+Applicable: No 
+Type of bidding 
+document: 
+ADB’s SBD 
+Large Works (if 
+the estimated 
+contract value is 
+above $10 
+million) or Small 
+Works (if less 
+than $10 million)  
+Advertisement: 
+National,  
+Prequalification 
+of Bidders: No 
+Domestic 
+Preference 
+Applicable: No 
+Type of bidding 
+document: 
+ADB’s SBD 
+Large Works  
+Advertisement: 
+National,  
+Prequalification 
+of Bidders: No 
+Domestic 
+Preference 
+Applicable: No 
+Type of bidding 
+document: 
+ADB’s RFQ 
+Goods.  
+ 1S1E = single-stage: one-envelope, ADB = Asian Development Bank, OCB = open competitive bidding, PASIGALA = 
+Palu-Sigi-Donggala,  Q  =  quarter,  RFQ  =  request  for  quotations,  SBD  =  standard  bidding  documents,  WTP  =  water 
+treatment plant.  
+Appendix 4     49 
+Selection 
+Method 
+Review 
+Type of 
+Proposal 
+Advertisement 
+Date 
+Comments 
+QCBS 
+Prior 
+STP 
+Q2, 2019 
+Consulting Services 
+Package 
+Number 
+General 
+Description 
+CS 
+CPMU  
+Project 
+Management 
+Consultant to 
+Support 
+CPMU 
+Estimated 
+Value 
+($ million) 
+1.43 
+0.14 
+ICS 
+Prior 
+- 
+Q2, 2019 
+Individual 
+CPMU 
+Bridging 
+Consultants 
+for start-up 
+activities 
+(individual 
+consultants)  
+Experts 
+Panel 
+CPMU 
+CS  
+DGHS  
+Pool of experts   
+0.21 
+RP 
+Prior 
+- 
+Q2, 2019 
+2.45 
+QCBS 
+Prior 
+FTP 
+Q2 2019 
+Engineering 
+and 
+Management 
+Consultant to 
+Support PIU 
+DGHS 
+5.36  
+QCBS 
+Prior 
+FTP 
+Q2, 2019 
+CS 
+DGWR 
+Engineering 
+and 
+Management 
+Consultant to 
+Support PIU 
+DGWR 
+To be procured by Central 
+Procurement Agency of 
+MPWH 
+Advance procurement: Yes 
+Assignment/Advertisement: 
+International /National 
+eGP: SPSE ICB 
+To be procured by Central 
+Procurement Agency of 
+MPWH 
+Advance procurement: Yes 
+Assignment/Advertisement: 
+International /National 
+To be procured by Central 
+Procurement Agency of 
+MPWH 
+Advance procurement: No 
+Assignment/Advertisement: 
+International /National 
+To be procured by Regional 
+Procurement Agency of 
+Central Sulawesi 
+Advance procurement: Yes 
+Assignment/Advertisement: 
+International /National 
+eGP: SPSE ICB 
+To be procured by Regional 
+Procurement Agency of 
+Central Sulawesi 
+Advance procurement: Yes 
+Assignment/Advertisement: 
+International /National 
+eGP: SPSE ICB 
+CPMU = central project management unit, DGHS = Directorate General of Human Settlements, DGWR = Directorate 
+General  of  Water  Resources,  eGP  =  e-Government  Procurement,  FTP  =  full  technical  proposal,  ICS  =  individual 
+consultant selection, MPWH = Ministry of Public Works and Housing, PIU = project implementation unit, Q = quarter, 
+QCBS = quality- and cost-based selection, RP = resource person, SPSE ICB = electronic government procurement 
+system  which  is  formerly  dedicated  to  facilitate  international  competitive  bidding  of  consultant  recruitment,    STP  = 
+simplified technical proposal.  
+50     Appendix 5 
+Terms of Reference of Consultants 
+Appendix 5        51 
+TERMS OF REFERENCE 
+PROJECT MANAGEMENT CONSULTANT (PMC) 
+EMERGENCY ASSISTANCE FOR 
+REHABILITATION AND RECONSTRUCTION (EARR)  
+COMPONENT 1: PUBLIC WORKS INFRASTRUCTURE 
+A. 
+BACKGROUND 
+The Government of Indonesia with the support from the Asian Development Bank (ADB) 
+1. 
+is implementing the Emergency Assistance for Rehabilitation and Reconstruction (EARR). which 
+supports the government in rebuilding infrastructure damaged by devastating disaster events in 
+Central Sulawesi in September 2018. It will support rehabilitation and reconstruction of education 
+facilities, water supply treatment and distribution facilities, water resources infrastructure, ports, 
+and airport. All infrastructure will be built to higher standards of disaster resilience.   
+2. 
+The EARR has two components, the first component is under the Ministry of Public Works 
+and  Housing  and  the second  component  is  under  the  Ministry  of Transportation.   This  Project 
+Management Consultancy is intended to support the first component. 
+3. 
+Ministry of Public Work and Housing (MPWH) through the Directorate General of Water 
+Resources (DGWR)  is the  Executing  Agency  of  the  EARR  and  Directorate General  of  Human 
+Settlement (DGHS) and Directorate General of Water Resources (DGHS) are the Implementing 
+Agencies.  The Project Implementation Units (PIUs) are River Basin Organization (Balai Wilayah 
+Sungai)  Sulawesi  III  (BWSS  III)  and  Central  Sulawesi  Settlement  Infrastructure  Agency.    The 
+MPWH  will  establish  a  steering  committee  to  guide  and  monitor  the  EARR’s  overall 
+implementation and ensure that the Project can be completed on time and within the available 
+budget.  The DGWR has established a Central Project Management Unit (CPMU), headed by the 
+Director of Water Resources Development, which will have a Project Manager to be responsible 
+for managing the CPMU activities, project planning and implementation management, preparation 
+of  progress  reports,  and  ensuring  that  ADB  guidelines  are  complied.  The  CPMU  will  have  full 
+coordination with the PIUs in Central Sulawesi. 
+To support the CPMU, a qualified Project Management Consultant (PMC) team is sought 
+4. 
+to: (i)  provide day to day management support to the CPMU in leading and coordinate EARR 
+activities,  (ii)  closely  monitor  project  implementation  activities  and  provide  technical  and 
+management advice to the PIUs, (iii) assist the CPMU to determine annual works program, (iv) 
+ensure  compliance  with  loan  covenants,  ADB’s  policies,  social  and  environmental  safeguards 
+requirements,  procurement  procedures,  performance  indicators,  physical  achievements  and 
+expenditures and preparation, and (v) maintain EARR account, prepare withdrawal applications 
+(WA) including retention of supporting documents and submit the WAs (through MOF) to ADB (vi) 
+consolidate  quarterly  and  annual  reports,  including  safeguards  and  audited  annual  project 
+financial statements and ensure timely submission of various reports to all stakeholders including 
+ADB. 
+B. 
+PROJECT OVERVIEW 
+5. 
+The EARR is to be implemented over 3 years, from 2019 to 2022, with a project closing 
+on 30 April 2023. The EARR’s impact will be the socio-economic impact of disaster reduced in 
+line with the National Medium Term Development Plan (RPJMN).  The outcome will be people’s 
+access  to  resilient  and  inclusive  critical  infrastructure  restored.  The  EARR  has  the  following 
+outputs under component 1 public works infrastructure. It will apply a sector lending approach in 
+52       Appendix 5 
+selecting subprojects under each of the outputs. 
+6. 
+Output  1:  Human  settlements  infrastructure  rehabilitated  and  reconstructed. The 
+output will rehabilitate and/or reconstruct (i) education facilities; and (ii) water supply (treatment 
+and distribution facilities) infrastructure in Central Sulawesi. The facilities will be built back better 
+to higher standards of disaster resilience, which will ensure risks from future hazards are reduced 
+through structural design features, and at the same time non-structural measures such as disaster 
+preparedness plans are implemented. The output will ensure that sustainability plans are in place 
+and capacity of agencies strengthened to better manage water supply services. 
+7. 
+Output 2: Water infrastructure rehabilitated and upgraded. The output will (i) restore 
+the  Gumbasa  irrigation  system;  (ii)  restore  the  PASIGALA  raw  water  supply  system;  and  (iii) 
+construct  dykes  to  prevent  tidal  flooding  in  Central  Sulawesi.  Where  possible,  nature-based 
+solutions  will  be  promoted.  The  river  basin  organization  will  be  strengthened  to  better  design 
+resilient  infrastructure,  improve  O&M  of  assets,  and  stay  equipped  with  hydrometeorological 
+instruments for managing water flows across the river basin. 
+8. 
+Component 1 of EARR organization structure is presented in Figure 1. 
+Figure 1. EARR Organization Structure of MPWH Component 
+Appendix 5        53 
+C. 
+OBJECTIVE 
+9. 
+The  purpose  of  the  PMC  assignment  is  to  enhance  the  assurance  of  sound  project 
+implementation,  monitoring,  and  reporting  by  providing  management  support  to  the  CPMU  in 
+preparation, monitoring, evaluation, control and documentation of the implementation of EARR at 
+two  MPWH’s  PIUs.  A  national  consulting  firm  with  national  experts  who  have  intensive 
+experiences in project management of water supply and water resources infrastructure facilities 
+will  be  recruited.    Experience  in  managing  reconstruction  of  post  disaster  event  with  resilient 
+features will be an added value. 
+D. 
+SCOPE OF SERVICES 
+The PMC is responsible for carrying out all tasks to ensure successful implementation of 
+10. 
+the  EARR  throughout  the  whole  period  of  project  implementation.  The  PMC  will  prepare  all 
+necessary reports/analysis/documents as required to successfully manage the implementation of 
+the EARR as envisaged in the loan agreement and associated documents. Furthermore, the PMC 
+shall carry out other tasks related to the EARR based on the instructions of the CPMU. The PMC 
+shall  be  familiar  with  all  loan  documentation,  including  Project  Administration  Memorandum 
+(PAM) and preparatory work of the EARR. There will be 5 (five) core tasks of the PMC, i.e., (i) 
+planning, administration and management of the EARR project, (ii) technical and management 
+advice to the CPMU, PMUs and PIUs, (iii) ensuring compliance of the project implementation to 
+the  ADB  procurement  policies  and  safeguards  guidelines  and  requirements,  and  relevant 
+government regulations, (iv) reporting, (v) monitoring and evaluation.  
+11. 
+The services to be provided by the PMC include, but are not limited to, the following: 
+(i) 
+fully  complied.  Coordinate 
+Proactively assist the CPMU in day-to-day project management and coordination 
+with the respective PMUs, PIUs and local governments to create synergies and 
+expedite the EARR implementation. 
+Help CPMU, PMUs and PIUs to ensure that all loan covenants and EARR Design 
+and  Monitoring  Frameworks  (DMF)  are 
+the 
+stakeholders  and  partners  at  national  and  local  levels  to  create  synergies  and 
+expedite the EARR implementation. 
+Assist CPMU, PMUs and PIUs to ensure that the implementation of procurement, 
+integrity/anti-corruption, social safeguards, environment and gender activities are 
+complied with the requirements stipulated in the loan documentation. Proactively 
+provide advices and take actions on any procurement and safeguard compliance 
+issues. The aim is to provide quality procurement and safeguard support, reduce 
+safeguard  and  end-to-end  procurement  time  and  improve  the  delivery  of  EARR 
+outputs; 
+Review  the  submitted  project related  documents from  PIUs  and  ensure that the 
+documents fully meet with the requirements and are complied with ADB guidelines 
+and  government  regulations  prior  to  further  submission  to  the  respective 
+stakeholders. 
+Review bid evaluation and consultant selection reports, prior to the submission to 
+ADB. Ensure quality of the procurement document. 
+Prepare and maintain project master schedule for overall EARR implementation. 
+Proactively monitor and take actions promptly if any issue which will cause delayed 
+implementation. 
+Based on the available  S Curve of the EARR, prepare annual budget allocation 
+planning on a timely manner in accordance with the government’s budgeting cycle. 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+(vii) 
+(viii)  Prepare consolidated contract awards and disbursement projections. 
+54       Appendix 5 
+(x) 
+(ix) 
+(xi) 
+Support the CPMU to ensure that the provision of funds is provided timely, loan 
+finance  is  managed  appropriately,  withdrawal  application  is  processed  properly, 
+financial reports is delivered timely, and EARR assets are registered completely in 
+the government asset information system.  
+Establish  and  maintain  a  Geographic  Information  System  (GIS)-based  project 
+performance monitoring system (PPMS) to monitor progress of the EARR. Align 
+the PPMS with the MPWH e-monitoring system.   
+Deliver high quality reports in accordance with reporting requirements stipulated in 
+the loan documentation, including progress, bi-annual environmental safeguards 
+monitoring, social safeguard, gender, financial, and project completion reports and 
+submit the reports timely to respective stakeholders, including to ADB.  Prepare 
+draft  consolidated  financial  reports  for  external  auditing  purposes.  Ensure 
+disclosure requirements are complied with. 
+Establish  communication  and  information  channel  of  EARR  activities  to  all 
+stakeholders and update it regularly. 
+(xiii)  Assist CPMU in managing panel of experts. 
+(xiv)  Assist CPMU and PMUs in planning and organizing capacity building for resilient 
+infrastructure, taken into consideration introduction of innovative/new technologies 
+and nature-based solution.  
+(xii) 
+E. 
+STAFFING 
+12. 
+The PMC is required to provide inputs as indicated in Table 2 below. The list of experts 
+provided  hereunder  is  indicative  and  the  PMC  may  include  additional  experts  that  may  be 
+required to successfully complete the assignment. The tasks for each expert shall be read in 
+conjunction with the Scope  of Services. However, the tasks for individual specialists and the 
+scope of services are not exhaustive, and the PMC will be required to carry out such additional 
+tasks that are relevant and incidental for successful implementation of EARR. 
+Table 2: Indicative Consultant Inputs 
+Team Compositiona  
+Person- 
+months 
+Key experts 
+1. Water Resources Management Specialist/Team Leader 
+2.  Water Supply System (WSS) Specialist/Co Team Leader 
+3.  Financial Management Specialist 
+4.  Procurement and Contract Specialist 
+5.  Gender Specialist 
+6. Social Safeguard Specialist 
+7.  Environmental Safeguard specialist   
+8. Monitoring and Evaluation specialist 
+9. Communication and Media Specialist 
+36 
+36 
+30 
+24 
+30 
+30 
+24 
+30 
+18 
+Sub-total (Key experts)                                                                            258 
+Non-key experts 
+10. Financial Management Assistant  
+11. GIS Database Assistant 
+Sub-total (Non-key experts) 
+Total Key and Non-key experts 
+a All are national positions. 
+Appendix 5        55 
+30 
+30 
+60 
+318 
+13. 
+Only the CVs of key experts will be scored as part of the technical evaluation of proposals. 
+The CVs of non-key experts will not be scored; however, the selection committee will review and 
+individually approve/reject each CV for each position in the proposal. 
+14. 
+budgeted in the financial proposal. 
+All positions under the contract, key as much as non-key experts, must be included and 
+F. 
+QUALIFICATIONS AND TASKS OF KEY-EXPERTS AND NON-KEY EXPERTS 
+15. 
+The qualifications and tasks of the key and non-key experts are as follows: 
+(i) 
+includes  ensuring  procurement, 
+Senior Water Resources Management Specialist as Team Leader  
+The team  leader  will  represent  the  PMC  in  all  contract-related matters, such  as 
+technical tasks, quality control, contractual, personnel, scheduling, and technical 
+performance  issues.  S/he  will  be  responsible  for  overall  co-ordination  of  team 
+activities  and  will  be  directly  responsible  to  the  CPMU  Manager.  The  main 
+responsibility  will  be  to  do  quality  assurance  and  to  help  CPMU  in  leading  and 
+coordinating the EARR activities and ensure that EARR can be completed on time 
+and within the available budget. The team leader should be proactive in updating 
+project costs regularly and identify any possible loan savings or shortfalls as early 
+as possible. S/he will have overall responsibility in technical advisory, management 
+and  monitoring  all  tasks  under  the  contract,  setting  up  technical  guidance  and 
+standards  as  necessary.  This 
+financial 
+management and safeguards are properly implemented, based on the advice of 
+the respective specialists. The Team Leader should possess good communication 
+skills in English and Bahasa (written and oral), strong organization skills and ability 
+to work in a team-oriented, dynamic and diverse environment and multidisciplinary 
+team. 
+The  specialist  will  preferably  have  a  postgraduate  degree  in  water  resources 
+engineering  or  civil  engineering  with  relevant  experience  in  managing  foreign 
+assisted  projects.  S/he  will  have  experience  of  a  minimum  15  years  in  water 
+resources infrastructure project and of a minimum 10 years in leadership position 
+and  should  be  fluent  in  English,  both  oral  written.    Consultant  holding  any 
+certification as a water resources expert issued by relevant professional institution 
+will be a merit.   
+The tasks of Team Leader shall include, but not be limited to, the following: 
+a) 
+Maintain  close  contact  with  CPMU,  PMUs,  PIUs,  EMCs  and  other 
+stakeholders  particularly  at  central  level  such  as  National  Development 
+Planning  Ministry  (BAPPENAS),  Ministry  of  Finance  (MOF)  and  other 
+56       Appendix 5 
+components of MPWH and ADB, to ensure that the EARR is implemented 
+smoothly and timely; 
+Facilitate  overall  coordination  among  government  institutions  at  central 
+and local levels to ensure successful implementation of the EARR; 
+Identify tasks on the critical path, timely mobilize the team members and 
+ensure  that  their  implementation  schedules  suit  the  EARR  overall 
+implementation plan; 
+Lead  the  consultant  team  in  coordination  of  inputs  and  management  of 
+individual specialists in respect to their responsibilities; 
+Coordinate  EARR  activities  to  ensure  optimal  and  effective  utilization  of 
+resources; 
+Provide  technical  guidance  to  all  members  of  the  team.  Brief  team 
+members on (a) quality management, (b) safety and security issues, and 
+(c)  integrity  and  professional  conduct,  and  keep  the  team  updated  on 
+changes in the operating environment or procedures; 
+Providing advice to EMC and implementing contractors, both technical and 
+management to meet build back better; 
+Establish  and  implement  a frame  work for  a quality  management  control 
+system for EARR activities; 
+Establish reporting formats and forms for project progress reports; 
+Help the CPMU to prepare project reporting and ensure timely delivery of 
+specified reports in a format acceptable to the government and the ADB; 
+Coordinate  with  CPMU,  PIUs  and  EMCs  in  setting  quality  assurances 
+measures; 
+Monitor progress and compliance with the agreed requirements and take 
+necessary action to solve any issue; 
+Conduct project monitoring and  maintain a master schedule of all EARR 
+activities  and  monitor  performance  against  progress,  identifying  problem 
+areas  and  working  with  the  CPMU,  PMUs  and  PIUs  to  solve  these 
+problems; 
+Prepare  inception  report,  monthly  progress  reports,  quarterly  progress 
+reports, final reports, annual reports, Project Completion Report (PCR) and 
+other reports as required by the CPMU, following requirement set out in the 
+PAM, and with input from other Specialists; 
+Provide input to detailed engineering design of output 1 and provide advice 
+to EMC and implementing contractors, both technical and management to 
+meet build back better; 
+Participate  in  ADB  project  review  missions  and  perform  other  tasks  as 
+requested by the CPMU; 
+b) 
+c) 
+d) 
+e) 
+f) 
+g) 
+h) 
+i) 
+j) 
+k) 
+l) 
+m) 
+n) 
+o) 
+p) 
+(ii)  Water Supply System (WSS) Specialist/Co Team Leader  
+The  Co  Team  Leader  will  co  leading  and  managing  PMC  team.  The  main 
+responsibility will be to serve as focal point for implementation of Output 2 of EARR 
+public works infrastructure.  S/he will help team leader in supervising safeguards 
+activities are properly implemented, based on the advice of the Social Safeguard, 
+Environmental Safeguard and Gender Specialists. S/he will collaborate with Team 
+Leader  in  developing  and  delivering  various  reports.    S/he  will  assist  CPMU  to 
+manage expert panel and capacity building activities.  The Co Team Leader should 
+possess  good  communication  skills  in  English  and  Bahasa  (written  and  oral), 
+strong  organization  skills  and  ability  to  work  in  a  team-oriented,  dynamic  and 
+multidisciplinary team. 
+Appendix 5        57 
+The specialist will preferably have a postgraduate degree in water engineering or 
+civil engineering with relevant experience in managing foreign assisted projects. 
+S/he will have experience of a minimum 10 years in WSS infrastructure project and 
+of a minimum 8 years in leadership position and should be fluent in English, both 
+oral  written.    Consultant  holding  any  certification  as  a  WSS  expert  issued  by 
+relevant professional institution will be a merit.   
+The tasks of Co Team Leader shall include, but not be limited to, the following: 
+a) 
+Assist Team Leader in managing EARR, particularly in supervising social 
+safeguard,  environment  safeguard,  gender  and  in  developing  various 
+reports;  
+Manage achievement of output 2 of EARR public work infrastructure; 
+Maintain  continual  liaison  particularly  with  IA  and  PIU  DGHS  and  other 
+related stakeholders of output 2; 
+Assist CPMU in managing panel of experts; 
+Help CPMU in planning and managing capacity building activities for both 
+Implementing Agencies and PIUs; 
+Prepare  presentations  related  to  deliverables,  and  prepare  workshop 
+materials if required; 
+Provide input to detailed engineering design of output 2 and provide advice 
+to EMC and implementing contractors, both technical and management to 
+meet build back better; 
+Participate  in  ADB  project  review  missions  and  perform  other  tasks  as 
+requested by the CPMU; 
+b) 
+c) 
+d) 
+e) 
+f) 
+g) 
+h) 
+(iii) 
+Financial Management Specialist 
+The  Specialist  will  be  responsible 
+financial 
+management system acceptable to the EA and the ADB, including the impress 
+account system to be maintained in accordance with ADB’s guidelines. S/he will 
+establish  a  sound  accounting  practice  and  system  to  manage  the  resources 
+available to the EARR.   
+to  design  and 
+implement 
+The consultant should have at least a graduate degree in accounting, business 
+administration, finance, and about 10 years’ of relevant experience in financial 
+management  of  Multilateral  Development  Bank  financed  projects.  Preference 
+will  be  given  to  those  who  are  certified  public  accountant  or  having  other 
+recognized accounting certification or its equivalent. S/he should possess good 
+communication  skills  in  English  and  Bahasa  (written  and  oral),  strong 
+organization  skills  and  ability  to  work  in    a  team-oriented,  dynamic  and 
+multidisciplinary team.  
+The tasks of Financial Management Specialist shall include, but not limited to: 
+a) 
+Assist the  CPMU  in  preparing good quality  and timely  submission  of the 
+monthly, quarterly and annual project financial statements; 
+Help CPMU in ensuring compliance and due diligence in managing EARR 
+financial resources; 
+Assist  the CPMU in  managing  fund  flow in  accordance  with component  
+and expenditure categories funded by the EARR; 
+Assist  CPMU  to  develop  and  to  maintain  project  financial  management 
+system  (including  procedures  for  accounting,  financial  reporting  and 
+auditing and loan disbursement for the EARR; 
+b) 
+c) 
+d) 
+58       Appendix 5 
+e) 
+f) 
+g) 
+h) 
+i) 
+j) 
+k) 
+l) 
+m) 
+n) 
+o) 
+Identify  any  issues  in  the  financial  management  system  for  project 
+implementation and recommend measures to address the issues identified;  
+Assist  the  CPMU  and  PIUs  in  preparing  annual  budgets  for  EARR 
+activities; 
+Guide  and  assist  CPMU  to  process  loan  withdrawal  applications  in 
+accordance with ADB’s and government procedures; 
+Assist  CPMU  to  prepare  and  update  continuously  financial  records, 
+projections,  and  reports  of  the  EARR  in  accordance  with  procedural 
+requirements of ADB and the government; 
+Manage day to day project expenditure and log book; 
+Monitor, record, and keep updated status of EARR financial expenditures 
+per loan categories/components from time to time; 
+Assist the CPMU in preparing a consolidated project financial statement; 
+Support the CPMU in preparing audit by internal/external auditor 
+Develop  capacity  of  executing  and  implementing  agencies  in  the  field  of 
+financial  management, 
+financial 
+management training for EA/IA/PIUs staff. 
+Provide  timely  inputs  on  financial  related  matters  to  the  team  leader  for 
+preparing project reports. 
+Participate  in  ADB  project  review  missions  and  perform  other  tasks  as 
+requested by the CPMU 
+including  planning  and  organizing 
+(iv) 
+Procurement and Contract Specialist 
+The  Specialist  will  be  responsible  to  manage  EARR’s  procurement  activities 
+following  procurement  set  up  governed  in  the  loan  documentation  (including 
+PAM).  S/he  should  proactively  help  CPMU  and  PIUs  and  ensure  that 
+procurement  process  comply  with  the  EARR’s  procurement  policy  and 
+regulations  and  meet  procurement  principle  (value  for  money,  transparency, 
+etc).    S/he  will  be  responsible  to  do  procurement  fiduciary  role  and  quality 
+assurance of procurement related matters/documents.  S/he is in charge to help 
+CPMU and PIUs to reduce end to end procurement time to enable timely delivery 
+of EARR infrastructure and services.    
+The  consultant  should  have  at  least  a  graduate  degree  and/or  preferably  a 
+master’s degree in civil engineering or law or other related field with at least 10 
+years of experience in handling procurement transactions of large public works 
+infrastructure, of which 7 years of procurement experience using ADB or other 
+MDB  guidelines.  The  consultant  shall  have  strong  experience  in  consultant 
+recruitment as per ADB or other MDB, preparing bidding document and helping 
+bid evaluation, and in resolving legal issues related to public procurement and 
+contract  management.  S/he  shall  have  good  knowledge  of  the  institutional, 
+technical, and commercial aspects of procurement; wide experience in delivering 
+capacity  building  programs 
+field  of  procurement  and  contract 
+management.  S/he should possess good communication skills in English and 
+Bahasa  (written  and  oral),  proactive  attitude,  strong  leadership,  thorough  and 
+ability to work in a team-oriented, dynamic and multidisciplinary team. 
+the 
+in 
+The tasks of the Procurement and Contract Specialist include but are not limited 
+to the following list. The term “CPMU” in this context includes Procurement 
+Agency at central level and the term “PIU” includes Procurement Agency at 
+provincial level in Palu: 
+Appendix 5        59 
+a) 
+b) 
+c) 
+d) 
+e) 
+f) 
+g) 
+h) 
+i) 
+j) 
+k) 
+l) 
+m) 
+following 
+to  undertake  procurement 
+Assist the CPMU and PIUs in ensuring timely and quality procurement of 
+the works, goods and consulting services and establish capacity within the 
+PMU  and  PIUs 
+the  agreed 
+procurement set-up as described in the PAM; 
+Assist the CPMU and PIUs in reviewing the bidding documents and the Bid 
+Evaluation Reports (BERs) for civil works, goods and consultancy contracts 
+following  the  agreed  procurement  plan  before  these  documents  be 
+submitted to ADB; 
+Assist the CPMU and PIUs in ensuring quality procurement documents; 
+Help CPMU, PIUs to manage procurement activities and to reduce end to 
+end procurement time; 
+Assist  CPMU  and  PIUs  in  all  matters  related  to  the  use  of  electronic 
+government procurement system (MPWH’s SPSE);  
+Develop  and  implement  a  robust  procurement  monitoring  system  and 
+follow up mechanisms to ensure that procurement activities are carried out 
+as planned while identifying any deviations for taking appropriate actions; 
+Assist  the  CPMU  in  proactively  monitoring  the  implementation  of 
+procurement activities and take necessary action to solve any issue; 
+Assist the  PMU  in  reviewing  all  aspects  related to  contract management 
+including  to  review  contract  addendum  before  the  amendment  be 
+submitted to ADB; 
+Develop  capacity  of  executing  and  implementing  agencies  in  the  field  of 
+procurement  and  contract  management,  including  to  plan  and  deliver 
+procurement training for EA/IA/PIUs staff. 
+Update  the  procurement  risk  assessment  and  put  in  place  appropriate 
+review and supervision processes and thresholds to mitigate risks; 
+Help CPMU and PIUs to update EARR procurement plan; 
+Provide timely inputs on procurement related matters to the team leader for 
+preparing project report; 
+Participate  in  ADB  project  review  missions  and  perform  other  tasks  as 
+requested by the CPMU. 
+(v) 
+Social Safeguard Specialist 
+The  Specialist  will  be  responsible  in  helping  CPMU  and  PIUs  in  updating, 
+implementing and monitoring EARR resettlement plan and ensure that EARR’s 
+social safeguards requirements are met.  S/he will assist CPMU to prepare and 
+deliver Social Safeguard reports in a good quality and timely manner. 
+S/he should have at least bachelor degree in Social Science or other relevant 
+major  with  a  minimum  of  at  least  8  years  of  working  on  social  safeguard 
+(resettlement) in public works infrastructure projects. S/he must be familiar with 
+Indonesian  land  laws  and  regulations  and  procedures  and  ADB’s  2009 
+Safeguard Policy Statement (SPS) or other multilateral agencies’ standards and 
+their requirements. S/he should possess good communication skills in English 
+and Bahasa (written and oral), strong organization skills and ability to work in a 
+team-oriented, dynamic and multidisciplinary team 
+The tasks of the Social Safeguard (Resettlement) Specialist include but are not 
+limited to the following list: 
+a) 
+Help CPMU and PIUs in ensuring that the EARF and RCCDF are followed 
+during subproject preparation and implementation; 
+60       Appendix 5 
+b) 
+c) 
+d) 
+e) 
+f) 
+g) 
+h) 
+i) 
+j) 
+k) 
+l) 
+Help  CPMU  and  PIUs  in  ensuring  that  screening  and  classification  of 
+subprojects  consistent  with  the  EARF  and  RCCDF  for  submission  to 
+relevant agencies and ADB; 
+Help CPMU in reviewing safeguards documents (IEE, resettlement plan, 
+RCCDP, DDR-CAP) prepared by PIUs, ensure accuracy of the data and 
+improve it if necessary 
+Help  PIUs  in  implementing  LARP  and  ensure  compliance  with  EARR’s 
+social safeguards requirements/Resettlement Framework; 
+Assist  CPMU  in  monitoring the  implementation  and  monitoring  of  social 
+safeguard plan, report to CPMU and ADB if any issue, and take corrective 
+actions promptly to solve the issue;   
+Assist  and  improve,  if  necessary,  procedures  for  the  coordination  of 
+resettlement and compensation activities; 
+Ensure that grievances are addressed promptly and properly; 
+Establish and implement liaison mechanisms to ensure proper technical 
+and logistical support to CPMU and PIUs, local administrative authorities, 
+resettlement committees and concerned government departments; 
+Establish and implement procedures for ongoing internal monitoring; 
+Design and deliver capacity building in the area of EARR policies on social 
+safeguards,  grievance  redress  mechanism,  public  consultation  process 
+and effective RP implementation for relevant agencies, as needed; 
+Provide timely inputs on procurement related matters to the team leader 
+for preparing project report; 
+Participate  in  ADB  project  review  missions  and  perform  other  tasks  as 
+requested by the CPMU. 
+(vi) 
+Environmental Safeguard Specialist 
+The  Specialist  will  be  responsible  for  ensuring  and  supporting  the  PIUs  in 
+complying with the environmental safeguards requirements as per EARR loan 
+documentation (including PAM). In the event of occurrence of any unexpected 
+environmental  impacts,  coordinate  with  the  CPMU  to  recommend  necessary 
+mitigation measures to the PIUs. 
+The  Specialist  should  have  at  least  a  bachelor  degree  and  or  preferably  a 
+postgraduate in environmental management, engineering, or other relevant field 
+with at least 10 years of working on environmental safeguards in infrastructure 
+projects.      S/he  must  be  thoroughly  familiar  with  Indonesia’s  regulatory 
+framework for environmental management. S/He should preferably familiar with 
+ADB’s environmental safeguards requirements as stipulated in the Safeguards 
+Policy Statement (SPS 2009 as amended time to time). Actual experience with 
+implementation  of  ADB  projects  in  which  this  policy  was  applied  is  preferred.  
+S/he  should  have  accreditation  from  the  government  or  relevant  professional 
+institution/association as an environmental specialist as per the EIA Regulations 
+in  Indonesia  and  should  be  fluent  in  English.  S/he  should  possess  good 
+communication  skills  in  English  and  Bahasa  (written  and  oral),  strong 
+organization  skills  and  ability  to  work  in  a  team-oriented,  dynamic  and 
+multidisciplinary team.  
+The responsibilities of the Environmental Specialist shall include, but not limited 
+to, the following: 
+Appendix 5        61 
+a) 
+b) 
+c) 
+d) 
+e) 
+f) 
+g) 
+h) 
+i) 
+j) 
+k) 
+l) 
+m) 
+n) 
+Review various environmental reports/assessments and other information 
+available  at  the  project  start  to  update  him/herself  with  potential 
+environmental issues relevant to the project investment; 
+Review  subproject  safeguard  categorization  and  documents  including 
+initial  environmental  examinations  (IEE),  environmental  management 
+plans  (EMP),  as  needed  and  ensure  that  environmental  safeguards 
+documents be consistent with the EARR’s EARF and RCCDF, ADB’s SPS 
+2009, and government laws and regulations.  
+Provide input to the infrastructure design to improve quality and compliance 
+with best practice and country standards from environmental sustainability 
+and impact perspective; 
+Review  environmental  assessments  to  ensure  adequate  quality  and 
+consistency with the Government’s environmental requirements; 
+Review  project  environmental  categorization  in  accordance  with  the 
+EARR’s requirements; 
+Refine the EARF as needed after consultation with CPMU and PIUs; 
+Review subproject summary report, AMDAL, UKL/UPL, IEE, EMP, bidding 
+documents  and  other  infrastructure  project  documents  to  ensure  quality 
+and compliance with the environmental requirements as set out in the loan 
+documentation; 
+Assist the CPMU and PIUs in reviewing updated IEE and Environmental 
+Management Plan (EMP) if and when required; 
+Assist  the  CPMU  and  PIUs  in  overall  monitoring  of  the  environmental 
+related  activities  taken  by  PIUs  and  take  necessary  action  to  solve  any 
+environmental issue; 
+Assist the CPMU in preparing bi-annual environmental monitoring reports 
+and deliver the environmental monitoring reports timely; 
+Provide monitoring of project progress with regard to environmental targets 
+and indicators set out in the loan documentation; 
+Monitor  any  grievances  brought  about  environmental  issue  through  the 
+grievance redress mechanisms; 
+Develop  capacity  of  executing  and  implementing  agencies  in  the  field  of 
+environmental,  including  to  plan  and  deliver  environmental  training  for 
+EA/IA/PIUs staff. 
+Provide timely inputs on environmental related matters to the team leader 
+for preparing project report. 
+(vii)  Gender Specialist   
+The Specialist is responsible to support the executing agency and implementing 
+agencies in implementing, monitoring and reporting the GAP and ensuring that 
+GAP implementation is on-track. S/he will ensure that gender target as set out in 
+the loan documentation are met.  The Gender Consultant will also be responsible 
+for delivering gender awareness training.  
+The  Specialist  should  preferably  have  at  least  a  bachelor’s  degree  in  social 
+sciences  or  related  fields  with  at  least  8  years  work  experience  in  the  area  of 
+gender mainstreaming.   Work experience  in  public  work  infrastructure  project  is 
+preferred.  S/he  will  have  relevant  experience  of  about  10  years.  S/he  should 
+possess  good  communication  skills  in  English  and  Bahasa  (written  and  oral), 
+strong  organization  skills  and  ability  to  work  in    a  team-oriented,  dynamic  and 
+multidisciplinary team.  
+62       Appendix 5 
+The tasks of Gender Specialist shall include, but not limited to the following list. 
+The term CPMU, PMUs and PIUs in this context includes Gender Focal Point in 
+respective unit:  
+a) 
+b) 
+c) 
+d) 
+e) 
+f) 
+g) 
+h) 
+i) 
+j) 
+into  EARR  activities  and  EARR 
+Assist the CPMU and PIUs to implement gender-action plan; 
+Manage day-to-day GAP activities and monitoring, in coordination with the 
+CPMU and PIUs. 
+Establish  sex-disaggregated  baseline  data  at  EARR’s  inception  and 
+maintain  sex-disaggregated  data  during  EARR’s  implementation  in 
+collaboration with other Specialists; 
+Help the CPMU and PIUs in meeting gender target of the EARR; 
+Promote  gender  mainstreaming 
+management tools, including tracking of gender equality results; 
+Provide input to the public works infrastructure design to ensure that the 
+design is inclusive; 
+Assist the CPMU and PIUs in preparing report on implementation of 
+gender action plan and GAP implementation progress, including to meet 
+the requirement of gender as stipulated in the project Design and 
+Monitoring Framework; 
+Leverage  consultations  with  women’s  groups  and  other  stakeholders  to 
+provide to encourage them to participate in the EARR; 
+Document and promote best practices from gender related activities of the 
+project and; 
+Provide  timely  inputs  on  gender  related  matters  to  the  team  leader  for 
+preparing project report. 
+(viii)  Project Performance Monitoring System Specialist 
+The Specialist will be responsible to develop GIS based PPMS and ensure that 
+the  PPMS  is  in  accordance  with  the  project  design  and  monitoring  framework 
+(DMF) and PAM requirement and that the system could identify issues quickly and 
+bring to the attention of government and the ADB for prompt resolution. 
+S/he will have at least a bachelor’s degree in Management or Information System 
+or  related  field  with  a  minimum  of  10  years  of  demonstrated  experience  in 
+developing  and  implementing  PPMS  of  public  works  infrastructure.  S/he  should 
+have  at  least  7  years  experience  in  monitoring  and  evaluation  of  MDB  projects.  
+Having experience in developing GIS based project M&E system will be  a plus.  
+S/he  should  possess  good  communication  skills  in  English  and  Bahasa  (written 
+and oral), strong organization skills and ability to work in a team-oriented, dynamic 
+and multidisciplinary team.  
+The tasks of PPMS/Monitoring Specialist include but not limited to the following: 
+a) 
+b) 
+Assist the CPMU in developing project performance management system 
+based  on  the  requirement  stipulated  in  the  PAM  and  update  it  regularly.  
+The PPMS will facilitate tracking sex-disaggregated data and quantitative 
+and  qualitative  information  on  GAP  implementation.  The  PPMS  will  also 
+align with the MPWH’s e-monitoring system as well; 
+In  collaboration  with  other  specialists,  develop:  (a)  indicators  that  aligns 
+with  project  design  and  monitoring  framework,  and  (b)  database  for 
+effective data collection and management; 
+Appendix 5        63 
+c) 
+d) 
+e) 
+f) 
+g) 
+h) 
+i) 
+j) 
+k) 
+In collaboration with GIS Database Assistant, develop a customized GIS 
+based PPMS using a free software;  
+Monitor  progress  status  and  performance  of  the  project  and  timely  bring 
+any issue to the attention of CPMU, PIUs and ADB for prompt resolution; 
+Support  the  PMU  and  Team  Leader  in  ensuring  that  the  project  is 
+implemented  in  accordance  with  the  project  design  and  monitoring 
+framework  (DMF)  and  that  issues  arising  are  quickly  identified  and 
+resolved;  
+Assist in preparation of necessary guidelines for M&E consistent with loan 
+documents (RRP, Loan Agreement, PAM, IEE/EIA and CEMP, etc.), ADB’s 
+and government monitoring and evaluation requirements.  
+Prepare M&E/PPMS Manuals for monitoring and evaluation;  
+In collaboration with other Specialists and EMC, collect and update the data, 
+monitor  and  evaluate  project  performance  as  part  of  the  project 
+performance management system; 
+Support the CPMU in maintaining and update EARR monitoring database; 
+Support  the  Team  Leader  in  supervising  and  guiding  the  GIS  Database 
+Assistant; 
+Support the Team Leader in timely preparation of the reports. 
+(ix)  Media and Communication Specialist 
+The  main  roles  of  the  Specialist  are  to  help  CPMU  and  PIUs  to  prepare  and 
+implement EARR’s stakeholder communication strategy, following requirement set 
+out in the PAM. This includes engagement with stakeholders and support activities 
+of other Specialists as appropriate (such as social safeguard, gender, etc).  S/he 
+will  ensure  that  the  communication  and  disclosure  policy  are  met.    S/he  will  be 
+based in CPMU and work closely with CPMU, PMU, PIUs, local governments, line 
+agencies, EMC, contractors and local communities. 
+S/he should have a graduate degree in Communication or public relation and at 
+least  8  years  of  relevant  work  experience  including  experience  working  in 
+managing  communication  activities  of  major  public  works 
+infrastructure. 
+Experience  in  working  for  post  disaster  reconstruction  projects  and  working  for 
+donor assisted projects are preferred.  S/he should possess good communication 
+skills in English and Bahasa (written and oral), strong organization skills and ability 
+to work in a team-oriented, dynamic and multidisciplinary team.  
+The tasks of Media and Communication Specialist include but not limited to the 
+following: 
+a) 
+b) 
+c) 
+d) 
+Assist  the  CPMU  and  PIUs  to  develop  and  implement  stakeholders 
+communication  strategy.  This  includes  preparation,  production,  and 
+distribution  of  communication  materials  or  publications  to  relevant 
+stakeholders, in collaboration with other Specialists.  Special attention to 
+be given to critical stakeholders including people affected by the disasters, 
+project-affected persons in general, and women and vulnerable groups; 
+Help  CPMU  and  PIUs  in  planning  for  and  participating  in  internal  and 
+external  events  including  preparing  communication  materials  for  each 
+event, drafting notes, press release, etc for CPMU, PMU and PIUs;   
+Develop and maintain information and communication channel to enable 
+engagement of stakeholders to EARR’s implementation; 
+Establish and maintain good relationships with media;  
+64       Appendix 5 
+e) 
+f) 
+g) 
+h) 
+Research best practices in disaster risk reduction and management, multi-
+hazard  resistance  standards,  cost  effectiveness  alternatives  based  on  a 
+review  of  technical  options  available  to  address  the  identified  problems, 
+and lessons learned from previous disasters and/or similar projects in the 
+country or region and share them to CPMU, PMUs, PIUs, PMC, EMCs, etc. 
+This will include new/innovative technology to support build back better and 
+to improve resilience;  
+Record  and  compile  lessons  from  EARR’s  implementation  to  enable 
+knowledge sharing; 
+Help Co Team Leader in managing panel of experts and capacity building 
+activity. 
+Support the Team Leader in timely preparation of the reports. 
+(x) 
+Financial Management Assistant 
+The  Assistant  will  assist  Financial  Management  Specialist 
+in  verifying 
+expenditures, preparing withdrawal applications, and financial documents, reports 
+or statements. S/he will support the Financial Management Specialist in preparing 
+the  monthly,  quarterly  and  annual  project  financial  statements,  financial  report, 
+preparing budget and projections and managing fund flow. 
+The  Assistant  shall  preferably  have  graduated  from  at  least  bachelor  degree  in 
+accounting,  business  administration,  or  finance  and  about  5  years  of  relevant 
+work experience in financial management of loan financed projects.  
+(xi)  GIS Database Assistant 
+The  Assistant  will  work under  direct  supervision  of  PPMS  Specialist  to develop, 
+maintain  and  update  GIS  database  of  each  work  from  time  to  time.  The  GIS 
+Database  Assistant  will  assist  the  CPMU  and  PIUs  in  project  performance 
+monitoring and reporting.  
+She  will  preferably  have  a  bachelor’s  degree  in  Geography  or  Information 
+Technology or related field and a minimum of 5 years of demonstrated experience 
+in preparing and maintaining GIS database.  
+G. 
+DURATION OF SERVICES AND DELIVERABLE 
+The  duration  of  the  PMC  services  will  be  over  3  years.  The  tentative  schedule  of  the 
+16. 
+Project is given in Annex 1. During the services, the PMC shall conduct the followings: 
+1. 
+Meetings 
+17. 
+The PMC shall conduct the following meetings: 
+a) 
+b) 
+c) 
+d) 
+Internal PMC  coordination (bi-weekly meetings).  
+Regular monthly progress meetings with the CPMU. 
+Regular quarterly progress meetings with the CPMU, PIUs, and EMSCs. 
+Support the CPMU to initiate project steering committee meetings and quarterly 
+monitoring meeting as convened by BAPPENAS.  
+Any incidental meetings as instructed by the CPMU. 
+e) 
+Appendix 5        65 
+2.  
+Site Inspection and Coordination 
+18. 
+The  PMC  will  conduct  site  inspections  on  quarterly  or  semi-annually  basis  as  deemed 
+necessary. During the site inspection, the PMC should discuss with the PIUs and the EMSCs, 
+related  to  the  procurement/contract  management,  quality  of  the  DED  and  EMC  outputs, 
+infrastructure  constructions,  and  other  project  related  issues,  including  physical  and  financial 
+progress, and provides advice. The purpose of site inspections are to get direct information on 
+EARR progress status, issue if any, and provide support/advice to solve any issue. The ultimate 
+goal is to help PIUs delivering the infrastructure and services in time and meets build back better 
+goal.  
+3.  
+Reporting  
+19. 
+The PMC is responsible to deliver the following reports with quality and timely submission.  
+a) 
+b) 
+c) 
+Inception reports – within 30 days of commencing of services 
+Brief monthly progress reports - by 5th calendar day after each calendar month 
+Quarterly progress reports in a format consistent with ADB's project performance 
+reporting system - by 7th calendar day after the end of the quarter; An outline of 
+quarterly report progress format is in Appendix 2. 
+Project  Performance  Monitoring  System  (PPMS)  reports  –  within  60  days  of 
+commencing services 
+Consolidated annual reports - by 15th calendar day after the end of the year. The 
+report  will  include  (a)  progress  achieved  by  output  as  measured  through  the 
+indicator's performance targets, (b) key implementation issues and solutions, (c) 
+updated procurement plan, and (d) updated implementation plan for the next 12 
+months;  
+Semi-annual  safeguards  monitoring  reports  (one  for  environment  and  one  for 
+involuntary resettlement) by 15th calendar day after the end of semi-annual period;   
+A project completion report within 6 months of physical completion of the project.  
+Ad-hoc reports (any specific reports that may be required during the services) 
+d) 
+e) 
+f) 
+g) 
+h) 
+H. 
+CLIENT’S INPUT, COUNTERPART PERSONNEL 
+20. 
+The Client shall provide the following: 
+(a) 
+All  available  documents,  reports,  data  and  all  other  information  related  to  the 
+proposed assignment. 
+Counterpart staff in CPMU, PMUs and PIUs to work with the consultants (this 
+will be identified at the time of contract negotiations or contract implementation). 
+Provide  any  letters  or  assistance  required  by  the  consultants  in  obtaining  all 
+necessary permits and authorizations for carrying out the services. 
+(b) 
+(c) 
+21. 
+Others. The CPMU has confirmed that they will appoint counterpart staff to manage and 
+supervise  the  PMC.  The  CPMU  will  also  provide  access to  project’s  data  and  information  and 
+access to meeting facilities. 
+22. 
+The PMC will have to establish an office in Jakarta, close from the CPMU office. 
+The PMU due to limited resources may not be able to provide adequate space for PMC 
+office. Hence, the PMC will have to rent office space.  The consultant will propose the office 
+rental cost as part of Out of Pocket Expenses (reimbursable expenses) section of financial 
+proposal.  All  required  furniture,  hardware,  software,  internet/phone  connections,  office 
+stationary etc shall be provided by the PMC. The cost associated to this provision should 
+66       Appendix 5 
+be included in the financial proposal, as part of non-competitive component.  In addition, 
+the  PMC  will  have  to  carry  out  workshop  or  training  activities  to  support  project 
+implementation.  The  direct  costs  of  these  activities  (e.g.  logistical  costs  and  workshop 
+materials) will be financed by provisional sum budget allocation on an 'at-cost' reimbursable 
+basis. The consulting firm's costs in arranging those activities (e.g. administrative costs in 
+organizing and managing workshops, and participation of firm's experts in workshops) must 
+be included in the firm's competitive financial proposal.  
+ANNEX 1: OVERALL PROJECT IMPLEMENTATION PLAN 
+Outputs and Activities
+2019
+2020
+2021
+2022
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+Output 1: Human settlement and associated infrastructure reconstructed and upgraded (DGHS)
+A
+Reconstruction of Islamic University of Palu
+1 Consultant recruitment
+2 Technical works: Development of DED and preparation of Subproject Summary Report (SSR)
+3 Social and environment safeguards activities (UKL-UPL has been prepared by IAIN)
+4 Procurement of Works
+5 Construction (including mobilization and commissioning)
+B
+Construction of Rakuta WTP 
+1 Consultant recruitment
+2 Technical works: Development of DED and preparation of Subproject Summary Report (SSR)
+3 Social and environment safeguards activities
+4 Procurement of Works
+5 Construction (including mobilization and commissioning)
+C
+Construction of Distribution Networks of Palu and Sigi 
+1 Consultant recruitment
+2 Technical works: Development of DED and preparation of Subproject Summary Report (SSR)
+3 Social and environment safeguards activities
+4 Procurement of Works
+5 Construction (including mobilization and commissioning)
+Output 2: Water resources infrastructure rehabilitated and reconstructed (DGWR)
+A
+Construction of Coastal Protection: Sea Dyke
+1 Consultant recruitment
+Technical works: Development of DED and preparation of Subproject Summary Report (SSR) by 
+Engineer team of L3440 project
+2
+3 Social and environment safeguards activities  by Engineer team of L3440 project
+4 Procurement of Works
+5 Construction
+B
+B.1
+Reconstruction and modernization of Gumbasa Irrigation System
+Reconstruction Gumbasa (primary, secondary, tertiary) including liquefaction counter 
+measures (deep well, parallel drain and others) upstream - 2,500 ha 
+1 Consultant recruitment
+Technical works: Development of DED and preparation of Subproject Summary Report (SSR) by 
+Engineer team of L3455 project
+2
+3 Social and environment safeguards activities  by Engineer team of L3455 project
+4 Procurement of Works
+5 Construction (including mobilization and commissioning)
+68       Appendix 5 
+Outputs and Activities
+2019
+2020
+2021
+2022
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+B.2
+Reconstruction Gumbasa (primary, secondary, tertiary) including liquefaction counter 
+measures (deep well, parallel drain and others) middle stream - 2,500 ha
+1 Consultant recruitment
+Technical works: Development of DED and preparation of Subproject Summary Report (SSR) by 
+Engineer team of L3455 project
+2
+3 Social and environment safeguards activities  by Engineer team of L3455 project
+4 Procurement of Works
+5 Construction (including mobilization and commissioning)
+B.3
+Reconstruction Gumbasa (primary, secondary, tertiary) including liquefaction counter 
+measures (deep well, parallel drain and others) downstream  - 2,000 ha
+1 Consultant recruitment
+2 Technical works: Development of DED and preparation of Subproject Summary Report (SSR) by 
+Engineer team of L3455 project
+3 Social and environment safeguards activities  by Engineer team of L3455 project
+4 Procurement of Works
+5 Construction (including mobilization and commissioning)
+C
+Upgrading/Construction of Raw Water Supply System of WUNO, PASIGALA, and PANEKI
+1 Consultant recruitment
+Technical works: Development of DED and preparation of Subproject Summary Report (SSR) by 
+Engineer team of L3455 project
+2
+3 Social and environment safeguards activities  by Engineer team of L3455 project
+4 Procurement of Works
+5 Construction (including mobilization and commissioning)
+D
+Procurement of Hydrometeorological and Telemetry equipment 
+1 Technical review and preparation of specifications
+2 Procurement of Goods
+3 Installation (including mobilization and commisioning)
+E
+Engineering and Management Consultant  BWSS III (DGWR) and DGHS
+1 Consultant recruitment
+2 Consulting service delivery 
+F
+Project Management, PMU, DGWR
+1 Consultant recruitment
+2 Consulting service delivery 
+BWSS III = Regional River Basin Organization Sulawesi III, DED = Detailed Engineering Design, DGHS = Directorate General of Human Settlements, 
+DGWR = Directorate General of Water Resources, PMU = Project Management Unit, SSR = Subproject Summary Report, UKL-UPL = Environmental 
+Monitoring Planning & Management, IAIN = State Islamic University, WTP = Water Treatment Plant. 
+Appendix 5        69 
+ANNEX 2: OUTLINE QUARTERLY PROGRESS REPORT  
+All information will be provided for quarter preceding issuance of report.  
+Section A: Implementation Progress  
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+General data on progress in implementation  
+Problems encountered and resolved  
+Other issues pending  
+Other information or data relevant for project  
+Safeguard compliance on projects 
+GAP implementation progress 
+Risk mitigating action plan implementation progress  
+Updated implementation progress  
+Section B: Procurement Information  
+1. 
+Detailed report on procurement activities  
+a.  Status of bidding documents  
+b.  Status of bids in progress  
+c.  Contracts awarded  
+d.  Contracts closed  
+e.  Contracts with issues  
+Procurement plan for next quarter (or updated procurement plan spreadsheet) 
+Section C: Financial Information  
+Disbursement status  
+1. 
+Special account status  
+2. 
+Loan and Grant commitments  
+3. 
+Contract payments  
+4. 
+Status of audits  
+5. 
+Other financial management issues 
+6. 
+Section D: Other Information  
+1. 
+Major/minor change in scope  
+a.  Cost escalations  
+b.  Revision in cost category  
+c.  Change in implementation procedures  
+Major activities planned for next quarter 
+Attachments:  
+1. 
+2. 
+2. 
+2. 
+3. 
+PPR:  The  quarterly  report  will  be  accompanied  by  an  updated  Project  Performance 
+Review  (PPR)  spreadsheet  comprising  (i)  updated  project  implementation  plan,  (ii) 
+contract awards and disbursement graphs and (ii) contract awards and disbursement plan. 
+GAP:  GAP  monitoring  will  accompany  the  quarterly  report  and  provide  information  on 
+progress achieved to meet each target identified in the GAP. 
+Stakeholder Communication Strategy: At EARR inception, the government and ADB 
+will  agree  on  a  strategy  and  action  plan  to  disseminate  information  on  the  EARR’s 
+objective, outcome, and outputs. The quarterly report will provide details on activities and 
+progress towards EARR outcome 

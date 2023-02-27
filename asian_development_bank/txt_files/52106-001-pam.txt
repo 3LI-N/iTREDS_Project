@@ -1,0 +1,4662 @@
+National Disaster Risk Management Project (RRP TAJ 52106) 
+Draft Project Administration Manual 
+Project Number: 52106-001 
+Grant Number: XXXX  
+September 2018 
+Republic  of  Tajikistan:  National  Disaster  Risk 
+Management Project 
+i 
+ABBREVIATIONS 
+Asian Development Bank 
+Asian Development Fund 
+audited financial statements 
+audited project financial statements 
+community-based organization 
+Committee of Emergency Situations and Civil Defense 
+community-based disaster risk management 
+Central and West Asia Department  
+design and monitoring framework  
+developing member country 
+disaster management information system 
+disaster risk management 
+executive agency  
+environmentally sustainable growth 
+gender action plan 
+governance and capacity development 
+gross domestic product  
+geographic information system 
+glacial lakes outburst flooding 
+implementing agency  
+inclusive economic growth  
+Information Management and Analytical Center 
+Japan International Cooperation Agency 
+multi-hazard vulnerability and risk assessment 
+Ministry of Finance 
+national platform of emergency situations  
+national commission on emergency situations 
+project administration instructions 
+project completion report 
+project implementation group 
+project steering committee 
+quarterly progress reports 
+rapid emergency assessment and coordination team 
+Swiss Agency for Development and Cooperation 
+Sustainable Development Climate Change and Disaster 
+statement of expenditure 
+standard operating procedures 
+Tajik somoni 
+United Nations Development Programme 
+withdrawal application 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+ADB 
+ADF 
+AFS 
+APFS 
+CBO 
+CESCD 
+CBDRM 
+CWRD 
+DMF 
+DMC 
+DMIS 
+DRM 
+EA 
+ESG 
+GAP 
+GCD 
+GDP 
+GIS 
+GLOF 
+IA 
+IEG 
+IMAC 
+JICA 
+MHVRA 
+MOF 
+NPES 
+NCES 
+PAI 
+PCR 
+PIG 
+PSC 
+QPRs 
+REACT 
+SDC 
+SDCD 
+SOE 
+SOP 
+TJS 
+UNDP 
+WA 
+ii 
+ABBREVIATIONS 
+CONTENTS 
+I. 
+II. 
+III. 
+IV. 
+V. 
+VI. 
+PROJECT DESCRIPTION 
+A. 
+B. 
+C. 
+Rationale 
+Impact and Outcome 
+Outputs 
+IMPLEMENTATION PLANS 
+A. 
+B. 
+Project Readiness Activities 
+Overall Project Implementation Plan 
+PROJECT MANAGEMENT ARRANGEMENTS 
+A. 
+B. 
+C. 
+D. 
+E. 
+F. 
+G. 
+Project Implementation Organizations: Roles and Responsibilities 
+Key Persons Involved in Implementation 
+Project Implementation Group 
+Other Ministries/Agencies 
+Project Organization Structure 
+Project Implementation Group Organizational Chart 
+Implementation Procedures 
+COSTS AND FINANCING 
+A. 
+B. 
+C. 
+D. 
+E. 
+F. 
+G. 
+H. 
+I. 
+Cost Estimates Preparation and Revisions 
+Key Assumptions 
+Detailed Cost Estimates by Expenditure Category 
+Allocation and Withdrawal of Grant Proceeds 
+Detailed Cost Estimates by Financier 
+Detailed Cost Estimates by Outputs and/or Components 
+Detailed Cost Estimates by Year 
+Contract and Disbursement S-Curve 
+Fund Flow Diagram 
+FINANCIAL MANAGEMENT 
+A. 
+B. 
+C. 
+D. 
+Financial Management Assessment 
+Disbursement 
+Accounting 
+Auditing and Public Disclosure 
+PROCUREMENT AND CONSULTING SERVICES 
+A. 
+B. 
+C. 
+D. 
+Advance Contracting and Retroactive Financing 
+Procurement of Goods, Works, and Consulting Services 
+Procurement Plan 
+Consultant's Terms of References 
+VII. 
+SAFEGUARDS 
+VIII.  GENDER AND SOCIAL DIMENSIONS 
+IX. 
+PERFORMANCE MONITORING, EVALUATION, REPORTING, AND 
+COMMUNICATION 
+A. 
+B. 
+C. 
+Project Design and Monitoring Framework 
+Monitoring 
+Evaluation 
+I 
+1 
+1 
+1 
+1 
+2 
+2 
+3 
+5 
+5 
+7 
+8 
+11 
+11 
+12 
+13 
+13 
+13 
+13 
+13 
+14 
+15 
+15 
+16 
+17 
+18 
+18 
+18 
+19 
+21 
+21 
+22 
+22 
+22 
+24 
+28 
+28 
+28 
+31 
+31 
+34 
+35 
+D. 
+E. 
+Reporting 
+Stakeholder Communication Strategy 
+ANTICORRUPTION POLICY 
+ACCOUNTABILITY MECHANISM 
+RECORD OF CHANGES TO THE PROJECT ADMINISTRATION MANUAL 
+X. 
+XI. 
+XII. 
+APPENDIX 1: TERMS OF REFERENCE FOR CONSULTING SERVICES 
+iii 
+35 
+35 
+37 
+37 
+37 
+39 
+Project Administration Manual Purpose and Process 
+The  project  administration  manual  (PAM)  describes  the  essential  administrative  and 
+management requirements to implement the project on time, within budget, and in accordance 
+with the policies and procedures of the government and Asian Development Bank (ADB). The 
+PAM should include references to all available templates and instructions either through linkages 
+to relevant URLs or directly incorporated in the PAM. 
+The  executing  agency,  Committee  of  Emergency  Situations  and  Civil  Defense  under  the 
+Government  of  Tajikistan  (CESCD);  and  the  implementing  agency  -  project  implementation 
+group (PIG) are wholly responsible for the implementation of ADB financed projects, as agreed 
+jointly between the borrower and ADB, and in accordance with the policies and procedures of 
+the  government  and  ADB.  ADB  staff  is  responsible  for  supporting  implementation  including 
+compliance  by  the  CESCD  and  PIG  of  their  obligations  and  responsibilities  for  project 
+implementation in accordance with ADB’s policies and procedures. 
+At grant negotiations, the borrower and ADB shall agree to the PAM and ensure consistency 
+with  the  grant  agreements.1  Such  agreement  shall  be  reflected  in  the  minutes  of  the  grant 
+negotiations. In the event of any discrepancy or contradiction between the PAM and the grant 
+agreement, the provisions of the grant agreement shall prevail. 
+After ADB Board approval of the project's report and recommendations of the President (RRP), 
+changes in implementation arrangements are subject to agreement and approval pursuant to 
+relevant government and ADB administrative procedures (including the Project Administration 
+Instructions) and upon such approval, they will be subsequently incorporated in the PAM. 
+1 These include the loan, grant, and TA Agreements, and the Project Agreement. 
+A. 
+Rationale 
+I. 
+PROJECT DESCRIPTION 
+1. 
+The Government of the Republic of Tajikistan has requested ADB assistance for a long 
+term  and  sustainable  solution  to  effectively  manage  the  expected  increased  severity  and 
+frequency of disasters triggered by natural hazards in Tajikistan. The project will (i) support efforts 
+of the government in mainstreaming disaster risk management (DRM) in development planning, 
+and (ii) lay a foundation for establishing a sustainable institutional and financial mechanism that 
+enables Tajikistan to effectively deal with disasters in the long-term.     
+B. 
+Impact and Outcome 
+2. 
+The  impact  of  the  project  will  be  Tajikistan’s resilience to disasters  enhanced,  aligned 
+with  (i)  National  Development  Strategy  2016–2030  and  Midterm  Development  Program  2016–
+20202;  (ii)  ADB’s  Country  Partnership  Strategy  for  Tajikistan  2016–20203;  and  (iii)  National 
+Disaster  Management  Strategy.4  The  project  will  have  following  outcome:  reduced  economic 
+losses of Tajikistan due to natural hazards.    
+C. 
+Outputs 
+3. 
+Output 1: DRM mainstreamed in government institutions. The project will prepare and 
+implement an institutional strengthening plan for the CESCD. The plan will clearly articulate the 
+roles of various departments and divisions of the CESCD in pre- and post-disaster information 
+management,  planning and implementation,  and  their relationship  with sector  and geographic, 
+provincial,  and  district  agencies—preventing  overlap  or  duplication.  The  plan  will  incorporate 
+capacity  building  for  gender-responsive  DRM.  The  project  will  review  the  legal  framework 
+including all existing DRM-related legislation and will prepare new draft legislation to provide a 
+single,  comprehensive  law  on  DRM,  if  required.  The  project  will  also  prepare  a  5-year 
+business/operational  plan  (2021–2025)  for  the  CESCD  for  disaster  risk  reduction  and  post-
+disaster management, including the monitoring framework and facilitation to be extended to the 
+sector ministries and agencies. The project will support establishing dedicated units/focal points 
+in  core  sectors  (water,  energy,  transport,  health,  education,  environment,  and  agriculture)  to 
+integrate and mainstream DRM and climate change in the respective sector strategies under the 
+overall guidance of the CESCD. The project will also provide training to the staff from the core 
+sectors and CESCD on institutional aspects of DRM.  
+Output 2: Capacity to manage natural hazards and minimize losses strengthened. 
+4. 
+The project will do disaster risk modeling and prepare hazard and disaster risk maps of different 
+return  periods  and  a  digital  atlas,  inventory  of  assets  at  risk,  and  comprehensive  national  risk 
+profile by carrying out a multi-hazard vulnerability and risk assessment leading to identification of 
+areas  of  high,  medium,  low,  and  no  risk.  It  shall  carry  out  assessment  of  existing  hazard  and 
+disaster modeling, mapping, exposure database/registers, and vulnerability analyses (including 
+2 Ministry of Economic Development and Trade. 2016. National Development Strategy and Midterm Development Plan. 
+Dushanbe. 
+3 ADB. 2016. Country Partnership Strategy: Tajikistan, 2016–2020. Manila Source: 
+https://www.adb.org/sites/default/files/institutional-document/190300/cps-taj-2016-2020.pdf  
+4  Government of Tajikistan. 2010. National Disaster Management Strategy, 2010–2015. Dushanbe; and Government 
+of Tajikistan. 2018. Draft National Disaster Management Strategy, 2018 – 2030. Dushanbe.   
+2 
+from an engineering basis), followed by (i) analyses needed to fill existing gaps and their intended 
+purposes;  (ii)  steps  to  engage  and  train  national  and  local  stakeholders  in  these  analyses, 
+modeling, and assessments, establishing a sustainable disaster risk information system; and (iii) 
+the  establishment  of  accessible,  sustainable  data  platforms,  supporting  use  of  the  data  by  all 
+relevant  stakeholders  in  the  form  of  a  national  DMIS  to  be  developed  in  the  CESCD,  with  an 
+appropriate data recording, transmittal, collection, analysis, and dissemination mechanism. The 
+DMIS will also include gender and other social indicators such as sex, age, ability, and income 
+and poverty levels. The project will establish an early warning system to enable the CESCD to 
+issue timely warnings to local authorities, communities, and other stakeholders covering disasters 
+such as floods, droughts, avalanches, and mudflows. IT shall prepare national, regional, district, 
+and sectoral DRM plans. The plans will also outline the implementation mechanism and standard 
+operating procedures, focusing on women, children, and people with disabilities. The project will 
+provide DRM-related training to officials of the CESCD and key sector ministries and agencies 
+responsible for social and economic infrastructure and natural resource management. It shall also 
+prepare and implement a capacity building plan for community-based DRM in the districts and 
+cities  at  high  risk,  with  a  focus  on  women,  children,  and  people  with  disabilities.  A  DRM 
+awareness-raising program for educational institutions will also be designed and implemented in 
+the districts and cities at high risk. The project will also carry out dam-break analysis and flood 
+modeling of Sarez Lake to identify the areas, population, and public and private properties and 
+assets at risk; estimate the magnitude of potential damages; and identify structural measures to 
+address the issues identified by the analysis. Based on the analysis, upgrading and expanding of 
+monitoring  and  early  warning facilities  at  Sarez Lake  and in the  areas  at  risk  will  be  done.  An 
+inventory of glaciers will be prepared to identify areas at risk of glacial lake outburst flooding. 
+Output  3:    Road  map  for  investments  and  sustainable  financing  developed.  The 
+5. 
+project  will  prepare  A  9-year  investment  plan  (2022–2030)  for  DRM.5  The  risk  modeling  work 
+supported  under  output  2  will  be  used  for  risk-informed  identification  and  prioritization  of 
+investments in the plan. A study will be carried out to explore sustainable financing options for 
+DRR, preparedness, and response; and propose recommendations for establishing a sustainable 
+financing mechanism. 
+II. 
+IMPLEMENTATION PLANS 
+A. 
+Project Readiness Activities 
+6. 
+The project will be prepared by using staff resources. The procurement under the project 
+will  comprise  consulting  services  and  goods/equipment  including  high-level  technologies. 
+Advance actions will be completed for recruitment of consulting services during the processing 
+phase to ensure mobilization of the consultants immediately after the grant is declared effective. 
+The main project readiness activities and their expected completion dates are shown in Table 1. 
+5  The investment plan period is aligned with the end year of the National Disaster Management Strategy, 2018–2030. 
+Table 1:   Project Readiness Activities 
+2018 
+2019 
+Indicative Activities 
+Jun 
+Jul  Aug  Sep  Oct  Nov 
+Dec 
+Jan 
+X 
+X 
+Readiness support 
+consultants mobilized 
+Advance contracting 
+actionsa 
+Establish project 
+implementation 
+arrangementsb 
+Grant negotiations 
+ADB Board approval 
+Grant signing 
+Government legal 
+opinion provided 
+Government budget 
+inclusion  
+Grant effectiveness 
+X 
+X 
+X 
+X 
+X 
+X 
+3 
+Responsible 
+Individual/Unit/
+Agency/Govern
+ment 
+ADB 
+EA 
+PIG 
+ADB/GoT 
+ADB 
+ADB/MOF 
+GoT 
+GoT 
+X 
+ADB/ MOF 
+ADB = Asian Development Bank; GoT = Government of Tajikistan; MOF = Ministry of Finance. 
+a  Recruitment of consulting services. 
+b A project implementation group (PIG) will be established in the EA for implementing the project. The PIG will have full 
+time dedicated staff from the CESCD, headed by the Project Director. 
+Sources: ADB and GoT. 
+B. 
+Overall Project Implementation Plan  
+7. 
+The  project  implementation  schedule  is  shown  in  Table  2.  A  detailed  version  will  be 
+prepared during the Inception Mission as part of annual work planning exercise. Implementation 
+of activities will start from  January 2019 after grant effectiveness, and the project’s completion 
+and grant financial closings are expected in 31 December 2023 and 30 June 2024, respectively.  
+4 
+Table 2: Overall Project Implementation Plan 
+Indicative Activity 
+2018 
+2019 
+2020 
+2021 
+2022 
+2023 
+Q1  Q2  Q3  Q4  Q1  Q2  Q3  Q4  Q1  Q2  Q3  Q4  Q1  Q2  Q3  Q4  Q1  Q2  Q3  Q4  Q1  Q2  Q3  Q4 
+A.  Design and Monitoring Framework 
+Output 1.  Disaster Risk Management mainstreamed in government institutions 
+1.1 Recruitment of consultants by 
+Q1 2019 
+1.2 Institutional strengthening/re-
+organization plan and legal 
+requirements  
+1.3 5 year business/operational 
+plan for the CESCD and its 
+restructured departments and 
+divisions  
+1.4 Staff appointment and 
+procurement of equipment, 
+furniture and vehicles for 
+restructured institutional setup  
+1.5 Revise sector strategies  
+1.6 Revise and approve plans of 
+core sectors 
+Output 2. Capacity to manage natural hazards and minimize losses strengthened 
+2.1 Recruitment of consultants by 
+Q1 2019 
+2.2 Surveys and data collection      
+for multi-hazard vulnerability 
+assessment and preparing         
+hazard maps  
+2.3 Selection of educational 
+institutions, design and 
+implementation of awareness 
+raising program  
+2.4 Selection of districts, cities, 
+communities, design and 
+implementation of community-
+based disaster risk management 
+program  
+2.5 Dam-break studies and flood 
+modeling of Sarez lake  
+2.6 Inventory of glaciers 
+2.7 Staff training for CESCD and 
+other sector departments and 
+ministries (20% women)  
+Output 3.  Roadmap for investments and sustainable financing developed 
+3.1 Recruitment of consultants 
+3.2 Draft investment plan  
+3.3 Study for financing options  
+3.4 Recommendations for 
+financing mechanism  
+B.  Management Activities 
+Procurement of office 
+equipment, furniture, and 
+vehicles for PIG 
+Procurement of equipment and 
+machinery 
+Gender Action Plan 
+Quarterly Progress Reports 
+Project completion report 
+   Sources: ADB, PIG and GoT. 
+  ▼  ▼  ▼  ▼  ▼  ▼  ▼  ▼  ▼  ▼  ▼  ▼  ▼  ▼  ▼  ▼  ▼  ▼ 
+  ▼  ▼  ▼  ▼  ▼  ▼  ▼  ▼  ▼  ▼  ▼  ▼  ▼  ▼  ▼  ▼  ▼  ▼ 
+▼ 
+▼ 
+5 
+III. 
+PROJECT MANAGEMENT ARRANGEMENTS 
+A. 
+Project Implementation Organizations: Roles and Responsibilities 
+The project implementation period will be January 2019 – December 2023. The CESCD 
+8. 
+will be the executing agency (EA). A PIG will be established in the EA for implementing the project, 
+which will be supported by two packages of the project implementation consultants. The EA will 
+be  responsible  for  (i)  overseeing  the  project  implementation  group  (PIG)  for  the  day-to-day 
+implementation of the project, and (ii) being the party to sign all contracts with consultants and 
+contractors  employed  by  the  project.  The  PIG  will  have  full  time  dedicated  staff  from  the  EA, 
+headed  by  a  Project  Director.  The  PIG  tasks  will  include,  among  others,  the  procurement, 
+accounting, monitoring, and supervision of the project, as well as the necessary liaison with the 
+EA,  contractors,  suppliers,  and  ADB. The  EA/PIG  will  also be  responsible for  compliance with 
+grant covenants. Other relevant agencies will designate focal persons for the project who shall be 
+responsible  for  coordination  of  activities  related  to  their  respective  agencies  with  the  EA/PIG 
+during implementation. 
+9. 
+The borrower will: (i) sign a grant agreement; (ii) provide support for grant effectiveness 
+requirements;  (iii)  allocate  and release  counterpart  funds  in  a  timely  manner;  (iv)  process  and 
+submit to ADB any request, when required, for reallocating the grant proceeds; (v) monitor project 
+implementation  and  provide  respective  coordination  and  facilitation;  (vi)  endorse  to  ADB  the 
+authorized staff with approved signatures for withdrawal applications processing; and (vii) provide 
+support for the project’s suppliers and consultants for local tax-free implementation.  
+The Project Steering Committee (PSC): The high-level National Platform of Emergency 
+10. 
+Situations (NPES)6 will carry out the responsibilities of the PCS, which will provide the EA and 
+PIG with the overall strategic guidance to the project, discuss and resolve any implementation 
+issues,  and  coordinate  with  other  stakeholders,  such  as  other  relevant  ministries,  non-
+governmental organizations as well as private sector entities. The NPES will meet at least once 
+a year to review the project progress.  
+The detailed roles and responsibilities of each organization are provided in Table 3, and 
+11. 
+Figure 3 shows an overview of the structure.  
+Table 3: Project Implementation Organizations: Summary of Roles and Responsibilities 
+Project Implementation 
+Organizations 
+Ministry of Finance (MOF), 
+Borrower 
+Management Roles and Responsibilities  
+•  Sign a grant agreement  
+•  Provide support for grant effectiveness requirements 
+•  Allocate and release counterpart funds in a timely manner 
+•  Process and submit to ADB any request, when required, for 
+reallocating the grant proceeds  
+•  Monitor  project  implementation  and  providing  respective 
+coordination and facilitation 
+to  ADB 
+•  Endorse 
+the  authorized  staff  with  approved 
+signatures for withdrawal applications processing 
+•  Support for the  project’s suppliers  and consultants for local 
+tax-free implementation. 
+6 Headed by the Deputy Prime Minister of Tajikistan with representation of all relevant sector ministries and agencies. 
+6 
+Project Implementation 
+Organizations 
+Project implementation group 
+(PIG) in the EA.  
+Management Roles and Responsibilities  
+PIG will be responsible for implementing the project.  
+•  Coordinate  with  other  government  agencies,  departments 
+and  units,  local  governments,  district  offices,  jamoats7, 
+communities as necessary 
+•  Establish advance account for PIG staff 
+•  Maintain  project  accounts  and  accurate  records  of  both 
+financial and physical progress 
+•  Procure goods 
+•  Recruit and supervise project implementation consultants 
+•  Guide the plans, surveys, studies, detailed designs, capacity 
+to  be  prepared  or 
+development  activities,  workshops 
+implemented by the consultants 
+•  Payments to consultants/suppliers 
+•  Monitor  and  supervise  consulting  services  and  PIG 
+operations;  
+Implement gender action plan;  
+• 
+•  Provide quarterly progress reports  
+•  Disseminate project progress (e.g., planned  and completed 
+project activities including procurement) through the EA’s or 
+project’s website  
+•  Provide  audited  financial  statements  duly  audited  as  per 
+Grant agreement 
+•  Ensure compliance with social and environmental safeguards 
+as  per  ADB’s  Safeguards  Policy  Statement  (SPS)  2009 
+(amended from time to time) 
+Project Implementation 
+Consultants (PIC) 
+•  Carry out activities to deliver the envisaged outputs  
+•  Prepare design specifications of the goods and machinery to 
+be procured 
+•  Assist  PIG  in  procurement  of  equipment  and  machinery  by 
+preparing bidding documents, bid evaluation reports, contract 
+documents 
+•  Assist PIG in implementing gender action plan 
+•  Support PIG and EA in complying with grant covenants 
+•  Carry out training need assessment of staff of EA and other 
+and 
+design 
+program 
+training 
+relevant  ministries, 
+organize/arrange training 
+•  Contract  NGO(s) 
+for  community-based  disaster 
+risk 
+management  training  program  and  awareness  raising  at 
+educational  institutions,  design  training  and  awareness 
+program with them, and supervise implementation 
+•  Develop  project  progress  and  performance  monitoring 
+system, collect data, and prepare quarterly progress reports 
+•  Help PIG in maintaining project accounts 
+•  Prepare the EA’s project completion report 
+•  Coordinate  with  other  government  agencies,  departments 
+jamoat, 
+local  governments,  district  office, 
+and  units, 
+communities as necessary 
+•  Ensure compliance with social and environmental safeguards 
+as per ADB’s SPS 2009 (amended from time to time) 
+7 Jamoat is the third-level administrative divisions, like communes or municipalities, in Tajikistan. 
+Project Implementation 
+Organizations 
+Project  Steering  Committee 
+through NPES 
+Relevant 
+Agencies 
+Ministries 
+and 
+ADB 
+7 
+Management Roles and Responsibilities  
+•  Provide the overall strategic guidance to the project 
+•  Discuss and resolve any implementation issues 
+•  Coordinate with other stakeholders and  
+•  Meet at least once a year to review the project progress. 
+•  Designate  focal  persons  for  the  project  who  shall  be 
+responsible  for  coordination  of  activities  related  to  their 
+respective agencies with the EA/PIG during implementation. 
+•  Revise respective sector strategies for mainstreaming DRM 
+with  support  of  CESCD  and  consultants,  and  get  those 
+approved from the designated government authorities. 
+•  Provide required inputs for preparing sectoral DRM plans and 
+9-year investment plan (2022-2030).  
+•  Nominate staff for training to be provided under the project in 
+consultation with the CESCD.  
+•  Transmit  all  disasters  related  data  collected  by  different 
+agencies to CESCD for integrating in the DMIS. 
+•  Participate 
+in 
+the  project  activities  as  needed  during 
+implementation of the project  
+•  Provide financing for the project cost through an ADF Grant 
+•  Monitor project implementation progress 
+•  Assist the EA and PIG in providing timely guidance at each 
+stage of the project for smooth implementation  
+•  Review all the documents that require ADB approval upon the 
+submission by the PIG  
+•  Conduct periodic project review missions, a midterm review, 
+and a completion mission jointly with Government  
+•  Monitor  project  arrangements,  disbursement,  procurement, 
+consultant selection, and reporting 
+•  Monitor schedules of activities, including funds flow  
+•  Review compliance with agreed procurement procedures 
+•  Review compliance with grant covenants 
+•  Monitor conformance with safeguards procedures 
+•  Monitor project conformity with ADB’s anti-corruption policies 
+the  updated  project 
+•  Regularly  post  on  ADB  website 
+information  documents 
+the 
+safeguards  documents  as  per  disclosure  provision  of  the 
+ADB  SPS  (2009,  amended  from  time  to  time),  and  ADB 
+Public Communications Policy (2011, (amended from time to 
+time). 
+for  public  disclosure,  and 
+ADB = Asian Development Bank, CESCD = Committee of Emergency Situations and Civil Defense, MOF = Ministry of 
+Finance, NPES = National Platform of Emergency Situations, PIG = project implementation group 
+Source: Asian Development Bank. 
+B. 
+Key Persons Involved in Implementation  
+Executing Agency  
+Committee of Emergency 
+Situations and Civil Defense 
+Mr. Rustam Nazarzoda 
+Chairman 
+Telephone No. +992 37 227 95 09 
+8 
+under the Government of 
+Tajikistan 
+Email address: cupravleniya@rs.tj 
+Office Address: 26 Lokhuti St., Dushanbe, Tajikistan 
+Asian Development Bank 
+Tajikistan Resident Mission 
+Central and West Asia 
+Department 
+Mr. Pradeep Srivastava 
+Country Director 
+Telephone No. +992 37 221 05 58 
+Email address: psrivastava@adb.org 
+Office Address: 45 Sovetskaya St., Dushanbe, Tajikistan 
+Mission Leader 
+Tajikistan Resident Mission 
+Central and West Asia 
+Department, ADB 
+Mr. Raza M. Farrukh 
+Head of Project Administration Unit  
+Telephone No. +992 37 221 05 58 
+Email address: rfarrukh@adb.org 
+Office Address: 45 Sovetskaya St., Dushanbe, Tajikistan 
+C. 
+Project Implementation Group 
+The EA is responsible for identifying PIG staff to accomplish implementation of outputs for 
+12. 
+the project. Proposed key PIG staff requires ADBs review and approval. The roles and tasks of 
+key PIG staffs are tabulated in Table 4.  
+Table 4: Roles and Responsibilities of Key PIG staff 
+PIG Director 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+(vii) 
+(viii) 
+(ix) 
+(x) 
+(xi) 
+(xii) 
+(xiii) 
+(xiv) 
+(xv) 
+(xvi) 
+the 
+timely  approval  of  all  required  documents  within 
+Supervise, manage and coordinate implementation of the project; 
+Ensure 
+government systems; 
+Ensure smooth coordination between the EA, ADB and other relevant 
+ministries 
+Guide  and  collaborate  with  the  relevant  staff  to  monitor  output 
+implementation in accordance with the agreed work program; 
+Ensure compliance with ADB’s Guidelines and procedures; 
+Recruit the project support/implementation consultants as per ADB’s 
+Guidelines and procedures; 
+Procure goods/equipment as per ADB’s Guidelines and procedures; 
+Supervise  project  support/implementation  consultants  and  ensure 
+deliveries of the outputs with quality and in time; 
+Support PIG staff in the overall project management and preparation 
+of reports for the government and its relevant agencies; 
+Supervise  organization  and  management  of  seminars,  workshops, 
+media events etc. to represent the project; 
+Ensure timely resolution of the issues arising during implementation; 
+Manage all staff directly working on the project; 
+Coordinate with relevant key staff to maintain an overview of the day-
+to-day operations of the project; 
+Provide  operational  support 
+implementation of their responsibilities; 
+Ensure timely submission of progress reports; 
+Liaise  with  local  government  administrations  participating  in  the 
+project to ensure successful implementation of project activities; 
+to  key  staff  members 
+the 
+in 
+9 
+(xvii) 
+(xviii) 
+(xix) 
+Liaise with ADB staff and supervision missions to ensure successful 
+completion of missions and ongoing project monitoring; and 
+Implement  recommendations  of  ADB  supervision  missions  and 
+associated aide-memoires; and 
+Assist the ADB Missions, and provide inputs as required. 
+Financial 
+Accountant 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+(vii) 
+(viii) 
+(ix) 
+(x) 
+(xi) 
+(xii) 
+(xiii) 
+(xiv) 
+(xv) 
+(xvi) 
+financing, 
+flow  arrangements,  payments, 
+Responsible  for  taking  care  of  financing,  funds  flow  arrangements, 
+payments,  recording,  and  monitoring  of  both  ADB  and  government 
+funds;  
+Deal  with  the  verification  of  the  payment  supporting  documentation 
+from the suppliers and consultants  
+Prepare  the  withdrawal  applications  (WAs)  and  submit  them  for 
+approval of Project Director of the project implementation group (PIG), 
+and upload them for ADB; 
+Be responsible for accounting transactions of PIG staff salaries, per 
+diem etc.;  
+Submit the monthly reports of PIG expenses to PIG Director; 
+prepare  the  project  financial  statements  according  to  cash-based 
+International Public-Sector Accounting Standards; 
+Meet all requests and requirements for Internal Audit from the CESCD 
+and external audit as designated by ADB; 
+Take  care  of 
+funds 
+recording, and monitoring of both ADB and government funds; 
+Ensure timely preparation of the annual audited project accounts and 
+submission to ADB within 6 months of fiscal year end; 
+Cooperate  with  the  Project  Director  and  the  PIG  staff  to  develop  a 
+strategy for guiding and supporting purchase operations made by the 
+PIG in regard to project components; 
+report of any requirements as requested by Tax Committee under the 
+government; 
+Maintain  information  on  ADB  disbursement  guidelines,  and  other 
+resources  needed  by  staff  in  carrying  out  disbursements,  account 
+operation; 
+Coordinate with the specialists of the PIG, to develop and implement 
+payment mechanisms and procedures to support purchases of goods; 
+information  and/or 
+Communicate 
+documentation  to  the  government  or  ADB  for  their  inspection, 
+obtaining comments and/or for commencement of funding;  
+Assist  in  providing  key  inputs  for  preparation  of  project  preparation 
+plans,  project  strategic  assessments,  institutional  roadmaps  and 
+process reviews; 
+Assist in preparation of 9-year investment plan; (vi) carry out study on 
+sustainable financing options for DRM; and  
+the  Project  Director 
+through 
+Procurement 
+Officer 
+(xvii)  Assist the ADB Missions, and provide inputs as required. 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+Carry  out  procurement  activities  with  support  of  project 
+implementation consultants in line with ADB’s procurement guidelines; 
+Maintain records/database of all procurements; 
+Prepare  bidding  documents,  bid  evaluation  reports  with  support  of 
+project implementation consultants; 
+Provide  support  to  Project  Director  for  entering  into  procurement 
+contracts,  oversee  delivery,  issue  invoices,  inspect/test  procured 
+items, and make payments to suppliers; 
+Establish  a  monitoring  system  for  overseeing  project  procurement 
+actions  and  coordinating  necessary  approvals  or  correcting 
+shortcomings in procedures;  
+10 
+Monitoring and 
+Evaluation (M&E) 
+Specialist 
+Gender and Social 
+Development 
+Specialist 
+Secretary/Translator  
+(vi) 
+(vii) 
+(viii) 
+(ix) 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+(vii) 
+(viii) 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+through 
+the  Project  Director 
+information  and/or 
+Communicate 
+documentation  to  the  Government  or  ADB  for  their  inspection, 
+obtaining comments and/or for commencement of funding; and  
+Assist the ADB Missions, and provide inputs as required. 
+Provide  oversight  and  advise  on  procurement  and  contract 
+management;  
+Assist the ADB Missions, and provide inputs as required. 
+Establish project progress and performance monitoring system based 
+on  design  and  monitoring  framework  of  the  project  with  support  of 
+project implementation consultants; 
+Supervise data collection, analysis and reporting on quarterly basis; 
+Monitor  implementation  of  gender  action  plan  and  ensure  progress 
+updates in QPRs 
+Ensure that baseline, intermediate and end-of project socio-economic 
+surveys  and  impact  assessment  in  each  output  of  the  project  are 
+planned and conducted; 
+Assist the ADB Missions, and provide inputs as required. 
+Ensure that capacity building programs, demonstration activities, any 
+activities for outputs include all requirement to implement GAP; 
+Undertake gender monitoring activities and prepare gender reports to 
+be submitted to ADB. 
+Ensure that GAP is updated as and when required; 
+Provide technical inputs and advice to the PIG on relevant aspects of 
+gender mainstreaming and women’s empowerment;  
+Ensure that activities and assessments adequately take account of 
+gender issues and support inclusion;  
+Ensure adherence to ADB’s operational plan for gender equality and 
+women's empowerment, and related policies;  
+Support delivery of training; and  
+Assist the ADB Missions, and provide inputs as required. 
+translation  and 
+interpretation  services 
+Provide  professional 
+(English/Russian/Tajik); 
+Translate documents, ensuring completeness, accuracy and stylistic 
+acceptability of translations produced; 
+Conduct necessary research for each document being translated to 
+ensure that the meaning is interpreted correctly and in full, and that 
+appropriate specialized terminology is employed; 
+Provide secretarial support to Project Director; 
+Assist the ADB Missions, and provide inputs as required. 
+Source: Asian Development Bank. 
+13. 
+The detailed staffing requirements and estimated salaries of PIG are provided in Table 5 
+№ 
+Position1  
+Monthly Salary ($) including all local taxes2 
+Table 5: Staffing Requirement for PIG 
+11 
+1  PIG Director  
+2  Financial Accountant  
+3  Procurement Officer 
+4  Monitoring and Evaluation Officer 
+5  Gender and Social Development Officer 
+6  Secretary/Translator  
+7  Drivers (two) 
+1 1 January 2019 to 31 December 2023. 
+2 Salaries will be increased by 10% annually. 
+Source: Asian Development Bank.  
+D. 
+Other Ministries/Agencies 
+1300.00 
+750.00 
+750.00 
+750.00 
+750.00 
+600.00 
+400.00 
+14.  Ministry of Transport, Energy and Water Resources, Health, Education, Agriculture, and 
+State Committee of Environment Protection will appoint focal persons to coordinate with the EA 
+and PIG during implementation of the project. These sector ministries/agencies will participate in 
+the  trainings  on  DRM,  work  with  the  EA/PIG  and  PIC  for  revising  strategies  and  plans  to 
+incorporate DRM. The Agency of Hydrometeorology under the SCEP will be linked with CESCD 
+for  to  and  from  data  communications  through  DMIS.  Required  climatic  and  hydrological  data 
+collected by the Agency for Hydrometeorology will be transmitted to DMIS. Similarly, seismic data 
+from the Institute of Seismologic Construction and Seismology under the Academy of Science, 
+Department of Geology will be relayed to DMIS. Data from Sarez lake unit and Anti hail unit will 
+also be linked with the DMIS and would be made accessible to the Agency for Hydrometeorology. 
+The DMIS and Early Warning System will be able to disseminate the processed data/information 
+to  relevant  ministries,  and  government  agencies  at  central,  regional,  district,  and  local  level. 
+Arrangements  for  issuing  warnings  to  the  communities  and  local  government  institutions, 
+responsible for pre and post disaster activities, will be carefully laid out.  
+E. 
+Project Organization Structure  
+15. 
+Organization structure for project implementation is given in Figure 1.  
+12 
+Figure 1: Project Organization Structure 
+Government of Tajikistan  
+ADB 
+Others 
+Ministries 
+Agencies 
+Ministry of 
+Finance 
+Project 
+Steering 
+Committee 
+CESCD 
+(EA) 
+PIG 
+Project 
+Implementation 
+Consultant 
+ADB = Asian Development Bank; CESCD = Committee of Emergency Situations and Civil Defense; EA = Executing 
+Agency; IA = Implementing Agency; and PIG = Project Implementation Group. 
+Source: Asian Development Bank. 
+F. 
+Project Implementation Group Organizational Chart 
+16. 
+Figure 2 shows the organizational structure of the project. 
+Figure 2: Project Implementation Group Organizational Chart 
+Project 
+Director 
+Gender and 
+Social 
+Development 
+Officer 
+Financial 
+Accountant 
+Monitoring 
+Evaluation 
+Officer 
+Procurement 
+Officer 
+13 
+G. 
+Implementation Procedures  
+IV. 
+COSTS AND FINANCING 
+The  project  modality  is  stand-alone  grant  project.  The  current  ADB  allocation  for  the 
+17. 
+project  is  $10.0  million  grant  from  ADB’s  Special  Funds  resources  (Asian  Development  Fund) 
+under the disaster risk reduction financing mechanism.8 The government will finance taxes and 
+duties  initially  estimated  at  $1.0  million.  Initial  estimate  of  climate  change  adaptation  is  $3.0 
+million. ADB will finance 100% of the adaptation cost. The financing plan is in Table 6. Detailed 
+cost by expenditures, project investment and financing plans are provided in following tables. 
+Table 6: Financing Plan 
+Source 
+Asian Development Bank  
+Special Fund resources (ADF grant) 
+Government 
+Total 
+Source: Asian Development Bank 
+Amount 
+($ million) 
+Share of Total 
+(%) 
+10.0 
+1.0 
+11.0 
+90.9 
+9.1 
+100.0 
+A. 
+Cost Estimates Preparation and Revisions  
+18. 
+The cost estimates and financing plan  of the project have been  prepared during ADB’s 
+Fact-Finding Mission in May 2018. The cost estimates are in Table 8 and shall be reviewed and 
+updated (if necessary) during the inception, review and midterm review missions.  
+B. 
+Key Assumptions 
+19. 
+The following key assumptions underpin the cost estimates and financing plan: 
+(i) 
+(ii) 
+Exchange rate: $1 = TJS 8.989  
+Price  contingencies  based  on  expected  cumulative 
+implementation period are as follows in Table 7: 
+inflation  over 
+the 
+Table 7: Escalation Rates for Price Contingency Calculation 
+Item 
+Foreign rate of price inflation 
+2019  2020 
+1.5%  1.5% 
+Domestic rate of price inflation 
+7.0%  7.0% 
+2021 
+1.5
+% 
+7.0
+% 
+2022 
+1.5% 
+2023 
+1.5% 
+Average 
+1.5% 
+7.0% 
+7.0% 
+7.0% 
+Source: Asian Development Bank estimates.  
+C. 
+ Detailed Cost Estimates by Expenditure Category  
+20. 
+Expenditure accounts project cost summary is given in Table 8 below. 
+8 ADB. 2016. Concessional Assistance Policy 2016. Manila. 
+9 ADB Forex as of 25 May 2018. 
+14 
+Table 8: Cost Estimates by Expenditure Category  
+A. 
+Investment Costs  
+Consulting Services 
+  Equipment and Machinery 
+  Subtotal (A) 
+B.  Recurrent Costs 
+  PIG Office Establishment 
+  PIG Incremental Staff Cost 
+  Subtotal (B) 
+  Total Base Cost (A+B) 
+C.  Contingencies  
+  Physical 
+  Price 
+  Subtotal (C) 
+D. 
+Financing Charges During 
+Implementation  
+Total Project Cost (A+B+C+D) 
+TJS million 
+$ million 
+Foreign 
+Exchange 
+Local 
+Currency 
+Total 
+Cost 
+Foreign 
+Exchange 
+Local 
+Currency 
+45.79 
+0.00 
+45.79 
+0.00 
+0.00 
+0.00 
+45.79 
+0.00 
+2.07 
+2.07 
+0.00 
+47.86 
+0.00 
+38.33 
+38.33 
+2.67 
+4.63 
+7.30 
+45.63 
+2.67 
+1.76 
+4.43 
+45.79 
+38.33 
+84.12 
+2.67 
+4.63 
+7.30 
+91.42 
+2.67 
+3.83 
+6.50 
+0.00 
+50.06 
+0.00 
+97.92 
+5.15 
+0.00 
+5.15 
+0.00 
+0.00 
+0.00 
+5.15 
+0.00 
+0.23 
+0.23 
+0.00 
+5.38 
+0.00 
+4.31 
+4.31 
+0.30 
+0.52 
+0.82 
+5.13 
+0.30 
+0.20 
+0.50 
+0.00 
+5.62 
+% of 
+Total 
+Base 
+Cost 
+Total 
+Cost  
+5.15 
+4.31 
+9.45 
+50% 
+42% 
+92% 
+0.30 
+0.52 
+0.82 
+10.27  100% 
+3% 
+5% 
+8% 
+0.30 
+0.43 
+0.73 
+3% 
+4% 
+7% 
+0.00 
+11.00  107% 
+0% 
+Notes: Numbers may not sum precisely because of rounding. 
+Source: Asian Development Bank . 
+D. 
+  Allocation and Withdrawal of Grant Proceeds  
+21. 
+For the proposed project, the government has requested a grant not exceeding $10m. The 
+current ADB allocation for the project is $10.0 million comprising Asian Development Fund (ADF) 
+grant under the disaster risk reduction (DRR) financing mechanism.10 The government will finance 
+taxes and duties initially estimated at $1.0 million. Initial estimate of climate change adaptation is 
+$3.0 million. ADB will finance 100% of the adaptation cost.  
+Number 
+Table 9: Allocation and Withdrawal of Grant Proceeds 
+CATEGORY 
+Total Amount 
+Allocated for 
+ADB Financing  
+($ million) 
+Item 
+Basis for Withdrawal from the Grant 
+Account 
+1 
+2 
+3 
+4 
+5 
+Consulting Services 
+Equipment and Machinery 
+PIG Office Establishment 
+PIG Incremental Staff Cost 
+Unallocated 
+Total 
+* Exclusive of Taxes and Duties.  
+5.2 
+3.3 
+0.3 
+0.5 
+0.7 
+10.0 
+10 ADB. 2016. Concessional Assistance Policy. 2016. Manila.  
+100% of total expenditure claimed* 
+100% of total expenditure claimed* 
+100% of total expenditure claimed 
+100% of total expenditure claimed 
+100% of total expenditure claimed 
+15 
+Total Cost 
+Amount 
+(Taxes) 
+E.     Detailed Cost Estimates by Financier 
+22. 
+Detailed Cost Estimates by Financier is in Table 10.  
+Table 10: Cost Estimates by Financier  
+($ million) 
+Item 
+ADB Grant 
+A. 
+Investment Costs  
+Consulting Services 
+  Equipment and 
+Machinery 
+Subtotal (A) 
+B.  Recurrent Costs 
+PIG Office 
+Establishment 
+  PIG Incremental 
+Staff Cost 
+  Subtotal (B) 
+C.  Contingencies  
+Financing 
+Charges During 
+Implementation  
+Total Project Cost 
+(A+B+C+D) 
+D. 
+Amount 
+(Taxes) 
+% of 
+Cost 
+Category 
+      5.15  
+      3.31  
+      8.45  
+0.00 
+0.00 
+0.00 
+100% 
+76.7% 
+100% 
+      0.30  
+0.00 
+100% 
+      0.52  
+      0.82  
+      0.73  
+0.00 
+0.00 
+0.00 
+100% 
+100% 
+100% 
+Government Counterpart 
+% of 
+Cost 
+Category 
+(Taxes) 
+Amount 
+0.00 
+0.00 
+0.00 
+     5.15  
+0.00 
+0.00 
+0.00 
+     1.00  
+     1.00  
+23.3% 
+0.00 
+     3.31  
+     8.45  
+     1.00  
+     1.00  
+0.00 
+0.00 
+0.00 
+     0.30  
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+     0.52  
+     0.82  
+     0.73  
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.0% 
+0.00 
+0.00 
+0.0% 
+0.00 
+0.00 
+    10.00  
+0.00 
+90.9% 
+0.00 
+     1.00  
+9.1% 
+   10.00  
+     1.00  
+9.1% 
+   % of Total Project Cost 
+90.9% 
+F. 
+Detailed Cost Estimates by Outputs and/or Components 
+23.  Detailed Cost Estimated by Outputs/Components is in Table 11.  
+Table 11: Detailed Cost Estimates by Outputs and/or Components 
+($ million) 
+Output 1 
+Output 2 
+Output 3 
+Total 
+Cost 
+Amount 
+% of 
+Cost 
+Category 
+Amount 
+% of Cost 
+Category 
+Amount 
+% of Cost 
+Category 
+5.15 
+4.31 
+9.45 
+1.79 
+0.00 
+1.79 
+35% 
+0% 
+19% 
+3.02 
+4.31 
+7.32 
+59% 
+100% 
+77% 
+0.34 
+0.00 
+0.34 
+7% 
+0% 
+4% 
+Investment Costs  
+A. 
+  Consulting Services 
+Equipment and Machinery 
+Subtotal (A) 
+B.  Recurrent Costs 
+16 
+PIG Office Establishment 
+PIG Incremental Staff Cost 
+Subtotal (B) 
+Total Base Cost (A+B) 
+C.  Contingencies  
+Physical 
+Price 
+Subtotal (C) 
+Financing Charges During 
+Implementation  
+Total Project Cost (A+B+C+D) 
+D. 
+2.25 
+Notes: Numbers may not sum precisely because of rounding. 
+Sources: Asian Development Bank estimate. 
+11.00 
+0.30 
+0.52 
+0.82 
+10.27 
+0.30 
+0.43 
+0.73 
+0.00 
+0.10 
+0.17 
+0.27 
+2.06 
+0.10 
+0.09 
+0.19 
+0.00 
+33% 
+33% 
+33% 
+20% 
+35% 
+20% 
+26% 
+0% 
+20% 
+0.10 
+0.17 
+0.27 
+7.60 
+0.18 
+0.32 
+0.49 
+0.00 
+8.09 
+33% 
+33% 
+33% 
+74% 
+59% 
+74% 
+68% 
+0% 
+74% 
+0.10 
+0.17 
+0.27 
+0.62 
+0.02 
+0.03 
+0.05 
+0.00 
+0.66 
+33% 
+33% 
+33% 
+6% 
+7% 
+6% 
+6% 
+0% 
+6% 
+G. 
+Detailed Cost Estimates by Year 
+24.  Detailed Cost Estimates by Year is in Table 12.  
+Table 12: Detailed Cost Estimates by Year  
+($ million) 
+Item 
+A. 
+Investment Costs  
+Consulting Services 
+Equipment and Machinery 
+Subtotal (A) 
+B.  Recurrent Costs 
+PIG Office Establishment 
+PIG Incremental Staff Cost 
+Subtotal (B) 
+C.  Contingencies  
+D. 
+Financing Charges During 
+Implementation  
+Total Project Cost (A+B+C+D) 
+% of Total Project Cost 
+17% 
+18% 
+20% 
+25% 
+20% 
+2019 
+2020 
+2021 
+2022 
+2023 
+0.87 
+0.00 
+0.87 
+0.30 
+0.10 
+0.40 
+0.12 
+0.00 
+1.40 
+0.93 
+0.00 
+0.93 
+0.00 
+0.10 
+0.10 
+0.13 
+0.00 
+1.16 
+1.03 
+0.86 
+1.89 
+0.00 
+0.10 
+0.10 
+0.15 
+0.00 
+2.14 
+1.29 
+3.01 
+4.30 
+0.00 
+0.10 
+0.10 
+0.18 
+0.00 
+4.59 
+1.03 
+0.43 
+1.46 
+0.00 
+0.10 
+0.10 
+0.15 
+0.00 
+1.71 
+Total 
+Cost 
+5.15 
+4.31 
+9.45 
+0.30 
+0.52 
+0.82 
+0.73 
+0.00 
+11.0 
+100.0% 
+12.8% 
+10.6% 
+19.5% 
+41.7% 
+15.5% 
+Notes: Numbers may not sum precisely because of rounding. 
+Sources: Asian Development Bank estimate. 
+H. 
+Contract and Disbursement S-Curve  
+The forecasted contract award and disbursement profile as of May 2018 for the project 
+25. 
+financing is shown below. 
+17 
+n
+o
+i
+l
+l
+i
+m
+$
+S
+U
+ 12.0
+ 10.0
+ 8.0
+ 6.0
+ 4.0
+ 2.0
+ -
+Period 
+ Q1 2019  
+ Q2 2019  
+ Q3 2019  
+ Q4 2019  
+ Q1 2020  
+ Q1 2020  
+ Q3 2020  
+ Q4 2020  
+ Q1 2021  
+ Q2 2021  
+ Q3 2021  
+ Q4 2021  
+ Q1 2022  
+ Q2 2022  
+ Q3 2022  
+ Q4 2022  
+ Q1 2023  
+ Q2 2023  
+ Q3 2023  
+ Q4 2023  
+ Q1 2024  
+ Q2 2024  
+ Q3 2024  
+Contract Award and Disbursement
+(ADB Grant)
+ Cumulative   Contract Awards
+ Cumulative   Disbursements
+ Cumulative  
+ Quarterly  
+ Contract 
+Awards  
+1.60 
+1.60 
+1.54 
+1.68 
+0.03 
+1.00 
+1.48 
+1.07 
+ Contract 
+Awards  
+1.60 
+3.20 
+4.74 
+6.42 
+6.45 
+6.45 
+6.45 
+6.45 
+6.45 
+7.45 
+8.93 
+10.00 
+10.00 
+10.00 
+10.00 
+10.00 
+10.00 
+10.00 
+10.00 
+10.00 
+10.00 
+10.00 
+10.00 
+Disbursements  
+0.20 
+0.55 
+0.84 
+1.34 
+1.54 
+1.78 
+2.13 
+2.45 
+2.61 
+2.98 
+3.62 
+4.40 
+5.80 
+6.70 
+7.65 
+8.45 
+8.76 
+9.09 
+9.32 
+9.50 
+9.66 
+9.81 
+10.00 
+ Disbursements  
+0.20 
+0.35 
+0.29 
+0.50 
+0.20 
+0.24 
+0.35 
+0.32 
+0.16 
+0.37 
+0.64 
+0.78 
+1.40 
+0.90 
+0.95 
+0.80 
+0.31 
+0.33 
+0.23 
+0.18 
+0.16 
+0.15 
+0.19 
+18 
+I. 
+Fund Flow Diagram 
+26.  Fund flow arrangements for the project are depicted in Figure 3. 
+Figure 3: Fund Flow Diagram 
+V. 
+FINANCIAL MANAGEMENT 
+A. 
+Financial Management Assessment 
+The  country  public  financial  management  (PFM)  system  was  assessed  by  reviewing  a 
+27. 
+public expenditure and financial accountability (PEFA) assessment completed in November 2012. 
+This  financial  management  assessment  (FMA)  report  has  been  conducted  in  May  2018  with 
+reference to the Guidelines for the Financial Management and Analysis of Projects11, Financial 
+Due Diligence: A Methodology Note12, and Financial Management Technical Guidance Note13. It 
+incorporates  the  financial  management  internal  control  and  risk  management  assessment 
+required  by  the  ADB’s  Guidelines  and may  need  to  be  amended  further  to  reflect  subsequent 
+developments and agreements during the project implementation. This FMA preparatory activities 
+included reviewing documents, interviewing staff of government agency and other stakeholders, 
+and completed with inputs from other references through desk studies completed in May 2018.  
+28. 
+This  FMA  focus  on  accountability,  transparency  and  the  capacity  of  the  CESCD    and 
+covers  (i)  financial  information  systems,  and  internal  and  external  auditing  arrangements;  (ii) 
+funds-flow arrangements; (iii) staffing; (iv) accounting and financial reporting; and (v) independent 
+audit.  Based  on  the  assessment,  the  key  financial  management  risks  identified  are  lack  of 
+experience of EA in implementing ADB assisted projects, setting up of PIG with qualified staff and 
+need for extensive training to be given to PIG on ADB’s Loan Disbursement Handbook (2017, 
+amended from time to time)14. It is concluded that the overall pre-mitigation financial management 
+11 ADB. 2005. Guidelines for the Financial Management and Analysis of Projects. Manila. 
+12 ADB. 2009. Financial Due Diligence: A Methodology Note. Manila. 
+13 ADB. 2015. Financial Management Technical Guidance Note. Manila. 
+14 The handbook is available electronically from the ADB website (http://www.adb.org/documents/ loan-disbursement-
+handbook). 
+risk  of  the  EA  is  ‘moderate’.  The  use  of  advance  fund  and  Statement  of  Expenditures  (SOE) 
+procedures are proposed, the EA has adequate capacity and power to manage advance fund and 
+SOE procedures although some improvements and capacity building will be needed. The EA has 
+agreed to implement an action plan as key measures to address the deficiencies. The financial 
+management action plan is provided in Table 13. 
+19 
+Weakness 
+The  EA  has  no  experience  in 
+implementing  ADB 
+financed 
+projects. 
+However,  PIG  has  not  been 
+formed yet and the experience 
+and skills of PIG staff needs to 
+be assured. 
+The EA’s Financial Accountant 
+is experienced and familiar with 
+the  Financial  Management 
+Procedure.  However,  he  has 
+not yet received any training on 
+ADB  Financial  Management 
+procedure  and  ADB’s  Loan 
+Disbursement 
+Handbook 
+(2017,  as  amended  from  time 
+to time). 
+Table 13: Time-Bound Action Plan 
+Mitigation Action 
+The EA needs to timely set up PIG 
+with  qualified  staff  before  grant 
+effectiveness. 
+Handbook 
+Provide  training  on  ADB’s  Loan 
+Disbursement 
+and 
+Financial  Management  procedure 
+for the Financial Accountant as part 
+of the PIG consultancy package. All 
+PIG  expenses  will  route  through 
+advance  account  and  other  funds 
+through  ADB  direct 
+will 
+flow 
+payments 
+and 
+suppliers 
+to 
+consultants. 
+Responsibility  Target Date 
+EA 
+September 
+2018 
+ADB/EA 
+December 
+2018 
+ADB = Asian Development Bank, EA = Executing Agency, PIG = Project Implementation Group. 
+Source: Asian Development Bank. 
+B. 
+Disbursement 
+Disbursement Arrangements for ADB {and ADB-administered cofinancier} Funds 
+The  grant  proceeds  will  be  disbursed  in  accordance  with  ADB’s  Loan  Disbursement 
+29. 
+Handbook and detailed arrangements agreed upon between the government and ADB. The Loan 
+Disbursement Handbook describes the procedures and provides standard forms for withdrawal 
+of funds. Online training for project staff on disbursement policies and procedures is available at: 
+http://wpqr4.adb.org/disbursement_ e-learning. The project staffs are encouraged to avail of this 
+training to help ensure efficient disbursement and fiduciary control. 
+30. 
+Direct payments.  Payments for goods, the project implementation consultants, and other 
+payments, which either are in large amount or should be made in US dollars, will be made by 
+direct payment from ADB to the contractors, upon receipt of PIG’s withdrawal application / direct 
+payment  request,  along  with  necessary  supporting  documents.  Payments  for  goods  suppliers 
+may be made either by direct payment from ADB. Withdrawal applications will be prepared by the 
+PIG.  PIG,  assisted  by  project  implementation  consultants,  will  prepare  contract  awards  and 
+disbursement projections, request budgetary allocations for counterpart funds, collect supporting 
+documents, and prepare and send withdrawal applications to ADB. 
+31. 
+Advance  account.  The  EA  will  establish  an  advance  account  promptly  after  grant 
+effectiveness at a commercial bank acceptable to ADB15. The currency of the advance account 
+is the US dollar. The advance account is to be used exclusively for the ADB’s share of eligible 
+15 The bank charges incurred in the operation of the advance account may be financed from the grant proceeds. 
+20 
+expenditures.  The  EA  and  its  PIG  who  administers  the  advance  account  is  accountable  and 
+responsible  for  proper  use  of  advances  to  the  advance  account.  The  EA  through  its  PIG  will 
+manage the advance account, which have a sufficient capacity to administer it.  The initial and 
+additional  advances  to  the  advance  account  may  be  requested  based  on  6 months  estimated 
+expenditures  to  be  financed  through  the  advance  account.  The  advance  account  will  be 
+established, managed, and liquidated in accordance with ADB’s Loan Disbursement Handbook 
+and  detailed  arrangements  agreed  by  the  government  and  ADB.  ADB’s  Loan  Disbursement 
+Handbook describes what supporting documents should be submitted to ADB and which should 
+be retained by the government for liquidation and replenishment of an advance account.  
+32. 
+The total outstanding advance to the advance account should not exceed the estimate of 
+ADB’s  share  of  expenditures  to  be  paid  through  the  advance  account  for  the  forthcoming  6 
+months. The EA may request for initial and additional advances to the advance account based on 
+an Estimate of Expenditure Sheet16 setting out the estimated expenditures to be financed through 
+the account for the forthcoming 6 months. Supporting documents should be submitted to ADB or 
+retained by the CESCD in accordance with ADB’s Loan Disbursement Handbook when liquidating 
+or replenishing the advance account.  
+Statement of expenditure procedure.17  The statement of expenditure (SOE) procedure 
+33. 
+will be used for reimbursement of eligible expenditures or liquidation of advances to the advance 
+account.18 The ceiling of the SOE procedure is the equivalent of $100,000 per individual payment. 
+Supporting  documents  and  records  for  the  expenditures  claimed  under  the  SOE  should  be 
+maintained and made readily available for review by ADB's disbursement and review missions, 
+upon  ADB's  request  for  submission  of  supporting  documents  on  a  sampling  basis,  and  for 
+independent audit. Reimbursement and liquidation of individual payments in excess of the SOE 
+ceiling should be supported by full documentation when submitting the withdrawal application to 
+ADB.  
+Authorized signatories. Before the submission of the first withdrawal application (WA), 
+34. 
+the EA should submit to ADB sufficient evidence of the authority of the person(s) who will sign 
+the WAs  on  behalf  of the government, together with  the  authenticated specimen  signatures  of 
+each  authorized  person.  The  minimum  value  per  WA  is  stipulated  in  the  Loan  Disbursement 
+Handbook.  Individual  payments  below  such  amount  should  be  paid  (i)  by  the  EA  and 
+subsequently claimed to ADB through reimbursement, or (ii) through the advance fund procedure, 
+unless otherwise accepted by ADB. The borrower should ensure sufficient category and contract 
+balances before requesting disbursements. Use of ADB’s Client Portal for Disbursements (CPD)19 
+system is encouraged for submission of WAs to ADB. For direct payments, the contractors and 
+consultants will submit their invoices or interim payment certificates as appropriate to EA who will 
+process  them  and  send  with  the  required  withdrawal  applications  to  ADB.  The  EA  will  be 
+responsible for (i) preparing disbursement projections, (ii) collecting supporting documents, and 
+(iii) preparing and sending WAs to ADB.   
+16  Estimate  of  expenditure  sheet  is  available  in  Appendix  8A  of  ADB’s  Loan  Disbursement  Handbook  (2017,  as 
+amended from time to time). 
+17 SOE forms are available in Appendix 7B and 7D of ADB’s Loan Disbursement Handbook (2017, as amended from 
+time to time). 
+18 The EA has adequate capacity and suitable to manage SOE procedure. 
+19 The CPD facilitates online submission of WA to ADB, resulting in faster disbursement. The forms to be completed 
+by the Borrower are available online at https://www.adb.org/documents/client-portal-disbursements-guide.    
+21 
+Following to ADB's Safeguard Policy Statement (2009) (SPS),20 ADB funds may not be 
+35. 
+applied  to the  activities described  on the  ADB  Prohibited  Investment  Activities List  set forth at 
+Appendix 5 of the SPS. All financial institutions will ensure that their investments  are following 
+applicable  national  laws  and  regulations  and  will  apply  the  prohibited  investment  activities  list 
+(Appendix 5) to subprojects financed by ADB. 
+36. 
+No withdrawal shall be made from the grant account until an appropriate legislation has 
+been  passed  to  provide  exemption  from  taxes  and  duties  on  project  expenditures  or  the 
+government has made budgetary allocation to the EA for the costs of such taxes and duties.  
+C. 
+Accounting 
+The EA through PIG will maintain separate books and records by funding source for all 
+37. 
+expenditures  incurred  on  the  project.  The  EA  will  prepare  consolidated  project  financial 
+statements  in  accordance  with  the  government’s  accounting  laws  and  regulations  which  are 
+consistent with international accounting principles and practices. 
+D. 
+ Auditing and Public Disclosure 
+38. 
+The EA through PIG will cause the detailed consolidated project financial statements to 
+be  audited  in  accordance  with  International  Standards  on  Auditing  and  with  the  government's 
+audit  regulations,  by  an  independent  auditor  acceptable  to  ADB.  The  audited  project  financial 
+statements will be submitted in the English language to ADB within six months of the end of the 
+fiscal year by the PIG. 
+39. 
+The annual audit report for the project accounts will include an audit management letter 
+and audit opinions which cover (i) whether the project financial statements present a true and fair 
+view or are presented fairly, in all material respects, in accordance with the applicable financial 
+reporting framework; (ii) whether loan and grant proceeds were used only for the purposes of the 
+project  or  not;  (iii)  the  level  of  compliance  for  each  financial  covenant  contained  in  the  legal 
+agreements  for  the  project;  (iv)  use  of  the  advance  fund  procedure;  and  (v)  the  use  of  the 
+statement of expenditure procedure certifying to the eligibility of those expenditures claimed under 
+SOE procedures, and proper use of the SOE and advance procedures in accordance with ADB’s 
+Loan Disbursement Handbook and the project documents.  
+40. 
+Compliance with financial reporting and auditing requirements will be monitored by review 
+missions and during normal program supervision, and followed up regularly with all concerned, 
+including the external auditor.   
+41. 
+The EA and its PIG have been made aware of ADB’s approach to delayed submission, 
+and  the  requirements  for  satisfactory  and  acceptable  quality  of  the  audited  project  financial 
+statements.21 ADB reserves the right to require a change in the auditor (in a manner consistent 
+20 Available at: http://www.adb.org/documents/safeguard-policy-statement?ref=site/safeguards/main. 
+21 ADB approach and procedures regarding delayed submission of audited project financial statements:   
+• When audited project financial statements are not received by the due date, ADB will write to the executing agency 
+advising that (i) the audit documents are overdue; and (ii) if they are not received within the next six months, requests 
+for  new  contract  awards  and disbursement  such  as  new  replenishment  of  advance  accounts, processing  of  new 
+reimbursement, and issuance of new commitment letters will not be processed.  
+•  When  audited  project  financial  statements  have  not  been  received  within  6  months  after  the  due  date,  ADB  will 
+withhold processing of requests for new contract awards and disbursement such as new replenishment of advance 
+accounts,  processing  of  new  reimbursement,  and  issuance  of  new  commitment  letters.  ADB  will  (i)  inform  the 
+22 
+with the constitution of the borrower), or for additional support to be provided to the auditor, if the 
+audits required are not conducted in a manner satisfactory to ADB, or if the audits are substantially 
+delayed. ADB reserves the right to verify the project's financial accounts to confirm that the share 
+of ADB’s financing is used in accordance with ADB’s policies and procedures. 
+42. 
+Public  disclosure  of  the  project  financial  statements,  including  the  audit  report  on  the 
+project financial statements, will be guided by ADB’s Public Communications Policy (2011)22. After 
+review, ADB will disclose the project financial statements for the project and the opinion of the 
+auditors on the financial statements within 30 days of the date of their receipt by posting them on 
+ADB’s website. The audit management letter will not be disclosed. 
+VI. 
+PROCUREMENT AND CONSULTING SERVICES 
+A. 
+Advance Contracting and Retroactive Financing 
+All advance contracting will be undertaken in conformity with ADB’s Procurement Policy 
+43. 
+and Procurement Regulations for ADB Borrowers: Goods, Works, Nonconsulting and Consulting 
+Services (2017, amended from time to time)23. The issuance of invitations to bid under advance 
+contracting will be subject to ADB approval. The borrower, EA and PIG have been advised that 
+approval of advance contracting does not commit ADB to finance the project. Advance contracting 
+actions will be completed before approval of the project for recruitment of PIC services to mobilize 
+them immediately after the grant is declared effective, to avoid start up implementation delays. 
+The government has been advised that (i) approval of advance contracting does not commit ADB 
+to finance the project; and (ii) the issuance of invitations to bid under advance contracting will be 
+subject to ADB approval. 
+44.  Retroactive financing. Will not be used. 
+ The  consulting  services  will  be  required  for  carrying  out  required  assessments  and 
+45. 
+studies, and support implementation of the activities to deliver the designed outputs. The project 
+implementation consultants (PIC) will also support in financial management, implementation of 
+gender  action  plan,  procurement  of  goods/equipment  and  machinery,  and  monitoring  of  the 
+project.   
+B. 
+Procurement of Goods, Works, and Consulting Services 
+All procurement of goods will be undertaken in accordance with ADBs Procurement Policy 
+46. 
+and Procurement Regulations for ADB Borrowers: Goods, Works, Nonconsulting and Consulting 
+Services. 
+ Open  competitive  bidding  (OCB)  procurement  method  will  apply  to (i)  goods  contracts 
+47. 
+valued  at  least  $2.0  million  with  international  advertisements;  (ii)  goods  contracts  valued  from 
+$100,001  and  $1,999,999  with  national  advertisements  (Box  1  below);  and  (iii)  services  ─  the 
+project implementation consultants will be advertised internationally. OCB for goods will use the 
+executing agency of ADB’s actions; and (ii) advise that the loan may be suspended if the audit documents are not 
+received within the next six months. 
+• When audited project financial statements have not been received within 12 months after the due date, ADB may 
+suspend the loan. 
+22 Available at https://www.adb.org/documents/pcp-2011.  
+23 The document is available electronically from the ADB website (https://www.adb.org/sites/default/files/procurement-
+regulations-adb-borrowers.pdf). 
+23 
+single-stage, one-envelope bidding procedure. Requests for quotations will be sought for goods 
+and services valued up to $100,000. The bidding documents will be prepared for all procurement 
+packages and request for proposals (RFPs) for the two consultancy packages. 
+All consultants and nongovernment organizations (NGOs) will be recruited according to 
+48. 
+Procurement  Policy  and  Procurement  Regulations  for  ADB  Borrowers:  Goods,  Works, 
+Nonconsulting  and  Consulting  Services.  The  terms  of  reference  for  all  consulting  services  are 
+detailed in Appendix 1.  
+49. 
+The PIG will be directly responsible for procuring goods and services. The PIG will recruit 
+the  construction  supervision  consultants  through  quality-and  cost-based  selection  method 
+(90:10). 
+50. 
+ADB  and  the  government  reviewed  the  public  procurement  laws  of  the  government  to 
+ensure consistency with the ADB’s Procurement Policy and Procurement Regulations for ADB’s 
+Borrowers: Goods, Works, Nonconsulting and Consulting Services. The additional requirements 
+for OCB with national advertisement are described in Box 1.  
+Box 1. Open Competitive Bidding – National Advertisement 
+A.   Regulation and Reference Documents 
+1.  The  procedures  to  be  followed  for  national  competitive  bidding  shall  conform  to  the  provisions 
+prescribed in the national legislation, with the clarifications and modifications described in the following 
+paragraphs required for compliance with the provisions of the ADB Procurement Guidelines. 
+B.  Procurement Procedures 
+2.  Eligibility.  The  eligibility  of  bidders  shall  be  as  defined  under  Section  I  of  ADB’s  Procurement 
+Guidelines (2015, as amended from time to time) (the “Guidelines); accordingly, no bidder or potential 
+bidder should be declared ineligible for reasons other than those provided in Section I of the Guidelines. 
+3.  Registration and Sanctioning. Registration is acceptable under the following conditions: 
+(i)  Bidding shall not be restricted to pre-registered firms under the national registration system, and 
+such registrations shall not be a condition for the submission of bids in the bidding process. 
+(ii)  National sanction lists or blacklists may be applied only with prior approval of ADB. 
+4.  Prequalification.  Prequalification  is  discouraged  for  OCB-National.  When  used,  particularly  for 
+goods contracts, an individual prequalification exercise is acceptable for each contract as is the use of 
+a registration system (or approved standing list) of contractors based  on criteria such as experience, 
+financial  capacity,  and  technical  capacity.  Foreign  bidders  from  eligible  countries  must,  however,  be 
+allowed to register and to bid without unreasonable cost or additional requirements. 
+5.  Advertising.  The  posting  of  OCB-National  specific  notices  for  contracts  valued  at  less  than  $1 
+million on ADBs website is not required but is highly recommended. 
+6.  Preferences.  The  following  shall  be  observed:  (i)  No  preference  of  any  kind  shall  be  given  to 
+domestic bidders or for domestically manufactured goods; and (ii) foreign suppliers and contractors from 
+ADB member countries shall be allowed to bid, without registration, licensing, and other government 
+authorizations,  leaving  compliance  with  these  requirements  for  after  award  and  before  signing  of 
+contract. 
+7.  Participation by Government-Owned Enterprises. Government-owned enterprises in Republic 
+of Tajikistan shall be eligible to participate only if they can establish that they are legally and financially 
+24 
+autonomous, operate under commercial law, and are not a dependent agency of the procuring entity, 
+or the EA or PIG. 
+8.  Rejection of Bids and Rebidding. Bids shall not be subjected to a test for unrealistic rates. No 
+lowest evaluated and substantially responsive bid shall be rejected on the basis of comparison to rates, 
+including but not limited to market, historical, or agency established rates, without prior approval of ADB. 
+9.  Bids shall not be rejected, and new bids solicited without the ADB’s prior concurrence. 
+10. Price Negotiations. Price negotiation shall be allowed only where the price offered by the lowest 
+evaluated and substantially responsive bidder substantially exceeds costs estimates. Approval of ADB 
+is required prior to any negotiation of prices. 
+C.  Bidding Documents 
+11. Acceptable  Bidding  Documents.  Procuring  entities  shall  use  standard  bidding  documents 
+acceptable to ADB for the Procurement of Goods, Works and Consulting Services, based ideally on the 
+standard bidding documents issued by ADB. 
+12. Bid Security. Where required, bid security shall be  in the form of a certified cheque, a letter of 
+credit or a bank guarantee from a reputable bank. 
+13. ADB Policy Clauses. A provision shall be included in all OCB-National works and goods contracts 
+financed by ADB requiring suppliers and contractors to permit ADB to inspect their accounts and records 
+and other documents relating to the bid submission and the performance of the contract, and to have 
+them audited by auditors appointed by ADB. 
+14. A provision shall be included in all bidding documents for OCB-National works and goods contracts 
+financed  by  ADB  stating  that  the  Borrower  shall  reject  a  proposal  for  award  if  it  determines  that  the 
+bidder  recommended  for  award  has,  directly  or  through  an  agent,  engaged  in  corrupt,  fraudulent, 
+collusive, coercive or obstructive practices in competing for the contract in question. 
+15. A provision shall be included in all bidding documents for OCB-National works and goods contracts 
+financed by ADB stating that ADB will declare a firm or individual ineligible, either indefinitely or for a 
+stated period, to be awarded a contract financed by ADB, if it at any time determines that the firm or 
+individual  has,  directly  or  through  an  agent,  engaged  in  corrupt,  fraudulent,  collusive,  coercive  or 
+obstructive practices or any integrity violation in competing for, or in executing, ADB-financed contract. 
+C. 
+Procurement Plan 
+51. 
+An 18-month procurement plan indicating thresholds and review procedures, goods and 
+consulting service contract packages is in Table 14, which will be updated with the approval of 
+EA/PIG, in agreement with ADB, as part of the annual planning process or as required during the 
+implementation.  The  procurement  plan  also  includes  (i)  goods  contracts  for  equipment  and 
+furniture (for the PIG office and vehicles for the PIG and PIC); and (ii) services.  
+Table 14: Procurement Plan 
+Basic Data 
+ Project Name: National Disaster Risk Management Project 
+ Project Number: 52106-001 
+Approval Number: xxx 
+ Country: Tajikistan 
+ Project Procurement Classification: Category B 
+Project Procurement Risk: Medium 
+ Project Financing Amount: US$ 11,000,000 
+ADB Financing: US$ 10,000,000 
+Cofinancing (ADB Administered):   
+Non-ADB Financing: US$ 1,000,000 
+ Date of First Procurement Plan: 25 June 2018  
+25 
+Executing Agency:  Committee  of  Emergency 
+Civil 
+the 
+Situations 
+Defense 
+Government of Tajikistan 
+and 
+under 
+Implementation  Group 
+Implementing Agency: 
+the 
+Project 
+Committee  of  Emergency  Situations  and  Civil 
+Defense under the Government of Tajikistan 
+Project Closing Date: 30 June 2024 
+under 
+Date of this Procurement Plan:  25 June 2018 
+ Procurement Plan Duration (in months): 18 
+Advance Contracting: Yes  e-GP: No 
+Method 
+  Applicability 
+  Comments 
+Procurement of Goods and Works 
+Open Competitive Bidding (OCB) for 
+Works – International Advertisement 
+$3,000,000 and above 
+Open Competitive Bidding (OCB) for 
+Works – National Advertisement 
+Between $100,001 and 
+$2,999,999 
+Open Competitive Bidding (OCB) for 
+Goods – International Advertisement 
+$2,000,000 and above  
+Open Competitive Bidding (OCB) for 
+Goods – National Advertisement  
+Between $100,001 and 
+$1,999,999 
+ Request for Quotation for Goods 
+Up to $100,000 
+ All contracts OCB (International) 
+works will be reviewed using prior 
+review procedure. 
+ All OCB (National) packages will be 
+subject to prior review. 
+ All contracts OCB (International) 
+goods will be reviewed using prior 
+review procedure. 
+ All contracts OCB (National) goods 
+will be reviewed using prior review 
+procedure. 
+ Prior review. 
+A. 
+Methods, Review and Procurement Plan 
+Except  as  the  ADB  may  otherwise  agree,  the  following  methods  shall  apply  to 
+52. 
+procurement of goods, works, and consulting services.  
+ Quality- and Cost-Based Selection for Consulting Firm 
+ Prior review of all contracts 
+Method 
+Comments 
+Consulting Services 
+ Quality-Based Selection for Consulting Firm 
+ Prior review of all contracts 
+ Least-Cost Selection for Consulting Firm  
+ Prior review for the 1st tender  
+ Fixed-Budget Selection for Consulting Firm 
+  Prior review of all contracts 
+B. 
+ Lists of Active Procurement Packages (Contracts) 
+26 
+The  following  table  lists  goods,  works,  and  consulting  services  contracts  for  which  the 
+53. 
+procurement  activity  is  either  ongoing  or  expected  to  commence  within  the  procurement  plan 
+duration.  
+ Goods and Works 
+Package 
+Number 
+General 
+Description 
+NDRMP-
+Goods-
+PIG-01 
+Vehicles for 
+PIG 
+Estimated 
+Value  
+(in US$) 
+80,000.00 
+Procurement 
+Method 
+Review 
+Bidding 
+Procedure 
+RFQ 
+Prior 
+Advertisement 
+Date 
+(quarter/year) 
+Q4 / 2018 
+Comments 
+No. 
+Contracts: 1 
+Of 
+Advance 
+Contracting: Y 
+Comments: 
+PIG to procure  
+NDRMP-
+Goods-
+PIG-02 
+Office 
+Equipment 
+for PIG 
+20,000.00 
+RFQ 
+Prior 
+Q4 / 2018 
+No. 
+Contracts: 1 
+Of 
+Advance 
+Contracting: Y 
+Comments: 
+PIG to procure  
+NDRMP-
+Goods-
+PIG-03 
+Office 
+Furniture for 
+PIG 
+100,000.00 
+RFQ 
+Prior 
+Q4 / 2018 
+No. 
+Contracts: 1 
+Of 
+Advance 
+Contracting: Y 
+Comments: 
+PIG to procure  
+NDRMP-
+Goods-
+PIG-04 
+Office 
+Repairs for 
+PIG 
+100,000.00 
+RFQ 
+Prior 
+Q4 / 2018 
+No. 
+Contracts: 1 
+Of 
+Consulting Services 
+Package 
+Number 
+General 
+Description 
+Estimated 
+Value (in 
+US$) 
+Selection 
+Method 
+Review 
+Type of 
+Proposal 
+2,030,000.00  QCBS 
+Prior 
+FTP 
+NDRMP-
+Cons-01 
+Mainstreaming 
+Disaster  Risk 
+Management in 
+Government 
+Institutions 
+Advertiseme
+nt 
+Date 
+(quarter/year) 
+Q2 / 2018 
+Advance 
+Contracting: Y 
+Comments: 
+PIG to procure  
+Comments 
+Type: Firm 
+Assignment: 
+International 
+Quality-Cost 
+Ratio: 90:10 
+Advance 
+Contracting: Y 
+Comments: To 
+3,550,000.00  QCBS 
+Prior 
+FTP 
+Q2 / 2018 
+NDRMP-
+Cons-02 
+to 
+Strengthening 
+Capacity 
+Manage 
+Natural 
+Hazards 
+Minimize 
+Losses  
+and 
+TBD 
+Project auditing  50,000.00 
+LCS 
+Prior 
+BTP 
+Q4 / 2019 
+27 
+ensure increased 
+VFM. PIG to 
+procure. 
+Type: Firm 
+Assignment: 
+International 
+Quality-Cost 
+Ratio: 90:10 
+Advance 
+Contracting: Y 
+Comments: To 
+ensure increased 
+VFM. PIG to 
+procure. 
+Type: Firm 
+Assignment: 
+International 
+Advance 
+Contracting: N 
+Comments: 
+Under TAJ Block 
+Audit Scheme. 
+C. 
+List of Indicative Packages (Contracts) Required Under the Project 
+54. 
+The  following  table  lists  goods,  works,  and  consulting  services  contracts  for  which 
+procurement activity is expected to commence beyond the procurement plan duration and over 
+the life of the project (i.e., those expected beyond the current procurement plan duration). 
+Goods and Works  
+Package 
+Number 
+General 
+Description 
+NDRMP-
+Goods-01 
+Package 1: Supply 
+and installation of 
+equipment for Sarez 
+Lake, anti-hail unit, 
+DMIS and EWS 
+Estimated 
+Value  
+(in US$) 
+2,200,000.00 
+Procurem
+ent 
+Method 
+OCB 
+Review 
+Prior 
+Bidding 
+Procedur
+e 
+1S1E 
+Comments 
+Advertising 
+International 
+Type: 
+No. Of Contracts: 1 
+Prequalification 
+Bidders: N 
+of 
+Domestic 
+Applicable: N 
+Preference 
+Bidding 
+Goods 
+Document: 
+Comments:  Estimated 
+Date: 
+Advertisement 
+Q2/2021. 
+to 
+procure. 
+PIG 
+28 
+NDRMP-
+Goods-02 
+Package 2: Supply 
+of Machinery for field 
+offices of CESCD 
+1,350,000.00 
+OCB 
+Prior 
+1S1E 
+Advertising 
+National 
+Type: 
+No. Of Contracts: 1 
+Prequalification 
+Bidders: N 
+of 
+Domestic 
+Applicable: N 
+Preference 
+Bidding 
+Goods 
+Document: 
+Comments:  Estimated 
+Date: 
+Advertisement 
+Q3/2021. 
+to 
+procure. 
+PIG 
+Consulting Services  
+Package 
+Number 
+General 
+Description 
+ None 
+Estimated 
+Value (in US$) 
+Selection 
+Method 
+Review 
+Type of 
+Proposal 
+Comments 
+D. 
+Consultant's Terms of References 
+Detailed  terms  of  reference  of  consulting  services  Package  1  and  2  are  provided  in 
+55. 
+Appendix 1.   
+VII. 
+SAFEGUARDS 
+Social. The project is classified as category C under ADB’s Safeguard Policy Statement 
+56. 
+(2009, as amended to date) for indigenous peoples and involuntary resettlement as no civil works 
+or  economic  displacements  (no  indigenous  peoples  living  in  the  project  area)  are  envisaged. 
+Therefore,  no  negative social  impacts  on  involuntary  resettlement  and indigenous  peoples are 
+expected.  
+57. 
+Environmental aspect.  The project remains as category C for environmental impacts as 
+no adverse impacts and environmental risks are anticipated due to absence of civil works under 
+the project.  
+58. 
+Poverty  and  Social:  The  outputs  of  the  project  include  early  warning  system,  so  will 
+strengthen  disaster  resilience  across  Tajikistan,  particularly  in  high  risk  areas  and  among 
+vulnerable  population.  The  mainstreaming  work  on  DRM  and  related  strategies  will  include 
+components targeting poor and vulnerable people in disaster prone areas. The project will benefit 
+all segments of the society.  
+59. 
+ Prohibited  investment  activities.  Pursuant  to  ADB’s  Safeguard  Policy  Statement 
+(2009),  ADB  funds  may  not  be  applied  to  the  activities  described  on  the  ADB  Prohibited 
+Investment Activities List set forth at Appendix 5 of the Safeguard Policy Statement (2009).  
+VIII. 
+ GENDER AND SOCIAL DIMENSIONS 
+60. 
+The project is categorized as “effective gender mainstreaming”. The key gender impacts 
+of the project will include: (i)  institutionalizing women’s participation in the institutional plan and 
+29 
+business plan for the CESCD as well as sectoral strategies; (ii) developing gender-inclusive DMIS 
+that includes gender and other social indicators; (iii) integration of  social factor as sex, age, ability, 
+and income/poverty level into hazard maps and inventory of assets at risk, national risk profile, 
+multi-hazard vulnerability and risk assessments; (iv) increasing the awareness of girls on disaster 
+risk  management;  (v)  capacity-building  of  female  staff  of  the  CESCD  and  other  sector 
+departments and ministries/agencies on risk-informed development training. The gender action 
+plan (GAP) of the project is in Table 16. The cost for implementing the GAP is incorporated in the 
+cost allocation for each output. The PIG will monitor and report GAP implementation with support 
+of a gender consultants.  
+Table 16: Gender Action Plan 
+Activity 
+Performance Targets/ Indicators 
+Responsibility 
+Time 
+Frame 
+Output 1. Disaster risk management (DRM) mainstreamed in government institutions  
+Incorporate 
+1.1. 
+gender 
+concerns in all   Committee of 
+Emergency  Situations  and 
+Civil Defense (CESCD) DRM-
+related plans   
+1.1.1  Approved 
+institutional  plan 
+contains  provisions  to  strengthen 
+the  capacity  of  CESCD  to  consider 
+gender issues in their ex ante and ex 
+risk  management 
+post  disaster 
+programs and actions  
+CESCD,  Project 
+Implementation 
+Consultants 
+December 
+2020 
+1.2.  Ensure  that  disaster  risk 
+sector 
+management 
+strategies of key departments 
+and  ministries  are  social  and 
+gender-inclusive 
+(Baseline 
+2018 = No) 
+1.1.2 
+5-year 
+CESCD 
+business/operational  plan  includes 
+gender-related  actions,  such  as 
+those 
+improve  women’s 
+that 
+participation in DRM  
+CESCD, 
+Project 
+Implementation 
+Consultants 
+1.2.1 At least 3 of the 7 core sector 
+strategies  (education,  health,  and 
+water)  with  mainstreamed  DRM 
+provisions,  have  also 
+integrated 
+actions  that  address  specific  needs 
+of  women,  children,  elderly,  and 
+people with disabilities. 
+CESCD, 
+Project 
+Implementation 
+Consultants 
+December 
+2021 
+June 2021  
+Output 2. Capacity to manage natural hazards and minimize losses strengthened 
+2.1.  Assess  the  impact  of 
+specific  social 
+in 
+national risk profiles and multi-
+hazard  vulnerability  and  risk 
+assessments  
+factors 
+assessments 
+2.1.1 National risk profile and results 
+of the multi-hazard vulnerability and 
+an 
+risk 
+analysis of how the social factors of 
+sex, age, ability, and income/poverty 
+level  exacerbate vulnerability of the 
+population at risk. 
+include 
+CESCD, 
+Project 
+Implementation 
+Consultants 
+December 
+2020 
+Incorporate  social  and 
+2.2 
+gender 
+the 
+indicators 
+national disaster management 
+information system  
+in 
+2.2.1 National disaster management 
+information system includes gender 
+and  other  social 
+indicators  and 
+regularly  populated  with  data 
+disaggregated  by  sex,  age,  ability, 
+and poverty level 
+CESCD, 
+Project 
+Implementation 
+Consultants 
+December 
+2021 
+30 
+2.3 Include specific provisions 
+to address the specific needs 
+of  women,  children,  and 
+persons with disability in DRM 
+plans.   
+2.3.1 National, regional, district and 
+sectoral  DRM  and  emergency 
+response  plans  have  provisions  to 
+the  specific  needs  of 
+address 
+women,  children  and  people  with 
+disabilities 
+CESCD, 
+Project 
+Implementation 
+Consultants 
+December 
+2021 
+Ensure 
+women’s 
+2.4 
+in  community-
+participation 
+risk 
+based 
+DRM 
+management 
+awareness 
+seminars  and 
+trainings  in  high  risk  districts 
+and cities.  
+disaster 
+and 
+2.4.1  Of  the  total  participants  in  all 
+community-based 
+DRM-related 
+seminars and trainings, at least 40% 
+are women. 
+2.5.1  All  women  staff  participate  in 
+trainings relevant to their line of work 
+2.5  Ensure  representation  of 
+female  staff  of  CESCD24  and 
+other sector departments and 
+in  development 
+ministries 
+trainings.  
+Efficient and effective project management system 
+•  Engage women in PIG 
+technical positions 
+women 
+•  At least 20% of PIG staff are 
+•  Gender expertise 
+•  Gender & Development 
+available to the project 
+and PIG  
+• 
+Include gender indicators 
+in the project monitoring 
+system  
+•  Ensure reporting of 
+gender equality results 
+consultant recruited for project, 
+plus PIG staff member named 
+as gender focal point 
+•  Project’s MIS includes gender 
+indicators and regularly 
+populated with sex-
+disaggregated data.  
+•  Quarterly progress reports and 
+annual reports, as well as 
+completion reports include 
+progress of GAP 
+implementation 
+June 2023 
+CESCD, 
+Project 
+Implementation 
+Consultants, 
+Ministry 
+Education 
+Science, NGO 
+of 
+and 
+CESCD, 
+Project 
+Implementation 
+Consultant, NGO 
+December 
+2023 
+CESCD 
+Q1 - 2019 
+Q1 - 2019 
+CESCD, 
+Project 
+Implementation 
+Consultants 
+CESCD/PIG Staff  Q1  –  Q3 
+2019 
+Gender 
+Development 
+consultants 
+PIG/PIC 
+& 
+of 
+Q2  2019  -
+Q4 2023 
+The project’s summary poverty reduction and social strategy25 includes support to promote 
+61. 
+disaster  risk  reduction  in  substantial  risk  areas  and  among  vulnerable  population.  The 
+mainstreaming work on DRM and related strategies will include components targeting poor and 
+vulnerable people in disaster prone areas. 
+24 Currently, there are 137 female staff out of a total of 1,456 CESCD staff (9%).  No new staff will be hired by CESCD 
+for this project. 
+25  The summary poverty reduction and social strategy is linked document 9 of the RRP. 
+31 
+IX. 
+PERFORMANCE MONITORING, EVALUATION, REPORTING, AND 
+COMMUNICATION 
+62. 
+The EA and PIG will be responsible for monitoring project progress and evaluating project 
+outputs.  Monitoring  and  evaluation  shall  be  in  accordance  with  the  design  and  monitoring 
+framework (DMF). 
+A.  Project Design and Monitoring Framework 
+Impact the Project is Aligned with 
+Tajikistan’s resilience to disasters enhanced (National Development Strategy, 2016–2030; and Midterm 
+Development Program 2016–2020)a 
+Results Chain 
+Outcome 
+Tajikistan’s economic 
+losses due to natural 
+hazards reduced 
+Performance Indicators 
+with Targets and Baselines 
+Data Sources and 
+Reporting  
+Risks 
+a. 10-year rolling average 
+annual total economic losses 
+due to disaster reduced by 
+3.1% by 2024 
+(2014 baseline: 
+$111.9 million) 
+a. Damage and loss 
+reports of the 
+Government of 
+Tajikistan, report(s) of 
+development partners 
+and third-party entities 
+Political instability and 
+deterioration of 
+security situation in 
+the country 
+1a.–d. QPRs of 
+executing agency,  
+EA’s PCR 
+A major low-
+frequency and high-
+intensity (one in 
+100 years) event 
+happens during 
+implementation of the 
+project. 
+Data Sources and 
+Reporting  
+2a.–f. QPRs of 
+executing agency, 
+EA’s PCR 
+Risks 
+32 
+Outputs 
+1. DRM mainstreamed 
+in government 
+institutions 
+Results Chain 
+2. Capacity to manage 
+natural hazards and 
+minimize losses 
+strengthened 
+1a. CESCD institutional plan 
+with capacity building for 
+gender-responsive DRM 
+implemented by 
+December 2020 
+(2018 baseline: 
+not applicable) 
+1b. CESCD 5-year 
+business/operational plan 
+(2021–2025) with gender-
+specific actions developed 
+by June 2021 
+(2018 baseline: 
+not applicable) 
+1c. DRM-integrated sector 
+strategies, with actions that 
+address specific needs of 
+women, children, elderly, 
+and people with disabilities, 
+approved by June 2021 
+(2018 baseline: 
+not applicable) 
+1d. Draft legislation providing 
+a single, comprehensive law 
+on DRM prepared by 
+December 2020 
+(2018 baseline: 
+not applicable) 
+Performance Indicators 
+with Targets and Baselines 
+2a. Hazard maps and 
+inventory of assets at risk 
+based on a detailed 
+assessment, national risk 
+profile, multi-hazard 
+vulnerability, and risk 
+assessments that consider 
+social factors such as sex, 
+age, ability, and income and 
+poverty levels prepared by 
+December 2020 
+(2018 baseline: 
+not applicable) 
+2b. National disaster 
+management information 
+33 
+system established by 
+December 2021 
+(2018 baseline: 0) 
+2c. Early warning system 
+established by 
+December 2022 
+(2018 baseline: 0) 
+2d. Community-based DRM 
+and DRM awareness in 
+educational institutions in 
+high-risk districts and cities 
+implemented by June 2023, 
+including at least 40% 
+women (2018 baseline: 
+not applicable) 
+2e. National, regional, 
+district, and sector DRM 
+plans prepared by 
+December 2021 
+(2018 baseline: 0) 
+2f. Sarez Lake early warning 
+system updated by 
+June 2023 (2018 baseline:  
+not applicable) 
+3a. 9-year DRM investment 
+plan (2022–2030) prepared 
+by December 2021 
+(2018 baseline: 
+not applicable)  
+QPRs of executing 
+agency, EA’s PCR 
+3. Road map for 
+investments and 
+sustainable financing 
+developed 
+34 
+Key Activities with Milestones 
+1.  Disaster risk management mainstreamed in government institutions 
+1.1  Issue RFP by Q3 2018 and complete recruitment of consultants by Q1 2019. 
+1.2  Develop institutional strengthening and reorganization plan and complete legal requirements by Q2 
+2020. 
+1.3 Complete consultations for developing 5-year business/operational plan for the CESCD and its 
+restructured departments and divisions by Q2 2021. 
+1.4  Appoint staff and procure equipment, furniture, and vehicles for restructured institutional setup by 
+Q2 2021. 
+1.5 Revise sector strategies by Q1 2021. 
+2.  Capacity to manage natural hazards and minimize losses strengthened 
+2.1  Issue RFP by Q3 2018 and complete recruitment of consultants by Q1 2019. 
+2.2  Complete surveys and data collection for multi-hazard vulnerability assessment and preparing hazard 
+maps by Q2 2020. 
+2.3 Select educational institutions and design awareness-raising program by Q2 2021. 
+2.4 Select districts, cities, and communities and design community-based DRM program by Q2 2022. 
+2.5 Complete dam-break studies and flood modeling of Sarez Lake by Q4 2020. 
+2.6 Prepare inventory of glaciers by Q2 2023. 
+2.7 Complete staff training for CESCD and other sector departments and ministries, including at least 
+20% women, by Q2 2023. 
+3.  Road map for investments and sustainable financing developed 
+3.1  Issue RFP by Q3 2018 and complete recruitment of consultants by Q1 2019. 
+3.2 Prepare draft investment plan by Q3 2021. 
+3.3 Complete study for financing options after consultations with development partners by Q3 2021. 
+3.4 Prepare recommendations for financing mechanism by Q4 2021. 
+Inputs 
+ADB: $10.0 million (Asian Development Fund grant) 
+Government: $1.0 million 
+Assumptions for Partner Financing 
+Not applicable 
+ADB = Asian Development Bank, CESCD = Committee of Emergency Situations and Civil Defense, DRM = disaster risk 
+management, PCR = project completion report, Q = quarter, QPR = quarterly progress report, RFP = request for proposal 
+a  Government of Tajikistan. 2016. National Development Strategy and Midterm Development Plan. Dushanbe.  
+Source: Asian Development Bank. 
+B.  Monitoring  
+Project performance monitoring. The EA will review overall project performance against 
+63. 
+the project outcome and output indicators in the DMF as well as financial and physical progress. 
+The quarterly progress reports (QPRs) will be submitted to ADB by 20 April, 20 July, 20 October, 
+20  January,  every  year  during  the  project  implementation.  The  QPRs  will  provide  progress  of 
+activities and outputs (against indicators) as outlined in the DMF, narrative description of progress 
+made  during  the  period,  changes  in  the  implementation  schedule,  problems  or  difficulties 
+encountered, performance of the project implementation consultants, status of compliance with 
+grant covenants, and works to be carried out in the next period. The progress reports will also 
+include a summary financial account for the project, consisting of project expenditures for the year 
+to date and total expenditure to date.  
+35 
+Compliance  monitoring.  Several  assurances  have  been  given  by  the  government  to 
+64. 
+ensure smooth implementation of the project. Those are subject to the grant covenants (Grant 
+Agreement – Schedule 5). ADB will monitor compliance with those covenants during the project 
+implementation through regular review missions, quarterly progress reports submitted by the PIG, 
+and review of project accounts and procurement procedures.  
+65. 
+Safeguards monitoring. Not applicable.   
+Gender and social dimensions monitoring. The progress in GAP implementation will 
+66. 
+also be included in the quarterly progress reports with consultant support. 
+C. 
+Evaluation 
+67. 
+Inception mission. ADB will field an inception mission after grant effectiveness to mainly 
+(i)  re-establish  the  working  relationships  among  ADB,  EA  and  PIG;  (ii)  reconfirm  the  project 
+implementation schedule, and contract awards and disbursement projections; and (iii) finalize the 
+detailed disbursement arrangements, particularly with regards to the PIG’s advance account.  
+68. 
+ Review missions.  ADB will field semi-annual review missions to check overall project 
+implementation,  including  the  progress  against  the  project  outcome  and  outputs,  covenant 
+compliance,  safeguards,  gender  and  social  dimensions,  and  utilization  of  both  ADB  and 
+counterpart funds. The project implementation schedule will also be updated as necessary.  
+ Midterm review mission. ADB will field a midterm review mission within three years after 
+69. 
+grant effectiveness to primarily assess whether the project outcome is still likely to be achieved, 
+as well as the contract awards and disbursement projections. 
+Project completion review mission. ADB, with the borrower, EA, PIC and PIG, will field 
+70. 
+a  project  completion  review  mission  to  primarily  evaluate  whether  the  project  outcome  was 
+achieved, and assess the performance of ADB, borrower, EA, PIG, PIC and suppliers. The PIG 
+will submit its project completion report to ADB within six months of project completion. ADB will 
+also prepare and disclose its own project completion report. 
+D. 
+Reporting  
+The PIG will provide ADB with (i) quarterly progress reports in a format agreed with ADB; 
+71. 
+(ii) consolidated annual reports including (a) progress achieved by outputs as measured against 
+the performance indicators in the DMF, (b) key implementation issues and solutions, (c) updated 
+procurement plan, and (d) updated implementation plan for the next 12 months; and (iii) a project 
+completion report within 6 months of physical completion of the project. Project accounts and the 
+executing agency audited financial statement together with the associated auditor's report, would 
+be submitted within six months of the end of the fiscal year. 
+E. 
+Stakeholder Communication Strategy  
+72. 
+The project information will be disseminated through website of the EA and media at the 
+main  milestones  including  grant  agreement  signing,  contract  awards,  workshops  and  seminar 
+events, and project completion. Project information documents will also be quarterly updated on 
+ADB website. Following table outlines the framework of communication strategy will be adopted 
+for the project: 
+36 
+Project Documents 
+Project Information 
+Documents (PID) 
+Means of 
+Communication 
+ADB’s website 
+Responsible 
+Party 
+ADB 
+Design and Monitoring 
+Framework (DMF) 
+Report and 
+Recommendations of 
+the President 
+Legal Agreements 
+Initial Poverty and 
+Social Assessment 
+Project Administration 
+Memorandum 
+Major Change in 
+Scope 
+ADB’s website 
+ADB 
+ADB’s website 
+ADB 
+ADB’s website 
+ADB 
+ADB’s website 
+ADB 
+ADB’s website 
+ADB 
+ADB’s website 
+ADB 
+Progress Reports 
+Completion Report 
+ADB’s website 
+ADB’s website 
+ADB 
+ADB 
+Frequency 
+Audience(s) 
+Initial PID no later 
+than 30 calendar 
+days of approval of 
+the concept paper, 
+quarterly afterwards. 
+After Board 
+consideration 
+Within 2 weeks after 
+Board consideration 
+of the grant 
+Within 2 weeks after 
+Board consideration 
+of the grant 
+Within 2 weeks of 
+completion 
+Within 2 weeks after 
+Board consideration 
+of the grant 
+Within 2 weeks of 
+approval of the 
+change 
+Quarterly 
+Within 2 weeks of 
+circulation to Board 
+for information 
+Public 
+Public 
+Public 
+Public 
+Public  
+Public, project-
+affected people 
+in particular 
+Public 
+Public 
+Public 
+73. 
+The  main  stakeholders  of  the  project  are  categorized  into  government,  beneficiary 
+communities,  civil  society  organizations  and  NGOs,  the  private  sector  and  the  development 
+partners.  The stakeholders’ communication strategy is explained as follows: 
+Information Required 
+Who will provide 
+Full access to all 
+information on all 
+aspects of project 
+planning and 
+implementation 
+PIG, 
+ADB  
+Strategy/Means 
+QPRs, EA website 
+ADB website, ADB 
+mission aid 
+memoirs 
+Stakeholders 
+Government 
+Key Stakeholders 
+•  CESCD 
+•  Ministries of Finance, 
+Transport, Energy and 
+Water Resources, 
+Health, Education, 
+Agriculture, State 
+Committee of 
+Environment Protection, 
+Agency of 
+Hydrometeorology  
+Beneficiaries  
+•  Communities 
+Information on project 
+planning, design, 
+implementation, and 
+expected contributions   
+Consultations with 
+beneficiaries, 
+Workshops, 
+Seminars, 
+Stakeholders 
+Information Required 
+Who will provide 
+Civil Society Organizations and 
+NGOs 
+Project plans and 
+activities and impact 
+on target groups 
+PIC, 
+PIG 
+ADB 
+International Development 
+Partners  
+Project progress and 
+performance 
+ADB 
+PIG 
+37 
+Strategy/Means 
+Training events, 
+QPRs, ADB 
+website, ADB 
+mission aid 
+memoirs 
+Sub-contracting by 
+PIC for CBDRM 
+capacity building 
+and awareness 
+raising in 
+educational 
+institutions 
+EA website, 
+QPRs, ADB 
+review missions, 
+ADB website 
+X. 
+ANTICORRUPTION POLICY 
+74. 
+ADB reserves the right to investigate, directly or through its agents, any violations of the 
+Anticorruption  Policy  relating  to  the  project.26  All  contracts  financed  by  ADB  shall  include 
+provisions  specifying  the  right  of  ADB  to  audit  and  examine  the  records  and  accounts  of  the 
+executing agency and all project contractors, suppliers, consultants, and other service providers. 
+Individuals and/or entities on ADB’s anticorruption debarment list are ineligible to participate in 
+ADB-financed activity and may not be awarded any contracts under the project.27  
+75. 
+To support these efforts, relevant provisions are included in the loan agreement, project 
+agreement and the bidding documents for the project. In particular, all contracts financed by ADB 
+in  connection  with  the  project  will  include  provisions  specifying  the  right  of  ADB  to  audit  and 
+examine  the  records  and  accounts  of  the  executing  agency  and  all  contractors,  suppliers, 
+consultants, and other service providers as they relate to the project. 
+XI. 
+ACCOUNTABILITY MECHANISM 
+76. 
+People who  are,  or may  in the future  be,  adversely  affected  by the  project  may  submit 
+complaints  to  ADB’s  Accountability  Mechanism.  The  Accountability  Mechanism  provides  an 
+independent forum and process whereby people adversely affected by ADB-assisted projects can 
+voice,  and  seek  a  resolution  of  their  problems,  as  well  as  report  alleged  violations  of  ADB’s 
+operational  policies  and  procedures.  Before  submitting  a  complaint  to  the  Accountability 
+Mechanism, affected people should make an effort in good faith to solve their problems by working 
+with  the  concerned  ADB  operations  department.    Only  after  doing  that,  and  if  they  are  still 
+dissatisfied, should they approach the Accountability Mechanism.28 
+XII. 
+RECORD OF CHANGES TO THE PROJECT ADMINISTRATION MANUAL 
+77. 
+ All revisions/updates during the course of implementation will   be   retained   in   this 
+section to provide a chronological history of changes to implementation arrangements recorded 
+in the PAM. 
+26 Anticorruption Policy: http://www.adb.org/Documents/Policies/Anticorruption-Integrity/Policies-Strategies.pdf. 
+27  ADB's Integrity Office web site: http://www.adb.org/integrity/unit.asp. 
+28 Accountability Mechanism. http://www.adb.org/Accountability-Mechanism/default.asp.  
+38 
+39 
+APPENDIX 1: TERMS OF REFERENCE FOR CONSULTING SERVICES  
+ PACKAGE 1: DISASTER RISK MANAGEMENT MAINSTREAMED IN GOVERNMENT 
+INSTITUTIONS  
+I. 
+INTRODUCTION 
+These Terms of Reference (ToR) provide specific details of the project which are relevant 
+to the  assignment,  implementation  arrangements,  and objectives of  the consultancy.  The ToR 
+also  provides  specific  details  on  the  scope  of  the  consultancy  and  the  composition,  roles  and 
+responsibilities of the consulting team. 
+A. 
+BACKGROUND 
+The  Asian  Development  Bank  (ADB)  is  providing  support  to  the  Government  of  the 
+Republic of Tajikistan for a long term and sustainable solution to effectively manage the expected 
+increased severity and frequency of disasters caused by natural hazards in Tajikistan. 
+The project will enhance the institutional capacity of ministries and line agencies for coping 
+with  natural  hazards,  such  as  earthquakes,  landslides,  mud  flows,  avalanches,  floods  and 
+droughts to minimize the loss to human, property, and social and economic infrastructure. The 
+project will carry out multi-hazard vulnerability and risk assessment across the country; prepare 
+hazard maps; identify areas of high risk; prepare national, regional, and sector wise DRM plans; 
+strengthen  the  CESCD  and  other  ministries/agencies  through  provision  of  capacity  building 
+measures, trainings, and equipment.  
+B.  OBJECTIVES AND SCOPE OF THE PROJECT 
+The project’s outcome and impact are aligned with ADB’s programs for Tajikistan and the 
+government’s  development  strategy  and  its  strategic  objectives.  The  project  impact  will  be 
+Tajikistan’s resilience to disasters enhanced, and the outcome will be reduced socio-economic 
+vulnerability of Tajikistan to natural hazards.   
+The project has been designed to: (i) support efforts of the government in mainstreaming 
+disaster  risk  management  (DRM)  in  development  planning,  and  (ii)  lay  a  foundation  for 
+establishing  a  sustainable  institutional  and  financial  mechanism  that  enables  Tajikistan  to 
+effectively deal with disasters in the long-term. The project has three interrelated outputs:         (i) 
+DRM  mainstreamed  in  government  institutions;  (ii)  strengthened  capacity  to  manage  natural 
+hazards  and  minimize  losses;  and  (iii)  road  map  for  investments  and  sustainable  financing 
+developed.  The  outputs  will  be  implemented  at  the  national  level  with  specific  interventions 
+covering Sarez lake and communities downstream. More information on the project is available 
+at URL. 
+II. 
+DETAILED TERMS OF REFERENCE 
+The  aim  of  this  assignment  is  to  support  the  first  output  of  the  project  to  mainstream 
+disaster  risk  management  in  government  institutions  that  includes  the  following  key  activities: 
+Institutional strengthening plan for CESCD will be prepared and implemented. The plan will have 
+clearly articulated role of various departments and divisions of CESCD in pre and post disaster 
+Appendix 1          40 
+information management, planning and implementation, and their relationship with sectoral and 
+geographic,  provincial  and  district  agencies,  ensuring there is  no  overlap  and duplication.  The 
+plan  will  incorporate  capacity  building  for  gender-responsive  DRM.  A  review  of  the  legal 
+framework  including  all  existing  DRM-related  legislation  will  be  undertaken  and  new  draft 
+legislation providing a single, comprehensive law on disaster risk management will be prepared, 
+if required. A 5-year business/operational plan (2021–2025) for the CESCD for  pre-disaster risk 
+management  and  post-disaster  risk  management  will  be  prepared,  including  the  monitoring 
+framework  and  facilitation  to  be  extended  to  the  sectoral  ministries/institutions.  Dedicated 
+units/focal points in core sectors (water, energy, transport, health, education,  environment and 
+agriculture)  will  be  established  to  integrate  and  mainstream  DRM  and  climate  change  in  the 
+respective sector strategies under overall guidance of CESCD.  
+In this context, the executing agency of the project, the Committee of Emergency Situation 
+and Civil Defence (CESCD) intends to hire services of a consultancy firm or joint ventures for a 
+period  of  30  months  to  undertake  the  assignment  in  Tajikistan  on  three  levels,  i.e.,  national, 
+regional and district level. The assignment is expected to achieve the following sub-outputs; 
+i.  Carry out a national, provincial/regional and district level diagnosis of how DRM and 
+climate change is institutionally anchored in country system, to identify broad gaps 
+in  the  institutional  arrangement  required  for  effective  pre  and  post-disaster  risk 
+management. This includes review and consultations to undertake the institutional 
+analysis of the CESCD and based on this clearly articulate the optimal role of the 
+CESCD  in  pre  and  post  disaster  information  management,  planning  and 
+implementation. This should include clearly defining optimal mandate and role of 
+the CESCD including all its departments and divisions in pre and post- disaster risk 
+management  and  their  relationship  with  sectoral  and  geographic  (provincial  and 
+district)  entities  in  pre  and  post  disaster  situations.  Based  on  this  develop  a 
+restructuring proposal and a proposal to enhance capacity of the CESCD and its 
+regional and district level committees in Tajikistan in line with the restructuring.  The 
+proposal for capacity development will include training in line with their proposed 
+roles in the restructuring plans and revised roles and related processes (including 
+revision of planning, approval, monitoring and reporting process), including support 
+for revising and improving these processes; 
+ii. 
+In-depth  review  of  the  legal  framework  underpinning  DRM  and  to  identify  and 
+propose changes in the legal frameworks and decrees of the government according 
+to the revised mandate and role of the CESCD and related restructuring proposal, 
+if required; 
+iii.  Develop strategic 5-year business plan of DRM for the CESCD for its restructured 
+departments and divisions for pre- risk reduction (including preparedness) and ex-
+post  disaster  response  and  planning,  including  the  related  monitoring  framework 
+and the facilitation that the CESCD will extend to the sectoral departments; 
+iv.  Review the current role of sector departments in DRM and develop a proposal for 
+institutionally-anchoring  DRM  and  climate  change  in  the  sectoral  ministries  by 
+defining sectoral department’s optimal roles in pre- and post DRM and related to 
+Appendix 1          41 
+this develop a proposal to establish dedicated nodes (focal points) in all core sectors 
+(water, energy, transport, health, education, forestry and agricultures) impacted by 
+disasters  and  climate  change  along  with  staff  capacities  and  resource 
+requirements; 
+v.  Develop a proposal for strengthening and capacity building of sectoral nodes (focal 
+points) and their respective departments for DRM mainstreaming.  The proposal for 
+capacity  development  will  include  training  in  line  with  their  proposed  roles  in the 
+restructuring plans and revised roles and related processes (including revision of 
+planning,  approval,  monitoring  and  reporting  process).  The  consultants  will  also 
+facilitate  and  guide  the  implementation  of  the  sector  strengthening  proposal 
+(capacity  building)  and  related  revisions  in  the  policy,  strategies,  systems  and 
+procedures of the respective sectors. 
+vi. 
+The consultants will also organize international and in-country trainings for staff of 
+CESCD and focals of relevant ministeries on technical aspects of DRM with support 
+of Package-2 consultants. Budget for trainings is provided in provisional sums. 
+III.  DETAILED TASKS 
+The detailed scope of work with anticipated deliverables are provided below;  
+i. 
+Overall analysis: 
+a. 
+b. 
+Review  the  mandates  and  roles  of  all  key  organizations  at  the  national, 
+regional and district level dealing with DRM and climate change and assess 
+if  their  mandates  are  in  line  with  their  capacities  and  resources.  Identify 
+comparative strengths  and  weakness  of  each  organization in performing 
+their  mandated  roles  in  DRM  (both  pre  and  post-disaster  management). 
+Identify redundancies and overlaps in mandates and propose restructuring 
+of mandates that allow effective use of resources and capacities for optimal 
+DRM  in  both  pre  and  post  disaster  situations,  including  the  required 
+coordination  and  monitoring  mechanism.  The  organization  that  will  be 
+reviewed  include  national  DRM  focal  ministries  (their  local  units),  other 
+concerned  sectoral  ministries,  research  organizations  and/or  non-
+governmental  organizations  (NGOs)  and  civil  society  organizations 
+(CSOs); 
+Assess  the  availability,  appropriateness  and  effectiveness  of  key  DRM 
+instruments, procedures and systems in place for DRM mainstreaming in 
+key DRM entities and core sectors dealing with DRM. The degree to which 
+these  systems  are  used,  their  effectiveness  in  DRM  mainstreaming 
+including research systems, monitoring and data collection and information 
+flow,  investment  planning,  project  design  and  approval  procedures,  and 
+DRM monitoring and coordination mechanism; 
+Appendix 1          42 
+c. 
+d. 
+e. 
+Identify  specific  gaps  in  institutional  structures,  coordination  gaps,  roles 
+and capacities in order to design measures to strengthen the existing DRM 
+system  at  the  provincial/regional  level,  improve  vertical  and  horizontal 
+linkages with core/vulnerable sectors (e.g. water, energy, transport, health, 
+education,  environment  and  agricultures)  for  DRR  mainstreaming,  and 
+analyze  how  to  reinforce  vertical  and  horizontal  coordination  among 
+different actors effectively; 
+Understand and reflect in the overall assessment the local perceptions of 
+risk and risk coping strategies as well as the institutional requirements for 
+increasing resilience that the community considers important;  
+Identify the different types of institutions and organizations present at the 
+community  level,  assess  their  roles  in  and  their  core  competencies  and 
+capacities for CBDRM, and identify possible gaps in addressing their roles 
+integration into an inclusive DRM country system. 
+ii.DRM linkages and coordination (among and between institutions): 
+a. 
+b. 
+c. 
+d. 
+e. 
+f. 
+the  several 
+Identify 
+linkages  and  coordination 
+requirements for effective DRM mainstreaming within and across different 
+key institutions; 
+types  of  essential 
+Analyses sectors-specific linkages and coordination by assessing linkages 
+of  DRM  systems  with  core  sectors  e.g.  water,  energy,  transport,  health, 
+education,  and  agriculture  at  various  levels;  assess  existing  operational 
+and technical practices in sector-specific DRM integration/mainstreaming, 
+identify institutions that are best placed to act on and coordinate specific 
+aspects of DRM; 
+to  ensure  effective 
+informal 
+formal  and 
+Identify  mechanisms 
+the  concerned  ministries  and 
+communication  within  and  between 
+departments  at  all  levels  and  the  involvement  of  stakeholder  groups  in 
+decision-making processes that address DRM concerns; 
+Identify gaps in the policy, planning and implementation processes within 
+and across different levels of government and NGOs, CSOs/CBOs; 
+Review processes for communication of data and information especially for 
+forecasting,  early  warning,  contingency  plans  for  disaster  preparedness, 
+damage and loss assessment, and recovery and rehabilitation;  
+Review coordination mechanism of operational activities before, during and 
+after disasters among the different levels of the DRM institutions; 
+Appendix 1          43 
+g. 
+h. 
+Incorporation of DRM concerns into sector-specific development planning 
+and/or the development of hazard risk mitigation plans; and 
+Assess the need for centralize data warehouse and clearing operation as 
+a  planning  and  monitoring  tool  for  DRM  mainstreaming  across  the  core 
+sectors. 
+iii.Review of legal framework underpinning DRM:  
+a. 
+b. 
+c. 
+Review  current  policies  and 
+consultations); 
+legal 
+frameworks  (desk  review  and 
+Analyze  the  strengths,  weaknesses,  overlaps  and  redundancies  of  the 
+existing  entities  engaged  in  DRM,  conduct  consultations  with  concerned 
+agencies to obtain their consent on the expected legal reforms; and  
+Identify changes in the legal frameworks and decrees of the government to 
+support the proposed restructuring plan. 
+Key deliverables. The lower level outputs that will feed into the key outputs include: (1) 
+identification and mapping of institutions and stakeholders and their roles DRM as they relate to 
+each  other;  (2)  DRM  mainstreaming  flowcharts  for  key  pre-  and  post  functions  (planning, 
+coordination, fund management, etc) as analysed and as proposed within and across (geographic 
+and  sectoral);  and  (3)  DRM  information  and  data  management  process  capturing  pre  (linkage 
+with development planning) and post (preparedness and response), requirements as it exists and 
+as proposed.  
+Key output of this work will be: 
+i. 
+ii. 
+restructuring  plan 
+timelines  and 
+Institutional  strengthening  and 
+responsibilities)  including  policy  changes,  revision  in  organizational  mandates 
+and structures, changes in organizational guidelines for DRM mainstreaming, and 
+the  improvement  of  supporting  instruments  and  systems  such  as  financing, 
+budgeting, monitoring, information management, coordination, logistical support, 
+technologies etc. The institutional restructuring plan will cover the CESCD, all its 
+related organizations at regional and district level;  
+(with 
+include  sectoral  nodes  (focal  points)  and 
+For the core sector ministries, the proposal for DRM strengthening and capacity 
+building  will 
+their  respective 
+departments.  The proposal for capacity development will include training in line 
+with their proposed roles in the restructuring plans and related process revision 
+in the respective sector (including revision of planning, approval, monitoring and 
+reporting process); 
+iii. 
+Based on country situation and best international practices, propose the changes 
+and revision in legal framework of the government covering DRM to support the 
+Appendix 1          44 
+iv. 
+v. 
+vi. 
+restructuring  plan.  Prepare  a  plan  which  cover  all  the  steps  and  endorsement 
+procedures in legal framework; 
+Revised country DRM strategy both at national and regional level; 
+Traning need assessment, training plan, and training implementation monitoring; 
+Develop a 5-year business plan: for the CESCD to deliver the restructuring and 
+strengthening plan and proposed legal framework. The business plan will include: 
+a.  Well  defined  vision,  and  objectives  of  the  CESCD  in  line  with  its  role  in 
+DRM at all levels in supporting the national commitments and the country’s 
+overall development agenda;  
+b. 
+c. 
+d. 
+e. 
+f. 
+Timelines for each step of the restructuring plan; 
+Activities  and  resources  required  to  undertake  the  activities  under  the 
+restructured mandate and role of the CESCD and it allied regional district 
+set-up; 
+Sequence all action and prioritization of activities, along with mechanism 
+for prioritizing future investments in the DRM based of sound economic and 
+social criteria; 
+Identify the research and data requirements to inform policy decision and 
+project design; and 
+Outline key targets and results to be achieved by the CESCD and its allied 
+regional and district agencies during the next five years and what actions 
+will be undertaken to achieve these targets (results framework – DMF). 
+The consultants will also facilitate and guide the implementation of a business plan and 
+sector strengthening proposal (capacity building) and related revisions in the policy, strategies, 
+systems and procedures of the respective sectors. 
+C. 
+Schedule and Personnel 
+The  services  will  be  carried  out  by  an  international  firm(s)  in  accordance  with  ADB’s 
+Procurement Policy and Procurement Regulations for ADB Borrowers (2017, amended from time 
+to time). 
+The services will be provided in Tajikistan. 
+The contract will be for a period of 30 months. The estimated person-months of key and 
+non-key international and national consultant inputs are shown below. The international firm(s) is 
+requested  to  propose  the  assignment  of  experts  in  accordance  with  the  objectives,  scope  of 
+services, and deliverables.  
+Appendix 1          45 
+Key Expertise 
+No  Total Input (PM) 
+International Consultants  
+A. 
+1.  Disaster risk management specialist / team leader 
+2.  DRM / climate change adaptation planning specialist 
+3.  DRR institutional assessment and development specialist 
+4.  Climate change specialist 
+5.  Economist 
+Subtotal (A): International Consultants  
+B  National Consultants  
+1.  Disaster risk management specialist / deputy team leader 
+2.  DRR institutional assessment and development specialist 
+3. 
+4.  Legal specialist 
+5.  Gender and social development specialist 
+Non-Key Experts 
+Information management specialist 
+6.  Sectoral specialist (water resources) 
+7.  Sectoral specialist (energy) 
+8.  Sectoral specialist (transport) 
+9.  Sectoral specialist (health) 
+10.  Sectoral specialist (education) 
+11.  Sectoral specialist (environment) 
+12.  Sectoral specialist (agriculture) 
+TOTAL (A+B)  
+Subtotal (B): National Consultants  
+1  
+1  
+1  
+1 
+1  
+1 
+1  
+1 
+1 
+1 
+1 
+1 
+1  
+1 
+1 
+1 
+1 
+15 
+6 
+6 
+6 
+3 
+36 
+30 
+18 
+6 
+6 
+6 
+6 
+6 
+3 
+3 
+3 
+6 
+3 
+96 
+132 
+The Consultant shall nominate any support staff positions they require in their Personnel 
+Schedule.  
+D. 
+Qualification Requirements and Responsibilities of Key Personnel 
+All  team  members,  both  international  and  national,  must  be  proficient  in  written  and 
+spoken English. The required qualifications and responsibilities of the key personnel are provided 
+below: 
+Disaster  risk  management  specialist  /  team  leader  (1  international  consultant,  15 
+person-months).  The  specialist  will  preferably  hold  a  postgraduate  degree  in  management 
+sciences,  DRR/DRM,  development  planning  or  related  field  with  10  years  of  relevant  work 
+experience in DRM, DRR, disaster risk financing and project management. The DRM specialist 
+will act as team leader and will perform the following tasks: (i) take the lead and collaborate with 
+all  technical  consultants  on  methodological  design,  planning  and  implementation  of  the 
+assignment;  (ii)  defined  vision,  and  objectives  of  plan  to  provide  the  strategic  directions  and 
+advisory services to the project team; (iii) prepare the overall framework of the assignment to unify 
+the  individual  outputs  and results for  each sub  output  of the  study; (iv)  check  and monitor the 
+quality  of  the  research  work  and  authenticity  of  the  information;  (v)  prepare  work  plan, 
+communication  plan  and  stakeholder’s  engagements/participation  plan; 
+the 
+development/consolidation  of  a  5-year  business  plan,  annual  operational  plans,  restructuring 
+proposal,  institutional  strengthening  and  restructuring  plan  (with  timelines  and  responsibilities) 
+and all other key deliverables. 
+lead 
+(vi) 
+Appendix 1          46 
+Disaster risk management specialist / deputy team leader (1 national consultant, 30 
+person-months),  the  specialist  will  preferably  hold  a  postgraduate  degree  in  disaster 
+management,  business  management,  international  development  studies  or  any  other  relevant 
+discipline and at least 8 years of professional experience to carry out the following tasks: (i) DRM 
+stakeholder analysis and mapping in the context of Tajikistan with support of the team leader; (ii) 
+formulate 
+and 
+engagements/participation  plan;  (iii)  arrange  coordination  meetings,  lead  consultation  process 
+and generate follow up actions for the desire results; (iv) prepare meeting briefs and agenda in 
+order  to  facilitate  the  technical  team  members;  (v)  identify  essential  linkages  and coordination 
+requirements  for  effective  DRM  mainstreaming  within  and  across  different  key  institutions;  (vi) 
+assist the team on issues related to coordination and communication in the situational analysis 
+and planning of DRM. 
+communication 
+stakeholder’s 
+coordination, 
+implement 
+and 
+DRR institutional assessment and development specialist (1 international consultant 
+for 6 person-months, and 1 national consultants for 18 person-months each), The specialist will 
+preferably  hold  a  postgraduate  degree  in  DRR,  engineering,  development  studies,  emergency 
+response,  social  sciences  or  any  other  relevant discipline  with at  least  8  years  of  professional 
+experience and extensive knowledge. He /she will review legal framework underpinning DRM and 
+will guide for policy reforms, tasks include: (i) review of existing policies, legal frameworks, codes 
+of  conduct,  institutional structures  and  the coordination  mechanisms  among the  national  DRM 
+focal point ministries and sectors, and to analyse gaps in sector specific policies protocols along 
+with overlapping domains of departments related to DRM and climate change (ii) will guide the 
+team leader and the team on policies, strategies reforms and restructuring plan related to DRM 
+and CCA mean streaming, (iii) will analyse the level of consistency in the policy, planning and 
+implementation processes within and across different levels of government, NGOs, CSOs/CBOs, 
+private  sector  and  community-based  institutions, (iv)  assist the  team  leader  in  consolidation  of 
+development of institutional restructuring proposal, 5-year business plan and annual operational 
+plans for it restructured departments and divisions, (v) undertake more in-depth assessments of 
+technical and other capacities of the organizations which can be utilized for long-term disaster 
+risk prevention, mitigation and preparedness programs, (vi) obtain a snapshot of the ‘real live’ risk 
+situation  of  the  country  and  to  acquire  an  understanding  of  what  is  actually  done  for  DRM  as 
+compared  to  what  could  be  done,  (vii)  will  analyse  communication  of  data,  risk  information 
+especially  the  warning,  contingency  plans  for  disaster  preparedness,  damage  and  loss 
+assessment, and recovery and rehabilitation, (viii) draw guiding steps for the apex authorities to 
+endorse the restructuring plan and (ix) proposal for DRM strengthening and capacity building will 
+include sectorial nodes (focal points) and their respective departments. 
+DRM  /  CCA  planning  specialist  (1  international  consultant,  6  person-months, 
+intermittent),  the  specialist  will  preferably  hold  a  postgraduate  degree  in  disaster  response 
+engineering, development studies or any other relevant discipline and preferably at least 8 years 
+of professional experience in DRM/CCA and will be responsible for: (i) take lead in the utilization 
+of  the  findings  of  the  individual  consultants  as  bench  mark  (base  line)  for  the  CESCD  5-year 
+business plan and sectorial DRM mainstreaming plans, (ii) conduct and facilitate all the necessary 
+consultation workshops or meetings for the development of the different plans, (iii) strategically 
+defined actions with priorities based on the national or local needs, (iv) understand and reflect in 
+the  overall  assessment  the  local  perceptions  of  risk  and  risk  coping  strategies  as  well  as  the 
+institutional  requirements  for  increasing  resilience  that  the  community  considers  important,  (v) 
+define steps and times lines for each step of the restructuring in business plans for CESCD and 
+annual operational plans for it restructured departments and divisions. 
+Appendix 1          47 
+Change  specialist  (1  international  consultant,  6  person-months,  intermittent),  the 
+specialist  will  preferably  hold  a  postgraduate  degree  in  water  resources,  natural  sciences, 
+environmental management or any other relevant discipline and at least 8 years of professional 
+experience. The specialist will: (i) carry out a contextual analysis of climate change situation of 
+Tajikistan  including  the  futuristic  scenario  based  on  available  GCM  and RCMs,  (ii)  assess the 
+country climate change framework and process of the country including policy and planning, (iii) 
+assess  the  main  issues  related  to  climate  changes,  better  informed  policy  choices,  mitigation 
+policy  challenges  including  carbon  pricing,  adoption  of  low-carbon  technologies,  public 
+investment  and private  sector, (iv)  analyse  climate  change prospects  and  practices in short to 
+long  term  planning  process  at  country,  regions,  district  or  at  community  level,  (v)  propose 
+integration of the climate change into development planning process on each level. 
+Economist  (1  international  consultant,  3  person-months),  the  specialist  will  preferably 
+hold  a  postgraduate  degree  in  economics,  education  policy  or  actuarial  sciences  or  any  other 
+relevant discipline and at least 8 years of professional experience in economics, DRR and climate 
+change expenditures and will perform: (i) analyse the high and rising economic costs of disasters 
+and climate change implication in the country by estimating the economic costs of disasters, (ii) 
+give an analysis of the economic benefits of disaster risk reduction practices carried out by the 
+formal and informal sectors in the country and to assess climate public expenditure, (iii) analyse 
+and specify the costs of disaster risk reduction and climate change adaptation activities, (iv) will 
+review  and  summarize  the  sources  of  government  climate  change  funding,  private  sector 
+(including community and climate change expenditure through UN, NGOs and other bilateral and 
+multilateral organizations in the 5-year business plan. 
+Information  management  specialist  (1  national  consultant,  6  person-months, 
+intermittent), the specialist will preferably hold a postgraduate degree in GIS/MIS, social policy 
+research  and  analysis,  development  research,  or  development  planning  or  any  other  relevant 
+discipline and at least 8 years experience. The specialist will: (i) lead the functions of knowledge 
+management during the course of assignment pertaining to the DRM and CCA in Tajikistan, (ii) 
+mapping of the existing DRM data and information sources, with specific institutional roles and 
+responsibilities,  and systems  and  processes  for  collecting,  managing,  and  sharing  data  and 
+information with all related stakeholders, (iii) create a mechanism for capturing and documenting 
+key information of DRM and CCA and work out knowledge products, (iv) help the research team 
+in better presentation of data and compilation of all the required reports, (v) propose a knowledge 
+management  system  (Data  clearing  house)  of  DRM/CCA  in  which  information  on  hazards, 
+disasters,  vulnerabilities  and  disaster  risk  management  system  of  the  country  and  issues 
+pertaining  to  the  governance,  (vi)  oversee  capacity  building  plan  of  sectoral  focal  points  and 
+support for internal knowledge acquisition, management and sharing. 
+Legal specialist (1 national consultant, 6 person-months, intermittent), the legal specialist 
+will preferably hold a postgraduate degree in law or any other equivalent qualification and at least 
+8  years  of  experience  of  similar  tasks.  The  specialist’s  responsibilities  include:  (i)  advise  the 
+project team, management and expert consultants on legal issues on policy and institutional level 
+restructuring, (ii) advise the team leader on legal issues during implementation of the project, (iii) 
+define and assist the team in proposing amendments, modifications to regulations in relation to 
+DRM/CCA, (iv) coordinate with other lead specialists to achieve the desire project objectives. 
+Gender  and  social  development  specialist  (1  national  consultant,  6  person-months, 
+intermittent),  the  gender  specialist  will  preferably  hold  a  postgraduate  degree  in  gender, 
+development, anthropology, sociology, or social science or any other related field and preferably 
+8 years experience. The specialist will: (i) identify opportunities and entry points for mainstreaming 
+Appendix 1          48 
+gender  into  the  relevant  policies  and  programs,  (ii)  assist  project  staff  in  upgrading  gender 
+policies/guidelines in DRM-related legal framework(s), (iii) review gender toolkit/criteria to be used 
+for gender mainstreaming in the components of the project, (iv) assess gender-mainstreaming in 
+all the review, surveys, including sex-disaggregated data, and any other assessment carried out 
+under the project.  
+Sectoral  specialist  (water  resources),  (1  national  consultant,  6  person-months, 
+intermittent). The sectoral specialist (water resources) should have at least a postgraduate degree 
+in  water  resources  management  or  any  other  related  field  and  at  least  8  years  of  relevant 
+professional  experience  in  water  sector.  The  specialist  will:  (i)  assist  the  CESCD  to  establish, 
+notify and build the capacities of the water sector focal point for mainstreaming DRR into their 
+sectoral policies and plans, (ii) help in providing a framework to the water sector focal point to 
+review and update their own water management plans, (iii) conduct capacity building activities for 
+the water sector personnel on the successful and resilient approaches of the water management 
+focusing on replicable models. 
+Sectoral specialist (energy), (1 national consultant, 6 person-months, intermittent), the 
+sectoral  specialist  (energy)  should  have  at  least  a  postgraduate  degree  in  science,  business 
+management, engineering, finance, economics, or any other related field with at least 8 years of 
+relevant  professional  experience  in  energy  sector.  The  specialist  will:  (i)  assist  the  CESCD  to 
+established and notify the energy sector focal point for mainstreaming DRR in to their sectoral 
+policies and plans, (ii) assist the CESCD to build the capacity of energy sector in the country for 
+integration DRR in their business and operational plans. (iii) His/her work will help in setting up a 
+baseline information on policy, legal/regulatory, and institutional frameworks and barriers to the 
+energy sector to integrate DRR, (iii) provide a framework to the energy sector focal point to review 
+and  update  their  sectoral  plans,  (iv)  conduct  capacity  building  activities  for  the  energy  sector 
+personnel on the successful and resilient approaches of the energy sector focusing on replicable 
+models. 
+Sectoral  specialist  (transport),  (1  national  consultant,  3  person-months,  intermittent). 
+The  sectoral  specialist  should  have  at  least  a  postgraduate  degree  in  engineering,  transport 
+management, urban development, or a related field and at least 8 years of relevant professional 
+experience. The specialist will: (i) assist the CESCD to established and notify the energy sector 
+focal point for mainstreaming DRR in to their sectoral policies and plans (business and operational 
+plans),  (ii),  help  in  providing  short-term  technical  assistance  to  improve resilience  in Tajikistan 
+transport  sector  by  utilizing  prior  experience  in  transport  infrastructure  of  the  government 
+ministries  and  agencies,  (iii)  setting  a  baseline  information  on  policy,  legal/regulatory,  and 
+institutional frameworks and barriers to the transport sector to integrate DRR and climate change 
+adaptation,  (iv)  providing  a framework to  the  transport sector focal  point to review  and update 
+their sectoral plans. 
+Sectoral specialist (health), (1 national consultant, 3 person-months, intermittent), the 
+sectoral specialist should have at least a postgraduate degree in health science, public health, 
+management or any related field and at least 8 years of relevant professional experience. The 
+specialist will: (i) assist the CESCD to establish health sector focal point for mainstreaming DRR 
+into their sectorial policies and plans, (ii) help in identifying critical gaps in knowledge and identifies 
+opportunities  to  address 
+these  gaps  especially  on  epidemics,  endemics,  malnutrition, 
+emergencies and mass casualty management, health financing and health systems planning with 
+the  lenses  of  DRR,  (iii)  provides  policy  advice  to  the  sectorial  focal  point  on  areas  of  health 
+systems reform; recommends policy options and implementation strategies, (iv) conduct capacity 
+Appendix 1          49 
+building activities for the health sector personnel on the successful and resilient approaches of 
+the transport infrastructure focusing on successful replicable models. 
+Sectoral  specialist  (education),  (1  national  consultant,  3  person-months,  intermittent, 
+the  sectoral  specialist  should  have  at  least  a  postgraduate  degree  in  education,  education 
+management,  social  sciences,  public  policy  or  any  other  related  field  and  at  least  5  years  of 
+relevant professional experience. The specialist will: (i) established health sector focal point for 
+mainstreaming DRR in to their sectoral policies and plans, (iii) his/her work will help in the policy 
+dialogue and contributes to the review of the sector policy; makes recommendations on strategies 
+and policy options for sector focal point, (iv) conduct capacity building activities for the education 
+sector personnel on successful and resilient approaches of the replicable models. 
+(environment), 
+Sectoral  specialist 
+(1  national  consultant,  6  person-months, 
+intermittent), the sectoral specialist should have at least a postgraduate degree in engineering, 
+environmental science, environmental engineering or any other related field with at least 5 years 
+of relevant professional experience. The specialist will: (i) establish the environment sector focal 
+point for mainstreaming DRR in their sectoral policies and plans, (ii) (ii) his/her work will help in 
+the  policy  dialogue  and  contributes  to  the  review  of  the  environment  sector  policy;  makes 
+recommendations on strategies and policy options for the sector focal point. (iii) conduct capacity 
+building activities for the environment sector personnel on successful and resilient approaches of 
+the replicable models. 
+Sectoral specialist (agriculture), (1 national consultant, 3 person-months, intermittent), 
+the sectorial specialist should have at least a postgraduate degree in in agriculture, agricultural 
+science, agronomy, nutrition or any other related field and at least 5 years of relevant professional 
+experience. The specialist will: (i) assist the CESCD to establish the agriculture sector focal point 
+for mainstreaming DRR in to their sectoral policies and plans, (ii) help focal point in formulating 
+and implementing the agriculture sector strategy, and in particular its contribution to the national 
+development  targets  by enhancing food  security,  the  sustainable and  efficient  use  of  land  and 
+water resources, and (iii) plan and conduct capacity building activities for the agriculture sector 
+personnel on successful and resilient approaches of the replicable models. 
+Support staff will include at least a translator and interpretor for the full duration of the 
+assignment.  
+Translator and interpreter (1 national,full-time), the translator and interpreter will hold a 
+degree  in  English  and  Russian  language  or  any  other  related  field  and  preferably  5  years’ 
+experience in providing professional  translation and interpretation services. The translator  and 
+interpreter will; (i) provide high quality translation services from English to Russian and vice versa 
+as  required  by  the  project  team,  (ii)  facilitated  events  such  as  workshops,  seminars  and 
+roundtables by offering simultaneous interpretation from English to Russian and vice versa, (iii) 
+translates documents, ensuring completeness, accuracy and stylistic acceptability of translations 
+produced, (iv) conduct necessary research for each document being translated in order to ensure 
+that the meaning is interpreted correctly and in full, and that appropriate specialized terminology 
+is employed. 
+IV.  DATA, LOCAL SERVICES, PERSONNEL, AND FACILITIES TO BE PROVIDED BY 
+THE CLIENT 
+Appendix 1          50 
+The government via the CESCD/project implementation group will provide the consultants 
+with: (i) adequate office accommodation in Dushanbe; (ii) will assist with coordination with other 
+government agencies and with obtaining all data. 
+V.  REPORTING & TIMELINES 
+In  the  course  of  assignment,  the  consultants  must  submit  the  following  reports  and 
+materials: 
+Deliverables 
+Timeframe 
+Inception Report 
+Progress Reports 
+Interim Report 
+Draft Final Report 
+Final Report 
+Within 3 months from signing of contract (or after 
+commencement of assignment) 
+Every 6 months from signing of contact (4 reports) 
+Shall be submitted in the middle of the assignment 
+which  shall  include  preliminary  outcomes  and 
+results  achieved  within  the  project,  shortages  and 
+proposals to address them. 
+Within  29  months  from  signing  of  contract.  It  shall 
+cover  analysis  of  the  achievements  and  progress 
+made  under 
+impact  on 
+report  shall  be 
+beneficiaries  etc.  Draft 
+submitted  to  all  stakeholders  for  comments  and 
+notes. 
+Within  4  weeks  after  receiving  comments  on  draft 
+final  report  from  the  Government,  ADB,  PIG,  and 
+stakeholders. 
+the  project,  project 
+final 
+Sub Output 1  
+Detail Report on Institutional review that 
+incorporates capacity building for 
+gender-responsiveness DRM, along 
+with comprehensive restructuring and 
+strengthening plan  
+Sub Output 2 
+Detail report on review of legal 
+frameworks along with key findings, 
+institutional reforms and procedural 
+guiding steps for destructing  
+Sub Output 3 
+5-year detail business plan  
+Sub Output 4 
+DRM integrated sector strategies for 
+transport, energy, education, health, 
+water, irrigation, environment, and 
+agriculture departments and ministries 
+drafted 
+Sub Output 5 
+Training plan implemented 
+Within 12 months from signing of contract 
+Within 12 months from signing of contract 
+Within 24 months from signing of contract 
+Within 24 months from signing of contract 
+Within 24 months from signing of contract 
+In delivery of activities, the consulting firm will: 
+Appendix 1          51 
+i. 
+Ensure close synergy with similar ongoing initiatives of the government and other 
+development partners, such as the World Bank, UNDP, France, Germany, Japan, the 
+Russian Federation and Switzerland; 
+ii.  Create close linkages with Consultancy Package 2 of the project, other ongoing ADB 
+initiatives, where relevant; 
+iii. 
+Ensure that gender inclusive approach must be adapted; and 
+iv. 
+Facilitate government engagement and ownership throughout the process. Work closely 
+with relevant officials to support their understanding and integrate the approaches, tools 
+and systems within existing government policies, frameworks and processes.  
+All reports to ADB shall be produced in English. Reports shall be provided in both printed 
+and electronic form. The consulting firm shall provide 2 copies of each report in Russian and 1 
+copy in English. The consulting firm shall provide to ADB with electronic versions of the reports 
+and  associated  outputs/deliverables/analysis.  All  handouts,  slide  presentations,  and  related 
+material for meetings and workshops must be in both English and Russian. The consulting firm 
+will be expected to procure all interpretation and translation services. 
+TERMS OF REFERENCE FOR PACKAGE 2: STRENGTHENING CAPACITY TO 
+MANAGE NATURAL HAZARDS AND MINIMIZE LOSSES 
+I. 
+INTRODUCTION 
+These  Terms  of  Reference  (TOR)  provide  specific  details  of  the  project  which  are 
+relevant to the assignment, implementation arrangements, and objectives of the consultancy. 
+The TOR also provides specific details on the scope of the consultancy and the composition, 
+roles and responsibilities of the consulting team. 
+A. 
+BACKGROUND 
+ADB is providing an assistance to the Government of Tajikistan in the generation and 
+application of risk information, including a national disaster management information system; 
+an integrated multi-hazard early warning system; and training of officials from the CESCD, 
+and key sector ministries/institutions responsible for social and economic infrastructure and 
+natural  resource  management.  Community-based  DRM  and  awareness  raising  through 
+educational institutions will also be supported under the project.  
+B. 
+OBJECTIVE  
+The project’s outcome and impact are aligned with ADB’s programs for Tajikistan and 
+the Government’s development strategy and its strategic objectives.29 The project impact will 
+29  One  of  the  stated  objectives  of  the  National  Disaster  Risk  Management  Strategy  (2010  –  2015)  is  the 
+“integration of disaster risk reduction into all development activities of the Republic of Tajikistan.” This national 
+strategy  also  clearly articulates  the  need  and  priority  for  pre-disaster  risk  reduction  and preparedness,  also 
+articulating what needs to be done but not explicitly how or with what resources. 
+Appendix 1          52 
+be  Tajikistan’s  resilience  to  disasters  enhanced,  and  the  outcome  will  be  reduced  socio-
+economic vulnerability of Tajikistan to natural hazards.   
+The  project  has  been  designed  to:  (i)  support  efforts  of  the  government  in 
+mainstreaming  disaster  risk  management  (DRM)  in  development  planning,  and  (ii)  lay  a 
+foundation for establishing a sustainable institutional and financial mechanism that enables 
+Tajikistan to effectively deal with disasters in the long-term. The project has three interrelated 
+outputs:  (i)  DRM  mainstreamed  in  government  institutions;  (ii)  strengthened  capacity  to 
+manage  natural  hazards  and  minimize  losses;  and  (iii)  road  map  for  investments  and 
+sustainable financing developed. The outputs will be implemented at the national level with 
+specific interventions covering Sarez lake and communities downstream. More information 
+on the project is available at URL. 
+The primary objective of the services to be provided by an international firm(s) are to 
+strengthen  the  capacity  of  CESCD  and  selected  entities  to  manage  natural  hazards  and 
+minimize losses. 
+II.  DETAILED TERMS OF REFERENCE AND SCOPE OF WORK 
+The international firm(s) will be responsible for implementing outputs 2 and 3 of the 
+project, outlined below: 
+i.  Output  2:  Strengthened  capacity  to  manage  natural  hazards  and  minimize 
+losses.  Hazard and disaster risk maps of different return periods and digital ATLAS, 
+inventory of assets at risk, and a comprehensive national risk profile will be prepared 
+by carrying out multi-hazard vulnerability and risk assessment and using probabilistic 
+disaster  modelling  approach.  Areas  of  high,  medium,  low,  and  no  risk  will  be 
+identified.  An  assessment  of  existing  hazard  and  disaster  modelling,  mapping, 
+from  an 
+exposure  database/registers  and  vulnerability  analyses  (including 
+engineering basis) will be done, followed by (i) analyses needed to fill existing gaps 
+and  their  intended  purposes;  (ii)  steps  to  engage  and  train  national  and  local 
+stakeholders in these analyses/modelling/assessments, leaving behind a sustainable 
+disaster risk information system; and (iii) the establishment of accessible, sustainable 
+data platforms, supporting use of the data by all relevant stakeholders in the form of 
+national  disaster  management  information  system  (DMIS)  that  will  be  developed 
+within CESCD  with appropriate data recording, transmittal, collection, analysis and 
+dissemination mechanism. DMIS will also include gender and other social indicators 
+such as sex, age, ability, and income/poverty levels. An early warning system will be 
+established  to  enable  CESCD  to  issue  timely  warnings  to  the  local  authorities, 
+communities and other stakeholders covering preferably all kind of disasters such as 
+floods, droughts, avalanches, mudflows and earthquakes. National, regional, district, 
+and sectoral DRM plans will be prepared. The plans will also outline implementation 
+mechanism  and  standard  operating  procedures,  specifically  focusing  on  women, 
+children and people with special needs. DRM related training will be provided to the 
+officials of CESCD and key sector ministries/institutions that are responsible for social 
+and economic infrastructure and natural resource management. A capacity building 
+plan for community-based DRM will be prepared and implemented in the districts and 
+cities  at  high  risk,  with  specific  focus  on  women,  children  and  people  with  special 
+needs.  A  DRM  awareness  raising  program  for  educational  institutions  will  also  be 
+designed and implemented in the districts and cities at high risk. Dam-break analysis 
+and flood modeling of Sarez lake will be done to identify the areas, population, and 
+Appendix 1          53 
+public and private properties/assets at risk, estimate magnitude of potential damages, 
+and  identify  structural  measures  to  address  the  issues  identified  by  the  analysis. 
+Based  on  the  analysis,  upgrading  and  expanding  of  monitoring  and  early  warning 
+facilities at Sarez lake and in the areas at risk will be done. An inventory of glaciers 
+will be prepared to identify areas at risk of glacial lakes outburst flooding. 
+ii.  Output 3: Roadmap for investments and sustainable financing developed.   
+An investment plan for 9-year (2022 – 2030) for DRM will be prepared.30 It shall also 
+carry  out  a  study  for  sustainable  financing  options  for  disaster  risk  reduction, 
+preparedness  and  response;  and  propose  recommendations  for  establishing  a 
+sustainable financing mechanism. 
+The work should begin with an assessment of existing hazard and disaster modelling, 
+mapping,  exposure  database/register  and  vulnerability  analyses  (including  from  an 
+engineering bases) and to then develop and implement a masterplan focusing on (i) analyses 
+needed to fill existing gaps and their intended purposes; (ii) steps to engage and train national 
+and  local  stakeholders  in  these  analyses/modeling/assessments,  leaving  behind  a 
+sustainable  disaster  risk  information  system;  and  (iii)  the  establishment  of  accessible, 
+sustainable data [platforms, supporting use of data by all relevant stakeholders. The scope 
+is arranged in the following four sets of activities: 
+i. 
+ii. 
+iii. 
+iv. 
+Set  1  –  risk  information:  a  comprehensive  national  risk  profile  comprising  multi-
+hazard vulnerability and risk assessments and hazard maps, identifying areas of high, 
+medium and low risk; a national disaster management information system; national, 
+regional and sector-based disaster response plans; inventory of assets at risk; and 
+inventory of glaciers and areas at risk of glacial lakes outburst flooding.  
+Set 2 – early warning: an integrated multi-hazard early warning system; dam break 
+analysis  of  Sarez  lake  with  flood  modeling  and  updated/expanded  early  warning 
+system. 
+Set  3  –  training  and  awareness  raising:  a  community-based  DRM  program 
+designed and implemented for selected districts/cities at high risk; training for officials 
+from the CESCD and selected sectors, based on a training need assessment; and 
+awareness  raising  through  educational  institutions  in  selected  districts  and  cities. 
+Building  up  of 
+for  disaster  risk 
+assessment/modelling to enable national entities to sustain and update the work. 
+local  capacity  (technical  and 
+institutional) 
+Set 4 – investment plan: an investment plan for 9 years (2022-2030) prioritizing the 
+nature  of  interventions  and  investments  in  various  sectors,  geographic  locations, 
+resources required, and implementation strategies; a study on financing options for 
+disaster  risk  reduction,  preparedness  and  response;  and  recommendations  for 
+establishing a financing mechanism.  
+To implement the above-mentioned activities, the international firm(s) will: 
+30 Investment plan period is aligned with the ending year of the national disaster management strategy 2018-
+2030. 
+Appendix 1          54 
+i. 
+Set  1:  develop  a  comprehensive  national  risk  profile  by  assessing  existing 
+(climate/hazard)  risk  information;  standardizing  risk  information  visualization;  and 
+designing  a  set  of  core  products  to  support  risk-informed  decision  making  in  both 
+development planning and disaster planning. The scope of the profile will include: 
+The methodology used will include hazard profiling and mapping, characterizing the 
+hazards  in  terms  of  its  spatial  distribution,  frequency  and  intensity  by  using  probabilistic 
+disaster modelling approach. Seven major hazards prevalent in Tajikistan, namely, floods, 
+earthquakes,  droughts,  landslides,  avalanches,  hailstorms,  and  glacial  lake  outburst  flood 
+(GLOF) will be covered. Specific hazard intensity maps are to be produced per hazard. The 
+hazard maps will identify the hazard-prone areas, describe the physical characteristics of the 
+hazards and characterize the hazards in terms of: 
+-  Description 
+-  Severity (intensity) 
+-  Magnitude (potential size of impact area) 
+-  Probability/frequency of occurrence 
+-  Hazard zone (location/extent of impact area) 
+The proposed mapping parameters are: scale 1:100,000 or 1: 200,000; return period 
+classes: low, medium, high (5, 10, 25, 50, 100, 250, 500, 1,000, 2,500, 5,000 years); and 
+hazard intensity classification (to be determined).  
+Plausible scenarios for each hazard will be prepared, considering the intensity of the 
+hazardous event,  the  vulnerability  of  elements  at  risk  to  that  event  intensity,  and the time 
+frame of risk  assessment.  Accurate  estimations of  potentially  at-risk  populations  and sub-
+populations will be undertaken as part of the exposure analysis (quantification of risk) in a 
+GIS environment, and vulnerability assessments based on the targeted elements at risk and 
+context. A vulnerability Index will also be set.  
+An 
+integrated  national  disaster  management 
+that 
+systematically  collects,  manages,  analyzes  and  disseminates  disaster  information  will  be 
+designed, based on an assessment of users’ needs and requirements for hazard and risk 
+information  system 
+Appendix 1          55 
+information,  including  a  review  of  existing  data  and  information  available  across  relevant 
+entities. The system will include hazard event data (magnitude, intensity, chain of events); 
+damage,  loss,  impact  data  (by  location,  event,  sector  and  element);  exposure  data 
+(population, infrastructure, economic); and thematic data (poverty, gender, etc.). The system 
+will have the capacity to support modeling and dynamic risk analysis and mapping. 
+National,  regional  and  sector-based  disaster  risk  management  plans  will  be 
+developed based on the requirements of relevant users and availability of data. The planning 
+methodology  will  align  to  the  existing  planning  processes  at  national,  regional  and  sector 
+levels in Tajikistan. The plans will not be standalone, but rather integrated within the existing 
+planning and budgeting architecture.  
+An  inventory  of  glaciers  will  be  undertaken  following  a  desk  review  of  existing 
+contributions in this field. The dynamic inventory parameters will include geographic location, 
+area, length, orientation, elevation, and classification. The imagery, maps and datasets will 
+be included in the disaster management information system. Consider use of ICIMOD glacier 
+lake database and methodology, which includes part of Amu Darya river basin. 
+An inventory of the assets at risk will be prepared based on the nature, severity and 
+spatial  distribution  of  hazards  across  the  country.  The  consultants  will  develop  the 
+methodology and scope of the inventory and seek approval of that from the CESCD. The 
+sustainability of the inventory will be considered.  
+ii. 
+Set 2: design an integrated multi-hazard early warning system based on a thorough 
+review  of  existing  early  warning  systems  and  approaches,  and  the  policy  and 
+institutional  context.  Previous  initiatives  no  longer  operational,  if  any,  and  good 
+practices, gaps, challenges and lessons will be assessed. An analysis of operational, 
+financial,  and  capacity  limitations  and  gaps  at  administrative  (national  and  sub-
+national) and community levels is to be undertaken and will include an assessment 
+of potential limitations in the utilization and maintenance of core technologies. The 
+system will identify opportunities to build on existing investments, domestically and 
+regionally.  The  development  of  an  integrated  early  warning  system  will  include 
+identifying the focus hazard(s), early warning of products, broad overview of disaster 
+monitoring  mechanisms  and  warning  dissemination  mechanisms,  key  government 
+and other partners and their roles, funding requirements, and measures to address 
+potential technical and institutional challenges to its development and operation will 
+be  outlined,  with  linkages  to  the  national  risk  profile  and  disaster  management 
+information  system.  The  system  will  identify  immediate,  medium  and  long-term 
+actions needed and will be linked to the investment plan (set 4), where appropriate.  
+A dam break analysis of Sarez lake with revised flood modeling and updated early 
+warning system will be undertaken. The 2005 World Bank supported assessment will be the 
+baseline of this work. Three-dimensional dam-break and river flow simulation models will be 
+used for evaluation of safety of population and assets from Sarez dam break. All possible 
+seismic and climatic scenarios will be tested to optimize the needed early warning system. 
+Digital  and  hard  copies  of  flood-plain  maps  (1:50,000  scale)  will  be  prepared  for  various 
+scenarios and return periods. For each scenario/return period inventory of the assets and 
+population will be prepared. Subsequently, upgradation/extension of lake monitoring system 
+Appendix 1          56 
+and  early  warning  system  will  be  designed  by  identifying  the  equioments/instruments  and 
+their  specifications.  Cost  estimates  will  be  done  and  bidding  document  will  be  prepared. 
+Client will be supported in procurement of the supply and installation contract. 
+iii. 
+Set  3:  design  and  implement  a  community-based  DRM  (CBDRM)  program  for 
+selected districts/cities at high risk, and develop training and awareness materials, 
+based on the comprehensive national risk profile and drawing on the risk information 
+emanating  from  the  disaster  management  information  system,  in  consultation  with 
+non-governmental organizations (NGOs). Training and awareness materials will be 
+developed for selected localities (high risk district and cities) to support CBDRM and 
+educational  institutions  and  implemented  in  a  phased  manner.  CBDRM  and 
+awareness raising in educational institutions will be outsourced to NGO(s). Selected 
+consulting firm(s) will recruit NGO(s) for CBDRM and awareness raising campaign in 
+educational  institutions  in  high  risk  districts  and  cities  in  accordance  with  ADB’s 
+Procurement  Policy  and  Procurement  Regulations  for  ADB  Borrowers:  Goods, 
+Works, Nonconsulting and Consulting Services (2017, amended from time to time), 
+budget for that is in Provisional Sums. Training of staff from CESCD and other sector 
+ministries/agencies will be also be conducted to transfer the expertise related to the 
+work  carried  out  by  consultants.  Training  will  cover  disaster  risk  in  the  context  of 
+Tajikistan,  risk-informed  planning  and  budgeting,  disaster  management  and 
+emergency planning, use of DMIS and early warning system, and related topics etc.      
+iv. 
+Set 4: design a detailed 9-year investment plan (2022-2030) with the government to 
+identify  priority  interventions  and  investments  across  key  sectors  and  geographic 
+locations in relation to DRM and resilience building. The plan will include indicative 
+costings and be supported by a corresponding implementation strategy. The plan will 
+draw  on  a  study  to  be  undertaken  on  financing  options,  in  consultation  with 
+government  and  development  partners.  Recommendations  on  a 
+financing 
+mechanism will also be prepared.  
+Throughout the delivery of these activities, the international firm(s) will: 
+i. 
+Ensure close synergy with similar ongoing initiatives of the government (e.g. various 
+GIS-related  initiatives  in  different  government  agencies)  and  other  development 
+partners, such as the World Bank (e.g. Strengthening Critical Infrastructure against 
+Natural Hazards and Central Asia Hydrometeorology Modernization projects); UNDP 
+(Strengthening  Disaster  Risk  Reduction  &  Response  Capacities  project);  France, 
+Germany, Japan, Russia and Switzerland. 
+ii. 
+Establish close linkages with the findings and deliverables of the institutional review 
+and strengthening work being supported under output 1 of this project, especially, in 
+the context of developing disaster management plans.  
+iii.  Create close linkages with ongoing ADB projects, where relevant, such as the project 
+on Water Resources Management in the Pyanj River Basin. 
+Appendix 1          57 
+iv.  Use advanced technology, such as geographical information system (GIS) and earth-
+observation  satellite  images,  where  appropriate,  to  collect  data,  strengthen 
+government capacity in undertaking analysis. 
+v. 
+vi. 
+Ensure  that  all  community  level  activities  have  a  special  focus  on  women  and 
+vulnerable population. 
+Facilitate  government  engagement  and  ownership  throughout  the  process.  Work 
+closely  with  relevant  officials  to  support  their  understanding  and  integrate  the 
+approaches,  tools  and  systems  within  existing  government  frameworks  and 
+processes.  
+III.  REPORTING 
+In the course of assignment, the international firm(s) must submit the following reports 
+and materials: The broad timelines of delivery by the international firm(s) is outlined below: 
+Deliverables 
+Timeframe (tentative) 
+Reporting 
+Inception report 
+Progress reports 
+Interim report 
+Draft final report  
+Final report 
+Project completion report 
+Set 1 – Risk information 
+National risk profile 
+National, regional, district, and 
+sectoral (transport, energy, education, 
+health, water, irrigation, and 
+agriculture) DRM plans, addressing 
+gender-based concerns 
+National disaster management 
+information system that includes 
+gender and other social indicators 
+Inventory of glaciers 
+Within 3 months from signing of contract (or 
+after commencement of assignment) 
+Every 12 months from signing of contact (4 
+reports) 
+the  middle  of 
+the 
+Shall  be  submitted 
+in 
+assignment  which  shall 
+include  preliminary 
+outcomes and results achieved within the project, 
+shortages and proposals to address them. 
+Within 57 months from signing of contract. It shall 
+cover analysis of the achievements and progress 
+made  under  the  project,  project  impact  on 
+beneficiaries  etc.  Draft  final  report  shall  be 
+submitted to all stakeholders for comments and 
+notes. 
+Within 4 weeks after receiving comments on draft 
+final report from the Government, ADB, PIG, and 
+stakeholders. 
+Within 58 months from signing of contract.  
+Within 24 months from signing of contract 
+Within 36 months from signing of contract 
+Within 36 months from signing of contract 
+Within 12 months from signing of contract 
+Appendix 1          58 
+Set 2 – Early warning 
+Integrated multi-hazard early warning 
+system 
+Dam break analysis of Sarez Lake 
+Upgrading of Sarez lake water 
+monitoring system and EWS 
+Set 3 – Training and awareness raising 
+Implementing community-based DRM, 
+at least 30% women 
+Staff of CESCD and transport, energy, 
+education, health, water, irrigation, 
+environment, and agriculture 
+departments and ministries trained, at 
+least 20% women 
+DRM awareness in educational 
+institutions, at least 30% women 
+Set 4 – investment plan 
+9-year DRM investment plan with 
+implementation strategy 
+Study on DRM financing options  
+Recommendations for financing 
+mechanism 
+Set 4 – Procurement of equipment 
+and machinary 
+Design, specification and cost 
+estimates of two packages of 
+equipment and machinery completed  
+Bidding documents and bid evaluation 
+reports prepared, contracts signed, 
+and execution of contracts completed 
+for two packages of equipment and 
+machinery 
+Within 48 months from signing of contract 
+Within 24 months from signing of contract 
+Within 54 months from signing of contract 
+Within 54 months from signing of contract 
+Within 58 months from signing of contract 
+Within 58 months from signing of contract 
+Within 36 months from signing of contract 
+Within 30 months from signing of contract 
+Within 36 months from signing of contract 
+Within 30 months from signing of contract 
+Within 54 months from signing of contract 
+All  reports  to  ADB shall be  produced  in English.  Reports  shall  be  provided in both 
+printed and electronic form. The international firm(s) shall provide 2 copies of each report in 
+Russian and 1 copy in English. The international firm(s) shall provide to ADB with electronic 
+versions  of  the  reports  and  associated  outputs/deliverables/analysis.  All  handouts,  slide 
+presentations, and related material for meetings and workshops must be in both English and 
+Russian. The international firm(s) will be expected to procure all interpretation and translation 
+services. 
+C. 
+Schedule and Personnel 
+The services will be carried out by an international firm(s) in accordance with ADB’s 
+Procurement Policy and Procurement Regulations for ADB Borrowers (2017, amended from 
+time to time). 
+The services will be provided in Tajikistan. 
+Appendix 1          59 
+The contract will be for a period of 58 months. The estimated person-months of key 
+international  and  national  consultant  inputs  are  shown  below.  The  international  firm(s)  is 
+requested to propose the assignment of experts in accordance with the objectives, scope of 
+services, and deliverables.  
+Key Expertise 
+No  Total Input (PM) 
+International Consultants  
+A. 
+1.  Disaster risk management specialist / team leader 
+2.  Disaster risk assessment specialist 
+3.  Early warning specialist 
+4.  Hydraulic modeling and flood forecasting specialist 
+5.  Hydrologist 
+6.  Knowledge management specialist 
+7.  Climate change adaptation specialist  
+8.  Glaciologist 
+9.  Geologist / seismologist 
+10.  Natural resource management specialist 
+11.  Gender and Social development specialist 
+12. 
+13.  GIS specialist 
+14.  Procurement / contract management specialist 
+ 15.  Finance specialist 
+16.  Avalanche specialist 
+Infrastructure specialist 
+Subtotal (A): International Consultants  
+B  National Consultants  
+1.  Disaster risk management specialist / deputy team leader 
+2.  Capacity building specialist 
+3.  Hydrologist 
+4.  Hydraulic modeling and flood forecasting specialist 
+5.  Gender and social development specialist 
+6.  Natural resource management specialist 
+7. 
+8.  Finance specialist  
+9.  Procurement / contract management specialist 
+10.  Geologist / seismologist 
+11.  GIS specialist 
+Infrastructure specialist 
+TOTAL (A+B)  
+Subtotal (B): National Consultants  
+1  
+1  
+1  
+1  
+1 
+1  
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1  
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1  
+1 
+30 
+12 
+9 
+12 
+9 
+9 
+9 
+3 
+3 
+3 
+6 
+6 
+12 
+3 
+6 
+3 
+135 
+48 
+12 
+18 
+18 
+24 
+9 
+9 
+12 
+12 
+12 
+18 
+192 
+327 
+The  international  firm(s)  shall  nominate  any  support  staff  positions  they  require  in 
+their Personnel Schedule.  
+D. 
+Qualification Requirements and Responsibilities of Key Personnel 
+All team members, both international and national, must be proficient in written and 
+spoken  English.  The  required  qualifications  and  responsibilities  of  the  key  personnel  are 
+provided below: 
+Appendix 1          60 
+i.  Disaster  risk  management  specialist  /  team  leader  (1  international,  30  person-
+months, intermittent). The consultant should have a postgraduate degree in in climate 
+change,  water  resource  management,  DRM,  meteorological  sciences  or  related 
+fields.  The  consultant  must  have  at  least  10  years  of  relevant  work  experience. 
+Experience in scoping, designing, and/or implementing similar projects, preferably in 
+Central  Asian  countries,  and  in  managing  the  development  of  meteorological  and 
+hydrological systems in an international context. In depth knowledge of the operation 
+and  management  of  national  meteorological  and  hydrological  services  and  of  the 
+World Meteorological Organization’s standards and procedures; operation of hydro-
+meteorological  networks,  early  warning  systems,  information  communication  and 
+technology, and the delivery of meteorological and hydrological services for DRM is 
+essential. The team leader should have demonstrable skill in program management 
+including  development  of  hazard  risk  assessment  methodology;  development  of 
+hazard risk and vulnerability parameters; hazard analysis. The consultant will perform 
+the following tasks: (i) lead the overall implementation of the 4 sets of deliverables in 
+close coordination with relevant government entities; (ii) in consultation with relevant 
+government entities involved, identify specifications of services and equipment and 
+support ADB in its procurement following ADB procurement guidelines; (iii) undertake 
+a quality assurance role; (iv) coordinate and communicate routinely with the executing 
+agency and implementing agencies for output 1 and 2, and ADB project officer on 
+project  progress;  (v)  supervise  the  team  of  consultants  under  consulting  services 
+package 2; and (vi) oversee periodic and final project reports. 
+ii. 
+(1 
+Disaster  risk  assessment  specialist 
+international,  12  person-months, 
+intermittent).  The  consultant  should  have  a  postgraduate  degree  in  geology,  earth 
+sciences or related field; and with training on disaster risk modeling. The consultant 
+must have at least 8 years of relevant work experience in quantitative disaster risk 
+modelling  and  good  understanding  of  geophysical  hazards  in  Tajikistan  and/or 
+Central Asia. Experience in undertaking climate change and disaster risk assessment 
+in Tajikistan and other countries in Central Asia is preferred. Detailed tasks include: 
+(i) leading the work on disaster risk assessment for the national risk profile, including 
+developing  the  scope  of  the  assessment  addressing  key  indicators  of  hazard 
+exposure; physical and economic vulnerability; and estimates of potential losses and 
+combining results of the hazard assessment, exposure assessment, and vulnerability 
+into comprehensive risk profile, including developing outputs in the form of probable 
+maximum loss curves and maps; (ii) liaising with relevant government agencies and 
+development partners to ensure access to existing data and institutionalization of data 
+being collected under the project; (iii) organizing consultations with decision makers 
+to  present  the  key  findings  of  the  disaster  risk  assessment;  (iv)  leading  the 
+development  and  delivery  of  climate  change  and  disaster  risk  assessment  related 
+component of training courses; (v) support roll-out of disaster information system; (vi) 
+develop methodology, tools and training for risk-informed planning; (ix) based on an 
+assessment, 
+the 
+identify  equipment,  specification  and  costings 
+procurement specialist, as required, (x) input into periodic and final project reports. 
+to  support 
+iii. 
+Early  warning  specialist  (1  international,  9  person-months,  intermittent).  The 
+consultant  should  have  a  postgraduate  degree  in  meteorology,  climate  sciences, 
+geography or related field with experience in designing and supporting the roll-out of 
+multi-hazard  early  warning  systems.  The  consultant  must  have  at  least  8  years  of 
+relevant  work  experience.  Experience  in  assessing,  designing,  and  implementing 
+similar  projects  in  Central  Asian  countries,  including  a  good  understanding  of 
+Appendix 1          61 
+agriculture, and rural development-related issues in Central Asia, is an advantage. 
+Working under the supervision of the team leader for consulting services package 2, 
+the  consultant  will:  (i)  develop  a  methodology  for  the  multi-hazard  early  warning 
+scoping  study,  assess  existing  early  warning  systems  and  approaches,  identifying 
+good practices, limitations and gaps; (ii) analyze operational, financial, and capacity 
+limitations  and  gaps  at  administrative  (national  and  sub-national)  and  community 
+levels;  (iii)  identify  opportunities  to  build  on  existing  investments,  domestically  and 
+regionally; (iv) prepare a proposed process for the development of an early warning 
+system,  identifying  the  focus  hazard(s),  early  warning  products,  broad  outline  of 
+disaster  monitoring  mechanisms  and  warning  dissemination  mechanisms,  key 
+government and other partners and their roles, funding requirements, and measures 
+to  address  potential  technical  and  institutional  challenges  to  its  development  and 
+operation; (v) consult with relevant government and other stakeholders; (vi) based on 
+an  assessment,  identify  equipment,  specification  and  costings  to  support  the 
+procurement  specialist,  as required,  (vii)  lead  the  preparation  of  the  scoping  study 
+report; (viii) present recommendations; (ix) supervise consultant(s); and (x) input into 
+periodic and final project reports. 
+Hydraulic modeling and flood forecasting specialist (1 international, 12 person-
+months,  intermittent).  The  consultant  should  have  a  postgraduate  degree  in 
+hydrology, water resources management or related fields. The consultant must have 
+at least 8 years of relevant work experience. Experience in hydrological forecasting 
+is required including knowledge of flood and flash flood forecasting and warnings, the 
+translation  and  interpretation  of  forecasts  into  impact  forecasts,  and  hydro-
+meteorological  risk  modelling  and  flood  hazard  risk  assessment.  Knowledge  of 
+Tajikistan and/or Central Asia with special attention to water resource management 
+is  an  advantage.  Working  under  the  supervision  of  the  team  leader  for  consulting 
+services package 2, the consultant will: (i) lead the revision of a risk assessment for 
+Sarez  lake; (ii)  revise flood  modeling; (iii)  updated  early  warning  system for  at-risk 
+communities; (iv) consult with relevant government and other stakeholders; (v) based 
+on  an  assessment,  identify  equipment,  specification  and  costings  to  support  the 
+procurement  specialist,  as  required,  (vi)  lead  the  preparation  of  the  report;  (vii) 
+present recommendations; (viii) supervise consultant(s); and (ix) input into periodic 
+and final project reports. 
+Hydrologist (1 international, 9 person-months, intermittent). The consultant should 
+have a graduate or postgraduate degree in hydrology, water resources management, 
+or related field. The consultant must have at least 8 years of relevant work experience 
+in  flood  risk  assessment.  Working  under  the  supervision  of  the  team  leader  for 
+consulting  services  package  2,  the  consultant  will:  (i)  work  with  the  international 
+hydraulic  modeling  and  flood  forecasting  consultant  in  revising  flood  modeling;  (ii) 
+collect  and  analyze  flood  hazard  and  other  relevant  data  to  support  the  disaster 
+information system and early warning system; (iii) communicate key findings in a form 
+that  is  useful  for  decision  making;  (iv)  consult  with  relevant  government  and  other 
+stakeholders;  (v)  based  on  an  assessment,  identify  equipment,  specification  and 
+costings to support the procurement specialist, as required; (vi) lead the preparation 
+of the  report; (vii)  present  recommendations; (viii)  supervise consultant(s);  and  (ix) 
+input into periodic and final project reports. 
+iv. 
+v. 
+vi.  Climate  change  adaptation  specialist  (1 
+international,  9  person-months, 
+intermittent). The consultant should have a postgraduate degree in climate change 
+Appendix 1          62 
+modeling,  disaster  risk  reduction,  water  resource  management,  engineering,  or 
+environmental  sciences  with  specialization  in  down-scaling  of  climate  data,  data 
+management. Knowledge of Tajikistan and/or Central Asia is an advantage. Working 
+under  the  supervision  of  the  team  leader  for  consulting  services  package  2,  the 
+consultant  will:  (i)  undertake  a  comprehensive  climate  analysis;  (ii)  support  the 
+disaster  risk  assessment,  profile  and  mapping  by  providing  climate-related  inputs, 
+including modelling; (iii) consult with relevant government and other stakeholders; (iv) 
+develop and present recommendations in support of the output; (v) supervise/support 
+consultant(s); and (vi) input into periodic and final project reports. 
+vii.  Knowledge management specialist (1 international, 9 person-months, intermittent). 
+The  consultant  should  have  a  postgraduate  degree  in  development  and/or  public 
+policy  related  field.  The  consultant  must  have  at  least  8  years  of  relevant  work 
+experience.  Experience  in  DRM,  development  planning  and  budgeting,  sector 
+planning and awareness raising is required.  Knowledge of Tajikistan and/or Central 
+Asia is an advantage. Working under the supervision of the team leader for consulting 
+services  package  2,  the  consultant  will:  (i)  develop  training  packages  to  support 
+community-based  DRM;  integrating  DRM  into  sectors;  and  awareness  raising  in 
+educational  institutions  for  vulnerable  districts  and  cities;  (ii)  deliver  training  to 
+community  leaders  /  training  of  trainers,  government  officials  and  community 
+mobilisers  and  educators;  (iii)  lead  the  preparation  of  the  report;  (iv)  present 
+recommendations;  (v)  supervise consultant(s);  and  (vi)  input  into  periodic  and final 
+project reports. 
+viii.  Glaciologist (1 international, 3 person-months, intermittent). The consultant should 
+have a postgraduate degree in geology, physics, and climatology or related field. The 
+consultant  must  have  at  least  8  years  of  relevant  work  experience  in  glaciology, 
+including  assessments  and  inventories.  Experience  in  similar  projects  in Tajikistan 
+and/or other countries in Central Asia is preferred. Working under the supervision of 
+the team leader for consulting services package 2, the consultant will: (i) determe the 
+scope  of  inventory;  (ii)  gather  the  key  indicators  /  parameters;  (iii)  undertak  the 
+assessment; (iv) ensure the maps are accessible through the disaster management 
+information system; and (v) contribute to specific sections of the output on disaster 
+risk assessment; (vi) based on an assessment, identify equipment, specification and 
+costings to support the procurement specialist, as required. 
+ix. 
+Geologist  /  seismologist  (1  international,  3  person-months,  intermittent).  The 
+consultant should have a graduate or postgraduate degree in geology, seismology or 
+related field. The consultant must have at least 8 years of relevant work experience 
+and good understanding of geophysical hazards – earthquake and landslides issues 
+in Tajikistan and/or Central Asia. Working under the supervision of the team leader 
+for  consulting  services  package  2,  the  consultant  will:  (i)  lead  technical  aspects 
+related to geophysical hazard identification, assessment and modeling in support of 
+the risk assessment, disaster management information system, and early  warning; 
+(ii) collect hazard and other relevant data; (iii) communicate key findings in a form that 
+is  useful  for  decision  making;  (iv)  consult  with  relevant  government  and  other 
+stakeholders;  (v)  based  on  an  assessment,  identify  equipment,  specification  and 
+costings to support the procurement specialist, as required, (vi) lead the preparation 
+of the  report; (vii)  present  recommendations; (viii)  supervise consultant(s);  and  (ix) 
+input into periodic and final project reports. 
+Appendix 1          63 
+x.  Natural  resource  management  specialist  (1 
+international,  3  person-months, 
+intermittent).  The  consultant  should  have  a  postgraduate  degree  in  environmental 
+science  or  related  fields.  The  consultant  must  have  at  least  8  years  of  relevant  work 
+experience.  Experience  in  Tajikistan  and/or  Central  Asia  is  an  advantage.  Working 
+under  the  supervision  of  the  team  leader  for  consulting  services  package  2,  the 
+consultant will: (i) ensure the inclusion of natural resource management aspects across 
+the  package  of  deliverables;  (ii)  consult  with  relevant  government  and  other 
+stakeholders;  (iii)  contribute  to  specific  sections  of  the  output  on  disaster  risk 
+assessment; (iv) present recommendations; (v) supervise consultant(s); and (vi) input 
+into periodic and final project reports. 
+xi.  Gender  and  social  development  specialist  (1  international,  6  person-months, 
+intermittent).  The  consultant  should  have  a  postgraduate  degree  in  social  science, 
+gender studies, development or related fields. The consultant must have at least 8 years 
+of  relevant  work  experience.  Experience  in  Tajikistan  and/or  Central  Asia  is  an 
+advantage. Working  under  the  supervision  of  the  team  leader  for  consulting  services 
+package 2, the consultant will: (i) ensure the inclusion of gender and social development 
+aspects across the package of deliverables; (ii) consult with relevant government and 
+other  stakeholders;  (iii)  contribute  to  specific  sections  of  the  output  on  disaster  risk 
+assessment; (iv) present recommendations; (v) supervise consultant(s); and (vi) input 
+into periodic and final project reports. 
+xii. 
+international,  6  person-months, 
+Infrastructure  specialist  (1 
+intermittent).  The 
+consultant  should  have  a  postgraduate  degree  in  engineering  or  related  fields.  The 
+consultant  must  have  at  least  8  years  of  relevant  work  experience,  including  in  the 
+context  of  risk  assessments.  Experience  in  Tajikistan  and/or  Central  Asia  is  an 
+advantage. Working  under  the  supervision  of  the  team  leader  for  consulting  services 
+package  2,  the  consultant  will:  (i)  undertake  detailed  assessments  and  analysis;  (ii) 
+provide  technical  inputs  into  the  national  disaster  profile;  (iii)  contribute  to  specific 
+sections of the output on disaster risk assessment; (iv) consult with relevant government 
+and  other  stakeholders;  (v) 
+the  report;  (vi)  present 
+recommendations;  (vii)  supervise  consultant(s);  and  (ix)  input  into  periodic  and  final 
+project reports. 
+lead  the  preparation  of 
+xiii.  GIS specialist (1 international, 12 person-months, intermittent). The consultant should 
+have graduate or postgraduate degree in geography, information technology, or related 
+field and with at least 8 years of relevant work experience, including in the context of risk 
+assessments and the development of DRM related products. Experience in Tajikistan 
+and/or Central Asia is an advantage. Working under the supervision of the team leader 
+for consulting services package 2, the consultant will: (i) support detailed assessments 
+and analysis on selected risks; (ii) lead the development of GIS-related aspects of the 
+national disaster profile and early warning system; (iii) consult with relevant government 
+and  other  stakeholders;  (iv)  undertake  consultation  with  national  agencies  and 
+development partners involved in databases, including related software and platforms, 
+and  secure  access;  (v)  collect  exposure  data  and  developing  exposure  maps  (using 
+GIS)  to  feed  into  the  disaster  risk  assessment;  (vi)  ensure  the  exposure  maps  are 
+accessible  through  the  disaster  management  information  system;  (vii)  contribute  to 
+specific  sections  of  the  output  on  disaster  risk  assessment,  (viii)  based  on  an 
+assessment, identify equipment, specification and costings to support the procurement 
+specialist, as required, (ix) lead the preparation of reports; (x) present recommendations; 
+(xi) supervise consultant(s); and (xii) input into periodic and final project reports. 
+Appendix 1          64 
+xiv. 
+xv. 
+Procurement/contract  management  specialist  (1  international,  3  person-months, 
+intermittent). The consultant should have graduate or postgraduate degree in business 
+administration,  economics,  engineering,  public  procurement,  public  policy,  or  other 
+related fields, with at least 8 years of relevant work experience. Experience in Tajikistan 
+and/or Central Asia is an advantage. Working under the supervision of the team leader 
+for consulting services package 2, the consultant will: (i) provide assistance, technical 
+guidance  and  capacity  development  to  ensure  compliance  with  ADB's  procurement 
+(goods,  works,  and  consulting  services)  policies  and  procedures;  (ii)  support 
+improvements in the implementation performance of the grant; (iii) provide oversight and 
+advise on procurement and contract management; (iv) supervise consultant(s); and (v) 
+input into periodic and final project reports. 
+Finance  specialist  (1  international,  6  person-months). The  consultant  should have  a 
+degree in accounting, finance or a related field, and will have a recognized professional 
+accountancy qualification with at least 7 years of relevant work experience. Experience 
+in Tajikistan and/or Central Asia is an advantage. Working under the supervision of the 
+team leader for consulting services package 2, the consultant will: (i) advise the CESCD 
+on  developing  a  financing  mechanism  of  suitable  financing  options  for  sustainable 
+financial  arrangements;  (ii)  provide  key  inputs  or  lead  the  preparation  of  project 
+preparation  plans,  project  strategic  assessments,  institutional  roadmaps  and  process 
+reviews, as directed by the CESCD; (iv) develop financial plans for the project portfolio 
+and the facility  itself;  (v)  prepare  a  9-year  investment  plan  (2020-2030); (vi)  carry  out 
+study  on  sustainable  financing  options  for  DRM;  (vii)  prepare  recommendations  for 
+establishing  sustainable  financing  mechanism;  (viii)  train  PIG  staff  in  ADB’s  financial 
+management procedures and develop FM manual; and (ix) provide key inputs in all of 
+the  Team’s  tasks,  as  directed  by  the  team  leader,  such  as  preparation  of  terms  of 
+reference, monitoring progress of project preparation, among others. 
+xvi.  Avalanche specialist (1 international, 3 person-months, intermittent). The consultant 
+should have a postgraduate degree in environmental engineering, geology, geophysics 
+or related field. The consultant must have at least 8 years of relevant work experience 
+in  avalanche  and  glacial  lake  outburst  flood  (GLOF)  assessments.  Consultants  with 
+experience of working on similar projects in Tajikistan and/or other countries in Central 
+Asia will be preferred. Working under the supervision of the team leader for consulting 
+services package 2, the consultant will: (i) undertake detailed assessments and analysis 
+on avalanche and GLOF risk; (ii) provide technical inputs into the national disaster profile 
+and  early  warning  system;  (iii)  ensure  the  maps  are  accessible  through  the  disaster 
+management information system; and (iv) contribute to specific sections of the output 
+on  disaster  risk  assessment  (v)  based  on  an  assessment,  identify  equipment, 
+specification and costings to support the procurement specialist, as required. 
+xvii.  Disaster  risk  reduction  specialist  /  deputy  team  leader  (1  national,  48  person-
+months,  full-time).  The  consultant  should  have  a  graduate  or  postgraduate  degree  in 
+civil engineering, hydrology, geology or related field. The consultant must have at least 
+5  years  of  work  experience  in  disaster  risk  reduction  projects  in  Tajikistan.  Working 
+under  the  supervision  of  the  team  leader  for  consulting  services  package  2,  the 
+consultant will: (i) lead day-to-day coordination with relevant government agencies and 
+development partners; (ii) support the team leader in overall management of the project 
+and  supervising  the  national  consultants;  and  (iii)  contribute  to  the  development  and 
+Appendix 1          65 
+delivery  of  training  courses,  (iv)  based  on  an  assessment,  identify  equipment, 
+specification and costings to support the procurement specialist, as required. 
+xviii.  Capacity building specialist (1 national, 12 person-months, full-time). The consultant 
+should have a graduate or postgraduate degree in civil engineering, hydrology, geology 
+or related field. The consultant must have at least 5 years of work experience in capacity 
+building  projects  in  Tajikistan.  Working  under  the  supervision  of  the  team  leader  for 
+consulting  services  package  2,  the  consultant  will:  (i)  support  the  team  leader  in 
+undertaking training needs assessment of relevant stakeholders; (ii) lead the delivery of 
+training  course  on  integrating  disaster  and  climate  risk  consideration  in  planning;  (iii) 
+support the supervision of NGO(s) engaged to deliver community-based DRM aspects; 
+and (iv) communicate the key findings in a form that is useful for decision making. 
+xix.  Hydrologist  (1  national,  18  person-months,  full-time).  The  consultant  should  have  a 
+graduate or postgraduate degree in hydrology, water resources management, or related 
+field. The consultant must have at least 5 years of relevant work experience in flood risk 
+assessment. Working under the supervision of the team leader for consulting services 
+package  2,  the  consultant  will:  (i)  support  the  international  disaster  risk  assessment 
+consultant in the day-to-day coordination with relevant government agencies; (ii) collect 
+flood  hazard  and  other  relevant  data;  (iii)  support  in  flood  risk  modeling  and 
+communicating  the  key  findings  in  a  form  that  is  useful  for  decision  making;  and  (iv) 
+support  the  project  supervision  consultant  team  to  factor  the  results  of  flood  risk 
+modeling in the risk profile and training materials (v) based on an assessment, identify 
+equipment, specification and costings to support the procurement specialist, as required. 
+xx.  Hydraulic modeling and flood forecasting specialist (1 national, 18 person-months, 
+full-time).  The  consultant  should  have  a  postgraduate  degree  in  hydrology,  water 
+resources management or related fields. The consultant must have at least 5 years of 
+relevant work experience. Experience in  hydrological forecasting is required including 
+knowledge  of  flood  and  flash  flood  forecasting  and  warnings,  the  translation  and 
+interpretation of forecasts into impact forecasts, and hydro-meteorological risk modelling 
+and flood hazard risk assessment. Working under the supervision of the team leader for 
+consulting services package 2, the consultant will: (i) support the international hydraulic 
+modeling and flood forecasting consultant in the day-to-day coordination with relevant 
+government agencies; (ii) collect analysis hazard and other relevant data; (iii) support 
+the  development  of  the  disaster  risk  assessment  and  early  warning  system;  (iv) 
+communicate the key findings in a form that is useful for decision making; and (v) support 
+delivery of training, (vi) based on an assessment, identify equipment, specification and 
+costings to support the procurement specialist, as required. 
+xxi.  Gender and social development specialist (1 national, 24 person-months, full-time). 
+The consultant should have a graduate or postgraduate degree in gender studies, social 
+science  or  related  field.  The  consultant  must  have  at  least  5  years  of  relevant  work 
+experience and good understanding of gender issues in Tajikistan. Working under the 
+supervision of the team leader for consulting services package 2, the consultant will: (i) 
+identify  opportunities  and  entry  points  for  mainstreaming  gender  into  the  relevant 
+policies and programs; (ii) provide technical inputs and advice to the team leader and all 
+members  of  the  team  on  relevant  aspects  of  gender  mainstreaming  and  women’s 
+empowerment;  (iii)  ensure  that  activities  and  assessment  adequately  take  account  of 
+gender issues and supports inclusion; (iv) ensure adherence to ADB’s operational plan 
+Appendix 1          66 
+for  gender  equality  and  women's  empowerment,  and  related  policies;  (v)  act  as  a 
+reference point on gender issues; and (vi) support delivery of training. 
+xxii.  Natural resource management specialist (1 national, 9 person-months, full-time). The 
+consultant  should  have  a  postgraduate  degree  in  environmental  science  or  related 
+fields. The consultant must have at least 5 years of relevant work experience and good 
+understanding of natural resource management issues in Tajikistan. Working under the 
+supervision of the team leader for consulting services package 2, the consultant will: (i) 
+support  the  international  natural  resource  management  consultant  in  day-to-day 
+activities and coordination with relevant government agencies; (ii) support the inclusion 
+of natural resource management aspects across the package of deliverables; (iii) consult 
+with relevant government and other stakeholders; (iv) support the delivery of training. 
+xxiii. 
+xxiv. 
+Infrastructure specialist (1 national, 9 person-months, full-time). The consultant should 
+have a postgraduate degree in engineering or related fields. The consultant must have 
+at least 5 years of relevant work experience, including in the context of risk assessments 
+in Tajikistan. Working under the supervision of the team leader for consulting services 
+package 2, the consultant will: (i) support the international infrastructure consultant in 
+day-to-day activities and coordination with relevant government agencies; (ii) providing 
+technical inputs into the national disaster profile; (iii) contribute to specific sections of the 
+outputs on disaster risk assessment and early warning system (iv) consult with relevant 
+government and other stakeholders; (v) support the delivery of training (vi) based on an 
+assessment, identify equipment, specification and costings to support the procurement 
+specialist, as required. 
+Finance  specialist  (1  national,  12  person-months,  full-time).  The  consultant  should 
+have graduate or postgraduate degree in business administration, economics, finance, 
+public policy, or other related fields, with at least 7 years of relevant work experience. 
+Experience  in  Tajikistan  and/or  Central  Asia  is  an  advantage.  Working  under  the 
+supervision  of  the  team  leader  for  consulting  services  package  2  and  in  close 
+collaboration with the international finance specialist, the consultant will: (i) advise the 
+CESCD  on  developing  a  financing  mechanism  of  suitable  financing  options  for 
+sustainable  financial  arrangements;  (ii)  provide  key  inputs  or  lead  the  preparation  of 
+project  preparation  plans,  project  strategic  assessments,  institutional  roadmaps  and 
+process reviews, as directed by the CESCD; (iv) support development of financial plans 
+for  the  project  portfolio  and  the  facility  itself;  (v)  support  preparation  of  a  9-year 
+investment  plan;  (vi)  carry  out  study  on  sustainable  financing  options  for  DRM;  (vii) 
+support  preparation  of  recommendations  for  establishing  sustainable  financing 
+mechanism;  (viii)  train  PIG  staff  and  ADB’s  financial  management  procedures  and 
+develop FM manual; and (ix) provide key inputs in all of the team’s tasks, as directed by 
+the  team  leader  and  international  finance  specialist,  such  as  preparation  of  terms  of 
+reference, monitoring progress of project preparation, among others. 
+xxv. 
+Procurement / contract management specialist (1 national, 12 person-months, full-
+time).  The  consultant  should  have  graduate  or  postgraduate  degree  in  business 
+administration,  economics,  engineering,  public  procurement,  public  policy,  or  other 
+related  fields,  with  at  least  5  years  of  relevant  work  experience.  Working  under  the 
+supervision of the team leader for consulting services package 2, the consultant will: (i) 
+support the international procurement / contract management consultant in day-to-day 
+activities and coordination with relevant government agencies; (ii) provide assistance, 
+technical  guidance  and  capacity  development  to  ensure  compliance  with  ADB's 
+Appendix 1          67 
+procurement  (goods,  works,  and  consulting  services)  policies  and  procedures;  (ii) 
+support  improvements  in  the  implementation  performance  of  the  grant;  (iii)  provide 
+oversight and advise on procurement and contract management. 
+xxvi.  Geologist  /  seismologist  (1  national,  12  person-months,  full-time).  The  consultant 
+should have a graduate or postgraduate degree in geology, seismology or related field. 
+The  consultant  must  have  at  least  5  years  of  relevant  work  experience  and  good 
+understanding of geophysical hazards – earthquake and landslides issues in Tajikistan. 
+Working under the supervision of the team leader for consulting services package 2, the 
+consultant  will:  (i)  support  the  international  geologist  /  seismologist  in  day-to-day 
+activities and coordination with relevant government agencies; (ii) collecting hazard and 
+other relevant data; (iii) supporting in disaster risk assessment and communicating the 
+key findings in a form that is useful for decision making; and (iv) support the delivery of 
+training (v) based on an assessment, identify equipment, specification and costings to 
+support the procurement specialist, as required. 
+xxvii.  GIS  specialist  (1  national,  18  person-months,  full-time).  The  consultant  should  have 
+graduate or postgraduate degree in geography, information technology, or related field 
+and with at least 5 years of relevant work experience. Good expertise on GIS is required. 
+Working under the supervision of the team leader for consulting services package 2, the 
+consultant  will:  (i)  support  the  international  GIS  consultant  in  day-to-day  coordination 
+with relevant government  agencies; (ii)  consult  national  agencies on  existing  national 
+asset databases, including related software and platforms, and secure access; and (iii) 
+support the development of the disaster management information system, (iv) based on 
+an  assessment,  identify  equipment,  specification  and  costings  to  support  the 
+procurement specialist, as required. 
+Support  staff  will  include  at  least  following  two  persons  for  the  full  duration  of  the 
+assignment.  
+i. 
+ii. 
+Finance  and  accounts  assistant  (1  national,  full-time).  The  person  should  have  a 
+graduate  degree  in  accounting,  business  administration,  finance  or  a  related  field. 
+Working under the supervision of the team leader for consulting services package 2 and 
+working in the Project Implementation Group at CESCD, the consultant will: (i) support 
+financial transactions, monitoring and reporting; (ii) undertake expenditure analysis; (iii) 
+maintain  proper  quality  control  over  vendor  payment  submissions;  (iv)  respond  to 
+inquiries from internal users on transaction status or with issues about how transactions 
+were  processed;  (v)  analyze  /  research /  act  on  requests  for  accounting  adjustments 
+related to accounts payable from internal users, engaging in discussion as needed to 
+understand  and  determine  action  required;  (vi)  other  related  finance  and  accounting 
+tasks.  
+Translator and interpreter (1 national, full-time), the translator and interpreter will hold 
+a degree in English and Russian language or any other related field and preferably 5 
+years’ experience in providing professional translation and interpretation services. The 
+translator and interpreter will; (i) provide high quality translation services from English to 
+Russian  and  vice  versa  as  required  by  the  project  team,  (ii)  facilitate  events  such  as 
+workshops,  seminars  and  roundtables  by  offering  simultaneous  interpretation  from 
+English  to  Russian  and  vice  versa,  (iii)  translate  documents,  ensuring  completeness, 
+accuracy  and  stylistic  acceptability  of  translations  produced,  (iv)  conduct  necessary 
+research  for  each  document  being  translated  in  order  to  ensure  that  the  meaning  is 
+interpreted  correctly  and  in  full,  and  that  appropriate  specialized  terminology  is 
+employed. 
+Appendix 1          68 
+IV.  DATA, LOCAL SERVICES, PERSONNEL, AND FACILITIES TO BE PROVIDED 
+BY THE CLIENT 
+The  government  via  the  CESCD/project  implementation  group  will  provide  the 
+international firm(s) with: (i) adequate office accommodation in Dushanbe; (ii) will assist with 
+coordination with other government agencies and with obtaining all data.  
