@@ -1,0 +1,2542 @@
+Project Design Advance 
+Project Administration Manual 
+Project Number: 46528-003 
+Loan Number: PDA6006 
+January 2016 
+Pakistan: Jalalpur Irrigation Project 
+I. 
+II. 
+III. 
+IV. 
+V. 
+VI. 
+CONTENTS 
+PROPOSED PROJECT DESCRIPTION 
+IMPLEMENTATION PLANS 
+A. 
+B. 
+PDA Readiness Activities 
+Overall PDA Project Implementation Plan 
+PDA PROJECT MANAGEMENT ARRANGEMENTS 
+A. 
+B. 
+C. 
+PDA Project Implementation Organizations – Roles and Responsibilities 
+Key Persons Involved in Implementation 
+PDA Project Organization Structure 
+COSTS AND FINANCING 
+A. 
+B. 
+Cost Categories and Assumptions 
+Cost Estimates Revisions (as applicable) 
+FINANCIAL MANAGEMENT 
+A. 
+B. 
+C. 
+D. 
+Financial Management Assessment 
+Disbursement 
+Accounting 
+Auditing 
+PROCUREMENT AND CONSULTING SERVICES 
+Advance Contracting, as applicable 
+A. 
+Procurement of Consulting Services 
+B. 
+Procurement Plan 
+C. 
+Consultant's Terms of Reference 
+D. 
+VII. 
+SAFEGUARDS 
+VIII.  GENDER AND SOCIAL DIMENSION 
+IX. 
+X. 
+XI. 
+XII. 
+PERFORMANCE MONITORING, EVALUATION, REPORTING AND 
+COMMUNICATION 
+A. 
+B. 
+C. 
+Monitoring and Evaluation 
+Reporting 
+Stakeholder Communication Strategy 
+ANTICORRUPTION POLICY 
+ACCOUNTABILITY MECHANISM 
+RECORD OF PAM CHANGES 
+1 
+1 
+1 
+3 
+4 
+4 
+5 
+6 
+7 
+7 
+8 
+8 
+8 
+9 
+9 
+9 
+10 
+10 
+10 
+11 
+11 
+12 
+13 
+14 
+14 
+14 
+14 
+15 
+15 
+16 
+Project Administration Manual for the Project Design Advance: Purpose and 
+Process 
+The  project  administration  manual  (PAM)  for  the  Project  Design  Advance  (PDA)  is  an 
+abridged  version  of  ADB’s  regular  PAM  and  describes  the  essential  administrative  and 
+management requirements to implement the PDA on time, within budget, and in accordance 
+with  Government  and  Asian  Development  Bank  (ADB)  policies  and  procedures.  The  PDA 
+PAM  should  include  references  to  all  available  templates  and  instructions  either  through 
+linkages to relevant URLs or directly incorporated in the PAM. 
+The  Punjab  Irrigation  Department  (PID)  and  Project  Management  Unit  (PMU)  are  wholly 
+responsible for the implementation of ADB financed PDA projects, as agreed jointly between 
+the  borrower  and  ADB,  and  in  accordance  with  Government  and  ADB’s  policies  and 
+procedures. ADB staff is responsible to support implementation including compliance by PID 
+and  PMU  of  their  obligations  and  responsibilities  for  PDA  project  implementation  in 
+accordance with ADB’s policies and procedures. 
+At  PDA  Loan  Negotiations, the  borrower  and ADB  shall  agree to the  PDA  PAM  and ensure 
+consistency with the PDA Loan Agreement. Such agreement shall be reflected in the minutes 
+of the PDA Loan Negotiations. In the event of any discrepancy or contradiction between the 
+PDA  PAM  and  the  PDA  Loan  Agreement,  the  provisions  of  the  PDA  Loan  Agreement  shall 
+prevail. 
+After  ADB’s  approval  of  the  PDA  proposal,  changes  in  implementation  arrangements  are 
+subject to agreement and approval pursuant to relevant Government and ADB administrative 
+procedures  (including  the  Project  Administration  Instructions),  and  upon  such  approval  they 
+will be subsequently incorporated in the PDA PAM. 
+ADB 
+ADF 
+AFS 
+CQS 
+Cumecs 
+ICB 
+LIBOR 
+NCB 
+NGO 
+PAI 
+PAM 
+PIU 
+QBS 
+QCBS 
+SBD 
+TOR 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+Abbreviations 
+Asian Development Bank 
+Asian Development Fund 
+audited financial statements 
+consultant qualification selection 
+Cubic meters per second 
+international competitive bidding 
+London interbank offered rate 
+national competitive bidding 
+nongovernment organization 
+project administration instructions 
+project administration manual  
+project implementation unit 
+quality based selection 
+quality- and cost based selection 
+standard bidding documents 
+terms of reference 
+I. 
+PROPOSED PROJECT DESCRIPTION 
+1. 
+The proposed Jalalpur Irrigation Project (JIP) is located in Punjab, Pakistan. The project 
+will  provide  non-perennial  irrigation  supplies  to  about  65,000  ha  and  will  increase  agricultural 
+production  in  two  districts  of  Jhelum  and  Khushab.  The  project  will  (i)  construct  over  200  km 
+new  irrigation  canals,  (ii)  introduce  participatory  irrigation  management  structure,  and (iii)  build 
+the farmers capacity. It will directly benefit over 200,000 rural people, mostly poor. The Project 
+Design  Advance  (PDA)  and  the  ensuing  project  are  listed  in  the  country  operations  business 
+plan (COBP: 2016-2018) and will be financed from ADB ordinary capital resources (OCR). The 
+project  follows  the  priorities  set  in  the  Country  Partnership  Strategy  (CPS;  2015-2019).  The 
+Province of Punjab, acting through the Punjab Irrigation Department (PID), will be the executing 
+agency (EA) for the PDA and the ensuing loan.   
+2. 
+The  project  impact  will  be  the  increased  agricultural  production  in  the  project  area 
+(Jhelum  and  Khushab  districts).  The  project  outcome  will  be  irrigation  water  supplies  and 
+agricultural  support  services  available  in  the  project  area.  The  project  outputs  will  be  (i)  new 
+irrigation  canals  and  appurtenant structures  constructed, (ii) farmers  organizations established, 
+(iii) private agriculture support services (PASS) functional, and (iv) capacity of the farmers and 
+the staff from PID and Punjab Irrigation and Drainage Authority (PIDA) improved. 
+The PDA is required to achieve better project readiness and is listed in the COBP 2015-
+3. 
+2017 for $5 million from the OCR. The ensuing project is also listed in the COBP 2016-2018 in 
+the  year  2017,  estimated  to  cost  $100  million  (ADB’s  share).  Indus  River  System  Authority 
+(IRSA) has already issued a no objection to this project on 9 September 2014 following para. 8 
+and 14(d) of the Water Apportionment Accord 1991 for the allocated share for the provinces.1  
+4. 
+The  project’s  feasibility  study  was  prepared  under  ADB  project  preparatory  technical 
+assistance  (TA  8404-PAK).  The  feasibility  study,  including  technical  assessment,  preliminary 
+design  and  cost  estimates,  a  project-level  draft  land  acquisition  and  resettlement  plan  (LARP) 
+and agricultural and social studies, is available. The project will construct about 110 km of main 
+canal,  176  km  of  distributary  canals  and  59  cross  drainage  structures  for  safe  disposal  of 
+floodwater  from  the  nearby  hill  torrents.  The  main  canal  will  be  designed  for  a  discharge 
+capacity  of  38.2 cubic meters  per  second  (cumecs)  at the  Rasul  Barrage. The  main canal  will 
+run along the right bank of river Jhelum from Rasul Barrage to Khushab town. No modification 
+to the Rasul Barrage will be made as it already has a provision for canal head regulator. 
+II. 
+IMPLEMENTATION PLANS 
+A. 
+PDA Readiness Activities 
+The  existing  project  management  unit  (PMU)  of  the  Lower  Bari  Doab  Canal 
+5. 
+Improvement  Project  (LBDCIP)  has  experienced and qualified  staff  and  will  be  responsible for 
+procurement and administration of PDA. The consultant selection process was initiated in March 
+2015  and  is  substantially  completed:  shortlisting  is  complete  and  technical  and  financial 
+proposals  evaluated.  The  consultancy  contract  agreement  will  be  ready  for  signing  upon 
+effectiveness of the PDA agreement. 
+1  For development of new irrigation systems that divert more than the existing flows from Indus rivers system, IRSA’s 
+permission  is  required  to  ensure  that  each  province  draws  its  allocated  share  of  water  as  defined  in  the  Water 
+Apportionment Accord, 1991.  
+The  existing  PMU  has  qualified  staff  for  its  technical,  safeguards  and  financial 
+6. 
+management  departments.  For  PDA  implementation,  the  PMU  will  be  further  strengthened  by 
+support consultants for procurement, safeguards and engineering matters. The EA ensured that 
+PMU has adequate capacity to implement both LBDCIP and JIP and that PMU will continue to 
+implement JIP after completion of LBDCIP on 30 September 2016. The Consultants under the 
+PDA will update the safeguards and other technical documents for the project. Overall PDA and 
+project implementation plan is hereunder. 
+2 
+Advance Actions (2015) 
+Oct-
+Jan-
+Dec 
+Mar 
+April-
+Jun 
+Jul-
+Sep 
+ PDA (2016) 
+Jul-
+April-
+Sep 
+Jun 
+Jan-
+Mar 
+ PDA (2017) 
+Oct-
+Dec 
+Jan-
+Mar 
+April-
+Jun 
+Jul-
+Sep 
+Oct-
+Dec 
+3
+Overall PDA Project Implementation Plan 
+B. 
+Activities 
+A. Implementation  
+Consultants selection under PDA 
+  Advertisement 
+  Selection 
+  Contract award 
+  Mobilization 
+Output 1: Survey and Design 
+  Activity 1-1: Conduct Topographic Survey  
+  Activity 1-2: Conduct Geotechnical Investigations  
+  Activity 1-3: Conduct On Farm Water Management Surveys 
+  Activity 1-4: Conduct Detail Design 
+  Activity 1-5: Estimated Costs  
+  Activity 1-6: Model Study  
+Output 2: Safeguards Plans 
+  Activity 2-1: Updated LARP 
+  Activity 2-2: Updated EIA  
+  Activity 2-3: Climate Change Assessment 
+Output 3: Reports, Documents and Drawings 
+  Activity 3-1: Updated PC-1 
+  Activity 3-2: Procurement Plan and Bidding Documents 
+  Activity 3-3: Updated Economic and Financial Analysis 
+Output 4: Institutional Mechanisms 
+  Activity 4-1: Review of Proposed Reforms 
+  Activity 4-2: Final Report on Institutional Mechanism 
+Output 5: Design Quality Assurance 
+Activity 5-1: Review of plans, design and drawings 
+B. Management Activities 
+Submission of quarterly progress report 
+Provide guidance and review interim reports 
+Submission of annual report  
+Submission of AFS 
+Support to loan processing and effectiveness 
+III. 
+PDA PROJECT MANAGEMENT ARRANGEMENTS 
+A. 
+PDA Project Implementation Organizations – Roles and Responsibilities 
+4 
+PDA Project implementation 
+organizations 
+Oversight body  
+Government of Punjab 
+Management Roles and Responsibilities 
+  ensure fairness and transparency in loan utilization; 
+  ensure quality and timely completion of the project; 
+  oversee the PDA project implementation progress by the 
+EA and PMU LBDCIP; 
+  ensure timely availability of counterpart funds;  
+  approve institutional mechanism for JIP agreed during 
+PDA implementation; 
+  ensure timely approval of project cost, financing and other 
+documents; 
+  share with ADB major policy related changes in the sector 
+on time; 
+  ensure compliance with resettlement and environmental 
+safeguard implemented as per EPA rules and regulations 
+and ADB safeguard policy. 
+Executing agency 
+Punjab Irrigation Department 
+PDA Project specific 
+management body (IA) 
+PMU LBDCIP (which is existing 
+arrangements within EA) 
+ 
+ 
+ 
+ 
+  overall management of PDA 
+  appoint Director Procurement in LBDCIP 
+  monitor implementation progress periodically 
+ 
+timely provision of agreed counterpart funds for project 
+activities; 
+timely internal government approvals (PC-II/PC-I). 
+implementation of PDA with existing; 
+recruiting design consultants; 
+reviewing detailed design, bidding documents, and 
+advance contracting; 
+  monitoring and evaluation of PDA project activities and 
+outputs, including periodic review, preparation of review 
+reports reflecting issues and time-bound actions;  
+  public disclosure of PDA project outputs; 
+  establishing strong financial management system and 
+submitting timely withdrawal applications to ADB; 
+  conducting timely financial audits as per agreed 
+timeframe and taking recommended actions; 
+  complying with PDA loan covenants; 
+  preparing periodic progress reports, and ensure their 
+timely submission to ADB. 
+4 
+Economic Affair Division of 
+Ministry of Economic Affairs 
+and Statistics 
+  signing the PDA Loan Agreement;  
+  endorsing to ADB the authorized staff with approved 
+signatures for WAs processing; and processing and 
+submitting to ADB any request, when required, for 
+reallocating the PDA loan proceeds. 
+ADB 
+  assist the EA and PMU LBDCIP in providing timely 
+guidance at each stage of the project for smooth 
+implementation in accordance with the agreed 
+implementation arrangements; 
+review all the documents that require ADB’s approval; 
+ 
+  conduct PDA loan review missions; 
+  ensure compliance with PDA loan covenants;  
+ 
+timely process withdrawal applications and release 
+eligible funds; 
+  ensure compliance with financial audit recommendations; 
+regularly update the project performance review reports 
+ 
+with the assistance of the project management office; 
+regularly post on ADB web the updated project 
+information  documents for public disclosure.  
+ 
+B. 
+Key Persons Involved in Implementation  
+Executing Agency  
+Punjab Irrigation Department 
+(PID)  
+Implementing Agency 
+(PDA Project specific 
+management body) 
+PMU LBDCIP  
+ADB 
+CWER 
+Mission Leader 
+Mr. Saif Anjum  
+Secretary, Irrigation Department  
+Government of Punjab, Irrigation Secretariat, Old Anarkali 
+Lahore, Pakistan  
+Tel No: +92 42 9921 2117-18  
+Email: sec_ipd@yahoo.com  
+Mr. Khalid Hussain Qureshi 
+PMU LBDCIP. Government of Punjab, Irrigation  
+Department, Lahore, Pakistan 
+Tel No.: +92 42 9925 0362  
+Email: pd_lbdcip@yahoo.co.uk 
+Mr. Akmal Siddiq  
+Director, Environment, Natural Resources and Agriculture,  
+Central and West Asia Department,  
+6 ADB Avenue, Mandaluyong City, 1550 Metro Manila, 
+Philippines  
+Tel No. +63 2 632 5796  
+Email: asiddiq@adb.org  
+Akhtar Ali  
+Principal Water Resources Specialist,  
+Environment, Natural Resources and Agriculture,  
+Central and West Asia Department 
+5 
+6 ADB Avenue, Mandaluyong City, 1550 Metro Manila, 
+Philippines  
+Tel No. +63 2 632 6146  
+Email: aali@adb.org 
+C. 
+PDA Project Organization Structure 
+Punjab Irrigation Department 
+Executing Agency 
+Executing Agency 
+Project Director 
+Project Management Unit 
+(LBDCIP) 
+Director 
+Environment and 
+Social Safeguards 
+Director 
+Technical  
+Director  
+Finance 
+Deputy Director Social 
+and Environment 
+Deputy Director 
+Community Relation 
+PDA Support Consultants 
+(Procurement, Safeguards & 
+Technical) 
+6 
+IV. 
+COSTS AND FINANCING 
+7. 
+Total PDA cost is estimated at $6.5 million. The amount of $5 million is proposed from 
+ADB’s  OCR.  A  repayment  date  is  indicated  to  be  15  December  2017  or  the  date  of 
+effectiveness of the ensuing loan as may be agreed between ADB and the Borrower. 
+Table 1: PDA Project Investment and Financing Plana 
+($ million) 
+Item 
+A. 
+Base Costc 
+  1.     Survey and Design 
+  2.     Safeguards Plans 
+  3.     Reports, Training and Maps 
+  4.     Institutional Arrangements 
+  5.     Design Quality Assurance  
+B. 
+C. 
+        Subtotal (A) 
+PMU Incremental Cost 
+Contingenciesd 
+                          Total (A+B) 
+Total Costb 
+ADB 
+Cost  Percentage 
+4.00 
+0.40 
+0.20 
+0.24 
+0.61 
+5.45 
+0.25 
+0.80 
+6.50 
+3.20 
+0.32 
+0.16 
+0.19 
+0.49 
+4.36 
+0.00 
+0.64 
+5.00 
+80% 
+80% 
+80% 
+80% 
+80% 
+80% 
+0% 
+80% 
+77% 
+Governmente 
+Cost 
+Percentage 
+0.80 
+0.08 
+0.04 
+0.05 
+0.12 
+1.09 
+0.25 
+0.16 
+1.50 
+20% 
+20% 
+20% 
+20% 
+20% 
+20% 
+100% 
+20% 
+23% 
+a  A  PDA  loan  carries  interest  and  commitment  charges  where  applicable,  and  these  charges  is  deferred  until  the 
+PDA is repaid from the ensuing financing or other repayment terms take effect.  Commitment charges are waived 
+for  a  period  of  2  years  from  PDA  signing.  If  the  ensuing  financing  does  not  become  effective  within  that  period, 
+commitment charges accrue thereafter. 
+b  Includes taxes and duties of $1.25 million to be financed from government resources.  
+c  In mid-2015 prices. 
+d  Physical contingencies computed at 5% for consulting services. Price contingencies computed at 1.5% on foreign 
+exchange costs and 5.5% on local costs incurred during the first year and 5.8% on local costs incurred during the 
+second year; includes provision for potential exchange rate fluctuation under the assumption of a purchasing power 
+parity exchange rate. The foreign exchange cost was estimated at $100,000.  
+e  The government financing includes financing for taxes and duties related to project expenditures. 
+Source: Asian Development Bank. 
+A. 
+Cost Categories and Assumptions 
+8. 
+ADB  will  finance  consulting  service  costs  of  detailed  design  and  the  Government  will 
+finance  taxes  and  duties  and  PMU’s  incremental  management  cost.  Cost  categories  are  as 
+follows:  
+7 
+Table 2: Detailed Cost Estimates by Expenditure Category 
+($ million) 
+Item 
+Foreign 
+Exchange 
+Local 
+Currency 
+Total 
+Cost 
+% of Total 
+Base Cost 
+A. 
+Investment Costs 
+1  Consultant 
+a  Remuneration and Out of Pocket Expenses 
+b  Surveys and Investigations 
+c  Vehicles and Equipment 
+d  Direct Cost 
+   Subtotal (A) 
+B.  Other Costs 
+1  PMU Incremental Management Cost 
+   Subtotal (B)  
+Total Base Cost 
+C.  Contingencies 
+1  Physical 
+2  Price 
+   Subtotal (C) 
+Total PDA Project Cost (A+B+C) 
+0.08 
+0.03 
+0.04 
+0.15 
+0.00 
+0.00 
+0.15 
+0.01 
+0.01 
+0.02 
+0.17 
+4.00 
+0.40 
+0.30 
+0.60 
+5.30 
+0.25 
+0.25 
+5.55 
+0.31 
+0.47 
+0.78 
+6.33 
+4.08 
+0.43 
+0.34 
+0.60 
+5.45 
+0.25 
+0.25 
+5.70 
+0.32 
+0.48 
+0.80 
+6.50 
+71.6% 
+7.5% 
+6.0% 
+10.5% 
+95.6% 
+4.4% 
+4.4% 
+100.0% 
+5.6% 
+8.4% 
+14.0% 
+Note: Numbers may not sum precisely because of rounding. 
+(i)   Exchange rate: PRs101.83 = $1.00 (as of 15 August 2015). 
+(ii)  All costs are in mid-2015 prices. 
+(iii)  Physical contingencies are computed at 5% for surveys, investigations, and support services.  
+(iv)  Price  contingencies  based  on  expected  cumulative  inflation  over  the  implementation  period  are  as  follows  for 
+domestic  rate  of  price  inflation  (%/year):    5.5%  (2016),  5.8%  (2017),  5.65%  (Average).  Foreign  rate  of  price 
+escalation is assumed to be 1.5% (average). 
+Table 3: Allocation and Withdrawal of PDA Loan Proceeds 
+CATEGORY 
+ADB FINANCING 
+Number 
+1 
+Item 
+Consulting Services 
+Total 
+Total Amount Allocated for  
+ADB Financing Category 
+($) 
+5,000,000 
+5,000,000 
+B. 
+Cost Estimates Revisions (as applicable)  
+Percentage and Basis for Withdrawal from 
+the PDA Loan Account 
+80% of total expenditures claimed  
+Revisions:  The  estimates  will  be  revised  at  the  time  of  awarding  of  contract  to  the 
+9. 
+consulting firm and at the midterm review by EA and ADB.  
+V. 
+FINANCIAL MANAGEMENT 
+A. 
+Financial Management Assessment 
+A  financial  management  assessment  (FMA)  and  a  risk  assessment  of  country  level 
+10. 
+systems  were  conducted  by  ADB  in  2014  focusing  on  financial  accounting,  auditing,  and 
+mitigation measures. Final risk rating of financial risk management arrangements for the project 
+is assessed as substantial. The financial management risks for PID identified during the earlier 
+assessment for Trimmu and Panjnad Barrages Improvement Project in 2014 included the lack 
+of an internal audit function, vacant financial management positions in the project management 
+office,  required  development  of  accounting  and  financial  management  manuals,  etc.  It  was 
+8 
+assessed  that  PID  has  satisfactory  financial  management  capacity  to  record  financial 
+transactions  and  balances,  maintain  regular  records  and  monitoring  reports,  and  safeguard 
+assets.  The  assessment  was  conducted  in  accordance  with  the  financial  management 
+guidelines and financial due diligence methodology note. PID ensured to fill the vacant position 
+of  financial  management  expert  and  arrange  the  internal  audit  by  31  January  2016  and 
+accounting and finance manual will be available by 30 June 2016.   
+B. 
+Disbursement 
+11. 
+The PDA loan proceeds will be disbursed in accordance with ADB’s Loan Disbursement 
+Handbook  (2015,  as  amended  from  time  to  time),2 and  detailed  arrangements  agreed  upon 
+between  the  Government  and  ADB.  Online  training  for  project  staff  on  disbursement  policies 
+and  procedures  is  available  at:  http://wpqr4.adb.org/disbursement_elearning.  Project  staff  is 
+encouraged  to  avail  this  training  to  help  ensure  efficient  disbursement  and  fiduciary  control. 
+Direct  payments  procedures  will  be  used  for  consulting  services.  Before  submitting  the  first 
+withdrawal  application,  EAD  should  submit  to  ADB  sufficient  evidence  of  the  authority  of  the 
+person(s) who will sign the withdrawal applications on behalf of the government, together with 
+the  authenticated  specimen  signatures  of  each  authorized  person.  The  minimum  value  per 
+withdrawal  application  is  US$100,000  equivalent.    Individual  payments  below  this  amount 
+should  be  paid  by  the  EA  or  IA  and  subsequently  claimed  to  ADB  through  reimbursement, 
+unless otherwise approved by ADB.  
+C. 
+Accounting  
+PMU will maintain separate PDA project accounts and records by funding source for all 
+12. 
+expenditures  incurred  on  the  PDA  project.  PID  will  use  the  International  Public  Sector 
+Accounting  Standards  by  International  Federation  of  Accountants  and  consolidates  project 
+financial statements accordingly.  
+D. 
+Auditing 
+13. 
+PID  will  cause  the  detailed  consolidated  project  financial  statements  to  be  audited  in 
+accordance  with  International  Standards  on  Auditing  and  with  the  Government's  audit 
+regulations,  by  an  independent  auditor  acceptable  to  ADB.  The  audited  project  financial 
+statements will be submitted in the English language to ADB within six months of the end of the 
+fiscal year by the PID.  
+14. 
+The annual audit report for the project accounts will include an audit management letter 
+and  audit  opinions  which  cover  (i)  whether the project financial  statements  present  a true  and 
+fair  view  or  are  presented  fairly,  in  all  material  respects,  in  accordance  with  the  applicable 
+financial reporting framework; (ii) whether PDA loan proceeds were used only for the purposes 
+of the project or not; and (iii) the level of compliance for each financial covenant contained in the 
+legal agreements for the PDA project. 
+Compliance  with  financial  reporting  and  auditing  requirements  will  be  monitored  by 
+15. 
+review  missions  and  during  normal  program  supervision,  and  followed  up  regularly  with  all 
+concerned, including the external auditor.  
+2  Available at: http://www.adb.org/documents/loan-disbursement-handbook. 
+9 
+The  Government,  PID,  and  PMU  have  been  made  aware  of  ADB’s  policy  on  delayed 
+16. 
+submission, and the requirements for satisfactory and acceptable quality of the audited project 
+financial  statements.3 ADB  reserves  the  right  to  require  a  change  in  the  auditor  (in  a  manner 
+consistent with the constitution of the borrower), or for additional support to be provided to the 
+auditor, if the audits required are not conducted in a manner satisfactory to ADB, or if the audits 
+are  substantially  delayed.  ADB  reserves  the  right  to  verify  the  project's  financial  accounts  to 
+confirm  that  the  share  of  ADB’s  financing  is  used  in  accordance  with  ADB’s  policies  and 
+procedures.  
+17. 
+Public  disclosure  of  the  project  financial  statements,  including  the  audit  report  on  the 
+project  financial  statements,  will  be  guided  by  ADB’s  Public  Communications  Policy  (2011).4 
+After review, ADB will disclose the project financial statements for the project and the opinion of 
+the  auditors  on  the  financial  statements  within  30  days  of  the  date  of  their  receipt  by  posting 
+them on ADB’s website. The Audit Management Letter will not be disclosed. 
+VI. 
+PROCUREMENT AND CONSULTING SERVICES 
+A. 
+Advance Contracting, as applicable 
+All  advance  contracting  will  be  undertaken  in  conformity  with  ADB’s  Procurement 
+18. 
+Guidelines (2015, as amended from time to time) (ADB’s  Procurement Guidelines)5 and ADB’s 
+Guidelines on the Use of Consultants (2013, as amended from time to time) (ADB’s Guidelines 
+on the Use of Consultants).6 The issuance of invitations to bid under advance contracting will be 
+subject to ADB approval. The borrower, EA and IA have been advised that approval of advance 
+contracting does not commit ADB to finance the PDA project. 
+19. 
+Advance  contracting.  The  advance  contracting  for  selection  of  consultant  will  include 
+invitation for expression of interests, evaluation of technical and financial proposals and contract 
+negotiation  and  award.  Government  has  not  requested  for  retroactive  financing  as  PDA  loan 
+does not allow it. 
+B. 
+Procurement of Consulting Services 
+20. 
+An  18-month  procurement  plan  indicating  threshold  and  review  procedures  and 
+consulting  service  is  in  Section  C.  All  consultants  will  be  recruited  according  to  ADB’s 
+Guidelines  on  the  Use  of  Consultants.7 The  terms  of  reference  for  all  consulting  services  are 
+3  ADB Policy on delayed submission of audited project financial statements:  
+  ”When audited project financial statements are  not received by the due date, ADB will write to the executing 
+agency advising that (i) the audit documents are overdue; and (ii) if they are  not received within the next six 
+months, requests for new contract awards and disbursement such as new replenishment of imprest accounts, 
+processing of new reimbursement, and issuance of new commitment letters will not be processed.” 
+  When audited project financial statements have not been received within 6 months after the due date, ADB will 
+withhold  processing  of  requests  for  new  contract  awards  and  disbursement  such  as  new  replenishment  of 
+imprest  accounts,  processing  of  new  reimbursement  and  issuance  of  new  commitment  letters.  ADB  will  (i) 
+inform  the  executing  agency  of  ADB’s  actions;  and  (ii)  advise  that  the  loan  may  be  suspended  if  the  audit 
+documents are not received within the next six months. 
+  When audited project financial statements  have not been received within 12 months after the due date, ADB 
+may suspend the loan. 
+4  Available at: http://www.adb.org/documents/pcp-2011?ref=site/disclosure/publications. 
+5  Available at: http://www.adb.org/Documents/Guidelines/Procurement/Guidelines-Procurement.pdf 
+6  Available at: http://www.adb.org/Documents/Guidelines/Consulting/Guidelines-Consultants.pdf 
+7  Checklists  for  actions  required  to  contract  consultants  by  method  available  in  e-Handbook  on  Project 
+Implementation at: http://www.adb.org/documents/handbooks/project-implementation/  
+10 
+detailed  in  Section  D.  The  three  consultancy  services  with  an  estimated  823  person-months 
+including  4  person-months  of  international  and  819  person-months  of  national  experts  are 
+required  to  (i)  facilitate  PDA  project  management  and  implementation,  (ii)  strengthen  the 
+institutional  and  operational  capacity  of  the  implementing  agency,  and  (iii)  design  review  for 
+quality assurance and efficiency.8 The national consulting services will be used due to adequate 
+in-country capacity of similar assignments, lack of availability of quality international experts due 
+to  security  reasons  and  cost  effectiveness.  Consulting  firm  for  the  detailed  design  will  be 
+engaged using the quality- and cost-based selection (QCBS) method with a quality: cost ratio of 
+90:10.  The  Consultant  will  field  their  core  staff  for  all  key  components.  The  consultants,  who 
+were involved in the upstream work such  as feasibility study of this project, will be considered 
+eligible  to  compete  for  detailed  design,  should  they  express  interest  in  doing  so,  their  current 
+activities  do  not  grant  them  an  unfair  competitive  advantage  (see  para.  1.12  of  the  ADB’s 
+Guidelines on the Use of Consultants; 2013). 
+C. 
+Procurement Plan 
+Basic Data 
+Project Name:  PDA for Jalalpur Irrigation Project (JIP) 
+PDA Loan Amount:     $5.0 million         
+Date of first Procurement Plan: August 2015 
+Executing Agencies: Punjab Irrigation 
+Department  
+Date of this Procurement Plan:   
+Type 
+Quality- and Cost-Based Selection (QCBS) with FTP 
+Prior / Post 
+Prior 
+Comments 
+90:10 
+Recruitment of Consulting Firm 
+List of Consulting Services 
+Ref 
+1 
+2 
+3 
+Contract 
+Description 
+Detail Design 
+Consultant 
+Institutional 
+Mechanism 
+Consultant 
+Design Review and 
+Quality Assurance  
+Estimated 
+Cost 
+($) 
+4,660,000 
+Selection Method 
+QCBS (90:10) 
+Expected 
+Date of 
+Advertise
+ment 
+April 2015 
+Prior 
+Review Y/N 
+Y 
+240,000  Specialized Agencies or/and 
+Nov 2015 
+NGO (SSS) or Individual 
+Consultantsa 
+3 Individual Consultants 
+620,000 
+Nov 2015 
+N 
+N 
+a  The procurement method will be finalized by the EA and ADB after completion of the feasibility study under PPTA 
+and agreeing on the scope and methodology of consultants required for proposing institutional mechanism for JIP. 
+Note: ADB will review contract variations/modifications in accordance with procedures set forth in the loan agreement 
+between the Borrowers and ADB. 
+D. 
+Consultant's Terms of Reference 
+The consultants for detail design are required to update safeguards, costs and economic 
+21. 
+analysis, conduct detail field surveys, investigations and studies, prepare reports on engineering 
+design, cost, social, environmental, economic and climate change. The consultants will prepare 
+project documents for approval by ADB and EA, construction drawings and bidding documents. 
+The  consultant  will  perform model  studies for flood  protection  and river  training  works  of  main 
+8  The consultancy services will be provided through three consultancy packages for design, institutional mechanisms 
+and quality assurance. A breakup of consulting services inputs is given in the following section. 
+11 
+channel on the right bank of the river. The consultant will support PMU for PDA management. 
+Other than  this,  services  of  institutional  reforms experts  will  additionally  be  hired to  review  the 
+studies  and  reports  conducted  under  PPTA,  conduct  independent  studies  and  propose 
+institutional mechanism for a viable and sustainable Jalalpur Irrigation system.   
+22. 
+About  135  person-months  of  the  key  experts  will  be  provided  by  a  consulting  firm  for 
+detail  design  of  the  ensuing  project.  Also,  654  person-months  of  other  staff  and  PMU  support 
+staff  will  be  provided.  For  Institutional  Mechanisms,  22  person-months  of  international  and 
+national key experts will be provided. A Design Review and Quality Assurance Panel (DRQAP) 
+consisting of three individual consultants for 12 person-months to plan, review and monitor the 
+quality  of  the  design  is  also  provided  for  reliable,  cost-effective  and  efficiency  in  approval  of 
+design at its different stages. The person-months are given in the table and detailed TORs are 
+attached (Appendix A). 
+Consultants 
+A.  Detail Design (Key Experts - National) 
+Water Resource Management Specialist (Team Leader) 
+Irrigation Engineering Specialist (Deputy Team Leader) 
+Hydraulic Design Engineering Specialist 
+Structural Design Engineering Specialist 
+Hydrological Specialist  
+Geotechnical Engineering Specialist 
+Mechanical Engineering Specialist 
+Ground Water Engineering Specialist 
+Agricultural Agronomist 
+Environmental Specialist 
+Social Safeguard Specialist 
+Procurement and Contract Specialist 
+Economic/Financial Analyst 
+Detail Design (Other Staff) 
+Senior Engineers 
+Junior Engineers 
+Others 
+PMU Consultants 
+Total of Design (A) 
+B. 
+Institutional Mechanisms Consultant 
+International Expert 
+National Experts 
+C.  Design Review and Quality Assurance Panel 
+Hydraulic/Irrigation Infrastructure Expert 
+Mechanical/Instrumentation Expert  
+Structural Design and Drawings Expert 
+Number 
+Person Months 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+13 
+15 
+26 
+8 
+  3 
+52 
+65 
+ 1 
+ 3 
+ 4 
+1 
+1 
+1 
+3 
+Subtotal 
+Subtotal 
+Total 
+Total 
+18 
+18 
+18 
+18 
+  6 
+12 
+  6 
+  6 
+  6 
+  6 
+12 
+  6 
+  3 
+135 
+192 
+360 
+48 
+  54 
+654 
+789 
+                 4 
+18 
+22 
+5 
+3 
+4 
+12 
+VII. 
+SAFEGUARDS   
+The  ensuing  project  is  expected  as  category  A  for  involuntary  resettlement  and 
+23. 
+environment  and  C  for  indigenous  peoples.  Draft  LARP  indicates  927  structures  within  the 
+canals  right  of  way  (ROW).  These  include  770  houses  at  farms,  6  shops,  6  mosques,  4 
+graveyards,  5  shrines,  3  schools  and  133  other  structures  such  as  tubewells,  check  posts, 
+waiting  sheds  etc.  Most  of  these  structures  are  permanent  or  semi-permanent  in  nature. 
+However, detailed design will confirm the exact ROW and the PDA will update the draft LARP, 
+EIA and EMP prepared under the feasibility study. 
+12 
+Prohibited  investment  activities.  Pursuant  to  ADB's  Safeguard  Policy  Statement 
+24. 
+(2009) (SPS), ADB funds may not be applied to the activities described on the ADB Prohibited 
+Investment Activities List set forth at Appendix 5 of the SPS.  
+VIII.  GENDER AND SOCIAL DIMENSION 
+Gender and social assessment has been carried out under the PPTA which adequately 
+25. 
+covers the issues. Therefore, no further study is required under the PDA. 
+13 
+IX. 
+PERFORMANCE MONITORING, EVALUATION, REPORTING AND 
+COMMUNICATION 
+A. 
+Monitoring and Evaluation 
+26. 
+PDA  Project  performance  monitoring.  PDA  Project  performance  will  be  monitored 
+based  on  quarterly  and  consolidated  reports  provided  by  PID  as  agreed.  These  reports  will 
+include:  (i)  progress  achieved  by  activity  as  measured  against  the  Implementation  Schedule 
+(Section  II.A),  (ii) key  implementation  issues  and  solutions, (iii)  updated procurement  plan  and 
+(iv) updated implementation plan for the next 12 months. To ensure PDA projects continue to be 
+both  viable  and  sustainable,  PDA  project  financial  statements,  together  with  the  associated 
+auditor's report,  should  be  adequately  reviewed.  Only  in the  event  that an  ensuing  loan is  not 
+approved, PID will submit a PDA project completion report to ADB within 6 months of physical 
+completion of the PDA project.9 
+27. 
+Compliance  monitoring.  A  compliance monitoring  system,  satisfactory  to ADB  will  be 
+established,  based  on  the  key  indicators  and targets  agreed during the  inception report  of the 
+consulting services. EA’s quarterly progress reports will provide basis for all type of monitoring 
+including compliance monitoring. 
+Safeguards  monitoring. PMU will carry out the internal monitoring (IM) and will report 
+28. 
+the progress on the IM indicators on a quarterly basis. This will help to assess the progress on 
+updating LARP and EIA. PMU’s safeguard staff will ensure that LARP and EIA are updated as 
+per changes in the design. 
+B. 
+Reporting  
+29. 
+PID will provide ADB with: 
+(i) 
+PDA project’s quarterly progress reports in a format consistent with ADB's project 
+performance reporting system; 
+consolidated  annual  reports  including  (a)  progress  achieved  by  output  as 
+measured  through  the  performance  targets,  (b)  key  implementation  issues  and 
+solutions; (c) updated procurement plan, and (d) updated implementation plan for 
+the next 12 months;10 and 
+PDA  project  accounts  and  the  executing  agency  AFSs,  together  with  the 
+associated auditor's report.  
+(ii) 
+(iii) 
+C. 
+Stakeholder Communication Strategy  
+30. 
+A  nongovernment  organization  (NGO)  recruited  under  TA  8404  assisted  the  EA  in 
+communication and  consultation with the  stakeholders.11 At feasibility  stage  during 2014-2015, 
+the  stakeholders  were  involved  through  (i)  interviews  and  small  corner  meetings,  (ii) 
+presentations  and  distribution  of  pamphlet  in  local  language,  and  (iii)  two  stakeholders’ 
+consultation  workshops  attended  by  community  leaders,  government  officials,  consultants, 
+academicians and project’s beneficiaries/affected from the project area. Project scope, intended 
+benefits,  project  implementation  arrangements  and  implementation  plan  were  discussed  with 
+9  Project completion report format is available at: http://www.adb.org/sites/default/files/pai-6-07-a.pdf  
+10 The  regional  departments  will  present  the  performance of  the completed  PDA  in  the  project completion  report  of 
+the ensuing loan. See para. 51 of ADB. 2013. Project Design Advance. Staff Instruction. Manila. 
+11 National  Rural  Support  Program  (NRSP)  is  working  in  this  area  since  more  than  10  years  as  NGO  and  it  has 
+already established two field offices in the project area.  
+14 
+the  communities.  The  consultation  resulted  in  practical  suggestions  that  were  incorporated  in 
+the project documents. 
+31. 
+At  detailed  design  stage,  the  Consultant  under  PDA  will  closely  work  with  the 
+communities  in  identification,  planning  and  design  of  distribution  canals  to  be  implemented 
+under  community  contracting.  The  PDA  will  help  determining  dimensions  and  extent  of  the 
+canals  and  appurtenant  structures  and  updating  the  list  of  affected  persons  and  the  LARPs 
+accordingly. The communities in general and affected persons in particular. PID will announce 
+the award of consultancy services and disclosed draft LARPs and EIA on their website. 
+32. 
+At  project  implementation  stage  for  safeguards,  PID  will  publicly  disclose  the  EIA  and 
+ensure  that  meaningful  public  consultations  (including  both  men  and  women)  are  undertaken 
+with  affected  groups  and  local  NGOs.  The  list  of  people  attending  the  consultation,  time, 
+locations, and subjects discussed during consultation will be recorded in a systematic manner. 
+The  updated  and  final  LARPs  will  be  translated  into  local  languages  and  disclosed  through 
+public  notices  posted  at  the  PID  offices,  published  in  newspapers,  and  posted  on  ADB’s 
+website. Affected people will be consulted in all aspects of LAR as required. 
+X. 
+ANTICORRUPTION POLICY 
+ADB reserves the right to investigate, directly or through its agents, any violations of the 
+33. 
+Anticorruption  Policy  relating to  the  PDA  project.12 All  contracts  financed  by  ADB  shall  include 
+provisions  specifying  the  right  of  ADB  to  audit  and  examine  the  records  and  accounts  of  the 
+executing  agency  and  all  PDA  project  contractors,  suppliers,  consultants  and  other  service 
+providers. Individuals/entities on ADB’s anticorruption debarment list are ineligible to participate 
+in ADB-financed activity and may not be awarded any contracts under the PDA project.13  
+To  support 
+these  efforts, 
+34. 
+loan 
+agreement/regulations  and  the  bidding  documents  for  the  PDA  project.  The  government  and 
+PID  have  assured  ADB  that  implementation  of  the  project  shall  conform  to  all  applicable  ADB 
+policies including those concerning anticorruption measures, safeguards, gender, procurement, 
+consulting services, and disbursement.  
+relevant  provisions  are 
+included 
+the 
+in 
+XI. 
+ACCOUNTABILITY MECHANISM 
+35. 
+People  who  are,  or  may  in  the  future  be,  adversely  affected  by  the  PDA  project  may 
+submit complaints to ADB’s Accountability Mechanism. The Accountability Mechanism provides 
+an  independent  forum  and  process  whereby  people  adversely  affected  by  ADB-assisted  PDA 
+projects can voice, and seek a resolution of their problems, as well as report alleged violations 
+of  ADB’s  operational  policies  and  procedures.  Before  submitting  a  complaint  to 
+the 
+Accountability  Mechanism,  affected  people  should  make  a  good  faith  effort  to  solve  their 
+problems by working with the concerned ADB operations department.  Only after doing that, and 
+if they are still dissatisfied, should they approach the Accountability Mechanism.14 
+12  Available at: http://www.adb.org/Documents/Policies/Anticorruption-Integrity/Policies-Strategies.pdf 
+13  ADB's Integrity Office web site is available at: http://www.adb.org/integrity/unit.asp 
+14  For further information see: http://www.adb.org/Accountability-Mechanism/default.asp.  
+15 
+XII. 
+RECORD OF PAM CHANGES 
+36. 
+All  revisions/updates  during  the  course  of  implementation  should  be  retained  in  this 
+Section to provide a chronological history of changes to implemented arrangements recorded in 
+the PAM. 
+16 
+Appendix A: Consultants Terms of Reference  
+Country: 
+Project Name: 
+Consulting Service: 
+Executing Agency:  
+Implementing Agency: 
+I. 
+INTRODUCTION 
+PAKISTAN 
+Jalalpur Irrigation Project (JIP) 
+Preparation  of  Detailed  Design,  Construction  Drawings  and 
+Bidding Documents for JIP 
+Punjab Irrigation Department (PID) 
+Project  Management  Unit  (PMU)  for  Lower  Bari  Doab  Canal 
+Improvement Project (LBDCIP), Lahore 
+The  Islamic  Republic  of  Pakistan  has  applied  for  financing  for  project  design  advance 
+1. 
+(PDA)  from  Asian  Development  Bank  (ADB)  towards  the  cost  of  preparing  detailed  design, 
+drawings and bidding documents for Jalalpur Irrigation Project (JIP) in Punjab Province. The 
+project will construct new canals and appurtenant structures and on-farm irrigation and drainage 
+system for 64,000 ha in Pind Dadan Khan and Khushab districts. The main Jalalpur canal 
+will offtake from the right bank of River Jhelum at Rasul Barrage and will provide non-
+perennial  irrigation  supplies  improving  crop  production.  Punjab  Irrigation  Department 
+(PID) is the executing agency (EA) for the project. 
+2. 
+The  proposed  financing  will  be  used  for  procurement  of  Consulting  Services  for 
+preparing  detailed  design,  drawings  and  bidding  documents  for  JIP.  The  Consultant  will  be 
+selected in accordance with the procedures set out by ADB. The duration of the assignment is 
+18 months.  
+3. 
+Feasibility studies for Jalalpur Irrigation Project are currently under preparation through 
+an  ADB  PPTA  (8404  PAK).  The  feasibility  will  be  available  in  October  2015.  After  the 
+completion  of  the  feasibility  studies,  detailed  design  of  the  project  and  preparation  of  bidding 
+documents  is  required.  These  TORs  are  for  the  consulting  firm  for  “Preparation  of  Detail 
+Engineering Design and Preparation of Bidding Documents for Jalalpur Irrigation Project.” The 
+firm  will  be  recruited  in accordance  with ADB’s  latest guidelines  on the use  of the  consultants 
+through Quality-Cost-Based-System (QCBS) method (90:10). 
+4. 
+The tentative list and detail of structures as identified under the feasibility study are:  
+Sr. 
+No. 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+Description 
+Main Canal 
+Distributaries and 
+Minor Canals 
+Total 
+Intake structure at Rasul Barrage 
+Disty & Minor Head Regulators 
+Cross Regulators & Falls 
+Escape Structures 
+Railway Bridges 
+Road Bridges/culverts 
+Cross Drainage Structure 
+Outlets 
+Tail Cluster 
+Total: 
+1 
+18 
+7 
+2 
+4 
+32 
+59 
+48 
+- 
+171 
+- 
+3 
+102 
+- 
+1 
+64 
+25 
+313 
+21 
+529 
+1 
+21 
+109 
+2 
+5 
+96 
+84 
+361 
+21 
+700 
+The  Consultant  experts’  team  is  assumed  to  comprise  national  experts  with  estimated 
+5. 
+input of 135 person-months. Following is the client’s estimate of the consultant experts’ team: 
+17 
+Experts 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+Water Resource Management Specialist (Team Leader) 
+Irrigation Engineering Specialist (Deputy Team Leader) 
+Hydraulic Design Engineering Specialist 
+Structural Design Engineering Specialist 
+Hydrological Specialist 
+Geotechnical Engineering Specialist 
+Mechanical Engineering Specialist 
+Ground Water Engineering Special 
+Agronomist 
+Environmental Specialist 
+Social Safeguard Specialist 
+Procurement and Contract Specialist 
+Economic/Financial Analyst 
+No. 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+II. 
+BACKGROUND INFORMATION 
+The  proposed  Jalalpur  Irrigation  Project  is  located  between  longitude  from  72o-20’  to 
+6. 
+73o-31’  (east)  and  latitude  from  32o-25  to  32o-43’  (north)  along  right  bank  of  River  Jhelum  in 
+Punjab, Pakistan. The project area is bounded by the salt range hills in the northwest and the 
+River Jhelum in the southwest. The groundwater is mainly recharges by the nearby hill torrents 
+and is largely saline. The project area is assessable through a six lane motorway and a National 
+Highway  and  at  a  two  hour  drive  from  the  Capital  Islamabad  and  three  hour  drive  from  the 
+provincial capital, Lahore. 
+7. 
+The  Government  of  Punjab  planned  Jalalpur  Irrigation  Project,  a  new  non-perennial 
+irrigation  system  to  enhance  the  agricultural  production  in  Districts  Jhelum  and  Khushab.  The 
+irrigation system to be developed shall irrigate about  65,000 hectares of land located in Tehsil 
+Pind  Daden  Khan  and  Khushab  of  the  two  districts.  Indus  River  System  Authority  (IRSA)  has 
+issued a no objection to the subject project on 9 September 2014 following paras. 8 and 14(d) of 
+Water Apportionment Accord 1991. 
+The  area  is  located  between  river  Jhelum  and  Salt  range  from  Shahpur  to  Khushab 
+8. 
+town. Presently, irrigation is practiced only on edge of river Jhelum and remaining area of about 
+65,000 hectares is rainfed or tubewell irrigation, which is largely saline. Under the proposed JIP, 
+a new non-perennial irrigation system will be constructed. The main canal of about 110 km will 
+start from  Rasul  Barrage  and  will follow  along the  right  bank  of Jhelum River.  The main canal 
+will  have  a  discharge  of  about  38.2  cubic  meters  per  second  (cumecs)  (1350  cusec)  at  Rasul 
+Barrage. Space for the canal Head regulator is already available at the existing Rasul Barrage.   
+The command area of JIP is in the form of a long strip of land bounded by the salt range 
+9. 
+hills  on  northern side  and Jhelum  River  (right  bank)  on southern  side. The  distribution  system 
+about  176  km  comprising  of  distributaries  and  minors  extends  up  to  the  right  bank  of  Jhelum 
+River. There are about 59 hill torrents of varying catchment size which flow across the project 
+area and ultimately fall in Jhelum River. The climate in the project area is hot and arid. Summer 
+(May-August) temperatures vary from 180 C to 460 C and winter (November-February from 00 C 
+to 240 C). In spring and autumn, temperatures are moderate. The rainfall is low and erratic and 
+the  pan  evaporation  is  three  times  of  average  yearly  rainfall,  requiring  irrigation  essential  for 
+crop production. 
+10. 
+Presently,  farmers  in  the  project  area  are  practicing  mainly  rain  fed  agriculture 
+18 
+associated  with  tube  well  farming.  Dominant  crops  in  the  area  are  wheat,  cotton,  rice, 
+sugarcane, maize, fodder, potatoes, vegetables, citrus and onion crops. Farmers in the project 
+area face low agricultural production and low farm incomes as the result of frequent crop failure, 
+low crop yields, low farm profitability and secondary salinization. 
+11. 
+The project is expected to increase crop production and reduce the land degradation by 
+minimizing  the  marginal  quality  groundwater  use.  The  project  will  (i)  construct  main  canal, 
+distribution system and appurtenant structures; (ii) introduce institutional reforms and establish 
+farmer’s  organizations  (FOs);  and  (iii)  build  capacity  of  the  farmers,  FOs,  and  staff  from  the 
+Punjab Irrigation Department (PID) and Punjab Irrigation and Drainage Authority (PIDA). 
+12. 
+The  Government  of  Punjab  has  approached  Asian  Development  Bank  (ADB)  for 
+providing  facility  of  Project  Design  Advance  (PDA)  for  carrying  out  detailed  design,  drawings 
+and bidding documents preparation of Jalalpur Irrigation Project. This PDA equivalent to US$5.0 
+million will be used for procurement of Consulting Services for JIP.  
+III. 
+OBJECTIVE OF THE ASSIGNMENT 
+13. 
+The  objective  of  the  consultancy  services  is  to  prepare  an  implementation  project 
+including  detailed  engineering  design,  construction  drawings,  PC-I  and  bidding  documents  of 
+JIP and assist the EA in loan processing.  
+14. 
+The consultants selected for detail design will be responsible for: 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+detailed design and construction drawings of the irrigation system including 
+bridges,  canal  falls,  cross  regulators,  head  regulators,  aqueducts,  outlets 
+and drainage works including gates and gearing system;  
+preparation  of  engineer’s  estimate  for  civil,  electrical  and  mechanical 
+works, packaging the contracts and updating the PC-1; 
+update land acquisition and resettlement plans (LARPs) and environmental 
+impact  assessment  (EIA)  environmental  management  plan  (EMP)  as 
+required  by 
+following  ADB’s  Safeguard  Policy 
+the  detailed  design 
+Statement (2009, as amended from time to time); 
+update/prepare  bidding  documents  incorporating  EMP  and  gender  action 
+plan  (GAP)  in  the  works  contracts,  if  any  and  assist  in  evaluation  of  bids 
+under advance actions; and 
+assist the EA in loan processing.  
+IV. 
+SCOPE OF SERVICES  
+15. 
+The general scope of services for the consultants comprises but not limited to: 
+(i) 
+(ii) 
+(iii) 
+Based  on  the  fresh  topographic  surveys,  investigations  and  studies  carried  out 
+under  TA  8404,  prepare  layouts  of  the  irrigation  and  drainage  system  for  the 
+project area; 
+Prepare  recommendations  of  water  allowance,  irrigation  intensity  and  cropping 
+pattern; 
+To carry out surveys, geotechnical investigations, hydrological analysis and other 
+such activities where necessary to provide a basis for design of all the hydraulic 
+structures; 
+19 
+for 
+(ix) 
+(iv) 
+(vii) 
+(viii) 
+(v) 
+(vi) 
+the  watercourse,  minor, 
+Prepare  capacity  and  command  statements 
+distributary and main canal; determination of location of each hydraulic structure 
+including outlets; 
+Prepare Chakbandi plan of each outlet showing field levels, location of nakkas; 
+Design  and  prepare  longitudinal  profiles  and  cross  sections  for  irrigation  and 
+drainage channels; 
+Prepare  hydraulic,  structural,  electro-mechanical  and  geotechnical  design 
+criteria; 
+Identify  various  hydraulic  structures  for  efficient  conveyance  of  irrigation  and 
+drainage flows; 
+Design  of  flood  protection  works  for  initial  reach  of  main  canal,  distribution 
+systems and other project works as required; 
+Carry  out  physical  model  studies  for  protection  works  for  main  canal  and 
+distribution system, when needed; 
+Undertake detailed design of all proposed project works with complete drawings. 
+The conveyance and distribution system including the canals, control structures, 
+bridges, falls, outlets and all associated cross drainage works for the Hill torrents 
+emanating  from  Salt  Range  etc.  including  electro-mechanical  works    will  be 
+designed in strict accordance with accepted state of the art methods of irrigation 
+science, hydraulics, soil mechanics and structural engineering; 
+Analyze all hydraulic design options for ensuring satisfactory sediment transport 
+and  minimizing  cost  requirements  without  sacrificing  system  performance  or 
+control required for efficient and equitable distribution of irrigation water; 
+(xiii)  Prepare  rules  for  optimal  sediment  control  into  head  regulator  and  amend 
+(xii) 
+(xi) 
+(x) 
+(xiv) 
+Operation and Maintenance Rules of Rasul Barrage accordingly; 
+Identify  minor  and  distributary  canals  those  involve  community  participation  in 
+design  and  construction,  conduct  walk-thorough  predesign  exercise  with  the 
+community  and  consider  related  resettlement  and  environmental  issues  in  the 
+design;  
+(xv)  Ensuring 
+the  designs  consider  optimal  solution  of 
+technical, 
+that  all 
+environmental and social issues;  
+(xvi)  Divide the project works into suitable number of contract packages, prepare Bill 
+of  Quantities,  cost  estimate  and  update  PC-I  prepared  by  TA  Consultants  and 
+prepare/update  bidding  documents  incorporating  EMP  and  GAP  for  different 
+contract packages; 
+(xvii)  Ensure  that  the  design  adequately  consider  the  climate  change  impacts  and  is 
+stable against factors such as frequent and excessive flows and sedimentation; 
+(xviii)  Update  Environmental  Impact  Assessment,  environmental  management  plan 
+land acquisition and resettlement framework (LARF) and LARPs with associated 
+cost; 
+(xix)  Advise  on  soil  reclaiming,  consumptive  water  uses  of  ground  and  surface flows 
+and identification of crops suitable for canal command; 
+(xx)  Review  the  Climate  Change  Risk  Assessment  study  and  incorporate  its  impact 
+on Agriculture and cross drainage flows for the Project; 
+(xxi)  Prepare  viability  of  the  hydropower  generation  in  project  works  and  provide 
+necessary  provisions  of  interface  where  necessary  while  designing  such 
+structures.  The  design  of  head  regulator  at  Rasul  Barrage  should  be  done  in 
+such a way that hydropower unit may be installed at later stage; 
+(xxii)  Rectification, modifications, improvement of the documents resultant to review of 
+any  or  all  project  documents  by  the  Irrigation  Department,  allied  sister 
+20 
+departments  of  the  Government  of  Punjab,  Government  of  Pakistan,  panel  of 
+experts and financers/donors; 
+(xxiii)  Prepare  responses  to  audit  observations  and  paras.  in  respect  of the  payments 
+made to consultants and assist the Employer in getting them resolved; 
+(xxiv)  Attend project level meeting with Steering Committee, ADB Missions as required; 
+(xxv)  Prepare all the supporting documents and provide legal support to Employer and 
+attend court /hearing, if required; 
+(xxvi)  As  instructed  by  the  client,  supervising  engineering  or  other  studies  associated 
+with the project and its components; 
+(xxvii)  Update  Operational  Manuals  for  all  the  major  structures,  main  canal  and  each 
+branch  and  distributary  canal  in  the  command  ensuring  optimization  of  water 
+deliveries using the existing or newly constructed facilities; and 
+(xxviii)  Support PMU and ADB missions, as needed. 
+16. 
+The specific scope of services is below: 
+Inception  Report.  It  will  cover  review  of  all  existing  surveys,  field  investigations, 
+17. 
+reports/documents  available  from  or  through  PID  including  feasibility  report  prepared  by  the 
+PPTA  Consultants.  Based  on  the  findings  of  the  review  and  additional  work  done  by  the 
+consultants  within  the  first  two  months  of  assignment,  the  inception  report  will  be  produced 
+discussing  alternatives,  if  any,  for  structures  and  layouts  including  infrastructures  for 
+implementation  and  operation  stage  of  the  project.  The  report  will  also  include  the  detail  of 
+additional field investigations / survey / studies required for accomplishing the assignment and 
+social  and  environmental  impact  assessment,  staffing  status  detailed  work  program  for  the 
+study  and any  other findings /  recommendations for review  and appraisal  by  the  Client, giving 
+particular  attention  to  water  benefits  in  terms  of  irrigation,  agriculture,  municipal  uses  and 
+envisaged remedial drainage measures.  
+18.  Midterm Report. In order to support the conclusions under: 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+Additional  field surveys  /  investigations / model  studies  will  be  conducted  under 
+the supervision of the consultants. Optimization study of each alternative will be 
+carried out; 
+Project  layout  for  the  different  locations  of  structures  and  infrastructures  for 
+implementation  and  operation  stage  of  the  project  shall  be  developed  to  the 
+degree of detail necessary to provide a fair comparison between the alternatives. 
+Aspects considered will be adequate remedial drainage measures and maximum 
+water benefits from the project; 
+The  population  resettlement  and  environmental  aspects  of  the  project  shall  be 
+reassessed  at  this  stage  of  the  study  and  quantified.  The  cost  of  resettlement 
+and  environmental  aspects  and  proposed  design  shall  be  assessed  for  the 
+economic and financial viability of the project; and 
+The  Consultants  shall  present  their  conclusions  and  recommendations  to  the 
+above effects in the shape of Midterm Report, for review and concurrence by the 
+Client. 
+19. 
+Detailed  Engineering  Designs.  The  Consultants  shall  proceed  with  and  complete the 
+detailed  engineering  designs  of  all  the  structures  for  the  selected  alternatives  of  the  project 
+components  i.e.  main  canal,  distribution  system,  crossings  of  Hill  torrents  and  drainage 
+measures including electro-mechanical works. For the purpose of cost estimating: 
+21 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+All  unit  prices  for  major  quantities  of  work  shall  be  established  by  the  latest 
+methods.  These  methods  will  simulate  each  construction  activity  in  such  a  way 
+as  to  fit  it  into  the  available  time  span  in  the  proposed  construction  schedule. 
+Construction equipment, crews, materials and other resources would be adjusted 
+to  accomplish  the  work  within  the  required  time  span.  The  computations  of  unit 
+prices shall be supported by detailed sets of financial prices with source; 
+Indirect cost of construction for all major items, into which the construction work 
+is subdivided for cost estimating purpose, should be established separately. Total 
+cost  of  each  construction  item  shall  then  be  obtained  by  multiplying  the  direct 
+cost of construction by a bid factor representing the influence of indirect cost;  
+Preparation  of  cost  estimates  of  the  project  broken  into  local  and  foreign 
+components. These shall include: 
+a)  Reasonable  breakdown  by  major  items  of  electro-mechanical  and  civil 
+works  of  canal  /  irrigation  network.  Price  for  major  civil  works  and 
+permanent equipment shall be estimated on the basis of ICB. 
+b)  Environmental  Impact  Assessment  and  Resettlement  Action  Plan  with 
+cost estimation. 
+c)  Project  engineering  and  management  expenses  and  an  adequate 
+allowance of physical contingencies. 
+d)  Import  duties,  taxes  and  interest  during  construction  (to  be  assessed 
+separately and not be included in the base cost estimate). 
+Preparation  of  a  construction  schedule  using  CPM  analysis  and  schedules  for 
+foreign  currency 
+annual  construction  expenditures,  both 
+components, throughout the construction period as well as a schedule of annual 
+expenditures for resettlement Action Plan and other item; and 
+Task shall culminate at the production by the consultants of a design report with 
+the cost estimate to be discussed in PMU, PID, Steering Committee and ADB. 
+local  and 
+for 
+20. 
+Tender/Construction Drawings and Documents 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+Preparation  of  tender  drawings  with  sufficient  details  for  the  purpose  of 
+international competitive bidding; and 
+Preparation  of  tender  documents  (BOQ,  special  provisions  and  technical 
+specifications) in line with FIDIC, Government of Punjab guidelines and standard 
+practice for  donor  funded  projects.  The  tender  documents  shall  cover  the  civil  / 
+electro-mechanical works of the project and its components; 
+Preparation  of  construction  drawings  complete  in  all  respect  for  civil,  electrical 
+and mechanical works; and 
+Preparation of Bid Evaluation reports and responses/replies to the quarries if any 
+by approving authority. 
+V. 
+DELIVERABLES REPORTS AND DOCUMENTS 
+21. 
+Reporting Requirements. The Consultants will prepare the following reports in English 
+with  Arial  font  (12  for  headings  and  11  for  body  text).  The  tables  should  use  10  Arial.  The 
+consultants will submit Table of Content (TOC) for each report for prior approval of the Client. 
+The consultants will provide these reports as per agreed program given below. Soft copies of all 
+the reports either in Excel (with formulae format), Auto Cad, or any other software will also be 
+submitted. 
+22 
+(i) 
+(ii) 
+Inception  Report.  Ten  copies  at  the  end  of  first  two  months  covering  each 
+subproject; 
+Midterm  Report.  Ten  copies  at  the  end  of  first  six  months  covering  each 
+subproject; 
+(v) 
+(iv) 
+(iii)  Monthly Progress report. Monthly progress shall be prepared on regular basis. 
+The  report  shall  indicate  progress  in  the  designing  of  structures  required  under 
+the  consultancy  agreement.  The  issues  that  may  hinder  the  planned  progress 
+shall be flagged along with the suggested solutions; 
+Updated  Resettlement  Plans.  The  project  is  “Category  A”  under  ADB’s 
+resettlement  guidelines  meaning  there  may  be  likely  be  certain  impacts  due  to 
+the  project. The  consultants  would assist  PMU  in updating the  Land  Acquisition 
+and Resettlement Plan (LARP) and assist PMU in preparing LARP to meet ADB 
+requirements;  
+Updated EIA and EMP. The consultant will be responsible for defending the EIA 
+at public hearings as and when held by the environmental protection agency; 
+Updated PC-1; 
+(vi) 
+(vii)  Detailed  Design  Report.  Both  the  draft  and  final  version  of  Detailed  Design 
+Report shall be prepared separately. The Report shall consist of detailed design 
+after incorporating comments of the Client, POE and Advisory Group of PID. The 
+reference of the formulae used in calculations will be mentioned in the calculation 
+sheets  in  the  remarks  column  for  ease  of  review.  Soft  copy  of  the  design 
+calculations  in  Excel  with  formula  format  or  any  other  software  used  will  be 
+submitted with the design reports; 
+(viii)  Engineer’s  Estimate.  Prepare  the  Engineer’s  Estimate  of  the  expected  cost  of 
+construction  immediately  prior  to  the  issue  of  a  bid  documents.  This  estimate 
+shall be based on the construction drawings and up to the date of assessment of 
+unit  price  of  the  items  prevailing  at  the  time,  and  shall  include  all  items  as 
+mentioned  above.  Engineer’s  Estimate  shall  be  issued  to  the  Client  and  the 
+contents therein shall be treated with utmost confidentiality; and 
+Bidding documents separate for each contract package. 
+(ix) 
+Reports 
+Draft Inception Report 
+No.  of 
+copies 
+5 
+Submission dead lines 
+Sixty (60) days after the effectiveness of Consulting 
+Services Agreement 
+Final Inception Report 
+10  One  (01)  week  after  the  review  of  Draft  Inception 
+Updated  LARF,  LARP  and  LAR  action 
+plan 
+Updated EIA and EMP 
+Draft Mid Term Report 
+10 
+Report by the Client  
+After  270  days  of  the  effectiveness  of  Consulting 
+Services Agreement 
+After  270  days  of  the  effectiveness  of  Consulting 
+Services Agreement 
+After  270  days  of  the  effectiveness  of  Consulting 
+Services Agreement 
+Final Mid Term Report 
+10  One  (01)  week  after  the  review  of  Draft  midterm 
+Monthly Progress report 
+Draft Design report  
+Final Design reports including drawings 
+Draft  Planning  Commission  Proforma  -I 
+(PC-I)  
+Report by the Client 
+10th of the following month 
+ 16 months after the consultants mobilization 
+Two  weeks  after  the  review  of  Draft  Design  report 
+by the Client 
+one week after Final design Report 
+10 
+25 
+25 
+5 
+23 
+Final  Planning  Commission  Proforma  -I 
+(PC-I) 
+Engineer’s Estimate 
+50  One  week  after  the  review  of  Draft  PC-I    by  the 
+Client 
+3  One week after review of Draft PC-1 by the Client  
+Bidding  Documents  with  quantities  and 
+drawings 
+Operation and Maintenance Rules 
+25  One 
+  week  after  clearance  of  Draft  Bidding 
+Documents by the Client  
+2 weeks after final design report 
+10 
+Outputs: 
+a.  Survey, Engineering Design and construction Drawings; 
+b.  Cost estimate, Financing Plan, Engineer’s Estimate and PC-I; 
+c.  Procurement Plan, Implementation Plan and Implementation arrangement; 
+d.  Financial  management  Assessment  and  EA’s  Procurement  Capacity 
+Assessment; 
+e.  Contract Packages, Bidding Documents, bid evaluation and award of contracts; 
+f.  Safeguards Plans and Climate Change Impact Assessment; 
+g.  Design and Monitoring Framework; 
+h.  Contract Award and Disbursement Projections; and 
+i.  Funds Flow Diagram. 
+VI. 
+ORGANIZATION OF CONSULTANTS TEAM 
+Design  Office.  The Consultants will establish the Design Office at Lahore. The cost of 
+22. 
+renting, furnishing and maintaining the office will be included in Consultants’ financial proposal. 
+23. 
+Field  Office.  The  Consultants  would  be  responsible  for  establishing,  furnishing  and 
+maintaining any field office required for the purpose of survey, geotechnical investigation etc. in 
+the project area. The cost of renting, furnishing, equipping and maintaining the field office will be 
+included in Consultants’ financial proposal. 
+Security  Arrangement.  The  Consultants  should  note  that  the  security  risks  at  Lahore 
+24. 
+and in the project area is low to medium. The Consultants should review the security situation 
+and identify any specific requirements at Lahore and in the project area as deemed necessary 
+and  include  the  details  of  security  arrangement  in  their  proposal.  The  cost  of  these 
+arrangements should be included in the financial proposal. 
+VII. 
+STAFFING REQUIRMENTS FOR DETAILED DESIGN OF THE JIP PROJECT 
+Following is the Client ‘s estimation of the composition of the Consultants’ design team 
+25. 
+for the project but the prospective consultants should propose their own breakdown of staffing 
+and  level  of  effort  /  staff  work  based  on  their  own  evaluation  of  the  proposed  services.  The 
+consultants  should  propose  a  realistic  deployment  schedule  for  all  positions  depending  on 
+design requirements as all positions listed below would have inputs for different durations.  
+About 135 person-months of key experts and 654 person-months of other staff and PMU 
+26. 
+support staff will be provided by the consultants for detailed design of the project.   
+24 
+Staffing requirement for Detailed Design of Jalalpur Irrigation Project 
+Position 
+Qualification 
+Sr. 
+No. 
+Job Specific 
+experience 
+/ 
+General 
+Overall 
+experience 
+(years) 
+Key Experts 
+1  Water 
+Resource 
+Management 
+Specialist 
+Leader) 
+(Team 
+2 
+Irrigation 
+Engineering 
+Specialist (DTL) 
+The Team Leader will be a 
+graduate Civil Engineer. A 
+master’s degree or PhD or 
+foreign post graduate 
+diploma in water 
+Resources / Hydraulic 
+Engineering is preferable 
+and would be scored 
+higher.  
+He/she will be a graduate 
+Civil Engineer. A master’s 
+degree or PhD in Water 
+Resources/Hydraulic 
+Engineering/Irrigation 
+Engineering is preferable 
+and would be rated higher.  
+3 
+Agronomist 
+4 
+Hydrological 
+Specialist 
+5 
+Hydraulic  Design 
+Engineering 
+Specialist 
+He/she will have a 
+Master’s degree in 
+agriculture or irrigation 
+agronomy and at least 15 
+years professional 
+experience in planning 
+major irrigated agriculture 
+developments. PhD in 
+agriculture or irrigation 
+agronomy is preferable 
+and would be rated higher.  
+He/she will be a graduate 
+civil engineer. A Master’s 
+degree or PhD in Water 
+Resources 
+Engineering/Hydrology is 
+preferable and would be 
+rated higher. 
+He/she will be a graduate 
+Civil Engineer. A master 
+degree or PhD or foreign 
+post graduate diploma in 
+Water 
+25 
+15 
+15 
+10 
+10 
+10 
+10 years relevant 
+experience in the 
+planning, 
+construction and 
+design of large scale 
+Irrigation 
+infrastructure. A 
+minimum of 5 years 
+specific experience 
+as a Team Leader of 
+similar projects. 
+ 10 years 
+professional 
+experience in the 
+planning of large 
+scale Irrigation 
+systems, including 
+those where 
+conjunctive use is an 
+important aspect. At 
+least five years of 
+the experience will 
+have been related to 
+large scale Irrigation 
+systems. 
+7 years of the 
+experience will have 
+been on major 
+irrigated agriculture 
+projects. 
+7 years professional 
+experience in 
+hydrological analysis 
+3 years of which will 
+have been on major 
+rivers. 
+7 years of 
+professional 
+experience in design 
+of civil works for 
+major hydraulic 
+in 
+Input 
+months 
+of 
+Experts 
+(months) 
+18 
+18 
+6 
+6 
+18 
+Position 
+Qualification 
+Sr. 
+No. 
+Job Specific 
+experience 
+/ 
+General 
+Overall 
+experience 
+(years) 
+in 
+Input 
+months 
+of 
+Experts 
+(months) 
+Resources/Hydraulic 
+Engineering is preferable 
+and would be rated higher.  
+6 
+Structural  Design 
+Engineering 
+Specialist 
+He/she will be a graduate 
+Civil Engineer. A master 
+degree or PHD in 
+Structural Engineering is 
+preferable and would be 
+rated higher.. 
+7 
+8 
+9 
+Mechanical 
+Engineering 
+Specialist 
+He/she shall have a 
+Bachelor’s Degree in 
+Mechanical Engineer  
+Water 
+Ground 
+Engineering 
+Specialist 
+Geotechnical 
+Engineering 
+Specialist 
+He/she will be a graduate 
+Civil Engineer. A Master’s 
+degree or PHD in 
+groundwater 
+engineering/geohydrology  
+is preferable and would be 
+rated higher. 
+He/she will be a graduate 
+Civil Engineer. A master’s 
+degree or PHD in 
+Geotechnical Engineering 
+is preferable and would be 
+rated higher.  
+10 
+10 
+10 
+10 
+10  Social  Safeguards 
+Specialist  
+Master degree in 
+Sociology. 
+10 
+26 
+structures and a 
+minimum of five 
+years, specific 
+experience in 
+design/rehabilitation 
+of barrages/head-
+works and canal 
+head regulators. 
+7 years of 
+professional 
+experience in design 
+of major hydraulic 
+structures and a 
+minimum of five 
+years specific 
+experience in 
+design/rehabilitation 
+of barrages/head-
+works and canal 
+head regulators. 
+7 years’ experience 
+in the 
+design/fabrication 
+and operation of 
+gates, hoists and 
+mechanical 
+equipment for 
+irrigation and 
+drainage project. 
+7 years’ experience 
+in the groundwater 
+engineering for 
+irrigation and 
+drainage project. 
+7 years’ of 
+professional 
+experience in design 
+of civil works for 
+major hydraulic 
+structures and a 
+minimum of five 
+years specific 
+experience in 
+design/rehabilitation 
+of barrages/head-
+works and canal 
+head regulators. 
+7 years’ experience 
+on resettlement / 
+18 
+6 
+6 
+12 
+12 
+Position 
+Qualification 
+Sr. 
+No. 
+Job Specific 
+experience 
+/ 
+General 
+Overall 
+experience 
+(years) 
+in 
+Input 
+months 
+of 
+Experts 
+(months) 
+social studies for 
+large water sector 
+projects. Should 
+have been involved 
+with at least 2 
+projects funded by 
+ADB or World Bank.  
+7 years’ professional 
+experience in 
+conducting 
+environmental 
+screening/ 
+Assessment of major 
+water resources 
+projects. Also 5 
+years’ specific 
+experience in similar 
+position on water 
+resources projects in 
+accordance with 
+GoP and ADB’s 
+Environmental 
+Guidelines. 
+7 years’ experience 
+in the procurement 
+of civil works and 
+contract 
+management. At 
+least three years of 
+this experience will 
+have been specially 
+related to 
+Procurement under 
+ADB/World Bank 
+Projects using 
+international and 
+rational competitive 
+bidding procedures. 
+At least 7 years 
+relevant experience 
+in economic and 
+financial analysis of 
+irrigation projects 
+6 
+6 
+3 
+11  Environmental 
+Specialist 
+Master Degree in 
+Environmental Science / 
+Environmental 
+Engineering 
+10 
+12  Procurement  and 
+Contract Specialist 
+He/she shall have at least 
+a BSc Engineering in 
+(Civil/Mechanical) 
+10 
+13  Economic/Financial 
+Analyst 
+Master in Economic or 
+related disciplines 
+10 
+27 
+VIII. 
+JOB DESCRIPTION AND QUALIFICATION OF CONSULANTS’ STAFF 
+27.  Water Resource Management Specialist (Team Leader) 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+(vii) 
+Provide  overall  direction  of  all  specialists  making  up  the  consulting  team  and 
+appropriately  group  individuals  into  work  units  responsible  for  a  particular 
+feasibility study and/or detailed design undertaking; 
+Manage relationships with PMU, PID, Government of Punjab and ADB as well as 
+with other stakeholders including farmers, KPs and FOs; 
+Ensure  timely  delivery  and  quality  control  of  all  required  outputs  including 
+detailed designs and tender documents for all the civil works involved; 
+Prepare detailed, time bound work plans for the design and tendering of all civil 
+works  contract  packages  envisaged  for  the  works  assigning  various  team 
+members to each key task; 
+Provide technical support and guidance in all aspects of headwork (if applicable), 
+canal and distribution system design and tendering; 
+Coordinate and supervise the preparation of tender documents for headwork’s (if 
+applicable), Main canal and distribution systems; 
+In close coordination with PMU, supervise the tendering process and subsequent 
+evaluation  of  bids  and  preparation  of  award  recommendations  for  the  initial 
+contracts Main canal and distribution system; 
+(viii)  Provide  coordination  and  oversight  to  ensure  that  monitoring  and  evaluation, 
+resettlement,  environmental,  agricultural,  on-Farm  water  management, 
+groundwater  resource  management  and  institutional  aspects  of  the  studies 
+appropriately address the situation identified on the ground; 
+(ix)  Work  with  the  Project  team  to  develop  innovative  assurance  mechanisms  to 
+ensure  institutional  reforms  remain  the  key  element  driving  all  project  activities; 
+and  
+Monitor  the  progress  of  all  planning  and  design  work  ensuring  that  deadlines 
+relating to delivery dates are met. 
+(x) 
+ Irrigation  Engineering  Specialist  (Deputy  Team  Leader).  His/her  duties will  include 
+28. 
+but not limited to the following: 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+Based  on  both  current  and  future  cropping  patterns,  and  determining  the  crop 
+water  requirements  for  each  crop  included  and based  on  current  and  improved 
+future conveyance efficiencies, determine the irrigation requirements at the main 
+canal, branch canal, distributary/minor canal and the watercourse heads; 
+Prepare  comprehensive  plans  for  construction  of  main,  branch,  distributary  and 
+minor  canals  including  control  structures  and  required  supporting  infrastructure 
+including  cross  drainage,  emergency  escapes,  bridges  etc.  for  the  command  of 
+project area; 
+Adopt  and  recommend  innovations  into  the  command  area  designs  that  will 
+improve 
+flexibility  and  ensure  equitable 
+irrigation  efficiency  and  delivery 
+distribution of surface water throughout the command; 
+In consultation with the hydraulic and structural Engineer, confirm both functional 
+and structural requirements of main canal and distribution system structures; 
+Recommend  any  supply  arrangements  from  the  main,  distributary  and  minor 
+canals to watercourses to improve either efficiency or equity of distribution; 
+28 
+(vi) 
+(vii) 
+In consultation with the groundwater specialists and agronomist develop effective 
+conjunctive use strategies for optimal use of the limited canal supplies and local 
+groundwater resources; 
+Ensure  that  adequate  flow  measurement  sites  are  provided  throughout  the 
+system  to  facilitate  both  system  management  and  monitoring  of  system 
+performance; 
+(viii)  Work  with 
+the  agronomist 
+in  making  adequate  provision  for  the  water 
+requirements  of  higher  value  crops  which  may  be  introduced  into  the  cropping 
+pattern in the future; 
+Use focus groups and stakeholder consultation to develop a construction process 
+for  distributary  and  minor  canals  that  fully  involves  KPs,  FOs  and  farmers  in 
+general  in  both  the  detailed  design  and  implementation  of  the  system 
+improvement; 
+Develop operation and maintenance strategies for the irrigation infrastructure by 
+the FOs, PID/AWB; and 
+Develop monitoring and evaluation parameters for the project and identify related 
+research needs to ensure achievement of project objectives. 
+(ix) 
+(x) 
+(xi) 
+29. 
+Agronomist. His/her duties will include but not limited to the following: 
+(i) 
+(ii) 
+(iii) 
+improved  wheat  and  cotton  production 
+Identify  the  major  constraints  to  be  faced  by  the  farming  communities  in  the 
+Jalapur  canal  commands  which  would  affect  agricultural  productivity  including 
+provision  of  inputs,  post-harvest  and  marketing  of  produce,  availability  and 
+dependability of the irrigation water supply and soil salinity and sodium problems; 
+Review  the  farming  systems  in  place  in  the  command  area  with  particular 
+emphasis  on 
+technology,  annual 
+horticulture  crops  (vegetables)  and  perennial  horticultural  crops  including 
+orchards  and  vineyards.  Assist  the  irrigation  specialists  in  a  review  of  both 
+current and future cropping  patterns with respect to water requirements with an 
+objective  to  develop  optimal  strategies  for  cropping  systems  considering  the 
+improvements  in  water  availability,  dependability  and  distribution  to  result  from 
+the rehabilitation and upgrading of the irrigation system; 
+Provide  the  economist  with  present,  future  without  and  future  with  cropping 
+patterns (fully indicative of intensity), yields and production for the project areas; 
+(iv)  Work  with  the  monitoring  and  evaluation  specialist  in  developing  agriculture 
+(v) 
+(vi) 
+related monitoring and evaluation parameters for the projects;  
+Assess  the  linkages  between  rural  poverty  in  the  project  area  and  irrigated 
+agriculture; and 
+Advise  on  soil  reclaiming,  consumptive  water  uses  of  ground  and  surface flows 
+and identification of crops suitable for canal command. 
+Hydraulic Design Engineering Specialist. His/her duties will include but not limited to 
+30. 
+the following: 
+(i) 
+Organize  and  supervise  topographic  surveys  and  any  other  investigations 
+required  to  provide  necessary  input  data  for  detailed  design  preparation  for 
+Jalalpur main canal and its distribution system; 
+(ii)  Work  with  the  Hydrologist  Specialist  in  predicting  likely  water  levels  at  the 
+barrage for flood flows of different return intervals and during normal operation; 
+29 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+Use mathematical modeling results as appropriate to refine both design proposal 
+and operating rules for each of the barrages by simulating the effects of varying 
+design parameters; 
+Analyze  hydraulic  design  options  for  all  barrage  features  with  a  view  to  cost 
+effective rehabilitation; 
+Coordinate and supervise detailed design of all hydraulic aspects of the barrage 
+rehabilitation  works  including  preparation  of  relevant  construction  drawings  and 
+specifications  as  well  as  contributing  as  required  to  the  preparation  of  the  final 
+tender documents; 
+Draft  relevant  portions  of  the  Operational  Manuals  for  Head  Regulators,  X-
+regulators and Hill Torrent crossing with emphasis on operating rules based upon 
+water level observations, available flood prediction information and the irrigation 
+demand on the system; 
+(vii)  Undertaken  the  design  of  project  works  including  but  not  limited  to  (a)  cross 
+regulator  and  distributary  head  regulator  replacement/rehabilitation,  (b)  Main 
+canal sectioning grading and rerouting if required for the Jalalpur main canal and 
+its  distribution  system,  (c)  cross  canal  structures  such  as  inverted  siphons, 
+aqueducts,  etc.,  (d)  required  bridges  and  culverts,  (e)  outlets  (watercourse 
+outlets)  as  appropriate,  (f)  escape  facilities  and  associated  channels,  and  (g) 
+associated flood and erosion control measure; 
+(x) 
+(ix) 
+(viii)  Special  attention  will  be  given  to  identifying  reaches  of  the  Main,  Branch, 
+Distributary,  minor  canals  in  the  Jalalpur  canal  command  where  the  porous 
+nature of the in-situ soil materials is such that impermeable lining is required; 
+The  conveyance and distribution  system  including  the  canals,  control  structures 
+and  all  associated  works  will  be  designed  in  strict  accordance  with  accepted 
+fundamental  of  irrigation  science,  hydraulics,  soil  mechanics  and  structural 
+engineering; 
+In the design of all structures and features of repetitive nature, standard designs, 
+pre-approved  by  the  Team  Leader  and  PMU  should  be  used  as  appropriate  to 
+minimize duplicity of design inputs; 
+Analyze  all  design  and  construction  methodology  options  for  the  canals  and 
+associated structures with a view to cost-effective of the project works; 
+Analyze  all  hydraulic  design  options  for  cross  regulators,  drop  structures, 
+measurement  structures,  road  bridges,  Distributary  and  minor  head  regulators 
+and  lined  reaches  ensuring  satisfactory  sediment  transport  and  minimizing  cost 
+requirements  without  sacrificing  system  performance  or  control  required  for 
+efficient and equitable distribution of irrigation water throughout project area; 
+(xiii)  Ensure  that  all  design  teams  involved  in  the  design  of  the  Jalalpur  Distributary 
+and  minor  canals  participate  in  the  walk-through  pre  design  exercise  enabling 
+farmer's concerns to be addressed and identifying items of technical demanding 
+work suitable for community contracting; 
+(xii) 
+(xi) 
+(xiv)  Coordinate  and  supervise  the  detailed  design  of  all  canals  and  associated 
+structures  and  works  including  the  preparation  of  all  required  construction 
+drawings,  technical  specifications  and  bills  of  quantities  and  contribute  as 
+necessary in the preparation of the final tender documents;  
+(xv)  Draft  relevant  portions  of  the  Operation  Manuals  for  the  Jalalpur  canal  and  its 
+distribution system command ensuring optimization of water deliveries using the 
+newly constructed facilities; 
+(xvi)  Prepare  viability  of  the  hydropower  generation  in  project  works  and  provide 
+necessary  provisions  of  interface  where  necessary  while  designing  such 
+30 
+structures.  The  design  of  head  regulator  at  Rasul  Barrage  should  be  done  in 
+such a way that hydropower unit may be installed at later stage; and 
+(xvii)  Update  Operational  Manuals  for  all  the  major  structures,  main  canal  and  each 
+branch  and  distributary  canal  in  the  command  ensuring  optimization  of  water 
+deliveries using the existing or newly constructed facilities. 
+31. 
+Hydrological Specialist. His/her duties will include but not limited to the following: 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+Update  flood  frequency  analyses  of  all  the  Hill  Torrents  which  are  crossing 
+alignment of Jalalpur canal and its system; 
+Provide a technical overview of the design discharge to be passed through each 
+crossing structure;  
+As directed by the irrigation design engineers establish flood frequency analyses 
+for all cross drainages for which cross drainage facilities are to be provided on 
+any of the main, branch or Distributary canals; and  
+During the design stages assist the hydraulic design specialist and others in 
+assessing water levels upstream, downstream and at the sites corresponding to 
+flood of various return intervals for the cross drainage facilities. 
+Structural Design Engineering Specialist. His duties will include but not limited to the 
+32. 
+following: 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+Organize and undertake a critical examination targeted to establishing the overall 
+structural  and geotechnical  (foundation)  integrity  of  the  barrage keeping in view 
+the placing of new head regulator of Jalalpur main canal; 
+Analyze  structural  design  options  for  all  structures  to  be  constructed  in  a  cost-
+effective manner; 
+Coordinate,  supervise  and  undertake  preparation  of  detailed  structural  design, 
+bills of quantities and technical specifications for all required project works;  
+Assist  in  drafting  relevant  portions  of  the  Operational  Manual  for  the  Jalalpur 
+Canal  system  with  emphasis  on  procedures/practices  to  ensure  the  long  term 
+structural integrity of the structures; 
+Organize  and  undertake  a  critical  examination  targeted  to  establish  the  overall 
+structural integrity of major main canal structures to be constructed; 
+Analyze  structural  design  options  for  cross  regulators,  distributary  and  minor 
+canal  head  regulators,  escapes,  and  road  bridges  with  a  view  to  cost-effective, 
+but sustainable rehabilitation; 
+(vii)  Coordinate,  supervise  and  undertake  preparation  of  detailed  structural  design, 
+bills  of  quantities  and    technical  specifications  for  cross  regulators,  falls, 
+distributary  and  minor  canal  head  regulators,  escapes,  siphons,  aqueducts, 
+outlets,  and  road  and  foot  bridges  as  well  as  any  other  features  identified 
+requiring  structural 
+to 
+preparation of the final tender documents; and 
+treatment  and  contributes  as  required 
+input  and 
+(viii)  Assist  in  drafting  relevant  portions  of  the  Operational  Manual  for  the  main  and 
+distributary  canals  with  emphasis  on  procedures/practices  to  ensure  the  long 
+term structural integrity of the canal structures. 
+33.  Mechanical  Engineering  Specialist.  His  duties  will  include  but  not  limited  to  the 
+following:    
+31 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+Prepare  detailed  designs  including  drawing,  specifications  and  costs  for  gates 
+required for Jalalpur canal and its system; 
+Prepare  detailed  designs  including  drawing,  specifications  and  costs  for  the 
+motorization of all gates; 
+Coordinate  and  supervise  detailed  design  of  all  mechanical  and  electrical 
+aspects of the rehabilitation works including preparation of relevant construction 
+drawing and specification as well as contributing as required to the preparation of 
+the final tender documents; 
+Draft  relevant  portion  of  the  Operational  Manual  for  the  X-regulators,  Head 
+Regulators  etc.  with  particular  emphasis  on  operation  and  maintenance  of  the 
+gates and associated hoisting equipment; 
+Coordinate and supervise detailed design of all mechanical aspects of the canal 
+rehabilitation  works  including    preparation  of  relevant  construction  drawing 
+technical specification and bills of quantities as well as contributing as required to 
+the preparation of the final tender documents; and 
+Draft relevant portion of the Operation Manual for the main and distributary canal 
+with  emphasis  on  operation  and  maintenance  of  the  gates,  associated  hoisting 
+equipment and other mechanical features. 
+Geotechnical  Engineering  Specialist.  His/her duties will include but not limited to the 
+34. 
+following: 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+Carry  out  (organize  and  oversee)  a  comprehensive  review  of  foundation 
+conditions at all type of hydraulic structures; 
+Identify any remedial foundation stabilization work to be included in the packages 
+of works for the rehabilitation and upgrading of the barrages; 
+Formulate  plans  for  and  carry  out  detailed  foundation  investigations  for  the 
+Project works; 
+Supervise the  work  of the  sub-contracted  drilling,  sampling  and  testing  services 
+to ensure compliance with best geotechnical practice; 
+Subsequent  to  the  required  Sub-surface  investigations  and  required  laboratory 
+testing  work  with the  principal  Structural  Engineer  in preparing  detailed designs 
+and specifications for the foundation treatment/features of the new barrage works 
+and any identified remedial work required with respect to the existing structures; 
+Assist  in the  preparation  of  the  tender  documents  for  the  Jalalpur  canal  and  its 
+system as required; 
+(vii)  Carry out (organize and supervise) a review of foundation conditions at the sites 
+of major structures on the Jalalpur main canal and its system; 
+(viii)  Formulate  plans  for  and  carry  out  required  foundation  investigations  and 
+associated materials testing for the canals; and  
+Assist in the preparation of tender documents for canal works as required. 
+(ix) 
+35. 
+Social Safeguards Specialist. His/her duties will include but not limited to the following: 
+(i) 
+(ii) 
+(iii) 
+Assess  all  potential;  resettlement  impacts  from  the  range  of  interventions 
+proposed under the detailed design for Jalalpur canal and its distribution system 
+within the Umbrella of ADB’s resettlement policy; 
+Produce a Land Acquisition and Resettlement Framework (LARF) for the project 
+to ensure consistency with ADB’s Safeguard Policy Statement (SPS), 2009; 
+In collaboration  with Resettlement  Unit  established in  the  PMU for  LBDCIP  and 
+relevant  PID  staff,  and  on  the  basis  of  the  detailed  design,  update  preliminary 
+32 
+Land  Acquisition  and Resettlement  Plan  (LARP) required  under  all  components 
+of the Jalalpur Canal project; 
+Based on  the  detailed  design  and proposed schedule  of construction  contracts, 
+split  the  overall  LARP  into  stand-alone  contract  specific  LARPs,  each  aligned 
+with the corresponding contract package; 
+Develop  detailed  implementation  arrangements  and  schedule  to  carry  out 
+resettlement activities under the project; 
+Assess the capacity within PIPD, PIDA and other relevant agencies with respect 
+to  resettlement,  and  prepare  detailed  capacity  development  programs  to 
+strengthen  PID’s  ability  in  the  planning  and  implementation  of  resettlement 
+activities under the project; 
+Assist PMU and PID and PIDA staff in complying with all requirements of ADBs 
+SPS 2009; 
+(iv) 
+(v) 
+(vi) 
+(vii) 
+(viii)  Assist the PTL, PMU and PID and PIDA staff to address any comments received 
+(ix) 
+(x) 
+(xi) 
+on updated LARF and LARPs in a manner satisfactory to ADB; 
+In addition to preparation of a detailed capacity building program per (vi) above, 
+provide  on  the  job  training  for  selected  PID  staff  during  preparation  and 
+implementation of the LARPs; 
+Assist the EA in developing a plan to publically disclose the proposed project and 
+to  conduct  meaningful  public  consultations  with  affected  communities  - 
+consultation  should  include  but  not  necessarily  be  limited  to  public  meetings, 
+focus group discussions, and interviews, both structured and unstructured; and 
+Draft  all  relevant  sections  of  project  reports  relevant  to  on  resettlement  as 
+directed by the Team Leader. 
+36. 
+Environmental Specialist. His/her duties will include but not limited to the following: 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+(vii) 
+is 
+in 
+the 
+Impact 
+line  with 
+rehabilitation  of 
+the  Environmental 
+relevant  documents,  particularly 
+Review  all 
+Assessment study; 
+Prepare/update a cost effective environmental management and monitoring plan 
+for 
+IEE/EMP 
+the  barrage  which 
+recommendations so as to ensure minimal environmental effects both during and 
+following the construction period; 
+Review  the  site  specific  environmental  management  plan  (SSEMP)  for  all  the 
+contracts in the project, and ensure its implementation; 
+Prepare  and  execute  required  appropriate  actions  to  mitigate  any  negative 
+environmental impacts associated with construction activities in collaboration with 
+PMU LBDCIP and all concerned stakeholders; 
+Prepare  a  detailed  reforestation  plan  for  the  Project  and  following  construction 
+oversee its implementation as required in the IEE/ EMP; 
+training  materials  for  PID,  and  PMU  LBDCIP  staff  to  support 
+Develop 
+environmental  protection  measures  and  to  monitor  and  mitigate  potential 
+environmental impacts; 
+Ensure that any environmental impact assessments, if required, fully comply with 
+ADB  guidelines  safeguards  policy  statement(SPS,  2009)  and  ensure,  that  all 
+required  mitigation  measures  are  identified  and  acceptable  environmental 
+management and monitoring plans reflecting full details regarding the estimated 
+mitigation costs are in place through the SSEMP; and 
+(viii)  Besides  assisting  in finalizing  the  biannual  environmental  monitoring  report,  he/ 
+she  will  also  assist  the  PMU  in  finalization  of  quarterly  progress  report,  annual 
+progress report and any specific report asked by PMU. 
+33 
+Procurement and Contract Specialist. His/her duties will include but not limited to the 
+37. 
+following: 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+(vii) 
+(viii) 
+(ix) 
+(x) 
+(xi) 
+Prepare  detailed  Procurement  plans  and  packages  and  determine  realistic  time 
+bound    schedules  for  Procurement,  including  parallel  and  sequential  steps  for 
+Procurement of civil works from initial steps to the delivery of the services under 
+the contract; 
+Develop, in consultation with PMU, the prequalification criteria, prepare notices of 
+pre-qualification and prequalification  documents and conduct the prequalification  
+of  international  contractors  in  accordance  with  both  PID  procedures  and  ADB 
+guidelines for the Jalalpur main canal and its distribution system; 
+Under  the  direction  of  the  Team  Leader/Design  and  using  input  from  various 
+specialists of the team prepare the international tender documents for the Jalapur 
+main  canal  and  its  distribution  system  in  FIDIC  format  agreeable  to  PMU,  PID 
+and ADB; 
+The documents to be prepared under (iii) above will include (a) invitation to bid, 
+(b)  instruction  to  bidders,  (c)  form  of  bid,  (d)  form  of  contract,  (e)  special  and 
+general conditions of contract, (f) drawing and specifications, (g) bill of quantities, 
+(h) schedule of completion, and (i) all necessary addenda;  
+In  collaboration  with  the  team  leader  and  PMU,  familiarize  PID  staff  with  the 
+Procurement procedures to be followed under ADB’s Guidelines for procurement 
+and contracting to enhance the capacity of PID staff; 
+Invite  the  Pre-qualified  bidders  to  submit  bid  and  advise  the  committee 
+established  for  evaluation  regarding  bid  opening  and  technicalities  of  the 
+evaluation process and ADB’S guidelines and requirements pertaining thereto;  
+Advise  on  preparation  of  the  summery  of  evaluation  and  recommendation  for 
+award; 
+undertake  project  procurement 
+risk  assessment  and  prepare  Project 
+Procurement  Risk  Assessment  and  Management  Plan  (P-RAMP),  including 
+procurement capacity assessment of the EA;  
+based  on  P-RAMP,  prepare  the  capacity  building  program  to  strengthen  EA’s 
+capacity in undertaking procurement and address other risks identified; 
+prepare draft procurement plan; and 
+prepare  master  bidding  documents  for  different  types  of  contracts  under  the 
+project, including an RFP for selection of implementation consultant. 
+38. 
+Groundwater Specialist. His/her duties will include but not limited to the following: 
+(i) 
+(ii) 
+(iii) 
+Review  all  relevant  studies  on  groundwater  and  drainage  in  the  Jalalpur  canal 
+commands  and  surrounding  areas  with  regard  to  sources,  recharge  quantity, 
+quality, and all aquifer characteristics require to satisfactorily project safe aquifer 
+yields; 
+Review and investigate the canal command in question with regard to salinization 
+and sodification of project area soils and assess the need for conjunction use of 
+surface  water  if  groundwater  of  marginal  quality  is  to  be  used  for  irrigation 
+purposes; 
+Review  prior  groundwater  monitoring  activities  which  establish  the  number  and 
+location of existing tube-wells in the command area; 
+34 
+(iv) 
+(v) 
+(vi) 
+(vii) 
+Estimate the long term changes in groundwater levels and quality under various 
+future  cropping  intensities  and  the  potential  for  long  term  environmental  soil 
+degradation under various conjunctive use scenarios in the command area being 
+studied; 
+For  the  command  area  develop  a  program  of  enhanced  and  regularized 
+monitoring  of  ground  water  levels  and  quality  to  serve  as  a  data  base  for 
+development  of  finite  difference  groundwater  model  to  serve  as  a  tool  for 
+groundwater management in the command area; 
+For the command area identify and cost require for improvements in/additions to 
+the surface water drainage system to complement irrigation flows; and 
+Provide  input  to  and  recommendations  for  a  regulatory  framework  to  be 
+implemented in the Jalalpur commands suitable for other irrigation commands in 
+Punjab and forming the basis for a Province wide regulatory undertaking. 
+39. 
+Economic/Financial  Analyst. With Master’s degree in economics or related disciplines 
+and a minimum of 10 years of overall experience and 7 years of relevant experience, the expert 
+will:  
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+review the revised cost and benefits;  
+analyze relevant investment scenarios for the project;  
+update the economic and financial returns of the investments; 
+prepare the cost tables on standard format requires for project processing;  
+advise on baseline data and update design and Monitoring Framework’; and  
+update Financial Management assessment of the executing agency. 
+35 
+TERMS OF REFERENCE FOR INSTITUTIONAL MECHANISMS 
+1. 
+Institutional  Reform  Experts  (1  =  International  for  4  Person-months  and  34    = 
+National  for  18  person-months):  The national experts will support the international expert to 
+carry out, but not limited to, the following: 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+review the study, finding and recommendations of the PPTA’s consultants 
+discuss the PPTA’s findings and recommendations with PID; 
+Independent  assessment  of  the  PIDA  Act  and  its  implementation  including 
+considerations such as roles, functions, membership. Equity, gender, geographic 
+coverage  effectiveness,  resource  flows  and  leadership  as  it  relates  to  the 
+Jalalpur canal commands; 
+study the existing irrigation system management practices at both the main and 
+distributary  canal  level  with  a  view  to  transfer  of  operations,  maintenance  and 
+management of the system from the distributary head regulator downstream; 
+conduct  field  assessment  in  regard  to  the  Jalalpur  canal  command,  liaise  with 
+PID,  PIDA,  designers  and farmers  on  the  possible models for  Jalalpur  Irrigation 
+system; 
+develop a mechanism for sustainable and viable operations and management of 
+Jalapur Irrigation system upon completion of project; and 
+(vii)  National experts will assist the international expert in reviewing previous reforms, 
+institutional and legal frameworks and lesson learned. 
+TERMS OF REFERENCE OF THE INDIVIDUAL CONSULTANTS FOR DESIGN REVIEW 
+AND QUALITY ASSURANCE PANEL 
+1. 
+Hydraulic/Irrigation  Infrastructure  Expert  (1  =  National;  5  person-months  on 
+intermittent  basis). The expert should have bachelor degree in civil engineering and 25 years 
+of  experience  in  irrigation  canals  and  drainage  system  design  and  management.  A  master 
+degree in hydraulic, irrigation or related field is preferred. The expert will perform but not limited 
+to the following tasks: 
+(i) 
+(iv) 
+(ii) 
+(iii) 
+Develop  plan  for  design  of  irrigation  and  drainage  system  with  the  consultant 
+team and the PMU; 
+Review design criteria, assumptions and methodologies; 
+Review water allocation in the light water delivery from upstream to downstream 
+along the canals; 
+Advise the consultant on most efficient water conveyance and irrigation systems, 
+which reduces non-beneficial water flow and maximize water productivity; 
+Review  irrigation  and  drainage  system  designs  and  agree  with  the  consultant 
+team and PMU on most cost-effective and reliable designs; 
+Advises  on  the  sustainable  operational  management  arrangements  of  the 
+irrigation and drainage system; 
+(vii)  Review drawings and specifications; 
+(viii)  Prepare design review report; and 
+(ix) 
+Any other review task requested by the PMU. 
+(vi) 
+(v) 
+Structural  Design  Expert  (1  =  National;  4  person-months  on  intermittent  basis). 
+2. 
+The  expert  should  have  bachelor  degree  in  civil  engineering  and  20  years  of  experience  in 
+structural design, drawings and specifications of water, hydraulic or irrigation related projects. A 
+36 
+master  degree  in  structural  engineering  is  preferred.  The  expert  will  perform  but  not  limited  to 
+the following tasks: 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+Develop  plans  for  design,  construction  drawings  and  specifications  of  the 
+structures with the consultant team and the PMU; 
+Review structural design criteria, assumptions and methodologies; 
+Advise  on  appropriate  computational  and  structural  design  model  for  efficient 
+working; 
+Review  structural  design  of  regulators,  bridges,  canal  head  regulator,  cross 
+drainage structures and flood protection works; 
+Review construction drawings and technical specifications; 
+Review quantity and cost estimates prepared by the consultant team; 
+(v) 
+(vi) 
+(vii)  Review  contract  packages  in  line  with  the  capacity  of  construction  industry  and 
+project implementation plan; 
+(viii)  Review foundation designs; and 
+(ix) 
+Any other review task requested by the PMU. 
+3. 
+Mechanical  and  Instrumentation  Expert  (1  =  National;  3  person-months  on 
+intermittent basis). The expert should have bachelor degree in mechanical engineering and 20 
+years  of  experience  in  design  of  gates  and  gearing  system  and  instrumentation.  A  master 
+degree in related field is preferred. The expert will perform but not limited to the following tasks: 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+Develop  plan  for  design  of  gates,  gear  and  instrumentation  system  with  the 
+consultant team and the PMU; 
+Review  design  criteria,  assumptions  and  methodologies  for  the  gates  and 
+gearing system; 
+Review  detailed  design,  construction  drawings  and  specifications  for  gates  and 
+gearing system and instrumentation; 
+Assess  capacity  of  local  industry  and  advise  the  consultant  the  best  design 
+options; 
+Identify best manufacturing and installation experts local and abroad (desk study 
+only); 
+Review  operation  manual  and  advise  on  post-project  operational  management 
+for better performance of the mechanical system; 
+Prepare review report; and 
+(vii) 
+(viii)  Any other review task requested by the PMU. 
+37 

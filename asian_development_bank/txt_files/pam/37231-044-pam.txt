@@ -1,0 +1,3531 @@
+Project Administration Manual 
+Project Number: 37231-044 
+Loan Number: xxx 
+November 2015  
+Pakistan:  MFF0009-PAK: Punjab Irrigated 
+Agriculture Investment Program - Tranche 4 
+ABBREVIATIONS 
+Contents 
+I. 
+II. 
+III. 
+IV. 
+V. 
+VI. 
+PROJECT DESCRIPTION 
+IMPLEMENTATION PLANS 
+A. 
+B. 
+Project Readiness Activities 
+Overall Project Implementation Plan 
+PROJECT MANAGEMENT ARRANGEMENTS 
+A. 
+B. 
+C. 
+Project Implementation Organizations – Roles and Responsibilities 
+Key Persons Involved in Implementation 
+Project Organization Structure 
+COSTS AND FINANCING 
+A. 
+B. 
+C. 
+D. 
+E. 
+F. 
+G. 
+H. 
+I. 
+J. 
+Detailed Cost Estimates by Expenditure Category for Overall Project 
+Detailed Cost Estimates by Expenditure Category for LBDCIP 
+Allocation and Withdrawal of Loan Proceeds 
+Detailed Cost Estimates by Financier 
+Detailed Cost Estimates by Financier for Additional Financing 
+Detailed Cost Estimates by Outputs/Components 
+Detail Cost Estimates by Outputs/Components for Additional Financing 
+Detailed Cost Estimates by Year 
+Contract and Disbursement S-curve 
+Fund Flow Diagram 
+FINANCIAL MANAGEMENT 
+A. 
+B. 
+C. 
+D. 
+Financial Management Assessment 
+Disbursement 
+Accounting 
+Auditing and Public Disclosure 
+PROCUREMENT AND CONSULTING SERVICES 
+A. 
+B. 
+C. 
+Advance Contracting and Retroactive Financing 
+Procurement of Goods, Works and Consulting Services 
+Procurement Plan 
+VII. 
+SAFEGUARDS 
+VIII.  GENDER AND SOCIAL DIMENSIONS 
+PERFORMANCE MONITORING, EVALUATION, REPORTING AND 
+IX. 
+COMMUNICATION 
+A. 
+B. 
+C. 
+D. 
+E. 
+Project Design and Monitoring Framework 
+Monitoring 
+Evaluation 
+Reporting 
+Stakeholder Communication Strategy 
+X. 
+XI. 
+XII. 
+ANTICORRUPTION POLICY 
+ACCOUNTABILITY MECHANISM 
+RECORD OF PAM CHANGES 
+1 
+2 
+2 
+3 
+4 
+4 
+5 
+6 
+7 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+17 
+19 
+20 
+20 
+21 
+21 
+22 
+22 
+25 
+27 
+27 
+27 
+31 
+32 
+32 
+32 
+33 
+33 
+33 
+Project Administration Manual Purpose and Process 
+1.  1.  The  project  administration  manual  (PAM)  describes  the  essential  administrative  and  management 
+requirements to implement the project on time, within budget, and in accordance with Government and 
+Asian  Development  Bank  (ADB)  policies  and  procedures.  The  PAM  should  include  references  to  all 
+available templates and instructions either through linkages to relevant URLs or directly incorporated in 
+the PAM. 
+2.  2.  The  Punjab  Irrigation  Department  is  wholly  responsible  for  the  implementation  of  ADB  financed 
+projects,  as  agreed  jointly  between  the  borrower  and  ADB,  and  in  accordance  with  Government  and 
+ADB’s policies and procedures. ADB staff is responsible to support implementation including compliance 
+by  Punjab  Irrigation  Department  of  their  obligations  and  responsibilities  for  project  implementation  in 
+accordance with ADB’s policies and procedures. 
+3.  3. At Loan Negotiations the borrower and ADB shall agree to the PAM and ensure consistency with the 
+Loan  agreement.  Such  agreement  shall  be  reflected  in  the  minutes  of  the  Loan  Negotiations.  In  the 
+event of any discrepancy or contradiction between the PAM and the Loan Agreement, the provisions of 
+the Loan Agreement shall prevail. 
+4.  4.  After  ADB  President  approval  of  the  additional  financing,  changes  in  implementation  arrangements 
+are  subject  to  agreement  and  approval  pursuant  to  relevant  Government  and  ADB  administrative 
+procedures  (including  the  Project  Administration  Instructions)  and  upon  such  approval  they  will  be 
+subsequently incorporated in the PAM. 
+ADB 
+ADF 
+AWB 
+EA 
+EMP 
+FOs 
+IA 
+ICB 
+LBDC 
+LBDCIP 
+LARP 
+NCB 
+PAM 
+PIAPPF 
+PIU 
+PID 
+PMU 
+PPMS 
+QCBS 
+QPR 
+SOE 
+SSEMP 
+WA 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+  Abbreviations 
+Asian Development Bank 
+Asian Development Fund 
+area water board 
+executing agency 
+environmental management plan 
+farmers organizations 
+implementing agency 
+international competitive bidding 
+Lower Bari Doab Canal 
+Lower Bari Doab Canal Improvement Project 
+land acquisition and resettlement plan 
+national competitive bidding 
+project administration manual 
+Punjab irrigated agriculture project preparation facility 
+project implementation unit 
+Punjab Irrigation Department  
+project management unit 
+project performance management system 
+quality- and cost based selection 
+quarterly progress reports 
+statement of expenditure 
+site specific environment management plan 
+withdrawal application 
+I. 
+PROJECT DESCRIPTION 
+In  December  2006,  the  Asian  Development  Bank  (ADB)  approved  a  $900  million1 
+1. 
+multitranche  financing  facility  (MFF)  for  the  Punjab  Irrigated  Agriculture  Investment  Program 
+(PIAIP) to co-finance investments in the irrigation sector in Punjab. Two loans for the first project 
+totaling $227.8 million were approved at the same time; $217.8 million equivalent from ordinary 
+capital  resources  (OCR)  and  $10  million  equivalent  from  the  ADB’s  Special  Fund  (ADF) 
+resources.  The  Project  1  (the  project)  included  Lower  Bari  Doab  Canal  Improvement  Project 
+(LBDCIP) and Punjab Irrigated Agriculture Project Preparation Facility (PIAPPF), financed under 
+MFF  tranche  1.  The  LBDCIP  is  improving  the  Balloki  Barrage  on  the  Ravi  River,  Lower  Bari 
+Doab Canal (LBDC), and distributary and minor canals that supply water to more than 700,000 
+ha  vis-à-vis  supporting  institutional  reforms,  on-farm  productivity  and  improved  groundwater 
+management. The PIAPPF included preparation of subsequent projects under the MFF. 
+2. 
+The  Balloki  Barrage  (Barrage)  was  constructed  in  1911-13  to  create  a  level  crossing 
+between  the  Upper  Chenab  Canal  and  the  Lower  Bari  Doab  Canal.  It  underwent  major 
+remodeling  as  part  of  the  Indus  Basin  replacement  works  in  1964-65  to  increase  the  design 
+flows into the LBDC and Balloki Sulemanki Link (B-S Link) as well as the capacity to pass flood 
+flows.  The  Barrage  supplies  water  to  over  1.9  million  hectares.  The  Barrage  needs  major 
+rehabilitation and upgrading for reducing flood and its failure risks. The project will increase the 
+Barrage complex including its spillway flood capacity from 1 in 20 to 1 in 100 years.      
+3. 
+The LBDC was constructed during 1909-12. It has a total length of 201 km. It branches 
+from the Ravi River at Balloki Barrage which is about 75 km south west of Lahore. It serves a 
+gross area of 740,674 hectares and a cultivable command area of 675,667 hectares. Its current 
+sanctioned discharge is 278 cumecs however the canal can only take 244 cumecs due to lesser 
+capacity.  
+A  project  entitled  Lower  Bari  Doab  Canal  Improvement  Project  (LBDCIP)  started  to 
+4. 
+efficiently irrigate the lands of Okara, Sahiwal, Kasur and Khanewal districts in the province of 
+Punjab.  The  purpose  of  LBDCIP  project  is  the  provision  of  additional  canal  water  supplies, 
+reducing  continued  degradation  of  the  LBDC,  limiting  groundwater  recharge,  decline  in 
+watertable, increased pumping and loss of access to water in tail and saline-affected areas 
+5. 
+The  Project  nonphysical  components  includes  (i)  establishment  of  3,779  water  user 
+associations, 52 farmer organizations (FOs) and one Area Water Board (AWB) completing the 
+decentralized farmers’ management structures for operation, maintenance and management of 
+the minor and distributary canals; (ii)  a groundwater modeling study and institutionalization of its 
+recommendations within the PID; and (iii) on-farm demonstration plots with the FOs established.  
+The  proposed  tranche  provides  additional  financing  to  meet  financing  gap  and  cost 
+6. 
+overruns  in  LBDCIP  through  OCR  loan  of  $26.6  million  for  completing  rehabilitation  and 
+upgrade of Branch Canals and Distributary System of all four districts. The expenditure on these 
+items must not change the project’s scope or its impact, outcomes, and outputs. 
+1  This amount comprised (i) up to $890 million equivalent form ADB’s ordinary capital resources; and (ii) up to $10 
+million equivalent in Special Drawing Rights (SDR) from ADB’s special funds resources (ADF). On 15 December 
+2011,  ADB’s  Board of  Directors  approved  an  amendment  to  the  MFF  for  Punjab  Irrigated  Agriculture  Investment 
+Program (PIAIP), which (i) reduced the facility amount to an amount not exceeding the equivalent of $700 million; 
+and (ii) increased the limit on the use of ADF resources for the MFF to an amount not exceeding the equivalent of 
+$280 million. 
+2 
+Impact and Outcome  
+7. 
+Impacts: The impact of the overall project  - increased agricultural production and farm 
+income - will remain unchanged.2 The 10% increase in cropping intensity and farm income will 
+be achieved by 2021 over the baseline of 2006.  
+8. 
+Outcome: The outcome of the project will remain the same, i.e. LBDC command area 
+receives a sustainably improved delivery of water services and management through more than 
+3,500  outlets  receiving  the  design  water  supply  and,  design  discharge  is  diverted  to  the 
+distributary  and  minor  canals  throughout  the  year  by  2016.  The  additional  financing  will  not 
+change the outcome or outcome indicators. 
+Output: The  additional  finance  will  not  change the  result  chain of  outputs.  The  project 
+9. 
+outputs will be (i) operationalized groundwater management plan and conjunctive use strategy 
+for  LBDC, (ii)  established  1  AWBs  and  52  FOs and more  than 3,000 water  user  associations, 
+taking  over  the responsibility  for  operations  of  canal  system,  (iii)  rehabilitated  2,450 km  LBDC 
+and  distribution  canals  in  LBDC  command  area,  and  increased  Balloki  Barrage’s  safe  flood 
+capacity  from  6,400  m3s-1  to  10,700  m3s-1,  based  on  findings  of  the  detail  design  and  model 
+studies,  (iv)  improved  use  of  on-farm  water  management  practices  by  farmers  through  40 
+demonstration plots, and (iv) completed due diligence and approved subsequent tranches under 
+MFF. The details are in the design and monitoring framework (Appendix 1). 
+II. 
+IMPLEMENTATION PLANS 
+A. 
+Project Readiness Activities 
+Indicative Activities 
+Advance Actions 
+June  July  Aug  Sep  Oct  Nov 
+Dec 
+Responsibility 
+Months 
+√ 
+√ 
+√ 
+√ 
+√ 
+Advance contracting actions 
+√ 
+√ 
+Retroactive financing actions 
+ADB's Approval 
+Loan signing 
+Government legal opinion 
+provided 
+Government budget inclusion 
+Loan effectiveness 
+√ 
+PID 
+PID 
+ADB 
+Govt. of Pakistan & ADB 
+Govt. of Pakistan 
+Govt. of Pakistan 
+Govt. of Pakistan & ADB 
+√ 
+√ 
+√ 
+√ 
+√ 
+PID = Punjab irrigation Department; ADB = Asian Development Bank; Govt.=Government . 
+2  Project funded by the original loans under Tranche 1 and additional financing. 
+B. 
+Overall Project Implementation Plan 
+3
+1. Component A: R&U of the Balloki Barrage Complex a2. Component B: R&U of the LBDC Canal Network a2.1 R&U of LBDC Distribution System of Balloki and Okara Division (ICB-04) b2.2 R&U of LBDC Distribution System Sahiwal Division (ICB-05) b2.3 R&U of LBDC Distribution System Khanewal Division2.3.1 R&U Khanewal Division (ICB06A) b2.3.2 R&U Khanewal Division (ICB06B)2.3.3 R&U Other Works of LBDC3. Component C: Groundwater Management4. Component D: On-Farm Water Management and Agriculture5. Component E: Institutional Strengthening and Operation Modernization6. Component F: Punjab Irrigated Agriculture Project Preparation Facility c2.1 Consultancy Services b2.2 PMU  Submission of quarterly progress reportsSubmission of bi-annual/annual reportsSubmission of AFSSubmission of Borrower's PCR (if appropriate)2017R&U = Rehabilitate and Upgrade; PMU=Project Management Unit, LBDC = Lower Bari Doab Canal; ICB = International Competitive Biddinga Implementation of Works. The field survey and design were carried out between 2006-2011b Part of the components will be financed under the exisiting Loan 2299-PAK and addtional financing loan c Financed through Loan 2300-PAK (SF)2014201320122011A. DMF B. Project Management SupportC. Management ActivitiesActivities20152016 
+4 
+III. 
+PROJECT MANAGEMENT ARRANGEMENTS 
+A.  Project Implementation Organizations – Roles and Responsibilities3 
+Executing agency 
+Punjab Irrigation Department 
+Project specific management 
+body (Implementing Agency) 
+Project Management Unit  
+ADB 
+  overall management  
+ 
+timely provision of agreed counterpart funds for project 
+activities and conducting timely financial audits as per 
+agreed timeframe and taking recommended actions;  
+  complying with loan covenants (social, environmental, 
+financial, economic, and others);  
+  ensure the project’s sustainability after implementation 
+and reporting to ADB on the development impacts; 
+  project management and overall project coordination, 
+overseeing day-to-day implementation; 
+  supervise the work of the construction supervision 
+consultants for works, and process payments on all 
+contracts upon receiving certification from the engineer;  
+  ensure that project works are implemented in accordance 
+with the provisions of both the environmental 
+management and land acquisition and resettlement plans;  
+  monitoring and evaluation of project activities and 
+outputs, including periodic review, preparation of review 
+reports reflecting issues and time-bound actions;  
+  maintaining imprest account;  
+  public disclosure of project information;  
+  maintaining strong financial management system and 
+submitting timely withdrawal applications to ADB; and  
+  preparing periodic progress reports, and project 
+completion reports and their timely submission to ADB; 
+  assist the EA and PMU in providing timely guidance for 
+smooth implementation of the project in accordance with 
+the agreements;  
+review all the documents that require ADB’s approval;  
+ 
+  conduct project administration missions;  
+  monitor compliance with loan covenants, social and 
+environmental safeguards and technical and financial 
+requirements;  
+timely process withdrawal applications and release 
+eligible funds;  
+ 
+  ensure compliance with financial audit recommendations;  
+regularly update the project performance review reports 
+ 
+with the assistance of the project management office; and  
+regularly post on ADB’s web the updated project 
+information documents for public disclosure, and also the 
+ 
+3   The  Project  Management  Office  (Barrages)  will  continue  administering  the  PIAPPF  (component  F)  under  Loan 
+2300-PAK  (SF);  the  Directorate  of  On-Farm  Water  Management  has  completed  the  Component  D  under  Loan 
+2299-PAK;  the  Punjab  Irrigation  and  Drainage  Authority  with  support  from  PMU  continue  to  implement  the 
+remaining  activities  of  Component  E  under  Loan  2299-PAK;  in  place  of  the  Irrigation  Management  Unit,  PIDA 
+revised  rule  2010  allows  existing  PID  field  offices  to  assist FOs  in  operational  management  during  a  transitional 
+period until FOs achieve sufficient capacity        
+safeguards documents as per disclosure provision of the 
+ADB’s safeguards policy statement 
+Economic Affairs Division of 
+Ministry of Economic Affairs 
+and Statistics 
+  submitting the periodic financing request  
+  signing the Loan Agreement  
+  endorsing to ADB the authorized staff with approved 
+5 
+Government of Punjab 
+signatures for WAs processing; and  
+processing and submitting to ADB any request as 
+Borrower requiring ADB’s approval 
+  ensure fairness and transparency in loan utilization; 
+  ensure quality and timely completion of the project; 
+  oversee the project implementation progress by the PID 
+and PMU; 
+  ensure timely availability of counterpart funds;  
+  share with ADB major policy related changes in the sector 
+on time; 
+  ensure compliance with resettlement and environmental 
+safeguards implemented as per EPA rules and 
+regulations and ADB safeguard policy 
+Project Steering Committee  
+  ensure timely review of the project twice a year.  
+B.  Key Persons Involved in Implementation 
+Executing Agency 
+Punjab Irrigation Department 
+(PID)  
+Implementing Agency 
+Project Management Unit 
+ADB  
+Country Director  
+Mission Leader 
+Mr. Saif Anjum  
+Secretary, Irrigation Department  
+Government of Punjab, Irrigation Secretariat, Old Anarkali 
+Lahore, Pakistan  
+Telephone No: +9242 99212117-18  
+Email: sec_ipd@yahoo.com 
+Mr. Khalid H. Qureshi 
+Project Director, Project Management Unit, LBDCIP 
+Canal Bank Mustafabad, Lahore 
+Telephone No: +924299250362 
+Email: pd_lbdcip@yahoo.co.uk 
+Werner E. Liepach 
+Country Director, Pakistan Resident Mission 
+Level 8, North Wing, Serena Office Complex 
+Khayaban-e-Suhrawardy, G-5, Islamabad, Pakistan 
+Telephone No: 92-51 260-0351–69 / 208-7300  
+Email: wliepach@adb.org 
+Asad A. Zafar 
+Senior Project Officer (Water Resources),  
+Pakistan Resident Mission, Level 8, North Wing, Serena 
+Office Complex, Khayaban-e-Suhrawardy, G-5, Islamabad, 
+Pakistan 
+Telephone No: 92-51 260-0351–69 / 208-7300  
+Email: asadzafar@adb.org 
+6 
+C. 
+Project Organization Structure  
+ ` Project Management Unit Project Director Director Technical Director Finance Director Environment and Social Safeguards Punjab Irrigation Department Executing Agency Project Steering Committee Chair Planning and Development Board Project Implementation Units Khanewal PIDA Program Management Office Associated with implementation of other components of the Project Associated with implementation of components financed through Additional Financing ` ` Project Implementation Units Sahiwal Project Implementation Units Okara Project Implementation Units Balloki Department of Agriculture  Directorate of On Farm Water Management Office Project Management Office Barrages Punjab Irrigation Department Strategic Planning Cell Legend  
+Detailed Cost Estimates by Expenditure Category for Overall Project 
+IV. 
+COSTS AND FINANCING 
+A. 
+Item 
+A. 
+Investment Costs 
+LBDCIP 
+1. Works 
+2. Equipment and Related Services 
+3. Land Acquisition, Resettlement, Environmental 
+Mitigation, and Surveys 
+4. Consulting Services 
+5. Project Management 
+6. C`apacity Development 
+Sub-Total LBDCIP 
+PIAPPF 
+1. Equipment 
+2. Consulting Services 
+Sub-Total PIAPPF 
+Sub-Total (A) 
+B.  Recurrent Costs 
+LBDCIP 
+Salaries, O&M, Accommodation 
+PIAPPF 
+Salaries, O&M, Accommodation 
+Sub-Total (B) 
+Total Base Cost 
+C.  Contingencies 
+1. Physical 
+2. Price 
+Sub-Total (C) 
+D.  Financing Charges During Implementation d 
+Original 
+Amount 
+2006 a  
+% of Base 
+Cost 
+2015 b  
+Amount  
+Additional 
+Financing c  
+Total 
+% of Base 
+Cost 
+148.4 
+3.4 
+7.3 
+19.4 
+0.0 
+6.5 
+185.0 
+0.7 
+8.2 
+8.9 
+193.9 
+13.3 
+0.5 
+13.8 
+207.7 
+3.4 
+57.6 
+61.0 
+71% 
+2% 
+4% 
+9% 
+0% 
+3% 
+89% 
+0% 
+4% 
+4% 
+93% 
+6% 
+7% 
+100% 
+2% 
+28% 
+29% 
+193.5 
+0.6 
+1.0 
+24.8 
+1.4 
+221.2 
+0.7 
+8.2 
+8.9 
+230.2 
+3.2 
+0.5 
+3.7 
+233.8 
+0.0 
+0.7 
+0.7 
+26.1 
+2.3 
+28.3 
+- 
+28.3 
+- 
+28.3 
+0.9 
+0.3 
+1.3 
+219.6 
+0.6 
+1.0 
+27.1 
+- 
+1.4 
+249.6 
+0.7 
+8.2 
+8.9 
+258.5 
+3.2 
+0.5 
+3.7 
+262.2 
+1.0 
+1.0 
+1.9 
+84% 
+0% 
+0% 
+10% 
+0% 
+1% 
+95% 
+0% 
+3% 
+3% 
+99% 
+1% 
+0% 
+1% 
+100% 
+0% 
+0% 
+1% 
+1. Interest During Implementation 
+2. Commitment Charges 
+Sub-Total (D) 
+2% 
+4% 
+5% 
+Total Project Cost (A+B+C+D) 
+106% 
+LBDC = Lower Bari Doab Canal, LBDCIP = Lower Bari Doab Canal Improvement Project, OFWM = On-Farm Water Management, R&U = rehabilitation and 
+upgrade, PIAPPF= Punjab Irrigated Agriculture Project Preparation Facility; O&M = Operations and Management 
+a The original amount refers to amount approved in 2006. This amount includes $15.5 million in taxes and duties. 
+b This refers to the amount after cancellation, exchange rate fluctuations, expenditures incurred or expected, and contingencies utilized  
+c Includes taxes and duties of $2.63 million to be financed from government resources. The additional financing will be only utilized after the original financing 
+is fully committed and/or utilized 
+Sources: Government of Pakistan. 2015. Punjab Irrigated Agriculture Investment Project 1; Asian Development Bank estimates. 
+4% 
+2% 
+6% 
+135% 
+9.2 
+3.5 
+12.6 
+281.4 
+4.3 
+9.5 
+13.7 
+248.3 
+4.6 
+9.6 
+14.1 
+278.2 
+0.3 
+0.1 
+0.4 
+30.0 
+7
+B. 
+Detailed Cost Estimates by Expenditure Category for LBDCIP 
+8
+Item 
+A. 
+Investment Costs 
+1. Works 
+2. Equipment and Related Services 
+3. Land Acquisition, Resettlement, Environmental Mitigation, and 
+  Surveys 
+4. Consulting Services 
+5. Project Management 
+6. Capacity Development 
+B.  Recurrent Costs 
+Salaries, O&M, Accommodation 
+Total Base Cost 
+C.  Contingencies 
+1. Physical 
+2. Price 
+Sub-Total (C) 
+D.  Financing Charges During Implementation d 
+1. Interest During Implementation 
+2. Commitment Charges 
+Sub-Total (D) 
+Original 
+Amount  
+2006 a 
+% of Base 
+Cost 
+2015 b 
+148.4 
+3.4 
+7.3 
+19.4 
+0.0 
+6.5 
+13.3 
+198.3 
+3.4 
+56.9 
+60.4 
+75% 
+2% 
+4% 
+10% 
+0% 
+3% 
+7% 
+100% 
+2% 
+29% 
+30% 
+193.5 
+0.6 
+1.0 
+24.8 
+1.4 
+3.2 
+224.4 
+- 
+Amount 
+Additional 
+Financing c 
+26.1 
+2.3 
+28.3 
+0.9 
+0.3 
+1.3 
+Total 
+219.6 
+0.6 
+1.0 
+27.1 
+- 
+1.4 
+3.2 
+252.8 
+0.9 
+0.3 
+1.3 
+% of Base 
+Cost 
+87% 
+0% 
+0% 
+11% 
+0% 
+1% 
+1% 
+100% 
+0% 
+0% 
+0% 
+8.9 
+3.5 
+12.4 
+271.1 
+5% 
+2% 
+6% 
+137% 
+4.0 
+9.5 
+13.5 
+237.9 
+0.3 
+0.1 
+0.4 
+30.0 
+4.3 
+9.6 
+13.9 
+267.9 
+2% 
+4% 
+5% 
+106% 
+Total Project Cost (A+B+C+D) 
+O&M = Operations and Management 
+Note:  This does not include Punjab Irrigated Agriculture Project Preparation Facility amounting to $10 million under Loan 2300-PAK (SF) and its corresponding 
+Government’s share as such no additional financing is required for the component financed under Loan 2300-PAK (SF). After the effectiveness of the additional 
+financing, the new (i) ICB-06A contract, and (ii) associated consulting services contract authorized for retroactive financing, will be disbursed under the additional 
+financing. The  additional  financing  will  be  also  disbursed  for  existing  contracts awarded  under  the  original  loan  (L2299-PAK) when  the  allocation  of  the  original 
+loan are not sufficient to finance the contracts. 
+a The original amount refers to amount approved in 2006.  
+b This refers to the amount after cancellation, exchange rate fluctuations, expenditures incurred or expected, and contingencies utilized  
+c Includes taxes and duties of $2.63 million to be financed from government resources. The additional financing will be only utilized after the original financing is 
+fully committed and/or utilized 
+Sources: Government of Pakistan. 2015. Punjab Irrigated Agriculture Investment Project 1; Asian Development Bank estimates.
+C. 
+Allocation and Withdrawal of Loan Proceeds  
+Item 
+  1. Works 
+  2. Equipment and Related Services 
+  3. Land Acquisition, Resettlement, Environmental 
+Mitigation, and Surveys 
+  4. Consulting Services 
+  5. Project Management 
+  6. Capacity Development 
+  7. Interest and Commitment Charges 
+  8. Recurrent Costs 
+  9. Unallocated 
+Total 
+Original a 
+Allocation 
+Amount $ 
+176,060,393 
+1,648,259 
+641,486 
+18,716,153 
+25,197 
+4,957,281 
+12,404,405 
+2,783,837 
+562,989 
+ADB 
+Financing 
+% 
+90 
+41 
+7 
+82 
+100 
+59 
+100 
+16 
+2015 b 
+Allocation 
+Amount $ 
+Additional 
+Financing  
+  Allocation 
+Amount $ 
+ADB Financing  
+% 
+174,170,537 
+23,457,000 
+90% of the expenditure claimed 
+180,000 
+66,604 
+19,740,000 
+1,713,000 
+100% of the expenditure claimed c 
+800,000 
+13,500,000 
+400,000 
+100% of the amounts due 
+1,000,000 
+217,800,000 
+208,457,141 
+26,570,000 
+Note:  This does not include Punjab Irrigated Agriculture Project Preparation Facility amounting to $10 million under Loan 2300-PAK (SF) and its corresponding 
+Government’s share as such no additional financing is required for the component financed under Loan 2300-PAK (SF). After the effectiveness of the additional 
+financing, the new (i) ICB-06A contract, and (ii) associated consulting services contract authorized for retroactive financing, will be disbursed under the additional 
+financing. The  additional  financing  will  be  also  disbursed  for  existing  contracts awarded  under  the  original  loan  (L2299-PAK) when  the  allocation  of  the  original 
+loan are not sufficient to finance the contracts. 
+a The original amount refers to amount approved in 2006.  
+b  This  refers  to  the  amount  after  cancellation,  exchange  rate  fluctuations,  expenditures  incurred  or  expected,  and  contingencies  utilized.  The  allocation  will  be 
+revised upon approval of the additional financing. 
+c Exclusive of taxes and duties    
+Sources: Government of Pakistan. 2015. Punjab Irrigated Agriculture Investment Project 1; Asian Development Bank estimates. 
+9
+10 
+D. 
+Detailed Cost Estimates by Financier 
+Overall LBDCIP in 2006 
+Item 
+A. Investment Costs 
+1. Works 
+2. Equipment and Related Services 
+3. Land Acquisition, Resettlement, Environmental 
+Mitigation, and Surveys 
+4. Consulting Services 
+5. Project Management  
+6. Capacity Development 
+            Sub-Total (A) 
+B. Recurrent Costs 
+   Total Base Cost 
+C. Contingencies 
+D. Financing Charges During Implementation  
+Total Project Cost (A+B+C+D) 
+Original a 
+ADB OCR 
+Amount  % of 
+Cost 
+Category 
+Government 
+Total 
+Amount  % of 
+Cost 
+Category 
+133.6 
+1.4 
+0.5 
+15.9 
+0.0 
+3.8 
+155.2 
+2.1 
+90% 
+41% 
+7% 
+82% 
+100% 
+59% 
+84% 
+16% 
+157.3 
+79% 
+48.1 
+80% 
+14.8 
+2.0 
+6.8 
+3.5 
+0.0 
+2.7 
+29.8 
+11.2 
+41.0 
+12.3 
+10% 
+59% 
+93% 
+18% 
+41% 
+16% 
+84% 
+148.4 
+3.4 
+7.3 
+19.4 
+0.0 
+6.5 
+185.0 
+13.3 
+21% 
+198.3 
+20% 
+60.4 
+12.4 
+100% 
+0% 
+12.4 
+217.8 
+80% 
+53.3 
+20% 
+271.1 
+80% 
+20% 
+Note: This does not include Punjab Irrigated Agriculture Project Preparation Facility amounting to $10 million under 
+Loan 2300-PAK (SF) and its corresponding Government’s share as such no additional financing is required for the 
+component financed under Loan 2300-PAK (SF). After the effectiveness of the additional financing, the new (i) ICB-
+06A  contract,  and  (ii)  associated  consulting services  contract  authorized  for  retroactive  financing,  will  be  disbursed 
+under  the  additional  financing.  The  additional  financing  will be  also  disbursed  for  existing  contracts  awarded  under 
+the original loan (L2299-PAK) when the allocation of the original loan are not sufficient to finance the contracts. 
+a The original amount refers to amount approved in 2006.  
+Sources: Government of Pakistan. 2015. Punjab Irrigated Agriculture Investment Project 1. 
+E. 
+Detailed Cost Estimates by Financier for Additional Financing 
+Item 
+ADB OCR 
+Amount  % of Cost 
+Category 
+Government 
+Amount  % of Cost 
+Category 
+Total 
+ADB OCR 
+Amount  % of Cost 
+Category 
+Government 
+Amount  % of Cost 
+Category 
+Total 
+ADB OCR 
+Amount  % of Cost 
+Category 
+Government 
+Amount  % of Cost 
+Category 
+Amount 2015 a 
+Additional Financing b 
+Total 
+Total 
+A. Investment 
+Costs 
+1. Works 
+2. Equipment and 
+Related Services 
+3. Land 
+Acquisition, 
+Resettlement, 
+Environmental 
+Mitigation, and 
+Surveys 
+4. Consulting 
+Services 
+5. Project 
+Management 
+6. Capacity 
+Development 
+174.2 
+    0.2 
+90% 
+  31% 
+19.4 
+  0.4 
+10% 
+  69% 
+193.5 
+    0.6 
+23.46 
+  0.00 
+90% 
+  0% 
+2.6 
+0.0 
+10% 
+  0% 
+26.1 
+  0.0 
+197.6 
+    0.2 
+90% 
+  31% 
+22.0 
+ 0.4 
+10% 
+ 69% 
+219.6 
+    0.6 
+  0.1 
+  7% 
+ 0.9 
+ 93% 
+   1.0 
+  0.00 
+ 0% 
+0.0 
+ 0% 
+  0.0 
+    0.1 
+  7% 
+ 0.9 
+93% 
+    1.0 
+19.7 
+80% 
+5.1 
+20% 
+24.8 
+ 1.71 
+76% 
+0.5 
+24% 
+ 2.3 
+21.5 
+79% 
+5.6 
+21% 
+27.1 
+0.0 
+0% 
+0.0 
+0% 
+0.0 
+0.00 
+0% 
+0.0 
+0% 
+0.0 
+0.0 
+0% 
+0.0 
+0% 
+0.0 
+ 0.8 
+58% 
+  0.6 
+42% 
+1.4 
+0.00 
+0% 
+0.0 
+0% 
+0.0 
+0.8 
+58% 
+0.6 
+42% 
+1.4 
+Sub-Total (A) 
+195.0 
+88% 
+ 26.3 
+12% 
+221.2 
+25.17 
+89% 
+0.0 
+195.0 
+0.0 
+13.5 
+0% 
+87% 
+0% 
+100% 
+  3.2 
+29.5 
+0.0 
+0.0 
+100% 
+13% 
+0% 
+0% 
+3.2 
+224.4 
+0.0 
+13.5 
+0.00 
+25.17 
+1.00 
+0.40 
+0% 
+89% 
+80% 
+100% 
+3.1 
+0.0 
+3.1 
+0.3 
+0.0 
+11% 
+28.3 
+220.1 
+88% 
+29.4 
+12% 
+249.6 
+0% 
+11% 
+20% 
+0% 
+0.0 
+28.3 
+1.3 
+0.4 
+0.0 
+220.1 
+1.0 
+13.9 
+0% 
+87% 
+80% 
+100% 
+3.2 
+32.6 
+0.3 
+0.0 
+100% 
+13% 
+20% 
+0% 
+3.2 
+252.8 
+1.3 
+13.9 
+208.5 
+88% 
+29.5 
+12% 
+237.9 
+26.57 
+89% 
+3.4 
+11% 
+30.0 
+235.0 
+88% 
+32.9 
+12% 
+267.9 
+88% 
+12% 
+89% 
+11% 
+88% 
+12% 
+Note:  This does not include Punjab Irrigated Agriculture Project Preparation Facility amounting to $10 million under Loan 2300-PAK (SF) and its corresponding 
+Government’s share as such no additional financing is required for the component financed under Loan 2300-PAK (SF). After the effectiveness of the additional 
+financing, the new (i) ICB-06A contract, and (ii) associated consulting services contract authorized for retroactive financing, will be disbursed under the additional 
+financing.  The additional  financing  will  be  also  disbursed  for  existing contracts awarded  under  the original  loan  (L2299-PAK) when  the allocation  of  the  original 
+loan are not sufficient to finance the contracts. 
+a The original amount refers to amount approved in 2006.  
+b  This  refers  to  the  amount  after  cancellation,  exchange  rate  fluctuations,  expenditures  incurred  or  expected,  and  contingencies  utilized.  The  allocation  will  be 
+revised upon approval of the additional financing. 
+c Exclusive of taxes and duties 
+1
+1
+B. Recurrent Costs 
+Total Base Cost 
+C. Contingencies 
+D. Financing 
+Charges During 
+Implementation 
+Total Project Cost 
+(A+B+C+D) 
+F. 
+Detailed Cost Estimates by Outputs/Components  
+Overall LBDCIP in 2006 
+Item 
+R&U of the 
+Balloki Barrage 
+Complex 
+R&U of the LBDC 
+Distribution Network 
+Groundwater 
+Management 
+Original a 
+OFWM and 
+Agriculture 
+Amount  % of Cost 
+Category 
+Amount  % of Cost 
+Category 
+Amount  % of 
+Cost 
+Category 
+Amount  % of 
+Cost 
+Category 
+A. Investment Costs 
+1. Works 
+2. Equipment and Related Services 
+3. Land Acquisition, Resettlement, 
+Environmental Mitigation, and 
+Surveys 
+4. Consulting Services 
+5. Project Management  
+6. Capacity Development 
+   Sub-Total (A) 
+B. Recurrent Costs 
+   Total Base Cost 
+17.7 
+0.2 
+12% 
+7% 
+130.7 
+0.4 
+88% 
+12% 
+0.0 
+0.2 
+0% 
+5% 
+0.0 
+0.4 
+0% 
+13% 
+0.5 
+7% 
+6.1 
+83% 
+0.6 
+9% 
+0.0 
+0% 
+2.1 
+0.0 
+0.0 
+20.5 
+1.4 
+21.9 
+11% 
+0% 
+0% 
+11% 
+11% 
+11% 
+9.1 
+0.0 
+0.0 
+146.3 
+0.5 
+146.9 
+47% 
+0% 
+0% 
+79% 
+4% 
+74% 
+1.7 
+0.0 
+0.1 
+2.6 
+0.1 
+2.6 
+9% 
+0% 
+1% 
+1% 
+1% 
+1% 
+1.2 
+0.0 
+3.7 
+5.3 
+1.2 
+6.5 
+6% 
+0% 
+57% 
+3% 
+9% 
+3% 
+1
+2
+Project 
+Management 
+Total 
+Amount  % of 
+Cost 
+Category 
+Amount  % of Cost 
+Category 
+Institutional 
+Strengthening 
+and Operation 
+Modernization 
+Amount  % of Cost 
+Category 
+0.0 
+1.4 
+0.0 
+2.2 
+0.0 
+2.6 
+6.2 
+4.7 
+10.9 
+0% 
+40% 
+0.0 
+0.8 
+0% 
+23% 
+148.4 
+3.4 
+55% 
+1% 
+0% 
+0.1 
+1% 
+7.3 
+3% 
+11% 
+0% 
+40% 
+3% 
+35% 
+5% 
+3.0 
+0.0 
+0.2 
+4.1 
+5.4 
+9.5 
+16% 
+100% 
+2% 
+2% 
+41% 
+5% 
+19.4 
+0.0 
+6.5 
+185.0 
+13.3 
+198.3 
+60.4 
+7% 
+0% 
+2% 
+68% 
+5% 
+73% 
+22% 
+12.4 
+5% 
+C. Contingencies 
+Financing 
+Implementation  
+Charges 
+During 
+21.9 
+D. 
+2.6 
+Total Project Cost (A+B+C+D) 
+Note:  This does not include Punjab Irrigated Agriculture Project Preparation Facility amounting to $10 million under Loan 2300-PAK (SF) and its corresponding 
+Government’s share as such no additional financing is required for the component financed under Loan 2300-PAK (SF). After the effectiveness of the additional 
+financing, the new (i) ICB-06A contract, and (ii) associated consulting services contract authorized for retroactive financing, will be disbursed under the additional 
+financing.  The additional  financing  will  be  also  disbursed  for  existing contracts awarded  under  the original  loan  (L2299-PAK) when  the allocation  of  the  original 
+loan are not sufficient to finance the contracts.. 
+a The original amount refers to amount approved in 2006.  
+Sources: Government of Pakistan. 2015. Punjab Irrigated Agriculture Investment Project 1; Asian Development Bank estimates. 
+100% 
+271.1 
+146.9 
+54% 
+10.9 
+4% 
+8% 
+2% 
+3% 
+1% 
+9.5 
+6.5 
+G. 
+Detail Cost Estimates by Outputs/Components for Additional Financing  
+R&U of the Balloki 
+Barrage Complex 
+R&U of the LBDC 
+Distribution Network 
+Groundwater 
+Management 
+OFWM and 
+Agriculture 
+Rev. 
+AF 
+Total 
+Rev. 
+AF 
+Total 
+Rev. 
+AF 
+Total 
+Rev. 
+AF 
+Total 
+Items 
+A. Investment 
+Costs 
+Institutional 
+Strengthening and 
+Operation 
+Modernization 
+AF 
+Rev. 
+Total 
+Project 
+Management 
+Total 
+Rev. 
+AF 
+Total 
+Rev. 
+AF 
+Total 
+% 
+1.  Works 
+22.9 
+22.9  170.7  26.1  196.7 
+193.5  26.1  219.6 
+82.0% 
+2.  Equipment 
+and Related 
+Services 
+0.1 
+0.1 
+0.5 
+0.5 
+0.6 
+0.6 
+0.2% 
+3.  Land 
+0.4 
+0.4 
+0.5 
+0.5 
+1.0 
+1.0 
+0.4% 
+Acquisition, 
+Resettlement, 
+Environmental 
+Mitigation, 
+and Surveys 
+4.  Consulting 
+Services 
+5.  Project 
+Management 
+6.  Capacity 
+Development 
+Sub-Total (A) 
+B. Recurrent 
+Costs 
+2.7 
+2.7 
+15.4 
+1.9 
+17.3 
+1.4 
+1.4 
+1.2 
+1.2 
+0.4 
+0.4 
+3.8 
+0.3 
+4.2 
+24.8 
+2.3 
+27.1 
+10.1% 
+0.0 
+0.0 
+0.0% 
+25.9 
+0.1 
+25.9  186.6  28.0  214.5 
+1.4 
+1.4 
+0.1 
+0.6 
+1.8 
+0.3 
+0.6 
+0.2 
+0.2 
+0.6 
+0.6 
+1.4 
+1.4 
+0.5% 
+1.8 
+0.3 
+0.7 
+0.8 
+0.7 
+0.8 
+5.0 
+2.0 
+0.3 
+5.3 
+221.2  28.3  249.6 
+93.2% 
+2.0 
+3.2 
+3.2 
+1.2% 
+Total Base Cost 
+26.0 
+26.0  186.6  28.0  214.5 
+1.4 
+1.4 
+2.1 
+2.1 
+1.4 
+1.4 
+7.0 
+0.3 
+7.3 
+224.4  28.3  252.8 
+94.3% 
+C. Contingencies 
+D. Financing 
+Charges During 
+Implementation 
+1.3 
+0.4 
+1.3 
+0.5% 
+13.9 
+5.2% 
+13.5 
+1.4 
+26.0 
+26.0  186.6  28.0  214.5 
+Total Project 
+Cost (A+B+C+D) 
+Rev. = Revised Amount in 2015; AF = Additional Financing;  
+Note:  This does not include Punjab Irrigated Agriculture Project Preparation Facility  amounting to $10 million under Loan 2300-PAK (SF) and its corresponding 
+Government’s share as such no additional financing is required for the component financed under Loan 2300-PAK (SF). After the effectiveness of the additional 
+financing, the new (i) ICB-06A contract, and (ii) associated consulting services contract authorized for retroactive financing, will be disbursed under the additional 
+financing.  The additional  financing  will  be  also  disbursed  for  existing contracts awarded  under  the original  loan  (L2299-PAK) when  the allocation  of  the  original 
+loan are not sufficient to finance the contracts. 
+Sources: Government of Pakistan. 2015. Punjab Irrigated Agriculture Investment Project 1; Asian Development Bank estimates. 
+237.9  30.0  267.9  100.0% 
+2.1 
+1.4 
+7.3 
+2.1 
+7.0 
+0.3 
+1.4 
+1.4 
+1
+3
+H. 
+Detailed Cost Estimates by Year 
+Revised Amount 
+Items 
+1  Works 
+2  Equipment and Related Services 
+3  Land Acquisition, Resettlement, 
+Environmental Mitigation, and Surveys 
+4  Consulting Services 
+5  Project Management  
+6  Capacity Development 
+7  Financing Charges During 
+Implementation  
+   Recurrent Costs 
+8  Contingencies 
+   Total 
+2007 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.1 
+2008 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.5 
+2009 
+0.0 
+0.0 
+0.0 
+1.1 
+0.0 
+1.2 
+2010 
+1.3 
+0.1 
+0.0 
+1.7 
+0.0 
+2.0 
+2011 
+16.3 
+0.1 
+0.0 
+2.3 
+0.0 
+2.2 
+2012 
+31.3 
+0.0 
+0.0 
+2.7 
+0.2 
+1.8 
+2013 
+33.5 
+0.0 
+0.0 
+2.8 
+0.1 
+1.3 
+2014 
+30.3 
+0.0 
+0.0 
+2.8 
+0.0 
+1.1 
+0.1 
+3.0 
+0.5 
+1.8 
+2015 
+19.0 
+2016 
+42.3 
+0.1 
+0.0% 
+5.1 
+2.4% 
+Note:  This does not include Punjab Irrigated Agriculture Project Preparation Facility amounting to $10 million under Loan 2300-PAK (SF) and its corresponding 
+Government’s share as such no additional financing is required for the component financed under Loan 2300-PAK (SF). After the effectiveness of the additional 
+financing, the new (i) ICB-06A contract, and (ii) associated consulting services contract authorized for retroactive financing, will be disbursed under the additional 
+financing.  The additional  financing  will  be  also  disbursed  for  existing contracts awarded  under  the original  loan  (L2299-PAK) when  the allocation  of  the  original 
+loan are not sufficient to finance the contracts. 
+Sources: Government of Pakistan. 2015. Punjab Irrigated Agriculture Investment Project 1; Asian Development Bank estimates. 
+24.4 
+11.7% 
+20.8 
+10.0% 
+36.1 
+17.3% 
+37.7 
+18.1% 
+34.2 
+16.4% 
+47.3 
+22.7% 
+0.5 
+0.2% 
+2.3 
+1.1% 
+1
+4
+Grand Total 
+174.0 
+0.2 
+0.1 
+3.4 
+1.6 
+19.7 
+0.0 
+0.8 
+13.6 
+0.0 
+0.0 
+208.4 
+100% 
+Additional Financing 
+Item 
+1  Works 
+2  Consulting Services 
+3  Financing Charges During Implementation  
+4  Contingencies 
+   Total 
+2015 
+2016 
+2017 
+21.5 
+1.7 
+0.3 
+23.5 
+88% 
+2 
+0.1 
+1 
+3.1 
+12% 
+Grand 
+Total 
+23.5 
+1.7 
+0.4 
+1.0 
+26.6 
+100% 
+I. 
+Contract and Disbursement S-curve  
+10. 
+Graph(s)  show  contract  awards  and  disbursement  over  the  life  of  the  project 
+including  original  project  Loan  2299-PAK,  Loan  2300-PAK  (SF)  and  additional  financing,  and 
+annually based on the contract awards and disbursement projections. 
+15 
+11. 
+PAK, Loan 2300-PAK (SF) and additional financing is given in the following table:  
+The  cumulative  contract  award  and  disbursements  in  original  project  Loan  2299-
+CONTRACT AWARDS 
+DISBURSEMENTS 
+Year 
+Q1 
+Q2 
+Q3 
+Q4 
+TOTAL 
+Year 
+Q1 
+Q2 
+Q3 
+Q4 
+TOTAL 
+2007 
+0.000 
+0.000 
+0.000 
+0.000 
+0.000 
+2007 
+0.000 
+0.000 
+0.000 
+0.100 
+2008 
+0.000 
+0.000 
+16.410 
+0.000 
+16.410 
+2008 
+0.000 
+0.000 
+0.000 
+0.500 
+2009 
+0.000 
+0.000 
+0.000 
+2010 
+6.499 
+0.022 
+0.004 
+2011  52.912  28.173 
+0.000 
+8.000 
+2.307 
+0.030 
+8.000 
+2009 
+0.000 
+0.000 
+0.000 
+2.300 
+8.832 
+2010 
+0.000 
+0.000 
+0.000 
+6.809 
+81.115 
+2011 
+3.260 
+7.651 
+5.143 
+5.757 
+21.812 
+0.100 
+0.500 
+2.300 
+6.809 
+2012  36.987 
+0.000 
+0.000 
+45.348 
+82.335 
+2012  10.123 
+9.504 
+5.923 
+12.400 
+37.950 
+2013 
+0.089 
+0.000 
+19.005 
+0.000 
+19.094 
+2013 
+7.775 
+14.698 
+6.560 
+10.145 
+39.178 
+2014 
+0.023 
+0.000 
+0.000 
+0.000 
+0.023 
+2014 
+9.414 
+6.642 
+9.435 
+13.548 
+39.039 
+2015 
+0.007 
+0.000 
+0.000 
+12.152 
+12.159 
+2015 
+5.300 
+3.105 
+6.441 
+7.000 
+21.846 
+2016 
+0.000 
+0.000 
+0.000 
+1.737 
+1.737 
+2016  12.200  17.170  17.578 
+16.800 
+63.748 
+2017 
+7.380 
+3.600 
+0.000 
+0.000 
+10.980 
+TOTAL 
+229.705 
+TOTAL  244.261 
+1
+3
+016243311419721621622823023001310326910714616823224305010015020025020072008200920102011201220132014201520162017Overall Contract Award and Disbursement Contract AwardDisbursement 
+16 
+J. 
+Fund Flow Diagram 
+Borrower 
+Economic Affairs Division 
+(EAD) 
+On-lent to Punjab  
+Direct Payment 
+Punjab Government 
+Reimbursements 
+ADB 
+Direct 
+Payments 
+Counterpart 
+Funds 
+Imprest Account 
+Advance and 
+Replenishments 
+        EA 
+PMU Imprest 
+Account 
+-  Contractors 
+-  Consultants 
+-  Suppliers 
+Flow of funds 
+Lending 
+Loan repayment 
+Withdrawal 
+Application/Invoice 
+17 
+V. 
+FINANCIAL MANAGEMENT 
+12. 
+Financial  management  assessment  has  been  conducted  for  the  EA  and  IAs  of  the 
+Punjab  Government  in  accordance  with  ADB’s  Guidelines  for  the  Financial  Management  and 
+Analysis  of  Projects4  and  A  Methodology  Note  on  Financial  Due  Diligence5.  Key  findings  are 
+given below.   
+A. 
+Financial Management Assessment 
+13. 
+Financial  Management  Assessment  is  based  on  ADB’s  experience  with  the  EA 
+implementing  Loan  No.  2299-PAK  since  2007.  The  EA  has  considerable  experience  in 
+implementing  ADB  Project  and  during  this  period  ADB  did  not  find  any  major  disbursement 
+issues  under  the  loan.  In  order  to  have  an  updated  assessment,  a  Statement  of  Expenditure 
+(SOE)  and  Financial  Management  Assessment  review  according  to  CTLA  guidelines  was 
+conducted  in  September  2015.  Key  findings  are  given  in  the  table  below.  In  summary,  the 
+maintenance of accounting records and financial reporting are adequate. No major audit issues 
+were  noted  since  Loan  No.  2299-PAK  start-up.  The  only  significant  shortcoming  is  lack  of 
+internal audit unit, the EA has assured to liaise with line department to operationalize an internal 
+audit unit prior to project start-up. ADB will follow up to ensure that the internal audit unit is in 
+place within the year. 
+Summary of Financial Management Internal Control and Risk Assessment 
+Risk Type 
+1. Country- 
+Specific Risks 
+Risk 
+Assessment 
+M 
+2. Entity- 
+Specific Risks  
+3. Project 
+Specific Risks 
+Control Risk 
+1. Executing and 
+implementing 
+agencies 
+L 
+L 
+M 
+Risk Description 
+Risk Mitigation Measures 
+No significant budgetary or 
+financial management issues 
+are evident related to 
+allocations, releases and 
+accounting of Development 
+Budget.  
+No major issues were noted 
+The project locations 
+requiring rehabilitation works 
+are geographically scattered 
+The EA has good experience 
+in implementing ADB Loan 
+No. 2299-PAK 
+The National Accounting, 
+development budget system, 
+financial controls and auditing 
+procedures are adequate in the 
+country 
+The EA has considerable 
+experience in implementing ADB’s 
+project. No major issues noted in 
+implementation. 
+Payments will be made from by the 
+PMU and there will be no second 
+generation imprest account. Tested 
+procedures under Loan No. 2299-
+PAK will be followed which have no 
+issue. 
+On-going review of the PMU is 
+satisfactory. PMU staff has 5-7 
+years experience with ADB 
+procedures and requirements. 
+Same EA and PMU will implement. 
+If needed, staff capacity shall be 
+ADB. 
+2005. 
+4 
+at:http://www.adb.org/Documents/Guidelines/Financial/default.asp. 
+5 ADB. 2009. Financial Due Diligence: A Methodology Note. Manila. Available at: 
+http://www.adb.org/Documents/Others/FM-toolkit/Methodology-Note.pdf 
+Management 
+Financial 
+Analysis 
+and 
+of 
+Projects. 
+Manila. 
+Available 
+1
+3
+18 
+Risk Type 
+Risk 
+Assessment 
+2. Funds Flow 
+L 
+Risk Description 
+Risk Mitigation Measures 
+The loan proceeds will be 
+disbursed in accordance with 
+ADB’s Loan Disbursement 
+Handbook and there is little 
+risk foreseen. 
+built by ADB 
+A rule based mechanism for fund 
+flow is available and governed 
+under rules of the Ministry of 
+Finance: 
+-  Imprest Accounts shall be used 
+for ADB share only  
+-  Assignment Accounts shall be 
+used for GOPb counterpart 
+funding by EA  
+-  Direct payment procedure shall be 
+used for large value payments or 
+payments which require 
+disbursement in foreign currency 
+-  Reimbursement procedure shall 
+be used for retroactive financing 
+of eligible works in Punjab 
+The PMU has a qualified and 
+experienced staff with 5-7 years of 
+experience with ADB procedures 
+and requirements. Adequately 
+staffed PMU to be a condition 
+precedent for loan disbursements   
+Accounting standards and practices 
+are based on Pakistan National 
+Accounting Standards which are in 
+compliance with International 
+Accounting Standards.   The EA is 
+using the National systems and 
+procedures, and no major issues 
+are noted 
+The PMU has assured to liaise with 
+the line department and Project 
+Management Office (implementing 
+Loan Nos. 2841-PAK(SF) and 
+2971-PAK) to operationalize an 
+internal audit unit. ADB will follow-
+up to ensure that the unit is in place 
+within the year. 
+ADB works closely with the AGP to 
+ensure timely submission of audited 
+project accounts. AGP staff has 
+been trained to ensure that ADB 
+requirements are met.    
+ADB is working with all EAs to 
+improve the quality of project 
+financial statements so that all 
+essential financial information is 
+suitably disclosed.  EA of the 
+Project shall also be trained 
+3. Staffing 
+4. Accounting 
+Policies and 
+Procedures 
+L 
+N 
+Existing PMU Finance and 
+accounts staff under Loan 
+No. 2299-PAK will be 
+assigned for the financial 
+management of the Project. 
+Implementation of given rules 
+is important 
+5. Internal Audit 
+H 
+6. External Audit 
+N 
+7. Reporting and 
+Monitoring 
+M 
+Internal Audit unit is non-
+operational. 
+Internal audit functions are 
+mainly perceived and limited 
+to pre-audit of payments. 
+The Department of Auditor 
+General of Pakistan (AGP) 
+shall conduct Audit and 
+submit separate Audited 
+Project Financial Statements 
+within the due date for the 
+EA. 
+Quality of project financial 
+statements is an issue which 
+needs to be addressed 
+19 
+Risk Type 
+8. Information 
+System 
+Risk 
+Assessment 
+N 
+Risk Description 
+Risk Mitigation Measures 
+Existing accounting systems 
+and procedures are 
+adequate. 
+The EA shall be mandated to have 
+its own standalone computerized 
+accounting package. 
+Overall  Risk 
+* H = High, S = Substantial, M = Moderate, N = Negligible or Low; GoPb= Government of Punjab 
+M 
+B. 
+Disbursement 
+14. 
+The  Loan  proceeds  will  be  disbursed  in  accordance  with  ADB’s  Loan  Disbursement 
+Handbook  (2015,  as  amended  from  time  to  time),  and  detailed  arrangements  agreed  upon 
+between  the  Government  and  ADB.6  Online  training  for  project  staff  on  disbursement  policies 
+and  procedures  is  available.  The  project  staff  is  encouraged  to  avail  of  this  training  to  help 
+ensure efficient disbursement and fiduciary control.7 In order to ensure separate accounting and 
+financial reporting, the EA shall request for the borrower’s authorization to withdraw funds from 
+the loan account to meet expenditure under the respective loan components.   
+15. 
+Reimbursement  procedure  shall  be  used  eligible  expenditure  under  the  Project.  
+Disbursement  from  the  loan  account  under  all  claims  will  be  made  by  ADB  after  loan 
+effectiveness to the Non-food Account-1 of Punjab upon submission of a withdrawal application 
+and Statement of Expenditure forms.   
+16. 
+Direct  payment  procedure  will  be  used  for  large  value  payments,  or  payments  which 
+require disbursement in a foreign currency for civil works contracts, procurement of equipment 
+and for consulting services. 
+17. 
+Immediately after loan effectiveness, the EA will open imprest accounts at the National 
+Bank  of  Pakistan  branch  in  Lahore  in  accordance  with  Finance  Division  Procedures.8  The 
+imprest  account  is  to  be  used  exclusively  for  ADB’s  share  of  eligible  expenditures.  Imprest 
+accounts  will  be  established,  managed,  and  liquidated  in  accordance  with  ADB’s  Loan 
+Disbursement Handbook and detailed arrangements agreed by the Government and ADB. The 
+currency  of  the  imprest  account  will  be  US  Dollar.  ADB’s  Loan  Disbursement  Handbook 
+describes  which  supporting  documents  should  be  submitted  to  ADB  and  which  should  be 
+retained by the EA for liquidation and replenishment of  imprest account. The request for initial 
+advance to the  imprest account  should  be  accompanied  by  an  Estimate  of  Expenditure  Sheet 
+setting  out  the  estimated  expenditures  for  the  first  six  (6)  months  of  project  implementation.9  
+The total outstanding advance to the imprest account should not exceed the estimate of ADB’s 
+share of expenditures to be paid through the imprest account for the forthcoming 6 months. For 
+every liquidation and replenishment request of the imprest  account, the EA will furnish to ADB 
+(a)  Statement  of  Account  (Bank  Statement)  where  the  imprest  account  is  maintained,  and  (b) 
+the  Imprest  Account  Reconciliation  Statement  (IARS)  reconciling  the  above  mentioned  bank 
+statement against the EA’s records.10  
+The  EA  will  be  responsible  to  prepare the  annual  budget requests  to  ensure  adequate 
+18. 
+budgetary  provisions  are  there  for  Project  financing  and  to  ensure  adequate  counterpart 
+6   Available at: http://www.adb.org/Documents/Handbooks/Loan_Disbursement/loan-disbursement-final.pdf 
+7   http://wpqr4.adb.org/disbursement_elearning. 
+8  Any bank charges will be financed from the loan, in line with OM H3 requirement. 
+9   Available in Appendix 29 of the Loan Disbursement Handbook. 
+10  Follow the format provided in Appendix 30 of the Loan Disbursement Handbook. 
+1
+3
+20 
+funding.  The  statement  of  expenditure  (SOE)  procedure  will  be  used  to  reimburse  eligible 
+expenditure  and  to  liquidate  and  replenish  the  imprest  account.    SOE  records  should  be 
+maintained  by  EA,  and  made  readily  available  for  review  by  ADB's  disbursement  and  review 
+mission  or  upon  ADB's  request  for  submission  of  supporting  documents  on  a  sampling  basis, 
+and for independent audit.11 
+19. 
+Before  the  submission  of  the  first  withdrawal  application  (WA),  the  EA  should  submit, 
+through the borrower (EAD), to ADB sufficient evidence of the authority of the person(s) who will 
+sign the WAs on behalf of the borrower, together with the authenticated specimen signatures of 
+each  authorized  person.  The  minimum  value  per  each  WA  shall  be  US$100,000  equivalent. 
+Individual payments below this amount should be paid (i) by the EA and subsequently claimed 
+to  ADB  through  reimbursement,  or  (ii)  through  the  imprest  fund  procedure,  unless  otherwise 
+accepted by ADB.  
+C. 
+Accounting  
+The  EA  will  maintain  separate  books  and  records  for  all  expenditures  incurred  on  the 
+20. 
+project. The EA will prepare project financial statements in  accordance with financial reporting 
+standards  acceptable  to  ADB  and  in  accordance  with  the  Government’s  new  Accounting 
+Manual,  the  Government's  accounting  laws  and  regulations  which  are  consistent  with 
+international accounting principles and practices.    
+D. 
+Auditing and Public Disclosure 
+The EA will cause the project accounts and project financial statements to be audited in 
+21. 
+accordance  with  International  Standards  on  Auditing  and  in  accordance  with  the  audit 
+regulations and procedures of the Department of the Auditor General of Pakistan. 
+The    annual  audit  report  for  the  project  accounts  will  include  audited  project  financial 
+22. 
+statements, an audit management letter and audit opinions which cover (i) whether the project 
+financial statements present a true and fair view or are presented fairly; in all material respects, 
+in accordance with the applicable financial reporting framework; (ii) whether loan proceeds were 
+used only  for the  purposes of  the  project  or  not; (iii)  the  level  of  compliance for  each financial 
+covenant  contained  in  the  legal  agreements  for  the  project;  (iv)  use  of  the  imprest  fund 
+procedure; and (v) the use of the statement of expenditure procedure certifying to the eligibility 
+of those expenditures claimed under SOE procedures, and proper use of the SOE and imprest 
+procedures  in  accordance  with  ADB’s  Loan  Disbursement  Handbook  and  the  project 
+documents.  As  part  of  each  such  audit,  the  auditors  will  prepare  a  report,  which  includes  the 
+auditors’  opinion  on  the  financial  statements  and  the  use  of  the  proceeds  of  the  Ordinary 
+Operations Loan, Special Operations Loan and Additional Financing Loan, and a management 
+letter (which sets out the deficiencies in the internal control of the Project that were identified in 
+the course of the audit, if any).  
+23. 
+The  EA  will  furnish  to ADB,  no  later  than  6 months  after  the  close  of  the fiscal  year  to 
+which  they  relate,  copies  of  such  audited  financial  statements,  audit  report  and  management 
+11  Checklist 
+for 
+SOE 
+procedures 
+and 
+formats 
+are 
+available 
+at: 
+http://www.adb.org/documents/handbooks/loan_disbursement/chap-09.pdf 
+http://www.adb.org/documents/handbooks/loan_disbursement/SOE-Contracts-100-Below.xls 
+http://www.adb.org/documents/handbooks/loan_disbursement/SOE-Contracts-Over-100.xls 
+http://www.adb.org/documents/handbooks/loan_disbursement/SOE-Operating-Costs.xls 
+http://www.adb.org/documents/handbooks/loan_disbursement/SOE-Free-Format.xls 
+21 
+letter, all in the English language, and such other information concerning these documents and 
+the audit thereof as ADB shall from time to time reasonably request.  
+24. 
+Separate Audited Project Financial Statements will be due from the EA. Project Financial 
+Statements  will  be  audited  by  the  Director  General  Audit  (Works),  Punjab.  Compliance  with 
+financial  reporting  and  auditing  requirements  will  be  monitored  by  review  missions  and  during 
+normal project supervision, and followed up regularly with all concerned, including the external 
+auditor.  The  Government  of  Punjab  shall  cause  PID  to  enable  ADB,  upon  ADB's  request,  to 
+discuss the financial statements for the Project and PID’s financial affairs where they relate to 
+the  Project  with  the  auditors  appointed  by  PID  and  shall  authorize  and  require  any 
+representative of such auditors to participate in any such discussions requested by ADB in the 
+presence of an authorized officer of PID, unless PID shall otherwise agree. 
+25. 
+The EA has been made aware of ADB’s policy on delayed submission of audited project 
+financial statements and the audit reports, and the requirements for satisfactory and acceptable 
+quality of the audited project financial statements.12 ADB reserves the right to require a change 
+in  the  auditor  (in  a  manner  consistent  with  the  constitution  of  the  borrower),  or  for  additional 
+support  to  be  provided  to  the  auditor,  if  the  audits  required  are  not  conducted  in  a  manner 
+satisfactory to ADB, or if the audit is substantially delayed.  ADB reserves the right to verify the 
+project's financial accounts to confirm that the share of ADB’s financing is used in accordance 
+with  ADB’s  policies  and  procedures.  Public  disclosure  of  the  project  financial  statements, 
+including  the  audit  report  on  the  project  financial  statements,  will  be  guided  by  ADB’s  Public 
+Communications  Policy  (2011).13  After  review,  ADB  will  disclose  the  audited  project  financial 
+statements for the project and the opinion of the auditors on the financial statements within 14 
+days of the date of ADB’s confirmation of their acceptability by posting them on ADB’s website. 
+The Audit Management Letter will not be disclosed. 
+VI. 
+PROCUREMENT AND CONSULTING SERVICES 
+A.  Advance Contracting and Retroactive Financing 
+Retroactive  financing.  The  Government  also  requested  for  retroactive  financing  of 
+26. 
+consulting services amounting up to $0.75 million which does not exceed an amount equivalent 
+to  20%  of  the  individual  loan.  The  consulting  services  are  associated  with  construction 
+supervision services for supervising (ICB-06A).   
+12 ADB Policy on delayed submission of audited project financial statements:  
+  When audited project financial statements are not received by the due date, ADB will write to the executing agency 
+advising  that  (i)  the  audit  documents  are  overdue;  and  (ii)  if  they  are  not  received  within  the  next  six  months, 
+requests for new contract awards and disbursement such as new replenishment of imprest accounts, processing of 
+new reimbursement, and issuance of new commitment letters will not be processed. 
+  When  audited  project  financial  statements  have  not  been  received  within  6  months  after  the  due  date,  ADB  will 
+withhold processing of requests for new contract awards and disbursement such as new replenishment of imprest 
+accounts,  processing  of  new  reimbursement,  and  issuance  of  new  commitment  letters.  ADB  will  (i)  inform  the 
+executing agency of ADB’s actions; and (ii) advise that the loan may be suspended if the audit documents are not 
+received within the next six months. 
+  When audited project financial statements have not been received within 12 months after the due date, ADB may 
+suspend the loan. 
+13 Available from http://www.adb.org/documents/pcp-2011?ref=site/disclosure/publications. 
+1
+3
+22 
+B.  Procurement of Goods, Works and Consulting Services 
+27. 
+All procurement of goods, works and consulting services are complete.  
+C.  Procurement Plan 
+Basic Data 
+Project Name: MFF-Punjab Irrigated Agriculture Investment Program - Tranche 4 
+Project Number: 37231-044 
+Country:  PAKISTAN (Punjab) 
+Project Procurement Classification:  B 
+Procurement Risk: - 
+Project Additional Financing: $29.97 million 
+ADB Financing: $26.6 million 
+Co-financing (ADB Administered): No 
+Non-ADB Financing: $3.4 million 
+Date  of  First  Procurement  Plan:  18  December 
+2006 
+Approval Number: xxx 
+Executing Agency: PID 
+Implementing Agency: PID through PMU 
+Project Closing Date: 30 June 2017 
+Date of this Procurement Plan: 7 October 2015 
+Methods, Thresholds, Review and 18-Month Procurement Plan 
+1. 
+Procurement Thresholds 
+Except  as  the  Asian  Development  Bank  (ADB)  may  otherwise  agree,  the  following 
+28. 
+process thresholds shall apply to procurement of goods and works. 
+Procurement of Goods and Works 
+Method 
+International Competitive Bidding (ICB) for Works 
+National Competitive Bidding (NCB) for Works 
+Shopping for Goods 
+Threshold 
+US$15,000,000 and Above 
+Below US$15,000,000 
+Below US$100,000 
+2. 
+Goods and Works Contracts Estimated to Cost $1 Million or More 
+29. 
+No procurement activity is ongoing. 
+3. 
+Consulting Services Contracts Estimated to Cost $100,000 or More 
+30. 
+No procurement activity is ongoing. 
+C. 
+List of Awarded and On-going, and Completed Contracts  
+The following tables list the awarded and on-going contracts, and completed contracts. 
+1.   Awarded and On-going Contracts 
+Goods and Works 
+Package 
+Number 
+General 
+Description 
+Estimated 
+Value $ 
+Awarded 
+Contract 
+Value 
+Procurement 
+Method 
+Advertisement 
+Date  
+(quarter/ 
+year) 
+ICB-05  
+R&U of 
+branches and 
+distributaries/mi 
+39,000,000 
+51,382,749 
+ICB 
+Q2 / 2011 
+Date of 
+ADB 
+Approval of 
+Contract 
+Award 
+29-AUG-12 
+Comments 
+nors falling in 
+Sahiwal Canal 
+Divisions 
+ICB-04      R&U of 
+28,000,000 
+39,951,399 
+ICB  
+Q2 /2011 
+19-DEC-11 
+23 
+branches and 
+distributaries/mi 
+nors falling in 
+Balloki and 
+Okara Canal 
+Division 
+ICB-06B  R&U of 
+ICB-
+01/BB 
+branches and 
+distributaries/mi 
+nors falling in 
+Khanewal 
+Canal 
+Divisions 
+Rehabilitation 
+of 
+upgrading 
+(R&U) 
+of Balloki 
+Barrage and 
+LBDC and 
+Balloki-
+Suleman 
+ki Head 
+Regulators and 
+bridges 
+ICB-06A  R&U of 
+branches and 
+distributaries/mi 
+nors falling in 
+Khanewal 
+Canal 
+Divisions 
+Consulting Services 
+17,911,351 
+21,694,945 
+ICB 
+Q4 / 2012 
+30-JUL-13 
+26,244,286 
+21,350,953 
+ICB 
+Q3 / 2010 
+16-MAY-11 
+12,325,888 
+14,656,877 
+ICB  
+Q4/2013 
+17-JUN-15 
+to be financed 
+from 
+Additional 
+Financing 
+Loan 
+Package 
+Number 
+General 
+Description 
+Estimated 
+Value 
+Awarded 
+Contract  
+Value 
+Recruitment  
+Method 
+Advertisement 
+Date 
+(quarter/year) 
+Package- 
+1 
+Design and 
+Construction 
+Supervision 
+Consultants 
+8,454,941 
+16,568,437 
+QCBS 
+Q2 / 2008 
+Package-
+2 
+PMU Support 
+Consultants 
+2,816,000 
+3,297,092 
+QCBS 
+Q2 / 2008 
+Package-
+6 
+Preparation 
+and 
+detailed 
+design of 
+Sulemanki 
+headworks, 
+Pakpattan 
+6,399,092 
+9,163,224 
+QCBS 
+Q3 / 2009 
+Date of 
+ADB 
+Approval 
+of 
+Contract 
+Award 
+31-JUL-
+08 
+31-JUL-
+08 
+13-JUN-
+09 
+Comments 
+Contract was awarded 
+in the original project. 
+The contract 
+modification will 
+provide continuity of 
+services till completion 
+of project 
+Contract was awarded 
+in the original project. 
+The contract 
+modification will 
+provide continuity of 
+services till completion 
+of project 
+Assignment 
+National 
+Quality-Cost 
+Ratio: 80:20 
+Comments: 
+Done; The 
+consultancy 
+1
+3
+24 
+canal, Thal 
+Canal, Sidhnai 
+Canal, 
+and Trimmu 
+barrage 
+2.  Completed Contracts 
+Goods and Works 
+services in this 
+package are for 
+the investment 
+program (PIAIP) 
+and for the 
+project 
+(LBDCIP). 
+Packag
+e 
+Number 
+General 
+Description 
+Estimated 
+Value 
+Contract 
+Value 
+Procureme
+nt Method 
+Advertisemen
+t 
+Date (quarter/ 
+year) 
+NCB-01    R&U 
+1,791,362 
+1,724,159 
+NCB 
+Q3 / 2010 
+Date of 
+ADB 
+Approval 
+of 
+Contract 
+Award 
+29-JAN-10 
+Date of 
+Completion 
+Comments 
+22-MAR-10 
+Jandraka 
+Distributary 
+NCB-02   R&U 15-L 
+Distributary 
+ICB-01    R&U main 
+canal RD 
+0+000 to RD 
+227+454 
+ICB-03  
+ICB-02     R&U main 
+canal RD 
+227+454 to 
+RD 527+216 
+R&U main 
+canal RD 
+527+216 to 
+RD660+700 
+Jeep 4x4 (04 
+Nos) 
+Sup-V-c-
+1- 
+p5 
+Sup-V-a-
+1  
+Sup-V-a-
+2  
+Pkg-01  
+Sup-V-a-
+00 
+5 
+Sup-V-b-
+1- 
+p3 
+) 
+Sup-
+Eqpt-a 
+-2-P3 
+Sup-
+Eqpt-a 
+-1-P2 
+Motorcycles 
+Suzuki ECO 
+110 CC (33 
+no) 
+Sedan Car 
+1300 CC (03 
+Nos) 
+Rental of 
+Land 
+Leveling 
+Equipment 
+1-1300cc 
+Sedan and 2 
+Single Cabin 
+Pickups 
+Pick-up 4x4 
+Double 
+Cabin 
+(03 Nos 
+Office 
+supplies, 
+equipment, 
+machinery 
+Desktop 
+Computers 
+(50) 
+3,941,983 
+3,507,123 
+NCB 
+Q3 / 2010 
+12-JAN-10 
+06-APR-13 
+21,003,374 
+23,104,529 
+ICB 
+Q2 / 2010 
+24-NOV-10 
+30-SEP-13 
+32,845,457 
+33,752,705 
+ICB 
+Q3 / 2010 
+16-DEC-10 
+31-JAN-14 
+8,969,567 
+8,332,753 
+ICB 
+Q3 / 2010 
+09-FEB-11 
+31-JAN-14 
+80,372 
+33,657 
+SHOPPING 
+Q1 / 2010 
+04-JAN-10 
+18-MAR-10 
+24,163 
+9,901 
+SHOPPING 
+Q1 / 2010 
+27-APR-10 
+27-APR-10 
+46,128 
+12,458 
+SHOPPING 
+Q2 / 2010 
+04-JUN-10 
+17-JUN-10 
+2,000 
+1,437 
+DC 
+Q3 / 2010 
+01-JUL-10 
+26-JUL-10 
+32 
+Motorcycle 
+2 Cars 
+instead of 3 
+75,000 
+50,553 
+SHOPPING 
+Q4 / 2010 
+18-MAR-11 
+30-JUN-11 
+Vehicles 
+83,860 
+83,641 
+SHOPPING 
+Q1 / 2011 
+01-MAR-11 
+30-JUN-11 
+4,000 
+13,881 
+SHOPPING 
+Q2 / 2011 
+20-MAY-11 
+30-NOV-11 
+100,000 
+2,233 
+SHOPPING 
+Q2 / 2011 
+20-AUG-11 
+20-DEC-11 
+only 5 
+computers 
+and other 
+office 
+equipment 
+3 pick-ups 
+Sup-V-c-
+1- 
+Single cabin 
+pick-ups (4 
+69,770 
+52,724 
+SHOPPING 
+Q2 / 2011 
+18-JUN-11 
+30-DEC-11 
+25 
+85,162 
+86,666 
+SHOPPING 
+Q1 / 2011 
+21-FEB-11 
+12-JUN-12 
+p4 (08 Nos) 
+87,210 
+23,355 
+SHOPPING 
+Q1 / 2011 
+29-FEB-12 
+12-JUN-12 
+44,185 
+42,132 
+SHOPPING 
+Q2 / 2011 
+13-FEB-12 
+13-JUN-15 
+under two 
+PCSS 
+p9 
+Nos) 
+Sup-V-c-
+1-  
+Cars 1000 
+CC 
+Sup-V-c-
+1- 
+p6 
+Suzuki Jimny 
+Jeep 1300 
+CC.4Wd, 
+Petrol 
+Engine, 
+W/AC RHD, 
+M2012 
+Cars 
+Sup-V-c-
+CC 
+1- 
+p8 
+(04 Nos) 
+Consulting Services 
+1000 
+General 
+Description 
+Estimated 
+Value 
+Contract  
+Value 
+Recruitmen
+t  Method 
+Advertisem-
+ent Date 
+(quarter/ 
+year) 
+1,764,947 
+1,436,114 
+QCBS 
+Q3 / 2009 
+Date of 
+ADB 
+Approval 
+of 
+Contract 
+Award 
+08-DEC-
+09 
+Date of 
+Completion 
+Comments 
+03-MAR-10 
+1,299,420 
+1,237,283 
+QCBS 
+Q3 / 2009 
+18-OCT-
+10 
+31-DEC-12 
+1,793,000 
+1,529,216 
+QCBS 
+Q2 / 2009 
+08-DEC-
+10 
+16-MAR-13 
+Packag
+e 
+Number 
+Package
+-5  
+Package
+-4  
+Package
+-3  
+Institutional 
+Strengthenin
+g 
+and FO 
+Development 
+On Farm 
+Water 
+Management 
+and 
+Agriculture 
+Support 
+Groundwater 
+monitoring, 
+modeling 
+and 
+management 
+VII. 
+SAFEGUARDS 
+31. 
+The  EA  will  ensure  that  the  components  of  civil  works  financed  through  additional 
+financing  continues  to  be  implemented  in  full  compliance  with  (i)  all  applicable  laws  and 
+regulations  of  the  Government  of  Pakistan  and  the  Government  of  Punjab,  and  ADB‘s  SPS 
+(2009),  including  the  policies  on  involuntary  resettlement,  indigenous  people  and  the 
+environment; and (iii) respective resettlement plans, and environmental management plans. In 
+the  event  that  there  is  a  discrepancy  between  the  laws  and  regulations  of  Punjab  and  ADB 
+safeguard  policies,  the  ADB  safeguard  policies  will  prevail.  The  PID  prepared  the  updated 
+resettlement  plan.  The  project  team  carried  out  social  and  environmental  due  diligence. 
+Following sections provide details of safeguards related actions, which along with assurances in 
+section VIII, will be incorporated into the related loan agreements. 
+32. 
+Punjab shall cause PID to ensure that no new activities or additional activities which will 
+have environmental, indigenous peoples or involuntary resettlement impacts within the meaning 
+of ADB’s Safeguard Policy Statement (2009) are undertaken in connection with the Project. In 
+the  event  that  any  such  activities  are  undertaken,  Punjab  shall  cause  PID  to  take  all  steps 
+required  to  ensure  that  such  activities  comply  with  the  applicable  laws  and  regulations  of  the 
+Borrower and with ADB’s Safeguard Policy Statement (2009). 
+1
+3
+26 
+33. 
+Environment.  The  EA  will  continue  to  ensure  that  the  construction,  operation  and 
+maintenance of the components of civil works financed through additional financing are carried 
+out  in  accordance  with  ADB‘s  SPS  (2009).  The  EA  will  ensure  that  (i)  potential  adverse 
+environmental impacts arising from the Project are minimized by implementing all mitigation and 
+monitoring measures, as presented in the environment management plan (EMP) or site specific 
+environment  management  plan  (SSEMP)  or  corrective  action  plans  (CAP);  (ii)  sufficient 
+resources are available to implement and record the implementation of the EMPs, SSEMPs and 
+CAPs; (iii)  bi-annual environmental reports are submitted within 1 month of the close of each 
+half of the calendar year during the implementation of the project; and (iv) civil works contractors 
+are  supervised  to  ensure  compliance  with  the  requirements  of  the  IEE  and  EMP.  The  overall 
+responsibility  for  environmental  management  and  monitoring  will  rest  with  the  PMU  of  the  PID, 
+which  is  already  established.  Within  the  PMU,  the  Directorate  of  Environment  and  Social 
+Safeguards act as the Environmental Management Office. The environmental team of PMU will be 
+responsible for the following: 
+i. 
+ii. 
+iii. 
+Ensuring that the EMPs are included in tender documents. 
+Ensuring that all regulatory clearances are obtained before starting civil works for the 
+subproject. 
+Ensuring that the EMPs, including all proposed mitigation measures and monitoring 
+programs are properly implemented. 
+iv.  Undertaking  monitoring  of  subprojects  and  preparing  environmental  monitoring 
+reports  every  six  months  (in  case  of  projects  with  long  duration)  and  post-project 
+reports (for shorter projects), to be delivered to ADB. 
+the  case  of  unpredicted  environmental 
+In 
+implementation, preparing and implementing a Corrective Action Plan (CAP). 
+vi.  Reviewing and approving the project site specific EMP (SSEMP) that includes a sub-
+impacts  occurring  during  project 
+v. 
+vii. 
+viii. 
+plan for each of the work areas.  
+Providing  awareness  training  in  environmental  management  for  all  employees 
+working on the subproject. 
+Sharing information and disclosure of environmental safeguard documents (including 
+any Corrective Action Plans prepared in cases of change to original project design) 
+as required. 
+34. 
+Land  Acquisition  and  Resettlement,  and  Indigenous  Peoples.  Punjab  government 
+will  ensure  that  land  acquisition  and  involuntary  resettlement  plans  are  updated  and/or 
+implemented  in  accordance  with  SPS  (2009)  and  the  LARF.  Punjab  government  will  ensure 
+that:  (i)  the  funds  to  pay  compensation  and  entitlements  under  the  resettlement  plan  are 
+available in a timely manner and in accordance with the provisions of the resettlement plan; (ii) 
+all  land  and  rights  of  way  required  are  made  available  in  a  timely  manner;  (iii)  contractors’ 
+activities are in compliance with the requirements of the LARPs and EMPs; and (iv) internal and 
+external monitoring continues on the project.  
+35. 
+The  overall  project  was  originally  classified  as  resettlement  category  A,  indigenous 
+people category C and environmental category B. Since the additional financing is provided to 
+cover  cost  overruns  and  financing  gaps  within  the  existing  project  scale  and  scope,  it  is 
+classified  category  C  for  environment,  involuntary  resettlement,  and  indigenous  people 
+safeguards.  Under  Tranche  1,  all  nine  Resettlement  Plans  (RP)  were  updated,  approved  and 
+disclosed,  of  which  six  are  completed  while  the  rest  are  at  various  stages  of  implementation. 
+The  implementation  of  RPs  is  validated  through  external  monitoring  agency  and  PMU  will 
+provide to ADB a monitoring report confirming the safeguards progress-implementation of RPs 
+27 
+and payments to APs. The safeguard requirements of the MFF are managed by an environment 
+and  social  unit,  established  within  PMU  and  presently  staffed  with  environment,  community 
+relations  and  social  safeguards  specialists  (one  each).  The  PID  will  fill  the  post  of  Director 
+Environment and Social to strengthen ESU’s weak capacity in safeguards management.  
+36. 
+The  EA  will  continue  to  monitor  and  submit  the  quarterly  progress  and  completion 
+reports  on  land  acquisition  and  resettlement  and  ensure  that  reports  are  simultaneously 
+submitted to ADB. The PID will continue to submit the external monitoring reports to assess the 
+implementation  processes  regarding  resettlement. The  PID  will  promptly  revise  the  LARP  and 
+seek ADB approval in case of any change in the scope occurs. The Government will bear any 
+increase in resettlement cost as a result of revisions in the LARP. In case of change, the PID 
+will  ensure  that  (i)  displaced  persons  are  meaningfully  consulted  in  the  price  assessment 
+process,  and  their  viewpoint  clearly  documented  in  the  LARP  together  with  the  steps/actions 
+taken/proposed  to  ensure  payments  at  full  replacement  value.  The  PMU  will  manage  the 
+resettlement  funds,  which  will  be  kept  in  a  bank  account  specifically  for  the  purpose  of 
+disbursement of compensation to the displaced persons.  
+VIII.  GENDER AND SOCIAL DIMENSIONS 
+37. 
+Social and gender dimensions as detailed in the attached summary of social and poverty 
+with  actions  completed  in  the  overall  project  which  includes,  (i)  conducting  consultations  with 
+local women to identify their needs and concerns; (ii) gender orientation training for the staff of 
+OFWM and PIDA staff; (iii) formation of more Rural Women Groups (RWGs); (iv) strengthening 
+RWGs  through  systematic  mentoring  process  and  trainings;  (v)  conducting  coordination 
+meetings with all the stakeholders, males and females alike, at provincial and district levels; (vi)  
+conducting  additional  trainings  improving  specific  farm  and  livestock  management  skills  for 
+women in various FOs/DCs. The remaining component of civil works associated with additional 
+financing  does not  have specific gender  action other than  obligations of  the  contractors  in the 
+contract, (i) to use their best efforts to employ women; and (ii) not to differentiate between men 
+and women’s wages or benefits for work of equal value.      
+IX. 
+PERFORMANCE MONITORING, EVALUATION, REPORTING AND 
+COMMUNICATION 
+A.  Project Design and Monitoring Framework 
+Impact the Project is aligned with: 
+Current Project 
+Increased agricultural production and farm income in Lower Bari Doab Canal command area. 
+Overall project 
+The target achievement year is changed from 2017 to 2021. 
+Project Results  
+Chain 
+Performance Indicators with 
+Targets and Baselines  
+Data Sources and  
+Reporting 
+Risks 
+Outcome 
+LBDC  command  area 
+Current project 
+PPMS 
+Risks 
+1
+3
+28 
+receives  a  sustainably 
+improved  delivery  of 
+water 
+and 
+services 
+management 
+PID  Directorate  of  flow 
+regulation  data  in  tail 
+reaches 
+water 
+Reduced 
+for  Punjab 
+availability 
+irrigated 
+agriculture 
+impacted  by  climate 
+change effect or energy 
+reservoirs 
+driven 
+releases. 
+All  3,500  outlets  receive  design 
+water  supply  throughout  the  year 
+by  2015.  Design  discharges 
+diverted  to  the  distributary  and 
+minor  canals  throughout  the  year 
+by 2015  
+Overall project 
+All  3,500  outlets  receive  design 
+water  supply  throughout  the  year 
+by  2016.  Design  discharges 
+diverted  to  the  distributary  and 
+minor  canals  throughout  the  year 
+by 2016 
+Outputs 
+Output 1. 
+Current Project  
+A 
+groundwater 
+management  plan  and 
+conjunctive use strategy 
+for LBDC is operational 
+Overall project  
+Unchanged 
+1a. 
+1a. 
+Current project 
+Groundwater data base in use by 
+PID by 2015 
+Overall project  
+Unchanged 
+Project 
+quarterly 
+reports  and  PID's 
+for 
+Directorate 
+Groundwater 
+Management 
+data 
+1b. 
+1b-c. 
+Output 2. 
+Current project 
+Area  Water 
+Board 
+(AWB)  and  Farmers 
+(FOs) 
+Organizations 
+take 
+for 
+operations 
+canal 
+systems 
+Overall project  
+Unchanged 
+responsibility 
+of 
+Project 
+reports and PPMS 
+quarterly 
+Current project 
+Groundwater model in use by PID 
+by 
+2015 
+Overall project  
+Unchanged 
+1c. 
+Current project 
+By  2015  PID  uses  guidelines  for 
+groundwater use 
+Overall project  
+Unchanged 
+2a. 
+2a-b. 
+quarterly 
+Project 
+reports  and  PPMS 
+Khal 
+Current project 
+One AWB, 50 FOs and more than 
+Punchayats  
+3,000 
+established 
+2015  
+Overall project  
+One AWB, 52 FOs and more than 
+3,000 
+Punchayats  
+established by 2015 a 
+Khal 
+by 
+2b. 
+Current project 
+All  the  FOs  trained  in  operation 
+and  maintenance  of  distributary 
+and  minor  canals  by  2015 
+Overall project  
+All  the  FOs  trained  in  operation 
+and  maintenance  of  distributary 
+Output 3. 
+Current project 
+Balloki 
+rehabilitated  on 
+and within budget 
+Barrage 
+time 
+Overall project  
+Balloki 
+Barrage 
+rehabilitated  on  revised 
+time 
+and 
+schedule 
+within  budget  based  on 
+the  detail  design  and 
+model studies  
+and minor canals by 2016 
+2c. 
+2c. 
+the  FOs  measure  outlet 
+Current project 
+All 
+discharges by 2015 
+Overall project  
+Unchanged 
+FO 
+database 
+discharge 
+3a. 
+3a-b 
+Current project 
+Barrage  reliably  diverts  up  to  a 
+sanction  discharge  of  278  m3s-1  
+2015 
+to 
+LBDC 
+by 
+PID  Directorate  of 
+flow regulation data 
+29 
+is  unable 
+Risks 
+Project 
+to 
+employ  quality  foreign 
+and 
+consultants 
+contractors 
+to 
+security issues.  
+due 
+Weak 
+implementation 
+of  civil  works,  contract 
+and 
+construction 
+will 
+management 
+further cause delays in 
+project. 
+Overall project  
+Barrage  reliably  diverts  up  to  a 
+sanction  discharge  of  278  m3s-1  
+to LBDC by 2016 
+3b. 
+Current project 
+Barrage’s  safe 
+flood  capacity 
+increased  from  6,400  m3s-1    in 
+2009 to 7,000 m3s-1 in 2015  
+Overall project 
+Barrage’s  safe 
+flood  capacity 
+increased  from  6,400  m3s-1    in 
+2009 to 10,700 m3s-1 in 2016 a 
+Output 4 
+diligence 
+Current project 
+Due 
+subsequent tranches 
+Overall project  
+Unchanged 
+4a. 
+of 
+Current project 
+7 subprojects prepared 
+Overall project  
+Unchanged 
+4a. 
+Project 
+reports 
+quarterly 
+Output 5 
+Current project 
+Farmers  use  improved 
+on-farm 
+water 
+management practices 
+Overall project  
+Unchanged 
+Output 6 
+Current project 
+LBDC 
+The 
+distribution 
+rehabilitated  on 
+and within budget 
+and 
+system 
+time 
+5a. 
+5a. 
+Current project 
+40 
+demonstration 
+established on 200 ha by 2015 
+plots 
+Project 
+reports and PPMS 
+quarterly 
+Overall project  
+Unchanged 
+6a. 
+6a-b. 
+Current project 
+1,700  km  main  and  distributary 
+canals  and  3,000  appurtenant 
+Project 
+Quarterly 
+reports  and  PPMS 
+is  unable 
+Risks 
+Project 
+to 
+employ  quality  foreign 
+and 
+consultants 
+contractors 
+to 
+security issues.  
+due 
+1
+3
+30 
+LBDC 
+Overall project  
+and 
+The 
+distribution 
+system 
+rehabilitated  on  revised 
+and 
+schedule 
+time 
+within  budget  based  on 
+detail design 
+structures rehabilitated by 2015  
+Overall project  
+2,450  km  main  and  distributary 
+canals  and  3,500  appurtenant 
+structures  rehabilitated  by  2016  a 
+6b. 
+implementation 
+Weak 
+of  civil  works,  contract 
+construction 
+and 
+management 
+will 
+further cause delays in 
+project. 
+cost 
+remains 
+Current project 
+The 
+contingencies 
+Overall project  
+The  cost 
+original and additional financing 
+remains  within 
+within 
+the 
+Key Activities with Milestones 
+1. 
+1.1. 
+1.2. 
+1.3. 
+1.4. 
+1.5. 
+1.6. 
+1.7. 
+2. 
+2.1. 
+2.2. 
+2.3. 
+2.4. 
+2.5. 
+2.6. 
+3. 
+3.1. 
+3.2. 
+3.3. 
+3.4. 
+3.5. 
+3.6. 
+3.7. 
+4. 
+4.1. 
+4.2. 
+5. 
+5.1. 
+5.2. 
+5.3. 
+5.4. 
+6. 
+6.1. 
+6.2. 
+6.3. 
+6.4. 
+6.5. 
+A groundwater management plan and conjunctive use strategy for LBDC is operational  
+Recruit consultants by 28 December 2010 (completed). 
+Establish database by 28 February 2013 (completed). 
+Develop and validate groundwater model by 31 March 2013 (completed). 
+Simulate groundwater changes for different scenarios by 31 March 2013 (completed). 
+Compile results, trained staff and transfer model to PID by 7 March 2013 (completed). 
+Develop groundwater management strategy by 10 March 2013 (completed). 
+PID develops and implements GW management plan by 31 December 2015. 
+Area Water Board (AWB) and Farmers Organizations (FOs) take responsibility for operations of 
+canal systems 
+Establish Khal Punchayats and FOs by 31 December 2013(completed). 
+Adopt rules & regulations for decentralized management system by 30 June 2012 (completed). 
+FOs participates in rehabilitation of distributaries and minor canals by 1 March 2012 (completed). 
+Every FO establishes a minimum of one pilot demonstration plot by 31 December 2012 (completed). 
+All  FOs  are  trained  and  measure  out  discharges  and  establish  the  discharge  database  by  31  December 
+2016 (changed). 
+AWB maintain discharges database of LBDC system by 31 December 2016 (changed). 
+Balloki Barrage rehabilitated on time and within budget 
+Establish and staff PMO/PIO by 30 June 2008 (completed). 
+Recruit design and supervision consultants by 19 September 2008 (completed).  
+Complete design and prepare tender documents by 31 October 2010 (completed).  
+Carryout prequalification, evaluate bids and award contract by 15 June 2011 (completed).  
+Resettlement plan preparation and implementation by 30 June 2016 (changed). 
+Implement environmental management plan by 30 September 2016 (changed). 
+Complete construction by 30 April 2016 (changed). 
+Due diligence of subsequent tranches 
+Recruitment of Consultants by 22 April 2009 (completed).  
+Preparation of subprojects and support for due diligence by 30 September 2016 (changed). 
+Farmers use improved on-farm water management practices 
+Recruit consultants by 28 December 2010 (completed). 
+Identify pilot demonstration areas with FOs by 30 June 2012 (completed). 
+Develop pilot demonstration areas with FOs 30 September 2012 (completed). 
+Operate field programs by 31 December 2012 (completed).  
+The LBDC and distribution system rehabilitated on time and within budget. 
+Complete design and prepare tender documents by 31 December 2011 (completed). 
+Carryout prequalification, evaluate bids and award contract by 23 June 2015 (completed). 
+Resettlement plan preparation and implementation 30 September 2016 (changed). 
+Implement environmental management plan by 30 September 2016 (changed). 
+Complete construction by 31 December 2016 (changed). 
+31 
+ADB 
+OCR 
+$208.4 million 
+$26.6 million 
+$235 million 
+Government 
+ADF 
+$10 million 
+$10 million 
+Inputs  
+Total 
+$ 218.4 million (current) 
+$ 26.6 million (additional) 
+$ 245.0 million (overall) 
+$ 30.4 million (current) 
+$ 3.4 million (additional) 
+$ 33.8 million (overall) 
+Assumptions for Partner Financing  
+Not applicable 
+ADB  =  Asian  Development  Bank;  ADF  =  Asian  Development  Fund;  AWB  =  Area  Water  Board;  FOs  =  Farmers 
+Organizations; GW= groundwater; ha=hectares; LBDC= Lower Bari Doab Canal; OCR = Ordinary Capital Resources; 
+PPMS = Project Performance Monitoring System; PID = Punjab Irrigation Department; PIO= Project Implementation 
+Office; PMO= Project Management Office  
+a The statement of overall project is revised to reflect the updated output indicator of the current project.     
+Notes: 
+1. “Current Amount” refers to the amount in US$ net of cancellation and incurred or expected expenditures. 
+2. “Additional Financing” refers to the additional amount required for completion of the project 
+3. “Overall project” refers to the original project including additional financing 
+4. Khal Panchayats are water user associations  
+Source: Asian Development Bank. 
+B.  Monitoring 
+38. 
+The  project  performance  management  system  (PPMS)  already  established  for  the 
+LBDCIP  will  be  updated  after  approval  of  the  additional  financing.  The  PPMS  will  continue  to 
+provide information on the project-specific requirements and updated in consultation with EA. A 
+database  of  key  benchmark  indicators  is  used  by  the  PMU  and  forms  a  part  of  the  project 
+monitoring  system  and  is  routinely  updated  and  monitored  bi-annually.  The  PID  is  also 
+submitting  quarterly  progress  reports  (QPRs).  ADB  will  monitor  the  project  progress  and 
+performance  through  the  QPRs  and  PPMS.  ADB  will  also  field  regular  review  missions,  bi-
+annually, to monitor the progress. The QPRs information will be used to regularly update ADB's 
+project performance reporting system.  
+39. 
+Compliance  monitoring.  The  loan  covenants  on  policy,  legal,  financial,  economic, 
+environmental, labor standards and others will be monitored regularly through QPRs, bi-annual 
+and annual reports and discussions during missions.  
+40. 
+Safeguard monitoring. The EA will integrate status of LARP and SSEMP in each QPR. 
+QPRs, bi-annual internal and external monitoring reports and ADB review missions will provide 
+comprehensive progress and status of the safeguards implementation.  
+Gender and social dimension monitoring. EA’s QPR, PPMS (twice a year) and ADB’s 
+41. 
+review missions will monitor the implementation progress.  
+1
+3
+32 
+C.  Evaluation 
+42. 
+Review missions will be carried out on a semiannual basis jointly by representatives of 
+ADB,  Borrower,  and  the  PID.  The  review  missions  will  assess  the  status  of  the  project 
+implementation including procurement, civil works, and financing, compliance to environmental 
+and social safeguards. The review will allow for any necessary midcourse corrections to ensure 
+successful  implementation  and  the  achievement  of  the  project  objectives.  Within  6  months  of 
+physical completion of the Project, the EA will submit a project completion report to ADB.14 
+D.  Reporting  
+43. 
+The  PID  will  continue  to  provide  ADB  with  (i)  quarterly  progress  reports  in  approved 
+format  consistent  with  ADB's  project  performance reporting  system;  (ii)  consolidated  bi-annual 
+report  including  (a)  progress  achieved  by  output  as  measured  through  the  indicator's 
+performance  targets,  (b)  key  implementation  issues  and  solutions;  (c)  updated  procurement 
+plan  and  (d)  updated  implementation  plan  for  next  12  months;  and  (iii)  a  project  completion 
+report within 6 months of physical completion of the Project. To ensure projects continue to be 
+both viable and sustainable, project accounts and the executing agency AFSs, together with the 
+associated auditor's report, should be adequately reviewed. 
+E.  Stakeholder Communication Strategy  
+The following project information is communicated and its means of communication, who 
+44. 
+will provide the information, the audiences, and frequency is given in the table below: 
+Project Documents 
+Project 
+Document 
+Information 
+and 
+Design 
+Monitoring 
+Framework 
+Resettlement 
+Planning Documents 
+Means of 
+Communication 
+ADB’s Website 
+Responsible 
+Party 
+ADB 
+ADB’s Website 
+ADB 
+Initial PID no later than 30 
+calendar days of approval of the 
+PFR; quarterly afterwards 
+DMF after approval 
+Frequency 
+Audience (s) 
+ADB’s Website 
+ADB 
+Already posted 
+Periodic  Financing 
+Request Report 
+Legal Agreements 
+ADB’s Website 
+ADB’s Website 
+ADB 
+ADB 
+and 
+Social 
+Environmental 
+Monitoring Reports 
+Completion Report 
+ADB’s Website 
+ADB’s Website 
+ADB 
+Evaluation Report 
+ADB’s Website 
+ADB’s Website 
+audited 
+Annual 
+financial  statements 
+and  the  opinion  of 
+the  auditors  on  the 
+financial statements 
+ADB 
+ADB 
+ADB 
+Within 2 weeks of Management 
+approval of the loan 
+No later than 14 days of 
+Management approval of the 
+project 
+Routinely disclosed, no specific 
+requirements 
+Within 2 weeks of circulation to 
+the Board for information 
+Routinely disclosed, no specific 
+requirement 
+Annually within 14 days of the 
+date of ADB’s confirmation of 
+their acceptability 
+14  Project completion report format is available at: http://www.adb.org/Consulting/consultants-toolkits/PCR-Public-
+Sector-Landscape.rar 
+General Public 
+Project-affected 
+people 
+General Public, 
+project-affected 
+people in particular 
+General Public 
+General Public 
+General Public, 
+project-affected 
+people in particular 
+General Public 
+General Public 
+General Public 
+33 
+X. 
+ANTICORRUPTION POLICY  
+45. 
+ADB reserves the right to investigate, directly or through its agents, any violations of the 
+Anticorruption  Policy  relating  to  the  Project.15  All  contracts  financed  by  ADB  shall  include 
+provisions  specifying  the  right  of  ADB  to  audit  and  examine  the  records  and  accounts  of  the 
+executing agency and all Project contractors, suppliers, consultants and other service providers. 
+Individuals/entities  on  ADB’s  anticorruption  debarment  list  are  ineligible  to  participate  in  ADB-
+financed activity and may not be awarded any contracts under the Project.16  
+46. 
+The  Government  will  comply  with,  and  will  ensure  that  the  PID  complies  with,  ADB‘s 
+Anticorruption  Policy  (1998,  as  amended  to  date).  The  Government,  consistent  with  its 
+commitment to good governance, accountability and transparency, agrees (a) that ADB has the 
+right  to  investigate,  directly  or  through  its  agents,  any  alleged  corrupt,  fraudulent,  collusive  or 
+coercive practices relating to the Project; and (b) to cooperate fully with any such investigation 
+and  to  extend  all  necessary  assistance,  including  providing  access  to  all  relevant  books  and 
+records,  as  may  be  necessary  for  the  satisfactory  completion  of  any  such  investigation.  In 
+addition,  the  Government  will  (a)  conduct  periodic  inspections  on  the  contractors‘  activities 
+related  to  fund  withdrawals  and  settlements;  (b)  ensure  that  all  contracts  financed  by  ADB  in 
+connection with the Project include provisions specifying the right of ADB to audit and examine 
+the records and accounts of all contractors, suppliers, consultants, and other service providers 
+as  they  relate  to  the  project;  and  (c)  ensure  that  the  construction  supervision  consultant  shall 
+verify the contractors‘ invoices in accordance with working drawings and contract specifications.  
+XI. 
+ACCOUNTABILITY MECHANISM 
+47. 
+People who are, or may in the future be, adversely affected by the project may submit 
+complaints  to  ADB’s  Accountability  Mechanism.  The  Accountability  Mechanism  provides  an 
+independent  forum  and  process  whereby  people  adversely  affected  by  ADB-assisted  projects 
+can voice, and seek a resolution of their problems, as well as report alleged violations of ADB’s 
+operational  policies  and  procedures.  Before  submitting  a  complaint  to  the  Accountability 
+Mechanism, affected people should make a good faith effort to solve their problems by working 
+with  the  concerned  ADB  operations  department.    Only  after  doing  that,  and  if  they  are  still 
+dissatisfied, should they approach the Accountability Mechanism.17 
+XII. 
+RECORD OF PAM CHANGES  
+48. 
+All  revisions/updates  during  the  course  of  implementation  should  be  retained  in  this 
+section to provide a chronological history of changes to implemented arrangements recorded in 
+the PAM.  
+15 Available at: http://www.adb.org/Documents/Policies/Anticorruption-Integrity/Policies-Strategies.pdf 
+16 ADB's Integrity Office web site is available at: http://www.adb.org/integrity/unit.asp 
+17 For further information see: http://compliance.adb.org/ 
+1
+3

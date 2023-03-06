@@ -1,0 +1,3602 @@
+Project Administration Manual 
+Project Number: 47046-002 
+October 2015 
+People’s Republic of China: Gansu Featured 
+Agriculture and Financial Services System 
+Development Project 
+Contents 
+ABBREVIATIONS 
+I. 
+II. 
+III. 
+IV. 
+V. 
+VI. 
+VII. 
+PROJECT DESCRIPTION 
+IMPLEMENTATION PLANS 
+A. 
+B. 
+Project Readiness Activities 
+Overall Project Implementation Plan 
+PROJECT MANAGEMENT ARRANGEMENTS 
+A. 
+B. 
+C. 
+Project Implementation Organizations—Roles and Responsibilities 
+Key Persons Involved in Implementation 
+Project Organization Structure 
+COSTS AND FINANCING 
+A. 
+B. 
+C. 
+D. 
+E. 
+F. 
+G. 
+H. 
+I. 
+J. 
+K. 
+Cost Estimates Preparation and Revisions 
+Cost Categories 
+Assumptions 
+Summary Cost Estimates and Financing Plan 
+Detailed Cost Estimates by Expenditure Category 
+Allocation and Withdrawal of Loan Proceeds 
+Detailed Cost Estimates by Financier ($ million) 
+Detailed Cost Estimates by Outputs/Components ($ million) 
+Detailed Cost Estimates by Year ($ million) 
+Contract and Disbursement S-Curve (In $ million) 
+Fund Flow Diagram 
+FINANCIAL MANAGEMENT 
+A. 
+B. 
+C. 
+D. 
+Financial Management Assessment 
+Disbursement 
+Accounting 
+Auditing and Public Disclosure 
+PROCUREMENT AND CONSULTING SERVICES 
+A. 
+B. 
+C. 
+Advance Contracting and Retroactive Financing 
+Procurement of Goods, Works and Consulting Services 
+Procurement Plan 
+SAFEGUARDS 
+A. 
+B. 
+C. 
+D. 
+E. 
+F. 
+G. 
+H. 
+Environment and Social Management System 
+Environment 
+Involuntary Resettlement 
+Land Use Rights Transfer Agreements 
+Ethnic Minorities 
+Capacity Development and Training 
+Grievance redress mechanisms 
+Monitoring and Reporting 
+VIII.  GENDER AND SOCIAL DIMENSIONS 
+PERFORMANCE MONITORING, EVALUATION, REPORTING AND 
+IX. 
+COMMUNICATION 
+A. 
+Project Design and Monitoring Framework 
+V 
+1 
+5 
+5 
+6 
+7 
+7 
+9 
+10 
+11 
+11 
+11 
+11 
+12 
+15 
+17 
+18 
+20 
+21 
+23 
+24 
+25 
+25 
+26 
+28 
+28 
+30 
+30 
+30 
+30 
+33 
+33 
+33 
+33 
+34 
+34 
+35 
+35 
+35 
+37 
+40 
+40 
+B. 
+C. 
+D. 
+E. 
+Monitoring 
+Evaluation 
+Reporting 
+Stakeholder Communication Strategy 
+X. 
+XI. 
+XII. 
+ANTICORRUPTION POLICY 
+ACCOUNTABILITY MECHANISM 
+RECORD OF PAM CHANGES 
+APPENDIX 1: SELECTION AND APPROVAL PROCEDURE FOR THE FIRST BATCH OF 
+SUBLOANS UNDER OUTPUTS 1 AND 2 
+APPENDIX 2: ELIGIBILITY CRITERIA 
+APPENDIX 3: FORMAT FOR FINANCIAL REPORTING 
+APPENDIX 4: TRAINING PLANS 
+42 
+43 
+43 
+44 
+45 
+46 
+47 
+48 
+50 
+52 
+59 
+iii 
+Project Administration Manual Purpose and Process 
+The  project  administration  manual  (PAM)  describes  the  essential  administrative  and  management 
+requirements to implement the project on time, within budget, and in accordance with  Government and 
+Asian Development Bank (ADB) policies and procedures. The PAM includes references to all available 
+templates and instructions either through linkages to relevant URLs or directly incorporated in the PAM. 
+The Gansu Provincial Government (GPG), the project executing agency, Gansu Department of Finance 
+(DOF) on behalf of GPG, and the implementing agencies, including  Bureaus of Agriculture and Animal 
+Husbandry  (BAAHs)  of  11  project  counties,  and  3  financial  intermediaries  (FIs),  i.e.  Bank  of  Lanzhou 
+(BOL),  Bank  of  Gansu  (BOG),  and  Yuzhong  Shanghai  Pudong  Development  Rural  Bank  are  wholly 
+responsible  for  the  project  implementation,  as  agreed  jointly  between  the  borrower  and  ADB,  in 
+accordance  with  Government  and  ADB’s  policies  and  procedures.  ADB  staff  is  responsible  to  support 
+implementation  including  compliance  by  the  executing  and  implementing  agencies  of  their  obligations 
+and responsibilities for project implementation in accordance with ADB’s policies and procedures. 
+At Loan Negotiations the borrower and ADB agreed to the PAM and ensured consistency with the Loan 
+Agreement.  Such  agreement  is  reflected  in  the  minutes  of  the  Loan  Negotiations.  In  the  event  of  any 
+discrepancy  or  contradiction  between  the  PAM  and  the  Loan  Agreement,  the  provisions  of  the  Loan 
+Agreement shall prevail. 
+After ADB Board approval of the project's report and recommendations of the President (RRP) changes 
+in  implementation  arrangements  are  subject  to  agreement  and  approval  pursuant  to  relevant 
+Government  and  ADB  administrative procedures  (including the  Project  Administration Instructions)  and 
+upon such approval they will be subsequently incorporated in the PAM. 
+I. 
+II. 
+III. 
+IV. 
+iv 
+ABBREVIATIONS 
+–  Asian Development Bank 
+financial intermediary 
+financial intermediation loan 
+–  Bank of Gansu 
+–  Bank of Lanzhou 
+–  Chinese Yuan 
+–  due diligence report  
+–  design and monitoring framework 
+–  Department of Finance 
+–  Development and Reform Commission 
+–  ethnic minority 
+ADB 
+ADBC  –  Agricultural Development Bank of China 
+ASME  –  agricultural small and medium enterprise  
+BAAH  –  Bureau of Agriculture and Animal Husbandry 
+BOG 
+BOL 
+CNY 
+CPMO  –  county project management office 
+DAAH  –  Department of Agriculture and Animal Husbandry 
+DDR 
+DMF 
+DOF 
+DRC 
+EM 
+EMDP  –  ethnic minority development plan  
+ESMS  –  environmental and social management system 
+FI 
+FIL 
+GDP 
+GHG 
+GPG 
+GRM 
+M&E 
+MCC 
+MOF 
+NCB 
+NDRC  –  National Development and Reform Commission 
+PPMO  –  provincial project management office  
+PPMS  –  project performance management system  
+PPTA  –  project preparatory technical assistance  
+–  People’s Republic of China  
+PRC 
+rural credit cooperative  
+RCC 
+– 
+rural financial service provider 
+RFSP  – 
+– 
+RMC 
+rural mutual cooperative  
+–  summary of expenditures 
+SOE 
+–  subproject accounts 
+SPA 
+–  Safeguard Policy Statement  
+SPS 
+–  United States Dollar  
+USD 
+–  Village and Township Bank 
+VTB 
+– 
+– 
+–  gross domestic product 
+–  greenhouse gas 
+–  Gansu Provincial Government 
+–  grievance redress mechanism 
+–  monitoring and evaluation  
+–  micro-credit company 
+–  Ministry of Finance 
+–  national competitive bidding 
+v 
+I. 
+PROJECT DESCRIPTION 
+1. 
+The  proposed  project  aims  to  support  the  production  and  access to market  of featured 
+agricultural products in the southeastern Gansu Province. The project will also help develop the 
+rural  financial  service  system,  which  plays  a  key  role  in  agricultural  development.  The  project 
+proposes  to  adopt  the  financial  intermediation  loan  (FIL)  modality,  which  through  establishing 
+partnerships with local commercial banks, can promote the development of the agriculture and 
+rural finance sectors in a market-oriented approach. The project is expected to help increase the 
+income of farmer households as well as other rural residents in the project area. 
+2. 
+While the People’s Republic of China (PRC) has achieved remarkable economic growth 
+since the late 1970s, rural development remains an important challenge. Rural poverty is more 
+pervasive and  persistent  in the  western and  inland provinces  than  the more  advanced coastal 
+regions.  Some  key  policy  challenges  include  how  to  (i)  restructure  and  modernize  the 
+agriculture  sector  toward  sustainable  and  faster  productivity  growth,  (ii)  diversify  agriculture 
+production and create modern agricultural value chains that allow for the professionalization of 
+farmers and support rural income growth, (iii) reform rural institutions and improve the financial 
+institutions serving the rural sector, and (iv) protect land and water resources for food security 
+and environmental sustainability. 
+The project area covers 11 counties in the sourtheastern Gansu, which have enormous 
+3. 
+demand and potential for modern agricultural development. The project area is located in one of 
+14  areas  of  national  focus  for  poverty  reduction  designated  in  the  Outline  for  Development-
+Oriented  Poverty  Reduction  for  China’s  Rural  Areas,  2011–2020.  Most  people  in  the  project 
+area depend on agriculture and livestock, and are poor and vulnerable. The average rural per 
+capita  net  income  in  2013  was  CNY4,122—81%  of  the  provincial  average  and  46%  of  the 
+national  average.  All  the  farms  are  very  small,  averaging  about  2.5  mu  per  capita  or  0.17 
+hectare.1 About 51% of household income in the project area is from farming and livestock, and 
+rural  unemployment  and  underemployment  are  significant.  Grain  crop  production,  which 
+accounts for about 59% of the total sown area and 33% of household income, is mainly based 
+on  small-scale  and  fragmented  household  operations  with  limited  productive  assets  at  the 
+household level. Grain crop production usually only generates marginal profit, if any, since input 
+costs have increased more than grain prices.2 
+4. 
+Alternatives to grain crops include a number of cash and tree crops that are suitable in 
+the  arid  and  semiarid  climatic  and  soil  conditions  of  the  project  area.  These  include  various 
+types  of  vegetables  such  as  potatoes,  edible  lilies,  eggplants,  peppers,  tomatoes,  and  celery; 
+medicinal  plants  such  as  angelica  and  Asia  bell;  and  tree  crops  such  as  apples  and  pears. 
+These  cash  crops,  often  referred  to  as  featured  agriculture,  have  potential  for  higher  market 
+value  if  produced  efficiently  on  scale  and  with  improved  quality.  The  government  has  tried  to 
+promote restructuring of the sector by increasing the proportion of featured agriculture activities, 
+mainly through financial and technical assistance to farmers and farmer cooperatives to develop 
+large-scale production bases for these crops. The production base approach is also desirable to 
+promote  the  application  of  environment-friendly  measures  such  as  climate-smart  agriculture 
+practices  and  water  efficiency  techniques.  However,  progress  has  been  slow  because  of  the 
+limited financial and technical resources available to the government and farmers. 
+1  A mu is a Chinese unit of measurement (1 mu = 666.67 square meters). 
+2  Data  in  this  section  come  from  government  statistic  data  provided  by  the  provincial  project  management  office 
+(PMO) unless otherwise indicated. 
+2 
+Livestock production, such as sheep, dairy cow, cattle, and pig rearing, is also part of the 
+5. 
+featured agriculture and has been another main source of income for farmer households in the 
+project area, contributing 17.6% to total household income. However, livestock and associated 
+income  growth  is  severely  constrained  by  the  limited  scale  of  production  and  traditional 
+technologies applied. Establishing specialized livestock farms with up-to-date technologies has 
+become  a  priority  for  livestock  development.  The  Gansu  Provincial  12th  Five-Year  Plan  for 
+Animal  Husbandry  particularly  encourages 
+for 
+standardized livestock farming to enhance productivity and quality of livestock sector. 
+the  establishment  of  production  bases 
+6. 
+Farmers  also  need  to  access  broad  markets  and  understand  consumer  demands  to 
+diversify  into  higher-value  crops  and  livestock.  The  challenges  of  smallholder  farmers  in  this 
+regard are characterized by the small quantity and moderate or poor quality of products brought 
+to the market. As a result, 70%–80% of vegetables produced in Gansu Province are marketed 
+through  local  brokers,  who  go  from  village  to  village  to  collect  the  products  after  they  have 
+obtained contracts from the big buyers. Low levels of organization and weak marketing capacity 
+of  individual  farmers  give  brokers  strong  bargaining  power.  Brokers  thus  earn  a  big  share  of 
+profits  in  the  supply  chain  when  dealing  with  farmers  at  the  farm  gate.  Although  farmer 
+cooperatives  and  agricultural  small  and  medium-sized  enterprises  (ASMEs)  have  played  an 
+increasing  role  in linking farmers  to markets,  they  are  still  at  an  early  stage  of  development  in 
+the project area.3 They are generally small in scale, having limited capacity to develop a value 
+chain or to service their members, have weak governance, and face difficulties obtaining credit. 
+External  assistance  is  needed  for  them  to  (i)  expand  operations  with  diversified  business 
+models;  (ii)  enhance  capacity  for  grading,  processing,  packing,  storing,  and  marketing;  and 
+(iii) strengthen governance and management. This would also make them more bankable. 
+7. 
+Strong rural financial markets and institutions with sizable outreach is another key factor 
+to develop featured agriculture. Although 67 traditional financial institutions or branches, mainly 
+rural credit cooperatives and commercial banks, are present in the project counties, they fail to 
+meet  the  demand,  especially  that  of  smallholder  farmers  and  ASMEs,  because  both  their 
+priorities and expertise focus on industrial and commercial lending.4 Following recent policies for 
+rural  financial  market  development,  rural  financial  service  providers  (RFSPs)  have  emerged. 
+These  include  some  53  microcredit  companies,  six  village  and  township  banks,  and  384  rural 
+mutual  cooperatives  that  were  in  the  project  counties  by  2014.  The  RFSPs  are  generally 
+smaller,  better  appreciating  the  potential  of  agricultural  projects,  and  more  accustomed  to 
+dealing  with small  customers.  As a result,  relatively  small  loans to agriculture  have  increased. 
+However, the RFSPs are still at an early stage of development and are either prohibited by law 
+or constrained by their short history to take deposits from the public. In addition, they are also 
+short  on  capable  staff  and  physical  and  technical  capacity  to  provide  more  services  for  rural 
+customers. 
+Previous  experience  of  the  Asian  Development  Bank  (ADB)  and  other  development 
+8. 
+partners in the sector in the PRC indicates that the government is generally constrained by its 
+capacity  and often  assumes  large credit  risks  acting  as  direct  lender to agricultural  borrowers. 
+To address the issue, the project, whose target subborrowers are all from the private sector with 
+demand  for  small  and  short-term  (1–3  years)  credit,  proposes  to  adopt  the  financial 
+intermediation loan modality. Active rural financial market reform since the 1990s has led to the 
+rise of many local commercial banks in the PRC. Some of them have properly aligned interest 
+and  capacity  in  agricultural  finance  as  well  as  sound  governance  and  incentive  systems,  and 
+3  Agricultural  small  and  medium-sized  enterprises  are  those  with  annual  sales  revenue  below  or  equal  to 
+CNY200 million, which follows the PRC’s national standard issued in 2011. 
+4  Data source: China Banking Regulatory Commission. 
+3 
+thus can serve as good financial intermediaries to onlend to farmers, cooperatives, ASMEs, and 
+RFSPs.  Through  partnerships  with  local  commercial  banks  and  careful  implementation,  the 
+project could (i) eliminate government exposure to agricultural borrowers by onlending through 
+financial  intermediaries  that  are  better  positioned  to  assess  and  assume  sub-borrower  credit 
+risk,  (ii)  use  loan  resources  more  efficiently  by  revolving  loan  proceeds,  and  (iii)  mobilize 
+additional funding resources from financial intermediaries to support agriculture. 
+9. 
+The project will assist the project counties in (i) developing market-oriented production of 
+locally featured cash crops, tree crops, and livestock products; (ii) improving market linkages for 
+featured  agricultural  products  by  supporting  profitable  and  promising  farmer  cooperatives  and 
+ASMEs; and (iii) enhancing rural financial services with increased funding, service capacity, and 
+technical  skills.  The  project  is  fully  aligned  with  the  government’s  agricultural  development 
+strategies and policies in the western regions, which encourage farmers to organize themselves 
+for  specialized  production  and  call  for  transforming  fragmented  production  to  economic  scale 
+market-oriented  production  through  land  transfer,  growth  of  farmer  cooperatives  and  agro-
+enterprises, and enhanced rural financial services. The project is also in line with the upcoming 
+ADB country partnership strategy for the PRC, 2016–2020, which identifies inclusive growth as 
+one of its three pillars, supported by boosting rural livelihoods and improving access to finance, 
+and with ADB’s strategic priorities of the Midterm Review of Strategy 2020.5 
+The  impact  will  be  increased  income  of  rural  residents  in  Gansu  Province,  which  is  in 
+10. 
+line with the upcoming 13th Five Year Plan of Gansu Province, 2016–2020. The outcome will be 
+more productive, market-oriented agricultural activities in 11 project counties. 
+Output  1:  Inclusive  and  environment-friendly  featured  agricultural  production 
+11. 
+bases  developed. This output aims to address low agricultural productivity and value addition 
+caused  by  fragmented  production  by  (i)  developing  commercial  production  bases  to  gain 
+economy  of  scale,  and  (ii)  improving  the  quality  of  products  for  locally  featured  cash  and tree 
+crops and livestock. The production bases will be developed by farmers, farmer cooperatives, or 
+ASMEs in various models, which will organize or engage individual farmers into more efficient 
+and  market-oriented  production  activities.  Capacity  development  will  be  also  conducted  for 
+farmers, technicians, and other stakeholders in developing the production bases. 
+12. 
+Output  2:  Farmer  cooperatives  and  agricultural  enterprises  financed  and 
+strengthened. This output will improve the value chain for locally featured agricultural products 
+with good market potential to link farmers to profitable markets. The project will support farmer 
+cooperatives  and  ASMEs  in  (i)  business  development  or  expansion  through  the  acquisition  of 
+packing, grading,  and  processing  equipment; transportation,  technical  equipment;  and  building 
+storage;  (ii)  market  development,  including  information  access,  sales  promotion,  and  building 
+marketing networks; (iii) branding, including certification and trademark registration for featured 
+products;  and  (iv)  capacity  development  for  the  managers  and  key  staff  of  cooperatives  and 
+ASMEs  on  business  and  financial  management,  storing  and  processing  techniques,  branding 
+and market development, and establishing and implementing governance rules and regulations. 
+Output 3: Rural financial service system developed and enhanced. This output aims 
+13. 
+to  promote  the  financial  viability,  coverage,  and  sustainability  of  the  rural  financial  service 
+system. The project will (i) onlend part of the loan proceeds to RFSPs to expand their funding 
+resources. The RFSPs will use the loan proceeds to lend to farmers, farmer cooperatives, and 
+ASMEs  following  agreed  eligibility  criteria  of  sub-borrowers;  (ii)  establish  grassroots  financial 
+service  units  such  as  village  offices  to  extend  rural  financial  service  coverage;  (iii)  develop  or 
+5  ADB. 2014. Midterm Review of Strategy 2020: Meeting the Challenges of a Transforming Asia and Pacific. Manila. 
+4 
+pilot  test  innovative  financial  services  and  products,  such  as  credit  rating,  bank–insurance 
+cooperation, and lending with new types of collateral; and (iv) provide capacity development for 
+loan  officers  and  rural  financial  professionals  to  improve  their  lending  skills  to  serve  rural 
+customers. 
+14. 
+Output 4: Capacity for project implementation and management strengthened. To 
+ensure  the  successful  implementation  of  the  project,  the  following  activities  will  be  supported 
+under  this  output:  (i)  strengthening  the  management  capacity  of  staff  at  provincial  and  county 
+project  management  offices  (PMOs);  (ii)  acquiring  office  equipment  to  enhance  the  physical 
+capacity  of  provincial  and  county  PMOs;  (iii)  holding  project  management  workshops; 
+(iv) project  monitoring  and  evaluation,  including  guiding  and  supporting  the  implementation  of 
+the environmental and social management systems (ESMSs); (v) knowledge management; and 
+(vi) ensuring financial capacity for daily operations of provincial and county PMOs. 
+15. 
+Special features. The project design embodies the following innovative features: 
+(i) 
+financial  support 
+linkages  between 
+farmer  producers  and  markets 
+Promoting agricultural development with a systematic and market-oriented 
+to  address  challenges  of  agricultural 
+approach.  The  project  attempts 
+development  and  rural  income  growth  by  improving  productivity,  market 
+connectivity,  and  access  to  finance.  Besides  engaging  farmers  in  more 
+productive agricultural activities via production base development, the project will 
+through 
+strengthen 
+cooperatives  and  ASMEs,  and  promote  continuous 
+to 
+agriculture  and  rural  residents  in  the  long  term.  Moreover,  with  partnership 
+between  the  government  and  financial  intermediaries,  loan  resources  could  be 
+allocated  in  a  more  market-oriented  manner  to  support  sustainable  agricultural 
+projects.  The  government,  through  its  extensive  agricultural  administrative  and 
+technical  systems,  could  help  identify  and  develop  subprojects  with  significant 
+market  potential  and  apply  environmentally  sound  practices.  The  financial 
+intermediaries’  screening,  monitoring,  and  management  of  subloans  will  help 
+ensure the subprojects are financially viable and sustainable. 
+Supporting a dynamic and competitive rural financial market. A dynamic and 
+competitive rural financial market is  important to meet growing demand for rural 
+financial  services,  in  which  RFSPs  could  play  a  significant  role.  Under  the 
+existing policy framework, commercial banks, especially those large- or medium-
+sized, could lend to RFSPs to increase their capital capacity and support RFSPs 
+through knowledge sharing. This market link is currently missing. The project will 
+help build such linkages, as financial intermediaries will onlend the loan proceeds 
+to  RFSPs  together  with their  own  resources  and  provide  training  to  RFSP  staff. 
+This will be on a pilot scale, but could generate a large demonstration effect.  
+Partnership  with  local  banks.  Three  local  commercial  banks—the  Bank  of 
+Lanzhou, the Bank of Gansu, and the Yuzhong Shanghai Pudong Development 
+Rural  Bank—are  identified  as  project  financial  intermediaries.  As  small  to 
+medium-sized banks, they share the project’s goals of promoting local agriculture 
+and  rural  finance  development  in  the  project  area.  The  financial  intermediaries 
+will  onlend  the  majority  of  loan  proceeds  to  targeted  sub-borrowers  for 
+agricultural  production  base  development  under  output  1  and  business 
+development or expansion under output 2, and onlend to RFSPs under output 3. 
+They will also contribute about $68.58 million as counterpart funds to be onlent to 
+the  targeted  sub-borrowers  of  the  project,  applying  the  same  requirements  and 
+eligibility, and to strengthen rural financial services in the project area. 
+(ii) 
+(iii) 
+II. 
+IMPLEMENTATION PLANS 
+A. 
+Project Readiness Activities 
+5 
+ADB = Asian Development Bank, CBOF = county bureau of finance, FIs = financial intermediaries, FSR = feasibility 
+study  report,  GDOF  =  Gansu  Department  of  Finance,  GDRC  =  Gansu  Provincial  Development  and  Reform 
+Commission,  GPG  =  Gansu  Provincial  Government,  MOF  =  Ministry  of  Finance,  PPMO  =  provincial  project 
+management office, FIs = financial intermediaries. 
+Source: Asian Development Bank estimates. 
+5 
+Indicative ActivitiesApproval of domestic FSRGDRC, PPMOAdvance contracting actionsPPMO, FIs, ADBRetroactive financing actionsPPMO, FIs, ADBLoan negotiationsMOF, GPG, ADBADB Board approvalADBGovernment budget inclusionGPGLoan signingMOF, GPG, and ADBGovernment legal opinion providedMOF, GPGFinalization of onlending agreementsGPG, County GovernmentsFinalization of relending agreementsGDOF, CBOFs and FIsLoan effectivenessMOF, GPG, and ADBResponsibilityQ2Q3Q4Q120152016 
+6 
+B. 
+Overall Project Implementation Plan  
+ASMEs  =  agricultural  small  and  medium  enterprises,  CPMO  =  county  project  management  office,  EMDP  =  ethnic 
+minority  development  plan,  ESMS  =  environmental  and  social  management  system,  PPMO  =  provincial  project 
+management  office,  PPMS  =  project  performance  monitoring  system,  RFSPs  =  rural  financial  service  providers, 
+SGAP = social and gender action plan. 
+Source: Asian Development Bank estimates. 
+2015Q4Q1Q2Q3Q4Q1Q2Q3Q4Q1Q2Q3Q4Q1Q2Q3Q4Q1Q2Q3Q4Q1Q2Q3Output 1: Inclusive and environmentally-friendly featured agricultural production bases developed1.1 Cash crops production bases1.2 Livestock production bases1.3 Tree crop production basesOutput 2: Farmer cooperatives and agricultural enterprises financed and strengthened2.1 Market development2.2 Business expansion2.3 Capacity buildingOutput 3: Rural financial service system developed and enhanced3.1 RFSPs identification3.2 Onlending of funds3.3 Product development/piloting3.4 System enhancement3.5 Capacity buildingOutput 4: Capacity for project implementation and management strengthened4.1 Recruitment of project implementation consultants4.2 Submission of authorized signatories for withdrawal application and opening of imprest account4.3 PPMS establishment4.4 Capacity building for project implementation4.5 Prepare bidding documents4.6 Reporting and monitoring(i) ESMS establishment and implementation(ii) EMDP key activities(iii) SGAP key activities(iv) Inception/annual/midterm review mission(v) Project progress reports and safeguards report(vi) Project audit report(vii) Project completion report20202021Loan effectivenessLoan closingPhysical completionActivity20162017201820197 
+III. 
+PROJECT MANAGEMENT ARRANGEMENTS 
+A. 
+Project Implementation Organizations—Roles and 
+Responsibilities 
+Project implementation 
+organizations 
+Provincial and county 
+project leading groups 
+(PPLG and CPLGs) 
+Management Roles and Responsibilities 
+  Provide overall guidance, coordination, supervision, and management 
+for project preparation and implementation 
+  Coordinate project implementation activities among government 
+agencies 
+  Resolve any institutional problems affecting project preparation and 
+implementation 
+Gansu Department of 
+Finance (DOF) and county 
+bureaus of finance 
+(CBOFs)  
+Provincial and county 
+project management offices 
+(PPMO and CPMOs) 
+  Establish, manage, and reconcile the imprest account (DOF) 
+  Review, approve, and submit loan withdrawal applications to ADB 
+  Manage and supervise loan repayment 
+  Ensure timely provision of government counterpart funds 
+  PPMO acts as direct counterpart for ADB and assume major 
+responsibility for day-to-day project implementation 
+  Prepare the annual work plan and budget in coordination with the 
+stakeholders 
+  For the first batch of subloans, prepare or update the long list of 
+subprojects based on information from IAs 
+  For the subprojects financed by revolved funds, supervise FIs’ subloan 
+processing to ensure that eligibility criteria for sub-borrowers and other 
+requirements stipulated in the relending agreement are met 
+  Supervise relending from FIs to RFSPs to ensure that eligibility criteria 
+for RFSPs and other requirements in the relending agreement are met  
+  Support FIs and RFSPs to establish, based on the ESMS template, 
+and implement the  ESMS 
+  Recruit and manage consultants for project implementation and to 
+assist FIs and RFSPs in implementing of ESMS 
+Implement the project level EMDP and SGAP 
+ 
+  Establish and implement the project grievance redress mechanism 
+  Coordinate training and capacity development activities 
+  Review withdrawal applications prepared by the implementing 
+agencies before they are submitted to DOF 
+  Prepare and submit (i) semi-annual project progress reports, (ii) annual 
+audited project financial statements, (iii) semi-annual safeguards 
+monitoring reports, and (iv) a project completion report in the end of 
+loan implementation period to ADB, GPG, and other relevant 
+government departments; 
+  Organize and assist procurement activities, particularly attend bid 
+opening, supervise the bid evaluation process, and endorse bid 
+evaluation reports for all procurement packages (goods and consulting 
+services) 
+  Establish baseline data to monitor project impacts, including regular 
+monitoring of physical and financial progress 
+  Liaise with ADB, FIs and other agencies 
+County 
+agriculture 
+husbandry  
+bureaus 
+and 
+of 
+animal 
+(For the first batch of subloans) 
+  Develop candidate subprojects with potential sub-borrowers under 
+outputs 1 and 2, ensuring they contribute to project objectives as 
+8 
+Project implementation 
+organizations 
+(BAAHs) 
+Financial intermediaries  
+(FIs) 
+ADB 
+Management Roles and Responsibilities 
+specified in the DMF and that they comply with the ESMS 
+requirements 
+  Provide detailed information on the candidate subprojects and sub-
+borrowers to the CPMOs to be included the long list 
+  Provide technical guidance and infrastructure investment to the 
+subprojects financed by FIs under the project 
+  Ensure that land use rights transfer agreements are endorsed by 
+township agricultural stations 
+  Monitor implementation of the subprojects and advise the CPMOs and 
+FIs the implementation status of the subprojects 
+  Provide training and capacity development for farmers, cooperatives, 
+and agro-enterprises 
+  For the first batch of subloans, screen sub-borrowers in the long list 
+ 
+from the government and process subloans to qualified sub-borrowers 
+Identify candidate subprojects to supplement the long list for the first 
+batch of subloans 
+  Provide counterpart funds for the project as agreed 
+  Recycle all principal of the onlent ADB loan proceeds that are repaid 
+by sub-borrowers to finance the subsequent subloans 
+  Establish and implement an ESMS based on the ESMS template 
+  Work closely with PPMO and CPMO to implement the grievance 
+redress mechanism 
+  Submit  subloan  appraisal  and  safeguard  documents  to  ADB  through 
+the PPMO for those that need ADB prior review and approval 
+  Provide subloans in wholesale to qualified RFSPs 
+  Monitor RFSPs’ lending to sub-borrowers to meet eligibility criteria for 
+sub-borrowers of RFSPs and ESMS requirements 
+  Establish a separate ledger account to track the receipt and use of the 
+ADB loan proceeds, as well as interest payments and principal 
+repayments from the sub-borrowers; maintain the required project 
+accounting and implementation records; prepare periodic financial 
+statements on subloans 
+  Report to the CPMOs through progress reports and ESMS progress 
+reports on subloans, lending to RFSPs, as well as RFSPs’ subloans 
+  Liaise with CPMOs, PPMO, and other relevant agencies 
+  Provide guidance and support to executing and the implementing 
+agencies to ensure compliance with loan and project agreements 
+  Conduct regular loan review missions, midterm review mission, and 
+project completion review 
+  Review and approve subloans that require prior review 
+  Review and approve procurement actions 
+  Process withdrawal applications and release loan funds 
+  Monitor the project implementation progress 
+  Review annual audit reports and follow up on audit recommendations 
+ADB  =  Asian  Development  Bank,  BAAH  =  Bureau  of  Agriculture  and  Animal  Husbandry,  CPMOs  =  county  project 
+management  offices,  DMF  =  design  and  monitoring  framework,  DOF  =  Department  of  Finance,  EMDP  =  ethnic 
+minority  development  plan,  ESMS  =  environmental  and  social  management  system,  FIs  =  financial  intermediaries, 
+GPG = Gansu Provincial Government, IAs = implementing agencies, PPMO = provincial project management office, 
+RFSPs = rural financial service providers, SGAP = social and gender action plan. 
+Sources: Asian Development Bank estimates.   
+B. 
+Key Persons Involved in Implementation  
+9 
+Executing Agency  
+Gansu Department of 
+Finance (on behalf of 
+Gansu Provincial 
+Government) 
+Provincial Project 
+Management Office 
+Gansu Department 
+Agriculture and Annial 
+Husbandry 
+Mr. Zhang Jian 
+Director, International Division, DOF 
+Telephone No.: 0931-8891033 
+Fax No.: 0931-8891043 
+E-mail address: zhangjian0935@sina.com 
+Office address: No. 696 of Donggang West Road, Chengguan 
+District, Lanzhou, Gansu Province 
+Ms. Zhang Xiaoping 
+Adviser, International Division, DOF 
+Telephone No.: 0931-8891052 
+Fax No.: 0931-8891043 
+E-mail address: xpzhang@vip.sina.com 
+Office address: No. 696 of Donggang West Road, Chengguan 
+District, Lanzhou, Gansu Province 
+Mr. Duan Qibin 
+Director, Foreign Project Management Office,  
+Gansu Agricultural and Animal Husbandry Department;  
+Tel: +86 931 8179260 
+Fax: +86 931 8179280 
+Email: dyydqb@126.com 
+Office address: No. 106, Pingliang Road, Chengguan District, 
+Lanzhou, Gansu Province 
+Ms. Zhao Dongqing 
+Deputy Director, Foreign Project Management Office,  
+Gansu Agricultural and Animal Husbandry Department;  
+Tel: +86 931 8179260 
+Email: gszdq@163.com 
+Office address: No. 106, Pingliang Road, Chengguan District, 
+Lanzhou, Gansu Province 
+ADB 
+Environment, Natural 
+Resources, and Agriculture 
+Division, 
+East Asia Department 
+Mission Leader 
+Mr. Qingfeng Zhang 
+Director 
+Telephone No.: +632-632 6161 
+Fax No.: +632-636 2534/2444 
+Email address: qingfengzhang@adb.org 
+Mr. Yi Jiang  
+Senior Economist  
+Telephone No.: +632-632 5978 
+Email address: yijiang@adb.org  
+10 
+C. 
+Project Organization Structure  
+ASMEs = agricultural small and medium enterprises, BAAH = Bureau of Agriculture and Animal Husbandry, CPLG = 
+county  project  leading  group,  CPMO  =  county  project  management  office,  DAAH  =  Department  of  Agriculture  and 
+Animal  Husbandry,  PPLG  =  provincial  project  leading  group,  PPMO  =  provincial  project  management  office,  FIs  = 
+financial Intermediaries, RFSPs = rural financial service providers. 
+Source: Asian Development Bank.  
+Gansu Provincial GovernmentAsian Development BankPPLG11 BAAHs11 CPMOs11 CPLGsDAAHPPMOFIsRFSPsFarmers, farmer cooperatives and ASMEs 
+11 
+IV. 
+COSTS AND FINANCING 
+A. 
+Cost Estimates Preparation and Revisions  
+Preparation.  The  cost  estimates  were  prepared  jointly  by  the  PPMO  and  ADB  with 
+16. 
+assistance  from  the  project  preparatory  technical  assistance  (PPTA)  consultant.  The  sources 
+and  basis  for  cost  estimates  were  reviewed  during  the  project  preparation  and  had  been 
+confirmed  by  related  parties.  The  process  was  facilitated  by  a  model  in  excel  software  which 
+enabled  easy  updating  or  revision  if  necessary.  The  model  is  maintained  by  both  PPMO  and 
+ADB. 
+17. 
+Revisions.  Revision  of  cost  estimates  will  be  conducted  when  deemed  necessary 
+during  implementation.  The  PPMO  will  be  responsible  in  proposing  and  drafting  the  revision 
+which will be subject to ADB approval.  
+B. 
+Cost Categories 
+18. 
+Cost categories are as follows: 
+Category 
+Inclusive and 
+environmentally-friendly 
+featured agricultural 
+production bases developed 
+Farmer cooperatives and 
+agricultural enterprises 
+financed and strengthened 
+Description 
+Includes subloans to sub-borrowers through FIs, lending by 
+FIs, and capacity building conducted by government. 
+Includes subloans to sub-borrowers through FIs, lending by 
+FIs, market development and brand promotion activities by 
+beneficiaries and the government, and capacity building 
+conducted by government. 
+Rural financial service system 
+developed and enhanced 
+Includes subloans to RFSPs through FIs, and establishment of 
+grassroots financial services units, piloting of innovative 
+financial services, and capacity building conducted by FIs. 
+Capacity for project 
+implementation and 
+management strengthened 
+Includes project management capacity building, office 
+equipment, workshops, project monitoring and evaluation, 
+knowledge management, and operations of PPMO and 
+CPMOs. 
+ASMEs  =  agricultural small  and  medium  enterprises,  CPMOs  = county  project  management  offices,  FIs  =  financial 
+intermediaries, PPMO = provincial project management office, RFSPs = rural financial service providers. 
+Source: Asian Development Bank estimates. 
+C. 
+Assumptions 
+19. 
+The following key assumptions underpin the cost estimates and financing plan: 
+i. 
+ii. 
+Exchange rate: $1.00 = CNY6.1412 (as of 25 November 2014).  
+Price  contingencies  based  on  expected  cumulative 
+implementation period are as follows: 
+inflation  over 
+the 
+12 
+Domestic rate of price inflation 
+Foreign rate of price inflation 
+2015 
+3% 
+1.0% 
+2016 
+3% 
+1.4% 
+2017 
+3% 
+1.4% 
+2018 
+3% 
+1.4% 
+2019 
+3% 
+1.4% 
+Average 
+3% 
+1.3% 
+iii. 
+In-kind contributions were not calculated in this project. 
+D. 
+Summary Cost Estimates and Financing Plan 
+The  project  will  take  the  financial  intermediation  loan  (FIL)  modality  for  its  majority  of 
+20. 
+loan proceeds. The project is estimated to cost $200.0 million (Table 1) based on the projected 
+first  batch  of  subprojects. 6  Loan  proceeds  will  be  disbursed  according  to  ADB’s  Loan 
+Disbursement  Handbook  (2015,  as  amended  from  time  to  time),  and subject to the provisions 
+of the loan agreement. Financial intermediaries (FIs) will revolve the ADB loan proceeds to make 
+them available for the subsequent subprojects.7  
+Table 1: Summary Cost Estimates (First Batch of Subprojects)  
+($ million) 
+Item 
+A. Base Costb 
+1.          Inclusive and environmentally-friendly featured agricultural production bases 
+developed 
+2.          Farmer cooperatives and agricultural enterprises financed and strengthened 
+3.          Rural financial service system developed and enhanced 
+4.          Capacity for project implementation and management strengthened 
+Subtotal (A) 
+B. Contingenciesc 
+C. Financial Charges During Implementationd 
+Total Project Cost (A+B+C) 
+Amounta 
+72.77 
+72.19 
+27.88 
+5.88 
+178.72 
+13.61 
+7.67 
+200.00 
+a    Includes  taxes  and  duties  of  $9.77  million,  to  be  financed  by  the  beneficiaries,  government,  and  Asian 
+Development Bank (ADB)  loan resources. The following principles were followed in determining the amount of 
+taxes  and  duties  to  be  financed  by  ADB:  (i)  the  amount  is  within  reasonable  country  thresholds,  (ii)  the 
+amount  does  not  represent  an  excessive  share  of  the  project  investment  plan,  (iii)  taxes  and  duties  apply 
+only  to  ADB-financed expenditures, and  (iv)  the  financing of the taxes and duties is material and relevant to 
+the success of the project. 
+b   In December 2014 prices. 
+c      Physical  contingencies  are  computed  at    5%  for  works  and  goods.  Price  contingencies  are  computed 
+using  domestic inflation rates: 3.0% for 2015 onwards; and foreign inflation rates: 1.0% for 2015 and 1.4% for 
+2016 onwards. 
+d   Includes interest and commitment charges to be capitalized under the ADB loan. Interest during construction 
+for the ADB loan has been computed using the  5-year US dollar fixed swap rate plus a spread of 0.50% and 
+a  maturity  premium  of  0%.  Commitment  charge  is  0.15%  per  year  to  be  charged  on  the  undisbursed  loan 
+amount.  
+Note: Numbers may not sum precisely because of rounding. 
+Source: Asian Development Bank estimates. 
+6   The first batch refers to subprojects financed by loan proceeds initially disbursed by ADB and financial intermediary 
+(FI) funds provided in parallel during the loan implementation period. The first batch of subprojects under outputs 1 
+and  2  will  be  selected  from  a  long  list  of  subprojects  proposed  and  updated  by  the  government.  Appendix  1 
+describes the selection and approval procedures for these subprojects. 
+7   For these subprojects, as well as loans made by the FIs to RFSPs and by RFSPs to sub-borrowers under Output 
+3, FIs and RFSPs will adopt the eligibility criteria in screening the sub-borrowers, which are described in Appendix 
+2. 
+13 
+The  government  has  requested  a  loan  of  $100  million  from  ADB’s  ordinary  capital 
+21. 
+resources  to  help  finance  the  project.  The  loan  will  have  a  15-year  term,  including  a  grace 
+period  of  9  years,  a  straight  line  repayment  option,  an  annual  interest  rate  determined  in 
+accordance  with  ADB’s  London  interbank  offered  rate  (LIBOR)-based  lending  facility,  a 
+commitment charge of 0.15% per year,  and  such  other  terms  and  conditions  to  be  set  forth  in 
+the  draft  loan  and  project  agreements.  The  longer  grace  period  is  essential  to  make  the  loan 
+proceeds  available  in  full  amount  for  a  greater  number  of  sub-borrowers  to  maximize  the 
+benefits  of  FIL.  Based  on  this,  the  average  loan  maturity  is  12.25  years  and  the  maturity 
+premium  payable  to  ADB  is  zero  per  annum.  The  ADB  loan  will  also  finance  taxes  and 
+duties  for  eligible  ADB-financed expenditures, and transportation  and  insurance  costs  included 
+in  the  base  cost  for  ensuring  smooth  project  implementation.  The  interest  during  construction 
+and commitment charges will be capitalized. The loan will finance 50% of the project cost. 
+22. 
+Three local commercials banks have been identified to serve as FIs under the project. FIs 
+have agreed to contribute about $68.58 million equivalent, or 34.3% of the project cost, from their 
+own  resources  to  the  project.  The  counterpart  funds  from  FIs  will  (i)  finance  a  subset  of 
+subprojects for the first batch.8 (ii) be onlent to RFSPs together with ADB funds, and (iii) expand 
+rural finance service units, develop innovative financial services, and strengthen capacity of rural 
+loan officers of FIs and RFSPs. Subproject beneficiaries under outputs 1 and 2 are expected to 
+contribute  in  equity  about  $24.67  million  equivalent,  or  12.3%  of  the  project  cost,  in  kind  or  in 
+cash. The rest of the project cost, about $6.75 million equivalent or 3.4% of the total cost, will be 
+financed by the GPG.  
+23. 
+The summary financing plan is in Table 2. The People’s Republic of China (PRC), GPG, 
+and  FIs  have  assured  ADB  that  counterpart  funding  will  be  provided  or  secured  in  a  timely 
+manner,  including  any  additional  counterpart funding  required for  any  shortfall  of  funds  or  cost 
+overruns. 
+Table 2: Summary Financing Plan (First Batch of Subprojects) 
+Source 
+Amount ($ million) 
+Share of Total (%) 
+                  Asian Development Bank 
+                     Ordinary Capital Resources 
+                  Financial Intermediaries 
+                  Beneficiaries 
+                  Gansu Provincial Government 
+Source: Asian Development Bank estimates. 
+Total  
+100.00 
+68.58 
+24.67 
+6.75 
+200.00 
+50.0 
+34.3 
+12.3 
+3.4 
+100.0 
+24. 
+The PRC Government will be the borrower of the loan and re-lend the loan to the GPG. 
+GPG will in turn re-lend the loan to the participating county governments. For the loan proceeds 
+to be onlent to the sub-borrowers and RFSPs by FIs, each county government will relend to the 
+FI assigned to the county in US dollar on the same terms and conditions as those of the ADB 
+loan.  The  relending  agreement  between  the  government  and  FI  will  cover,  among  others, 
+repayment schedule, risk management, FI’s counterpart funds, and monitoring and reporting. 
+25. 
+The subloans from FIs to farmers, cooperatives and ASMEs will be in local currency and 
+interest rates will be set taking into account the cost of ADB loan, FIs’ operational costs, costs to 
+cover  credit  risk  and  exchange  risk,  and  reasonable  profit  margin  for  FIs,  and  subject  to  a 
+8   Same  terms  and  conditions  as  ADB-funded  subprojects  including  ESMS  requirements  apply  to  these  subloans 
+expected for the interest cap (see para. 24).    
+14 
+maximum  ceiling.9 The  current  ceiling  of  subloan  interest  rate  (6.5%)  falls  into  the  range  of  the 
+prevailing market rates in the project area, which range from 6.5% to 12%, and entails a spread 
+for the  FIs  equivalent to what they have  on their other funding resources.10 Subloan  tenors  will 
+generally be coordinated with subproject needs. For loan proceeds to be re-lent to RFSPs and 
+onlent by RFSPs to sub-borrowers, there is no ceiling on the interest rates applied. 
+9   FIs  have  agreed  with  the  government  that  (i)  when  ADB  loan  interest  rate  is  below  or  equal  to  2%,  the  ceiling  is 
+6.5%; and (ii) the ceiling will be increased by adding 0.5 percentage point if ADB’s interest rate exceeds 2% and by 
+adding  an  additional  0.5  percentage  point  each  time  ADB’s  interest  rate  increases  by  0.5  percentage  point 
+thereafter. For instance, if ADB loan interest rate falls in 2+~2.5%, the ceiling is 7%, and so on. 
+10  The information is based on the reports by the provincial project management office, FIs, and project preparatory 
+technical assistance team. 
+E. 
+Detailed Cost Estimates by Expenditure Category  
+Item 
+A. Base costsb 
+ 1. Inclusive and environmentally-friendly featured agricultural 
+production bases developed 
+        1.1 Subprojects by Subloans through FIs 
+        1.2 Subprojects by Lending of FIs 
+        1.3 Capacity building 
+ 2. Farmer cooperatives and agricultural enterprises financed 
+and strengthened 
+        2.1 Subprojects by Subloans through FIs 
+        2.2 Subprojects by Lending of FIs 
+        2.3 Market development 
+        2.4 Brand promotion 
+        2.5 Capacity building 
+3. Rural financial service system developed and enhanced 
+      3.1 Subloans to RFSPs through FIs 
+      3.2 Grassroots financial services units 
+      3.3 Pilot innovative financial services 
+      3.4 Capacity building 
+4. Capacity for project implementation and management  
+strengthened 
+    4.1 Project management capacity building 
+    4.2 Office equipment 
+    4.3 Project management workshops 
+    4.4 Project monitoring and evaluation 
+    4.5 Knowledge management 
+    4.6 Operations of PPMO and CPMOs 
+Subtotal (A) 
+B.   Contingenciesc  
+1. Physical 
+2. Price 
+(CNY million) 
+Local  
+Foreign 
+Total 
+Foreign 
+($ million) 
+Local  
+Total 
+Exchange  Currency  Cost 
+Exchange  Currency  Cost 
+314.28 
+132.64 
+446.92 
+314.28 
+0.00 
+0.00 
+43.45 
+85.18 
+4.00 
+357.74 
+85.18 
+4.00 
+187.37 
+255.96 
+443.33 
+139.00 
+0.00 
+8.01 
+40.36 
+0.00 
+51.50 
+51.50 
+0.00 
+0.00 
+0.00 
+34.75 
+215.90 
+0.00 
+0.00 
+5.31 
+119.73 
+28.16 
+78.16 
+11.00 
+2.41 
+173.75 
+215.90 
+8.01 
+40.36 
+5.31 
+171.23 
+79.66 
+78.16 
+11.00 
+2.41 
+13.88 
+22.24 
+36.12 
+8.38 
+5.50 
+0.00 
+0.00 
+0.00 
+0.00 
+567.04 
+1.94 
+0.55 
+2.23 
+1.32 
+3.20 
+13.00 
+10.32 
+6.05 
+2.23 
+1.32 
+3.20 
+13.00 
+530.56  1097.60 
+0.00 
+0.00 
+55.16 
+28.42 
+55.16 
+28.42 
+51.18 
+51.18 
+0.00 
+0.00 
+30.51 
+22.63 
+0.00 
+1.30 
+6.57 
+0.00 
+8.39 
+8.39 
+0.00 
+0.00 
+0.00 
+2.26 
+1.36 
+0.90 
+0.00 
+0.00 
+0.00 
+0.00 
+92.33 
+0.00 
+0.00 
+21.60 
+72.77 
+7.08 
+13.87 
+0.65 
+58.25 
+13.87 
+0.65 
+41.68 
+72.19 
+5.66 
+35.16 
+0.00 
+0.00 
+0.86 
+19.50 
+4.59 
+12.73 
+1.79 
+0.39 
+28.29 
+35.16 
+1.30 
+6.57 
+0.86 
+27.88 
+12.97 
+12.73 
+1.79 
+0.39 
+3.62 
+5.88 
+0.32 
+0.09 
+0.36 
+0.22 
+0.52 
+2.12 
+1.68 
+0.99 
+0.36 
+0.22 
+0.52 
+2.12 
+86.39  178.73 
+8.98 
+4.63 
+8.98 
+4.63 
+15 
+% of 
+Total 
+Base 
+Cost 
+41.0 
+33.0 
+8.0 
+0.0 
+40.0 
+16.0 
+20.0 
+1.0 
+4.0 
+0.0 
+16.0 
+7.0 
+7.0 
+10 
+0.0 
+3.0 
+1.0 
+1.0 
+0.0 
+0.0 
+0.0 
+1.0 
+100.0 
+5.0 
+3.0 
+16 
+Item 
+(CNY million) 
+Local  
+Foreign 
+Total 
+Foreign 
+($ million) 
+Local  
+Total 
+Exchange  Currency  Cost 
+Exchange  Currency  Cost 
+% of 
+Total 
+Base 
+Cost 
+Subtotal (B) 
+C.   Financial Charges During Implementationd 
+Total Project Cost (A+B+C) e 
+Note: Numbers may not sum precisely because of rounding. 
+a  Includes taxes and duties of $9.77 million, to be financed by the government and Asian  Development Bank (ADB) loan resources. The following principles 
+were followed in determining the amount of taxes and duties to be financed by ADB: (i) the amount is within reasonable country thresholds, (ii) the amount 
+does not represent an excessive share of the project investment plan, (iii) taxes and duties apply only to ADB-financed expenditures, and (iv) the financing of 
+the taxes and duties is material and relevant to the success of the project. 
+83.57 
+47.08 
+614.13  1228.25 
+13.61 
+7.67 
+100.00  200.00 
+0.00 
+7.67 
+100.00 
+0.00 
+47.08 
+614.12 
+8.0 
+4.0 
+112.0 
+13.61 
+0.00 
+83.57 
+0.00 
+b  In December-2014 prices. 
+c  Physical contingencies are computed at 5% for works and goods. Price contingencies are computed using domestic inflation rates: 3.0% for 2015 onwards; 
+and foreign inflation rates: 1.0% for 2015, and 1.4% for 2016 onwards. 
+d  Includes interest and commitment charges to be capitalized under the ADB loan, computed using the 5-year US dollar fixed swap rate plus a spread of 0.50% 
+and a maturity premium of 0%. Commitment charge for the ADB loan is 0.15% per year to be charged on the undisbursed loan amount. 
+e Annual audit of the project will be conducted by government auditor and will not incur any cost to the project. 
+Source: Asian Development Bank estimates. 
+17 
+F. 
+Allocation and Withdrawal of Loan Proceeds  
+Category 
+No.  
+Item 
+1 
+1A 
+1B 
+1C 
+2 
+3 
+Subloans through 
+financial intermediaries 
+Establishment of 
+production bases 
+Support to cooperatives 
+/agricultural small and 
+medium enterprises 
+Rural financial service 
+system 
+Market development and 
+project management 
+supporta 
+Interest and commitment 
+charges 
+Total 
+Total Amount Allocated   
+for ADB Financing 
+Category 
+Subcategory 
+   82,196,000  
+51,176,000  
+22,634,000  
+8,386,000  
+     10,138,000  
+     7,666,000  
+  100,000,000  
+ADB Financing 
+Percentage and  
+Basis for Withdrawal 
+from the Loan Account 
+100% of expenditures 
+claimed 
+100% of expenditures 
+claimed 
+65% of expenditures claimed 
+100% of expenditures 
+claimed 
+100% of amount due 
+a  ADB financing part will be on a front-loading basis and ADB will disburse in 100% up to the specified amount.  
+Note: Subject to the condition for withdrawal in para. 8 of Schedule 2 of Loan Agreement 
+18 
+Item 
+G. 
+Detailed Cost Estimates by Financier ($ million) 
+A. Base costsb 
+ 1. Inclusive and environmentally-friendly 
+featured agricultural production bases 
+developed 
+        1.1 Subprojects by Subloans through FIs 
+        1.2 Subprojects by Lending of FIs 
+        1.3 Capacity building 
+ 2. Farmer cooperatives and agricultural 
+enterprises financed and strengthened 
+        2.1 Subprojects by Subloans through FIs 
+        2.2 Subprojects by Lending of FIs 
+        2.3 Market developmentg 
+        2.4 Brand promotiong 
+        2.5 Capacity building 
+3. Rural financial service system developed 
+and enhanced 
+      3.1 Subloans to RFSPs through FIs 
+      3.2 Grassroots financial services units 
+      3.3 Pilot innovative financial services 
+      3.4 Capacity building 
+4. Capacity for project implementation and 
+management  strengthened 
+    4.1 Project management capacity buildingg 
+    4.2 Office equipmentg 
+    4.3 Project management workshops 
+    4.4 Project monitoring and evaluation 
+    4.5 Knowledge management 
+    4.6 Operations of PPMO and CPMOs 
+Subtotal (A) 
+ADB 
+FIs 
+Beneficiariesf 
+Government 
+Amount  % 
+Amount  % 
+Amount  %  Amount  % 
+Total 
+Cost 
+Amount 
+51.18 
+70.0 
+12.19 
+17.0 
+8.76  12.0 
+0.65 
+1.0 
+72.77 
+51.18 
+0.0 
+0.0 
+88.0 
+0.0 
+0.0 
+0.0 
+12.19 
+0.0 
+0.0 
+88.0 
+0.0 
+7.08  12.0 
+1.68  12.0 
+0.0 
+0.0 
+30.51 
+42.0 
+27.57 
+38.0 
+12.55  17.0 
+22.63 
+80.0 
+0.0 
+0.0 
+1.30  100.0 
+6.57  100.0 
+0.0 
+0.0 
+0.0 
+27.57 
+0.0 
+0.0 
+0.0 
+0.0 
+78.0 
+0.0 
+0.0 
+0.0 
+5.66  20.0 
+6.89  20.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+8.39 
+30.0 
+19.50 
+70.0 
+0.0 
+0.0 
+8.39 
+0.0 
+0.0 
+0.0 
+65.0 
+0.0 
+0.0 
+0.0 
+4.59 
+35.0 
+12.73  100.0 
+1.79  100.0 
+0.39  100.0 
+2.26 
+38.0 
+0.0 
+0.0 
+1.36 
+0.90 
+0.0 
+0.0 
+0.0 
+0.0 
+92.33 
+81.0 
+91.0 
+0.0 
+0.0 
+0.0 
+0.0 
+52.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+59.25 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+33.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+21.31  12.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.65  100.0 
+1.56 
+0.0 
+2.0 
+0.0 
+0.69 
+0.0 
+0.0 
+2.0 
+0.0 
+0.0 
+0.86  100.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+3.62 
+62.0 
+19.0 
+0.32 
+0.09 
+9.0 
+0.36  100.0 
+0.22  100.0 
+0.52  100.0 
+2.12  100.0 
+3.0 
+5.83 
+58.25 
+13.87 
+0.65 
+72.19 
+28.29 
+35.16 
+1.30 
+6.57 
+0.86 
+27.88 
+12.97 
+12.73 
+1.79 
+0.39 
+5.88 
+1.68 
+0.99 
+0.36 
+0.22 
+0.52 
+2.12 
+178.73 
+Item 
+B.   Contingenciesc  
+1. Physical 
+2. Price 
+Subtotal (B) 
+ADB 
+FIs 
+Beneficiariesf 
+Government 
+Amount  % 
+Amount  % 
+Amount  %  Amount  % 
+19 
+Total 
+Cost 
+Amount 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+6.16 
+3.17 
+9.33 
+69.0 
+69.0 
+69.0 
+2.22  25.0 
+1.14  25.0 
+3.36  25.0 
+0.61 
+0.31 
+0.92 
+7.0 
+7.0 
+7.0 
+8.98 
+4.63 
+13.61 
+7.67 
+C.   Financial Charges During 
+Implementationd 
+Total Project Cost (A+B+C) e 
+Note: Numbers may not sum precisely because of rounding. 
+a    Includes  taxes  and  duties  of  $9.77  million,  to  be  financed  by  the  government  and  Asian  Development  Bank  (ADB)  loan  resources.  The  following 
+principles were followed in determining the amount of taxes and duties to be financed by ADB: (i) the amount is within reasonable country thresholds, 
+(ii) the amount does not represent an excessive share of the project investment plan, (iii) taxes and duties apply only to ADB-financed expenditures, 
+and (iv) the financing of the taxes and duties is material and relevant to the success of the project. 
+24.67  12.0 
+b  In December-2014 prices. 
+c  Physical contingencies are computed at 5% for works and goods. Price contingencies are computed using domestic inflation rates: 3.0% for 2015 
+100.00 
+200.00 
+100.0 
+68.58 
+50.0 
+34.0 
+7.67 
+6.75 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+3.0 
+onwards; and foreign inflation rates: 1.0% for 2015, and 1.4% for 2016 onwards. 
+d  Includes interest and commitment charges to be capitalized under the ADB loan, computed using the 5-year US dollar fixed swap rate plus a spread 
+of 0.50% and a maturity premium of 0%. Commitment charge for the ADB loan is 0.15% per year to be charged on the undisbursed loan amount. 
+e  Annual audit of the project will be conducted by government auditor and will not incur any cost to the project. 
+f  Contributions from beneficiaries will be in kind and/or in cash depending on the nature of the subprojects. 
+g   These items correspond to Category 2 Market Development and Project Management Support in the loan allocation table (Attachment to Schedule 2) 
+    of the Loan Agreement. ADB financing part will be on a front-loading basis and ADB will disburse in 100% up to the specified amount.  
+Source: Asian Development Bank estimates. 
+20 
+H. 
+Detailed Cost Estimates by Outputs/Components ($ million) 
+Item 
+Total Cost 
+A. Base Costb 
+1. Subprojects by subloans through FIs 
+2. Subprojects by lending of FIs 
+3. Capacity building and other supports 
+4. Project management 
+Subtotal (A) 
+B.   Contingenciesc  
+1. Physical 
+2. Price 
+Subtotal (B) 
+C.   Financial Charges During Implementationd 
+Total Project Cost (A+B+C) 
+99.52 
+49.03 
+24.30 
+5.88 
+178.73 
+8.98 
+4.63 
+13.61 
+7.67 
+200.00 
+Inclusive and 
+environmentally
+-friendly 
+featured 
+agricultural 
+production 
+bases 
+developed 
+Farmer  
+cooperatives  
+and agricultural 
+enterprises 
+financed and 
+strengthened 
+Rural financial 
+service system 
+developed and 
+enhanced 
+Capacity for 
+project 
+implementation 
+and 
+management 
+strengthened 
+58.25 
+13.87 
+0.65 
+0.00 
+72.77 
+3.66 
+1.88 
+5.54 
+3.12 
+81.44 
+28.29 
+35.16 
+8.74 
+0.00 
+72.19 
+3.63 
+1.87 
+5.50 
+3.10 
+80.78 
+12.97 
+0.00 
+14.91 
+0.00 
+27.88 
+1.40 
+0.72 
+2.12 
+1.20 
+31.20 
+0.00 
+0.00 
+0.00 
+5.88 
+5.88 
+0.30 
+0.15 
+0.45 
+0.25 
+6.58 
+Note: Numbers may not sum precisely because of rounding. 
+a  Includes taxes and duties of $9.77 million, to be financed by the government and Asian Development Bank (ADB) loan resources. The following principles were 
+followed in determining the amount of taxes and duties to be financed by ADB: (i) the amount is within reasonable country thresholds, (ii) the amount does not 
+represent an excessive share of the project investment plan, (iii) taxes and duties apply only to ADB-financed expenditures, and (iv) the financing of the taxes 
+and duties is material and relevant to the success of the project. 
+b  In December-2014 prices. 
+c  Physical contingencies are computed at 5% for works and goods. Price contingencies are computed using domestic inflation rates: 3.0% for 2015 onwards; and 
+foreign inflation rates: 1.0% for 2015, and 1.4% for 2016 onwards. 
+d  Includes interest and commitment charges to be capitalized under the ADB loan, computed using the 5-year US dollar fixed swap rate plus a spread of 0.50% 
+and a maturity premium of 0%. Commitment charge for the ADB loan is 0.15% per year to be charged on the undisbursed loan amount. 
+Source: Asian Development Bank estimates. 
+21 
+I. 
+Detailed Cost Estimates by Year ($ million) 
+Item 
+A. Base costsb 
+  1. Featured agricultural production bases  
+established 
+        1.1 Subprojects by subloans through FIs 
+        1.2 Subprojects by lending of FIs 
+        1.3 Capacity building 
+  2. Farmer cooperatives and agricultural enterprises 
+supported 
+        2.1 Subprojects by subloans through FIs 
+        2.2 Subprojects by lending of FIs 
+        2.3 Market development 
+        2.4 Brand promotion 
+        2.5 Capacity building 
+3. Rural financial service system developed 
+      3.1 Subloans to RFSPs through FIs 
+      3.2 Grassroots financial services units 
+      3.3 Pilot innovative financial services 
+      3.4 Capacity building 
+4. Capacity for project implementation and 
+management  strengthened 
+    4.1 Project management capacity building 
+    4.2 Office equipment 
+    4.3 Project management workshops 
+    4.4 Project monitoring and evaluation 
+    4.5 Knowledge management 
+    4.6 Operations of PPMO and CPMOs 
+Total 
+Cost 
+2016 
+2017 
+2018 
+2019 
+2020 
+72.77 
+51.18 
+20.95 
+0.65 
+72.19 
+35.18 
+28.26 
+1.30 
+6.57 
+0.86 
+27.88 
+12.97 
+12.73 
+1.79 
+0.39 
+5.88 
+1.68 
+0.99 
+0.36 
+0.22 
+0.52 
+2.12 
+19.97 
+13.88 
+5.97 
+0.13 
+15.13 
+9.30 
+5.64 
+0.00 
+0.00 
+0.18 
+7.94 
+3.91 
+3.60 
+0.36 
+0.07 
+2.06 
+0.40 
+0.99 
+0.10 
+0.05 
+0.10 
+0.42 
+27.92 
+19.98 
+7.75 
+0.19 
+21.68 
+12.82 
+8.40 
+0.26 
+0.00 
+0.20 
+9.09 
+5.21 
+3.44 
+0.36 
+0.08 
+0.94 
+0.32 
+0.00 
+0.06 
+0.03 
+0.11 
+0.42 
+21.74 
+15.58 
+5.97 
+0.19 
+18.15 
+10.56 
+5.68 
+0.39 
+1.33 
+0.19 
+7.88 
+3.85 
+3.59 
+0.36 
+0.08 
+0.97 
+0.33 
+0.00 
+0.06 
+0.05 
+0.11 
+0.42 
+1.91 
+1.20 
+0.63 
+0.09 
+10.76 
+1.26 
+5.68 
+0.39 
+3.27 
+0.16 
+1.42 
+0.00 
+0.97 
+0.36 
+0.09 
+0.94 
+0.32 
+0.00 
+0.06 
+0.03 
+0.11 
+0.42 
+1.23 
+0.54 
+0.63 
+0.06 
+6.48 
+1.26 
+2.87 
+0.26 
+1.97 
+0.13 
+1.55 
+0.00 
+1.12 
+0.36 
+0.07 
+0.98 
+0.32 
+0.00 
+0.08 
+0.05 
+0.11 
+0.42 
+Subtotal (A) 
+178.73 
+45.10 
+59.64 
+48.73 
+15.03 
+10.24 
+22 
+Item 
+B.   Contingenciesc  
+1. Physical 
+2. Price 
+Subtotal (B) 
+C.   Financial Charges During Implementationd 
+Total Project Cost (A+B+C) 
+Total 
+Cost 
+2016 
+2017 
+2018 
+2019 
+2020 
+8.98 
+4.63 
+13.61 
+7.67 
+2.27 
+1.17 
+3.43 
+0.44 
+3.00 
+1.54 
+4.54 
+1.11 
+2.45 
+1.26 
+3.71 
+1.78 
+0.76 
+0.39 
+1.14 
+2.13 
+0.51 
+0.26 
+0.78 
+2.21 
+200.00 
+48.97 
+65.28 
+54.22 
+18.30 
+13.22 
+Note: Numbers may not sum precisely because of rounding. 
+a  Includes taxes and duties of $9.77 million, to be financed by the government and Asian Development Bank (ADB) loan resources. The following principles were 
+followed in determining the amount of taxes and duties to be financed by ADB: (i) the amount is within reasonable country thresholds, (ii) the amount does not 
+represent an excessive share of the project investment plan, (iii) taxes and duties apply only to ADB-financed expenditures, and (iv) the financing of the taxes 
+and duties is material and relevant to the success of the project. 
+b  In December-2014 prices. 
+c  Physical contingencies are computed at 5% for works and goods. Price contingencies are computed using domestic inflation rates: 3.0% for 2015 onwards; and 
+foreign inflation rates: 1.0% for 2015, and 1.4% for 2016 onwards. 
+d  Includes interest and commitment charges to be capitalized under the ADB loan, computed using the 5-year US dollar fixed swap rate plus a spread of 0.50% 
+and a maturity premium of 0%. Commitment charge for the ADB loan is 0.15% per year to be charged on the undisbursed loan amount. 
+Source: Asian Development Bank estimates. 
+J. 
+Contract and Disbursement S-Curve (In $ million) 
+23 
+Contract Awards
+Disbursements
+120
+100
+80
+60
+40
+20
+0
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+YEAR 
+Contract Awards ($ million) 
+Disbursements  ($ million) 
+Q1 
+0 
+0.00 
+8.27 
+6.62 
+1.08 
+0.70 
+Q2 
+0 
+6.40 
+8.27 
+6.62 
+1.08 
+0.70 
+Q3 
+0 
+9.60 
+8.27 
+6.62 
+1.08 
+0.70 
+Q4 
+0 
+9.60 
+8.27 
+6.62 
+1.08 
+0.70 
+2015 
+2016 
+2017 
+2018 
+2019 
+2020 
+2021 
+TOTAL 
+Total 
+0 
+25.59 
+33.09 
+26.50 
+4.34 
+2.81 
+0.00 
+92.33 
+Q1 
+Q2 
+Q3 
+Q4 
+Total 
+0.00 
+10.40 
+8.96 
+7.18 
+1.18 
+0.76 
+0.00 
+10.40 
+8.96 
+7.18 
+1.18 
+0.76 
+0.00 
+8.96 
+7.18 
+1.18 
+0.76 
+6.93 
+8.96 
+7.18 
+1.18 
+0.76 
+6.93 
+38.71 
+32.27 
+16.70 
+3.87 
+1.52 
+100.00 
+24 
+K. 
+Fund Flow Diagram 
+Asian Development Bank 
+People’s Republic of China 
+(Ministry of Finance) 
+An imprest account will be 
+established at and maintained by 
+the Provincial Department of 
+Finance 
+Gansu Provincial Government  
+(Provincial 
+Finance) 
+Department 
+of 
+Pass-through accounts 
+established and maintained by 
+the county Bureaus of Finance 
+and FIs 
+Project County Governments 
+(Bureaus of Finance) 
+Loan, relending, and onlending 
+agreements 
+Financial Intermediaries 
+Indicative funds flow 
+WAs 
+Repayment 
+Rural  Financial  Services  Providers 
+(RFSP) 
+Farmers,  Farmer  Cooperatives, 
+Agricultural  Small  and  Medium 
+Enterprises (ASMEs) 
+Source: Asian Development Bank estimates. 
+25 
+V. 
+FINANCIAL MANAGEMENT 
+A. 
+Financial Management Assessment 
+The  financial  management  assessment  (FMA)  was  carried  out  in  accordance  with 
+26. 
+ADB’s  Guidelines  for  the  Financial  Management  and  Analysis  of  Projects,11  and  Financial  Due 
+Diligence: a Methodology Note,12  to assess the financial management capacity of the executing 
+agency:  GPG  (involving  Department  of  Finance  (DOF),  Department  of  Agriculture  and  Animal 
+Husbandry,  and  bureaus  of  finance);  implementing  agencies,  i.e.  bureaus  of  agriculture  and 
+animal husbandry (BAAHs) in 11 project counties (Jingchuan, Kongtong, Zhenyuan, Hezheng, 
+Jishishan,  Yongjing,  Yuzhong,  Huan,  Min,  Lintao  and  Lingtai)  and  three  FI  banks  (Bank  of 
+Gansu,  Bank  of  Lanzhou,  and  Yuzhong  Shanghai  Pudong  Development  Rural  Bank).  The 
+FMA  includes  funds-flow  arrangements,  staffing,  accounting  policies  and  procedures,  internal 
+and  external  auditing  arrangements,  reporting  and  monitoring,  and  financial  information 
+systems.   
+The  assessment  indicated  that  (i)  there  are  established  accounting  and  financial 
+27. 
+management  policies  and  procedures  in  the  PRC,  which  are  strictly  followed  by  the 
+executing agency and implementing agencies;  and  (ii) the executing agency and implementing 
+agencies have  sound  accounting  and  financial  management  capability  and  are experienced  in 
+managing  projects  of  similar  type  and  scale.  However,  the  implementing  agencies)  have  very 
+limited  experience  in  implementing  foreign-funded  projects,  and  the  managers  and  financial 
+personnel  have  limited  knowledge  and  experience  of  ADB  policies  and  procedures.  It  is 
+concluded  that  the  overall  pre-mitigation  financial  management  risk  of  the  implementing 
+agencies is  moderate.  
+the 
+that 
+their 
+It  was  agreed 
+implementing  agencies  will  strengthen 
+28. 
+financial 
+management  capability  to  manage  the  project,  including  (a)  appointing  full  time  financial 
+management staff in PPMO and project accountants in all CPMOs and minimizing the turnover 
+of staff; (b) undertaking training on ADB disbursement and financial management requirements 
+to all financial management staff; (c) developing an uniformed FM guidelines for the budgeting, 
+accounting,  internal  controls,  reporting  and  auditing  arrangements  in  line  with project  activities; 
+(d)  streamlining  of  approval  processes  and  following  the  same  financial  reporting  system  in  all 
+concerned agencies to ensure accurate and timely reporting of the use of the loan proceeds; (e) 
+streamlining of approval processes in terms of budgeting and disbursement at all levels; (f) close 
+monitoring  of  loan  covenants  and  compliance  status  during  project  implementation;  and  (g) 
+developing  internal  auditing  system  at  county  level  agencies.  Along  with  the  credit  lines  to  be 
+provided  to  ASMEs  and  farmer  cooperatives,  dedicated  training  program  will  be  conducted  to 
+strengthen  their  capacity  in  financial  management  and  corporative  governance  in  line  with  the 
+Law  of  the  People's  Republic  of  China  on  Specialized  Farmers  Cooperatives  and  other 
+regulations.  
+29. 
+To  ensure  that  the  FIs  continue  to  meet  the  prudential  regulatory  requirements  of  the 
+China  Banking  Regulatory  Commission  (CBRC)  during  the  project  implementation,  the  PPMO 
+will  review  the  annual  prudential  regulatory  rating  for  each  FI  promptly  as  it  is  produced  and 
+shall advise ADB if any FI’s rating falls below grade C (or the equivalent if the scale is changed) 
+in  the  CBRC  rating  scale  for  commercial  banks.  Necessary  remedial  actions  may  include  an 
+11  ADB. 2005. Financial Management and Analysis of Projects. Manila. 
+12  ADB. 2009. Financial Due Diligence: A Methodology Note. Manila. 
+26 
+agreed  action  plan to improve  performance,  acceleration  of the  loan to  the  FI  or  other  actions 
+until the FIs’ rating returns to above the minimum acceptable grade. 
+30. 
+To mitigate the specific risk that ADB loan proceeds are commingled with other funds 
+being administered by FIs, a separate ledger account that tracks the receipt and use of the ADB 
+loan proceeds, as well as interest payments and principal repayments from the sub-borrowers 
+will  be  established  and  maintained  in  each  of  the  FI  banks.  This  will  also  ensure  that  the 
+proceeds  utilized  under  the  project  will  be  kept  distinct  from  FIs’  own  assets  and  provide 
+protection against adverse results from other financial operations of the FIs. 
+B. 
+Disbursement 
+i. 
+Disbursement Arrangements for ADB Funds 
+The 
+loan  proceeds  will  be  disbursed 
+in  accordance  with  ADB’s  Loan 
+31. 
+Disbursement  Handbook  (2015,  as  amended  from  time  to  time)  and  detailed  arrangements 
+agreed  upon  between the government and ADB.13  
+32. 
+The  Gansu provincial  DOF  has the  primary responsibility for  the  administration  of the 
+overall  disbursement  arrangements  of  the  project.  The  imprest  account  is  to  be  used 
+exclusively  for  ADB’s  share  of  eligible  expenditures.  The  GPG,  through  DOF,  who  establishes 
+the  imprest  account  in  its  name,  is  accountable  and  responsible  for  proper  use  of  advances 
+to  the  imprest  account.14  The  government  may  request  for  initial  and  additional  advances  to 
+the  imprest  account  based  on  6  months  estimated  expenditures  to  be  financed  through  the 
+imprest  account.  The  imprest  account  will  be  established,  managed,  and  liquidated  in 
+accordance  with  ADB’s  Loan  Disbursement  Handbook  and  detailed  arrangements  agreed  by 
+the  government  and  ADB.  The  currency  of  the  imprest  account  is  US  dollar.  The  handbook 
+describes  (i)  which  supporting  documents  should  be  submitted  to  ADB,  and  (ii)  which  should 
+be retained by  the government for liquidation and replenishment of an imprest account. 
+33. 
+The  implementing  agencies  will  be  responsible  for  the  disbursement  arrangements 
+for  each  of  the  subprojects,  including  (i)  preparing  disbursement  projections,  (ii)  requesting 
+budgetary  allocations  for  counterpart  funds,  (iii)  collecting  supporting  documents,  and  (iv) 
+preparing  withdrawal  applications.  The  county  bureaus  of  finance  will  review  and  verify  the 
+withdrawal applications from the respective BAAHs and FIs through CPMOs and submit to DOF 
+through PPMO for review and consolidation before the withdrawal application is sent to ADB. 
+34. 
+The  minimum  value  per  withdrawal  application  is  $100,000  equivalent.  Individual 
+payments  below  this  amount  should  generally  be  paid  from  the  imprest  account  or  by  the 
+executing  agency  (or  the  implementing  agency)  and  subsequently  claimed  to  ADB  through 
+reimbursement,  unless  otherwise  accepted  by  ADB. 
+35. 
+For loan amount used by the government directly, direct payment, reimbursement, and 
+imprest fund procedures may be used to withdraw funds from the loan account. To expedite the 
+flow of funds and simplify document processing, the statement of expenditures (SOE) procedure 
+may  be  used  to  reimburse,  replenish,  and  liquidate  eligible  expenditures  for  any  individual 
+payment  not  exceeding $200,000 equivalent for project  activities other  than  those financed  by 
+subloans.  SOE  records should be  maintained  and  made readily  available for  review  by  ADB’s 
+13  http://www.adb.org/documents/loan-disbursement-handbook 
+14  The bank charges in the operation of the imprest account may be financed from the loan proceeds. 
+27 
+disbursement  and  review  mission,  or  upon  ADB’s  request  for  submission  of  supporting 
+documents on a sampling basis and for independent audit.15 Before the submission of the first 
+withdrawal  application,  GPG  should  submit  to  ADB  sufficient  evidence  of  the  authority  of  the 
+person(s) who will sign the withdrawal applications on behalf of the borrower, together with the 
+authenticated specimen signatures of each authorized person. 
+36. 
+For  the  ADB  loan  proceeds  that  will  be  onlent  via  FIs,  the  withdrawal  application  will 
+follow  the  procedures  for  financial  intermediation  loans  as  specified  in  section  11  of  the  Loan 
+Disbursement  Handbook.16 The  basis  of  disbursement  will  be  the  signed  subloan  agreement. 
+The  SOE  procedure  will  be  used  in  view  of  the  anticipated  voluminous  documentation  for 
+numerous  and  small  amounts  of  individual  payments  for  subloans.  The  SOE  ceilings  for  the 
+non-submission  of  full  supporting  documentation  are  the  free  limits  agreed  for  the  FIL.17 The 
+withdrawal application should include a statement from the PPMO that all listed subloans satisfy 
+the  terms  and  conditions  specified  in  the  relending  agreements  between  the  government  and 
+FIs. 
+For  subloans  for  retroactive  financing,  subloans  above  the  free  limit,  and  the  first 
+37. 
+subloan  in  each  county,  subloan  proposals  need  to  be  submitted  by  the  FIs,  through  PMO  to 
+ADB  for  prior  review  and  approval.  This  enables  ADB  to  satisfy  itself  on  the  quality  of  the  FIs’ 
+appraisal of projects and advise on appraisal techniques and methodology. 
+38. 
+Except as ADB and GPG otherwise agree, the Relending Agreement will provide for the 
+FIs  to  relend  the  loan  proceeds  on  repayment  by  sub-borrowers  on  the  following  terms  (all 
+terms as defined in the Loan Agreement):  
+(i) 
+(ii) 
+At  all  times,  each  FI  should  endeavor  to  have  a  percentage,  as  agreed  between 
+ADB,  GPG,  and  FI,  of  the  amount  it  has  borrowed  under  its  relending  agreement 
+outstanding in subloans to qualified sub-borrowers for qualified subprojects; 
+Each FI will report to the PMO the outstanding amount of its subloans as of the last 
+date  of  each  calendar  quarter  and  the  PMO  shall  report  this  information  to  ADB  in 
+each semiannual project progress report; and 
+(iii)  Where  an  FI  has failed to meet  the  percentage  target for  two  consecutive calendar 
+quarters  it  will  immediately  repay  to  GPG  the  difference  between  the  target  above 
+and the average actual outstanding amount at the end of such two quarters. 
+39.  Where repayments are made to GPG as provided above, GPG will report that to ADB, 
+and ADB and GPG will discuss how best to immediately commence using such repaid amounts 
+for project purposes.        
+ii. 
+Disbursement Arrangements for Counterpart Fund 
+40. 
+For  counterpart  funds  of  FIs  for  outputs  1  and  2,  FIs  will  use  their  own  resources  to 
+make subloans, applying the same requirements, except for the interest cap and eligibility. The 
+15  Checklist  for  SOE  procedures  available  in    Chapter    9    and    formats    in    Appendix    9B    of    the    Loan 
+(http://www.adb.org/sites/default/files/institutional-document/33606/files/loan- 
+Handbook 
+Disbursement 
+disbursement-handbook.pdf) 
+16  Section 11: Financial Intermediation Loans and Policy-Based Loans, para. 11. 11.1-11.9 of the Loan Disbursement 
+Handbook. SOE form for FIL loans is available in Appendix 9C of the handbook. 
+17  Free limits are defined as (i) in the case of enterprises and cooperatives, the CNY equivalent (at the time of making 
+the subloan) of US$1,000,000 (one million USD) and, (ii) in the case of farm households, the CNY equivalent (at 
+the time of making the subloan) of US$100,000 (one hundred thousand USD). 
+28 
+contract  awards  and  disbursement  plan  should  include  the  subloans  to  be  made  with  FIs’  own 
+funding. For each calendar year, FIs need to provide detailed information on these subloans for 
+government  and  ADB’s review.  ADB  will continue to disburse for the  subloans  under outputs 1 
+and  2  in  the  next  year  only  if  evidence  shows  that  sufficient  counterpart  funds  have  been 
+provided by FIs in the past year. For subloans to the RFSPs, ADB will disburse 65% of the total 
+subloan  amount  and  FIs  finance  the  remaining  35%.  FIs  will  also  use  their  own  resources  to 
+establish grassroots  financial  services  units,  pilot  innovative financial  services  or  products,  and 
+conduct capacity building for loan officers of FIs and RFSPs. The information on these activities 
+and expenditure should be reported to the government and ADB timely.  
+41. 
+Subproject  beneficiaries  will  be  required  to  provide  counterpart  funds  in  equity  when 
+they  receive  subloans  from  FIs.  The  government  is  responsible  for  providing  government 
+counterpart  funds  timely  from  their  fiscal  budgetary  sources  and  uses  the  funds  following 
+domestic regulation and requirements on use and management of public funds. 
+C. 
+Accounting 
+42. 
+The  GPG  will  maintain,  or  cause  to  be  maintained,  separate  books  and  records  by 
+funding  source  for  all  expenditures  incurred  on  the  project.  Consolidated  project  financial 
+statements  will  be  prepared  annually  in  accordance  with  the  government’s  accounting  laws 
+and  regulations,  which are consistent with international accounting principles and practices.18
+43. 
+Each  FI  bank  will  maintain  and  cause  any  RFSPs  that  they  onlend  to  maintain  a 
+separate  ledger  account  that  tracks  the  receipt  and  use  of  the  ADB  loan  proceeds,  as  well  as 
+interest payments and principal repayments from the sub-borrowers.   
+44. 
+The project financial statements also include a statement of subloans which indicate: 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+ (v) 
+(vi) 
+the opening balance; 
+the name of financial intermediaries; 
+details of subloans (committed lines of credit and amounts disbursed); 
+closing balance (gross and net amounts); 
+comparative figures for prior year; and 
+cumulative amount to date (gross). 
+45. 
+The  statement  will  be  also  accompanied  by  adequate  explanatory  notes.  These  notes 
+include the basis of preparation, reporting currency, undrawn external assistance, and details of 
+subloans such as amounts committed, disbursed up to the previous year, disbursed during the 
+current  reporting  period,  cumulative  disbursement,  undisbursed  commitments,  percentage  of 
+loan utilized, etc. The formats of project financial statements are provided in Appendix 3. 
+D. 
+Auditing and Public Disclosure 
+46. 
+The  GPG  will  cause  the  detailed  consolidated  project  financial  statements  to  be 
+audited  in  accordance  with  International  Standards  on  Auditing  and  the  Government  Auditing 
+Standards  of the PRC (where these are consistent with International Standards on Auditing), by 
+an  auditor  acceptable  to  ADB.  The  audited  project  financial  statement  will  be  submitted  in 
+the  English  language to ADB within 6 months of the end of the financial year by the executing 
+18 Applicable  laws,  regulations,  and  guidelines  include:  (i)  The  Accounting  Law  of  the  PRC  (2000),  (ii)  State-owned 
+Construction Enterprise Accounting Control Regulations, (iii) Capital Construction Financial Control Regulations, and 
+(iv) Accounting Methods for Projects Financed by the World Bank. 
+29 
+agency.  
+The  annual  audit  report  for  the  project  will  include  an  audit  management  letter, 19 
+47. 
+and  auditor’s  opinions  which  cover  (i)  whether  the  project  financial  statements  present  a  true 
+and fair  view  or  are presented fairly,  in  all material respects,  in  accordance  with  the  applicable 
+financial  reporting  framework;  (ii)  whether  loan  proceeds  were  used  only  for  the  purposes  of 
+the project or not; (iii) the level of compliance for each financial covenant contained in the legal 
+agreements  for  the  project;  (iv)  use  of  the  imprest  fund  procedure;  and  (v)  use  of  the  SOE 
+procedure certifying to the eligibility of those expenditures claimed under SOE procedures, and 
+proper  use  of  the  SOE  and  imprest  procedures  in  accordance  with  ADB’s  Loan  Disbursement 
+Handbook and the project documents. 
+48. 
+The GPG shall ensure that each FI shall (i) prepare entity annual financial statements 
+in accordance with accounting principles acceptable to ADB; (ii) have such financial statements 
+audited  by  independent  auditors  whose  qualifications,  experience  and  terms  of  reference  are 
+acceptable  to  ADB,  in  accordance  with  international  standards  for  auditing  or  the  national 
+equivalent acceptable to ADB; (iii) as part of each such audit, have the auditors prepare a report 
+(which includes the  auditors’ opinion  on the financial  statements);  (iv) furnish to ADB,  no  later 
+than  6  months  after  the  close  of  the  fiscal  year  to  which  they  relate,  copies  of  such  audited 
+financial  statements,  and  audit  report,  all  in  the  English  language,  and  such  other  information 
+concerning  these documents  and the  audit  thereof  as ADB  shall from  time to  time reasonably 
+request. 
+49. 
+Compliance  with  financial  reporting  and  auditing  requirements  will  be  monitored  by 
+review  missions  and  during  normal  program  supervision,  and  followed  up  regularly  with  all 
+concerned, including the external auditor. 
+50. 
+The  government  has  been  made  aware  of  ADB’s  policy  on  delayed  submission,  and 
+the  requirements  for  satisfactory  and  acceptable  quality  of  the  audited  project  financial 
+statements.  ADB  reserves  the  right  to  require  a  change  in  the  auditor  (in  a  manner 
+consistent  with  the  constitution of the borrower), or for additional support to be provided to the 
+auditor,  if  the  audits  required  are  not  conducted  in  a  manner  satisfactory  to  ADB,  or  if  the 
+audits  are  substantially  delayed.  ADB  reserves  the  right  to  verify  the  project's  financial 
+accounts  to  confirm  that  the  share  of  ADB’s  financing  is  used  in  accordance  with  ADB’s 
+policies and procedures. 
+51. 
+Public  disclosure  of  the  project  financial  statements,  including  the  audit  report  on 
+the  project  financial  statements,  will  be  guided  by  ADB’s  Public  Communications  Policy 
+(2011).20 
+52. 
+After  review,  ADB  will  disclose  the  financial  statements  for  the  project  and  the 
+opinion  of  the  auditors  on  the  financial  statements  within  30  days  of  the  date  of  their  receipt 
+by posting them  on ADB’s website. The Audit Management Letter will not be disclosed. 
+19  A management letter means formal communications from the auditor to the client management in accordance with 
+the  International  Standard  on  Auditing  265  (communicating  deficiencies  in  internal  control  to  those  charged  with 
+governance  and  management),  which  is  not  required  to  be  provided  separately  as  it  is  equivalent  to  the  Audit 
+Findings and Recommendations prepared by the project auditor and submitted to ADB. 
+20  Available from http://www.adb.org/site/disclosure/public-communications-policy . 
+30 
+VI. 
+PROCUREMENT AND CONSULTING SERVICES 
+A. 
+Advance Contracting and Retroactive Financing 
+GPG and FIs have requested for advance contracting and retroactive financing to enable 
+53. 
+early commencement of procurement of goods and training by the government and issuance of 
+subloans by FIs. The details of activities to be financed and their justification will be set out in a 
+written  request  to  ADB.  The  executing  and  implementing  agencies  have  been  advised  that  (i) 
+approval of advance contracting and retroactive financing does not commit ADB to financing the 
+project,  and  (ii)  retroactive  financing  may  only  apply  up  to  20%  of  the  amount  of  ADB  loan  in 
+respect  for  expenditures  incurred  before  loan  effectiveness,  but  not  earlier  than  12  months 
+before the date of the loan agreement. All advance contracting and retroactive financing will be 
+undertaken in conformity with ADB’s Procurement Guidelines (2015, as amended from time to 
+time) 21  and  ADB’s  Guidelines  on  the  Use  of  Consultants  (2013,  as  amended  from  time  to 
+time). 22  The 
+for  bids,  bidding  documents,  bid  evaluations, 
+recommendation  of  contract  awards,  and  subloan  contracts  under  advance  contracting  and 
+retroactive financing will  be subject to ADB approval. ESMS should be established by FIs and 
+approved  by  ADB  before  FIs  start  to  review  subloan  applications.  Disbursement  for  the 
+retroactive  financing  can  be  paid  through  the  imprest  account  in  accordance  with  ADB’s 
+disbursement guidelines. 
+issuance  of 
+invitations 
+B. 
+Procurement of Goods, Works and Consulting Services 
+54. 
+All  procurement  fully  or  partly  financed  out  of  the  loan  proceeds  will  be  undertaken  in 
+accordance  with  ADB’s  Procurement  Guidelines  (2015,  as  amended  from  time  to  time).  For 
+subloans  through  FIs  and  RFSPs,  the  procurement  will  be  undertaken  by  the  respective  sub-
+borrowers  in  accordance  with  established  private  sector  or  commercial  practices,  which  are 
+acceptable  to  ADB.  The  GPG  will,  through  the  relending  agreement,  ensure  that  the  sub-
+borrowers use procurement practices acceptable to ADB. Sub-borrowers will be encouraged to 
+procure through competitive bidding or shopping when such procurements are most appropriate 
+in the interest of economy and efficiency.  
+The  Government  will  use  a  portion  of  loan  funds  (below  $1  million  equivalent)  for 
+55. 
+procurement  of  small  contracts  below  $100,000  equivalent  for  office  equipment  and  furniture 
+under ADB's shopping procedures. 
+A  procurement  plan  of  18  months,  indicating  contract  value,  procurement  method, 
+56. 
+threshold and review procedures, goods, works, and consulting services contract packages, and 
+national competitive bidding guidelines, is in subsection C.  
+All 28 person-months consulting services required for the project will be financed by the 
+57. 
+counterpart funds, and will follow the government procedures and regulations on the use of the 
+consulting  services.  The  terms  of  reference  for  the  consulting  services will  be  developed,  and 
+the consultants will be recruited by the PPMO.  
+C. 
+Procurement Plan 
+a)  Basic Data 
+21  http://www.adb.org/sites/default/files/institutional-document/31482/procurement-guidelines-april-2015.pdf 
+22  http://www.adb.org/Documents/Guidelines/Consulting/Guidelines-Consultants.pdf 
+31 
+Project Name:   Gansu Featured Agriculture and Financial Services Development Project 
+Project Number:   47046-002 
+Country:   People's Republic of China 
+Approval Number:    
+Executing 
+Gansu Provincial Government 
+Agency: 
+(GPG) 
+Implementing Agencies:  
+Project Procurement Classification: B 
+Procurement Risk: Low 
+Project Financing Amount:    
+US$ 200,000,000.00 
+    ADB Financing:   US$ 100,000,000.00 
+    Co-financing (ADB Administered): $0   
+    Non-ADB Financing:   US$ 100,000,000.00 
+Date  of  First  Procurement  Plan:    20 November  
+2014  
+BAAHs  of  11  Counties:  1-Huan  County  (HN),  2-
+Hezheng  County  (HZ),  3-Jingchuan  County  (JC),  4-
+Jishishan County (JSS), 5-Kongtong County (KT), 6-
+Lintao  County  (LO),  7-Lingtai  County  (LT),  8-Min 
+County  (MN),  9-Yuzhong  County  (YZ),  10-Yongjing 
+County (YJ) and 11-Zhenyuan County (ZY); 
+ Financial  Intermediaries:  Bank  of  Lanzhou  (BOL); 
+Bank  of  Gansu  (BOG);  and  Yuzhong  SPD  Rural 
+Bank 
+Loan Closing Date: 30 June 2021 
+Date  of  this  Procurement 
+Plan:  
+25 September  2015 
+b)  Procurement Methods and Thresholds 
+58. 
+Except  as  the  Asian  Development  Bank  (ADB)  may  otherwise  agree,  the  following 
+process thresholds shall apply to procurement of goods and works fully and partly financed out 
+of ADB loan proceeds. 
+Method 
+Shopping for Works 
+Shopping for Goods 
+Other Procurement 
+Method/Arrangement 
+– Procurement in 
+Subloans onlent via  
+financial 
+intermediaries 
+Procurement of Goods and Works 
+Threshold 
+Up to US$100,000 
+Comments 
+Post review 
+$0 
+The procurement will be undertaken by 
+the respective sub-borrowers in 
+accordance with established private 
+sector or commercial practices, which are 
+acceptable to ADB. 
+Consulting Services financed by the Government 
+Based on Government procedure 
+Consulting Services 
+Method 
+Comments 
+c)  18-Month Procurement Plan 
+59. 
+Goods  and  Works  Contracts  Estimated  to  Cost  Less  than  $1  Million  and 
+Consulting  Services  Contracts  Less  than  $100,000  (Smaller  Value  Contracts).  The 
+following  table  groups  smaller-value  goods,  works  and  consulting  services  contracts  for  which 
+the activity is either ongoing or expected to commence within the next 18 months.  
+Goods and Works 
+Package 
+Number 
+General 
+Description 
+Estimated 
+Value (USD) 
+Number of 
+Contracts 
+Procurement 
+Method 
+Review 
+(Prior/Post) 
+Bidding 
+Procedure 
+Advertisement 
+Date 
+(quarter/year) 
+Comments 
+32 
+Package 
+Number 
+General 
+Description 
+Estimated 
+Value (USD) 
+Number of 
+Contracts 
+Goods and Works 
+Procurement 
+Method 
+Review 
+(Prior/Post) 
+Bidding 
+Procedure 
+Advertisement 
+Date 
+(quarter/year) 
+E01-1-
+E01-11 
+Computer and 
+office equipment 
+491,048.39 
+11 
+Shopping 
+Prior 
+N/A 
+Q1/2016 
+E02-1-
+E02-11 
+E03-1-
+E03-11 
+E04 
+E05 
+Imaging and 
+Sound equipment 
+185,459.68 
+Office furniture  116,370.97 
+Communications 
+and navigation 
+equipment 
+Daily office 
+supplies 
+19,354.84 
+17,806.45 
+11 
+11 
+1 
+1 
+Shopping 
+Post 
+Shopping 
+Post 
+N/A 
+N/A 
+Q2/2016 
+Q2/2016 
+Shopping 
+Post 
+N/A 
+Q2/2016 
+Shopping 
+Post 
+N/A 
+Q2/2016 
+d)  Non-ADB financing 
+Comments 
+First shopping 
+contract 
+Package 
+Number 
+General Description 
+PPMO-E01 
+Office equipment 
+Estimated 
+Value 
+(cumulative) 
+88,709.68 
+Goods and Works 
+Estimated 
+Number of 
+Contracts 
+lots 
+Procurement 
+Method 
+PRC standard 
+General Description 
+PPMO-S01 
+Project 
+Consultants 
+Implementation 
+Estimated 
+Value in USD 
+(cumulative) 
+106,451.61 
+Consulting Services 
+Estimated 
+Number  of 
+Contracts 
+3 
+Procurement 
+Method 
+PRC 
+standard 
+Review 
+(Prior/Post) 
+Bidding 
+Procedure  
+Comments 
+N/A 
+N/A 
+Comments 
+N/A 
+N/A 
+PPMO-S01 
+33 
+VII. 
+SAFEGUARDS 
+A. 
+Environment and Social Management System 
+The  project  is  classified  as  financial  intermediary  (FI)  for  safeguards.  A  template 
+60. 
+environmental  and  social  management  system  (ESMS)  has  been  prepared  following  ADB’s 
+Safeguard Policy Statement (2009) (SPS) and with the involvement of the three project FIs and 
+PPMO.  This  describes  the  roles  and  responsibilities  of  the  FIs  and  PMOs,  procedures  for 
+screening, improving, categorization, assessment, monitoring and reporting, and integration with 
+FI  business  procedures.  All  project  FIs  and  RFSPs  will  establish  and  implement  an  ESMS, 
+which  is  based  on  the  template  and  is  acceptable  to  ADB.  The  ESMSs  for  the  RFSPs  will  be 
+appropriately  simplified  to  reflect  the  smaller  subloans  they  will  make.  All  subprojects  to  be 
+supported by onlending from FIs and RFSPs will be subject to the procedures described in the 
+template  ESMS.  The  FIs  will  be  responsible  for  implementing,  and  requiring  RFSPs  to 
+implement, the ESMSs. Each FI will have an ESMS established and operational, at least three 
+months before disbursement from government to the FIs. The PPMO will provide oversight and 
+coordination with the FIs and other stakeholders, and recruit project implementation consultants 
+to  provide  assistance  and  training  to  FI  staff  for  ESMS  implementation,  and  ensure  that  key 
+agencies possess a copy of the ESMS and understand their roles and responsibilities.  
+B. 
+Environment 
+61. 
+The  project  will  encourage  and  favor  loans  which  promote  agricultural  innovation, 
+efficiency,  and  the  sustainable  use  of  natural  resources,  especially  water,  soil,  and  energy. 
+Agricultural  and  environmental  issues  in  the  project  area  include  inefficient  and/or  outdated 
+farming technology, limited water resources, severe drought, and excessive use of agricultural 
+chemicals  and  plastic  mulch.  Project  funds  will  support  a  range  of  agricultural  activities, 
+including cash crops, fruit trees, and greenhouse and livestock production. These may result in 
+impacts  to  surface  water,  groundwater,  soil,  air  quality,  noise  levels,  ecology,  communities, 
+physical  cultural  resources,  and  land  use  rights  transfer.  The  identification,  screening,  and 
+management of such impacts are key objectives of the ESMS. 
+ESMS implementation. ESMS implementation comprises six steps, to be conducted for 
+62. 
+each 
+loan  application:  A–screening,  B–improving,  C–categorization,  D–assessment,  E–
+safeguard  implementation,  and  F–monitoring and  reporting.  Steps  A  to  D  are to  be  conducted 
+as  part  of  the  due  diligence  before  a  subloan  is  approved.  Steps  E  to  F  are  to  be  conducted 
+during  implementation  of  a  subproject.  All  steps  are  to  be  conducted  by  the  FI  or  RFSP  loan 
+officers  and,  working  with  the  sub-borrower,  with  the  assistance  of  the  PPMO  and  CPMOs 
+environment  and  social  officers,  and  loan  implementation  consultants.  Information  disclosure, 
+public  consultation,  and  the  participation  of  communities  which  may  be  impacted  by  a 
+subproject, are a key requirement under PRC laws and the ADB SPS. Steps A to F need to be 
+integrated into the business procedures of each FI or RFSP.  
+C. 
+Involuntary Resettlement 
+63. 
+The project is classified as category FI treated as C in terms of involuntary resettlement. 
+FIs  will  not  finance  any  subproject  that  will  involve  physical  displacement  or  involuntary 
+resettlement.  FIs  will  utilize  Worksheet  2  in  the  ESMS  to  screen  out  any  subprojects  with 
+potential involuntary resettlement issues.  
+34 
+D. 
+Land Use Rights Transfer Agreements 
+64. 
+ Many of the subprojects that are on the government’s initial list of proposed subprojects 
+involve pre-existing or new land use rights transfer agreements which involve large amounts of 
+land  and  impact  many  households.23 For  existing  land  use  rights  transfer  agreements,  a  due 
+diligence  report  has  been  prepared  and  it  concluded  that  (i)  all  the  land  use  rights  transfer 
+agreements were in accordance with national, provincial, and local policies and regulations; (ii) 
+the  land  use  rights  transfer  rents  were  paid  timely;  (iii)  livelihoods  of  households  who  had 
+transferred land were not negatively affected; and (iv) all  households who transferred land are 
+satisfied  with  the  land  use  rights  transfer  procedures,  contract  conclusion,  and  compensation 
+payments. 
+To  guide  the  land  use  rights  transfer  agreements  during  the  implementation  of  the 
+65. 
+project, a Land Use Rights Transfer Framework (LURTF) has been prepared (Appendix 6 of the 
+ESMS).  The  policy  framework  of  the  LURTF  incorporated  current  PRC  and  Gansu  provincial 
+and  local  polices,  ADB’s  SPS  requirement  for  negotiated  settlement,  as  well  as  the  best 
+practices in the project area as concluded in the due diligence report.24 
+66. 
+The staff of FIs and the social safeguards officers of PPMO and CPMOs will ensure that 
+(i)  new  LURT  agreements  will  follow  the  LURTF;  and  (ii)  all  LURT  agreements  will  be  well 
+documented  and  reported.  The  loan  implementation  consultant  will  help  PPMO  and  FIs  end-
+borrowers to develop an appropriate annual documentation and reporting mechanism to the FIs, 
+PPMO, and ADB. Subproject with potential LURT issues will need to be monitored more closely. 
+E. 
+Ethnic Minorities25 
+67. 
+The  project  will  target  Han  as  well  as  ethnic  minorities  (EM)  in  the  project  counties. 
+Specifically, the project will target three distinct EM groups of Dongxiang, Bao’an, and Salar in 
+Hezheng  County  and  Jishishan  Autonomous  County.26   The  project  will  also  target  many  Hui 
+people.  This  is  consistent  with  ADB’s  policy  for  social  inclusive  development.  The  Dongxiang 
+and  Bao’an  are  unique  and  only  exist  in  Gansu;  while  the  Bao’an  and  Salar  are  small  EMs 
+eligible  for  special  central  government  policy  assistances.27 The  Hui  have  economic  systems 
+similar to the Han, but they have different religious and social customs and in some areas may 
+be  poor.  Consequently,  a  project  level  ethnic  minority  development  plan  (EMDP)  has  been 
+prepared  for  strengthening  the  project’s  positive  effects  and  for  mitigating  any  likely  negative 
+impacts  on  these  three  distinct  EM  groups  in  Hezheng  and  Jishishan  counties.  PPMO  and 
+CPMOs,  with  support  from  the  county  governments,  will  be  responsible  for  implementing  the 
+project  level  EMDP  actions.  The  social  safeguards  officer  of  PPMO  will  be  responsible  for 
+internal monitoring of the EMDP implementation, with the assistance of the loan implementation 
+social  consultant (LISC),  and will  submit  a consolidated  social  monitoring  report to ADB  semi-
+annually. 
+23  It is farmland use right leasing without change of ownership and agricultural usage. 
+24 There are (i) mutual consultation and negotiated settlements between land use rights transferor and transferee; (ii) 
+land use rights transfer duration of 5-10 years; (iii) land use rights transfer rates were equivalent to output values of 
+grains; and (iv) endorsement of land use rights transfer contract by a third party. 
+25  Ethnic minority groups are covered by ADB’s indigenous peoples’ policy requirements. 
+26  Full name is Jishishan Bao’an, Dongxiang and Salar Ethnic Minority Autonomous County. 
+27  An  ethnic  minority  with  population  below  0.3  million  by  2010  is  defined  as  small  EM  group,  enjoying  special 
+assistance by the outline of supporting small EM development.  
+  http://www.seac.gov.cn/art/2011/7/1/art_149_129390.html. 
+35 
+ For the FI subprojects, FIs will need to screen loan proposals for potential EM impacts 
+68. 
+(see Worksheet 4 in the ESMS). Subprojects will be categorized as A, B, or C. The category A 
+subprojects will be excluded or redesigned; category B subprojects will require the end-borrower 
+to  prepare  an  EMDP  in  accordance  with  the  Ethnic  Minority  Development  Framework  in 
+Appendix  7  of  the  ESMS;  and  category  C  requires  no  ethnic  minority  specific  actions  but 
+measures  in  the  social  and gender  action  plan  (SGAP)  (see  Appendix  8  in  the  ESMS)  will  be 
+applied  and  monitored.  Some  subprojects  that  require  no  specific  ethnic  minority  actions  may 
+still  require  monitoring  of  results.  The  end-borrowers  will  be  responsible  for  implementing  the 
+actions set out in the subproject EMDP and SGAP, and for semi-annual reporting to the FIs and 
+PPMO.  Should  unanticipated  impacts  be  identified  (e.g.,  during  monitoring  or  through  the 
+grievance redress mechanisms), the relevant BAAH will either the resolve the issue directly or 
+agree  on  correction  actions  with  the  relevant  enterprise  or  cooperative.  Further  follow-up  and 
+monitoring will be carried to ensure the issue has been adequately resolved. 
+F. 
+Capacity Development and Training 
+The  PPMO  will  assist  the  FIs  and  RFSPs  to  establish  and  implement  their  ESMSs. 
+69. 
+Assistance  will  be  provided  through  the  PPMO  environmental  and  social  officers  and  loan 
+implementation environment consultant (LIEC) and LISC (see terms of reference in Appendix 5 
+of the ESMS). Most of the hands-on support from the PPMO will be provided in the first two and 
+a half years of the project. The roles of the LIEC and LISC are especially important in the first 
+year  of  project  implementation,  since  the  FIs  do  not  have  technically-qualified  environmental 
+and  social  staff  at  this  stage.  It  is  anticipated  that  from  year  two  onward,  as  support  from  the 
+PPMO is reduced, such staff will be in place at the FIs to operate the ESMS. As FI capacity is 
+strengthened,  and  the  ESMS  becomes  firmly  integrated  into  business  procedures,  the  FIs  will 
+play a larger role to support the RFSPs implement the ESMS. 
+70. 
+The  current  capacity  of the  FIs for  environmental  and  social  safeguard management  is 
+inadequate.  The  project  includes  a  training  program  to  strengthen  FI  capacity,  and  includes 
+principles and practice of environmental and social impact assessment in the agriculture sector, 
+ESMS implementation, and the efficient use of natural resources.   
+G. 
+Grievance redress mechanisms  
+71. 
+The  project  includes  grievance  redress  mechanisms  (GRM)  to  identify,  address,  and 
+resolve any public concerns for safeguard issues of the project activities. The GRMs need to be 
+separate  to  address  different  types  of  issues,  e.g.  environment  versus  social.  The  GRMs 
+comprise  a  series  of  steps  to  receive,  document,  and  address  the  concerns  of  any  affected 
+persons.  The  GRMs  will  be  made  accessible  to  all  members  of  the  community.  Multiple  entry 
+points  will  be  made  available,  including  face-to-face  meetings,  written  complaints,  telephone 
+conversations,  e-mail,  and  social  media  (see  Section  IV  in  the  ESMS).  The  GRMs  will  be 
+implemented by the PPMO and CPMOs, with the support of the BAAHs, FIs, and RFSPs. 
+H. 
+Monitoring and Reporting 
+72. 
+Each  FI  will  develop  and  maintain  internal  monitoring  systems  to  record  the  safeguard 
+procedures undertaken for each subloan application. The reporting procedure is as follows: (1) 
+semi-annual ESMS reports covering SGAP implementation (related to FI responsibilities) will be 
+provided  by  the  FIs  to  the  CPMOs;  (2)  the  CPMOs  will  provide  semi-annual  Safeguard 
+Monitoring Reports, covering the ESMS, GRMs, SGAP (related to government responsibilities), 
+training, and other safeguard-related issues, to the PPMO for review and consolidation. These 
+36 
+reports  will  include  the  results  of  the  FI  semi-annual  ESMS  reports.  The  PPMO  will  guide  the 
+CPMOs  in  preparing  county-level  Safeguard  Monitoring  Reports  and  consolidate  them  into 
+project-level Safeguard Monitoring Reports with support of LIEC and LISC; and (3) the PPMO 
+will submit semi-annual project Safeguard Monitoring Reports to ADB for review and disclosure. 
+ADB will check and verify all the safeguard documents periodically, such as ESMS worksheets, 
+and  may  request  additional  supporting  information.  See  Step  F  in  Section  III  of  the  ESMS  for 
+further details.  
+37 
+VIII.  GENDER AND SOCIAL DIMENSIONS 
+73. 
+A  social,  poverty,  and  gender  analysis  was  undertaken  in  accordance  with  ADB’s 
+policies on Gender and Development in ADB Operations (Operations Manual Section C2), and 
+Incorporation of Social Dimensions into ADB Operations (Operations Manual Section C3). The 
+analysis  collected  information  to  assist  in  the  design  of  the  project  by  identifying  the  poor, 
+examining causes of poverty, and recommending poverty reduction measures within the project 
+scope. 
+74. 
+Social  and  poverty  dimensions.  The  project  will  implement  socially  inclusive 
+interventions  and  will  target  benefits  to  EM  people,  women,  and  the  poor  to  the  extent 
+possible.28 Of the total beneficiary households in the government’s initially proposed subprojects, 
+29.6% are poor, almost the same as the overall poverty incidence of 30.4% of the project area 
+in 2012.29  
+75. 
+Gender  dimension. Of the 122,000 beneficiaries in the government’s initially proposed 
+subprojects,  59,170  (48.5%)  are  women.  Women  will  benefit  more  from  the  project  as  more 
+female  laborers  are  engaged  given  that  women  are  the  major  labor  force  for  agricultural 
+production.30 The project is classified by ADB as effective gender mainstreaming and the SGAP 
+was developed to enhance gender inclusive development. 
+76. 
+Social and gender action plan. The SGAP prepared for the project, shown in Table 1, 
+will ensure that social and gender activities are implemented and monitored at regular intervals. 
+The  purpose  of  the  SGAP  is  to  ensure  that  salient  social  and  gender  issues  are  addressed 
+during the project implementation, and its implementation mitigates likely negative impacts and 
+enhances project benefits for these vulnerable groups. The SGAP will ensure suitable avenues 
+will  be  available  for  participation  of  all  beneficiaries  including  women  and  the  poor,  and  it 
+includes  measures  for  maximizing  their  participation  in  local  decision-making.  The  SGAP  also 
+provides details of the target indicators and responsibilities for implementation. 
+77. 
+Institutional  responsibilities.  PPMO  and  CPMOs,  with  support  from  the  county 
+governments,  will  be  responsible  for  implementing  the  project  level  SGAP  actions.  The  end-
+borrowers  and  BAAHs,  with  assistance  of  CPMOs  and  other  county  government  agencies, 
+PPMO,  and  FIs,  will  implement  the  subproject  SGAP  actions.  The  social  safeguards  officer  of 
+the PPMO will be responsible for overall SGAP monitoring and reporting to ADB. 
+78.  Monitoring  and  Reporting.  FIs  will  monitor  SGAP  implementation  related  to  FI 
+responsibilities  and  report  in  the  ESMS  reports.  CPMOs  will  monitor  SGAP  implementation 
+related  to  government  responsibilities  and  report  in  the  Safeguard  Monitoring  Reports.  The 
+PPMO  social  Safeguard  Monitoring  Officer  will 
+the  SGAP 
+implementation status in the semi-annual Safeguard Monitoring Reports and submit to ADB for 
+review. The LISC will help the PPMO to develop monitoring and reporting mechanism in detail. 
+review  and  consolidate 
+28 The FIs and RFSPs will lend based on financial capacity for repayment. For this reason, some support actions will 
+be implemented by local government through PPMO and CPMOs and some actions will be  implemented by end-
+borrowers for FI subprojects. 
+29 The rural poverty level is based on CNY 2,300 net income per capita per year. 
+30 According to PPTA household surveys, 60.4% of female laborers are engaged in agriculture, while only 48.4% are 
+male labourers. 
+38 
+Project Component 
+Output 1: 
+Inclusive and 
+environmentally-friendly 
+featured agricultural 
+production bases 
+developed 
+Output 2:  
+Farmer cooperatives and 
+agricultural enterprises 
+financed and 
+strengthened 
+Output 3: 
+Rural financial service 
+system developed and 
+enhanced 
+Table 1. Social and Gender Action Plana 
+Targets / Indicators 
+Budget 
+Responsibilities 
+Social and 
+Gender 
+Outputs/ 
+Activities 
+Training of 
+14,130 farmers  
+  50% of participants 
+are women 
+Project 
+budget  
+BAAHs, PMOs  
+  30% of participants 
+are poor 
+  30% are female 
+  30% are poor 
+  50% of loans from 
+the FIs to individual 
+farmer household 
+with women’s 
+signature 
+  70% land use rights 
+transfer agreement 
+signed during the 
+project 
+implementation 
+period with women’s 
+signatures 
+  30% are female 
+Project 
+budget  
+BAAHs, PMOs 
+BAAHs, PMOs, 
+sub-borrowers 
+FIs, BAAHs, 
+PMOs 
+Part of the 
+routine 
+operations 
+of FIs and 
+PMOs  
+FIs, BAAHs, 
+PMOs, sub-
+borrowers 
+(cooperatives and 
+ASMEs) 
+BAAHs, PMOs 
+  50% of participants 
+are women 
+Project 
+budget  
+  30% of participants 
+are poor 
+BAAHs, PMOs, 
+cooperatives and 
+ASMEs 
+  30% are technicians 
+are females 
+Project 
+budget  
+BAAHs, PMOs 
+  40% for women 
+  30% for the poor 
+Routine 
+operations 
+of the 
+project 
+ASMEs, farmer 
+cooperatives, 
+PMOs 
+  30% of females 
+Project 
+budget 
+FIs, RFSPs and 
+PMOs 
+  30% of female staff 
+  All female staff 
+trained 
+FIs 
+FIs’ 
+counterpart 
+costs 
+Training of 450  
+technicians 
+Inclusive 
+beneficiaries of 
+the production 
+base 
+development 
+Women’s equal 
+access to 
+project subloans 
+Women’s 
+signature on 
+land use rights 
+transfer 
+agreement 
+At least 50 
+government staff 
+trained in water 
+conservation 
+and resource  
+monitoring 
+Training of 6,510 
+members  
+Training of 868 
+technicians and 
+managers 
+Priority to 
+women and the 
+poor for new job 
+opportunities in 
+enterprises and 
+farmer 
+cooperatives 
+Training of 270 
+staff of FIs and 
+35 staff of 
+RFSPs 
+Establishment of 
+29 grassroots 
+financial service 
+units 
+Project Component 
+Output 4: 
+Capacity for project 
+implementation and 
+management 
+strengthened 
+Targets / Indicators 
+Budget 
+Responsibilities 
+39 
+  All staff of PPMO 
+and CPMOs 
+  Staff of FIs 
+operating the 
+Project  
+Project 
+budget 
+PMOs, FIs 
+PMOs and FIs 
+Routine 
+operation 
+costs 
+  Assigning 
+responsible persons 
+for documentation 
+and M&E in PPMO, 
+CPMOS and FIs  
+  Establishment of 
+gender 
+disaggregated 
+database 
+  At least 35% of the 
+staff are women 
+Project 
+budget 
+PMOs 
+  At least 35% are 
+women 
+Project 
+budget 
+PMOs 
+Social and 
+Gender 
+Outputs/ 
+Activities 
+PMO staff 
+training on 
+gender and 
+development: (i) 
+concepts and 
+practices of 
+gender and 
+development, (ii) 
+ADB’s gender 
+policies; (iii) 
+SGAP 
+Gender 
+disaggregated 
+data collection 
+for project 
+documentation, 
+M&E 
+PPMO and 11 
+CPMOs 
+established and 
+operational with 
+adequate 
+budgetary 
+resources 
+76 PMOs staffs 
+trained on 
+project 
+management, 
+financial 
+management, 
+and 
+implementation 
+of ESMS, EMDP 
+and SGAP, and 
+M&E 
+a  Anticipated time frame: 2016-2020 
+ASMEs = agricultural small and medium enterprises, BAAHs = bureaus of agriculture and animal husbandry, CPMOs 
+=  county  project  management  offices,  ESMS  =  environmental  and  social  management  system,  FIs  =  financial 
+intermediaries,  M&E  =  monitoring  and  evaluation,  PMOs  =  project  management offices, PPMO  =  provincial  project 
+management office, RFSPs = rural financial service providers, SGAP = social and gender action plan. 
+Source: Asian Development Bank estimates. 
+40 
+IX. 
+PERFORMANCE MONITORING, EVALUATION, REPORTING AND 
+COMMUNICATION 
+A.  Project Design and Monitoring Framework  
+Impact of the Project is Aligned with 
+Income of rural residents in Gansu Province increased (The upcoming 13th Five Year Plan of Gansu 
+Province, 2016–2020) 
+Results Chain 
+Outcome 
+More productive, 
+market-oriented 
+agricultural 
+activities in 
+11 project 
+counties 
+enhanced 
+Outputs 
+1. Inclusive and 
+environment-
+friendly featured 
+agricultural 
+production bases 
+developed 
+Data Sources 
+and Reporting 
+Mechanisms 
+Risks 
+a. Annual statistics 
+of the Department 
+of Agriculture and 
+Animal Husbandry 
+b. Project 
+completion report 
+by provincial 
+PMOs 
+c. Official banking 
+statistics from the 
+People’s Bank of 
+China 
+Natural disaster and 
+market fluctuations 
+increase agricultural 
+production costs 
+significantly 
+Slowdown of the economy 
+reduces overall demand 
+growth for featured 
+agricultural products 
+1a–b., 1d. 
+Semiannual 
+project progress 
+reports by 
+provincial PMO 
+Financial intermediaries 
+are unwilling to lend to 
+sub-borrowers in the long 
+list proposed by the 
+government 
+1c. Project 
+financial 
+statements by 
+provincial PMO 
+1e–g. Training 
+workshop 
+registration 
+documents by 
+provincial and 
+county PMOs 
+Weak financial 
+management and 
+governance of 
+cooperatives and ASMEs 
+Financial intermediaries 
+are unwilling to lend to 
+RFSPs because of 
+perceived high risk 
+Market demands decrease 
+for some featured 
+agriculture products 
+Animal diseases occur 
+and spread 
+Performance Indicators with 
+Targets and Baselines 
+By 2020a (first-batch 
+subprojectsb): 
+a. Sales of featured agriculture 
+in project area reach CNY968 
+million (2014 baseline: CNY 745 
+million) 
+b. Sales of rural farm product 
+marketed through project-
+supported farmer cooperatives 
+and ASMEs increase by 50%  
+(2014 baseline: 0) 
+c. Financial intermediaries’ 
+lending to farmers, farmer 
+cooperatives, and ASMEs with 
+their own resources increases 
+by 50% (2014 baseline: 0) 
+By 2020 (first-batch 
+subprojects) 2014 baseline  
+1a. At least 145 featured 
+agricultural production bases 
+developed (2014 baseline: 0) 
+1b. Each production base 
+applies at least one water-
+saving and/or climate-smart 
+farming practice (2014 baseline: 
+0) 
+1c. 50% of financial intermediary 
+loans to individual farmer 
+households with women’s 
+signature (2014 baseline: 0) 
+1d. 30% of beneficiaries of the 
+production base development 
+are from poor households (2014 
+baseline: 0) 
+1e. At least 20,000 farmers 
+trained in the development and 
+management of featured 
+agricultural bases and 
+cooperatives and ASMEs, with 
+women trainees not less than 
+50% and the poor not less than 
+30% (2014 baseline: 0) 
+1f. At least 450 technical agents 
+trained with up-to-date 
+knowledge and technologies on 
+featured agriculture, with women 
+not less than 30% (2014 
+Results Chain 
+2. Farmer 
+cooperatives and 
+agricultural 
+enterprises  
+financed and 
+strengthened 
+3. Rural financial 
+service system 
+developed and 
+enhanced 
+4. Capacity for 
+project 
+implementation 
+and management 
+strengthened 
+Performance Indicators with 
+Targets and Baselines 
+baseline: 0) 
+1g. At least 50 persons from two 
+or more departments trained in 
+water conservation and resource 
+monitoring, with women not less 
+than 30% (2014 baseline: 0) 
+2a. At least 217 farmer 
+cooperatives and ASMEs 
+supported with subprojects to 
+enhance business and with 
+capacity building on 
+governance, branding, and 
+market development (2014 
+baseline: 0) 
+2b. At least 33 ASMEs and 
+45 farmer cooperatives obtain 
+product certification (2014 
+baseline: 0) 
+3a. Each financial intermediary 
+makes loan to at least one 
+RFSP (baseline: 0) 
+3b. At least 29 grassroots 
+financial service units built by 
+financial intermediaries, with 
+women staff recruited by these 
+units not less than 30% (2014 
+baseline: 0) 
+3c. 270 staff of financial 
+intermediaries and 35 staff of 
+RFSPs trained, with women not 
+less than 30% (2014 baseline: 
+0) 
+4a. At least 76 PMO staff trained 
+in project management, financial 
+management, and 
+implementation of ESMS, EMDP 
+and SGAP, and monitoring and 
+evaluation, with women not less 
+than 35% (2014 baseline: 0) 
+4b. ESMS implementation 
+mechanism is established with 
+relevant staff trained within the 
+financial intermediaries and 
+RFSPs (2014 baseline: 0) 
+41 
+Data Sources 
+and Reporting 
+Mechanisms 
+Risks 
+2a–b. Semiannual 
+project progress 
+reports by 
+provincial PMO 
+3a–b. Semiannual 
+project progress 
+reports by 
+provincial PMO 
+3c. Training 
+workshop 
+registration 
+documents by 
+financial 
+intermediaries 
+4a–b. Semiannual 
+project progress 
+reports by 
+provincial PMO 
+4a–b. Asian 
+Development 
+Bank’s annual 
+review missions 
+Key Activities with Milestones 
+(ii) 
+1.    Inclusive and environment-friendly featured agricultural production bases developed 
+1.1  Prepare initial long list of subprojects and provide to financial intermediaries by Q4 2015 
+       (provincial and county PMOs) 
+1.2  Establish ESMS and screen subprojects for safeguard issues accordingly by Q4 2015 
+       (financial intermediaries) 
+1.3  Receive subloans from financial intermediaries to develop production bases from 2016 up to 2020 
+       (farmers, farmer cooperatives, and ASMEs) 
+1.4  Provide capacity building for farmers from 2016 to 2020 (county PMOs) 
+42 
+2.  Farmer cooperatives and agricultural enterprises financed and strengthened 
+2.1  Prepare initial long list of farmer cooperatives and ASMEs to be supported by Q4 2015 (provincial 
+and county PMOs) 
+2.2  Screen long list in accordance with ESMS and provide subloans to farmer cooperatives and 
+ASMEs from 2015 up to 2020 (financial intermediaries) 
+2.3  Provide capacity building for farmer cooperatives and ASMEs from 2015 up to 2020 (county 
+       PMOs) 
+2.4  Obtain product certification by 2020 (at least 33 ASMEs and 45 farmer cooperatives) 
+3.  Rural financial service system developed and enhanced 
+3.1  Identify RFSPs satisfying eligibility criteria for relending, and government, financial intermediaries, 
+and RFSPs reach agreement on relending terms, eligibility criteria of sub-borrowers, and 
+safeguards by Q2 2016 (financial intermediaries) 
+3.2  Disburse loan proceeds to financial intermediaries for onlending to selected RFSPs with 
+established ESMS. RFSPs onlend to farmers, ASMEs, and farmer cooperatives from 2015 up to 
+2020  
+3.3  Establish at least 29 grassroots financial service units by 2020 (financial intermediaries) 
+3.4  Organize training for at least 300 loan officers and staff of financial intermediaries and RFSPs by 
+2020 (financial intermediaries) 
+3.5  Develop or pilot innovative rural financial services and/or products from 2015 to 2020 (financial 
+intermediaries) 
+4.  Capacity for project implementation and management strengthened 
+4.1  Provide training to staff from provincial and county PMOs, BAAHs, and financial intermediaries on 
+project implementation covering financial management, implementation of ESMS, EMDP, SGAP, 
+and project monitoring and evaluation by Q2 2016 
+Inputs 
+Asian Development Bank: $100.00 million 
+Financial intermediaries: $68.58 million 
+Beneficiaries: $24.67 million 
+Government: $6.75 million 
+Assumptions for Partner Financing 
+Not applicable. 
+ASMEs = agricultural small and medium-sized enterprises, BAAH = bureau of agriculture and animal husbandry, 
+EMDP = ethnic minority development plan, ESMS = environmental and social management system, PMO = project 
+management office, Q = quarter, RFSP = rural financial service provider, SGAP = social and gender action plan. 
+a The three indicators measure how much more production, marketing and credit will be achieved by the project, 
+respectively. Farmers are direct participants of production and marketing and direct recipients of credit. 
+b The first batch refers to subprojects financed by loan proceeds initially disbursed by the Asian Development Bank 
+and financial intermediaries’ own funds during the loan implementation period. 
+Source: Asian Development Bank. 
+A.  Monitoring  
+Project  performance  monitoring.  The  PPMO  will  be  responsible  for  monitoring  and 
+79. 
+reporting  on  project  performance.  The  basis  for  project  performance  monitoring  and  reporting 
+will  be  the  design  and  monitoring  framework,  which  identifies  performance  targets  for  the 
+outcomes  and  outputs  of  the  project.  The  PPMO  will  establish  and  maintain  a  project 
+performance monitoring system (PPMS), which will be designed to permit adequate flexibility to 
+adopt remedial action regarding project design, schedules, activities, and development impacts. 
+The PPMS will cover, but is not limited to, the following aspects of the project implementation: (i) 
+project  physical  and  financial  progress,  (ii)  results  of  capacity  development  programs,  (iii) 
+establishment  of  grassroots  financial  units  and  introduction  of  innovative  rural  financial 
+services/products, (iv) detailed information on beneficiaries of the project, (v) implementation of 
+EMDP  and  SGAP,  and  compliance  with  the  loan  and  project  covenants  (policy,  financial, 
+43 
+economic, sector, and others). The PPMO agreed and confirmed that they will (i) establish the 
+PPMS  framework  at  the  start  of  project  implementation  (within  6  months  after  loan 
+effectiveness),  (ii)  confirm  that  targets  are  achievable,  and  (iii)  develop  systematical  data 
+generation and collection procedures or arrangements. 
+80.  With inputs from the CPMOs, implementing agencies and other stakeholders, the PPMO 
+will  collect  and  analyze  the  data,  and  prepare  project  progress  reports  semi-annually. 
+Disaggregated  baseline  data  for  output  and  outcome  indicators  gathered  during  project 
+preparation will be updated and reported in the semi-annual project progress reports and after 
+each  ADB  review  mission.  They  will  provide  information  necessary  to  update  ADB's  project 
+performance reporting system.31  
+81. 
+Safeguards and social dimensions monitoring are elaborated in sections VII and VIII. 
+B.  Evaluation 
+In  addition  to  regular  monitoring,  project  performance  will  be  reviewed  at  least  once  a 
+82. 
+year  jointly  by  ADB  and  GPG.  The  review  will  assess  implementation  performance  and 
+achievement  of  project  outcomes  and  outputs,  assess  financial  progress,  identify  issues  and 
+constraints affecting implementation, and work out a time-bound action plan for their resolution. 
+ADB  will  undertake  annual  project  reviews  during  the  project  period.  Within  the  third  year  of 
+project implementation, ADB and GPG will undertake a midterm review of the project, covering 
+all 
+technical,  environmental,  social,  poverty 
+reduction,  economic,  financial,  procurement,  and  other  relevant  aspects  that  may  have  an 
+impact  on  the  performance  of  the  project  and  its  continuing  viability.  Within  6  months  of 
+completion of the project (i.e. end of the loan implementation period), GPG will submit a project 
+completion report to ADB.32 
+institutional,  administrative,  organizational, 
+C.  Reporting  
+83. 
+The GPG will provide ADB the following reports: 
+Report 
+Timing 
+Reference 
+Project progress report 
+Semi-annually, within 2 months after the 
+end of each reporting period 
+Project agreement, 
+schedule 
+Audit Report 
+Not later than 6 months after the end of 
+fiscal year  
+Project agreement, 
+schedule 
+Safeguard Monitoring Report 
+(covering ESMS reports from FIs) 
+Semi-annually,  within  2  months  after  the 
+end of each reporting period 
+Project agreement, 
+schedule 
+Project completion report 
+Not later than 6 months after the physical 
+completion of the project (i.e. at the end of 
+the loan implementation period) 
+Project agreement, 
+schedule 
+31 ADB's project performance reporting system is available at: 
+    http://www.adb.org/Documents/Slideshows/PPMS/default.asp?p=evaltool 
+32 Project completion report format is available at:  
+http://www.adb.org/Consulting/consultants-toolkits/PCR-Public-Sector-Landscape.rar  
+44 
+D.  Stakeholder Communication Strategy  
+84. 
+Project  information  will  be  communicated  through  public  consultation,  information 
+disclosure  mechanism  in  ADB’s  and  government’s  website,  meetings,  interviews,  focus  group 
+in 
+discussions,  community  consultation  meetings,  and  capacity  development 
+accordance with ADB’s requirements of information disclosure policy. The farmers, RFSPs, and 
+ASMEs  participating  in  the  project  will  be  informed  culturally  appropriate  and gender-sensitive 
+about the project benefits and potential project risks prior to the start of project activities. In the 
+consultative  meetings,  participants—including  male,  female,  and  the  poor  and  vulnerable 
+residents,  and  other  significant  stakeholders—will  be  consulted  about  concerns  or  complaints 
+raising mechanisms, information needs, and further consultation expectations.  
+training, 
+FIs,  RFSPs,  and  ASMEs  will  also  help  convey  opinions  and  advise  from  the  subloans 
+85. 
+through the implementation and monitoring of ESMS.  
+45 
+X. 
+ANTICORRUPTION POLICY  
+86. 
+ADB reserves the right to investigate, directly or through its agents, any violations of the 
+Anticorruption  Policy  relating  to  the  project. 33  All  contracts  financed  by  ADB  shall  include 
+provisions  specifying  the  right  of  ADB  to  audit  and  examine  the  records  and  accounts  of  the 
+executing agency and all Project contractors, suppliers, consultants and other service providers. 
+Individuals/entities  on  ADB’s  anticorruption  debarment  list  are  ineligible  to  participate  in  ADB-
+financed activity and may not be awarded any contracts under the project.34  
+87. 
+To  support  these  efforts,  relevant  provisions  are  included  in  the  loan  and  project 
+agreements and the bidding documents for the project. The project design and implementation 
+arrangements provide for mitigating corruption risks. Risks associated with project management 
+will  be  mitigated  by  (i)  training  of  the  executing  and  implementing  agencies’  staff  in  the 
+procurement of civil works, goods, and services under the project; and (ii) periodic inspection of 
+contractors’  activities  related  to  fund  withdrawals  and  settlements  by  the  executing  agency’s 
+staff. 
+88. 
+Selection  of  consultants  fully  or  partly  financed  out  of  ADB  loan  proceeds  will  adopt 
+ADB’s  Guidelines  on  the  Use  of  Consultants  (2013,  as  amended  from  time  to  time),  and 
+disbursement  will  be  made  in  accordance  with  ADB’s  disbursement  policies,  guidelines, 
+practices, and procedures.  
+33 Available at: http://www.adb.org/Documents/Policies/Anticorruption-Integrity/Policies-Strategies.pdf 
+34 ADB's Integrity Office web site is available at: http://www.adb.org/integrity/unit.asp 
+46 
+XI. 
+ACCOUNTABILITY MECHANISM 
+89. 
+People  who  are,  or may  in the future  be,  adversely  affected  by the  project  may  submit 
+complaints  to  ADB’s  Accountability  Mechanism.  The  Accountability  Mechanism  provides  an 
+independent  forum  and  process  whereby  people  adversely  affected  by  ADB-assisted  projects 
+can voice, and seek a resolution of their problems, as well as report alleged violations of ADB’s 
+operational  policies  and  procedures.  Before  submitting  a  complaint  to  the  Accountability 
+Mechanism, affected people should make a good faith effort to solve their problems by working 
+with the concerned ADB operations department (in this case the ADB East Asia Department  – 
+Environment, Natural Resources, and Agriculture Division). Only after doing that, and if they are 
+still dissatisfied, should they approach the Accountability Mechanism.35 
+35  For further information see: http://www.adb.org/Accountability-Mechanism/default.asp.  
+47 
+XII. 
+RECORD OF PAM CHANGES  
+90. 
+All revisions/updates during the course of implementation will be retained in this Section 
+to  provide  a  chronological  history  of  changes  to  implemented  arrangements  recorded  in  the 
+PAM. 
+No. 
+Description of Revision 
+Date 
+48 
+APPENDIX 1: SELECTION AND APPROVAL PROCEDURE FOR THE FIRST BATCH OF 
+SUBLOANS UNDER OUTPUTS 1 AND 2 
+For  the  first  batch  of  subloans  under  outputs  1 and  2,  the  government  will  prepare  and 
+1. 
+provide a long list of candidate subprojects for financial intermediaries (FIs) to consider. The FIs 
+will  then  decide  which  subprojects  on  the  list  to finance  based  on  their  assessment  regarding 
+sub-borrowers’  creditworthiness  and  compliance with  ADB  safeguards  requirements.  The  long 
+list is a key vehicle used by the government to achieve sector project objectives as specified in 
+the  design  and  monitoring  framework  through  the  first  batch  of  subloans.  The  long  list  will  be 
+updated  regularly  within  the  loan  implementation  period  until  the  loan  proceeds  from  ADB  are 
+fully disbursed. FIs may also identify subprojects which the government will review and include 
+in the long list if they contribute to project goals. 
+The  following  diagram  illustrates  how  the  first  batch  of  subloans  will  be  selected  and 
+2. 
+approved:  
+County  BAAHs  and  sub-borrowers  develop  candidate 
+subprojects  in  line  with  the  project  objectives  and  submit 
+proposals to county PMOs. 
+CPMOs consolidate the subproject proposals into a long list 
+and provide it to the FIs 
+FIs  assess  the  sub-borrowers  in  the  long  list  with  its  due 
+diligence and ESMS 
+FIs  process  subloan  documents  for  those 
+passing  FIs  due  diligence  and  complying 
+with ESMS 
+FIs  advise  CPMOs  the  cases  rejected  for 
+subloans 
+ADB  reviews  and  approves 
+subloan  documents  if  ADB 
+prior review is required. 
+FIs  submit  withdrawal  requests  to  county 
+PMOs,  which 
+to 
+provincial PMO 
+review  and  endorse 
+Provincial  PMO  consolidates  withdrawal 
+requests  and  submits  through  provincial 
+DOF to ADB 
+ADB  disburses  through  imprest  account  at 
+provincial DOF 
+Implementation of subprojects 
+rejected 
+County  BAAHs  strengthen 
+subprojects  and/or  develop  additional 
+subprojects 
+the 
+recommend 
+FIs 
+sub-
+borrowers/subprojects in line with the project 
+objectives  
+CPMOs 
+to 
+County  BAAHs  monitor  and  report  to 
+county  PMOs 
+implementation 
+the 
+status  of  subprojects.  County  PMOs 
+report to provincial PMO. 
+49 
+A  preliminary  long  list  of  subprojects  has  been  identified  by  the  government,  which 
+3.  
+consists  of  145  production  base  subprojects for  output  1  and 151 farmer  cooperatives  and 66 
+ASMEs  as  potential  sub-borrowers  for  output  2.  The  following  conditions  were  taken  into 
+consideration in making the preliminary list: (i) willingness to develop the production bases that 
+produce  locally  featured  cash  crops,  tree  crops  or  livestock;  (ii)  engaged  in  business  on  the 
+development of locally featured agriculture and playing a leading role on production, processing 
+or  market  development;  (iii)  capacity  and  potentials  for  demonstrating  advanced  technologies 
+and  bringing  along  agricultural  development  of  local  farmers;  (iv)  strong  demand  for  business 
+expansion  and  lack  of  capital  inputs;  and  (v)  capacity  on  financial  management  and  self-
+governance. These candidate subprojects will be provided to the FIs for assessment when the 
+project commences. 
+50 
+APPENDIX 2: ELIGIBILITY CRITERIA 
+1. 
+Eligibility criteria of rural financial service providers (RFSPs): A portion of loan funds 
+are  intended  to  be  onlent  by  the  financial  intermediary  banks  through  wholesale  lending 
+structures  to  eligible  rural  financial  service  providers  (RFSPs),  such  as  village  and  township 
+banks (VTBs), microcredit companies (MCCs), and rural mutual cooperatives (RMCs). Eligibility 
+requirements  of  RFSPs  include  a  clearly  stated  commitment  to  the  rural  financial  service 
+business  and  an  institutional  culture,  structure,  capability,  operating  system,  and  financial 
+position  that  can  support  the  sustained  delivery  of  rural  financial  services  to  farmers,  farmer 
+cooperatives, and agricultural small and medium enterprises (ASMEs) in the project areas. The 
+basic  principles  for  selecting  eligible  RFSPs  include  (i)  RFSPs  must  have  a  local  presence  in 
+the  project  county  with  a  commitment  to  provide  financial  services  to  farmers,  farmer 
+cooperatives  and  ASMEs;  (ii)  RFSPs  are  financially  sound  with  acceptable  credit  and  risk 
+management  systems  and  procedures;  and  (iii)  RFSPs  have  commitment  to  develop  and 
+adhere  to  basic  ESMS  requirements  in  accordance  with  Asian  Development  Bank’s  (ADB’s) 
+Safeguard Policy Statement (2009). The specific eligibility criteria of RFSPs would also include:  
+Legally registered within the project counties;  
+(i) 
+(ii)  A stated commitment to cooperate with executing agency, implementing agencies, 
+provincial  project  management  office,  and  county  project  management  offices  to 
+achieve the project objectives;  
+(iii)  More than one year operating history, no violation of regulatory requirements, and 
+no noted financial irregularities in the past year;  
+(iv)  For  VTBs,  they  must  have  a  non-performing  loan  ratio  not  more  than  4%,  and  a 
+“Shenong”1 loan ratio not less than 50%;  
+(v)  For  RMCs,  they  must  have  a non-performing  loan  ratio  not more  than 5%,  and  a 
+“Shenong” loan ratio not less than 60%; and 
+(vi)  For  MCCs,  they  must  have  a  non-performing  loan  ratio  not more  than 8%,  and  a 
+“Shenong” loan ratio not less than 30%.  
+2. 
+Guiding eligibility criteria of sub-borrowers for Output 3: Sub-borrowers for output 3 
+will take subloans from the RFSPs participating in the project. These  sub-borrowers in general 
+are a broad group, and their needs for credit are more diverse qualitatively and quantitatively. In 
+many cases, the sub-borrowers would take the loans in a shorter term due to the high available 
+interest rate, which could be up to four times of the benchmark rate determined by the People’s 
+Republic of China. Actual eligibility criteria for these sub-borrowers could be specified by each 
+RFSP  based  on  their  understanding  of  their  existing  and  potential  clients  following  guiding 
+criteria which include:  
+(i)  Capacity and commitment in carrying out commercially profitable activities related 
+to  agriculture  and  livestock  production,  agro-processing,  transportation,  and 
+marketing;  
+(ii)  Willingness  to  adopt  new  technologies  for  enhancing  business  in  a  commercially 
+sustainable manner and to take part in associated training programs;  
+(iii)  Meeting  environmental  and  social  management  system  (ESMS)  requirements  of 
+the  RFSPs,  and  commitment 
+to  adopt  environment-friendly  practices  and 
+measures  in  the  activities  to  be  supported  including  use  of  fertilizer,  chemicals, 
+1   “Shenong” refers to loans to farmers and agricultural activities and in rural areas, which are official defined by the 
+People’s Bank of China. 
+51 
+(iv) 
+integrated  pest  management  and  water  saving  technologies  that  meet  ESMS 
+requirements; and 
+Livestock  farmers  to  understand  and  meet  at  least  minimum  animal  welfare 
+standards  with  respect  to  housing,  feeding,  health  requirements  and  general 
+animal care and handling.  
+3. 
+Preference  would  go  to:  (i)  those  who  meet  all  other  criteria  and  who  are  willing  to  be 
+become  “demonstration”  farms  for  the  training  and  sharing  of  information  with  other  farmers; 
+and (ii) economically active  vulnerable groups such as the poor, women and ethnic minorities, 
+for  the  development  of  sufficiently  profitable  income  generation  activities  through  the  use  of 
+micro-credit in the project area. 
+Eligibility  criteria  of  sub-borrowers  for  subloans  financed  by  revolved  ADB  loan 
+4. 
+proceeds:  FIs  will  be  responsible  to  recycle  all  principal  of  the  first-batch  subloans  repaid  by 
+sub-borrowers  to  finance  additional  subloans.  The  government  will  not  provide  long-list  of 
+subprojects  or  sub-borrowers  for  these  subloans.  In  this  case,  the  selection  of  sub-borrowers 
+will  be  guided  by  the  following  eligibility  criteria  as  well  as  FIs’  due  diligence  on  the  loan 
+applicants.  
+5. 
+Specific eligibility criteria of farmer cooperatives and ASMEs as sub-borrowers include:  
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+Legally  registered  in  local  government  agencies  and  engaged  in  commercially 
+oriented business in the project area;  
+Subproject  to  be  supported  meets  the  screening  criteria  set  up  in  ESMS,  no 
+category-A subproject classified under the ESMS would be supported;  
+Demand  and  adequate  capacity  of  carrying  out  activities  linking  directly  with 
+featured agriculture development, such as production, post-harvest processing or 
+marketing;  
+Capacity and commitment to contribute sufficient cash or other assets in kind to 
+the proposed subproject;  
+Sound business strategy and corporate governance; and  
+Commitment 
+production, processing and marketing wherever applicable.  
+to  adopt  environment-friendly  practices  and  measures 
+in 
+6. 
+Specific eligibility criteria of individual farmers as sub-borrowers include:  
+(i) 
+(ii) 
+(iii) 
+(iv) 
+Subproject  to  be  supported  meets  the  screening  criteria  set  up  in  ESMS,  no  
+category-A subproject classified under the ESMS would be supported; 
+Demand  and  adequate  capacity  of  carrying  out  activities  related  to  featured 
+agriculture development in a commercially sustainable manner, with a preference  
+given  to  those  who  are  engaged  in  the  establishment  of  project-supported 
+production bases;  
+Commitment 
+in 
+production,  including  use  of  biological  fertilizers  and  chemicals  and  adoption  of 
+improved 
+integrated  pest 
+management, water-saving irrigation technologies, and waste management; and 
+Under same/similar conditions, priority would be given to the economically-active 
+vulnerable  groups,  such  as  the  poor,  women  and  ethnic  minorities  for  the 
+development  of  sufficiently  profitable  income  generation  activities  in  the  project 
+area.  
+to  adopt  environment-friendly  practices  and  measures 
+technologies  wherever  applicable,  such  as 
+52 
+APPENDIX 3: FORMAT FOR FINANCIAL REPORTING 
+53 
+54 
+55 
+56 
+57 
+58 
+APPENDIX 4: TRAINING PLANS 
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+66 
+67 
+68 
+69 
+70 
+71 
+72 
+73 
+74 
+75 
+76 

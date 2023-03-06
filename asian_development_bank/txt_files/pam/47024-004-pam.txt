@@ -1,0 +1,5024 @@
+Pehur High Level Canal Extension Project (RRP PAK 47024) 
+Project Administration Manual 
+Project Number: 47181-004 
+Loan Numbers: XXXX 
+October 2016 
+Islamic  Republic  of  Pakistan:  Pehur  High  Level 
+Canal Extension Project  
+CONTENTS 
+I. 
+PROJECT DESCRIPTION 
+A. 
+Impact and Outcome 
+B.  Outputs 
+II. 
+IMPLEMENTATION PLANS 
+A.  Project Readiness Activities 
+B.  Overall Project Implementation Plan 
+III. 
+PROJECT MANAGEMENT ARRANGEMENTS 
+A.  Project Implementation Organizations–Roles and Responsibilities 
+B.  Key Person Involved in Project Implementation 
+C.  Details of Cost for Project Management 
+IV. 
+COST AND FINANCING 
+A.  Detailed Cost Estimates by Expenditure Category 
+B.  Allocation and Withdrawal of Loan Proceeds 
+C.  Detailed Cost Estimate by Financier 
+E.  Detailed Cost Estimates by Year 
+F.  Contract Awards and Disbursement Projection 
+G.  Fund Flow Diagram 
+V. 
+FINANCIAL MANAGEMENT 
+A.  Financial Management Assessment 
+B.  Disbursement 
+C. Project Financial Reporting, Auditing, and Public Disclosure 
+VI. 
+PROCUREMENT AND CONSULTING SERVICES 
+A.  Advance Contracting and Retroacting Financing 
+B.  Procurement of Goods, Works and Consulting Services 
+C.  Procurement Plan 
+D.  Consultant’s Terms of Reference 
+VII.  SAFEGUARDS 
+A.  Environmental Safeguard 
+B.  Social Safeguards 
+C.  Prohibited Investment Activities 
+1 
+3 
+3 
+8 
+8 
+9 
+11 
+11 
+14 
+17 
+25 
+25 
+26 
+27 
+29 
+30 
+31 
+32 
+32 
+35 
+36 
+37 
+37 
+37 
+37 
+40 
+40 
+40 
+40 
+41 
+VIII.  GENDER AND SOCIAL DIMENSIONS 
+IX. 
+PERFORMANCE 
+COMMUNICATION 
+MONITORING, 
+EVALUATION, 
+REPORTING, 
+A.  Project Design and Monitoring Framework 
+B.  Monitoring 
+C.  Evaluation 
+D.  Reporting 
+E.  Stakeholder Communication Strategy 
+i 
+42 
+AND 
+44 
+44 
+46 
+47 
+47 
+47 
+GUIDANCE NOTE TO DEVELOP PLAN FOR SUSTAINABLE O&M OF PHLCE          50 
+X. 
+XI. 
+ANTICORRUPTION POLICY 
+XII.  ACCOUNTABILITY MECHANISM 
+XIII.  RECORD OF PAM CHANGES 
+54 
+54 
+54 
+ii 
+Project Administration Manual Purpose and Process 
+The  project  administration  manual  (PAM)  describes 
+the  essential  administrative  and 
+management requirements to implement the project on time, within budget, and in accordance 
+with  Government  and  Asian  Development  Bank  (ADB)  policies  and  procedures.  The  PAM 
+should include references to all available templates and instructions either through linkages to 
+relevant URLs or directly incorporated in the PAM.  
+The Khyber Pakhtunkhwa Irrigation Department, the executing agency, is wholly responsible for 
+the implementation of ADB financed project, as agreed jointly between the borrower and ADB, 
+and  in  accordance  with  Government  and  ADB’s  policies  and  procedures.  ADB  staff  is 
+responsible  to  support  implementation  including  compliance  by  executing  agencies  of  their 
+obligations and responsibilities for project implementation in accordance with ADB’s policies and 
+procedures.  
+At  Loan  Negotiations  the  borrower  and  ADB  shall  agree  to  the  PAM  and  ensure  consistency 
+with  the  legal  agreements.  Such  agreements  shall  be  reflected  in  the  minutes  of  the  Loan 
+Negotiations. In the event of any discrepancy or contradiction between the PAM and the Loan 
+Agreement, the provisions of the Loan Agreement shall prevail.  
+After ADB Board approval of the project's report and recommendations of the President (RRP), 
+changes  in  implementation  arrangements  are  subject  to  agreement  and  approval  pursuant  to 
+relevant  Government  and  ADB  administrative  procedures  (including  the  Project  Administration 
+Instructions) and upon such approval they will be subsequently incorporated in the PAM.  
+iii 
+ADB 
+AES 
+AWB 
+EMP 
+EIA 
+FFS 
+FO 
+KPAD 
+KPID 
+KPP 
+LARP 
+masl 
+M&E 
+O&M 
+OCR 
+OFWM 
+PAM 
+PHLC 
+PHLCE 
+PIO 
+PMO 
+WUA 
+ha 
+kg 
+m 
+m3 
+m3/s 
+km3 
+ABBREVIATION  
+Asian Development Bank 
+Agriculture Extension Services 
+Area Water Board 
+environmental management plan 
+environmental impact assessment  
+farmer field school 
+Farmer organization 
+Khyber Pakhtunkhwa Agriculture Department 
+Khyber Pakhtunkhwa Irrigation Department 
+Khyber Pakhtunkhwa Province 
+land acquisition and resettlement plan 
+meter above mean sea level 
+monitoring and evaluation 
+operation and maintenance 
+ordinary capital resources 
+on farm water management 
+project administration manual 
+Pehur High Level Canal 
+Pehur High Level Canal Extension 
+project implementation office 
+project management office 
+water users’ association 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+WEIGHTS AND MEASURES 
+– 
+– 
+– 
+– 
+– 
+– 
+hectare 
+kilogram 
+meter 
+cubic meter 
+cubic meter per second  
+cubic kilometer 
+GLOSSARY 
+abiana 
+biraderi 
+chakbandi 
+– 
+– 
+conjunctive use 
+– 
+irrigation service fee 
+clan
+delineating  the  command  area  served  by  various  elements  off
+irrigation system 
+use of surface water and groundwater to  meet  water needs in
+the same geographic area
+rabi 
+kharif 
+–  winter crop growing season from about October to March
+– 
+summer crop growing season from about April to September
+NOTE 
+In this report, “$” refers to US dollars. 
+I. 
+PROJECT DESCRIPTION 
+1. 
+The Pehur High Level Canal Extension (PHLCE) Project will develop new irrigated area 
+of  over  8,727  hectare  (ha)  in  Swabi  and  Nowshehra  districts  located  in  the  middle-east  of 
+Khyber  Pakhtunkhwa  Province  (KPP),  in  which  water  resources  for  agricultural  production  is 
+currently dependent on rainfall only. To supply reliable irrigation water to the new irrigated area, 
+the  PHLCE  Project  will  finance  the  extension  of  the  existing  Pehur  High  Level  Canal  (PHLC) 
+system for a population of about 75,000.  
+2. 
+The 1991 Water Apportionment Accord forms the basis for distribution of water among 
+the provinces. The share of water of KPP under the water accord is 7.03 billion cubic meter (m3) 
+(4.29  billion  m3  in  kharif  and  2.84  billion  m3  in  rabi).  However,  due  to  capacity  constraint  KPP 
+cannot use its entire allocated share. The average water withdrawals by KPP from 1999-2013 
+amounted to 6.8 billion m3 (4.2 billion m3 in kharif and 2.6 billion m3 in rabi), which is about 0.23 
+billion m3 less than the allocated share of the province.1 
+In  late  nineties,  construction  of  the  PHLC  was  started  with  financing  from  Asian 
+3. 
+Development Bank (ADB).2 The main aim of the PHLC Project was to realize the full agricultural 
+potential of about 40,300 ha in the project area by (i) alleviating shortage of irrigation supplies to 
+about 35,800 ha at the far reaches of the Upper Swat Canal system; (ii) reclaiming about 6,000 
+ha of waterlogged land within the Upper Swat Canal system command area; and (iii) providing 
+irrigation  development  for  about  4,500  ha  of  mainly  rainfed  land  outside  Upper  Swat  Canal 
+system  command  in  Topi  Priority  Area.  The  PHLC  was  designed  for a  maximum  discharge of 
+28.7 m3/s and had an annual water allocation of 0.57 million m3 from the Tarbela reservoir. The 
+commissioning of PHLC in 2003 not only ensured the availability of water to the tail end of the 
+Upper Swat Canal but also provided an opportunity to develop new areas for irrigation as some 
+of the proposed new areas could not be developed. These new areas identified included Janda 
+Boka, Indus, and Ambar. At that time, the requirement of pumping irrigation for these areas had 
+been recognized. As all the area proposed to be included in the PHLC was not developed PHLC 
+does  not  operate  at  its  design  discharge  of  28.7  cubic  meter  per  second  (m3/s)  and  does  not 
+make use of its authorized share.  
+Due  to  sediment  deposition  in  the  reservoir  the  minimum  draw  down  level  of  Tarbela 
+4. 
+Dam has been raised to El 420 masl (elevation in meter above mean sea level) as compared to 
+396  masl  at  the  design  stage.  Thus,  availability  of  additional  head  of  23.8  meter  (m)  gives  an 
+opportunity to irrigate additional areas through gravity  which could not be included at the time 
+PHLC was designed. It is now possible to irrigate parts of Janda Boka and Indus Ambar areas 
+under  gravity  through  construction  of  pressure  pipes  utilizing  the  available  head  from  Tarbela 
+Dam  and  running  the  canal  on  a  higher  contour.  The  estimated  minimum  operating  level  of 
+Tarbela Dam for 2020 is 423.5 m, which is taken as the design level for the PHLCE Project.  
+5. 
+The PHLCE will mainly irrigate lands in Swabi District. The entire area of the district is 
+fertile  and  produces  good  crops.  However,  most  of  the  cultivated  area  is  rainfed  and  under 
+favourable environmental conditions and sufficient rainfall gives very good output. Construction 
+of PHLC has brought prosperity to the area and enhanced the agricultural output. The sources 
+of irrigation in Swabi district are canals, government tube wells, and private tube wells. 
+1  As per data of Canal withdrawals from IRSA (Indus River System Authority). 
+2  ADB.  1993.  Report  and  Recommendation  of  the  President  to  the  Board  of  Directors:  Pehur  High  Level  Canal 
+Project. Manila. 
+2 
+According to crop use statistics the total reported area of Swabi district is 148,689 ha out 
+6. 
+of  which  87,046  ha  has  been  reported  as  cultivated  area.  In  the  cultivated  area,  the  total 
+irrigated  area  is  37,248  ha  in  which  the  Government  canals  irrigate  24,787  ha,  tube  wells 
+irrigates  94  ha  of  land,  wells  irrigate  11,427  ha,  lift  pump  irrigate  121  ha  and  other  sources 
+irrigate 819 ha of land. Almost 49,798 ha of land had been reported as rain fed. The project will 
+convert  about  8,727  ha  of  rainfed  area  to  irrigated  agriculture  aiming  to  increase  the  present 
+rainfed cropping intensity of 52.4% to irrigated 165.75%. The project will result in improving the 
+living conditions of the local population through economic growth from irrigated agriculture. The 
+pressure pipes and canal system have extra capacity to increase the irrigated area by 1,400 ha 
+in  future,  which  will  increase  the  total  cultivable  command  area  of  PHLCE  to  10,127  ha.  The 
+project will thus increase the existing 24,787 ha area in Swabi District irrigated by government 
+canals to 34,950 ha an increase of 41% over the present canal irrigated area. At this stage the 
+economic viability of the project is based on additional production from the proposed cultivable 
+command area of 8,727 ha only. 
+7. 
+The farm size in the command area is very small, and thus a large number of farmers 
+will benefit from the project. There are 8,630 farms with an average size of 1.01 ha. According 
+to  distribution  by  size,  the  number  of  farms  comes  to  7,266;  1,214;  130;  12  and  7  in  the  farm 
+size categories of I, II, III, IV, and V, respectively.3 Thus, about 84.2% of the farms are less than 
+2 ha size and occupy 51.5% of the cultivable farmland and 98.27% of the farmers own a farm of 
+less than 5 ha and collectively occupy 87.3% of the cultivable farmland of the command area. 
+Vast majority of farmers are owners and own most of the farmland which is quite favorable for 
+development  of  the  project.  81.7%  farms  in  the  project  area  are  operated  by  the  owners, 
+possessing  75.83%  of  farmland.  The  tenant  operated  farms  are  9.6%,  farming  on  12.3%  of 
+farmland.  The  land  owners  in  the  project  area  are  looking  forward  to  convert  from  rainfed  to 
+irrigated  farming  as  their  incomes  and  the  values  of  their  properties  would  appreciate  with 
+project development. 
+Climate  change.  Climate  change  studies  were  carried  out  during  project  preparation 
+8. 
+stage. 4 These  studies  indicate  that  during  the  last  century,  average  annual  temperature  in 
+Pakistan increased by 0.6°C, which is in agreement with the global trend, with the temperature 
+increase  over  northern  Pakistan  being  higher  than  southern  Pakistan  (0.8°C  versus  0.5°C). 
+These  studies  project  that  the  average  temperature  over  Pakistan  will  increase  in  the  range 
+1.3°C to 1.5°C by 2020, 2.5°C to 2.8 °C by 2050 and 3.9°C to 4.4 °C by 2080, corresponding to 
+an  increase  in  average  global  surface  temperature  by  2.8°C  to  3.4  °C  by  the  end  of  the  21st 
+century. 
+9. 
+The  median  scenario  change  projection  indicates  that  the  annual  rainfall  in  the  project 
+area will not substantially increase; only 5% by 2050. However, there will be obvious change for 
+2100, with an average increase across the project area of 8%. While it is projected that climate 
+change will impact the frequency and intensity of extreme rainfall events, with fewer but larger 
+rainfall  events  expected  (IPCC,  2007),  degree  of  variation  of  floods  (i.e.,  variation  of  return 
+periods)  cannot  be  estimated  with  confidence  as  different  models  give  different  results. 
+However, the projected increased rainfall is not uniform and is more pronounced during the wet 
+months. This means that more frequent floods will be experienced and consequently adequate 
+discharge capacity of cross-drainage structures must be provided. 
+3  Category I = Less than 2.02 ha, II = 2.02 to < 5.06 ha, III = 5.06- < 10.12 ha, IV = 10.12- < 20.23 ha, V = 20.23 -> 
+20.23 ha. 
+4  ADB.  2013.  Project  Preparatory  Technical  Assistance  for  KP  Water  Resources  Sector  Project  (Consultant  Final 
+Report). Manila.  
+3 
+Irrigation water requirements have been estimated for the targeted cropping pattern with 
+10. 
+due consideration to climate change impact on agriculture by 2050. The studies conclude that 
+climate change impact will result in nominal increase of 1.36 million m3 in annual irrigation water 
+requirements,  which  is  available  from  the  source  (Tarbela  Reservoir).  The  additional 
+requirements  fall  mostly  within  the  designed  canal  capacity  except  for  the  month  of  October, 
+wherein the system capacity is projected to be 5% less than the demand. Thus, the crops will 
+face  a  minor  stress  of  5%  during  this  period.  However,  it  should  be  noted  that  PHLCE  canals 
+have extra capacity to increase the irrigated area by 1,400 ha in future, which will augment the 
+potential  water  balance  deficit  due  to  the  climate  change.  During  the  remaining  period,  the 
+required additional discharge due to the climate change would be easily accommodated by the 
+PHLCE system. If needed, climate change impact can be neutralized by staggering the sowing 
+time  of  crops  grown  at  high  intensity  like  maize  and  wheat  in  order  to  reduce  the  peak 
+requirements during May and October.  
+A. 
+Impact and Outcome 
+The project impacts, which are aligned with the government strategy will be the following 
+11. 
+(i) increased irrigated agriculture area in the KPP; and (ii) ensured food security for the decade 
+2010-2020 in KPP.5 The outcome will be increased agricultural production in the project areas.   
+B. 
+Outputs 
+1. 
+Output 1: Available agricultural water in project areas increased  
+This  output  includes  (i)  construction  of  the  irrigation  system  in  Janda  Boka-Malikabad 
+12. 
+area  (JBMA);  (ii)  construction  of  the  irrigation  system  in  Indus  Ambar  area  (IAA);  (iii) 
+developments  of  efficient  monitoring  and  evaluation  (E&M)  system  to  assess  the  irrigation 
+efficiency of PHLCE system and sustainable PHLCE O&M plan and rule.   
+a. 
+Construction of the irrigation system in JBMA  
+13. 
+Connection with Gandaf Tunnel. The outlet to the pressure pipe will off take from the 
+Gandaf tunnel just downstream of the access chamber before the Pehur Hydropower station off 
+take point. A valve chamber was constructed about 21 m from the tunnel centerline with a valve 
+inside. The diameter of the pipe which was plugged for future Janda Boka Irrigation Scheme is 
+0.60 m. 
+14. 
+Pressure pipe and Outlet Works. A 3,939 m long proposed pressure pipe will connect 
+the  Gandaf  Tunnel  with  the  Janda  Boka  area  canal.  This  pipe  is  proposed  to  be  1.22  m 
+diameter steel pipe up to Janda Boka Minor after which 850 millimeter pressure pipe continues 
+to  Janda  Boka  Main  Canal.  The  change  in  diameter  results  in  decrease  of  head  loss  and 
+consequently  it  is  possible  to  feed  higher  elevations  of  the  area  through  gravity.  The  pipe  is 
+proposed to be buried at a minimum depth of 1.5 m to absorb the ground loading and coated 
+with  protective  material  to  be  safe  against  corrosion.  Concrete  cover  has  been  provided  and 
+depth of excavation has been increased at the locations where it is crossing vehicular roads to 
+avoid the direct impact of load on the pipe. Drainage and two air/vacuum valves are proposed 
+along  the  pipe  to  protect  against  the  abnormal  flow  conditions  in  the  pipe.  The  pipe  outlet  is 
+provided with a control system to regulate the flow for seasonal variation. Before the valve and 
+operation  room,  a  thrust  block  is  proposed  to  absorb  the  transient  pressure  of  the  emergency 
+5  KPP Government. 2009. Comprehensive Development Strategy 2010-2017. Peshawar. 
+4 
+wave. The control system comprises two valves i.e., a gate valve for open/shut conditions and a 
+sleeve valve for regulation and energy dissipation.  
+15. 
+A stilling well is proposed at the outlet to dissipate excess energy during the higher level 
+in  the  reservoir.  The  well  is  protected  with  steel  sheets  against  the  high  pressure  jets  of  the 
+incoming  water.  A  sleeve  valve  is  proposed  to  be  protected  against  vibrations  by  anchoring  it 
+with the chamber walls. A control room will be provided for the operator and emergency spare 
+parts.  A  weir  at  the  other  side  of  the  well  is  proposed  to  spill  the  water  into  a  stabilizing  pool 
+which will carry it to the canal.   
+16. 
+Main Janda Boka Canal. The Main Canal has been proposed to be a contour channel, 
+running at higher contour and irrigating areas only on its left side. Fifteen (15) numbers of direct 
+outlets  are  also  provided  in  the  main  canal.  A  minor  canal  offtakes  directly  from  the  Pressure 
+Pipe in which five (5) outlets will be provided. Janda Boka command area is bounded by high 
+level semi-hilly area to the north, PHLC canal to the south, Gadoon Industrial Area to the east, 
+and the Maini Village to the west. Part of the land is already covered by the Gadoon Industrial 
+Estate,  Maini  Village  and  high  hills.  The  Gross  Command  Area  after  excluding  Gadoon 
+Industrial  Estate  and  major  settlements  is  1,374  ha,  while  the  cultivable  command  area  (after 
+accounting for roads, nullahs, etc.)  is  1,316  ha  which  can  be  commanded  under  gravity  
+from  Tarbela.  The command area is divided into subcommand areas (engineering chackbandi) 
+with a total discharge of 0.65 m3/s.  
+17. 
+Canal  and  Drainage  Structures:  Main  structures  on  the  Janda-Boka  canals  are 
+aqueducts,  drainage  culverts,  super  passages,  road  bridges,  foot  bridges,  outlets  etc.  The 
+outlets are mostly proportional dividers i.e., bifurcaters and trifurcaters but for the smaller chaks 
+and in the canal reach, open flumes have also been proposed. The proposed structures include; 
+four  falls/drop,  one  aqueduct,  nine  cross  drainage  culverts,  14  road  bridges,  11  foot  bridges, 
+one minor, and 20 outlets.   
+b. 
+Construction of the irrigation system in IAA 
+18. 
+Connection  with  Gandaf  Tunnel.  The  proposed  pressure  pipe  starts  from  the 
+downstream of the control valve and passes through a number of villages to reach the Ambar 
+area where it opens into a discharge basin. Total length of the pipe is about 24.17 km. The pipe 
+diameter  for  a  discharge  of  4.19  cumecs  (148.06  cusecs)  is  2.00  m  (10.76  ft).  The  pipe  is 
+proposed to be buried at a minimum depth of 1.5 m to absorb the ground loading and coated 
+with protective material to safe against corrosion. Concrete cover has been provided and depth 
+of excavation has been increased at the locations where it is crossing vehicular roads to avoid 
+the  direct  impact  of  load  on  the  pipe.  Similarly,  it  crosses  a  number  of  Nullahs  and  canals 
+including  Kundal  and  Badri.  Again  the  depth  is  increased  and  surface  is  protected  by 
+riprap/stone apron to avoid the chances of exposure due to scour. It is proposed to connect the 
+new  pressure  pipe  with  the  existing  steel  liner  of  the  Gandaf  Tunnel  at  the  point  of  access 
+chamber just before the Janda Boka pipe and power offtakes. Although the other works could 
+be carried out at any time, the connection will be established in a closure period by closing the 
+bulkhead and control gates at the head of the Gandaf Tunnel. This arrangement will ensure that 
+there will be no disruption of power generation in the Pehur power station as well as disruption 
+of irrigation in PHLC. 
+Pressure  pipe  and  Outlet  Works.  The  proposed  pressure  pipe  starts  from  the 
+19. 
+downstream of the control valve and passes through a number of villages to reach the Ambar 
+area  where  it  opens  into  a  discharge  basin.  The  total  length  of  the  pressure  pipe  is 
+5 
+approximately  24,170  m  and  pipe  diameter  is  2.0  m.  The  pressure  pipe  has  been  sized  to  be 
+able to carry discharge of 4.19 m3/s. The pipe will be buried in ground at a minimum depth of 1.5 
+m  (4.93  ft)  to  absorb  the  ground  loading.  The  pressure  pipe  crosses  a  number  of  rivers  and 
+canals  including  Kundal  and  Badri,  where  the  depth  of  the  pressure  pipe  is  increased  and 
+surface is protected by a stone apron to avoid the chances of exposure due to scour. There are 
+about  19  drainage  valves  and  17  air-vacuum  valves.  These  valves  are  protected  in  RCC 
+chambers and projected above the ground. At the end, normal control valves and stilling wells 
+are proposed. Water with surface waves will fall into a stabilizing pond through a spill weir in the 
+well and reach the canal through a transition section. 
+20. 
+Main  Indus  Ambar  Canal. The main Indus-Ambar canal will serve both the Indus and 
+Ambar areas by gravity. It will start from the downstream end of the stabilizing pond. The total 
+length of the canal is 27,400 m. The canal includes one Syphon in between Indus and Ambar 
+areas and one aqueduct to cross the link channel (Mira Branch–Indus Branch Link Channel).  
+21. 
+Distribution  Canal  System  in  IAA.  Apart  from  direct  off  takes  to  the  IAA  from  main 
+Indus-Ambar Canal, there are five minor canals serving the Ambar area. Indus Area is divided 
+into two distinct portions i.e., north and south of Motorway M-1. Northern part is mostly served 
+directly from the main Indus-Ambar Canal, therefore there is only one minor to the right of the 
+canal.  To  serve  the  southern  part,  an  aqueduct  through  an  existing  culvert  or  underpass  is 
+proposed to cross the Motorway.  After crossing the motorway, another minor is  offtaking from 
+the  distributary.  The  distributary  canal  will  end  at  the  point  where  it  will  be  linked  with  the 
+existing  Indus  Branch  to  feed  the  Nandrak  Minor  to  overcome  the  shortage  in  the  tail  of  the 
+system.  
+c. 
+Development of M&E system to assess the irrigation efficiency and 
+sustainable PHLCE O&M plan and rule. 
+An M&E system using satellite remote sensing technology and field-monitored irrigation 
+22. 
+water  flow  will  be  developed  to  assess  irrigation  performance  efficiently  of  existing  PHLC  and 
+proposed  PHLCE  systems.  The  M&E  system  with  field  calibration  will  also  be  used  for  crop 
+growing assessment, which will help the KPP Agriculture Department (KPAD) assess the status 
+of  agriculture  production,  and  the  KPP  Irrigation  Department  (KPID)  conduct  objective  abiana 
+assessment with expected abiana collection more than the average collection rage of 50%-60% 
+in KPP. At project completion, the M&E system will be handed over to KPID and KPAD whose 
+staff will be trained on the use of the system. Also, a rule and sustainable plan of PHLCE O&M 
+with  expected  increase  of  abiana  collection  and  KPP’s  committed  budget  allocation  will  be 
+developed by incorporating the M&E system in the plan. 
+2. 
+Output 2: Water-use skill and farm management capacities increased in the 
+project areas 
+23. 
+This  output  will  maximize  the  agricultural  benefits  resulting  from  the  increased  water 
+availability through Output 1. This includes (i) construction of on-farm level irrigation canals (i.e., 
+watercourses  and  farm  turnouts);  (ii)  formation  and  capacity  development  of  WUAs;  and  (iii) 
+trainings  to  farmers  on  profitable  farming  system  and  efficient  water  use  skills  through 
+demonstration activities and farmer field schools (FFSs).  
+6 
+a. 
+Construction of on-farm level irrigation canals 
+24. 
+Estimated  20  and  86  watercourses  will  be  constructed  in  JBMA  and  IAA,  respectively 
+with the total estimated length of over 120 km. Farm turnouts will also be installed, one for each 
+farm. These watercourses will be connected with irrigation system through outlets which will be 
+constructed under Output 1, and will deliver the water to the tail end of farmlands in all project 
+areas.  The  construction  of  watercourses  will  be  undertaken  on  participatory  basis.  The 
+watercourses  will  be  constructed  with  the  participation  from  water  users’  associations  (WUAs) 
+that will be formed under the project and beneficiaries who will provide land for watercourses at 
+no  cost  and  will  provide  unskilled  labor  thus  contributing  about  10%  of  the  cost  of  the 
+watercourse  construction  in  kind.  Other  costs  such  as  material,  skilled-labor  will  be  financed 
+under the project.  
+b. 
+Formation and capacity development of WUAs 
+25. 
+There  will  be  106  WUAs  (each  WUA  will  in  principle  operate  and  maintain  one 
+watercourse.)  formed  and  trained  to  cover  all  project  areas.  The  PIO  will  develop  WUA’s 
+organization, and operation and management manual for smooth WUAs’ formation and efficient 
+watercourse O&M by WUAs.  
+The  WUA  is  responsible  for  the  following  (i)  provide  right  of  way  for  constructing  the 
+26. 
+watercourse; (ii) arrange unskilled labor required for construction of watercourse and installation 
+of structures; (iii) settle any disputes amongst the water users in respect of channel alignment, 
+fixation  of  farm-turnouts,  distribution  of  work  etc.;  (iv)  regularly  undertake  O&M  of  the 
+watercourse;  (v)  undertake  construction  /  improvement  of  farmers’  branches  and  field  ditches; 
+(vi)  participate  in  the  process  of  water  allocations  and  distribution  (warabandi)  within  the 
+watercourse command; (vii) facilitate distribution of non-water inputs; (viii) access funding from 
+various  government  and  non-government  organizations  to  carry  out  development  works  in 
+agriculture  sector;  (ix)  arrange  collective  purchase  and  distribution  of  agriculture  inputs  (i.e., 
+seed, fertilizer and pesticides) on time; and (x) assist KPID in collection of abiana.6 
+27. 
+In  KPP,  WUAs  have  been  established  under  KPP’s  on-farm  water  management 
+(OFWM) program. While these WUAs functioned well during the rehabilitation or construction of 
+watercourses,  these  become  redundant  after  completion  of  the  rehabilitation  or  construction 
+process. Thus, currently, the WUAs are not adequately equipped and trained to undertake their 
+tasks  efficiently.  They  are  not  quite  conversant  with  water  distribution  and  measurement  in  a 
+practical way. Under the Project, WUAs will be trained to develop their capacity for overall water 
+resources management and efficient use of irrigation water. 
+28. 
+The WUAs will be formed through social mobilization by the PIO and will be registered 
+under  “On  Farm  Water  Management  &  Water  Users’  Association  Ordinance  [Act]-1981 
+(Amended  2001)”.7 To  ensure  continued  periodic  training  to  the  new  office  bearers  and  staff, 
+training modules will be prepared by the project implementation office (PIO) in consultation with 
+OFWM directorate and Agriculture Extension Services, and periodic short training sessions will 
+be  conducted  within  the  area  of  each  WUA  to  address  various  topics  which  will  cover  the 
+following but not limited to: (i) administrative and financial management of WUA, (ii) introduction 
+of  new  practices  and  technologies  like  information  on  new  crops  introduced,  (iii)  double 
+cropping, (iv) minimum tillage, (v) efficient methods of irrigation, water conservation and water 
+6  Abiana will be collected by KPID. 
+7  The On-Farm Water Management and Water Users’ Associations Ordinance, 1981. 
+7 
+saving technologies, (vi) off-season production, (vi) tunnel farming, (vii) efficient harvesting and 
+post-harvest,  and  (viii)  financial  management,  preparing  crop  budgets,  and  selecting  most 
+suitable  crop  mix  at  a  farm.  Also,  the  WUAs  will  be  trained  on  how  to  collectively  procure  the 
+agriculture  inputs  (e.g.,  seeds,  fertilizers,  pesticides)  and  distribute  the  same  among  their 
+members. 
+c. 
+Trainings  to  farmers  on  profitable  farming  system  and  efficient 
+water use skills through demonstration activities and FFSs 
+29. 
+One hundred (100) demonstration plots will be established on selected farmers’ fields to 
+demonstrate  the  effectiveness  of  the  following:  (i)  improved  irrigated  farm  practices  including 
+efficient  farm  operation  and  balanced  use  of  agricultural  inputs,  (ii)  use  of  certified  seeds,  (iii) 
+precise  land  levelling;  (iv)  cultivation  of  high  value  crops,  and  (v)  high  efficiency  irrigation 
+systems,  depending  on  the  demonstration  plot.  For  the  first  year  of  the  activity,  50 
+demonstration  plots  will  mainly  demonstrate  profitable  farming  system,  and  efficient  water  use 
+skills using irrigation water from constructed PHLCE system will be demonstrated in different 50 
+demonstration  plots  for  the  second  year  of  the  activity,  inviting  total  target  2,500  farm 
+households.  Each  FFS  will  also  train  participants  on  efficient  water  use  such  as  (i)  improved 
+field channel layout and operation at the watercourse level, (ii) practices for improved water use 
+efficiency,  (iii)  scheduling  irrigation  according  to  crop  water  requirements,  and  (iv)  other 
+management techniques to maximize production per unit volume of irrigation water applied.  
+30. 
+These demonstration plots will be owned by the respective farmers who will be obliged 
+to  bear  all  running  costs  and  follow  the  advice  of  the  experts  of  the  PIO  with  support  from 
+Agriculture  Extension  Services  (AES)  and  OFWM  Directorate.  All  inputs  for  use  on  the 
+demonstration plots will be provided by the Project. These plots will also include part of the area 
+cultivated  using  uncertified  seeds,  so  as  to  demonstrate  the  yield  difference  between  certified 
+and uncertified seeds. The average size of the demonstration plots will be about 5 ha. As the 
+average farm size is about one ha, many demonstration plots will be established as clusters of 
+small  size  plots.  The  proceeds  from  the  agriculture  on  the  demonstration  plots  will  go  to  the 
+owners of the land. Farmers from the distributary where the demonstration plot is located will be 
+shown round and trained in use of water conservation technologies, introduction of high value 
+crops and achieving high yields from crops.   
+31. 
+The results obtained at the demonstration plots will be disseminated through farmer field 
+schools (FFSs) and field trips by inviting over 2.500 farm households. The FFSs will be held in 
+both rabi and kharif seasons. The staff of PIO will be responsible for training of farmers through 
+FFSs with the support from the AES Directorate.  
+32. 
+The field offices of AES Department and OFWM Directorate lack proper office facilities 
+like desk top computers, lap tops, printers and office furniture etc. To fulfill their intended tasks, 
+required equipment and office furniture will be provided under the Project.  
+33. 
+The M&E system to be developed under Output 1 with field calibration will inform crop 
+growing area in each crop type, estimated crop yield, water use efficiency cropping type, in each 
+determined  crop  area  size,  and  this  will  also  help  KPAD  to  assess  the  status  of  agriculture 
+production, and  KPID  assess  and  collect  abiana.  The  staff  of  KPAD  will  be  trained  to  use  the 
+system. 
+8 
+A. 
+Project Readiness Activities 
+II. 
+IMPLEMENTATION PLANS 
+The loan for the project is expected to become effective in December 2016 and will be 
+34. 
+implemented over a period of five years.  
+35. 
+The  terms  of  reference  of  the  project  implementation  consultant  (PIC)  and  its  cost 
+estimated  was  already  developed  and  submitted  to  KPID  in  December  2015.  Prior  to  the 
+approval  of  the  loan,  the  advertisement  and  necessary  processing  to  recruit  the  project 
+implementation  consultant  (PIC)  will  commence  by  ADB  on  behalf  of  the  KPID  while  the  EA 
+retains the responsibility for negotiating and signing the contract with the consultant, issuing the 
+notice  to  proceed,  and  supervising  the  consultant’s  services  to  enable  KPID  to  start 
+implementing the Project immediately after the loan signing. The PIC will be contracted by the 
+PMO  and  the  detailed  design  for  civil  work  packages  will  commence  under  PMO  using 
+retroactive financing prior to the loan effectiveness.8 The PC-1 document will be prepared based 
+on the feasibility level design and will be approved by the government of Pakistan prior to the 
+loan  negotiations.  PMO  staff  and  key  staff  in  each  project  implementation  office  (PIOs)  be 
+appointed and/or employed prior to the PIC contract. Regardless of the actual schedule of PIC 
+contract, an accounts manager and two accountants in the PMO will be fielded within 3 months 
+after loan effectiveness. Disbursement of the proceeds of ADB loan will be conditional upon the 
+fielding of the accounts staff.    
+36. 
+The main project readiness activities are provided in Table 1.  
+Table 1: Project Readiness Activities 
+2016 
+8 
+7 
+9 
+10 
+11 
+12 
+1 
+2 
+2017 
+Indicative Activities 
+Start advertisement and 
+processing to recruit PIC 
+Completion of Feasibility 
+Design  
+PC-1 Approval 
+Loan negotiations 
+ADB Board approval 
+PMO and key PIO staff  
+PIC contract 
+Loan signing 
+Government legal 
+opinion provided 
+Government budget 
+inclusion 
+Loan effectiveness  
+3 
+4 
+5 
+6 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+X 
+Responsibility 
+KPID 
+PPTA Consultant 
+GoP 
+ADB-GoP 
+ADB 
+KPID 
+PMO under KPID 
+X 
+ADB-GoP 
+GoP 
+GoP 
+X  GoP-ADB 
+ADB = Asian Development Bank, GoP = Government of Pakistan, PIC = Project Implementation Consultant, 
+PIO = project implementation office, PMO = project management office. 
+8  The PMO director was assigned all contractual matter by the KPID. 
+9 
+B. 
+Overall Project Implementation Plan 
+37. 
+The  project implementation  schedule  is  shown  in  Figure  1. Implementation  of  activities 
+will except for PIC activities start from November 2016 prior to the expected loan effectiveness 
+in  December  2016,  and  the  project’s  physical  completion  and  loan  financial  closings  are 
+expected on 31 December 2022 and 30 June 2023, respectively.  
+Figure 1: Proposed Project Implementation Schedule 
+No.
+Outputs/Components/Major Activities
+Year‐1
+II
+III IV I
+Year‐2
+II
+III IV I
+Year‐3
+II
+III IV I
+Year‐4
+II
+III IV I
+Year‐5
+II
+III IV I
+Year‐6
+II
+III IV I
+Year‐7
+II
+III IV
+I
+10 
+1 Project Management
+Formation of PMO and Recruitment of the PIC
+Formation of PMO
+Recruitment of PIC
+a
+b
+2 Output1: Increased Available Agricultural Water
+Detailed Design and Bidding
+a
+b
+Detailed Engineering Design and Budding Document
+Bidding and Bid Evaluation
+Construction pf Pressure Pipes and Irrigation System
+X
+Construction of Main System in IAA
+Construction of Main System in JBMA
+c
+d
+e
+f
+g
+h
+3 Output 2: Improved Water‐use Skill and Farm Management Cpacity
+Land Acquisition and Resettlements
+Defect Notification (O&M) for Construction Contract
+Development of a M&E System for PHLC and PHLCE
+Full Implementation of O&M Plan and its Guideline
+JBMA
+Formation of WUAs
+Construction of Watercourses and Farm Turnouts
+Farmers' Capacity Building (demonstration and FFSs)
+IAA
+Formation of WUAs
+Construction of Watercourses and Farm Turnouts
+Farmers' Capacity Building (demonstration and FFSs)
+a
+b
+c
+d
+e
+f
+IAA  =  Indus  Ambar  area,  JBMA  =  Janda  Boka-Malikabad  area,  M&E  =  monitoring  and  evaluation,  O&M  =  operation  and  maintenance,  PMO  =  project 
+implementation consultant, PMO = project management office, WUA = water users’ association.   
+Source: Asian Development Bank estimates.
+11 
+III. 
+PROJECT MANAGEMENT ARRANGEMENTS 
+A. 
+Project Implementation Organizations–Roles and Responsibilities 
+Project  Steering  Committee.  The  Project  Steering  Committee  (PSC)  established 
+38. 
+during the project preparatory technical assistance (PPTA) will continue during implementation 
+stage. The PSC will provide oversight and policy guidance for the project, review progress, and 
+make  key  decisions  for  the  project.  The  PSC  is  chaired  by  the  Additional  Chief  Secretary 
+(development),  Planning  and  Development  Department  (P&DD)  and  include  Secretaries  of 
+Khyber  Pakhtunkhwa 
+(KPID),  Khyber  Pakhtunkhwa  Agriculture 
+Department (KPAD), Member Board of Revenue, the Project Coordinator, the Project Director, 
+and the team leader of the project implementation consultant as members. As the water supply 
+component had been removed from the project scope, PHED will no longer be a member of the 
+PSC. One member of district administration will also be included for the implementation stage. 
+Representatives of farmers will also be invited to participate in PSC as necessary. Organization 
+structure of PSC is given in Figure 2. 
+Irrigation  Department 
+Project Coordinator: The Government of KPP will nominate a Project Coordinator who 
+39. 
+would be responsible for project oversight on behalf of the Government.9  
+Executing  and  Implementing  Agencies.  KPID  will  be  the  executing  agency  (EA)  for 
+40. 
+the  project  and  thus,  will  be  responsible  for  management  and  implementation  of  the  entire 
+project.  KPAD  responsible  for  OFWM  and  AEC  will  be  the  implementing  agency  (IA).  The 
+project management office (PMO) will facilitate project steering Committee meetings by inviting 
+representatives  from  the  EA  and  IA  to  report  implementation  status  and  seek  policy  and 
+management guidance for the project.  
+41. 
+KPID  will  implement  Output  1(Available  water  for  agriculture-use  increased  in  project 
+areas)  while  KPAD  will  be  responsible  for  implementation  of  Output  2  (Water-use  and  farm 
+management  capacities  increased  in  project  areas).  Within  KPAD,  OFWM  Directorate  will  be 
+responsible  for  organization  and  training  of  WUAs,  ACS  Directorate  for  training  of  farmers 
+through  farmer  training  school  while  both  these  directorates  will  be  jointly  responsible  for 
+selection, design, operation, and management of demonstration farms. 
+Project  Management  Office  and  Project 
+42. 
+Implementation  Offices.  A  Project 
+Management Office (PMO) and a Project Implementation Office (PIO) will be established in the 
+field at Gohati, District Swabi in the existing buildings of KPID. Currently, the existing buildings 
+of KPID in District Swabi are not in use and would require major renovation. The PMO will be 
+headed by Project Director. Organization structure of PMO is given in Figure 3. 
+The  PMO  will  be  responsible  for  (i)  management  of  overall  project  activities  in 
+43. 
+accordance  with  the  project  design;  (ii)  implementation  of  Output  1  activities,  (iii)  coordinating 
+activities  between  the  KPID  and  KPAD,  PIO  and  other  agencies  concerned;  (iv)  ensuring 
+compliance with environmental and social safeguard requirements; (v) maintaining appropriate 
+accounts,  including  reports  on  withdrawal  applications  and  disbursement;  (vi)  carrying  out 
+recruitment of consulting services and procurement activities; (vii) monitor, evaluate and report 
+on  project  progress;  and  (viii)  preparing  quarterly  progress  and  other  reports  in  format 
+acceptable to ADB. The PIO will be responsible for implementation of Output 2 activities which 
+constitute  construction  of  watercourses  and  outlets,  establishment  of  demonstration  farms, 
+9  It is highly likely that Chief Engineer (North), KPID will be the Project Coordinator. 
+training of farmers, capacity development of KPAD field offices, and organization and training of 
+WUAs. 
+44. 
+The detailed role and responsibilities of each organization are provided in Table 2. 
+12 
+Organization 
+Economic 
+Affairs 
+Division, 
+Ministry of 
+Economic 
+Affairs and 
+Statistics 
+Khyber 
+Pakhtunkhwa  
+Finance 
+Department 
+(KPFD) 
+KPID 
+PMO (For 
+overall project 
+management 
+and 
+implementation 
+of Output 1) 
+Table 2: Roles and Responsibilities in each Organization 
+Management Roles and Responsibilities 
+Borrower: 
+(i) 
+(ii) 
+(iii) 
+Signing of loan agreement; 
+Allocate and release counterpart funds; 
+Endorse  to  ADB  the  authorized  staff  with  approved  signatures  for 
+withdrawal applications (WAs) processing; and 
+Process  and  submit 
+reallocating the loan proceeds. 
+to  ADB  any  request,  when  required, 
+for 
+(iv) 
+(i) 
+(ii) 
+(iv) 
+(v) 
+(vi) 
+(vii) 
+(viii) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+(vii) 
+Timely  provision  of  land  acquisition  and  resettlement  budget  to KPID; 
+and 
+Timely  provision  of  operation  and  maintenance  budget  to  KPID  in 
+accordance with loan covenant and PAM. 
+Executing Agency: 
+(i) 
+(ii) 
+(iii) 
+for 
+(KPID 
+responsibility 
+responsibility 
+for  managing  of  project  outputs 
+Assign Directors (one for output 1 and another for output 2);  
+Establish the PMO and PIOs with the required staffing; 
+Overall 
+responsible for the output 1, and KPAD responsible for outputs 2);  
+Overall 
+reporting  on  physical,  non-physical, 
+procurement  and  financial  progress  for  project  activities  including  the 
+development  of  the  government’s  project  completion  report  and  its 
+submission to ADB;  
+Timely  provision  of  agreed  counterpart  funds  for  project  activity  and 
+PMO and PIO operations; 
+Conduct  timely  financial  audits  as  per  agreed  timeframe  and  taking 
+recommended actions; 
+Comply with Loan Agreement covenants; and 
+Public disclosure of project outputs. 
+A: On Overall Project Management 
+(i) 
+Regularly  update  overall  implementation  plan,  prepare  annual  project 
+budget, and request KPFD for operation budget; 
+Establish imprest account and maintaining the project accounts; 
+Prepare and submit withdrawal applications; 
+Update procurement plan, as necessary; 
+Recruit consultants and procuring works and goods; 
+Coordinate  with  other  government  agencies,  departments  and  units, 
+local  governments,  district  office,  union  councils,  communities  as 
+necessary;  
+Guide 
+the  plans,  surveys,  studies,  detailed  designs,  capacity 
+development  activities,  demonstration  activities,  workshops  to  be 
+prepared or implemented by the consultants;  
+(viii)  Monitor and supervise consulting services and PIO operations; 
+(ix) 
+Monitor  and  supervise  works  conducted  by  contractors,  and  the 
+delivery  of  goods  procured  by  suppliers  with  the  support  of  the 
+13 
+Organization 
+(x) 
+(xi) 
+(xii) 
+(xiii) 
+Management Roles and Responsibilities 
+consultants;  
+Finalize,  disclose  and  implement  land  acquisition  and  resettlement 
+plan; 
+Implement gender action plan and updating the plan as necessary;  
+Monitor project progress and evaluating project benefits and social and 
+environmental impacts;  
+Conduct  economic  analysis  at 
+implementation; 
+the  midterm  of 
+the  project 
+(xiv)  Manage loan disbursement and maintaining financial accounts;  
+(xv) 
+(xvi) 
+(xvii)  Establish and implement an effective grievance redress mechanism for 
+Prepare periodic implementation progress reports; 
+Prepare and disclose safeguards monitoring reports; and 
+the project. 
+B: On Implementation of Output 1 
+(i) 
+PIO (For Output 
+2)  
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+Day-to-day  field  level  implementation  of  the  respective  works  and 
+activities for output 1;  
+Conduct  inspection  of  the  quality  and  standard  of  works  and  goods, 
+and provide feedback, guidance, and instruction to the contractors and 
+suppliers;  
+Supervise  the  performance  and  outputs  of  the  contractors,  suppliers 
+and consultants;  
+Prepare periodic progress reports and other required documents; and 
+Coordinate 
+governments, union councils, communities, and other PIO. 
+implementation  activities  with  district  office, 
+local 
+Day-to-day  field  level  implementation  of  the  respective  works  and 
+activities for output  2;  
+Conduct  inspection  of  the  quality  and  standard  of  works  and  goods, 
+and provide feedback, guidance, and instruction to the contractors and 
+suppliers;  
+Supervise  the  performance  and  outputs  of  the  contractors,  suppliers 
+and consultants;  
+Prepare  periodic  progress  reports  and  other  required  documents  for 
+submission to the PMO; and 
+Coordinate 
+governments, union councils, communities, and other PIO. 
+implementation  activities  with  district  office, 
+local 
+ADB  
+Financier 
+(i)  Assist the EAs and PMO by providing timely guidance at each stage of 
+the project for smooth implementation;  
+(ii)  Review  all  the  documents  submission  by  the  PMO  that  require  ADB 
+approval;  
+(iii)  Conduct  periodic  project  review  missions,  a  midterm  review,  and  a 
+project completion mission;  
+(iv)  monitor EAs’ compliance of all loan covenants 
+(v)  Timely process withdrawal applications and release eligible funds;  
+(vi)  monitor EAs’ compliance of financial audit recommendations; 
+(vii) Regularly  update  the  project  performance  review  reports  with  the 
+assistance of the EAs and PMO; and 
+(viii) Regularly  post  on  ADB  website  the  updated  project  information 
+documents for public disclosure, and the safeguards documents as per 
+disclosure  provision  of  the  ADB  Safeguards  Policy  Statement  (2009), 
+and ADB Public Communications Policy. 
+Source: ADB.  
+14 
+B. 
+Key Person Involved in Project Implementation 
+1. 
+Executing Agencies and ADB 
+Executing Agency and Implementing Agency for Output 1 
+KPID 
+Engr. Syed Mujahid Saeed  
+Chief Engineer North 
+Khyber Pakhtunkhwa Irrigation Department, 
+Peshawar 
+Telephone: +92-333-910-1017 
+e-mail: mujahidsaeed@gmail.com 
+Implementing Agency for Output 2 
+OFWM Directorate 
+Agriculture Extension Directorate 
+ADB  
+Environment, Natural Resources and 
+Agriculture Division  
+Mission Leader  
+Resident Mission Focal  
+Engr. Muhammad Khurshid Afridi  
+Director General, OFWM Directorate 
+19 Jamrud Road ATI Campus, Peshawar, 
+Pakistan 
+Telephone: +92 91 922 4308 
+Iqbal Hussain  
+Director General 
+Jamrud Road, Peshawar, Pakistan 
+Telephone: +92 91 9224223 
+Akmal Siddiq 
+Director  
+Telephone No. +63 2 632 6748  
+Email address: asiddiq@adb.org  
+Ryutaro Takaku 
+Senior Water Resources Specialist 
+Tel (632) 632-5158 
+Fax (632) 636-2017 
+Email: rtakaku@adb.org 
+Asad A. Zafar 
+Senior Project Officer (Agriculture and Natural 
+Resources),  
+Level 8, North Wing, Serena Business Complex, 
+Khayaban-e-Suhrawardy, G-5, Islamabad, 
+Pakistan 
+Telephone: +92 51 260 0351 to 69, 2087300 
+Email:azafar@adb.org 
+2. 
+PMO and PIOs 
+45. 
+KPID  is  responsible  to  identify  PMO  staff  while  KPAD  will  nominate  staff  for  PIO  for 
+Output  2.  Proposed  key  PMO  staff  would  require  ADB’s  approval.  The  roles  and  tasks  of  key 
+PMO and PIO staffs are provided in Table 3. 
+15 
+Position 
+Project 
+Director 
+Director 
+Finance 
+(PMO)  
+Table 3: Roles and Responsibilities of Key PMO and PIO Staff 
+Roles and Responsibilities 
+(i)  Draft  annual  work  programs  for  each  output,  submit  them  to  the  project  director  and  its 
+deputy and obtaining their agreements; 
+(ii)  Consult  with  the  chief  accountant  to  monitor  budgetary  expenditure,  review  disbursement 
+requests, prepare the annual budget and submit these the project director and its deputy for 
+agreements; 
+(iii)  Ensure  the  hiring  of  suitably  qualified  staff  to  implement  the  all  outputs  in  accordance  with 
+ADB requirements; 
+(iv)  Guide and collaborate with the relevant staff to monitor output implementation in accordance 
+with the agreed work program; 
+(v)  Attend, hold or participate in seminars, workshops, media events etc. to represent the project; 
+(vi)  Conduct site visits as required to monitor and correct implementation of the project;  
+(vii)  Develop and submit recommendations to the project director and its deputy to resolve issues 
+which arise in the course of project implementation; 
+(viii)  Support the project director and its deputy in the overall project management and preparation 
+of reports for the Government and its relevant agencies; 
+(ix)  Manage  all  staff  directly  working  on  the  project,  including  staff  grievance  procedures  and 
+make recommendations to the project director and its deputy on hiring decisions; 
+(x)  Coordinate with relevant key staff to maintain an overview of the day-to-day operations of the 
+project; 
+(xi)  Provide  operational  support 
+to  key  staff  members 
+in 
+the 
+implementation  of 
+their 
+responsibilities; 
+(xii)  Draft  a  comprehensive  project  reporting  system,  submit  it  to  the  project  director  and  its 
+deputy for agreements and implementations; 
+(xiii)  Coordinate implementation of project outputs with the relevant project related agencies; 
+(xiv)  Assist the project director and its deputy to coordinate interaction with relevant ministries and 
+agencies, as may be required; 
+(xv)  Liaise with local government administrations participating in the project to ensure successful 
+implementation of project activities; 
+(xvi)  Draft  project  implementation  reports  and  submit  to  the  project  director  and  its  deputy  for 
+agreements and distributions; 
+(xvii) Ensure quality, timely submission to ADB and disclosure of safeguards monitoring reports; 
+(xviii) Ensure the establishment and effective implementation of a grievance redress mechanism for 
+the project to deal with concerns from displaced persons, and communities; 
+(xix)  Liaise with ADB staff and supervision missions to ensure successful completion of missions 
+and ongoing project monitoring;  
+(xx)  Implement recommendations of ADB supervision missions and associated aide-memoires, as 
+agreed by the project director and its deputy; and 
+(xxi)  Manage and supervise all activities for implementation of Output 1. 
+(i)  Responsible for taking care of financing, funds flow arrangements, payments, recording, and 
+monitoring  of  both  ADB  and  Government  funds;  establish  monitoring  and  management 
+procedures for the imprest account and Statement of Expenditure (SOE) procedures; 
+(ii)  Ensure  timely  preparation  of  the  annual  audited  project  accounts  and  submission  to  ADB 
+within 6 months of financial year end; 
+(iii)  Cooperate with the Project Manager and the PMO staff to develop a strategy for guiding and 
+supporting purchase operations made by the PMO in regard to project components; 
+(iv)  Maintain information  on ADB disbursement guidelines, and other resources needed by staff 
+in carrying out disbursements, imprest account operation, SOE procedures; 
+(v)  Negotiate  and  prepare  standard  bidding  packages  and  specifications  to  evaluate,  enter  into 
+contracts, oversee delivery, issue invoices, inspect/test procured items, and make payments 
+to suppliers/contractors; 
+(vi)  Coordinate with the specialists of the PMO, to develop and implement payment mechanisms 
+and  procedures  to  support  purchases  of  goods,  consulting  services,  and  construction 
+services; 
+(vii)  Communicate  through  the  Project  Director  information  and/or  documentation  to  the 
+Government  or  ADB  for  their  inspection,  obtaining  comments  and/or  for  commencement  of 
+funding.  
+Deputy 
+(i)  Develop an Operational Manual covering the procurement policies, procedures and standard 
+16 
+Position 
+Director 
+(Procurement, 
+PMO) 
+Roles and Responsibilities 
+documents  in  order  to  minimize  cost  and  ensure  a  scheduled  carrying  out  of  procurement 
+activities in line with the requirements of the Government and ADB; 
+(ii)  Maintain  an  information  database  on  procurements  of  technical  services,  suppliers  of 
+equipment, ADB procurement guidelines, standard and model bidding documents, and other 
+resources needed by staff in carrying out project components; 
+(iii)  Negotiate  and  prepare  standard  bidding  packages  and  specifications  to  evaluate,  enter  into 
+contracts, oversee delivery, issue invoices, inspect/test procured items, and make payments 
+to suppliers/contractors; 
+(iv)  Establish a monitoring system within the procurement unit of the PMO for overseeing project 
+procurement  actions  and  coordinating  necessary  approvals  or  correcting  shortcomings  in 
+procedures; and 
+(v)  Communicate to the Government or ADB for their inspection, obtaining comments and/or for 
+commencement of funding. 
+Deputy 
+Director 
+(Environment, 
+PMO) 
+(i)  Ensure that EMP will be updated during detailed design completed;  
+(ii)  Ensure that bidding documents include all requirement to implement IEE and its EMP;  
+(iii)  Ensure that the bidder selected will have adequate resources to implement and update EMP;  
+(iv)  Undertake  environmental  safeguards  monitoring  activities  and  prepare  environmental 
+safeguard reports to be submitted to ADB; and 
+Deputy 
+Director 
+(Resettlement
+, PMO) 
+(v)  Ensure that the any works are implemented in accordance with ADB SPS 2009 as well as the 
+government law and regulation related to environment;   
+(i)  Ensure  that  the  LARP  will  be  updated  during  detailed  design  and  any  update  or  corrective 
+actions as may be required during implementation; 
+(ii)  Ensure that the final LARP is disclosed to DPs and implemented as per schedule; 
+(iii)  Ensure that bidding documents, capacity building programs, any activity for output 1 include 
+Deputy 
+Director 
+(Sociology, 
+PMO) 
+M&E Officer 
+(PMO) 
+all requirements relevant to implement the LARP;  
+(iv)  Responsible for preparing the internal resettlement monitoring reports, with support from the 
+Project Implementation Consultants, for submission to ADB; 
+(v)  Oversee the conduct of consultations with DPs; 
+(vi)  Ensure that DP concerns and complaints are resolved in a timely and effective manner, and 
+report on emerging LAR issues during project implementation; 
+(vii)  Follow-up on actions needed to address issues and recommendations raised in the internal 
+and external resettlement monitoring reports; and 
+(viii)  Ensure that the any works are implemented in accordance with ADB SPS 2009 as well as the 
+government law and regulation related to resettlement. 
+(i)  Ensure that LARP and GAP will be updated during detailed design and planning completed;  
+(ii)  Ensure  that  bidding  documents,  capacity  building  programs,  demonstration  activities,  any 
+activities for output 1, include all requirement to implement LARP and GAP;  
+(iii)  Ensure that the bidder selected will have adequate resources to implement and update GAP;  
+(iv)  Undertake gender monitoring activities and prepare gender reports to be submitted to ADB;  
+(v)  Ensure  regular  and  effective  stakeholder  communication  and  engagement  throughout  the 
+project implementation; and, 
+(vi)  Oversee  the  conduct  of  consultations  with  stakeholders  and  formation  of  water  users 
+associations. 
+(i)  Ensure that appropriate M&E strategy and plans are developed to assess the achievement of 
+each project output;  
+(ii)  During  initial  phase  of  the  implementation  of  the  project,  reconfirm  and/or  update:  (a) 
+activities with milestones, performance targets and indicators with baselines, all of which are 
+defined in the Design and Monitoring Framework, (b) requirements indicated in the Summary 
+Poverty Reduction and Social Strategy, and (c) Gender Action Plan; 
+(iii)  Ensure  to  update  (a)  activities  with  milestones,  performance  targets  and  indicators  with 
+baselines, all of which are defined in the Design and Monitoring Framework, (b) requirements 
+indicated  in  the  Summary  Poverty  Reduction  and  Social  Strategy  at  the  project  completion, 
+and (c) Gender Action Plan; and 
+(iv)  Ensure  that  baseline,  intermediate  and  end-of  project  socio-economic  surveys  and  impact 
+assessment in each output of the project are planned and conducted.  
+PIO Output 2 
+Director 
+(i)  Serve  as  the  ‘Engineer’  and  ‘Coordinator’  for  all  activities  including  civil  works,  delivery  of 
+goods, services, capacity building, demonstration activities for Output 2;  
+(ii)  Oversee  all  activities  for  Output  2,  which  related  mainly  to  the  construction  of  the  water 
+courses  and  its  outlets;  selection,  design,  implementation  and  monitoring  of  demonstration 
+plots;  training  of  farmers  through  farmer  field  schools;  capacity  development  of  KPAD  field 
+offices  in  the  project  area;  and  organization  and  training  of  WUAs.  Monitor  their 
+17 
+Position 
+Roles and Responsibilities 
+implementation in relation to the agreed work plan; 
+(iii)  Coordinate with Agriculture Extension department for farmers training through demonstration 
+plots and farmer field schools 
+(iv)  Report any deviations from the work plan to the PMO Director; 
+(v)  Establish monitoring and evaluation system for output implementation; 
+(vi)  Support the PMO Director for the execution of the Output 2; 
+(vii)  Identify any operational problems and raise them with the PMO Director; 
+(viii)  Coordinate  with  local  KPID  office,  and,  local  governments  to  resolve  any  issues  in 
+implementing Output 2, inform them of the outputs status; 
+(ix)  Organize orientation or training programs to educate project participants; and 
+(x)  Cooperate  with  the  PMO  Director,  to  draft  an  annual  work  plan  for  the  PIO,  which  will  be 
+submitted to the Project Director for approval.   
+C. 
+Details of Cost for Project Management 
+46. 
+The  total  costs  of  project  management  are  estimated  at  PRs401  million  (Table  4). 
+Details are given in Tables 5-8. All these costs except for duties and taxes will be fully financed 
+by ADB.  
+Table 4: Summary of Project Management Expenses 
+Sr. No. 
+1 
+Description
+Project Management Office (including PIO for Output 1)
+i  Salary Costs 
+ii  Direct Costs 
+2 
+Project Implementation Office for Output 2
+i  Salary Costs 
+ii  Direct Costs 
+TOTAL PROJECT MANAGEMENT COSTS 
+Amount (PRs) 
+269,865,500
+214,945,500 
+  54,920,000 
+131,429,000
+79,440,000 
+51,989,000 
+401,294,500
+18 
+Table 5: Details of PMO Salary Costs 
+Sr.# 
+ Designation 
+Project Director Unit
+Man-
+Months
+Monthly 
+Gross
+Salary (Rs)
+Total Amount
+(Rs)
+Total 
+Amount
+($)
+1
+2
+3
+4
+5
+6
+7
+7
+8
+9
+10
+11
+12
+13
+13
+14
+Total
+Project Director
+Engineering and Contracts
+Director Technical / DPD
+Dy Director Civil
+Deputy Director Mechanical
+A.D Engineering 
+Dy. Director Contract
+A.D Contract
+Assistant Director Mechanical
+62
+62
+48
+48
+54
+54
+54
+48
+285,000
+17,670,000
+168,286
+250,000
+185,000
+185,000
+150,000
+185,000
+150,000
+150,000
+15,500,000
+147,619
+8,880,000
+8,880,000
+8,100,000
+9,990,000
+8,100,000
+7,200,000
+84,571
+84,571
+77,143
+95,143
+77,143
+68,571
+Sub Engineers
+144
+75,000
+10,800,000
+102,857
+Monitoring & Evaluation
+M&E Specialist
+Social & Environment
+Director Social & Environment
+Dy Director Environment
+Dy Director Resettlement
+Dy Director Social and Gender
+Deputy Collector
+Zilladar
+Patwari
+Administration and Finance
+Manager Accounts
+Accountant
+Accountant
+Office Support
+Manager Admn.
+Office Support Staff
+Unallocated
+Grand Total
+62
+62
+62
+62
+62
+36
+36
+36
+62
+48
+48
+62
+8
+200,000
+12,400,000
+118,095
+250,000
+185,000
+185,000
+185,000
+125,000
+75,000
+35,000
+15,500,000
+11,470,000
+11,470,000
+11,470,000
+4,500,000
+2,700,000
+1,260,000
+185,000
+11,470,000
+75,000
+75,000
+3,600,000
+3,600,000
+85,000
+5,270,000
+14,880,000
+147,619
+109,238
+109,238
+109,238
+42,857
+25,714
+12,000
+109,238
+34,286
+34,286
+50,190
+141,714
+204,710,000
+1,949,619
+10,235,500
+97,481
+214,945,500
+2,047,100
+19 
+Table 6: Details of PMO Non-Salary Costs and Operational Expenses 
+Sr. No.
+Description
+Unit
+Quantity
+Amount (Rs.)
+Unit Rate 
+(R )
+1260             5,500       6,930,000 
+1
+Refurbishment of Office 
+Building
+Purchase of Furniture
+sq.m
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+Office Tables
+Office Chairs
+Visitor Chairs
+Conference Table
+Conference Chairs
+Computer Tables
+Computer Chairs
+Support Staff Tables
+Support Staff Chairs
+Drawing Cabinets
+Filing Cabinets
+Side rack
+Almirahs
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+Curtains for windows
+Electric fixtures like bulbs, fans 
+etc.
+Pedestal/ Bracket fans
+Total: -
+Purchase of Equipment
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+Computers with UPS
+No.
+B/W Printer / Scanner / 
+Photocopier (A3)
+Printer (A-4, Black and White) No.
+No.
+Laptop
+Colour Printer / Scanner / 
+Photcopier (A-3, Coloured 
+Laser)
+Scanner (A-4)
+Networking Hub
+Networking of Computers
+Multimedia
+Fax Machine
+Telephone Exchange
+Telephone Sets and networking
+Heater (Gas)
+Air Conditioner Split Unit (1.5 
+ton)
+Generator 
+Refrigerator
+Spiral Binding Machine
+Lamination Machine
+Digital Camera
+Crockery/Cutlery/Water 
+Cooler/Oven etc.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No
+No
+No
+Total:
+Office Supplies
+1
+2
+3
+Stationery
+Maintenance and Supplies for 
+Printer & Photocopy Machine
+Miscellaneous Items 
+Months
+Months
+Months
+Total:
+Printing and Binding of Reports
+12           10,000 
+       120,000 
+12             3,500 
+         42,000 
+72             1,500 
+       108,000 
+1           25,000 
+         25,000 
+12             1,500 
+         18,000 
+24             7,000 
+       168,000 
+12             2,000 
+         24,000 
+10             7,000 
+         70,000 
+10             1,500 
+         15,000 
+10           10,000 
+       100,000 
+10             8,000 
+         80,000 
+15             5,000 
+         75,000 
+5             8,000 
+         40,000 
+LS
+LS
+                - 
+                - 
+LS           20,000 
+         20,000 
+       905,000 
+18           85,000       1,530,000 
+2          250,000 
+       500,000 
+3           50,000 
+       150,000 
+6          125,000 
+       750,000 
+1          750,000 
+       750,000 
+1           30,000 
+         30,000 
+1           50,000 
+         50,000 
+LS          150,000 
+       150,000 
+1          100,000 
+       100,000 
+1           25,000 
+         25,000 
+1          100,000 
+       100,000 
+LS          150,000 
+       150,000 
+15             3,000 
+         45,000 
+15           60,000 
+       900,000 
+1       1,000,000       1,000,000 
+1           50,000 
+         50,000 
+1           20,000 
+         20,000 
+1           15,000 
+         15,000 
+5           30,000 
+       150,000 
+LS          100,000 
+       100,000 
+     6,565,000 
+62           25,000       1,550,000 
+62           25,000       1,550,000 
+62           10,000 
+       620,000 
+     3,720,000 
+1
+Printing and Binding of Reports
+LS          800,000 
+       800,000 
+Total:
+Field Allowances
+1
+Daily Allowances for field 
+visiting staff
+Total:
+Purchase of Vehicles
+1
+2
+Cars (Sedan)
+Double Cabin
+Total:
+No.
+No.
+Telephone/Fax, Postage and Courier charges
+1
+2
+Telephone Calls/ Fax
+Postage/ Couriers
+Months
+Months
+Total:
+Miscellanious
+       800,000 
+LS       1,000,000       1,000,000 
+     1,000,000 
+1       2,250,000       2,250,000 
+4       3,000,000  12,000,000
+   14,250,000 
+62           20,000       1,240,000 
+62           10,000 
+620,000
+     1,860,000 
+Utility bills (Electricity, Water anMonths
+62           40,000       2,480,000 
+1
+2
+3
+4
+5
+6
+7
+POL for vehicles
+Maintenance of vehicles
+V. Months
+V. Months
+Insurance and Registration of Vehicals
+Operation & Maintenance of 
+Generator
+Internet / Email connection 
+charges
+Miscellaneous Office Expenses Months
+Months
+Months
+Total
+Grand Total:
+250           30,000       7,500,000 
+250           20,000       5,000,000 
+LS
+62           30,000       1,860,000 
+500,000
+500,000
+62             5,000 
+       310,000 
+62
+20,000
+1,240,000
+   18,890,000 
+   54,920,000 
+20 
+Table 7: Details of Salary Costs of PIO for Output 2 
+Position 
+Man-months Gross Sallary
+Total amount 
+Total amount ($)
+ON FARM WATER 
+MANAGEMENT. 
+Director PIO
+OFWM
+D. Director OFWM
+Water Management Officer 
+(2)
+48
+48
+96
+175,000.00
+8,400,000.00
+80,000.00
+150,000.00
+7,200,000.00
+68,571.43
+150,000.00
+14,400,000.00
+137,142.86
+Sub Engineers (4)
+192
+75,000.00
+14,400,000.00
+137,142.86
+Agriculture Extension
+D. Director Agriculture 
+Extension
+Agriculture Officer
+Social Mobilizer (3)
+Accountant
+Female Extension Workers 
+(2)
+Office Support Staff 
+(Several) 
+24
+24
+72
+48
+48
+150,000.00
+3,600,000.00
+34,285.71
+150,000.00
+150,000.00
+3,600,000.00
+10,800,000.00
+34,285.71
+102,857.14
+75,000.00
+3,600,000.00
+34,285.71
+150,000.00
+7,200,000.00
+68,571.43
+6,240,000.00
+59,428.57
+Total Sub (A) 
+600
+79,440,000.00
+756,571.43
+21 
+Table 8: Details Non-Salary Costs and Operational Costs of PIO for Output 2 
+Quantity
+Unit Rate (Rs.) Amount (Rs.) Amount (S)
+75,000
+3,600,000
+34,286
+Sr. No.
+Description
+1
+Rental of Office Building
+Purchase of Furniture
+Unit
+Month
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+Office Tables
+Office Chairs
+Visitor Chairs
+Conference Table
+Conference Chairs
+Computer Tables
+Computer Chairs
+Support Staff Tables
+Support Staff Chairs
+Drawing Cabinets
+Filing Cabinets
+Side rack
+Almirahs
+Pedestal/ Bracket fans
+Total: -
+Purchase of Equipment
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+Computers with UPS
+B/W Printer / Scanner / Photocopier (A3)
+Printer (A-4, Black and White)
+Laptop
+Colour Printer / Scanner / Photcopier (A-
+3, Coloured Laser)
+Networking Hub
+Networking of Computers
+Multimedia
+Fax Machine
+Spiral Binding Machine
+Lamination Machine
+Digital Camera
+Telephone Exchange
+Telephone Sets and networking
+Heater (Gas)
+Air Conditioner Split Unit (1.5 ton)
+Generator 
+Refrigerator
+Crockery/Cutlery/Water Cooler/Oven etc.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No.
+No
+No
+No
+No
+No
+No
+No
+Total:
+Office Supplies
+1
+2
+3
+Total:
+Stationery
+Maintenance and Supplies for Printer
+& Photocopy Machine
+Miscellaneous Items 
+Months
+Months
+Months
+Printing and Binding of Reports
+48
+6
+6
+36
+1
+8
+24
+18
+6
+6
+5
+5
+6
+3
+LS
+21
+1
+3
+3
+1
+1
+LS
+1
+1
+1
+1
+5
+1
+LS
+6
+6
+1
+1
+LS
+48
+48
+48
+10,000
+3,500
+1,500
+25,000
+1,500
+7,000
+2,000
+7,000
+1,500
+10,000
+8,000
+5,000
+8,000
+10,000
+85,000
+250,000
+50,000
+125,000
+500,000
+50,000
+150,000
+100,000
+25,000
+20,000
+15,000
+30,000
+75,000
+75,000
+3,000
+60,000
+500,000
+50,000
+100,000
+25,000
+25,000
+5,000
+1
+Printing and Binding of Reports
+LS
+400,000
+Total:
+Telephone/Fax, Postage and Courier charges
+1
+2
+Telephone Calls/ Fax
+Postage/ Couriers
+Months
+Months
+48
+48
+20,000
+10,000
+Total:
+Field Allowances
+1
+Daily Allowances for field visiting staff
+LS
+1,000,000
+Total:
+Purchase of Vehicles
+1
+2
+Double Cabin
+Motorcycles
+Total:
+Miscellaneous
+No.
+No.
+1
+2
+3
+4
+5
+6
+7
+Total
+Utility bills (Electricity, Water and Gas)
+Months
+POL for vehicles
+Maintenance of vehicles
+Insurance and Registration of Vehicals
+Operation & Maintenance of Generator
+Internet / Email connection charges
+Miscellaneous Office Expenses
+V. Months
+V. Months
+Months
+Months
+Months
+Grand Total:
+3
+4
+48
+340
+340
+LS
+48
+48
+48
+3,000,000
+85,000
+40,000
+45,000
+25,000
+600,000
+20,000
+5,000
+15,000
+60,000
+21,000
+54,000
+25,000
+12,000
+571
+200
+514
+238
+114
+168,000
+1,600
+36,000
+42,000
+9,000
+50,000
+40,000
+30,000
+24,000
+10,000
+343
+400
+86
+476
+381
+286
+229
+95
+581,000
+5,533
+1,785,000
+17,000
+250,000
+150,000
+375,000
+500,000
+50,000
+150,000
+100,000
+25,000
+20,000
+15,000
+2,381
+1,429
+3,571
+4,762
+476
+1,429
+952
+238
+190
+143
+150,000
+1,429
+75,000
+75,000
+18,000
+360,000
+500,000
+50,000
+100,000
+714
+714
+171
+3,429
+4,762
+476
+952
+4,748,000
+45,219
+1,200,000
+11,429
+1,200,000
+11,429
+240,000
+2,640,000
+400,000
+400,000
+960,000
+480,000
+1,440,000
+1,000,000
+1,000,000
+9,000,000
+340,000
+9,340,000
+1,920,000
+15,300,000
+8,500,000
+600,000
+960,000
+240,000
+720,000
+28,240,000
+51,989,000
+2,286
+25,143
+3,810
+3,810
+9,143
+4,571
+13,714
+9,524
+9,524
+85,714
+3,238
+88,952
+18,286
+145,714
+80,952
+5,714
+9,143
+2,286
+6,857
+268,952
+495,133
+22 
+Figure 2: Organization of Project Steering Committee 
+Additional Chief Secretary  
+Planning & Development Department 
+Secretary KPID 
+Secretary KPAD 
+Project Coordinator 
+Member Board 
+of Revenue 
+Director General 
+On Farm Water 
+Management 
+Director 
+PIO  
+Output 2 
+PMO 
+Project Director / Project 
+Steering Committee (PSC) 
+Consultant Team 
+Leader (Member PSC) 
+Office Support  
+Consultant 
+Support  
+23 
+Figure 3: Organization of Project Management Organization 
+Project Coordinator 
+Head PMO / Project 
+Social & 
+Environment 
+Engineering & 
+Procurement
+Monitoring & 
+Evaluation 
+Accounts 
+Office Supporting 
+Staff 
+Director Social & 
+Environment
+Director Technical / 
+Dy. Project Director 
+Accounts Officer 
+Dy. Director 
+Resettlement 
+Dy.Director 
+Sociology  
+Dy. Director 
+Environmen
+M&E Specialist 
+Accounts 
+t
+A i t
+Dy. Director  
+Mechanical 
+Dy. Director  
+Civil
+Dy. Director 
+Procurement/Contr
+Assistant Director  
+Mechanical 
+Assistant Director  
+Engineering
+Assistant Director  
+Procurement
+24 
+Figure 4: Organization Structure of PIO for Output 2 
+Director PIO Output 2 
+Deputy Director  
+(OFWM) 
+Deputy Director  
+(Agriculture Extension) 
+Water Management Officers 
+(Agriculture / Engineering) 
+Agricultural Officers 
+Social Mobilizers and Female 
+Extension Workers 
+Sub-Engineers 
+Field Assistants 
+Support Staff 
+Support Staff 
+25 
+A. 
+Detailed Cost Estimates by Expenditure Category 
+IV.  COST AND FINANCING 
+47. 
+Expenditure accounts project cost summary will be developed in Table 9.1 below. 
+Table 9.1: Detailed Cost Estimates by Expenditure Category 
+($ million)  
+Items
+A.
+Investment Cost
+1
+3 Mechanical and Equipment
+Civil Works
+Indus Ambar
+Janda Boka
+Vehicles
+Equipment
+Supplies, Others
+a
+b
+c
+Social Mitigation
+a
+b
+Environmental Mitigation
+Survey, Study and Design
+Training and Workshops
+Consulting Services
+a
+b
+Project Management
+Capacity Developemnt
+4
+5
+6
+7
+8
+B. Project Managent and Operation
+1
+2
+3
+4
+5
+6
+PMO and PIO Salaries
+Office Accommodation/Renovation
+Vehicle and motorcycle
+Equipment
+Suppliers, Others
+Office/Vehicle O&M
+Subtotal
+Subtotal
+Local 
+Currency
+Foreign 
+Exchange
+Total
+ % of 
+Base 
+Costs
+32.624
+1.588
+16.004
+-
+1.432
+0.156
+15.666
+12.759
+2.907
+0.095
+0.010
+0.325
+5.298
+4.974
+0.325
+55.606
+2.829
+0.101
+0.180
+0.098
+0.086
+0.468
+3.761
+-
+-
+-
+-
+-
+-
+0.525
+0.525
+-
+16.529
+-
+-
+0.045
+0.024
+-
+-
+0.069
+48.628
+1.588
+1.432
+0.156
+15.666
+12.759
+2.907
+0.095
+0.010
+0.325
+5.823
+5.499
+0.325
+72.135
+2.829
+0.101
+0.225
+0.122
+0.086
+0.468
+3.831
+64.0
+2.1
+1.9
+0.2
+20.6
+0.1
+0.0
+0.4
+7.7
+7.2
+0.4
+95.0
+3.7
+0.1
+0.3
+0.2
+0.1
+0.6
+5.0
+Total Base Cost
+59.368
+16.598
+75.966
+100.0
+C. Contingencies
+Physical
+Price
+1
+2
+D. Financing Charges During Construction
+1
+2
+Interest
+Commitment
+2.990
+9.220
+12.209
+2.624
+-
+2.624
+0.826
+0.637
+1.464
+4.018
+0.323
+4.340
+3.816
+9.857
+13.673
+6.642
+0.323
+6.964
+5.0
+13.0
+18.0
+8.7
+0.4
+9.2
+Subtotal
+Subtotal
+22.402
+In addition, $0.353 million is estimated as farmers' contribution to construct watercourse.
+PIO = project implementation office, PMO = project management office.  
+Source: ADB estimates. 
+TOTAL
+74.201
+96.603
+127.2
+26 
+B. 
+Allocation and Withdrawal of Loan Proceeds 
+48. 
+The  government  has  requested  a  loan  of  $86.405  million  from  ADB’s  Ordinal  Capital 
+Resources to help finance the project. The loan will have a 25-year term, including a grace period of 
+5 years, custom-tailored repayment method, an annual interest rate determined in accordance with 
+ADB’s London interbank offered rate (LIBOR)-based lending facility, a commitment charge of 0.15% 
+per  year  (interest  and  other  charges  during  construction  to  be  capitalized  in  the  loan),  and  such 
+other terms and conditions as set forth in the draft loan and project agreements. Based on this, the 
+average  loan  maturity  is  15.99  years  and  the  maturity  premium  payable  to  ADB  is  0.10%  per 
+annum. Tables for allocation and withdrawal of Loan proceed, detailed cost estimate by financier will 
+be provided. 
+Table 9.2: Allocation and Withdrawal of Loan Proceeds 
+Category 
+1  Civil Works 
+2 
+Mechanical  and  Equipment;  and  Consulting 
+Services   
+3  Social Mitigation for Janda Boka 
+4 
+5 
+6 
+Social  Mitigation  for  Indus  Ambar;  Environmental 
+Mitigation;  Survey,  Study  and  Design;  and 
+Training and Workshops  
+Project  Management  and  Operation 
+(Office 
+Accommodation / Renovation and O&M of Office 
+and Vehicle) 
+Project  Management  and  Operation  (PMO  /  PIO 
+Vehicles  &  Motorcycles,  Equipment,  Supplies, 
+Others) 
+Amount 
+Allocated for 
+OCR Financing   
+[$] 
+Category 
+41,966,000 
+6,670,000 
+1,701,000 
+Percentage  and  Basis 
+for  Withdrawal  from  the 
+Loan Account 
+86.3  % 
+of 
+total 
+expenditure claimed 
+90%  of  total  expenditure 
+claimed 
+58.5% 
+of 
+total 
+expenditure claimed 
+13,189,000 
+100  % 
+of 
+total 
+expenditure claimed 
+568,000 
+100  % 
+of 
+total 
+expenditure claimed* 
+390,000 
+90 % of total expenditure 
+claimed* 
+7  PMO and PIO (Salaries) 
+Interest and Commitment Charge 
+8 
+9  Unallocated 
+Total 
+Source: ADB estimates. 
+2,651,000 
+6,964,000 
+12,306,000 
+86,405,000 
+of 
+93.7% 
+expenditure claimed* 
+100% of amount due 
+total 
+C. 
+Detailed Cost Estimate by Financier 
+Table 10: Detailed Cost Estimate by Financier 
+ ($ million) 
+Item
+ADB OCR Loan
+Government
+Amount
+ % of Cost 
+Category
+Amount
+ % of Cost 
+Category
+Total Costs
+27 
+A.
+B.
+C.
+D.
+Investment Cost
+1
+2
+Civil Works
+Mechanical and Equipment
+Vehicles
+a
+Equipment
+b
+c
+Supplies, Others
+Social Mitigation
+a
+b
+Environmental Mitigation
+Survey, Study and Design
+Training and Workshops
+Consulting Services
+a
+b
+Indus Ambar
+Janda Boka
+Project Management
+Capacity Developemnt
+3
+4
+5
+6
+7
+Project Managent and Operation
+PMO and PIO Salaries
+1
+Office Accommodation/Renovation
+2
+Vehicle and motorcycle
+3
+Equipment
+4
+Suppliers, Others
+5
+Office/Vehicle O&M
+6
+Subtotal
+Subtotal
+41.966
+1.429
+-
+1.289
+0.140
+14.459
+12.759
+1.701
+0.095
+0.010
+0.325
+5.241
+4.949
+0.292
+63.525
+2.651
+0.101
+0.203
+0.110
+0.077
+0.468
+3.610
+86.3
+90.0
+90.0
+90.0
+90.0
+92.3
+100.0
+58.5
+100.0
+100.0
+100.0
+90.0
+90.0
+90.0
+88.1
+93.7
+100.0
+90.0
+90.0
+90.0
+100.0
+94.2
+6.662
+0.159
+-
+0.143
+0.016
+1.206
+-
+1.206
+-
+-
+-
+0.582
+0.550
+0.032
+8.609
+0.178
+-
+0.023
+0.012
+0.009
+-
+0.221
+Total Base Cost
+67.135
+88.4
+8.831
+Contingencies
+1
+2
+Physical
+Price
+Financing Charges During Construction
+1
+2
+Interest
+Commitment
+3.434
+8.871
+12.306
+6.642
+0.323
+6.964
+90.0
+90.0
+90.0
+100.0
+100.0
+100.0
+0.382
+0.986
+1.367
+-
+-
+-
+Subtotal
+Subtotal
+13.7
+10.0
+10.0
+10.0
+10.0
+7.7
+-
+41.5
+-
+-
+-
+10.0
+10.0
+10.0
+11.9
+6.3
+-
+10.0
+10.0
+10.0
+-
+5.8
+11.6
+10.0
+10.0
+10.0
+-
+-
+-
+48.628
+1.588
+-
+1.432
+0.156
+15.666
+12.759
+2.907
+0.095
+0.010
+0.325
+5.823
+5.499
+0.325
+72.135
+2.829
+0.101
+0.225
+0.122
+0.086
+0.468
+3.831
+75.966
+3.816
+9.857
+13.673
+6.642
+0.323
+6.964
+86.405
+In addition, $0.353 million is estimated as farmers' contribution to construct watercourse.
+PIO = project implementation office, PMO = project management office.  
+Source: ADB estimates. 
+TOTAL
+89.4
+10.198
+10.6
+96.603
+28 
+D. 
+Detailed Cost Estimate by Outputs/Components 
+Table 11: Project Cost Summary by Outputs/Components 
+($ million) 
+Output 1
+Output 2
+Amount
+ % of Cost 
+Category
+Amount
+ % of Cost 
+Category
+Total Costs
+Investment Cost
+1
+2
+Civil Works
+Mechanical and Equipment
+Vehicles
+a
+Equipment
+b
+c
+Supplies, Others
+Social Mitigation
+a
+b
+Environmental Mitigation
+Survey, Study and Design
+Training and Workshops
+Consulting Services
+a
+b
+Indus Ambar
+Janda Boka
+Project Management
+Capacity Developemnt
+3
+4
+5
+6
+7
+Subtotal
+Project Managent and Operation
+PMO and PIO Salaries
+1
+Office Accommodation/Renovation
+2
+Vehicle and motorcycle
+3
+Equipment
+4
+Suppliers, Others
+5
+Office/Vehicle O&M
+6
+Subtotal
+45.447
+0.000
+0.000
+0.000
+0.000
+15.666
+12.759
+2.907
+0.095
+0.000
+0.000
+5.499
+5.499
+0.000
+66.707
+2.062
+0.066
+0.136
+0.071
+0.043
+0.198
+2.576
+Total Base Cost
+69.283
+Contingencies
+1
+2
+Physical
+Price
+Financing Charges During Construction
+1
+2
+Interest
+Commitment
+Subtotal
+Subtotal
+TOTAL
+3.464
+8.948
+12.412
+6.029
+0.293
+6.322
+88.018
+93.5
+-
+#DIV/0!
+-
+-
+100.0
+100.0
+100.0
+100.0
+-
+-
+94.4
+100.0
+-
+92.5
+72.9
+65.8
+60.4
+58.4
+50.2
+42.4
+67.2
+91.2
+90.8
+90.8
+90.8
+90.8
+90.8
+90.8
+91.1
+3.181
+1.588
+0.000
+1.432
+0.156
+0.000
+0.000
+0.000
+0.000
+0.010
+0.325
+0.325
+0.000
+0.325
+5.428
+0.768
+0.034
+0.089
+0.051
+0.043
+0.270
+1.255
+6.683
+0.352
+0.909
+1.261
+0.612
+0.030
+0.642
+8.585
+6.5
+100.0
+100.0
+100.0
+-
+-
+-
+-
+100.0
+100.0
+5.6
+-
+100.0
+7.5
+27.1
+34.2
+39.6
+41.6
+49.8
+57.6
+32.8
+8.8
+9.2
+9.2
+9.2
+9.2
+9.2
+9.2
+8.9
+48.628
+1.588
+0.000
+1.432
+0.156
+15.666
+12.759
+2.907
+0.095
+0.010
+0.325
+5.823
+5.499
+0.325
+72.135
+2.829
+0.101
+0.225
+0.122
+0.086
+0.468
+3.831
+75.966
+3.816
+9.857
+13.673
+6.642
+0.323
+6.964
+96.603
+In addition, $0.353 million is estimated as farmers' contribution to construct watercourse.
+PIO = project implementation office, PMO = project management office.  
+Source: ADB estimates. 
+29 
+E. 
+Detailed Cost Estimates by Year 
+49. 
+Accumulative by year project expenditures is given in Table 12. 
+Table 12: Project Components by Year, Including Contingencies 
+ ($ million) 
+Items
+Total Costs Year-1
+Year-2
+Year-3
+Year-4
+Year-5
+Year-6
+Year-7
+A.
+Investment Cost
+1
+2 Mechanical and Equipment
+Civil Works
+Indus Ambar
+Janda Boka
+Vehicles
+Equipment
+Supplies, Others
+a
+b
+c
+Social Mitigation
+a
+b
+Environmental Mitigation
+Survey, Study and Design
+Training and Workshops
+Consulting Services
+a
+b
+Project Management
+Capacity Developemnt
+3
+4
+5
+6
+7
+Subtotal
+B. Project Managent and Operation
+1
+2
+3
+4
+5
+6
+PMO and PIO Salaries
+Office Accommodation/Renovation
+Vehicle and motorcycle
+Equipment
+Suppliers, Others
+Office/Vehicle O&M
+Subtotal
+48.628
+1.588
+-
+1.432
+0.156
+15.666
+12.759
+2.907
+0.095
+0.010
+0.325
+5.823
+5.499
+0.325
+72.135
+2.829
+0.101
+0.225
+0.122
+0.086
+0.468
+3.831
+-
+-
+-
+-
+-
+-
+-
+-
+-
+0.582
+0.550
+0.032
+0.582
+0.204
+0.066
+0.136
+0.071
+0.009
+0.047
+0.533
+9.726
+0.079
+-
+0.072
+0.008
+0.783
+0.638
+0.145
+0.005
+0.001
+0.016
+1.165
+1.100
+0.065
+11.774
+0.350
+0.034
+0.089
+0.051
+0.017
+0.094
+0.635
+17.020
+0.429
+-
+0.387
+0.042
+4.230
+3.445
+2.762
+0.026
+0.003
+0.088
+1.165
+1.100
+0.065
+22.959
+0.650
+-
+-
+-
+0.017
+0.094
+0.761
+12.157
+0.445
+-
+0.401
+0.044
+4.386
+8.676
+-
+0.027
+0.003
+0.091
+1.165
+1.100
+0.065
+18.273
+0.650
+-
+-
+-
+0.017
+0.094
+0.761
+4.863
+0.476
+-
+0.430
+0.047
+4.700
+-
+-
+0.029
+0.003
+0.097
+1.165
+1.100
+0.065
+11.333
+0.650
+-
+-
+-
+0.017
+0.094
+0.761
+4.863
+0.159
+-
+0.143
+0.016
+1.567
+-
+-
+0.010
+0.001
+0.022
+0.382
+0.350
+0.032
+7.003
+0.225
+-
+-
+-
+0.005
+0.030
+0.260
+-
+-
+-
+-
+-
+-
+-
+-
+-
+0.010
+0.200
+0.200
+0.210
+0.100
+-
+-
+-
+0.003
+0.017
+0.120
+Total Base Cost
+75.966
+1.116
+12.410
+23.720
+19.034
+12.093
+7.264
+0.330
+C. Contingencies
+Physical
+Price
+1
+2
+Subtotal
+D. Financing Charges During Construction
+1
+2
+Interest
+Commitment
+Subtotal
+3.816
+9.857
+13.673
+6.642
+0.323
+6.964
+0.056
+0.145
+0.201
+-
+0.100
+0.100
+0.620
+1.610
+2.231
+0.544
+0.090
+0.634
+1.186
+3.078
+4.264
+2.625
+0.050
+2.675
+0.952
+2.470
+3.421
+2.619
+0.020
+2.639
+0.605
+1.569
+2.174
+0.791
+0.020
+0.811
+0.347
+0.965
+1.313
+0.033
+0.043
+0.075
+0.050
+0.020
+0.070
+0.030
+-
+0.030
+TOTAL
+96.603
+1.416
+15.274
+30.658
+25.094
+15.078
+8.652
+0.430
+In addition, $0.353 million is estimated as farmers' contribution to construct watercourse.
+PIO = project implementation office, PMO = project management office.  
+Source: ADB estimates. 
+30 
+F. 
+Contract Awards and Disbursement Projection 
+50. 
+Projections  of  contract  awards  and  disbursements  will  be  confirmed  with  the  executing 
+agencies  (EAs)  during  ADB  inception  mission  and  the  PAM  will  be  updated  accordingly.  The 
+forecasted contract award and disbursement profile at project design stage is shown in Table 13. 
+Table 13: Ordinary Capital Resources (Loan) 
+ ($ million) 
+Projections for Contract Award 
+Projections for Disbursement  
+ Q1  
+ Q2  
+Q3  
+ Q4  
+ Total  
+ Q1  
+ Q2  
+ Q3  
+ Q4  
+ Total 
+0.00 
+0.47 
+46.28 
+0.42 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+17.06 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+1.59 
+0.00 
+0.00 
+6.74 
+0.00 
+5.55 
+0.89 
+4.13 
+0.89 
+0.89 
+1.49 
+0.00 
+5.55 
+1.36 
+69.06 
+1.31 
+0.89 
+8.23 
+0.00 
+86.40 
+0.07 
+7.02 
+0.42 
+0.00 
+0.00 
+0.12 
+0.08 
+2.64 
+0.89 
+0.46 
+0.46 
+0.12 
+0.08 
+0.32 
+0.42 
+0.00 
+6.74 
+0.12 
+0.84 
+1.91 
+16.07 
+15.86 
+15.76 
+15.86 
+0.14 
+0.84 
+2.14 
+26.05 
+17.59 
+16.22 
+23.06 
+0.50 
+86.40 
+Year 
+2016 
+2017 
+2018 
+2019 
+2020 
+2021 
+2022 
+Total 
+Source: ADB estimates. 
+Figure 5: Contract and Disbursement S-curve  
+($ million) 
+100.00
+90.00
+80.00
+70.00
+60.00
+50.00
+40.00
+30.00
+20.00
+10.00
+0.00
+1
+2
+3
+4
+5
+6
+Contract Awards
+Disbursement
+Source: ADB estimates. 
+31 
+G. 
+Fund Flow Diagram 
+51. 
+The fund-flow arrangement is depicted in Figure 6. 
+Figure 6: Funds Flow Diagram 
+ADB 
+EAD 
+                                                                Advance 
+GoKP 
+                        Direct Payment 
+PMO / KPID 
+(Imprest Account) 
+PIO / 
+KPAD
+Consultants 
+Output 1  
+Contractors 
+Suppliers 
+Outputs 2 
+Contractors 
+Suppliers 
+Documents for disbursement (Withdrawal Application / Invoice) 
+ADB Funds 
+                        Lending 
+                        Loan repayment 
+ADB  =  Asian  Development  Bank;  EAD  =  Economic  Affairs  Division;  GoKP  =  Government  of  Khyber  Pakhtunkhwa; 
+KPID  =  Khyber  Pakhtunkhwa  Irrigation  Department;  KPAD  =  Khyber  Pakhtunkhwa  Agriculture  Department;  PIO  = 
+Project Implementation Office; PMO = Project Management Office. 
+Source: Asian Development Bank. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+32 
+A. 
+Financial Management Assessment 
+V. 
+FINANCIAL MANAGEMENT 
+The country public financial management (PFM) system was assessed by reviewing a public 
+52. 
+expenditure  and  financial  accountability  (PEFA)  assessment  completed  in  June  2012.  Financial 
+Management assessments (FMA) have been performed on executing and implementing agencies 
+(EA/IA) with reference to the Guidelines for the Financial Management and Analysis of Projects,10 
+and  Financial  Management Technical  Guidance  Note.11 The  assessments focus on accountability 
+and transparency, and covers (i) internal controls, (ii) funds flow arrangements, (iii) accounting and 
+financial reporting, and (iv) independent audit. 
+PFM system Assessment. The latest PEFA report indicates that overall only 13 indicators, 
+53. 
+about 42% of total indicators for PFM system of Pakistan score well. Relatively strong performance 
+was  found  for  budget  credibility,  for  comprehensiveness  and  transparency,  and  for  Policy-Based 
+Budgeting,  but  weak  in  most  of  other  dimensions.  Areas  which  were  found  to  be  weaker  include 
+overall internal control, accounting, recording and reporting, and external scrutiny and audit.  
+54. 
+Implementation Arrangement. A Project Steering Committee (PSC) established during the 
+PPTA  will  continue  to  provide  oversight  and  policy  guidance  for  the  project,  review  progress  and 
+make  key  decisions  for  the  project.  Khyber  Pakhtunkhwa  Irrigation  Department  (KPID)  is  the 
+executing  agency  (EA)  for  the  entire  project  and  Implementing  Agency  (IA)  for  Output  1  of  the 
+project. A Project Management Office (PMO) under KPID will be established in Swabi to supervise 
+the  entire  project  design  and  implementation,  and  implement  Output  1.  Khyber  Pakhtunkhwa 
+Agriculture Department (KPAD) will be the IA for Output 2. A Project Implementation Office (PIO) 
+under KPAD will be established in Swabi to implement the Output 2. 
+55. 
+Experiences with Donors. Both KPID and KPAD have received international development 
+financing resources in the past, including USAID, JICA, WB, and ADB. Although some staff would 
+be experienced, accounting and finance personnel are subject to transfer every 3 to 5 years with a 
+high probability of whole institutional memory is gone with the staff being transferred.  
+Staffing.  To  ensure  a  strong  and  capable  workforce  in  place,  the  Government  and  ADB 
+56. 
+Fact-Finding Mission agreed to strengthen PMO’s financial management by filling three positions in 
+the  PMO,  including  one  Manager  Accountant  and  two  accountants.  The  PIO  will  also  recruit  one 
+accountant. The PMO Manager Accountant is responsible for the planning, financial reporting, and 
+funds flow arrangements. The Manager Accountant will be responsible for general supervision over 
+its  accounting  and  administrative  functions,  verification  of  the  payment  supporting  documentation 
+and withdrawal application (WA), and preparation of project financial statements according to cash-
+based  IPSAS  or  NAM.  All  accountants  will  be  trained  with  ADB  policies  and  procedures  on 
+disbursement, and financial reporting and auditing by ADB’s RETA. 
+57. 
+Planning  and  Budgeting.  The  PMO  will  prepare  the  project’s  annual  budgets  for 
+Government  approval.  During  project  implementation  the  actual  expenditures  are  compared  with 
+planned  budgeted  expenditures  on  a  monthly  and  quarterly  basis,  and  reports  on  an  analysis  of 
+variations is prepared.  Significant  variations in  budgeted  expenditure need  to  be  approved  by the 
+Project Director prior to actual expenditure. 
+10 ADB. 2005. Guidelines for the Financial Management and Analysis of Project. Manila. 
+11 ADB. 2015. Financial Management Technical Guidance Note. 
+33 
+Internal  Audit.  Internal  Audit  Sections  are  available  and  operational  in  KPID  and  KPAD. 
+58. 
+Their  duty  is  to  support  the  secretaries  in  verifying  and  controlling  all  the  financial  transactions 
+occurred within the Departments. PEFA report assessed internal audit as weak and not effective in 
+all dimensions. There is lack of use of professional audit methods and compliance with ISPPIA or 
+any other national/international standards. 
+59. 
+Information  Systems.  As  information  systems  in  government  departments  and  agencies 
+are not fully computerized, all financial information required under the General Financial Rule and 
+Delegation  of  Powers  notified  by  the  GoKP  cannot  be  generated  through  these  computerized 
+accounting  systems.  However,  the  reporting  mechanism  and  prescriptions  are  available  and 
+operational although some reports are prepared manually. Financial statements of all projects EA/IA 
+are prepared on Excel speadsheets on monthly basis, and generally prepared in a timely manner. 
+60. 
+Project Financial Reporting. All financial statements including mandatory monthly reports 
+for  submission  to  the  Department  of  Finance  will  be  prepared  by  respective  EA/IA  through  the 
+Budget  and  Accounting  Systems.  Financial  Statements  are  being  prepared  under  cash  basis  of 
+accounting  and  are  compliant  with  the  format  given  by  the  cash  basis  IPSAS.  New  Accounting 
+Model (NAM) was developed using modified cash basis of accounting, which required recording and 
+reporting of liabilities and assets as notes to the financial statements. The financial statements are 
+yet not fully compliant with cash basis IPSAS or NAM. The PMO will prepare annual project financial 
+statements (APFS) consolidating both Output 1 and 2. The APFS for audit and submission to ADB 
+will be prepared in line with cash basis IPSAS or NAM. 
+61. 
+External Audit. The Director General, Audit of the KPP audits all the provincial government 
+departments, autonomous agencies and donor funded projects in the Province. The audit is based 
+on  risk  and materiality  assessments in line  with the  new Financial  Audit Manual  (FAM).  INTOSAI 
+auditing standards are adopted but some aspects are only partially implemented. All donor-funded 
+projects  are  audited  within  the  time  frame  stipulated  in  the  project  document  subject  to  the 
+submission of project financial statements within a reasonable period of time. 
+Risk  Assessment  and  Risk  Mitigation  Measures.  The  assessments  and  proposed 
+62. 
+measures are shown in Table 14.  
+Table 14: Financial Management Risk 
+Risk 
+Ratinga 
+Risk Mitigation Measures 
+H 
+Capacity  building 
+improve internal control.  
+is  essential 
+to 
+Risk Type 
+Risk Description 
+Inherent Risk 
+1. Internal 
+controls 
+Internal  control 
+effective. 
+Internal  control 
+expenditure is less effective.  
+for  payroll  controls 
+is 
+for  non-salary 
+Procurement related internal control is weak. 
+It is strong in legal and regulatory framework, 
+but  weak  in  use  of  competitive  procurement 
+methods, public access to complete, reliable 
+and  timely  procurement  information,  and 
+existence  of  an  independent  administrative 
+procurement complaint system.  
+Internal  audit  is  not  effective,  lack  of  use  of 
+professional  audit  methods  and  compliance 
+with 
+/ 
+international standards.  
+ISPPIA  or  any  other  national 
+34 
+Risk Type 
+Risk Description 
+2. Accounting 
+and financial 
+reporting 
+Accounts reconciliation is weak. 
+Quality  and  timeliness  of  in-year  budget 
+reports  is  weak  due  to  non-recording  of 
+expenditure  at  commitment  level,  although 
+GFMIS  generates  high  quality information  at 
+all level of the budget.  
+Risk 
+Ratinga 
+S 
+3. External audit 
+and 
+assets 
+Quality and timeliness of annual cash FS was 
+weak  due  to  lack  of  full  information  on 
+no 
+liabilities, 
+financial 
+of 
+consolidated 
+information 
+financial 
+independent  departments,  and  not 
+fully 
+compliant with cash basis IPSAS or NAM. 
+AGP  is  empowered  to  audit  the  accounts  of 
+the  Federation  and  of  the  Provinces  and  of 
+anybody  or  authority  established  by  the 
+Federation  or  a  Province.  INTOSAI  auditing 
+standards are adopted but some aspects are 
+only partially implemented.  
+Risk Mitigation Measures 
+the 
+A  PMO  will  be  established  to  ring-
+fence 
+the 
+Project 
+international 
+standards  on  accounting,  reporting, 
+and auditing. 
+implementation  of 
+applying 
+Training  on  financial  reporting  and 
+auditing  should  be  provided  by  ADB 
+RETA.b 
+S 
+Capacity  building  on  auditing  should 
+be provided by ADB RETA. 
+Both legislative scrutiny of the annual budget 
+law and external audit reports are weak.   
+Overall inherent risks 
+Control risks 
+1. Staffing 
+Lack  of  capacity  for  the  PMO  to  manage 
+ADB funds. 
+2. Funds flow 
+3. Accounting 
+and financial 
+reporting 
+4. Internal 
+Controls 
+internal audit 
+5. External Audit 
+and 
+The  fund  flow  risks  concerns  the  delays  of 
+payments  to  contractors,  which  will  delay 
+project implementation activities. 
+PMO  accountants  may  prepare  project  FS 
+not fully compliant with cash basis IPSAS or 
+NAM. 
+Internal control environment in PMO and PIO 
+needs strengthening.  
+INTOSAI auditing standards are adopted but 
+some aspects are only partially implemented. 
+S 
+S 
+M 
+M 
+H 
+M 
+The  Government 
+recruit 
+accounting  staff  to  strengthen  PMO  / 
+PIO capacity.  
+will 
+Training on disbursement policies and 
+procedures,  and  consultant  support 
+should be provided. 
+Funds  for  the  Project  will  be  under 
+control of PMO to avoid delays.  
+ADB  RETA  will  provide  training  for 
+PMO  to  prepare  project  FS  following 
+cash basis IPSAS. 
+Establishing 
+and 
+resourced  internal  control  system  is 
+recommended. 
+ADB RETA will help build capacity for 
+AGP. 
+a  well-staffed 
+Overall control risks 
+Overall risks 
+a  H = High, S = Substantial, M = Moderate, L = Low. 
+b   ADB.  2014.  Regional  Technical  Assistance  (8697):  Improving  the  Financial  Management  Capacity  of  Executing 
+S 
+S 
+Agencies in Afghanistan and Pakistan. Manila 
+ADB  =  Asian  Development  Bank;  AGP  =  Auditor  General  of  Pakistan;  FS  =  financial  statements;  GFMIS  = 
+Government  Financial  Management  Information  System;  INTOSAI  =  International  Organization  of  Supreme  Audit 
+Institutions;  IPSAS  =  International  Public  Sector  Accounting  Standards;  ISPPIA  =  International  Standards  for  the 
+Professional  Practice  in  Internal  Audit;  NAM  =  new  accounting  model;  PIO  =  project  implementation  office;  PMO  = 
+project management office. 
+Source: Asian Development Bank. 
+35 
+B. 
+Disbursement 
+63. 
+The  loan  proceeds  will  be  disbursed  in  accordance  with  ADB's  Loan  Disbursement 
+Handbook  (2015,  as  amended  from  time  to  time) 12  and  detailed  arrangements  agreed  upon 
+between  the  government  and  ADB.  Online  training  for  project  staff  on  disbursement  policies  and 
+procedures  is  available  at:    http://wpqr4.adb.org/disbursement_elearning.  Project  staffs  are 
+encouraged to avail of this training to help ensure efficient disbursement and fiduciary control. 
+No  withdrawals  shall  be  made  from  the  Loan  Account  until  a  qualified  accounting 
+64. 
+manager and two qualified accountants are hired and deployed at the PMO. Further, prior to the 
+first  disbursement,  the  accounting  manager  and  two  qualified  accountants  and  key  PMO  staff 
+will  be  trained  by  an  ADB  individual  consultant  on:  (i)  International  Public  Sector  Accounting 
+Standards,  (ii)  preparation  of  guidelines  on  disbursements,  (iii)  installation  of  new  accounting 
+system, (iii) setting-up books including chart of accounts. 
+Direct  payment.  The  procedures  will  generally  be  used  for  civil  works  contracts  and 
+65. 
+consulting services, subject to the minimum value per withdrawal application (see para 68). 
+66. 
+Imprest account. The PMO shall establish an imprest account in US Dollars for the projects 
+at  a  bank,  either  the  State  Bank  of  Pakistan  or  National  Bank  of  Pakistan.  The  request  for  initial 
+advance  to  the  imprest  account  should  be  accompanied  by  an  Estimate  of  Expenditure  Sheet13 
+setting  out  the  estimated  expenditures  for  the  first  six  (6)  months  of  project  implementation. 
+Supporting documents should be submitted to ADB or retained by the PMO in accordance with the 
+Loan Disbursement Handbook when liquidating or replenishing the imprest account. 
+The  total  outstanding  advance  of  the  imprest  account  will  not  at  any  time  exceed  the 
+67. 
+estimated ADB financed expenditures to be paid from the imprest account for the next 6 months. 
+The  statement  of  expenditure  (SOE)  procedure,  as  described  in  the  Loan  Disbursement 
+68. 
+Handbook, will be used to reimburse eligible expenditure and to liquidate and replenish the imprest 
+account for individual payments of up to $100,000 equivalent. SOE records should be maintained 
+and made readily available for review by ADB’s disbursement and review mission or upon ADB’s 
+request for submission of supporting documents on a sampling basis, and for independent audit.14 
+Individual  payments  in  excess  of  the  SOE  ceiling  should  be  accompanied  by  full  supporting 
+documents when submitting the withdrawal application to ADB. 
+Before  submitting  the  first  withdrawal  application,  the  Government  must  submit  to  ADB 
+69. 
+sufficient  evidence  of  the  authority  of  the  person(s)  who  will  sign  the  withdrawal  applications  on 
+behalf  of  the  borrower,  together  with  the  authenticated  specimen  signatures  of  each  authorized 
+person.  The  minimum  value  per  withdrawal  application  is  set  in  accordance  with  the  Loan 
+Disbursement Handbook. Individual payments below the amount should be paid (i) by the PMO and 
+subsequently claim to ADB through reimbursement or (ii) through the imprest account procedure, 
+unless otherwise accepted by ADB.  
+12 Available at: http://www.adb.org/documents/loan-disbursement-handbook. 
+13 Available in Appendix 10B of the Loan Disbursement Handbook. 
+14 Checklist  for  SOE  procedures  and  formats  are  available  at:  http://www.adb.org/documents/loan-disbursement-
+handbook. 
+36 
+C.        Project Financial Reporting, Auditing, and Public Disclosure 
+70. 
+The PMO shall (i) maintain separate accounts and records for the project by funding source 
+for all expenditures incurred on the project; (ii) prepare annual financial statements for the project in 
+accordance with cash-based International Public Sector Accounting Standard; (iii) have such project 
+financial statements audited annually by independent auditors whose qualifications, experience and 
+terms of reference are acceptable to ADB, in accordance with international standards for auditing or 
+the national equivalent acceptable to ADB; (iv) as part of each such audit, have the auditors prepare 
+a  report  which  includes  the  auditors’  opinions  on  the  financial  statements  and  use  of  the  Loan 
+proceed,15 and  a  management  letter  which  sets  out  the  deficiencies  in  the  internal  control  of  the 
+project that were identified in the course of the audit, if any; and (v) furnish to ADB, no later than 6 
+months after the end of each related fiscal year, copies of such audited project financial statements, 
+audit  report  and  management  letter,  all  in  the  English  language,  and  such  other  information 
+concerning  these  documents  and  the  audit  thereof  as  ADB  shall  from  time  to  time  reasonably 
+request. 
+Compliance with financial reporting and auditing requirements will be monitored by review 
+71. 
+missions  and  during  normal  program  supervision,  and  followed  up  regularly  with  all  concerned, 
+including the external auditor. 
+The  Government,  EA/IA,  PMO  have  been  made  aware  of  ADB’s  approach  to  delayed 
+72. 
+submission,  and  the  requirements  for  satisfactory  and  acceptable  quality  of  the  audited  project 
+financial statements.16 ADB reserves the right to require a change in the auditor, or for additional 
+support  to  be  provided  to  the  auditor,  if  the  audits  required  are  not  conducted  in  a  manner 
+satisfactory to ADB, or if the audits are substantially delayed. ADB reserves the right to verify the 
+project's financial accounts to confirm that the share of ADB’s financing is used in accordance with 
+ADB’s policies and procedures.  
+ADB shall disclose the annual audited financial statements for the project and the opinion of 
+73. 
+the auditors on the financial statements no later than 14 calendar days of ADB’s confirmation of their 
+acceptability by posting them on ADB’s website. The management letter will not be disclosed. 
+15 Auditor’s  opinions  shall  cover  (i)  whether  the  project  financial  statements  present  a  true  and  fair  view  or  are 
+presented  fairly,  in  all  material  respects,  in  accordance  with  the  applicable  financial  reporting  framework;  and  (ii) 
+whether  loan  proceeds  were  used  only  for  the  intended  purposes  of  the  project  in  accordance  with  ADB’s  Loan 
+Disbursement Handbook and the loan and project agreements. 
+16 ADB approach and procedures regarding delayed submission of audited project financial statements:  
+(i)  When  audited  project  financial  statements  are  not  received  by  the  due  date,  ADB  will  write  to  the  executing 
+agency advising that (a) the  audit documents are overdue; and (ii) if they  are not received  within the  next six 
+months, requests for new contract awards and disbursement such as new replenishment of imprest accounts, 
+processing of new reimbursement, and issuance of new commitment letters will not be processed. 
+(ii) When  audited  project  financial  statements  have  not  been  received  6  months  after  the  due  date,  ADB  will  (a) 
+inform the executing agency of ADB’s actions to withhold processing of requests for new contract awards and 
+disbursement such as new replenishment of imprest accounts, processing of new reimbursement, and issuance 
+of  new  commitment  letters;  and  (b)  advise  that  the  loan  may  be  suspended  if  the  audit  documents  are  not 
+received within the next 6 months. 
+(iii) When  audited  project  financial  statements  have  not  been  received  12  months  after  the  due  date,  ADB  may 
+suspend the loan. 
+37 
+VI. 
+PROCUREMENT AND CONSULTING SERVICES 
+A. 
+Advance Contracting and Retroacting Financing 
+All  packages  under  advance  contracting  will  be  procured  in  accordance  with  ADB’s 
+74. 
+Procurement Guidelines (April 2015, as amended from time to time) and the Guidelines on the Use 
+of Consultants (March 2013, as amended from time to time). The issuance of invitations for bids, 
+preparation and use of bidding documents under advance contracting will be subject to ADB prior 
+review  and  approval.  The  EA  has  been  advised  that  approval  of  advance  contracting  does  not 
+commit ADB to finance the project. Advance contracting will be used for recruitment of consulting 
+services.  The  retroactive  financing  is  envisaged  relating  to  project  implementation  consultants 
+package.  Necessary  processing  to  recruit  the  project  implementation  consultant  (PIC)  will 
+commence by ADB on behalf of the KPID while the EA retains the responsibility for negotiating and 
+signing  the  contract  with  the  consultant,  issuing  the  notice  to  proceed,  and  supervising  the 
+consultant’s  services  to  enable  KPID  to  start  implementing  the  project  immediately  after  the  loan 
+signing. 
+B. 
+Procurement of Goods, Works and Consulting Services 
+75. 
+A project procurement risk assessment of KPID was undertaken and acknowledged that the 
+EA  does  not  have  a  dedicated  procurement  section  with  a  permanent  cadre  of  procurement 
+practitioners. The procurement officials are not familiar with conducting procurement activity under 
+ADB procurement guidelines. However, they are familiar with applying the provincial procurement 
+rules  only.  The  assessment  further  concluded  the  project  procurement  risk  as  High.  However,  in 
+fully  staffed  with 
+order 
+professionals/specialist  will  be  established  for  the  project  and  all  contracts  under  ICB  and  NCB 
+procurement methods will be subject to prior review by ADB. In addition, ADB will engage upfront 
+one individual consultant (procurement) to support the EA/IAs in capacity building in procurement. 
+risk  a  project  management  office 
+to  mitigate 
+(PMO) 
+the 
+76. 
+ The procurement of goods, works and consultant selection will be carried out in accordance 
+with ADB’s Procurement Guidelines (April 2015, as amended from time to time) and the Guidelines 
+on  the  Use  of  Consultants  (March  2013,  as  amended  from  time  to  time).  The  initial  procurement 
+plan has been prepared for the project and is set out in Part B (below) of this section. It indicates 
+contract  packages  for  goods,  works  and  consulting  service  contract  packages  including  review 
+requirements. ADB bidding document for large works will be used  for the only ICB contract. ADB 
+bidding  document  for  small  works  will  be  used  for  all  NCB  contracts.  One  consulting  services 
+package of project implementation consultants (PICs) valuing $5.24 million will be procured through 
+QCBS (90:10) method as advance contracting using retroactive financing. 
+C. 
+Procurement Plan 
+Basic Data 
+Project Name: Pehur High Level Canal Extension Project (PHLCEP) 
+Project Number: 47024-001 
+Country:  PAKISTAN  
+Project Procurement Classification: B 
+Procurement Risk: High 
+Project Financing Amount: $ 96.60 million  
+   ADB Financing: $ 86.40 million  
+Approval Number: 
+Executing  Agency:  KPP 
+Department (KPID) 
+Implementing  Agency:  KPP 
+Department, KPP Agriculture Department 
+Project Closing Date: 30 June 2022  
+Irrigation 
+Irrigation 
+38 
+   Cofinancing (ADB Administered): NA 
+   Non-ADB Financing: $ 10.20 milliona 
+Date of First Procurement Plan : 17 October 2016 
+Date  of 
+October 2016 
+this  Procurement  Plan:  17 
+a  The government’s contribution of $8.99 million by way of taxes and duties in the form of cash and of $1.21 million 
+for part of land acquisition and resettlement cost. In addition, the beneficiaries’ in-kind contribution is estimated at 
+$0.35 million through provision of unskilled labor force. 
+1. 
+Methods, Thresholds, Review and 18-Month Procurement Plan 
+a. 
+Procurement  and Consulting Methods and Thresholds 
+Except  as  the  Asian  Development  Bank  (ADB)  may  otherwise  agree,  the  following 
+77. 
+process thresholds shall apply to procurement of goods and works.  
+Procurement of Goods and Works 
+Method 
+International Competitive Bidding (ICB) for Works  $15,000,000 
+International Competitive Bidding for Goods 
+National Competitive Bidding (NCB) for Works 
+National Competitive Bidding for Goods 
+Shopping for Works 
+Shopping for Goods 
+Comments 
+Prior Review 
+$2,000,000 
+Prior Review 
+Beneath that stated for ICB, Works  Prior Review 
+Beneath that stated for ICB, Goods  Prior Review 
+Below $100,000 
+Below $100,000 
+Threshold 
+Method 
+Quality and Cost Based Selection (QCBS) 
+Individual Consultant Selection (ICS) 
+(90:10) Prior Review (International) 
+Comments 
+Consulting Services 
+b. 
+Goods and Works Contracts Estimated to Cost $1 Million or More 
+The following table lists goods and works contracts for which the procurement activity is 
+78. 
+either ongoing or expected to commence within the next 18 months. 
+Package 
+Number 
+General 
+Description 
+ICB-01 
+Civil and 
+Mechanical 
+Works of 
+Pehur High 
+Level Canal  
+Extension 
+(PHLCE) 
+NCB-01  Construction 
+of Water 
+Courses and 
+Farm turnouts 
+Estimated 
+Value 
+($ M)a 
+45.45 
+Procurement 
+Method 
+Review 
+Bidding 
+Procedure 
+Advertisement 
+Date  
+Comments 
+ICB 
+Prior 
+1S2E 
+Q2/2017 
+3.53b 
+NCB 
+Prior 
+1S1E 
+Q2/2018 
+ADB bidding 
+documents for 
+large works 
+ADB bidding 
+documents for 
+small works 
+a include duties and taxes and not include contingencies. 
+b include farmers’ in-kind contribution equivalent to estimated $0.35 million. 
+39 
+c. 
+Consulting Services Contracts Estimated to Cost $100,000 or More 
+The following table lists consulting services contracts for which the recruitment activity is 
+79. 
+either ongoing or expected to commence within the next 18 months. 
+Package 
+Number 
+General 
+Description 
+PIC-1 
+Project 
+Implementation 
+Consultantsa 
+Estimated 
+Value  
+($ M)b 
+5.24 
+Recruitment  
+Method 
+QCBS 
+(90:10) 
+Review
+Advertisement  
+Date 
+Type of 
+Proposal 
+Comments 
+Prior 
+Q2/2016 
+FTP 
+International 
+a  ADB  will  take  responsibility  for  selecting  the  project  implementation  consultant  on  behalf  of  the  EA  while  the  EA 
+retains the responsibility for negotiating and signing the contract with the consultant, issuing the notice to proceed, 
+and supervising the consultant’s services.   
+b Include duties and taxes and not include contingencies. 
+d. 
+Goods  and  Works  Contracts  Estimated  to  Cost  Less  than  $1  Million  and 
+Consulting Services Contracts Less than $100,000 (Smaller Value Contracts) 
+The following table groups smaller-value goods, works and consulting services contracts 
+80. 
+for which the activity is either ongoing or expected to commence within the next 18 months. 
+Estimated 
+Value 
+($ M)a 
+1.43 
+Number 
+of 
+Contracts 
+1 
+Procurement 
+Method 
+Review 
+Bidding 
+Procedure 
+Advertisement 
+Date  
+Comment 
+NCB 
+Prior 
+1S1E 
+Q1/2018 
+Goods and Works 
+Package 
+Number 
+General 
+Description 
+NCB-02  Supply and 
+Installation 
+of high 
+efficiency 
+irrigation 
+systems 
+NCB-03  Precise 
+Land 
+Leveling 
+0.1 
+1 
+1 
+1 
+NCB 
+Prior 
+1S1E 
+Q1/2018 
+NCB 
+Prior 
+1S1E 
+Q4/2016 
+Shopping 
+Post 
+RFQ 
+Q4/2016 
+NCB-04  Vehicles 
+0.250 
+Shop-01  Office 
+0.07 
+Renovation 
+Shop-02  Agricultural 
+0.130 
+multiple 
+shopping 
+Post  
+RFQ 
+Q1/2018 
+inputs 
+(commoditi
+es) 
+Shop-03  Equipment/
+0.124 
+multiple 
+shopping 
+Post 
+RFQ 
+Q4/2016 
+Furniture 
+a include duties and taxes and not include contingencies. 
+ADB 
+bidding 
+documen
+ts for 
+Goods 
+ADB 
+bidding 
+documen
+ts 
+ADB 
+bidding 
+documen
+ts 
+ADB 
+RFQ 
+template 
+ADB 
+RFQ 
+template 
+ADB 
+RFQ 
+template 
+40 
+D. 
+Consultant’s Terms of Reference 
+Detailed terms of reference for the project implementation consultant are provided in Annex 
+81. 
+1.   
+A. 
+Environmental Safeguard 
+VII. 
+SAFEGUARDS 
+82. 
+The  project  is  categorized  A  for  environment.  The  KPID  shall  ensure  that  the  design, 
+construction, operation and maintenance of project’s facilities to be financed under the PHLCE are 
+carried out in accordance with Asian Development Bank’s (ADB) Safeguard Policy Statement (SPS, 
+2009), the applicable laws and regulations in Pakistan, and the environmental impact assessment 
+(EIA)  and  its  environmental  management  plan  (EMP).  KPID  shall  ensure  that  potential  adverse 
+environmental impacts arising from the project are minimized by implementing all the mitigation and 
+monitoring measures in the EMP. KPID shall ensure that:  
+(i)  The EMP is to be updated into a site specific EMP based on surveys of the alignment 
+once the detailed design is available and prior to the implementation of civil works;  
+(ii)  KPID has sufficient resources to implement and record the implementation of the EMP;  
+(iii)  The  contractor  prepares  and  submits  to  KPID  and  ADB  a  site  specific  environmental 
+management plan (SSEMP) prior to commencing any construction works. The SSEMP 
+will be tailored to the environmental impacts of the site and the specific project activities 
+as planned by the contractor; 
+(iv)  The  contractor  is  responsible  for  the  day  to  day  implementation  of  the  SSEMP  with 
+KPID’s PMU Environment Specialists visiting regularly to confirm implementation; 
+(v)  KPID, with the help of a construction supervision consultant, will submit to ADB semi-
+annual environmental reports for the project within 1 month of the close of each half of 
+the calendar year during project implementation, and the reports will include a review of 
+the  progress  on  environmental  measures  in  the  EIA  and  EMP,  monitoring  of  such 
+measures, problems encountered and remedial measures taken;  
+(vi)  The  detailed  engineering  design  and  civil  works  and  other  contracts  for  the  project 
+incorporate applicable environmental measures identified in the EIA and the EMP; 
+(vii)  The  KPID  PMU  will  establish  and  implement  the  Grievance  Redress  Mechanism, 
+(GRM) as described in the EIA, prior to construction. All complaints will be recorded in 
+the complaints register on site and will be addressed through the procedures set up in 
+the GRM; 
+83. 
+Should  any  change  in  scope  take  place  KPID  will  inform  ADB  and  a  due  diligence  on 
+environment will be carried out.  Should any additional study be required it will be conducted, or the 
+EIA updated as required by SPS 2009.  If there are any unanticipated environmental impacts, they 
+would be reviewed and a corrective action plan will be prepared by the contractor for implementation 
+under  the  supervision  of  KPID  PMU’s  Environment  Specialist  with  assistance,  as  required  by  the 
+supervision consultant.   
+B. 
+Social Safeguards 
+84. 
+The project is categorized A for involuntary resettlement. A draft LARP has been approved 
+by  ADB  and  disclosed. The  KPID  shall  ensure that  the draft  LARP  will  be  updated  based  on the 
+detailed design and approved final alignment in accordance with Asian Development Bank’s (ADB) 
+Involuntary  Resettlement  Safeguards,  and  the  Pakistan  Land  Acquisition  Act,  following  the 
+41 
+notification under Section 4 of the LAA. KPID shall ensure that the updated LARP will not involve 
+any lowering of the standards and entitlements provided in the approved draft LARP and is based 
+on an updated assessment of impacts, follow-up meaningful consultation with DPs, and valuation of 
+affected assets. 
+85. 
+Preparation  and  disclosure  of  a  final/  implementation-ready  LARP  approved  by  ADB  and 
+reflecting final impacts, DP list and official compensation rates; and (b) mobilization of the External 
+Resettlement Monitor (ERM) are conditions for the civil works contract award. Likewise, KPID will 
+ensure that notice-to-proceed with civil works in the irrigation section with LAR impacts will only be 
+issued after full implementation of the compensation program described in the final LARP including 
+the full delivery of compensation to the DPs and (b) preparation/submission of a compliance report 
+by  the  external  resettlement  monitor.  The  PMO  will  be  responsible  for  the  preparation, 
+implementation  and  monitoring  of  the  final  LARP,  with  support  from  its  Project  Implementation. 
+Specifically, the PMO will: 
+(i)  Coordinate  with  the  BOR  in  the  conduct  of  detailed  measurement  surveys  (DMS)  and 
+oversee the conduct census of all DPs and socioeconomic surveys; 
+(ii)  Ensure that calculation of compensation and assistance follows the policy provisions in the 
+LARP; 
+(iii)  Conduct of regular consultations with DPs in preparing and implementing the LARP; 
+(iv)  Prepare  the  final  LARP  for  ADB  review,  including  any  subsequent  update  or  corrective 
+actions in case of emerging or unforeseen impacts, as required; 
+(v)  Disclose  the  final  LARP  to  the  DPs  after  translating  the  summary  of  LARP  in  local 
+language (Urdu/ Pashtu) to make it more understandable. 
+(vi)  Ensure the formation and orientation of the Grievance Redress Committee (GRC) for the 
+community complaints resolution, and help facilitate the resolution of grievances; 
+(vii) Effectively implement the LARP, including the livelihood restoration activities;  
+(viii) Explore the possibility and facilitate land swapping and land consolidation to assist DPs in 
+improving the viability of their remaining plots; 
+(ix)  Ensure the submission of semi-annual internal and external monitoring reports to ADB for 
+review  and  disclosure  and  follow-up  on  issues  noted  and  recommendations  in  the 
+monitoring reports; 
+(x)  Inform ADB of any change in scope and alignment that would involve a change in the land 
+acquisition and resettlement impacts or any emerging LAR issues during construction and 
+propose the necessary corrective actions for ADB review; 
+The project is screened as category C project for indigenous peoples planning requirement 
+86. 
+under  SPS  2009.  KPID  shall  ensure  that  project  does  not  have  any  indigenous  peoples’  impacts 
+within  the  meaning  of  the  Safeguard  Policy  Statement  (2009).  And  if  during  design  review  or 
+implementation, any change to the scope, location with prior approval of ADB, causes to have any 
+such  impacts,  KPID  shall  take  all  steps  required  to  ensure  that  the  Project  complies  with  the 
+applicable laws and regulations of Pakistan and the ADB’s Safeguard Policy Statement 2009.  
+C. 
+Prohibited Investment Activities 
+Pursuant  to  ADB’s  Safeguard  Policy  Statement  (2009)  (SPS),17 ADB  funds  may  not  be 
+86. 
+applied  to  the  activities  described  on  the  ADB  Prohibited  Investment  Activities  List  set  forth  at 
+Appendix 5 of the SPS. EAs will ensure that the Project is in compliance with applicable national 
+17 Available at: http://www.adb.org/documents/safeguard-policy-statement. 
+42 
+laws and regulations and will apply the prohibited investment activities list to the Project financed by 
+ADB. 
+VIII.  GENDER AND SOCIAL DIMENSIONS 
+Social  and  gender  dimensions  as  detailed  in  the  attached  summary  of  social  and  poverty 
+87. 
+reduction (Attachment 9) will include (i) preference to local labour during construction work through 
+instructions  in  contracts  and  bidding  documents;  (ii)  participation  of  small  farmers  and  access  to 
+project benefits will be ensured through the formation of WUAs, membership criteria of WUAs will 
+ensure  equal  opportunity  for  the  small  farmers  to  participate.  WUAs  will  also  ensure  equitable 
+distribution of water and that the concerns of marginalized farmers are addressed; (iii) to address 
+the  mobility  concerns  of  the  local  people  design  canal  construction  work  will  include  features  like 
+foot and road bridges etc.; and (iv) gender action plan (in Table 15) ensuring women’s participation 
+and  benefits  has  also  been  developed.  All  these  provisions  will  be  tracked  through  the  project’s 
+monitoring and evaluation system.  
+88. 
+Targets/indicators highlighted in the GAP and other social/pro-poor provisions will be part of 
+project’s regular monitoring and reporting systems developed by PMO. Deputy Director Social and 
+Gender hired at PMO will be responsible for the implementation of GAP, monitoring and reporting 
+against  social  and  gender  targets.  Female  Extension  Workers  hired  at  the  PIO  level  will  work  in 
+close coordination with the Deputy Director Social and Gender and will be responsible for imparting 
+training to female farmers and documenting the social and gender impacts. Deputy Director Social 
+and Gender will also assist in conducting consultations and interaction with the civil society and local 
+community organizations as and when required. 
+Project Outputs 
+Actions 
+Indicators 
+Timeline  Responsibility 
+Table 15: Gender Action Plan 
+Output 1: 
+Available water 
+for agriculture-
+use increased 
+in project areas 
+Conduct separate consultations 
+with women groups  during the 
+design stage of the sub-projects to 
+address their concerns (related to 
+mobility, privacy, access to water 
+and other gender impacts) 
+Output 2: 
+Water-use skill 
+and farm 
+management 
+capacity 
+increased in 
+project areas 
+Impart skill training to women 
+farmers in improved agriculture 
+techniques for increased food 
+security and income generation. 
+For example: 
+Off-season vegetables; 
+kitchen gardening, tunnel farming 
+and;  
+advance agriculture technologies 
+Provide free inputs like plants,  
+seeds  and fertilizers to women for 
+practicing their skills   
+Hire female staff (as extension 
+workers/trainers) at PIO for 
+imparting training to women 
+Conduct pre and post training 
+20% of the 
+total 
+consultations 
+are carried out 
+with women 
+groups 
+One Over 
+2,500 
+households 
+(about 30% of 
+total estimated 
+number of 
+beneficial 
+households) 
+trained in 
+profitable 
+farming 
+system with at 
+least 10% 
+women 
+beneficiaries ( 
+baseline 2014: 
+0) 
+Yr-I-II 
+Yr II-V 
+Director Social 
+Safeguards and 
+Deputy Direction 
+Social and 
+Gender at PMO 
+On-farm 
+agriculture 
+extension 
+Department with 
+the support of 
+Deputy Director 
+Social and 
+Gender at PMO  
+and female 
+extension 
+workers at PIO 
+assessments to assess the level of 
+knowledge and skills of women  
+Document case studies on good 
+practices and gender impacts 
+Gender –
+inclusive 
+resettlement  
+land  
+acquisition and 
+compensation 
+plans  
+Establishment 
+of Project 
+Management 
+Office 
+Facilitate women specifically 
+(elderly, single and women without 
+male support) in preparation of 
+requisites for compensation 
+Open bank accounts of women in 
+their name and ensure 
+transparency of transferring 
+compensation allowance 
+Provide priority to vulnerable 
+women/women headed families in 
+compensation provision 
+Ensure that women are aware 
+about the amount of compensation 
+provisions 
+Include gender disaggregated data 
+in the monitoring and evaluation 
+system  
+Ensure that women specific 
+concerns and priorities are 
+considered in resettlement process. 
+ Placement of Deputy Director 
+Social and Gender at  PMO   
+Incorporate gender-disaggregated 
+data and reporting in PPMS  
+Encourage employment 
+opportunities for women in the 
+project 
+     43 
+Yr I-II 
+Social 
+Safeguards Unit 
+established at 
+PMO with the 
+support of 
+Deputy Director 
+Social and 
+Gender and 
+Female Social 
+Organizers 
+Yr I-V 
+EAs and IAs 
+Two female 
+extension 
+workers hired 
+to impart 
+training to 
+women 
+farmers 
+(baseline: 0)  
+Case studies 
+prepared on 
+good practices 
+and gender 
+impacts 
+No. of women 
+facilitated (in 
+preparing 
+documents 
+such as ID 
+cards and 
+opening of 
+bank accounts 
+etc.) 
+One Deputy 
+Director Social 
+and gender 
+hired in PMO 
+Project reports 
+include 
+updates on 
+GAP indicators 
+No. of women 
+staff hired by 
+the project 
+44        
+IX. 
+PERFORMANCE MONITORING, EVALUATION, REPORTING, AND 
+COMMUNICATION 
+89. 
+The EA will be responsible for monitoring project progress and evaluating project outputs. 
+Monitoring and evaluation shall be in accordance with the design and monitoring framework (DMF) 
+and EA will be responsible for regular reporting both to the Project Steering Committee and ADB.  
+A. 
+Project Design and Monitoring Framework 
+Table 16: Design and Monitoring Framework 
+Impacts the Project is Aligned with: Irrigated agriculture area increased in KPP, and food security ensured for the 
+decade 2010–2020 in KPP.a 
+Results Chain 
+Outcome 
+Increased agricultural 
+production in the 
+project areas 
+Performance Indicators with Targets and 
+Baselines 
+By December 2023: 
+a. Cropping intensities increased to 
+151% (2014 baseline: 52%) in total 
+project area of over 8,727 ha 
+Outputs 
+1. Available 
+agricultural water in 
+project areas 
+increased 
+2. Water-use skill and 
+farm management 
+capacity improved in 
+project areas 
+b. Crop yield increased by 222% 
+(maize), 139% (oilseeds), 145% 
+(rapes and mustard), and 166% 
+(wheat) (2014 baseline)b in total 
+command area 
+By December 2022: 
+1a. Water availability in IAA (7,411 
+ha) increased to 119 million m3 per 
+year (2014 baseline: 51 million m3)c 
+1b. Water availability in the JBMA 
+(1,316 ha) increased to 20 million m3 
+per year (2014 baseline: 9 million 
+m3)c 
+1c. M&E system using satellite 
+remote-sensing technology to assess 
+irrigation efficiency, crop growing, 
+water productivity, and abiana fully 
+operational (2014 baseline: 0) 
+1d. A guideline and sustainable plan 
+for PHLCE O&M fully operational 
+(2014 baseline: 0) 
+By December 2022, 
+2a. 100% of project areas fully 
+irrigated (2014 baseline: 0%) 
+2b. 100% of on-farm irrigation canals 
+fully operated and maintained by 
+WUAs (2014 baseline: 0%) 
+Data Sources and 
+Reporting 
+Mechanisms 
+a.–b. KPAD district 
+agricultural 
+statistics through 
+PMO 
+complemented by 
+M&E systems 
+Risks 
+Increases in 
+agricultural water 
+demand and flood 
+risk due to climate 
+change impact.  
+1a.–c. PMO and 
+KPID data 
+2a.–d. Project 
+implementation 
+office through PMO 
+and KPAD data 
+Internal control for 
+non-salary 
+expenditure is less 
+effective, internal 
+audit is not 
+effective, and lack 
+of use of 
+professional audit 
+methods and 
+compliance with 
+international 
+standards for 
+internal audit.  
+Lack of experience 
+of agency in 
+international 
+competitive 
+bidding contracts. 
+No dedicated 
+procurement unit 
+and insufficient 
+staff, and no fully 
+functional PMO. 
+Results Chain 
+Performance Indicators with Targets and 
+Baselines 
+Data Sources and 
+Reporting 
+Mechanisms 
+Risks 
+45 
+2c. Over 4,000 households (about 
+50% of total estimated number of 
+beneficial households) trained in 
+improved water-use skills (2014 
+baseline: 0) 
+2d. Over 2,500 households (about 
+30% of total estimated number of 
+beneficial households) trained in 
+profitable farming system with at 
+least 10% women beneficiaries 
+(2014 baseline: 0) 
+Key Activities with Milestones 
+1. Available agricultural water project areas increased 
+1.1  Construct JBMA irrigation system (Q1 2018–Q3 2019). 
+1.2  Construct IAA irrigation system (Q1 2018–Q4 2020). 
+1.3  Develop M&E system for JBMA and IAA irrigation system (Q2 2021). 
+1.4  Complete training of KPID and KPAD staff on the use of the M&E system (Q4 2021). 
+1.5  Complete PHLCE asset inventory (Q4 2020). 
+1.6  Develop a guideline and sustainable plan for PHLCE O&M (Q2 2021). 
+1.7  Complete training to KPID on the use of the rule and O&M plan (Q4 2022). 
+2. Water-use skill and farm management capacity improved in project areas 
+2.1  Establish 20 WUAs in JBMA (Q1 2018–Q1 2019). 
+2.2  Establish 86 WUAs in IAA (Q1 2019–Q3 2020). 
+2.3  Construct 20 watercourses with farmers’ participation in JBMA (Q4 2018–Q3 2019). 
+2.4  Construct 86 watercourses with farmers’ participation in IAA (Q1 2019–Q4 2020). 
+2.5  Undertake WUAs training for efficient O&M and their organizations (Q1 2018–Q4 2022). 
+2.6  Establish 100 demonstration plots (Q3 2019–Q4 2020). 
+2.7  Conduct farmer field schools and farmers’ training in demonstration plots (Q3 2019–Q4 2022). 
+Procurement management 
+3.1 Mobilization of the project implementation consultant (Q1 2017). 
+3.2 Complete detailed engineering design for the major civil works contract (Q3 2017). 
+3.3 Initiation of the bid process of the major civil works contract (Q3 2017). 
+3.4 Contracts for the major civil works contract (Q1 2018). 
+Inputs:  Asian  Development  Bank:  (ordinary  capital  resources  loan)  $86.405  million,  Government: 
+$10.198 million Beneficiaries: $0.353 million (in-kind) 
+Assumptions for Partner Financing not applicable 
+ha  =  hectare,  IAA  =  Indus  and  Ambar  area,  JBMA  =  Janda  Boka–Malikabad  area,  KPAD  =  Khyber  Pakhtunkhwa 
+Agriculture Department, KPID = Khyber Pakhtunkhwa Irrigation Department, M&E = monitoring and evaluation, m3 = 
+cubic  meter,  O&M  =  operation  and  maintenance,  PHLCE  =  Pehur  High  Level  Canal  Extension,  PMO  =  project 
+management office, Q = quarter, t = ton, WUA = water users’ association. 
+a  Government of KPP. 2009. Comprehensive Development Strategy 2010–2017. Peshawar. 
+b  Wheat (1.384 t/ha), maize (1.058 t/ha), oilseeds: karif season (1.436 t/ha), and rapes and mustard (0.768 t/ha) in 
+2014. 
+c  Baseline data include effective rainfall only. 
+Source: Asian Development Bank. 
+46        
+B. 
+Monitoring 
+90. 
+Project Performance Monitoring. The EA will develop comprehensive project performance 
+monitoring  system  and  closely  monitor  the  progress  of  project  activities,  outputs,  and  outcomes 
+based on the project performance monitoring system in accordance with the DMF. In particular, the 
+project performance monitoring system will assess the following outputs and indicators (i) progress 
+of planned activities according to the milestones; (i) progress in achieving each project output and 
+project outcome according to the performance targets and indicators indicated in the DMF, and (iii) 
+social and economic benefits with focus on the poor and women.  
+Information  and  data  gathered  during  project  implementation  period  will  be  analyzed  and 
+91. 
+measured against the targets, and published regularly on the project website.  
+(i) 
+(ii) 
+Submit  quarterly  progress  reports,  covering  progress  and  achievements  during 
+the period against millstones and indicators in the DMF; and 
+Produce  a  project  completion  report  at  the  last  year  of  project  implementation, 
+outlining the achievements and lessons learned.  
+92. 
+All  project  assurances  including  policy,  legal,  financial,  economic,  physical,  environmental, 
+gender, and other safeguard measures will be monitored through a quarterly progress reports, and 
+twice a year, during ADB loan review missions. 
+93. 
+ADB will also monitor the progress of achievement of each output and outcome based on 
+performance  indicators  with  targets,  and  each  activity  based  on  milestones  indicated  in  the  DMF 
+through a project management information system (i.e., e-Ops).   
+94. 
+Compliance monitoring. All project assurances including policy, legal, financial, economic, 
+physical, environmental, gender, and other safeguard measures will be monitored through quarterly 
+progress reports and twice a year during ADB loan review missions.  
+95. 
+Safeguards monitoring. The PMO will submit to ADB an Environmental monitoring report 
+that will provide an overview of the implementation of the EMP and the Site Specific EMP. The PMO 
+environment  specialist  (deputy  director)  will  prepare  the  biannual  environmental  monitoring  report 
+with  the  assistance  of  the  national  and  international  Environmental  Specialists  of  the  PMO.  The 
+consultants will supervise functioning of the project’s Environmental Management System including 
+implementation of the EMP and inputs into quarterly progress reports that will be submitted to ADB. 
+The contractor’s environment specialist will be responsible for the day to day implementation of the 
+EMP  and  SSEMP  in  the  field,  the  contractor  will  prepare  monthly  environmental  reports  for 
+submission to the PMO environment deputy director.     
+The PMO Deputy for Resettlement will oversee the internal resettlement monitoring of the 
+96. 
+LARP  implementation,  with  support  from  the  PIC  Safeguards  Team.    External  resettlement 
+monitoring  and  compliance  reporting  will  be  conducted  by  an  independent  external  monitoring 
+agency  (EMA)  or  individual  external  monitor  to  be  hired  by  the  PMO.  Internal  and  external 
+resettlement  monitoring  reports  will  be  submitted  on  a  semi-annual  basis  to  ADB  for  review  and 
+disclosure.  All  monitoring  reports  will  also  be  disclosed  to  the  displaced  persons  including  the 
+preparation of corrective action plan (s).   
+Gender  and  social  dimensions  monitoring.  The  Deputy  Director  Social  and  Gender  at 
+97. 
+the PMO will be responsible for monitoring the implementation of the gender action plan and for the 
+preparation of the semi-annual monitoring reports that will be submitted to ADB.  
+47 
+C. 
+Evaluation 
+98. 
+Inception  Mission.  ADB  will  conduct  an  inception  mission  within  three  months  of  loan 
+signing  to  assess  project  readiness  and  implementation  arrangements  including  establishment  of 
+PMO,  PIOs,  opening  of  an  imprest  account,  progress  of  recruitment  of  three  consulting  services, 
+status of the development of the project performance monitoring system, and progress of advance 
+procurement actions.  
+Review  Mission.  ADB  will  field  review  missions  at  least  once  a  year  to  (i)  assess  the 
+99. 
+progress  of  project  activities  and  outputs  and  effectiveness  of  implementation  arrangements,  (ii) 
+monitor  the  implementation  of  GAP  and  safeguard  compliance  with  ADB  Safeguard  Policy 
+Statement (2009), (iii) review compliance with loan agreements and related matters, (iv) follow up on 
+decisions  and  actions  agreed  during  previous  review  missions,  and  (v)  resolve  any  project 
+implementation issues that may arise.  
+100.  Midterm  Review  Mission. ADB will conduct a midterm review in the third year of project 
+implementation.  The  midterm  review  will  (i)  assess  the  project  performance  and  achievement 
+against targets and milestones in the DMF; (ii) review the initial outcomes, benefits, and impact of 
+the  project,  and  (iii)  identify  gaps,  if  any,  and  recommend  necessary  changes  to  strengthen 
+implementation arrangements or modify project design.   
+101.  Project  Completion  Review  Mission.  ADB  will  field  a  project  completion  review  mission 
+upon  physical  completion  of  the  project  to  commence  preparation  of  ADB’s  project  completion 
+report.  The  mission  will  (i)  assess  the  project  performance  against  all  targets,  indicators,  and 
+benchmarks (including any revised at the midterm review); (ii) evaluate initial benefits and outcome 
+of the project across outputs, and (iii) identify any incomplete activities and agree on the necessary 
+actions.  
+D. 
+Reporting  
+102.  The  EA  through  the  PMO  will  submit  to  ADB  the  following  reports:  (i)  quarterly  progress 
+reports  in  a  format  consistent  with  ADB's  standards;  (ii)  consolidated  annual  reports  including  (a) 
+progress  achieved  by  output  as  measured  through  the  indicator's  performance  targets,  (b)  key 
+implementation  issues  and  solutions;  (c)  updated  procurement  plan,  (d)  progress  of  the  gender 
+action  plan;  (e)  issues  concerning  environment  and  social  safeguards;  and  (f)  updated 
+implementation plan for next the 12 months.  
+103.  The  EA,  through  the  PMO  shall  submit  a  government’s  project  completion  report  within  6 
+months  of  physical  completion  of  the  project.  The  government’s  project  completion  report  will 
+evaluate the performance and achievements of the project against the indicators, expected benefits, 
+and outcome, and should include information on (i) project implementation, and (ii) the use of loan 
+fund to ADB.18   
+E. 
+Stakeholder Communication Strategy 
+104.  Project  information  will  be  strategically  disseminated  through  media  at  main  milestones 
+including loan signing, contract awards and project completion. Grievance redress mechanism will 
+be established at the PMO, by phone and email, and through public consultation events. 
+18 Project  completion  report  format  is  available  at:  http://www.adb.org/Consulting/consultants-toolkits/PCR-Public-
+Sector-Landscape.rar. 
+48        
+Table 17: ADB Public Communications Strategy 
+Project Documents 
+Project data sheet (PDS) 
+Means of 
+Communication 
+ADB’s website 
+Responsible 
+Party 
+ADB 
+Environmental Impact 
+Assessment 
+ADB’s website 
+ADB 
+Draft Land Acquisition and 
+Resettlement Plan 
+ADB’s website 
+brochures 
+ADB 
+Final Land Acquisition and 
+Resettlement Plan 
+ADB’s website 
+brochures 
+ADB 
+KPID 
+Reports and 
+Recommendations of the 
+President 
+ADB’s website 
+ADB 
+Legal Agreement 
+ADB’s website 
+ADB 
+Initial Poverty and Social 
+Assessment 
+ADB’s website 
+ADB 
+Summary of Poverty 
+Reduction and Social 
+Strategy 
+Project  Administration 
+Memorandum 
+ADB’s website 
+ADB 
+ADB’s website 
+ADB 
+Social and Environmental 
+Safeguard Monitoring Reports 
+ADB’s website 
+ADB 
+Audited project financial 
+statements and the auditors’ 
+report 
+ADB’s website 
+ADB 
+Project Completion Report 
+ADB’s website 
+ADB 
+Evaluation Report 
+ADB’s website 
+ADB 
+Source: Asian Development Bank. 
+Frequency
+Audience(s)
+General Public 
+Initial PDS posted on the 
+website no later than two 
+weeks after approval of 
+the concept paper; 
+updated at least twice a 
+year 
+Post fact-finding mission 
+and 120 days before 
+Board Approval of the 
+project  
+Post fact-finding mission  General Public, 
+project-affected 
+people in particular 
+General Public 
+Project-affected 
+people 
+General Public 
+General Public, 
+project-affected 
+people in particular 
+After detailed design and 
+approval by ADB 
+Posted on the website 
+within two weeks of 
+Board approval of the 
+loan 
+Within two weeks of loan 
+signing (early disclosure 
+unless Borrower agrees 
+to)  
+within 2 weeks of 
+approval of Concept 
+Paper 
+Within two weeks of loan 
+signing (early disclosure 
+unless Borrower agrees 
+to)  
+Posted on the website 
+within two weeks of 
+Board approval of the 
+loan 
+Within 1 month after 
+each 6 month monitoring 
+period 
+No later than 14 
+calendar days of ADB’s 
+confirmation of their 
+acceptability 
+Within two weeks of 
+circulation to the Board 
+for information 
+Within two weeks of 
+circulation to 
+Management and the 
+Board 
+General Public 
+General Public 
+General Public  
+General Public 
+General Public, 
+project-affected 
+people in particular 
+General Public 
+General Public 
+General Public 
+49 
+X.  Guidance Note to Develop Plan for Sustainable O&M of PHLCE 
+A. 
+GENERAL 
+105.  The PHLCE system will require O&M arrangements with sustainable O&M plan and its 
+operational  guideline.  The  Janda  Boka  canal  is  a  contour  canal  which  irrigates  area  to  its  left 
+side. The Indus-Ambar canal mostly runs along the ridge line. Both systems are lined irrigation 
+system  and  will  require  routine  maintenance  and  inspection  of  canal  lining  and  associated 
+structures.  In  addition,  the  system  includes  syphons  and  cross-drainage  structures.  Proper 
+inspection  and  maintenance  of  these  structures  and  performance  assessment  of  the  PHLCE 
+system  will  need  to  be  carried  out  based  on  the  proper  asset  inventory  and  sustainable  O&M 
+plan  and  its  guideline.  Moreover,  the  O&M  arrangements  need  to  incorporate  the  monitoring 
+and  evaluation  (M&E)  system  to  be  developed  using  satellite  remote  sensing  technology  to 
+assess irrigation performance, agriculture production, and abiana (water-use charges).  
+B. 
+MANAGEMENT AUTHORITY 
+106.  Currently  two  modes  of  Irrigation  System  O&M  are  in  vogue  in  Pakistan:  (i)  Systems 
+managed by Irrigation Department; and (ii) Systems managed by Farmer’s Organization under 
+supervision  of  Area  Water  Board  and  the  Provincial  Irrigation  and  Drainage  Authority.  The 
+above  systems  differ  in  institutional  aspects  of  operation  as  to  who  will  operate,  maintain  the 
+system  and  who  will  collect  abiana.  However,  the  main  operational  requirements  for  the 
+successful implementation of the irrigation project remain the same. In addition to the problems 
+arising  from  the  security  situation,  the  main  operational  constraints  facing  O&M  of  water 
+resources infrastructure in KPP are associated with lack of funding, inadequate cost recovery, 
+capacity constraints, limited stakeholder participation, poor awareness and information. 
+107.  The institutional arrangement for O&M of PHLCE is expected to be consistent with that 
+of the adjoining PHLC irrigation System. It was originally planned in 1997-1998 to shift KPID’s 
+responsibility  for  O&M  of  all  main  irrigation  and  drainage  schemes  to  the  newly  established 
+North Western Frontier Province Irrigation and Drainage Authority. At the main canal level, self-
+accounting Area Water Boards (AWB) was to be formed and Farmer Organizations (FOs) were 
+to  be  formed  at  distributary/minor  canals  level.  It  was  agreed  that  initially  a  pilot  system 
+approach  will  be  followed  and  based  on  its  success  the  system  would  be  extended  to  other 
+areas.  In  KPP,  Swat  Canal  AWB  was  formed  while  FOs  were  to  manage  infrastructure  at 
+distributary  and  minor  level.  However,  the  management  of  distributaries  and  minors  in  PHLC 
+command  was  not  transferred  to  the  FOs  and  the  PHLC  is  operated  and  maintained  by  the 
+Swabi Irrigation Circle of KPID.  
+108. 
+Irrigation  management  and  abiana  collection  was  transferred  to  6  distributaries.  The 
+arrangement  did  not  prove  successful  and  the  performance  of  FOs  was  poor  due  to  lack  of 
+training  and  capacity  building,  transforming  of  official  records,  poor  performance  of  FOs  in 
+recovery  of  water  charges  and  maintenance  of  channels  under  their  jurisdiction  together  with 
+limited  support  of  Government  in  empowering  the  FOs.  Due  to  these  reasons  the  model  of 
+reforms  implemented  under  Frontier  Irrigation  and  Drainage  Authority  Act  1997  is  heading 
+towards failure. Accordingly there is a need to revisit the original model and amend the same in 
+consultation with KPID, farmer’s community and other stakeholders. 
+ 
+50        
+109.  As  per  Comprehensive  Development  study  (CDS)  the  minimum  requirements  for 
+maintenance of the KPP irrigation system ranged between PRs600 million and PRs900 million 
+per  year  in  the  five  years  prior  to  2008-2009.    The  budget  allocation  in  the  five  year  period 
+varied  between  PRs160  million  and  PRs300  million.  Against  this,  the  abiana  collection  is 
+reported to have ranged between PRs170 million to PRs205 million, which shows a big gap in 
+O&M expenditure and revenue from abiana collection.19 Because of the shortfall in funding for 
+routine  maintenance,  the  KPID  relies  on  funding  from  the  development  budget  for  large 
+rehabilitation  projects,  to  rescue  the  infrastructure  from  disrepair.  This  is  an  unsustainable 
+situation  and  the  gap  between  expenditure  on  O&M  and  revenue  collections  needs  to  be 
+narrowed  down.  CDS  recognizes  that  this  is  not  usually  the  most  efficient  way  of  keeping  the 
+system in operation. 
+110.  The Swat Canal AWB is the only AWB in KPP established in 2000 for the O&M of the 
+main irrigation and drainage schemes covering the irrigated area of 180,000 ha as a pilot case. 
+Similarly, Swabi Irrigation Division was declared as pilot project in the jurisdiction of Swat Canal 
+AWB Mardan. It was to become financially self-sufficient in about 7 years, which did not happen 
+and Swat Canal AWB is financially and institutionally still dependent on the KPID. Depending on 
+its  success,  other  AWBs  were  to  be  created.  The  chairman  of  the  Swat  Canal  AWB  is  the 
+Superintending Engineer Northern Irrigation Circle Mardan of the KPID.  
+111.  The performance of the FOs in terms of O&M of the irrigation system as well as revenue 
+collection had been poor. The FOs were required to deposit 60% of the abiana with the AWB 
+and retain 40% for O&M of the distributary canals, which did not happen. The six FOs had not 
+deposited  65.37  %  of  the  AWB  share.  Also  the  FOs  did  not  carry  out  proper  O&M  of  their 
+distributaries/minor canals. 
+112.  The  KPID  is  also  responsible  for  the  collection  of  abiana  in  the  remaining  part  of  the 
+province.  The  flat  rate  abiana  is  fixed  according  to  area;  PRs250/acre  for  food  crops  (wheat, 
+maize  and  rice)  and  PRs300/acre  for  non-food  crops  (PRs  617.5/ha  for  food  crops  and 
+PRs741/ha  for  non-food  crops).  As  per  CDS  total  assessment  value  increased  from  about 
+PRs200 million in 2002-2003 to PRs341 million in 2007-2008, an increase of 20% in real terms. 
+The actual collection of abiana has however varied from 50% to 60% of the assessed value. 
+113.  Considering  above,  the  PHLCE  project  needs  to  be  managed  by  KPID  as  the  AWB  is 
+not functioning well. Due to current weak capacity of existing FOs the construction and O&M of 
+distributaries  and  minor  levels  of  the  PHLCE  also  need  to  be  executed  by  KPID  because  it  is 
+unlikely that FO(s) can take up the responsibility of construction of distributary/minor canals and 
+conduct  proper  O&M  of  newly  constructed  PHLCE  distributaries  and  minors.  Considering  the 
+foregoing,  farmer’s  management  of  irrigation  system  is  not  envisaged  for  PHLCE  project. 
+However,  farmers’  WUAs  will  be  formed  at  water  course  level  which  will  be  responsible  for 
+participation in construction and maintenance of watercourses. Formation of these WUAs will be 
+facilitated by KPAD (OFWM Directorate). The abiana will be collected by KPID and the WUAs 
+will provide support in abiana collection. 
+19 It  should  be  noted  that  collected  abiana  are  to  be  transferred  to  KPP  Revenue  Department  and  all  collected 
+revenues from various sectors are redistributed to required expenditures including O&M budget allocation for KPP 
+irrigation systems. 
+51 
+C. 
+STAFFING REQUIREMENTS 
+114.  Staff Requirements for KPID. KPID already has staff and an office place in the Swabi 
+District  to  manage  irrigation  schemes  under  PHLC  and  Upper  Swat  Canal.  For  the  PHLCE 
+project, following additional staff is envisaged under Executive Engineer Swabi Irrigation Circle. 
+Table 18: Staff Requirement for irrigation Department 
+Staff Category 
+Estimated No. 
+Executive Engineer Swabi 
+Irrigation Circle (Existing post) 
+SDO PHLCE 
+SEN  I.Ambar 
+SEN J.Boka 
+SEN Mechanical 
+Zilladar 
+Partwari 
+Beldar 
+Gauge Readers 
+Draftsman 
+Clerk 
+Assist. Revenue Clerk 
+Driver 
+Office Boy / Messenger 
+SDO = Sub-Divisional Officer, SEN = Sub-Engineer. 
+1 
+1 
+1 
+1 
+1 
+9 
+15 
+7 
+1 
+1 
+1 
+1 
+1 
+115.  Staff Requirement Watercourse Level. Watercourses are farmer’s property and would 
+be maintained by famer’s themselves through WUAs.  
+116.  Staff  Requirements  of  KPAD.  Field  studies  reveal  that  presently  limited  agriculture 
+extension  services  are  available  in  the  district. The  un-irrigated  areas  are  rarely  visited  by  the 
+extension  staff.  Therefore,  recommendations  are  made  to  enhance  agriculture  extension 
+activities  as  soon  as  the  irrigated  agriculture  is  developed  in  the  PHLCE  command  area. 
+Information  regarding  agricultural  research,  extension,  input  supply  centers  and  marketing 
+facilities  accessible  to  the  farming  communities  in  the  project  area  have  been  collected.  It  is 
+recommended to improve agriculture extension services for transfer of technology to the farming 
+communities  especially  in  the  new  command  area  for  achieving  the  projected  agriculture 
+production in command area. 
+117.  The  executive  district  officer,  Agriculture,  with  the  help  of  district  directors  of  different 
+fields  of  agriculture  is  responsible  for  managing  the  extension  activities  in  the  district.  The 
+district  directors  are  responsible  at  district  level.  Other  specialists  provide  technical  guidance. 
+Agriculture officer is responsible at Circle, while field assistant is responsible at Union Council 
+level.  Estimated  staffing  required  for  mobilization  of  farmer’s  in  the  command  areas  and 
+supervising construction of on farm works is proposed in the table below.  
+ 
+ 
+ 
+ 
+52        
+Table 19: Estimated Staffing for Agriculture Department  
+Position 
+Agricultural Extension 
+Agriculture Officer 
+Social Mobilizer  
+Field Assistant  
+Computer Operator  
+Non-Technical Support Staff 
+On Farm Water Management 
+Water Management Officer 
+Agriculture engineers 
+Agronomist 
+Social Mobilizers  
+Sub Engineers 
+Work Supervisors 
+Non-Technical Support Staff 
+Number 
+of Staff 
+1 
+1 
+3 
+1 
+Several 
+1 
+2 
+1 
+3 
+3 
+2 
+Several 
+118.  The agriculture officer will be a regular employee of the Agriculture Extension Services 
+whereas the remaining staff will be recruited through Project Implementation Consultants (PIC). 
+Similarly,  the  water  management  officer  will  be  a  regular  employee  of  the  OFWM  Directorate 
+and the remaining staff will be recruited through the PIC out of the provisional sum for capacity 
+building.  For the implementation phase, 30 person-months of input of each of above staff are 
+estimated.  After  completion  of  project  implementation  the  Agriculture  Extension  Services  in 
+KPAD will provide the extension services in the project Area. 
+D. 
+MAINTENANCE STANDARD 
+119.  The KPID estimates the O&M requirements of different systems either on need basis or 
+at  1.50%  of  the  project  cost.  However,  budgetary  releases  by  KPP  Finance  Department  for 
+O&M are often less than the demands. Similar is the case with PHLC and the O&M allocations 
+were  less  than  the  demand/requirement.  As  per  PC-1  for  PHLC  Project,  annual  O&M 
+requirements  were  PRs10.5  million  for  PHLC  and  Topi  Area  at  1993  price  levels.  The  O&M 
+budget releases for PHLC have varied from PRs7.8 million in 2005 to PRs8.60 million in 2015. 
+In real terms the budget releases have significantly declined and are not adequate for desired 
+level  of  O&M  of  the  System  while  it  was  confirmed  that  the  O&M  of  the  PHLC  has  been 
+somewhat carried out with reasonable manner. Reasonable O&M with limited fund was realized 
+mainly because of the canal design with less O&M requirement and considerably less sediment 
+load along canals as source of water is Tarbela Dam compared to other systems where water is 
+drawn from rivers. 
+120.  Based  on  experience  of  consultants  engaged  under  the  project  preparatory  technical 
+assistance, following maintenance standards are recommended. 
+Embankment 
+Inspection  
+Embankment Slope, 
+Repair at least 20% of service road up to designed level. 
+Grade road surface 6 times per year.  
+Prohibit public access to non-paved inspection roads (the Highway 
+Department must provide alternate roads or take over maintenance). 
+Repair at least 20% of total length up to design level. 
+53 
+Outside (includes 1.2 m 
+of road shoulders). 
+Embankment Slope, 
+Inside 
+Structures  
+Lined Canals 
+Valves and 
+Accessories 
+Cross Drainage 
+Watercourses 
+Fill all rain cuts before start of rainy season. 
+Remove all trees and bushes, establish turfing where feasible and control 
+weed growth to facilitate inspection of seepage on outside slopes. 
+Cut weeds as necessary to allow visual inspection of canal prism. 
+Remove all trees and bushes interfering the waterway 
+Inspect all gates, gate hoists and steel accessories annually and repaint, 
+repair or replace as needed during the canal closure period.  
+Inspect lining and repair wherever required. Remove all weeds and bushes.  
+Inspect all valves and accessories along pressure pipe for proper 
+functioning. Repair or replace as needed during canal closure period 
+Inspect all cross-drainage points of pressure-pipe and irrigation network 
+during canal closure and also before the arrival of flood season. Repair 
+damaged stone apron, check drainage culverts and remove obstructions 
+where required before the next flood season. 
+Inspect all watercourses during closure and perform maintenance of lining 
+and repair any damages.  
+121.  Based on above recommended maintenance standard, the maintenance cost of PHLCE 
+excluding establishment cost (i.e. salary cost of O&M staff and other costs including running and 
+maintenance  of  office  and  other  related  expenses)  is  estimated  at  about  Rs  53.2  million  ($ 
+506,959) per year. After adding the cost of establishment the total O&M budget for PHLCE will 
+be Rs 65.5 million ($623,810). 
+E. 
+COST RECOVERY 
+122.  Cost recovery for O&M is desired to be based partially on abiana collection. However, it 
+is recognized that the current rate of abiana is too low for meeting the O&M costs. Thus besides 
+increasing the abiana, the government will need to further allocate sufficient funds for O&M of 
+the  system  as  part  of  annual  budget  (i.e.  Annual  Development  Program).  As  provided  in  the 
+loan  covenants  for  PHLCE  project,  adequate  funds  satisfactory  to  ADB  will  be  allocated  for 
+O&M of the PHLCE irrigation system. The current estimate of the O&M requirement is $630,000 
+in 2016. The EA assured to reassess and reconfirm the adequacy of the amount of O&M fund to 
+be allocated by the KPP Government during the project implementation based on the estimated 
+amount,  and  its  results  will  be  reviewed  by  ADB  during  its  midterm  review  mission.  The 
+government of KPP also assured to fully implement O&M plan to be developed after completion 
+of physical works. 
+123.  The  current  level  of  recovery  of  abiana  in  PHLC  command  is  less  than  50%  of  the 
+assessed amount. There is a need to increase the recovery of abiana. The increase in abiana 
+collection is possible if KPID has full support of the Swabi district admiration. In Punjab during 
+Development Policy Loan of the World Bank the abiana collection in non-FO areas for 2005-06 
+was  47%  in  Kharif  and  58%  of  the  assessed  amount  in  Rabi.  On  intervention  by  the  Chief 
+Secretary  who  instructed  the  district  administration  to  assist  in  abiana  collection  the  abiana 
+collection performance in non FO areas improved to 70%20 of the assessed amount in 2006-07. 
+While in the FO areas there was a downward trend. Collection performance of FOs for Rabi21 
+2005 was 78%, and 79% in Kharif22 2006 which declined to 63.6% in Kharif 2007 and 63.56% 
+for Rabi 2007-08 it was 59.02%.   
+20 Ref Implementation Completion Report of Punjab Irrigation Sector Development Policy Loans December 25, 2010. 
+21 Winter crop season (November – March). 
+22 Summer crop season (April–October). 
+54        
+XI.  ANTICORRUPTION POLICY 
+124.  ADB  reserves  the  right  to  investigate,  directly  or  through  its  agents,  any  violations  of  the 
+Anticorruption Policy relating to the project.23 All contracts financed by ADB shall include provisions 
+specifying  the  right  of  ADB  to  audit  and  examine  the  records  and  accounts  of  the  executing 
+agencies  and  all  project  contractors,  suppliers,  consultants  and  other  service  providers. 
+Individuals/entities  on  ADB’s  anticorruption  debarment  list  are  ineligible  to  participate  in  ADB-
+financed activity and may not be awarded any contracts under the project.24 
+125.  To  support  these  efforts,  relevant  provisions  are  included  in  the  loan  agreement  and  the 
+bidding  documents  for  the  project.  The  Government,  through  KPID  will  ensure  that  the 
+anticorruption  provisions  acceptable  to  ADB  are  included  in  all  bidding  documents  and  contracts 
+including provisions specifying the right of ADB to audit and examine the records and accounts of 
+the  executing  agencies  and  all  contractors,  suppliers,  consultants,  and  other  service  providers  as 
+they relate to the project.  
+126.  The  EA  will  provide  updated  information  on  the  project  on  their  websites,  including 
+information  on  the  performance  of  the  project,  business  opportunities,  bidding  process  and 
+guidelines, outcome of biddings and summary progress reports of the project.  
+XII. 
+ACCOUNTABILITY MECHANISM 
+127.  People  who  are,  or  may  in  the  future  be,  adversely  affected  by  the  project  may  submit 
+complaints  to  ADB’s  Accountability  Mechanism.  The  accountability  mechanism  provides  an 
+independent forum and process whereby people adversely affected by ADB-assisted projects can 
+voice,  and  seek  a  resolution  of  their  problems,  as  well  as  report  alleged  violations  of  ADB’s 
+operational policies and procedures. Before submitting a complaint to the accountability mechanism, 
+affected  people  should  make  a  good  faith  effort  to  solve  their  problems  by  working  with  the 
+concerned ADB operations department. Only after doing that, and if they are still dissatisfied, should 
+they approach the accountability mechanism.25 
+XIII. 
+RECORD OF PAM CHANGES 
+128.  All revisions/updates during course of implementation should be retained in this Section to 
+provide a chronological history of changes to implemented arrangements recorded in the PAM. 
+23 Available at: http://www.adb.org/Documents/Policies/Anticorruption-Integrity/Policies-Strategies.pdf. 
+24 ADB's Integrity Office web site is available at: http://www.adb.org/integrity/unit.asp.   
+25 For further information see: http://www.adb.org/Accountability-Mechanism/default.asp. 

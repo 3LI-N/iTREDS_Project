@@ -1,0 +1,4832 @@
+Project Administration Manual 
+Project Number: 47047 
+Loan Number: LXXXX-PRC 
+June 2016 
+People’s  Republic  of  China:  Shandong  Groundwater 
+Protection Project 
+Contents 
+ABBREVIATIONS 
+I. 
+Rationale 
+Impact and Outcome   
+Outputs 
+Project Readiness Activities   
+Overall Project Implementation Plan   
+Project Implementation Organizations—Roles and Responsibilities  
+Key Persons Involved in Implementation 
+Project Organization Structure 
+Cost Estimates Preparation and Revisions 
+Key Assumptions 
+Detailed Cost Estimates by Expenditure Category 
+Allocation and Withdrawal of Loan Proceeds  
+Detailed Cost Estimates by Financier 
+Detailed Cost Estimates by Outputs   
+Detailed Cost Estimates by Year 
+Contract Awards and Disbursement S-curve  
+Fund Flow Diagram 
+PROJECT DESCRIPTION 
+A. 
+B. 
+C. 
+IMPLEMENTATION PLANS   
+A. 
+B. 
+PROJECT MANAGEMENT ARRANGEMENTS 
+A. 
+B. 
+C. 
+COSTS AND FINANCING 
+A. 
+B. 
+C. 
+D. 
+E. 
+F. 
+G. 
+H. 
+I. 
+FINANCIAL MANAGEMENT   
+A. 
+B. 
+C. 
+D. 
+PROCUREMENT AND CONSULTING SERVICES   
+A. 
+B. 
+C. 
+D. 
+SAFEGUARDS 
+A. 
+B. 
+C. 
+         1 
+           1 
+         2 
+         3 
+         5 
+         5 
+         6 
+         7 
+         7 
+         9 
+       11 
+       11 
+       11 
+       11 
+       13 
+       14 
+       15 
+       16 
+       17 
+       18 
+       19 
+       20 
+       20 
+       20 
+       21 
+       21 
+       22 
+       22 
+       23 
+       24 
+       36 
+       47 
+       47 
+       49 
+       49 
+       54 
+       54 
+A. 
+PERFORMANCE MONITORING, EVALUATION, REPORTING AND                                
+COMMUNICATION                                                                                                         61 
+       61 
+A. 
+       64 
+B. 
+       62 
+C. 
+       63 
+D. 
+E. 
+       63 
+ANTICORRUPTION POLICY                                                                                          63 
+ACCOUNTABILITY MECHANISM                                                                                  63 
+RECORD OF PAM CHANGES                                                                                       64 
+Advance Contracting and Retroactive Financing 
+Procurement of Goods, Works and Consulting Services 
+Procurement Plan 
+Consultant's Terms of Reference 
+Project Design and Monitoring Framework 
+Monitoring 
+Evaluation 
+Reporting 
+Stakeholder Communication Strategy 
+Financial Management Assessment   
+Disbursement  
+Accounting 
+Auditing and Public Disclosure 
+Environment 
+Ethnic Minorities 
+Land Acquisition and Resettlement 
+II. 
+III. 
+IV. 
+V. 
+VI. 
+VII. 
+IX. 
+X. 
+XI. 
+XII. 
+VIII.  GENDER AND SOCIAL DIMENSIONS 
+Social and Gender Action Plan 
+APPENDIX 
+1. 
+Draft Terms of Reference for Environmental Positions 
+Project Administration Manual Purpose and Process 
+1.  The  project  administration  manual  (PAM)  describes 
+the  essential  administrative  and 
+management requirements to implement the project on time, within budget, and in accordance 
+with  the  Government  of  the  People’s  Republic  of  China  (government)  and  the  Asian 
+Development  Bank  (ADB)  policies  and  procedures.  The  PAM  includes  references  to  all 
+available  templates  and  instructions  either  through  linkages  to  relevant  URLs  or  directly 
+incorporated in the PAM. 
+2.  The Shandong Provincial Government, represented by Shandong Water Resources Department 
+(SWRD),  the  executing  agency;  and  the  county  governments  of  Changle,  Gaomi,  Huantai, 
+Qingzhou,  and  Shouguang,  the  implementing  agencies  are  wholly  responsible  for  the 
+implementation  of  the  project,  as  agreed  jointly  between  the  borrower  and  ADB;  and  in 
+accordance with the government and ADB policies and procedures. ADB staff is responsible to 
+support 
+their  obligations  and 
+responsibilities for project implementation in accordance with ADB policies and procedures. 
+including  compliance  by 
+the  SWRD  of 
+implementation 
+3.  At loan negotiations, the borrower and ADB agreed to the PAM and ensured consistency with 
+the loan and project agreements. In the event of any discrepancy or contradiction between the 
+PAM  and the  loan  and project  agreements,  the provisions  of the  loan  and  project  agreements 
+shall prevail. 
+4.  After  ADB  Board  approval  of  the  project's  report  and  recommendations  of  the  President, 
+changes  in  implementation  arrangements  are  subject  to  agreement  and  approval  pursuant  to 
+relevant  government  and  ADB  administrative  procedures  (including  the  project  administration 
+instructions) and upon such approval they will be subsequently incorporated in the PAM. 
+ADB 
+CSC 
+DMF 
+EIA 
+EMP 
+EMS 
+FMA 
+ICB 
+GRM 
+LAR 
+LIEC 
+MIS 
+NCB 
+NCP 
+PCR 
+PIO 
+PMO 
+PPMS 
+PPTA 
+PRC 
+SFD 
+SGAP 
+SGE 
+SOE 
+SPG 
+SPS 
+SSS 
+SWRD 
+TOR 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+Abbreviations 
+Asian Development Bank 
+construction supervision companies 
+design and monitoring framework 
+environmental impact assessment 
+environmental management plan 
+environmental monitoring systems 
+financial management assessment 
+international competitive bidding 
+grievance redress mechanism 
+land acquisition and resettlement 
+loan implementation environment consultant 
+management information systems 
+national competitive bidding 
+Northern China Plain 
+project completion report 
+project implementation office 
+project management office 
+project performance monitoring systems 
+project preparatory technical assistance 
+People’s Republic of China 
+Shandong Finance Department 
+social and gender action plan 
+some gender elements 
+statement of expenditure 
+Shandong Provincial Government 
+Safeguard Policy Statement  
+single-source selection 
+Shandong Water Resources Department 
+terms of reference 
+I. 
+PROJECT DESCRIPTION 
+A. 
+Rationale 
+Falling  groundwater  tables  as  a  result  of  over  extraction  of  groundwater  is  a  major 
+1. 
+concern  in  the  People’s  Republic  of  China  (PRC),  particularly  in  the  northern  parts  of  the 
+country. The PRC heavily depends on extraction of groundwater, with an estimated 20% of its 
+annual water supply coming from groundwater, reportedly ranging from 110 billion cubic meters 
+(m3)  to  150  billion  m3  per  year.  The  largest  groundwater  user  is  the  agricultural  sector  (60%), 
+with domestic and industrial usage sharing the remaining 40%. There are more than 100 large 
+cones of groundwater depression with an estimated total area of 150,000 square kilometers in 
+the PRC. In the North China Plain (NCP), the total area of the cone of groundwater depression 
+already extends to 70,000 square kilometers. 
+Weifang  and  Zibo  prefectures 
+2. 
+in  Shandong  Province  also  depend  heavily  on 
+groundwater,  especially  for  its  intensive  and  high-value  agricultural  production.  Domestic  and 
+industrial water use, although still less than agricultural water use, is also on the rise as a result 
+of the rapid economic development in the area. The project area, covering Changle and Huantai 
+counties,  and  Gaomi,  Qingzhou,  and  Shouguang  cities,  is  the  main  vegetable  producer  for 
+Beijing and has a high concentration of greenhouses. The greenhouses that use drip irrigation 
+require  fresh  and  sediment-free  water,  which,  in  most  cases,  is  provided  from  shallow 
+groundwater  sources.  As  a  result  of  extensive  groundwater  abstraction,  the  project  area  has 
+become the largest overexploited aquifer in Shandong Province, and the second largest in the 
+PRC.1 In some downstream areas, agricultural production stopped due to lack of suitable water 
+sources.  Some  of  the  industrial  or  domestic  water  users  that  are  still  using  groundwater  are 
+encouraged by the government to switch to surface water.2 
+3. 
+Current  groundwater  recharge  of  both  shallow  and  deep  groundwater  resources  is 
+insufficient  to  recover  from  the  excessive  pumping  during  the  dry  periods.  Seasonal  rainfall 
+fluctuates  widely,  with  an  average  of  70%  of  the  rainfall  occurring  from  June  to  September, 
+followed by drought during the rest of the year. Flooding occurs during the summer months, but 
+storm waters flow to the sea unutilized. The pattern of irregular rainfall is expected to worsen as 
+a result of climate change, and rainfall is predicted to decrease. Excessive groundwater usage 
+also occurs because of lack of pricing of the resource, a weak licensing and permitting system, 
+and insufficient abstraction metering and groundwater level monitoring. 
+The  consequences  of  the  current  unsustainable  groundwater  utilization  are  serious:  (i) 
+4. 
+pumping costs have increased; (ii) groundwater quality is deteriorating due to seawater intrusion 
+and  environmental  pollution;  (iii)  domestic  water  supplies  and  agricultural  (particularly 
+vegetable) production are at risk; and (iv) the project area is suffering from significant financial 
+and  economic  damages  caused  by  land  subsidence.  Seawater  intrusion  and  upconing  has 
+extended  35  kilometers  inland  from  the  coast,  and  some  areas  have  already  experienced 
+subsidence of more than 2 meters.3 The process of land subsidence is irreversible, and urgent 
+action is needed to avoid worsening. 
+1  The overexploited area of the Weifang–Zibo aquifer covers approximately 5,422 square kilometers. 
+2  Usage  of  shallow  (unconfined)  groundwater  causes  overexploitation  of  groundwater  sources  that  are  used  by 
+many farmers. The use of deep (confined) groundwater causes land subsidence. 
+3  Process  by  which  saline  water  underlying  freshwater  in  an  aquifer  rises  upward  into  the  freshwater  zone  as  a 
+result of pumping water from the freshwater zone. 
+2 
+Acknowledging  the  serious  concerns,  the  PRC  Government  selected  Shandong 
+5. 
+Province  as  a  demonstration  province  for  modernized  water  administration.  The  Shandong 
+Provincial Government (SPG) has already taken multiple initiatives to address water scarcity in 
+the  NCP,  including  promoting  water  productivity  and  reuse,  and  introducing  regulations  on 
+groundwater  pumping.  Several  water-saving  technologies,  such  as  drip  irrigation,  are  already 
+widely used in the project area.4 The results have been successful, but more efforts are needed 
+to  fully  address  the  risk  of  further  decline  of  groundwater  levels  in  the  NCP.5 The  national 
+government  has  constructed  the  South–North  Water  Transfer  Project,  which  started  providing 
+additional  water for  Shandong  Province  in 2014.  The  diverted  water,  which is  mainly  intended 
+for domestic and industrial use, will not be sufficient to mitigate the current overexploitations of 
+the groundwater resources in the NCP. 
+Lessons  learned  from  past  and  ongoing  support  for  the  water  sector,  including  the 
+6. 
+preparation  of  policy  recommendations  for  the  PRC’s  Thirteenth  Five-Year  Plan,  2016–2020, 
+show  that  there  is  still  lack  of  good  examples  of  implementing  integrated  water  management 
+approaches and increasing water productivity in the PRC. Most counties in the project area lack 
+(i)  integration  of  good  international  practices  to  provide  new  alternatives  for  groundwater 
+conservation, (ii) adequate implementation of water-saving strategies and regulatory stipulations, 
+and  (iii)  introduction  of  up-to-date  water  environmental  monitoring  technologies.  Existing 
+government  programs  also  lack  the  support  to  link  efficient  and  reduced  groundwater  usage 
+with  the  retention  of  surface  and  storm  water  to  increase  groundwater  recharge  and  water 
+availability for water-scarce areas. 
+7. 
+The project will be the first Asian Development Bank (ADB) supported major investment 
+in the PRC that specifically focus on groundwater resources protection, recognizing the strategic 
+importance  of  these  resources.  Moreover,  the  project  will  support  the  development  and 
+introduction  of  economic  policy  instruments,  critical  to  controlling  groundwater  usage.  The 
+project  will  contribute  to  the  PRC’s  Thirteenth  Five-Year  Plan,  2016–2020,  which  pursues 
+regionally balanced and environmentally sustainable growth; and the PRC’s first National Plan 
+to Protect the Safety of Groundwater Resources, 2011–2020.6 The project will support the PRC 
+in achieving the Sustainable Development Goals, in particular Goal 2: End hunger, achieve food 
+security  and  improved  nutrition  and  promote  sustainable  agriculture  and  Goal  6:  Ensure 
+availability  and  sustainable  management  of  water  and  sanitation  for  all.  The  project  is  in  line 
+with  the  country  partnership  strategy,  2016–2020  for  the  PRC  of  ADB  in  supporting  the 
+government’s  overarching  strategic  goal  by  focusing  on  environmentally  sustainable  growth.7 
+The  project  will  contribute  to  ADB's  Water  Operational  Plan,  2011–2020  to  (i)  increase  water 
+productivity  across  the  range  of  users;  (ii)  embed  integrated  water  resources  management, 
+including  improved  risk  management,  to  mitigate  floods,  droughts,  and  other  water-related 
+4 
+In  Shouguang  City,  which  is  among  the  worst  affected  in  the  project  area,  two-thirds  of  the  farmers  reportedly 
+apply drip irrigation already. 
+5  The amount of groundwater usage in Shandong Province declined from 13.4 billion m3 in 2001 to 8.9 billion m3 in 
+2012. 
+6  On  10  October  2011,  the  PRC  Government  approved  the  National  Plan  to  Protect  the  Safety  of  Groundwater 
+Resources, 2011–2020. The adoption of the plan is an important step to mobilize additional financial resources to 
+protect  groundwater  resources  in  the  PRC.  On  16  April  2015,  the  government  also  announced  an  associated 
+action plan that includes a list of measures to tackle water pollution, with the aim of improving the quality of the 
+water environment around the country by 2030. With regards to groundwater, the plan envisages that by  2020, 
+groundwater overdraft will be reduced and the aggravated pollution of groundwater will be preliminarily controlled. 
+7  ADB.  2016.  Transforming  Partnership:  People’s  Republic  of  China  and  Asian  Development  Bank,  2016–2020. 
+Manila. 
+3 
+disasters;  and  (iii)  expand  knowledge  and  capacity  development  that  uses  technology  and 
+innovation more directly.8 
+B. 
+Impact and Outcome 
+8. 
+The  impact  will  be  a  sustained  groundwater  supply  for  the  agriculture  sector  in  the 
+Weifang–Zibo  area.  The  outcome  will  be  improved  conservation  and  sustainable  use  of 
+groundwater  resources  in  Weifang  and  Zibo  prefectures.  The  project  will  serve  as  a 
+demonstration  of  different  integrated  approaches  for  environmental  restoration  and  improved 
+management  of  overexploited  groundwater  areas.  The  project  will  promote  the  integration  of 
+innovative  demonstration  activities  like  (i)  groundwater  recharge through  water  harvesting  and 
+storage  in  smart  greenhouses;  (ii)  demonstration  of  comprehensive  water  management 
+information systems; and (iii) capacity development in water resources management, including 
+water resource policy and regulation, water pricing, and water markets. 
+C. 
+Outputs 
+9. 
+The  project  will  have  three  outputs:  (i)  groundwater  recharged  and  conserved,  (ii) 
+surface  water  allocation  improved  and  monitored,  and  (iii)  capacity  development  for  water 
+resources management enhanced. Demonstration activities will be implemented in Changle and 
+Huantai counties, and Gaomi, Qingzhou, and Shouguang cities in Weifang and Zibo, which are 
+representative  for  critical  water-scarce  conditions  in  intensive  agricultural  production  bases  in 
+the Weifang–Zibo area. 
+Output  1:  Groundwater  recharged  and  conserved.  Output  1  will  support  the 
+10. 
+introduction  of  groundwater  recharge  technologies  in  the  project  area  to  increase  shallow 
+groundwater  recharge  and  reduce  usage  of  deep  groundwater.  Output  1  will  have  two 
+components: (i) rehabilitation and construction of about 880 hectares of wetland areas, including 
+canals,  which  will  contribute  to  the  recharge  of  shallow  groundwater  resources; 9  and  (ii) 
+technological innovation for monitoring shallow groundwater recharge in Huantai County. Under 
+component 1, two wetland areas will be rehabilitated in Huantai County and Shouguang City to 
+improve  the  reservoir  and  ecological  functions  of  the  wetlands,  and  increase  shallow 
+groundwater  recharge  through  the  canal  network.  These  wetland  areas  currently  suffer  from 
+water  shortages  and  are  not  operational.  Component  2  includes  the  development  of  a 
+comprehensive  management 
+for  water  resources  monitoring  and 
+management in Huantai County, including monitoring and dissemination of groundwater levels, 
+quality, and abstraction. The management information system will be developed to complement 
+an  existing  urban  water supply  management system. The  existing  system  will  be  expanded to 
+include  monitoring  of  water  resources,  data  analysis,  optimizing  the  allocation  of  water 
+resources, water regime forecasting, and decision-making support for flood control. 
+information  system 
+11. 
+Output  2:  Surface  water  allocation  improved  and  monitored. Output 2 will improve 
+water allocation and monitoring to increase water availability in water-scarce parts of the project 
+area  and indirectly  reduce  the  pressure  on groundwater  resources. The output  will  have three 
+components:  (i)  improvement  of  surface  water  allocation,  (ii)  retention  of  storm  water,  and  (iii) 
+establishment of hydrological facilities in Changle County. Through the improvement of surface 
+8  ADB. 2011. Water Operational Plan, 2011–2020. Manila. 
+9  The  wetlands  to  be  rehabilitated  or  constructed  are  all  modified  habitats,  but  may  have  important  ecological 
+values.  
+4 
+water resources allocations, the exploitation of groundwater can be reduced. Component 1 will 
+support  Gaomi  and  Qingzhou  cities  and  Huantai  County  to  rehabilitate  surface  water  flow 
+systems and construct connections between the wide network of small rivers, canals, and small-
+sized  reservoirs  that  exist  in  the  Weifang–Zibo  area.  The  connections  will  enable  the  local 
+governments to supply areas with additional surface water resources to reduce the pressure on 
+groundwater resources. Similarly, component 2 will support Changle County and Gaomi City to 
+increase their reservoir capacity for improved storage of surface water. It is envisaged that the 
+total  storage  capacity  of  the  Nanzhai  and  Juchenghe  reservoirs  will  be  increased  from  3.7 
+million m3 per year to 8.3 million m3 per year. Output 3 will support Changle County to establish 
+precipitation and flow monitoring capabilities in the Nanzhai Reservoir watershed. 
+including  wetland  management,  water-saving  technologies  for 
+12. 
+Output  3:  Capacity  development  for  water  resources  management  enhanced. 
+Output 3 will have two components: (i) institutional strengthening of ADB’s project management 
+procedures  and  policy  development  support,  and  (ii)  project  management.  Component  1  will 
+provide support for and training on groundwater policy and new approaches and techniques in 
+water  management, 
+the 
+agriculture  sector  such  as  smart  greenhouses,  the  establishment  of  a  groundwater  trading 
+system  through  pilot  water  user  associations,  and  an  integrated  circuit  card-controlled  water 
+usage  system  to  be  developed  in  Huantai  County  for  monitoring  and  managing  groundwater 
+demand  for  agricultural  and  rural  water  users.  Knowledge  products  will  be  prepared  to 
+document  the  experiences  and  achievements.  Component  1  will  also  support  capacity 
+development  and  training  of  staff  from  the  SPG  and  local  governments  in  ADB  project 
+management procedures, technical design and implementation, and safeguard supervision and 
+monitoring.  Component  2  will  provide  overall  project  implementation  support  for  staff  from  the 
+SPG and cities and counties, including the implementation of land acquisition and resettlement. 
+II. 
+IMPLEMENTATION PLANS 
+A. 
+Project Readiness Activities  
+5 
+3456789101112123456789101112Advance contracting actionsexecuting and implementing agenciesRetroactive financing actionsexecuting and implementing agenciesSubmission and approval of FCUPgovernmentEstablishment of project implementation arrangementsexecuting and implementing agenciesADB Board approvalADBLoan signinggovernmentGovernment legal opinion providedADB, governmentGovernment budget inclusionexecuting agencyLoan effectivenessADB, executing agency, and governmentADB = Asian Development Bank, FCUP = foreign capital utilization plan.Responsible Agency(s) Indicative Activities20162015 
+6 
+B. 
+Overall Project Implementation Plan 
+Q11.1Wetland construction and rehabilitation1.1.1Judian Lake wetland rehabilitation (Q2 2015–Q2 2018)Shouguang1.1.2Mata Lake wetland rehabilitation (Q3 2018–Q3 2020)Huantai1.2Technological innovation for recharge and water saving1.2.1Management information system (Q4 2017–Q3 2019)Huantai2.1Surface water allocation improvement2.1.1River diversion works from Renhe Reservoir to Heihu Mountain and Qiyi reservoirs (Q1 2017–Q1 2019)Qingzhou2.1.2River works for connection of Qiyi Reservoir to Yaowanghu Reservoir (Q2 2015–Q2 2017)Qingzhou2.1.3River rehabilitation works for Beiyang River (Q2 2015–Q4 2017)Qingzhou2.1.4Irrigation channel works for diversion of Mihe River to Bagouzi Reservoir (Q1 2015–Q1 2018)Qingzhou2.1.5Other works (Q2 2016–Q3 2017)Qingzhou2.1.6River ecological control engineering works (Q2 2016–Q1 2018)Shouguang2.1.7Water diversion works (Q3 2016–Q2 2019)Huantai2.1.8River rehabilitation works (Q3 2015–Q4 2018)Huantai2.1.9River infrastructure (Q3 2015–Q4 2018)Huantai2.1.10South route: Water works to connect Wangwu Reservoir, Jucheng River Reservoir and Chengnan Reservoir (Q3 2016–Q1 2018)Gaomi2.1.11Other works (Q4 2015–Q1 2017)Gaomi2.2Storm water retention2.2.1Capacity expansion of Nanzhai Reservoir (Q2 2015–Q2 2017)Changle2.2.2West Route: Water transmission pipe from Xiashan Rservoir to Chengbei Reservoir (Q4 2015–Q2 2017)Gaomi2.3Water flow and quality monitoring2.3.1Hydrological Monitoring Station construction (Q3 2016–Q3 2018)Changle3.1Institutional strengthening3.1.1Recruit and mobilize consultants (Q1 2016–Q3 2016)a3.1.2Establish project management system (Q2 2016–Q4 2016)3.1.3Establish PPMS system (Q3 2016–Q2 2017)3.1.4Recruit and mobilize consultants (Q2 2016–Q4 2020)3.2Project management3.2.1Project design support (Q1 2016–Q4 2017)3.2.2Project management (Q1 2016–Q2 2020)3.2.3Project supervision (Q2 2016–Q4 2020)PPMS = project performance monitoring system.a  Proposed for retroactive financing.Year 2Year 3Year 4Year 5Year 6CityYear 1Q3Q2Q1Q4Q3Q2Q4Output 3: Capacity development for water resources management enhancedIndicative ActivitiesOutput 1: Groundwater recharged and conservedOutput 2: Surface water allocation improved and monitoredQ2Q1Q1Q4Q3Q4Q2Q3Q2Q1Q4Q3Q2Q1Q4Q3 
+III. 
+PROJECT MANAGEMENT ARRANGEMENTS 
+A.  Project Implementation Organizations—Roles and Responsibilities 
+7 
+Executing agency: 
+  Shandong Water Resources 
+Department (SWRD), including 
+comprehensive project 
+management office (PMO), 
+representing the Shandong 
+Provincial Government (SPG) 
+  Responsible for overall implementation of the 
+project 
+  Supervise the implementing agencies 
+  Facilitate disbursement through Shandong 
+Finance Department (SFD) 
+  Facilitate auditing of project accounts 
+  Responsible for ensuring timely counterpart 
+funds by the implementing agencies 
+  Provide oversight and daily management of the 
+project preparation and implementation 
+  Ensure coordination across sectors 
+  Responsible for overall guidance, coordination, 
+supervision, and management for 
+implementation of the project, including 
+recruitment of project consultants and all project 
+plans [including procurement plan, environmental 
+management plan (EMP), etc.] 
+  Review withdrawal applications prepared by the 
+implementing agencies and facilitate submission 
+to the Asian Development Bank (ADB) through 
+SFD 
+  Update procurement plan 
+  Provide ADB with (i) quarterly progress reports, 
+(ii) semiannual environment progress reports, (iii) 
+annual audit reports, and (iv) project completion 
+report 
+  Coordinate training and capacity development 
+activities 
+  Maintain separate accounting records for the 
+project 
+  Carry out project performance and compliance 
+monitoring 
+  Disclose project-related information and 
+documents in accordance with ADB guidelines 
+  Shandong Finance Department     Provide overall project guidance and 
+  Weifang and Zibo municipal 
+and/or prefecture finance 
+bureaus 
+coordination 
+  Establish and manage the project imprest 
+account 
+  Submit withdrawal applications to ADB 
+  Manage and supervise loan repayment 
+  Coordinate between implementing agencies and 
+SFD for financial transactions and payment 
+  Review withdrawal applications prepared by the 
+implementing agencies and facilitate submission 
+to ADB through the PMO 
+8 
+Implementing agencies: 
+  Huantai County (through the 
+county PIO) 
+  Responsible for implementing Mata wetland 
+areas and channel rehabilitation subproject 
+  Responsible for implementing Management 
+Information System Development subproject 
+  Responsible for site-level implementation of the 
+project EMP, in close coordination with PMO 
+environment officer 
+  Responsible for providing counterpart funds 
+  Prepare withdrawal applications for relevant 
+project expenses 
+  Participate in training and capacity development 
+activities 
+  Maintain separate accounting records for the 
+project 
+  Qingzhou City (through the city 
+  Responsible for implementation and 
+PIO) 
+management of Renhe Reservoir and River 
+Water Diversion subproject 
+  Responsible for site-level implementation of the 
+project EMP, in close coordination with PMO 
+environment officer 
+  Responsible for providing counterpart funds 
+  Prepare withdrawal applications for relevant 
+project expenses 
+  Participate in training and capacity development 
+activities 
+  Maintain separate accounting records for the 
+project 
+  Responsible for providing counterpart funds 
+  Shouguang City (through the city 
+  Responsible for implementation and 
+PIO) 
+management of Judian Lake Wetland System 
+Construction subproject 
+  Responsible for site-level implementation of the 
+project EMP, in close coordination with PMO 
+environment officer 
+  Responsible for providing counterpart funds 
+  Prepare withdrawal applications for relevant 
+project expenses 
+  Participate in training and capacity development 
+activities 
+  Maintain separate accounting records for the 
+project 
+  Changle County (through the 
+  Responsible for implementation and 
+county PIO) 
+management of Nanzai Reservoir Expansion 
+subproject 
+  Responsible for site-level implementation of the 
+project EMP, in close coordination with PMO 
+environment officer 
+  Responsible for providing counterpart funds 
+  Prepare withdrawal applications for relevant 
+project expenses 
+  Participate in training and capacity development 
+activities 
+  Gaomi City (through city PIO) 
+9 
+  Maintain separate accounting records for the 
+project 
+  Responsible for implementation and 
+management of Surface Water Diversion and 
+Allocation subproject 
+  Responsible for site-level implementation of the 
+project EMP, in close coordination with PMO 
+environment officer 
+  Responsible for providing counterpart funds 
+  Prepare withdrawal applications for relevant 
+project expenses 
+  Participate in training and capacity development 
+activities 
+  Maintain separate accounting records for the 
+project 
+Asian Development Bank 
+  Provide the executing and implementing 
+agencies with guidance to ensure smooth project 
+implementation and achieve the desired 
+development impacts and their sustainability 
+  Conduct regular loan review, midterm review, 
+and project completion review missions 
+  Review and approve procurement actions 
+  Approve withdrawal applications and disburse 
+loan proceeds 
+B. 
+Key Persons Involved in Implementation 
+Executing Agency  
+Shandong Water Resources 
+Department on behalf of the Shandong 
+Provincial Government  
+Implementing Agencies 
+  Huantai County 
+  Qingzhou City 
+  Shouguang City 
+Mr. Xu Zhangwen 
+Deputy Director General 
+Shandong Water Resources Department 
+Shandong Provincial Government 
+Telephone No.: +86 531 86974222 
+Office address: Jinan City, Iishan Road 127#,  
+Shandong Province 
+Mr. Tian Maolin 
+Director General 
+Huantai County Water Resources Bureau 
+Telephone No.: +86 533 8210528 
+Office address: Huantai County Huaiyin Road 334# 
+Shandong Province 
+Mr. Zhao Huazhang 
+Director General 
+Qingzhou City Water Resources Bureau 
+Telephone No.: +86 536 3221701 
+Office address: Qingzhou City, Zhengfa Street 138# 
+Shandong Province 
+Mr. Yuan Yilin 
+Director General 
+Shouguang City Water Resources Bureau 
+Telephone No.: +86 536 5221156 
+Office address: Shouguang City, Business 
+10 
+  Changle County 
+  Gaomi City 
+Asian Development Bank 
+Mission Leader 
+Community 5# Building, The Fourth Floor 
+Shandong Province 
+Mr. Zang Xiping 
+Director General 
+Changle County Water Resources Bureau 
+Telephone No.: +86 536 6221329 
+Office address: Changle County, Chengguan 
+Business Community 
+Shandong Province 
+Mr. Du Qinde 
+Director General 
+Gaomi City Water Resources Bureau 
+Telephone No.: +86 536 2322394 
+Office address: Gaomi City, Renmin Street 127# 
+Shandong Province 
+Mr. Qingfeng Zhang 
+Director 
+Environment, Natural Resources, and Agriculture 
+Division (EAER), East Asia Department (EARD) 
+Telephone No.: +63 2 632 6161 
+Fax No.: +63 2 636 2534 
+E-mail: qingfengzhang@adb.org 
+Mr. Frank Radstake 
+Principal Environment Specialist, EAER, EARD 
+Telephone No.: +63 2 632 5636 
+Fax No.: +63 2 636 2534 
+E-mail: fradstake@adb.org  
+C. 
+Project Organization Structure 
+11 
+Shandong Water Resources 
+Department 
+(executing agency) 
+Shandong  
+project management office 
+Zibo Prefecture 
+Weifang Prefecture 
+Huantai 
+County 
+Qingzhou 
+City 
+Shouguang 
+City 
+Changle 
+County 
+Gaomi City 
+IV. 
+COSTS AND FINANCING 
+13. 
+The  government  has  requested  a  loan  of  $150  million  from  ADB’s  ordinary  capital 
+resources to finance the project. The loan will have a 25-year term, including a grace period of 5 
+years,  will  follow  the  straight-line  method,10 will  have  an  annual  interest  rate  determined  in 
+accordance  with  ADB’s  London  interbank  offered  rate  (LIBOR)-based  lending  facility,  a 
+commitment  charge  of  0.15%  per  year  on  undisbursed  funds  (the  interest  and  other  charges 
+during construction will be capitalized), and such other terms and conditions set forth in the draft 
+loan  and  project  agreements.  The  average  maturity  is  15.25  years,  and the  maturity  premium 
+payable to ADB is 0.10% per annum. 
+A. 
+Cost Estimates Preparation and Revisions  
+14. 
+Preparation.  The  project  management  office  (PMO)  prepared  the  cost  estimates  in 
+consultation  with  the  implementing  agencies  and  project  preparatory  technical  assistance 
+(PPTA) consultants, and under the guidance of ADB project officer. The file entitled “Shandong 
+Project-Financial and Economic Model V14” in MS Excel format was retained at the  PMO and 
+by ADB project officer.  
+Revisions. The PMO staff will revise the cost estimates when deemed necessary, under 
+15. 
+the guidance of ADB project officer during implementation based on  the government’s request 
+for project cost reallocation and subsequent ADB’s approval.  
+10  This is based on the loan terms and the government’s choice of repayment option and dates. 
+12 
+B. 
+Key Assumptions 
+16. 
+The following key assumptions underpin the cost estimates and financing plan: 
+(i) 
+(ii) 
+Exchange rate: CNY6.4741 = $1.00 (as of 3 May 2016).  
+Price  contingencies  based  on  expected  cumulative 
+implementation period are as follows: 
+inflation  over 
+the 
+Foreign rate of price 
+inflation 
+Domestic rate of price 
+inflation 
+2016  2017  2018  2019 
+1.5%  1.4%  1.5%  1.5% 
+2020 
+1.5% 
+2021 
+1.5% 
+2022  Average 
+1.5% 
+1.5% 
+1.7%  2.0%  2.1%  2.1% 
+2.1% 
+2.1% 
+2.1% 
+2.0% 
+C. 
+Detailed Cost Estimates by Expenditure Category  
+13 
+Item Local CurrencyForeign ExchangeTotal CostaLocal CurrencyForeign ExchangeTotal CostaA. Base Costsb1Civil Works1,215.40       0.001,215.40      198.920.00198.922Machinery and Equipment34.158.5442.685.591.406.993Land Acquisition, Compensation and Resettlement 294.060.00294.0648.130.0048.134Project Management105.220.00105.2217.220.0017.225Survey and Design97.130.0097.1315.900.0015.906Consulting Services0.0010.8810.880.001.781.787Training0.002.442.440.000.400.40Subtotal(A)1,745.96       21.861,767.82      285.753.58289.33B. Contingenciesc1Physical contingency0.00117.90117.900.0019.3019.302Price contingency0.00167.48167.480.0027.4127.41Subtotal(B)0.00285.38285.380.0046.7146.71C.Interest and Commitment Chargesd1Interest during implementation43.920.0043.927.190.007.192Commitment charge4.880.004.880.800.000.80Subtotal(C)48.800.0048.807.990.007.99Total Project Cost (A+B+C)1,794.76       307.242,102.01      293.7450.29344.03ADB = Asian Development Bank.abIn 2015 prices.cdSource: Asian Development Bank estimates.Includes interest and commitment charges. Interest during construction for OCR loan has been computed at the 5-year US dollar (USD) fixed swap rate plus an effective contractual spread of 0.5% and maturity premium of 0.1%. Commitment charges for an OCR loan are 0.15% per year to be charged on the undisbursed loan amount. Note: Numbers may not sum precisely because of rounding.($million)(CNY million)Includes taxes and duties of $11.68 million to be financed from government resources and ADB loan resources. ADB loan will cover taxes and duties on items financed by ADB. Financing of taxes and duties is proposed because the due diligence showed that (i) the amount of taxes and duties is within the reasonable threshold identified in the country partnership strategy, (ii) the amount does not represent an excessive share of investment plan, (iii) taxes and duties apply only in respect to ADB-financed expenditures, and (iv) financing of the taxes and duties is relevant for the success of the project.Physical contingencies computed at 8% for all expenditure categories. Price contingencies computed based on cost escalation factors at 1.7% for 2016, 2.0% for 2017, and 2.1% for 2018–2022 on local currency costs; and 1.5% for 2016, 1.4% for 2017, and 1.5% for 2018–2022 on foreign exchange costs. 
+14 
+D. 
+Allocation and Withdrawal of Loan Proceeds 
+CategorySubcategoryCivil Works137,279,561    Qingzhou24,515,110      65%of total expenditure claimedShouguang45,889,121      71%of total expenditure claimedChangle18,105,110      74%of total expenditure claimedHuantai22,172,110      64%of total expenditure claimedGaomi25,998,110     62%of total expenditure claimedGreenhouse600,000           100%of total expenditure claimed2Machinery and Equipment        2,653,089 100%of total expenditure claimed3Consulting Services1,680,300        100%of total expenditure claimed4Training400,000           100%of total expenditure claimed5Interest and Commitment Charges7,987,050        100%of amounts dueTotal150,000,000    1CATEGORYADB FINANCING BASISNumberItemTotal Amount Allocated for ADB Financing$Percentage and Basis for Withdrawal from the Loan Account 
+E. 
+Detailed Cost Estimates by Financier 
+1
+5
+Amount%Amount%Amount%Amount%Amount%Amount%Amounta% of Total CostABase Costsb－1Civil Works198.921.1Qingzhou24.5e64.613.335.437.610.91.2ShouGuang45.9f71.018.329.0563.118.31.3Changle18.1g73.76.226.323.76.91.4Huantia22.2h63.612.336.433.79.81.5MIS (Non-ADB financing)0.00.00.3100.00.30.11.6Gaomi26.0i61.515.438.539.911.61.7Greenhouse0.6100.00.60.22Machinery and EquipmentADB financing2.7100.06.82.0Non-ADB financing0.1100.00.10.03Land Acquisition, Compensation and Resettlement 1.63.37.715.9228.559.16.914.33.57.348.114.04Project Management2.916.65.129.532.011.83.620.83.721.417.25.05Survey and Design4.025.35.131.771.811.22.314.32.817.515.94.66Consulting ServicesADB Financed1.7100.01.70.5 Government0.11.00.10.07Training0.4100.00.40.1Subtotal (A)142.049.18.57.517.812.4832.313.412.78.710.08.8280.681.6BContingenciescPhysical contingency3.618.76.131.392.311.93.518.03.920.019.35.6Price contingency4.516.38.029.035.319.34.717.34.918.027.48.0Total Contingencies (B)8.117.314.030.017.616.38.217.68.818.846.713.6CInterest and Commitment ChargesdInterest during implementation7.2100.00.00.00.00.000.00.00.00.00.00.07.22.1Commitment charge0.8100.00.00.00.00.000.00.00.00.00.00.00.80.2Financial Charges (C)8.0100.00.00.00.00.000.00.00.00.00.00.08.02.3TOTAL PROJECT COSTS (A+B+C)150.043.629.98.750.114.5746.3644.633.59.734.19.9344.0100.0ADB = Asian Development Bank.abcdefghiSource: Asian Development Bank estimates.In 2015 prices.Changle County Includes taxes and duties of $11.68 million to be financed from government resources and ADB loan resources. ADB loan will cover taxes and duties on items financed by ADB. Financing of taxes and duties is proposed because the due diligence showed that (i) the amount of taxes and duties is within the reasonable threshold identified in the country partnership strategy, (ii) the amount does not represent an excessive share of investment plan, (iii) taxes and duties apply only in respect to ADB-financed expenditures, and (iv) financing of the taxes and duties is relevant for the success of the project.Note: Numbers may not sum precisely because of rounding.ItemADBQingzhou City GovernmentHuantai County GovernmentGaomi City GovernmentTOTALShouGuang City The amount includes $728,082 for associated equipment.The amount includes $1,470,744 for associated equipment.Physical contingencies computed at 8% for all expenditure categories. Price contingencies computed based on cost escalation factors at 1.7% for 2016, 2.0% for 2017, and 2.1% for 2018–2022 on local currency costs; and 1.5% for 2016, 1.4% for 2017, and 1.5% for 2018–2022 on foreign exchange costs.Includes interest and commitment charges. Interest during construction for OCR loan has been computed at the 5-year US dollar (USD) fixed swap rate plus an effective contractual spread of 0.5% and maturity premium of 0.1%. Commitment charges for an OCR loan are 0.15% per year to be charged on the undisbursed loan amount. The amount includes $218,069 for associated equipment.The amount includes $1,127,741 for associated equipment.The amount includes $646,740 for associated equipment. 
+F. 
+Detailed Cost Estimates by Outputs 
+1
+6
+1
+6
+Amount% of Cost CategoryAmount% of Cost CategoryAmount% of Cost CategoryA.Base Costb1Civil Works198.959.129.7139.270.00.60.32Machinery and Equipment7.01.724.15.173.50.22.43Land Acquisition, Compensation and Resettlement 48.16.814.141.385.90.00.04Project Management17.24.324.813.075.20.00.05Survey and Design15.93.924.412.075.60.00.06Consulting Services1.80.633.70.10.01.160.77Training0.40.00.00.00.00.4100.0Total Base Cost (A)289.376.426.4210.772.82.30.8B.ContingenciescC.Interest and Commitment ChargesdTotal Project Cost (A+B+C)344.089.826.1252.073.22.30.7% of Total Project Cost100.026.173.20.7ADB = Asian Development Bank.abIn 2015 prices.cdSource: Asian Development Bank estimates.Physical contingencies computed at 8% for all expenditure categories. Price contingencies computed based on cost escalation factors at 1.7% for 2016, 2.0% for 2017, and 2.1% for 2018–2022 on local currency costs; and 1.5% for 2016, 1.4% for 2017, and 1.5% for 2018–2022 on foreign exchange costs.Includes interest and commitment charges. Interest during construction for OCR loan has been computed at the 5-year US dollar (USD) fixed swap rate plus an effective contractual spread of 0.5% and maturity premium of 0.1%. Commitment charges for an OCR loan are 0.15% per year to be charged on the undisbursed loan amount. Total CostaGroundwater recharged and conservedSurface water allocation improved and monitoredCapacity development for water resources management enhancedIncludes taxes and duties of $11.68 million to be financed from government resources and ADB loan resources. ADB loan will cover taxes and duties on items financed by ADB. Financing of taxes and duties is proposed because the due diligence showed that (i) the amount of taxes and duties is within the reasonable threshold identified in the country partnership strategy, (ii) the amount does not represent an excessive share of investment plan, (iii) taxes and duties apply only in respect to ADB-financed expenditures, and (iv) financing of the taxes and duties is relevant for the success of the project.Note: Numbers may not sum precisely because of rounding.No.ItemUSD Million 
+G. 
+Detailed Cost Estimates by Year 
+17 
+Year 1Year 2Year 3Year 4Year 5Year 6TotalaABase Costsb1Civil Works9.919.929.859.749.729.8198.92Machinery and Equipment0.30.71.02.11.71.07.03Land Acquisition, Compensation and Resettlement 2.44.87.214.412.07.248.14Project Management0.91.72.65.24.32.617.25Survey and Design0.81.62.44.84.02.415.96Consulting Services0.10.20.30.50.40.31.87Training0.00.00.10.10.10.10.4Subtotal (A)14.528.943.486.872.343.4289.3BContingenciescPhysical Contingency1.01.92.95.84.82.919.3Price Contingency0.21.12.88.08.86.527.4Total Contingencies (B)1.13.05.713.813.69.446.7CInterest and Commitment Chargesd0.00.00.00.00.00.00.0Interest During Implementation0.10.30.71.32.12.77.2Commitment Charge0.20.20.20.10.10.00.8Total Financial Charges (C)0.30.50.81.42.22.78.0TOTAL PROJECT COSTS (A+B+C)15.932.449.9102.188.155.6344.04.69.414.529.725.616.2ADB = Asian Development Bank.abcdSource: Asian Development Bank estimates.Includes taxes and duties of $11.68 million to be financed from government resources and ADB loan resources. ADB loan will cover taxes and duties on items financed by ADB. Financing of taxes and duties is proposed because the due diligence showed that (i) the amount of taxes and duties is within the reasonable threshold identified in the country partnership strategy, (ii) the amount does not represent an excessive share of investment plan, (iii) taxes and duties apply only in respect to ADB-financed expenditures, and (iv) financing of the taxes and duties is relevant for the success of the project.In 2015 prices.Physical contingencies computed at 8% for all expenditure categories. Price contingencies computed based on cost escalation factors at 1.7% for 2016, 2.0% for 2017, and 2.1% for 2018–2022 on local currency costs; and 1.5% for 2016, 1.4% for 2017, and 1.5% for 2018–2022 on foreign exchange costs.Includes interest and commitment charges. Interest during construction for OCR loan has been computed at the 5-year US dollar (USD) fixed swap rate plus an effective contractual spread of 0.5% and maturity premium of 0.1%. Commitment charges for an OCR loan are 0.15% per year to be charged on the undisbursed loan amount. Note: Numbers may not sum precisely because of rounding.% of Total Project Cost 
+H. 
+Contract Awards and Disbursement S-curve  
+1
+8
+1
+8
+I. 
+Fund Flow Diagram 
+Ministry of Finance 
+(on behalf of the Government of the 
+People’s Republic of China 
+Loan agreement 
+Asian Development Bank 
+19 
+On-loan agreement 
+Project agreement 
+Shandong Financial Department (Imprest Account) 
+(on behalf of the Shandong Provincial Government) 
+Finance Bureau of Zibo 
+Prefecture 
+Finance Bureau of 
+Weifang Prefecture 
+Huantai 
+County 
+(pass-through 
+account) 
+Qingzhou 
+City 
+(pass-through 
+account) 
+Shouguang 
+City 
+(pass-through 
+account) 
+Changle 
+County 
+(pass-
+through 
+account) 
+Gaomi 
+City 
+(pass-
+through 
+account) 
+Contractors, consultants, and other service providers 
+Loan and on-lending agreements and loan repayment 
+ADB Funds flow 
+Payments to service providers with ADB funds 
+Payments to service providers with ADB and counterpart funds 
+1
+9
+20 
+V. 
+FINANCIAL MANAGEMENT 
+A. 
+Financial Management Assessment 
+The  financial  management  assessment  (FMA)  was  conducted  in  January  2015  in 
+17. 
+accordance with ADB’s Guidelines for the Financial Management and Analysis of Projects and 
+the Financial Due Diligence: a Methodology Note to assess the financial management capacity 
+of  the  executing  and  implementing  agencies.  The  FMA  includes  fund  flow  arrangements, 
+staffing,  accounting  policies  and  procedures,  internal  and  external  auditing  arrangements, 
+reporting  and  monitoring,  and  financial  information  system.  The  FMA  concluded  that  the  pre-
+mitigation  financial  management  risk  of  the  executing  and  implementing  agencies  is  “low”. 
+Based  on  the  assessment,  the  key  financial  management  risks  identified  are  limited  to  the 
+implementing  agencies and  include  a  lack  of  experience  of  ADB  project  management,  lack  of 
+accounting  staff  for  review  procedure,  and  insufficient  internal  auditing.  Agreed  mitigation 
+measures  include  to  (i)  conduct  training  on  ADB's  disbursement  procedures  and  project 
+accounting requirements; and (ii) engage consultant services support to the PMO, implementing 
+agencies,  and  other  project  agencies  on  project  management  and  supervision.  The  identified 
+risks  in  financial  management  will  be  closely  monitored  during  project  implementation.  The 
+overall  financial  management  risk  of  the  executing  and  implementing  agencies  with  the 
+mitigation measures is considered is “low”.  
+B. 
+Disbursement 
+1. 
+Disbursement Arrangements for ADB 
+The  loan  proceeds  will  be  disbursed  in  accordance  with  ADB’s  Loan  Disbursement 
+18. 
+Handbook  (2015,  as  amended  from  time  to  time),11 and  detailed  arrangements  agreed  upon 
+between the government and ADB. Online training for project staff on disbursement policies and 
+procedures  is  available  at  http://wpqr4.adb.org/disbursement_elearning.  Project  staffs  are 
+encouraged to avail of this training to help ensure efficient disbursement and fiduciary control.  
+19. 
+To  facilitate  project  implementation  through  timely  release  of  loan  proceeds,  the  SPG, 
+through  Shandong Finance Department (SFD) will  establish an  imprest  account  promptly  after 
+loan effectiveness at a commercial bank acceptable to ADB.12 The SFD, who will establish the 
+imprest account in its name, is accountable and responsible for proper use of advances made to 
+the  imprest  account.  The  government  may  request  for  initial  and  additional  advances  to  the 
+imprest account based on 6 months estimated expenditures to be financed through the imprest 
+account. The imprest account will be established, managed, and liquidated in accordance with 
+ADB’s  Loan  Disbursement  Handbook  (2015,  as  amended  from  time  to  time)  and  detailed 
+arrangements  agreed  by  the  government  and  ADB.  The  handbook  describes  which  (i) 
+supporting  documents  should  be  submitted  to  ADB,  and  (ii)  should  be  retained  by  the 
+government for liquidation and replenishment of an imprest account.  
+20. 
+The PMO will submit project level disbursement projections to ADB based on projections 
+prepared  by  the  implementing  agencies.  The  implementing  agencies  will  be  responsible  for 
+arranging counterpart financing or requesting budgetary allocations for counterpart funding, as 
+appropriate.  The  implementing  agencies  will  prepare  disbursement  claims  and  collect 
+11  Loan Disbursement Handbook: http://www.adb.org/Documents/loan-disbursement-handbook. 
+12  The bank charges incurred in the operation of the imprest account may be financed from the loan proceeds. 
+21 
+supporting  documents,  which  will  then  be  passed  to  the  PMO  for  review  and  endorsement 
+before  onward  transmission  to  their  prefecture  finance  bureaus.  Cities  and  counties  are 
+responsible  for  initiating  payments  by  the  SFD  and  the  SFD  is  responsible  for  sending  loan 
+withdrawal applications to ADB.  
+21. 
+The  minimum  value  per  withdrawal  application  is  $100,000  equivalent.  Individual 
+payments  below  this  amount  should  be  paid  from  the  imprest  account  or  by  the  executing 
+agency  and  subsequently  claimed  to  ADB  through  reimbursement,  unless  otherwise  accepted 
+by ADB.  
+22. 
+The  statement  of  expenditure  (SOE)  procedure  may  be  used  for  reimbursement  of 
+eligible  expenditures  or  liquidation  of  advances  to  the  imprest  account(s). 13  Supporting 
+documents and records for the expenditures claimed under the SOE should be maintained and 
+made  readily  available  for  review  by  ADB's  disbursement  and  review  missions,  upon  ADB's 
+request  for  submission  of  supporting  documents  on  a  sampling  basis,  and  for  independent 
+audit. Before the submission of the first withdrawal application, the  SPG, through SFD, should 
+submit to ADB sufficient evidence of the authority of the person(s) who will sign the withdrawal 
+applications, on behalf of the borrower, together with the authenticated specimen signatures of 
+each authorized person.  
+2. 
+Disbursement Arrangements for Counterpart Fund 
+23. 
+The  SPG  will  ensure  that  (i)  all  local  and foreign  currency  counterpart  funds,  including 
+cash advances, necessary for the smooth and successful completion of the project are provided 
+in a timely manner; and (ii) additional funds, as and when needed, will be provided to meet any 
+project shortfall or cost overruns. The SPG will also ensure that operation and maintenance of 
+all project facilities is fully funded from the government budget.  
+C. 
+Accounting 
+24. 
+The  Shandong  Water  Resources  Department  (SWRD),  on  behalf  of  the  executing 
+agency, will maintain, or cause to be maintained, separate books and records by funding source 
+for  all  expenditures  incurred  on  the  project.  The  SWRD  will  prepare  consolidated  project 
+financial statements annually following international accounting principles and practices or those 
+prescribed by the government's accounting laws and regulations.  
+D. 
+Auditing and Public Disclosure 
+25. 
+The  SWRD,  on  behalf  of  the  executing  agency,  will  cause  the  detailed  consolidated 
+project  financial  statements  to  be  audited  in  accordance  with  International  Standards  on 
+Auditing and the Government Auditing Standards of the PRC (where these are consistent with 
+International  Standards  on  Auditing),  by  an  auditor  acceptable  to  ADB.  The  audited  project 
+financial statements will be submitted in English language to ADB within 6 months of the end of 
+the fiscal year by the executing agency.  
+26. 
+The  annual  audit  report  for  the  project  financial  statements  will  include  a  management 
+letter  and  auditor’s  opinions  which  cover  (i)  whether the  project financial statements  present  a 
+13  The  relevant  forms  are  available  in  Appendix  9B  and  9C  of  ADB’s  Loan  Disbursement  Handbook  (2015,  as 
+amended from time to time). 
+22 
+true  and  fair  view  or  are  presented  fairly,  in  all  material  respects,  in  accordance  with  the 
+applicable financial reporting standards; (ii) whether the proceeds of the loan were used only for 
+the purpose(s) of the project; (iii) whether the borrower or executing agency was in compliance 
+with  the  financial  covenants  contained  in  the  legal  agreements  (where  applicable);  (iv)  use  of 
+the imprest fund procedure; and (v) use of the SOE procedure certifying  the eligibility of those 
+expenditures  claimed  under  SOE  procedure,  and  proper  use  of  the  SOE  and  imprest 
+procedures in accordance with ADB’s  Loan Disbursement Handbook (2015, as amended from 
+time to time), and project documents.  
+27. 
+Compliance  with  financial  reporting  and  auditing  requirements  will  be  monitored  by 
+review  missions  and  during  normal  program  supervision,  and  followed  up  regularly  with  all 
+concerned, including the external auditor.  
+28. 
+The government, SWRD, and the five implementing agencies have been made aware of 
+ADB’s  approach  to  delayed  submission,  and  the  requirements  for  satisfactory  and  acceptable 
+quality of the audited project financial statements.14 ADB reserves the right to require a change 
+in  the  auditor  (in  a  manner  consistent  with  the  constitution  of  the  borrower),  or  for  additional 
+support  to  be  provided  to  the  auditor,  if  the  audits  required  are  not  conducted  in  a  manner 
+satisfactory  to ADB,  or  if  the  audits  are  substantially  delayed.  ADB  reserves the  right to verify 
+the  project's  financial  accounts  to  confirm  that  the  share  of  ADB’s  financing  is  used  in 
+accordance with ADB’s policies and procedures.  
+29. 
+Public  disclosure  of  the  audited  project  financial  statements,  including  the  auditor’s 
+opinion  on  the  project  financial  statements,  will  be  guided  by  ADB’s  Public  Communications 
+Policy (2011).15 After review, ADB will disclose the audited project financial statements and the 
+opinion  of  the  auditors  on  the  project  financial  statements  no  later  than  30  days  of  ADB’s 
+confirmation  of  their  acceptability  by  posting  them  on  ADB’s  website.  The  management  letter, 
+additional auditor’s opinions, and audited entity financial statements will not be disclosed.16  
+VI. 
+PROCUREMENT AND CONSULTING SERVICES 
+A. 
+Advance Contracting and Retroactive Financing 
+30. 
+To expedite project implementation, the government requested ADB to approve advance 
+contracting  and  retroactive  financing  of  consultant  services  and  works  packages.  Use  of 
+retroactive financing of eligible expenditures will be restricted to 20% of the loan amount. When 
+14  ADB’s approach and procedures regarding delayed submission of audited project financial statements:  
+  When  audited  project  financial  statements  are  not  received  by  the  due  date,  ADB  will  write  to  the  executing 
+agency  advising  that  (i)  the  audit  documents  are  overdue;  and  (ii)  if  they  are  not  received  within  the  next  6 
+months, requests for new contract awards and disbursements, such as new replenishment of imprest accounts, 
+processing of new reimbursement, and issuance of new commitment letters will not be processed. 
+  When audited project financial statements are not received within 6 months after the due date, ADB will withhold 
+processing  of  requests  for  new  contract  awards  and  disbursements,  such  as  new  replenishment  of  imprest 
+accounts,  processing  of  new  reimbursement,  and  issuance  of  new  commitment  letters.  ADB  will  (i)  inform  the 
+executing agency of ADB’s actions, and (ii) advise that the loan may be suspended if the audit documents are 
+not received within the next 6 months. 
+  When  audited  project  financial  statements  are  not  received  within  12  months  after  the  due  date,  ADB  may 
+suspend the loan. 
+15  Public Communications Policy: http://www.adb.org/documents/pcp-2011 
+16  This  type  of  information  would  generally  fall  under  public  communications  policy  exceptions  to  disclosure.  ADB. 
+2011. Public Communications Policy. Paras. 97(iv) and/or 97(v). 
+23 
+undertaking  implementation  activities  under  ADB  retroactive  financing  facility,  it  is  the 
+responsibility  of  the  SPG  to  ensure  that  all  relevant  aspects  of  ADB’s  Safeguard  Policy 
+Statement (2009) and project specific safeguard plans are fully adhered to.  
+Advance  contracting  will  include  (i)  tendering  and  bid  evaluation  for  civil  works 
+31. 
+packages, (ii) preparation of tendering documents for procurement of materials and equipment, 
+and (iii) recruitment of consultants. The issuance of invitations to bid under advance contracting 
+will be subject to ADB’s approval. According to the preliminary procurement plan, 10 civil works 
+contracts, 1 equipment contract, and 3 individual consultant contracts will be procured through 
+advance  contracting.  In  preparing  the  bidding  documents  under  the  advance  contracting 
+arrangement,  the  SPG,  through  the  PMO,  must  ensure  that  the  provisions  of  all  loan 
+assurances agreed at loan fact-finding (or as modified at loan negotiations) are incorporated in 
+their  latest  form.  These  assurances  include  monitoring  and  reporting  requirements  placed  on 
+contractors, compliance with labor laws and regulations, specific measures in the environmental 
+management plan (EMP), and social and gender action plan (SGAP).  
+B. 
+Procurement of Goods, Works and Consulting Services 
+32. 
+All  procurement  of  goods  and  works  will  be  undertaken  in  accordance  with  ADB’s 
+Procurement Guidelines (2015, as amended from time to time).17 Except as ADB may otherwise 
+agree, the following process thresholds shall apply to procurement of goods and works.  
+33. 
+Civil  works  contracts  estimated to  cost  $25 million  and above,  and contracts for goods 
+estimated to cost $3 million and above will be procured using international competitive bidding 
+(ICB) procedures. Contracts for works and goods estimated to cost less than the ICB values but 
+equal to $100,001 and above will be procured through national competitive bidding (NCB). NCB 
+will  be  conducted  in  accordance  with  the  PRC  Tendering  and  Bidding  Law  (2000),  subject  to 
+modifications agreed with ADB. Contracts for goods and works estimated to cost less than the 
+above NCB values will be procured using shopping procedures. The relevant sections of ADB's 
+Anticorruption Policy (1998, as amended from time to time) will be included in all procurement 
+documents and contracts.  
+the 
+For  NCB, 
+first  draft  English 
+the  procurement  documents 
+34. 
+(prequalification, bidding documents, and draft contract) should be submitted for ADB’s approval 
+regardless  of  the  estimated  contract  amount.  Subsequent  procurements  are  subject  to  post 
+review.  All  ICB  contracts  are  subject  to  prior  review  and  ADB’s  approval  of  the  procurement 
+documents (bidding and contract) is required.  
+language  of 
+35. 
+A procurement plan over the life of the project including the first 18-month procurement 
+contract packages starting from July 2015 has been prepared and agreed with the PMO and the 
+implementing  agencies,  which  indicates  procurement  method,  estimated  costs  of  contracts, 
+threshold and review procedures, goods, works, and consulting service contract packages, and 
+NCB guidelines. The details are in section C.  
+Consulting  services  will  be  required  for  (i)  project  management  support,  (ii)  capacity 
+36. 
+development  for  water  policy  and  conservation  demonstration  activities,  and  (iii)  software 
+development for the  MIS  in  Huantai  County. The  outline  terms  of reference  (TOR) for  each of 
+the three consulting services packages are described in section D.  
+17  http://www.adb.org/documents/procurement-guidelines  
+24 
+The PMO will be responsible for engaging consultants. All consultants financed by ADB 
+37. 
+will be recruited according to ADB’s Guidelines on the Use of Consultants (2013, as amended 
+from time to time).18  
+C. 
+Procurement Plan 
+The  procurement  plan  for  the  project  as  agreed  with  the  executing  and  implementing 
+38. 
+agencies is provided below:  
+Basic Data 
+  Project Name:   Shandong Groundwater Protection Project 
+  Project Number:   47047-002 
+  Country:   China, People's Republic of 
+Approval Number:    
+Executing Agency: 
+  Project Procurement Classification:  
+  Project Procurement Risk:  
+  Project Financing Amount:   US$ 342,610,000 
+ADB Financing:   US$ 150,000,000 
+Cofinancing (ADB Administered):   
+Non-ADB Financing:   US$ 192,610,000 
+  Date of First Procurement Plan: 19 April 2016 
+Implementing Agency: N/A 
+Shandong Provincial 
+Government 
+Project Closing Date: 30 June 2022 
+Date of this Procurement Plan: 19 April 2016 
+A.  Methods, Thresholds, Review and 18-Month Procurement Plan 
+1. 
+Procurement and Consulting Methods and Thresholds 
+Except  as  the  Asian  Development  Bank  (ADB)  may  otherwise  agree,  the  following 
+39. 
+process thresholds shall apply to procurement of goods and works.  
+Method 
+  International Competitive Bidding 
+for Goods 
+  National Competitive Bidding for 
+Goods 
+  Shopping for Goods 
+  International Competitive Bidding 
+for Works 
+  National Competitive Bidding for 
+Works 
+  Shopping for Works 
+Procurement of Goods and Works 
+Threshold 
+US$ 3,000,000 and Above 
+Comments 
+Between US$ 100,001 and US$ 
+2,999,999 
+Up to US$ 100,000 
+US$ 25,000,000 and Above 
+Between US$ 100,001 and US$ 
+24,999,999 
+Up to US$ 100,000 
+Consulting Services 
+The first NCB is subject to prior review, 
+thereafter post review.   
+The first NCB is subject to prior review, 
+thereafter post review.   
+  Quality- and Cost-Based Selection for Consulting Firm 
+Method 
+  Single Source Selection for Consulting Firm 
+Comments 
+A consulting firm to provide a team of experts for 
+software  development  for  MIS  in  Huantai  County 
+($600,300). 
+A  local  research  institute  to  provide  a  team  of 
+national  experts  for  the  capacity  development  on 
+water  policy  and  conservation  demonstration 
+activities ($589,500). 
+18  http://www.adb.org/documents/guidelines-use-consultants-asian -development-bank-and-its-borrowers  
+25 
+  Individual Consultants Selection for Individual Consultant  Three  national  individual  consultants  for  project 
+management  support 
+two 
+international  individual  consultants  for  the  water 
+policy  and  conservation  demonstration  activities 
+($144,000). 
+($346,500),  and 
+2. 
+Goods and Works Contracts Estimated to Cost $1 Million or More 
+The following table lists goods and works contracts for which the procurement activity is 
+40. 
+either ongoing or expected to commence within the next 18 months.  
+Package 
+Number 
+General 
+Description 
+Estimated 
+Value 
+Procurement 
+Method 
+5,889,700 
+NCB 
+CW-CL-
+01 
+Dam construction of 
+Nanzhai Reservoir 
+(Main dam, auxiliary 
+dam, spillway, water 
+discharge tunnel) 
+(Changle) 
+Review 
+(Prior/ 
+Post) 
+Prior 
+Bidding 
+Procedure 
+1S1E 
+CW-CL-
+02 
+Water intake 
+pumping station and 
+production bridges 
+(Changle) 
+2,554,200 
+NCB 
+Post 
+1S1E 
+CW-CL-
+03 
+Dam seepage 
+proofing 
+(Changle) 
+1,183,600 
+NCB 
+Post 
+1S1E 
+Advertise
+ment 
+Date 
+(quarter/y
+ear) 
+Comments 
+Q3 / 2015  Prequalificati
+on of 
+Bidders: N 
+Domestic 
+Preference 
+Applicable: N 
+Bidding 
+Document: 
+Small Works 
+Comments: 
+First NCB. 
+Advance 
+contracting  
+Q4 / 2015  Prequalificati
+on of 
+Bidders: N 
+Domestic 
+Preference 
+Applicable: N 
+Bidding 
+Document: 
+Small Works 
+Comments: 
+Advance 
+contracting  
+Q2 / 2016  Prequalificati
+on of 
+Bidders: N 
+Domestic 
+Preference 
+Applicable: N 
+Bidding 
+Document: 
+Small Works 
+26 
+Package 
+Number 
+General 
+Description 
+Estimated 
+Value 
+Procurement 
+Method 
+1,894,300 
+NCB 
+CW-CL-
+04 
+Administration area 
+construction 
+(Administration 
+building, fences, and 
+etc.) 
+(Changle) 
+Review 
+(Prior/ 
+Post) 
+Post 
+Bidding 
+Procedure 
+1S1E 
+CW-CL-
+05 
+Dam slope and crest 
+construction (roads, 
+wave wall, slope 
+protection) 
+(Changle) 
+CW-CL-
+06 
+Earthworks 
+excavation and 
+sediments removal 
+in reservoir area 
+(Changle) 
+CW-GM-
+01 
+Water transmission 
+pipe from Xiashan 
+Reservoir to 
+Chengbei Reservoir 
+(Gaomi) 
+3,593,300 
+NCB 
+Post 
+1S1E 
+9,230,200 
+NCB 
+Post 
+1S1E 
+21,478,100 
+NCB 
+Post 
+1S1E 
+11,407,300 
+10,070,800 
+Lot 1: Water 
+transmission pipe 
+from Xiashan 
+Reservoir to 
+Chengbei Reservoir 
+Lot 2: Water 
+transmission pipe 
+from Xiashan 
+Reservoir to 
+Chengbei Reservoir 
+Advertise
+ment 
+Date 
+(quarter/y
+ear) 
+Comments 
+Q2 / 2016  Prequalificati
+on of 
+Bidders: N 
+Domestic 
+Preference 
+Applicable: N 
+Bidding 
+Document: 
+Small Works 
+Q2 / 2016  Prequalificati
+on of 
+Bidders: N 
+Domestic 
+Preference 
+Applicable: N 
+Bidding 
+Document: 
+Small Works 
+Q2 / 2016  Prequalificati
+on of 
+Bidders: N 
+Domestic 
+Preference 
+Applicable: N 
+Bidding 
+Document: 
+Small Works 
+Q1 / 2016  Prequalificati
+on of 
+Bidders: N 
+Domestic 
+Preference 
+Applicable: N 
+Bidding 
+Document: 
+Large Works 
+Comments: 
+Advance 
+contracting  
+General 
+Description 
+Estimated 
+Value 
+Procurement 
+Method 
+13,887,100 
+NCB 
+Review 
+(Prior/ 
+Post) 
+Post 
+Bidding 
+Procedure 
+1S1E 
+Advertise
+ment 
+Date 
+(quarter/y
+ear) 
+Package 
+Number 
+CW-GM-
+02 
+CW-GM-
+03 
+Jucheng River 
+Reservoir Capacity 
+Expansion 
+(Reservoir 
+sediments dredging, 
+dam slope 
+protection, spillway, 
+protection wall, dam 
+crest transport, etc.) 
+(Gaomi) 
+Water works to 
+connect Wangwu 
+Reservoir and 
+Jucheng River 
+Reservoir (two main 
+sections) 
+(Gaomi) 
+6,017,900 
+NCB 
+Post 
+1S1E 
+CW-HT-
+01 
+Xiaofu River 
+rehabilitation (phase 
+1) (Huantai) 
+2,112,200 
+NCB 
+Post 
+1S1E 
+CW-HT-
+02 
+Wu River 
+rehabilitation (phase 
+1) (Huantai) 
+3,947,500 
+NCB 
+Post 
+1S1E 
+CW-HT-
+03 
+Wu River 
+rehabilitation (phase 
+2) (Huantai) 
+3,531,800 
+NCB 
+Post 
+1S1E 
+27 
+Comments 
+Q3 / 2016  Prequalificati
+on of 
+Bidders: N 
+Domestic 
+Preference 
+Applicable: N 
+Bidding 
+Document: 
+Large Works 
+Q1 / 2017  Prequalificati
+on of 
+Bidders: N 
+Domestic 
+Preference 
+Applicable: N 
+Bidding 
+Document: 
+Small Works 
+Q4 / 2015  Prequalificati
+on of 
+Bidders: N 
+Domestic 
+Preference 
+Applicable: N 
+Bidding 
+Document: 
+Small Works 
+Comments: 
+Advance 
+contracting  
+Q4 / 2015  Prequalificati
+on of 
+Bidders: N 
+Domestic 
+Preference 
+Applicable: N 
+Bidding 
+Document: 
+Small Works 
+Comments: 
+Advance 
+contracting  
+Q2 / 2016  Prequalificati
+on of 
+Bidders: N 
+Domestic 
+Preference 
+Applicable: N 
+Bidding 
+Document: 
+Small Works 
+28 
+Package 
+Number 
+General 
+Description 
+Estimated 
+Value 
+Procurement 
+Method 
+Review 
+(Prior/ 
+Post) 
+Bidding 
+Procedure 
+Advertise
+ment 
+Date 
+(quarter/y
+ear) 
+Comments 
+1,262,300 
+NCB 
+Post 
+1S1E 
+Q2 / 2017  Prequalificati
+CW-HT-
+05 
+Dazhai Canal 
+extended section 
+rehabilitation 
+(Huantai) 
+CW-HT-
+06 
+Water diversion 
+channel 
+rehabilitation (South 
+Trunk Channel) 
+(Huantai) 
+CW-HT-
+07 
+Water diversion 
+channel 
+rehabilitation (North 
+Trunk Channel) 
+(Huantai) 
+2,612,700 
+NCB 
+Post 
+1S1E 
+3,667,300 
+NCB 
+Post 
+1S1E 
+CW-HT-
+09 
+Dongzhulong River 
+rehabilitation 
+(Huantai) 
+3,894,100 
+NCB 
+Post 
+1S1E 
+CW-HT-
+10 
+Mata Lake wetland 
+water replenishment 
+(Huantai) 
+10,418,000 
+NCB 
+Post 
+1S1E 
+on of 
+Bidders: N 
+Domestic 
+Preference 
+Applicable: N 
+Bidding 
+Document: 
+Small Works 
+Q2 / 2017  Prequalificati
+on of 
+Bidders: N 
+Domestic 
+Preference 
+Applicable: N 
+Bidding 
+Document: 
+Small Works 
+Q2 / 2016  Prequalificati
+on of 
+Bidders: N 
+Domestic 
+Preference 
+Applicable: N 
+Bidding 
+Document: 
+Small Works 
+Q2 / 2016  Prequalificati
+on of 
+Bidders: N 
+Domestic 
+Preference 
+Applicable: N 
+Bidding 
+Document: 
+Small Works 
+Q2 / 2016  Prequalificati
+on of 
+Bidders: N 
+Domestic 
+Preference 
+Applicable: N 
+Bidding 
+Document: 
+Large Works 
+29 
+Comments 
+Advertise
+ment 
+Date 
+(quarter/y
+ear) 
+Q2 / 2016  Prequalificati
+on of 
+Bidders: N 
+Domestic 
+Preference 
+Applicable: N 
+Bidding 
+Document: 
+Large Works 
+Q2 / 2016  Prequalificati
+on of 
+Bidders: N 
+Domestic 
+Preference 
+Applicable: N 
+Bidding 
+Document: 
+Large Works 
+Package 
+Number 
+General 
+Description 
+Estimated 
+Value 
+Procurement 
+Method 
+CW-QZ-
+03 
+Irrigation channel 
+works for diversion 
+of Mihe River to 
+Bagouzi Reservoir 
+(Qingzhou) 
+13,077,400 
+NCB 
+Review 
+(Prior/ 
+Post) 
+Post 
+Bidding 
+Procedure 
+1S1E 
+15,270,700 
+NCB 
+Post 
+1S1E 
+9,142,000 
+6,128,700 
+CW-QZ-
+04 
+River diversion 
+works from Renhe 
+Reservoir to Heihu 
+Mountain and Qiyi 
+reservoirs-Channel 
+reinforcement and 
+tunnel lining 
+(Qingzhou) 
+Lot 1: River 
+diversion works from 
+Renhe Reservoir to 
+Heihu Mountain and 
+Qiyi reservoirs-
+Channel 
+reinforcement and 
+tunnel lining 
+Lot 2: River 
+diversion works from 
+Renhe Reservoir to 
+Heihu Mountain and 
+Qiyi reservoirs-
+Channel 
+reinforcement and 
+tunnel lining 
+Aquatic life 
+cultivation and plants 
+planting of the 
+Judian Lake wetland 
+(Shouguang) 
+CW-SG-
+01 
+8,976,800 
+NCB 
+Post 
+1S1E 
+Q1 / 2017  Prequalificati
+on of 
+Bidders: N 
+Domestic 
+Preference 
+Applicable: N 
+Bidding 
+Document: 
+Small Works 
+Comments: 
+Advance 
+contracting  
+30 
+Package 
+Number 
+CW-SG-
+02 
+General 
+Description 
+Estimated 
+Value 
+Procurement 
+Method 
+Water environment 
+improvement of the 
+Judian Lake wetland 
+(Shouguang) 
+21,596,900 
+NCB 
+Review 
+(Prior/ 
+Post) 
+Post 
+Bidding 
+Procedure 
+1S1E 
+18,392,500 
+NCB 
+Post 
+1S1E 
+6,822,900 
+NCB 
+Post 
+1S1E 
+8,423,200 
+NCB 
+Post 
+1S1E 
+CW-SG-
+03 
+Ta River 
+rehabilitation and 
+buildings (dredging, 
+embankment 
+upgrade, rubber 
+dams, traffic bridges, 
+and other buildings) 
+(Shouguang) 
+CW-SG-
+04 
+Construction of 
+Judian Lake wetland 
+dam, roads, and 
+buildings 
+(Shouguang) 
+CW-SG-
+05 
+River ecological 
+rehabilitation works 
+(Ta River, Zhinv 
+River, New Zhinv 
+River, Yang River, 
+and Wuyan River) 
+(Shouguang) 
+Advertise
+ment 
+Date 
+(quarter/y
+ear) 
+Comments 
+Q2 / 2016  Prequalificati
+on of 
+Bidders: N 
+Domestic 
+Preference 
+Applicable: N 
+Bidding 
+Document: 
+Large Works 
+Comments: 
+Advance 
+contracting  
+Q3 / 2016  Prequalificati
+on of 
+Bidders: N 
+Domestic 
+Preference 
+Applicable: N 
+Bidding 
+Document: 
+Large Works 
+Comments: 
+Advance 
+contracting  
+Q2 / 2016  Prequalificati
+on of 
+Bidders: N 
+Domestic 
+Preference 
+Applicable: N 
+Bidding 
+Document: 
+Small Works 
+Q4 / 2016  Prequalificati
+on of 
+Bidders: N 
+Domestic 
+Preference 
+Applicable: N 
+Bidding 
+Document: 
+Small Works 
+Package 
+Number 
+General 
+Description 
+Estimated 
+Value 
+Procurement 
+Method 
+Review 
+(Prior/ 
+Post) 
+Bidding 
+Procedure 
+Advertise
+ment 
+Date 
+(quarter/y
+ear) 
+Comments 
+31 
+ES-HT-
+02 
+MIS (Huantai) 
+1,633,300 
+NCB 
+Post 
+1S1E 
+Q3 / 2017  Prequalificati
+on of 
+Bidders: N 
+Domestic 
+Preference 
+Applicable: N 
+Bidding 
+Document: 
+Goods 
+3. 
+Consulting Services Contracts Estimated to Cost $100,000 or More 
+The following table lists consulting services contracts for which the recruitment activity is 
+J. 
+either ongoing or expected to commence within the next 18 months.  
+Estimated 
+Value 
+204,000 
+Recruitment 
+Method 
+ICS 
+Review 
+(Prior/ 
+Post) 
+Prior 
+Advertisement 
+Date 
+(quarter/year) 
+Q2 / 2016 
+Type of 
+Proposal 
+Comments 
+Package 
+Number 
+CS-01 
+General 
+Description 
+Project 
+Implementation 
+Support-Project 
+Management 
+Specialist 
+CS-02 
+Capacity 
+development on 
+water policy 
+and 
+conservation 
+demonstration 
+activities 
+CS-HT-01  Software 
+development 
+for MIS 
+(Huantai) 
+589,500 
+SSS 
+Prior 
+Q3 / 2016 
+BTP 
+570,300 
+QCBS 
+Prior 
+Q1 / 2017 
+STP 
+Assignment: 
+National 
+Expertise: Project 
+Management 
+Specialist 
+Comments: 
+National 24 PM, 
+Advance 
+Contracting   
+Assignment: 
+National 
+Comments: 
+National 84PM   
+Assignment: 
+International 
+Quality-Cost 
+Ratio: 90:10 
+Comments: 
+Lumpsum output 
+based contract.  
+4. 
+Goods  and  Works  Contracts  Estimated  to  Cost  Less  than  $1  Million  and 
+Consulting  Services  Contracts  Less  than  $100,000  (Smaller  Value 
+Contracts) 
+The following table lists smaller-value goods, works and consulting services contracts for 
+41. 
+which the activity is either ongoing or expected to commence within the next 18 months.  
+32 
+Goods and Works  
+Package 
+Number 
+General 
+Description 
+Estimated 
+Value 
+Number 
+of Con-
+tracts 
+Procure-
+ment 
+Method 
+Review 
+(Prior/ 
+Post) 
+Bidding 
+Proce-
+dure 
+Advertise
+-ment 
+Date 
+(quarter/ 
+year) 
+Comments 
+600,000 
+1 
+NCB 
+Post 
+1S1E 
+Q1 / 2017  Prequalification  of 
+Bidders: N 
+CW-SG-
+06 
+High  efficient 
+water 
+conservation 
+demonstration 
+(water  storage 
+tanks,  water 
+collection 
+facilities) 
+ES-CL-02  Office 
+equipment 
+(Changle) 
+ES-CL-03  Office 
+vehicles 
+(Changle) 
+ES-GM-01  Office 
+equipment 
+(Gaomi) 
+ES-HT-01  High  efficient 
+27,300 
+76,900 
+22,700 
+150,000 
+1 
+1 
+1 
+1 
+water 
+conservancy 
+facilities 
+(Huantai) 
+Domestic 
+Preference 
+Applicable: N 
+Bidding 
+Document:  Small 
+Works 
+Shopping 
+Post 
+Shopping 
+Post 
+Q3 / 2016   
+Q3 / 2016 
+Shopping 
+Post 
+Q4 / 2017  Comments: 
+NCB 
+Prior 
+1S1E 
+Q1 / 2017  Prequalification  of 
+Advance 
+Contracting   
+Bidders: N 
+Domestic 
+Preference 
+Applicable: N 
+Bidding 
+Document: Goods 
+Comments:  First 
+NCB   
+Q2 / 2016  Prequalification of 
+Bidders: N 
+Domestic 
+Preference 
+Applicable: N 
+Bidding 
+Document: Goods 
+Q2 / 2016  Prequalification of 
+Bidders: N 
+ES-SG-01  Office 
+264,200 
+1 
+NCB 
+Post 
+1S1E 
+equipment 
+(Shouguang) 
+ES-SG-03  Water  quality 
+192,300 
+1 
+NCB 
+Post 
+1S1E 
+monitoring 
+equipment 
+(Shouguang) 
+ES-PMO-
+01 
+ES-QZ-01  Office 
+Office 
+equipment 
+equipment 
+(Qingzhou) 
+Consulting Services  
+20,000 
+85,000 
+1 
+1 
+Shopping 
+Shopping 
+Post 
+Post 
+Q4 / 2016 
+Q2 / 2016 
+Domestic 
+Preference 
+Applicable: N 
+Bidding 
+Document: Goods 
+Package 
+Number 
+General 
+Description 
+Estimated 
+Value 
+Number 
+of 
+Contracts 
+Recruit-
+ment 
+Method 
+Review 
+(Prior/ 
+Post) 
+Advertis
+ement 
+Date 
+(quarter/y
+ear) 
+Type of 
+Proposal 
+Comments 
+Consulting Services  
+Package 
+Number 
+General 
+Description 
+Estimated 
+Value 
+Number 
+of 
+Contracts 
+Recruit-
+ment 
+Method 
+CS-03 
+Project 
+Implementati
+on  Support-
+Resettlement 
+Specialist 
+52,500 
+1 
+ICS 
+Review 
+(Prior/ 
+Post) 
+Prior 
+Advertis
+ement 
+Date 
+(quarter/y
+ear) 
+Q2 / 
+2016 
+CS-04 
+Project 
+Implementati
+on  Support-
+Environment 
+Specialist 
+90,000 
+1 
+ICS 
+Prior 
+CS-05 
+Water  Right 
+Policy 
+Specialist 
+96,000 
+1 
+ICS 
+Prior 
+CS-06 
+Smart 
+Greenhouse 
+Advisor 
+48,000 
+1 
+ICS 
+Prior 
+CS-07 
+Software 
+Development 
+Specialist 
+30,000 
+1 
+ICS 
+Prior 
+Q2 / 
+2016 
+Q3 / 
+2016 
+Q3 / 
+2016 
+Q3 / 
+2016 
+33 
+Type of 
+Proposal 
+Comments 
+Assignment: 
+National 
+Expertise: 
+Resettlement 
+Specialist 
+Comments: 
+National  7PM; 
+Advance 
+Contracting     
+Assignment: 
+National 
+Expertise: 
+Environment 
+Specialist 
+Comments: 
+National  12PM; 
+Advance 
+Contracting     
+Assignment: 
+International 
+Expertise: 
+Water 
+Policy 
+Specialist 
+Right 
+Comments: 
+International 
+4PM     
+Assignment: 
+International 
+Expertise: 
+Smart 
+Greenhouse 
+Advisor 
+Comments: 
+International 
+2PM     
+Assignment: 
+National 
+Expertise: 
+Software 
+development 
+Comments: 
+National 5 PM     
+B. 
+Indicative List of Packages Required Under the Project 
+The  following  table  provides  an  indicative  list  of  goods,  works  and  consulting  services 
+42. 
+contracts over the life of the project, other than those mentioned in previous sections (i.e., those 
+expected beyond the current period).  
+34 
+  Goods and Works 
+Package 
+Number 
+General 
+Description 
+  CW-HT-
+04 
+Xiaofu River 
+rehabilitation 
+(phase 2) 
+(Huantai) 
+Estimated 
+Value 
+(cumula-
+tive) 
+2,794,800 
+Estima-
+ted 
+Number 
+of Con-
+tracts 
+1 
+Procure
+-ment 
+Method 
+Review 
+(Prior/ Post) 
+Bidding 
+Procedure  
+Comments 
+NCB 
+Post 
+1S1E 
+  CW-HT-
+08 
+Laozi River 
+rehabilitation 
+(Huantai) 
+498,600 
+1 
+NCB 
+Post 
+1S1E 
+  ES-SG-02  Water  quality 
+monitoring 
+equipment 
+(Shouguang) 
+192,300 
+1 
+NCB 
+Post 
+1S1E 
+Prequalification of 
+Bidders: N 
+Domestic 
+Preference 
+Applicable: N 
+Bidding Document: 
+Small Works 
+Prequalification of 
+Bidders: N 
+Domestic 
+Preference 
+Applicable: N 
+Bidding Document: 
+Small Works 
+Prequalification of 
+Bidders: N 
+Domestic 
+Preference 
+Applicable: N 
+Bidding Document: 
+Goods 
+  Consulting Services  
+Package 
+Number 
+General 
+Description 
+  None 
+Estima-ted 
+Value 
+(cumula-
+tive) 
+Estimated 
+Number of 
+Contracts 
+Recruit-
+ment 
+Method  
+Review 
+(Prior/ Post) 
+Type of 
+Propo-sal 
+Comments 
+C. 
+National Competitive Bidding  
+I. 
+Regulation and Reference Documents  
+43. 
+The procedures to be followed for national competitive bidding shall be those set forth in 
+The  Government  Procurement  Law  of  People’s  Republic  of  China  approved  on  29  June  2002 
+and  Law  of  the  People’s  Republic  of  China  on  Bid  Invitation  and  Bidding  of  the  People’s 
+Republic  of  China  promulgated  on  August  30,  1999  with  the  clarifications  and  modifications 
+described  in  the  following  paragraphs  required  for  compliance  with  the  provisions  of  the  ADB 
+Procurement Guidelines.  
+II. 
+Procurement Procedures  
+1. 
+Bidding Art. 10).  
+Competitive  Bidding  Procedure  (Procurement  Law  Art.  26  and  Law  on 
+Public  tendering  is  the  acceptable  method  of  government  procurement,  and  public 
+44. 
+invitation is the accepted bid invitation mode.  
+35 
+2. 
+Eligibility  
+45. 
+The  eligibility  of  bidders  shall  be  as  defined  under  section  I  of  the  Procurement 
+Guidelines; accordingly, no bidder or potential bidder should be declared ineligible for reasons 
+other than those provided in section I of the Guidelines, as amended from time to time.  
+3. 
+Advertising  
+All invitations to prequalify or to bid shall be advertised in the national press (China Daily 
+46. 
+Newspaper)  or  a free  and  open  access  website  (www.chinabidding.com).  Such  advertisement 
+shall  be  made  in  sufficient  time  for  prospective  bidders  to  obtain  prequalification  or  bidding 
+documents  and  prepare  and  submit  their  responses.  In  any  event,  a  minimum  preparation 
+period of twenty-eight (28) days shall be given. The preparation period shall count (a) from the 
+date  of  advertisement,  or  (b)  when  the  documents  are  available  for  issue,  whichever  date  is 
+later.  The  advertisement  and  the  prequalification  and  bidding  documents  shall  specify  the 
+deadline for such submission.  
+4. 
+Bidding Period  
+47. 
+The minimum bidding period is 28 days prior to the deadline for the submission of bids.  
+5. 
+Participation by Government-Owned Enterprises  
+48. 
+Government owned enterprises in the Borrower’s country may be permitted to bid if they 
+can establish that they (a) are legally and financially autonomous, (b) operate under commercial 
+law and (c) are not a dependent agency of the Borrower/Project Executing Agency.  
+6. 
+Rebidding  
+49. 
+Re-bidding shall not be allowed solely because the number of bids is less than three (3).  
+III. 
+Bidding Documents  
+7. 
+Qualification Requirements  
+Qualification  requirements  of  bidders  and  the  method  of  evaluating  the  qualification  of 
+50. 
+each  bidder  shall  be  specified  in  detail  in  the  bidding  documents,  and  in  the  prequalification 
+documents if the bidding is preceded by a prequalification process.  
+8. 
+Bid Submission and Opening  
+51. 
+Bidders shall be allowed to submit bids by mail or by hand.  
+All  bids  shall  be  opened  in  public;  all  bidders  shall  be  afforded  an  opportunity  to  be 
+52. 
+present (either in person or through their representatives) at the time of bid opening, but bidders 
+shall not be required to be present at the bid opening.  
+36 
+9. 
+Bid Evaluation and Award  
+53. 
+No bid may be rejected solely on the basis that the bid price falls outside any standard 
+contract  estimate,  or  margin  or  bracket  of  average  bids  established  by  the  Borrower/Project 
+Executing Agency.  
+54. 
+Each  contract  shall  be  awarded  to  the  lowest  evaluated  responsive  bidder,  that  is,  the 
+bidder  who  meets  the  appropriate  standards  of  capability  and  resources  and  whose  bid  has 
+been determined (a) to be substantially responsive to the bidding documents and (b) to offer the 
+lowest  evaluated  cost.  The  winning  bidder  shall  not  be  required,  as  a  condition  of  award,  to 
+undertake  responsibilities  for  work  not  stipulated  in  the  bidding  documents  or  otherwise  to 
+modify the bid as originally submitted.  
+10. 
+ADB Policy Clauses  
+55. 
+Each  contract  financed  with  the  proceeds  of  the  Loan  shall  provide  that  the  suppliers 
+and contractors shall permit ADB, at its request, to inspect their accounts and records relating to 
+the  performance  of  the  contract  and  to  have  said  accounts  and  records  audited  by  auditors 
+appointed by ADB.  
+A  provision  shall  be  included  in  all  bidding  documents  for  NCB  works  and  goods 
+56. 
+contracts  financed  by  ADB  stating  that  the  Borrower  shall  reject  a  proposal  for  award  if  it 
+determines that the bidder recommended for award has, directly or through an agent, engaged 
+in corrupt, fraudulent, collusive, coercive or obstructive practices in competing for the contract in 
+question.  
+57. 
+A  provision  shall  be  included  in  all  bidding  documents  for  NCB  works  and  goods 
+contracts  financed  by  ADB  stating  that  ADB  will  declare  a  firm  or  individual  ineligible,  either 
+indefinitely  or  for  a  stated  period,  to  be  awarded  a  contract  financed  by  ADB,  if  it  at  any  time 
+determines  that  the  firm  or  individual  has,  directly  or  through  an  agent,  engaged  in  corrupt, 
+fraudulent, collusive, coercive or obstructive practices or any integrity violation in competing for, 
+or in executing, ADB-financed contract.  
+D. 
+Consultant's Terms of Reference19  
+1. 
+Project Management Support 
+58. 
+The objective of the consulting services for project management support is to assist the 
+executing and implementing agencies in implementing the project by providing assistance in (i) 
+project  management;  (ii)  project  performance  monitoring  systems  (PPMS)  development;  (iii) 
+disbursement and contract management; (iv) construction planning, supervision, and monitoring; 
+(v)  report  preparation  to  meet  ADB’s  reporting  requirements;  (vi)  safeguard  management  and 
+monitoring; (vii) corporate planning and financial management; and (viii) training provision.  
+Three  national  individual  consultants  for  a  total  of  43  person-months  (pm)  will  be 
+59. 
+engaged to provide the following inputs:  
+19  The  TOR  was  prepared  by  ADB  and  the  executing  agency.  The  PPTA  consultants  were  not  involved  in  the 
+preparation of the TOR. 
+37 
+Table 3: Inputs for Project Management Support Consulting Services 
+No. 
+1 
+2 
+3 
+Specialist Position 
+Person-month 
+Inputs 
+Project management specialist  
+Environment specialist 
+Resettlement specialist 
+Total 
+24 
+12 
+  7 
+43 
+The  outline TOR for the  individual  experts  to be  engaged through  individual  consultant 
+60. 
+selection are described below:  
+Project  management  specialist  (national, 24 pm).  The project management specialist 
+61. 
+shall have a minimum of 10 years of experience in related project management. The specialist 
+will  be  responsible  for  providing  technical  and  management  support  to  the  PMO  and  the 
+implementing  agencies  in  project  management,  bidding  document  review,  procurement 
+assistance,  contract  bid  review  and  evaluation,  and  other  project  management  related  tasks. 
+The specialist must have a good English proficiency to communicate with ADB and to fulfill all 
+the requirements on reporting in English. Specific work tasks include:  
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+Provide  support  for  the  PMO  and  the  implementing  agencies  to  coordinate 
+procurement on civil works, equipment, and installation, consulting services, and 
+other contracts in accordance with the PRC and ADB policies and requirements. 
+Provide  technical  support  as  required  in  design  review,  bill  of  quantities 
+preparation,  bidding  document  preparation,  and  technical  specification  review. 
+Provide  assistance  in  bid  review,  bid  evaluation  report  preparation,  and  other 
+bidding related tasks. 
+Assist  the  PMO  and  the  implementing  agencies  in  setting  up  PPMS  in 
+accordance with the PRC and ADB policies and requirements. 
+Assist  the  PMO  and  the  implementing  agencies  in  supervising  and  guiding  the 
+project implementation. 
+Monitor the implementation of the contractual agreements and procedures.  
+Develop a contract management system and provide assistance in  updating the 
+procurement  plan,  contract  award  and  disbursement  monitoring,  procurement 
+planning, and other contract management tasks. 
+(vii)  Review  bidding  documents,  bidding  evaluation  reports,  contracts,  and  other 
+related documents on bidding procedures and contract management. 
+(viii)  Assist the  PMO  and the  implementing  agencies in project  management, project 
+(ix) 
+(x) 
+(xi) 
+(xii) 
+monitoring, procurement, disbursement, and training. 
+Assist  the  PMO  and  the  implementing  agencies in  implementing  the  social  and 
+gender action plan (SGAP), and the consultation and participation plan prepared 
+during project preparation.  
+Monitor  the  compliance with  the  SGAP  and  assist  in taking  follow-up  actions  to 
+address the key issues.  
+Assist the PMO in preparing quarterly progress reports and the PCR for chapters 
+related to social dimensions.  
+Assist  in  reporting  relevant  social  and  gender  indicators  in  the  design  and 
+monitoring framework (DMF) and PPMS.  
+(xiii)  Prepare  quarterly  progress  reports,  project  performance  monitoring  and 
+evaluation  reports,  project  completion  report  (PCR),  and  other  project  required 
+reports in both Chinese and English.  
+38 
+(xiv)  Undertake site visits as required. 
+62. 
+Environment  specialist  (national,  12  pm).  The  specialist  will  have:  (i)  a  university 
+degree  or  higher  in  environmental  management  or  related  field;  (ii)  at  least  8  years  of 
+experience in environmental management, monitoring, and/or impact assessment; (iii) familiarity 
+with  ADB  project  management  requirements  and  national  environmental  management 
+procedures; (iv) ability to communicate and work effectively with local communities, contractors, 
+and  government  agencies;  (v)  ability  to  analyze  data  and  prepare  technical  reports;  (vi) 
+willingness  and  has  good  health  to  regularly  visit  the  subproject  sites;  and  (vii)  proficiency  in 
+spoken and written English. Specific tasks include:  
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+(vii) 
+implementing  agencies 
+Assist the PMO in establishing an environmental management system, which will 
+include  various  arrangements  and  activities  such  as  staffing,  inspection, 
+monitoring,  grievance  redress  mechanism  (GRM),  reporting,  and  corrective 
+actions or measures. 
+Assess the status of environmental readiness of each project component prior to 
+the  project  implementation  based  on  the  readiness  indicators  defined  in  the 
+environmental management plan (EMP). 
+Assist  the  PMO  and  the  implementing  agencies  in  updating  the  EMP,  including 
+updating mitigation measures and environmental monitoring programs, based on 
+the  detailed  engineering  design,  for  submission  to  the  executing  agency  and 
+ADB for approval. 
+Assist 
+in  contracting  environment  monitoring 
+the 
+agencies  and  coordinate  with  the  agencies  to  ensure  that  all  the  environmental 
+monitoring activities meet both domestic and ADB requirements. 
+Conduct regular EMP compliance assessments, undertake site visits as required, 
+identify  any  environmental-related  implementation  issues,  propose  necessary 
+corrective measures, and include such corrective measures in a corrective action 
+plan. 
+Assist in setting up a GRM, provide trainings to the PMO and the implementing 
+laws,  regulations  and  policies,  ADB’s 
+agencies  staffs  on  environmental 
+Safeguard  Policy  Statement  (2009),  EMP 
+in 
+accordance with the training plan defined in the EMP. 
+Prepare semiannual environmental monitoring and progress reports to ADB and 
+provide  input  on  environmental  aspects  to  progress  reports,  midterm  reports, 
+PCR, and other required documents. 
+implementation,  and  GRM 
+(viii)  Prior  to  the  midterm  review  mission,  provide  support  to  the  PMO  and  the 
+implementing agencies in organizing public meetings in the project cities and/or 
+counties to present and discuss the EMP implementation progress, collect public 
+opinions and concerns, and develop necessary corrective measures. 
+Prior to the project completion, organize surveys on public opinions in the project 
+cities  and/or  counties  to  evaluate  the  community  satisfaction  with  the  project 
+implementation, project output, and EMP implementation, and then document the 
+results in the PCR. 
+(ix) 
+63. 
+Resettlement  specialist  (national,  7  pm).  The  resettlement  specialist  shall  have  a 
+minimum  of  8  years  of  experience  in  ADB  loan  projects.  The  resettlement  specialist  will  be 
+responsible  for  providing  support  in  updating  and  implementing  the  resettlement  plans  for 
+compliance  to  ADB’s  safeguard  policies  and  procedures,  and  assist  the  PMO  and  project 
+implementation offices (PIO) with internal monitoring and reporting. The specialist must have a 
+39 
+good  English  proficiency  to  communicate  with  ADB  and  to  fulfill  all  English  reporting 
+requirements. The specific tasks may include:  
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+Assist the PMO, the implementing agencies, and design institutes in updating the 
+five  resettlement  plans  based  on  the  detailed  design  and  census  of  affected 
+persons,  and  ensuring  disclosure  of  the  resettlement  plans  to  the  affected 
+persons prior to ADB’s approval. 
+Assist the county and city PIOs in implementing the activities on land acquisition 
+and resettlement in accordance with the resettlement plans. 
+Assist  the  PMO  and  the  county  and  city  PIOs  in  supervising  construction 
+contractors to ensure the compliance to the resettlement plans). 
+Assist the PMO and the county and city PIOs in monitoring the implementation of 
+the resettlement plans by collecting and updating data, and closely coordinating 
+with the external resettlement monitors.  
+Review  external  monitoring  and  evaluation  reports  prepared  by  the  external 
+resettlement  monitors,  respond  to  ADB’s  comments  on  the  external  monitoring 
+reports, monitor the compliance to the resettlement plans, and evaluate whether 
+adequate  results  have  been  achieved.  Also  report  to  the  PMO  and  the  county 
+and city PIOs on key implementation issues, and provide assistance in follow-up.  
+Assist  the  PMO  in  preparing  quarterly  progress  reports  and  the  PCR  for  an 
+annex related to resettlement. 
+(vii)  Undertake site visits and other work activities as needed. 
+64. 
+The  consultants  will  deliver  the  following  reports  in  addition  to  the  daily  advisory 
+assistance:  (i)  an  inception  study  report,  (ii)  quarterly  progress  reports  during  the  project 
+implementation  period,  (iii)  design  review  reports,  (iv)  semi-annual  environmental  monitoring 
+reports, and (v) a PCR.  
+2. 
+Capacity  Development  for  Water  Policy  and  Conservation  Demonstration 
+Activities 
+65. 
+The  objective  of  the  consulting  services  package  is  to  help  the  executing  and 
+implementing agencies to strengthen the institutional capacities in water policy and conservation 
+demonstration activities. It is focused on three key areas: water resources policy and regulation, 
+water information management, and rainwater harvesting and reuse.  
+The  PMO  proposes  to  engage  the  Water  Resources  Research  Institute  of  Shandong 
+66. 
+Province  (WRRI) 20  through  single-source  selection  (SSS)  to  provide  84  pm  of  national 
+consulting  services for  the  implementation  of the policy  and demonstration  activities under  the 
+project.  The  assignment  will  provide  support  to  strengthen  institutional  capacity  in  three  key 
+areas:  water  resources  policy  and  regulation,  water  information  management,  and  rainwater 
+harvesting and reuse.  
+20  The Water  Research  Institute  of  Shandong  Province,  founded  in  1957,  is  a  social  non-profit  research  institution 
+mainly focusing on irrigation technology and application. All together, the institution has about 230 staff members, 
+including over 100 senior professional staff. Its main specialized scopes include: water assessment and utilization, 
+water ecology and water environment; irrigation, drainage and soil & water conservation; measurement and control 
+of project quality; and construction and management of hydraulic engineering. The institute is not affiliated with the 
+Shandong Water Resources Department. 
+40 
+Founded  in  1957,  the  WRRI  of  Shandong  Province  is  a  social  non-profit  research 
+67. 
+institution  that  specializes  on  water  assessment  and  utilization,  water  ecology  and  water 
+environment;  irrigation,  drainage  and  soil  &  water  conservation;  and  construction  and 
+management of hydraulic engineering. As one of the leading research institutions in the area of 
+water  assessment,  management  and  conservation,  it  has  conducted  several  national  and 
+provincial  water  resources  studies,  including  for  the  Shandong  Science  and  Technology 
+Department and Shandong Water Resources Department, which are relevant for the proposed 
+project interventions. The WRRI is proposed to be engaged through SSS method because (i) it 
+is considered to have unique knowledge of and access to ongoing discussions on national and 
+provincial  water  policy  development,  amongst  others  through  its  previous  assignments  for  the 
+Ministry  of  Water  Resources  and  SWRD;  (ii)  it  has  an  extensive  network  of  professional 
+contacts  that  will  be  required  to  be  an  effective  stakeholder  to  discuss  and  promote  water 
+related policy changes; and (iii) it has accumulated and possesses relevant water assessment 
+data that is needed for this assignment. The WRRI is not affiliated with the SWRD.  
+The detailed scope of consulting service on capacity development is summarized in the 
+68. 
+following:  
+(i) 
+(ii) 
+Water  resources  policy  and  regulation.  Assist  the  executing  agency  and 
+implementing  agencies  in  conducting  a  pilot  study  on  water  right  and  policy 
+development  to  introduce  innovative  water  management  practices,  and  a  trial 
+regional  market  for  water  right  trading  in  the  project  area.    The  pilot  study  is  to 
+establish a most strict pilot water resources management system for implementation 
+over  the  project  area.  The  scope  will  include  policy  studies  on  water  quota  setting, 
+water  right  determination,  water  right  trading,  water  tariff  improvement,  water 
+resources allocation, law enforcement, farming user association and administration, 
+etc. with an emphasis on agricultural water uses and savings.  The policy research 
+will  create  new  policies  for  the  comprehensive  improvement  to  the  area  and 
+sustainable management of the water resources. 
+Support and preparation of IC-card enabled demand management systems. An 
+upgraded  IC  Card  system  will  be  developed  to  introduce  controlled  demand 
+management  for  agricultural  water  management  in  a  selected  pilot  location  in 
+Huantai  County.  The  IC  controlled  demand  system  will  consist  of  IC  card  operated 
+wells, a data transmission system and a central data unit. The central data unit will 
+be  integrated  with the  MIS systems that  will  be put  in place for the  Huantai  County 
+and that  will  among others  have groundwater  level  recorders  that can measure the 
+impact. The central data unit will also be used to analyze and discuss water uses by 
+different farmers. The physical systems are complemented by a set of rules that deal 
+with  registering  water  users,  determining  user  quota  and  tariff  for  the  use  of 
+groundwater.  The  well  users  will  be  united  in  a  water  users  association,  which  will 
+facilitate  the  introduction  and  co-manage  the  system  to  promote  water  trading  and 
+improved water management among members. 
+(iii) 
+Innovative  greenhouse  roof  top  water  harvesting.  The  smart  greenhouse  pilot 
+activity  will  introduce  water  harvesting  in green house  areas  in  Shouguang  County, 
+as  a  future  strategy  to  secure  good  quality  water  for  the  horticultural  industry.  In 
+water  harvesting  from  greenhouses  there  are  several  options  with  respect  to 
+collection and  particular storage:  open surface  storage, closed surface storage and 
+aquifer  storage.  The  Design  Institute  as  part  of  the  Feasibility  Report  prepared  a 
+41 
+preliminary design for water harvesting from greenhouses, based on closed surface 
+storage.  
+69. 
+The required consultancy inputs for the capacity development are detailed below.  
+Table 4: Inputs for Capacity Development Consulting Services 
+No. 
+Specialist Position 
+Person-months Input 
+(national) 
+1  Water resources management specialist and team 
+leader 
+2  Water economist  
+3  Water tariff specialist 
+4  Water conservancy engineering specialist 
+5 
+6 
+7 
+8 
+9  Water information management specialist 
+10 
+Association management specialist  
+Agricultural irrigation specialist 
+Agricultural water-saving specialist 
+Groundwater resources management specialist 
+Social development specialist 
+Subtotal 
+18 
+  7 
+  6 
+  5 
+  6 
+10 
+  6 
+  5 
+12 
+  9 
+84 
+84 
+The outline TOR for the individual experts to be engaged for the capacity development 
+70. 
+consulting services are described below:  
+71.  Water  resources  management  specialist  and  team  leader  (national,  18  pm).  The 
+specialist  shall  have  a  university  degree  or  above  in  water  resources  management,  and  have 
+over 10 years of experience in water resources management with focus on policy and regulation. 
+Specific tasks include:  
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+Set  a  framework  for  developing  a  strict  pilot  water  resources  management 
+system to be implemented over the project area. 
+Design a framework for developing a trial regional market for water right trading 
+in the project area. 
+Provide  support  for  the  implementation  of  the  smart  greenhouse  demonstration 
+activity, in close cooperation with the international individual consultant. 
+Carry out overall management and progress assurance. 
+Ensure  an  optimum  communication  with  all  experts,  key  stakeholders  at  the 
+provincial and county levels, the PMO, and ADB. 
+Develop  work  plans  and  coordinate  the  work  among  the  specialist  consultant 
+team, including expert mobilization, site visits, and report preparation. 
+Ensure the completion of high quality outputs on different components of study. 
+(vii) 
+(viii)  Organize  research  on  water  quota,  water  right  determination,  water  right  trade, 
+water  tariff  improvement,  water  resource  distribution  and  management,  and 
+committee management. 
+Coordinate  with  the  international  consultant  specialists  to  facilitate  their  work 
+input in the project. 
+Organize,  review,  and  complete  all  reports  (in  both  Chinese  and  English  with 
+good quality). 
+(ix) 
+(x) 
+42 
+72.  Water  economist  (national,  7  pm).  The  water  economist  shall  have  a  minimum  of  10 
+years of experience in economic management. The specialist shall have a bachelor degree or 
+above in economic management or in a similar major. Specific work tasks include:  
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+Collect relevant economic data and information with the help from the PMO and 
+the implementing agencies. 
+Investigate  the  tariff  status  for  different  sectors,  determine  a  reasonable  tariff 
+structure  for  the  agricultural  sector,  study  the  option  of  tiered  tariff  systems  for 
+agricultural  water  use,  and  propose  a  tariff  system  that  will  be  suitable  for  the 
+project area. 
+Study  the  water  compensation  mechanisms  for  the  agricultural  sector,  and 
+reward systems for enhancing water saving incentives. 
+Study the policies for attracting social investment to the subject water sector. 
+Prepare the economic sections of progress reports. 
+Provide  training  on  economic  analysis  and  management  in  accordance  to  ADB 
+policies. 
+73.  Water tariff specialist (national, 6 pm). The water tariff specialist shall have a minimum 
+of 10 years of experience in financial management. The specialist must have a bachelor degree 
+in financial management or similar major. Specific work tasks include:  
+Collect related financial data and information. 
+(i) 
+(ii)  Work with the water economist to investigate the tariff status for different sectors, 
+determine a reasonable tariff structure for the agricultural sector, study the option 
+of tiered tariff systems for agricultural water use, and propose a tariff system that 
+will be suitable for the project area. 
+Research  on  financial  management  systems  for  agricultural  water  management 
+project and engineering works. 
+Complete the financial sections of progress reports. 
+Provide training on financial analysis and management. 
+(iv) 
+(v) 
+(iii) 
+74.  Water  conservancy  engineering  specialist  (national,  5  pm).  The  water  conservancy 
+engineering  specialist  shall  have  a  minimum  of  10  years  of  experience  in  water  conservancy 
+engineering  and  management.  The  specialist  must  have  a  bachelor  degree  or  above  in  water 
+conservancy engineering or in a similar major. Specific work tasks include:  
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+Complete  an  analysis  and  study  on  water  conservancy  policies  and 
+management. 
+Provide  suggestions  on  water  right  trading  and  market  regulations  for  water 
+conservancy management. 
+Study the relevant policies and regulations on water supply and water rights. 
+Provide  support  for  the  implementation  of  the  smart  greenhouse  demonstration 
+activity, in close cooperation with the international individual consultant.  
+Complete the water facilities management sections of all progress reports. 
+Provide training on water facility management. 
+75. 
+Agricultural  irrigation  specialist  (national,  6  pm). The  agricultural  irrigation  specialist 
+shall  have  a  minimum  of  10  years  of  experience  in  agricultural  water  conservancy  and 
+management.  The  specialist  must  have  a  bachelor  degree  or  above  in  agricultural  water 
+management or in a similar major. Specific work tasks include:  
+43 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+Investigate  the  irrigation  practices  and  drainage  conditions  in  the  project  area, 
+including the origin of agricultural water supply, the method of  water supply, the 
+methods of irrigation, and the current use of engineering facilities. 
+Carry out a policy analysis on farming land irrigation. 
+Provide advice on water right policy development from the irrigation perspective. 
+Complete  the  water  facilities  engineering  management  sections  of  all  progress 
+reports. 
+Provide training on agricultural water facilities management.  
+76. 
+Agricultural  water-saving  specialist  (national,  10  pm).  The  agricultural  water-saving 
+specialist  shall  have  a  minimum  of  10  years  of  experience  in  agricultural  water-savings 
+management.  The  specialist  must  have  a  bachelor  degree  in  irrigation  engineering  or  in  a 
+similar major. The specific tasks include:  
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+(vii) 
+Analyze the current status of water-saving practices in agriculture in the PRC and 
+in the project area. 
+Review the successful domestic and international experiences and project cases 
+in agricultural water savings. 
+Complete the analysis on agricultural water-saving policies and regulations. 
+Provide  suggestions  on  water  right  trading  and  market  regulations  from  the 
+water-savings aspect. 
+Introduce agricultural water-saving techniques and a reward mechanism. 
+Complete the agricultural water-saving sections of all progress reports0 
+Provide training on water-savings in the agricultural sector. 
+77. 
+Groundwater  resources  management  specialist  (national,  6  pm).  The  groundwater 
+resources  management  specialist  shall  have  a  minimum  of  10  years  of  experience  in 
+hydrogeological  assessments  and  groundwater  resources  management.  The  specialist  must 
+have  a bachelor  degree  in groundwater resources management  or  in  a similar  major.  Specific 
+work tasks include:  
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+(vii) 
+Investigate the current status of groundwater resources management in the PRC 
+and in the project area. 
+Complete an analysis on agricultural water saving policies and regulations. 
+Provide  suggestions  on  water  right  trading  and  market  regulations  from  the 
+groundwater resources management perspective. 
+Provide  advice  on  technical  aspects  of  water  right  trading,  market  setting,  and 
+regulation development from the groundwater resources management aspect. 
+Study the feasibility of applying proper groundwater management techniques and 
+technologies into the project area. 
+Complete  the  groundwater  resource  management  sections  of  all  progress 
+reports. 
+Provide training on groundwater resources management. 
+Social  development  specialist  (national,  5  pm).  The  social  development  specialist 
+78. 
+shall  have  a  minimum  of  10  years  of  experience  in  social  development.  The  specialist  must 
+have  a  bachelor  degree  in  water  facilities  or  social  development  or  in  a  similar  major.  The 
+specific tasks may include:  
+44 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+Complete  a  policies  analysis  on  water  resource  and  social  development,  and 
+provide  suggestions  on  water  rights  and  market  policies  to  enhance  the  social 
+development. 
+Study how water resources management should adapt to the sustainable socio-
+economic development. 
+Provide suggestions on the role and functions of water user association from the 
+social development perspective. 
+Complete social coordination development sections of all progress reports. 
+Provide  training  on  integration  of  water  resources  management  and  social 
+development. 
+79.  Water  information  management  specialist  (national,  12  pm).  The  water  information 
+management  specialist  shall  have  a  minimum  of  10  years  of  experience  in  water  facilities 
+information system. The specialist must have a bachelor degree in information engineering or in 
+a similar major. The specific tasks include:  
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+Introduce water information management techniques and successful cases from 
+both domestic and international experiences. 
+Analyze techniques and experiences in water information management that can 
+be applied to the proposed MIS subproject in Huantai County. 
+Provide advice on how to implement and monitor the Huantai County’s MIS and 
+integrated circuit card subprojects. 
+Provide  advice  on  water  right  trading  and  market  mechanisms  from  the  water 
+information management perspective. 
+Analyze the functions and roles of water information systems in the development 
+of a water right trading system. 
+Advice on applications of scientifically advanced water information management 
+methods to the project area. 
+(vii)  Complete water information management sections of all progress reports. 
+(viii)  Provide training on water facilities and information management systems. 
+80. 
+Association  management  specialist  (national,  9  pm).  The  association  management 
+specialist  shall  have  a  minimum  of  10  years  of  experience  in  association  management.  The 
+specialist  must  have a bachelor  degree in water resources management or  in a  similar  major. 
+Specific tasks will include:  
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+framework  and  systems 
+for  establishment  of  water  user 
+including  setup  of  documentation,  registration,  governance, 
+Develop 
+the 
+associations, 
+staffing, organizational structures, etc. 
+Research  on  management  practices  and  modality  for  sustainable  operation  of 
+water user associations. 
+Analyze the role of water user associations in socio-economic development. 
+Provide  guidance  and  monitoring  of  the  pilot  development  of  rural  water  user 
+associations in the project area. 
+Complete the association management sections of all progress reports. 
+Provide training on development and management of water user associations. 
+The  consultants  will  deliver  the  following  reports  in  addition  to  the  daily  advisory 
+81. 
+assistance:  (i)  an  inception  study  report  within  the  first  month  after  mobilization,  (ii)  quarterly 
+progress  reports  during  the  project  implementation  period,  (iii)  design  review  reports,  (iv) 
+semiannual environmental monitoring reports, and (v) a project completion report.  
+45 
+3. 
+Individual International Consultants for Policy Support 
+82. 
+The PMO will also engage two international individual consultants for a total of 6 pm to 
+provide  support  for  the  implementation  of  the  policy  and  demonstration  activities  under  the 
+project.  The  consultants  will  be  engaged  through  individual  consultant  selection  method.  The 
+outline TOR are below.  
+83.  Water policy advisor (international, 4 pm). The water policy advisor shall have 10 years 
+of  experience  in  water  policy  management,  including  groundwater  management  and  water 
+pricing  issues;  and  contributor  to  national  or  international  policy  documents.  Specific  tasks 
+include:  
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+groundwater quota and trading study 
+water pricing study 
+institutional study 
+Develop  the  report  outlays  and  study  plans  for  the  different  studies–including 
+inputs of experts, survey methods, and report outlays. 
+Support the policy research team and provide guidance on: 
+a) 
+b) 
+c) 
+Suggest international experience in groundwater management to be used in the 
+policy  research  studies:  introduce  advanced  and  successful  cases  and  policies 
+on  water  rights,  use  of market  mechanism,  and  establishment  of  committees  of 
+aquifer users. 
+Quality  control  and  review  of  the  reports  in  English  version,  ensuring  clear  and 
+actionable recommendations come out on water quota, water right determination, 
+water  right  trade,  water  tariff  improvement,  water  resource  configuration,  and 
+supervision and committee.  
+Maintain contact with ADB and main team. 
+84. 
+Smart  greenhouse  water  specialist  (international,  2  pm).  The  greenhouse  water 
+specialist shall have at least 10 years of proven experience in greenhouse water management 
+and water harvesting from green houses. Specific work tasks include:  
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+Guide and supervise the smart greenhouse component. 
+Assess overall water management in greenhouses. 
+Assess  hydrogeological  conditions  for  recharge  and  subsurface  storage  of 
+harvested water. 
+Prepare  and  give  training  on  rooftop  water  harvesting  and  local  recharge  to 
+member of project counties and interested institutes. 
+Guide the scoping and mapping of opportunities under different design options in 
+Shouguang County. 
+Prepare 
+components, based on water requirements and rainfall patterns. 
+including  dimension  of 
+the  design  criteria 
+the  different 
+layout 
+(vii)  Check and supervise site investigation. 
+(viii)  Check and approve the detailed design and cost estimate. 
+(ix) 
+Prepare  a  monitoring  plan  for  the  pilot–including  costs  and/or  benefits,  and 
+technical robustness. 
+46 
+4. 
+Software Development for the Management Information System in Huantai 
+County 
+85. 
+The  MIS  subproject  in  Huantai  County  includes  the  development  of  the  following 
+modules:  (i)  groundwater  monitoring,  (ii)  optimal  allocation  of  water  resources,  (iii)  electronic 
+administration,  (iv)  storm  water  and  flood  data  monitoring,  and  (v)  water  conservancy 
+infrastructure patrol system. The scope of consulting service on the MIS software development 
+is to create the software operating system for linkage, operation, data collection, data monitoring, 
+data transfer, and facility patrolling among different modules of the MIS.  
+86. 
+A  corporate  software  development  company  that  specializes  in  information  technology 
+and  software  development  will  be  commissioned  to carry  out the required consulting  services. 
+The firm will be engaged using quality- and cost based selection (QCBS) at a quality-cost ratio 
+of 90:10. He contract will be a lump-sum output based contract. The company shall possess the 
+following qualifications:  
+(i) 
+(ii) 
+(iii) 
+(iv) 
+Qualified for Certificate of Class 3 or above on in computer system integration. 
+Certified for ISO 9000 quality management system. 
+Certified for software development. 
+Certified for CIMM3. 
+87. 
+The  detailed  TOR  and  required  expertise  will  be  developed  during  the  project,  as  the 
+scope of the MIS infrastructure to be developed under Output 1, is still uncertain. The TOR will 
+be developed with support of a national individual software development expert (see below). It is 
+anticipated  that  the  software  development  consultants  will  deliver  the  following  reports  in 
+addition to the daily advisory assistance: (i) an inception study report within the  2 months after 
+mobilization,  (ii)  an  interim  report  during  the  project  implementation  period,  (iii)  a  good  quality 
+operational  software  system  for  linking  and  operating  the  overall  MIS  system  as  well  as 
+individual modules, (iv) pass the review and acceptance check approved by a panel of experts 
+in software development, and (v) a software operating user manual.  
+88. 
+An  individual  national  individual  consultant  for  a  total  of  5  person-months  (pm)  will  be 
+engaged  to  support  the  preparation  of  the  TOR  and  supervision  of  softwar  development 
+consultants.  The  outline  TOR  for  the  individual  expert  to  be  engaged  through  individual 
+consultant selection is described below:  
+Software Specialist (national, 5 pm). The software development specialist shall have a 
+89. 
+minimum of 10 years of experience in related software development, including development of 
+Terms  of  References.  The  specialist  will  be  responsible  for  preparing  the  TOR  for  the 
+development of the software system in Huantai county. The specialist must have a good English 
+proficiency to communicate with ADB and to fulfill all the requirements on reporting in English. 
+Specific work tasks include:  
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+Discuss  and  assess  the  anticipated  requirements  for  the  automated  monitoring 
+system; 
+Undertake field visits to determine the scope of the anticipated system; 
+Provide support for the PMO and the implementing agency to prepare the outline 
+for the TOR of the software development consultants; 
+Advise 
+arrangements for the software development; 
+Prepared the detailed TOR and budget for the software development; 
+implementing  agencies  on  suitable  contract 
+the  executing  and 
+47 
+(vi) 
+(vii) 
+Support the PMO and implementing agency with the bidding process to engage 
+the software development company; 
+Provide support for the PMO and implementing agency with the supervision and 
+commission of the software; 
+(viii)  Prepare a final report on the completed assignment. 
+VII. 
+SAFEGUARDS 
+Prohibited  investment  activities.  Pursuant  to  ADB’s  Safeguard  Policy  Statement 
+90. 
+(SPS)  (2009),  ADB  funds  may  not  be  applied  to  the  activities  described  on  ADB  Prohibited 
+Investment Activities List set forth at Appendix 5 of the SPS.  
+A. 
+Environment 
+1. 
+Objectives 
+The  project  is  classified  as  category  A  for  environment.  An  environmental  impact 
+91. 
+assessment  (EIA)  and  EMP  have  been  prepared  and  were  disclosed  on  ADB  website  on  9 
+March 2015. The project EIA and EMP (not the domestic EIAs) form the basis of the official loan 
+agreement  between  ADB  and  the  SPG.  The  SPG,  through  the  PMO,  holds  final  responsibility 
+for implementation and compliance with the EMP. The EMP will be implemented in all phases of 
+the project—design, pre-construction, construction, and operation. The EMP  complies with the 
+PRC’s  environmental  laws  and  ADB’s  SPS  (2009).  The  EMP  contains:  (i)  objectives;  (ii)  roles 
+and  responsibilities;  (iii)  mitigation  measures;  (iv)  inspection,  monitoring,  and  reporting 
+arrangements;  (v)  training  and  institutional  strengthening;  (vi)  GRM;  (vii)  future  public 
+consultation; and (viii) a feedback and adjustment mechanism.  
+92. 
+A  full  time  environmental  officer  has  been  assigned  in  the  PMO  to  coordinate  EMP 
+implementation.  The  loan  implementation  environment  consultants  will  support  the  PMO  and 
+contractors  to  implement  the  EMP.  In  the  design  stage,  the  PMO  will  pass  the  EMP  to  the 
+design institutes for  incorporating  mitigation  measures  into  the  detailed  designs. The  EMP  will 
+be updated at the end of the detailed design, as needed. To ensure that bidders will respond to 
+the EMP’s provisions, the PMO and local project implementation offices (PIOs) will prepare and 
+provide the following specification clauses for incorporation into the bidding documents: (i) a list 
+of environmental management requirements to be budgeted by the bidders in their proposals; (ii) 
+environmental clauses for contractual terms and conditions; and (iii) component domestic EIAs, 
+and project EIA including updated EMP for compliance.  
+93. 
+Climate  change. A climate risk vulnerability assessment was conducted to identify the 
+threat that  climate  change  presents  to  project  viability,  assuming  a  design  life  of  30–40  years. 
+The  project  area  may  be  subject  to  increasing  frequency  and  duration  of  winter  drought, 
+variability in precipitation, and flood severity in summer. Flood volumes and higher flows could 
+exceed the  capacity  of embankments,  channels,  pipelines,  and  the  two project  pump stations. 
+To  accommodate  these:  (i)  all  structures  will  be  constructed  to  a  flood  protection  standard  of 
+one  in  20  years  or  one  in  50  years,  and  (ii)  embankments  will  be  designed  to  be  porous  for 
+infiltration.  The  project  is  oriented  to  strengthen  resilience  to  climate  risks:  (i)  increased  storm 
+water retention and improved water monitoring and allocation will strengthen water security, (ii) 
+channel  rehabilitation  will  improve  water  flows  and  reduce  flood risk,  and  (iii)  training  in  water 
+conservation  and  wetland  management  will  help  secure  the  freshwater  resources  of  two  large 
+project wetlands.  
+48 
+2. 
+Organizations and their Responsibilities for EMP Implementation 
+94. 
+The  SPG,  represented  by  the  SWRD,  is  the  executing  agency  of  the  project.  At  the 
+provincial level, the SPG has established the comprehensive project management office (PMO) 
+to provide policy guidance and coordinate overall project implementation. The PMO comprises 
+representatives  from  the  SFD,  Shandong  Development  and  Reform  Commission,  SWRD,  and 
+other relevant agencies. The five project city and county governments will be the implementing 
+agencies. Each city and county has established a city or county PIO to implement their project 
+components  and  subprojects.  The  EMP  implementation  arrangements  and  responsibilities  of 
+governmental organizations are summarized below.  
+Table 5: Institutional Responsibilities for EMP implementation 
+Agency 
+Executing Agency:  
+SPG, represented by the 
+SWRD and the 
+comprehensive PMO 
+Implementing Agencies:  
+Five project cities and 
+counties (through the city 
+and county PIOs) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Environmental Management Roles and Responsibilities 
+Coordination with city and county governments 
+Coordinate project preparation and implementation 
+Facilitate inter-agency coordination 
+Liaison with ADB 
+Supervise and manage project implementation 
+Daily management work in project preparation and implementation 
+Assign PMO environment officer and PMO social officer 
+Coordinate with ADB on project progress and monitoring reports 
+Submit  bidding  documents,  bid  evaluation  reports,  and  other  necessary 
+documentations to ADB for necessary approval 
+Procure project implementation consulting services, including a LIEC 
+Consolidate  environmental monitoring  reports  prepared  by  county  PMOs 
+and EMS and submit them to ADB for disclosure 
+Engage  a  procurement  agency  which  supports  the  implementation 
+agencies and five PIOs 
+Implement  project  components  in  their  jurisdiction,  including  finance  and 
+administration, 
+technical  and  procurement  matters,  monitoring  and 
+evaluation, and safeguard compliance 
+ 
+ 
+ 
+  Coordinate with the PMO for project management and implementation 
+ 
+Establish  environment  management  unit  and  appoint  environment 
+specialist as EMP coordinator 
+Incorporate EMP into bidding documents 
+Establish GRM 
+Supervise  and  monitor  EMP  implementation  and  annual  reporting  to  the 
+PMO (with support of LIEC) 
+Participate in capacity development and training programs 
+ 
+  Construction supervision and quality control 
+  Contract local EMS to conduct environmental monitoring 
+  Commission the constructed facilities 
+  With the implementing agencies, commission the constructed facilities 
+  Operate  and  maintain  completed 
+facilities, 
+Project Facility 
+Operators: 
+Local WRBs 
+ADB = Asian Development Bank, EMP = environmental management plan, EMS = environmental monitoring stations, 
+GRM  =  grievance  redress  mechanism,  LIEC  =  loan  implementation  environment  consultant,  PIO  =  project 
+implantation  office,  PMO  =  project  management  office,  SFD  =  Shandong  Finance  Department,  SPG  =  Shandong 
+Provincial Government, SPPLG = Shandong Provincial Project Leading Group. 
+management, monitoring, and reporting responsibilities 
+including  environmental 
+95. 
+main  EMP  coordination  responsibility.  The  PMO  has  designated 
+Environment  staff within PMO  and  the implementing  agencies. The PMO will have 
+time  PMO 
+two  full 
+49 
+environmental officers responsible for EMP implementation. The officers will: (i) coordinate the 
+implementation  of  mitigation  measures  during  project  design,  construction,  and  operation;  (ii) 
+ensure that environmental management, monitoring, and mitigation measures are incorporated 
+into  bidding  documents,  construction  contracts,  and  operation  management  plans;  (iii)  submit 
+semiannual  EMP  monitoring  and  progress  reports  to  ADB;  (iv)  implement  the  GRM;  and  (v) 
+respond to any unforeseen adverse impacts beyond those mentioned in the EMP. The officers 
+will  be  technically  supported  by  the  national  individual  loan  implementation  environment 
+consultant  (LIEC).  At  the  county  level,  the  PIO  of  each  implementing  agency  will  include  one 
+environment officer. This officer will be responsible for daily implementation of the EMP, working 
+closely  with  the  PMO  environment  officer,  and  LIEC.  TORs  for  PMO  and  PIO  environment 
+officers are in Appendix 1.  
+Loan  implementation  environment  consultant.  A  LIEC  will  be  hired  as  national 
+96. 
+individual  consultant  under  the  loan  implementation  consultant  services.  The  LIEC  will  advise 
+the  PMO,  PIOs,  contractors,  and  construction  supervision  companies  (CSC)  on  all  aspects  of 
+environmental management  and monitoring for  the  project. The  LIEC  will  (i)  assist  in updating 
+the  EMP  and environmental  monitoring  program,  as needed; (ii)  supervise the  implementation 
+of the mitigation measures specified in the EMP; (iii) on behalf of the  PIOs and PMO, prepare 
+the annual EMP monitoring and progress reports in English and Chinese and submit it to ADB; 
+(iv)  provide  training  to  the  PMO,  local  PIOs,  and  CSCs  on  the  PRC’s  environmental  laws, 
+regulations and policies, ADB’s SPS (2009), EMP implementation, and GRM in accordance with 
+the  training  plan;  (v)  identify  any  environment-related  implementation  issues,  and  propose 
+necessary corrective actions; and (vi) undertake site visits for EMP inspection as required. TOR 
+for the LIEC are in Appendix 1.  
+97. 
+Construction  contractors  and  construction  supervision  companies.  Construction 
+contractors  will  be  responsible  for  implementing  relevant  EMP  mitigation  measures  during 
+construction, under the supervision of the CSCs and PIOs. Contractors will develop site-specific 
+EMPs  on  the  basis  of  this  project  EMP.  The  CSCs  will  be  selected  through  the  PRC  bidding 
+procedure by the PIOs. The CSCs will be responsible for supervising construction progress and 
+quality,  and  EMP  implementation  on  construction  sites.  Each  CSC  shall  have  at  least  one 
+environmental  engineer  on  each  construction  site  to:  (i)  supervise  the  contractor’s  EMP 
+implementation  performance,  and  (ii)  prepare  the  contractor’s  environmental  management 
+performance section in monthly project progress reports submitted to the PIOs and PMO.  
+98. 
+Environmental  monitoring  station  (EMS).  The  PIOs  will  appoint  the  EMS  of  each 
+project  county  to  conduct  periodic  environmental  impact  monitoring  during  construction  and 
+operation in accordance with the monitoring plan.  
+B. 
+Ethnic Minorities 
+99. 
+The project does not involve any distinct ethnic minority and thus does not trigger ADB’s 
+SPS (2009) indigenous peoples requirements. Therefore, an ethnic minority development plan 
+is not required.  
+C. 
+Land Acquisition and Resettlement 
+1. 
+Land Acquisition and Resettlement Impacts 
+100.  There  are  five  project  components  that  have  involuntary  resettlement  impacts,  so 
+resettlement plans have been prepared by county and city PIOs for each. The project will affect 
+50 
+a  total  of  five  villages  and/or  urban  communities,  and  two  townships  and/or  sub-districts  by 
+permanent land acquisition in Changle County and Shouguang City, respectively. The Changle 
+component  will  involve  both  permanent  land  acquisition  and  house  demolition,  while  the 
+Shouguang  component will  involve  permanent  acquisition  of  collective land  without  contracted 
+to  villagers  but  no  house  demolition.  The  Gaomi,  Huantai,  and  Qingzhou  components  will  be 
+constructed  within  existing  river  channels,  and  involve  temporary  land  occupation  only,  but  no 
+permanent land acquisition and house demolition. Detailed impacts are presented in Table 6.  
+101.  The  total  area  of  permanent  land  acquisition  is  2,147.19  mu,  of  which  740.75  is  state-
+owned  and  1,408  mu  is  collective-owned  land.  The  collective  land  included  farmland,  forestry 
+land,  house  plot,  and  wetland  or  waste  land  accounting  for  38.8%,  18.1%,  4.5%,  and  38.6%, 
+respectively.  About  9,422  mu  of  temporary  land  occupation  is  involved,  most  of  which  is 
+collective land. The building demolition area is 47,781 m2, including residential houses of 44,924 
+m2, and rural shanties of 2,857 m2. No houses on state-owned land will be demolished.  
+102. 
+It  is  estimated  that  a  total  of  1,697  persons  from  446  households  are  affected  by 
+permanent land acquisition and resettlement, including 136 households (530 persons) affected 
+by  land  acquisition  only,  191  households  (668  persons)  by  house  demolition  only,  and  119 
+households  (499  persons)  by  both.  In  addition,  about  3,390  households  will  be  affected  by 
+temporary land occupation.  
+2. 
+Resettlement Principles and Entitlements 
+103.  The resettlement plans are prepared in compliance with the Land Administration Law of 
+the PRC (2004), Decisions on Deepening Reform and Strengthening Land Administration by the 
+State  Council  of  the  PRC  (GuoFa  [2004]  No.  28),  Notices  on  Formulation  of  Land  Acquisition 
+Uniform Annual Yield Value Standard and Land Acquisition District Comprehensive Land Price 
+by  Ministry  of  Land  and  Resources  (GuoTuZiFa  [2005]  No.144),  and  other  applicable 
+guidelines.  They  are  also  based  on  local  policies  regarding  land  acquisition  and  resettlement 
+(LAR)  in  Shandong  Province  and  the  project  cities  and/or  counties,  and  ADB’s  SPS  (2009). 
+Based on consultations with the local governments and affected persons and general practices 
+in  the  project  area,  the  implementing  agencies  have  adopted  a  set  of  resettlement  principles 
+and an entitlement matrix has been prepared for each resettlement plan.  
+trees.  The 
+104.  Compensation  for  land  acquisition,  residential  housing,  and  non-residential  buildings 
+(shops  and  enterprises)  are  paid  to  the  affected  owners  or  users.  For  land  acquisition, 
+compensation  fees  include  land  compensation,  resettlement  subsidy,  and  compensation  for 
+young  crops  and/or 
+land  acquisition  compensation  rates  are  based  on 
+comprehensive  district  prices of different  areas  in  Shandong  Province. The  compensation rate 
+for  both  land  compensation  and  resettlement  subsidies  in  a  comprehensive  land  price  is 
+farmland)  and 
+CNY49,000/mu 
+CNY30,400/mu (swamp land) for the Shouguang component, and CNY42,000/mu for the Gaomi 
+component,  respectively.  Temporary  land  occupation  involved  in  the  five  project  cities  and/or 
+counties will be taken for 1–1.5 years, and the compensation in CNY1,800/mu per year will be 
+paid to affected peoples directly.  
+the  Changle  component,  CNY38,000/mu  (irrigated 
+for 
+105.  For  affected  rural  households  suffering  house  demolition  of  the  Changle  component, 
+both  an  apartment  in  new  resettlement  community  and  cash  compensation  can  be  provided. 
+The  standards  for  housing  replacement  cost  of  main  houses  are  as  follows:  CNY750/m2  for 
+brick-concrete  structure,  CNY600/m2  for  brick-wood  structure,  CNY200/m2  for  earth-wood 
+structure, and CNY200/m2 for simple structure. A moving subsidy of CNY350 per person will be 
+51 
+paid  for.  The  Changle  County  Government  will  provide  unified  transition  housing  for  affected 
+persons.  In  addition,  households  will  also  receive  compensation  at  replacement  costs  for  the 
+loss  of  ground  attachment  and  utilities.  The  components  of  Gaomi,  Huantai,  Qingzhou,  and 
+Shouguang will not involve house demolition.  
+106.  A fund  of  CNY50,000  in  total  of  the components  is  set  up to  provide  assistance to the 
+vulnerable  groups.  Every  relocated  household  that  lives  below  local  poverty  lines  will  get  the 
+living  subsidy.  The  subsidy  will  be  delivered  as  following  procedures:  (i)  individual  application, 
+(ii) community verification, and (iii) city and/or county PMO confirmation.  
+3. 
+Public Participation and Grievance 
+107.  Public  consultation has been  the key for  the  preparation of the  five  resettlement  plans. 
+From  July  2011  to  January  2015,  a  series  of  consultation  activities  were  carried  out  with  the 
+affected  persons,  resettlement  communities,  institutions  and  enterprises,  and  other  project 
+stakeholders.  The  physical  object  survey  on  land  and  building  asset  inventory,  and  socio-
+economic  survey  of  sample  households,  enterprises,  and  institutions  have  performed.  The 
+affected persons have participated in the preparation of the resettlement plans through the initial 
+measurement  and  socio-economic  surveys,  and  community  meetings.  Their  concerns  and 
+comments  have been  integrated  into  the  resettlement  plans.  Further  consultations  will  be  held 
+during the implementation of the resettlement plans. 31 March 2015 is set as the cut-off date of 
+existing  physical  status  in  the  affected  areas  for  all  five  components.  A  GRM  has  been 
+established  for  the  affected  persons  to  redress  their  LAR  issues,  including  three  steps:  (i) 
+townships resettlement offices, (ii) resettlement offices of subprojects of the project cities and/or 
+counties, and (iii) Shandong PMO. The resettlement information booklets have been disclosed 
+to the affected persons in local language (Chinese) and resettlement plans will be distributed to 
+affected  households,  village  and/or  community  committees,  and  town  and/or  street  offices 
+before the resettlement implementation. In addition, the resettlement plans will be uploaded on 
+ADB  website  in  both  English  and  Chinese.  The  PMO  and  PIOs  will  be  assisted  by  a  national 
+resettlement specialist (7 pm).  
+4. 
+Resettlement and Livelihood Rehabilitation 
+108.  To minimize the resettlement impacts to affected persons and restore their income and 
+living  standards,  detailed  programs  of  restoration  and  relocation  have  been  arranged  in  the 
+resettlement plans. The affected persons can choose the available programs according to their 
+requirements. Based on the socioeconomic survey and analysis of the affected households, and 
+local  experiences  in  relocation  and  resettlement  of  similar  projects,  measures  for  resettlement 
+and  income  restoration  have  been  prepared.  These  measures  include  unified  resettlement 
+housing, distribution of temporary living expenses to the affected persons, employment creation 
+by  the  local  labor  bureaus,  skill  training  for  the  affected  persons,  employment  related  to  the 
+project, non-monetary support, etc.  
+109.  About  11,407.86 mu  of collective  land  acquired will  be  compensated  in cash  based  on 
+the type of land loss. About 9,398 mu of land will be occupied temporarily for channel dredging, 
+dam rehabilitation, and facility pipe installation, for which there will be temporary income losses 
+and  the  compensation  will  be  paid  in  cash.  In  terms  of  house  relocation  of  the  Changle 
+component, 310 rural households will be provided unified apartment units in a new resettlement 
+community  based  on  “get  same  construction  area  to  the  area  of  houses  to  be  demolished”. 
+Local  governments  will  build  the  unified  resettlement  houses.  In  addition,  affected  households 
+will be compensated by cash in standards of different housing structures. About 13 small stores 
+52 
+and/or  shops  operating  with  their  houses  will  suffer  demolition  impacts.  They  will  be 
+compensated  for  their  lost  assets,  and  relocation  and  transitional  allowances  will  be  paid  to 
+them.  
+5. 
+Institutional Arrangement 
+take 
+110.  The Shandong Province PMO will assume the overall responsibility for supervision of the 
+implementation of LAR, including the planning, implementation, financing, and reporting of LAR. 
+The  implementing  agencies:  Changle,  Gaomi,  Huantai,  Qingzhou,  and  Shouguang  PIOs, 
+respectively,  will 
+resettlement  consultation, 
+responsibility 
+implementation, and timely delivery of entitlements. To ensure smooth implementation, the staff 
+in  charge  of  LAR  will  undertake  training  on  resettlement  implementation  organized  by  the 
+Shandong Province PMO. The resettlement implementation schedule has been prepared based 
+on the preparation and construction timetable. The resettlement plans will be updated based on 
+the  final  design  and  detailed  measurement  survey,  disclosed  to  affected  persons  in  local 
+language, and submitted to ADB for review and approval prior to award of civil works contracts.  
+the  primary 
+the 
+for 
+6. 
+Cost and Schedule 
+111.  The total  estimate  budget  is  CNY291.51  million,  including: (i) costs for  permanent  land 
+acquisition of CNY56.786 million (accounting for 19.32% in the total budget); (ii) compensation 
+for  temporary  land  occupation  of  CNY57.927  million  (19.71%);  (iii)  compensation  for  houses 
+demolition  of  CNY36.120  million  (12.29%);  (iv)  compensation  for  ground  affiliated  facilities  of 
+CNY48.299  million  (16.43%);  (v)  taxes  of  CNY36.491  million  (12.42%);  (vi)  contingency  of 
+CNY26.0 million (9.19%); and (vii) other costs of CNY31.294 million (10.65%). 
+7. 
+Monitoring and Reporting 
+for  monitoring  and  reporting  progress  on  LAR 
+112.  Each  PIO  will  be  responsible 
+implementation  to  the  Shandong  PMO,  which  will  be  summarized  in  the  quarterly  progress 
+reports  to  be  submitted  to  ADB.  Each  PIO  will  also  engage  an  external  monitor  to  assess 
+progress, evaluate results, and submit report semiannually. These will be submitted to ADB and 
+disclosed to affected persons.  
+Item 
+Affected town/urban sub-district 
+Affected village/community 
+Permanent land acquisition 
+Total 
+Collective land 
+Farmland 
+Forestry land 
+House plot and  
+construction land 
+Enterprise land 
+Other land 
+State land 
+Temporary land  occupation  Collective land 
+Acquisition of residential 
+houses and structures 
+Affected rural households 
+and persons 
+Affected  urban  households 
+and persons 
+Rural house 
+Rural shanty 
+Urban house 
+Urban shanty 
+Urban enterprise/shop 
+By land acquisition only 
+By house demolition only 
+land  and  house 
+Both 
+acquisition 
+Acquisition  of  residential 
+houses 
+Total of affected households and persons 
+Table 6: Impact of Land Acquisition and Resettlement 
+Unit 
+Changle 
+Component 
+Shouguang 
+Component 
+Huantai 
+Component 
+Qingzhou 
+Component 
+Gaomi 
+Component 
+Total 
+No 
+No 
+mu 
+mu 
+mu 
+mu 
+mu 
+mu 
+mu 
+mu 
+m2 
+m2 
+m2 
+m2 
+m2 
+HH 
+person 
+HH 
+person 
+HH 
+person 
+HH 
+person 
+HH 
+person 
+1 
+9 
+1,767.46 
+1,026.71 
+530.29 
+254.45 
+63.85 
+0 
+178.12 
+740.75 
+674.87 
+44,923.62 
+2,857 
+0 
+0 
+0 
+136 
+530 
+191 
+668 
+119 
+499 
+0 
+0 
+446 
+1,697 
+- 
+- 
+379.73 
+379.73 
+14.1 
+0 
+0 
+0 
+365.63 
+0 
+2,754 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+- 
+- 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+- 
+- 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+- 
+- 
+1.42 
+1.42 
+1.42 
+0 
+0 
+0 
+0 
+0 
+1 
+9 
+2,147.19  
+1,407.86  
+545.81 
+254.45 
+63.85 
+0 
+543.75 
+740.75 
+2,004 
+1,258.85 
+2,730.18 
+9,421.91 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+44,923.62 
+2,857 
+0 
+0 
+0 
+136 
+530 
+191 
+668 
+119 
+499 
+0 
+0 
+446 
+1,697 
+5
+3
+54 
+VIII. 
+GENDER AND SOCIAL DIMENSIONS 
+A. 
+Social and Gender Action Plan 
+1. 
+Introduction 
+113.  A social and gender action plan (SGAP) was prepared jointly by the Shandong Province 
+PMO; and participating local governments of Changle and Huantai counties, Gaomi, Qingzhou, 
+and Shouguang cities, with the assistance of the PPTA social experts.  
+2. 
+Purpose 
+114.  The purpose of the SGAP is to ensure that important social, poverty, and gender issues 
+are addressed during project implementation to enhance project benefits and mitigate any likely 
+negative  impacts.  Any  adverse  impacts  need  to  be  avoided  or  mitigated,  and  project  benefits 
+should  be  inclusive  of  vulnerable  groups  (e.g.,  poor,  women,  and  others).  The  SGAP 
+emphasizes social inclusion and equitable access to project benefits.  
+3. 
+Basis for the Social and Gender Action Plan 
+115.  The SGAP has focused on issues related to directly affected people, vulnerable people, 
+gender, and local social and agricultural development. Measures to address these issues have 
+been  formulated  based  on  the  poverty  and  social  assessment  report  and  adopted  based  on 
+extensive  stakeholder  consultation.  The  main  actions  can  be  grouped  into  three  types:  (i)  for 
+structure components in outputs 1 and 2, the project benefits enhancement measures such as 
+employment promotion and social risks mitigation measures such as pro-poor activities will be 
+within  the  direct  control  of  the  implementing  agencies;  (ii)  for  non-structure  components  in 
+outputs  1  and  2,  public  awareness  activities  and  campaigns  on  water  saving  technology, 
+irrigation water quota, water rights trading, ascending water pricing, etc. will be organized in the 
+subproject  areas  each  year,  being  the  responsibility  of  the  Shandong  Province  PMO  and 
+country PIOs.21 In the case of Huantai subproject, public hearings on water quota, water rights 
+trading, and ascending water pricing will be arranged in case of any changes in water price; and 
+(iii)  for  two  capacity  development  components  in  output  3,  training,  meetings,  consultations, 
+case  studies,  workshops  and  seminars  on  decision  making,  ADB  project  management 
+procedures, technical design and implementation, public awareness, and consultation capacity 
+enhancement will be arranged by the Shandong Province PMO and exchange opportunities for 
+the five subproject counties/cities to learn local good practices from each other will be provided. 
+Examples of good practices may include but are not limited to precise agriculture, sophisticated 
+greenhouse  cultivation,  agricultural  water  saving  technologies,  rain  water  and  dew  water 
+collection,  groundwater  and  surface  water  monitoring,  farmers’  training  experiment  base,  and 
+farmers’  water  user  association.  Table  9  presents  the  SGAP,  including  the  proposed  actions, 
+target groups, implementing agencies, timing, funding source, and monitoring indicators.  
+21  For example, local school’s regular classes and activities on water saving, water resource protection, and pollution 
+control  will  continue  to  play  a  fundamental  role  in  youth  education  and  students  are  invited  to  involve  in  the 
+promotion of the project’s new concepts. 
+55 
+4. 
+Gender Aspects 
+116.  The  project  is  classified  by  ADB  as  “some  gender  elements”.  The  Shandong  Province 
+PMO and the participating local governments have agreed to take following actions to enhance 
+project benefits for women: (i) contractors hire women for project implementation with a target of 
+30% of newly created civil work positions; (ii) hire women for facilities’ operation with a target of 
+30%  of  newly  created  positions  in  reservoirs,  river  courses,  open  canals,  etc.;  (iii)  conduct 
+workshops  and  seminars  on  capacity  development  and  public  awareness  enhancement  and 
+rotation show cases by the five subprojects with a target of 30% of female participants; and (iv) 
+hold public hearings for irrigation water quota, ascending pricing, and trading with a target of 40% 
+of female residents of the Huantai component.  
+117.  The gender actions stress inclusion of all the society through:  
+(i) 
+(ii) 
+(iii) 
+Public  participation  and  awareness  enhancement.  During  the  four-year  project 
+implementation  phase,  campaigns  each  year  on  agricultural  water  saving 
+technology  application;  and  promotion  of  agricultural  water  quota,  water  right 
+trade,  and  ascending  water  pricing  will  require  participation  by  women  all  over 
+the  project  area.  Local  school’s  regular  classes  and  activities  on  water  saving, 
+water  resource  protection,  and  pollution  control  will  continue  to  play  a 
+fundamental  role  in  education,  and  school  girls  are  invited  to  involve  in  the 
+promotion of the project’s new concepts. In the case of Huantai, public hearings 
+on  water  quota,  water  right  trade,  and  ascending  water  pricing  will  require 
+participation by 40% female representatives. Results will be regularly reported on 
+the project performance monitoring system. 
+Employment  enhancement.  Employment  enhancement  measures  will  include 
+consultation  and  participation  of  women  during  project  design  and 
+implementation,  and  preferential  employment  of  women  as  unskilled  laborers 
+during and after project implementation. The employment plan includes a target 
+of 30% for women in civil work during project implementation and in operation of 
+reservoirs, river coarse and open canals, etc. 
+Capacity  development.  Measures  will  include  training,  meetings,  consultations, 
+case  studies,  and  workshops  on  topics  including  decision  making,  project 
+management,  safeguard  supervision  and  monitoring,  implementation  of  land 
+acquisition  and  resettlement,  public  awareness,  and  consultation  on  capability 
+enhancement. The training plan for capacity development has a target of 30% for 
+women’s  participation. The  project  will  also  organize  subproject  cities  and/or 
+counties to learn good practices from each other with a target of 30% for female 
+participants. 
+5. 
+Poverty Reduction Aspects 
+118.  The  Shandong  Province  PMO  and  county  and city  PIOs  have agreed  to  take following 
+actions to enhance project benefits for the poor: (i) coordinating with contractors and local street 
+offices or the affected villages to hire laborers from poverty villagers and/or households with a 
+target of 15% of newly created positions for project construction; (ii) hiring laborers from poverty 
+villagers/households  with  a  target  of  15%  of  newly  created  positions  for  project  operation;  (iii) 
+public hearings for irrigation water quota, ascending pricing and trading with a target of 15% of 
+representatives  from  low-income  households;  (iv)  supporting  local  governments  in  technical 
+56 
+training  programs  or  providing  training  for  new  workers  before  taking  positions;  and  (v) 
+promoting non-farm employment opportunities.  
+6. 
+Implementation Arrangements 
+119.  The  SGAP  will  be  implemented  by  the  county  and  city  PIOs  of  the  five  subprojects  in 
+coordination with local governments as indicated in Table 9. Each PIO will appoint at least one 
+staff to manage the SGAP implementation. The Shandong Province PMO will be responsible for 
+overseeing  the  PIOs  implementing  those  actions  within  their  direct  control,  as  well  as 
+supervision of related activities that involve the construction contractors. For actions outside the 
+direct mandates of the PMO and PIOs, the assigned staff will be responsible to liaise with the 
+relevant  local  government  agencies,  township  governments,  or  village  committees.  This  will 
+ensure that appropriate measures are taken in a timely and satisfactory manner. The SPMO will 
+also  be  responsible for monitoring  and  reporting  progress,  issues,  and  results.  The  Shandong 
+Province  PMO  will  provide  ADB  with  SGAP  monitoring  reports  for  review  semiannually  and 
+follow-up  during  loan  supervision  missions.  If  necessary,  ADB  and  the  executing  agency  may 
+agree to revise the SGAP to improve the effectiveness of the proposed measures.  
+7. 
+Funding Sources 
+120.  There are no specific funding sources for the SGAP other than: (i) the project cost (e.g., 
+civil  works,  environmental  management  plan,  or  resettlement  plan  costs);  (ii)  support  from  the 
+project implementation consultants; and (iii) local government funding for poverty reduction, etc. 
+In this manner, some activities in the SGAP will be part of the project implementation and others 
+will  be  integrated  with  ongoing  government  programs.  The  Shandong  Province  PMO  will 
+monitor implementation to ensure that sufficient funding is made available in a timely manner.  
+Table 9: Social and Gender Action Plan 
+5
+7
+Proposed Actions 
+Target Group(s) 
+Output/ 
+Component 
+Output 1: 
+(I) 
+Output 2: 
+(I) (II) 
+1.  Employment Priority to 
+Local People During 
+Project Implementation 
+  Priority to local labor in 
+general.  
+  Use of local construction 
+materials, e.g., rock, gravel, 
+clay, cement 
+  Training on work safety, 
+health and skills to be 
+provided by contractors 
+2.  Protect local communities 
+from construction 
+disturbances and ensure 
+safe construction 
+practices 
+  Prohibit nighttime 
+construction and adhere to 
+proposed noise standards 
+  Reconstruct public facility 
+systems such as road, poles 
+and transformers recovery 
+due to water pipe 
+installation 
+  Construction safety 
+enhancement, including 
+temporary road traffic (e.g., 
+safe road conditions and 
+proper warning signage) 
+3.  Control and Prevention of 
+the of HIV/AIDS/STIs 
+  Centre for Disease 
+About 1,680 full 
+time positions 
+during project 
+construction 
+Targets:  
+  15% women for 
+labors in civil 
+work 
+  15% poor for 
+unskilled labor 
+in civil work 
+  100% workers 
+receive the 
+training 
+Residents close to 
+project sites 
+Timing 
+2016–
+2019 
+Funding Needs 
+and Source 
+Included in project 
+civil works cost and 
+paid by contractors 
+Agencies 
+Involved 
+SPMO, subproject 
+PMOs and IAs, 
+contractors, local 
+street offices, 
+township 
+governments, 
+village committees 
+2016–
+2020 
+Included in project 
+cost (refer to EMP) 
+Subproject PMOs, 
+IAs, contractors, 
+local 
+governments, and 
+residence 
+communities 
+Monitoring 
+Indicators 
+ No. of local 
+people employed 
+(disaggregated by 
+sex, skilled/ 
+unskilled and 
+poverty status) 
+ Wages 
+(disaggregated) 
+paid to local 
+people 
+ Value of 
+construction 
+materials supplied 
+locally 
+ Training of local 
+workers 
+ No. and resolution 
+of complaints (sex 
+disaggregated) 
+ Number of public 
+facilities (% 
+recovery) 
+ Accidents on 
+temporary 
+construction roads  
+ Accidents on 
+project site 
+All project 
+construction 
+workers 
+Subproject PMOs, 
+IAs, Contractors, 
+local CDPCs, and 
+2016–
+2020 
+Awareness training 
+costs for workers 
+are included in 
+ No. of manuals, 
+posters and 
+drawing 
+5
+7
+Output/ 
+Component 
+Proposed Actions 
+Target Group(s) 
+Prevention and Control 
+(CDPC) provides training to 
+worksite health promoters 
+  Health promoters provide 
+training to all workers and 
+managers and 
+subcontractors 
+  HIV/AIDS and STI 
+counseling program and 
+voluntary testing by health 
+agencies for workers  
+  Provide manuals, posters 
+and drawings 
+4.  Employment Priority to 
+Local People During 
+Project Operation 
+  Priority to local labor in 
+general 
+  Training on work safety, 
+health and skills to be 
+provided by operation units 
+5.  Pro- poor program 
+ 
+Inclusion of rural poor 
+affected by land acquisition 
+and resettlement under the 
+minimum living standard 
+security program based on 
+Targets: 
+  100% of 
+worksite health 
+promoters 
+  100% of 
+workers 
+managers and 
+sub-
+constructors 
+  100% of 
+communities 
+and villages 
+near the project 
+sites 
+  100% of 
+workplaces and 
+project sites 
+170 full time 
+positions in 
+reservoir, river 
+course and open 
+canals operation  
+Targets: 
+  30% women of 
+the positions 
+  15% poor of the 
+positions 
+  100% workers 
+receive the 
+training 
+Rural poor 
+affected by the 
+resettlement 
+Targets: 
+  100% of rural 
+poor 
+5
+8
+5
+8
+Agencies 
+Involved 
+local governments 
+Timing 
+Funding Needs 
+and Source 
+contract costs. 
+Local CDPCs costs  
+included in 
+Department of 
+Health budget 
+Monitoring 
+Indicators 
+distributed  
+ No. of training 
+sessions and 
+trainees (sex 
+disaggregated) 
+ No. of tests and 
+HIV/AIDS/STI 
+cases 
+(disaggregated) if 
+have 
+SPMO, subproject 
+PMOs, IAs, HRB, 
+WRB, local street 
+offices, township 
+governments, 
+village committees 
+2018 
+onwards 
+Included in project 
+operation cost and 
+paid by operation 
+units 
+2016 
+onwards 
+Subproject 
+government budget 
+Subproject 
+city/county 
+governments, 
+CAB, HRB, 
+township 
+governments, 
+ No. of local 
+people employed 
+(disaggregated by 
+sex, skilled/ 
+unskilled and 
+poverty status) 
+ Wages 
+(disaggregated) 
+paid to local 
+people 
+ Training of local 
+workers 
+ No. of poor 
+designated from 
+the affected 
+villagers 
+Output/ 
+Component 
+Proposed Actions 
+Target Group(s) 
+Agencies 
+Involved 
+village committees 
+Timing 
+Funding Needs 
+and Source 
+Monitoring 
+Indicators 
+ 
+ 
+careful assessment of their 
+economic status  
+Inclusion of the poor and 
+vulnerable households 
+under project benefits 
+Inclusion of skill and job 
+training for affected poor 
+households for livelihood 
+restoration 
+1. Organize water conservation 
+awareness campaigns each 
+year on water law, irrigation 
+water saving knowledge, 
+technologies and sustainable 
+usage. 
+2. Each year school activities, 
+such as class discussion, 
+papers writing, public 
+outreaches, on water law, 
+irrigation water saving 
+knowledge, technologies and 
+sustainable usage. 
+1.Organize water conservation 
+awareness campaigns each 
+year on irrigation water 
+quota, water right trade, and 
+ascending water pricing  
+2.Each year school activities, 
+such as class discussion, 
+papers writing, public 
+outreaches, on irrigation 
+water quota, water right 
+trade, and ascending water 
+pricing 
+Public Hearings for Huantai 
+Subproject on :  
+  Agriculture Water Quota 
+Output 1: 
+(II) 
+Output 1: 
+(III) 
+Output 1: 
+(III) 
+Subproject areas: 
+Targets: 
+  All the people  
+  All the students  
+SPMO, subproject 
+PMOs, 
+implementing 
+agencies, WRS,  
+FWUA, sub-
+districts, village 
+committees, 
+schools 
+2016–
+2020 
+Local government 
+budget 
+t 
+ No. of 
+communities 
+ No. of villages 
+ No. of schools 
+ No. of events  
+ No. of participants 
+(disaggregated by 
+sex) 
+ Types of means 
+(TV, radio, 
+newspaper, 
+mobile vehicle 
+broadcasting, 
+village 
+loudspeaker, 
+flyers, 
+advertisements, 
+LED messages, 
+movies, etc.) 
+Residents in 
+Huantai County 
+SPMO, Huantai 
+County 
+Government, 
+Before 
+2020  
+No budget needed 
+ No. of public 
+hearings  
+ No. of participants 
+5
+9
+5
+9
+6
+0
+6
+0
+Agencies 
+Involved 
+Huantai PMO 
+(WRB), IAs, local 
+FB, PB, sub-
+districts,  township 
+governments and 
+village committees 
+Timing 
+Funding Needs 
+and Source 
+Monitoring 
+Indicators 
+ (sex 
+disaggregated, 
+poor households)  
+2016–
+2020 
+SPMO, Subproject 
+PMOs, local 
+governments, 
+implementing 
+agencies 
+Budgets included 
+in Output 3 Project 
+Implementation 
+Supported 
+ No. of workshops 
+and seminars, etc. 
+ No. of participants 
+(sex 
+disaggregated)  
+ No. of female 
+decision-makers 
+Output/ 
+Component 
+Output 2: 
+(III) 
+Output 3: 
+(I) (II) 
+Proposed Actions 
+Target Group(s) 
+Target:  
+  At least 15% of 
+representatives 
+from low-
+income 
+households 
+  At least 40% 
+female 
+representatives  
+Project 
+implementation 
+staff 
+Target:  
+  30% female 
+participants 
+  1 female staff in 
+each PMO 
+  1 assigned staff 
+in charge of 
+SGAP and GAP 
+implementation 
+  Agriculture Water Right 
+Trade 
+  Agriculture Water 
+Ascending Pricing 
+1.  Capacity development and 
+training of SPG and county 
+staff in ADB project 
+management procedures, 
+technical design and 
+implementation, and 
+safeguard supervision and 
+monitoring.  
+2.  Provide overall project 
+implementation support for 
+the SPG and counties staff, 
+including implementation of 
+land acquisition and 
+resettlement. 
+3.  Show cases on local good 
+practices by Subproject 
+Counties/Cities: 
+  2016 Huantai (integrated 
+circuit card)  
+  2017 Shouguang (Smart 
+Greenhouse) and Qingzhou  
+  2018 Changle and Gaomi  
+AP = affected persons, CAB = Civil Affairs Bureau, CC = community committee, CDPC = centers for disease prevention and control, DI = design institute,  DPA = Direct 
+Project  Area,  EA  =  executing  agency,  FB  =  Finance  Bureau,  HH  =  household,  GAP  =  gender  action  plan,  IA  =  implementing  agency,  LAR  =  land  acquisition  and 
+resettlement,  SPMO  =Shandong  Project  Management  Office,  PADO  =  Poverty  Alleviation  and  Development  Office,  PB  =  Price  Bureau,  RIB  =  resettlement  information 
+booklet, RP = resettlement plan, Subproject PMO = subproject management offices, STI = sexually transmitted infection. 
+61 
+IX. 
+PERFORMANCE MONITORING, EVALUATION, REPORTING AND 
+COMMUNICATION 
+121.  A draft DMF for the project has been prepared during the PPTA work in accordance with 
+ADB’s guidelines. The DMF was developed following a set of principles, including:  
+(i) 
+(ii) 
+(iii) 
+Maintain the integrity of the DMF as a monitoring tool;  
+Select indicators that can be supported with readily available data; and 
+Choose  benefit  indicators  that  are  appropriately  matched  to  the  anticipated 
+benefits. 
+122.  For each design category (impact, outcome, and outputs), performance indicators, data 
+sources and reporting mechanisms, assumptions and risks were selected and specified during 
+the  PPTA.  Activities  with  milestones  for  each  of  the  three  outputs  were  also  identified  and 
+specified in the DMF.  
+A. 
+Project Design and Monitoring Framework  
+Impacts the Project is Aligned with: 
+Groundwater supply for the agriculture sector in the Weifang–Zibo area sustained 
+(State  Council.  2011.  National  Plan  to  Protect  the  Safety  of  Groundwater  Resources,  2011–2020.. 
+Beijing; State Council. 2015. Action Plan to Tackle Groundwater Pollution. Beijing) 
+Performance Indicators with 
+Targets and Baselines 
+Data Sources and 
+Reporting 
+Risks 
+Results Chain 
+Outcome 
+Conservation and 
+sustainable use of 
+groundwater 
+resources in 
+Weifang and Zibo 
+prefectures 
+improved 
+By 2023 
+a. Average groundwater levels 
+recovering over an area of 
+120,000 ha in the groundwater 
+depression zone 
+(2014 baseline: 0 ha) 
+b. Additional annual surface 
+water retained to groundwater 
+depression zone to the expected 
+amount of 60 million m3 (2014 
+baseline: 0 m3) 
+Outputs 
+1. Groundwater 
+recharged and 
+conserved  
+By 2022 
+1a. About 880 ha of wetlands 
+created  
+(2014 baseline: 0 ha) 
+Project technical and 
+progress reports 
+Annual groundwater 
+monitoring and 
+assessment reports 
+from the SPG 
+Other available 
+bulletins and 
+assessment reports 
+from the SPG 
+Inadequate 
+institutional 
+coordination among 
+the local 
+governments on 
+improved water 
+resource allocation 
+Water demand from 
+urban and industrial 
+sector increases to 
+unsustainable 
+levels 
+1a. Project technical 
+and progress reports 
+Late release of 
+counterpart funds 
+1b. Annual water supply to Mata 
+Lake and Judian Lake wetlands 
+reaches 47 million m3  
+(2014 baseline: 12 million m3) 
+1b. Annual reports 
+from the SPG and 
+Weifang and Zibo 
+prefectures 
+6
+2
+62 
+Results Chain 
+2. Surface water 
+allocation improved 
+and monitored 
+3. Capacity 
+development for 
+water resources 
+management 
+enhanced 
+Performance Indicators with 
+Targets and Baselines 
+1c. Water resources monitoring 
+system in Huantai County 
+operational 
+(2014 baseline: none) 
+Data Sources and 
+Reporting 
+1c. Surface water and 
+groundwater 
+monitoring data and 
+reports from the SPG  
+Risks 
+By 2022 
+2a. About 345 km of canals 
+constructed, rehabilitated, and 
+improved to reallocate water to 
+water-scarce areas 
+(2014 baseline: 0 km) 
+2b. Capacity to retain and store 
+up to 8.3 million m3 of rainwater 
+per year by the Nanzhai and 
+Juchenghe reservoirs 
+(2014 baseline: 3.7 million m3) 
+2c. Capacity of water diversion 
+by the reservoir connection 
+works under the project 
+increases to 49 million m3 per 
+year 
+(2014 baseline: none) 
+2d. 40 km of water supply pipes 
+installed or upgraded in Gaomi 
+and Qingzhou cities 
+(2014 baseline: 0 km) 
+By 2022: 
+3a. About 150 qualified SPG and 
+city and county water resources 
+management staff (at least 30% 
+of whom are female) trained on 
+water resources management 
+information system 
+establishment, water user 
+association piloting, and water 
+saving technologies promotion 
+(2014 baseline: 0) 
+3b. At least three knowledge 
+products will be published to 
+document the demonstration 
+activities 
+(2014 baseline: 0) 
+2a. Project technical 
+and progress reports 
+Implementation of 
+resettlement plan 
+encounters 
+problems and 
+delays 
+2b. Annual reports 
+from the SPG and 
+Weifang and Zibo 
+prefectures  
+2c. SPG flow 
+monitoring data and 
+water diversion 
+records 
+3a. Project technical 
+and progress reports 
+High turnover of 
+trained staff 
+3b. Annual reports 
+from the SPG 
+Results Chain 
+Performance Indicators with 
+Targets and Baselines 
+Data Sources and 
+Reporting 
+Risks 
+63 
+3c. Creation of about (i) 1,680 
+jobs during construction, with 
+20% women and 20% poor (with 
+necessary trainings provided); 
+and 170 jobs during operation of 
+the project, with 20% women 
+and 20% poor (with necessary 
+trainings provided) 
+(2014 baseline: 0) 
+Key Activities with Milestones 
+Groundwater recharged and conserved 
+1. 
+1.1  Acquire land and conduct temporary land occupation activities during 2015–2017 
+1.2  Rehabilitate  and construct  1,600 ha of  wetland areas for Judian  Lake for the recharge  of shallow 
+groundwater resources by 2020 
+Implement technological innovation monitoring of groundwater recharge by 2021 
+1.3 
+Surface water allocation improved and monitored 
+2. 
+2.1  Acquire  land  and  conduct  resettlement  activities  for  the  Nanzhai  Reservoir  and  canals  during 
+2015–2019 
+2.2  Construct 45 km of new water allocation channels by 2020 
+2.3  Construct 40 km of new water allocation pipes and/or culverts by 2019 
+2.4  Rehabilitate 300 km of rivers and/or channels by 2020 
+2.5  Construct 29 million m3 of wetland retention capacity of storm water by 2020 
+2.6 
+2.7  Establish  modernized  digital  water  flow  and  quality  monitoring,  including  disclosure  and 
+Improve surface water allocation by 2019 
+dissemination of groundwater information by 2020 
+Capacity development for water resources management enhanced 
+3. 
+3.1  Support project final design and implementation during 2016–2022 
+3.2  Conduct capacity development and training  for five staff members from the  SPG and 30 from the 
+city  and  county  governments  in  ADB  project  management  procedures,  technical  design  and 
+implementation, and safeguard supervision and monitoring by 2017 
+3.3  Develop  and  implement  innovative  economic  and  regulatory  instruments  for  groundwater 
+conservation by 2020 
+3.4  Complete a water pricing strategy by 2020 
+3.5  Provide overall project implementation support for  staff from the SPG and the prefecture, city and 
+county  governments,  including  implementation  of  land  acquisition  and  resettlement  during  2015–
+2022 
+Inputs 
+ADB                                                              $150.00 million 
+Government                                                 $194.03 million 
+Beneficiaries                                                $TBD 
+Assumptions for Partner Financing 
+Not Applicable 
+ADB  =  Asian  Development  Bank,  ha  =  hectare,  km  =  kilometer,  m3  =  cubic  meter,  SPG  =  Shandong  Provincial 
+Government. 
+Source: ADB estimates. 
+6
+3
+6
+4
+64 
+B. 
+Monitoring 
+1. 
+Project performance monitoring 
+123.  Project performance monitoring. To monitor project progress in achieving the planned 
+outcome  and  outputs,  the  PMO  will  establish  and  maintain  PPMS,  which  will  be  designed  to 
+permit  adequate  flexibility  to  adopt  remedial  action  regarding  project  design,  schedules, 
+activities,  and  development  impacts.  The  PPMS  will  adopt  agreed  indicators  relating  to  the 
+following  aspects  of  the  project:  (i)  project  physical  and financial  progress,  (ii)  improvement  in 
+groundwater level and groundwater conservation, (iii) improvement in surface water allocation, 
+(iv) safeguard compliance and SGAP implementation, and (v) results of project implementation 
+support through training and management.  
+124.  At the beginning of project implementation, the PMO will develop comprehensive PPMS 
+procedures  to  systematically  generate  data  in  the  above  areas  in  consultation  with  the 
+implementing  agency,  and  with  the  assistance  of  consultants.  The  PMO  will  refine  the  PPMS 
+framework,  confirm  achievable  targets,  monitoring  and  recording  arrangements,  and  establish 
+relevant systems and procedures not later than 6 months after loan effectiveness. The PMO will 
+assign  staff,  or  contract consultants to  collect  baseline  and  progress  data at  the requisite  time 
+intervals,  including  annual  reporting.  The  PMO  will  be  responsible  for  analyzing  and 
+consolidating  reported  data  through  its  management  information  system,  and  reporting 
+outcomes to ADB through semiannual progress reports.  
+125.  Compliance monitoring. During project implementation, ADB and the PMO will closely 
+monitor the compliance of all the covenants under the project and will take necessary remedial 
+actions for any noncompliance. The compliance status will be reported in the quarterly progress 
+report by the PMO and will be reviewed during project review missions.  
+2. 
+Safeguards monitoring  
+a) 
+Environment 
+126.  The  project  monitoring  program  focuses  on  the  environment  in  the  project  areas  of 
+influence  in  the  five  project  cities/counties.  A  detailed  environmental  monitoring  program  is  in 
+Table EMP-8 of the project EMP (including parameters, time and frequency, implementing and 
+supervising agencies, and estimated costs). The monitoring shall comply with the methodology 
+provided  in  the  relevant  national  environmental  monitoring  standards.  Other  associated 
+standards to be followed are the national environmental quality standards of air, surface water, 
+groundwater and noise, and the pollutant discharge standards.  
+Internal  monitoring  and  supervision  and  reporting  by  CSCs.  During  construction, 
+127. 
+the  CSCs  will  be  responsible  for  conducting  internal  environmental  monitoring  in  accordance 
+with  the  monitoring  plan  (Table  EMP-7,  Table  EMP-8  of  the  EMP).  Supervision  results  will  be 
+reported through the CSC reports to the PIOs.  
+128.  EMP  implementation  monitoring  and  progress  reporting.  The  LIEC  will  review 
+project  progress  and  compliance  with  the  EMP  based  on  field  visits,  and  the  review  of  the 
+environmental monitoring conducted by the EMS. The findings of the LIECs will be reported to 
+ADB through the semiannual EMP monitoring and progress reports. The reports will include (i) 
+progress  made  in  EMP  implementation,  (ii)  overall  effectiveness  of  the  EMP  implementation 
+(including  public  and  occupational  health  and  safety),  (iii)  environmental  monitoring  and 
+65 
+compliance, (iv) institutional strengthening and training, (v) public consultation (including GRM), 
+and  (vi)  any  problems  encountered  during  construction  and  operation,  and  the  relevant 
+corrective  actions  undertaken.  The  LIEC  will  help  PMO  prepare  the  reports  and  submit  the 
+English report to ADB for appraisal and disclosure.  
+129.  Project  completion  environmental  audits.  Upon  completion  of  each  subproject, 
+environmental  acceptance  monitoring  and  audit  reports  shall  be  (i)  prepared  by  a  licensed 
+environmental  monitoring  institute  in  accordance  with  the  PRC’s  Guideline  on  Project 
+Completion Environmental Audit (2001), (ii) reviewed for approval of the official commencement 
+of individual subproject operation by environmental authorities, and (iii) finally reported to ADB 
+through  the  semiannual  EMP  monitoring  and  progress  reporting  process.  These  subproject 
+completion  reports  shall  be  finalized  within  3  months  after  each  subproject  completion,  or  no 
+later than 1 year with permission of the local environment protection bureaus.  
+130.  Environmental compliance monitoring by local EMS. The PIOs in each city or county 
+will contract the city or county EMS to conduct environmental monitoring in accordance with the 
+monitoring  program.  A  detailed  cost  breakdown will  be  provided by  the  county  EMS  when the 
+environmental  monitoring  program  is  updated  at  the  start  of  each  component  implementation. 
+Monitoring  will  be  conducted  during  construction  and  operation  period,  until  a  PCR  is  issued. 
+Semiannual  monitoring  reports  will  be  prepared  by  the  EMSs  and  submitted  to  PMO  and  the 
+PIOs.  
+131.  Quality assurance/quality control for compliance monitoring. To ensure accuracy of 
+the  monitoring,  the  QA/QC  procedures  will  be  conducted  in  accordance  with  the  following 
+regulations:  
+(i) 
+(ii) 
+(iii) 
+Regulations  of  QA/AC Management for  Environmental  Monitoring  issued by  the 
+State Environmental Protection Administration in July 2006;  
+QA/QC  Manual  for  Environmental Water  Monitoring (Second  edition),  published 
+by the State Environmental Monitoring Centre in 2001; and  
+QA/QC  Manual  for  Environmental  Air  Monitoring  published  by  the  State 
+Environmental Monitoring Centre in 2001. 
+b) 
+Land Acquisition and Resettlement 
+132.  Requirements  for  both  the  internal  and  external  monitoring  and  evaluation  (M&E)  are 
+included in the resettlement plans. The Shandong Province PMO will summarize LAR progress 
+in the quarterly progress reports to ADB. Furthermore, the Shandong Province PMO will ensure 
+an external resettlement monitoring institute or firm is engaged to assess progress and evaluate 
+results.  Resettlement  baseline  surveys  will  be  completed  before  the  LAR  begins  and  the  first 
+monitoring  report  will  be  submitted  in  December  2015.  After  that  and  until  the  project 
+completion,  semiannual  monitoring  reports  will  be  prepared  and  submitted  to  ADB  and  the 
+PMO.  
+3. 
+Social and gender monitoring 
+133.  Social  and  gender  action  plan.  Monitoring  and  evaluation  of  the  SGAP  will  be 
+incorporated into the overall monitoring and evaluation plan for the project. The PMO and PIOs 
+will  be  responsible  for  establishing  and  coordinating  regular  monitoring  and  evaluation.  ADB 
+staff  with  expertise  in  gender  issues  will  participate  in  the  midterm  review.  The  project 
+implementation  consultant  will  work  with  Shandong  PMO  and  PIO  staff  to  create  an 
+6
+5
+66 
+6
+6
+implementation  and  monitoring  plan  for  each  of  the  tasks  outlined,  help  to  complete  the  first 
+semiannual  progress  report,  and  review  the  second  semiannual  report  prepared  by  the  PMO 
+and PIOs.  
+C. 
+Evaluation 
+134. 
+In  addition  to  regular  monitoring,  project  performance  will  be  reviewed  at  least  once  a 
+year  jointly  by  ADB  and  the  SWRD.  The  review  will  assess  implementation  performance  and 
+achievement  of  project  outcomes  and  outputs,  assess  financial  progress,  identify  issues  and 
+constraints affecting implementation, and work out a time-bound action plan for their resolution. 
+ADB  and  SWRD  will  undertake  a  midterm  review  to  assess  implementation  status  and  take 
+appropriate measures—including modification of scope and implementation arrangements, and 
+reallocation  of  loan  proceeds,  as  appropriate—to  achieve  the  project  impact  and  outcome. 
+Within 3 months of physical completion of the project, SWRD will submit a PCR to ADB.  
+D. 
+Reporting 
+135.  SWRD  will  provide  ADB  with  (i)  quarterly  progress  reports  in  a  format  consistent  with 
+ADB's  project  performance  reporting  system;  (ii)  consolidated  annual  reports  including  (a) 
+progress achieved by output as measured through the indicator's performance targets, (b) key 
+implementation  issues  and  solutions;  (c)  updated  procurement  plan  and  (d)  updated 
+implementation plan for next 12 months; and (iii) a PCR within 6 months of physical completion 
+of the project. To ensure projects continue to be both viable and sustainable, project accounts 
+and  the  executing  agency  AFSs,  together  with  the  associated  auditor's  report,  should  be 
+adequately reviewed.  
+136.  Within 6 months after project completion, the PMO will prepare, in coordination with the 
+PIO and SPG, and submit to ADB a PCR evaluating the performance of the PMO and PIO; and 
+summarizing  the  loan  funds  utilization,  project  implementation,  attainment  of  project  impact, 
+outcome,  and  outputs,  implementation  experience,  project  performance,  actual  costs  incurred, 
+benefits,  and  other  information  requested  by  ADB,  and  assessing  the  accomplishment  of  the 
+purposes of the loan.  
+E. 
+Stakeholder Communication Strategy 
+137.  Relevant  project  information,  including  implementation  progress,  will  be  disclosed  in 
+ADB  website  and  at  the  PMO  and  PIOs.  This  may  include  the  DMF,  the  environmental 
+assessment,  the  EMP,  resettlement  plans,  and  SGAP.  Stakeholder  workshops  will  be  held 
+throughout  project  implementation  to  encourage  key  stakeholders,  particularly  workers  and 
+residents  in project  areas,  to  participate  in  achieving  the  project  benefits  and to make sure all 
+stakeholders, including women, poor and other vulnerable groups, benefit from the project.  
+X. 
+ANTICORRUPTION POLICY 
+138.  ADB reserves the right to investigate, directly or through its agents, any violations of the 
+Anticorruption  Policy  relating  to  the  project. 22  All  contracts  financed  by  ADB  shall  include 
+provisions  specifying  the  right  of  ADB  to  audit  and  examine  the  records  and  accounts  of  the 
+executing agency and all project contractors, suppliers, consultants and other service providers. 
+22  Available at: http://www.adb.org/Documents/Policies/Anticorruption-Integrity/Policies-Strategies.pdf 
+67 
+Individuals/entities  on  ADB’s  anticorruption  debarment  list  are  ineligible  to  participate  in  ADB-
+financed activity and may not be awarded any contracts under the project.23  
+139.  To support these efforts, relevant provisions are included in the loan agreement and the 
+bidding documents for the project.  
+XI. 
+ACCOUNTABILITY MECHANISM 
+140.  People  who  are,  or may  in the future  be,  adversely  affected  by the  project  may  submit 
+complaints  to  ADB’s  Accountability  Mechanism.  The  Accountability  Mechanism  provides  an 
+independent  forum  and  process  whereby  people  adversely  affected  by  ADB-assisted  projects 
+can voice, and seek a resolution of their problems, as well as report alleged violations of ADB’s 
+operational  policies  and  procedures.  Before  submitting  a  complaint  to  the  Accountability 
+Mechanism, affected people should make a good faith effort to solve their problems by working 
+with  the  concerned  ADB  operations  department.    Only  after  doing  that,  and  if  they  are  still 
+dissatisfied, should they approach the Accountability Mechanism.24  
+XII. 
+RECORD OF PAM CHANGES 
+141.  All revisions and/or updates during course of implementation should  be retained in this 
+Section to provide a chronological history of changes to implemented arrangements recorded in 
+the PAM.  
+23  ADB's Integrity Office web site is available at: http://www.adb.org/integrity/unit.asp 
+24  For further information see: http://www.adb.org/Accountability-Mechanism/default.asp.  
+6
+7
+68 
+Appendix 1 
+DRAFT TERMS OF REFERENCE FOR ENVIRONMENTAL POSITIONS 
+1. 
+PMO Environment Officer 
+A. 
+Background 
+1. 
+Development  projects  supported  by  the  Asian  Development  Bank  (ADB)  routinely 
+include a project management office (PMO). The PMO is responsible for project implementation 
+and comprises the provincial and/or municipal agencies involved in the project. Compliance with 
+the  loan and  project  agreements  include implementation of  an  environment  management  plan 
+(EMP),  which  is  prepared  as  part  of  the  project  environment  impact  assessment.  The  EMP  is 
+the  critical  guiding  document  to  manage,  monitor,  and  report  upon  potential  project 
+environmental impacts. Implementation of the EMP is a full-time task. For this reason, the PMO 
+assigns  at  least  one  full-time  officer  for  this  role.  These  terms  of  reference  describe  the 
+requirements for this officer. 
+B. 
+Scope and Duration of Work 
+The officer will work on behalf of the PMO to implement the project EMP. The officer will 
+2. 
+report directly to the PMO. The position is for the entire project duration (6 years). 
+C. 
+Qualifications 
+3. 
+The officer will have: (i) a bachelor’s degree or higher in environmental management or 
+related field; (ii) at least 5 years of experience in environmental management, monitoring, and/or 
+impact  assessment;  (iii)  ability  to  communicate  and  work  effectively  with  local  communities, 
+contractors, and government agencies; (iv) ability to analyze data and prepare technical reports; 
+(v)  willingness  and  health  to  regularly  visit  the  project  construction  sites  and  in  different 
+seasons; and (vi) ideally, proficiency in spoken and written English.  
+D. 
+Detailed Tasks 
+The PMO environment officer will have a detailed understanding of the project EMP and 
+4. 
+supporting documents, including the domestic environmental reports, the project environmental 
+impact  assessment  (EIA),  and  project  environmental  assurances.  The  officer  will  have  the 
+following tasks.  
+(i) 
+(ii) 
+(iii) 
+(iv) 
+Assess  whether  the  EMP  requires  updating  due  to  any  changes  in  project 
+design, which may have occurred after the EMP was prepared. 
+Distribute  the  Chinese  language  version  of  the  EMP  to  all  relevant  agencies, 
+including  the  implementing  agencies,  and  provincial  and  municipal  agencies for 
+environment protection. This should occur at least 3 months before construction 
+begins. 
+Conduct  meetings  with  agencies  as  necessary  to  ensure  they  understand  their 
+specific responsibilities described in the EMP. 
+Ensure that  relevant mitigation, monitoring,  and  reporting measures in the EMP 
+are  included  in  the  bidding  documents,  contracts,  and  relevant  construction 
+plans. 
+Appendix 1 
+69 
+(v) 
+(vi) 
+(vii) 
+Confirm that the implementing agencies responsible for the internal environment 
+monitoring  described  in  the  EMP  understand  their  tasks  and  will  implement  the 
+monitoring in a timely fashion.  
+At  least  2  months  before  construction  begins,  establish  and  implement  the 
+project  grievance  redress  mechanism  (GRM)  described  in  the  EMP.  This  will 
+include: (a) preparation of a simple table and budget identifying the type, number, 
+and  cost  of  materials  needed  to  inform  local  communities  about  the  GRM  and 
+starting dates and scope of construction; (b) design, prepare, and distribute these 
+materials, and plan and conduct the community meetings; (c) prepare a form to 
+record  any  public  complaints;  (d)  preparation  of  a  summary  table  to  record  all 
+complaints, including dates, issues, and how they were resolved; and (e) ensure 
+that  all  relevant  agencies,  including  contractors,  understand  their  role  in  the 
+GRM. 
+Prior  to  construction,  ensure  that  the  implementation  agencies  and  their 
+contractors  have  informed  their  personnel,  including  all  construction  workers, of 
+the  EMP  requirements.  This  will  include  all  mitigation  measures  relating  to 
+impacts  to  air,  water,  noise,  soil,  sensitive  sites,  ecological  values,  cultural 
+values,  worker  and  community  health  and  safety,  respectful  behavior  when 
+communicating  with  local  communities,  and  responding  to  and  reporting  any 
+complaints. 
+(x) 
+(ix) 
+review,  and  store  environmental  progress 
+(viii)  During project construction, make regular site visits with the loan implementation 
+environment consultant (LIEC) to assess progress, meet with contractors and/or 
+local communities, and assess compliance with the EMP. 
+Ensure  that  all  relevant  agencies  submit  required  progress  reports  and 
+information,  including  environmental  monitoring  and  reports  of  any  issues  or 
+grievances. 
+Compile, 
+the 
+implementation  agencies,  records  of  any  grievances,  and  any  other  relevant 
+issues. Maintain digital copies of all information. When necessary, enter data into 
+summary tables in digital format (e.g., to transfer records of grievances from hard 
+copy  forms).  Ensure  that  all  information  is  stored  in  the  PMO  filing  system, 
+backed up, and can be easily retrieved. 
+Prepare semiannual environment progress reports. 
+(xi) 
+(xii)  Work  closely  with  the  PMO,  implementation  agencies,  loan  implementation 
+consultants,  and  other  agencies  and  personnel  as  necessary  to  conduct  these 
+tasks. 
+reports 
+from 
+E. 
+Reporting Requirements 
+Semiannual  environment  monitoring  reports  using  the  template  provided  by  ADB  or  a 
+5. 
+domestic format reviewed and approved by ADB. 
+F. 
+(i) 
+Logistical Support Provided by the PMO to the Environment Officer  
+Provision  of  hard  and  soft  copies  of  the  project  EMP,  domestic  and  project 
+environmental  reports,  feasibility  study  reports,  loan  and  project  agreements, 
+maps,  and  other  supporting  materials  as  necessary  to  ensure  the  officer  can 
+implement the tasks. 
+70 
+Appendix 1 
+(ii) 
+(iii) 
+Vehicle transport, office materials, and other logistical support, as necessary for 
+the  officer  to  visit  the  project  construction  sites  and  local  communities,  arrange 
+and conduct meetings, and prepare and distribute consultation materials. 
+Overall coordination, including review of the draft semiannual monitoring reports, 
+and final responsibility for submission of the monitoring reports to ADB. 
+2. 
+Project Implementation Office Environment Officer 
+A. 
+Background 
+6. 
+The project will be coordinated by a PMO. Overall coordination of the project EMP is the 
+responsibility of the PMO environment officer. At the field level, implementation of the EMP will 
+be undertaken by the project implementation office (PIO) in each of the five project counties. For 
+this purpose, the PIO requires a PIO environment officer.  
+B. 
+Scope and Duration of Work 
+7. 
+The officer will work on behalf of the PIO to implement the project EMP. The officer will 
+report  directly  to  the  PIO  manager  and  work  closely  with  the  county  environment  protection 
+bureau  (EPB),  environment  monitoring  station  (EMS),  and  PMO  environment  officer.  The 
+position is for the entire project duration (6 years).  
+C. 
+Qualifications 
+8. 
+The officer will have: (i) a bachelor’s degree or higher in environmental management or 
+related field; (ii) at least 5 years of experience in environmental management, monitoring, and/or 
+impact  assessment;  (iii)  ability  to  communicate  and  work  effectively  with  local  communities, 
+contractors, and government agencies; (iv) ability to analyze data and prepare technical reports; 
+(v)  willingness  and  health  to  regularly  visit  the  project  construction  sites  and  in  different 
+seasons; and (vi) ideally, proficiency in spoken and written English.  
+D. 
+Detailed Tasks 
+9. 
+The PIO environment officer will have a detailed understanding of the project EMP and 
+supporting  documents,  including  the  domestic  environmental  reports,  project  EIA,  and  project 
+environmental assurances. The officer will have the following tasks. 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+Work  closely  with  the  PMO  environment  officer,  EPB,  EMS,  contractors, 
+construction  supervision  companies,  and  all  other  relevant  agencies 
+to 
+implement the EMP. 
+Distribute  the  Chinese  language  version  of  the  EMP  to  all  relevant  agencies, 
+including  the  implementing  agencies,  provincial  and  municipal  agencies  for 
+environment protection. This should occur at least 3 months before construction 
+begins. 
+Conduct  meetings  with  agencies  as  necessary  to  ensure  they  understand  their 
+specific responsibilities described in the EMP. 
+Ensure that contractors implement the relevant mitigation measures in the EMP. 
+Implement  the  monitoring  and  reporting  requirements  in  the  EMP,  including 
+timely submission of progress reports to the PIO and PMO environment officer. 
+Implement the project GRM. 
+(vii)  Make  regular  inspections  of  construction  sites  to  assess  progress,  meet  with 
+contractors and/or local communities, and assess compliance with the EMP. 
+(viii)  Maintain digital records of all progress and information. 
+(ix) 
+Support the PMO environment officer in all of their tasks. 
+Appendix 1 
+71 
+E. 
+Reporting Requirements 
+10.  Monthly reports to the PIO and PMO environment officer. 
+3. 
+Loan Implementation Environmental Consultant  
+A. 
+Background 
+11. 
+The  project  will  be  coordinated  by  a  PMO,  whose  overall  responsibility  includes 
+implementation of the project EMP. At the field level, the project will be implemented by a PIO in 
+each of the five project counties. The PMO and PIOs will be assisted by a loan implementation 
+consultant team. The loan implementation environmental consultant (LIEC) will be a part of this 
+team and will support the PMO and PIOs to implement the project EMP. 
+B. 
+Scope and Duration of Work 
+12. 
+This position could be a firm or an individual engaged by the PMO. It is an independent 
+position. It is not part of the PMO in-house environmental team or the implementing agencies. 
+The  specialist  will  report  directly  to  the  PMO.  The  position  is  for  the  entire  project  duration  (6 
+years). The  LIEC  should  be  recruited  as  soon  as  possible after  loan  effectiveness,  as the first 
+task is to confirm project environmental readiness.  
+C. 
+Qualifications 
+13. 
+The specialist will have: (i) a bachelor’s degree or higher in environmental management 
+or  related  field;  (ii)  at  least  8  years  of  experience  in  environmental  management,  monitoring, 
+and/or  impact  assessment;  (iii)  familiarity  with  ADB  project  management  requirements  and 
+national  environmental  management  procedures;  (iv)  ability  to  communicate  and  work 
+effectively with local communities, contractors, and government agencies; (v) ability to analyze 
+data  and  prepare  technical  reports;  (vi)  willingness  and  health  to  regularly  visit  the  subproject 
+sites; and (vii) proficiency in spoken and written English.  
+D. 
+Tasks 
+14.  Working  closely  with  the  PMO  and  PIO  environmental  officers,  the  LIEC  will  do  the 
+following.  
+15. 
+Before construction:  
+(i) 
+(ii) 
+(iii) 
+Ensure  project  environmental  readiness,  including:  (i)  all  contractor  contracts 
+include, and will comply with, the EMP; and (iii) relevant sections of the EMP are 
+incorporated in construction plans and contracts. 
+Assist  the  PMO  and  PIOs  to  implement  the  GRM,  including:  (i)  establish  and 
+publicize the GRM; and (ii) collate and evaluate grievances received. 
+Develop procedures to: (i) monitor EMP implementation progress; (ii) collate and 
+evaluate  data  collected  in  the  EMP  environmental  monitoring  program;  and  (iii) 
+72 
+Appendix 1 
+prepare and submit the semiannual environmental monitoring reports to ADB (to 
+continue until project completion report). 
+Undertake training of project agencies as required by the EMP training plan. 
+Provide  hands-on  support  and  on-the-job  training  to  the  PMO,  implementing 
+agencies, and contractors on the specific requirements of the EMP as required. 
+(iv) 
+(v) 
+16. 
+During project implementation: 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+Undertake site visits to all implementing agencies during subproject construction 
+and operating phase. 
+Assist in the ongoing public consultation process as described in the project EIA. 
+Conduct  EMP  compliance  assessments, 
+identify  any  environment-related 
+implementation  issues,  and  propose  necessary  responses  in  corrective  action 
+plans. 
+Undertake training of project agencies as required by the EMP training plan. 
+Assist  the  PMO  to  prepare  semiannual  environmental  monitoring  progress 
+reports for submission to ADB. 

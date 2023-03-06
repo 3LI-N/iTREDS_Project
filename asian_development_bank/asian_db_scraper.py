@@ -9,6 +9,34 @@ import os
 import csv
 
 
+def download_doc(url, doc_type, proj_id):
+	response = requests.get(url)
+	if response == None:
+		return 1
+
+	content_type = response.headers.get('content-type')
+
+	if 'application/pdf' in content_type:
+		pdf_filename = proj_id + '-' + doc_type + '.pdf'
+		txt_filename = doc_type + '/' + proj_id + '-' + doc_type + '.txt'
+		try:
+			with open('./' + pdf_filename, 'wb') as f:
+				f.write(response.content)
+			print("PDF generated: " + pdf_filename)
+			txt_gen_return = os.system("pdf2txt.py ./" + pdf_filename + " > ./txt_files/" + txt_filename) #256 for error, 0 for okay
+			os.system("sed '/^\s*$/d' -i txt_files/" + txt_filename) # removes blank lines
+			print("txt generated: " + txt_filename)
+			os.system("rm ./" + pdf_filename) # saves space by deleting the pdf
+			print("PDF deleted")
+			if int(txt_gen_return) != 0:
+				os.system("rm ./" + txt_filename)
+				print("Error in generating txt: faulty txt deleted")
+			return int(txt_gen_return)
+		except:
+			print("Encountered issue downloading PDF and extracting txt")
+
+	return 1
+
 
 class Project:
 	def __init__(self, title, country, year, id, url):
@@ -32,31 +60,13 @@ class Project:
 				print('Already downloaded PAM')
 				return 0
 
-		response = requests.get(self.url)
-		if response == None:
-			return 1
+		if download_doc(self.url, 'pam', self.id) == 0:
+			return 0
 
-		content_type = response.headers.get('content-type')
+		second_url = 'https://www.adb.org/sites/default/files/project-documents//' + str(self.id) + '-pam.pdf'
 
-		if 'application/pdf' in content_type:
-			pdf_filename = self.id + '-pam.pdf'
-			txt_filename = 'pam/' + self.id + '-pam.txt'
-			try:
-				with open('./' + pdf_filename, 'wb') as f:
-					f.write(response.content)
-				print("PDF generated: " + pdf_filename)
-				txt_gen_return = os.system("pdf2txt.py ./" + pdf_filename + " > ./txt_files/" + txt_filename) #256 for error, 0 for okay
-				os.system("sed '/^\s*$/d' -i txt_files/" + txt_filename) # removes blank lines
-				print("txt generated: " + txt_filename)
-				os.system("rm ./" + pdf_filename) # saves space by deleting the pdf
-				print("PDF deleted")
-				if int(txt_gen_return) != 0:
-					os.system("rm ./" + txt_filename)
-					print("Error in generating txt: faulty txt deleted")
-				return int(txt_gen_return)
-			except:
-				print("Encountered issue downloading PDF and extracting txt")
-				pass
+		if download_doc(second_url, 'pam', self.id) == 0:
+			return 0
 		
 		print('No PAM, checking for RRP')
 
@@ -67,33 +77,13 @@ class Project:
 				print('Already downloaded RRP')
 				return 0
 
-		response = requests.get(self.url)
-		if response == None:
-			return 1
+		if download_doc(self.url, 'rrp', self.id) == 0:
+			return 0
 
-		content_type = response.headers.get('content-type')
+		second_url = second_url.replace('pam', 'rrp')
 
-		if 'application/pdf' in content_type:
-			pdf_filename = self.id + '-rrp.pdf'
-			txt_filename = 'rrp/' + self.id + '-rrp.txt'
-			try:
-				with open('./' + pdf_filename, 'wb') as f:
-					f.write(response.content)
-				print("PDF generated: " + pdf_filename)
-				txt_gen_return = os.system("pdf2txt.py ./" + pdf_filename + " > ./txt_files/" + txt_filename) #256 for error, 0 for okay
-				os.system("sed '/^\s*$/d' -i txt_files/" + txt_filename) # removes blank lines
-				print("txt generated: " + txt_filename)
-				os.system("rm ./" + pdf_filename) # saves space by deleting the pdf
-				print("PDF deleted")
-				if int(txt_gen_return) != 0:
-					os.system("rm ./" + txt_filename)
-					print("Error in generating txt: faulty txt deleted")
-				return int(txt_gen_return)
-			except:
-				print("Encountered issue downloading PDF and extracting txt")
-				pass
-		else:
-			print('No RRP')
+		if download_doc(second_url, 'rrp', self.id) == 0:
+			return 0
 
 		return 1
 
