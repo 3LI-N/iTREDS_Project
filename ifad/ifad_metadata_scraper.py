@@ -187,14 +187,14 @@ def main():
 			proj.print_data()
 
 	with open('ifad_metadata.csv', 'w') as csvfile:
-		filewriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
+		filewriter = csv.writer(csvfile, delimiter=',', quotechar='\"', quoting=csv.QUOTE_MINIMAL)
 		filewriter.writerow(['Project ID', 'Status', 'Country', 'Region', 'Year approved', 'Borrowing entity', 'Project amount (total)', 'Committment amount', 'Environmental category', 'Report', 'Has summary'])
 		for proj in working_projects:
 			#proj_row = proj.get_csv_row()
 			filewriter.writerow(proj.get_csv_row(False))
 	
 	with open('aws_ifad_metadata.csv', 'w') as csvfile:
-		filewriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
+		filewriter = csv.writer(csvfile, delimiter=',', quotechar='\"', quoting=csv.QUOTE_MINIMAL)
 		filewriter.writerow(['Project ID', 'Status', 'Country', 'Region', 'Year approved', 'Borrowing entity', 'Project amount (total)', 'Committment amount', 'Environmental category', 'Report', 'Summary'])
 		for proj in working_projects:
 			#proj_row = proj.get_csv_row()

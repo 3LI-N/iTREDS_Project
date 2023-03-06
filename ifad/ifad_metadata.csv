@@ -1,10 +1,10 @@
 Project ID,Status,Country,Region,Year approved,Borrowing entity,Project amount (total),Committment amount,Environmental category,Report,Has summary
 2000003370,Approved,Mauritania,,2022,,8.19,5.0,,President's Report,False
 2000003903,Approved,Cameroon,,2022,,61.57,46.97,,Project Design Report,False
-2000003989,Approved,Madagascar,,2022,,120.0,83.5,,Project Design Report,False
-2000003944,Approved,Zimbabwe,,2022,,66.55,37.14,,Project Design Report,False
 2000003920,Approved,Democratic Republic of the Congo,,2022,,213.55,45.2,,Project Design Report,True
 2000003447,Approved,Ethiopia,,2022,,179.59,78.2,,Project Design Report,False
+2000003944,Approved,Zimbabwe,,2022,,66.55,37.14,,Project Design Report,False
+2000003989,Approved,Madagascar,,2022,,120.0,83.5,,Project Design Report,False
 2000004014,Approved,Mali,,2022,,100.0,39.0,,No report,True
 2000003935,Approved,Bhutan,,2022,,30.06,8.93,,Project Design Report,False
 2000003908,Approved,Ecuador,,2022,,26.58,20.0,,Project Design Report,False
@@ -87,11 +87,11 @@ Project ID,Status,Country,Region,Year approved,Borrowing entity,Project amount (
 2000002342,Ongoing,Senegal,,2019,,94.29,51.86,,President's Report,True
 2000001979,Ongoing,Mozambique,,2019,,53.23,43.01,,Project Design Report,True
 2000001925,Ongoing,Burkina Faso,,2019,,129.91,66.92,,President's Report,True
-2000001598,Ongoing,Ethiopia,,2019,,451.0,90.0,,No report,True
 2000002105,Ongoing,Sudan,,2019,,93.59,62.94,,Project Design Report,True
 2000002278,Ongoing,Cambodia,,2019,,142.17,54.39,,President's Report,True
 2000002678,Ongoing,Niger,,2019,,185.91,83.38,,President's Report,True
 2000001194,Ongoing,Liberia,,2019,,107.15,51.71,,President's Report,False
+2000001598,Ongoing,Ethiopia,,2019,,451.0,90.0,,No report,True
 2000001892,Ongoing,Lao People's Democratic Republic,,2019,,85.3,21.03,,No report,True
 2000002073,Ongoing,Morocco,,2019,,93.54,36.69,,No report,True
 2000002243,Ongoing,Cuba,,2019,,63.65,15.5,,Project Design Report,True
