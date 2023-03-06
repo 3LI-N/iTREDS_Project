@@ -7,7 +7,10 @@
 
 - The conversion to txt files for the pdf files done by using the Abby Software (accessed on the ND virtual machines and listed on this website https://cds.library.nd.edu/technology/index.shtml#Software) that used OCR method to convert pdfs making sure to detect words with the pdfs that were images.
 
+Added 2012-2013 projects with the same method, but kept documents with active status only. 
+
 - The extraction of the metadata code used the following steps:
 1. Using BeautifulSoup under the bs4 library, find all projects listed in https://www.gafspfund.org/ that have a call for proposal of 2015 or later.
 2. Extract paragraph on each project for project summary, project title, project amount, supervising entity, call year, status, country from each project page using python(regex, BeautifulSoup,or any other equivalent method)
 3. from the project documents, identify project IDs per project which vary per supervising entity. These IDs can mostly be found in Project Appraisal documents under each project. When not available, search other documents as they might be named differently and still have project ID information.
+
