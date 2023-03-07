@@ -1,0 +1,2121 @@
+Project Design Advance 
+Project Administration Manual 
+Project Number: 49325-003 
+Loan Number: PDA6011 
+March 2017 
+Democratic Socialist Republic of Sri Lanka: Northern 
+Province Sustainable Fisheries Development Project 
+I. 
+II. 
+III. 
+IV. 
+V. 
+VI. 
+CONTENTS 
+PROPOSED PROJECT DESCRIPTION 
+IMPLEMENTATION PLANS 
+A. 
+B. 
+PDA Readiness Activities 
+Overall PDA Project Implementation Plan 
+PDA PROJECT MANAGEMENT ARRANGEMENTS 
+A. 
+B. 
+C. 
+PDA Project Implementation Organizations–Roles and Responsibilities 
+Key Persons Involved in Implementation 
+PDA Project Organization Structure 
+COSTS AND FINANCING 
+FINANCIAL MANAGEMENT 
+A. 
+B. 
+C. 
+D. 
+E. 
+F. 
+G. 
+Financial Management Assessment 
+Fund Flow Diagram 
+Risk Analysis 
+Proposed Action Plan 
+Disbursement 
+Accounting 
+Auditing 
+PROCUREMENT AND CONSULTING SERVICES 
+A. 
+B. 
+C. 
+D. 
+E. 
+Advance Contracting 
+Procurement of Consulting Services 
+Procurement Plan 
+Consultant's Terms of Reference 
+Individual Terms of Reference 
+SAFEGUARDS 
+VII. 
+VIII.  GENDER AND SOCIAL DIMENSIONS 
+IX. 
+PERFORMANCE MONITORING, EVALUATION, REPORTING AND 
+COMMUNICATION 
+A. 
+B. 
+C. 
+Monitoring and Evaluation 
+Reporting 
+Stakeholder Communication Strategy 
+X. 
+XI. 
+XII. 
+ANTICORRUPTION POLICY 
+ACCOUNTABILITY MECHANISM 
+RECORD OF PAM CHANGES 
+5 
+7 
+7 
+8 
+9 
+9 
+9 
+10 
+10 
+12 
+12 
+14 
+15 
+18 
+19 
+19 
+19 
+21 
+21 
+21 
+21 
+22 
+26 
+35 
+36 
+36 
+36 
+36 
+36 
+37 
+38 
+39 
+Project Administration Manual for the Project Design Advance: Purpose and 
+Process 
+The  project  administration  manual  (PAM)  for  the  Project  Design  Advance  (PDA)  is  an 
+abridged  version  of  ADB’s  regular  PAM  and  describes  the  essential  administrative  and 
+management requirements to implement the PDA on time, within budget, and in accordance 
+with  Government  and  Asian  Development  Bank  (ADB)  policies  and  procedures.  The  PDA 
+PAM  should  include  references  to  all  available  templates  and  instructions  either  through 
+linkages to relevant URLs or directly incorporated in the PAM. 
+The  Ministry  of  Fisheries  and  Aquatic  Resources  Development  (MFARD)  is  wholly 
+responsible for the implementation of ADB financed PDA projects, as agreed jointly between 
+the  Government  and  ADB,  and  in  accordance  with  Government  and  ADB’s  policies  and 
+procedures.  ADB  staff  is  responsible  to  support  implementation  including  compliance  by the 
+MFARD  of  its  obligations  and  responsibilities  for  PDA  project  implementation  in  accordance 
+with ADB’s policies and procedures. 
+After  ADB’s  approval  of  the  PDA  proposal,  changes  in  implementation  arrangements  are 
+subject to agreement and approval pursuant to relevant Government and ADB administrative 
+procedures  (including  the  Project  Administration  Instructions),  and  upon  such  approval  they 
+will be subsequently incorporated in the PDA PAM. 
+= 
+= 
+= 
+= 
+= 
+= 
+= 
+ADB 
+ADF 
+AGD 
+AFS 
+CFHC 
+EA 
+GOSL 
+KG 
+= 
+MFARD 
+= 
+MOF 
+= 
+MSD 
+= 
+PAM 
+= 
+PDA 
+= 
+PIMU 
+QCBS 
+= 
+SLPSAS  = 
+= 
+TOR 
+= 
+TOD 
+Abbreviations 
+Asian Development Bank 
+Asian Development Fund 
+Auditor General’s Department 
+audited financial statements 
+Ceylon Fisheries Harbors Corporation 
+executing agency 
+Government of Sri Lanka 
+kilograms 
+Ministry of Fisheries and Aquatic Resources Development 
+Ministry of Finance 
+Management Services Department 
+project administration manual  
+project design advance 
+project implementation and monitoring unit 
+quality- and cost based selection 
+Sri Lanka Public Sector Accounting Standards 
+terms of reference 
+Treasury Operations Department  
+I. 
+PROPOSED PROJECT DESCRIPTION 
+1. 
+The  Northern  Province  Sustainable  Fisheries  Development  Project  will  support 
+investments to revive the fishery industry in the four conflict-affected coastal districts of Jaffna, 
+Mannar,  Mullaittivu,  and  Kilinochchi.1 The  project  will  finance  the  development  of  two  fishery 
+harbors,  rehabilitate  other  related  infrastructure,  develop  sustainable  aquaculture,  improve  the 
+management  of  coastal  and  fishery  resources,  and  strengthen  the  capacity  of  the  fishery 
+societies and related institutions. 
+2. 
+The Northern Province, which bore the brunt of a 30-year conflict that ended in 2009, is 
+showing signs of economic recovery thanks to development projects initiated by various actors, 
+including the government, development partners, and nongovernment agencies. The province’s 
+contribution to the country’s gross domestic product rose from 3.2% in 2008 to 3.6% in 2013. The 
+incidence  of  poverty  in  the  province  declined  from  30.0%  in  2010  to  10.9%  in  2013.  Despite 
+these positive developments, wide disparities remain within the province. The poverty incidence 
+is  20.1%  in  Mannar  district  and  28.8%  in  Mullaittivu  district,  significantly  higher  than  the  6.7% 
+national  poverty  incidence.  At  SLRs8,330,  the  monthly  per  capita  household  income  in  the 
+Northern  Province  is  the  second-lowest  among  the  nine  provinces  after  the  Eastern  Province, 
+which was also impacted by the conflict.2 
+Although  the  fishery  industry  in  Sri  Lanka  contributed  only  1.6%–1.8%  annually  to  the 
+3. 
+national  economy  during  2009–2013,  it  plays  a  vital  role  in  meeting  the  basic  nutritional  and 
+livelihood needs of the population.3 It contributes about 70% of the animal protein in the national 
+diet,  and  provides  direct  and  indirect  employment  opportunities  to  around  0.5  million  people 
+(2.5% of the population) and livelihoods to around 2.6 million people. The government plans to 
+increase the annual per capita fish consumption from 11 kilograms to 22 kilograms to mitigate 
+malnutrition.4 About  20%  of  children  under  5  years  of  age  are  considered  underweight.5 The 
+current  fish  production  for  the  domestic  market  falls  short  of  the  consumption  needs,  and  the 
+country imports 70,000–80,000 tons (t) annually.6 
+4. 
+Agriculture,  fishery,  and  livestock  are  the  mainstay  of  the  economy  of  the  Northern 
+Province  and  comprised  19.6%  of  the  provincial  gross  domestic  product  in  2012. 7  Of  the 
+province’s 1.2 million people, the majority (85%) lives in rural areas and is engaged in fisheries 
+and  agriculture.  The  Northern  Province  has  40%  of  the  coastal  belt,  and  before  the  conflict 
+1  The  project  concept  paper  and  project  preparatory  technical  assistance  were  approved  in  December  2015.  The 
+project and project design advance are included in the country operations business plan, 2017–2019 of the Asian 
+Development Bank (ADB). The ensuing project cost is estimated at $125 million. It will be financed, in part, from a 
+loan from ADB’s concessional ordinary capital resources ($63.13 million) and a loan from ADB’s regular ordinary 
+capital resources ($60 million). 
+2  Government  of  Sri  Lanka;  Ministry  of  Policy  Planning  Economic  Affairs,  Child  Youth  and  Cultural  Affairs; 
+Department  of  Census  and  Statistics.  2015.  Household Income  and  Expenditure  Survey—2012/13:  Final  Report. 
+Colombo. http://www.statistics.gov.lk/HIES/HIES2012_13FinalReport.pdf. 
+3  Fishery is divided into three segments: (i) coastal fishery, which is carried out within the 30,000-square-kilometer 
+continental shelf; (ii) offshore fishery, which takes place outside the continental shelf, extending up to the edge of 
+the  517,000-square-kilometer  exclusive  economic  zone  using  multiday  boats;  and  (iii)  inland  fishery  and 
+aquaculture. 
+4  Department of Fisheries and Aquatic Resources. http://www.fisheriesdept.gov.lk/index.html. 
+5  United Nations. Sri Lanka. 2014. Millennium Development Goals Country Report 2014: Sri Lanka. Colombo. 
+6  Government of Sri Lanka, Ministry of Fisheries and Aquatic Resources Development. 2015. Fisheries Statistics—
+2015. http://www.fisheries.gov.lk/elfinder-2.0-rc1/files/stat/Fisheries%20Statistices/Web%20pdf%20Document.pdf. 
+7  Central Bank of Sri Lanka, Statistics Department. 2013. Provincial Gross Domestic Product–2012. News release. 
+10 September. 
+5 
+escalated in 1983, it recorded a marine fish catch of 75,740 t, accounting for 40% of the national 
+total.  In  1995,  its  marine  fish  catch  dropped  to  an  all-time  low  of  4,500  t,  2%  of  the  national 
+production.  Following  the  end  of  the  conflict,  the  lifting  of  security  restrictions  on  access  to 
+coastal  waters,  and  the  start  of  ongoing  support  toward  the  sector’s  revival,  production  in  the 
+Northern  Province  increased from 13,840  t  in  2008  to  55,640  t  in  2013 but remains  below  the 
+1983 production levels (footnote 6). 
+5. 
+The  conflict  caused  widespread  social  vulnerability  and  economic  instability  in  the 
+province.  Families  were displaced  multiple times.  Most  of the  internally  displaced  people  were 
+resettled by 2012, but a few families have yet to be resettled. Some of the returnees have been 
+displaced  from  their  original  lands  for  more  than  15  years.  Widowed  and  single  women,  who 
+comprise  about  5%  of  the  population,  are  vulnerable  and  require  focused  support.  Economic 
+activities  were  affected  and  the  fisheries  industry  in  particular  was  heavily  impacted.  Fishing 
+vessels,  equipment,  and  related  infrastructure  were  damaged  or  destroyed.  Cooperative 
+societies, once the strength and pride of the northern fisherfolk, ceased to function and lost all of 
+their assets.  
+6. 
+Coastal livelihoods are dependent on natural resources. Given the limited development 
+that  took  place  during  the  30-year  conflict,  the  natural  resource  base  has  been  largely 
+undisturbed.  However,  some  threats  to  the  resources  are  emerging,  including  (i)  damage  to 
+corals  and  other  organisms  in  the  seabed  because  of  illegal  fishing  methods  such  as  trawler 
+and dynamite fishing, (ii) destruction of mangroves, (iii) coastal erosion, and (iv) illegal mining of 
+sand dunes. Furthermore, climate-induced risks, such as sea level rise, increased frequency of 
+storms, and rising ocean temperatures, may impact marine habitats and coastal infrastructure. 
+7. 
+Since 2009, the government and development partners have supported the recovery of 
+the fisheries industry by providing boats, engines, nets, and credit; rebuilding infrastructure; and 
+reestablishing cooperative societies. Nonconventional aquaculture with high export and income-
+earning potential—such as sea cucumber production, seaweed culture, and crab fattening—are 
+currently  being  pilot-tested.  Improvements  to  the  roads  and  railways  have  reconnected  the 
+Northern Province with the rest of the country, which has resulted in greater access to markets 
+and promoted private sector investments. Many public and private banks have opened offices in 
+the province, enabling access to financial services.  
+8. 
+Although  these  developments  created  an  enabling  environment  to  develop  the  fishing 
+industry, the Northern Province still needs essential infrastructure and capacity strengthening of 
+its fishery  societies  and related  institutions. While  Sri  Lanka  has  20  major fishery  harbors,  the 
+Northern  Province  has  none.  The  lack  of  harbor  facilities  and  multiday  boats  makes  it 
+impossible to engage in deep-sea fishing. To further develop the fishery industry in the province, 
+investments  are  required  to  (i)  rebuild  large-scale  infrastructure  such  as  harbors,  anchorages, 
+and  associated  facilities;  (ii)  introduce  new  fishery  technologies;  (iii)  expand  aquaculture 
+sustainably; (iv) strengthen community-based organizations and related institutions; (v) develop 
+a  fisheries  management  and  zoning  plan  to  ensure  that  resources  are  not  overexploited;  and 
+(vi)  develop  economic  activities  for  households  headed  by  women.  The  government  has 
+requested  Asian  Development  Bank  (ADB)  support  to  help  rebuild  the  fishery  industry,  which 
+provides livelihoods for more than 40,000 families in the Northern Province. 
+9. 
+The ensuing project and project design advance (PDA) are consistent with the priorities 
+for  the  agriculture  and  natural  resources  sector  in  ADB’s  country  operations  business  plan, 
+6 
+2017–2019,  and  support  the  key  pillar  on  inclusive  and  sustainable  economic  growth.8 It  is 
+aligned  with  the  key  priorities  of  promoting  natural  resource  management  and  increasing 
+productivity  and  resilience,9 and  complements  other  post-conflict  developments  that  ADB  has 
+supported in the Northern Province.  
+10. 
+Impacts,  Outcome,  and  Outputs:  The  project’s  impacts  will  be  improved  nutritional 
+status,  food  security,  and  incomes  of  fisher  communities,  aligned  with  the  Government  of  Sri 
+Lanka’s Ten-Year Development Policy and Framework of the Fisheries and Aquatic Resources 
+Sector,  2007-2016. 10 The  outcome  will  be  fisheries  production  in  the  Northern  Province  is 
+sustainably  increased.  The  proposed  outputs  are:  (i) climate  resilient  infrastructure  developed 
+and  operational;  (ii)  aquaculture  developed;  (iii)  entrepreneurial  skills,  market  links,  and  credit 
+access for local communities, including women, strengthened; and (iv) management of coastal 
+and fishery resources improved. The project area is defined as the coastal belt of the districts of 
+Jaffna, Mullaittivu, Mannar, and Kilinochchi. On land, it includes the grama niladhari divisions11 
+fronting  the  shoreline  and  those  surrounding  inland  lagoons  and  other  important  coastal 
+systems,  such  as  estuaries.  In  the  sea,  it  includes  the  area  as  defined  under  the  Coast 
+Conservation Act,1981.12  
+11. 
+Project preparatory technical assessment (PPTA) is being implemented from July 2016-
+March  2017  to  develop  the  feasibility  study.  The  PDA  will  finance  consultancy  services  to 
+undertake  detailed  engineering  design  which  includes  the  updating  of  costs,  updating  of 
+environment  and  social  safeguard  assessments  and  preparation  of  bidding  documents  and 
+supporting  the  bidding  process.  The  consultancy  services  will  include  a  national  consultancy 
+firm and two individual international consultants. The key PDA outputs will be detailed designs 
+and bidding documents. The PDA will not finance land acquisition, resettlement, or civil works. 
+The PDA will speed up contract awards and disbursements by ensuring that contracts are ready 
+for award by the time of loan effectiveness. 
+A. 
+PDA Readiness Activities 
+II. 
+IMPLEMENTATION PLANS 
+12.  MFARD has an existing Project Implementation and Monitoring unit (PIMU) to implement 
+the  ongoing  Fisheries  Harbors  and  Anchorages  Development  Project 
+the 
+government.  This  same  unit  which  is  headed  by  a  Project  Director  and  includes  a  Finance 
+Manager and Director Development will implement the PDA. The PIMU will be supplemented by 
+two  engineers  and  additional  accounting  and  support  staff  to  manage  the  PDA.  The  call  for 
+expressions of interest from consultancy firms to undertake the detailed designs under the PDA 
+was  issued  on  25  July  2016.  Request  for  proposals  were  issued  to  shortlisted  firms  on  21 
+October 2016 and it is expected that the consultancy contract will be awarded in March 2017.  
+funded  by 
+8  ADB. 2016. Country Operations Business Plan: Sri Lanka, 2017–2019. Manila. 
+9  ADB. 2015. Operational Plan for Agriculture and Natural Resources: Promoting Sustainable Food Security in Asia 
+and the Pacific in 2015–2020. Manila. 
+10 Government of Sri Lanka, Ministry of Fisheries and Aquatic Resources. 2007. Ten Year Development Policy and 
+Framework of the Fisheries and Aquatic Resources Sector. 2007-2016. 
+11 The smallest administration unit, comprising around 2-3 villages. 
+12 As defined under the Coast Conservation Act, the seaward boundary is the limit of two kilometers seawards of the 
+Mean Low Water Line. 
+7 
+B. 
+Overall PDA Project Implementation Plan 
+Advance action 
+- 
+1 
+-
+4 
+-
+5 
+-
+2 
+-
+3 
+-
+6 
+PDA Year 1 
+1 
+2  3  4  5  6  7  8  9 
+PDA Year 2 
+2 
+3  4  5  6 
+1
+0 
+1
+1 
+1
+2 
+1 
+Activities 
+A. 
+Consultancy 
+under PDA 
+Implementation  
+firm 
+Advertisement 
+Selection 
+Contract award 
+selection 
+Consultants mobilized 
+Surveys and investigations 
+Detailed designs 
+Updating  of  environmental 
+and social assessments 
+Preparation of bid documents 
+for  works 
+bidding 
+Initiate 
+packages 
+Award contracts 
+Inception report 
+Mid term report 
+for 
+    Final report (detailed designs) 
+Advertisement 
+individual 
+consultant 
+Individual Consultant mobilized 
+B.  Management Activities 
+Submission 
+progress report 
+Submission of annual report 
+Submission of AFS 
+Projected date of ensuing loan 
+quarterly 
+of 
+AFS- Audited Financial Statements, PDA-Project Design Advance
+8 
+9 
+III. 
+PDA PROJECT MANAGEMENT ARRANGEMENTS 
+A. 
+PDA Project Implementation Organizations–Roles and Responsibilities 
+implementation 
+PDA  Project 
+organizations 
+Oversight body 
+•  Design Coordinating 
+Committee (DCC) 
+Executing agency 
+•  Ministry of Fisheries and 
+Aquatic Resources 
+Development 
+•  Project Implementation and 
+Monitoring Unit 
+ADB 
+Management Roles and Responsibilities  
+(i)  The DCC will be chaired by Secretary MFARD and will include 
+representatives from  the Ceylon Fisheries Harbors 
+Corporation, Coast Conservation Department, Ministry of 
+Prison Reforms, Rehabilitation, Resettlement and Hindu 
+Religious Affairs, Northern Provincial Council, and Department 
+of External Resources 
+(ii)  Provide policy guidance 
+(iii)  Ensure smooth inter-agency/ministry coordination 
+(i)  Ensure the project implementation and management unit is fully 
+staffed 
+(ii)  Submit audit, progress and other reports to ADB and 
+government 
+(iii)  Monitor use of all funding provided by ADB and government 
+(iv)  Ensure that complaints received are adequately addressed 
+(v)  Support and coordinate with ADB review missions 
+(vi)  Submit timely withdrawal applications to ADB 
+(i)  Oversee and supervise consultants 
+(ii)  Review and comment on consultants outputs 
+(iii)  Ensure timely advance procurement for civil works contracts for 
+the ensuing project in accordance with ADB’s Procurement 
+Guidelines 
+(iv)  Review of withdrawal applications before submission to EA 
+(i)  Monitor and advise overall project implementation 
+(ii)  Review and issue no-objection to procurement and documents 
+(iii)  Provide funding against eligible claims  
+B. 
+Key Persons Involved in Implementation 
+Executing Agency 
+Ministry  of  Fisheries  and  Aquatic 
+Resources Development 
+Officer's Name: Mrs. W. M. M. Adikari 
+Position: Secretary 
+Telephone: +94 112333945 
+Email address: secfisherieslk@gmail.com 
+Office Address: New Secretariat, Maligawatta, Colombo 10,   
+                          Sri Lanka. 
+ADB 
+Staff Name: Sri Widowati 
+Position : Country Director 
+Telephone:+94 11 4455455 
+Email address: swidowati@adb.org 
+Mission Leader 
+Staff Name: Manjula Amerasinghe 
+Position : Project Management Specialist 
+Telephone:+94 11 4455455 
+Email address: nmamerasinghe@adb.org 
+C. 
+PDA Project Organization Structure 
+Design Coordinating 
+Committee 
+Ministry of Fisheries and Aquatic 
+Resources Development 
+Project Implementation 
+and Monitoring Unit 
+Consultants 
+IV. 
+COSTS AND FINANCING 
+13. 
+The  total  cost  of  the  PDA  project  is  $1.59  million,  including  a  concessional  loan  from 
+ADB's  ordinary  capital  resources  in  an  amount  of  $1.3  million  to  support  the  preparation  of 
+detailed  designs. The  PDA  loan  will  have  an  interest  rate  charged  at  2%  per  annum, and  it  is 
+expected that the PDA loan will be repaid from the proceeds of the ensuing loan on the date of 
+effectiveness of the ensuing loan. The PDA cost estimates are summarized in Table 1. 
+10 
+Table 1: PDA Project Investment and Financing Plana 
+($ million) 
+Item 
+A. 
+Base Costc 
+Costb 
+ADB 
+Government 
+1 
+Consulting Firm 
+    1.16  
+0.99  
+              0.17  
+2 
+Individual Consultants 
+3 
+PIMU staff and office expenses 
+Subtotal (A) 
+B. 
+Contingenciesd 
+0.26  
+0.06 
+0.22  
+              0.04  
+0.00 
+0.06 
+1.48  
+              1.21  
+              0.27  
+     0.11  
+              0.09  
+              0.02  
+Total (A+B) 
+1.59  
+              1.30  
+              0.29  
+ADB= Asian Development Bank, PDA = project design advance.  
+a  A PDA loan carries interest charges where applicable, and these charges are deferred until the PDA loan is repaid 
+from the ensuing financing or other repayment terms take effect.  
+b  Includes taxes and duties of $0.21 million to be financed from government resources on cash contribution.  
+c  In mid-2016 prices. 
+d  Physical contingencies computed at 7.5% for consulting services.  
+Source: Asian Development Bank 
+Table 2: Detailed Cost Estimates by Expenditure Category  
+($ 000) 
+Item 
+A 
+Investment Costsa 
+1  Consultant 
+Foreign 
+Exchange 
+Local 
+Currency 
+Total 
+Costb 
+% of 
+Total 
+Base 
+Cost 
+Remuneration and 
+perdiem 
+International and local 
+travel 
+Equipment 
+Studies, surveys and 
+reports 
+Training, seminars and 
+workshops 
+Software 
+a 
+b 
+c 
+d 
+e 
+f 
+g  Miscellaneous costs 
+Subtotal (A) 
+182.50  
+517.55 
+700.05 
+47.1 
+40.00  
+0 
+70.26 
+8.21 
+110.26 
+8.21 
+           1.70  
+570.37 
+572.07 
+0 
+17.00  
+0 
+241.20 
+8.80 
+2.94 
+5.63 
+1,183.76 
+8.80 
+19.94 
+5.63 
+1,424.96 
+7.4 
+0.6 
+38.5 
+0.6 
+1.3 
+0.4 
+96.0 
+B 
+Other Costs 
+1 
+PMU staff and office 
+expenses 
+Subtotal (B) 
+Total Base Cost 
+0 
+0 
+241.20 
+60.00 
+60.00 
+1,243.76 
+60.00 
+60.00 
+1,484.96  
+4.0 
+4.0 
+100.0 
+11 
+C 
+Contingenciesc 
+1 
+2 
+Physical 
+Price 
+Subtotal (C) 
+18.09  
+88.78  
+106.87  
+0 
+18.09 
+0 
+88.78 
+0 
+106.87 
+7.2 
+0.0 
+7.2 
+Total PDA Project Cost (A+B+C) 
+259.29  
+ADB= Asian Development Bank, PDA = project design advance.  
+Note: Numbers may not sum precisely because of rounding.  
+a  Includes taxes and duties of $0.21 million on consultancy services to be financed from government resources. 
+b  In mid-2016 prices. 
+c  Physical contingencies computed at 7.5% for consulting services. 
+Source: ADB estimates. 
+1,332.54  
+1,591.83  
+Table 3: Allocation and Withdrawal of Loan Proceeds 
+Number 
+Item 
+Category 
+Total Amount allocated for 
+ADB financing 
+$ million 
+1  Consultancy 
+TOTAL 
+1.30 
+1.30 
+ADB= Asian Development Bank 
+*Exclusive of taxes and duties imposed within the territory of the recipient 
+Source: ADB estimates 
+ADB financing Basis 
+Percentage and Basis for 
+Withdrawal from the Loan 
+Account 
+100% of total expenditure claimed* 
+A. 
+Financial Management Assessment 
+V. 
+FINANCIAL MANAGEMENT 
+14. 
+A  financial  management  assessment  was  carried  out  for  the  MFARD  for  PDA  of 
+Northern  Province  Sustainable  Fisheries  Development  Project  during  May-June  2016  in 
+accordance  with  ADB’s  Guidelines  for  the  Financial  Management  and  Analysis  of  Projects 
+(2005)  and  Financial  Management  Assessment  Technical  Guidance  Note  (May  2015).13 This 
+assessment primarily looked at the capacity of MFARD to manage PDA funds. This included an 
+assessment of the financial management capacity of MFARD including fund-flow and budgeting 
+arrangements,  staffing,  accounting  and  financial  reporting  systems,  financial  information 
+systems,  internal  controls,  and  internal  and  external  auditing  arrangements.  The  primary 
+instrument  used 
+financial  management  assessment 
+questionnaire,  interviews  with  the  PIMU  of  Fisheries  Harbors  and  Anchorages  Development 
+project  (government  funded  ongoing  projects)  and  internal  auditors.  A  more  detailed 
+assessment  is  being  undertaken  under  the  ongoing  project  preparatory  technical  assistance 
+(PPTA) for the ensuing loan. 
+the  assessment  was  ADB’s 
+for 
+15.  MFARD is the executing agency for the proposed PDA project. The existing PIMU will be 
+strengthened  through  additional  staff  to  implement  the  PDA  project.  The  last  project  that 
+MFARD  implemented  under  ADB  funding  closed  in  2011.  The  Project  Director  and  Project 
+Accountant of PIMU will be responsible for the financial management under the PDA project.  
+13 Available upon request. 
+12 
+There  is  an  internal  audit  department  within  MFARD  and  is  adequately  staffed  to  carry 
+16. 
+out  internal  audit  functions  of  MFARD  including  all  departments,  corporations  and  other 
+establishments  of  MFARD.  Externally funded  projects  are  also  within  the scope  of the  internal 
+audit.  MFARD  will  ensure  that  the  PDA  project  falls  within  the  scope  of  the  internal  audit 
+department. 
+Under 
+the  on-going  government 
+17. 
+funded  Fisheries  Harbors  and  Anchorages 
+Development  project,  the  PIMU  maintains  manual  project  records  and  reports  are  prepared 
+using  excel  spread sheets. This  is  the  practice for  all  projects  implemented  by  MFARD.  Since 
+expenditure  will  be  limited  to  consulting  contracts  and  PIMU  expenditure,  this  is  considered 
+acceptable, but will be further assessed for the ensuing loan. 
+The  PIMU  accountant  will  maintain  separate  project  accounts  and  records  by  funding 
+18. 
+source for all expenditures incurred on the PDA project and prepare project financial statements 
+in  accordance  with  Generally  Accepted  Accounting  Principles.  The  project  records  should 
+adequately  identify  the  goods  and  services  financed  from  loan  proceeds  by  funding  source, 
+financing resources received, expenditure incurred as per project components and counterpart 
+funds received.  
+19. 
+The  project  financial  statements  will  be  annually  audited  by  the  Auditor  General’s 
+Department (AGD). The audited project financial statements together with the auditor’s opinion 
+should be presented in the English language to ADB within 6 months from the end of the fiscal 
+year by the MFARD. MFARD was briefed on the ADB policy on non-submission of the audited 
+financial statements within the covenant period.  
+Compliance  with  financial  reporting  and  auditing  requirements  will  be  monitored  by 
+20. 
+review missions and followed up regularly with all concerned, including the external auditor.  
+ADB will only finance consultancy services contracts. ADB financing will not be used to 
+21. 
+fund incremental project management expenses, civil works or purchase of equipment.  ADB’s 
+direct  payment  and  reimbursement  procedure  will  be  used  for  payment  of  consultancy 
+contracts. An imprest fund will not be opened. Given the nature of payments and the volume of 
+the payments statements of expenditure (SOE) procedure is not proposed.  
+13 
+B. 
+Fund Flow Diagram 
+ADB 
+t
+n
+e
+m
+e
+s
+r
+u
+b
+m
+e
+R
+i
+GOSL 
+/TOD 
+t
+n
+e
+m
+e
+e
+r
+g
+A
+n
+a
+o
+L
+MFARD/PIMU 
+Consultant 
+t
+n
+e
+m
+y
+a
+P
+t
+c
+e
+r
+i
+D
+Document Flow 
+Fund Flow 
+ADB  =  Asian  Development  Bank,  GOSL  =  Government  of  Sri  Lanka,  MFARD  =  Ministry  of  Fisheries  and  Aquatic 
+Resources  Development,  PIMU  =  Project  Implementation  and  Monitoring  Unit,  TOD  =  Treasury  Operations 
+Department 
+14 
+Payments  for  counterpart  expenses  are  also  made  by  the  PIMU.  Government 
+22. 
+counterpart  funds  will  be  from  the  Ministry  of  Finance  (MOF)  through  MFARD  to  PIMU. 
+Counterpart funds are required to pay government financing of the consultancy contract and to 
+cover PIMU expenses. It is the MFARD’s responsibility to obtain sufficient budgetary provisions 
+and counterpart funds for payments. MFARD should work closely with PIMU and MOF to obtain 
+adequate budgetary provisions.  
+23. 
+The proposed PDA does not include retroactive financing.  
+C. 
+Risk Analysis 
+24. 
+Key  risks  pertain  to  lack  of  budgetary  provisions  and  no  recent  experience  in  ADB 
+funded  projects.  A  financial  management  action  plan  is  proposed  below.  The  financial 
+management  risk  is  considered  Moderate.  With  the  proposed  risk  mitigating  measures,  it  is 
+expected that the financial management capacity would be adequate. 
+Area of 
+Assessment 
+Country 
+Specific  
+Risk Rating 
+Risk Assessment 
+Mitigation Measures 
+Table 4: Risk Assessment 
+Moderate 
+Due to delay in submitting 
+financial statements for audit 
+and lack of resources within 
+the Auditor General’s 
+Department (AGD), 
+submission of audit opinion 
+for ADB funded projects is 
+delayed.  
+Periodic meetings with auditor general in 
+respect of ADB-funded projects 
+Capacity development for executing and 
+implementing agencies on auditing, 
+accountability and preparation of 
+financial statements allowing sufficient 
+time for audit to be carried out.  
+Moderate 
+Insufficient budgetary 
+provisions to cover ADB 
+and counterpart fund 
+requirement. 
+EA should closely work with MOF to 
+obtain sufficient budgetary provisions 
+and counterpart funds. EA should ensure 
+proposed PDA is in the MFARD budget. 
+Entity Specific   Moderate 
+Last project implemented 
+with ADB closed in 2011.  
+ADB can provide training on ADB project 
+management requirements, project 
+financial accounting, disbursement 
+policies, and procedures to the PIMU 
+staff. 
+Overall – Moderate 
+Control Risk 
+Executing 
+Agency  
+Moderate 
+MFARD has implemented 
+several ADB funded projects 
+up until 2011. MFARD 
+management letter 2014 
+The proposed PDA loan will fund only 
+consultancy contracts. PIMU will not 
+procure any equipment. 
+15 
+Area of 
+Assessment 
+Risk Rating 
+Risk Assessment 
+Mitigation Measures 
+highlights some weaknesses 
+in use of allocations, 
+monitoring and records of 
+fixed assets. 
+Fund Flow 
+Moderate 
+MFARD has the capacity to 
+manage the funds. However, 
+insufficient budgetary 
+provisions may lead the 
+PIMU to use ADB advance 
+for counterpart funds as well.  
+To minimize this risk imprest fund 
+procedure will not be used and direct 
+payment procedure is recommended. 
+MFARD should ensure timely release of 
+counterpart funds from MOF.  
+Staffing 
+Low 
+The PIMU is adequately 
+staffed to undertake this PDA 
+project. Additional support 
+staff will be recruited. 
+ Additional support staff will be recruited. 
+Existing PIMU staff to be assigned with 
+PDA responsibilities will also require 
+Management Services Department 
+(MSD) approval.  
+Accounting 
+policies and 
+procedure 
+Moderate 
+MFARD follows cash basis of 
+accounting. Annual 
+appropriation account is 
+prepared based on existing 
+Financial Regulations and 
+various treasury circulars. 
+Financial regulation 626, 
+requires accrual basis 
+accounting to be followed for 
+donor funded projects. 
+Ministry of Finance and Institutes of 
+Chartered Accountants of Sri Lanka are 
+taking action to follow Sri Lanka Public 
+Sector Accounting Standards (SLPSAS) 
+it is yet to be practiced by the respective 
+Ministries. The government’s aim is to 
+have all public sector institutes follow 
+accrual basis from 2017. PIMU will be 
+required to prepare project financial 
+statement on accrual basis.  PIMU staff 
+needs training on ADB project financial 
+management and reporting 
+requirements. ADB to conduct training 
+programs on ADB project financial 
+management and reporting.  
+Internal Audit 
+Low 
+MFARD has an internal audit 
+department which functions 
+well  
+Audit scope to include the proposed PDA 
+project. Audit management committee 
+meetings are to be held quarterly and 
+PDA findings to be discussed.  
+16 
+Area of 
+Assessment 
+Risk Rating 
+Risk Assessment 
+Mitigation Measures 
+External Audit  Moderate 
+AGD to carry out the external 
+audit.  
+There is an identifiable delay 
+in submitting APFS across 
+the ADB funded projects in 
+Sri Lanka and this PDA 
+project is likely to experience 
+the delay.  
+PIMU to prepare project financial 
+statements within two months of the 
+fiscal year end and forward the same to 
+AGD allowing sufficient time frame to 
+conduct the audit. 
+A copy of the Audited Project Financial 
+Statement (APFS) to be submitted to 
+ADB within 6 months from the fiscal year 
+end.  
+Close monitoring of preparation of on 
+time project financial statements and 
+periodic meetings with auditor general in 
+respect to ADB-funded projects to 
+reduce the delay in APFS submission. 
+Budgeting 
+High 
+It is evident from MFARD 
+audit report that 
+appropriation allocation 
+provisions are not fully spent.  
+MFARD and PIMU should prepare 
+realistic budget and to obtain sufficient 
+provisions and funds when necessary 
+from MoF.  
+Reporting and 
+monitoring 
+Low 
+Due to improper budgeting, 
+MOF decreases the 
+allocation and does not 
+provide the entire request in 
+full. This may impact on fund 
+flow. 
+Ensure proposed PDA is in the MFARD 
+budget when the PDA is effective to 
+begin activities. 
+Delay in preparation of 
+periodic progress reports and 
+financial statements due to 
+manual recording system 
+and use of  excel spread 
+sheets  
+Periodic progress reports to be prepared 
+including financial progress. Project 
+progress report should contain 
+information on cumulative expenditure, a 
+comparison with actual and budget 
+released, physical and financial 
+progress. 
+(Recording of the project 
+expenses are in manual and 
+excel spreadsheet is used to 
+prepare final accounts.) 
+PDA will have few transactions. 
+Therefore data integrity can be easily 
+ensured.   
+Information 
+Systems 
+Moderate 
+Project accounts are 
+maintained manually. 
+There are relatively small numbers of 
+transactions expected during the project 
+period.  
+Use of excel spreadsheet 
+can be observed in 
+Explore the possibility of procuring off-
+the -shelf accounting package for the 
+17 
+Area of 
+Assessment 
+Risk Rating 
+Risk Assessment 
+Mitigation Measures 
+ensuing loan. 
+generating various reports, 
+reconciliations and preparing 
+finial accounts. These 
+methods are prone to errors 
+and have a negative impact 
+on the accuracy of the 
+financial figures. Due to the 
+relatively small number of 
+transactions such errors can 
+be recognized 
+Overall – Moderate 
+H=High, S=Substantial, M=Moderate, or Low. 
+ADB=Asian  Development  Bank,  AGD=Auditor  General’s  Department,  APFS=audited  project  financial  statement, 
+EA=executing  agency,  MFARD=Ministry  of  Fisheries  and  Aquatic  Resources  Development,  MOF=Ministry  of 
+Finance, MSD=Management Services Department, PDA=project design advance, PIMU=Project Implementation and 
+Monitoring Unit, SLPSAS=Sri Lanka Public Sector Accounting Standards 
+D. 
+Proposed Action Plan 
+25. 
+The proposed action plan for financial management related activities are as follows: 
+Action Plan 
+Responsibility 
+Timeframe 
+Table 5: Financial Management Action Plan 
+ Management Services Department 
+(MSD) approval for existing PIMU staff to 
+be assigned with additional PDA 
+responsibilities should be obtained. 
+MFARD 
+Ensure proposed PDA is in the MFARD 
+budget and sufficient budgetary 
+provisions for counterpart and foreign aid 
+are received in time when the PDA is 
+effective. 
+MFARD and PIMU 
+Timely submission of Audited Project 
+Financial Statements 
+PIMU to prepare financial statements 
+within two months of the fiscal year 
+end allowing sufficient time for AGD to 
+conduct the audit. 
+By PDA approval 
+date 
+MFARD should 
+include adequate 
+provision request in 
+coming year’s 
+budget. MFARD 
+should ensure 
+availability of 
+sufficient provisions 
+by PDA effective 
+date 
+Within 2 months of 
+the FY end 
+AGD=Auditor General’s Department, MFARD=Ministry of Fisheries and Aquatic Resources Development, 
+PDA=Project Design Advance, PIMU=Project Implementation and Monitoring Unit 
+18 
+E. 
+Disbursement 
+26. 
+The PDA loan proceeds will be disbursed in accordance with ADB’s Loan Disbursement 
+Handbook  (2015,  as  amended  from  time  to  time),14 and  detailed  arrangements  agreed  upon 
+between  the  Government  and  ADB.  Online  training  for  project  staff  on  disbursement  policies 
+and  procedures  is  available  at:    http://wpqr4.adb.org/disbursement_elearning.  Project  staff  are 
+encouraged to avail of this training to help ensure efficient disbursement and fiduciary control. 
+ADB’s  disbursement  procedures  (direct  payment  and  reimbursement)  will  be  used  for 
+27. 
+withdrawal  of  project  funds.  Withdrawal  applications  will  be  authorized  by  the  PIMU  and  sent 
+directly  to  ADB.  The  PIMU  will  be  responsible  for  (i)  preparing  disbursement  projections,  (ii) 
+requesting budgetary allocations for foreign aid allocation and counterpart funds, (iii) collecting 
+supporting  documents,  and  (iv)  preparing  and  submitting  withdrawal  applications  to    ADB  in 
+accordance with Loan disbursement Handbook (2015, as amended from time to time). 
+28. 
+Statement-of-expenditure (SOE) procedure is not proposed for this PDA loan. 
+29. 
+Before  submitting  the  first  withdrawal  application,  MFARD  should  submit  to  ADB 
+sufficient evidence of the authority of the person(s) who will sign the withdrawal applications on 
+behalf  of  the  government,  together  with  the  authenticated  specimen  signatures  of  each 
+authorized person.  There is no minimum value proposed for this PDA.  
+F. 
+Accounting 
+The MFARD will maintain separate PDA project accounts and records by funding source 
+30. 
+for all expenditures incurred on the PDA project. PDA Project accounts will follow international 
+accounting principles and practices. Project financial statements shall include at the minimum a 
+statement  of  receipt  and  payment  with  accompanied  notes  and  schedules.  These  shall  be 
+prepared to ensure maximum alignment to international accounting standards. 
+G. 
+Auditing 
+The MFARD will cause the detailed consolidated PDA project accounts to be audited in 
+31. 
+accordance with International Standards on Auditing in accordance with the Government's audit 
+regulations  by  an  auditor  acceptable  to  ADB.  The  audited  project  financial  statements  will  be 
+submitted in the English language to ADB within 6 months of the end of the fiscal year by the 
+executing agency.  
+32. 
+The audit report for the project financial statements will include a management letter and 
+auditor’s opinions, which cover: (i) whether the project financial statements present an accurate 
+and fair view or are presented fairly, in all material respects, in accordance with the applicable 
+financial  reporting  standards;  (ii)  whether  the  proceeds  of  the  loan  were  used  only  for  the 
+purpose  of  the  project;  and  (iii)  whether  the  borrower  or  executing  agency  was  in  compliance 
+with the financial covenants contained in the legal agreements, if any. 
+33. 
+ADB shall disclose the annual audited financial statements for the PDA Project and the 
+opinion  of  the  auditors  on  the  financial  statements  within  14  days  of  the  date  of  ADB’s 
+confirmation of their acceptability by posting them on ADB’s website 
+14 Available at: http://www.adb.org/documents/loan-disbursement-handbook 
+19 
+34. 
+The  Government  and  MFARD  have  been  made  aware  of  ADB’s  policy  on  delayed 
+submission,  and  the  requirements  for  satisfactory  and  acceptable  quality  of  the  audited 
+accounts. ADB reserves the right to verify the PDA project's financial statements to confirm that 
+the share of ADB’s financing is used in accordance with ADB’s policies and procedures.  
+20 
+VI. 
+PROCUREMENT AND CONSULTING SERVICES 
+A. 
+Advance Contracting 
+All  advance  contracting  will  be  undertaken  in  conformity  with  ADB’s  Procurement 
+35. 
+Guidelines  (2015,  as  amended  from  time  to  time) 15 and  ADB’s  Guidelines  on  the  Use  of 
+Consultants  (2013,  as  amended from  time to time).16 On  the  request  of  the  Government,  ADB 
+will  undertake  the  selection  of  the  consultancy  firm  for  the  detailed  designs  and  MFARD  will 
+negotiate and sign the contract. The Government and MFARD have been advised that approval 
+of  advance  contracting  does  not  commit  ADB  to  finance  the  PDA  project.  The  call  for 
+expressions of interest from consultancy firms to undertake the detailed designs under the PDA 
+was  issued  on  25  July  2016.  It  is  expected  that  the  consultancy  contract  will  be  awarded  in 
+March 2017. 
+B. 
+Procurement of Consulting Services 
+Consultants will be recruited according to ADB’s Guidelines on the Use of Consultants.17 
+36. 
+The terms of reference for all consulting services are detailed in Section D. 
+37. 
+A  consulting  firm  with  an  estimated  91  person-months  (national)  and  two  individual 
+consultants  (3.5  person  months  each)  will  be  recruited  to  prepare  the  detailed  engineering 
+designs and bid documents for proposed civil works under the ensuing loan. The consulting firm 
+will  be  engaged  using  the  quality-  and  cost-based  selection  (QCBS)  method  with  a  standard 
+quality: cost ratio of 90:10. 
+C. 
+Procurement Plan 
+Basic Data 
+Project  Name:  Project  Design  Advance  for  Northern  Province  Sustainable  Fisheries  Development 
+Project 
+PDA Loan Amount: $1.3 million 
+Executing  Agency:  Ministry  of  Fisheries  and 
+Aquatic Resources Development 
+Date of this Procurement Plan: February 2017 
+Date of first procurement Plan: July 2016 
+Type 
+Quality- and Cost-Based 
+Selection (QCBS) 
+Recruitment of Consulting Firm 
+Prior / Post 
+Prior  
+Comments 
+90:10. ADB will undertake the 
+selection and MFARD will 
+negotiate and sign the contract 
+List of Consulting Services 
+Package 
+number 
+1 
+Description 
+Estimated 
+value 
+$1.25 million 
+Detailed 
+Design team 
+Recruitment 
+method 
+QCBS 
+Review  Advertise 
+Prior 
+date 
+Q3 2016 
+2. 
+Harbor 
+$0.14 million 
+ICS 
+Prior 
+Q1 2017 
+Type of 
+proposal 
+Full 
+technical 
+proposal 
+N/A 
+Comments 
+National 
+International 
+15 Available at: http://www.adb.org/Documents/Guidelines/Procurement/Guidelines-Procurement.pdf 
+16 Available at: http://www.adb.org/Documents/Guidelines/Consulting/Guidelines-Consultants.pdf 
+17 Checklists  for  actions  required  to  contract  consultants  by  method  available  in  e-Handbook  on  Project 
+Implementation at: http://www.adb.org/documents/handbooks/project-implementation/ 
+21 
+3. 
+Design 
+Engineer 
+Environment 
+Specialist 
+$0.14 million 
+ICS 
+Prior 
+Q1 2017 
+N/A 
+International 
+D. 
+Consultant's Terms of Reference 
+For Detailed Design Consultants (National Firm) 
+a 
+Background 
+38. 
+The Government of the Sri Lanka has requested ADB to provide financial assistance for 
+development of fisheries infrastructure facilities along the coast line under the Northern Province 
+Sustainable  Fisheries  Development  Project.  The  project  will  revive  the  fisheries  sector  in  the 
+four conflict affected coastal districts of Jaffna, Mannar, Mullaitivu, and Killinochchi. The project 
+aims to: (i) develop climate resilient infrastructure facilities,  (ii) develop sustainable aquaculture, 
+(iii) improve management of coastal and fishery resources, and (iv) strengthen the capacities of 
+the  fishery  societies  and  related  institutions.  ADB  will  provide  funding  through  a  loan  to  the 
+Government of Sri Lanka to develop the two fishery harbors, eight anchorages and 25 landing 
+sites. Feasibility studies will be made available to the consultant. The Ministry of Fisheries and 
+Aquatic Resources Development is the executing agency. 
+b 
+Objectives and Purpose of the Consultancy Services 
+The consultant team will perform the detailed engineering design of offshore structures, 
+39. 
+dredging,  reclamation,  shore  facilities  with  architectural,  structural,  mechanical  and  services 
+which  are  required  for  the  fishery  harbors,  anchorages  and  landings  sites.  The  consultant  will 
+undertake the detailed engineering design of the fishery harbors, anchorages and landing sites 
+according to the recommendations of the feasibility reports and other modification which should 
+be  included  but  not  identified  during  the  feasibility  study  stage.  In  addition  to  the  above  the 
+consultant  should  prepare  the  bills  of  quantities  (BOQ),  engineer's  estimate  and  bidding 
+documents  according  to  the  ADB  procurement  guidelines  and  assist  the  PIMU  to  procure 
+suitable contractors to undertake the works related to fishery harbors, anchorages and landing 
+sites.  
+40. 
+The consultant has to perform a number of activities which are explained in the following 
+paragraphs. In general the consultant is responsible for ensuring effective and timely completion 
+of the design to the highest standards. 
+Detailed  Engineering  Design:  The  consultant  will  be  responsible  for  the  detailed 
+41. 
+engineering design of the fishery harbor. The tasks to be performed include but not limited to: 
+i.  Review of preliminary designs prepared during the project preparatory stage and 
+undertake  the  detailed  design  of  the  offshore  structures  and  shore  facilities 
+according to the recommendations of the feasibility study. The design should be 
+based  on  best  international  standards  and recommended  practices. The  lists  of 
+the offshore structures and shore facilities in paragraph 42 should be considered 
+as  a  guideline.  The  required  structures  and  facilities  should  be  selected 
+considering  the  requirements  and  the  situation  of  the  site  following  the 
+discussions with Ceylon Fishery Harbors Corporation (CFHC) under the Ministry 
+of  Fisheries  and  Aquatic  Resources  Development  and  PIMU  and  the  fisher 
+22 
+community.  CFHC  approval  must  be  taken  for  the  Master  plan  of  the  list  of 
+selected structures and facilities. 
+iii. 
+iv. 
+ii.  Undertake  necessary  surveys,  investigations,  and  laboratory  tests  for  the 
+detailed  design  including  but  not  limited  to:  topographic  surveys,  bathymetric 
+surveys,  sediment  survey,  geotechnical  investigations,  water  level  and  current 
+measurements and water quality assessments. 
+Analyze  the  sustainability  of  the  offshore  structures  and  facilities  through 
+physical/ numerical modeling and simulations. 
+Analyze  and  update  wave  transformation,  hydrodynamics,  sediment  transport 
+and wave disturbance,  and potential coastal and environmental impacts due to 
+proposed development, including phased development through numerical and/or 
+physical modeling and simulations and operations. 
+Estimate  the  annual  requirement  of  dredging  through  numerical  and/or  physical 
+modeling and simulations. 
+Implement  mitigation  measures  for  the  impacts  due  to  new  constructions 
+including but not limited to sand erosions and accumulations. 
+Adoption  of  the  green/blue  economy  concept  to  address  waste  management, 
+reduce energy consumption, and use of solar energy for electricity generation; 
+Prepare detailed engineering design drawings and accurate cost estimates. 
+Prepare specifications and terms of reference for the construction. 
+Prepare  bidding  documents  including  but  not  limited  to  bill  of  quantities, 
+engineer's estimate, design drawings and construction schedules. 
+v. 
+vi. 
+vii. 
+viii. 
+ix. 
+x. 
+42. 
+Assist PIMU to procure suitable contractors for the construction stage. Tasks include: 
+i.  Update the bidding documents prepared under the PPTA. 
+ii. 
+iii. 
+Train EA staff on ADB’s procurement procedures and bid evaluations. 
+Advice  on  the  construction  and  the  contract  risks  and  recommend  appropriate 
+mitigation measures. 
+iv.  Recommend preferred equipment and construction methods. 
+Facilitate the tendering process to select suitable contractor/s. 
+v. 
+Following  considerations  should  be  ensured  in  the  process  of  designing  the  fishery 
+43. 
+harbors: 
+i. 
+Safe  berthing  of  different  types  of  fishing  vessels  currently  operating  from  the 
+area as well as future fleet that may operate. 
+ii.  Harbor basin shall be adequate to accommodate the current fleet and projected 
+fleet. The projected horizon could be taken as 50 years. 
+iii.  Harbor  basin  shall  have  sufficient  depths  to  accommodate  current  fleet  and 
+iv. 
+projected fleet. 
+Access  channels  to  the  harbor  shall  be  sufficiently  deep  and  shall  provide  safe 
+navigation during the rough season of the sea. 
+List of offshore and onshore structures and facilities for the fishery harbor: 
+44. 
+Offshore structures and facilities: 
+i.  Rubble  packed  gabion  boxes/caissons  or  concrete  breakwaters,  groins,  quay 
+wall etc. 
+ii.  Harbor  basin  of minimum  depth  of -3.0 mean  sea  level  (MSL)  and  -5.0 MSL  as 
+required by the Ceylon Fisheries Harbor Corporation. 
+23 
+iii. 
+A quay wall or jetty of +1.5 MSL crest height and of minimum width of 8 m with 
+cast iron bollards, rubber fenders, stainless steel chains and shackles. 
+iv.  Harbor entrance mouth 60-80m width and access channel depth will depend on 
+the depth of the basin. 
+v.  Navigation lights at the harbor entrance and for access channel. 
+Onshore structures and facilities: 
+Auction hall with opened surrounding. 
+i. 
+ii.  Net mending hall with 1 m height peripheral wall and 1 m high gates. 
+iii.  Off loading building of temperature -100 C. 
+iv. 
+Two  storied  administration  office  for  harbor  manager,  deputy  harbor  manager 
+and staff. 
+v.  Quarters for harbor manager and deputy harbor manager. 
+vi.  Office facilities for the fishing community and community hall. 
+vii. 
+viii. 
+Fuel tanks for Diesel and Kerosene. 
+Fuel/lubricant  sales  office  and  dispensing  unit  (80  Ltr/min)  for  diesel  and 
+kerosene. 
+Sanitary facilities for fishermen. 
+Security office with accommodation. 
+Internal  roads,  parking  and  boundary  wall/  chain  link  fence  of  2.4  m  height  and 
+gates. 
+ix. 
+x. 
+xi. 
+Provision for fishing gear shop facilities. 
+Storage room of boat engine. 
+Slipway and boat repair yard. 
+Treatment plant for wastewater disposal. 
+Provision for solar energy power. 
+xii.  Cold storage of 20 ton capacity. 
+xiii.  Weigh bridge with weighing limit beyond 40 ton with control room. 
+xiv. 
+xv. 
+xvi. 
+xvii. 
+xviii. 
+xix.  Reverse Osmosis (RO) plant for water purification. 
+xx.  Water sump of 75,000 L capacity and overhead tank of 25,000 L capacity. 
+xxi.  Water,  electricity  and  telecommunication  connections  from  National  Water 
+Supply  and  Drainage  board,  Ceylon  Electricity  Board,  and  Sri  Lanka  Telecom 
+respectively. 
+xxii.  Generator supply fixed with a transformer. 
+xxiii.  Radio communication system and building. 
+xxiv.  Office for the fishery inspector. 
+xxv. 
+xxvi.  Office for the coast guard. 
+xxvii. 
+xxviii. 
+Accommodation for the coast guard. 
+Landscaping. 
+Accommodation for the fishery inspector. 
+The  table  below  outlines  the  major  activities  and  major  outputs  with  the  expected 
+45. 
+completion dates. 
+Table 6: Summary Major Outputs and Activities 
+Major Activities 
+Consultant  team mobilize 
+Expected 
+Completion 
+Date 
+March 2017 
+24 
+Major Outputs 
+Inception Report including 
+Expected 
+Completion 
+Date 
+April 2017 
+Major Activities 
+Undertake necessary surveys, 
+investigations, measurements  and 
+tests 
+Expected 
+Completion 
+Date 
+April  2017 
+Major Outputs 
+design criteria 
+Report on bathymetric and 
+sediment survey  
+Report on topographic survey 
+Report on geotechnical 
+investigations  
+Report on Wave climate 
+Expected 
+Completion 
+Date 
+May 2017 
+May 2017 
+May 2017  
+June 2017 
+Mid Term Report 
+June 2017 
+Numerical and /or physical 
+modeling and detailed engineering 
+design of the offshore structures  
+Preparation of Master plan for all 
+the facilities 
+June 2017 
+June 2017 
+Report on detailed design of 
+the offshore structures  
+Master plan and Architectural          
+drawings 
+July 2017 
+August 2017 
+Detailed engineering design for 
+shore facilities 
+June 2017 
+Report on detailed design of 
+shore facilities 
+July 2017 
+Detailed engineering design for 
+mechanical, electrical and plumbing 
+works 
+August 2017 
+Mechanical, electrical and 
+plumbing designs and layouts 
+September 
+2017 
+Preparation of technical 
+specifications 
+August 2017 
+Submission of technical 
+specifications 
+September 
+2017 
+Update/prepare environmental 
+impact assessment (EIA/IEE)  
+August  2017 
+Environmental Assessments   September 
+2017 
+Finalize resettlement plans 
+August 2017 
+Final resettlement plan 
+August 2017 
+Quantity calculation and cost 
+estimation 
+August 2017 
+Bill of quantities & Engineer's 
+Estimate 
+September 
+2017 
+Preparation of bidding documents 
+including evaluation criteria (first 
+set) 
+August 2017 
+Bidding document  
+Facilitate tendering process 
+Project management and advisory 
+support to the ministry and PMU 
+August 2017 
+onwards 
+Throughout 
+Draft Final Report on Detailed 
+designs and other aspects  
+Final Report on detailed 
+designs and other aspects 
+Procurement of contractor for 
+first package 
+Progress Reports 
+September 
+2017 
+October 2017 
+November 2017 
+January 2018 
+monthly and 
+final report on 
+Procurement in 
+May 2018 
+25 
+The  consultants  will  be  procured  according  to  ADB’s  Guidelines  on  the  Use  of 
+46. 
+Consultants (2013, as amended from time to time).  A quality and cost based selection method 
+at  a ratio  of  90:10  will  be  used  based  on full technical  proposal. The time frame for  the  entire 
+consultancy  services  is  15  months.  However,  the  design  team  is  expected  to  complete  the 
+detailed designs within 9 months, the services of the procurement specialist will go beyond this 
+intermittently over another 6 months. CVs for the key experts must be provided and they will be 
+evaluated. CVs for non- key experts too should be provided and they would be evaluated on a 
+pass-fail  basis.  The  number  of  personnel  per  expertise  is  identified  in  parenthesis.  The 
+individual terms of reference for the consultants are summarized in section E.  
+Table 7: Summary of Consulting Services Requirement of Key Experts and Non 
+Key Experts 
+Positions 
+National (Key Experts) 
+Team Leader/Harbor Design Engineer 
+Harbor Design Engineer (2)                                         
+Coastal Engineer (2) 
+Structural Engineer (4) 
+MEP Engineer (2)                                                                 
+Procurement Specialist (1) 
+Sociologist (1) 
+Environmental Specialist (1) 
+Non-Key Experts 
+Architect (3) 
+Surveyor (3) 
+Quantity Surveyor (2)   
+CAD Draftsman (1, Structural) 
+CAD Draftsman (1, Architectural) 
+CAD Draftsman (1, MEP) 
+Total 
+Person-Months Required 
+  6.0 
+12.0 
+  6.0 
+16.0 
+10.0 
+5.0 
+3.0 
+5.0 
+9.0 
+6.0 
+4.0 
+3.0 
+3.0 
+3.0 
+91.0 
+E. 
+Individual Terms of Reference 
+Team Leader/Harbor Design Engineer – (6 person months) 
+47. 
+The  consultant  will  have  a  postgraduate  degree  in  harbor  design  engineering/coastal 
+engineering or a related discipline and have around 15 years of relevant experience. The expert 
+should be competent in planning, designing, project management, quality assurance and quality 
+26 
+control  measures.  The  team  leader  is  responsible  for  overall  delivery  of  the  design  and 
+procurement related requirements. Key tasks include: 
+a) 
+b) 
+c) 
+d) 
+e) 
+f) 
+g) 
+h) 
+i) 
+j) 
+k) 
+l) 
+m) 
+n) 
+the  consultant 
+for  overall  direction,  mentoring  of 
+Set up an effective strategy and organizational structure for the consultant team. 
+Prepare  and  implement  all  administrative  systems  and  procedures  needed  to 
+ensure  the  effective  design  of  fishery  harbors,  anchorages  and  landing  sites  in 
+accordance  with  the  scope  of  works,  relevant  regional,  international  experience 
+and best international standards. 
+Carry  out  a  comprehensive  review  of  the  feasibility  studies  and  assessments 
+done to-date and draw attention to changes which may have become necessary 
+since their preparation. 
+Be  responsible 
+team, 
+coordination  of  inputs  and  management  of  individual  consultants  to  develop 
+designs to satisfy the technical specifications. 
+Be responsible for the overall management of the design, engineering team and 
+their activities. Review design reports, calculations and drawings. Provide expert 
+advice  as  required  and  ensure  outputs  are  complete,  well  prepared  using 
+consistent formats and their content are prepared to the highest standards.  
+Have the overall responsibility for the timely delivery and quality of all the outputs 
+in formats that are acceptable to the government and ADB. 
+Communicate clear instructions to the team members. 
+Generate  and  share  comprehensive  and  detailed 
+performance, mission-related objectives, and deadlines. 
+Manage  relationships  between  government,  PIMU,  ADB  and  all  other  stake 
+holders,  
+Attend bi-monthly design meetings with the client and ADB. 
+Advice on alternative design proposals, their benefits and risks. 
+Manage the flow of day-to-day operations. 
+Coordinate with and assist PIMU on any relevant activities related to the design. 
+Ensure the final deliverables are aligned with the end user's requirements.   
+Submit quarterly progress reports to government and ADB. 
+reports  about 
+team 
+Harbor Design Engineer –(2x6 person-months):  
+48. 
+The consultant will have a postgraduate degree in harbor design engineering and have around 
+10 years of relevant experience. The consultant will be responsible for analyzing and designing 
+offshore  structures  and  implementing  mitigation  measures  to  address  the  impact  due  to  the 
+construction of the fishery harbor. Key tasks include: 
+a) 
+b) 
+c) 
+d) 
+e) 
+f) 
+Data  collection  through  surveys,  investigations,  and  laboratory  tests  and  other 
+means, analysis of coastal processes in the project area. 
+Undertake  the  detailed  engineering  designs  of  the  coastal  structures  based  on 
+assessment of the coastal processes. 
+Analyze site-specific problems identify significant coastal trends that may indicate 
+coastal process changes due to the construction of the fishery harbor. 
+Undertake physical/ mathematical modeling of the fishery harbor. 
+Implement suitable mitigation measures for the impact due to the construction of 
+the fishery harbor. 
+Estimate the annual dredging requirement for the maintenance of the basin after 
+the construction of the fishery harbor. 
+27 
+g) 
+h) 
+i) 
+the  environmental  specialist  and 
+Coordinate  with 
+environmental issues. 
+Recommend preferred equipment and construction methods. 
+Coordinate with the other team members. 
+identify  and  analyze 
+Coastal Engineer (2x3 person-months) 
+49. 
+The  consultant  will  have  a  post  graduate  degree  in  coastal  engineering  and  have  10  years  of 
+related  experience.  The  consultant  will  be  responsible  for  assessing  the  impact  of  project 
+interventions  on  coastal  processes  and  identify  the  areas  of  accretion,  erosion  and  suitable 
+coast protection measures.  
+Key tasks include: 
+a) 
+b) 
+c) 
+d) 
+e) 
+Data  collection  and  analysis  of  coastal  processes  and  relevant  studies  of  the 
+project   area. 
+Identification of the environmental impacts and suggesting mitigation methods to 
+incorporate in the designs.  
+Work  in  close  consultations  with  the  Coast  Conservation  Department  (CCD)  in 
+finalizing the alternative options for coastal impact mitigation. 
+Assist the harbor design engineer in realignment of structures (if required) so that 
+fishing vessels can use safe berthing and safe navigation. 
+Analyze and elaborate possible alternative concepts for coastal stabilization.      
+Structural Engineer (4x4 person-months):  
+50. 
+The  consultant  will  have  a  postgraduate  degree  in  structural  engineering  and  have  around  10 
+years  of  relevant  experience.  The  consultant  will  be  responsible  for  designing  all  structural 
+elements of the harbor. Key tasks include: 
+a) 
+b) 
+c) 
+d) 
+e) 
+Review  the  existing  layout  and  liaise  with  the  coastal  engineer  to  finalize  the 
+layout plans to meet feasible structural requirements. 
+Conduct required soil investigations in the vicinity of the proposed buildings. 
+Undertake detailed structural  designs  of  all  structural  elements  of the structures 
+and facilities of the fishery harbor. 
+Recommend preferred equipment and construction methods. 
+Coordinate with the team members. 
+51.  MEP Engineer (2x5 person-months):  
+The  consultant  will  have  a  degree  in  mechanical  or  electrical  engineering  or  building  service 
+engineering  and  have  around  10  years  of  relevant  experience.  The  consultant  will  be 
+responsible  for  designing  all  mechanical,  electrical  and  plumbing  requirements  of  the  harbor. 
+Key tasks include: 
+a) 
+b) 
+c) 
+d) 
+e) 
+f) 
+Planning  and  preparation  of  specifications  for  the  mechanical  electrical  and 
+plumbing designs.  
+Designing of solar energy system to introduce instead of power generations from 
+non-renewable energy sources. 
+Planning and designing all mechanical, electrical and plumbing requirements 
+Liaise  with  the  CAD  MEP  draftsman  to  prepare  mechanical  drawings,  electrical 
+and plumbing layouts. 
+Recommend preferred equipment and construction methods. 
+Coordinate with the team members. 
+28 
+Procurement Specialist (5 person-months):  
+52. 
+The  consultant  will  hold  a  degree  in  a  relevant  discipline  and  have  5  years  of  experience  in 
+procurement practices and have previous experience with ADB-funded projects. The consultant 
+will  work  according  to  the  recommendations  of  the  project  preparatory  technical  assistance 
+(PPTA)  team  of  consultants  and  update  the  master  bidding  documents  in  line  with  ADB’s 
+Procurement Guidelines. Key tasks include: 
+a) 
+b) 
+c) 
+d) 
+e) 
+f) 
+Prepare contract packages, the standard criteria and check lists for evaluation of 
+the  tenders  for  the  selection  of  suitable  contractors  for  the  construction  stage. 
+Assist the PIMU to prepare necessary procurement notices. 
+Advice  on  procurement strategies  in  accordance  with  the governments’ and  the 
+ADB’s  procurement  guidelines.  Ensure  all  the  procurement  is  carried  out 
+according to the ADB guidelines. Advice on the timelines of the procurement. 
+Work  with  engineers  to  finalize  cost  estimates,  tender  documents  and  bill  of 
+quantities.  
+Assist PIMU with award of contracts. 
+Update  the  procurement  plan  according  to  the  actual  implementation  schedule 
+and agreed changes, ,. 
+Undertake  training  to  the  government  on  the  relevant  guidelines,  ADB’s 
+procurement procedures to counterpart staff. 
+Sociologist (3 person-months):  
+53. 
+The  consultant  will  have  a  master’s  degree  in  social  sciences  and  8  years  of  relevant  work 
+experience.  Prior  experience  in  preparing  resettlement  plans  for  ADB  or  World  Bank  funded 
+projects is required. The consultant will use the findings of the PPTA and update and finalize the 
+resettlement plans based on final designs. Key tasks include: 
+a) 
+b) 
+c) 
+d) 
+e) 
+f) 
+Liaise  with  the  fisher  community,  societies  and  community  leaders  and  lead 
+consultations with them. 
+Identify  any  new  social  issues  that  may  arise  from  the  community  due  to  the 
+implementation of the proposed infrastructure project. 
+Identify the mitigation measures to overcome these social issues. 
+Update the resettlement plan (RP) prepared in accordance with ADB’s SPS 2009 
+requirement for Involuntary Resettlement (IR), and specifically appendix 2 of SPS 
+2009. 
+The RP preparation work will at least involve: survey for making an inventory of 
+loss  due  to  land  acquisition  and  involuntary  resettlement,  and  socio  –economic 
+survey  for  100%  PAPs.  This  survey  will  also  identify  vulnerable  group  and 
+indigenous  people  that  will  be  affected  by  land  acquisition  and  involuntary 
+resettlement associated with the proposed project.   
+Identify  alternative  locations  for  the  fisher  community  to  operate  from  and  to 
+engage in fishing activities during the implementation of the project. 
+Environmental specialist (5 person-months):  
+54. 
+The  consultant  will  have  a  postgraduate  degree  in  environmental  science/management/ 
+engineering and have 10 years of relevant experience. Prior experience in working on ADB or 
+World Bank funded projects is considered an advantage. The consultant will be responsible to 
+update/upgrade  the  environmental  assessment/s  prepared  under  the  PPTA  and  prepare  any 
+additional environmental assessments required for government clearances. The consultant will 
+29 
+work  closely  with  the  independent  international  environment  specialist  to  be  recruited  as  an 
+individual consultant: 
+a) 
+b) 
+c) 
+d) 
+e) 
+f) 
+Review  and  revise  based  on  detailed  designs  the  environmental  impact 
+assessment/s undertaken during the project preparatory stage. Draw attention to 
+the  changes  which  may  have  become  necessary  since  their  preparation  and 
+make recommendations. 
+Ensure that the environmental factors and mitigation measures are incorporated 
+in the designs. 
+Undertake  additional  studies/surveys  if  required  to  finalize  the  environmental 
+assessment/s to meet the Coast Conservation Department’s and Government of 
+Sri  Lanka’s  regulatory  requirements.  Ensure  that  all  assessments  meet  both 
+ADB’s  Safeguard  Policy  Statement  2009,  and  government  of  Sri  Lanka’s 
+requirements.  
+ The  assessment/s  should  identify  the  area  of  impact,  assess  the  potential 
+impacts  (not  only  at  the  project  site  but  related  facilities  such  as  borrow  sites, 
+quarry sites, disposal sites) and describe suitable mitigation measures, include a 
+comprehensive  environmental  management  plan  (EMP)  which  identifies  clearly 
+the  responsibilities  and  institutional  arrangements for  implementation. This  EMP 
+will be attached to the bidding documents for the respective contracts, therefore 
+detailed  (site  specific  and  not generic)  EMPs  will  be  prepared.   The report  shall 
+follow the outlines presented in Annex to Appendix 1 of the SPS 2009. 
+Ensure relevant stakeholders and affected persons are adequately consulted and 
+all  consultation  should  be  well  documented.  Ensure  key  information  on  project, 
+impacts,  and  proposed  mitigation  and  management  measures  are  provided  to 
+affected persons in a manner that is easily understood (in the local language) and 
+in a place which is readily accessible. 
+Coordinate  with  relevant  agencies  and  obtain  the  necessary  environmental 
+clearances and approvals. 
+Architect (3x3 person-months):  
+55. 
+The  consultant  will  have  a  postgraduate  degree/Membership  of  the  institute  of  Architecture  in 
+architecture and have 10 years of relevant experience. The consultant will be responsible for all 
+architectural  layouts  and  designs  of  the  facilities  provided  in  the  proposed  fishery  harbor.  Key 
+tasks include: 
+a) 
+b) 
+c) 
+d) 
+e) 
+f) 
+g) 
+h) 
+i) 
+j) 
+Incorporate waste management, energy conservation and green harbor concept 
+in designing. 
+Consider the easiness of the administration and maintenance in the designs. 
+Ensure easy access and enough parking space for the harbor users. 
+Optimize the use of land and reservation for future development. 
+Ensure the overall aesthetic appearance is pleasant.  
+Design  of  architectural  layout  plans  of  the  proposed  facilities  in  the  proposed 
+fishery harbor/anchorages. 
+Design of detailed architectural drawings. 
+Coordinate with the structural engineer in designing facilities. 
+Liaise with the CAD draftsman (architectural) to prepare architectural layouts and 
+drawings of the facilities. 
+Coordinate with the team members. 
+56. 
+Hydrographic/Land Surveyor (3x2 person-months):  
+30 
+The consultant will have a degree in surveying or be a licensed surveyor and have 5 years of 
+relevant  experience.  The  consultant  will  be  responsible  for  all  surveying  related  activities.  Key 
+tasks include: 
+a) 
+b) 
+c) 
+d) 
+e) 
+Undertake topographic and bathymetric surveys. 
+Coordinate  with  the  coastal  engineer  and  the  architect/structural  engineer  in 
+deciding the surveying requirements. 
+Prepare topographic layout drawings and hydrographic drawings. 
+Assisting to the MFARDD/PIMU for land acquisition process.  
+Coordinate with the team members. 
+Quantity Surveyor (2x2 person-months):  
+57. 
+The consultant will have a degree/diploma/certificate in quantity surveying and have 5 years of 
+relevant experience. The consultant will be responsible for taking quantities and preparation of 
+the bill of quantities. Key tasks include: 
+a) 
+b) 
+c) 
+d) 
+e) 
+f) 
+Conduct  a  market  survey  in  the  area,  assessing  the  prices  of  the  construction 
+materials and labor. 
+Revise the schedules of rates for buildings, coastal structures and other facilities. 
+Estimate quantities and prepare the bill of quantities for the proposed structures 
+and facilities. 
+Prepare the engineer’s estimate for all proposed items in the bill of quantities. 
+Liaise with the coastal engineer, structural engineer, MEP engineer, architect and 
+the draftsmen in taking quantities. 
+Coordinate with the team members. 
+CAD Draftsman - Structural (3 person-months):  
+58. 
+The  consultant  will  have  a  diploma/certificate  in  draftsmanship  and  have  5  years  of  relevant 
+experience.  The  consultant  will  be  responsible  for  preparation  of  all  structural  drawings.  Key 
+tasks include: 
+a) 
+b) 
+c) 
+Liaise  with  the  structural  engineer  and  coastal  engineer  in  preparation  of 
+structural drawings. 
+Prepare all structural drawings. 
+Coordinate with the team members. 
+CAD Draftsman - Architectural (3 person-months):  
+59. 
+The  consultant  will  have  a  diploma/certificate  in  draftsmanship  and  have  5  years  of  relevant 
+experience.  The  consultant  will  be  responsible  for  preparation  of  all  structural  drawings.  Key 
+tasks include: 
+a) 
+b) 
+c) 
+Liaise with the architect in preparation of architectural drawings.  
+Prepare all architectural drawings.  
+Coordinate with the team members. 
+CAD Draftsman – MEP (3 person-months):  
+60. 
+The  consultant  will  have  a  diploma/certificate  in  draftsmanship  and  have  5  years  of  relevant 
+experience.  The  consultant  will  be  responsible  for  preparation  of  all  drawings  and  layouts 
+related to mechanical, electrical and plumbing works. Key tasks include: 
+a) 
+Liaise with the MEP engineer in preparation of drawings and layouts. 
+31 
+b) 
+c) 
+Prepare  all  drawings  and  layouts  related  to mechanical,  electrical  and  plumbing 
+works.  
+Coordinate with the team members. 
+Table 8: Cost Estimation and Financing Plan 
+for Consultancy team 
+($'000) 
+Item 
+Asian Development Bank 
+1 
+Consultants 
+a.       Remunerations and per diem 
+           National Consultants  
+b.        Local travel 
+Equipment (computer, printer, etc.) 
+Software 
+2 
+3 
+4  Workshops,  seminars, and conferences 
+5 
+Studies, surveys and reports 
+6  Miscellaneous administration and support costs 
+7 
+Contingencies 
+Total  
+For Individual Consultants  
+Total Cost 
+414.30  
+54.00  
+7.00  
+17.00  
+7.50  
+486.00  
+4.80  
+74.30  
+1,064.90  
+Harbor Design Engineer (International, 3.5 person months): 
+61. 
+The  consultant  will  have  a  post  graduate  civil  engineering  degree  or  equivalent  and  over  15 
+years’  experience  in  maritime  engineering  preferably  in  coastal/harbor/marine  civil  related 
+infrastructure  (including  numerical  modeling  for  harbor  works).  The  consultant  will  review  and 
+validate,  the  detailed  engineering  design  including  the  design  reports,  design  calculations  and 
+design drawings.  In case of difference of opinion between design review consultant and design 
+consultant, decision of the employer shall be final. The consultant will work with the design team 
+leader and the PIMU to (i) support the PIMU and ADB; (ii) provide ongoing review of harbor and 
+anchorage  design  work  carried  out  by  the  consultant  team.  The  design  review  and  validation 
+shall include but not limited to the following tasks: 
+a) 
+b) 
+Review  and  comments  on  all  deliverables  related  to  engineering  designs 
+prepared  by  the  detailed  design  team.  This  includes  design  criteria,  manuals, 
+detailed engineering drawings etc.,  
+Review  and  ensure  that  the  design  meets  all  the  standards  and  parameters 
+specified in terms of the TOR for design consultants, technical specifications and 
+best international practices. 
+32 
+c) 
+d) 
+e) 
+f) 
+g) 
+h) 
+i) 
+j) 
+k) 
+l) 
+Technical support to the PIMU and ADB. 
+Review  and  comment  on  technical  issues  associated  with  the  project  design 
+criteria  submitted  by  the  consultant  team  ensuring  best  international  standards 
+and  recommended  practices  to  achieve  sustainable  development,  climate 
+change mitigation measures and fitness for purpose criteria are included. 
+Coordinate appropriate review stages with the consultant team.  
+Review  and  comment  on  technical  issues  associated  with  the  project  final 
+detailed design documents submitted by the consultant team. 
+Review  and  comment  on  technical  issues  associated  with  the  project  cost 
+estimate and bidding documents submitted by the consultant team. 
+Provide  advice  on  the  necessity  of  proposed  variations  or  extensions  of  time 
+whether requested by the consultant team or the PIMU. 
+Review any modifications to the final design documents. 
+Provide  general  advice  to  the manager  PIMU  and  ADB  on  technical matters  as 
+requested including environmental, operational and maintenance requirements. 
+Identify  additional  studies  and  surveys  (if  required)  for  detailed  design  and 
+provide cost estimates. 
+Provide  a  consolidated  report  on  the  above  focusing  on  the  major  components 
+and elements but not limited to breakwater adequacy for climate change forces, 
+breakwater  global  stability,  breakwater  settlement,  channel  stability,  quay 
+foundation  adequacy,  sea  bed  material  dredgability,  reclamation  design  and 
+stability, pile structures adequacy, cost estimates and bidding documents. 
+The  consultant  will  submit  an  inception  report  within  3  weeks  of  initiating  the  assignment  and 
+then  a  midterm  review  report  in  the  third  month  and  final  report  in  the  6th  month  of  the 
+assignment. The time frame will be 3.5 months over a 6 month period. 
+62. 
+Environment Specialist (International, 3.5 person months) 
+The  consultant  will  have  a  post-graduate  degree  in  environmental  sciences/management  and 
+have  over  12  years  of  experience  in  coastal  and  marine  ecology  and  fisheries.  The  specialist 
+will work with the national environment specialist in the detailed design team to: 
+a) 
+b) 
+c) 
+Review  and  revise  based  on  detailed  designs  the  environmental  impact 
+assessment/s undertaken during the project preparatory stage.. 
+Ensure that the environmental factors and mitigation measures are incorporated 
+in the designs. 
+them  undertaken  by 
+Together  with  national  consultant  identify  additional  studies/surveys  if  required 
+the 
+and  get 
+environmental  assessment/s  to  meet  the  Coast  Conservation  Department’s  and 
+Government of Sri Lanka’s regulatory requirements. Ensure that all assessments 
+meet  both  ADB’s  Safeguard  Policy  Statement  2009,  and  government  of  Sri 
+Lanka’s requirements.  
+the  detailed  design 
+finalize 
+team 
+to 
+d) 
+The  assessment/s  should  identify  the  area  of  impact,  assess  the  potential 
+impacts  (not  only  at  the  project  site  but  related  facilities  such  as  borrow  sites, 
+33 
+quarry sites, disposal sites) and describe suitable mitigation measures, include a 
+comprehensive  environmental  management  plan  (EMP)  which  identifies  clearly 
+the responsibilities and institutional arrangements for implementation. This EMP 
+will be attached to the bidding documents for the respective contracts, therefore 
+detailed  (site  specific  and  not  generic)  EMPs  will  be  prepared.    The  report  for 
+ADB shall follow the outlines presented in Annex to Appendix 1 of the SPS 2009. 
+e) 
+Ensure relevant stakeholders and affected persons are adequately consulted and 
+all  consultation  should  be  well  documented.  Ensure  key  information  on  project, 
+impacts,  and  proposed  mitigation  and  management  measures  are  provided  to 
+affected  persons  in  a  manner  that  is  easily  understood  (in  the  local  language) 
+and in a place which is readily accessible. 
+34 
+VII. 
+SAFEGUARDS 
+63. 
+The PDA will finance only consultancy services for detailed engineering designs and is 
+categorized C for environment, involuntary resettlement and indigenous peoples. The proposed 
+ensuing project’s safeguard impacts are being assessed under the on-going project preparatory 
+technical  assistance.  The  proposed  initial  safeguard  categorizations  of  the  ensuing  project  in 
+accordance to ADB’s Safeguards Policy Statement (SPS) 2009 are as follows: (i) Category B for 
+environment,  (ii)  Category  B  for  involuntary  resettlement,  and  (iii)  category  C  for  indigenous 
+peoples.  The  PDA-financed  consultants  will  update  the  initial  environmental  examination  and 
+resettlement  plan  based  on  final  detailed  designs.  The  consultancy  team  includes  an 
+environment specialist and social safeguard specialist. 
+Prohibited  investment  activities.  Pursuant  to  ADB's  Safeguard  Policy  Statement  (2009) 
+64. 
+(SPS),  ADB  funds  may  not  be  applied  to  the  activities  described  on  the  ADB  Prohibited 
+Investment Activities List set forth at Appendix 5 of the SPS.  
+35 
+VIII.  GENDER AND SOCIAL DIMENSIONS 
+65. 
+These aspects are being covered under the PPTA and are not financed under the PDA. 
+IX. 
+PERFORMANCE MONITORING, EVALUATION, REPORTING AND 
+COMMUNICATION 
+A. 
+Monitoring and Evaluation 
+66. 
+PDA  Project  performance  monitoring:  PDA  Project  performance  will  be  monitored 
+based  on  quarterly  and  consolidated  reports  provided  by  the  MFARD.  These  reports  will 
+include: (a) progress achieved by activity as measured against the implementation schedule, (b) 
+key  implementation  issues  and  solutions;  (c)  updated  procurement  plan;  and  (d)  updated 
+implementation  plan for remaining  implementation  period. To  ensure  PDA  projects  continue to 
+be both viable and sustainable, PDA project financial statements, together with the associated 
+auditor's report,  should  be  adequately  reviewed.  Only  in  the  event  that an  ensuing  loan  is  not 
+approved,  will  MFARD  submit  a  PDA  project  completion  report  to  ADB  within  6  months  of 
+physical completion of the PDA project.18 
+67. 
+Compliance  monitoring:  Loan  covenants  on  policy,  legal,  financial,  economic, 
+environmental,  labor  standards  and  others  will  be  monitored  regularly  through  various  reports 
+(monthly  progress  reports,  quarterly  progress  reports,  and  annual  reports),  and  discussions 
+during review missions. 
+Safeguards monitoring: There will be no safeguard monitoring required during the PDA 
+68. 
+loan  as  it  will  only  support  preparation  of  detailed  designs  and  updating  of  the  environment 
+assessments  and  resettlement  plans.  ADB  and  the  relevant  government  agencies  will  review 
+each of these updates. 
+B. 
+Reporting 
+69. 
+The MFARD will provide ADB with: 
+(i) 
+PDA project’s quarterly progress reports in a format consistent with ADB's project 
+performance reporting system; 
+consolidated  annual  reports  including  (a)  progress  achieved  by  output  as 
+measured  through  the  performance  targets,  (b)  key  implementation  issues  and 
+solutions; (c) updated procurement plan and (d) updated implementation plan for 
+next 12 months;19 and 
+PDA  project  accounts  and  the  executing  agency  AFSs,  together  with  the 
+associated auditor's report,  
+(ii) 
+(iii) 
+C. 
+Stakeholder Communication Strategy 
+70. 
+The  PDA  will  maximize  transparency  by  communicating  relevant  project  information  to 
+stakeholders  in  various  means.  Surveys  and  consultations  among  stakeholders  will  be 
+conducted during updating of social safeguard assessments and resettlement plans. Awareness 
+workshops on project activities will be held. 
+18 Project completion report format is available at: http://www.adb.org/sites/default/files/pai-6-07-a.pdf 
+19The regional departments will present the performance of the completed PDA in the project completion report of the 
+ensuing loan. See para. 51 of ADB. 2013. Project Design Advance. Staff Instruction. Manila. 
+36 
+X. 
+ANTICORRUPTION POLICY 
+71. 
+ADB reserves the right to investigate, directly or through its agents, any violations of the 
+Anticorruption  Policy  relating  to  the  PDA  project.20 All  contracts  financed  by  ADB  shall  include 
+provisions  specifying  the  right  of  ADB  to  audit  and  examine  the  records  and  accounts  of  the 
+executing  agency  and  all  PDA  project  contractors,  suppliers,  consultants  and  other  service 
+providers. Individuals/entities on ADB’s anticorruption debarment list are ineligible to participate 
+in ADB-financed activity and may not be awarded any contracts under the PDA project.21 
+To support these efforts, relevant provisions are included in the loan agreement and the 
+72. 
+bidding documents for the PDA project.  
+20 Available at: http://www.adb.org/Documents/Policies/Anticorruption-Integrity/Policies-Strategies.pdf 
+21 ADB's Integrity Office web site is available at: http://www.adb.org/integrity/unit.asp 
+37 
+XI. 
+ACCOUNTABILITY MECHANISM 
+73. 
+People  who  are,  or  may  in  the  future  be,  adversely  affected  by  the  PDA  project  may 
+submit complaints to ADB’s Accountability Mechanism. The Accountability Mechanism provides 
+an  independent  forum  and  process  whereby  people  adversely  affected  by  ADB-assisted  PDA 
+projects can voice, and seek a resolution of their problems, as well as report alleged violations 
+of  ADB’s  operational  policies  and  procedures.  Before  submitting  a  complaint  to 
+the 
+Accountability  Mechanism,  affected  people  should  make  a  good  faith  effort  to  solve  their 
+problems by working with the concerned ADB operations department.  Only after doing that, and 
+if they are still dissatisfied, should they approach the Accountability Mechanism.22 
+22 For further information see: http://www.adb.org/Accountability-Mechanism/default.asp.  
+38 
+XII. 
+RECORD OF PAM CHANGES 
+{All revisions/updates during course of implementation should be retained in this Section 
+74. 
+to  provide  a  chronological  history  of  changes  to  implemented  arrangements  recorded  in  the 
+PAM.}  
+39 

@@ -1,0 +1,23 @@
+General Protocol:
+1. Download sovereign project information from 2005 onwards from https://data.adb.org/dataset/adb-sovereign-projects.
+2. Filter projects by those that have an approval date of 2015 or later, is not a Technical Assistance project, and has sector classification of "Agriculture, natural resources and rural development".
+3. Create a CSV file from this filtered Excel sheet that serves as the metadata for each project.
+4. For each project check if it has a Project/Program Administration Manual.
+5. If not, search for Report and Recommendations of the President.
+6. If either of these documents are found, download the PDF and convert it to text.
+7. Name the TXT file either <project id>-pam.txt or <project id>-rrp.txt, depending on what document was downloaded.
+8. Note which document was downloaded in the metadata CSV.
+
+Protocol w/ Existing Code (in terminal):
+1. Download sovereign project information from the ADB website and apply the correct filters.
+2. Name the filtered file "asian_development_bank_projects.csv", or replace the existing file with it if it has been updated.
+3. Run asian__db_scraper.py.
+4. Run "ls txt_files/pam/ > pam_docs.txt" and "ls txt_files/rrp/ > rrp_docs.txt".
+5. Run reformat_metadata.py.
+
+
+As of 5/12/22 (last time project info sheet updated from ADB website):
+107 projects
+80 projects with Project/Program Administration Manual
+8 projects with Report and Recommendations of the President
+19 projects with no document

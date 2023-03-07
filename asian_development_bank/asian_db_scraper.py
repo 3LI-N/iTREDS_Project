@@ -22,18 +22,18 @@ def download_doc(url, doc_type, proj_id):
 		try:
 			with open('./' + pdf_filename, 'wb') as f:
 				f.write(response.content)
-			print("PDF generated: " + pdf_filename)
+			print("\tPDF generated: " + pdf_filename)
 			txt_gen_return = os.system("pdf2txt.py ./" + pdf_filename + " > ./txt_files/" + txt_filename) #256 for error, 0 for okay
 			os.system("sed '/^\s*$/d' -i txt_files/" + txt_filename) # removes blank lines
-			print("txt generated: " + txt_filename)
+			print("\ttxt generated: " + txt_filename)
 			os.system("rm ./" + pdf_filename) # saves space by deleting the pdf
-			print("PDF deleted")
+			print("\tPDF deleted")
 			if int(txt_gen_return) != 0:
 				os.system("rm ./" + txt_filename)
-				print("Error in generating txt: faulty txt deleted")
+				print("\tError in generating txt: faulty txt deleted")
 			return int(txt_gen_return)
 		except:
-			print("Encountered issue downloading PDF and extracting txt")
+			print("\tEncountered issue downloading PDF and extracting txt")
 
 	return 1
 
@@ -57,33 +57,71 @@ class Project:
 	def download_txt(self):
 		with open('pam_docs.txt') as pam_docs:
 			if self.id in pam_docs.read():
-				print('Already downloaded PAM')
+				print('\tAlready downloaded PAM')
 				return 0
 
 		if download_doc(self.url, 'pam', self.id) == 0:
+			return 0
+
+		if download_doc(self.url.replace('-pam-en.pdf', '-pam.pdf'), 'pam', self.id) == 0:
+			return 0
+
+		if download_doc(self.url.replace('pdf', 'PDF'), 'pam', self.id) == 0:
+			return 0
+
+		if download_doc(self.url.replace('-pam-en.pdf', '-pam.PDF'), 'pam', self.id) == 0:
 			return 0
 
 		second_url = 'https://www.adb.org/sites/default/files/project-documents//' + str(self.id) + '-pam.pdf'
 
 		if download_doc(second_url, 'pam', self.id) == 0:
 			return 0
+
+		if download_doc(second_url.replace('-pam.pdf', '-pam-en.pdf'), 'pam', self.id) == 0:
+			return 0
+
+		if download_doc(second_url.replace('pdf', 'PDF'), 'pam', self.id) == 0:
+			return 0
+
+		if download_doc(second_url.replace('-pam.pdf', '-pam-en.PDF'), 'pam', self.id) == 0:
+			return 0
 		
-		print('No PAM, checking for RRP')
+		print('\tNo PAM, checking for RRP')
 
 		self.url = self.url.replace('pam', 'rrp')
 
 		with open('rrp_docs.txt') as rrp_docs:
 			if self.id in rrp_docs.read():
-				print('Already downloaded RRP')
+				print('\tAlready downloaded RRP')
 				return 0
 
 		if download_doc(self.url, 'rrp', self.id) == 0:
+			return 0
+
+		if download_doc(self.url.replace('-rrp-en.pdf', 'rrp.pdf'), 'rrp', self.id) == 0:
+			return 0
+
+		if download_doc(self.url.replace('pdf', 'PDF'), 'rrp', self.id) == 0:
+			return 0
+
+		if download_doc(self.url.replace('-rrp-en.pdf', 'rrp.PDF'), 'rrp', self.id) == 0:
 			return 0
 
 		second_url = second_url.replace('pam', 'rrp')
 
 		if download_doc(second_url, 'rrp', self.id) == 0:
 			return 0
+
+		if download_doc(second_url.replace('-rrp.pdf', '-rrp-en.pdf'), 'rrp', self.id) == 0:
+			return 0
+
+		if download_doc(second_url.replace('pdf', 'PDF'), 'rrp', self.id) == 0:
+			return 0
+
+		if download_doc(second_url.replace('-rrp.pdf', '-rrp-en.PDF'), 'rrp', self.id) == 0:
+			return 0
+
+		print('\tNo RRP')
 
 		return 1
 
@@ -151,7 +189,8 @@ def main():
 	projects = get_projects()
 
 	num_documents = 0
-	for proj in projects:
+	for i, proj in enumerate(projects):
+		print(str(i+1) + ' of ' + str(len(projects)) + ':')
 		if proj.download_txt() == 0:
 			num_documents += 1
 
