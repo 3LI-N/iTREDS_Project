@@ -132,8 +132,8 @@ class Project:
 
 	def get_csv_row(self, with_summary):
 		if with_summary:
-			return [self.id, self.status, self.country, self.region, self.year, self.borrower, self.project_amount, self.commitment_amount, self.env_category, self.report, str(self.summary).replace('|', '/').replace('\n', '\\n')]
-		return [self.id, self.status, self.country, self.region, self.year, self.borrower, self.project_amount, self.commitment_amount, self.env_category, self.report, str(self.has_summary)]
+			return [self.id, self.status, self.country, self.region, self.year, self.borrower, int(self.project_amount)*1000000, int(self.commitment_amount)*1000000, self.env_category, self.report, str(self.summary).replace('|', '/').replace('\n', '\\n')]
+		return [self.id, self.status, self.country, self.region, self.year, self.borrower, int(self.project_amount)*1000000, int(self.commitment_amount)*1000000, self.env_category, self.report, str(self.has_summary)]
 
 	
 
@@ -195,7 +195,7 @@ def main():
 	
 	with open('aws_ifad_metadata.csv', 'w') as csvfile:
 		filewriter = csv.writer(csvfile, delimiter=',', quotechar='\"', quoting=csv.QUOTE_MINIMAL)
-		filewriter.writerow(['Project ID', 'Status', 'Country', 'Region', 'Year approved', 'Borrowing entity', 'Project amount (total)', 'Committment amount', 'Environmental category', 'Report', 'Summary'])
+		filewriter.writerow(['Project ID', 'Project Status', 'Country', 'Region', 'Year approved', 'Borrower', 'Project amount (total)', 'Committment amount', 'Environmental Assessment Category', 'Report', 'Abstract Text'])
 		for proj in working_projects:
 			#proj_row = proj.get_csv_row()
 			filewriter.writerow(proj.get_csv_row(True))

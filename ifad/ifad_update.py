@@ -265,6 +265,7 @@ def main():
 			#print(line[0])
 
 	current_projects = get_valid_project_urls(2015)
+	print(len(current_projects))
 	report_projects = []
 
 	for project in current_projects:
