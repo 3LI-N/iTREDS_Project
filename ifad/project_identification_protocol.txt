@@ -18,8 +18,8 @@ Protocol w/ Existing Code (in terminal):
 5. Run ifad_metadata_scraper.py
 6. The "txt_files" directory should contain text files of all project documents and summaries and "ifad_metadata.csv" should contain relevant metadata of projects
 
-As of 1/29/23:
-213 projects approved since 2015
+As of 3/7/23:
+215 projects approved since 2015
 101 President's Reports
 81 Project Design Reports
-31 projects with no reports
+33 projects with no reports
