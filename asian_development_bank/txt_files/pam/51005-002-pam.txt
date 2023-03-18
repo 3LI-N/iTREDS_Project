@@ -5071,12 +5071,12 @@ agencies/organizations
 and NGO)  
 Agencies/ Bureaus/ 
 responsible for 
-implementing specific 
+implementingspecific 
 project 
 outputs/components 
 and activities 
-(including the 
-safeguard plans, GAP, 
+(includingthe 
+safeguardplans, GAP, 
 and SDAP)  
 Objectives 
 Key officers and staff directly 
@@ -5158,7 +5158,7 @@ Meeting
 Workshop 
 Public 
 consultation  
-EA through the 
+EAthrough the 
 CPMO social staff in 
 coordination with the 
 IAs and PIUs staff; 
@@ -5208,7 +5208,7 @@ monitoring/preparation of reports.
 including women, low- income 
 households and other vulnerable 
 persons in civil works and 
-operation.   
+operation.  
 Affected persons/ households know 
 the compensation package/ 
 entitlement and other assistance for 
@@ -5226,7 +5226,7 @@ workshop
 Meeting, 
 FGDs  
 2018  2023 
-EA through the 
+EAthrough the 
 CPMO social 
 safeguards staff in 
 coordination with the 
@@ -5237,18 +5237,18 @@ Information
 generation/ sharing;  
 Consultation and 
 Meeting 
-FGD  
+FGD 
 Public 
 consultation  
-EA through the 
+EAthrough the 
 CPMO social 
 safeguards staff in 
 coordination with the 
 2018  2023 
-  
+ 
 64 
 Stakeholders 
-Project beneficiaries 
+Projectbeneficiaries 
 (local people) and other 
 stakeholders in the 
 project area  
@@ -5259,7 +5259,7 @@ they are:
 the project will start, and the 
 extent of land area/ assets 
 affected by the project (as part of 
-project information disclosure).   
+project information disclosure).  
 •  explained about entitlement/ 
 compensation as part of the 
 consultation and decision- making 
@@ -5286,7 +5286,7 @@ implementation and operation.
 Specifically, the are: 
 •  informed about the project, 
 implementation arrangements, 
-etc.   
+etc.  
 •  informed of the potential / 
 unintended negative impacts that 
 may arise during project 
@@ -5323,7 +5323,7 @@ consultation
 (community 
 assembly 
 meetings);  
-EA through the 
+EAthrough the 
 CPMO social 
 safeguards staff in 
 coordination with the 
@@ -5352,19 +5352,19 @@ temporary or permanent loss of
 income, etc.) and mitigation 
 measures.  
 •  informed about the project, GRM 
-process, etc.   
+process, etc.  
 •  explained about the positive 
 impacts or potential benefits that 
 the local people could have during 
 project implementation and 
 operation (i.e. job opportunities, 
-training, etc.).   
+training, etc.).  
 •  informed about job opportunities, 
 training, awareness campaign 
 activities, consultation meetings 
 that will be implemented during 
 the design, implementation, and 
-operation/maintenance stages.   
+operation/maintenance stages.  
 Some local people, representatives 
 of schools (students and teachers), 
 youth, women, farmers and other 
@@ -5375,12 +5375,12 @@ environmental and solid waste
 management. Specifically, they are: 
 •  informed about the project, 
 outputs/components and 
-activities.   
+activities.  
 •  provided information and required 
 basic knowledge and skills for 
 flood control/management and 
 environmental and solid waste 
-management.   
+management.  
 Other stakeholders in 
 the project areas 
 (farmers, youth, 
@@ -5395,11 +5395,11 @@ making, and
 shared 
 responsibility 
 Meeting 
-FGD  
+FGD 
 Public 
 consultation  
 workshop 
-EA through the 
+EAthrough the 
 CPMO social 
 safeguards staff in 
 coordination with the 
@@ -5412,7 +5412,7 @@ Women
 Support gender mainstreaming and 
 • 
 Information 
-Meeting FGD  EA/IAs through the 
+Meeting FGD  EA/IAsthrough the 
 2018  2023 
 66 
 Stakeholders 
@@ -5422,12 +5422,12 @@ benefits from the project.
 Specifically, women are: 
 •  informed about the project, 
 outputs/components and 
-activities.   
+activities.  
 •  are able to benefit from the project 
 by participating in consultations; 
 job opportunities, awareness 
 campaign and training, and other 
-activities.   
+activities.  
 Methods and Responsibility 
 Timeline 
 Types of 
@@ -5454,7 +5454,7 @@ Village leaders
 ADB  =  Asian  Development  Bank,  AP  =  affected  person,  AH  =  affected  household,  CMG  =  Chongqing  Municipal  Government,  CPMO  =  Chongqing  project 
 management office, EA = executing agency, FGD = focused group discussion, GAP = gender action plan, GRM = grievance redress mechanism, IA = implementing 
 agency, LIC = loan implementation consultant, LAR = land acquisition and resettlement, NGO = nongovernment organization, PIU = project implementing unit, RP 
-= resettlement plan, SDAP = social development action plan.  
+= resettlement plan, SDAP = social development action plan. 
 Source: Asian Development Bank estimates.
 67 
 X. 
@@ -5622,7 +5622,7 @@ basin  model,  flood  and  environmental  management  planning  combined  with  
 planning, etc.) to other similar river basins, through (a) workshops inviting other cities; 
 (b) training, not only for the EA and IA staff but also for other city staff; (c) publications 
 including knowledge products; (d) disclosure of project information on website; and (e) 
-submission of papers to academic societies  
+submission of papers to academic societies 
 (xx)  Provide  training  to  farmers  in  the  efficient  use  and  application  of  pesticides  and 
 fertilizers as well as in modern farming and irrigation practices. 
 (xxi)  Conduct training for relevant CMG staff on (a) flood control, water quality monitoring, 

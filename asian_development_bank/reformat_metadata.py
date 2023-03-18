@@ -55,10 +55,18 @@ def get_projects():
 
 def main():
 	projects = get_projects()
+	skipped_projects = open("docs_to_remove.txt").readlines()
 	with open('adb_metadata.csv', 'w') as csvfile:
 		filewriter = csv.writer(csvfile, delimiter=',', quotechar='\"', quoting=csv.QUOTE_MINIMAL)
 		filewriter.writerow(['Project ID', 'Title', 'Country', 'Type', 'Status', 'Approval Date', 'Committment amount ($USD)', 'Sector', 'Subsector', 'Environment Category', 'Indigenous Peoples Category', 'Involuntary Resetllement Category', 'Responsible ADB Department', 'Executing Agencies', 'Responsible ADB Officer', 'Report', 'Summary'])
 		for proj in projects:
+			skip_this = False
+			for skipped_proj in skipped_projects:
+				if skipped_proj[:-1] == proj.proj_id:
+					skip_this = True
+					break
+			if skip_this:
+				continue
 			proj.get_report()
 			filewriter.writerow(proj.get_csv_row())
 

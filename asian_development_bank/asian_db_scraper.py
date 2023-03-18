@@ -126,49 +126,6 @@ class Project:
 		return 1
 
 
-'''def get_projects(oldest_year):
-	projects = []
-	cont_scraping = True
-	page = 0
-	while True:
-		url = 'https://www.adb.org/projects/sector/agriculture-natural-resources-and-rural-development-1057'
-		if page > 0:
-			url += '?page=' + str(page)
-		response = requests.get(url)
-		if response == None:
-			break
-		content = BeautifulSoup(response.text, 'lxml')
-
-		div_tags = content.find_all('div')
-
-		for tag in div_tags:
-			print(tag)
-			print()
-		return []
-
-		for tag in div_tags:
-			try:
-				if(tag['class'][0] == 'item'):
-					proj_year = int(re.search(r"dc:date[^<]+", str(tag)).group()[-4:])
-					if proj_year < oldest_year:
-						return projects
-					proj_country = re.search(r";[^;]+;", str(tag)).group()[2:-1]
-					proj_title = tag.a.text
-					proj_link = "https://www.adb.org" + str(tag.a['href'])
-					proj_id = proj_link[-14:-5]
-
-					new_project = Project(proj_title, proj_country, proj_year, proj_id, proj_link)
-					projects.append(new_project)
-					new_project.print_data()
-					print()
-			except:
-				pass
-
-		page += 1
-
-	return projects
-'''
-
 def get_projects():
 	projects = []
 	with open('asian_development_bank_projects.csv', mode ='r')as file:

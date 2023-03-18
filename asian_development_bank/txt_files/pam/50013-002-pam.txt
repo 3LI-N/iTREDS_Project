@@ -1497,7 +1497,7 @@ Total
 7.18 
 Total Project Cost (A+B+C) 
 MNT = Mongolian tugrik, PIU = project implementation unit. 
-Note: Numbers may not sum precisely because of rounding.  
+Note: Numbers may not sum precisely because of rounding. 
 a  Includes  taxes  and  duties  of $3.4 million to be financed  from  government  resources  and  the  Asian  Development 
 0.08 
 2.31 
@@ -1511,7 +1511,7 @@ a  Includes  taxes  and  duties  of $3.4 million to be financed  from  governmen
              -   
 218 
              -    6,101 
-Bank. The government will contribute to financing of taxes and duties of $0.4 million through exemptions.   
+Bank. The government will contribute to financing of taxes and duties of $0.4 million through exemptions.  
 Source: Asian Development Bank estimates. 
 D. 
 Allocation and Withdrawal of Loan Proceeds 
@@ -1719,9 +1719,9 @@ Duties
             -   
        3.38  
 ADB = Asian Development Bank, OCR = ordinary capital resources, PIU = project implementation unit. 
-Note: Numbers may not sum precisely because of rounding.  
-a  Includes taxes and duties of $3.4 million to be financed from government resources and the Asian Development Bank.   
-b  Includes the costs of office rental, stationary, photocopying, printing, and vehicle fuel.   
+Note: Numbers may not sum precisely because of rounding. 
+a  Includes taxes and duties of $3.4 million to be financed from government resources and the Asian Development Bank.  
+b  Includes the costs of office rental, stationary, photocopying, printing, and vehicle fuel.  
 Source: Asian Development Bank estimates.  
 22 
 F. 
@@ -1938,8 +1938,8 @@ Interest During Construction
 Subtotal (C) 
 Total Project Cost (A+B+C) 
 PIU = project implementation unit. 
-Note: Numbers may not sum precisely because of rounding.  
-a Includes taxes and duties of $3.4 million to be financed from government resources and the Asian Development Bank.   
+Note: Numbers may not sum precisely because of rounding. 
+a Includes taxes and duties of $3.4 million to be financed from government resources and the Asian Development Bank.  
 Source: Asian Development Bank estimates.  
 23 
 2023 
@@ -2036,7 +2036,7 @@ Subtotal (C)
 2.51  
 Total Project Cost (A+B+C) 
 PIU = project implementation unit. 
-Note: Numbers may not sum precisely because of rounding.  
+Note: Numbers may not sum precisely because of rounding. 
 a  Includes  taxes  and  duties  of  $3.4  million  to  be  financed  from  government  resources  and  the  Asian  Development 
 2.23  
 0.08  
@@ -2062,7 +2062,7 @@ a  Includes  taxes  and  duties  of  $3.4  million  to  be  financed  from  gove
 0.00  
 1.01  
 4.62  
-Bank.   
+Bank.  
 Source: Asian Development Bank estimates.  
 24 
 H. 

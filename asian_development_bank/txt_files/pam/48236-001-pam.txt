@@ -70,7 +70,7 @@ province
 sub-district 
 A Mongolian term for a severe winter in which large number 
 of  livestock  die,  primarily  due  to  starvation  due  to  being 
-unable to graze, in other cases directly from the cold.   
+unable to graze, in other cases directly from the cold.  
 district 
 1	
 1	
@@ -741,7 +741,7 @@ on role of bagh
 neighborhood 
 groups in 
 disaster 
-resilience  
+resilience 
 3.2 Design and 
 conduct 
 training of 
