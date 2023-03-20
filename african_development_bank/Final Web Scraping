@@ -1,0 +1,24 @@
+import csv
+import requests
+from bs4 import BeautifulSoup
+
+# Create a new CSV file to store the data
+with open('AfDB_Corpus.csv', mode='w', newline='') as csv_file:
+    fieldnames = ['Initial_URL', 'Project_General_Description', 'Appraisal_Report_Link']
+    writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+    writer.writeheader()
+
+    # Read the links from the CSV file
+    with open('Links_Text.csv', mode='r') as links_file:
+        csv_reader = csv.reader(links_file)
+        next(csv_reader)  # skip the header row
+
+        for row in csv_reader:
+            link = row[0]  # get the link from the first column
+            response = requests.get(link)  # make a request to the link
+            soup = BeautifulSoup(response.content, 'html.parser')  # create a Beautiful Soup object
+            project_general_desc_div = soup.find('p', {'class': 'ng-binding'})  # find the project general description
+            project_general_desc = project_general_desc_div.text.strip() if project_general_desc_div else ''  # extract the project general description if it exists
+            appraisal_link = soup.find('a', {'href': lambda href: href and 'project_appraisal_report' in href})
+            appraisal_report_link = appraisal_link['href'] if appraisal_link else ''  # extract the appraisal report link if it exists
+            writer.writerow({'Initial_URL': link, 'Project_General_Description': project_general_desc, 'Appraisal_Report_Link': appraisal_report_link})
