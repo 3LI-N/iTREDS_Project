@@ -37,6 +37,34 @@ def download_doc(url, doc_type, proj_id):
 
 	return 1
 
+def download_type(base_url, doc_type, proj_id):
+	if download_doc(base_url, doc_type, proj_id) == 0:
+		return 0
+
+	if download_doc(base_url.replace('-en.pdf', '.pdf'), doc_type, proj_id) == 0:
+		return 0
+
+	if download_doc(base_url.replace('pdf', 'PDF'), doc_type, proj_id) == 0:
+		return 0
+
+	if download_doc(base_url.replace('-en.pdf', '.PDF'), doc_type, proj_id) == 0:
+		return 0
+
+	second_url = 'https://www.adb.org/sites/default/files/project-documents//' + str(proj_id) + '-' + doc_type + '.pdf'
+
+	if download_doc(second_url, doc_type, proj_id) == 0:
+		return 0
+
+	if download_doc(second_url.replace('.pdf', '-en.pdf'), doc_type, proj_id) == 0:
+		return 0
+
+	if download_doc(second_url.replace('pdf', 'PDF'), doc_type, proj_id) == 0:
+		return 0
+
+	if download_doc(second_url.replace('.pdf', '-en.PDF'), doc_type, proj_id) == 0:
+		return 0
+	
+	return 1
 
 class Project:
 	def __init__(self, title, country, year, id, url):
@@ -60,30 +88,7 @@ class Project:
 				print('\tAlready downloaded PAM')
 				return 0
 
-		if download_doc(self.url, 'pam', self.id) == 0:
-			return 0
-
-		if download_doc(self.url.replace('-pam-en.pdf', '-pam.pdf'), 'pam', self.id) == 0:
-			return 0
-
-		if download_doc(self.url.replace('pdf', 'PDF'), 'pam', self.id) == 0:
-			return 0
-
-		if download_doc(self.url.replace('-pam-en.pdf', '-pam.PDF'), 'pam', self.id) == 0:
-			return 0
-
-		second_url = 'https://www.adb.org/sites/default/files/project-documents//' + str(self.id) + '-pam.pdf'
-
-		if download_doc(second_url, 'pam', self.id) == 0:
-			return 0
-
-		if download_doc(second_url.replace('-pam.pdf', '-pam-en.pdf'), 'pam', self.id) == 0:
-			return 0
-
-		if download_doc(second_url.replace('pdf', 'PDF'), 'pam', self.id) == 0:
-			return 0
-
-		if download_doc(second_url.replace('-pam.pdf', '-pam-en.PDF'), 'pam', self.id) == 0:
+		if download_type(self.url, 'pam', self.id) == 0:
 			return 0
 		
 		print('\tNo PAM, checking for RRP')
@@ -95,33 +100,22 @@ class Project:
 				print('\tAlready downloaded RRP')
 				return 0
 
-		if download_doc(self.url, 'rrp', self.id) == 0:
+		if download_type(self.url, 'rrp', self.id) == 0:
 			return 0
 
-		if download_doc(self.url.replace('-rrp-en.pdf', 'rrp.pdf'), 'rrp', self.id) == 0:
+		print('\tNo RRP, checking for PFRTR')
+
+		self.url = self.url.replace('rrp', 'pfrtr')
+
+		with open('pfrtr_docs.txt') as pfrtr_docs:
+			if self.id in pfrtr_docs.read():
+				print('\tAlready downloaded PFRTR')
+				return 0
+
+		if download_type(self.url, 'pfrtr', self.id) == 0:
 			return 0
-
-		if download_doc(self.url.replace('pdf', 'PDF'), 'rrp', self.id) == 0:
-			return 0
-
-		if download_doc(self.url.replace('-rrp-en.pdf', 'rrp.PDF'), 'rrp', self.id) == 0:
-			return 0
-
-		second_url = second_url.replace('pam', 'rrp')
-
-		if download_doc(second_url, 'rrp', self.id) == 0:
-			return 0
-
-		if download_doc(second_url.replace('-rrp.pdf', '-rrp-en.pdf'), 'rrp', self.id) == 0:
-			return 0
-
-		if download_doc(second_url.replace('pdf', 'PDF'), 'rrp', self.id) == 0:
-			return 0
-
-		if download_doc(second_url.replace('-rrp.pdf', '-rrp-en.PDF'), 'rrp', self.id) == 0:
-			return 0
-
-		print('\tNo RRP')
+		
+		print('\tNo PFRTR')
 
 		return 1
 

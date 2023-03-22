@@ -33,6 +33,12 @@ class Project:
 				if row.find(self.proj_id) != -1:
 					self.report = "Reports and Recommendations of the President"
 					return
+		with open(r'pfrtr_docs.txt', 'r') as fp:
+			lines = fp.readlines()
+			for row in lines:
+				if row.find(self.proj_id) != -1:
+					self.report = "Tranche Report"
+					return
 
 	def get_csv_row(self):
 		return [self.proj_id, self.title, self.country, self.proj_type, self.status, self.approval_date, self.commitment_amount, self.sector, self.subsector, self.env_cat, self.ip_cat, self.ir_cat, self.department, self.agencies, self.officer, self.report, self.summary]
@@ -58,7 +64,7 @@ def main():
 	skipped_projects = open("docs_to_remove.txt").readlines()
 	with open('adb_metadata.csv', 'w') as csvfile:
 		filewriter = csv.writer(csvfile, delimiter=',', quotechar='\"', quoting=csv.QUOTE_MINIMAL)
-		filewriter.writerow(['Project ID', 'Title', 'Country', 'Type', 'Status', 'Approval Date', 'Committment amount ($USD)', 'Sector', 'Subsector', 'Environment Category', 'Indigenous Peoples Category', 'Involuntary Resetllement Category', 'Responsible ADB Department', 'Executing Agencies', 'Responsible ADB Officer', 'Report', 'Summary'])
+		filewriter.writerow(['Project ID', 'Title', 'Country', 'Type', 'Project Status', 'Approval Date', 'Committment amount', 'Sector', 'Subsector', 'Environment Assessment Category', 'Indigenous Peoples Category', 'Involuntary Resetllement Category', 'Responsible ADB Department', 'Executing Agencies', 'Responsible ADB Officer', 'Report', 'Abstract Text'])
 		for proj in projects:
 			skip_this = False
 			for skipped_proj in skipped_projects:
