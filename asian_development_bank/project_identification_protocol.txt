@@ -17,7 +17,8 @@ Protocol w/ Existing Code (in terminal):
 
 
 As of 5/12/22 (last time project info sheet updated from ADB website):
-107 projects
-80 projects with Project/Program Administration Manual
+106 projects
+79 projects with Project/Program Administration Manual
 8 projects with Report and Recommendations of the President
-19 projects with no document
+4 projects with Tranche Report
+15 projects with no document
