@@ -1,0 +1,1254 @@
+<!DOCTYPE html>
+<html id='application'>
+<!--  -->
+<!-- ___  _____   _     ____ -->
+<!-- |_ _||  ___| / \   |  _ \    Carefully hand-crafted by -->
+<!-- | | | |_   / _ \  | | | |   IFAD's ICT Solutions Team -->
+<!-- | | |  _| / ___ \ | |_| -->
+<!-- |___||_|  /_/   \_\|____/    > https://github.com/ifad -->
+<!--  -->
+<head>
+<meta content='text/html; charset=utf-8' http-equiv='Content-type'>
+<meta content='black-translucent' name='apple-mobile-web-app-status-bar-style'>
+<meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='black-translucent' name='apple-mobile-web-app-status-bar-style'>
+<link href='/members/assets/HTML5_Badge_64-8dc1522eb7b2d6ec2af84e0b95242d04.png' rel='apple-touch-icon'>
+<link href='/members/assets/HTML5_Badge_64-8dc1522eb7b2d6ec2af84e0b95242d04.png' rel='apple-touch-icon-precomposed'>
+<title>Reconvened 131st session of the Executive Board | IFAD Members Platform</title>
+<link href="/members/assets/application-31a464aa9ddca62d578881af2ab614dc.css" media="screen" rel="stylesheet" type="text/css" />
+<!--[if lt IE 9]>
+<script src="/members/assets/ie8-9b63cb25120ce4a35c633e39c580e717.js" type="text/javascript"></script>
+<![endif]-->
+<script src="/members/assets/application-3786cba96deb83d3cbbdfd0009ba9098.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="52Bc3W6qbonNh2VBOEXQb/1CzfoQ9bkVvks5wsrBsHE=" name="csrf-token" />
+<link href="/members/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+
+</head>
+<body>
+<div class='navbar navbar-default navbar-static-top' role='navigation'>
+<div class='navbar-inner'>
+<div class='container'>
+<div class='navbar-header'>
+<button class='navbar-toggle' data-target='.navbar-collapse' data-toggle='collapse' type='button'>
+<span class='sr-only'>Toggle navigation</span>
+<span class='icon-bar'></span>
+<span class='icon-bar'></span>
+<span class='icon-bar'></span>
+</button>
+<a href="/members" class="navbar-brand " id="logo"><i class="icon icon-logo"></i> <span>IFAD</span> | Platform</a>
+</div>
+<div class='navbar-collapse collapse'>
+<ul class="nav navbar-nav "><li class=""><a href="/members">Home</a></li><li class="active"><a href="/members/meetings">Meetings and Events</a></li><li class=""><a href="/members/member-states">Member States</a></li><li class=""><a href="/members/governance">Governance</a></li><li class=""><a href="/members/news">News</a></li><li class=""><a href="/members/faq">FAQs</a></li></ul>
+<ul class='nav navbar-nav'>
+<li>
+<a href="/members/document_search"><i class='fa fa-search'></i>
+</a></li>
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Login <b class="caret"></b></a><ul class="dropdown-menu"><form accept-charset="UTF-8" action="/members/login" class="navbar-form navbar-left" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="52Bc3W6qbonNh2VBOEXQb/1CzfoQ9bkVvks5wsrBsHE=" /></div>
+<input id="return_to" name="return_to" type="hidden" value="/members/my" />
+<li><input class="form-control input-sm" id="username" name="username" placeholder="User name" type="text" value="" /></li>
+<li><input class="form-control input-sm" id="password" name="password" placeholder="Password" type="password" value="" /></li>
+<li><input class="btn btn-primary btn-sm" data-disable-with="Working..." id="login" name="commit" type="submit" value="Login" /></li>
+<li class='divider'></li>
+<li class='text-right'>
+<a href="https://webapps.ifad.org/members/login/staff"><i class='icon-ifad'></i>
+IFAD Staff login
+</a></li>
+</form>
+
+</ul></li></ul>
+</div>
+</div>
+</div>
+</div>
+
+<div class='container' id='main-container'>
+<div class='flash error alert alert-danger'>
+<div>Document not found</div>
+</div>
+
+<div class='content'>
+<div class='row white'>
+<div class='col-md-12'>
+<ol class="breadcrumb"><li class=""><a href="/members/meetings">All Meetings</a></li><li class=""><a href="/members/eb">Executive Board</a></li><li class="active"><a href="/members/eb/131R">Reconvened 131st session of the Executive Board</a></li></ol>
+
+</div>
+<div class='col-md-12' id='top'><h2>
+
+Reconvened 131st session of the Executive Board
+</h2>
+</div>
+<div class='col-md-12'>
+<table class='table table-bordered'>
+<tr>
+<td class='active'>Meeting</td>
+<td><a href="/members/eb">Executive Board</a></td>
+</tr>
+<tr>
+<td class='active'>Dates</td>
+<td>
+
+Ended over 2 years ago
+(07/12/2020 -
+09/12/2020)
+</td>
+</tr>
+</table>
+
+<h3 class=" visible-sm visible-xs"><a data-target="#news" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>News
+</a></h3><h3 class=" visible-md visible-lg">News
+</h3><div class=" in" data-collapsible="true" data-paginate="reload" id="news"><ul class='list-unstyled news'>
+<li class='news-list'>
+<div id='news_5316'>    <p><u>New Documents Online!</u>
+       Please note that the following document has been posted:</p>
+<p><div class='elem-document'>
+<strong>EB 2020/131(R)/R.39</strong>
+-
+Report on IFAD’s Investment Portfolio for the Third Quarter of 2020
+(<a href="https://webapps.ifad.org/members/eb/131R/docs/arabic/EB-2020-131-R-R-39.pdf">Arabic</a>)
+(<a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-39.pdf">English</a>)
+(<a href="https://webapps.ifad.org/members/eb/131R/docs/french/EB-2020-131-R-R-39.pdf">French</a>)
+(<a href="https://webapps.ifad.org/members/eb/131R/docs/spanish/EB-2020-131-R-R-39.pdf">Spanish</a>)
+</div>
+</p></div>
+<div class='timestamp'>
+Almost 2 years
+ago
+<span>(</span><span class='date'>26/06/2021</span><span>)</span>
+</div>
+</li>
+<li class='news-list'>
+<div id='news_5311'>    <p><u>New Documents Online!</u>
+       Please note that the following document has been posted:</p>
+<p><div class='elem-document'>
+<strong>EB 2020/131(R)/R.39</strong>
+-
+Report on IFAD’s Investment Portfolio for the Third Quarter of 2020
+(<a href="https://webapps.ifad.org/members/eb/131R/docs/arabic/EB-2020-131-R-R-39.pdf">Arabic</a>)
+(<a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-39.pdf">English</a>)
+(<a href="https://webapps.ifad.org/members/eb/131R/docs/spanish/EB-2020-131-R-R-39.pdf">Spanish</a>)
+</div>
+</p></div>
+<div class='timestamp'>
+Almost 2 years
+ago
+<span>(</span><span class='date'>24/06/2021</span><span>)</span>
+</div>
+</li>
+<li class='news-list'>
+<div id='news_5298'>    <p><u>New Documents Online!</u>
+       Please note that the following document has been posted:</p>
+<p><div class='elem-document'>
+<strong>EB 2020/131(R)/R.39</strong>
+-
+Report on IFAD’s Investment Portfolio for the Third Quarter of 2020
+(<a href="https://webapps.ifad.org/members/eb/131R/docs/arabic/EB-2020-131-R-R-39.pdf">Arabic</a>)
+(<a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-39.pdf">English</a>)
+(<a href="https://webapps.ifad.org/members/eb/131R/docs/spanish/EB-2020-131-R-R-39.pdf">Spanish</a>)
+</div>
+</p></div>
+<div class='timestamp'>
+Almost 2 years
+ago
+<span>(</span><span class='date'>12/06/2021</span><span>)</span>
+</div>
+</li>
+<li class='news-list'>
+<div id='news_5164'>    <p><u>New Documents Online!</u>
+       Please note that the following document has been posted:</p>
+<p><div class='elem-document'>
+<strong>EB/131</strong>
+-
+Minutes of the 131st and Reconvened 131st Session of the Executive Board – VIRTUAL MEETINGS
+(<a href="https://webapps.ifad.org/members/eb/131R/docs/arabic/EB-131.pdf">Arabic</a>)
+(<a href="https://webapps.ifad.org/members/eb/131R/docs/EB-131.pdf">English</a>)
+(<a href="https://webapps.ifad.org/members/eb/131R/docs/french/EB-131.pdf">French</a>)
+(<a href="https://webapps.ifad.org/members/eb/131R/docs/spanish/EB-131.pdf">Spanish</a>)
+</div>
+</p></div>
+<div class='timestamp'>
+About 2 years
+ago
+<span>(</span><span class='date'>19/03/2021</span><span>)</span>
+</div>
+</li>
+
+<div class="alert alert-warning "><img alt="Security" data-swap-with="/members/assets/icons/16x16/security-off-3db194d5ca2f0a73742ea3f161040c2c.png" src="/members/assets/icons/16x16/security-38cb83fd722dec2922bef8cf3d2002f2.png" /> Other information is restricted to members of this committee. <a href="/members/login?return_to=%2Fmembers%2Feb%2F131R">Login &raquo;</a></div>
+<li class='paginate'>  <ul class="pagination">
+    
+    
+        <li class="page active">
+  <a href="javascript:void(0)" data-remote="true">1</a>
+</li>
+
+        <li class="page">
+  <a href="/members/eb/131R/news?page=2" data-remote="true" rel="next">2</a>
+</li>
+
+        <li class="page">
+  <a href="/members/eb/131R/news?page=3" data-remote="true">3</a>
+</li>
+
+        <li class="page gap disabled"><a href="javascript:void(0)">&hellip;</a></li>
+
+        <li class="page">
+  <a href="/members/eb/131R/news?page=9" data-remote="true">9</a>
+</li>
+
+        <li class="page">
+  <a href="/members/eb/131R/news?page=10" data-remote="true">10</a>
+</li>
+
+    
+  <li class="next">
+    <a href="/members/eb/131R/news?page=2" data-remote="true" rel="next">Next &rsaquo;</a>
+  </li>
+
+    
+  </ul>
+</li>
+</ul>
+
+</div><!-- = foldable_tag :h3, '#schedules', class: 'visible-md visible-lg' do -->
+<!-- = t :schedule_of_events -->
+<!-- = collapsed_content 'schedules', :data => { :paginate => "reload" } do -->
+<!-- = render 'schedules' -->
+<a href="/members/eb/sessions" class="pull-right">Previous Sessions Documents</a>
+<h3 class=" visible-sm visible-xs"><a data-target="#documents" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Official Documents
+</a></h3><h3 class=" visible-md visible-lg">Official Documents
+</h3><div class=" in" data-collapsible="true" id="documents"><div class='collapse in' id='documents'>
+<ul class='nav nav-pills'>
+<li>
+<a data-source='/members/eb/131R/docs/arabic' data-toggle='tab' href='#arabic'>Arabic</a>
+</li>
+<li class='active'>
+<a data-source='/members/eb/131R/docs/english' data-toggle='tab' href='#english'>English</a>
+</li>
+<li>
+<a data-source='/members/eb/131R/docs/french' data-toggle='tab' href='#french'>French</a>
+</li>
+<li>
+<a data-source='/members/eb/131R/docs/spanish' data-toggle='tab' href='#spanish'>Spanish</a>
+</li>
+</ul>
+<div class='tab-content' dir='ltr'>
+<div class='tab-pane ' id='arabic'></div>
+<div class='tab-pane active' id='english'><div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-3554" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda Item 2: Adoption of the agenda
+</a></div><div class=" visible-md visible-lg">Agenda Item 2: Adoption of the agenda
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-3554"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-1-Rev-2.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.1/<wbr/>Rev.2</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Agenda</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-3555" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda Item 3: Strategic discussion with the President of IFAD
+</a></div><div class=" visible-md visible-lg">Agenda Item 3: Strategic discussion with the President of IFAD
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-3555"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-2.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.2</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Helping small-scale producers and poor rural communities thrive – an agenda for climate resilience at COP26</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-3556" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda Item 4: Corporate
+</a></div><div class=" visible-md visible-lg">Agenda Item 4: Corporate
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-3556"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-3-Rev-1.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.3/<wbr/>Rev.1</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>IFAD's 2021 results-based programme of work and regular and capital budgets, and the Independent Office of Evaluation of IFAD's results-based work programme and budget for 2021 and indicative plan for 2022-2023 and the HIPC and PBAS progress reports</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-4.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.4</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Report of the Audit Committee on IFAD's 2021 results-based programme of work and regular and capital budgets, and the Independent Office of Evaluation of IFAD's results-based work programme and budget for 2021 and indicative plan for 2022-2023</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-5.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.5</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>People, Processes and Technology Plan: Implementation of a Targeted Investment in IFAD's Capacity (TCI)</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-3557" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda Item 5: Operational matters
+</a></div><div class=" visible-md visible-lg">Agenda Item 5: Operational matters
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-3557"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-14.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.14</a></code>
+
+<br>
+<code>+&nbsp;<a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-14-Add-1.pdf">Add.1</a></code>
+
+
+<br>
+<code>+&nbsp;<a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-14-Add-2.pdf">Add.2</a></code>
+
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Progress report on the status of implementation of the Rural Poor Stimulus Facility and IFAD’s wider operational response to COVID-19</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-15.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.15</a></code>
+
+<br>
+<code>+&nbsp;<a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-15-Add-1.pdf">Add.1</a></code>
+
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p><strong>Bolivia (Plurinational State of)</strong>: Country strategic opportunities programme 2021 - 2025</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-16.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.16</a></code>
+
+<br>
+<code>+&nbsp;<a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-16-Add-1.pdf">Add.1</a></code>
+
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p><strong>Chad</strong>: Country strategic opportunities programme 2020 - 2025</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-17.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.17</a></code>
+
+<br>
+<code>+&nbsp;<a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-17-Add-1.pdf">Add.1</a></code>
+
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p><strong>Mali</strong>: Country strategic opportunities programme 2020 - 2024</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-33.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.33</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Minutes on the Twelfth and Thirteenth Meetings of the Working Group on the Performance-Based Allocation System</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-40.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.40</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Extension of the timebound Delegation of Authority for the approval of deviations from the Policy on Project Restructuring and the Proposal for Faster Implementation of Project Start-up Instruments</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+<div class='row documents'>
+<div class='col-xs-12'>
+<em>West and Central Africa</em>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-8-Rev-1.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.8/<wbr/>Rev.1</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Regional lending operation - Joint Sahel Programme to Respond to the Challenges of COVID-19, Conflict and Climate Change</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-9-Rev-1.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.9/<wbr/>Rev.1</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p><strong>Central African Republic</strong>: Project to Improve Productivity and Access to Markets for Agropastoral Products in the Savannah Zones</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-10.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.10</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p><strong>Niger</strong>: President’s memorandum: Proposed project restructuring in the Republic of the Niger</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-11-Rev-1.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.11/<wbr/>Rev.1</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Benin and Togo: Regional Programme for the Integration of Agricultural Markets</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+<div class='row documents'>
+<div class='col-xs-12'>
+<em>East and Southern Africa</em>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-13-Rev-1.pdf">EB 2020/<wbr/>131/<wbr/>R.13/<wbr/>Rev.1</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p><strong>United Republic of Tanzania</strong>: Agriculture and Fisheries Development Programme</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+<div class='row documents'>
+<div class='col-xs-12'>
+<em>Asia and the Pacific</em>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-12-Rev-1.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.12/<wbr/>Rev.1</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p><strong>China</strong>: Hunan Rural Revitalization Demonstration Project</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+<div class='row documents'>
+<div class='col-xs-12'>
+<em>Near East, North Africa and Europe</em>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-7-Rev-1.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.7/<wbr/>Rev.1</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Yemen: Rural Livelihoods Development Project (RLDP)</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-3558" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda Item 6: Non-Sovereign Private Sector Operation
+</a></div><div class=" visible-md visible-lg">Agenda Item 6: Non-Sovereign Private Sector Operation
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-3558"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<img alt="Security" data-swap-with="/members/assets/icons/16x16/security-off-3db194d5ca2f0a73742ea3f161040c2c.png" src="https://webapps.ifad.org/members/assets/icons/16x16/security-38cb83fd722dec2922bef8cf3d2002f2.png" url="true" />
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-18.pdf" rel="nofollow">EB 2020/<wbr/>131(R)/<wbr/>R.18</a></code>
+
+<br>
+<code>+&nbsp;<a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-18-Add-1.pdf" rel="nofollow">Add.1</a></code>
+
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Proposal to finance expansion and scaling-up of the Babban Gona agricultural franchise model</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-3559" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda Item 7: Financial matters
+</a></div><div class=" visible-md visible-lg">Agenda Item 7: Financial matters
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-3559"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-19.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.19</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Resources available for commitment</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<img alt="Security" data-swap-with="/members/assets/icons/16x16/security-off-3db194d5ca2f0a73742ea3f161040c2c.png" src="https://webapps.ifad.org/members/assets/icons/16x16/security-38cb83fd722dec2922bef8cf3d2002f2.png" url="true" />
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-20-Rev-1.pdf" rel="nofollow">EB 2020/<wbr/>131/<wbr/>R.20/<wbr/>Rev.1</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>New Liquidity Policy</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<img alt="Security" data-swap-with="/members/assets/icons/16x16/security-off-3db194d5ca2f0a73742ea3f161040c2c.png" src="https://webapps.ifad.org/members/assets/icons/16x16/security-38cb83fd722dec2922bef8cf3d2002f2.png" url="true" />
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-22.pdf" rel="nofollow">EB 2020/<wbr/>131(R)/<wbr/>R.22</a></code>
+
+<br>
+<code>+&nbsp;<a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-22-Add-1.pdf" rel="nofollow">Add.1</a></code>
+
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Capital Adequacy Report</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-21-Rev-1.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.21/<wbr/>Rev.1</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Integrated Borrowing Framework</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<img alt="Security" data-swap-with="/members/assets/icons/16x16/security-off-3db194d5ca2f0a73742ea3f161040c2c.png" src="https://webapps.ifad.org/members/assets/icons/16x16/security-38cb83fd722dec2922bef8cf3d2002f2.png" url="true" />
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-23.pdf" rel="nofollow">EB 2020/<wbr/>131(R)/<wbr/>R.23</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Asset Liability Management (ALM): Mid-year report and way forward</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-24.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.24</a></code>
+
+<br>
+<code>+&nbsp;<a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-24-Add-1.pdf">Add.1</a></code>
+
+
+<br>
+<code>+&nbsp;<a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-24-Add-2.pdf">Add.2</a></code>
+
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Annual review of IFAD's Investment Policy Statement</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-25-Rev-1.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.25/<wbr/>Rev.1</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Framework for Lending to Subnational Entities in the Context of the New Business Model</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-26.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.26</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Workplan for IFAD's Office of Audit and Oversight for 2021</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-34.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.34</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Report of the Chairperson on the 159th Meeting of the Audit Committee</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-3560" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda Item 8: Governance
+</a></div><div class=" visible-md visible-lg">Agenda Item 8: Governance
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-3560"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-27-Rev-1.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.27/<wbr/>Rev.1</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Proposed amendments to the basic legal texts of IFAD</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-28.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.28</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Proposed dates for sessions of the Executive Board in 2022</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-29.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.29</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Automated voting system at IFAD</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-30.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.30</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Report of the Emoluments Committee</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-31.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.31</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Country visits of the IFAD Executive Board</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-3561" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda Item 9: Progress reports
+</a></div><div class=" visible-md visible-lg">Agenda Item 9: Progress reports
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-3561"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-32.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.32</a></code>
+
+<br>
+<code>+&nbsp;<a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-32-Add-1.pdf">Add.1</a></code>
+
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Progress report on Rome-based agency collaboration</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-35.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.35</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Progress report on applying the methodologies of the multilateral development banks for climate finance tracking</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-36.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.36</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Progress Report on South-South and Triangular Cooperation 2019-2020</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-3563" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Documents for Information
+</a></div><div class=" visible-md visible-lg">Documents for Information
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-3563"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-37.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.37</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Report on the third session of the Consultation on the Twelfth Replenishment of IFAD’s Resources</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-38.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.38</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Draft Programme of Events for the Forty-fourth Session of the Governing Council</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-R-39.pdf">EB 2020/<wbr/>131(R)/<wbr/>R.39</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Report on IFAD’s Investment Portfolio for the Third Quarter of 2020</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-INF-1.pdf">EB 2020/<wbr/>131(R)/<wbr/>INF.1</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Arrangements for the 131st Session of the Executive Board</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-INF-2.pdf">EB 2020/<wbr/>131(R)/<wbr/>INF.2</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Operational Guidelines on IFAD’s Engagement in Pro-Poor Value Chain Development</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-INF-3.pdf">EB 2020/<wbr/>131(R)/<wbr/>INF.3</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Memorandum of Understanding between the World Food Law Institute and IFAD</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-INF-4.pdf">EB 2020/<wbr/>131(R)/<wbr/>INF.4</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>The Rural Resilience Programme (2RP) Description</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-INF-5.pdf">EB 2020/<wbr/>131(R)/<wbr/>INF.5</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Results of the Executive Board Vote by Correspondence</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-INF-6.pdf">EB 2020/<wbr/>131(R)/<wbr/>INF.6</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Summary of project and programme proposals discussed at the Executive Board consultation held on 3 November 2020</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-INF-7.pdf">EB 2020/<wbr/>131(R)/<wbr/>INF.7</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Closing Statement by President Gilbert F. Houngbo</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-131.pdf">EB/<wbr/>131</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Minutes of the 131st and Reconvened 131st Session of the Executive Board – VIRTUAL MEETINGS</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+<div class='row documents'>
+<div class='col-xs-12'>
+<em>West and Central Africa</em>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-INF-8.pdf">EB 2020/<wbr/>131(R)/<wbr/>INF.8</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Note of Intent between the Executive Secretariat of the G5 Sahel, FAO, WFP and IFAD for the Regional Lending Operation Emergency and Rural Development in Sahel: a Joint RBA-G5Sahel+1 response to the 3C Challenges (COVID-19, Conflicts and Climate Change) – SD3C</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-3564" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Fit-for-purpose
+</a></div><div class=" visible-md visible-lg">Fit-for-purpose
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-3564"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/2020-FFP7.pdf">2020 FFP7</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Report on the Status of Contributions to IFAD11</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/2020-FFP8.pdf">2020 FFP8</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Status Report on Arrears in Principal, Interest and Service Charge Payments </p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/2020-FFP10.pdf">2020 FFP10</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>List of documents posted prior the session</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-3604" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Vote by correspondence
+</a></div><div class=" visible-md visible-lg">Vote by correspondence
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-3604"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<img alt="Security" data-swap-with="/members/assets/icons/16x16/security-off-3db194d5ca2f0a73742ea3f161040c2c.png" src="https://webapps.ifad.org/members/assets/icons/16x16/security-38cb83fd722dec2922bef8cf3d2002f2.png" url="true" />
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-V-B-C-1.pdf" rel="nofollow">EB 2020/<wbr/>131(R)/<wbr/>V.B.C.1</a></code>
+
+<br>
+<code>+&nbsp;<a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-V-B-C-1-Add-1.docx" rel="nofollow">Add.1</a></code>
+
+
+<br>
+<code>+&nbsp;<a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-V-B-C-1-Communication-Corrigendum.pdf" rel="nofollow">Communication - Corrigendum</a></code>
+
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Communication: Approval through vote by correspondence of items submitted for approval at the reconvened 131st session of the Executive Board</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<img alt="Security" data-swap-with="/members/assets/icons/16x16/security-off-3db194d5ca2f0a73742ea3f161040c2c.png" src="https://webapps.ifad.org/members/assets/icons/16x16/security-38cb83fd722dec2922bef8cf3d2002f2.png" url="true" />
+<code><a href="https://webapps.ifad.org/members/eb/131R/docs/11-Jan-2021.pdf" rel="nofollow">11 Jan 2021</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Communication on the results of the vote by correspondence on items submitted for approval at the reconvened 131st session of the Executive Board</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+</div>
+<div class='tab-pane ' id='french'></div>
+<div class='tab-pane ' id='spanish'></div>
+</div>
+</div>
+</div>
+<h3 class=" visible-sm visible-xs"><a data-target="#documents-useful" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Information for Meeting Participants
+</a></h3><h3 class=" visible-md visible-lg">Information for Meeting Participants
+</h3><div class=" in" data-collapsible="true" id="documents-useful"><ul class='nav nav-pills'>
+<li>
+<a data-source='/members/eb/131R/docs/useful/arabic' data-toggle='tab' href='#useful_arabic' rel='nofollow'>Arabic</a>
+</li>
+<li class='active'>
+<a data-source='/members/eb/131R/docs/useful/english' data-toggle='tab' href='#useful_english' rel='nofollow'>English</a>
+</li>
+<li>
+<a data-source='/members/eb/131R/docs/useful/french' data-toggle='tab' href='#useful_french' rel='nofollow'>French</a>
+</li>
+<li>
+<a data-source='/members/eb/131R/docs/useful/spanish' data-toggle='tab' href='#useful_spanish' rel='nofollow'>Spanish</a>
+</li>
+</ul>
+<div class='tab-content' dir='ltr'>
+<div class='tab-pane ' id='useful_arabic'></div>
+<div class='tab-pane active' id='useful_english'><div class='simple-documents' dir='ltr'>
+<p>
+<img alt="Security" data-swap-with="/members/assets/icons/16x16/security-off-3db194d5ca2f0a73742ea3f161040c2c.png" src="/members/assets/icons/16x16/security-38cb83fd722dec2922bef8cf3d2002f2.png" />
+<a href="https://webapps.ifad.org/members/eb/131R/docs/GB-Informal-meeting-practical-information.pdf" rel="nofollow">Zoom instructions</a>
+
+</p>
+<p>
+<img alt="Security" data-swap-with="/members/assets/icons/16x16/security-off-3db194d5ca2f0a73742ea3f161040c2c.png" src="/members/assets/icons/16x16/security-38cb83fd722dec2922bef8cf3d2002f2.png" />
+<a href="https://webapps.ifad.org/members/eb/131R/docs/GB-quick-guide-to-register-and-join-a-GB-meeting.pdf" rel="nofollow">Zoom instructions - Quick guide register and join a meeting</a>
+
+</p>
+<p>
+<img alt="Security" data-swap-with="/members/assets/icons/16x16/security-off-3db194d5ca2f0a73742ea3f161040c2c.png" src="/members/assets/icons/16x16/security-38cb83fd722dec2922bef8cf3d2002f2.png" />
+<a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-Salle-d-ecoute-e.pdf" rel="nofollow">131st Session of the IFAD Executive Board – Virtual Salle d’Ecoute</a>
+
+</p>
+</div>
+</div>
+<div class='tab-pane ' id='useful_french'></div>
+<div class='tab-pane ' id='useful_spanish'></div>
+</div>
+</div>
+<h3 class=" visible-sm visible-xs"><a data-target="#documents-invites" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Invitation Letters
+</a></h3><h3 class=" visible-md visible-lg">Invitation Letters
+</h3><div class=" in" data-collapsible="true" id="documents-invites"><ul class='nav nav-pills'>
+<li>
+<a data-source='/members/eb/131R/docs/invites/arabic' data-toggle='tab' href='#invites_arabic' rel='nofollow'>Arabic</a>
+</li>
+<li class='active'>
+<a data-source='/members/eb/131R/docs/invites/english' data-toggle='tab' href='#invites_english' rel='nofollow'>English</a>
+</li>
+<li>
+<a data-source='/members/eb/131R/docs/invites/french' data-toggle='tab' href='#invites_french' rel='nofollow'>French</a>
+</li>
+<li>
+<a data-source='/members/eb/131R/docs/invites/spanish' data-toggle='tab' href='#invites_spanish' rel='nofollow'>Spanish</a>
+</li>
+</ul>
+<div class='tab-content' dir='ltr'>
+<div class='tab-pane ' id='invites_arabic'></div>
+<div class='tab-pane active' id='invites_english'><div class='simple-documents' dir='ltr'>
+<p>
+<img alt="Security" data-swap-with="/members/assets/icons/16x16/security-off-3db194d5ca2f0a73742ea3f161040c2c.png" src="/members/assets/icons/16x16/security-38cb83fd722dec2922bef8cf3d2002f2.png" />
+<a href="https://webapps.ifad.org/members/eb/131R/docs/EB-2020-131-R-Invitation-letter-7-9-December-edocx.pdf" rel="nofollow">Invitation letter to the Executive Board representatives</a>
+
+</p>
+</div>
+</div>
+<div class='tab-pane ' id='invites_french'></div>
+<div class='tab-pane ' id='invites_spanish'></div>
+</div>
+</div>
+
+
+</div>
+</div>
+
+</div>
+<footer id='footer'>
+<div class='row'>
+<div class='col-md-7'>
+<h4>Useful information</h4>
+<ul class='list-unstyled'>
+<li><a href="http://www.ifad.org/contacts.htm" target="_blank"><i class="icon-help"></i>How to get to IFAD headquarters</a></li>
+<li><a href="/members/faq"><i class="icon-help"></i>Frequently asked questions (FAQs)</a></li>
+</ul>
+<h4>Hot links</h4>
+<ul class='list-unstyled'>
+<li><a href="https://www.ifad.org/web/guest/legal-documents" target="_blank"><i class="icon-pdf"></i>IFAD basic legal documents</a></li>
+<li><a href="/members/static/Governing-Bodies-Composition.pdf"><i class="icon-pdf"></i>Current Country Composition of the Executive Board and Official IFAD Committees</a></li>
+<li><a href="/members/static/Contributions-Voting-Rights.pdf"><i class="icon-pdf"></i>Contributions to IFAD&#x27;s Regular resources</a></li>
+<li><a href="/members/static/Countries-Voting-Rights.pdf"><i class="icon-pdf"></i>Voting rights of IFAD Member States</a></li>
+<li><a href="https://www.ifad.org/en/web/operations/operations-dashboard" target="_blank"><i class="icon-pdf"></i>IFAD Operations Dashboard</a></li>
+<li>
+<i class='icon-pdf'></i>
+Guidelines to Prevent Harassment, Sexual Harassment and Discrimination at IFAD Events
+</li>
+<li>
+<i></i>
+[<a href="https://www.ifad.org/documents/38711624/41372004/Arabic+Guidelines+on+Conduct+at+IFAD+Events+FINAL+CONSOLIDATED+November+2019.pdf/db05baf3-136a-fc4c-b634-67a27dbccdb2" target="_blank">Arabic</a>]
+[<a href="https://www.ifad.org/documents/38711624/41372004/guidelines_conduct_events.pdf/ef9100f1-21f2-832b-1756-0d7678c4f81f" target="_blank">English</a>]
+[<a href="https://www.ifad.org/documents/38711624/41372004/French+Guidelines+on+Conduct+at+IFAD+Events+FINAL+CONSOLIDATED+November+2019.pdf/e39be305-d649-3623-04e7-4553902b747d" target="_blank">French</a>]
+[<a href="https://www.ifad.org/documents/38711624/41372004/Spanish+Guidelines+on+Conduct+at+IFAD+Events+FINAL+CONSOLIDATED+November+2019.pdf/db35397e-228c-9258-019b-4a3c479562fc" target="_blank">Spanish</a>]
+</li>
+</ul>
+</div>
+<div class='col-md-5'>
+<h4>More IFAD</h4>
+<ul class='list-unstyled'>
+<li><a href="http://www.ifad.org" target="_blank"><i class="icon-ifad"></i>Official IFAD website &raquo;</a></li>
+<li><a href="http://www.facebook.com/IFAD" target="_blank"><i class="icon-fb"></i>IFAD Page on Facebook &raquo;</a></li>
+<li><a href="http://twitter.com/ifad" target="_blank"><i class="icon-tw"></i>Follow IFAD on Twitter &raquo;</a></li>
+<li><a href="http://www.youtube.com/user/IFADTV" target="_blank"><i class="icon-yt"></i>IFAD Channel on YouTube &raquo;</a></li>
+<li><a href="http://www.instagram.com/ifadnews" target="_blank"><i class="icon-in"></i>Follow IFAD on Instagram &raquo;</a></li>
+<li><a href="http://www.linkedin.com/company/ifad" target="_blank"><i class="icon-ln"></i>Follow IFAD on Linkedin &raquo;</a></li>
+</ul>
+<h4>Contact IFAD</h4>
+<ul class='list-unstyled'>
+<li><a href="mailto:secmailbox@ifad.org"><i class="icon-email"></i>Send your queries and requests for meetings with IFAD officials to secmailbox@ifad.org</a></li>
+</ul>
+</div>
+</div>
+</footer>
+
+
+</div>
+<script type="text/javascript">
+//<![CDATA[
+
+        var _gaq = [["_setAccount","UA-22244891-1"],["_trackPageview"]];
+        try {
+          (function(d,t,a) {
+            var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+            g[a]=a;g.src='https://ssl.google-analytics.com/ga.js';s.parentNode.insertBefore(g,s);
+          })(document, 'script', 'async');
+        } catch (err) {}
+      
+//]]>
+</script><noscript><img alt="" border="0" src="https://ssl.google-analytics.com/__utm.gif?utmn=3454513286&amp;utmac=UA-22244891-1&amp;utmhn=webapps.ifad.org&amp;utmr=-&amp;utmp=%2Fmembers%2Feb%2F131R&amp;utmcc=__utma%3D98508234.1725275570.1682893524.1682893524.1682893524.2%3B%2B__utmz%3D98508234.1682893524.2.2.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none)%3B%2B__utmv%3D98508234.noscript%3B&amp;utmwv=1&amp;utmje=0&amp;utmsr=-&amp;utmsc=-&amp;utmul=-&amp;utmfl=-&amp;utmdt=-" /></noscript>
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["setDomains", ["*.webapps.ifad.org/members"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//piwik.ifad.org/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 13]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//piwik.ifad.org/piwik.php?idsite=13" style="border:0;" alt="" /></p></noscript>
+
+</body>
+</html>

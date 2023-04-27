@@ -1,0 +1,1509 @@
+<!DOCTYPE html>
+<html id='application'>
+<!--  -->
+<!-- ___  _____   _     ____ -->
+<!-- |_ _||  ___| / \   |  _ \    Carefully hand-crafted by -->
+<!-- | | | |_   / _ \  | | | |   IFAD's ICT Solutions Team -->
+<!-- | | |  _| / ___ \ | |_| -->
+<!-- |___||_|  /_/   \_\|____/    > https://github.com/ifad -->
+<!--  -->
+<head>
+<meta content='text/html; charset=utf-8' http-equiv='Content-type'>
+<meta content='black-translucent' name='apple-mobile-web-app-status-bar-style'>
+<meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='yes' name='apple-mobile-web-app-capable'>
+<meta content='black-translucent' name='apple-mobile-web-app-status-bar-style'>
+<link href='/members/assets/HTML5_Badge_64-8dc1522eb7b2d6ec2af84e0b95242d04.png' rel='apple-touch-icon'>
+<link href='/members/assets/HTML5_Badge_64-8dc1522eb7b2d6ec2af84e0b95242d04.png' rel='apple-touch-icon-precomposed'>
+<title>119th session of the Executive Board | IFAD Members Platform</title>
+<link href="/members/assets/application-31a464aa9ddca62d578881af2ab614dc.css" media="screen" rel="stylesheet" type="text/css" />
+<!--[if lt IE 9]>
+<script src="/members/assets/ie8-9b63cb25120ce4a35c633e39c580e717.js" type="text/javascript"></script>
+<![endif]-->
+<script src="/members/assets/application-3786cba96deb83d3cbbdfd0009ba9098.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="JkllQlWkQAIQ5Xr6+v/FOABS3l6Ntks1nSSvMqXyVt8=" name="csrf-token" />
+<link href="/members/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+
+</head>
+<body>
+<div class='navbar navbar-default navbar-static-top' role='navigation'>
+<div class='navbar-inner'>
+<div class='container'>
+<div class='navbar-header'>
+<button class='navbar-toggle' data-target='.navbar-collapse' data-toggle='collapse' type='button'>
+<span class='sr-only'>Toggle navigation</span>
+<span class='icon-bar'></span>
+<span class='icon-bar'></span>
+<span class='icon-bar'></span>
+</button>
+<a href="/members" class="navbar-brand " id="logo"><i class="icon icon-logo"></i> <span>IFAD</span> | Platform</a>
+</div>
+<div class='navbar-collapse collapse'>
+<ul class="nav navbar-nav "><li class=""><a href="/members">Home</a></li><li class="active"><a href="/members/meetings">Meetings and Events</a></li><li class=""><a href="/members/member-states">Member States</a></li><li class=""><a href="/members/governance">Governance</a></li><li class=""><a href="/members/news">News</a></li><li class=""><a href="/members/faq">FAQs</a></li></ul>
+<ul class='nav navbar-nav'>
+<li>
+<a href="/members/document_search"><i class='fa fa-search'></i>
+</a></li>
+</ul>
+<ul class='nav navbar-nav navbar-right'>
+<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Login <b class="caret"></b></a><ul class="dropdown-menu"><form accept-charset="UTF-8" action="/members/login" class="navbar-form navbar-left" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="JkllQlWkQAIQ5Xr6+v/FOABS3l6Ntks1nSSvMqXyVt8=" /></div>
+<input id="return_to" name="return_to" type="hidden" value="/members/my" />
+<li><input class="form-control input-sm" id="username" name="username" placeholder="User name" type="text" value="" /></li>
+<li><input class="form-control input-sm" id="password" name="password" placeholder="Password" type="password" value="" /></li>
+<li><input class="btn btn-primary btn-sm" data-disable-with="Working..." id="login" name="commit" type="submit" value="Login" /></li>
+<li class='divider'></li>
+<li class='text-right'>
+<a href="https://webapps.ifad.org/members/login/staff"><i class='icon-ifad'></i>
+IFAD Staff login
+</a></li>
+</form>
+
+</ul></li></ul>
+</div>
+</div>
+</div>
+</div>
+
+<div class='container' id='main-container'>
+<div class='flash error alert alert-danger'>
+<div>Document not found</div>
+</div>
+
+<div class='content'>
+<div class='row white'>
+<div class='col-md-12'>
+<ol class="breadcrumb"><li class=""><a href="/members/meetings">All Meetings</a></li><li class=""><a href="/members/eb">Executive Board</a></li><li class="active"><a href="/members/eb/119">119th session of the Executive Board</a></li></ol>
+
+</div>
+<div class='col-md-12' id='top'><h2>
+
+119th session of the Executive Board
+</h2>
+</div>
+<div class='col-md-12'>
+<table class='table table-bordered'>
+<tr>
+<td class='active'>Meeting</td>
+<td><a href="/members/eb">Executive Board</a></td>
+</tr>
+<tr>
+<td class='active'>Dates</td>
+<td>
+
+Ended over 6 years ago
+(14/12/2016 -
+15/12/2016)
+</td>
+</tr>
+</table>
+
+<h3 class=" visible-sm visible-xs"><a data-target="#news" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>News
+</a></h3><h3 class=" visible-md visible-lg">News
+</h3><div class=" in" data-collapsible="true" data-paginate="reload" id="news"><ul class='list-unstyled news'>
+<li class='news-list'>
+<div id='news_3036'>    <p><u>New Documents Online!</u>
+       Please note that the following document has been posted:</p>
+<p><div class='elem-document'>
+<strong>EB/119</strong>
+-
+Minutes of the 119th session of the Executive Board
+(<a href="https://webapps.ifad.org/members/eb/119/docs/arabic/EB-119.pdf">Arabic</a>)
+(<a href="https://webapps.ifad.org/members/eb/119/docs/EB-119.pdf">English</a>)
+(<a href="https://webapps.ifad.org/members/eb/119/docs/french/EB-119.pdf">French</a>)
+(<a href="https://webapps.ifad.org/members/eb/119/docs/spanish/EB-119.pdf">Spanish</a>)
+</div>
+</p></div>
+<div class='timestamp'>
+About 6 years
+ago
+<span>(</span><span class='date'>08/03/2017</span><span>)</span>
+</div>
+</li>
+<li class='news-list'>
+<div id='news_2974'>    <p><u>New Documents Online!</u>
+       Please note that the following document has been posted:</p>
+<p><div class='elem-document'>
+<strong>EB 2016/119/INF.4</strong>
+-
+Decisions and deliberations of the 119th session of the Executive Board
+(<a href="https://webapps.ifad.org/members/eb/119/docs/arabic/EB-2016-119-INF-4.pdf">Arabic</a>)
+(<a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-INF-4.pdf">English</a>)
+(<a href="https://webapps.ifad.org/members/eb/119/docs/french/EB-2016-119-INF-4.pdf">French</a>)
+(<a href="https://webapps.ifad.org/members/eb/119/docs/spanish/EB-2016-119-INF-4.pdf">Spanish</a>)
+</div>
+</p></div>
+<div class='timestamp'>
+Over 6 years
+ago
+<span>(</span><span class='date'>12/01/2017</span><span>)</span>
+</div>
+</li>
+<li class='news-list'>
+<div id='news_2969'>    <p><u>New Documents Online!</u>
+       Please note that the following document has been posted:</p>
+<p><div class='elem-document'>
+<strong>EB 2016/119/R.2/Rev.1/Add.1</strong>
+-
+IFAD’s 2017 results-based programme of work and regular and capital budgets, the IOE results-based work programme and budget for 2017 and indicative plan for 2018-2019, and the HIPC and PBAS progress reports
+-
+
+(<a href="https://webapps.ifad.org/members/eb/119/docs/arabic/EB-2016-119-R-2-Rev-1-Add-1.pdf">Arabic</a>)
+(<a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-2-Rev-1-Add-1.pdf">English</a>)
+(<a href="https://webapps.ifad.org/members/eb/119/docs/french/EB-2016-119-R-2-Rev-1-Add-1.pdf">French</a>)
+(<a href="https://webapps.ifad.org/members/eb/119/docs/spanish/EB-2016-119-R-2-Rev-1-Add-1.pdf">Spanish</a>)
+</div>
+</p></div>
+<div class='timestamp'>
+Over 6 years
+ago
+<span>(</span><span class='date'>05/01/2017</span><span>)</span>
+</div>
+</li>
+<li class='news-list'>
+<div id='news_2966'>    <p><u>New Documents Online!</u>
+       Please note that the following documents have been posted:</p>
+<p><div class='elem-document'>
+<strong>EB 2016/119/R.13/Rev.1</strong>
+-
+Proposed refinements to the IFAD10 Results Measurement Framework
+(<a href="https://webapps.ifad.org/members/eb/119/docs/arabic/EB-2016-119-R-13-Rev-1.pdf">Arabic</a>)
+(<a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-13-Rev-1.pdf">English</a>)
+(<a href="https://webapps.ifad.org/members/eb/119/docs/french/EB-2016-119-R-13-Rev-1.pdf">French</a>)
+(<a href="https://webapps.ifad.org/members/eb/119/docs/spanish/EB-2016-119-R-13-Rev-1.pdf">Spanish</a>)
+</div>
+<div class='elem-document'>
+<strong>EB 2016/119/R.39/Rev.2</strong>
+-
+Final report of the Ad Hoc Working Group on Governance
+(<a href="https://webapps.ifad.org/members/eb/119/docs/arabic/EB-2016-119-R-39-Rev-2.pdf">Arabic</a>)
+(<a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-39-Rev-2.pdf">English</a>)
+(<a href="https://webapps.ifad.org/members/eb/119/docs/french/EB-2016-119-R-39-Rev-2.pdf">French</a>)
+(<a href="https://webapps.ifad.org/members/eb/119/docs/spanish/EB-2016-119-R-39-Rev-2.pdf">Spanish</a>)
+</div>
+<div class='elem-document'>
+<strong>EB 2016/119/INF.3</strong>
+-
+Summary of project, programme and grant proposals discussed by the Executive Board
+(<a href="https://webapps.ifad.org/members/eb/119/docs/arabic/EB-2016-119-INF-3.pdf">Arabic</a>)
+(<a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-INF-3.pdf">English</a>)
+(<a href="https://webapps.ifad.org/members/eb/119/docs/french/EB-2016-119-INF-3.pdf">French</a>)
+(<a href="https://webapps.ifad.org/members/eb/119/docs/spanish/EB-2016-119-INF-3.pdf">Spanish</a>)
+</div>
+<div class='elem-document'>
+<strong>EB 2016/119/R.2/Rev.1</strong>
+-
+IFAD’s 2017 results-based programme of work and regular and capital budgets, the IOE results-based work programme and budget for 2017 and indicative plan for 2018-2019, and the HIPC and PBAS progress reports
+(<a href="https://webapps.ifad.org/members/eb/119/docs/arabic/EB-2016-119-R-2-Rev-1.pdf">Arabic</a>)
+(<a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-2-Rev-1.pdf">English</a>)
+(<a href="https://webapps.ifad.org/members/eb/119/docs/french/EB-2016-119-R-2-Rev-1.pdf">French</a>)
+(<a href="https://webapps.ifad.org/members/eb/119/docs/spanish/EB-2016-119-R-2-Rev-1.pdf">Spanish</a>)
+</div>
+</p></div>
+<div class='timestamp'>
+Over 6 years
+ago
+<span>(</span><span class='date'>29/12/2016</span><span>)</span>
+</div>
+</li>
+
+<div class="alert alert-warning "><img alt="Security" data-swap-with="/members/assets/icons/16x16/security-off-3db194d5ca2f0a73742ea3f161040c2c.png" src="/members/assets/icons/16x16/security-38cb83fd722dec2922bef8cf3d2002f2.png" /> Other information is restricted to members of this committee. <a href="/members/login?return_to=%2Fmembers%2Feb%2F119">Login &raquo;</a></div>
+<li class='paginate'>  <ul class="pagination">
+    
+    
+        <li class="page active">
+  <a href="javascript:void(0)" data-remote="true">1</a>
+</li>
+
+        <li class="page">
+  <a href="/members/eb/119/news?page=2" data-remote="true" rel="next">2</a>
+</li>
+
+        <li class="page">
+  <a href="/members/eb/119/news?page=3" data-remote="true">3</a>
+</li>
+
+        <li class="page">
+  <a href="/members/eb/119/news?page=4" data-remote="true">4</a>
+</li>
+
+        <li class="page">
+  <a href="/members/eb/119/news?page=5" data-remote="true">5</a>
+</li>
+
+    
+  <li class="next">
+    <a href="/members/eb/119/news?page=2" data-remote="true" rel="next">Next &rsaquo;</a>
+  </li>
+
+    
+  </ul>
+</li>
+</ul>
+
+</div><!-- = foldable_tag :h3, '#schedules', class: 'visible-md visible-lg' do -->
+<!-- = t :schedule_of_events -->
+<!-- = collapsed_content 'schedules', :data => { :paginate => "reload" } do -->
+<!-- = render 'schedules' -->
+<a href="/members/eb/sessions" class="pull-right">Previous Sessions Documents</a>
+<h3 class=" visible-sm visible-xs"><a data-target="#documents" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Official Documents
+</a></h3><h3 class=" visible-md visible-lg">Official Documents
+</h3><div class=" in" data-collapsible="true" id="documents"><div class='collapse in' id='documents'>
+<ul class='nav nav-pills'>
+<li>
+<a data-source='/members/eb/119/docs/arabic' data-toggle='tab' href='#arabic'>Arabic</a>
+</li>
+<li class='active'>
+<a data-source='/members/eb/119/docs/english' data-toggle='tab' href='#english'>English</a>
+</li>
+<li>
+<a data-source='/members/eb/119/docs/french' data-toggle='tab' href='#french'>French</a>
+</li>
+<li>
+<a data-source='/members/eb/119/docs/spanish' data-toggle='tab' href='#spanish'>Spanish</a>
+</li>
+</ul>
+<div class='tab-content' dir='ltr'>
+<div class='tab-pane ' id='arabic'></div>
+<div class='tab-pane active' id='english'><div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-2351" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda item 2: Adoption of the agenda
+</a></div><div class=" visible-md visible-lg">Agenda item 2: Adoption of the agenda
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-2351"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-1-Rev-2.pdf">EB 2016/<wbr/>119/<wbr/>R.1/<wbr/>Rev.2</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Agenda</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-2352" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda item 3: IFAD’s 2017 results-based programme of work and regular and capital budgets, the IOE results-based work programme and budget for 2017 and indicative plan for 2018-2019, and the HIPC and PBAS progress reports 
+</a></div><div class=" visible-md visible-lg">Agenda item 3: IFAD’s 2017 results-based programme of work and regular and capital budgets, the IOE results-based work programme and budget for 2017 and indicative plan for 2018-2019, and the HIPC and PBAS progress reports 
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-2352"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-2-Rev-1.pdf">EB 2016/<wbr/>119/<wbr/>R.2/<wbr/>Rev.1</a></code>
+
+<br>
+<code>+&nbsp;<a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-2-Rev-1-Add-1.pdf">Add.1</a></code>
+
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>IFAD’s 2017 results-based programme of work and regular and capital budgets, the IOE results-based work programme and budget for 2017 and indicative plan for 2018-2019, and the HIPC and PBAS progress reports</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-3.pdf">EB 2016/<wbr/>119/<wbr/>R.3</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Report of the Audit Committee on the IFAD’s 2017 results-based programme of work and regular and capital budgets, the IOE results-based work programme and budget for 2017 and indicative plan for 2018-2019, and the HIPC and PBAS progress reports </p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-2353" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda item 4: IFAD strategy for engagement in countries with fragile situations
+</a></div><div class=" visible-md visible-lg">Agenda item 4: IFAD strategy for engagement in countries with fragile situations
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-2353"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-4.pdf">EB 2016/<wbr/>119/<wbr/>R.4</a></code>
+
+<br>
+<code>+&nbsp;<a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-4-Add-1.pdf">Add.1</a></code>
+
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>IFAD strategy for engagement in countries with fragile situations</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-2354" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda item 5: Approach to PBAS review 
+</a></div><div class=" visible-md visible-lg">Agenda item 5: Approach to PBAS review 
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-2354"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-5.pdf">EB 2016/<wbr/>119/<wbr/>R.5</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Approach to the review of the performance-based allocation system</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-2355" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda item 6: IFAD’s approach to South-South and triangular cooperation 
+</a></div><div class=" visible-md visible-lg">Agenda item 6: IFAD’s approach to South-South and triangular cooperation 
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-2355"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-6.pdf">EB 2016/<wbr/>119/<wbr/>R.6</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>IFAD’s approach to South-South and triangular cooperation</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-2356" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda item 7: Evaluation
+</a></div><div class=" visible-md visible-lg">Agenda item 7: Evaluation
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-2356"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-7.pdf">EB 2016/<wbr/>119/<wbr/>R.7</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Minutes of the ninety-fourth session of the Evaluation Committee</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-51.pdf">EB 2016/<wbr/>119/<wbr/>R.51</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Minutes of the ninety-fifth session of the Evaluation Committee</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-10.pdf">EB 2016/<wbr/>119/<wbr/>R.10</a></code>
+
+<br>
+<code>+&nbsp;<a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-10-Add-1.pdf">Add.1</a></code>
+
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Corporate-level evaluation of IFAD’s decentralization experience</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-2357" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda item 8: IFAD Corporate Decentralization Plan
+</a></div><div class=" visible-md visible-lg">Agenda item 8: IFAD Corporate Decentralization Plan
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-2357"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-11.pdf">EB 2016/<wbr/>119/<wbr/>R.11</a></code>
+
+<br>
+<code>+&nbsp;<a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-11-Add-1.pdf">Add.1</a></code>
+
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>IFAD Corporate Decentralization Plan</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-2358" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda item 9: IFAD development effectiveness framework
+</a></div><div class=" visible-md visible-lg">Agenda item 9: IFAD development effectiveness framework
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-2358"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-12.pdf">EB 2016/<wbr/>119/<wbr/>R.12</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>IFAD development effectiveness framework</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-2359" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda item 10: Revision of IFAD10 Results Measurement Framework
+</a></div><div class=" visible-md visible-lg">Agenda item 10: Revision of IFAD10 Results Measurement Framework
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-2359"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-13-Rev-1.pdf">EB 2016/<wbr/>119/<wbr/>R.13/<wbr/>Rev.1</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Proposed refinements to the IFAD10 Results Measurement Framework</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-2360" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda item 11+7(c): Country strategic opportunities programmes (COSOPs) + CPEs
+</a></div><div class=" visible-md visible-lg">Agenda item 11+7(c): Country strategic opportunities programmes (COSOPs) + CPEs
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-2360"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-14.pdf">EB 2016/<wbr/>119/<wbr/>R.14</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p><strong>Colombia</strong>: COSOP</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-15.pdf">EB 2016/<wbr/>119/<wbr/>R.15</a></code>
+
+<br>
+<code>+&nbsp;<a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-15-Add-1.pdf">Add.1</a></code>
+
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p><strong>Ethiopia</strong>: COSOP</p>
+<div class='description'>
+<p><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-15-COSOP-completion-review.pdf" class="downloader">COSOP completion review</a></p>
+</div>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-8.pdf">EB 2016/<wbr/>119/<wbr/>R.8</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p><strong>Ethiopia</strong>: Country programme evaluation</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-16.pdf">EB 2016/<wbr/>119/<wbr/>R.16</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p><strong>Malawi</strong>: COSOP</p>
+<div class='description'>
+<p><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-16-COSOP-completion-review.pdf" class="downloader">COSOP completion review</a></p>
+</div>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-17.pdf">EB 2016/<wbr/>119/<wbr/>R.17</a></code>
+
+<br>
+<code>+&nbsp;<a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-17-Add-1.pdf">Add.1</a></code>
+
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p><strong>Nigeria</strong>: COSOP</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-9.pdf">EB 2016/<wbr/>119/<wbr/>R.9</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p><strong>Nigeria</strong>: Country programme evaluation</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-18.pdf">EB 2016/<wbr/>119/<wbr/>R.18</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p><strong>Pakistan</strong>: COSOP</p>
+<div class='description'>
+<p><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-18-COSOP-completion-review.pdf" class="downloader">COSOP completion review</a></p>
+</div>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-2361" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda item 12: Resources available for commitment 
+</a></div><div class=" visible-md visible-lg">Agenda item 12: Resources available for commitment 
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-2361"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-19.pdf">EB 2016/<wbr/>119/<wbr/>R.19</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Resources available for commitment</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-2362" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda item 13: Proposed amendments to the instrument establishing the trust fund for the IFAD Adaptation for Smallholder Agriculture Programme
+</a></div><div class=" visible-md visible-lg">Agenda item 13: Proposed amendments to the instrument establishing the trust fund for the IFAD Adaptation for Smallholder Agriculture Programme
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-2362"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-20.pdf">EB 2016/<wbr/>119/<wbr/>R.20</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Proposed amendments to the instrument establishing the trust fund for the IFAD Adaptation for Smallholder Agriculture Programme</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-2363" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda item 14: Project/programme proposals for consideration by the Executive Board
+</a></div><div class=" visible-md visible-lg">Agenda item 14: Project/programme proposals for consideration by the Executive Board
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-2363"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-22-Rev-1.pdf">EB 2016/<wbr/>119/<wbr/>R.22/<wbr/>Rev.1</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p><strong>Zambia</strong>: Enhanced Smallholder Agribusiness Promotion Programme</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-23-Rev-1.pdf">EB 2016/<wbr/>119/<wbr/>R.23/<wbr/>Rev.1</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p><strong>Cambodia</strong>: iAccelerating Inclusive Markets for Smallholders Project</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-24-Rev-1.pdf">EB 2016/<wbr/>119/<wbr/>R.24/<wbr/>Rev.1</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p><strong>India</strong>: Andhra Pradesh Drought Mitigation Project</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-27-Rev-1.pdf">EB 2016/<wbr/>119/<wbr/>R.27/<wbr/>Rev.1</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p><strong>Ecuador</strong>: Catalysing Inclusive Value Chain Partnerships Project (DINAMINGA)</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-28-Rev-1.pdf">EB 2016/<wbr/>119/<wbr/>R.28/<wbr/>Rev.1</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p><strong>Kyrgyzstan</strong>: Access to Markets Project</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+<div class='row documents'>
+<div class='col-xs-12'>
+<em>Asia and the Pacific</em>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-26.pdf">EB 2016/<wbr/>119/<wbr/>R.26</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p><strong>Viet Nam</strong>: Commercial Smallholder Support Project in Bắc Kan and Cao Bằng</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+<div class='row documents'>
+<div class='col-xs-12'>
+<em>Latin America and the Caribbean</em>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-53.pdf">EB 2016/<wbr/>119/<wbr/>R.53</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p><strong>Brazil</strong>: Maranhão Rural Poverty Alleviation Project</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-2364" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda item 15: Grant proposals for consideration by the Executive Board
+</a></div><div class=" visible-md visible-lg">Agenda item 15: Grant proposals for consideration by the Executive Board
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-2364"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-29.pdf">EB 2016/<wbr/>119/<wbr/>R.29</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Grant under the global/regional grants window to Transtec to Improve Dryland Livelihoods in Djibouti and Somalia through Productivity-enhancing Technologies</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-30.pdf">EB 2016/<wbr/>119/<wbr/>R.30</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Grant under the regional/private sector grant window to MicroInsurance Centre for Managing Risks for Rural Development: Promoting Microinsurance Innovations</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-2365" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda item 16: Proposed Framework for New Financing Facilities - Enhancing IFAD's catalytic role in mobilizing resources for rural transformation
+</a></div><div class=" visible-md visible-lg">Agenda item 16: Proposed Framework for New Financing Facilities - Enhancing IFAD's catalytic role in mobilizing resources for rural transformation
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-2365"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-31.pdf">EB 2016/<wbr/>119/<wbr/>R.31</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Proposed Framework for New Financing Facilities - Enhancing IFAD's catalytic role in mobilizing resources for rural transformation</p>
+<p class='disclaim'>
+<strong class='disclaimer'>
+Disclaimer:
+</strong>
+Rev.1 pertains to French only
+</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-2366" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda item 17: Country visits of the IFAD Executive Board
+</a></div><div class=" visible-md visible-lg">Agenda item 17: Country visits of the IFAD Executive Board
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-2366"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-32.pdf">EB 2016/<wbr/>119/<wbr/>R.32</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Dates of the IFAD Executive Board country visit for 2017 to the Democratic Republic of the Congo</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-2367" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda item 18: Proposal for the provision of &quot;seed money&quot; for two strategic initiatives:  (i) the scaling up of the Participatory Natural Resource Management Programme through the IFAD Fund for Gaza and the West Bank; and  (ii) the Rural Economic Growth and Employment Project in Jordan through the IFAD Facility for Refugees, Migrants, Forced Displacement and Rural Stability 
+</a></div><div class=" visible-md visible-lg">Agenda item 18: Proposal for the provision of &quot;seed money&quot; for two strategic initiatives:  (i) the scaling up of the Participatory Natural Resource Management Programme through the IFAD Fund for Gaza and the West Bank; and  (ii) the Rural Economic Growth and Employment Project in Jordan through the IFAD Facility for Refugees, Migrants, Forced Displacement and Rural Stability 
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-2367"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-33.pdf">EB 2016/<wbr/>119/<wbr/>R.33</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Proposal for the provision of "seed money" for two strategic initiatives: (i) the scaling up of the Participatory Natural Resource Management Programme through the IFAD Fund for Gaza and the West Bank; and (ii) the Rural Economic Growth and Employment Project in Jordan through the IFAD Facility for Refugees, Migrants, Forced Displacement and Rural Stability</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-2368" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda item 19: Financial matters
+</a></div><div class=" visible-md visible-lg">Agenda item 19: Financial matters
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-2368"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-34.pdf">EB 2016/<wbr/>119/<wbr/>R.34</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Report of the Chairperson of the 142nd meeting of the Audit Committee</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-35.pdf">EB 2016/<wbr/>119/<wbr/>R.35</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Selection of the external auditor of IFAD for the period 2017-2021 </p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-36.pdf">EB 2016/<wbr/>119/<wbr/>R.36</a></code>
+
+<br>
+<code>+&nbsp;<a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-36-Add-1.pdf">Add.1</a></code>
+
+
+<br>
+<code>+&nbsp;<a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-36-Add-2.pdf">Add.2</a></code>
+
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>IFAD’s Investment Policy Statement </p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-37.pdf">EB 2016/<wbr/>119/<wbr/>R.37</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Workplan for IFAD’s Office of Audit and Oversight for 2017 </p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/PPT.pdf">PPT</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Briefing to the Executive Board on the Feasibility of IFAD Borrowing From the Capital Markets </p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-2369" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda item 20: Proposal for a loan from the Agence Française de Développement under the Sovereign Borrowing Framework
+</a></div><div class=" visible-md visible-lg">Agenda item 20: Proposal for a loan from the Agence Française de Développement under the Sovereign Borrowing Framework
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-2369"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<img alt="Security" data-swap-with="/members/assets/icons/16x16/security-off-3db194d5ca2f0a73742ea3f161040c2c.png" src="https://webapps.ifad.org/members/assets/icons/16x16/security-38cb83fd722dec2922bef8cf3d2002f2.png" url="true" />
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-38.pdf" rel="nofollow">EB 2016/<wbr/>119/<wbr/>R.38</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Proposal to enter into a borrowing agreement with the Agence Française de Développement (AFD) to support the IFAD10 programme of loans and grants</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-2370" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda item 21:Ad Hoc Working Group on Governance 
+</a></div><div class=" visible-md visible-lg">Agenda item 21:Ad Hoc Working Group on Governance 
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-2370"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-39-Rev-2.pdf">EB 2016/<wbr/>119/<wbr/>R.39/<wbr/>Rev.2</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Final report of the Ad Hoc Working Group on Governance</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-52.pdf">EB 2016/<wbr/>119/<wbr/>R.52</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Establishment of the Consultation on the Eleventh Replenishment of IFAD's Resources</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-2371" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda item 22: Report of the Emoluments Committee
+</a></div><div class=" visible-md visible-lg">Agenda item 22: Report of the Emoluments Committee
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-2371"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-40.pdf">EB 2016/<wbr/>119/<wbr/>R.40</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Report of the Emoluments Committee</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-2372" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda item 23: Proposal for the revision of the established good practice for the process leading to future appointments of the President of IFAD 
+</a></div><div class=" visible-md visible-lg">Agenda item 23: Proposal for the revision of the established good practice for the process leading to future appointments of the President of IFAD 
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-2372"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-41.pdf">EB 2016/<wbr/>119/<wbr/>R.41</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Proposal for the revision of the established good practice for the process leading to future appointments of the President of IFAD</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-2373" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda item 24: Other business
+</a></div><div class=" visible-md visible-lg">Agenda item 24: Other business
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-2373"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-42.pdf">EB 2016/<wbr/>119/<wbr/>R.42</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Proposed dates for sessions of the Executive Board in 2018</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-43.pdf">EB 2016/<wbr/>119/<wbr/>R.43</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Executive Board retreat: Updated follow-up matrix and dates for the next retreat </p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-44.pdf">EB 2016/<wbr/>119/<wbr/>R.44</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Principles of Conduct for Representatives on the Executive Board of IFAD </p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-2374" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda item 25: Collaboration among the United Nations Rome-based Agencies: Delivering on the 2030 Agenda
+</a></div><div class=" visible-md visible-lg">Agenda item 25: Collaboration among the United Nations Rome-based Agencies: Delivering on the 2030 Agenda
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-2374"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-45.pdf">EB 2016/<wbr/>119/<wbr/>R.45</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Collaboration among the United Nations Rome-based Agencies: Delivering on the 2030 Agenda </p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-2375" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda item 26: Draft programme of events for the fortieth session of the Governing Council
+</a></div><div class=" visible-md visible-lg">Agenda item 26: Draft programme of events for the fortieth session of the Governing Council
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-2375"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-46.pdf">EB 2016/<wbr/>119/<wbr/>R.46</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Draft programme of events for the fortieth session of the Governing Council</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-2376" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda item 27: Revision to the document on climate mainstreaming in IFAD-funded programmes
+</a></div><div class=" visible-md visible-lg">Agenda item 27: Revision to the document on climate mainstreaming in IFAD-funded programmes
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-2376"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-47.pdf">EB 2016/<wbr/>119/<wbr/>R.47</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Revision to the document on climate mainstreaming in IFAD-funded programmes</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-2377" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Agenda item 28: Report on IFAD’s investment portfolio for the third quarter of 2016
+</a></div><div class=" visible-md visible-lg">Agenda item 28: Report on IFAD’s investment portfolio for the third quarter of 2016
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-2377"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-48.pdf">EB 2016/<wbr/>119/<wbr/>R.48</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Report on IFAD’s investment portfolio for the third quarter of 2016</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-2390" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Minutes of the fourth meeting of the Working Group on the Performance-Based Allocation System
+</a></div><div class=" visible-md visible-lg">Minutes of the fourth meeting of the Working Group on the Performance-Based Allocation System
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-2390"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<img alt="Security" data-swap-with="/members/assets/icons/16x16/security-off-3db194d5ca2f0a73742ea3f161040c2c.png" src="https://webapps.ifad.org/members/assets/icons/16x16/security-38cb83fd722dec2922bef8cf3d2002f2.png" url="true" />
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-R-50.pdf" rel="nofollow">EB 2016/<wbr/>119/<wbr/>R.50</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Minutes of the fourth meeting of the Working Group on the Performance-Based Allocation System</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-2378" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Fit-for-purpose approach
+</a></div><div class=" visible-md visible-lg">Fit-for-purpose approach
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-2378"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-FFP9-AC-EB.pdf">EB 2016/<wbr/>FFP9 (AC/<wbr/>EB)</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Status report on arrears in principal, interest and service charge payments</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-FFP10-AC-EB.pdf">EB 2016 FFP10 (AC/<wbr/>EB)</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Report on the status of contributions to the Tenth Replenishment of IFAD’s Resources</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-FFP11-EB.pdf">EB 2016 FFP11 (EB)</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Planned global, regional and country activities</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-FFP12-EB.pdf">EB 2016 FFP12 (EB)</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>List of documents for the 119th session of the Executive Board</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+<div class='agenda-item' dir='ltr'>
+<h4 class='gray'>
+<div class=" visible-sm visible-xs"><a data-target="#agenda-english-2379" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Information notes
+</a></div><div class=" visible-md visible-lg">Information notes
+</div></h4>
+<div class=" in" data-collapsible="true" id="agenda-english-2379"><div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-INF-1.pdf">EB 2016/<wbr/>119/<wbr/>INF.1</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Arrangements for the 119th session of the Executive Board</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-INF-2.pdf">EB 2016/<wbr/>119/<wbr/>INF.2</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Report on the signing of the third individual loan agreement under the KfW Framework Agreement</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-INF-3.pdf">EB 2016/<wbr/>119/<wbr/>INF.3</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Summary of project, programme and grant proposals discussed by the Executive Board</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-119.pdf">EB/<wbr/>119</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Minutes of the 119th session of the Executive Board</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<img alt="Security" data-swap-with="/members/assets/icons/16x16/security-off-3db194d5ca2f0a73742ea3f161040c2c.png" src="https://webapps.ifad.org/members/assets/icons/16x16/security-38cb83fd722dec2922bef8cf3d2002f2.png" url="true" />
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-Opening.pdf" rel="nofollow">EB 2016/<wbr/>119/<wbr/>Opening</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Opening remarks by the President</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<img alt="Security" data-swap-with="/members/assets/icons/16x16/security-off-3db194d5ca2f0a73742ea3f161040c2c.png" src="https://webapps.ifad.org/members/assets/icons/16x16/security-38cb83fd722dec2922bef8cf3d2002f2.png" url="true" />
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-Closing.pdf" rel="nofollow">EB 2016/<wbr/>119/<wbr/>Closing</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Closing remarks by the President</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+<div class='row documents'>
+<div class='col-lg-5 col-md-4 col-xs-12 code'>
+<img alt="Security" data-swap-with="/members/assets/icons/16x16/security-off-3db194d5ca2f0a73742ea3f161040c2c.png" src="https://webapps.ifad.org/members/assets/icons/16x16/security-38cb83fd722dec2922bef8cf3d2002f2.png" url="true" />
+<code><a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-Reflections.pdf" rel="nofollow">EB 2016/<wbr/>119/<wbr/>Reflections</a></code>
+
+
+</div>
+<div class='col-lg-7 col-md-8 col-xs-12' dir='ltr'>
+<p>Reflections of 10 years at IFAD</p>
+</div>
+<div class='col-md-12 visible-lg visible-md'>
+<hr>
+</div>
+</div>
+
+</div></div>
+</div>
+<div class='tab-pane ' id='french'></div>
+<div class='tab-pane ' id='spanish'></div>
+</div>
+</div>
+</div>
+<h3 class=" visible-sm visible-xs"><a data-target="#documents-useful" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Information for Meeting Participants
+</a></h3><h3 class=" visible-md visible-lg">Information for Meeting Participants
+</h3><div class=" in" data-collapsible="true" id="documents-useful"><ul class='nav nav-pills'>
+<li>
+<a data-source='/members/eb/119/docs/useful/arabic' data-toggle='tab' href='#useful_arabic' rel='nofollow'>Arabic</a>
+</li>
+<li class='active'>
+<a data-source='/members/eb/119/docs/useful/english' data-toggle='tab' href='#useful_english' rel='nofollow'>English</a>
+</li>
+<li>
+<a data-source='/members/eb/119/docs/useful/french' data-toggle='tab' href='#useful_french' rel='nofollow'>French</a>
+</li>
+<li>
+<a data-source='/members/eb/119/docs/useful/spanish' data-toggle='tab' href='#useful_spanish' rel='nofollow'>Spanish</a>
+</li>
+</ul>
+<div class='tab-content' dir='ltr'>
+<div class='tab-pane ' id='useful_arabic'></div>
+<div class='tab-pane active' id='useful_english'><div class='simple-documents' dir='ltr'>
+<p>
+<img alt="Security" data-swap-with="/members/assets/icons/16x16/security-off-3db194d5ca2f0a73742ea3f161040c2c.png" src="/members/assets/icons/16x16/security-38cb83fd722dec2922bef8cf3d2002f2.png" />
+<a href="https://webapps.ifad.org/members/eb/119/docs/Note-to-EB-Reps-on-Travel-Arrangements-e.pdf" rel="nofollow">Note to Executive Board representatives on Travel Arrangements and Alignment of Lodging Practices</a>
+
+</p>
+<p>
+<img alt="Security" data-swap-with="/members/assets/icons/16x16/security-off-3db194d5ca2f0a73742ea3f161040c2c.png" src="/members/assets/icons/16x16/security-38cb83fd722dec2922bef8cf3d2002f2.png" />
+<a href="https://webapps.ifad.org/members/eb/119/docs/Hotels-in-Rome-IFAD-Negotiated-Rates-2016.pdf" rel="nofollow">Hotels in Rome - Negotiated rates 2016</a>
+
+</p>
+<p>
+<a href="https://webapps.ifad.org/members/eb/119/docs/EB-2016-119-schedule-of-events-e.pdf">Tentative schedule of events</a>
+
+</p>
+</div>
+</div>
+<div class='tab-pane ' id='useful_french'></div>
+<div class='tab-pane ' id='useful_spanish'></div>
+</div>
+</div>
+<h3 class=" visible-sm visible-xs"><a data-target="#documents-invites" data-toggle="collapse" href="#"><i class="icon-caret-down"></i>Invitation Letters
+</a></h3><h3 class=" visible-md visible-lg">Invitation Letters
+</h3><div class=" in" data-collapsible="true" id="documents-invites"><ul class='nav nav-pills'>
+<li>
+<a data-source='/members/eb/119/docs/invites/arabic' data-toggle='tab' href='#invites_arabic' rel='nofollow'>Arabic</a>
+</li>
+<li class='active'>
+<a data-source='/members/eb/119/docs/invites/english' data-toggle='tab' href='#invites_english' rel='nofollow'>English</a>
+</li>
+<li>
+<a data-source='/members/eb/119/docs/invites/french' data-toggle='tab' href='#invites_french' rel='nofollow'>French</a>
+</li>
+<li>
+<a data-source='/members/eb/119/docs/invites/spanish' data-toggle='tab' href='#invites_spanish' rel='nofollow'>Spanish</a>
+</li>
+</ul>
+<div class='tab-content' dir='ltr'>
+<div class='tab-pane ' id='invites_arabic'></div>
+<div class='tab-pane active' id='invites_english'><div class='simple-documents' dir='ltr'>
+<p>
+<img alt="Security" data-swap-with="/members/assets/icons/16x16/security-off-3db194d5ca2f0a73742ea3f161040c2c.png" src="/members/assets/icons/16x16/security-38cb83fd722dec2922bef8cf3d2002f2.png" />
+<a href="https://webapps.ifad.org/members/eb/119/docs/EB-119-invitation-letter.pdf" rel="nofollow">Invitation to the 119th session of the Executive Board</a>
+
+</p>
+</div>
+</div>
+<div class='tab-pane ' id='invites_french'></div>
+<div class='tab-pane ' id='invites_spanish'></div>
+</div>
+</div>
+
+
+</div>
+</div>
+
+</div>
+<footer id='footer'>
+<div class='row'>
+<div class='col-md-7'>
+<h4>Useful information</h4>
+<ul class='list-unstyled'>
+<li><a href="http://www.ifad.org/contacts.htm" target="_blank"><i class="icon-help"></i>How to get to IFAD headquarters</a></li>
+<li><a href="/members/faq"><i class="icon-help"></i>Frequently asked questions (FAQs)</a></li>
+</ul>
+<h4>Hot links</h4>
+<ul class='list-unstyled'>
+<li><a href="https://www.ifad.org/web/guest/legal-documents" target="_blank"><i class="icon-pdf"></i>IFAD basic legal documents</a></li>
+<li><a href="/members/static/Governing-Bodies-Composition.pdf"><i class="icon-pdf"></i>Current Country Composition of the Executive Board and Official IFAD Committees</a></li>
+<li><a href="/members/static/Contributions-Voting-Rights.pdf"><i class="icon-pdf"></i>Contributions to IFAD&#x27;s Regular resources</a></li>
+<li><a href="/members/static/Countries-Voting-Rights.pdf"><i class="icon-pdf"></i>Voting rights of IFAD Member States</a></li>
+<li><a href="https://www.ifad.org/en/web/operations/operations-dashboard" target="_blank"><i class="icon-pdf"></i>IFAD Operations Dashboard</a></li>
+<li>
+<i class='icon-pdf'></i>
+Guidelines to Prevent Harassment, Sexual Harassment and Discrimination at IFAD Events
+</li>
+<li>
+<i></i>
+[<a href="https://www.ifad.org/documents/38711624/41372004/Arabic+Guidelines+on+Conduct+at+IFAD+Events+FINAL+CONSOLIDATED+November+2019.pdf/db05baf3-136a-fc4c-b634-67a27dbccdb2" target="_blank">Arabic</a>]
+[<a href="https://www.ifad.org/documents/38711624/41372004/guidelines_conduct_events.pdf/ef9100f1-21f2-832b-1756-0d7678c4f81f" target="_blank">English</a>]
+[<a href="https://www.ifad.org/documents/38711624/41372004/French+Guidelines+on+Conduct+at+IFAD+Events+FINAL+CONSOLIDATED+November+2019.pdf/e39be305-d649-3623-04e7-4553902b747d" target="_blank">French</a>]
+[<a href="https://www.ifad.org/documents/38711624/41372004/Spanish+Guidelines+on+Conduct+at+IFAD+Events+FINAL+CONSOLIDATED+November+2019.pdf/db35397e-228c-9258-019b-4a3c479562fc" target="_blank">Spanish</a>]
+</li>
+</ul>
+</div>
+<div class='col-md-5'>
+<h4>More IFAD</h4>
+<ul class='list-unstyled'>
+<li><a href="http://www.ifad.org" target="_blank"><i class="icon-ifad"></i>Official IFAD website &raquo;</a></li>
+<li><a href="http://www.facebook.com/IFAD" target="_blank"><i class="icon-fb"></i>IFAD Page on Facebook &raquo;</a></li>
+<li><a href="http://twitter.com/ifad" target="_blank"><i class="icon-tw"></i>Follow IFAD on Twitter &raquo;</a></li>
+<li><a href="http://www.youtube.com/user/IFADTV" target="_blank"><i class="icon-yt"></i>IFAD Channel on YouTube &raquo;</a></li>
+<li><a href="http://www.instagram.com/ifadnews" target="_blank"><i class="icon-in"></i>Follow IFAD on Instagram &raquo;</a></li>
+<li><a href="http://www.linkedin.com/company/ifad" target="_blank"><i class="icon-ln"></i>Follow IFAD on Linkedin &raquo;</a></li>
+</ul>
+<h4>Contact IFAD</h4>
+<ul class='list-unstyled'>
+<li><a href="mailto:secmailbox@ifad.org"><i class="icon-email"></i>Send your queries and requests for meetings with IFAD officials to secmailbox@ifad.org</a></li>
+</ul>
+</div>
+</div>
+</footer>
+
+
+</div>
+<script type="text/javascript">
+//<![CDATA[
+
+        var _gaq = [["_setAccount","UA-22244891-1"],["_trackPageview"]];
+        try {
+          (function(d,t,a) {
+            var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+            g[a]=a;g.src='https://ssl.google-analytics.com/ga.js';s.parentNode.insertBefore(g,s);
+          })(document, 'script', 'async');
+        } catch (err) {}
+      
+//]]>
+</script><noscript><img alt="" border="0" src="https://ssl.google-analytics.com/__utm.gif?utmn=8218165751&amp;utmac=UA-22244891-1&amp;utmhn=webapps.ifad.org&amp;utmr=-&amp;utmp=%2Fmembers%2Feb%2F119&amp;utmcc=__utma%3D39240984.1753834974.1682895076.1682895076.1682895076.2%3B%2B__utmz%3D39240984.1682895076.2.2.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none)%3B%2B__utmv%3D39240984.noscript%3B&amp;utmwv=1&amp;utmje=0&amp;utmsr=-&amp;utmsc=-&amp;utmul=-&amp;utmfl=-&amp;utmdt=-" /></noscript>
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["setDomains", ["*.webapps.ifad.org/members"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//piwik.ifad.org/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 13]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//piwik.ifad.org/piwik.php?idsite=13" style="border:0;" alt="" /></p></noscript>
+
+</body>
+</html>
